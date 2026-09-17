@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7d1108d2fba873b06a44f56b0e711354",
+      "storageType": 0,
+      "url": "/public/map/HitEmUp/nx/HitEmUp_MAIN_SCENE_NX.zip/7d1108d2fba873b06a44f56b0e711354.zip"
+    },
+    "pc": {
+      "md5": "896605fb87fa125ee3f3b0b829492109",
+      "storageType": 0,
+      "url": "/public/map/HitEmUp/pc/HitEmUp_MAIN_SCENE_PC.zip/896605fb87fa125ee3f3b0b829492109.zip"
+    },
+    "ps4": {
+      "md5": "9550f4f976928fe7f4e17d4304f0328a",
+      "storageType": 0,
+      "url": "/public/map/HitEmUp/orbis/HitEmUp_MAIN_SCENE_ORBIS.zip/9550f4f976928fe7f4e17d4304f0328a.zip"
+    }
+  },
+  "data": {
+    "mapName": "HitEmUp",
+    "title": "Hit 'Em Up Style (Oops!)",
+    "originalJDVersion": 4,
+    "tags": [
+      "Intense",
+      "Main",
+      "subscribedSong",
+      "JustDance4",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Blu Cantrell",
+    "credits": "Written by Dallas Austin.Published by EMI Blackwood Music Inc. (BMI). All rights reserved. Used by permission.Courtesy of The RCA Music Group, a unit of Sony Music Entertainment. By arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00c9b4",
+    "songColor2A": "#fff1c1",
+    "songColor1B": "#0d0065",
+    "songColor2B": "#ffcb00",
+    "lyricsColor": "#3ef2d9",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        43842,
+        75842,
+        107842,
+        139842,
+        171842,
+        203842,
+        235842,
+        267842,
+        299842,
+        331842,
+        363842,
+        395842,
+        427842,
+        459842,
+        491842,
+        523842,
+        555842,
+        587842,
+        619842,
+        651842,
+        683842,
+        715842,
+        747842,
+        779842,
+        811842,
+        843842,
+        875842,
+        907842,
+        939842,
+        971842,
+        1003842,
+        1035842,
+        1067842,
+        1099842,
+        1131842,
+        1163842,
+        1195842,
+        1227842,
+        1259842,
+        1291842,
+        1323842,
+        1355842,
+        1387842,
+        1419842,
+        1451842,
+        1483842,
+        1515842
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 343,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 45,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HitEmUp/HitEmUp_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HitEmUp/nx/HitEmUp_banner_bkg.tga.ckd/325d859fa419f896530658ba4a306724.ckd",
+      "map_bkgImageUrl": "/public/map/HitEmUp/nx/HitEmUp_map_bkg.tga.ckd/be24bfa26b261f814f2071d85a2d3faf.ckd",
+      "expandCoachImageUrl": "/public/map/HitEmUp/nx/HitEmUp_Cover_AlbumCoach.tga.ckd/63f2ab744791efedc992268c784a7e39.ckd",
+      "cover_smallImageUrl": "/public/map/HitEmUp/nx/HitEmUp_Cover_Online.tga.ckd/edf3fd6c9079fb22f1baeeb79cf449b9.ckd",
+      "coverImageUrl": "/public/map/HitEmUp/nx/HitEmUp_Cover_Generic.tga.ckd/5d493a7d2391927464a4d7a8ea3a7e7b.ckd",
+      "coach1ImageUrl": "/public/map/HitEmUp/nx/HitEmUp_Coach_1.tga.ckd/69081fcb1f6329650e017403aac4533d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HitEmUp/pc/HitEmUp_banner_bkg.tga.ckd/d29b3a92415053bb54b133c07cd57c92.ckd",
+      "map_bkgImageUrl": "/public/map/HitEmUp/pc/HitEmUp_map_bkg.tga.ckd/a6bc179a015f57309e554674bc62ca40.ckd",
+      "expandCoachImageUrl": "/public/map/HitEmUp/pc/HitEmUp_Cover_AlbumCoach.tga.ckd/dd50a204378f8df78dba35f5e250032e.ckd",
+      "cover_smallImageUrl": "/public/map/HitEmUp/pc/HitEmUp_Cover_Online.tga.ckd/a349aff453baebf4446ca51efe90d18d.ckd",
+      "coverImageUrl": "/public/map/HitEmUp/pc/HitEmUp_Cover_Generic.tga.ckd/edf5190058ebbad0e6e6f66195ebba56.ckd",
+      "coach1ImageUrl": "/public/map/HitEmUp/pc/HitEmUp_Coach_1.tga.ckd/ab73f851ee3992447b1afcad0c4b0838.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HitEmUp/orbis/HitEmUp_banner_bkg.tga.ckd/d29b3a92415053bb54b133c07cd57c92.ckd",
+      "map_bkgImageUrl": "/public/map/HitEmUp/orbis/HitEmUp_map_bkg.tga.ckd/a6bc179a015f57309e554674bc62ca40.ckd",
+      "expandCoachImageUrl": "/public/map/HitEmUp/orbis/HitEmUp_Cover_AlbumCoach.tga.ckd/dd50a204378f8df78dba35f5e250032e.ckd",
+      "cover_smallImageUrl": "/public/map/HitEmUp/orbis/HitEmUp_Cover_Online.tga.ckd/a349aff453baebf4446ca51efe90d18d.ckd",
+      "coverImageUrl": "/public/map/HitEmUp/orbis/HitEmUp_Cover_Generic.tga.ckd/edf5190058ebbad0e6e6f66195ebba56.ckd",
+      "coach1ImageUrl": "/public/map/HitEmUp/orbis/HitEmUp_Coach_1.tga.ckd/ab73f851ee3992447b1afcad0c4b0838.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HitEmUp/HitEmUp_Coach_1_Phone.png/1c9805bdaacb56c00b89c0e141a4a4fc.png",
+    "phoneCoverImageUrl": "/public/map/HitEmUp/HitEmUp_Cover_Phone.jpg/9865d3edc710f7171cc307a01f8d61f8.jpg",
+    "cover640ImageUrl": "/public/map/HitEmUp/HitEmUp_Cover_640.png/500e6c7ab5e2d9ba024c4178e5aee5c7.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HitEmUp/HitEmUp.ogg": "/private/map/HitEmUp/HitEmUp.ogg/d5c52a8f4e572958208415206ea2a638.ogg",
+    "jmcs://jd-contents/HitEmUp/HitEmUp_AudioPreview.ogg": "/public/map/HitEmUp/HitEmUp_AudioPreview.ogg/c845a723bc914fa6d6ac8a75a0e3c066.ogg",
+    "jmcs://jd-contents/HitEmUp/HitEmUp_HIGH.webm": "/private/map/HitEmUp/HitEmUp_HIGH.webm/b18a9e2f7d929a06a204e626e8373937.webm",
+    "jmcs://jd-contents/HitEmUp/HitEmUp_LOW.webm": "/private/map/HitEmUp/HitEmUp_LOW.webm/3b21f27fb91827b0c605f4fd82048b20.webm",
+    "jmcs://jd-contents/HitEmUp/HitEmUp_MID.webm": "/private/map/HitEmUp/HitEmUp_MID.webm/f01e19ec26ea0da6877e8616df7f547f.webm",
+    "jmcs://jd-contents/HitEmUp/HitEmUp_ULTRA.hd.webm": "/private/map/HitEmUp/HitEmUp_ULTRA.hd.webm/4bd552666c59a904b25169447c210853.webm",
+    "jmcs://jd-contents/HitEmUp/HitEmUp_ULTRA.webm": "/private/map/HitEmUp/HitEmUp_ULTRA.webm/4dde259f44239a691333be387564a928.webm",
+    "jmcs://jd-contents/HitEmUp/HitEmUp_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HitEmUp/HitEmUp_MapPreviewNoSoundCrop_LOW.vp8.webm/5b81fa016b3e1f8c4422aac006b1dfa2.webm",
+    "jmcs://jd-contents/HitEmUp/HitEmUp_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HitEmUp/HitEmUp_MapPreviewNoSoundCrop_MID.vp8.webm/eb865e89bee8f910181a6d784f050494.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495652\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HitEmUp/HitEmUp_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\n\t\t\t\t\t<Initialization range=\"0-630\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"886380\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HitEmUp/HitEmUp_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\n\t\t\t\t\t<Initialization range=\"0-631\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 229.38
+}

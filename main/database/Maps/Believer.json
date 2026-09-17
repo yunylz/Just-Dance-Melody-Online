@@ -1,0 +1,148 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Believer/Believer.ogg": "/private/map/Believer/Believer.ogg/b15e1d95fceece5de1b1f297c79d486f.ogg",
+    "jmcs://jd-contents/Believer/Believer_AudioPreview.ogg": "/public/map/Believer/Believer_AudioPreview.ogg/911f98b696766a4fc5b479328c5e1d6c.ogg",
+    "jmcs://jd-contents/Believer/Believer_HIGH.hd.webm": "/private/map/Believer/Believer_HIGH.hd.webm/3a0a6bf5984dbdcd439110a628670fb6.webm",
+    "jmcs://jd-contents/Believer/Believer_LOW.hd.webm": "/private/map/Believer/Believer_LOW.hd.webm/dd4e12c1adab517ef4eb4f27d4d43688.webm",
+    "jmcs://jd-contents/Believer/Believer_MID.hd.webm": "/private/map/Believer/Believer_MID.hd.webm/daf68759f6f6a26adee0d3d17d5d7c16.webm",
+    "jmcs://jd-contents/Believer/Believer_ULTRA.hd.webm": "/private/map/Believer/Believer_ULTRA.hd.webm/0cf583f69ff16b0792b6ff82742cbf73.webm",
+    "jmcs://jd-contents/Believer/Believer_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Believer/Believer_MapPreviewNoSoundCrop_LOW.vp8.webm/dfd02241986bf0efc37a9b8f448b67ff.webm",
+    "jmcs://jd-contents/Believer/Believer_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Believer/Believer_MapPreviewNoSoundCrop_MID.vp8.webm/50b16110321a78e1e1d4dc5d2d819df9.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        46080,
+        92160,
+        138240,
+        184320,
+        230400,
+        276480,
+        322560,
+        368640,
+        414720,
+        460800,
+        506880,
+        552960,
+        599040,
+        645120,
+        691200,
+        737280,
+        783360,
+        829440,
+        875520,
+        921600,
+        967680,
+        1013760,
+        1059840,
+        1105920,
+        1152000,
+        1198080,
+        1244160,
+        1290240,
+        1336320,
+        1382400,
+        1428480,
+        1474560,
+        1520640
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 212,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 31,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Believer/Believer_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "6a95af975c0f0f5c640f2323a7bec8fd",
+      "storageType": 0,
+      "url": "/public/map/Believer/nx/Believer_MAIN_SCENE_NX.zip/6a95af975c0f0f5c640f2323a7bec8fd.zip"
+    },
+    "pc": {
+      "md5": "9762466257a8f7fb7bb3835b2721c5c5",
+      "storageType": 0,
+      "url": "/public/map/Believer/pc/Believer_MAIN_SCENE_PC.zip/9762466257a8f7fb7bb3835b2721c5c5.zip"
+    },
+    "ps4": {
+      "md5": "4f50a6de3a3d193ed943520a3ff87680",
+      "storageType": 0,
+      "url": "/public/map/Believer/orbis/Believer_MAIN_SCENE_ORBIS.zip/4f50a6de3a3d193ed943520a3ff87680.zip"
+    }
+  },
+  "data": {
+    "mapName": "Believer",
+    "title": "Believer",
+    "originalJDVersion": 2022,
+    "tags": [
+      "main"
+    ],
+    "artist": "Imagine Dragons",
+    "credits": " Written by Daniel Wayne Sermon, Daniel Coulter Reynolds, Benjamin Arthur McKee, Daniel James Platzman, Robin Lennart Fredriksson, Mattias Larsson and Justin Tranter. Published by WOLF COUSINS (STIM), Shamrock pub designee (BMI), WARNER CHAPPELL MUSIC SCANDINAVIA AB (STIM) and MA-JAY PUBLISHING (STIM). All rights on behalf of WOLF COUSINS, WARNER CHAPPELL MUSIC SCANDINAVIA AB and MA-JAY PUBLISHING administered by WC Music Corp. All rights on behalf of Shamrock pub designee administered by Warner-Tamerlane Publishing Corp. / Universal Music Publishing Canada on behalf of Imagine Dragons Publishing and Songs Of Universal, Inc. Courtesy of KIDinaKORNER/Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#fbd241",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Believer/nx/Believer_banner_bkg.tga.ckd/85ae8b583a845c92c0db6ba7bfa6b540.ckd",
+      "map_bkgImageUrl": "/public/map/Believer/nx/Believer_map_bkg.tga.ckd/9a1dd8accfdad320b930e564de77d1ae.ckd",
+      "expandCoachImageUrl": "/public/map/Believer/nx/Believer_Cover_AlbumCoach.tga.ckd/1341bb75de5f12e0f865dd77d5b108ea.ckd",
+      "cover_smallImageUrl": "/public/map/Believer/nx/Believer_Cover_Online.tga.ckd/b676fcc096f5ede4c71bb823946a11c7.ckd",
+      "coverImageUrl": "/public/map/Believer/nx/Believer_Cover_Generic.tga.ckd/303e464fd365dfd86f01b02cce4ba9d0.ckd",
+      "coach1ImageUrl": "/public/map/Believer/nx/Believer_Coach_1.tga.ckd/4adfd806cbc60dee829d28d89683c349.ckd",
+      "coach2ImageUrl": "/public/map/Believer/nx/Believer_Coach_2.tga.ckd/eacb6a8a6ca088c9e8482256ca47e500.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Believer/pc/Believer_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/Believer/pc/Believer_map_bkg.tga.ckd/ffc5295ee31e4cce8703eb4428acb0cd.ckd",
+      "expandCoachImageUrl": "/public/map/Believer/pc/Believer_Cover_AlbumCoach.tga.ckd/aba3f6ced1ed237bba48a50e3afc77ed.ckd",
+      "cover_smallImageUrl": "/public/map/Believer/pc/Believer_Cover_Online.tga.ckd/f01af830f72ebf31e1fcbd7acc02fec3.ckd",
+      "coverImageUrl": "/public/map/Believer/pc/Believer_Cover_Generic.tga.ckd/ccf430e6f11bd29b81e981ae0cb84ffe.ckd",
+      "coach1ImageUrl": "/public/map/Believer/pc/Believer_Coach_1.tga.ckd/606e0e7e75b4b0d76af21b9fb9deabd2.ckd",
+      "coach2ImageUrl": "/public/map/Believer/pc/Believer_Coach_2.tga.ckd/be8deea7e9197b86d34c982f73e74e13.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Believer/orbis/Believer_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/Believer/orbis/Believer_map_bkg.tga.ckd/ffc5295ee31e4cce8703eb4428acb0cd.ckd",
+      "expandCoachImageUrl": "/public/map/Believer/orbis/Believer_Cover_AlbumCoach.tga.ckd/aba3f6ced1ed237bba48a50e3afc77ed.ckd",
+      "cover_smallImageUrl": "/public/map/Believer/orbis/Believer_Cover_Online.tga.ckd/f01af830f72ebf31e1fcbd7acc02fec3.ckd",
+      "coverImageUrl": "/public/map/Believer/orbis/Believer_Cover_Generic.tga.ckd/ccf430e6f11bd29b81e981ae0cb84ffe.ckd",
+      "coach1ImageUrl": "/public/map/Believer/orbis/Believer_Coach_1.tga.ckd/606e0e7e75b4b0d76af21b9fb9deabd2.ckd",
+      "coach2ImageUrl": "/public/map/Believer/orbis/Believer_Coach_2.tga.ckd/be8deea7e9197b86d34c982f73e74e13.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Believer/Believer_Coach_1_Phone.png/81bfb08db0a02f802eaeefb2dfb21b82.png",
+    "phoneCoach2ImageUrl": "/public/map/Believer/Believer_Coach_2_Phone.png/ef5da8c5f77ef8fa8426b038757605c1.png",
+    "phoneCoverImageUrl": "/public/map/Believer/Believer_Cover_Phone.jpg/b64c93419321b7626c32d1abdb48ae49.jpg",
+    "cover640ImageUrl": "/public/map/Believer/Believer_Cover_640.png/1b5c13d900c8f7d4362b462ce947fe14.png"
+  },
+  "mapLength": 208.32
+}

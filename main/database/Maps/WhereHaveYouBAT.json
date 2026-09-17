@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d2c3037540ef1a4281e17e984132b1d0",
+      "storageType": 0,
+      "url": "/public/map/WhereHaveYouBAT/nx/WhereHaveYouBAT_MAIN_SCENE_NX.zip/d2c3037540ef1a4281e17e984132b1d0.zip"
+    },
+    "pc": {
+      "md5": "6bd5b3c7a48f27e4f90fd67922ab4516",
+      "storageType": 0,
+      "url": "/public/map/WhereHaveYouBAT/pc/WhereHaveYouBAT_MAIN_SCENE_PC.zip/6bd5b3c7a48f27e4f90fd67922ab4516.zip"
+    },
+    "ps4": {
+      "md5": "9c954bbdfcef68dbe0c9ee578d4d51d8",
+      "storageType": 0,
+      "url": "/public/map/WhereHaveYouBAT/orbis/WhereHaveYouBAT_MAIN_SCENE_ORBIS.zip/9c954bbdfcef68dbe0c9ee578d4d51d8.zip"
+    }
+  },
+  "data": {
+    "mapName": "WhereHaveYouBAT",
+    "title": "Where Have You Been",
+    "originalJDVersion": 2014,
+    "tags": [
+      "main"
+    ],
+    "artist": "Rihanna",
+    "credits": "",
+    "coachCount": 2,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff650c"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67487,
+        89999,
+        112511,
+        135023,
+        157487,
+        179999,
+        202510,
+        225022,
+        247486,
+        269998,
+        292510,
+        315022,
+        337486,
+        359998,
+        382509,
+        405021,
+        427485,
+        449997,
+        472509,
+        495021,
+        517485,
+        539997,
+        562509,
+        585020,
+        607484,
+        629996,
+        652508,
+        675020,
+        697484,
+        719996,
+        742508,
+        765019,
+        787483,
+        809995,
+        832507,
+        855019,
+        877483,
+        899995,
+        922507,
+        945019,
+        967482,
+        989994,
+        1012506,
+        1035018,
+        1057482,
+        1079994,
+        1102506,
+        1125018,
+        1147481,
+        1169993,
+        1192505,
+        1215017,
+        1237481,
+        1259993,
+        1282505,
+        1305017,
+        1327480,
+        1349992,
+        1372504,
+        1395016,
+        1417480,
+        1439992,
+        1462504,
+        1485016
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 314,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WhereHaveYouBAT/WhereHaveYouBAT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WhereHaveYouBAT/nx/WhereHaveYouBAT_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/WhereHaveYouBAT/nx/WhereHaveYouBAT_map_bkg.tga.ckd/78e82cfd57757def56ce46d9d99576b7.ckd",
+      "expandCoachImageUrl": "/public/map/WhereHaveYouBAT/nx/WhereHaveYouBAT_Cover_AlbumCoach.tga.ckd/759e7566e1aba1cea10cc3ec99bfe828.ckd",
+      "cover_smallImageUrl": "/public/map/WhereHaveYouBAT/nx/WhereHaveYouBAT_Cover_Online.tga.ckd/cd90025c4de11535a1c6c678c89e1034.ckd",
+      "coach1ImageUrl": "/public/map/WhereHaveYouBAT/nx/WhereHaveYouBAT_Coach_1.tga.ckd/444020e01867e6719e1e1e9333f176ab.ckd",
+      "coach2ImageUrl": "/public/map/WhereHaveYouBAT/nx/WhereHaveYouBAT_Coach_2.tga.ckd/6e29e38deaf795115295bdb01f4deff6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WhereHaveYouBAT/pc/WhereHaveYouBAT_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/WhereHaveYouBAT/pc/WhereHaveYouBAT_map_bkg.tga.ckd/8394157db9053d233d1b0c098e913153.ckd",
+      "expandCoachImageUrl": "/public/map/WhereHaveYouBAT/pc/WhereHaveYouBAT_Cover_AlbumCoach.tga.ckd/8c6f7ed04bc580c28a06f240d834a27c.ckd",
+      "cover_smallImageUrl": "/public/map/WhereHaveYouBAT/pc/WhereHaveYouBAT_Cover_Online.tga.ckd/2e14c40972d34d103f464b2945afd688.ckd",
+      "coach1ImageUrl": "/public/map/WhereHaveYouBAT/pc/WhereHaveYouBAT_Coach_1.tga.ckd/74d083f68234b50e7a59a55658e4b97c.ckd",
+      "coach2ImageUrl": "/public/map/WhereHaveYouBAT/pc/WhereHaveYouBAT_Coach_2.tga.ckd/419bde013dd14e24ef3eeaf797e386d2.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WhereHaveYouBAT/orbis/WhereHaveYouBAT_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/WhereHaveYouBAT/orbis/WhereHaveYouBAT_map_bkg.tga.ckd/8394157db9053d233d1b0c098e913153.ckd",
+      "expandCoachImageUrl": "/public/map/WhereHaveYouBAT/orbis/WhereHaveYouBAT_Cover_AlbumCoach.tga.ckd/8c6f7ed04bc580c28a06f240d834a27c.ckd",
+      "cover_smallImageUrl": "/public/map/WhereHaveYouBAT/orbis/WhereHaveYouBAT_Cover_Online.tga.ckd/2e14c40972d34d103f464b2945afd688.ckd",
+      "coach1ImageUrl": "/public/map/WhereHaveYouBAT/orbis/WhereHaveYouBAT_Coach_1.tga.ckd/74d083f68234b50e7a59a55658e4b97c.ckd",
+      "coach2ImageUrl": "/public/map/WhereHaveYouBAT/orbis/WhereHaveYouBAT_Coach_2.tga.ckd/419bde013dd14e24ef3eeaf797e386d2.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WhereHaveYouBAT/WhereHaveYouBAT_Coach_1_Phone.png/d6f2ccfed5ddafc14b5599d95df496a5.png",
+    "phoneCoach2ImageUrl": "/public/map/WhereHaveYouBAT/WhereHaveYouBAT_Coach_2_Phone.png/4b240741a27c597ae309fafde8dd9074.png",
+    "phoneCoverImageUrl": "/public/map/WhereHaveYouBAT/WhereHaveYouBAT_Cover_Phone.jpg/b26bd5ded6c6eee2ae2e52d83e253bab.jpg",
+    "cover640ImageUrl": "/public/map/WhereHaveYouBAT/WhereHaveYouBAT_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/WhereHaveYouBAT/WhereHaveYouBAT.ogg": "/private/map/WhereHaveYouBAT/WhereHaveYouBAT.ogg/c8674dd3cb977e35027c1e2eaf9d54ff.ogg",
+    "jmcs://jd-contents/WhereHaveYouBAT/WhereHaveYouBAT_AudioPreview.ogg": "/public/map/WhereHaveYouBAT/WhereHaveYouBAT_AudioPreview.ogg/c17099b5e336353c89d559e0da8ddce7.ogg",
+    "jmcs://jd-contents/WhereHaveYouBAT/WhereHaveYouBAT_HIGH.webm": "/private/map/WhereHaveYouBAT/WhereHaveYouBAT_HIGH.webm/b39d8aed0b5d9e0ad61b0b75899d7955.webm",
+    "jmcs://jd-contents/WhereHaveYouBAT/WhereHaveYouBAT_LOW.webm": "/private/map/WhereHaveYouBAT/WhereHaveYouBAT_LOW.webm/ec8ba831c65a3fa3e6021336682965ac.webm",
+    "jmcs://jd-contents/WhereHaveYouBAT/WhereHaveYouBAT_MID.webm": "/private/map/WhereHaveYouBAT/WhereHaveYouBAT_MID.webm/5767979db48807272664d668a2f5ad13.webm",
+    "jmcs://jd-contents/WhereHaveYouBAT/WhereHaveYouBAT_ULTRA.webm": "/private/map/WhereHaveYouBAT/WhereHaveYouBAT_ULTRA.webm/b2feee9173e8c0eb829b52b5824ccca1.webm",
+    "jmcs://jd-contents/WhereHaveYouBAT/WhereHaveYouBAT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WhereHaveYouBAT/WhereHaveYouBAT_MapPreviewNoSoundCrop_LOW.vp8.webm/76823f6cdebd5bb94189d9394ff8df69.webm",
+    "jmcs://jd-contents/WhereHaveYouBAT/WhereHaveYouBAT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WhereHaveYouBAT/WhereHaveYouBAT_MapPreviewNoSoundCrop_MID.vp8.webm/eb9ce452cbbffcd187b9298c8362de0c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"508449\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereHaveYouBAT/WhereHaveYouBAT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1486088\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereHaveYouBAT/WhereHaveYouBAT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 174.186667
+}

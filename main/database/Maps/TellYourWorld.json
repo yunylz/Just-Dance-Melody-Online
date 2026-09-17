@@ -1,0 +1,171 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "064b8640d13ec982e0635f254d3e432c",
+      "storageType": 0,
+      "url": "/public/map/TellYourWorld/nx/TellYourWorld_MAIN_SCENE_NX.zip/064b8640d13ec982e0635f254d3e432c.zip"
+    },
+    "pc": {
+      "md5": "dd95c9cecfe83d2ebac444c6d87b4c9e",
+      "storageType": 0,
+      "url": "/public/map/TellYourWorld/pc/TellYourWorld_MAIN_SCENE_PC.zip/dd95c9cecfe83d2ebac444c6d87b4c9e.zip"
+    },
+    "ps4": {
+      "md5": "562eb7c30a5d2c49d9540d2f9197c9c7",
+      "storageType": 0,
+      "url": "/public/map/TellYourWorld/orbis/TellYourWorld_MAIN_SCENE_ORBIS.zip/562eb7c30a5d2c49d9540d2f9197c9c7.zip"
+    }
+  },
+  "data": {
+    "mapName": "TellYourWorld",
+    "title": "Tell Your World",
+    "originalJDVersion": 5,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "livetune feat. 初音ミク",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#0CF1FB",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        38400,
+        76800,
+        115200,
+        153600,
+        192000,
+        230400,
+        268800,
+        307200,
+        345600,
+        384000,
+        422400,
+        460800,
+        499200,
+        537600,
+        576000,
+        614400,
+        652800,
+        691200,
+        729600,
+        768000,
+        806400,
+        844800,
+        883200,
+        921600,
+        960000,
+        998400,
+        1036800,
+        1075200,
+        1113600,
+        1152000,
+        1190400,
+        1228800,
+        1267200,
+        1305600,
+        1344000,
+        1382400,
+        1420800
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 2
+        },
+        {
+          "__class": "MusicSignature",
+          "marker": 1,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 320,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 37,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/tellyourworld/tellyourworld_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "cover_smallImageUrl": "/public/map/TellYourWorld/nx/TellYourWorld_Cover_Online.tga.ckd/5d7b8be4bcdfd051b157a71feb75be52.ckd",
+      "coverImageUrl": "/public/map/TellYourWorld/nx/TellYourWorld_Cover_Generic.tga.ckd/417797e905abba4dbfa78c43d087b83e.ckd",
+      "expandCoachImageUrl": "/public/map/TellYourWorld/nx/TellYourWorld_Cover_AlbumCoach.tga.ckd/8963c917ba1db1d6dee7a5904edbbd29.ckd",
+      "map_bkgImageUrl": "/public/map/TellYourWorld/nx/TellYourWorld_map_bkg.tga.ckd/ef8062487f7cacf6a8165f43227020dd.ckd",
+      "banner_bkgImageUrl": "/public/map/TellYourWorld/nx/TellYourWorld_banner_bkg.tga.ckd/65d5ae0d9c6778cfb419cbe7c6858372.ckd",
+      "coach1ImageUrl": "/public/map/TellYourWorld/nx/TellYourWorld_Coach_1.tga.ckd/6c9a9ae6d39d99bd67256bcc6c5b35a5.ckd",
+      "phoneCoverImageUrl": "/public/map/TellYourWorld/TellYourWorld_Cover_Phone.jpg/0112757a4090179893ea3a7bb79a47ca.jpg",
+      "phoneCoach1ImageUrl": "/public/map/TellYourWorld/TellYourWorld_Coach_1_Phone.png/a7e75a3cea102d193a52a75458924570.png",
+      "cover640ImageUrl": "/public/map/TellYourWorld/TellYourWorld_Cover_640.png/04696b57e3f4234e9cb5d2c301caa37b.png"
+    },
+    "pc": {
+      "cover_smallImageUrl": "/public/map/TellYourWorld/pc/TellYourWorld_Cover_Online.tga.ckd/c6da1a714577acae35a331c042e7942b.ckd",
+      "coverImageUrl": "/public/map/TellYourWorld/pc/TellYourWorld_Cover_Generic.tga.ckd/922a99c0f5b3f065ee2e9cf89f74dd2a.ckd",
+      "expandCoachImageUrl": "/public/map/TellYourWorld/pc/TellYourWorld_Cover_AlbumCoach.tga.ckd/944b32e8f74140fa4c481f6ecc6a1126.ckd",
+      "map_bkgImageUrl": "/public/map/TellYourWorld/pc/TellYourWorld_map_bkg.tga.ckd/0a277410aeb8ac2a72e27e204b627bfe.ckd",
+      "banner_bkgImageUrl": "/public/map/TellYourWorld/pc/TellYourWorld_banner_bkg.tga.ckd/3eca98c0bcf537d927c81f2c27f796da.ckd",
+      "coach1ImageUrl": "/public/map/TellYourWorld/pc/TellYourWorld_Coach_1.tga.ckd/94b1e7c63a674cfc5f6ea8d0e4f3a6df.ckd",
+      "phoneCoverImageUrl": "/public/map/TellYourWorld/TellYourWorld_Cover_Phone.jpg/0112757a4090179893ea3a7bb79a47ca.jpg",
+      "phoneCoach1ImageUrl": "/public/map/TellYourWorld/TellYourWorld_Coach_1_Phone.png/a7e75a3cea102d193a52a75458924570.png",
+      "cover640ImageUrl": "/public/map/TellYourWorld/TellYourWorld_Cover_640.png/04696b57e3f4234e9cb5d2c301caa37b.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/TellYourWorld/orbis/TellYourWorld_Cover_Online.tga.ckd/c6da1a714577acae35a331c042e7942b.ckd",
+      "coverImageUrl": "/public/map/TellYourWorld/orbis/TellYourWorld_Cover_Generic.tga.ckd/922a99c0f5b3f065ee2e9cf89f74dd2a.ckd",
+      "expandCoachImageUrl": "/public/map/TellYourWorld/orbis/TellYourWorld_Cover_AlbumCoach.tga.ckd/36d2f31e2c39da9e29b29ceaeca5557d.ckd",
+      "map_bkgImageUrl": "/public/map/TellYourWorld/orbis/TellYourWorld_map_bkg.tga.ckd/0a277410aeb8ac2a72e27e204b627bfe.ckd",
+      "banner_bkgImageUrl": "/public/map/TellYourWorld/orbis/TellYourWorld_banner_bkg.tga.ckd/3eca98c0bcf537d927c81f2c27f796da.ckd",
+      "coach1ImageUrl": "/public/map/TellYourWorld/orbis/TellYourWorld_Coach_1.tga.ckd/998ea09a323775a4dd8c771b2cbe6733.ckd",
+      "phoneCoverImageUrl": "/public/map/TellYourWorld/TellYourWorld_Cover_Phone.jpg/0112757a4090179893ea3a7bb79a47ca.jpg",
+      "phoneCoach1ImageUrl": "/public/map/TellYourWorld/TellYourWorld_Coach_1_Phone.png/a7e75a3cea102d193a52a75458924570.png",
+      "cover640ImageUrl": "/public/map/TellYourWorld/TellYourWorld_Cover_640.png/04696b57e3f4234e9cb5d2c301caa37b.png"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TellYourWorld/TellYourWorld_Coach_1_Phone.png/fd53f0adfc0013ba687d6fcb7405dffb.png",
+    "phoneCoverImageUrl": "/public/map/TellYourWorld/TellYourWorld_Cover_Phone.jpg/474daa686235435a8dd3f9ce747ba87b.jpg",
+    "cover640ImageUrl": "/public/map/TellYourWorld/TellYourWorld_Cover_640.png/083667fadd32b6bf40ffcfefa650521f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld.ogg": "/private/map/TellYourWorld/TellYourWorld.ogg/f23c6a413567fdb30b2a277a84675570.ogg",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_AudioPreview.ogg": "/public/map/TellYourWorld/TellYourWorld_AudioPreview.ogg/3f8a19e1951eba4128db9adb897c271f.ogg",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_HIGH.webm": "/private/map/TellYourWorld/TellYourWorld_HIGH.webm/bf62a106abed017b27f9abc0228998ea.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_LOW.webm": "/private/map/TellYourWorld/TellYourWorld_LOW.webm/487a1b2b1075c0384b9e5bfc936cefe6.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MID.webm": "/private/map/TellYourWorld/TellYourWorld_MID.webm/94279f1abda4bb9abb8a88859d17bff4.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_ULTRA.webm": "/private/map/TellYourWorld/TellYourWorld_ULTRA.webm/3417a142d7b4520ece2f0023da7cebbb.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_LOW.vp8.webm/fbcf6517694c4fe569d43d2751f388b7.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_MID.vp8.webm/19bb20fd782ff75538bf49dcebab99db.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_HIGH.vp8.webm/df30e78fb3f6566e8e249e11506233f0.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_ULTRA.vp8.webm/41a8074b699eab66268d133cb65a3c73.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_ULTRA.hd.webm": "/private/map/TellYourWorld/TellYourWorld_ULTRA.hd.webm/c188354b61df86581537b85644a558a2.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_HIGH.hd.webm": "/private/map/TellYourWorld/TellYourWorld_HIGH.hd.webm/88454202cb75e3e23827a1e4838e792f.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_MID.hd.webm": "/private/map/TellYourWorld/TellYourWorld_MID.hd.webm/e32860e48f505d953b93a264741e6795.webm",
+    "jmcs://jd-contents/TellYourWorld/TellYourWorld_LOW.hd.webm": "/private/map/TellYourWorld/TellYourWorld_LOW.hd.webm/93f1d64ced198a81ef52868f0982f253.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"643710\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"710-1200\">\n\t\t\t\t\t<Initialization range=\"0-710\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1471743\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"710-1200\">\n\t\t\t\t\t<Initialization range=\"0-710\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2912174\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"710-1200\">\n\t\t\t\t\t<Initialization range=\"0-710\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"4400051\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TellYourWorld/TellYourWorld_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"710-1200\">\n\t\t\t\t\t<Initialization range=\"0-710\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 256
+}

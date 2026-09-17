@@ -1,0 +1,162 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey.ogg": "/private/map/DanceMonkey/DanceMonkey.ogg/4fa3428aca9314d869f6cfd133e0cbf1.ogg",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_AudioPreview.ogg": "/public/map/DanceMonkey/DanceMonkey_AudioPreview.ogg/192e603de48be1a77ccd9cce1dba2bff.ogg",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_HIGH.hd.webm": "/private/map/DanceMonkey/DanceMonkey_HIGH.hd.webm/dfbc0bd7ea399d4d25a98bad7cc083a5.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_LOW.hd.webm": "/private/map/DanceMonkey/DanceMonkey_LOW.hd.webm/8551136bccea46ce4dcf502811727d78.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_MID.hd.webm": "/private/map/DanceMonkey/DanceMonkey_MID.hd.webm/6daa03a9705ee6097edc40eee91056e5.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_ULTRA.hd.webm": "/private/map/DanceMonkey/DanceMonkey_ULTRA.hd.webm/5e5f30f92d5aca96090be1953f582f69.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_LOW.vp8.webm/fb5f7d8f526f008bb806a6a4e4c014c8.webm",
+    "jmcs://jd-contents/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DanceMonkey/DanceMonkey_MapPreviewNoSoundCrop_MID.vp8.webm/dca0f2892c6b6205f2fc185a237127eb.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29388,
+        58776,
+        88163,
+        117551,
+        146939,
+        176327,
+        205714,
+        235102,
+        264490,
+        293878,
+        323265,
+        352653,
+        382041,
+        411429,
+        440816,
+        470204,
+        499592,
+        528980,
+        558367,
+        587755,
+        617143,
+        646531,
+        675918,
+        705306,
+        734694,
+        764082,
+        793469,
+        822857,
+        852245,
+        881633,
+        911020,
+        940408,
+        969796,
+        999184,
+        1028571,
+        1057959,
+        1087347,
+        1116735,
+        1146122,
+        1175510,
+        1204898,
+        1234286,
+        1263673,
+        1293061,
+        1322449,
+        1351837,
+        1383485,
+        1415485,
+        1444873,
+        1474261,
+        1503648
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 343,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DanceMonkey/DanceMonkey_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "a03a3d202f7f871e7640bda53fd0cfbd",
+      "storageType": 0,
+      "url": "/public/map/DanceMonkey/nx/DanceMonkey_MAIN_SCENE_NX.zip/a03a3d202f7f871e7640bda53fd0cfbd.zip"
+    },
+    "pc": {
+      "md5": "45f5d6562069f8f3e5be93a692589cb9",
+      "storageType": 0,
+      "url": "/public/map/DanceMonkey/pc/DanceMonkey_MAIN_SCENE_PC.zip/45f5d6562069f8f3e5be93a692589cb9.zip"
+    },
+    "ps4": {
+      "md5": "3472965fbe6d6455c85235ee688cb645",
+      "storageType": 0,
+      "url": "/public/map/DanceMonkey/orbis/DanceMonkey_MAIN_SCENE_ORBIS.zip/3472965fbe6d6455c85235ee688cb645.zip"
+    }
+  },
+  "data": {
+    "mapName": "DanceMonkey",
+    "title": "Dance Monkey",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "Tones And I",
+    "credits": "Written by Toni Watson. Published by Tones and I pub designee (ASCAP). All rights administered by WC Music Corp. Courtesy of Elektra Records. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#c458eb",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DanceMonkey/nx/DanceMonkey_banner_bkg.tga.ckd/15795b942b11f45d2b0d0c1fc3dfe7d4.ckd",
+      "map_bkgImageUrl": "/public/map/DanceMonkey/nx/DanceMonkey_map_bkg.tga.ckd/1232ce8f061e877e39ec41069db55d32.ckd",
+      "expandCoachImageUrl": "/public/map/DanceMonkey/nx/DanceMonkey_Cover_AlbumCoach.tga.ckd/dfd61326618bfea99af1c86579e103c8.ckd",
+      "cover_smallImageUrl": "/public/map/DanceMonkey/nx/DanceMonkey_Cover_Online.tga.ckd/4c7124f3e288e0692cb49c2f4687ba1c.ckd",
+      "coverImageUrl": "/public/map/DanceMonkey/nx/DanceMonkey_Cover_Generic.tga.ckd/c0e429d04205b8bd7b516ec500c78f7e.ckd",
+      "coach1ImageUrl": "/public/map/DanceMonkey/nx/DanceMonkey_Coach_1.tga.ckd/bb871a81498692c4bed401490aa48c58.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DanceMonkey/pc/DanceMonkey_banner_bkg.tga.ckd/d6c9a198fb294676e13eca0f52f4d375.ckd",
+      "map_bkgImageUrl": "/public/map/DanceMonkey/pc/DanceMonkey_map_bkg.tga.ckd/5d056cb4a3abbcb989a51592d69a2703.ckd",
+      "expandCoachImageUrl": "/public/map/DanceMonkey/pc/DanceMonkey_Cover_AlbumCoach.tga.ckd/a7c0c1bed683164530a3a3273f9004ef.ckd",
+      "cover_smallImageUrl": "/public/map/DanceMonkey/pc/DanceMonkey_Cover_Online.tga.ckd/a2df05fce67d7fe6ca63a123e29adc18.ckd",
+      "coverImageUrl": "/public/map/DanceMonkey/pc/DanceMonkey_Cover_Generic.tga.ckd/2a101379ed4ce4a3741978eac07fd6f9.ckd",
+      "coach1ImageUrl": "/public/map/DanceMonkey/pc/DanceMonkey_Coach_1.tga.ckd/341da8a50425e137277b0508ed399e99.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DanceMonkey/orbis/DanceMonkey_banner_bkg.tga.ckd/d6c9a198fb294676e13eca0f52f4d375.ckd",
+      "map_bkgImageUrl": "/public/map/DanceMonkey/orbis/DanceMonkey_map_bkg.tga.ckd/5d056cb4a3abbcb989a51592d69a2703.ckd",
+      "expandCoachImageUrl": "/public/map/DanceMonkey/orbis/DanceMonkey_Cover_AlbumCoach.tga.ckd/a7c0c1bed683164530a3a3273f9004ef.ckd",
+      "cover_smallImageUrl": "/public/map/DanceMonkey/orbis/DanceMonkey_Cover_Online.tga.ckd/a2df05fce67d7fe6ca63a123e29adc18.ckd",
+      "coverImageUrl": "/public/map/DanceMonkey/orbis/DanceMonkey_Cover_Generic.tga.ckd/2a101379ed4ce4a3741978eac07fd6f9.ckd",
+      "coach1ImageUrl": "/public/map/DanceMonkey/orbis/DanceMonkey_Coach_1.tga.ckd/341da8a50425e137277b0508ed399e99.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DanceMonkey/DanceMonkey_Coach_1_Phone.png/ef5e9d0aeb094daa10ca08fc4d06c198.png",
+    "phoneCoverImageUrl": "/public/map/DanceMonkey/DanceMonkey_Cover_Phone.jpg/60120d995f0d3898aea2ab3c9c723200.jpg",
+    "cover640ImageUrl": "/public/map/DanceMonkey/DanceMonkey_Cover_640.png/9f2c3fe50614ae6e074ca799c789a4af.png"
+  },
+  "mapLength": 211.938188
+}

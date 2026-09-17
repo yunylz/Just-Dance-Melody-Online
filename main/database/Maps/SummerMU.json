@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "61e7ee281a222871142fab9ad1383545",
+      "storageType": 0,
+      "url": "/public/map/SummerMU/nx/SummerMU_MAIN_SCENE_NX.zip/61e7ee281a222871142fab9ad1383545.zip"
+    },
+    "pc": {
+      "md5": "6de208e79cfc4ba402ac4808c9fba814",
+      "storageType": 0,
+      "url": "/public/map/SummerMU/pc/SummerMU_MAIN_SCENE_PC.zip/6de208e79cfc4ba402ac4808c9fba814.zip"
+    },
+    "ps4": {
+      "md5": "a538594671c492231f3df594f0fe285a",
+      "storageType": 0,
+      "url": "/public/map/SummerMU/orbis/SummerMU_MAIN_SCENE_ORBIS.zip/a538594671c492231f3df594f0fe285a.zip"
+    }
+  },
+  "data": {
+    "mapName": "SummerMU",
+    "title": "Summer",
+    "originalJDVersion": 2015,
+    "tags": [
+      "mashup",
+      "subscribedSong",
+      "JustDance2015",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Calvin Harris",
+    "credits": "Courtesy of Sony Music Entertainment (UK) Ltd. By arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#d71ec2",
+    "songColor2A": "#f4c238",
+    "songColor1B": "#58031b",
+    "songColor2B": "#000000",
+    "lyricsColor": "#fa3599",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67488,
+        90000,
+        112511,
+        135024,
+        157488,
+        180000,
+        202511,
+        225023,
+        247488,
+        270000,
+        292511,
+        315023,
+        337488,
+        360000,
+        382512,
+        405023,
+        427487,
+        450000,
+        472511,
+        495023,
+        517487,
+        540000,
+        562512,
+        585023,
+        607487,
+        629999,
+        652512,
+        675024,
+        697487,
+        720000,
+        742512,
+        765024,
+        787487,
+        810000,
+        832511,
+        855023,
+        877487,
+        900000,
+        922511,
+        945023,
+        967488,
+        990000,
+        1012511,
+        1035023,
+        1057488,
+        1080000,
+        1102512,
+        1125024,
+        1147488,
+        1170000,
+        1192512,
+        1215024,
+        1237487,
+        1259999,
+        1282512,
+        1305024,
+        1327487,
+        1349999,
+        1372512,
+        1395024,
+        1417487,
+        1440000,
+        1462512,
+        1485024
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 428,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SummerMU/SummerMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SummerMU/nx/SummerMU_banner_bkg.tga.ckd/3fe33e389313ed04b89a8a112138449c.ckd",
+      "map_bkgImageUrl": "/public/map/SummerMU/nx/SummerMU_map_bkg.tga.ckd/3ff176a96274d533fc48ed5f34383ad9.ckd",
+      "expandCoachImageUrl": "/public/map/SummerMU/nx/SummerMU_Cover_AlbumCoach.tga.ckd/13ad8d420c8d17e7d027a829ceca7ebf.ckd",
+      "cover_smallImageUrl": "/public/map/SummerMU/nx/SummerMU_Cover_Online.tga.ckd/a2e3e47128e584ca899a797ec76297d9.ckd",
+      "coverImageUrl": "/public/map/SummerMU/nx/SummerMU_Cover_Generic.tga.ckd/9ebc6421c7c9e3684520752412e74cee.ckd",
+      "coach1ImageUrl": "/public/map/SummerMU/nx/SummerMU_Coach_1.tga.ckd/581f2cb95d987b8804cb46d2ac64c0c0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SummerMU/pc/SummerMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/SummerMU/pc/SummerMU_map_bkg.tga.ckd/49f3010cec026ac268a71708d8d058e4.ckd",
+      "expandCoachImageUrl": "/public/map/SummerMU/pc/SummerMU_Cover_AlbumCoach.tga.ckd/377fe6c1fb89ba3c5166ad5d79a5a111.ckd",
+      "cover_smallImageUrl": "/public/map/SummerMU/pc/SummerMU_Cover_Online.tga.ckd/730070a4c5a203fd24f9ce0538bc9905.ckd",
+      "coverImageUrl": "/public/map/SummerMU/pc/SummerMU_Cover_Generic.tga.ckd/45fbc9b7789b26a34ab8e3b0f26f90e5.ckd",
+      "coach1ImageUrl": "/public/map/SummerMU/pc/SummerMU_Coach_1.tga.ckd/2f3e78acbc3e1350c1d6467f3c96a6e3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SummerMU/orbis/SummerMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/SummerMU/orbis/SummerMU_map_bkg.tga.ckd/49f3010cec026ac268a71708d8d058e4.ckd",
+      "expandCoachImageUrl": "/public/map/SummerMU/orbis/SummerMU_Cover_AlbumCoach.tga.ckd/377fe6c1fb89ba3c5166ad5d79a5a111.ckd",
+      "cover_smallImageUrl": "/public/map/SummerMU/orbis/SummerMU_Cover_Online.tga.ckd/730070a4c5a203fd24f9ce0538bc9905.ckd",
+      "coverImageUrl": "/public/map/SummerMU/orbis/SummerMU_Cover_Generic.tga.ckd/45fbc9b7789b26a34ab8e3b0f26f90e5.ckd",
+      "coach1ImageUrl": "/public/map/SummerMU/orbis/SummerMU_Coach_1.tga.ckd/2f3e78acbc3e1350c1d6467f3c96a6e3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SummerMU/SummerMU_Coach_1_Phone.png/a2eb153e303f486c53333ce635389547.png",
+    "phoneCoverImageUrl": "/public/map/SummerMU/SummerMU_Cover_Phone.jpg/693fd3bf7770d28fff3f1d841293c7d0.jpg",
+    "cover640ImageUrl": "/public/map/SummerMU/SummerMU_Cover_640.png/a4ea6e0222d62c10aa1b4e644a8f1dbd.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SummerMU/SummerMU.ogg": "/private/map/SummerMU/SummerMU.ogg/a284f3d860aab464678f776c6fdb0460.ogg",
+    "jmcs://jd-contents/SummerMU/SummerMU_AudioPreview.ogg": "/public/map/SummerMU/SummerMU_AudioPreview.ogg/089a5ba411c79e6b12509ed7c433c269.ogg",
+    "jmcs://jd-contents/SummerMU/SummerMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SummerMU/SummerMU_MapPreviewNoSoundCrop_LOW.vp8.webm/8a26368767529745b59abce2b72b1a22.webm",
+    "jmcs://jd-contents/SummerMU/SummerMU_HIGH.webm": "/private/map/SummerMU/SummerMU_HIGH.webm/e799fbdcf388ba8ddc899a31fd0ba1d8.webm",
+    "jmcs://jd-contents/SummerMU/SummerMU_LOW.webm": "/private/map/SummerMU/SummerMU_LOW.webm/ec83df9cbc4dee85a82b96d71ac63a99.webm",
+    "jmcs://jd-contents/SummerMU/SummerMU_MID.webm": "/private/map/SummerMU/SummerMU_MID.webm/c9e5c3bd981d5d20d6b5117f341ba024.webm",
+    "jmcs://jd-contents/SummerMU/SummerMU_ULTRA.hd.webm": "/private/map/SummerMU/SummerMU_ULTRA.hd.webm/6d06c38aa0e7bbad49cd51dc46b11d9d.webm",
+    "jmcs://jd-contents/SummerMU/SummerMU_ULTRA.webm": "/private/map/SummerMU/SummerMU_ULTRA.webm/9774feb2696e6af20710ed604f10248a.webm",
+    "jmcs://jd-contents/SummerMU/SummerMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SummerMU/SummerMU_MapPreviewNoSoundCrop_MID.vp8.webm/6843f1c5522516380c8f2db7940d1641.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"506397\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SummerMU/SummerMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"548-1038\">\n\t\t\t\t\t<Initialization range=\"0-548\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1469158\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SummerMU/SummerMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"549-1039\">\n\t\t\t\t\t<Initialization range=\"0-549\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 200.625
+}

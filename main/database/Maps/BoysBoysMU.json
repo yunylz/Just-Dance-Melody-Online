@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "b8b006b35f2470ba5255e5d435e09581",
+      "storageType": 0,
+      "url": "/public/map/BoysBoysMU/nx/BoysBoysMU_MAIN_SCENE_NX.zip/b8b006b35f2470ba5255e5d435e09581.zip"
+    },
+    "pc": {
+      "md5": "c49e80229cd32995e957fea3cd2a56ff",
+      "storageType": 0,
+      "url": "/public/map/BoysBoysMU/pc/BoysBoysMU_MAIN_SCENE_PC.zip/c49e80229cd32995e957fea3cd2a56ff.zip"
+    },
+    "ps4": {
+      "md5": "8f6bbfe8e7e1bbbd076ff1604aaa0d22",
+      "storageType": 0,
+      "url": "/public/map/BoysBoysMU/orbis/BoysBoysMU_MAIN_SCENE_ORBIS.zip/8f6bbfe8e7e1bbbd076ff1604aaa0d22.zip"
+    }
+  },
+  "data": {
+    "mapName": "BoysBoysMU",
+    "title": "Boys (Summertime Love)",
+    "originalJDVersion": 2016,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2016",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "The Lemon Cubes",
+    "credits": "Written by Matteo Bonsanto, Claudio Cechetto, Malcolm Charlton, and Roberto Rossi. Published by RTI S.P.A. Sub-published by Fintage Publishing B.V. Re-Record Cover Master: Courtesy of Ubisoft Music. Produced by Steve Ouimette. Lead Vocal - Nicki Gonzales. Background vocal - Steve Ouimette. Guitars - Steve Ouimette. Programming and synths - Cat Gray, Steve Ouimette. Mixed by Cat Gray and Steve Ouimette.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        839999,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 424,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BoysBoysMU/BoysBoysMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BoysBoysMU/nx/BoysBoysMU_banner_bkg.tga.ckd/b8f0714f274f7a6b49613fc1458c7081.ckd",
+      "map_bkgImageUrl": "/public/map/BoysBoysMU/nx/BoysBoysMU_map_bkg.tga.ckd/0486465d7844a2c1f0b04ebc3d46ba03.ckd",
+      "expandCoachImageUrl": "/public/map/BoysBoysMU/nx/BoysBoysMU_Cover_AlbumCoach.tga.ckd/dc46d013cf94f967a823a38c815178bd.ckd",
+      "cover_smallImageUrl": "/public/map/BoysBoysMU/nx/BoysBoysMU_Cover_Online.tga.ckd/e7f88ba45751a0eece484aa82ad4b8ef.ckd",
+      "coverImageUrl": "/public/map/BoysBoysMU/nx/BoysBoysMU_Cover_Generic.tga.ckd/52b8ad89da71940b53983cbb81639993.ckd",
+      "coach1ImageUrl": "/public/map/BoysBoysMU/nx/BoysBoysMU_Coach_1.tga.ckd/d0d24931557ee840a7f3f7e3dfda325d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BoysBoysMU/pc/BoysBoysMU_banner_bkg.tga.ckd/7f616d058599a52c3a1ce49e399a6f1b.ckd",
+      "map_bkgImageUrl": "/public/map/BoysBoysMU/pc/BoysBoysMU_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/BoysBoysMU/pc/BoysBoysMU_Cover_AlbumCoach.tga.ckd/bdf9eb3ac60b4b21ad52e6faa3102793.ckd",
+      "cover_smallImageUrl": "/public/map/BoysBoysMU/pc/BoysBoysMU_Cover_Online.tga.ckd/265124f75d3e5f4f7dee377ecf8959cf.ckd",
+      "coverImageUrl": "/public/map/BoysBoysMU/pc/BoysBoysMU_Cover_Generic.tga.ckd/21b36fbb90f9c3d48fde87ab483e360e.ckd",
+      "coach1ImageUrl": "/public/map/BoysBoysMU/pc/BoysBoysMU_Coach_1.tga.ckd/1aedc7166479e29c47455dcdb635cdce.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BoysBoysMU/orbis/BoysBoysMU_banner_bkg.tga.ckd/7f616d058599a52c3a1ce49e399a6f1b.ckd",
+      "map_bkgImageUrl": "/public/map/BoysBoysMU/orbis/BoysBoysMU_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/BoysBoysMU/orbis/BoysBoysMU_Cover_AlbumCoach.tga.ckd/bdf9eb3ac60b4b21ad52e6faa3102793.ckd",
+      "cover_smallImageUrl": "/public/map/BoysBoysMU/orbis/BoysBoysMU_Cover_Online.tga.ckd/265124f75d3e5f4f7dee377ecf8959cf.ckd",
+      "coverImageUrl": "/public/map/BoysBoysMU/orbis/BoysBoysMU_Cover_Generic.tga.ckd/21b36fbb90f9c3d48fde87ab483e360e.ckd",
+      "coach1ImageUrl": "/public/map/BoysBoysMU/orbis/BoysBoysMU_Coach_1.tga.ckd/1aedc7166479e29c47455dcdb635cdce.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BoysBoysMU/BoysBoysMU_Coach_1_Phone.png/9e267bda345a686a2dd3f3ea8533ba07.png",
+    "phoneCoverImageUrl": "/public/map/BoysBoysMU/BoysBoysMU_Cover_Phone.jpg/74482a43542820dc769b8699bb5fb071.jpg",
+    "cover640ImageUrl": "/public/map/BoysBoysMU/BoysBoysMU_Cover_640.png/6b2dee9d9496f38cf52af9ffb33a8ac8.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BoysBoysMU/BoysBoysMU.ogg": "/private/map/BoysBoysMU/BoysBoysMU.ogg/57d13406cf8d883d0d8492e59f2ba234.ogg",
+    "jmcs://jd-contents/BoysBoysMU/BoysBoysMU_AudioPreview.ogg": "/public/map/BoysBoysMU/BoysBoysMU_AudioPreview.ogg/5a1ea5762e67ea3b9320cea1a025e478.ogg",
+    "jmcs://jd-contents/BoysBoysMU/BoysBoysMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BoysBoysMU/BoysBoysMU_MapPreviewNoSoundCrop_LOW.vp8.webm/e35798917b95935d6b4c5426c226a14b.webm",
+    "jmcs://jd-contents/BoysBoysMU/BoysBoysMU_HIGH.webm": "/private/map/BoysBoysMU/BoysBoysMU_HIGH.webm/d9fab7a64893cd0c676e02f16bfcdeaf.webm",
+    "jmcs://jd-contents/BoysBoysMU/BoysBoysMU_LOW.webm": "/private/map/BoysBoysMU/BoysBoysMU_LOW.webm/ddcaefe3649c399d021c76c45d6132f0.webm",
+    "jmcs://jd-contents/BoysBoysMU/BoysBoysMU_MID.webm": "/private/map/BoysBoysMU/BoysBoysMU_MID.webm/dd76d0be24cf784f90a9ad984ccc3790.webm",
+    "jmcs://jd-contents/BoysBoysMU/BoysBoysMU_ULTRA.hd.webm": "/private/map/BoysBoysMU/BoysBoysMU_ULTRA.hd.webm/249ac4d9ac50c73b4bf3c3a024250d12.webm",
+    "jmcs://jd-contents/BoysBoysMU/BoysBoysMU_ULTRA.webm": "/private/map/BoysBoysMU/BoysBoysMU_ULTRA.webm/d48a26ab823a99357b31a4595e2fc5ff.webm",
+    "jmcs://jd-contents/BoysBoysMU/BoysBoysMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BoysBoysMU/BoysBoysMU_MapPreviewNoSoundCrop_MID.vp8.webm/d647aedd5cd026b9a1ba1c3a762dcc01.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"511088\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoysBoysMU/BoysBoysMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1474064\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoysBoysMU/BoysBoysMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 206.0
+}

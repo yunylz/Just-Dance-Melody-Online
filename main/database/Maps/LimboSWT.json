@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "6f36858910be2e4d17e80b89a9bd6115",
+      "storageType": 0,
+      "url": "/public/map/LimboSWT/nx/LimboSWT_MAIN_SCENE_NX.zip/6f36858910be2e4d17e80b89a9bd6115.zip"
+    },
+    "pc": {
+      "md5": "fe142b489ef497cb74c220609331d688",
+      "storageType": 0,
+      "url": "/public/map/LimboSWT/pc/LimboSWT_MAIN_SCENE_PC.zip/fe142b489ef497cb74c220609331d688.zip"
+    },
+    "ps4": {
+      "md5": "9d229d9dfcb35c114832032e07abfdec",
+      "storageType": 0,
+      "url": "/public/map/LimboSWT/orbis/LimboSWT_MAIN_SCENE_ORBIS.zip/9d229d9dfcb35c114832032e07abfdec.zip"
+    }
+  },
+  "data": {
+    "mapName": "LimboSWT",
+    "title": "Limbo",
+    "originalJDVersion": 2014,
+    "tags": [
+      "main"
+    ],
+    "artist": "Daddy Yankee",
+    "credits": "All rights reserved",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#079913"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253440,
+        276480,
+        299520,
+        322560,
+        345600,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506880,
+        529920,
+        552960,
+        576000,
+        599040,
+        622080,
+        645120,
+        668160,
+        691200,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852479,
+        875520,
+        898560,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013760,
+        1036799,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198080,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382400,
+        1405440,
+        1428480,
+        1451520,
+        1474560
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 477,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LimboSWT/LimboSWT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LimboSWT/nx/LimboSWT_banner_bkg.tga.ckd/045cd2f11fb7a15882b254ec5cd1065d.ckd",
+      "map_bkgImageUrl": "/public/map/LimboSWT/nx/LimboSWT_map_bkg.tga.ckd/c209ac3e901b6920b31a574e9051e693.ckd",
+      "expandCoachImageUrl": "/public/map/LimboSWT/nx/LimboSWT_Cover_AlbumCoach.tga.ckd/08f3b66d70db83da52c599367a446450.ckd",
+      "cover_smallImageUrl": "/public/map/LimboSWT/nx/LimboSWT_Cover_Online.tga.ckd/d22f5c2a43bee15b335512d6a0002017.ckd",
+      "coach1ImageUrl": "/public/map/LimboSWT/nx/LimboSWT_Coach_1.tga.ckd/9c6f0f373d603bf9e8bf19aa5be07224.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LimboSWT/pc/LimboSWT_banner_bkg.tga.ckd/ce4eeae38e488251ce15218fedf5f815.ckd",
+      "map_bkgImageUrl": "/public/map/LimboSWT/pc/LimboSWT_map_bkg.tga.ckd/d306f283a246262a3f12c0b4240e1ab5.ckd",
+      "expandCoachImageUrl": "/public/map/LimboSWT/pc/LimboSWT_Cover_AlbumCoach.tga.ckd/328251440355e6882cccae2e271a79a0.ckd",
+      "cover_smallImageUrl": "/public/map/LimboSWT/pc/LimboSWT_Cover_Online.tga.ckd/892d5cb52f1611fcd4693c9497df3b25.ckd",
+      "coach1ImageUrl": "/public/map/LimboSWT/pc/LimboSWT_Coach_1.tga.ckd/352b4da27009444e9902b4e857a9b512.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LimboSWT/orbis/LimboSWT_banner_bkg.tga.ckd/ce4eeae38e488251ce15218fedf5f815.ckd",
+      "map_bkgImageUrl": "/public/map/LimboSWT/orbis/LimboSWT_map_bkg.tga.ckd/d306f283a246262a3f12c0b4240e1ab5.ckd",
+      "expandCoachImageUrl": "/public/map/LimboSWT/orbis/LimboSWT_Cover_AlbumCoach.tga.ckd/328251440355e6882cccae2e271a79a0.ckd",
+      "cover_smallImageUrl": "/public/map/LimboSWT/orbis/LimboSWT_Cover_Online.tga.ckd/892d5cb52f1611fcd4693c9497df3b25.ckd",
+      "coach1ImageUrl": "/public/map/LimboSWT/orbis/LimboSWT_Coach_1.tga.ckd/352b4da27009444e9902b4e857a9b512.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LimboSWT/LimboSWT_Coach_1_Phone.png/75305593d7dad075ec29dbed9311b5e2.png",
+    "phoneCoverImageUrl": "/public/map/LimboSWT/LimboSWT_Cover_Phone.jpg/415cf17a5586f035021a9d77d1f94f99.jpg",
+    "cover640ImageUrl": "/public/map/LimboSWT/LimboSWT_Cover_640.png/f47c9109d9885c8de041dfba4041d9ca.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/LimboSWT/LimboSWT.ogg": "/private/map/LimboSWT/LimboSWT.ogg/fd5b048bba6c8351351096b801a18055.ogg",
+    "jmcs://jd-contents/LimboSWT/LimboSWT_AudioPreview.ogg": "/public/map/LimboSWT/LimboSWT_AudioPreview.ogg/df7e55371b425dfb5d2a0225ca7bd5e7.ogg",
+    "jmcs://jd-contents/LimboSWT/LimboSWT_HIGH.webm": "/private/map/LimboSWT/LimboSWT_HIGH.webm/930a9da7519e7d8ce3566524d66961f9.webm",
+    "jmcs://jd-contents/LimboSWT/LimboSWT_LOW.webm": "/private/map/LimboSWT/LimboSWT_LOW.webm/33ff7270f5271b92d0a9e0582383946a.webm",
+    "jmcs://jd-contents/LimboSWT/LimboSWT_MID.webm": "/private/map/LimboSWT/LimboSWT_MID.webm/bf0e3bcd2692351bc88a9fbfe7469cc0.webm",
+    "jmcs://jd-contents/LimboSWT/LimboSWT_ULTRA.hd.webm": "/private/map/LimboSWT/LimboSWT_ULTRA.hd.webm/a090fc45a98e9c22787ba12cdf4982da.webm",
+    "jmcs://jd-contents/LimboSWT/LimboSWT_ULTRA.webm": "/private/map/LimboSWT/LimboSWT_ULTRA.webm/c52b60aea94270ec8fb727337600eafa.webm",
+    "jmcs://jd-contents/LimboSWT/LimboSWT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LimboSWT/LimboSWT_MapPreviewNoSoundCrop_LOW.vp8.webm/51a378fb38ddfd69ab30e0df90eb3387.webm",
+    "jmcs://jd-contents/LimboSWT/LimboSWT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LimboSWT/LimboSWT_MapPreviewNoSoundCrop_MID.vp8.webm/9be94dc80dd7dfb0b005cb8c91a9fd89.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"509936\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LimboSWT/LimboSWT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\n\t\t\t\t\t<Initialization range=\"0-603\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1485034\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LimboSWT/LimboSWT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\n\t\t\t\t\t<Initialization range=\"0-604\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 228.96
+}

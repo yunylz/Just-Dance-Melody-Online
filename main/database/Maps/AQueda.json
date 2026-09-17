@@ -1,0 +1,179 @@
+{
+  "urls": {
+    "jmcs://jd-contents/AQueda/AQueda.ogg": "/private/map/AQueda/AQueda.ogg/221876e5a71ef65ecbfeb2b8d1dcc048.ogg",
+    "jmcs://jd-contents/AQueda/AQueda_AudioPreview.ogg": "/public/map/AQueda/AQueda_AudioPreview.ogg/623538fa3bb56e12cc41392a867e7608.ogg",
+    "jmcs://jd-contents/AQueda/AQueda_HIGH.hd.webm": "/private/map/AQueda/AQueda_HIGH.hd.webm/06822e6200cebb8275004ee767d811f3.webm",
+    "jmcs://jd-contents/AQueda/AQueda_LOW.hd.webm": "/private/map/AQueda/AQueda_LOW.hd.webm/b42ce7b2d2f57b5134c122d2352ded69.webm",
+    "jmcs://jd-contents/AQueda/AQueda_MID.hd.webm": "/private/map/AQueda/AQueda_MID.hd.webm/8b2ec551e349dd27476e47b293550a9d.webm",
+    "jmcs://jd-contents/AQueda/AQueda_ULTRA.hd.webm": "/private/map/AQueda/AQueda_ULTRA.hd.webm/37419f9c746fae5183589544f9c10fbe.webm",
+    "jmcs://jd-contents/AQueda/AQueda_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AQueda/AQueda_MapPreviewNoSoundCrop_LOW.vp8.webm/5ea2ea40e5f1a20660d58ec86367dffb.webm",
+    "jmcs://jd-contents/AQueda/AQueda_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AQueda/AQueda_MapPreviewNoSoundCrop_MID.vp8.webm/7c95079b29c45c6585387c06e84da79b.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22154,
+        44308,
+        66462,
+        88615,
+        110769,
+        132923,
+        155077,
+        177231,
+        199385,
+        221538,
+        243692,
+        265846,
+        288000,
+        310154,
+        332308,
+        354462,
+        376615,
+        398769,
+        420923,
+        443077,
+        465231,
+        487385,
+        509538,
+        531692,
+        553846,
+        576000,
+        598154,
+        620308,
+        642462,
+        664615,
+        686769,
+        708923,
+        731077,
+        753231,
+        775385,
+        797538,
+        819692,
+        841846,
+        864000,
+        886154,
+        908308,
+        930462,
+        952615,
+        974769,
+        996923,
+        1019077,
+        1041231,
+        1063385,
+        1085538,
+        1107692,
+        1129846,
+        1152000,
+        1174154,
+        1196308,
+        1218462,
+        1240615,
+        1262769,
+        1284923,
+        1307077,
+        1329231,
+        1351385,
+        1373538,
+        1395692,
+        1417846,
+        1440000,
+        1462154,
+        1484308
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -20,
+      "endBeat": 384,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AQueda/AQueda_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"562708\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AQueda/AQueda_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2002686\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AQueda/AQueda_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "71461386a76b8416abd6843461c4a24e",
+      "storageType": 0,
+      "url": "/public/map/AQueda/nx/AQueda_MAIN_SCENE_NX.zip/71461386a76b8416abd6843461c4a24e.zip"
+    },
+    "pc": {
+      "md5": "67be8cfc8c6c59d6951f738830811ef6",
+      "storageType": 0,
+      "url": "/public/map/AQueda/pc/AQueda_MAIN_SCENE_PC.zip/67be8cfc8c6c59d6951f738830811ef6.zip"
+    },
+    "ps4": {
+      "md5": "0c34b57a77810889fc28271aa6a1e34a",
+      "storageType": 0,
+      "url": "/public/map/AQueda/orbis/AQueda_MAIN_SCENE_ORBIS.zip/0c34b57a77810889fc28271aa6a1e34a.zip"
+    }
+  },
+  "data": {
+    "mapName": "AQueda",
+    "title": "A QUEDA",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Gloria Groove",
+    "credits": "Written by Abraão Lucas Guedes Avelar, Pablo Luiz Bispo, Ruan Claudio Rebello Guimaraes, Daniel Garcia Felicione Napoleao. Published by Inbraza (Liga Music Produções Artisticas Eireli Epp), Sb Music Produções Eireli - Me and Warner Chappell Music Edições Musicais LTDA. (UBC). All rights administered by WC Music Corp. Courtesy of SB Music. By arrangement with The Orchard.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ca0d0d",
+    "songColor2A": "#f4af4e",
+    "songColor1B": "#220202",
+    "songColor2B": "#6c200e",
+    "lyricsColor": "#f38d00",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AQueda/nx/AQueda_banner_bkg.tga.ckd/f53e7b250f0de7be5667ab85e84b9e8a.ckd",
+      "map_bkgImageUrl": "/public/map/AQueda/nx/AQueda_map_bkg.tga.ckd/0f968101284134feff72eb8803f5b4d1.ckd",
+      "expandCoachImageUrl": "/public/map/AQueda/nx/AQueda_Cover_AlbumCoach.tga.ckd/bfd4886e2d65cce32bc946a026324869.ckd",
+      "cover_smallImageUrl": "/public/map/AQueda/nx/AQueda_Cover_Online.tga.ckd/6bba3dd4995c78e0a3ffa61d1d4da2aa.ckd",
+      "coverImageUrl": "/public/map/AQueda/nx/AQueda_Cover_Generic.tga.ckd/e31f23583af50ca2b177091e1ea4b94a.ckd",
+      "coach1ImageUrl": "/public/map/AQueda/nx/AQueda_Coach_1.tga.ckd/84a92c0d53547574706a5d5a5a83ed9e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AQueda/pc/AQueda_banner_bkg.tga.ckd/cb3c17f2d1ba3ea33b08b17afb7a6444.ckd",
+      "map_bkgImageUrl": "/public/map/AQueda/pc/AQueda_map_bkg.tga.ckd/462c465868b350e71fb490b41b37801c.ckd",
+      "expandCoachImageUrl": "/public/map/AQueda/pc/AQueda_Cover_AlbumCoach.tga.ckd/eaa6e80a5f03955d0440f55fc01578ab.ckd",
+      "cover_smallImageUrl": "/public/map/AQueda/pc/AQueda_Cover_Online.tga.ckd/07e4bf0862d833b089d5f50629c95872.ckd",
+      "coverImageUrl": "/public/map/AQueda/pc/AQueda_Cover_Generic.tga.ckd/9bf8416895b5fdc9e335eb5112c1d2be.ckd",
+      "coach1ImageUrl": "/public/map/AQueda/pc/AQueda_Coach_1.tga.ckd/242c003bd2b8d8f2ae1e320047e9df51.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AQueda/orbis/AQueda_banner_bkg.tga.ckd/cb3c17f2d1ba3ea33b08b17afb7a6444.ckd",
+      "map_bkgImageUrl": "/public/map/AQueda/orbis/AQueda_map_bkg.tga.ckd/462c465868b350e71fb490b41b37801c.ckd",
+      "expandCoachImageUrl": "/public/map/AQueda/orbis/AQueda_Cover_AlbumCoach.tga.ckd/eaa6e80a5f03955d0440f55fc01578ab.ckd",
+      "cover_smallImageUrl": "/public/map/AQueda/orbis/AQueda_Cover_Online.tga.ckd/07e4bf0862d833b089d5f50629c95872.ckd",
+      "coverImageUrl": "/public/map/AQueda/orbis/AQueda_Cover_Generic.tga.ckd/9bf8416895b5fdc9e335eb5112c1d2be.ckd",
+      "coach1ImageUrl": "/public/map/AQueda/orbis/AQueda_Coach_1.tga.ckd/242c003bd2b8d8f2ae1e320047e9df51.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AQueda/AQueda_Coach_1_Phone.png/225bc57a5490a16fb9cedf5796ca4cf0.png",
+    "phoneCoverImageUrl": "/public/map/AQueda/AQueda_Cover_Phone.jpg/67a3d9df7b348bb2c745fbccdef2a6bd.jpg",
+    "cover640ImageUrl": "/public/map/AQueda/AQueda_Cover_640.png/ab895978649c17e1774c1145dcb3acef.png"
+  },
+  "mapLength": 186.449938
+}

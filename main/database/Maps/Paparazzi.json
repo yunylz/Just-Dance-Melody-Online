@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ae628e27f3d99b05381fa31d76918e65",
+      "storageType": 0,
+      "url": "/public/map/Paparazzi/nx/Paparazzi_MAIN_SCENE_NX.zip/ae628e27f3d99b05381fa31d76918e65.zip"
+    },
+    "pc": {
+      "md5": "d085625cf7aa1f1c938d9847f246a445",
+      "storageType": 0,
+      "url": "/public/map/Paparazzi/pc/Paparazzi_MAIN_SCENE_PC.zip/d085625cf7aa1f1c938d9847f246a445.zip"
+    },
+    "ps4": {
+      "md5": "8a813d92752bbf492fc6ee88c9991e8e",
+      "storageType": 0,
+      "url": "/public/map/Paparazzi/orbis/Paparazzi_MAIN_SCENE_ORBIS.zip/8a813d92752bbf492fc6ee88c9991e8e.zip"
+    }
+  },
+  "data": {
+    "mapName": "Paparazzi",
+    "title": "Paparazzi",
+    "originalJDVersion": 2024,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Lady Gaga",
+    "credits": "Written by Rob Fusari, Stefani Germanotta. Published by June Bug Alley Music, Sony ATV Tunes LLC, House of Gaga Publishing LLC, Sony ATV Songs LLC. Courtesy of UMG Recordings under license from Universal Music Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f377b3",
+    "songColor2A": "#a858f9",
+    "songColor1B": "#410c50",
+    "songColor2B": "#210571",
+    "lyricsColor": "#de51b5"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25043,
+        50087,
+        75130,
+        100174,
+        125217,
+        150261,
+        175304,
+        200348,
+        225391,
+        250435,
+        275478,
+        300522,
+        325565,
+        350609,
+        375652,
+        400696,
+        425739,
+        450783,
+        475826,
+        500870,
+        525913,
+        550957,
+        576000,
+        601043,
+        626087,
+        651130,
+        676174,
+        701217,
+        726261,
+        751304,
+        776348,
+        801391,
+        826435,
+        851478,
+        876522,
+        901565,
+        926609,
+        951652,
+        976696,
+        1001739,
+        1026783,
+        1051826,
+        1076870,
+        1101913,
+        1126957,
+        1152000,
+        1177043,
+        1202087,
+        1227130,
+        1252174,
+        1277217,
+        1302261,
+        1327304,
+        1352348,
+        1377391,
+        1402435,
+        1427478,
+        1452522,
+        1477565
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 405,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Paparazzi/Paparazzi_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Paparazzi/nx/Paparazzi_banner_bkg.tga.ckd/e66f9cddeb0425187e2d3bc06d7d2a16.ckd",
+      "map_bkgImageUrl": "/public/map/Paparazzi/nx/Paparazzi_map_bkg.tga.ckd/9e2384cd5bfd3f78648efb0e84273491.ckd",
+      "expandCoachImageUrl": "/public/map/Paparazzi/nx/Paparazzi_Cover_AlbumCoach.tga.ckd/894435fc23eba36ce508ebc7e1cda14b.ckd",
+      "cover_smallImageUrl": "/public/map/Paparazzi/nx/Paparazzi_Cover_Online.tga.ckd/089681480618accf0c3add27a425362f.ckd",
+      "coach1ImageUrl": "/public/map/Paparazzi/nx/Paparazzi_Coach_1.tga.ckd/beae8a73d36cc559d3c82eecb30069c8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Paparazzi/pc/Paparazzi_banner_bkg.tga.ckd/30bb78f8182714227abc05943dedc409.ckd",
+      "map_bkgImageUrl": "/public/map/Paparazzi/pc/Paparazzi_map_bkg.tga.ckd/dc2ecc17bde0c72033b3e53799e931eb.ckd",
+      "expandCoachImageUrl": "/public/map/Paparazzi/pc/Paparazzi_Cover_AlbumCoach.tga.ckd/a72a5ce75d17170d31b38055944d8d5e.ckd",
+      "cover_smallImageUrl": "/public/map/Paparazzi/pc/Paparazzi_Cover_Online.tga.ckd/14a8cab5d4d23eaad02b66088589e6d9.ckd",
+      "coach1ImageUrl": "/public/map/Paparazzi/pc/Paparazzi_Coach_1.tga.ckd/68744ba1241ec7a5a27e644dfff9ff27.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Paparazzi/orbis/Paparazzi_banner_bkg.tga.ckd/30bb78f8182714227abc05943dedc409.ckd",
+      "map_bkgImageUrl": "/public/map/Paparazzi/orbis/Paparazzi_map_bkg.tga.ckd/dc2ecc17bde0c72033b3e53799e931eb.ckd",
+      "expandCoachImageUrl": "/public/map/Paparazzi/orbis/Paparazzi_Cover_AlbumCoach.tga.ckd/a72a5ce75d17170d31b38055944d8d5e.ckd",
+      "cover_smallImageUrl": "/public/map/Paparazzi/orbis/Paparazzi_Cover_Online.tga.ckd/14a8cab5d4d23eaad02b66088589e6d9.ckd",
+      "coach1ImageUrl": "/public/map/Paparazzi/orbis/Paparazzi_Coach_1.tga.ckd/68744ba1241ec7a5a27e644dfff9ff27.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Paparazzi/Paparazzi_Coach_1_Phone.png/85e96abfd502c1c4ecc98b6b39b91cf5.png",
+    "phoneCoverImageUrl": "/public/map/Paparazzi/Paparazzi_Cover_Phone.jpg/e9c6d3276279992c586ad2c54f4a105c.jpg",
+    "cover640ImageUrl": "/public/map/Paparazzi/Paparazzi_Cover_640.png/469ae7bea47c7d3a69eb2cfc293c9fc4.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Paparazzi/Paparazzi.ogg": "/private/map/Paparazzi/Paparazzi.ogg/d5f39037a683e5771c323b08346b3f39.ogg",
+    "jmcs://jd-contents/Paparazzi/Paparazzi_AudioPreview.ogg": "/public/map/Paparazzi/Paparazzi_AudioPreview.ogg/be905fb873d52466916935867268bb6c.ogg",
+    "jmcs://jd-contents/Paparazzi/Paparazzi_HIGH.webm": "/private/map/Paparazzi/Paparazzi_HIGH.webm/ef47b93316b2d04769a3af500467077a.webm",
+    "jmcs://jd-contents/Paparazzi/Paparazzi_LOW.webm": "/private/map/Paparazzi/Paparazzi_LOW.webm/dd2643ad0731c08f5c7e3305e87bef11.webm",
+    "jmcs://jd-contents/Paparazzi/Paparazzi_MID.webm": "/private/map/Paparazzi/Paparazzi_MID.webm/5757ece846d2ae0e4d04e0fa4b007d2b.webm",
+    "jmcs://jd-contents/Paparazzi/Paparazzi_ULTRA.hd.webm": "/private/map/Paparazzi/Paparazzi_ULTRA.hd.webm/0fdf3fb41c29d812bf6c47f81bcb79e3.webm",
+    "jmcs://jd-contents/Paparazzi/Paparazzi_ULTRA.webm": "/private/map/Paparazzi/Paparazzi_ULTRA.webm/7841bf14dad328cc3c11f13e70a5a1fc.webm",
+    "jmcs://jd-contents/Paparazzi/Paparazzi_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Paparazzi/Paparazzi_MapPreviewNoSoundCrop_LOW.vp8.webm/a23f9cec12a56033d3413a5ab39ea147.webm",
+    "jmcs://jd-contents/Paparazzi/Paparazzi_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Paparazzi/Paparazzi_MapPreviewNoSoundCrop_MID.vp8.webm/9f34240e782382f34bc4c670ace49274.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"516008\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Paparazzi/Paparazzi_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1490702\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Paparazzi/Paparazzi_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 216.528229
+}

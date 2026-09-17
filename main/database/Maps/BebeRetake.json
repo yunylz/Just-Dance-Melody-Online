@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BebeRetake/BebeRetake.ogg": "/private/map/BebeRetake/BebeRetake.ogg/493620845d11b53193489b374d198cf4.ogg",
+    "jmcs://jd-contents/BebeRetake/BebeRetake_AudioPreview.ogg": "/public/map/BebeRetake/BebeRetake_AudioPreview.ogg/a6f8a4185c70f20f3851a03d7a1784e2.ogg",
+    "jmcs://jd-contents/BebeRetake/BebeRetake_HIGH.hd.webm": "/private/map/BebeRetake/BebeRetake_HIGH.hd.webm/b03ab891678e7ff58af783b4c1469b71.webm",
+    "jmcs://jd-contents/BebeRetake/BebeRetake_LOW.hd.webm": "/private/map/BebeRetake/BebeRetake_LOW.hd.webm/658d3b7ef78430d786d3e21b91f1a151.webm",
+    "jmcs://jd-contents/BebeRetake/BebeRetake_MID.hd.webm": "/private/map/BebeRetake/BebeRetake_MID.hd.webm/3238895d5f5d7ea6b064470798f321ff.webm",
+    "jmcs://jd-contents/BebeRetake/BebeRetake_ULTRA.hd.webm": "/private/map/BebeRetake/BebeRetake_ULTRA.hd.webm/88c29e6f08e148b0d8490867a6b48032.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        20016,
+        39984,
+        60001,
+        80017,
+        99985,
+        120001,
+        140017,
+        159985,
+        180001,
+        200017,
+        219985,
+        240001,
+        260017,
+        279985,
+        300001,
+        320017,
+        339985,
+        360001,
+        380017,
+        399985,
+        420001,
+        440017,
+        459985,
+        480001,
+        500017,
+        519985,
+        540001,
+        560017,
+        579985,
+        600001,
+        620017,
+        639985,
+        660001,
+        680017,
+        699985,
+        720001,
+        740017,
+        759985,
+        780001,
+        800017,
+        819986,
+        840002,
+        860018,
+        879986,
+        900002,
+        920018,
+        939986,
+        960002,
+        980018,
+        999986,
+        1020002,
+        1040018,
+        1059986,
+        1080002,
+        1100018,
+        1119986,
+        1140002,
+        1160018,
+        1179986,
+        1200002,
+        1220018,
+        1239986,
+        1260002,
+        1280018,
+        1299986,
+        1320002,
+        1340018,
+        1359986,
+        1380002,
+        1400018,
+        1419986
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 422,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 72,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BebeRetake/BebeRetake_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "02e08e1b64b5a68e0d02228060e1228c",
+      "storageType": 0,
+      "url": "/public/map/BebeRetake/nx/BebeRetake_MAIN_SCENE_NX.zip/02e08e1b64b5a68e0d02228060e1228c.zip"
+    },
+    "pc": {
+      "md5": "795eae5e6d9a93c38703c8329692d6ab",
+      "storageType": 0,
+      "url": "/public/map/BebeRetake/pc/BebeRetake_MAIN_SCENE_PC.zip/795eae5e6d9a93c38703c8329692d6ab.zip"
+    },
+    "ps4": {
+      "md5": "1a07c14e75c0bcab1d029220def04a9e",
+      "storageType": 0,
+      "url": "/public/map/BebeRetake/orbis/BebeRetake_MAIN_SCENE_ORBIS.zip/1a07c14e75c0bcab1d029220def04a9e.zip"
+    }
+  },
+  "data": {
+    "mapName": "BebeRetake",
+    "title": "Bebe",
+    "originalJDVersion": 1,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Divine Brown",
+    "credits": "EMPTY",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#079EC3",
+    "songColor2A": "#F3F32D",
+    "songColor1B": "#030C48",
+    "songColor2B": "#C10B25",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BebeRetake/nx/BebeRetake_banner_bkg.tga.ckd/d740b4ba817061ceb3e17f8b701ca34f.ckd",
+      "map_bkgImageUrl": "/public/map/BebeRetake/nx/BebeRetake_map_bkg.tga.ckd/ef9d036e4478a0aa75bd8cd4445cb4f8.ckd",
+      "expandCoachImageUrl": "/public/map/BebeRetake/nx/BebeRetake_Cover_AlbumCoach.tga.ckd/f82f36a66213c130ffac7344d14cfab9.ckd",
+      "cover_smallImageUrl": "/public/map/BebeRetake/nx/BebeRetake_Cover_Online.tga.ckd/4a8e1cbb6e1c21d97ce9ad61ffbacf0c.ckd",
+      "coverImageUrl": "/public/map/BebeRetake/nx/BebeRetake_Cover_Generic.tga.ckd/1f142251a5dd48989f21a2f7de291cdf.ckd",
+      "coach1ImageUrl": "/public/map/BebeRetake/nx/BebeRetake_Coach_1.tga.ckd/0468edb7f3e63a2d0bbcc15822c567b9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BebeRetake/pc/BebeRetake_banner_bkg.tga.ckd/53f297671c9052e279e622b20ae89e10.ckd",
+      "map_bkgImageUrl": "/public/map/BebeRetake/pc/BebeRetake_map_bkg.tga.ckd/b60d850545de5137fbe80e1b852eb016.ckd",
+      "expandCoachImageUrl": "/public/map/BebeRetake/pc/BebeRetake_Cover_AlbumCoach.tga.ckd/b2cb9a4579f0aba90790e7fe66904ce3.ckd",
+      "cover_smallImageUrl": "/public/map/BebeRetake/pc/BebeRetake_Cover_Online.tga.ckd/2b0c472b9b883a60fbce873ab9d83f06.ckd",
+      "coverImageUrl": "/public/map/BebeRetake/pc/BebeRetake_Cover_Generic.tga.ckd/ebd070491aa90012d6926ea19c66bcf5.ckd",
+      "coach1ImageUrl": "/public/map/BebeRetake/pc/BebeRetake_Coach_1.tga.ckd/1b4f16e2c8c9e71fd6d7852e08377555.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BebeRetake/orbis/BebeRetake_banner_bkg.tga.ckd/53f297671c9052e279e622b20ae89e10.ckd",
+      "map_bkgImageUrl": "/public/map/BebeRetake/orbis/BebeRetake_map_bkg.tga.ckd/b60d850545de5137fbe80e1b852eb016.ckd",
+      "expandCoachImageUrl": "/public/map/BebeRetake/orbis/BebeRetake_Cover_AlbumCoach.tga.ckd/b2cb9a4579f0aba90790e7fe66904ce3.ckd",
+      "cover_smallImageUrl": "/public/map/BebeRetake/orbis/BebeRetake_Cover_Online.tga.ckd/2b0c472b9b883a60fbce873ab9d83f06.ckd",
+      "coverImageUrl": "/public/map/BebeRetake/orbis/BebeRetake_Cover_Generic.tga.ckd/ebd070491aa90012d6926ea19c66bcf5.ckd",
+      "coach1ImageUrl": "/public/map/BebeRetake/orbis/BebeRetake_Coach_1.tga.ckd/1b4f16e2c8c9e71fd6d7852e08377555.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BebeRetake/BebeRetake_Coach_1_Phone.png/aa919d79b7ea7dc6aa6a77d35ea1ceb3.png",
+    "phoneCoverImageUrl": "/public/map/BebeRetake/BebeRetake_Cover_Phone.jpg/a18a32ce117b2e04b95a22e52243a589.jpg",
+    "cover640ImageUrl": "/public/map/BebeRetake/BebeRetake_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 174.974229
+}

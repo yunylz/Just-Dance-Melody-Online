@@ -1,0 +1,176 @@
+{
+  "urls": {
+    "jmcs://jd-contents/HungUpALT/HungUpALT.ogg": "/private/map/HungUpALT/HungUpALT.ogg/89441e741481bcfedf4e1ad475ea53c4.ogg",
+    "jmcs://jd-contents/HungUpALT/HungUpALT_AudioPreview.ogg": "/public/map/HungUpALT/HungUpALT_AudioPreview.ogg/8a6726f36f2f9a6f934b83c00ea01db1.ogg",
+    "jmcs://jd-contents/HungUpALT/HungUpALT_HIGH.hd.webm": "/private/map/HungUpALT/HungUpALT_HIGH.hd.webm/576b52fd76166a3069f5a1397e617284.webm",
+    "jmcs://jd-contents/HungUpALT/HungUpALT_LOW.hd.webm": "/private/map/HungUpALT/HungUpALT_LOW.hd.webm/84936bf005bc1254a848fb334eb8507f.webm",
+    "jmcs://jd-contents/HungUpALT/HungUpALT_MID.hd.webm": "/private/map/HungUpALT/HungUpALT_MID.hd.webm/f0fe31a942f2ded45568c876ade451dc.webm",
+    "jmcs://jd-contents/HungUpALT/HungUpALT_ULTRA.hd.webm": "/private/map/HungUpALT/HungUpALT_ULTRA.hd.webm/0e10bf75bf0f98f6082c026aa7d47ff7.webm",
+    "jmcs://jd-contents/HungUpALT/HungUpALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HungUpALT/HungUpALT_MapPreviewNoSoundCrop_LOW.vp8.webm/45fbcb018d23dc179f99d90197bdd918.webm",
+    "jmcs://jd-contents/HungUpALT/HungUpALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HungUpALT/HungUpALT_MapPreviewNoSoundCrop_MID.vp8.webm/a6fa334300297780580c0ba990478605.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253440,
+        276480,
+        299520,
+        322560,
+        345600,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506880,
+        529920,
+        552960,
+        576000,
+        599040,
+        622080,
+        645120,
+        668160,
+        691200,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852480,
+        875520,
+        898560,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013760,
+        1036800,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198080,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382400,
+        1405440,
+        1428480,
+        1451520,
+        1474560
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -12,
+      "endBeat": 583,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HungUpALT/HungUpALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"520462\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HungUpALT/HungUpALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2005551\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HungUpALT/HungUpALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "073472dad9274a833332cc03419dd933",
+      "storageType": 0,
+      "url": "/public/map/HungUpALT/nx/HungUpALT_MAIN_SCENE_NX.zip/073472dad9274a833332cc03419dd933.zip"
+    },
+    "pc": {
+      "md5": "2e454d06030d9cbeea037e262db65e2a",
+      "storageType": 0,
+      "url": "/public/map/HungUpALT/pc/HungUpALT_MAIN_SCENE_PC.zip/2e454d06030d9cbeea037e262db65e2a.zip"
+    },
+    "ps4": {
+      "md5": "1dbeb952a49403770c0f5362bfed212d",
+      "storageType": 0,
+      "url": "/public/map/HungUpALT/orbis/HungUpALT_MAIN_SCENE_ORBIS.zip/1dbeb952a49403770c0f5362bfed212d.zip"
+    }
+  },
+  "data": {
+    "mapName": "HungUpALT",
+    "title": "Hung Up",
+    "originalJDVersion": 2026,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "Madonna",
+    "credits": "“Hung Up” Performed by Madonna Written by Bjoern K. Ulvaeus, Benny Andersson, Madonna, Stuart Price Published by Universal Music Publishing Canada on behalf of Universal, Union Songs Musikforlag AB / ELODINE SONGS LIMITED (NS) and Webo Girl Publishing, Inc. (ASCAP) administered by WC Music Corp. / EMI Waterford Music Inc. (ASCAP) Courtesy of Warner Records Inc. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ea09a5",
+    "songColor2A": "#14d3ec",
+    "songColor1B": "#04000d",
+    "songColor2B": "#000043",
+    "lyricsColor": "#ff8113",
+    "LocaleID": 9557
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HungUpALT/nx/HungUpALT_banner_bkg.tga.ckd/f764d34721ebd1bc76b86f17b7c4f1ef.ckd",
+      "map_bkgImageUrl": "/public/map/HungUpALT/nx/HungUpALT_map_bkg.tga.ckd/e2a9b2b502f9b28334b17026f53c7d61.ckd",
+      "expandCoachImageUrl": "/public/map/HungUpALT/nx/HungUpALT_Cover_AlbumCoach.tga.ckd/80809ea4c48b4dcaa7ba7dab8ea9e2fa.ckd",
+      "cover_smallImageUrl": "/public/map/HungUpALT/nx/HungUpALT_Cover_Online.tga.ckd/f89560575f5646a07376d9a00b911e5c.ckd",
+      "coverImageUrl": "/public/map/HungUpALT/nx/HungUpALT_Cover_Generic.tga.ckd/7cf3b6a0c0e351df9fba5da22ab13a00.ckd",
+      "coach1ImageUrl": "/public/map/HungUpALT/nx/HungUpALT_Coach_1.tga.ckd/107a26f24a05647c1af30b0459bfb9ed.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HungUpALT/pc/HungUpALT_banner_bkg.tga.ckd/8c920d407217f7192cfb8042bdb30931.ckd",
+      "map_bkgImageUrl": "/public/map/HungUpALT/pc/HungUpALT_map_bkg.tga.ckd/54967c0d0316c9e17fcedd0fdcc437e0.ckd",
+      "expandCoachImageUrl": "/public/map/HungUpALT/pc/HungUpALT_Cover_AlbumCoach.tga.ckd/99f04e46ba7d37d56629c3fba2fafe20.ckd",
+      "cover_smallImageUrl": "/public/map/HungUpALT/pc/HungUpALT_Cover_Online.tga.ckd/8e07c32768fcdecdaa08db3be0e3df99.ckd",
+      "coverImageUrl": "/public/map/HungUpALT/pc/HungUpALT_Cover_Generic.tga.ckd/270b0682d0b22d0b19051bb800639ac9.ckd",
+      "coach1ImageUrl": "/public/map/HungUpALT/pc/HungUpALT_Coach_1.tga.ckd/da93fbeb47cf57449df83a2de9dc68cf.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HungUpALT/orbis/HungUpALT_banner_bkg.tga.ckd/8c920d407217f7192cfb8042bdb30931.ckd",
+      "map_bkgImageUrl": "/public/map/HungUpALT/orbis/HungUpALT_map_bkg.tga.ckd/54967c0d0316c9e17fcedd0fdcc437e0.ckd",
+      "expandCoachImageUrl": "/public/map/HungUpALT/orbis/HungUpALT_Cover_AlbumCoach.tga.ckd/99f04e46ba7d37d56629c3fba2fafe20.ckd",
+      "cover_smallImageUrl": "/public/map/HungUpALT/orbis/HungUpALT_Cover_Online.tga.ckd/8e07c32768fcdecdaa08db3be0e3df99.ckd",
+      "coverImageUrl": "/public/map/HungUpALT/orbis/HungUpALT_Cover_Generic.tga.ckd/270b0682d0b22d0b19051bb800639ac9.ckd",
+      "coach1ImageUrl": "/public/map/HungUpALT/orbis/HungUpALT_Coach_1.tga.ckd/da93fbeb47cf57449df83a2de9dc68cf.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HungUpALT/HungUpALT_Coach_1_Phone.png/aa96507c396230066076b070774f812e.png",
+    "phoneCoverImageUrl": "/public/map/HungUpALT/HungUpALT_Cover_Phone.jpg/521531a30847434b766cafb4007e3347.jpg",
+    "cover640ImageUrl": "/public/map/HungUpALT/HungUpALT_Cover_640.png/aeee11fe0fb470ff71a88aead9d364f5.png"
+  },
+  "mapLength": 284.639979
+}

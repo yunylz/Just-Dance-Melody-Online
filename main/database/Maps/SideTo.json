@@ -1,0 +1,151 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d5a518202218f66a66e405e0ba9ca281",
+      "storageType": 0,
+      "url": "/public/map/SideTo/nx/SideTo_MAIN_SCENE_NX.zip/d5a518202218f66a66e405e0ba9ca281.zip"
+    },
+    "pc": {
+      "md5": "dc1cb6235aa034e238165553b8161944",
+      "storageType": 0,
+      "url": "/public/map/SideTo/pc/SideTo_MAIN_SCENE_PC.zip/dc1cb6235aa034e238165553b8161944.zip"
+    },
+    "ps4": {
+      "md5": "e4f06a3fbf221392f37bf74b6ad7052f",
+      "storageType": 0,
+      "url": "/public/map/SideTo/orbis/SideTo_MAIN_SCENE_ORBIS.zip/e4f06a3fbf221392f37bf74b6ad7052f.zip"
+    }
+  },
+  "data": {
+    "mapName": "SideTo",
+    "title": "Side To Side",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main"
+    ],
+    "artist": "Ariana Grande ft. Nicki Minaj",
+    "credits": "Written by Ariana Grande, Ilya Salmanzadeh, Savan Kotecha, Alexander Kronlund, Onika Tanya Maraj and Max Martin. Published by MXM (ASCAP). Admin by Kobalt Music Publishing America, Inc. / Universal Music Corp. on behalf of itself and Grandarimusic / Songs Of Universal, Inc. / Wolf Cousins (STIM) and Warner/Chappell Music Scandinavia AB (STIM). All rights on behalf of Wolf Cousins and Warner/Chappell Music Scandinavia AB administered by WB Music Corp. / BMG Gold Songs. All rights administered by BMG Rights Management (US) LLC. Courtesy of Republic Records under license from Universal Music Enterprises. / Nicki Minaj appears courtesy of Cash Money Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#9b09bf",
+    "songColor2A": "#ff3cb7",
+    "songColor1B": "#230030",
+    "songColor2B": "#0b00a2",
+    "lyricsColor": "#1ae4ef"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        36239,
+        72431,
+        108671,
+        144911,
+        181151,
+        217343,
+        253583,
+        289823,
+        326015,
+        362255,
+        398495,
+        434735,
+        470927,
+        507167,
+        543407,
+        579599,
+        615839,
+        652079,
+        688318,
+        724510,
+        760750,
+        796990,
+        833182,
+        869422,
+        905662,
+        941902,
+        978094,
+        1014334,
+        1050574,
+        1086814,
+        1123006,
+        1159246,
+        1195486,
+        1231678,
+        1267918,
+        1304158,
+        1340398,
+        1376589,
+        1412829,
+        1449069,
+        1485261,
+        1521501
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 298,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 40,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SideTo/SideTo_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SideTo/nx/SideTo_banner_bkg.tga.ckd/b1755209dc6e2a46bd88a236b999cb36.ckd",
+      "map_bkgImageUrl": "/public/map/SideTo/nx/SideTo_map_bkg.tga.ckd/111401ddfe8e071c1fcc353c21eead5a.ckd",
+      "expandCoachImageUrl": "/public/map/SideTo/nx/SideTo_Cover_AlbumCoach.tga.ckd/d6379733c0a2f1343f519a7da9f433ef.ckd",
+      "cover_smallImageUrl": "/public/map/SideTo/nx/SideTo_Cover_Online.tga.ckd/22771763bdca0adf76b6079d7456685b.ckd",
+      "coach1ImageUrl": "/public/map/SideTo/nx/SideTo_Coach_1.tga.ckd/5de84246430a6b38c21151b4763ae9c0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SideTo/pc/SideTo_banner_bkg.tga.ckd/42b4361b4bbec7873968202e712291cd.ckd",
+      "map_bkgImageUrl": "/public/map/SideTo/pc/SideTo_map_bkg.tga.ckd/61e30d1fc3a4f19739ef1922c75a2b15.ckd",
+      "expandCoachImageUrl": "/public/map/SideTo/pc/SideTo_Cover_AlbumCoach.tga.ckd/0ba92beef928be994339434a0aace41e.ckd",
+      "cover_smallImageUrl": "/public/map/SideTo/pc/SideTo_Cover_Online.tga.ckd/acbb8ac3c2fb32644c1a12f6079209b3.ckd",
+      "coach1ImageUrl": "/public/map/SideTo/pc/SideTo_Coach_1.tga.ckd/7c653675adfb15b472618ac27a677ee2.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SideTo/orbis/SideTo_banner_bkg.tga.ckd/42b4361b4bbec7873968202e712291cd.ckd",
+      "map_bkgImageUrl": "/public/map/SideTo/orbis/SideTo_map_bkg.tga.ckd/61e30d1fc3a4f19739ef1922c75a2b15.ckd",
+      "expandCoachImageUrl": "/public/map/SideTo/orbis/SideTo_Cover_AlbumCoach.tga.ckd/0ba92beef928be994339434a0aace41e.ckd",
+      "cover_smallImageUrl": "/public/map/SideTo/orbis/SideTo_Cover_Online.tga.ckd/acbb8ac3c2fb32644c1a12f6079209b3.ckd",
+      "coach1ImageUrl": "/public/map/SideTo/orbis/SideTo_Coach_1.tga.ckd/7c653675adfb15b472618ac27a677ee2.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SideTo/SideTo_Coach_1_Phone.png/fa3ba09ef12908d796d3c837f073735a.png",
+    "phoneCoverImageUrl": "/public/map/SideTo/SideTo_Cover_Phone.jpg/1bcab6c3a5efaafea7c3e26771cb0edf.jpg",
+    "cover640ImageUrl": "/public/map/SideTo/SideTo_Cover_640.png/f5939c9cc1f9084c6e801407e427e06f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SideTo/SideTo.ogg": "/private/map/SideTo/SideTo.ogg/410bd71bd36075d6cf011402343dacd9.ogg",
+    "jmcs://jd-contents/SideTo/SideTo_AudioPreview.ogg": "/public/map/SideTo/SideTo_AudioPreview.ogg/92eafb7e085e8ddc80346abc1f0e4ad1.ogg",
+    "jmcs://jd-contents/SideTo/SideTo_HIGH.webm": "/private/map/SideTo/SideTo_HIGH.webm/4862be001faa5fe18e02fa9e6a6d892f.webm",
+    "jmcs://jd-contents/SideTo/SideTo_LOW.webm": "/private/map/SideTo/SideTo_LOW.webm/e0f5ea52deecc6966b944ae50e0ae810.webm",
+    "jmcs://jd-contents/SideTo/SideTo_MID.webm": "/private/map/SideTo/SideTo_MID.webm/7c92002d6ca6c79d809d3bee77ad1e35.webm",
+    "jmcs://jd-contents/SideTo/SideTo_ULTRA.hd.webm": "/private/map/SideTo/SideTo_ULTRA.hd.webm/b22fcf9d6effca2bd59e683c0927c70e.webm",
+    "jmcs://jd-contents/SideTo/SideTo_ULTRA.webm": "/private/map/SideTo/SideTo_ULTRA.webm/b97b2d346ad952c40dc36581f515aab4.webm",
+    "jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SideTo/SideTo_MapPreviewNoSoundCrop_LOW.vp8.webm/6b7ded8942f84e13cd3eb14dfab23ac0.webm",
+    "jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SideTo/SideTo_MapPreviewNoSoundCrop_MID.vp8.webm/0ad359822386a8a2f468977718d97283.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495510\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1107\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1474610\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SideTo/SideTo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\n\t\t\t\t\t<Initialization range=\"0-619\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 227.924667
+}

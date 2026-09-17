@@ -1,0 +1,171 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "786429a1c043b1333317a520e41caf62",
+      "storageType": 0,
+      "url": "/public/map/Think/nx/Think_MAIN_SCENE_NX.zip/786429a1c043b1333317a520e41caf62.zip"
+    },
+    "pc": {
+      "md5": "ac24529ac6d2997e508600b6def4ee99",
+      "storageType": 0,
+      "url": "/public/map/Think/pc/Think_MAIN_SCENE_PC.zip/ac24529ac6d2997e508600b6def4ee99.zip"
+    },
+    "ps4": {
+      "md5": "e7d075f3044500a62d23d69b21663532",
+      "storageType": 0,
+      "url": "/public/map/Think/orbis/Think_MAIN_SCENE_ORBIS.zip/e7d075f3044500a62d23d69b21663532.zip"
+    }
+  },
+  "data": {
+    "mapName": "Think",
+    "title": "Think",
+    "originalJDVersion": 3,
+    "tags": [
+      "main"
+    ],
+    "artist": "The London Orchestra & Cast",
+    "credits": "Credits to gamer2000",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#13fbf6"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27428,
+        54856,
+        82284,
+        109712,
+        137140,
+        164568,
+        191999,
+        218086,
+        244241,
+        270294,
+        296747,
+        322834,
+        344410,
+        369451,
+        391567,
+        415982,
+        439352,
+        464185,
+        486509,
+        512178,
+        534503,
+        558500,
+        581242,
+        605448,
+        627982,
+        651979,
+        675209,
+        699972,
+        723133,
+        748175,
+        770500,
+        795332,
+        817030,
+        842062,
+        864815,
+        889438,
+        911972,
+        935551,
+        957876,
+        982291,
+        1004824,
+        1028612,
+        1050833,
+        1073401,
+        1095726,
+        1118678,
+        1142518,
+        1164947,
+        1187871,
+        1210538,
+        1234064,
+        1256389,
+        1278714,
+        1301039,
+        1325175,
+        1347430,
+        1370800,
+        1393125,
+        1416146,
+        1438471,
+        1460796,
+        1483121
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 424,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Think/Think_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Think/nx/Think_banner_bkg.tga.ckd/74949139d639cc0b2834e1be9b7ae72a.ckd",
+      "map_bkgImageUrl": "/public/map/Think/nx/Think_map_bkg.tga.ckd/214cdb5c0e7db1547a16613d06007b90.ckd",
+      "expandCoachImageUrl": "/public/map/Think/nx/Think_Cover_AlbumCoach.tga.ckd/13415841b8693a8a8b5a07519d725e3d.ckd",
+      "cover_smallImageUrl": "/public/map/Think/nx/Think_Cover_Online.tga.ckd/ae325b4b2bef36549cf1956895d971ce.ckd",
+      "coach1ImageUrl": "/public/map/Think/nx/Think_Coach_1.tga.ckd/a913dd31517ed0429d112da2d9526826.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Think/pc/Think_banner_bkg.tga.ckd/873aac94da9645bff0a58bd5b2955cc2.ckd",
+      "map_bkgImageUrl": "/public/map/Think/pc/Think_map_bkg.tga.ckd/f0947ebf0ba1a20220a1c689bbc54b6d.ckd",
+      "expandCoachImageUrl": "/public/map/Think/pc/Think_Cover_AlbumCoach.tga.ckd/18f32dd875f5bd4a64131ee44a399010.ckd",
+      "cover_smallImageUrl": "/public/map/Think/pc/Think_Cover_Online.tga.ckd/a1d68cbc9a21a1be6becd4f977067993.ckd",
+      "coach1ImageUrl": "/public/map/Think/pc/Think_Coach_1.tga.ckd/822784f7330f0319433dd08363a0aeb7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Think/orbis/Think_banner_bkg.tga.ckd/873aac94da9645bff0a58bd5b2955cc2.ckd",
+      "map_bkgImageUrl": "/public/map/Think/orbis/Think_map_bkg.tga.ckd/f0947ebf0ba1a20220a1c689bbc54b6d.ckd",
+      "expandCoachImageUrl": "/public/map/Think/orbis/Think_Cover_AlbumCoach.tga.ckd/18f32dd875f5bd4a64131ee44a399010.ckd",
+      "cover_smallImageUrl": "/public/map/Think/orbis/Think_Cover_Online.tga.ckd/a1d68cbc9a21a1be6becd4f977067993.ckd",
+      "coach1ImageUrl": "/public/map/Think/orbis/Think_Coach_1.tga.ckd/822784f7330f0319433dd08363a0aeb7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Think/Think_Coach_1_Phone.png/951402d243669ff16db93bf61ca7af1e.png",
+    "phoneCoverImageUrl": "/public/map/Think/Think_Cover_Phone.jpg/d0e1195199f6d4270efab0ff2bafffd2.jpg",
+    "cover640ImageUrl": "/public/map/Think/Think_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Think/Think.ogg": "/private/map/Think/Think.ogg/151bfd60feaf41efa6c8d8c337d2ff12.ogg",
+    "jmcs://jd-contents/Think/Think_AudioPreview.ogg": "/public/map/Think/Think_AudioPreview.ogg/3e03684fee2841e6eacbd28749ec3402.ogg",
+    "jmcs://jd-contents/Think/Think_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Think/Think_MapPreviewNoSoundCrop_LOW.vp8.webm/d3e52cebed80c170d122827fb621dcac.webm",
+    "jmcs://jd-contents/Think/Think_HIGH.webm": "/private/map/Think/Think_HIGH.webm/a8253d5b8d7e64e05eb4ebdffe436899.webm",
+    "jmcs://jd-contents/Think/Think_LOW.webm": "/private/map/Think/Think_LOW.webm/8861f5946435f2929bca86009746ec25.webm",
+    "jmcs://jd-contents/Think/Think_MID.webm": "/private/map/Think/Think_MID.webm/a26a4535a4ad58cb7789f41041256b95.webm",
+    "jmcs://jd-contents/Think/Think_ULTRA.hd.webm": "/private/map/Think/Think_ULTRA.hd.webm/b06377cfcdf508a790d574b1e29a2a13.webm",
+    "jmcs://jd-contents/Think/Think_ULTRA.webm": "/private/map/Think/Think_ULTRA.webm/f2e7bf62c9b3829da12b922ad91fac17.webm",
+    "jmcs://jd-contents/Think/Think_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Think/Think_MapPreviewNoSoundCrop_MID.vp8.webm/bc70780c0def783bec706eec3ec3dbac.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"501873\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Think/Think_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1486909\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Think/Think_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 199.326563
+}

@@ -1,0 +1,162 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SwitchHandyman/SwitchHandyman_AudioPreview.ogg": "/public/map/SwitchHandyman/SwitchHandyman_AudioPreview.ogg/e99eb28bee32581d107ec1dabe23f20f.ogg",
+    "jmcs://jd-contents/SwitchHandyman/SwitchHandyman.ogg": "/private/map/SwitchHandyman/SwitchHandyman.ogg/002e2619c00ef77a8f53214084dd64f6.ogg",
+    "jmcs://jd-contents/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_LOW.vp8.webm/e365eedeadde90c373bc1fc4bfc38595.webm",
+    "jmcs://jd-contents/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_MID.vp8.webm/a65300fb036471d9c113ee034f7f7894.webm",
+    "jmcs://jd-contents/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_HIGH.vp8.webm/299e2addaf24a9d180e8ace50ccd49f0.webm",
+    "jmcs://jd-contents/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_ULTRA.vp8.webm/cfa2e240d35cbcc5a932fbd8ea3394db.webm",
+    "jmcs://jd-contents/SwitchHandyman/SwitchHandyman_ULTRA.hd.webm": "/private/map/SwitchHandyman/SwitchHandyman_ULTRA.hd.webm/116f2d0714325aca1784fb7565343198.webm",
+    "jmcs://jd-contents/SwitchHandyman/SwitchHandyman_HIGH.hd.webm": "/private/map/SwitchHandyman/SwitchHandyman_HIGH.hd.webm/be3ad39d4e6172a05c5dd66fde501950.webm",
+    "jmcs://jd-contents/SwitchHandyman/SwitchHandyman_MID.hd.webm": "/private/map/SwitchHandyman/SwitchHandyman_MID.hd.webm/46648cdda1680a2bc34228aa9af2dc77.webm",
+    "jmcs://jd-contents/SwitchHandyman/SwitchHandyman_LOW.hd.webm": "/private/map/SwitchHandyman/SwitchHandyman_LOW.hd.webm/dca1fe48e49b07d33bec16dbeb9bdb4f.webm"
+  },
+  "mapLength": 194.3075,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22175,
+        44304,
+        66480,
+        88607,
+        110784,
+        132911,
+        155088,
+        177215,
+        199392,
+        221567,
+        243696,
+        265872,
+        288000,
+        310176,
+        332304,
+        354480,
+        376607,
+        398784,
+        420912,
+        443088,
+        465216,
+        487392,
+        509568,
+        531696,
+        553872,
+        576000,
+        598176,
+        620304,
+        642480,
+        664607,
+        686784,
+        708912,
+        731088,
+        753216,
+        775392,
+        797568,
+        819696,
+        841872,
+        864000,
+        886176,
+        908304,
+        930480,
+        952607,
+        974784,
+        996912,
+        1019088,
+        1041216,
+        1063392
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 412,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/SwitchHandyman/SwitchHandyman_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT22.28S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT22.28S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"593649\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"779-1157\">\n\t\t\t\t\t<Initialization range=\"0-779\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1164067\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"780-1158\">\n\t\t\t\t\t<Initialization range=\"0-780\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"1191179\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"780-1158\">\n\t\t\t\t\t<Initialization range=\"0-780\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"1191179\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SwitchHandyman/SwitchHandyman_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"780-1158\">\n\t\t\t\t\t<Initialization range=\"0-780\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "8073b37c2d30bc5ce1992809aefaea49",
+      "storageType": 0,
+      "url": "/public/map/SwitchHandyman/pc/SwitchHandyman_MAIN_SCENE_PC.zip/8073b37c2d30bc5ce1992809aefaea49.zip"
+    },
+    "ps4": {
+      "md5": "aefc781d82179dee69240e0d8864229b",
+      "storageType": 0,
+      "url": "/public/map/SwitchHandyman/orbis/SwitchHandyman_MAIN_SCENE_ORBIS.zip/aefc781d82179dee69240e0d8864229b.zip"
+    },
+    "nx": {
+      "md5": "7da00d065f8f5a13de75bd569cb129bb",
+      "storageType": 0,
+      "url": "/public/map/SwitchHandyman/nx/SwitchHandyman_MAIN_SCENE_NX.zip/7da00d065f8f5a13de75bd569cb129bb.zip"
+    }
+  },
+  "data": {
+    "mapName": "SwitchHandyman",
+    "title": "Better Call The Handyman",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main",
+      "doublescoring",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Just Vibes",
+    "credits": "Composed, Arranged and Produced by Tom Salta. Published by Ubisoft Music Publishing. Music Supervision – Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#0094FF",
+    "songColor2A": "#FFDA00",
+    "songColor1B": "#030033",
+    "songColor2B": "#E89600",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 30000252
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/SwitchHandyman/pc/SwitchHandyman_Cover_Online.tga.ckd/873fd4a427b7473bda076e30ec8c3063.ckd",
+      "coverImageUrl": "/public/map/SwitchHandyman/pc/SwitchHandyman_Cover_Generic.tga.ckd/810f65032dd830adbc97c138b4fb0e05.ckd",
+      "expandCoachImageUrl": "/public/map/SwitchHandyman/pc/SwitchHandyman_Cover_AlbumCoach.tga.ckd/ca97f2551520d420597c96ff432d3806.ckd",
+      "map_bkgImageUrl": "/public/map/SwitchHandyman/pc/SwitchHandyman_map_bkg.tga.ckd/0e8a6750ded17f1a50614374237b9e44.ckd",
+      "banner_bkgImageUrl": "/public/map/SwitchHandyman/pc/SwitchHandyman_banner_bkg.tga.ckd/fc7eea87e2d3491681069bbaf36a8bfb.ckd",
+      "coach1ImageUrl": "/public/map/SwitchHandyman/pc/SwitchHandyman_Coach_1.tga.ckd/6219a0edb5466d6888c67be82763cc03.ckd",
+      "phoneCoverImageUrl": "/public/map/SwitchHandyman/SwitchHandyman_Cover_Phone.jpg/5bacaba7367c1791804a19f9d847b52d.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SwitchHandyman/SwitchHandyman_Coach_1_Phone.png/d8b1851832fe98e648d977734038fc84.png",
+      "cover640ImageUrl": "/public/map/SwitchHandyman/SwitchHandyman_Cover_640.png/d2eff9f35b05eb320e969548c1c90bf4.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/SwitchHandyman/orbis/SwitchHandyman_Cover_Online.tga.ckd/873fd4a427b7473bda076e30ec8c3063.ckd",
+      "coverImageUrl": "/public/map/SwitchHandyman/orbis/SwitchHandyman_Cover_Generic.tga.ckd/810f65032dd830adbc97c138b4fb0e05.ckd",
+      "expandCoachImageUrl": "/public/map/SwitchHandyman/orbis/SwitchHandyman_Cover_AlbumCoach.tga.ckd/ca97f2551520d420597c96ff432d3806.ckd",
+      "map_bkgImageUrl": "/public/map/SwitchHandyman/orbis/SwitchHandyman_map_bkg.tga.ckd/0e8a6750ded17f1a50614374237b9e44.ckd",
+      "banner_bkgImageUrl": "/public/map/SwitchHandyman/orbis/SwitchHandyman_banner_bkg.tga.ckd/fc7eea87e2d3491681069bbaf36a8bfb.ckd",
+      "coach1ImageUrl": "/public/map/SwitchHandyman/orbis/SwitchHandyman_Coach_1.tga.ckd/6219a0edb5466d6888c67be82763cc03.ckd",
+      "phoneCoverImageUrl": "/public/map/SwitchHandyman/SwitchHandyman_Cover_Phone.jpg/5bacaba7367c1791804a19f9d847b52d.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SwitchHandyman/SwitchHandyman_Coach_1_Phone.png/d8b1851832fe98e648d977734038fc84.png",
+      "cover640ImageUrl": "/public/map/SwitchHandyman/SwitchHandyman_Cover_640.png/d2eff9f35b05eb320e969548c1c90bf4.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/SwitchHandyman/nx/SwitchHandyman_Cover_Online.tga.ckd/35cce0cf2fafac8f93c8839b564cca99.ckd",
+      "coverImageUrl": "/public/map/SwitchHandyman/nx/SwitchHandyman_Cover_Generic.tga.ckd/b7789feaa36ecd4e37ca99edef5d8f3d.ckd",
+      "expandCoachImageUrl": "/public/map/SwitchHandyman/nx/SwitchHandyman_Cover_AlbumCoach.tga.ckd/3c2dab4fd4e3d529dda4cbb2f1d912cf.ckd",
+      "map_bkgImageUrl": "/public/map/SwitchHandyman/nx/SwitchHandyman_map_bkg.tga.ckd/2e4e0ad642cb076d894da439f08ec2d4.ckd",
+      "banner_bkgImageUrl": "/public/map/SwitchHandyman/nx/SwitchHandyman_banner_bkg.tga.ckd/0ccbdcbe885bcf27fcf07b9a17507589.ckd",
+      "coach1ImageUrl": "/public/map/SwitchHandyman/nx/SwitchHandyman_Coach_1.tga.ckd/740ef27a90499b2f521032dbfce0cc75.ckd",
+      "phoneCoverImageUrl": "/public/map/SwitchHandyman/SwitchHandyman_Cover_Phone.jpg/5bacaba7367c1791804a19f9d847b52d.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SwitchHandyman/SwitchHandyman_Coach_1_Phone.png/d8b1851832fe98e648d977734038fc84.png",
+      "cover640ImageUrl": "/public/map/SwitchHandyman/SwitchHandyman_Cover_640.png/d2eff9f35b05eb320e969548c1c90bf4.png"
+    }
+  }
+}

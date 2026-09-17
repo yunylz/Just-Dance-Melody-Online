@@ -1,0 +1,182 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BestSongEver/BestSongEver_HIGH.webm": "/private/map/BestSongEver/BestSongEver_HIGH.webm/3de43b3a0ee2ec74c27bbfdea9d2e769.webm",
+    "jmcs://jd-contents/BestSongEver/BestSongEver_LOW.webm": "/private/map/BestSongEver/BestSongEver_LOW.webm/2cf1da7e1e5e0557aa50206c1223b862.webm",
+    "jmcs://jd-contents/BestSongEver/BestSongEver_MID.webm": "/private/map/BestSongEver/BestSongEver_MID.webm/bd98bd03896e5705b6b85385deb553e9.webm",
+    "jmcs://jd-contents/BestSongEver/BestSongEver_ULTRA.hd.webm": "/private/map/BestSongEver/BestSongEver_ULTRA.hd.webm/6a71de74db0d3f6c8a5996df11c2ea37.webm",
+    "jmcs://jd-contents/BestSongEver/BestSongEver_ULTRA.webm": "/private/map/BestSongEver/BestSongEver_ULTRA.webm/a8e8bf3dbbff84554420d2c511d838d4.webm",
+    "jmcs://jd-contents/BestSongEver/BestSongEver.ogg": "/private/map/BestSongEver/BestSongEver.ogg/926a46f1f0bf7d66b0779847e8ada155.ogg",
+    "jmcs://jd-contents/BestSongEver/BestSongEver_AudioPreview.ogg": "/public/map/BestSongEver/BestSongEver_AudioPreview.ogg/69f567401f92dc2a9871335179f7367d.ogg",
+    "jmcs://jd-contents/BestSongEver/BestSongEver_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BestSongEver/BestSongEver_MapPreviewNoSoundCrop_LOW.vp8.webm/2c5ee7367d0a667228ad28eb748601ba.webm",
+    "jmcs://jd-contents/BestSongEver/BestSongEver_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BestSongEver/BestSongEver_MapPreviewNoSoundCrop_MID.vp8.webm/d391c6da71d70b6029c758175c8c2856.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24287,
+        48623,
+        72911,
+        97199,
+        121535,
+        145823,
+        170111,
+        194447,
+        218735,
+        243023,
+        267359,
+        291647,
+        315935,
+        340271,
+        364559,
+        388847,
+        413183,
+        437471,
+        461759,
+        486095,
+        510383,
+        534671,
+        559007,
+        583295,
+        607583,
+        631919,
+        656207,
+        680495,
+        704831,
+        729119,
+        753407,
+        777742,
+        802030,
+        826318,
+        850654,
+        874942,
+        899230,
+        923566,
+        947854,
+        972142,
+        996430,
+        1020766,
+        1045054,
+        1069342,
+        1093678,
+        1117966,
+        1142254,
+        1166590,
+        1190878,
+        1215166,
+        1239502,
+        1263790,
+        1288078,
+        1312414,
+        1336702,
+        1360990,
+        1385326,
+        1409614,
+        1433902,
+        1458238,
+        1482526
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 382,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BestSongEver/BestSongEver_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "80b56630770f94e551f31fa126efcf78",
+      "storageType": 0,
+      "url": "/public/map/BestSongEver/nx/BestSongEver_MAIN_SCENE_NX.zip/80b56630770f94e551f31fa126efcf78.zip"
+    },
+    "pc": {
+      "md5": "9e8d014df27720c97c7e23fddbbfdf37",
+      "storageType": 0,
+      "url": "/public/map/BestSongEver/pc/BestSongEver_MAIN_SCENE_PC.zip/9e8d014df27720c97c7e23fddbbfdf37.zip"
+    },
+    "ps4": {
+      "md5": "6000f6a0404ba5ae5fddd279821a5af9",
+      "storageType": 0,
+      "url": "/public/map/BestSongEver/orbis/BestSongEver_MAIN_SCENE_ORBIS.zip/6000f6a0404ba5ae5fddd279821a5af9.zip"
+    }
+  },
+  "data": {
+    "mapName": "BestSongEver",
+    "title": "Best Song Ever",
+    "originalJDVersion": 2015,
+    "tags": [
+      "main"
+    ],
+    "artist": "One Direction",
+    "credits": "Written by Julian C. Bunetta, Edward James Drewett, Wayne Anthony Hector and John Henry Ryan. Published by Universal Music Publishing Group a division of Universal Music Canada Inc. / Courtesy of Simco Limited under exclusive license to Sony Music Entertainment UK Limited By arrangement with Sony Music Licensing.",
+    "coachCount": 4,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#4cfd13"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BestSongEver/nx/BestSongEver_banner_bkg.tga.ckd/85ae8b583a845c92c0db6ba7bfa6b540.ckd",
+      "map_bkgImageUrl": "/public/map/BestSongEver/nx/BestSongEver_map_bkg.tga.ckd/aeb92fd4b71768f487442eb62bee8ed8.ckd",
+      "expandCoachImageUrl": "/public/map/BestSongEver/nx/BestSongEver_Cover_AlbumCoach.tga.ckd/85c30b25cad2485463a9894095172c71.ckd",
+      "cover_smallImageUrl": "/public/map/BestSongEver/nx/BestSongEver_Cover_Online.tga.ckd/f7dff16f4400c673c7f99a9c1470bd85.ckd",
+      "coach1ImageUrl": "/public/map/BestSongEver/nx/BestSongEver_Coach_1.tga.ckd/3478b43796c28753cfff0824b5ef666d.ckd",
+      "coach2ImageUrl": "/public/map/BestSongEver/nx/BestSongEver_Coach_2.tga.ckd/26a9bc713390b78520dd3a3c901ed54c.ckd",
+      "coach3ImageUrl": "/public/map/BestSongEver/nx/BestSongEver_Coach_3.tga.ckd/8efe1025a7aa17ba3c76c236fb873e69.ckd",
+      "coach4ImageUrl": "/public/map/BestSongEver/nx/BestSongEver_Coach_4.tga.ckd/a5c5291320ab48a48e37a94e6f9c9fc4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BestSongEver/pc/BestSongEver_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/BestSongEver/pc/BestSongEver_map_bkg.tga.ckd/e6b9bfa1634d5b053d22c8642c9a231f.ckd",
+      "expandCoachImageUrl": "/public/map/BestSongEver/pc/BestSongEver_Cover_AlbumCoach.tga.ckd/ebfa76522ff58613d7dd174fcaf0cfc3.ckd",
+      "cover_smallImageUrl": "/public/map/BestSongEver/pc/BestSongEver_Cover_Online.tga.ckd/43148cda4eab302dc27651aeef8d2bdd.ckd",
+      "coach1ImageUrl": "/public/map/BestSongEver/pc/BestSongEver_Coach_1.tga.ckd/12b7f6cb4984d373ca17f8834cb566ca.ckd",
+      "coach2ImageUrl": "/public/map/BestSongEver/pc/BestSongEver_Coach_2.tga.ckd/065d3f5bd2a62e5d43644ad7d9e3c284.ckd",
+      "coach3ImageUrl": "/public/map/BestSongEver/pc/BestSongEver_Coach_3.tga.ckd/529b06f3f4df3e303d4f71b27c269430.ckd",
+      "coach4ImageUrl": "/public/map/BestSongEver/pc/BestSongEver_Coach_4.tga.ckd/84d98e8ef64ebde0f0b65d6dcb72955c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BestSongEver/orbis/BestSongEver_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/BestSongEver/orbis/BestSongEver_map_bkg.tga.ckd/e6b9bfa1634d5b053d22c8642c9a231f.ckd",
+      "expandCoachImageUrl": "/public/map/BestSongEver/orbis/BestSongEver_Cover_AlbumCoach.tga.ckd/ebfa76522ff58613d7dd174fcaf0cfc3.ckd",
+      "cover_smallImageUrl": "/public/map/BestSongEver/orbis/BestSongEver_Cover_Online.tga.ckd/43148cda4eab302dc27651aeef8d2bdd.ckd",
+      "coach1ImageUrl": "/public/map/BestSongEver/orbis/BestSongEver_Coach_1.tga.ckd/12b7f6cb4984d373ca17f8834cb566ca.ckd",
+      "coach2ImageUrl": "/public/map/BestSongEver/orbis/BestSongEver_Coach_2.tga.ckd/065d3f5bd2a62e5d43644ad7d9e3c284.ckd",
+      "coach3ImageUrl": "/public/map/BestSongEver/orbis/BestSongEver_Coach_3.tga.ckd/529b06f3f4df3e303d4f71b27c269430.ckd",
+      "coach4ImageUrl": "/public/map/BestSongEver/orbis/BestSongEver_Coach_4.tga.ckd/84d98e8ef64ebde0f0b65d6dcb72955c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BestSongEver/BestSongEver_Coach_1_Phone.png/297c429ecd2b1c1f576a92c6d1b0f1a6.png",
+    "phoneCoach2ImageUrl": "/public/map/BestSongEver/BestSongEver_Coach_2_Phone.png/7a0e1d84ea25651acdcd44df625a3604.png",
+    "phoneCoach3ImageUrl": "/public/map/BestSongEver/BestSongEver_Coach_3_Phone.png/1e9ebe251918c1610a15f305fa5ade0e.png",
+    "phoneCoach4ImageUrl": "/public/map/BestSongEver/BestSongEver_Coach_4_Phone.png/222b14887d6b7c9974a331c769bc1041.png",
+    "phoneCoverImageUrl": "/public/map/BestSongEver/BestSongEver_Cover_Phone.jpg/29b69f73fab4d4a8ed7c592200c84d78.jpg",
+    "cover640ImageUrl": "/public/map/BestSongEver/BestSongEver_Cover_640.png/f183143834ac786f30deeb598924b002.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496400\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BestSongEver/BestSongEver_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"607-1096\">\n\t\t\t\t\t<Initialization range=\"0-607\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478441\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BestSongEver/BestSongEver_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\n\t\t\t\t\t<Initialization range=\"0-608\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 194.93725
+}

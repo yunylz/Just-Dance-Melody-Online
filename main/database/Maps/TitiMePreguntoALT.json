@@ -1,0 +1,187 @@
+{
+  "urls": {
+    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_AudioPreview.ogg": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_AudioPreview.ogg/11f15d2645965caf96d95191d72d891a.ogg",
+    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT.ogg": "/private/map/TitiMePreguntoALT/TitiMePreguntoALT.ogg/8d138d9701edb66b1edc1b402c987995.ogg",
+    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_LOW.vp8.webm/27ca72a500825b26d64f6efbf93072de.webm",
+    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_MID.vp8.webm/63e494c1848e28dad915907262aa1934.webm",
+    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_ULTRA.hd.webm": "/private/map/TitiMePreguntoALT/TitiMePreguntoALT_ULTRA.hd.webm/a3efc7e40e469c7c249c2a2ee725eec4.webm",
+    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_HIGH.hd.webm": "/private/map/TitiMePreguntoALT/TitiMePreguntoALT_HIGH.hd.webm/62265b0fd92f9517fabc86f74c67eae4.webm",
+    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_MID.hd.webm": "/private/map/TitiMePreguntoALT/TitiMePreguntoALT_MID.hd.webm/1653523a3d2ced3c17e7d71eb87a9edf.webm",
+    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_LOW.hd.webm": "/private/map/TitiMePreguntoALT/TitiMePreguntoALT_LOW.hd.webm/5509c9b9b5c19bddb85d89a859b5df3a.webm",
+    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/67750edbf2974eebeb1d08f051fe81f7.webm",
+    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c33313ac2faf73d4a101c083ae0e0658.webm"
+  },
+  "mapLength": 245.16836458333333,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25946,
+        51892,
+        77838,
+        103784,
+        129730,
+        155676,
+        181622,
+        207568,
+        233513,
+        259459,
+        285405,
+        311351,
+        337297,
+        363243,
+        389189,
+        415135,
+        441081,
+        467027,
+        492973,
+        518919,
+        544865,
+        570811,
+        596757,
+        622703,
+        648649,
+        674595,
+        700541,
+        726486,
+        752432,
+        778378,
+        804324,
+        830270,
+        856216,
+        884177,
+        912139,
+        940100,
+        968061,
+        996022,
+        1023983,
+        1051944,
+        1079906,
+        1107867,
+        1135828,
+        1163789,
+        1191750,
+        1219711,
+        1247673,
+        1275634,
+        1303595,
+        1331556,
+        1359517,
+        1387478,
+        1415439
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 429,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"644458\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"806-1296\">\n\t\t\t\t\t<Initialization range=\"0-806\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483061\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"806-1296\">\n\t\t\t\t\t<Initialization range=\"0-806\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2943960\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"806-1296\">\n\t\t\t\t\t<Initialization range=\"0-806\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"5648094\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"806-1302\">\n\t\t\t\t\t<Initialization range=\"0-806\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "43d723696d8a5a809c96f7387e769730",
+      "storageType": 0,
+      "url": "/public/map/TitiMePreguntoALT/pc/TitiMePreguntoALT_MAIN_SCENE_PC.zip/43d723696d8a5a809c96f7387e769730.zip"
+    },
+    "ps4": {
+      "md5": "56ed79ab5b99f5accecb3d603252b636",
+      "storageType": 0,
+      "url": "/public/map/TitiMePreguntoALT/orbis/TitiMePreguntoALT_MAIN_SCENE_ORBIS.zip/56ed79ab5b99f5accecb3d603252b636.zip"
+    },
+    "wiiu": {
+      "md5": "8084e3e482ce22dba17018542c806e47",
+      "storageType": 0,
+      "url": "/public/map/TitiMePreguntoALT/wiiu/TitiMePreguntoALT_MAIN_SCENE_WIIU.zip/8084e3e482ce22dba17018542c806e47.zip"
+    },
+    "nx": {
+      "md5": "8c0d93c7849742445c7c9c5e1e68d864",
+      "storageType": 0,
+      "url": "/public/map/TitiMePreguntoALT/nx/TitiMePreguntoALT_MAIN_SCENE_NX.zip/8c0d93c7849742445c7c9c5e1e68d864.zip"
+    }
+  },
+  "data": {
+    "mapName": "TitiMePreguntoALT",
+    "title": "Tití Me Preguntó",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Bad Bunny",
+    "credits": "Written by Benito Antonio Martinez Ocasio, Marco Borrero, Roberto J. Rosado Torres. Published by Universal Music Publishing Canada on behalf of RSM Publishing A Division of Rimas Entertainment and Universal Music Corp. / Marco Borrero BMI pub designee. All rights on behalf of Marco Borrero BMI pub designee administered by Warner-Tamerlane Publishing Corp. / Roberto J. Rosado Torres. Courtesy of RIMAS Entertainment LLC. By arrangement with The Orchard.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#79DDF6",
+    "songColor2A": "#E89663",
+    "songColor1B": "#270564",
+    "songColor2B": "#883706",
+    "lyricsColor": "#A9D72E",
+    "LocaleID": 20003367
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/TitiMePreguntoALT/pc/TitiMePreguntoALT_Cover_Online.tga.ckd/103633378fcd8d3fda36c22117c11665.ckd",
+      "coverImageUrl": "/public/map/TitiMePreguntoALT/pc/TitiMePreguntoALT_Cover_Generic.tga.ckd/0353c8eaced4f8285d67ac5fa62a82d8.ckd",
+      "expandCoachImageUrl": "/public/map/TitiMePreguntoALT/pc/TitiMePreguntoALT_Cover_AlbumCoach.tga.ckd/921c2617381ca543e6a6444c2889f229.ckd",
+      "map_bkgImageUrl": "/public/map/TitiMePreguntoALT/pc/TitiMePreguntoALT_map_bkg.tga.ckd/d297fe56630358d24d695bd493dba1ed.ckd",
+      "banner_bkgImageUrl": "/public/map/TitiMePreguntoALT/pc/TitiMePreguntoALT_banner_bkg.tga.ckd/cad4392e050bf1e91fd838ee2d60236e.ckd",
+      "coach1ImageUrl": "/public/map/TitiMePreguntoALT/pc/TitiMePreguntoALT_Coach_1.tga.ckd/43f35a904068f10f17517a859812d7bf.ckd",
+      "coach2ImageUrl": "/public/map/TitiMePreguntoALT/pc/TitiMePreguntoALT_Coach_2.tga.ckd/09f44bc062cc2335c60b94249fd5ac26.ckd",
+      "phoneCoverImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Cover_Phone.jpg/8a7686987f9437e468a4a1ed40637777.jpg",
+      "phoneCoach1ImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Coach_1_Phone.png/02e7c35389f918f5dc2df7c75d68f044.png",
+      "phoneCoach2ImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Coach_2_Phone.png/a64b82a57ee369895ffaf6379018d424.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/TitiMePreguntoALT/orbis/TitiMePreguntoALT_Cover_Online.tga.ckd/103633378fcd8d3fda36c22117c11665.ckd",
+      "coverImageUrl": "/public/map/TitiMePreguntoALT/orbis/TitiMePreguntoALT_Cover_Generic.tga.ckd/0353c8eaced4f8285d67ac5fa62a82d8.ckd",
+      "expandCoachImageUrl": "/public/map/TitiMePreguntoALT/orbis/TitiMePreguntoALT_Cover_AlbumCoach.tga.ckd/921c2617381ca543e6a6444c2889f229.ckd",
+      "map_bkgImageUrl": "/public/map/TitiMePreguntoALT/orbis/TitiMePreguntoALT_map_bkg.tga.ckd/d297fe56630358d24d695bd493dba1ed.ckd",
+      "banner_bkgImageUrl": "/public/map/TitiMePreguntoALT/orbis/TitiMePreguntoALT_banner_bkg.tga.ckd/cad4392e050bf1e91fd838ee2d60236e.ckd",
+      "coach1ImageUrl": "/public/map/TitiMePreguntoALT/orbis/TitiMePreguntoALT_Coach_1.tga.ckd/43f35a904068f10f17517a859812d7bf.ckd",
+      "coach2ImageUrl": "/public/map/TitiMePreguntoALT/orbis/TitiMePreguntoALT_Coach_2.tga.ckd/09f44bc062cc2335c60b94249fd5ac26.ckd",
+      "phoneCoverImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Cover_Phone.jpg/8a7686987f9437e468a4a1ed40637777.jpg",
+      "phoneCoach1ImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Coach_1_Phone.png/02e7c35389f918f5dc2df7c75d68f044.png",
+      "phoneCoach2ImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Coach_2_Phone.png/a64b82a57ee369895ffaf6379018d424.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/TitiMePreguntoALT/wiiu/TitiMePreguntoALT_Cover_Online.tga.ckd/d3f0f0155ef5a1b78f9d28987d60b95e.ckd",
+      "coverImageUrl": "/public/map/TitiMePreguntoALT/wiiu/TitiMePreguntoALT_Cover_Generic.tga.ckd/f02026eb306a17632866bcef56822f75.ckd",
+      "expandCoachImageUrl": "/public/map/TitiMePreguntoALT/wiiu/TitiMePreguntoALT_Cover_AlbumCoach.tga.ckd/9cf59954a916427b1d2fcd79fd85ca92.ckd",
+      "map_bkgImageUrl": "/public/map/TitiMePreguntoALT/wiiu/TitiMePreguntoALT_map_bkg.tga.ckd/64d028c9efca5a94aa6eb1105491f2e3.ckd",
+      "banner_bkgImageUrl": "/public/map/TitiMePreguntoALT/wiiu/TitiMePreguntoALT_banner_bkg.tga.ckd/13c2c5ce38dde6fed4e73129bae43efa.ckd",
+      "coach1ImageUrl": "/public/map/TitiMePreguntoALT/wiiu/TitiMePreguntoALT_Coach_1.tga.ckd/d737cbcb32327dae6373204fe3b6bdde.ckd",
+      "coach2ImageUrl": "/public/map/TitiMePreguntoALT/wiiu/TitiMePreguntoALT_Coach_2.tga.ckd/2663b803d27a8913f6ad87351be7933e.ckd",
+      "phoneCoverImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Cover_Phone.jpg/8a7686987f9437e468a4a1ed40637777.jpg",
+      "phoneCoach1ImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Coach_1_Phone.png/02e7c35389f918f5dc2df7c75d68f044.png",
+      "phoneCoach2ImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Coach_2_Phone.png/a64b82a57ee369895ffaf6379018d424.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/TitiMePreguntoALT/nx/TitiMePreguntoALT_Cover_Online.tga.ckd/ed6ceab4105c25e82c0bf0184762e26b.ckd",
+      "coverImageUrl": "/public/map/TitiMePreguntoALT/nx/TitiMePreguntoALT_Cover_Generic.tga.ckd/5a9c9a6cd0fb5b57d3badd5e8eaefa55.ckd",
+      "expandCoachImageUrl": "/public/map/TitiMePreguntoALT/nx/TitiMePreguntoALT_Cover_AlbumCoach.tga.ckd/ac1d63888f8ed442db94b9711fcd6327.ckd",
+      "map_bkgImageUrl": "/public/map/TitiMePreguntoALT/nx/TitiMePreguntoALT_map_bkg.tga.ckd/258b65a42614e8beb53f76a60075756c.ckd",
+      "banner_bkgImageUrl": "/public/map/TitiMePreguntoALT/nx/TitiMePreguntoALT_banner_bkg.tga.ckd/e03c7960c5c0ca39de72ebb5dbe20e21.ckd",
+      "coach1ImageUrl": "/public/map/TitiMePreguntoALT/nx/TitiMePreguntoALT_Coach_1.tga.ckd/6db5d3d45de6977e77bece7a97bb02c7.ckd",
+      "coach2ImageUrl": "/public/map/TitiMePreguntoALT/nx/TitiMePreguntoALT_Coach_2.tga.ckd/5a96bd92df4931af744946d8470684f3.ckd",
+      "phoneCoverImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Cover_Phone.jpg/8a7686987f9437e468a4a1ed40637777.jpg",
+      "phoneCoach1ImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Coach_1_Phone.png/02e7c35389f918f5dc2df7c75d68f044.png",
+      "phoneCoach2ImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Coach_2_Phone.png/a64b82a57ee369895ffaf6379018d424.png"
+    },
+    "cover640ImageUrl": "/public/map/TitiMePreguntoALT/TitiMePreguntoALT_Cover_640.png/206c0626d158e842f86423a52e72e348.png"
+  }
+}

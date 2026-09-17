@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "eb6bb02cfcba4105c95eb5809c8e3667",
+      "storageType": 0,
+      "url": "/public/map/Dare/nx/Dare_MAIN_SCENE_NX.zip/eb6bb02cfcba4105c95eb5809c8e3667.zip"
+    },
+    "pc": {
+      "md5": "0512b91265837a4e52f4bd2caa0524eb",
+      "storageType": 0,
+      "url": "/public/map/Dare/pc/Dare_MAIN_SCENE_PC.zip/0512b91265837a4e52f4bd2caa0524eb.zip"
+    },
+    "ps4": {
+      "md5": "8ed8ccb6420b7f53e33d0d5d537fb550",
+      "storageType": 0,
+      "url": "/public/map/Dare/orbis/Dare_MAIN_SCENE_ORBIS.zip/8ed8ccb6420b7f53e33d0d5d537fb550.zip"
+    }
+  },
+  "data": {
+    "mapName": "Dare",
+    "title": "Dare",
+    "originalJDVersion": 1,
+    "tags": [
+      "subscribedSong",
+      "JustDance1",
+      "Solo",
+      "Medium",
+      "forcerumble"
+    ],
+    "artist": "Gorillaz",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#dd0a0a",
+    "songColor2A": "#f7d206",
+    "songColor1B": "#020000",
+    "songColor2B": "#800000",
+    "lyricsColor": "#dc1002"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24048,
+        47856,
+        71808,
+        95760,
+        119664,
+        143616,
+        167568,
+        191520,
+        215904,
+        239808,
+        263760,
+        287712,
+        311664,
+        335568,
+        359520,
+        383472,
+        407424,
+        431376,
+        455280,
+        479232,
+        503184,
+        527136,
+        551040,
+        574992,
+        598944,
+        622896,
+        646800,
+        670752,
+        694704,
+        718656,
+        742560,
+        766512,
+        790464,
+        814416,
+        838320,
+        862272,
+        886656,
+        910608,
+        934080,
+        958032,
+        981984,
+        1006176,
+        1030128,
+        1054032,
+        1077984,
+        1101936,
+        1125888,
+        1149792,
+        1173744,
+        1197696,
+        1221648,
+        1245552,
+        1269504,
+        1293456,
+        1317552,
+        1341504,
+        1365456,
+        1389408,
+        1413312,
+        1437264
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 455,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Dare/Dare_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Dare/nx/Dare_banner_bkg.tga.ckd/f41260e6d6e6ef493a7ca00465968483.ckd",
+      "map_bkgImageUrl": "/public/map/Dare/nx/Dare_map_bkg.tga.ckd/5c67ace3e97b438f11574daab0506fbb.ckd",
+      "expandCoachImageUrl": "/public/map/Dare/nx/Dare_Cover_AlbumCoach.tga.ckd/9ce6082443e2670357dd086a1911dfed.ckd",
+      "cover_smallImageUrl": "/public/map/Dare/nx/Dare_Cover_Online.tga.ckd/1f0038bd3618283399a63d200e471e30.ckd",
+      "coverImageUrl": "/public/map/Dare/nx/Dare_Cover_Generic.tga.ckd/68b338c1111f7ea965e3813e5815cdc4.ckd",
+      "coach1ImageUrl": "/public/map/Dare/nx/Dare_Coach_1.tga.ckd/f3ad4f7e6c6c5037aa7563e46e2bee44.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Dare/pc/Dare_banner_bkg.tga.ckd/dee999ba16adca382f21617e2031bf7d.ckd",
+      "map_bkgImageUrl": "/public/map/Dare/pc/Dare_map_bkg.tga.ckd/2b2f3339d11b53e00937f2e1576ae265.ckd",
+      "expandCoachImageUrl": "/public/map/Dare/pc/Dare_Cover_AlbumCoach.tga.ckd/0b6329d6b76e5d6c5dc685cf5bafe3fe.ckd",
+      "cover_smallImageUrl": "/public/map/Dare/pc/Dare_Cover_Online.tga.ckd/299d8cd00e102be1151c3f4aaa0547ad.ckd",
+      "coverImageUrl": "/public/map/Dare/pc/Dare_Cover_Generic.tga.ckd/bc12b48681154b921f979df27dad3c53.ckd",
+      "coach1ImageUrl": "/public/map/Dare/pc/Dare_Coach_1.tga.ckd/ffb965c395d5c2c80f8e7e4125909766.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Dare/orbis/Dare_banner_bkg.tga.ckd/dee999ba16adca382f21617e2031bf7d.ckd",
+      "map_bkgImageUrl": "/public/map/Dare/orbis/Dare_map_bkg.tga.ckd/2b2f3339d11b53e00937f2e1576ae265.ckd",
+      "expandCoachImageUrl": "/public/map/Dare/orbis/Dare_Cover_AlbumCoach.tga.ckd/0b6329d6b76e5d6c5dc685cf5bafe3fe.ckd",
+      "cover_smallImageUrl": "/public/map/Dare/orbis/Dare_Cover_Online.tga.ckd/299d8cd00e102be1151c3f4aaa0547ad.ckd",
+      "coverImageUrl": "/public/map/Dare/orbis/Dare_Cover_Generic.tga.ckd/bc12b48681154b921f979df27dad3c53.ckd",
+      "coach1ImageUrl": "/public/map/Dare/orbis/Dare_Coach_1.tga.ckd/ffb965c395d5c2c80f8e7e4125909766.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Dare/Dare_Coach_1_Phone.png/b9a4c01b8fe11e6bfd64f80a5ea8136b.png",
+    "phoneCoverImageUrl": "/public/map/Dare/Dare_Cover_Phone.jpg/79e00bb188c40c6ba9bd958ea531e7da.jpg",
+    "cover640ImageUrl": "/public/map/Dare/Dare_Cover_640.png/c8917ea4bf06437f4c1ec1fac46a829b.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Dare/Dare.ogg": "/private/map/Dare/Dare.ogg/1569f3f12d9cec68d2238cd5b8956a46.ogg",
+    "jmcs://jd-contents/Dare/Dare_AudioPreview.ogg": "/public/map/Dare/Dare_AudioPreview.ogg/89d7ebfd06ab5b0a20f9fcb3bf14b958.ogg",
+    "jmcs://jd-contents/Dare/Dare_HIGH.webm": "/private/map/Dare/Dare_HIGH.webm/969ff5f86901d2eccdd45de91cf17da5.webm",
+    "jmcs://jd-contents/Dare/Dare_LOW.webm": "/private/map/Dare/Dare_LOW.webm/106e98d60cce0463e33e8ae0c9b6e7f0.webm",
+    "jmcs://jd-contents/Dare/Dare_MID.webm": "/private/map/Dare/Dare_MID.webm/17754722317398851296725ed075b03a.webm",
+    "jmcs://jd-contents/Dare/Dare_ULTRA.hd.webm": "/private/map/Dare/Dare_ULTRA.hd.webm/5aa316b0db2a75157ed7ba30fe06e8ab.webm",
+    "jmcs://jd-contents/Dare/Dare_ULTRA.webm": "/private/map/Dare/Dare_ULTRA.webm/d09ca45851e30ff4642bf7aa47e5ec0c.webm",
+    "jmcs://jd-contents/Dare/Dare_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Dare/Dare_MapPreviewNoSoundCrop_LOW.vp8.webm/0eaf151a89e3369fc6ca708e8ace7464.webm",
+    "jmcs://jd-contents/Dare/Dare_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Dare/Dare_MapPreviewNoSoundCrop_MID.vp8.webm/5edf620152fa0007a471ae4e43eaa2f1.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500221\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dare/Dare_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478399\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dare/Dare_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 226.95925
+}

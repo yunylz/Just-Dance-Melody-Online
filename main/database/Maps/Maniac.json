@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3267846175521540d12fb06966d458ea",
+      "storageType": 0,
+      "url": "/public/map/Maniac/nx/Maniac_MAIN_SCENE_NX.zip/3267846175521540d12fb06966d458ea.zip"
+    },
+    "pc": {
+      "md5": "98944ec0b3bbcf508879c7e8ec201534",
+      "storageType": 0,
+      "url": "/public/map/Maniac/pc/Maniac_MAIN_SCENE_PC.zip/98944ec0b3bbcf508879c7e8ec201534.zip"
+    },
+    "ps4": {
+      "md5": "6d44e0d36657f18b44a36a98ca624930",
+      "storageType": 0,
+      "url": "/public/map/Maniac/orbis/Maniac_MAIN_SCENE_ORBIS.zip/6d44e0d36657f18b44a36a98ca624930.zip"
+    }
+  },
+  "data": {
+    "mapName": "Maniac",
+    "title": "Maniac",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Michael Sembello",
+    "credits": "Composed by Dennis Joseph Matkosky and Michael Sembello, Produced by Phill Ramone and Michael Sembello. Distributed by Yellow Dot. All rights reserved.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#F9005B",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        18384,
+        36720,
+        55056,
+        73392,
+        91728,
+        110064,
+        128400,
+        146784,
+        165120,
+        183456,
+        201792,
+        220128,
+        238464,
+        256848,
+        275184,
+        293520,
+        311856,
+        330192,
+        348528,
+        366864,
+        385248,
+        403584,
+        421920,
+        440256,
+        458592,
+        476928,
+        495312,
+        513648,
+        531984,
+        550320,
+        568656,
+        586992,
+        605328,
+        623712,
+        642048,
+        660384,
+        678720,
+        697056,
+        715392,
+        733776,
+        752112,
+        770448,
+        788016,
+        806352,
+        824688,
+        843024,
+        861360,
+        879696,
+        898080,
+        916416,
+        934752,
+        953088,
+        971424,
+        989760,
+        1008144,
+        1026480,
+        1044816,
+        1063152,
+        1081488,
+        1099824,
+        1118160,
+        1136544,
+        1154880,
+        1173216,
+        1191552,
+        1209888,
+        1228224,
+        1246608,
+        1264944,
+        1283280,
+        1301616,
+        1319952,
+        1338048,
+        1356384,
+        1374720,
+        1393056,
+        1411392,
+        1429776
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 634,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 79,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Maniac/Maniac_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Maniac/nx/Maniac_banner_bkg.tga.ckd/d907c6711e1f0d0b968b3df22af9e082.ckd",
+      "map_bkgImageUrl": "/public/map/Maniac/nx/Maniac_map_bkg.tga.ckd/0a020109d97d6a6afcac7f67a16489c9.ckd",
+      "expandCoachImageUrl": "/public/map/Maniac/nx/Maniac_Cover_AlbumCoach.tga.ckd/41c02b8eaba4289387e795992712f12d.ckd",
+      "cover_smallImageUrl": "/public/map/Maniac/nx/Maniac_Cover_Online.tga.ckd/dd772c1c8d47afa6bb1e09adc04eb4e4.ckd",
+      "coach1ImageUrl": "/public/map/Maniac/nx/Maniac_Coach_1.tga.ckd/7d4d7f2488bf2b1b88139801f2adaab0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Maniac/pc/Maniac_banner_bkg.tga.ckd/7d8a384424498c1c95d73f4fb418a4bc.ckd",
+      "map_bkgImageUrl": "/public/map/Maniac/pc/Maniac_map_bkg.tga.ckd/f33e913ad22470a244f8ec123ce1854a.ckd",
+      "expandCoachImageUrl": "/public/map/Maniac/pc/Maniac_Cover_AlbumCoach.tga.ckd/ec6fe51a8a8d1eee453746f30a29ab5a.ckd",
+      "cover_smallImageUrl": "/public/map/Maniac/pc/Maniac_Cover_Online.tga.ckd/61525ec8f8654d85cee5e5c1f5d56962.ckd",
+      "coach1ImageUrl": "/public/map/Maniac/pc/Maniac_Coach_1.tga.ckd/3a0647170a3a55317f63d47fa7520b73.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Maniac/orbis/Maniac_banner_bkg.tga.ckd/7d8a384424498c1c95d73f4fb418a4bc.ckd",
+      "map_bkgImageUrl": "/public/map/Maniac/orbis/Maniac_map_bkg.tga.ckd/f33e913ad22470a244f8ec123ce1854a.ckd",
+      "expandCoachImageUrl": "/public/map/Maniac/orbis/Maniac_Cover_AlbumCoach.tga.ckd/ec6fe51a8a8d1eee453746f30a29ab5a.ckd",
+      "cover_smallImageUrl": "/public/map/Maniac/orbis/Maniac_Cover_Online.tga.ckd/61525ec8f8654d85cee5e5c1f5d56962.ckd",
+      "coach1ImageUrl": "/public/map/Maniac/orbis/Maniac_Coach_1.tga.ckd/3a0647170a3a55317f63d47fa7520b73.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Maniac/Maniac_Coach_1_Phone.png/7c13ff24d1b19dd4207bdc888ce891a7.png",
+    "phoneCoverImageUrl": "/public/map/Maniac/Maniac_Cover_Phone.jpg/a9211b8d2fae5cbdd5b3ff3aef5448c0.jpg",
+    "cover640ImageUrl": "/public/map/Maniac/Maniac_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Maniac/Maniac.ogg": "/private/map/Maniac/Maniac.ogg/433a80c35295d37128d65b9c69698ea9.ogg",
+    "jmcs://jd-contents/Maniac/Maniac_AudioPreview.ogg": "/public/map/Maniac/Maniac_AudioPreview.ogg/3364586887aac7fbc34cdf3b322ae0ed.ogg",
+    "jmcs://jd-contents/Maniac/Maniac_HIGH.webm": "/private/map/Maniac/Maniac_HIGH.webm/c94f58e274c3d1e671ee60846ee4ab10.webm",
+    "jmcs://jd-contents/Maniac/Maniac_LOW.webm": "/private/map/Maniac/Maniac_LOW.webm/f02820070ceabb75eaeff20472d3537f.webm",
+    "jmcs://jd-contents/Maniac/Maniac_MID.webm": "/private/map/Maniac/Maniac_MID.webm/d6eb5a32d8e2364c61417d2273fc259b.webm",
+    "jmcs://jd-contents/Maniac/Maniac_ULTRA.hd.webm": "/private/map/Maniac/Maniac_ULTRA.hd.webm/2c86f512a4a7cf7a42786ef4a33b4dd9.webm",
+    "jmcs://jd-contents/Maniac/Maniac_ULTRA.webm": "/private/map/Maniac/Maniac_ULTRA.webm/258e7ab18e903597334f9fbde4861a78.webm",
+    "jmcs://jd-contents/Maniac/Maniac_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Maniac/Maniac_MapPreviewNoSoundCrop_LOW.vp8.webm/ca47c122b71c460b19de69dcc66f02b0.webm",
+    "jmcs://jd-contents/Maniac/Maniac_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Maniac/Maniac_MapPreviewNoSoundCrop_MID.vp8.webm/49fb2c37cd4f32d9c7febea6ab09df3e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"510817\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Maniac/Maniac_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1458759\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Maniac/Maniac_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 242.59625
+}

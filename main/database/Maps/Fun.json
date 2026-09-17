@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "056145dd90575c751fd9b587af689eab",
+      "storageType": 0,
+      "url": "/public/map/Fun/nx/Fun_MAIN_SCENE_NX.zip/056145dd90575c751fd9b587af689eab.zip"
+    },
+    "pc": {
+      "md5": "6df1ee23ab63e0204fc86a543a6e4c95",
+      "storageType": 0,
+      "url": "/public/map/Fun/pc/Fun_MAIN_SCENE_PC.zip/6df1ee23ab63e0204fc86a543a6e4c95.zip"
+    },
+    "ps4": {
+      "md5": "ac14fafd31d8b03753eced5ba734f93b",
+      "storageType": 0,
+      "url": "/public/map/Fun/orbis/Fun_MAIN_SCENE_ORBIS.zip/ac14fafd31d8b03753eced5ba734f93b.zip"
+    }
+  },
+  "data": {
+    "mapName": "Fun",
+    "title": "Fun",
+    "originalJDVersion": 2016,
+    "tags": [
+      "main"
+    ],
+    "artist": "Pitbull Ft. Chris Brown",
+    "credits": "Written by Armando Christian Perez, Jason Evigan, Clarence Coffee, Jr., Marcus Lomax, Jordan Kendall Johnson, Stefan Johnson, Alexander Izquierdo, Al Burna and Chris Brown. Published by BMG Platinum Songs (BMI)/R8D Music (BMI)/BMG Gold Songs (ASCAP)/AIX Publishing (ASCAP)/Bad Robot (BMI)/The Lone Pharoah Music Publishing (ASCAP)/One Stop Coffee Shop (ASCAP) / BBMG/1916 Publishing/Nettwerk One Music Ltd., worldwide administration by Nettwerk One Music Ltd. / Universal Music Publishing, a division of Universal Music Canada Inc. (SOCAN). / Abuela Y Tia Songs (BMI) c/o Sony/ATV Music Publishing Canada (SOCAN). All rights reserved. Used with permission. Courtesy of Mr. 305/Polo Grounds Music/RCA Records. Chris Brown appears courtesy of RCA Records. By arrangement with Sony Music Entertainment. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#5725ff",
+    "songColor2A": "#ffa579",
+    "songColor1B": "#000a37",
+    "songColor2B": "#a75371",
+    "lyricsColor": "#feb18c",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25247,
+        50543,
+        75791,
+        101039,
+        126335,
+        151583,
+        176831,
+        202127,
+        227375,
+        252623,
+        277871,
+        303167,
+        328415,
+        353663,
+        378959,
+        404207,
+        429455,
+        454751,
+        479999,
+        505247,
+        530543,
+        555791,
+        581039,
+        606335,
+        631583,
+        656831,
+        682127,
+        707375,
+        732623,
+        757871,
+        783167,
+        808415,
+        833663,
+        858959,
+        884207,
+        909455,
+        934751,
+        959999,
+        985247,
+        1010543,
+        1035791,
+        1061039,
+        1086335,
+        1111583,
+        1136831,
+        1162127,
+        1187375,
+        1212623,
+        1237871,
+        1263167,
+        1288415,
+        1313663,
+        1338959,
+        1364207,
+        1389455,
+        1414751,
+        1439999,
+        1465247,
+        1490543
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 383,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Fun/Fun_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Fun/nx/Fun_banner_bkg.tga.ckd/2b910e579b7dc141120e68fe81d541c6.ckd",
+      "map_bkgImageUrl": "/public/map/Fun/nx/Fun_map_bkg.tga.ckd/74c86f10af7d1d71909eb4e220b695f8.ckd",
+      "expandCoachImageUrl": "/public/map/Fun/nx/Fun_Cover_AlbumCoach.tga.ckd/2e8d0ac87c1b6ae95993f77956cd1786.ckd",
+      "cover_smallImageUrl": "/public/map/Fun/nx/Fun_Cover_Online.tga.ckd/db457f4576180c0a6044948964c9ef17.ckd",
+      "coach1ImageUrl": "/public/map/Fun/nx/Fun_Coach_1.tga.ckd/85360a99210fd64473cd80291899e11e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Fun/pc/Fun_banner_bkg.tga.ckd/41ddfd192f5d3c59faca4842dcb3d1d5.ckd",
+      "map_bkgImageUrl": "/public/map/Fun/pc/Fun_map_bkg.tga.ckd/6e56b1dcdd56047e4102e8eebc74b895.ckd",
+      "expandCoachImageUrl": "/public/map/Fun/pc/Fun_Cover_AlbumCoach.tga.ckd/2ef753f2f4dc9e3ca6c55a443df0bd1b.ckd",
+      "cover_smallImageUrl": "/public/map/Fun/pc/Fun_Cover_Online.tga.ckd/6e6f7b70eec1998f4bc81a0c4a7b4a00.ckd",
+      "coach1ImageUrl": "/public/map/Fun/pc/Fun_Coach_1.tga.ckd/ca332df011d6e14401465fe0e0182f85.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Fun/orbis/Fun_banner_bkg.tga.ckd/41ddfd192f5d3c59faca4842dcb3d1d5.ckd",
+      "map_bkgImageUrl": "/public/map/Fun/orbis/Fun_map_bkg.tga.ckd/6e56b1dcdd56047e4102e8eebc74b895.ckd",
+      "expandCoachImageUrl": "/public/map/Fun/orbis/Fun_Cover_AlbumCoach.tga.ckd/2ef753f2f4dc9e3ca6c55a443df0bd1b.ckd",
+      "cover_smallImageUrl": "/public/map/Fun/orbis/Fun_Cover_Online.tga.ckd/6e6f7b70eec1998f4bc81a0c4a7b4a00.ckd",
+      "coach1ImageUrl": "/public/map/Fun/orbis/Fun_Coach_1.tga.ckd/ca332df011d6e14401465fe0e0182f85.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Fun/Fun_Coach_1_Phone.png/6f7459094b5cd4d52caf857757057f99.png",
+    "phoneCoverImageUrl": "/public/map/Fun/Fun_Cover_Phone.jpg/3e127164a1664f8d29aaecb7cf1b40c7.jpg",
+    "cover640ImageUrl": "/public/map/Fun/Fun_Cover_640.png/f24e5046389827ad3efb61a9a19343b9.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Fun/Fun.ogg": "/private/map/Fun/Fun.ogg/52a8eeb25480d47d429bd9981adf2b50.ogg",
+    "jmcs://jd-contents/Fun/Fun_AudioPreview.ogg": "/public/map/Fun/Fun_AudioPreview.ogg/c1a1d0940bf23493211116bc914fc5d3.ogg",
+    "jmcs://jd-contents/Fun/Fun_HIGH.webm": "/private/map/Fun/Fun_HIGH.webm/65e8c1a16aaa0df2e89f5bc9310a16e6.webm",
+    "jmcs://jd-contents/Fun/Fun_LOW.webm": "/private/map/Fun/Fun_LOW.webm/18ea6ae4813e6fc4023e2c6025abf77b.webm",
+    "jmcs://jd-contents/Fun/Fun_MID.webm": "/private/map/Fun/Fun_MID.webm/4fab7fd565a2234ba43bbd8c0e93dbb0.webm",
+    "jmcs://jd-contents/Fun/Fun_ULTRA.hd.webm": "/private/map/Fun/Fun_ULTRA.hd.webm/753f73bd5ed9b819364ceb47b8917fe9.webm",
+    "jmcs://jd-contents/Fun/Fun_ULTRA.webm": "/private/map/Fun/Fun_ULTRA.webm/e86576f03e0ad7a4699a0d477a6ca31a.webm",
+    "jmcs://jd-contents/Fun/Fun_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Fun/Fun_MapPreviewNoSoundCrop_LOW.vp8.webm/7521c6e2fa9fd6ef3e1b54687f73b84d.webm",
+    "jmcs://jd-contents/Fun/Fun_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Fun/Fun_MapPreviewNoSoundCrop_MID.vp8.webm/184f823c737f64ece9850cdaaf37da44.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496347\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Fun/Fun_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"611-1100\">\n\t\t\t\t\t<Initialization range=\"0-611\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1325253\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Fun/Fun_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"612-1102\">\n\t\t\t\t\t<Initialization range=\"0-612\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 202.631438
+}

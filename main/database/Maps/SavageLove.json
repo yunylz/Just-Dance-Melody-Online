@@ -1,0 +1,152 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d291caf36f600b9fe129b4bc1c735cce",
+      "storageType": 0,
+      "url": "/public/map/SavageLove/nx/SavageLove_MAIN_SCENE_NX.zip/d291caf36f600b9fe129b4bc1c735cce.zip"
+    },
+    "pc": {
+      "md5": "614018ab46da1375bb43540dfee6ce26",
+      "storageType": 0,
+      "url": "/public/map/SavageLove/pc/SavageLove_MAIN_SCENE_PC.zip/614018ab46da1375bb43540dfee6ce26.zip"
+    },
+    "ps4": {
+      "md5": "59fd1da7abc59fd43ea93ae4e76cb6fe",
+      "storageType": 0,
+      "url": "/public/map/SavageLove/orbis/SavageLove_MAIN_SCENE_ORBIS.zip/59fd1da7abc59fd43ea93ae4e76cb6fe.zip"
+    }
+  },
+  "data": {
+    "mapName": "SavageLove",
+    "title": "Savage love (Laxed - Siren Beat)",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "Jawsh 685 x Jason Derulo",
+    "credits": "Written by Jason Joel Desrouleaux, Philippe Greiss, Jacob Kasher Hindlin and Joshua Nanai. Published by Sony/ATV Music Publishing (Australia) Pty. Limited (APRA) / Universal/MCA Music Ltd. / Prescription Songs (ASCAP) / Rap Kingpin Music (ASCAP). Administered by Kobalt Music Publishing America, Inc.  / Sine Publishing (admin by Write Here Music). All rights reserved. Used with permission. Courtesy of Columbia Records, a Division of Sony Music Entertainment.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#30a5f1"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        38400,
+        76800,
+        115200,
+        153600,
+        192000,
+        230400,
+        268800,
+        307200,
+        345600,
+        384000,
+        422400,
+        460800,
+        499200,
+        537600,
+        576000,
+        614400,
+        652800,
+        691200,
+        729600,
+        768000,
+        806400,
+        844800,
+        883200,
+        921600,
+        960000,
+        998400,
+        1036800,
+        1075200,
+        1113600,
+        1152000,
+        1190400,
+        1228800,
+        1267200,
+        1305600,
+        1344000,
+        1382400,
+        1420800,
+        1459200,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 216,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 37,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SavageLove/SavageLove_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SavageLove/nx/SavageLove_banner_bkg.tga.ckd/2184ff1f6db814dd1eaa5d196218f4ed.ckd",
+      "map_bkgImageUrl": "/public/map/SavageLove/nx/SavageLove_map_bkg.tga.ckd/fd7d1448482b8694e4f8aa12f297a2b0.ckd",
+      "expandCoachImageUrl": "/public/map/SavageLove/nx/SavageLove_Cover_AlbumCoach.tga.ckd/f37b7041561b7740267ae06114d94a96.ckd",
+      "cover_smallImageUrl": "/public/map/SavageLove/nx/SavageLove_Cover_Online.tga.ckd/a51abc4b46510c02d239e93bd8fb3605.ckd",
+      "coach1ImageUrl": "/public/map/SavageLove/nx/SavageLove_Coach_1.tga.ckd/eadcbe6a42679eb33bcc2a94899ff294.ckd",
+      "coach2ImageUrl": "/public/map/SavageLove/nx/SavageLove_Coach_2.tga.ckd/a4c97a3bf60a757a9e966714714c737e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SavageLove/pc/SavageLove_banner_bkg.tga.ckd/5726077861affad37b005fba2f844868.ckd",
+      "map_bkgImageUrl": "/public/map/SavageLove/pc/SavageLove_map_bkg.tga.ckd/c324c766b6db26584433889c6d6c40d1.ckd",
+      "expandCoachImageUrl": "/public/map/SavageLove/pc/SavageLove_Cover_AlbumCoach.tga.ckd/af2807188e51f6dbaea1c360c26a2f21.ckd",
+      "cover_smallImageUrl": "/public/map/SavageLove/pc/SavageLove_Cover_Online.tga.ckd/2f23a1e16b939f55156b6569618b9658.ckd",
+      "coach1ImageUrl": "/public/map/SavageLove/pc/SavageLove_Coach_1.tga.ckd/1b2e5ef48f762860ef9afed0d497bca9.ckd",
+      "coach2ImageUrl": "/public/map/SavageLove/pc/SavageLove_Coach_2.tga.ckd/6cf45d1a22d42e30cc4a0868a45f2210.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SavageLove/orbis/SavageLove_banner_bkg.tga.ckd/5726077861affad37b005fba2f844868.ckd",
+      "map_bkgImageUrl": "/public/map/SavageLove/orbis/SavageLove_map_bkg.tga.ckd/c324c766b6db26584433889c6d6c40d1.ckd",
+      "expandCoachImageUrl": "/public/map/SavageLove/orbis/SavageLove_Cover_AlbumCoach.tga.ckd/af2807188e51f6dbaea1c360c26a2f21.ckd",
+      "cover_smallImageUrl": "/public/map/SavageLove/orbis/SavageLove_Cover_Online.tga.ckd/2f23a1e16b939f55156b6569618b9658.ckd",
+      "coach1ImageUrl": "/public/map/SavageLove/orbis/SavageLove_Coach_1.tga.ckd/1b2e5ef48f762860ef9afed0d497bca9.ckd",
+      "coach2ImageUrl": "/public/map/SavageLove/orbis/SavageLove_Coach_2.tga.ckd/6cf45d1a22d42e30cc4a0868a45f2210.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SavageLove/SavageLove_Coach_1_Phone.png/45663923b924d01d0d19b5125254b31c.png",
+    "phoneCoach2ImageUrl": "/public/map/SavageLove/SavageLove_Coach_2_Phone.png/94570abb8a0fc015c84a52c8653e6be6.png",
+    "phoneCoverImageUrl": "/public/map/SavageLove/SavageLove_Cover_Phone.jpg/5ac5e59cf6daca0f157720747922a8fa.jpg",
+    "cover640ImageUrl": "/public/map/SavageLove/SavageLove_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SavageLove/SavageLove.ogg": "/private/map/SavageLove/SavageLove.ogg/6e634e00357a72cee199955b03e4486d.ogg",
+    "jmcs://jd-contents/SavageLove/SavageLove_AudioPreview.ogg": "/public/map/SavageLove/SavageLove_AudioPreview.ogg/78dd375fba31c867475d473286adf183.ogg",
+    "jmcs://jd-contents/SavageLove/SavageLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SavageLove/SavageLove_MapPreviewNoSoundCrop_LOW.vp8.webm/49d4473c2b68e01819549a52ee4a6282.webm",
+    "jmcs://jd-contents/SavageLove/SavageLove_HIGH.webm": "/private/map/SavageLove/SavageLove_HIGH.webm/936332b1cd9ad8bcfa97914377657070.webm",
+    "jmcs://jd-contents/SavageLove/SavageLove_LOW.webm": "/private/map/SavageLove/SavageLove_LOW.webm/2200bc66590180b36ef2226386404677.webm",
+    "jmcs://jd-contents/SavageLove/SavageLove_MID.webm": "/private/map/SavageLove/SavageLove_MID.webm/9a64add4022d1940787b96ae3972c42e.webm",
+    "jmcs://jd-contents/SavageLove/SavageLove_ULTRA.hd.webm": "/private/map/SavageLove/SavageLove_ULTRA.hd.webm/96d1f8573b73d88676c4d82246f9755f.webm",
+    "jmcs://jd-contents/SavageLove/SavageLove_ULTRA.webm": "/private/map/SavageLove/SavageLove_ULTRA.webm/ecfdfe0d118d1d85b1e5761dd84c465d.webm",
+    "jmcs://jd-contents/SavageLove/SavageLove_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SavageLove/SavageLove_MapPreviewNoSoundCrop_MID.vp8.webm/1421f484348989c3492b2bfdcb223bc0.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"508765\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SavageLove/SavageLove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"660-1149\">\n\t\t\t\t\t<Initialization range=\"0-660\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1469253\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SavageLove/SavageLove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\n\t\t\t\t\t<Initialization range=\"0-661\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 175.2
+}

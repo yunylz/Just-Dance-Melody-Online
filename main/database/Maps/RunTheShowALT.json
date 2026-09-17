@@ -1,0 +1,164 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ad0cde35a445ce1ddccbdbb8c00499ff",
+      "storageType": 0,
+      "url": "/public/map/RunTheShowALT/nx/RunTheShowALT_MAIN_SCENE_NX.zip/ad0cde35a445ce1ddccbdbb8c00499ff.zip"
+    },
+    "pc": {
+      "md5": "fa9d3f3f6df12f039c698410220a054b",
+      "storageType": 0,
+      "url": "/public/map/RunTheShowALT/pc/RunTheShowALT_MAIN_SCENE_PC.zip/fa9d3f3f6df12f039c698410220a054b.zip"
+    },
+    "ps4": {
+      "md5": "1d0621b015b86237f9586c4200d917e3",
+      "storageType": 0,
+      "url": "/public/map/RunTheShowALT/orbis/RunTheShowALT_MAIN_SCENE_ORBIS.zip/1d0621b015b86237f9586c4200d917e3.zip"
+    }
+  },
+  "data": {
+    "mapName": "RunTheShowALT",
+    "title": "Run The Show",
+    "originalJDVersion": 4,
+    "tags": [
+      "main"
+    ],
+    "artist": "Kat DeLuna Ft. Busta Rhymes",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 4,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#add8e6",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33366,
+        66732,
+        100099,
+        127528,
+        154957,
+        182385,
+        209814,
+        237242,
+        264671,
+        292099,
+        319528,
+        346957,
+        374385,
+        401814,
+        429242,
+        456671,
+        484099,
+        511528,
+        538957,
+        566385,
+        593814,
+        621242,
+        648671,
+        676099,
+        703528,
+        730957,
+        758385,
+        785814,
+        813242,
+        840671,
+        868099,
+        895528,
+        922957,
+        950385,
+        977814,
+        1005242,
+        1032671,
+        1060099,
+        1087528,
+        1114957,
+        1142385,
+        1169814,
+        1197242,
+        1224671,
+        1252099,
+        1279528,
+        1306957,
+        1334385,
+        1361814,
+        1389242,
+        1416671,
+        1444099,
+        1471528,
+        1498957
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 382,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RunTheShowALT/RunTheShowALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RunTheShowALT/nx/RunTheShowALT_banner_bkg.tga.ckd/d280073c8f5b349cbc1b42c97251772a.ckd",
+      "map_bkgImageUrl": "/public/map/RunTheShowALT/nx/RunTheShowALT_map_bkg.tga.ckd/8ae2c3d75cfde9fccdfc29a0cda2a543.ckd",
+      "expandCoachImageUrl": "/public/map/RunTheShowALT/nx/RunTheShowALT_Cover_AlbumCoach.tga.ckd/f8a8241aa87259fe3f994cda4563bc82.ckd",
+      "cover_smallImageUrl": "/public/map/RunTheShowALT/nx/RunTheShowALT_Cover_Online.tga.ckd/7a7d92c8ee14bd942be9ee811037b2a1.ckd",
+      "coach1ImageUrl": "/public/map/RunTheShowALT/nx/RunTheShowALT_Coach_1.tga.ckd/084dacde2175d366e36ccb4916be85aa.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RunTheShowALT/pc/RunTheShowALT_banner_bkg.tga.ckd/f03ab38ea1b4adbb79815700db44a6ac.ckd",
+      "map_bkgImageUrl": "/public/map/RunTheShowALT/pc/RunTheShowALT_map_bkg.tga.ckd/e1365c5277f11f08d6ef698cb96a7e11.ckd",
+      "expandCoachImageUrl": "/public/map/RunTheShowALT/pc/RunTheShowALT_Cover_AlbumCoach.tga.ckd/a31059bb695fad8b7b48533204025f7c.ckd",
+      "cover_smallImageUrl": "/public/map/RunTheShowALT/pc/RunTheShowALT_Cover_Online.tga.ckd/6ba89bcd02ed64151384e970738be2d9.ckd",
+      "coach1ImageUrl": "/public/map/RunTheShowALT/pc/RunTheShowALT_Coach_1.tga.ckd/135354ca924aa8a4cd56a121e25a3a14.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RunTheShowALT/orbis/RunTheShowALT_banner_bkg.tga.ckd/f03ab38ea1b4adbb79815700db44a6ac.ckd",
+      "map_bkgImageUrl": "/public/map/RunTheShowALT/orbis/RunTheShowALT_map_bkg.tga.ckd/e1365c5277f11f08d6ef698cb96a7e11.ckd",
+      "expandCoachImageUrl": "/public/map/RunTheShowALT/orbis/RunTheShowALT_Cover_AlbumCoach.tga.ckd/a31059bb695fad8b7b48533204025f7c.ckd",
+      "cover_smallImageUrl": "/public/map/RunTheShowALT/orbis/RunTheShowALT_Cover_Online.tga.ckd/6ba89bcd02ed64151384e970738be2d9.ckd",
+      "coach1ImageUrl": "/public/map/RunTheShowALT/orbis/RunTheShowALT_Coach_1.tga.ckd/135354ca924aa8a4cd56a121e25a3a14.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RunTheShowALT/RunTheShowALT_Coach_1_Phone.png/fd15dd0b2485afe5346ebac2d1c28a12.png",
+    "phoneCoverImageUrl": "/public/map/RunTheShowALT/RunTheShowALT_Cover_Phone.jpg/d4bfa4623518855d4c0e02a0cec0523e.jpg",
+    "cover640ImageUrl": "/public/map/RunTheShowALT/RunTheShowALT_Cover_640.png/5eeac709c77f4c6efad96b1019040afa.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/RunTheShowALT/RunTheShowALT.ogg": "/private/map/RunTheShowALT/RunTheShowALT.ogg/3e0443faac39c7514869ecc2c5bdd054.ogg",
+    "jmcs://jd-contents/RunTheShowALT/RunTheShowALT_AudioPreview.ogg": "/public/map/RunTheShowALT/RunTheShowALT_AudioPreview.ogg/08e5185d5a34ef26de37a35d0e7f322f.ogg",
+    "jmcs://jd-contents/RunTheShowALT/RunTheShowALT_HIGH.webm": "/private/map/RunTheShowALT/RunTheShowALT_HIGH.webm/c0ff7f6d2fcef7958bdd763ef4d76a8a.webm",
+    "jmcs://jd-contents/RunTheShowALT/RunTheShowALT_LOW.webm": "/private/map/RunTheShowALT/RunTheShowALT_LOW.webm/eed9355a66cefb84e7a320e323d995b9.webm",
+    "jmcs://jd-contents/RunTheShowALT/RunTheShowALT_MID.webm": "/private/map/RunTheShowALT/RunTheShowALT_MID.webm/5b2ad5b849b569853cf6894a1ae1f3b5.webm",
+    "jmcs://jd-contents/RunTheShowALT/RunTheShowALT_ULTRA.hd.webm": "/private/map/RunTheShowALT/RunTheShowALT_ULTRA.hd.webm/64fc2a2fbdf6c832e5021d719fc12b60.webm",
+    "jmcs://jd-contents/RunTheShowALT/RunTheShowALT_ULTRA.webm": "/private/map/RunTheShowALT/RunTheShowALT_ULTRA.webm/b0d7223a2d3f748c2696d072b3ba9049.webm",
+    "jmcs://jd-contents/RunTheShowALT/RunTheShowALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RunTheShowALT/RunTheShowALT_MapPreviewNoSoundCrop_LOW.vp8.webm/287d09077b98a2be21f980b5fc91608b.webm",
+    "jmcs://jd-contents/RunTheShowALT/RunTheShowALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RunTheShowALT/RunTheShowALT_MapPreviewNoSoundCrop_MID.vp8.webm/e2485073b5fa7c130ccf04a733f2f75c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"510229\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShowALT/RunTheShowALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"614-1103\">\n\t\t\t\t\t<Initialization range=\"0-614\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478578\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShowALT/RunTheShowALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 218.952979
+}

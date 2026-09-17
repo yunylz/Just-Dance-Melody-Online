@@ -1,0 +1,183 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Chichika/Chichika.ogg": "/private/map/Chichika/Chichika.ogg/c714b2df7d64c505ea07a6d4cc296369.ogg",
+    "jmcs://jd-contents/Chichika/Chichika_AudioPreview.ogg": "/public/map/Chichika/Chichika_AudioPreview.ogg/8b913dbccb42144c8b9dad2731023206.ogg",
+    "jmcs://jd-contents/Chichika/Chichika_HIGH.hd.webm": "/private/map/Chichika/Chichika_HIGH.hd.webm/de12bcff39dbb360c00974280d6cbc08.webm",
+    "jmcs://jd-contents/Chichika/Chichika_LOW.hd.webm": "/private/map/Chichika/Chichika_LOW.hd.webm/c0f7bb2a1f81d0fa4c25c2afdbe80954.webm",
+    "jmcs://jd-contents/Chichika/Chichika_MID.hd.webm": "/private/map/Chichika/Chichika_MID.hd.webm/09e77860601c5bba49ad912860280602.webm",
+    "jmcs://jd-contents/Chichika/Chichika_ULTRA.hd.webm": "/private/map/Chichika/Chichika_ULTRA.hd.webm/67697c0770d447eabf68215aebca2634.webm",
+    "jmcs://jd-contents/Chichika/Chichika_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Chichika/Chichika_MapPreviewNoSoundCrop_LOW.vp8.webm/fd3052d86c15fb1d941fd7b14e9c71eb.webm",
+    "jmcs://jd-contents/Chichika/Chichika_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Chichika/Chichika_MapPreviewNoSoundCrop_MID.vp8.webm/6f757bba738bf87e3a9b81684a321cc5.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22154,
+        44308,
+        66462,
+        88615,
+        110769,
+        132923,
+        155077,
+        177231,
+        199385,
+        221538,
+        243692,
+        265846,
+        288000,
+        310154,
+        332308,
+        354462,
+        376615,
+        398769,
+        420923,
+        443077,
+        465231,
+        487385,
+        509538,
+        531692,
+        553846,
+        576000,
+        598154,
+        620308,
+        642462,
+        664615,
+        686769,
+        708923,
+        731077,
+        753231,
+        775385,
+        797538,
+        819692,
+        841846,
+        864000,
+        886154,
+        908308,
+        930462,
+        952615,
+        974769,
+        996923,
+        1019077,
+        1041231,
+        1063385,
+        1085538,
+        1107692,
+        1129846,
+        1152000,
+        1174154,
+        1196308,
+        1218462,
+        1240615,
+        1262769,
+        1284923,
+        1307077,
+        1329231,
+        1351385,
+        1373538,
+        1395692,
+        1417846,
+        1440000,
+        1462154,
+        1484308
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 313,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Chichika/Chichika_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"520035\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Chichika/Chichika_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1765353\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Chichika/Chichika_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "127a1a3b5042bb025daeaa840c6060cd",
+      "storageType": 0,
+      "url": "/public/map/Chichika/nx/Chichika_MAIN_SCENE_NX.zip/127a1a3b5042bb025daeaa840c6060cd.zip"
+    },
+    "pc": {
+      "md5": "52efa1cc2f075a5038c19276bae511ea",
+      "storageType": 0,
+      "url": "/public/map/Chichika/pc/Chichika_MAIN_SCENE_PC.zip/52efa1cc2f075a5038c19276bae511ea.zip"
+    },
+    "ps4": {
+      "md5": "b8aededf34f0e59b2e1f4ce578982410",
+      "storageType": 0,
+      "url": "/public/map/Chichika/orbis/Chichika_MAIN_SCENE_ORBIS.zip/b8aededf34f0e59b2e1f4ce578982410.zip"
+    }
+  },
+  "data": {
+    "mapName": "Chichika",
+    "title": "Chichika (feat. METAMAMI)",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "MariaDennis",
+    "credits": "“Chichika (feat. METAMAMI)” Performed by MariaDennis Written By Zanillya Maria Farrell, Daniela Bulgin Mantecon, Humphrey Dennis Themen. Published by BMG Platinum Songs US obo itself and Nenah Music LLC, BMG Gold Songs. All rights administered by BMG Rights Management (US) LLC. Courtesy of BMG Rights Management (US) LLC. By arrangement with BMG Rights Management (US) LLC. All rights reserved. Used with permission.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#1702d2",
+    "songColor2A": "#f97b00",
+    "songColor1B": "#01000a",
+    "songColor2B": "#010135",
+    "lyricsColor": "#ff75d9",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Chichika/nx/Chichika_banner_bkg.tga.ckd/c27a93c7e7889951818860e71169121a.ckd",
+      "map_bkgImageUrl": "/public/map/Chichika/nx/Chichika_map_bkg.tga.ckd/940d51ee8255e61c92fd89522eea8d64.ckd",
+      "expandCoachImageUrl": "/public/map/Chichika/nx/Chichika_Cover_AlbumCoach.tga.ckd/8bd0b35c22d89160bc0d96a2363bab9b.ckd",
+      "cover_smallImageUrl": "/public/map/Chichika/nx/Chichika_Cover_Online.tga.ckd/8957f77221a05506e7738195a1015feb.ckd",
+      "coverImageUrl": "/public/map/Chichika/nx/Chichika_Cover_Generic.tga.ckd/c266beadfcb2d44fa40935dcf582309b.ckd",
+      "coach1ImageUrl": "/public/map/Chichika/nx/Chichika_Coach_1.tga.ckd/b3edbed21f508310ddba1797b424d2ab.ckd",
+      "coach2ImageUrl": "/public/map/Chichika/nx/Chichika_Coach_2.tga.ckd/449fd056f16cd6042aed734f9e60bf1f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Chichika/pc/Chichika_banner_bkg.tga.ckd/4e59d870ceb048fa2f10ebcd156f89b3.ckd",
+      "map_bkgImageUrl": "/public/map/Chichika/pc/Chichika_map_bkg.tga.ckd/72215ecc7425d97503e53b56572c2a2e.ckd",
+      "expandCoachImageUrl": "/public/map/Chichika/pc/Chichika_Cover_AlbumCoach.tga.ckd/f876cd7b6a32e891abfb2a8d446694c2.ckd",
+      "cover_smallImageUrl": "/public/map/Chichika/pc/Chichika_Cover_Online.tga.ckd/ee87f1fb450ab6233b9b81e64ed960da.ckd",
+      "coverImageUrl": "/public/map/Chichika/pc/Chichika_Cover_Generic.tga.ckd/1bafae031ad479ef695d51bcc53e4340.ckd",
+      "coach1ImageUrl": "/public/map/Chichika/pc/Chichika_Coach_1.tga.ckd/c88d3512b2ef7e73f901b1dc53d42fbe.ckd",
+      "coach2ImageUrl": "/public/map/Chichika/pc/Chichika_Coach_2.tga.ckd/594d3a1ab482a3cccf957ef708b63cab.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Chichika/orbis/Chichika_banner_bkg.tga.ckd/4e59d870ceb048fa2f10ebcd156f89b3.ckd",
+      "map_bkgImageUrl": "/public/map/Chichika/orbis/Chichika_map_bkg.tga.ckd/72215ecc7425d97503e53b56572c2a2e.ckd",
+      "expandCoachImageUrl": "/public/map/Chichika/orbis/Chichika_Cover_AlbumCoach.tga.ckd/f876cd7b6a32e891abfb2a8d446694c2.ckd",
+      "cover_smallImageUrl": "/public/map/Chichika/orbis/Chichika_Cover_Online.tga.ckd/ee87f1fb450ab6233b9b81e64ed960da.ckd",
+      "coverImageUrl": "/public/map/Chichika/orbis/Chichika_Cover_Generic.tga.ckd/1bafae031ad479ef695d51bcc53e4340.ckd",
+      "coach1ImageUrl": "/public/map/Chichika/orbis/Chichika_Coach_1.tga.ckd/c88d3512b2ef7e73f901b1dc53d42fbe.ckd",
+      "coach2ImageUrl": "/public/map/Chichika/orbis/Chichika_Coach_2.tga.ckd/594d3a1ab482a3cccf957ef708b63cab.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Chichika/Chichika_Coach_1_Phone.png/37832c024f755d5677f191678d10add5.png",
+    "phoneCoach2ImageUrl": "/public/map/Chichika/Chichika_Coach_2_Phone.png/d2f3f5119e7de0c716804c389d02054d.png",
+    "phoneCoverImageUrl": "/public/map/Chichika/Chichika_Cover_Phone.jpg/23e86afea4b1bb8aadf7e11a0cd0a335.jpg",
+    "cover640ImageUrl": "/public/map/Chichika/Chichika_Cover_640.png/c5c53d2fbef1008f7c74502be5ae1364.png"
+  },
+  "mapLength": 147.676146
+}

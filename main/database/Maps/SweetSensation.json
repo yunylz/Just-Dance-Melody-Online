@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "aa1e1406df6ec1edc88f1b3649660c0c",
+      "storageType": 0,
+      "url": "/public/map/SweetSensation/nx/SweetSensation_MAIN_SCENE_NX.zip/aa1e1406df6ec1edc88f1b3649660c0c.zip"
+    },
+    "pc": {
+      "md5": "b61e385a2fb712b611509a75e5a6f730",
+      "storageType": 0,
+      "url": "/public/map/SweetSensation/pc/SweetSensation_MAIN_SCENE_PC.zip/b61e385a2fb712b611509a75e5a6f730.zip"
+    },
+    "ps4": {
+      "md5": "73e499331a1af24063ee77e06521a521",
+      "storageType": 0,
+      "url": "/public/map/SweetSensation/orbis/SweetSensation_MAIN_SCENE_ORBIS.zip/73e499331a1af24063ee77e06521a521.zip"
+    }
+  },
+  "data": {
+    "mapName": "SweetSensation",
+    "title": "Sweet Sensation",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main"
+    ],
+    "artist": "Flo Rida",
+    "credits": "Written by Breyan Isaac, Dan Hartman, Jamie Sanderson, Pierre Antoine Melki, Raphael Judrin, Tramar Dillard. Published by EMI Blackwood Music Inc. (BMI) c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) and Sony/ATV Songs LLC (BMI) c/o Sony/ATV Music Publishing Canada (SOCAN) / Artcriminal Publishing (ASCAP)/Artist Publishing Group West (ASCAP) administered by Kobalt Songs Music Publishing (ASCAP), Artist 101 Publishing Group (BMI) administered by Songs of Kobalt Music Publishing (BMI). All rights reserved. Used with permission. (P) Line: 2018 Atlantic Recording Corporation. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 4,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#f32bff",
+    "songColor2A": "#40fff8",
+    "songColor1B": "#05055e",
+    "songColor2B": "#3b31af",
+    "lyricsColor": "#fa9f00",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25488,
+        50976,
+        76464,
+        101952,
+        127440,
+        152928,
+        178416,
+        203904,
+        229392,
+        254880,
+        280368,
+        305856,
+        331344,
+        356832,
+        382320,
+        407808,
+        433296,
+        458784,
+        484272,
+        509712,
+        535200,
+        560688,
+        586176,
+        611664,
+        637152,
+        662640,
+        688128,
+        713616,
+        739104,
+        764591,
+        790080,
+        815568,
+        841056,
+        866544,
+        892032,
+        917520,
+        943008,
+        968496,
+        993984,
+        1019472,
+        1044960,
+        1070448,
+        1095936,
+        1121424,
+        1146912,
+        1172400,
+        1197888,
+        1223376,
+        1248863,
+        1274352,
+        1299840,
+        1325328,
+        1350816,
+        1376304,
+        1401792,
+        1427280,
+        1452720,
+        1478208
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 380,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SweetSensation/SweetSensation_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SweetSensation/nx/SweetSensation_banner_bkg.tga.ckd/94553cb03a347e1b740a73839ecb1dbf.ckd",
+      "map_bkgImageUrl": "/public/map/SweetSensation/nx/SweetSensation_map_bkg.tga.ckd/be270aa0540d1a5240040c02d661fe64.ckd",
+      "expandCoachImageUrl": "/public/map/SweetSensation/nx/SweetSensation_Cover_AlbumCoach.tga.ckd/8d03d4fd061d7f3f8c2d6f4cd78b8270.ckd",
+      "cover_smallImageUrl": "/public/map/SweetSensation/nx/SweetSensation_Cover_Online.tga.ckd/dda16319d0e914ac601f546ce4aa09dc.ckd",
+      "coverImageUrl": "/public/map/SweetSensation/nx/SweetSensation_Cover_Generic.tga.ckd/611669e805e34cfbe9e423c2f6d661ae.ckd",
+      "coach1ImageUrl": "/public/map/SweetSensation/nx/SweetSensation_Coach_1.tga.ckd/e20679bc6b1465ca0e3d88c35da76738.ckd",
+      "coach2ImageUrl": "/public/map/SweetSensation/nx/SweetSensation_Coach_2.tga.ckd/91e6d1526e3c68188aa0358eef7064da.ckd",
+      "coach3ImageUrl": "/public/map/SweetSensation/nx/SweetSensation_Coach_3.tga.ckd/108f05cecd4e32548619dd5fd7afd21b.ckd",
+      "coach4ImageUrl": "/public/map/SweetSensation/nx/SweetSensation_Coach_4.tga.ckd/3008e82223a394b92fc008bd24d0195a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SweetSensation/pc/SweetSensation_banner_bkg.tga.ckd/e9cc083d3f24bb72f96440ceff934f74.ckd",
+      "map_bkgImageUrl": "/public/map/SweetSensation/pc/SweetSensation_map_bkg.tga.ckd/e61f500bc711809b42a92a681aaefdf4.ckd",
+      "expandCoachImageUrl": "/public/map/SweetSensation/pc/SweetSensation_Cover_AlbumCoach.tga.ckd/ddb8a6176d14d9eafef3e1f62fac76a4.ckd",
+      "cover_smallImageUrl": "/public/map/SweetSensation/pc/SweetSensation_Cover_Online.tga.ckd/5b019f8e741fd50ebee81107efe50e1e.ckd",
+      "coverImageUrl": "/public/map/SweetSensation/pc/SweetSensation_Cover_Generic.tga.ckd/8b5245da22a5041a53c1f7e8f1671802.ckd",
+      "coach1ImageUrl": "/public/map/SweetSensation/pc/SweetSensation_Coach_1.tga.ckd/76b93587cac62c88e6c2df2562dc9dd8.ckd",
+      "coach2ImageUrl": "/public/map/SweetSensation/pc/SweetSensation_Coach_2.tga.ckd/2d693c87f7ac3b9473f74c7198d5c044.ckd",
+      "coach3ImageUrl": "/public/map/SweetSensation/pc/SweetSensation_Coach_3.tga.ckd/49e3ccbabe24b6244d37567cad28b1d3.ckd",
+      "coach4ImageUrl": "/public/map/SweetSensation/pc/SweetSensation_Coach_4.tga.ckd/e560e169628da590d5333622a29f58c3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SweetSensation/orbis/SweetSensation_banner_bkg.tga.ckd/e9cc083d3f24bb72f96440ceff934f74.ckd",
+      "map_bkgImageUrl": "/public/map/SweetSensation/orbis/SweetSensation_map_bkg.tga.ckd/e61f500bc711809b42a92a681aaefdf4.ckd",
+      "expandCoachImageUrl": "/public/map/SweetSensation/orbis/SweetSensation_Cover_AlbumCoach.tga.ckd/ddb8a6176d14d9eafef3e1f62fac76a4.ckd",
+      "cover_smallImageUrl": "/public/map/SweetSensation/orbis/SweetSensation_Cover_Online.tga.ckd/5b019f8e741fd50ebee81107efe50e1e.ckd",
+      "coverImageUrl": "/public/map/SweetSensation/orbis/SweetSensation_Cover_Generic.tga.ckd/8b5245da22a5041a53c1f7e8f1671802.ckd",
+      "coach1ImageUrl": "/public/map/SweetSensation/orbis/SweetSensation_Coach_1.tga.ckd/76b93587cac62c88e6c2df2562dc9dd8.ckd",
+      "coach2ImageUrl": "/public/map/SweetSensation/orbis/SweetSensation_Coach_2.tga.ckd/2d693c87f7ac3b9473f74c7198d5c044.ckd",
+      "coach3ImageUrl": "/public/map/SweetSensation/orbis/SweetSensation_Coach_3.tga.ckd/49e3ccbabe24b6244d37567cad28b1d3.ckd",
+      "coach4ImageUrl": "/public/map/SweetSensation/orbis/SweetSensation_Coach_4.tga.ckd/e560e169628da590d5333622a29f58c3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SweetSensation/SweetSensation_Coach_1_Phone.png/65aa5b8d403647cb2e297668f8e5aa8f.png",
+    "phoneCoach2ImageUrl": "/public/map/SweetSensation/SweetSensation_Coach_2_Phone.png/bcdd105cc7c8bda17eecdcebaadfbffe.png",
+    "phoneCoach3ImageUrl": "/public/map/SweetSensation/SweetSensation_Coach_3_Phone.png/553f984eece6bf24835f85d7e5626924.png",
+    "phoneCoach4ImageUrl": "/public/map/SweetSensation/SweetSensation_Coach_4_Phone.png/5158c2e6854d10af7edf6745d823947a.png",
+    "phoneCoverImageUrl": "/public/map/SweetSensation/SweetSensation_Cover_Phone.jpg/5deb0d082611be0f546aae410212e206.jpg",
+    "cover640ImageUrl": "/public/map/SweetSensation/SweetSensation_Cover_640.png/8b72c87b1392992cf67fb025c49aac35.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SweetSensation/SweetSensation.ogg": "/private/map/SweetSensation/SweetSensation.ogg/a19fcc56528ce1bb0790bf03cc343fa6.ogg",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_AudioPreview.ogg": "/public/map/SweetSensation/SweetSensation_AudioPreview.ogg/8a2e9db5afd4708b8de681a6febf983d.ogg",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_LOW.vp8.webm/ce7767d1b93ebb15284e51e9d6e010c3.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_HIGH.webm": "/private/map/SweetSensation/SweetSensation_HIGH.webm/8628a403364dacfb1a6efb699640e508.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_LOW.webm": "/private/map/SweetSensation/SweetSensation_LOW.webm/b543841058b90dbce507b21f5331caad.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_MID.webm": "/private/map/SweetSensation/SweetSensation_MID.webm/b05162e0063c4c3da711a2a1760d5ebc.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_ULTRA.hd.webm": "/private/map/SweetSensation/SweetSensation_ULTRA.hd.webm/e6c25aa88d17af0c364df1f7ab2335d0.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_ULTRA.webm": "/private/map/SweetSensation/SweetSensation_ULTRA.webm/0e0c304c82ab186e2a7f1dd14315af81.webm",
+    "jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_MID.vp8.webm/dca75597da18d49e9163c736ac33e3f6.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497905\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"607-1096\">\n\t\t\t\t\t<Initialization range=\"0-607\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483768\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetSensation/SweetSensation_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\n\t\t\t\t\t<Initialization range=\"0-608\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 204.933563
+}

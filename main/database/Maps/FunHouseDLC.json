@@ -1,0 +1,163 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "66075228361f74a18bc97e6259ed9d72",
+      "storageType": 0,
+      "url": "/public/map/FunHouseDLC/nx/FunHouseDLC_MAIN_SCENE_NX.zip/66075228361f74a18bc97e6259ed9d72.zip"
+    },
+    "pc": {
+      "md5": "67df3a5df8a4c1a9cbef97076c94905b",
+      "storageType": 0,
+      "url": "/public/map/FunHouseDLC/pc/FunHouseDLC_MAIN_SCENE_PC.zip/67df3a5df8a4c1a9cbef97076c94905b.zip"
+    },
+    "ps4": {
+      "md5": "deafc514bc8ea571538df7261ee5bcda",
+      "storageType": 0,
+      "url": "/public/map/FunHouseDLC/orbis/FunHouseDLC_MAIN_SCENE_ORBIS.zip/deafc514bc8ea571538df7261ee5bcda.zip"
+    }
+  },
+  "data": {
+    "mapName": "FunHouseDLC",
+    "title": "Funhouse",
+    "originalJDVersion": 4,
+    "tags": [
+      "main"
+    ],
+    "artist": "P!nk",
+    "credits": "Written by Alecia Moore, Jimmy Harry and Tony Kanal. Published by EMI Blackwood Music Inc. (BMI) and EMI April Music Inc. (ASCAP) // Pirate Ship Music (ASCAP). All Rights Reserved. Used by Permission. Courtesy of RCA Records, a unit of Sony Music Entertainment. By arrangement with Sony Music Licensing.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#ff002a",
+    "songColor2A": "#d7a700",
+    "songColor1B": "#3f000a",
+    "songColor2B": "#0f0c00",
+    "lyricsColor": "#00ffff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27696,
+        55392,
+        83088,
+        110784,
+        138480,
+        166176,
+        193824,
+        221520,
+        249216,
+        276912,
+        304608,
+        332304,
+        360000,
+        387696,
+        415392,
+        443088,
+        470785,
+        498481,
+        526177,
+        553825,
+        581521,
+        609217,
+        636913,
+        664609,
+        692305,
+        720001,
+        747697,
+        775393,
+        803089,
+        830785,
+        858481,
+        886177,
+        913826,
+        941522,
+        969218,
+        996914,
+        1024610,
+        1052306,
+        1080002,
+        1107698,
+        1135394,
+        1163090,
+        1190786,
+        1218482,
+        1246178,
+        1273826,
+        1301522,
+        1329218,
+        1356915,
+        1384611,
+        1412307,
+        1440003,
+        1467699,
+        1495395
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 358,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/FunHouseDLC/nx/FunHouseDLC_banner_bkg.tga.ckd/7b4500b9eb3937586d1bf9cee3737c03.ckd",
+      "map_bkgImageUrl": "/public/map/FunHouseDLC/nx/FunHouseDLC_map_bkg.tga.ckd/78d7c6f0cabd2d37f5a5fb53b4363461.ckd",
+      "expandCoachImageUrl": "/public/map/FunHouseDLC/nx/FunHouseDLC_Cover_AlbumCoach.tga.ckd/926c33ba9d830df17a3b7fefeb09e25d.ckd",
+      "cover_smallImageUrl": "/public/map/FunHouseDLC/nx/FunHouseDLC_Cover_Online.tga.ckd/356d6d7d0f5c9e9bef2295019791fade.ckd",
+      "coach1ImageUrl": "/public/map/FunHouseDLC/nx/FunHouseDLC_Coach_1.tga.ckd/38ec25350ced4f10c662858dafe8f38e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/FunHouseDLC/pc/FunHouseDLC_banner_bkg.tga.ckd/8859749c70fa314dda399a6d0db455d5.ckd",
+      "map_bkgImageUrl": "/public/map/FunHouseDLC/pc/FunHouseDLC_map_bkg.tga.ckd/60c46b9e352f3b9ec7b7e495fb16d0bd.ckd",
+      "expandCoachImageUrl": "/public/map/FunHouseDLC/pc/FunHouseDLC_Cover_AlbumCoach.tga.ckd/b9e8254fc8bd2a8663badfa0ecff7235.ckd",
+      "cover_smallImageUrl": "/public/map/FunHouseDLC/pc/FunHouseDLC_Cover_Online.tga.ckd/b93c69dcd06dcf7ac86a3d51af86ce4e.ckd",
+      "coach1ImageUrl": "/public/map/FunHouseDLC/pc/FunHouseDLC_Coach_1.tga.ckd/bc621c7bf2920de9e859cf7ba4e9f19c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/FunHouseDLC/orbis/FunHouseDLC_banner_bkg.tga.ckd/8859749c70fa314dda399a6d0db455d5.ckd",
+      "map_bkgImageUrl": "/public/map/FunHouseDLC/orbis/FunHouseDLC_map_bkg.tga.ckd/60c46b9e352f3b9ec7b7e495fb16d0bd.ckd",
+      "expandCoachImageUrl": "/public/map/FunHouseDLC/orbis/FunHouseDLC_Cover_AlbumCoach.tga.ckd/b9e8254fc8bd2a8663badfa0ecff7235.ckd",
+      "cover_smallImageUrl": "/public/map/FunHouseDLC/orbis/FunHouseDLC_Cover_Online.tga.ckd/b93c69dcd06dcf7ac86a3d51af86ce4e.ckd",
+      "coach1ImageUrl": "/public/map/FunHouseDLC/orbis/FunHouseDLC_Coach_1.tga.ckd/bc621c7bf2920de9e859cf7ba4e9f19c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/FunHouseDLC/FunHouseDLC_Coach_1_Phone.png/2174cbc6299d7323b95a1f0201594a1a.png",
+    "phoneCoverImageUrl": "/public/map/FunHouseDLC/FunHouseDLC_Cover_Phone.jpg/50af9c540919d35e19d8b9a5acc402dd.jpg",
+    "cover640ImageUrl": "/public/map/FunHouseDLC/FunHouseDLC_Cover_640.png/13e2220b26ded28497de175f357f0489.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC.ogg": "/private/map/FunHouseDLC/FunHouseDLC.ogg/d5d22206a1bf6f4f837a061b940ca193.ogg",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_AudioPreview.ogg": "/public/map/FunHouseDLC/FunHouseDLC_AudioPreview.ogg/f08402876256edfb3ff8ef70b3e833c9.ogg",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_HIGH.webm": "/private/map/FunHouseDLC/FunHouseDLC_HIGH.webm/4e0abe3dfdb62e9cfec84e82b5647152.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_LOW.webm": "/private/map/FunHouseDLC/FunHouseDLC_LOW.webm/8c85809594d1b60f52ac4ac079ffb553.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MID.webm": "/private/map/FunHouseDLC/FunHouseDLC_MID.webm/b94dc3ce43d51c9630ba68eb8e6f6f76.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_ULTRA.hd.webm": "/private/map/FunHouseDLC/FunHouseDLC_ULTRA.hd.webm/1ee4928791f52f543e3c37d69a30e823.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_ULTRA.webm": "/private/map/FunHouseDLC/FunHouseDLC_ULTRA.webm/2daeb564c1d20af463ae0b732168adff.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/278277daf19660292cbe81eaa55acb9a.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_MID.vp8.webm/2e248d769bf760dfc536fd0ed32c4cfc.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"505311\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"668-1158\">\n\t\t\t\t\t<Initialization range=\"0-668\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484634\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"669-1159\">\n\t\t\t\t\t<Initialization range=\"0-669\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 208.852938
+}

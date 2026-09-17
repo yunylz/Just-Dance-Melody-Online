@@ -1,0 +1,193 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Jamais/Jamais_AudioPreview.ogg": "/public/map/Jamais/Jamais_AudioPreview.ogg/1e137dd934371b21088c32f06eb67a77.ogg",
+    "jmcs://jd-contents/Jamais/Jamais.ogg": "/private/map/Jamais/Jamais.ogg/d61b75b59287145aea1179bf32eba4ba.ogg",
+    "jmcs://jd-contents/Jamais/Jamais_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Jamais/Jamais_MapPreviewNoSoundCrop_LOW.vp8.webm/8cea483205784fa1f2db388b4d7371cf.webm",
+    "jmcs://jd-contents/Jamais/Jamais_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Jamais/Jamais_MapPreviewNoSoundCrop_MID.vp8.webm/9a502c70207241e8dfe4ae10b725f4ad.webm",
+    "jmcs://jd-contents/Jamais/Jamais_ULTRA.hd.webm": "/private/map/Jamais/Jamais_ULTRA.hd.webm/dc92b7a4050cbf90980ee3c1965c48eb.webm",
+    "jmcs://jd-contents/Jamais/Jamais_HIGH.hd.webm": "/private/map/Jamais/Jamais_HIGH.hd.webm/f94ffd60c1cfc03b25594958dd6091dc.webm",
+    "jmcs://jd-contents/Jamais/Jamais_MID.hd.webm": "/private/map/Jamais/Jamais_MID.hd.webm/0d4ec1f6a5b50cf7bca5b678e460ad18.webm",
+    "jmcs://jd-contents/Jamais/Jamais_LOW.hd.webm": "/private/map/Jamais/Jamais_LOW.hd.webm/1e802b55f900c10c3c475ac8560adbb6.webm",
+    "jmcs://jd-contents/Jamais/Jamais_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/Jamais/Jamais_MapPreviewNoSoundCrop_HIGH.vp8.webm/31684337637b12ec2028c91a29474822.webm",
+    "jmcs://jd-contents/Jamais/Jamais_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/Jamais/Jamais_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f4a85f7c0b7332521ab74a7383a45494.webm"
+  },
+  "mapLength": 173.2835625,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21492,
+        42985,
+        64477,
+        85970,
+        107462,
+        128955,
+        150448,
+        171940,
+        193433,
+        214925,
+        236418,
+        257910,
+        279403,
+        300895,
+        322388,
+        343880,
+        365373,
+        386865,
+        408358,
+        429851,
+        451343,
+        472836,
+        494328,
+        515821,
+        537313,
+        558806,
+        580298,
+        601791,
+        623283,
+        644776,
+        666268,
+        687761,
+        709254,
+        730746,
+        752239,
+        773731,
+        795224,
+        816716,
+        838209,
+        859701,
+        881194,
+        902686,
+        924179,
+        945671,
+        967164,
+        988656,
+        1010149,
+        1031642,
+        1053134,
+        1074627,
+        1096119,
+        1117612,
+        1139104,
+        1160597,
+        1182089,
+        1203582,
+        1225074,
+        1246567,
+        1268059,
+        1289552,
+        1311045,
+        1332537,
+        1354030,
+        1375522,
+        1397015,
+        1418507,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -28,
+      "endBeat": 359,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 68,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/Jamais/Jamais_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"645335\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Jamais/Jamais_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"794-1284\">\n\t\t\t\t\t<Initialization range=\"0-794\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1471977\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Jamais/Jamais_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"794-1284\">\n\t\t\t\t\t<Initialization range=\"0-794\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"1744128\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Jamais/Jamais_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"794-1284\">\n\t\t\t\t\t<Initialization range=\"0-794\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"1744166\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Jamais/Jamais_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"794-1284\">\n\t\t\t\t\t<Initialization range=\"0-794\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "f1bfdcd29fab20884adebef326b752c5",
+      "storageType": 0,
+      "url": "/public/map/Jamais/pc/Jamais_MAIN_SCENE_PC.zip/f1bfdcd29fab20884adebef326b752c5.zip"
+    },
+    "ps4": {
+      "md5": "1082b7fc07882c0efbc71229355440ef",
+      "storageType": 0,
+      "url": "/public/map/Jamais/orbis/Jamais_MAIN_SCENE_ORBIS.zip/1082b7fc07882c0efbc71229355440ef.zip"
+    },
+    "wiiu": {
+      "md5": "729ac8e74ea6d20997ef66b191b44389",
+      "storageType": 0,
+      "url": "/public/map/Jamais/wiiu/Jamais_MAIN_SCENE_WIIU.zip/729ac8e74ea6d20997ef66b191b44389.zip"
+    },
+    "nx": {
+      "md5": "a65e9a5b373de75f1771ad2409541d40",
+      "storageType": 0,
+      "url": "/public/map/Jamais/nx/Jamais_MAIN_SCENE_NX.zip/a65e9a5b373de75f1771ad2409541d40.zip"
+    }
+  },
+  "data": {
+    "mapName": "Jamais",
+    "title": "Jamais Lâcher",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Michou",
+    "credits": "Written by Mortillaro Théo, Idaoubllal Omar, Miara-Cornet Loïc. Published by IKR. Courtesy of IKR.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#F8E09F",
+    "songColor2A": "#83F9F2",
+    "songColor1B": "#6E3307",
+    "songColor2B": "#072068",
+    "lyricsColor": "#FD3D17",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/Jamais/pc/Jamais_Cover_Online.tga.ckd/f513c84efe1bc907abc1c488f86857f9.ckd",
+      "coverImageUrl": "/public/map/Jamais/pc/Jamais_Cover_Generic.tga.ckd/2ab1859150e0c8427c1b4cea8bc523bd.ckd",
+      "expandCoachImageUrl": "/public/map/Jamais/pc/Jamais_Cover_AlbumCoach.tga.ckd/72e00df7ded3963edc6c326ebdb8bc04.ckd",
+      "map_bkgImageUrl": "/public/map/Jamais/pc/Jamais_map_bkg.tga.ckd/921b9b4cc070f7bfe263c84417432ffc.ckd",
+      "banner_bkgImageUrl": "/public/map/Jamais/pc/Jamais_banner_bkg.tga.ckd/aab5a2c2403552bc6ec0fe90cfa39d87.ckd",
+      "coach1ImageUrl": "/public/map/Jamais/pc/Jamais_Coach_1.tga.ckd/4d93cdb511fdeaa03673f85d54d6f630.ckd",
+      "phoneCoverImageUrl": "/public/map/Jamais/Jamais_Cover_Phone.jpg/5a4fe776a17bf4a47a47cb8aca8478d1.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Jamais/Jamais_Coach_1_Phone.png/a8c5f47ed3ac3e0aa62a84f9edd8b653.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/Jamais/orbis/Jamais_Cover_Online.tga.ckd/f513c84efe1bc907abc1c488f86857f9.ckd",
+      "coverImageUrl": "/public/map/Jamais/orbis/Jamais_Cover_Generic.tga.ckd/2ab1859150e0c8427c1b4cea8bc523bd.ckd",
+      "expandCoachImageUrl": "/public/map/Jamais/orbis/Jamais_Cover_AlbumCoach.tga.ckd/72e00df7ded3963edc6c326ebdb8bc04.ckd",
+      "map_bkgImageUrl": "/public/map/Jamais/orbis/Jamais_map_bkg.tga.ckd/921b9b4cc070f7bfe263c84417432ffc.ckd",
+      "banner_bkgImageUrl": "/public/map/Jamais/orbis/Jamais_banner_bkg.tga.ckd/aab5a2c2403552bc6ec0fe90cfa39d87.ckd",
+      "coach1ImageUrl": "/public/map/Jamais/orbis/Jamais_Coach_1.tga.ckd/4d93cdb511fdeaa03673f85d54d6f630.ckd",
+      "phoneCoverImageUrl": "/public/map/Jamais/Jamais_Cover_Phone.jpg/5a4fe776a17bf4a47a47cb8aca8478d1.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Jamais/Jamais_Coach_1_Phone.png/a8c5f47ed3ac3e0aa62a84f9edd8b653.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/Jamais/wiiu/Jamais_Cover_Online.tga.ckd/cde63c73b2caec45b6225738b114ec76.ckd",
+      "coverImageUrl": "/public/map/Jamais/wiiu/Jamais_Cover_Generic.tga.ckd/e7a3ca059c9083b3d799d1f7e9d9a7f6.ckd",
+      "expandCoachImageUrl": "/public/map/Jamais/wiiu/Jamais_Cover_AlbumCoach.tga.ckd/e7d29f14aa8cfe73a8b406779986b8a1.ckd",
+      "map_bkgImageUrl": "/public/map/Jamais/wiiu/Jamais_map_bkg.tga.ckd/84a63e3edfca48669ae152d9e0ed5c2e.ckd",
+      "banner_bkgImageUrl": "/public/map/Jamais/wiiu/Jamais_banner_bkg.tga.ckd/3c9fc7f1e51a0b6464a5eeac0854d565.ckd",
+      "coach1ImageUrl": "/public/map/Jamais/wiiu/Jamais_Coach_1.tga.ckd/ec6674e52341006f4b1d65e0b1202fd7.ckd",
+      "phoneCoverImageUrl": "/public/map/Jamais/Jamais_Cover_Phone.jpg/5a4fe776a17bf4a47a47cb8aca8478d1.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Jamais/Jamais_Coach_1_Phone.png/a8c5f47ed3ac3e0aa62a84f9edd8b653.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/Jamais/nx/Jamais_Cover_Online.tga.ckd/a1e6fae2ddd60513edd0e6fb8412b413.ckd",
+      "coverImageUrl": "/public/map/Jamais/nx/Jamais_Cover_Generic.tga.ckd/30428e1755b475c1b4bc13d0e704b35c.ckd",
+      "expandCoachImageUrl": "/public/map/Jamais/nx/Jamais_Cover_AlbumCoach.tga.ckd/4171cb95aa765c0e120c01b7af2507ce.ckd",
+      "map_bkgImageUrl": "/public/map/Jamais/nx/Jamais_map_bkg.tga.ckd/a2b36d86b3b405defbb2dad9279a910d.ckd",
+      "banner_bkgImageUrl": "/public/map/Jamais/nx/Jamais_banner_bkg.tga.ckd/1dba582491d3135bdf94c107c6a906e4.ckd",
+      "coach1ImageUrl": "/public/map/Jamais/nx/Jamais_Coach_1.tga.ckd/593287f736c11f440abfc8cd16d820d4.ckd",
+      "phoneCoverImageUrl": "/public/map/Jamais/Jamais_Cover_Phone.jpg/5a4fe776a17bf4a47a47cb8aca8478d1.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Jamais/Jamais_Coach_1_Phone.png/a8c5f47ed3ac3e0aa62a84f9edd8b653.png"
+    },
+    "cover640ImageUrl": "/public/map/Jamais/Jamais_Cover_640.png/038bb29a7df68b745799122083c883a5.png"
+  }
+}

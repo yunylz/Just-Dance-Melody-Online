@@ -1,0 +1,162 @@
+{
+  "urls": {
+    "jmcs://jd-contents/RichGirlMU/RichGirlMU.ogg": "/private/map/RichGirlMU/RichGirlMU.ogg/7208252abc0f9e6cffd0df3b62f8693f.ogg",
+    "jmcs://jd-contents/RichGirlMU/RichGirlMU_AudioPreview.ogg": "/public/map/RichGirlMU/RichGirlMU_AudioPreview.ogg/e30b4449cabb3b82f7f01775c66c59a7.ogg",
+    "jmcs://jd-contents/RichGirlMU/RichGirlMU_HIGH.hd.webm": "/private/map/RichGirlMU/RichGirlMU_HIGH.hd.webm/3b4fbc9895666255b4c61ef0d4f11167.webm",
+    "jmcs://jd-contents/RichGirlMU/RichGirlMU_LOW.hd.webm": "/private/map/RichGirlMU/RichGirlMU_LOW.hd.webm/93f0a4d737ffb70928cd278f553577eb.webm",
+    "jmcs://jd-contents/RichGirlMU/RichGirlMU_MID.hd.webm": "/private/map/RichGirlMU/RichGirlMU_MID.hd.webm/a9c5eb959662998f6df69cb590ee8970.webm",
+    "jmcs://jd-contents/RichGirlMU/RichGirlMU_ULTRA.hd.webm": "/private/map/RichGirlMU/RichGirlMU_ULTRA.hd.webm/bd0d961a42064d8b28bc52292a8f92fd.webm",
+    "jmcs://jd-contents/RichGirlMU/RichGirlMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RichGirlMU/RichGirlMU_MapPreviewNoSoundCrop_LOW.vp8.webm/ac1f902586d307edac100fe5b5400e27.webm",
+    "jmcs://jd-contents/RichGirlMU/RichGirlMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RichGirlMU/RichGirlMU_MapPreviewNoSoundCrop_MID.vp8.webm/493e5cedfb48dd2265da2637f2604518.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29375,
+        58751,
+        88175,
+        117551,
+        146927,
+        176303,
+        205727,
+        235103,
+        264479,
+        293855,
+        323279,
+        352655,
+        382031,
+        411407,
+        440831,
+        470207,
+        499583,
+        528959,
+        558383,
+        587759,
+        617135,
+        646511,
+        675935,
+        705311,
+        734687,
+        764063,
+        793487,
+        822862,
+        852238,
+        881614,
+        911038,
+        940414,
+        969790,
+        999166,
+        1028590,
+        1057966,
+        1087342,
+        1116718,
+        1146142,
+        1175518,
+        1204894,
+        1234270,
+        1263694,
+        1293070,
+        1322446,
+        1351822,
+        1381246,
+        1410622,
+        1439998,
+        1469374,
+        1498750
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 407,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RichGirlMU/RichGirlMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RichGirlMU/nx/RichGirlMU_banner_bkg.tga.ckd/f37232aa3ac63dfdb765f984960383ba.ckd",
+      "map_bkgImageUrl": "/public/map/RichGirlMU/nx/RichGirlMU_map_bkg.tga.ckd/debfe02c05d517366c9112a128f05e63.ckd",
+      "expandCoachImageUrl": "/public/map/RichGirlMU/nx/RichGirlMU_Cover_AlbumCoach.tga.ckd/2e5940b0b952787946362a95272d300f.ckd",
+      "cover_smallImageUrl": "/public/map/RichGirlMU/nx/RichGirlMU_Cover_Online.tga.ckd/b3f6bc6532deac8fbda720ce7e3fd494.ckd",
+      "coverImageUrl": "/public/map/RichGirlMU/nx/RichGirlMU_Cover_Generic.tga.ckd/cae3694b43c579c23e3c99a9e2f4af75.ckd",
+      "coach1ImageUrl": "/public/map/RichGirlMU/nx/RichGirlMU_Coach_1.tga.ckd/745149726b4174062440a414bb7c09df.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RichGirlMU/pc/RichGirlMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/RichGirlMU/pc/RichGirlMU_map_bkg.tga.ckd/93eb864640c7d5966859c65966d2af9c.ckd",
+      "expandCoachImageUrl": "/public/map/RichGirlMU/pc/RichGirlMU_Cover_AlbumCoach.tga.ckd/826831120c27af0475f43069b4f9c686.ckd",
+      "cover_smallImageUrl": "/public/map/RichGirlMU/pc/RichGirlMU_Cover_Online.tga.ckd/06de24cc32b88c75800c6e04543a6798.ckd",
+      "coverImageUrl": "/public/map/RichGirlMU/pc/RichGirlMU_Cover_Generic.tga.ckd/387d97cba3e168e4f22b8cecb367ff33.ckd",
+      "coach1ImageUrl": "/public/map/RichGirlMU/pc/RichGirlMU_Coach_1.tga.ckd/eda52a78adc1dd2b3ca03715794548bb.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RichGirlMU/orbis/RichGirlMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/RichGirlMU/orbis/RichGirlMU_map_bkg.tga.ckd/93eb864640c7d5966859c65966d2af9c.ckd",
+      "expandCoachImageUrl": "/public/map/RichGirlMU/orbis/RichGirlMU_Cover_AlbumCoach.tga.ckd/826831120c27af0475f43069b4f9c686.ckd",
+      "cover_smallImageUrl": "/public/map/RichGirlMU/orbis/RichGirlMU_Cover_Online.tga.ckd/06de24cc32b88c75800c6e04543a6798.ckd",
+      "coverImageUrl": "/public/map/RichGirlMU/orbis/RichGirlMU_Cover_Generic.tga.ckd/387d97cba3e168e4f22b8cecb367ff33.ckd",
+      "coach1ImageUrl": "/public/map/RichGirlMU/orbis/RichGirlMU_Coach_1.tga.ckd/eda52a78adc1dd2b3ca03715794548bb.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RichGirlMU/RichGirlMU_Coach_1_Phone.png/0ca362d9dfe6703fd7952a4d685a19c6.png",
+    "phoneCoverImageUrl": "/public/map/RichGirlMU/RichGirlMU_Cover_Phone.jpg/0f1a0ba733e667b9f82ca79c025826cd.jpg",
+    "cover640ImageUrl": "/public/map/RichGirlMU/RichGirlMU_Cover_640.png/0ba9f9898fc4f45d54cad43635aa6f98.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "44b231cb35074bae2bb1a8184f2a3e9e",
+      "storageType": 0,
+      "url": "/public/map/RichGirlMU/nx/RichGirlMU_MAIN_SCENE_NX.zip/44b231cb35074bae2bb1a8184f2a3e9e.zip"
+    },
+    "pc": {
+      "md5": "c779d5d2917015a59bfe88102d49018c",
+      "storageType": 0,
+      "url": "/public/map/RichGirlMU/pc/RichGirlMU_MAIN_SCENE_PC.zip/c779d5d2917015a59bfe88102d49018c.zip"
+    },
+    "ps4": {
+      "md5": "137c7e86e1ba647a1d7ce1b11ae16a71",
+      "storageType": 0,
+      "url": "/public/map/RichGirlMU/orbis/RichGirlMU_MAIN_SCENE_ORBIS.zip/137c7e86e1ba647a1d7ce1b11ae16a71.zip"
+    }
+  },
+  "data": {
+    "mapName": "RichGirlMU",
+    "title": "Rich Girl",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Gwen Stefani Ft. Eve",
+    "credits": "Empty Credits",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#06769a",
+    "LocaleID": 8605
+  },
+  "mapLength": 249.183688
+}

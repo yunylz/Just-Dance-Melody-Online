@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "a45d9b40aa84d3cc81a8f9230dd6cbe3",
+      "storageType": 0,
+      "url": "/public/map/Rockabye/nx/Rockabye_MAIN_SCENE_NX.zip/a45d9b40aa84d3cc81a8f9230dd6cbe3.zip"
+    },
+    "pc": {
+      "md5": "6d4dcf14dc7946fc2477b85ebddb2da4",
+      "storageType": 0,
+      "url": "/public/map/Rockabye/pc/Rockabye_MAIN_SCENE_PC.zip/6d4dcf14dc7946fc2477b85ebddb2da4.zip"
+    },
+    "ps4": {
+      "md5": "834f2098c9c5d72d530bd97f613056f2",
+      "storageType": 0,
+      "url": "/public/map/Rockabye/orbis/Rockabye_MAIN_SCENE_ORBIS.zip/834f2098c9c5d72d530bd97f613056f2.zip"
+    }
+  },
+  "data": {
+    "mapName": "Rockabye",
+    "title": "Rockabye",
+    "originalJDVersion": 2018,
+    "tags": [
+      "subscribedSong",
+      "JustDance2018",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "Clean Bandit ft. Sean Paul & Anne-Marie ",
+    "credits": "Written by Sean Paul Henriques, Steve Mac, Ammar Malik, Jack Patterson and Ina Wroldsen. Published by Universal PolyGram International Publishing, Inc. on behalf of Universal Music Publishing Ltd. and Rokstone Music. / EMI Music Publishing Ltd. (PRS) / Reservoir 416 / Maru Cha Cha (BMI) / Where Da Kasz At? (BMI). Admin by Kobalt Music Publishing America, Inc. All rights reserved. Used by permission. (P) Line: 2016 Atlantic Records UK. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#576ff9",
+    "songColor2A": "#ffc300",
+    "songColor1B": "#342375",
+    "songColor2B": "#c45e44",
+    "lyricsColor": "#f3650e",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28463,
+        56927,
+        85391,
+        113807,
+        142031,
+        170255,
+        197279,
+        226799,
+        255023,
+        283247,
+        311519,
+        339743,
+        367967,
+        396239,
+        424463,
+        452687,
+        480911,
+        509183,
+        537407,
+        565631,
+        593903,
+        622127,
+        650351,
+        678623,
+        706847,
+        735071,
+        763343,
+        791567,
+        819790,
+        848014,
+        876286,
+        904510,
+        932686,
+        960910,
+        989086,
+        1017310,
+        1045534,
+        1073758,
+        1101982,
+        1130206,
+        1158478,
+        1186702,
+        1214926,
+        1243150,
+        1271422,
+        1299646,
+        1327870,
+        1356142,
+        1384318,
+        1412542,
+        1440766,
+        1468990,
+        1497214
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 364,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Rockabye/Rockabye_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Rockabye/nx/Rockabye_banner_bkg.tga.ckd/f2c8da841a7bf532fb0d4c14475e406a.ckd",
+      "map_bkgImageUrl": "/public/map/Rockabye/nx/Rockabye_map_bkg.tga.ckd/a34bc2eac14d1f27b965975d755226c3.ckd",
+      "expandCoachImageUrl": "/public/map/Rockabye/nx/Rockabye_Cover_AlbumCoach.tga.ckd/0385454159e51a7b7cee2db94be938a6.ckd",
+      "cover_smallImageUrl": "/public/map/Rockabye/nx/Rockabye_Cover_Online.tga.ckd/bcff7614592d79e215943befcb3ab1e8.ckd",
+      "coverImageUrl": "/public/map/Rockabye/nx/Rockabye_Cover_Generic.tga.ckd/f98b2b8d9248ad414d8ccdacde24e7a9.ckd",
+      "coach1ImageUrl": "/public/map/Rockabye/nx/Rockabye_Coach_1.tga.ckd/9b59094ef553e7d04f580331f04a3398.ckd",
+      "coach2ImageUrl": "/public/map/Rockabye/nx/Rockabye_Coach_2.tga.ckd/7b242c4c7686a3e870b69b811f8d216a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Rockabye/pc/Rockabye_banner_bkg.tga.ckd/970a3f48b641fe8221091545a37672e1.ckd",
+      "map_bkgImageUrl": "/public/map/Rockabye/pc/Rockabye_map_bkg.tga.ckd/b9e433e6486a67d6ddbb3dec36cd5bf2.ckd",
+      "expandCoachImageUrl": "/public/map/Rockabye/pc/Rockabye_Cover_AlbumCoach.tga.ckd/118ea29b91dcd686c549d2575e5c2820.ckd",
+      "cover_smallImageUrl": "/public/map/Rockabye/pc/Rockabye_Cover_Online.tga.ckd/ef7aafa8b8cc7562aa10de350b902ffc.ckd",
+      "coverImageUrl": "/public/map/Rockabye/pc/Rockabye_Cover_Generic.tga.ckd/dd902f1e2996986537382a3327950fa0.ckd",
+      "coach1ImageUrl": "/public/map/Rockabye/pc/Rockabye_Coach_1.tga.ckd/841855389d6fe7d0f9bf3fa4c23f98fb.ckd",
+      "coach2ImageUrl": "/public/map/Rockabye/pc/Rockabye_Coach_2.tga.ckd/3703ae1288b5450e842705e78488150c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Rockabye/orbis/Rockabye_banner_bkg.tga.ckd/970a3f48b641fe8221091545a37672e1.ckd",
+      "map_bkgImageUrl": "/public/map/Rockabye/orbis/Rockabye_map_bkg.tga.ckd/b9e433e6486a67d6ddbb3dec36cd5bf2.ckd",
+      "expandCoachImageUrl": "/public/map/Rockabye/orbis/Rockabye_Cover_AlbumCoach.tga.ckd/118ea29b91dcd686c549d2575e5c2820.ckd",
+      "cover_smallImageUrl": "/public/map/Rockabye/orbis/Rockabye_Cover_Online.tga.ckd/ef7aafa8b8cc7562aa10de350b902ffc.ckd",
+      "coverImageUrl": "/public/map/Rockabye/orbis/Rockabye_Cover_Generic.tga.ckd/dd902f1e2996986537382a3327950fa0.ckd",
+      "coach1ImageUrl": "/public/map/Rockabye/orbis/Rockabye_Coach_1.tga.ckd/841855389d6fe7d0f9bf3fa4c23f98fb.ckd",
+      "coach2ImageUrl": "/public/map/Rockabye/orbis/Rockabye_Coach_2.tga.ckd/3703ae1288b5450e842705e78488150c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Rockabye/Rockabye_Coach_1_Phone.png/c4d46e9c067fa35f2274fcc5280f297d.png",
+    "phoneCoach2ImageUrl": "/public/map/Rockabye/Rockabye_Coach_2_Phone.png/5ddc390b34c3d9b8fcf0599ef5330708.png",
+    "phoneCoverImageUrl": "/public/map/Rockabye/Rockabye_Cover_Phone.jpg/8438fd724a1ed22695789a0036d18dec.jpg",
+    "cover640ImageUrl": "/public/map/Rockabye/Rockabye_Cover_640.png/842c2b83892e8bfec927efe1c24e7c02.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Rockabye/Rockabye.ogg": "/private/map/Rockabye/Rockabye.ogg/7193453fb1da026bc4cbfef56ec26671.ogg",
+    "jmcs://jd-contents/Rockabye/Rockabye_AudioPreview.ogg": "/public/map/Rockabye/Rockabye_AudioPreview.ogg/9fe9070376675f8caad4871b3df7b2e2.ogg",
+    "jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Rockabye/Rockabye_MapPreviewNoSoundCrop_LOW.vp8.webm/828498d09ffceaa48c59347dbf6ead61.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_HIGH.webm": "/private/map/Rockabye/Rockabye_HIGH.webm/a3501e4eb633a24227d53b231b733e64.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_LOW.webm": "/private/map/Rockabye/Rockabye_LOW.webm/d333313d8986d256a98830fc13d20808.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_MID.webm": "/private/map/Rockabye/Rockabye_MID.webm/adf8d29c2bbf07cdd8e4c79934b70db1.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_ULTRA.hd.webm": "/private/map/Rockabye/Rockabye_ULTRA.hd.webm/760f85a2f2575667f31e14b69eba6378.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_ULTRA.webm": "/private/map/Rockabye/Rockabye_ULTRA.webm/2869c4e8f0ffc170e75901cd93e4c9f2.webm",
+    "jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Rockabye/Rockabye_MapPreviewNoSoundCrop_MID.vp8.webm/e60b2e32b54efc3401e6cd9924887b05.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497720\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"622-1111\">\n\t\t\t\t\t<Initialization range=\"0-622\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482073\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rockabye/Rockabye_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\n\t\t\t\t\t<Initialization range=\"0-623\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 215.760667
+}

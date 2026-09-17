@@ -1,0 +1,170 @@
+{
+  "urls": {
+    "jmcs://jd-contents/EcoloKids/EcoloKids.ogg": "/private/map/EcoloKids/EcoloKids.ogg/37ed6f241772acfd8f5f79532cc1ef2b.ogg",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_AudioPreview.ogg": "/public/map/EcoloKids/EcoloKids_AudioPreview.ogg/d61b62815cac150025a85d8806187693.ogg",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_HIGH.hd.webm": "/private/map/EcoloKids/EcoloKids_HIGH.hd.webm/56885573b2ec859918365aa646cc9d88.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_LOW.hd.webm": "/private/map/EcoloKids/EcoloKids_LOW.hd.webm/27b636e5ea42d154e9c096946ba00a15.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_MID.hd.webm": "/private/map/EcoloKids/EcoloKids_MID.hd.webm/3c31c045417539db783da1b49f993326.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_ULTRA.hd.webm": "/private/map/EcoloKids/EcoloKids_ULTRA.hd.webm/af15c9f23c6112b5ca9637d7417578f4.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_LOW.vp8.webm/0d8932738c64b534668ce83b1f0b9950.webm",
+    "jmcs://jd-contents/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/EcoloKids/EcoloKids_MapPreviewNoSoundCrop_MID.vp8.webm/34c460d96f0e6845e47cd9dbbef5a366.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27692,
+        55385,
+        83077,
+        110769,
+        138462,
+        166154,
+        193846,
+        221538,
+        249231,
+        276923,
+        304615,
+        332308,
+        360000,
+        387692,
+        415385,
+        443077,
+        470769,
+        498462,
+        526154,
+        553846,
+        581538,
+        609231,
+        636923,
+        664615,
+        692308,
+        720000,
+        747692,
+        775385,
+        803077,
+        830769,
+        858462,
+        886154,
+        913846,
+        941538,
+        969231,
+        996923,
+        1024615,
+        1052308,
+        1080000,
+        1107692,
+        1135385,
+        1163077,
+        1190769,
+        1218462,
+        1246154,
+        1273846,
+        1301538,
+        1329231,
+        1356923,
+        1384615,
+        1412308,
+        1440000,
+        1467692,
+        1495385
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 209,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/EcoloKids/EcoloKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "76327bf72f95ca83e585a5c60a83737e",
+      "storageType": 0,
+      "url": "/public/map/EcoloKids/nx/EcoloKids_MAIN_SCENE_NX.zip/76327bf72f95ca83e585a5c60a83737e.zip"
+    },
+    "pc": {
+      "md5": "948c351b4bb6e033520f0bb30cf4ba2a",
+      "storageType": 0,
+      "url": "/public/map/EcoloKids/pc/EcoloKids_MAIN_SCENE_PC.zip/948c351b4bb6e033520f0bb30cf4ba2a.zip"
+    },
+    "ps4": {
+      "md5": "4974a8f1df89c4969308e0e5f32651d1",
+      "storageType": 0,
+      "url": "/public/map/EcoloKids/orbis/EcoloKids_MAIN_SCENE_ORBIS.zip/4974a8f1df89c4969308e0e5f32651d1.zip"
+    }
+  },
+  "data": {
+    "mapName": "EcoloKids",
+    "title": "Let's Save Our Planet",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main",
+      "kidsonly"
+    ],
+    "artist": "The Sunlight Shakers",
+    "credits": "Written by Barrie Gledden, Chris Bussey and Jason Pedder. Published by Audio Network Canada Inc. Courtesy of Audio Network Canada Inc.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#02c053",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#fc2cec",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/EcoloKids/nx/EcoloKids_banner_bkg.tga.ckd/c0678e33f15d562029900ffdd9a6a0f3.ckd",
+      "map_bkgImageUrl": "/public/map/EcoloKids/nx/EcoloKids_map_bkg.tga.ckd/76ef3490e56a96ee80613283301a8f04.ckd",
+      "expandCoachImageUrl": "/public/map/EcoloKids/nx/EcoloKids_Cover_AlbumCoach.tga.ckd/95a6ce8af55419fa703dea2b83221dd0.ckd",
+      "cover_smallImageUrl": "/public/map/EcoloKids/nx/EcoloKids_Cover_Online.tga.ckd/ab8c3c271d3a943773e77e01c34908f4.ckd",
+      "coverImageUrl": "/public/map/EcoloKids/nx/EcoloKids_Cover_Generic.tga.ckd/69d1aadba491e964de3b895063c17162.ckd",
+      "coach1ImageUrl": "/public/map/EcoloKids/nx/EcoloKids_Coach_1.tga.ckd/616c76dd5e96b596fc3c2ebe1931fcc2.ckd",
+      "coach2ImageUrl": "/public/map/EcoloKids/nx/EcoloKids_Coach_2.tga.ckd/f796a85de1ae59e9b0d43711e0b4c12e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/EcoloKids/pc/EcoloKids_banner_bkg.tga.ckd/f1c1b5e707bc6486765ecd415c28d8d4.ckd",
+      "map_bkgImageUrl": "/public/map/EcoloKids/pc/EcoloKids_map_bkg.tga.ckd/0742547e2c9ca7d7368310a88b58a3f6.ckd",
+      "expandCoachImageUrl": "/public/map/EcoloKids/pc/EcoloKids_Cover_AlbumCoach.tga.ckd/092e105fb336c69a9558444f3d649038.ckd",
+      "cover_smallImageUrl": "/public/map/EcoloKids/pc/EcoloKids_Cover_Online.tga.ckd/01b869857ae022eb528a3073dd6339e6.ckd",
+      "coverImageUrl": "/public/map/EcoloKids/pc/EcoloKids_Cover_Generic.tga.ckd/959c9f3ed842edb2e079c05696af6d54.ckd",
+      "coach1ImageUrl": "/public/map/EcoloKids/pc/EcoloKids_Coach_1.tga.ckd/d4ce2844cfa84a968e40a5e57464fc0e.ckd",
+      "coach2ImageUrl": "/public/map/EcoloKids/pc/EcoloKids_Coach_2.tga.ckd/cba13774584b44bc734f0fe1ee376760.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/EcoloKids/orbis/EcoloKids_banner_bkg.tga.ckd/f1c1b5e707bc6486765ecd415c28d8d4.ckd",
+      "map_bkgImageUrl": "/public/map/EcoloKids/orbis/EcoloKids_map_bkg.tga.ckd/0742547e2c9ca7d7368310a88b58a3f6.ckd",
+      "expandCoachImageUrl": "/public/map/EcoloKids/orbis/EcoloKids_Cover_AlbumCoach.tga.ckd/092e105fb336c69a9558444f3d649038.ckd",
+      "cover_smallImageUrl": "/public/map/EcoloKids/orbis/EcoloKids_Cover_Online.tga.ckd/01b869857ae022eb528a3073dd6339e6.ckd",
+      "coverImageUrl": "/public/map/EcoloKids/orbis/EcoloKids_Cover_Generic.tga.ckd/959c9f3ed842edb2e079c05696af6d54.ckd",
+      "coach1ImageUrl": "/public/map/EcoloKids/orbis/EcoloKids_Coach_1.tga.ckd/d4ce2844cfa84a968e40a5e57464fc0e.ckd",
+      "coach2ImageUrl": "/public/map/EcoloKids/orbis/EcoloKids_Coach_2.tga.ckd/cba13774584b44bc734f0fe1ee376760.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/EcoloKids/EcoloKids_Coach_1_Phone.png/46138107b62c490a2605fa1e718beaee.png",
+    "phoneCoach2ImageUrl": "/public/map/EcoloKids/EcoloKids_Coach_2_Phone.png/658a8eb2d0bb2bf0fa8fc285a44b2de1.png",
+    "phoneCoverImageUrl": "/public/map/EcoloKids/EcoloKids_Cover_Phone.jpg/c749c2d47496ac83fb99eb669cec4d52.jpg",
+    "cover640ImageUrl": "/public/map/EcoloKids/EcoloKids_Cover_640.png/fd9cbd8d7f7a9b6d27f5517cdd293c4c.png"
+  },
+  "mapLength": 124.039
+}

@@ -1,0 +1,151 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "66e9f25af6c18414721136e6eb23b533",
+      "storageType": 0,
+      "url": "/public/map/Vampire/nx/Vampire_MAIN_SCENE_NX.zip/66e9f25af6c18414721136e6eb23b533.zip"
+    },
+    "pc": {
+      "md5": "535601dfaba8f540669c84f7f4d0d95b",
+      "storageType": 0,
+      "url": "/public/map/Vampire/pc/Vampire_MAIN_SCENE_PC.zip/535601dfaba8f540669c84f7f4d0d95b.zip"
+    },
+    "ps4": {
+      "md5": "4037c0377b480e44412732f6d0102b65",
+      "storageType": 0,
+      "url": "/public/map/Vampire/orbis/Vampire_MAIN_SCENE_ORBIS.zip/4037c0377b480e44412732f6d0102b65.zip"
+    }
+  },
+  "data": {
+    "mapName": "Vampire",
+    "title": "vampire",
+    "originalJDVersion": 2024,
+    "tags": [
+      "subscribedSong",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "Olivia Rodrigo",
+    "credits": "Written by Olivia Rodrigo, Daniel Leonard Nigro. Published by Liv Laf Luv, Sony/ATV Tunes LLC, Daniel Leonard Nigro Music, Sony/ATV Allegro. Courtesy of Geffen Records under license from Universal Music Enterprises.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f53b6c",
+    "songColor2A": "#6f85e8",
+    "songColor1B": "#740757",
+    "songColor2B": "#101737",
+    "lyricsColor": "#51bdea"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        42667,
+        85333,
+        128000,
+        170667,
+        213333,
+        256000,
+        298667,
+        341333,
+        384000,
+        426667,
+        469333,
+        512000,
+        554667,
+        597333,
+        640000,
+        682667,
+        725333,
+        768000,
+        810667,
+        853333,
+        896000,
+        938667,
+        981333,
+        1024000,
+        1066667,
+        1109333,
+        1152000,
+        1194667,
+        1237333,
+        1280000,
+        1322667,
+        1365333,
+        1408000,
+        1450667,
+        1493333,
+        1536000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 418,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 34,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Vampire/Vampire_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Vampire/nx/Vampire_banner_bkg.tga.ckd/8f187aaf111639ec0fa0d71193f4d01d.ckd",
+      "map_bkgImageUrl": "/public/map/Vampire/nx/Vampire_map_bkg.tga.ckd/310c8bc8fca834668adadf24b829f2bc.ckd",
+      "expandCoachImageUrl": "/public/map/Vampire/nx/Vampire_Cover_AlbumCoach.tga.ckd/ae1635fafb8495359e5511ec2538e0f9.ckd",
+      "cover_smallImageUrl": "/public/map/Vampire/nx/Vampire_Cover_Online.tga.ckd/36e787b016af9fc9177b4c0ba71beed5.ckd",
+      "coach1ImageUrl": "/public/map/Vampire/nx/Vampire_Coach_1.tga.ckd/8e93077dabb27f5d20c0c1cb66b302df.ckd",
+      "coach2ImageUrl": "/public/map/Vampire/nx/Vampire_Coach_2.tga.ckd/e3e4b78894bd739093a156e147373bbb.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Vampire/pc/Vampire_banner_bkg.tga.ckd/52d45775ef2db758355415d7d2a74059.ckd",
+      "map_bkgImageUrl": "/public/map/Vampire/pc/Vampire_map_bkg.tga.ckd/550a0c1dea6bf84c5279969a76352483.ckd",
+      "expandCoachImageUrl": "/public/map/Vampire/pc/Vampire_Cover_AlbumCoach.tga.ckd/f32882bb862465baf8c9ed64eef1d54d.ckd",
+      "cover_smallImageUrl": "/public/map/Vampire/pc/Vampire_Cover_Online.tga.ckd/897f7714be3b6ee4d2df6f3e7932844a.ckd",
+      "coach1ImageUrl": "/public/map/Vampire/pc/Vampire_Coach_1.tga.ckd/532e68d94a8af1017ea711e867ce1905.ckd",
+      "coach2ImageUrl": "/public/map/Vampire/pc/Vampire_Coach_2.tga.ckd/b4ca9390a971a9d3aeef929390636718.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Vampire/orbis/Vampire_banner_bkg.tga.ckd/52d45775ef2db758355415d7d2a74059.ckd",
+      "map_bkgImageUrl": "/public/map/Vampire/orbis/Vampire_map_bkg.tga.ckd/550a0c1dea6bf84c5279969a76352483.ckd",
+      "expandCoachImageUrl": "/public/map/Vampire/orbis/Vampire_Cover_AlbumCoach.tga.ckd/f32882bb862465baf8c9ed64eef1d54d.ckd",
+      "cover_smallImageUrl": "/public/map/Vampire/orbis/Vampire_Cover_Online.tga.ckd/897f7714be3b6ee4d2df6f3e7932844a.ckd",
+      "coach1ImageUrl": "/public/map/Vampire/orbis/Vampire_Coach_1.tga.ckd/532e68d94a8af1017ea711e867ce1905.ckd",
+      "coach2ImageUrl": "/public/map/Vampire/orbis/Vampire_Coach_2.tga.ckd/b4ca9390a971a9d3aeef929390636718.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Vampire/Vampire_Coach_1_Phone.png/6ea2b57c8a91b38391703d0bbe706844.png",
+    "phoneCoach2ImageUrl": "/public/map/Vampire/Vampire_Coach_2_Phone.png/4c659165af9fb8a1eb3551507eb931c3.png",
+    "phoneCoverImageUrl": "/public/map/Vampire/Vampire_Cover_Phone.jpg/87eea3eb392d3e2a11b5a39b5d9bf59f.jpg",
+    "cover640ImageUrl": "/public/map/Vampire/Vampire_Cover_640.png/a37b9024f9498e6598bf766a649cafa6.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Vampire/Vampire.ogg": "/private/map/Vampire/Vampire.ogg/e02f7e744132bf35ebebfedc804b7a73.ogg",
+    "jmcs://jd-contents/Vampire/Vampire_AudioPreview.ogg": "/public/map/Vampire/Vampire_AudioPreview.ogg/fbfa2a66b5a7dab4705836006968ff1c.ogg",
+    "jmcs://jd-contents/Vampire/Vampire_HIGH.webm": "/private/map/Vampire/Vampire_HIGH.webm/18acd0d9ecb0f75635b7c6fd3907074d.webm",
+    "jmcs://jd-contents/Vampire/Vampire_LOW.webm": "/private/map/Vampire/Vampire_LOW.webm/7a8b5359f361ca3739ee2a03739415d3.webm",
+    "jmcs://jd-contents/Vampire/Vampire_MID.webm": "/private/map/Vampire/Vampire_MID.webm/6ae0a183ce46c097401c7ab1335577f4.webm",
+    "jmcs://jd-contents/Vampire/Vampire_ULTRA.hd.webm": "/private/map/Vampire/Vampire_ULTRA.hd.webm/fa46e3482b81ebafbcb3f35b9ce2a821.webm",
+    "jmcs://jd-contents/Vampire/Vampire_ULTRA.webm": "/private/map/Vampire/Vampire_ULTRA.webm/9023af459576697f43b7d37029fbae0d.webm",
+    "jmcs://jd-contents/Vampire/Vampire_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Vampire/Vampire_MapPreviewNoSoundCrop_LOW.vp8.webm/a5906d86501d4074bf6ac28e6282db35.webm",
+    "jmcs://jd-contents/Vampire/Vampire_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Vampire/Vampire_MapPreviewNoSoundCrop_MID.vp8.webm/accedec6d148c6bf28fbcd7534fe8af7.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"529786\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Vampire/Vampire_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"657-1146\">\n\t\t\t\t\t<Initialization range=\"0-657\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1507002\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Vampire/Vampire_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"658-1148\">\n\t\t\t\t\t<Initialization range=\"0-658\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 226.582917
+}

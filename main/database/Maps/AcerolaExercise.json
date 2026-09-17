@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f098630af313eab224ede3521f979d5a",
+      "storageType": 0,
+      "url": "/public/map/AcerolaExercise/nx/AcerolaExercise_MAIN_SCENE_NX.zip/f098630af313eab224ede3521f979d5a.zip"
+    },
+    "pc": {
+      "md5": "9845735a3cc0b9f05014fe24defe9b83",
+      "storageType": 0,
+      "url": "/public/map/AcerolaExercise/pc/AcerolaExercise_MAIN_SCENE_PC.zip/9845735a3cc0b9f05014fe24defe9b83.zip"
+    },
+    "ps4": {
+      "md5": "d5b320d32d454e0431cacd13d9d61d54",
+      "storageType": 0,
+      "url": "/public/map/AcerolaExercise/orbis/AcerolaExercise_MAIN_SCENE_ORBIS.zip/d5b320d32d454e0431cacd13d9d61d54.zip"
+    }
+  },
+  "data": {
+    "mapName": "AcerolaExercise",
+    "title": "Acerola Exercise (アセロラ体操のうた)",
+    "originalJDVersion": 1003,
+    "tags": [
+      "subscribedSong",
+      "jdwiiu",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "Humbert Humbert",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#73dd0b",
+    "songColor2A": "#00c3da",
+    "songColor1B": "#002605",
+    "songColor2B": "#014544",
+    "lyricsColor": "#9d1c00"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21648,
+        43296,
+        64944,
+        86640,
+        108288,
+        129936,
+        151584,
+        173233,
+        194881,
+        216529,
+        238177,
+        259873,
+        281521,
+        303169,
+        324818,
+        346466,
+        368114,
+        389762,
+        411410,
+        433106,
+        454754,
+        476403,
+        498051,
+        519699,
+        541347,
+        562995,
+        584643,
+        606339,
+        627988,
+        649636,
+        671284,
+        692932,
+        714580,
+        736228,
+        757876,
+        779573,
+        801221,
+        822869,
+        844517,
+        866165,
+        887813,
+        909461,
+        931109,
+        952806,
+        974454,
+        996102,
+        1017750,
+        1039398,
+        1061046,
+        1082694,
+        1104391,
+        1126039,
+        1147687,
+        1169335,
+        1190983,
+        1212631,
+        1234279,
+        1255928,
+        1277624,
+        1299272,
+        1320920,
+        1342568,
+        1364216,
+        1385864,
+        1407513,
+        1429161,
+        1450857,
+        1472505
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 144,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AcerolaExercise/AcerolaExercise_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AcerolaExercise/nx/AcerolaExercise_banner_bkg.tga.ckd/37276e12b7487588d80849a12f8e381c.ckd",
+      "map_bkgImageUrl": "/public/map/AcerolaExercise/nx/AcerolaExercise_map_bkg.tga.ckd/97b1f7aa3f3e0d6e762bce9712814d33.ckd",
+      "expandCoachImageUrl": "/public/map/AcerolaExercise/nx/AcerolaExercise_Cover_AlbumCoach.tga.ckd/89d2b99007879ed71a53dfc1f88cafd7.ckd",
+      "cover_smallImageUrl": "/public/map/AcerolaExercise/nx/AcerolaExercise_Cover_Online.tga.ckd/f47984c8053ebc4949ebfbbc55d259a3.ckd",
+      "coach1ImageUrl": "/public/map/AcerolaExercise/nx/AcerolaExercise_Coach_1.tga.ckd/6a91518c64f81eee87527149ea8bf7d5.ckd",
+      "coach2ImageUrl": "/public/map/AcerolaExercise/nx/AcerolaExercise_Coach_2.tga.ckd/a8209e5db5de033d01629f2cdf098275.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AcerolaExercise/pc/AcerolaExercise_banner_bkg.tga.ckd/ed42922e47bab1ad8fed97db16aca983.ckd",
+      "map_bkgImageUrl": "/public/map/AcerolaExercise/pc/AcerolaExercise_map_bkg.tga.ckd/9707b21ed2a75c33d3960c60afb92498.ckd",
+      "expandCoachImageUrl": "/public/map/AcerolaExercise/pc/AcerolaExercise_Cover_AlbumCoach.tga.ckd/160c77afde7a6827d6644c1e9de609db.ckd",
+      "cover_smallImageUrl": "/public/map/AcerolaExercise/pc/AcerolaExercise_Cover_Online.tga.ckd/a2026450b305d944c58e8f951e09f892.ckd",
+      "coach1ImageUrl": "/public/map/AcerolaExercise/pc/AcerolaExercise_Coach_1.tga.ckd/1587c0b99d716be719305b0d0fe07e9e.ckd",
+      "coach2ImageUrl": "/public/map/AcerolaExercise/pc/AcerolaExercise_Coach_2.tga.ckd/a3d182aeacf076d0ef54605f5e96f818.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AcerolaExercise/orbis/AcerolaExercise_banner_bkg.tga.ckd/ed42922e47bab1ad8fed97db16aca983.ckd",
+      "map_bkgImageUrl": "/public/map/AcerolaExercise/orbis/AcerolaExercise_map_bkg.tga.ckd/9707b21ed2a75c33d3960c60afb92498.ckd",
+      "expandCoachImageUrl": "/public/map/AcerolaExercise/orbis/AcerolaExercise_Cover_AlbumCoach.tga.ckd/160c77afde7a6827d6644c1e9de609db.ckd",
+      "cover_smallImageUrl": "/public/map/AcerolaExercise/orbis/AcerolaExercise_Cover_Online.tga.ckd/a2026450b305d944c58e8f951e09f892.ckd",
+      "coach1ImageUrl": "/public/map/AcerolaExercise/orbis/AcerolaExercise_Coach_1.tga.ckd/1587c0b99d716be719305b0d0fe07e9e.ckd",
+      "coach2ImageUrl": "/public/map/AcerolaExercise/orbis/AcerolaExercise_Coach_2.tga.ckd/a3d182aeacf076d0ef54605f5e96f818.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AcerolaExercise/AcerolaExercise_Coach_1_Phone.png/db6d5bda96010132045c24111f03f3f6.png",
+    "phoneCoach2ImageUrl": "/public/map/AcerolaExercise/AcerolaExercise_Coach_2_Phone.png/53eb2a5cbc629dc876eedc857662d3aa.png",
+    "phoneCoverImageUrl": "/public/map/AcerolaExercise/AcerolaExercise_Cover_Phone.jpg/2ea556e06f26684da48b92f76784c4b6.jpg",
+    "cover640ImageUrl": "/public/map/AcerolaExercise/AcerolaExercise_Cover_640.png/16642eb43908bad8ec27760a2d74496e.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/AcerolaExercise/AcerolaExercise.ogg": "/private/map/AcerolaExercise/AcerolaExercise.ogg/0cd88d6e43861fe2d27bce03af9f43fd.ogg",
+    "jmcs://jd-contents/AcerolaExercise/AcerolaExercise_AudioPreview.ogg": "/public/map/AcerolaExercise/AcerolaExercise_AudioPreview.ogg/b097a23206ab4ea0fc60687fbe6a221f.ogg",
+    "jmcs://jd-contents/AcerolaExercise/AcerolaExercise_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AcerolaExercise/AcerolaExercise_MapPreviewNoSoundCrop_LOW.vp8.webm/437a1772693e7fe91fb91cb10c3934bf.webm",
+    "jmcs://jd-contents/AcerolaExercise/AcerolaExercise_HIGH.webm": "/private/map/AcerolaExercise/AcerolaExercise_HIGH.webm/ea51f93d7f78f769ca0098968cef0ce5.webm",
+    "jmcs://jd-contents/AcerolaExercise/AcerolaExercise_LOW.webm": "/private/map/AcerolaExercise/AcerolaExercise_LOW.webm/92b0867f9cf386cf72e18d2e552a69c9.webm",
+    "jmcs://jd-contents/AcerolaExercise/AcerolaExercise_MID.webm": "/private/map/AcerolaExercise/AcerolaExercise_MID.webm/5f363f3dcf02ff7f4018bf6cf7a51f2e.webm",
+    "jmcs://jd-contents/AcerolaExercise/AcerolaExercise_ULTRA.webm": "/private/map/AcerolaExercise/AcerolaExercise_ULTRA.webm/745b32940fb05b810c3c6d91de5c267d.webm",
+    "jmcs://jd-contents/AcerolaExercise/AcerolaExercise_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AcerolaExercise/AcerolaExercise_MapPreviewNoSoundCrop_MID.vp8.webm/d65c8d63a0cd31bafd44e267cb6c7316.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"511146\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AcerolaExercise/AcerolaExercise_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"566-1056\">\n\t\t\t\t\t<Initialization range=\"0-566\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1499297\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AcerolaExercise/AcerolaExercise_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"567-1057\">\n\t\t\t\t\t<Initialization range=\"0-567\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 69.742188
+}

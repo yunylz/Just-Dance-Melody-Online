@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ChasmonauteKids/ChasmonauteKids.ogg": "/private/map/ChasmonauteKids/ChasmonauteKids.ogg/d64f456e7c3b99a350275125f022511f.ogg",
+    "jmcs://jd-contents/ChasmonauteKids/ChasmonauteKids_AudioPreview.ogg": "/public/map/ChasmonauteKids/ChasmonauteKids_AudioPreview.ogg/92c1b2b1fca7f8b8268baeddb9a09127.ogg",
+    "jmcs://jd-contents/ChasmonauteKids/ChasmonauteKids_HIGH.hd.webm": "/private/map/ChasmonauteKids/ChasmonauteKids_HIGH.hd.webm/dc596790adad470ee3f5d2190cae9a68.webm",
+    "jmcs://jd-contents/ChasmonauteKids/ChasmonauteKids_LOW.hd.webm": "/private/map/ChasmonauteKids/ChasmonauteKids_LOW.hd.webm/1317a24bf93756b063c3a469bddb7313.webm",
+    "jmcs://jd-contents/ChasmonauteKids/ChasmonauteKids_MID.hd.webm": "/private/map/ChasmonauteKids/ChasmonauteKids_MID.hd.webm/16d6a0c6c9265a8beb2f570227d64e1b.webm",
+    "jmcs://jd-contents/ChasmonauteKids/ChasmonauteKids_ULTRA.hd.webm": "/private/map/ChasmonauteKids/ChasmonauteKids_ULTRA.hd.webm/d35ac5151dac0504c0fd847aed34f060.webm",
+    "jmcs://jd-contents/ChasmonauteKids/ChasmonauteKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ChasmonauteKids/ChasmonauteKids_MapPreviewNoSoundCrop_LOW.vp8.webm/949bc0de35f74f7eaccc6fda63f82023.webm",
+    "jmcs://jd-contents/ChasmonauteKids/ChasmonauteKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ChasmonauteKids/ChasmonauteKids_MapPreviewNoSoundCrop_MID.vp8.webm/47101a42ad7cc30e82006419903bed3f.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 240,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ChasmonauteKids/ChasmonauteKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "c732840a032bf49d601bc699571f7625",
+      "storageType": 0,
+      "url": "/public/map/ChasmonauteKids/nx/ChasmonauteKids_MAIN_SCENE_NX.zip/c732840a032bf49d601bc699571f7625.zip"
+    },
+    "pc": {
+      "md5": "5dcf5a2039dc56cc1969827fc70d5fed",
+      "storageType": 0,
+      "url": "/public/map/ChasmonauteKids/pc/ChasmonauteKids_MAIN_SCENE_PC.zip/5dcf5a2039dc56cc1969827fc70d5fed.zip"
+    },
+    "ps4": {
+      "md5": "ed5b1fc3ce59f000a2a56bb3c18ddd47",
+      "storageType": 0,
+      "url": "/public/map/ChasmonauteKids/orbis/ChasmonauteKids_MAIN_SCENE_ORBIS.zip/ed5b1fc3ce59f000a2a56bb3c18ddd47.zip"
+    }
+  },
+  "data": {
+    "mapName": "ChasmonauteKids",
+    "title": "Space Cat",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main",
+      "kidsonly"
+    ],
+    "artist": "Equinox Stars",
+    "credits": "Written by Christian Marsac. Published by Audio Network Canada Inc. Courtesy of Audio Network Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#009efc",
+    "songColor2A": "#3d0fc3",
+    "songColor1B": "#461aca",
+    "songColor2B": "#0035b6",
+    "lyricsColor": "#fe47fe",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ChasmonauteKids/nx/ChasmonauteKids_banner_bkg.tga.ckd/eec9e04d268631effe8301ab8feb8de5.ckd",
+      "map_bkgImageUrl": "/public/map/ChasmonauteKids/nx/ChasmonauteKids_map_bkg.tga.ckd/402bcf2447f89e4a7e242436d10fbb69.ckd",
+      "expandCoachImageUrl": "/public/map/ChasmonauteKids/nx/ChasmonauteKids_Cover_AlbumCoach.tga.ckd/8ab100057962570515f87dd7c17994c4.ckd",
+      "cover_smallImageUrl": "/public/map/ChasmonauteKids/nx/ChasmonauteKids_Cover_Online.tga.ckd/b05cf2dcf50cc8813649b9277b394c3a.ckd",
+      "coverImageUrl": "/public/map/ChasmonauteKids/nx/ChasmonauteKids_Cover_Generic.tga.ckd/bf8d3a560d191bc033d12ffe41d9e8b2.ckd",
+      "coach1ImageUrl": "/public/map/ChasmonauteKids/nx/ChasmonauteKids_Coach_1.tga.ckd/d4dc108a073df0c9f6edb5508f8dc394.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ChasmonauteKids/pc/ChasmonauteKids_banner_bkg.tga.ckd/649bf3510907589c5c1132f4fb99ab35.ckd",
+      "map_bkgImageUrl": "/public/map/ChasmonauteKids/pc/ChasmonauteKids_map_bkg.tga.ckd/8f0ba5dd453ccf1e1d43b9a67c373c8e.ckd",
+      "expandCoachImageUrl": "/public/map/ChasmonauteKids/pc/ChasmonauteKids_Cover_AlbumCoach.tga.ckd/4e6901fcf591b8437698468781bd8800.ckd",
+      "cover_smallImageUrl": "/public/map/ChasmonauteKids/pc/ChasmonauteKids_Cover_Online.tga.ckd/a36b7fa725ae0107a0c1897f280700ec.ckd",
+      "coverImageUrl": "/public/map/ChasmonauteKids/pc/ChasmonauteKids_Cover_Generic.tga.ckd/e1baedea9fdbd0a13f56cc1ed4887fc9.ckd",
+      "coach1ImageUrl": "/public/map/ChasmonauteKids/pc/ChasmonauteKids_Coach_1.tga.ckd/2f40cf47984c658a7d10b27754f5c94b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ChasmonauteKids/orbis/ChasmonauteKids_banner_bkg.tga.ckd/649bf3510907589c5c1132f4fb99ab35.ckd",
+      "map_bkgImageUrl": "/public/map/ChasmonauteKids/orbis/ChasmonauteKids_map_bkg.tga.ckd/8f0ba5dd453ccf1e1d43b9a67c373c8e.ckd",
+      "expandCoachImageUrl": "/public/map/ChasmonauteKids/orbis/ChasmonauteKids_Cover_AlbumCoach.tga.ckd/4e6901fcf591b8437698468781bd8800.ckd",
+      "cover_smallImageUrl": "/public/map/ChasmonauteKids/orbis/ChasmonauteKids_Cover_Online.tga.ckd/a36b7fa725ae0107a0c1897f280700ec.ckd",
+      "coverImageUrl": "/public/map/ChasmonauteKids/orbis/ChasmonauteKids_Cover_Generic.tga.ckd/e1baedea9fdbd0a13f56cc1ed4887fc9.ckd",
+      "coach1ImageUrl": "/public/map/ChasmonauteKids/orbis/ChasmonauteKids_Coach_1.tga.ckd/2f40cf47984c658a7d10b27754f5c94b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ChasmonauteKids/ChasmonauteKids_Coach_1_Phone.png/86f23cd87673cb5c1e9cc5609f5607db.png",
+    "phoneCoverImageUrl": "/public/map/ChasmonauteKids/ChasmonauteKids_Cover_Phone.jpg/19ab6a4b5701e0be854b747c9d442b45.jpg",
+    "cover640ImageUrl": "/public/map/ChasmonauteKids/ChasmonauteKids_Cover_640.png/3f76aa9cd09e4aa0a5001942f6c1ab2a.png"
+  },
+  "mapLength": 119.5
+}

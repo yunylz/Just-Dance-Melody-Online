@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Magenta/Magenta.ogg": "/private/map/Magenta/Magenta.ogg/04377ca8442fe0ba9a42a4e1939b618d.ogg",
+    "jmcs://jd-contents/Magenta/Magenta_AudioPreview.ogg": "/public/map/Magenta/Magenta_AudioPreview.ogg/b0893fd944381bcbbe49374daae9cd51.ogg",
+    "jmcs://jd-contents/Magenta/Magenta_HIGH.hd.webm": "/private/map/Magenta/Magenta_HIGH.hd.webm/2e11ef0ece530e222b4b771a8fc93f26.webm",
+    "jmcs://jd-contents/Magenta/Magenta_LOW.hd.webm": "/private/map/Magenta/Magenta_LOW.hd.webm/2723e6dcb9bb0bcc601b56296e683f5c.webm",
+    "jmcs://jd-contents/Magenta/Magenta_MID.hd.webm": "/private/map/Magenta/Magenta_MID.hd.webm/24e932ad4ce5b1e8008e7e87e0e4fec4.webm",
+    "jmcs://jd-contents/Magenta/Magenta_ULTRA.hd.webm": "/private/map/Magenta/Magenta_ULTRA.hd.webm/e4a0196fd5e86ebd07eb6d4cca32ee8f.webm",
+    "jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Magenta/Magenta_MapPreviewNoSoundCrop_LOW.vp8.webm/6f2380e641964c65386172e440ef656f.webm",
+    "jmcs://jd-contents/Magenta/Magenta_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Magenta/Magenta_MapPreviewNoSoundCrop_MID.vp8.webm/5d2052fe3d8618333348b195bdc17953.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28235,
+        56471,
+        84706,
+        112941,
+        141176,
+        169412,
+        197647,
+        225882,
+        254118,
+        282353,
+        310588,
+        338824,
+        367059,
+        395294,
+        423529,
+        451765,
+        480000,
+        508235,
+        536471,
+        564706,
+        592941,
+        621176,
+        649412,
+        677647,
+        705882,
+        734118,
+        762353,
+        790588,
+        818824,
+        847059,
+        875294,
+        903529,
+        931765,
+        960000,
+        988235,
+        1016471,
+        1044706,
+        1072941,
+        1101176,
+        1129412,
+        1157647,
+        1185882,
+        1214118,
+        1242353,
+        1270588,
+        1298824,
+        1327059,
+        1355294,
+        1383529,
+        1411765,
+        1440000,
+        1468235,
+        1496471
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 325,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Magenta/Magenta_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "b7af6da11b7e29565a372c35ea328bf9",
+      "storageType": 0,
+      "url": "/public/map/Magenta/nx/Magenta_MAIN_SCENE_NX.zip/b7af6da11b7e29565a372c35ea328bf9.zip"
+    },
+    "pc": {
+      "md5": "cc771405ef5a8e55626db6ff0f6cc899",
+      "storageType": 0,
+      "url": "/public/map/Magenta/pc/Magenta_MAIN_SCENE_PC.zip/cc771405ef5a8e55626db6ff0f6cc899.zip"
+    },
+    "ps4": {
+      "md5": "34de3011237907e69b90ed807fac8728",
+      "storageType": 0,
+      "url": "/public/map/Magenta/orbis/Magenta_MAIN_SCENE_ORBIS.zip/34de3011237907e69b90ed807fac8728.zip"
+    }
+  },
+  "data": {
+    "mapName": "Magenta",
+    "title": "Magenta Riddim",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "DJ Snake",
+    "credits": "Written by William Grigahcine. Published by BMG Platinum Songs (BMI) / Get Familiar Music, LLC (ASCAP) / DJ Snake Music, LLC (SACEM/ASCAP). Courtesy of Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#e77623",
+    "songColor2A": "#e97e00",
+    "songColor1B": "#bb3f22",
+    "songColor2B": "#9700c8",
+    "lyricsColor": "#f326c8",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Magenta/nx/Magenta_banner_bkg.tga.ckd/e5106d71b2c12b37210c95532e80792e.ckd",
+      "map_bkgImageUrl": "/public/map/Magenta/nx/Magenta_map_bkg.tga.ckd/23953f09698fd7df658bb63d8f496b82.ckd",
+      "expandCoachImageUrl": "/public/map/Magenta/nx/Magenta_Cover_AlbumCoach.tga.ckd/e049a1fc02c453c155bd2d51ca297821.ckd",
+      "cover_smallImageUrl": "/public/map/Magenta/nx/Magenta_Cover_Online.tga.ckd/3500b8e0ad7d10aaf27bc4784c4eee4c.ckd",
+      "coverImageUrl": "/public/map/Magenta/nx/Magenta_Cover_Generic.tga.ckd/f42c9f1edb5275d9e53b1102082e3f17.ckd",
+      "coach1ImageUrl": "/public/map/Magenta/nx/Magenta_Coach_1.tga.ckd/ec7b4cf636281cb8691a4d3773794ef4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Magenta/pc/Magenta_banner_bkg.tga.ckd/23c939566edb00a6c4736efb471f9fb9.ckd",
+      "map_bkgImageUrl": "/public/map/Magenta/pc/Magenta_map_bkg.tga.ckd/c53955cda7b60ae93a398a8acb7a14b2.ckd",
+      "expandCoachImageUrl": "/public/map/Magenta/pc/Magenta_Cover_AlbumCoach.tga.ckd/0579e3b9820b622d255fe1c0869e8fb8.ckd",
+      "cover_smallImageUrl": "/public/map/Magenta/pc/Magenta_Cover_Online.tga.ckd/7823d8f360bc45224c017c17a29b9d90.ckd",
+      "coverImageUrl": "/public/map/Magenta/pc/Magenta_Cover_Generic.tga.ckd/9472d0319f3d86779a61a832252d2139.ckd",
+      "coach1ImageUrl": "/public/map/Magenta/pc/Magenta_Coach_1.tga.ckd/b871a91b135faec76a1491c05f8e7882.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Magenta/orbis/Magenta_banner_bkg.tga.ckd/23c939566edb00a6c4736efb471f9fb9.ckd",
+      "map_bkgImageUrl": "/public/map/Magenta/orbis/Magenta_map_bkg.tga.ckd/c53955cda7b60ae93a398a8acb7a14b2.ckd",
+      "expandCoachImageUrl": "/public/map/Magenta/orbis/Magenta_Cover_AlbumCoach.tga.ckd/0579e3b9820b622d255fe1c0869e8fb8.ckd",
+      "cover_smallImageUrl": "/public/map/Magenta/orbis/Magenta_Cover_Online.tga.ckd/7823d8f360bc45224c017c17a29b9d90.ckd",
+      "coverImageUrl": "/public/map/Magenta/orbis/Magenta_Cover_Generic.tga.ckd/9472d0319f3d86779a61a832252d2139.ckd",
+      "coach1ImageUrl": "/public/map/Magenta/orbis/Magenta_Coach_1.tga.ckd/b871a91b135faec76a1491c05f8e7882.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Magenta/Magenta_Coach_1_Phone.png/4b2edde0775087574024578fec13b738.png",
+    "phoneCoverImageUrl": "/public/map/Magenta/Magenta_Cover_Phone.jpg/c97341552c0456324e7e04f8b3329f90.jpg",
+    "cover640ImageUrl": "/public/map/Magenta/Magenta_Cover_640.png/69f8c6c190b0986caf50a6833a8daa0a.png"
+  },
+  "mapLength": 193.529396
+}

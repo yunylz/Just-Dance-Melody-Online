@@ -1,0 +1,155 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8b8d8e0fd8b8c8a53cadbe3dc1f62ae9",
+      "storageType": 0,
+      "url": "/public/map/SurfinBird/nx/SurfinBird_MAIN_SCENE_NX.zip/8b8d8e0fd8b8c8a53cadbe3dc1f62ae9.zip"
+    },
+    "pc": {
+      "md5": "691b3c6de143c16d5a945ca441768d0c",
+      "storageType": 0,
+      "url": "/public/map/SurfinBird/pc/SurfinBird_MAIN_SCENE_PC.zip/691b3c6de143c16d5a945ca441768d0c.zip"
+    },
+    "ps4": {
+      "md5": "07354f674faa7d1437c53e296c244ff0",
+      "storageType": 0,
+      "url": "/public/map/SurfinBird/orbis/SurfinBird_MAIN_SCENE_ORBIS.zip/07354f674faa7d1437c53e296c244ff0.zip"
+    }
+  },
+  "data": {
+    "mapName": "SurfinBird",
+    "title": "Surfin' Bird",
+    "originalJDVersion": 1,
+    "tags": [
+      "subscribedSong",
+      "JustDance1",
+      "forcerumble"
+    ],
+    "artist": "The Trashmen",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#ececec",
+    "songColor2A": "#ffc0f5",
+    "songColor1B": "#070707",
+    "songColor2B": "#6c2897",
+    "lyricsColor": "#e052c7"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28896,
+        57792,
+        86688,
+        115584,
+        144480,
+        173375,
+        202271,
+        231167,
+        260063,
+        288959,
+        317855,
+        346751,
+        375647,
+        404543,
+        433439,
+        462335,
+        491231,
+        520127,
+        549022,
+        577918,
+        606814,
+        635710,
+        664606,
+        693502,
+        722398,
+        751294,
+        780190,
+        809086,
+        837982,
+        866926,
+        895822,
+        924718,
+        953613,
+        982509,
+        1011405,
+        1040301,
+        1069677,
+        1099053,
+        1128429,
+        1157805,
+        1187181,
+        1216557,
+        1245933,
+        1275309,
+        1304685,
+        1334060,
+        1363436,
+        1392812,
+        1422188
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 206,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SurfinBird/SurfinBird_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SurfinBird/nx/SurfinBird_banner_bkg.tga.ckd/03115e57f5d4827d6c0dc36483c74d9f.ckd",
+      "map_bkgImageUrl": "/public/map/SurfinBird/nx/SurfinBird_map_bkg.tga.ckd/97b1c6cfb841e3e5e6f067fe89b0006c.ckd",
+      "expandCoachImageUrl": "/public/map/SurfinBird/nx/SurfinBird_Cover_AlbumCoach.tga.ckd/8669356df38c40cd9dc607c67e3ae4ea.ckd",
+      "cover_smallImageUrl": "/public/map/SurfinBird/nx/SurfinBird_Cover_Online.tga.ckd/1152fe09bb3428c0c0fe0286451bcbde.ckd",
+      "coverImageUrl": "/public/map/SurfinBird/nx/SurfinBird_Cover_Generic.tga.ckd/6199e749ee2309d3cc7f62adc7d0574d.ckd",
+      "coach1ImageUrl": "/public/map/SurfinBird/nx/SurfinBird_Coach_1.tga.ckd/8ae98cde6c68c62972d69d9a98513b88.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SurfinBird/pc/SurfinBird_banner_bkg.tga.ckd/96a7b40b66cc88284401b9e61a02d651.ckd",
+      "map_bkgImageUrl": "/public/map/SurfinBird/pc/SurfinBird_map_bkg.tga.ckd/87391b888f1175be3d85b2286b538ffa.ckd",
+      "expandCoachImageUrl": "/public/map/SurfinBird/pc/SurfinBird_Cover_AlbumCoach.tga.ckd/414430320d1e7a610f380b546717ac6d.ckd",
+      "cover_smallImageUrl": "/public/map/SurfinBird/pc/SurfinBird_Cover_Online.tga.ckd/7d74b7e7f694980421d1228b269b804d.ckd",
+      "coverImageUrl": "/public/map/SurfinBird/pc/SurfinBird_Cover_Generic.tga.ckd/3aab48bdc175eca3d9fe377def5072f8.ckd",
+      "coach1ImageUrl": "/public/map/SurfinBird/pc/SurfinBird_Coach_1.tga.ckd/d718f53be88138d13d790bc51d3f3537.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SurfinBird/orbis/SurfinBird_banner_bkg.tga.ckd/96a7b40b66cc88284401b9e61a02d651.ckd",
+      "map_bkgImageUrl": "/public/map/SurfinBird/orbis/SurfinBird_map_bkg.tga.ckd/87391b888f1175be3d85b2286b538ffa.ckd",
+      "expandCoachImageUrl": "/public/map/SurfinBird/orbis/SurfinBird_Cover_AlbumCoach.tga.ckd/414430320d1e7a610f380b546717ac6d.ckd",
+      "cover_smallImageUrl": "/public/map/SurfinBird/orbis/SurfinBird_Cover_Online.tga.ckd/7d74b7e7f694980421d1228b269b804d.ckd",
+      "coverImageUrl": "/public/map/SurfinBird/orbis/SurfinBird_Cover_Generic.tga.ckd/3aab48bdc175eca3d9fe377def5072f8.ckd",
+      "coach1ImageUrl": "/public/map/SurfinBird/orbis/SurfinBird_Coach_1.tga.ckd/d718f53be88138d13d790bc51d3f3537.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SurfinBird/SurfinBird_Coach_1_Phone.png/d3fdd5b9ff7d83657cb21f0fbad745f7.png",
+    "phoneCoverImageUrl": "/public/map/SurfinBird/SurfinBird_Cover_Phone.jpg/4b7d52d69f28652bf44d02903f89aa24.jpg",
+    "cover640ImageUrl": "/public/map/SurfinBird/SurfinBird_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SurfinBird/SurfinBird.ogg": "/private/map/SurfinBird/SurfinBird.ogg/730567ac68c98272105b0eb53b75608a.ogg",
+    "jmcs://jd-contents/SurfinBird/SurfinBird_AudioPreview.ogg": "/public/map/SurfinBird/SurfinBird_AudioPreview.ogg/03e151cf6e3a0fa1c5166599fd94413b.ogg",
+    "jmcs://jd-contents/SurfinBird/SurfinBird_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SurfinBird/SurfinBird_MapPreviewNoSoundCrop_LOW.vp8.webm/3911491a47422d1537d553e63c6aa12f.webm",
+    "jmcs://jd-contents/SurfinBird/SurfinBird_HIGH.webm": "/private/map/SurfinBird/SurfinBird_HIGH.webm/bb4b7c25f23286d36f905e7927b71bbe.webm",
+    "jmcs://jd-contents/SurfinBird/SurfinBird_LOW.webm": "/private/map/SurfinBird/SurfinBird_LOW.webm/3e8737b07eb1cb2093e4037c4a69b5bd.webm",
+    "jmcs://jd-contents/SurfinBird/SurfinBird_MID.webm": "/private/map/SurfinBird/SurfinBird_MID.webm/992e02ba78500d57a19d86f3f54e2b06.webm",
+    "jmcs://jd-contents/SurfinBird/SurfinBird_ULTRA.hd.webm": "/private/map/SurfinBird/SurfinBird_ULTRA.hd.webm/d508b9804fa8a075a0409bc253087d91.webm",
+    "jmcs://jd-contents/SurfinBird/SurfinBird_ULTRA.webm": "/private/map/SurfinBird/SurfinBird_ULTRA.webm/da172d40378dc550affff8e271784044.webm",
+    "jmcs://jd-contents/SurfinBird/SurfinBird_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SurfinBird/SurfinBird_MapPreviewNoSoundCrop_MID.vp8.webm/0dd9ff80a441bb5e655732b23a400f72.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"506774\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SurfinBird/SurfinBird_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\n\t\t\t\t\t<Initialization range=\"0-604\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1486142\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SurfinBird/SurfinBird_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\n\t\t\t\t\t<Initialization range=\"0-605\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 124.321542
+}

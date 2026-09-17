@@ -1,0 +1,159 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7403e1c8c16472a76643364d28626d69",
+      "storageType": 0,
+      "url": "/public/map/Swag/nx/Swag_MAIN_SCENE_NX.zip/7403e1c8c16472a76643364d28626d69.zip"
+    },
+    "pc": {
+      "md5": "fcfe795267717d58cee9446e92f47d8c",
+      "storageType": 0,
+      "url": "/public/map/Swag/pc/Swag_MAIN_SCENE_PC.zip/fcfe795267717d58cee9446e92f47d8c.zip"
+    },
+    "ps4": {
+      "md5": "eeace981f6656298aa8f18d5c8d12248",
+      "storageType": 0,
+      "url": "/public/map/Swag/orbis/Swag_MAIN_SCENE_ORBIS.zip/eeace981f6656298aa8f18d5c8d12248.zip"
+    }
+  },
+  "data": {
+    "mapName": "Swag",
+    "title": "My New Swag (我的新衣)",
+    "originalJDVersion": 2020,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "VAVA Ft. Ty. & Nina Wang",
+    "credits": "Written by Double G and Kas. Published by Yes Music Entertainment. / AINOKO Entertainment Co., Ltd. Courtesy of AINOKO Entertainment Co. Ltd. / Warner Music Taiwan. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#007D88",
+    "songColor2A": "#FF8416",
+    "songColor1B": "#052D42",
+    "songColor2B": "#820600",
+    "lyricsColor": "#090637",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32016,
+        63984,
+        96000,
+        128016,
+        159984,
+        192000,
+        224016,
+        255984,
+        288000,
+        320016,
+        351984,
+        384000,
+        416016,
+        447984,
+        480000,
+        512016,
+        543985,
+        576001,
+        608017,
+        639985,
+        672001,
+        703969,
+        735985,
+        768001,
+        799969,
+        831985,
+        864001,
+        895969,
+        927985,
+        960001,
+        991969,
+        1023985,
+        1056001,
+        1087969,
+        1119985,
+        1152001,
+        1183969,
+        1215985,
+        1248001,
+        1279969,
+        1311985,
+        1344001,
+        1375969,
+        1407985
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 317,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 44,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/swag/swag_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Swag/nx/Swag_banner_bkg.tga.ckd/6234b008ef1c0b86b901e8673d7fb202.ckd",
+      "map_bkgImageUrl": "/public/map/Swag/nx/Swag_map_bkg.tga.ckd/1b8cebd61126e6c4a668e49385bb34dc.ckd",
+      "expandCoachImageUrl": "/public/map/Swag/nx/Swag_Cover_AlbumCoach.tga.ckd/0674d172e7871baee8aed749440e8360.ckd",
+      "cover_smallImageUrl": "/public/map/Swag/nx/Swag_Cover_Online.tga.ckd/d472938ecf5b11c301ee65feb1f10787.ckd",
+      "coverImageUrl": "/public/map/Swag/nx/Swag_Cover_Generic.tga.ckd/d20e3933e4be1e68fe09f4c8664385e9.ckd",
+      "coach1ImageUrl": "/public/map/Swag/nx/Swag_Coach_1.tga.ckd/28e5e3336e2032d38c49f35eea9ec0c0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Swag/pc/Swag_banner_bkg.tga.ckd/59c331b86f75dee37d1d5f37ded6f7c6.ckd",
+      "map_bkgImageUrl": "/public/map/Swag/pc/Swag_map_bkg.tga.ckd/2c92cf85b76c54927921fdcf50e0ccf2.ckd",
+      "expandCoachImageUrl": "/public/map/Swag/pc/Swag_Cover_AlbumCoach.tga.ckd/ba9ca4539216f8eb037cd420c8f4e0a9.ckd",
+      "cover_smallImageUrl": "/public/map/Swag/pc/Swag_Cover_Online.tga.ckd/5abef7b201a08c83abf01c9e2f80b443.ckd",
+      "coverImageUrl": "/public/map/Swag/pc/Swag_Cover_Generic.tga.ckd/e235023dcd46e7e8aa80bc60a3fd3133.ckd",
+      "coach1ImageUrl": "/public/map/Swag/pc/Swag_Coach_1.tga.ckd/d870b4fe6fd599b5c5e8b5c88727053f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Swag/orbis/Swag_banner_bkg.tga.ckd/59c331b86f75dee37d1d5f37ded6f7c6.ckd",
+      "map_bkgImageUrl": "/public/map/Swag/orbis/Swag_map_bkg.tga.ckd/2c92cf85b76c54927921fdcf50e0ccf2.ckd",
+      "expandCoachImageUrl": "/public/map/Swag/orbis/Swag_Cover_AlbumCoach.tga.ckd/ba9ca4539216f8eb037cd420c8f4e0a9.ckd",
+      "cover_smallImageUrl": "/public/map/Swag/orbis/Swag_Cover_Online.tga.ckd/5abef7b201a08c83abf01c9e2f80b443.ckd",
+      "coverImageUrl": "/public/map/Swag/orbis/Swag_Cover_Generic.tga.ckd/e235023dcd46e7e8aa80bc60a3fd3133.ckd",
+      "coach1ImageUrl": "/public/map/Swag/orbis/Swag_Coach_1.tga.ckd/d870b4fe6fd599b5c5e8b5c88727053f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Swag/Swag_Coach_1_Phone.png/7ebddb94738cc12bfcfc89eb31363787.png",
+    "phoneCoverImageUrl": "/public/map/Swag/Swag_Cover_Phone.jpg/21f9f6e8823f101d0c8f8f9d15fbe3a7.jpg",
+    "cover640ImageUrl": "/public/map/Swag/Swag_Cover_640.png/2d42adc340d500eb35485e7633e37eac.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Swag/Swag.ogg": "/private/map/Swag/Swag.ogg/eb3e74bd29ff0ae731c5856f5ecf0ad7.ogg",
+    "jmcs://jd-contents/Swag/Swag_AudioPreview.ogg": "/public/map/Swag/Swag_AudioPreview.ogg/824eb750b709c23c23f0020ec8685605.ogg",
+    "jmcs://jd-contents/Swag/Swag_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Swag/Swag_MapPreviewNoSoundCrop_LOW.vp8.webm/1706348c0ac422d0d6f2bb0e4fb2d50c.webm",
+    "jmcs://jd-contents/Swag/Swag_HIGH.webm": "/private/map/Swag/Swag_HIGH.webm/7b11c1ad4b93922d6db8aafe2d569dce.webm",
+    "jmcs://jd-contents/Swag/Swag_LOW.webm": "/private/map/Swag/Swag_LOW.webm/10b1b25dd78fc34e8e30ecc8cc305ae7.webm",
+    "jmcs://jd-contents/Swag/Swag_MID.webm": "/private/map/Swag/Swag_MID.webm/681e050fd5795ff81cfc6ccdbca8c19b.webm",
+    "jmcs://jd-contents/Swag/Swag_ULTRA.hd.webm": "/private/map/Swag/Swag_ULTRA.hd.webm/59d11cd72f7d84f5101c56ac1496a98a.webm",
+    "jmcs://jd-contents/Swag/Swag_ULTRA.webm": "/private/map/Swag/Swag_ULTRA.webm/9ba4a1b707d75407c2406f4f762cc924.webm",
+    "jmcs://jd-contents/Swag/Swag_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Swag/Swag_MapPreviewNoSoundCrop_MID.vp8.webm/0c57b425cb2c9279bf5ec5f3e636958c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496537\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Swag/Swag_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"590-1080\">\n\t\t\t\t\t<Initialization range=\"0-590\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478965\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Swag/Swag_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"588-1078\">\n\t\t\t\t\t<Initialization range=\"0-588\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 215.287813
+}

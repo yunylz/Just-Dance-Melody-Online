@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "71f0b56fdad485f4adad5c40325c9e29",
+      "storageType": 0,
+      "url": "/public/map/SeptemberMU/nx/SeptemberMU_MAIN_SCENE_NX.zip/71f0b56fdad485f4adad5c40325c9e29.zip"
+    },
+    "pc": {
+      "md5": "8bdf2b32582228cbd1fcacb775d966a8",
+      "storageType": 0,
+      "url": "/public/map/SeptemberMU/pc/SeptemberMU_MAIN_SCENE_PC.zip/8bdf2b32582228cbd1fcacb775d966a8.zip"
+    },
+    "ps4": {
+      "md5": "09a1629a455ce903b7acc0fef09f947a",
+      "storageType": 0,
+      "url": "/public/map/SeptemberMU/orbis/SeptemberMU_MAIN_SCENE_ORBIS.zip/09a1629a455ce903b7acc0fef09f947a.zip"
+    }
+  },
+  "data": {
+    "mapName": "SeptemberMU",
+    "title": "September",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main"
+    ],
+    "artist": "Equinox Stars",
+    "credits": "Written by Al McKay, Maurice White and Allee Willis. Published by EMI April Music Inc. c/o EMI April Music (Canada) Ltd. (SOCAN) and EMI Blackwood Music Inc. c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) All rights reserved.  Used with permission. Re-Record Cover Master : Courtesy of Ubisoft Music. Produced and engineered by Steve Ouimette. Mixed by Steve Ouimette and Cat Gray. Lead Vocals by Tyriq Johnson. Background vocals by Cat Gray. Drums and Keyboards by Cat Gray. Guitar and Bass by Steve Ouimette. Music supervision – Manu Bachet. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#3f94c7",
+    "songColor2A": "#c63815",
+    "songColor1B": "#130065",
+    "songColor2B": "#9e0000",
+    "lyricsColor": "#f61071",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23760,
+        47568,
+        71328,
+        95088,
+        118896,
+        142656,
+        166416,
+        190224,
+        213984,
+        237696,
+        261408,
+        285120,
+        308832,
+        332064,
+        355248,
+        378432,
+        401664,
+        424704,
+        447744,
+        470784,
+        493824,
+        516912,
+        539952,
+        562992,
+        586032,
+        609264,
+        632496,
+        655680,
+        678912,
+        702144,
+        725328,
+        748560,
+        771792,
+        794928,
+        818016,
+        841152,
+        864288,
+        887424,
+        910560,
+        933696,
+        956832,
+        979968,
+        1003104,
+        1026240,
+        1049328,
+        1072464,
+        1095600,
+        1118737,
+        1141873,
+        1165009,
+        1188145,
+        1211281,
+        1234417,
+        1257505,
+        1280641,
+        1303777,
+        1326913,
+        1350049,
+        1373185,
+        1396321,
+        1419457,
+        1442257,
+        1465009,
+        1487809
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 383,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SeptemberMU/SeptemberMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SeptemberMU/nx/SeptemberMU_banner_bkg.tga.ckd/e6c87200b7da86ddc655c493903f69e3.ckd",
+      "map_bkgImageUrl": "/public/map/SeptemberMU/nx/SeptemberMU_map_bkg.tga.ckd/62caa21a1fb208e135ea5fd83d3705ba.ckd",
+      "expandCoachImageUrl": "/public/map/SeptemberMU/nx/SeptemberMU_Cover_AlbumCoach.tga.ckd/ace7fb24779a2bea5bfe744ae91c6c2b.ckd",
+      "cover_smallImageUrl": "/public/map/SeptemberMU/nx/SeptemberMU_Cover_Online.tga.ckd/76609dd285bceabd9096e9e9f7db63b4.ckd",
+      "coverImageUrl": "/public/map/SeptemberMU/nx/SeptemberMU_Cover_Generic.tga.ckd/80405337e5b0e577b53d9a93436af715.ckd",
+      "coach1ImageUrl": "/public/map/SeptemberMU/nx/SeptemberMU_Coach_1.tga.ckd/eb8ed20008cafd2af1c67192bcd956c8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SeptemberMU/pc/SeptemberMU_banner_bkg.tga.ckd/187b40bb329d26c0dbb17975ea8fc97e.ckd",
+      "map_bkgImageUrl": "/public/map/SeptemberMU/pc/SeptemberMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/SeptemberMU/pc/SeptemberMU_Cover_AlbumCoach.tga.ckd/c07f28d7800266f584d56caeb7dbd549.ckd",
+      "cover_smallImageUrl": "/public/map/SeptemberMU/pc/SeptemberMU_Cover_Online.tga.ckd/61e37f5e7a72ead0588a47aac4d0e017.ckd",
+      "coverImageUrl": "/public/map/SeptemberMU/pc/SeptemberMU_Cover_Generic.tga.ckd/18d70fa23a22f7e84baf0943f7778300.ckd",
+      "coach1ImageUrl": "/public/map/SeptemberMU/pc/SeptemberMU_Coach_1.tga.ckd/d17e07c36207bc2d646f0a3afc8da525.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SeptemberMU/orbis/SeptemberMU_banner_bkg.tga.ckd/187b40bb329d26c0dbb17975ea8fc97e.ckd",
+      "map_bkgImageUrl": "/public/map/SeptemberMU/orbis/SeptemberMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/SeptemberMU/orbis/SeptemberMU_Cover_AlbumCoach.tga.ckd/c07f28d7800266f584d56caeb7dbd549.ckd",
+      "cover_smallImageUrl": "/public/map/SeptemberMU/orbis/SeptemberMU_Cover_Online.tga.ckd/61e37f5e7a72ead0588a47aac4d0e017.ckd",
+      "coverImageUrl": "/public/map/SeptemberMU/orbis/SeptemberMU_Cover_Generic.tga.ckd/18d70fa23a22f7e84baf0943f7778300.ckd",
+      "coach1ImageUrl": "/public/map/SeptemberMU/orbis/SeptemberMU_Coach_1.tga.ckd/d17e07c36207bc2d646f0a3afc8da525.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SeptemberMU/SeptemberMU_Coach_1_Phone.png/79ad7331c1d612f8d120e806ba35c822.png",
+    "phoneCoverImageUrl": "/public/map/SeptemberMU/SeptemberMU_Cover_Phone.jpg/98479a52e0c2a4f942810b915cf22904.jpg",
+    "cover640ImageUrl": "/public/map/SeptemberMU/SeptemberMU_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SeptemberMU/SeptemberMU.ogg": "/private/map/SeptemberMU/SeptemberMU.ogg/504289f4f58889b717f9d51444bbcffc.ogg",
+    "jmcs://jd-contents/SeptemberMU/SeptemberMU_AudioPreview.ogg": "/public/map/SeptemberMU/SeptemberMU_AudioPreview.ogg/3bbfcbb7b601d85ae6325aceb49c0a79.ogg",
+    "jmcs://jd-contents/SeptemberMU/SeptemberMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SeptemberMU/SeptemberMU_MapPreviewNoSoundCrop_LOW.vp8.webm/45ced97b5d10edb2764dcdf90d055f4d.webm",
+    "jmcs://jd-contents/SeptemberMU/SeptemberMU_HIGH.webm": "/private/map/SeptemberMU/SeptemberMU_HIGH.webm/adfd996077e282a24ee5818cfe89db75.webm",
+    "jmcs://jd-contents/SeptemberMU/SeptemberMU_LOW.webm": "/private/map/SeptemberMU/SeptemberMU_LOW.webm/1f3c9a159ed143207fb0d52a84835722.webm",
+    "jmcs://jd-contents/SeptemberMU/SeptemberMU_MID.webm": "/private/map/SeptemberMU/SeptemberMU_MID.webm/01c0d2acd5e046596c4125b09e1f3c2d.webm",
+    "jmcs://jd-contents/SeptemberMU/SeptemberMU_ULTRA.hd.webm": "/private/map/SeptemberMU/SeptemberMU_ULTRA.hd.webm/eeee7c66029ae76991d8552165c8a7e1.webm",
+    "jmcs://jd-contents/SeptemberMU/SeptemberMU_ULTRA.webm": "/private/map/SeptemberMU/SeptemberMU_ULTRA.webm/d220828b8a6dab13e21b568295d6aa12.webm",
+    "jmcs://jd-contents/SeptemberMU/SeptemberMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SeptemberMU/SeptemberMU_MapPreviewNoSoundCrop_MID.vp8.webm/5904a93f87d476728a7f315211b5394d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"511809\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SeptemberMU/SeptemberMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482161\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SeptemberMU/SeptemberMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 182.997167
+}

@@ -1,0 +1,159 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "27e1a87ea5ebb9bce3334afbb07462ab",
+      "storageType": 0,
+      "url": "/public/map/Monster/nx/Monster_MAIN_SCENE_NX.zip/27e1a87ea5ebb9bce3334afbb07462ab.zip"
+    },
+    "pc": {
+      "md5": "62f565a62fdf60994e5766f866c202ed",
+      "storageType": 0,
+      "url": "/public/map/Monster/pc/Monster_MAIN_SCENE_PC.zip/62f565a62fdf60994e5766f866c202ed.zip"
+    },
+    "ps4": {
+      "md5": "a58c45f78be11f06b2c0a34d184eccbb",
+      "storageType": 0,
+      "url": "/public/map/Monster/orbis/Monster_MAIN_SCENE_ORBIS.zip/a58c45f78be11f06b2c0a34d184eccbb.zip"
+    }
+  },
+  "data": {
+    "mapName": "Monster",
+    "title": "Monster",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "EXO",
+    "credits": " All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#7ad1d2",
+    "songColor2A": "#34cbec",
+    "songColor1B": "#052a62",
+    "songColor2B": "#150c4d",
+    "lyricsColor": "#e2ab13"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        38400,
+        76800,
+        115200,
+        153600,
+        192000,
+        230400,
+        268800,
+        307200,
+        345600,
+        384000,
+        422400,
+        460800,
+        499200,
+        537600,
+        576000,
+        614400,
+        652800,
+        691200,
+        729600,
+        768000,
+        806400,
+        844800,
+        883200,
+        921600,
+        960000,
+        998400,
+        1036800,
+        1075200,
+        1113600,
+        1152000,
+        1190400,
+        1228800,
+        1267200,
+        1305600,
+        1344000,
+        1382400,
+        1420800,
+        1459200,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 276,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 37,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Monster/Monster_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Monster/nx/Monster_banner_bkg.tga.ckd/2a3a899b4b4244c99cd653aba4b17f37.ckd",
+      "map_bkgImageUrl": "/public/map/Monster/nx/Monster_map_bkg.tga.ckd/d67b3586a03163150962c70e701c33d0.ckd",
+      "expandCoachImageUrl": "/public/map/Monster/nx/Monster_Cover_AlbumCoach.tga.ckd/34c0ce6e18a0105ba11feb6460eeb751.ckd",
+      "cover_smallImageUrl": "/public/map/Monster/nx/Monster_Cover_Online.tga.ckd/d0e15871e888ce7201efa98e9ef62f79.ckd",
+      "coverImageUrl": "/public/map/Monster/nx/Monster_Cover_Generic.tga.ckd/caa6d61613531cb49de8b3f014162308.ckd",
+      "coach1ImageUrl": "/public/map/Monster/nx/Monster_Coach_1.tga.ckd/c28f64710154fc8e7c052d60fa269dd7.ckd",
+      "coach2ImageUrl": "/public/map/Monster/nx/Monster_Coach_2.tga.ckd/41151f4ba52cbf8834fa367b6c7b660c.ckd",
+      "coach3ImageUrl": "/public/map/Monster/nx/Monster_Coach_3.tga.ckd/9b9589c845709d1111145d2995f8dcf9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Monster/pc/Monster_banner_bkg.tga.ckd/6e5e4a5d129f94d58d49ffb37b95f766.ckd",
+      "map_bkgImageUrl": "/public/map/Monster/pc/Monster_map_bkg.tga.ckd/23173c390fa526078b697f293e920953.ckd",
+      "expandCoachImageUrl": "/public/map/Monster/pc/Monster_Cover_AlbumCoach.tga.ckd/be4e2648f169d8dcb1229b046bc7fbd5.ckd",
+      "cover_smallImageUrl": "/public/map/Monster/pc/Monster_Cover_Online.tga.ckd/62e0632004fefc2c915dfce99ed2ffb0.ckd",
+      "coverImageUrl": "/public/map/Monster/pc/Monster_Cover_Generic.tga.ckd/82e698464f2d541b41c2fbabf3a989c4.ckd",
+      "coach1ImageUrl": "/public/map/Monster/pc/Monster_Coach_1.tga.ckd/4cb44d8423609874654e40cf04a03f67.ckd",
+      "coach2ImageUrl": "/public/map/Monster/pc/Monster_Coach_2.tga.ckd/4948291bee2009d9df442444520f9673.ckd",
+      "coach3ImageUrl": "/public/map/Monster/pc/Monster_Coach_3.tga.ckd/605d8433a0b3bca4ba2170309ddd7d57.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Monster/orbis/Monster_banner_bkg.tga.ckd/6e5e4a5d129f94d58d49ffb37b95f766.ckd",
+      "map_bkgImageUrl": "/public/map/Monster/orbis/Monster_map_bkg.tga.ckd/23173c390fa526078b697f293e920953.ckd",
+      "expandCoachImageUrl": "/public/map/Monster/orbis/Monster_Cover_AlbumCoach.tga.ckd/be4e2648f169d8dcb1229b046bc7fbd5.ckd",
+      "cover_smallImageUrl": "/public/map/Monster/orbis/Monster_Cover_Online.tga.ckd/62e0632004fefc2c915dfce99ed2ffb0.ckd",
+      "coverImageUrl": "/public/map/Monster/orbis/Monster_Cover_Generic.tga.ckd/82e698464f2d541b41c2fbabf3a989c4.ckd",
+      "coach1ImageUrl": "/public/map/Monster/orbis/Monster_Coach_1.tga.ckd/4cb44d8423609874654e40cf04a03f67.ckd",
+      "coach2ImageUrl": "/public/map/Monster/orbis/Monster_Coach_2.tga.ckd/4948291bee2009d9df442444520f9673.ckd",
+      "coach3ImageUrl": "/public/map/Monster/orbis/Monster_Coach_3.tga.ckd/605d8433a0b3bca4ba2170309ddd7d57.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Monster/Monster_Coach_1_Phone.png/b4299b5fa33b5bb40180b504aa77b596.png",
+    "phoneCoach2ImageUrl": "/public/map/Monster/Monster_Coach_2_Phone.png/d8d7254e40d5e12a278aedb3f1ebc8e0.png",
+    "phoneCoach3ImageUrl": "/public/map/Monster/Monster_Coach_3_Phone.png/9012ed18291e53bd4ad1938c85cfddb1.png",
+    "phoneCoverImageUrl": "/public/map/Monster/Monster_Cover_Phone.jpg/d1be981504df9be216a3c1775a26ae8f.jpg",
+    "cover640ImageUrl": "/public/map/Monster/Monster_Cover_640.png/0a8fb990754568db406a8a2fda8d08db.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Monster/Monster.ogg": "/private/map/Monster/Monster.ogg/d7e90b4847998009a16f489b4eb2fe63.ogg",
+    "jmcs://jd-contents/Monster/Monster_AudioPreview.ogg": "/public/map/Monster/Monster_AudioPreview.ogg/691379741d5fbd4c85ae549b08e2ac7c.ogg",
+    "jmcs://jd-contents/Monster/Monster_HIGH.webm": "/private/map/Monster/Monster_HIGH.webm/6360e9fa9b6b0f10bce7484f525325de.webm",
+    "jmcs://jd-contents/Monster/Monster_LOW.webm": "/private/map/Monster/Monster_LOW.webm/8390bf52db56ffb3052bac403460c8e7.webm",
+    "jmcs://jd-contents/Monster/Monster_MID.webm": "/private/map/Monster/Monster_MID.webm/4fa041ebf46f8f72e12ac93eaf36f73a.webm",
+    "jmcs://jd-contents/Monster/Monster_ULTRA.hd.webm": "/private/map/Monster/Monster_ULTRA.hd.webm/542640e97ed3b631f9296687c226374b.webm",
+    "jmcs://jd-contents/Monster/Monster_ULTRA.webm": "/private/map/Monster/Monster_ULTRA.webm/27f1d924cf7a384182b42e363a1f2d65.webm",
+    "jmcs://jd-contents/Monster/Monster_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Monster/Monster_MapPreviewNoSoundCrop_LOW.vp8.webm/cdfd21c879bd61ddaa7189377b4c27ec.webm",
+    "jmcs://jd-contents/Monster/Monster_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Monster/Monster_MapPreviewNoSoundCrop_MID.vp8.webm/d9a6ad8a2f86b915d52d027b5abd546e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496366\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Monster/Monster_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"653-1142\">\n\t\t\t\t\t<Initialization range=\"0-653\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1469464\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Monster/Monster_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\n\t\t\t\t\t<Initialization range=\"0-654\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 228.0
+}

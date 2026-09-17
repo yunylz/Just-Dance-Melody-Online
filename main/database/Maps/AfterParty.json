@@ -1,0 +1,172 @@
+{
+  "urls": {
+    "jmcs://jd-contents/AfterParty/AfterParty.ogg": "/private/map/AfterParty/AfterParty.ogg/49f83435fe7d2b22fbc598276b96480b.ogg",
+    "jmcs://jd-contents/AfterParty/AfterParty_AudioPreview.ogg": "/public/map/AfterParty/AfterParty_AudioPreview.ogg/e1dbd2131adc962331686b3353f1b694.ogg",
+    "jmcs://jd-contents/AfterParty/AfterParty_HIGH.hd.webm": "/private/map/AfterParty/AfterParty_HIGH.hd.webm/3daf86b6bc6d0ebefbbe9d9c12f393c8.webm",
+    "jmcs://jd-contents/AfterParty/AfterParty_LOW.hd.webm": "/private/map/AfterParty/AfterParty_LOW.hd.webm/0d8a948e59f354f4011b161512b7041c.webm",
+    "jmcs://jd-contents/AfterParty/AfterParty_MID.hd.webm": "/private/map/AfterParty/AfterParty_MID.hd.webm/10ffe4fe42d48aba9fedac2a9b158d9d.webm",
+    "jmcs://jd-contents/AfterParty/AfterParty_ULTRA.hd.webm": "/private/map/AfterParty/AfterParty_ULTRA.hd.webm/f933dd549457fd0e6894255d66c4e638.webm",
+    "jmcs://jd-contents/AfterParty/AfterParty_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AfterParty/AfterParty_MapPreviewNoSoundCrop_LOW.vp8.webm/3f7caf76b2e5149f2e31e5bc2ae56f1e.webm",
+    "jmcs://jd-contents/AfterParty/AfterParty_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AfterParty/AfterParty_MapPreviewNoSoundCrop_MID.vp8.webm/c6b923af9e3e72c0154129deb3021e0e.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24828,
+        49655,
+        74483,
+        99310,
+        124138,
+        148966,
+        173793,
+        198621,
+        223448,
+        248276,
+        273103,
+        297931,
+        322759,
+        347586,
+        372414,
+        397241,
+        422069,
+        446897,
+        471724,
+        496552,
+        521379,
+        546207,
+        571034,
+        595862,
+        620690,
+        645517,
+        670345,
+        695172,
+        720000,
+        744828,
+        769655,
+        794483,
+        819310,
+        844138,
+        868966,
+        893793,
+        918621,
+        943448,
+        968276,
+        993103,
+        1017931,
+        1042759,
+        1067586,
+        1092414,
+        1117241,
+        1142069,
+        1166897,
+        1191724,
+        1216552,
+        1241379,
+        1266207,
+        1291034,
+        1315862,
+        1340690,
+        1365517,
+        1390345,
+        1415172,
+        1440000,
+        1464828,
+        1489655
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 359,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AfterParty/AfterParty_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"694592\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AfterParty/AfterParty_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2035998\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AfterParty/AfterParty_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "4e4ce4ff1eae5e23c7837f9b2a6bbe6d",
+      "storageType": 0,
+      "url": "/public/map/AfterParty/nx/AfterParty_MAIN_SCENE_NX.zip/4e4ce4ff1eae5e23c7837f9b2a6bbe6d.zip"
+    },
+    "pc": {
+      "md5": "3c6b8faada8ac185be5713acea529d2d",
+      "storageType": 0,
+      "url": "/public/map/AfterParty/pc/AfterParty_MAIN_SCENE_PC.zip/3c6b8faada8ac185be5713acea529d2d.zip"
+    },
+    "ps4": {
+      "md5": "fda5aa99c12e3eb04146ebbaced75d82",
+      "storageType": 0,
+      "url": "/public/map/AfterParty/orbis/AfterParty_MAIN_SCENE_ORBIS.zip/fda5aa99c12e3eb04146ebbaced75d82.zip"
+    }
+  },
+  "data": {
+    "mapName": "AfterParty",
+    "title": "After Party",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Banx and Ranx ft. Zach Zoya",
+    "credits": "Written and composed by Banx and Ranx (p) Universal Music Canada. Published by Ubisoft Music. All rights reserved. Used with permission. Courtesy of Universal Music Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#c848ed",
+    "songColor2A": "#ff9efe",
+    "songColor1B": "#34065b",
+    "songColor2B": "#7a0645",
+    "lyricsColor": "#ece61c",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AfterParty/nx/AfterParty_banner_bkg.tga.ckd/2b6891f1490a1785f6ea71beca658e70.ckd",
+      "map_bkgImageUrl": "/public/map/AfterParty/nx/AfterParty_map_bkg.tga.ckd/ca465218e386a0d483a75d72bbb3caae.ckd",
+      "expandCoachImageUrl": "/public/map/AfterParty/nx/AfterParty_Cover_AlbumCoach.tga.ckd/0b46177c1187929e6c036aed40db49e0.ckd",
+      "cover_smallImageUrl": "/public/map/AfterParty/nx/AfterParty_Cover_Online.tga.ckd/efd9eb0766a9d545b0079dcadc57ce1a.ckd",
+      "coverImageUrl": "/public/map/AfterParty/nx/AfterParty_Cover_Generic.tga.ckd/67f2543fc98d5ea7c79238b708a199cf.ckd",
+      "coach1ImageUrl": "/public/map/AfterParty/nx/AfterParty_Coach_1.tga.ckd/7e3af150abc95f8356ab7c3038b9922e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AfterParty/pc/AfterParty_banner_bkg.tga.ckd/ae4cfc5a283a978fa0cbb3759980c748.ckd",
+      "map_bkgImageUrl": "/public/map/AfterParty/pc/AfterParty_map_bkg.tga.ckd/5fd6aa54e5f7772b9994b2d01105b757.ckd",
+      "expandCoachImageUrl": "/public/map/AfterParty/pc/AfterParty_Cover_AlbumCoach.tga.ckd/95ff9460012763f21551fe60ab5693fb.ckd",
+      "cover_smallImageUrl": "/public/map/AfterParty/pc/AfterParty_Cover_Online.tga.ckd/d6443f86218eb2a92f7ee41d937e7336.ckd",
+      "coverImageUrl": "/public/map/AfterParty/pc/AfterParty_Cover_Generic.tga.ckd/9d42bc70e7ac42de2e4cd23d9abdae43.ckd",
+      "coach1ImageUrl": "/public/map/AfterParty/pc/AfterParty_Coach_1.tga.ckd/eb1b2b74909432ddbb4b1f911bdbf71f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AfterParty/orbis/AfterParty_banner_bkg.tga.ckd/ae4cfc5a283a978fa0cbb3759980c748.ckd",
+      "map_bkgImageUrl": "/public/map/AfterParty/orbis/AfterParty_map_bkg.tga.ckd/5fd6aa54e5f7772b9994b2d01105b757.ckd",
+      "expandCoachImageUrl": "/public/map/AfterParty/orbis/AfterParty_Cover_AlbumCoach.tga.ckd/95ff9460012763f21551fe60ab5693fb.ckd",
+      "cover_smallImageUrl": "/public/map/AfterParty/orbis/AfterParty_Cover_Online.tga.ckd/d6443f86218eb2a92f7ee41d937e7336.ckd",
+      "coverImageUrl": "/public/map/AfterParty/orbis/AfterParty_Cover_Generic.tga.ckd/9d42bc70e7ac42de2e4cd23d9abdae43.ckd",
+      "coach1ImageUrl": "/public/map/AfterParty/orbis/AfterParty_Coach_1.tga.ckd/eb1b2b74909432ddbb4b1f911bdbf71f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AfterParty/AfterParty_Coach_1_Phone.png/e9f886cecc5b213b9d09b60188fae465.png",
+    "phoneCoverImageUrl": "/public/map/AfterParty/AfterParty_Cover_Phone.jpg/c5ab9af768eca7572cd26f8aced8675c.jpg",
+    "cover640ImageUrl": "/public/map/AfterParty/AfterParty_Cover_640.png/eb94e50f0e10d530e298875986ef6491.png"
+  },
+  "mapLength": 187.758604
+}

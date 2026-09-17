@@ -1,0 +1,180 @@
+{
+  "urls": {
+    "jmcs://jd-contents/PartyRock/PartyRock.ogg": "/private/map/PartyRock/PartyRock.ogg/cb34c42e2b00d2a1684d3f6ae25cd41c.ogg",
+    "jmcs://jd-contents/PartyRock/PartyRock_AudioPreview.ogg": "/public/map/PartyRock/PartyRock_AudioPreview.ogg/59ed4f904969fb4f6b4b0b2de7189fde.ogg",
+    "jmcs://jd-contents/PartyRock/PartyRock_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PartyRock/PartyRock_MapPreviewNoSoundCrop_LOW.vp8.webm/93d81ccbf9429bd710458e28f0e45aaf.webm",
+    "jmcs://jd-contents/PartyRock/PartyRock_HIGH.webm": "/private/map/PartyRock/PartyRock_HIGH.webm/5abd509bb20517c9aa8779a779e67302.webm",
+    "jmcs://jd-contents/PartyRock/PartyRock_LOW.webm": "/private/map/PartyRock/PartyRock_LOW.webm/325ab70b2201c9ee0f2dfbdd42cf1749.webm",
+    "jmcs://jd-contents/PartyRock/PartyRock_MID.webm": "/private/map/PartyRock/PartyRock_MID.webm/02bf3e68cb0c0a8a51bf6758ddfe40e9.webm",
+    "jmcs://jd-contents/PartyRock/PartyRock_ULTRA.hd.webm": "/private/map/PartyRock/PartyRock_ULTRA.hd.webm/a4942a1520075b5245e5ca7c19716118.webm",
+    "jmcs://jd-contents/PartyRock/PartyRock_ULTRA.webm": "/private/map/PartyRock/PartyRock_ULTRA.webm/3367cfde0859f028b75adce4e6d87420.webm",
+    "jmcs://jd-contents/PartyRock/PartyRock_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PartyRock/PartyRock_MapPreviewNoSoundCrop_MID.vp8.webm/a21e01e652ccceee7114d14b6402e01b.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25910,
+        51820,
+        77730,
+        103642,
+        125796,
+        147951,
+        170105,
+        192259,
+        214413,
+        236567,
+        258721,
+        280875,
+        303029,
+        325183,
+        347337,
+        369491,
+        391645,
+        413799,
+        435953,
+        458107,
+        480261,
+        502415,
+        524569,
+        546723,
+        568877,
+        591031,
+        613185,
+        635339,
+        657493,
+        679647,
+        701801,
+        723955,
+        746109,
+        768263,
+        790417,
+        812571,
+        834725,
+        856879,
+        879033,
+        901187,
+        923341,
+        945495,
+        967649,
+        989803,
+        1011957,
+        1034111,
+        1056265,
+        1078419,
+        1100573,
+        1122727,
+        1144881,
+        1167035,
+        1189189,
+        1211343,
+        1233497,
+        1255651,
+        1277805,
+        1299959,
+        1322113,
+        1344267,
+        1366421,
+        1388575,
+        1410729,
+        1432883,
+        1455037,
+        1477191
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 539,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PartyRock/PartyRock_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PartyRock/nx/PartyRock_banner_bkg.tga.ckd/1a92a734e3da9f156c67cbe7dfc4dde0.ckd",
+      "map_bkgImageUrl": "/public/map/PartyRock/nx/PartyRock_map_bkg.tga.ckd/8dcc5524d7bbe33c73fcc479fb7ddffd.ckd",
+      "expandCoachImageUrl": "/public/map/PartyRock/nx/PartyRock_Cover_AlbumCoach.tga.ckd/83db957163ea7cdecb03f586bce09ef3.ckd",
+      "cover_smallImageUrl": "/public/map/PartyRock/nx/PartyRock_Cover_Online.tga.ckd/e7159caeff100274c4fdaac8deab73a0.ckd",
+      "coach1ImageUrl": "/public/map/PartyRock/nx/PartyRock_Coach_1.tga.ckd/b3aa982a06ae0e6e71f3923286c7c307.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PartyRock/pc/PartyRock_banner_bkg.tga.ckd/991e7e4ca757f903617471855cbf9e62.ckd",
+      "map_bkgImageUrl": "/public/map/PartyRock/pc/PartyRock_map_bkg.tga.ckd/0902a21fb10efdb459bd8f1d4b2f8d0d.ckd",
+      "expandCoachImageUrl": "/public/map/PartyRock/pc/PartyRock_Cover_AlbumCoach.tga.ckd/2c237e04e7b5e84e816715ff29b30ac7.ckd",
+      "cover_smallImageUrl": "/public/map/PartyRock/pc/PartyRock_Cover_Online.tga.ckd/73211f3833608f612786958387595047.ckd",
+      "coach1ImageUrl": "/public/map/PartyRock/pc/PartyRock_Coach_1.tga.ckd/7da5a4bd296c385b5ede13077b071cb0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PartyRock/orbis/PartyRock_banner_bkg.tga.ckd/991e7e4ca757f903617471855cbf9e62.ckd",
+      "map_bkgImageUrl": "/public/map/PartyRock/orbis/PartyRock_map_bkg.tga.ckd/0902a21fb10efdb459bd8f1d4b2f8d0d.ckd",
+      "expandCoachImageUrl": "/public/map/PartyRock/orbis/PartyRock_Cover_AlbumCoach.tga.ckd/2c237e04e7b5e84e816715ff29b30ac7.ckd",
+      "cover_smallImageUrl": "/public/map/PartyRock/orbis/PartyRock_Cover_Online.tga.ckd/73211f3833608f612786958387595047.ckd",
+      "coach1ImageUrl": "/public/map/PartyRock/orbis/PartyRock_Coach_1.tga.ckd/7da5a4bd296c385b5ede13077b071cb0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PartyRock/PartyRock_Coach_1_Phone.png/8fe60437ab002c817c9e621aa46990f5.png",
+    "phoneCoverImageUrl": "/public/map/PartyRock/PartyRock_Cover_Phone.jpg/9186aa2b6a92acdb7f549eee8a4a9c5e.jpg",
+    "cover640ImageUrl": "/public/map/PartyRock/PartyRock_Cover_640.png/42d34a9e345d56b11222fdefaae52465.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "c08f2c75dde8dbcd99a505fcaf2063db",
+      "storageType": 0,
+      "url": "/public/map/PartyRock/nx/PartyRock_MAIN_SCENE_NX.zip/c08f2c75dde8dbcd99a505fcaf2063db.zip"
+    },
+    "pc": {
+      "md5": "1e94999526c07d0ef28038ac3b8a1e84",
+      "storageType": 0,
+      "url": "/public/map/PartyRock/pc/PartyRock_MAIN_SCENE_PC.zip/1e94999526c07d0ef28038ac3b8a1e84.zip"
+    },
+    "ps4": {
+      "md5": "b606a6e3431a955da310593b9231130e",
+      "storageType": 0,
+      "url": "/public/map/PartyRock/orbis/PartyRock_MAIN_SCENE_ORBIS.zip/b606a6e3431a955da310593b9231130e.zip"
+    }
+  },
+  "data": {
+    "mapName": "PartyRock",
+    "title": "Party Rock Anthem",
+    "originalJDVersion": 3,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance3",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "LMFAO Ft. Lauren Bennett and GoonRock",
+    "credits": "Written by Stefan Gordy, Skyler Gordy, David Jamahl Listenbee, Peter Schroeder.  Published by Kobalt Music Publishing America Inc, obo Party Rock. Courtesy of Interscope Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f19f00",
+    "songColor2A": "#d859ff",
+    "songColor1B": "#9d0000",
+    "songColor2B": "#3d1466",
+    "lyricsColor": "#a5ff1e",
+    "LocaleID": 4294967295
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496991\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PartyRock/PartyRock_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1400233\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PartyRock/PartyRock_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 249.467354
+}

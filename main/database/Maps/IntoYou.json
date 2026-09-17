@@ -1,0 +1,166 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ce46fba23eb82134937d72853887a0de",
+      "storageType": 0,
+      "url": "/public/map/IntoYou/nx/IntoYou_MAIN_SCENE_NX.zip/ce46fba23eb82134937d72853887a0de.zip"
+    },
+    "pc": {
+      "md5": "f5a79004ddef25b3cd20aec9881b4a6d",
+      "storageType": 0,
+      "url": "/public/map/IntoYou/pc/IntoYou_MAIN_SCENE_PC.zip/f5a79004ddef25b3cd20aec9881b4a6d.zip"
+    },
+    "ps4": {
+      "md5": "ccf47512da6f7608b6e689befea53126",
+      "storageType": 0,
+      "url": "/public/map/IntoYou/orbis/IntoYou_MAIN_SCENE_ORBIS.zip/ccf47512da6f7608b6e689befea53126.zip"
+    }
+  },
+  "data": {
+    "mapName": "IntoYou",
+    "title": "Into You",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main",
+      "cool"
+    ],
+    "artist": "Ariana Grande",
+    "credits": "Written by Ariana Grande, Martin Karl Sandberg, Ilya Salmanzadeh, Alexander Kronlund, Max Martin and Savan Kotecha. Published by WB Music Corp. obo Warner/Chappell Music Scandinavia AB. / MXM Music AB. [ASCAP] Administered by Kobalt Songs Music Publishing. / Universal Music Corp. on behalf of itself and Grandarimusic. Courtesy of Republic Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#5b00ce",
+    "songColor2A": "#ffc4ed",
+    "songColor1B": "#060025",
+    "songColor2B": "#c70079",
+    "lyricsColor": "#31dcdc"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26688,
+        53328,
+        80016,
+        106656,
+        133344,
+        159984,
+        186672,
+        213312,
+        240000,
+        266688,
+        293328,
+        320016,
+        346656,
+        373344,
+        399984,
+        426672,
+        453312,
+        480000,
+        506688,
+        533328,
+        560016,
+        586656,
+        613344,
+        639984,
+        666672,
+        693312,
+        720000,
+        746688,
+        773328,
+        800016,
+        826656,
+        853344,
+        879984,
+        906672,
+        933312,
+        960000,
+        986688,
+        1013328,
+        1040016,
+        1066656,
+        1093344,
+        1119984,
+        1146672,
+        1173312,
+        1200000,
+        1226688,
+        1253328,
+        1280016,
+        1306656,
+        1333344,
+        1359984,
+        1386672,
+        1413312,
+        1440000,
+        1466688,
+        1493328
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 434,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/IntoYou/IntoYou_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/IntoYou/nx/IntoYou_banner_bkg.tga.ckd/e5d1922a6342eb0e26b16a55834f44da.ckd",
+      "map_bkgImageUrl": "/public/map/IntoYou/nx/IntoYou_map_bkg.tga.ckd/a791fb9db202e86bab1afd14f79cfade.ckd",
+      "expandCoachImageUrl": "/public/map/IntoYou/nx/IntoYou_Cover_AlbumCoach.tga.ckd/981ae1693571a6b794aa6ece356f0986.ckd",
+      "cover_smallImageUrl": "/public/map/IntoYou/nx/IntoYou_Cover_Online.tga.ckd/d53c95250e31b081e132b842bd9b068a.ckd",
+      "coach1ImageUrl": "/public/map/IntoYou/nx/IntoYou_Coach_1.tga.ckd/10342cad942843721cfcdc5d33d46783.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/IntoYou/pc/IntoYou_banner_bkg.tga.ckd/679a33510cbd8cf608fac8017ec6509a.ckd",
+      "map_bkgImageUrl": "/public/map/IntoYou/pc/IntoYou_map_bkg.tga.ckd/4df97d4e2783fe5c199caaabebbdec0b.ckd",
+      "expandCoachImageUrl": "/public/map/IntoYou/pc/IntoYou_Cover_AlbumCoach.tga.ckd/0c65cea13a09cc7743689169615d1529.ckd",
+      "cover_smallImageUrl": "/public/map/IntoYou/pc/IntoYou_Cover_Online.tga.ckd/be812ae0308b9e916262c95d90199d15.ckd",
+      "coach1ImageUrl": "/public/map/IntoYou/pc/IntoYou_Coach_1.tga.ckd/1f1d96c7b21fce79953abc4aefbf7771.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/IntoYou/orbis/IntoYou_banner_bkg.tga.ckd/679a33510cbd8cf608fac8017ec6509a.ckd",
+      "map_bkgImageUrl": "/public/map/IntoYou/orbis/IntoYou_map_bkg.tga.ckd/4df97d4e2783fe5c199caaabebbdec0b.ckd",
+      "expandCoachImageUrl": "/public/map/IntoYou/orbis/IntoYou_Cover_AlbumCoach.tga.ckd/0c65cea13a09cc7743689169615d1529.ckd",
+      "cover_smallImageUrl": "/public/map/IntoYou/orbis/IntoYou_Cover_Online.tga.ckd/be812ae0308b9e916262c95d90199d15.ckd",
+      "coach1ImageUrl": "/public/map/IntoYou/orbis/IntoYou_Coach_1.tga.ckd/1f1d96c7b21fce79953abc4aefbf7771.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/IntoYou/IntoYou_Coach_1_Phone.png/f1d1c924e47f01e7898a1efb57024158.png",
+    "phoneCoverImageUrl": "/public/map/IntoYou/IntoYou_Cover_Phone.jpg/ecfe0ff54001eca4e424e7ef2eca70fa.jpg",
+    "cover640ImageUrl": "/public/map/IntoYou/IntoYou_Cover_640.png/907c9d04585cf5ce2103dcda5de92c56.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/IntoYou/IntoYou.ogg": "/private/map/IntoYou/IntoYou.ogg/071ef57d65ce73ecc9a8298996ba45f1.ogg",
+    "jmcs://jd-contents/IntoYou/IntoYou_AudioPreview.ogg": "/public/map/IntoYou/IntoYou_AudioPreview.ogg/cea1a6dacf075f4b6b33090029b6b13b.ogg",
+    "jmcs://jd-contents/IntoYou/IntoYou_HIGH.webm": "/private/map/IntoYou/IntoYou_HIGH.webm/1f252da5e4a000e97aac87fb3289fd5e.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_LOW.webm": "/private/map/IntoYou/IntoYou_LOW.webm/a33c1fd23d5aa53c8d3e14a23364de49.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_MID.webm": "/private/map/IntoYou/IntoYou_MID.webm/a6dd3b9a770e13edf747b471b490c1ea.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_ULTRA.hd.webm": "/private/map/IntoYou/IntoYou_ULTRA.hd.webm/bd501acfeae785885ae60d794f23fe65.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_ULTRA.webm": "/private/map/IntoYou/IntoYou_ULTRA.webm/f6d598710a5a13cd90a38cb416040622.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/IntoYou/IntoYou_MapPreviewNoSoundCrop_LOW.vp8.webm/7e832749538dff84d1abccf152c505a4.webm",
+    "jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/IntoYou/IntoYou_MapPreviewNoSoundCrop_MID.vp8.webm/b400de0272cb5ad5447f0ed3f3b10af7.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496729\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\n\t\t\t\t\t<Initialization range=\"0-624\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1477146\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IntoYou/IntoYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\n\t\t\t\t\t<Initialization range=\"0-625\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 247.222021
+}

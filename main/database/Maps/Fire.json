@@ -1,0 +1,172 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Fire/Fire.ogg": "/private/map/Fire/Fire.ogg/33f93103b2dbfa94bd13f0cc1e9e4237.ogg",
+    "jmcs://jd-contents/Fire/Fire_AudioPreview.ogg": "/public/map/Fire/Fire_AudioPreview.ogg/74ba3f6e8e59cf760c0ffbcbf1f92697.ogg",
+    "jmcs://jd-contents/Fire/Fire_HIGH.hd.webm": "/private/map/Fire/Fire_HIGH.hd.webm/062ca302c8d14b2c786f06a0fc0ab6f3.webm",
+    "jmcs://jd-contents/Fire/Fire_LOW.hd.webm": "/private/map/Fire/Fire_LOW.hd.webm/58be85964571cbe5828c09b0ecd3be03.webm",
+    "jmcs://jd-contents/Fire/Fire_MID.hd.webm": "/private/map/Fire/Fire_MID.hd.webm/481648ff9ab2774ee3a9c6dd08ee95e4.webm",
+    "jmcs://jd-contents/Fire/Fire_ULTRA.hd.webm": "/private/map/Fire/Fire_ULTRA.hd.webm/52bb419e59117eb1183545ea023b3920.webm",
+    "jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Fire/Fire_MapPreviewNoSoundCrop_LOW.vp8.webm/c00f5682f9703bf249819636b92cfe78.webm",
+    "jmcs://jd-contents/Fire/Fire_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Fire/Fire_MapPreviewNoSoundCrop_MID.vp8.webm/c8271d357a462bc3ad0fea47eadee113.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26159,
+        52367,
+        78527,
+        104735,
+        130895,
+        157103,
+        183263,
+        209471,
+        235631,
+        261839,
+        287999,
+        314159,
+        340367,
+        366527,
+        392735,
+        418895,
+        445103,
+        471263,
+        497470,
+        523630,
+        549838,
+        575998,
+        602158,
+        628366,
+        654526,
+        680734,
+        706894,
+        733102,
+        759262,
+        785470,
+        811630,
+        837838,
+        863998,
+        890158,
+        916366,
+        942526,
+        968733,
+        994893,
+        1021101,
+        1047261,
+        1073469,
+        1099629,
+        1125837,
+        1151997,
+        1178157,
+        1204365,
+        1230525,
+        1256733,
+        1282893,
+        1309101,
+        1335261,
+        1361469,
+        1387629,
+        1413837,
+        1439996,
+        1466156,
+        1492364
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 380,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Fire/Fire_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "6590eb8052b356a390c2d3ef4e251654",
+      "storageType": 0,
+      "url": "/public/map/Fire/nx/Fire_MAIN_SCENE_NX.zip/6590eb8052b356a390c2d3ef4e251654.zip"
+    },
+    "pc": {
+      "md5": "f65f7b1868dd99ff444992b1e3b19e27",
+      "storageType": 0,
+      "url": "/public/map/Fire/pc/Fire_MAIN_SCENE_PC.zip/f65f7b1868dd99ff444992b1e3b19e27.zip"
+    },
+    "ps4": {
+      "md5": "d2810c1e0010028b1bac35cd00550364",
+      "storageType": 0,
+      "url": "/public/map/Fire/orbis/Fire_MAIN_SCENE_ORBIS.zip/d2810c1e0010028b1bac35cd00550364.zip"
+    }
+  },
+  "data": {
+    "mapName": "Fire",
+    "title": "Fire",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main"
+    ],
+    "artist": "LLP Ft. Mike Diamondz",
+    "credits": "Written by Emanuel Paul Vasilescu, Michael-Richie Ntumba-Kapumbwa. Published by Roton Music Publishing. Administered in the US by Schubert Music Publishing. © & (P) 2015 ROTON MUSIC. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#540440",
+    "songColor2A": "#edf93b",
+    "songColor1B": "#110121",
+    "songColor2B": "#ba0b1c",
+    "lyricsColor": "#08fdfe",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Fire/nx/Fire_banner_bkg.tga.ckd/28dec331647225d702d2206e9fa86d69.ckd",
+      "map_bkgImageUrl": "/public/map/Fire/nx/Fire_map_bkg.tga.ckd/3bd51c3c6910c6e65ab6456b5760bff9.ckd",
+      "expandCoachImageUrl": "/public/map/Fire/nx/Fire_Cover_AlbumCoach.tga.ckd/ddc10005a9bf6a2f12ab2799b3f8e150.ckd",
+      "cover_smallImageUrl": "/public/map/Fire/nx/Fire_Cover_Online.tga.ckd/52c95d63ff6eb61d5c635688111cebda.ckd",
+      "coverImageUrl": "/public/map/Fire/nx/Fire_Cover_Generic.tga.ckd/a3bee6b3a8e6b64d5e4ee5bb69b6a631.ckd",
+      "coach1ImageUrl": "/public/map/Fire/nx/Fire_Coach_1.tga.ckd/caa9068cfda69b42ac2d6fd90ffdd299.ckd",
+      "coach2ImageUrl": "/public/map/Fire/nx/Fire_Coach_2.tga.ckd/7bca38521723c95b931e248c897b3d64.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Fire/pc/Fire_banner_bkg.tga.ckd/b2fc093f95e2c67259c27f7b9629bb35.ckd",
+      "map_bkgImageUrl": "/public/map/Fire/pc/Fire_map_bkg.tga.ckd/489326a3ce9e6a8f5e7e64614a8b96d1.ckd",
+      "expandCoachImageUrl": "/public/map/Fire/pc/Fire_Cover_AlbumCoach.tga.ckd/59418c3a01923175a9e4834c086f5ba9.ckd",
+      "cover_smallImageUrl": "/public/map/Fire/pc/Fire_Cover_Online.tga.ckd/a4038293c8ce64f77b70b75625b888fb.ckd",
+      "coverImageUrl": "/public/map/Fire/pc/Fire_Cover_Generic.tga.ckd/c84ba71f3c9cc5937567038b88280064.ckd",
+      "coach1ImageUrl": "/public/map/Fire/pc/Fire_Coach_1.tga.ckd/2060a6dc66c5cdcf15f2de670492ca56.ckd",
+      "coach2ImageUrl": "/public/map/Fire/pc/Fire_Coach_2.tga.ckd/f10fbea51792abf9d38eff9877b6e75e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Fire/orbis/Fire_banner_bkg.tga.ckd/b2fc093f95e2c67259c27f7b9629bb35.ckd",
+      "map_bkgImageUrl": "/public/map/Fire/orbis/Fire_map_bkg.tga.ckd/489326a3ce9e6a8f5e7e64614a8b96d1.ckd",
+      "expandCoachImageUrl": "/public/map/Fire/orbis/Fire_Cover_AlbumCoach.tga.ckd/59418c3a01923175a9e4834c086f5ba9.ckd",
+      "cover_smallImageUrl": "/public/map/Fire/orbis/Fire_Cover_Online.tga.ckd/a4038293c8ce64f77b70b75625b888fb.ckd",
+      "coverImageUrl": "/public/map/Fire/orbis/Fire_Cover_Generic.tga.ckd/c84ba71f3c9cc5937567038b88280064.ckd",
+      "coach1ImageUrl": "/public/map/Fire/orbis/Fire_Coach_1.tga.ckd/2060a6dc66c5cdcf15f2de670492ca56.ckd",
+      "coach2ImageUrl": "/public/map/Fire/orbis/Fire_Coach_2.tga.ckd/f10fbea51792abf9d38eff9877b6e75e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Fire/Fire_Coach_1_Phone.png/f5c9acafa581063da9d1e6bebf3d69e6.png",
+    "phoneCoach2ImageUrl": "/public/map/Fire/Fire_Coach_2_Phone.png/6df599efaf6afe1fd0c91c81e42b77a2.png",
+    "phoneCoverImageUrl": "/public/map/Fire/Fire_Cover_Phone.jpg/4ddc6650374c4d6e148772276c673d96.jpg",
+    "cover640ImageUrl": "/public/map/Fire/Fire_Cover_640.png/db7a2646a4044fa73264e9677e0ba7e7.png"
+  },
+  "mapLength": 212.182063
+}

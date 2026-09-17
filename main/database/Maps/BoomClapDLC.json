@@ -1,0 +1,159 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8ff4518c0e4aa6775f8e0b61003f213e",
+      "storageType": 0,
+      "url": "/public/map/BoomClapDLC/nx/BoomClapDLC_MAIN_SCENE_NX.zip/8ff4518c0e4aa6775f8e0b61003f213e.zip"
+    },
+    "pc": {
+      "md5": "1f3bd49b01fa2b78ef9aa63452e999fa",
+      "storageType": 0,
+      "url": "/public/map/BoomClapDLC/pc/BoomClapDLC_MAIN_SCENE_PC.zip/1f3bd49b01fa2b78ef9aa63452e999fa.zip"
+    },
+    "ps4": {
+      "md5": "ada2582dc495dc73ca44374961e32b3a",
+      "storageType": 0,
+      "url": "/public/map/BoomClapDLC/orbis/BoomClapDLC_MAIN_SCENE_ORBIS.zip/ada2582dc495dc73ca44374961e32b3a.zip"
+    }
+  },
+  "data": {
+    "mapName": "BoomClapDLC",
+    "title": "Boom Clap",
+    "originalJDVersion": 2015,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Charli XCX",
+    "credits": "Written by Charlotte Aitchison (PRS), Fredrik Berger, Patrik Berger and Stefan Graslund. Published by Stellar Songs Ltd. (PRS) \\/ Reach Music Publishing, Inc. (ASCAP) \\/ Publishing Company TEN AB and Indiscipline AB. Administered by Kobalt Music Publishing America, Inc.  All rights reserved.  Used with permission. Courtesy of East West Records UK Ltd By arrangement with Warner Music Group Video Games Licensing All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#14AD97",
+    "songColor2A": "#FFA237",
+    "songColor1B": "#12004C",
+    "songColor2B": "#B20085",
+    "lyricsColor": "#FDBB1E",
+    "LocaleId": 4294967295,
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31296,
+        62592,
+        93936,
+        125232,
+        156528,
+        187824,
+        219120,
+        250416,
+        281760,
+        313055,
+        344351,
+        375647,
+        406943,
+        438239,
+        469583,
+        500879,
+        532175,
+        563471,
+        594767,
+        626063,
+        657407,
+        688703,
+        719998,
+        751294,
+        782590,
+        813934,
+        845230,
+        876526,
+        907822,
+        939118,
+        970414,
+        1001758,
+        1033054,
+        1064350,
+        1095646,
+        1126941,
+        1158237,
+        1189581,
+        1220877,
+        1252173,
+        1283469,
+        1314765,
+        1346061,
+        1377405,
+        1408701,
+        1439997
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 258,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/boomclapdlc/boomclapdlc_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BoomClapDLC/nx/BoomClapDLC_banner_bkg.tga.ckd/0ace35a0627feac448386ffc91a48582.ckd",
+      "map_bkgImageUrl": "/public/map/BoomClapDLC/nx/BoomClapDLC_map_bkg.tga.ckd/73a02a94909d49b127056c3e44f844d2.ckd",
+      "expandCoachImageUrl": "/public/map/BoomClapDLC/nx/BoomClapDLC_Cover_AlbumCoach.tga.ckd/8a85e3a2ed9ec32b7bb46436f4ca9f66.ckd",
+      "cover_smallImageUrl": "/public/map/BoomClapDLC/nx/BoomClapDLC_Cover_Online.tga.ckd/e8cb561410a7836beda3d6357a0c91de.ckd",
+      "coach1ImageUrl": "/public/map/BoomClapDLC/nx/BoomClapDLC_Coach_1.tga.ckd/dcdbea1ae8721a9cb1070b08c04d5485.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BoomClapDLC/pc/BoomClapDLC_banner_bkg.tga.ckd/12288de5dbfa026d3deb1a4330019ae3.ckd",
+      "map_bkgImageUrl": "/public/map/BoomClapDLC/pc/BoomClapDLC_map_bkg.tga.ckd/608f86bea83edae86f9493ac55b7d79c.ckd",
+      "expandCoachImageUrl": "/public/map/BoomClapDLC/pc/BoomClapDLC_Cover_AlbumCoach.tga.ckd/fe3c34a137026687a0a9d9266d2dae38.ckd",
+      "cover_smallImageUrl": "/public/map/BoomClapDLC/pc/BoomClapDLC_Cover_Online.tga.ckd/6e09099f134b39702feb6d9d628ce0a3.ckd",
+      "coach1ImageUrl": "/public/map/BoomClapDLC/pc/BoomClapDLC_Coach_1.tga.ckd/53013a32aef45a4bf412fb0060da0298.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BoomClapDLC/orbis/BoomClapDLC_banner_bkg.tga.ckd/12288de5dbfa026d3deb1a4330019ae3.ckd",
+      "map_bkgImageUrl": "/public/map/BoomClapDLC/orbis/BoomClapDLC_map_bkg.tga.ckd/608f86bea83edae86f9493ac55b7d79c.ckd",
+      "expandCoachImageUrl": "/public/map/BoomClapDLC/orbis/BoomClapDLC_Cover_AlbumCoach.tga.ckd/fe3c34a137026687a0a9d9266d2dae38.ckd",
+      "cover_smallImageUrl": "/public/map/BoomClapDLC/orbis/BoomClapDLC_Cover_Online.tga.ckd/6e09099f134b39702feb6d9d628ce0a3.ckd",
+      "coach1ImageUrl": "/public/map/BoomClapDLC/orbis/BoomClapDLC_Coach_1.tga.ckd/53013a32aef45a4bf412fb0060da0298.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BoomClapDLC/BoomClapDLC_Coach_1_Phone.png/1ec5396eb80b589459e44b75ddb72cf1.png",
+    "phoneCoverImageUrl": "/public/map/BoomClapDLC/BoomClapDLC_Cover_Phone.jpg/dc45ca008f8ea8a4375d6de3d74c948c.jpg",
+    "cover640ImageUrl": "/public/map/BoomClapDLC/BoomClapDLC_Cover_640.png/15cd657ba9a61678d8e9761d56e445b6.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC.ogg": "/private/map/BoomClapDLC/BoomClapDLC.ogg/531f0730beac00f05e3ceb5b70a6cea9.ogg",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_AudioPreview.ogg": "/public/map/BoomClapDLC/BoomClapDLC_AudioPreview.ogg/698cdd7910d94cd3cba53c0f0611111e.ogg",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BoomClapDLC/BoomClapDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/7ef4c3565baefdb1a0da77e2e4766f3d.webm",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_HIGH.webm": "/private/map/BoomClapDLC/BoomClapDLC_HIGH.webm/b0bfd72c195d7cad1f2a6a54eb36996f.webm",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_LOW.webm": "/private/map/BoomClapDLC/BoomClapDLC_LOW.webm/3817c15172461f055a6ec16a2597d341.webm",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_MID.webm": "/private/map/BoomClapDLC/BoomClapDLC_MID.webm/5e5486aba68e7368d7556a68fc76c818.webm",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_ULTRA.hd.webm": "/private/map/BoomClapDLC/BoomClapDLC_ULTRA.hd.webm/29a8ca0b12e87828cc437d82dec173ad.webm",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_ULTRA.webm": "/private/map/BoomClapDLC/BoomClapDLC_ULTRA.webm/bdf4e9389714302a8dc5d9c13aa906fa.webm",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BoomClapDLC/BoomClapDLC_MapPreviewNoSoundCrop_MID.vp8.webm/a12edba67b93bbd7294107945a8d5c4f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497244\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoomClapDLC/BoomClapDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1122\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1409499\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoomClapDLC/BoomClapDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 169.564583
+}

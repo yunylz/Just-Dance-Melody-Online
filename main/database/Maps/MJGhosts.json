@@ -1,0 +1,171 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4f3ebd51d3415d108dc8f76ea7edecfe",
+      "storageType": 0,
+      "url": "/public/map/MJGhosts/nx/MJGhosts_MAIN_SCENE_NX.zip/4f3ebd51d3415d108dc8f76ea7edecfe.zip"
+    },
+    "pc": {
+      "md5": "2260e9a365f8610ce35b62f9e6711827",
+      "storageType": 0,
+      "url": "/public/map/MJGhosts/pc/MJGhosts_MAIN_SCENE_PC.zip/2260e9a365f8610ce35b62f9e6711827.zip"
+    },
+    "ps4": {
+      "md5": "14782e7dec7385b8bb07452b90598a3e",
+      "storageType": 0,
+      "url": "/public/map/MJGhosts/orbis/MJGhosts_MAIN_SCENE_ORBIS.zip/14782e7dec7385b8bb07452b90598a3e.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJGhosts",
+    "title": "Ghosts",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong",
+      "mjte",
+      "Trio",
+      "Hard"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "TO BE FILLED",
+    "coachCount": 3,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#081750",
+    "songColor2A": "#185229",
+    "songColor1B": "#03081d",
+    "songColor2B": "#0c2a15",
+    "lyricsColor": "#81eacc"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        111600,
+        139536,
+        167424,
+        195312,
+        223248,
+        251136,
+        279024,
+        306960,
+        334848,
+        362736,
+        390672,
+        418560,
+        446448,
+        474384,
+        502272,
+        530160,
+        558096,
+        585984,
+        613872,
+        641808,
+        669696,
+        697584,
+        725520,
+        753408,
+        781296,
+        809232,
+        837120,
+        865008,
+        892944,
+        920832,
+        948720,
+        976656,
+        1004544,
+        1032432,
+        1060368,
+        1088256,
+        1116192,
+        1144080,
+        1171968,
+        1199904,
+        1227792,
+        1255680,
+        1283616,
+        1311504,
+        1339296,
+        1367184,
+        1395120,
+        1423008,
+        1450896,
+        1478832,
+        1506720
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 532,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJGhosts/MJGhosts_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJGhosts/nx/MJGhosts_banner_bkg.tga.ckd/7a2fdcf253461471e9f001784724d1c6.ckd",
+      "map_bkgImageUrl": "/public/map/MJGhosts/nx/MJGhosts_map_bkg.tga.ckd/5a4a763c4b7049c07f825cece499b91d.ckd",
+      "expandCoachImageUrl": "/public/map/MJGhosts/nx/MJGhosts_Cover_AlbumCoach.tga.ckd/118e270caf4fa164cf582068a56042ab.ckd",
+      "cover_smallImageUrl": "/public/map/MJGhosts/nx/MJGhosts_Cover_Online.tga.ckd/b02c2c1b77d841885aac127cae6ee0e6.ckd",
+      "coach1ImageUrl": "/public/map/MJGhosts/nx/MJGhosts_Coach_1.tga.ckd/97ba49701f5b6796b23b5a83faba1207.ckd",
+      "coach2ImageUrl": "/public/map/MJGhosts/nx/MJGhosts_Coach_2.tga.ckd/db1d941c545b5765fce55db56dc3c744.ckd",
+      "coach3ImageUrl": "/public/map/MJGhosts/nx/MJGhosts_Coach_3.tga.ckd/97ba49701f5b6796b23b5a83faba1207.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJGhosts/pc/MJGhosts_banner_bkg.tga.ckd/a58611270026813a4ba61ef1b8086867.ckd",
+      "map_bkgImageUrl": "/public/map/MJGhosts/pc/MJGhosts_map_bkg.tga.ckd/573785e1233c12ffa40e4ae044b96b41.ckd",
+      "expandCoachImageUrl": "/public/map/MJGhosts/pc/MJGhosts_Cover_AlbumCoach.tga.ckd/5314218b7fa0e5ed6390e7530b53d0d7.ckd",
+      "cover_smallImageUrl": "/public/map/MJGhosts/pc/MJGhosts_Cover_Online.tga.ckd/a23665f8a0d1edeb7125146b70866a03.ckd",
+      "coach1ImageUrl": "/public/map/MJGhosts/pc/MJGhosts_Coach_1.tga.ckd/109c5787b2f7c7c53d3bb21e20a8d71a.ckd",
+      "coach2ImageUrl": "/public/map/MJGhosts/pc/MJGhosts_Coach_2.tga.ckd/b8f43763ede7630cc7dd540c2c408375.ckd",
+      "coach3ImageUrl": "/public/map/MJGhosts/pc/MJGhosts_Coach_3.tga.ckd/109c5787b2f7c7c53d3bb21e20a8d71a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJGhosts/orbis/MJGhosts_banner_bkg.tga.ckd/a58611270026813a4ba61ef1b8086867.ckd",
+      "map_bkgImageUrl": "/public/map/MJGhosts/orbis/MJGhosts_map_bkg.tga.ckd/573785e1233c12ffa40e4ae044b96b41.ckd",
+      "expandCoachImageUrl": "/public/map/MJGhosts/orbis/MJGhosts_Cover_AlbumCoach.tga.ckd/5314218b7fa0e5ed6390e7530b53d0d7.ckd",
+      "cover_smallImageUrl": "/public/map/MJGhosts/orbis/MJGhosts_Cover_Online.tga.ckd/a23665f8a0d1edeb7125146b70866a03.ckd",
+      "coach1ImageUrl": "/public/map/MJGhosts/orbis/MJGhosts_Coach_1.tga.ckd/109c5787b2f7c7c53d3bb21e20a8d71a.ckd",
+      "coach2ImageUrl": "/public/map/MJGhosts/orbis/MJGhosts_Coach_2.tga.ckd/b8f43763ede7630cc7dd540c2c408375.ckd",
+      "coach3ImageUrl": "/public/map/MJGhosts/orbis/MJGhosts_Coach_3.tga.ckd/109c5787b2f7c7c53d3bb21e20a8d71a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJGhosts/MJGhosts_Coach_1_Phone.png/25f6aeed496e8762c1e53a8aa5f4d6c8.png",
+    "phoneCoach2ImageUrl": "/public/map/MJGhosts/MJGhosts_Coach_2_Phone.png/24fdc074ee9b5d4270e036d03694acae.png",
+    "phoneCoach3ImageUrl": "/public/map/MJGhosts/MJGhosts_Coach_3_Phone.png/25f6aeed496e8762c1e53a8aa5f4d6c8.png",
+    "phoneCoverImageUrl": "/public/map/MJGhosts/MJGhosts_Cover_Phone.jpg/cfee75fb81ff39b91fbb4196e2a8cbf7.jpg",
+    "cover640ImageUrl": "/public/map/MJGhosts/MJGhosts_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MJGhosts/MJGhosts.ogg": "/private/map/MJGhosts/MJGhosts.ogg/5163a8344544852dc368c550ce6475d7.ogg",
+    "jmcs://jd-contents/MJGhosts/MJGhosts_AudioPreview.ogg": "/public/map/MJGhosts/MJGhosts_AudioPreview.ogg/a779898e7793ff18ecb1ec9201474b5a.ogg",
+    "jmcs://jd-contents/MJGhosts/MJGhosts_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJGhosts/MJGhosts_MapPreviewNoSoundCrop_LOW.vp8.webm/1a36578ac0870757a16021cb35344050.webm",
+    "jmcs://jd-contents/MJGhosts/MJGhosts_HIGH.webm": "/private/map/MJGhosts/MJGhosts_HIGH.webm/c0a5f9d2526388e1d1f273914d8fd1cb.webm",
+    "jmcs://jd-contents/MJGhosts/MJGhosts_LOW.webm": "/private/map/MJGhosts/MJGhosts_LOW.webm/f34400914ecd01f4cabbf241f15de837.webm",
+    "jmcs://jd-contents/MJGhosts/MJGhosts_MID.webm": "/private/map/MJGhosts/MJGhosts_MID.webm/af2c87ddabf3188e3958b9424df80a61.webm",
+    "jmcs://jd-contents/MJGhosts/MJGhosts_ULTRA.hd.webm": "/private/map/MJGhosts/MJGhosts_ULTRA.hd.webm/51abd2590d0d6937a41df8df850dd367.webm",
+    "jmcs://jd-contents/MJGhosts/MJGhosts_ULTRA.webm": "/private/map/MJGhosts/MJGhosts_ULTRA.webm/08754a1766c2de92e0fec7f7ffe11906.webm",
+    "jmcs://jd-contents/MJGhosts/MJGhosts_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJGhosts/MJGhosts_MapPreviewNoSoundCrop_MID.vp8.webm/969216706a9b7ec524bc69a670357136.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"499828\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJGhosts/MJGhosts_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1479294\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJGhosts/MJGhosts_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 313.925417
+}

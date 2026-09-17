@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "49a081b76df03f4c27997f0f3690616b",
+      "storageType": 0,
+      "url": "/public/map/LoveAgain/nx/LoveAgain_MAIN_SCENE_NX.zip/49a081b76df03f4c27997f0f3690616b.zip"
+    },
+    "pc": {
+      "md5": "b42d372c3d1123031ee24dee3953d02a",
+      "storageType": 0,
+      "url": "/public/map/LoveAgain/pc/LoveAgain_MAIN_SCENE_PC.zip/b42d372c3d1123031ee24dee3953d02a.zip"
+    },
+    "ps4": {
+      "md5": "35b206b9258d3001b4ec6c199f05b378",
+      "storageType": 0,
+      "url": "/public/map/LoveAgain/orbis/LoveAgain_MAIN_SCENE_ORBIS.zip/35b206b9258d3001b4ec6c199f05b378.zip"
+    }
+  },
+  "data": {
+    "mapName": "LoveAgain",
+    "title": "Love Again",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Dua Lipa",
+    "credits": "“Love Again” performed by Dua Lipa. Written by Irving Wallman, Bing Crosby, Max Wartell, Chelcee Grimes, Clarence Coffee Jr., Dua Lipa, and Stephen Kozmeniuk. Published by EMI Music Publishing Ltd. (PRS) / NYANKINGMUSIC (ASCAP) / WC Music Corp. (ASCAP) / Radical 22 Publishing Limited (NS) administered by WC Music Corp / Silver Fox Music Limited / Tomboy Music Limited (ASCAP), KMR Holdings L.P. (ASCAP) administered by Kobalt Songs Music Publishing. Courtesy of Warner Music UK Ltd. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#2804db",
+    "songColor2A": "#f77a0c",
+    "songColor1B": "#010104",
+    "songColor2B": "#020121",
+    "lyricsColor": "#d67c00",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24828,
+        49655,
+        74483,
+        99310,
+        124138,
+        148966,
+        173793,
+        198621,
+        223448,
+        248276,
+        273103,
+        297931,
+        322759,
+        347586,
+        372414,
+        397241,
+        422069,
+        446897,
+        471724,
+        496552,
+        521379,
+        546207,
+        571034,
+        595862,
+        620690,
+        645517,
+        670345,
+        695172,
+        720000,
+        744828,
+        769655,
+        794483,
+        819310,
+        844138,
+        868966,
+        893793,
+        918621,
+        943448,
+        968276,
+        993103,
+        1017931,
+        1042759,
+        1067586,
+        1092414,
+        1117241,
+        1142069,
+        1166897,
+        1191724,
+        1216552,
+        1241379,
+        1266207,
+        1291034,
+        1315862,
+        1340690,
+        1365517,
+        1390345,
+        1415172,
+        1440000,
+        1464828,
+        1489655
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 450,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LoveAgain/LoveAgain_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LoveAgain/nx/LoveAgain_banner_bkg.tga.ckd/e4af9e4954984a4b8719ab7668d35f16.ckd",
+      "map_bkgImageUrl": "/public/map/LoveAgain/nx/LoveAgain_map_bkg.tga.ckd/de9dbc9439ef13065a634fa4f39268c0.ckd",
+      "expandCoachImageUrl": "/public/map/LoveAgain/nx/LoveAgain_Cover_AlbumCoach.tga.ckd/86d0c3fd741001e943949167dd832cf5.ckd",
+      "cover_smallImageUrl": "/public/map/LoveAgain/nx/LoveAgain_Cover_Online.tga.ckd/1d7a132a57b2387ed76017783135ac89.ckd",
+      "coverImageUrl": "/public/map/LoveAgain/nx/LoveAgain_Cover_Generic.tga.ckd/5437e0df0eabfc14b12d12a96e2ab9cc.ckd",
+      "coach1ImageUrl": "/public/map/LoveAgain/nx/LoveAgain_Coach_1.tga.ckd/956c458e1d7ae7d1146e6c6129eb698d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LoveAgain/pc/LoveAgain_banner_bkg.tga.ckd/98680359b9c5458da3e689d659f2b4c1.ckd",
+      "map_bkgImageUrl": "/public/map/LoveAgain/pc/LoveAgain_map_bkg.tga.ckd/cf1cf736e08c3c43e9cd78d84fb705b1.ckd",
+      "expandCoachImageUrl": "/public/map/LoveAgain/pc/LoveAgain_Cover_AlbumCoach.tga.ckd/ead334b2c85d963dab30c7f1ea13f3d6.ckd",
+      "cover_smallImageUrl": "/public/map/LoveAgain/pc/LoveAgain_Cover_Online.tga.ckd/91b1077aad5be5c2aafade39d5b68156.ckd",
+      "coverImageUrl": "/public/map/LoveAgain/pc/LoveAgain_Cover_Generic.tga.ckd/9263f2ead9c732b65f814d2b95979357.ckd",
+      "coach1ImageUrl": "/public/map/LoveAgain/pc/LoveAgain_Coach_1.tga.ckd/c7b4b6dcf482e78975b682055ed4c7f4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LoveAgain/orbis/LoveAgain_banner_bkg.tga.ckd/98680359b9c5458da3e689d659f2b4c1.ckd",
+      "map_bkgImageUrl": "/public/map/LoveAgain/orbis/LoveAgain_map_bkg.tga.ckd/cf1cf736e08c3c43e9cd78d84fb705b1.ckd",
+      "expandCoachImageUrl": "/public/map/LoveAgain/orbis/LoveAgain_Cover_AlbumCoach.tga.ckd/ead334b2c85d963dab30c7f1ea13f3d6.ckd",
+      "cover_smallImageUrl": "/public/map/LoveAgain/orbis/LoveAgain_Cover_Online.tga.ckd/91b1077aad5be5c2aafade39d5b68156.ckd",
+      "coverImageUrl": "/public/map/LoveAgain/orbis/LoveAgain_Cover_Generic.tga.ckd/9263f2ead9c732b65f814d2b95979357.ckd",
+      "coach1ImageUrl": "/public/map/LoveAgain/orbis/LoveAgain_Coach_1.tga.ckd/c7b4b6dcf482e78975b682055ed4c7f4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LoveAgain/LoveAgain_Coach_1_Phone.png/acab14375f15acb76981df0d974beb1f.png",
+    "phoneCoverImageUrl": "/public/map/LoveAgain/LoveAgain_Cover_Phone.jpg/cb2587580c87b653cb06198129b5308f.jpg",
+    "cover640ImageUrl": "/public/map/LoveAgain/LoveAgain_Cover_640.png/729009aad9a8009adb2d7a63d6911d0b.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/LoveAgain/LoveAgain.ogg": "/private/map/LoveAgain/LoveAgain.ogg/81bdec9881fba024bc492dbebbc24d7f.ogg",
+    "jmcs://jd-contents/LoveAgain/LoveAgain_AudioPreview.ogg": "/public/map/LoveAgain/LoveAgain_AudioPreview.ogg/dbeec6578f207d58bee74ecef0e4ea20.ogg",
+    "jmcs://jd-contents/LoveAgain/LoveAgain_HIGH.webm": "/private/map/LoveAgain/LoveAgain_HIGH.webm/6f0471e08ca485a090bf035531bc16b7.webm",
+    "jmcs://jd-contents/LoveAgain/LoveAgain_LOW.webm": "/private/map/LoveAgain/LoveAgain_LOW.webm/8c60b441a5eb221f571c6537bffd8c4b.webm",
+    "jmcs://jd-contents/LoveAgain/LoveAgain_MID.webm": "/private/map/LoveAgain/LoveAgain_MID.webm/ca771416cfcf0a5467992f1f2067d249.webm",
+    "jmcs://jd-contents/LoveAgain/LoveAgain_ULTRA.hd.webm": "/private/map/LoveAgain/LoveAgain_ULTRA.hd.webm/5a4bef8e2585b6ddbae96ca332c65704.webm",
+    "jmcs://jd-contents/LoveAgain/LoveAgain_ULTRA.webm": "/private/map/LoveAgain/LoveAgain_ULTRA.webm/b8c33fc6a15d9ad53e4b23492074f374.webm",
+    "jmcs://jd-contents/LoveAgain/LoveAgain_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LoveAgain/LoveAgain_MapPreviewNoSoundCrop_LOW.vp8.webm/b8b4147c36f1d30d39617a08ace76855.webm",
+    "jmcs://jd-contents/LoveAgain/LoveAgain_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LoveAgain/LoveAgain_MapPreviewNoSoundCrop_MID.vp8.webm/27a10d636f54ff76d9d45063ea1b6f33.webm",
+    "jmcs://jd-contents/LoveAgain/LoveAgain_HIGH.hd.webm": "/private/map/LoveAgain/LoveAgain_HIGH.hd.webm/df4846872eabd71464a2edd60200b836.webm",
+    "jmcs://jd-contents/LoveAgain/LoveAgain_LOW.hd.webm": "/private/map/LoveAgain/LoveAgain_LOW.hd.webm/ca7a0911d8ed5dbb9baa674c3b91f875.webm",
+    "jmcs://jd-contents/LoveAgain/LoveAgain_MID.hd.webm": "/private/map/LoveAgain/LoveAgain_MID.hd.webm/e280c922fdf58f2b7aca0f39c1061abb.webm"
+  },
+  "mapLength": 240.321563,
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"540044\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveAgain/LoveAgain_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\n\t\t\t\t\t<Initialization range=\"0-614\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1987137\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveAgain/LoveAgain_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n"
+}

@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8c991b06f04bcc22bf168e9d9688137b",
+      "storageType": 0,
+      "url": "/public/map/Ulibayssia/nx/Ulibayssia_MAIN_SCENE_NX.zip/8c991b06f04bcc22bf168e9d9688137b.zip"
+    },
+    "pc": {
+      "md5": "4a7ce505c21473b891056c65a762c31f",
+      "storageType": 0,
+      "url": "/public/map/Ulibayssia/pc/Ulibayssia_MAIN_SCENE_PC.zip/4a7ce505c21473b891056c65a762c31f.zip"
+    },
+    "ps4": {
+      "md5": "43390a150518ed316a5bf9cf277c1040",
+      "storageType": 0,
+      "url": "/public/map/Ulibayssia/orbis/Ulibayssia_MAIN_SCENE_ORBIS.zip/43390a150518ed316a5bf9cf277c1040.zip"
+    }
+  },
+  "data": {
+    "mapName": "Ulibayssia",
+    "title": "SMILE (Улыбайся)",
+    "originalJDVersion": 2016,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2016",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "IOWA",
+    "credits": "Music by Tereshenko, Leonid. Lyrics by Ivanchikova, Ekaterina. Published by First Music Publishing, Ltd (Russia)/ Worldwide. Administered by Peer Music excluding Russia and CIS, Israel, Italy. (P)2014 First Music Publishing, Ltd (Russia) All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#5500e6",
+    "songColor2A": "#ffb625",
+    "songColor1B": "#090555",
+    "songColor2B": "#1a0353",
+    "lyricsColor": "#e41782"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22176,
+        44304,
+        66480,
+        88608,
+        110784,
+        132912,
+        155088,
+        177216,
+        199392,
+        221520,
+        243696,
+        265824,
+        288000,
+        310176,
+        332304,
+        354480,
+        376608,
+        398784,
+        420912,
+        443088,
+        465216,
+        487392,
+        509520,
+        531696,
+        553824,
+        576000,
+        598176,
+        620304,
+        642480,
+        664608,
+        686784,
+        708912,
+        731088,
+        753216,
+        775392,
+        797520,
+        819696,
+        841824,
+        864000,
+        886176,
+        908304,
+        930480,
+        952608,
+        974784,
+        996912,
+        1019088,
+        1041216,
+        1063392,
+        1085520,
+        1107696,
+        1129824,
+        1152000,
+        1174176,
+        1196304,
+        1218480,
+        1240608,
+        1262784,
+        1284912,
+        1307088,
+        1329216,
+        1351392,
+        1373520,
+        1395696,
+        1417824,
+        1440000,
+        1462176,
+        1484304
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 464,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Ulibayssia/Ulibayssia_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Ulibayssia/nx/Ulibayssia_banner_bkg.tga.ckd/5fd67f3208d9a74a96615923a417b15d.ckd",
+      "map_bkgImageUrl": "/public/map/Ulibayssia/nx/Ulibayssia_map_bkg.tga.ckd/51d2010ac13c00a1928a984932ff7ef2.ckd",
+      "expandCoachImageUrl": "/public/map/Ulibayssia/nx/Ulibayssia_Cover_AlbumCoach.tga.ckd/4711504ba48f6adb8dc0c276e5481a33.ckd",
+      "cover_smallImageUrl": "/public/map/Ulibayssia/nx/Ulibayssia_Cover_Online.tga.ckd/b9849a3a78fa66cc125d4cbeddfeca48.ckd",
+      "coach1ImageUrl": "/public/map/Ulibayssia/nx/Ulibayssia_Coach_1.tga.ckd/88127c3285b7c4e9ad31d7dd9f1024d7.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Ulibayssia/pc/Ulibayssia_banner_bkg.tga.ckd/c8bf97de73ff580ae525edc658e6f878.ckd",
+      "map_bkgImageUrl": "/public/map/Ulibayssia/pc/Ulibayssia_map_bkg.tga.ckd/fd209304cabdcf5dda304cfca9736cd9.ckd",
+      "expandCoachImageUrl": "/public/map/Ulibayssia/pc/Ulibayssia_Cover_AlbumCoach.tga.ckd/2246388225bff38b0320d5c21c0a8674.ckd",
+      "cover_smallImageUrl": "/public/map/Ulibayssia/pc/Ulibayssia_Cover_Online.tga.ckd/6cf508aa066e13c7113b07c2f12f5faf.ckd",
+      "coach1ImageUrl": "/public/map/Ulibayssia/pc/Ulibayssia_Coach_1.tga.ckd/8b7e9b1905286ac079fda88f12f4d2c8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Ulibayssia/orbis/Ulibayssia_banner_bkg.tga.ckd/c8bf97de73ff580ae525edc658e6f878.ckd",
+      "map_bkgImageUrl": "/public/map/Ulibayssia/orbis/Ulibayssia_map_bkg.tga.ckd/fd209304cabdcf5dda304cfca9736cd9.ckd",
+      "expandCoachImageUrl": "/public/map/Ulibayssia/orbis/Ulibayssia_Cover_AlbumCoach.tga.ckd/2246388225bff38b0320d5c21c0a8674.ckd",
+      "cover_smallImageUrl": "/public/map/Ulibayssia/orbis/Ulibayssia_Cover_Online.tga.ckd/6cf508aa066e13c7113b07c2f12f5faf.ckd",
+      "coach1ImageUrl": "/public/map/Ulibayssia/orbis/Ulibayssia_Coach_1.tga.ckd/8b7e9b1905286ac079fda88f12f4d2c8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Ulibayssia/Ulibayssia_Coach_1_Phone.png/e4abeff33889276fa1550f9dde13b7f8.png",
+    "phoneCoverImageUrl": "/public/map/Ulibayssia/Ulibayssia_Cover_Phone.jpg/aceac336f75276e46945c0f9ca93a67f.jpg",
+    "cover640ImageUrl": "/public/map/Ulibayssia/Ulibayssia_Cover_640.png/5b083f536b7afb981479b2ae5f24a187.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Ulibayssia/Ulibayssia.ogg": "/private/map/Ulibayssia/Ulibayssia.ogg/1101b496c9ba79ed95575fe36585ed90.ogg",
+    "jmcs://jd-contents/Ulibayssia/Ulibayssia_AudioPreview.ogg": "/public/map/Ulibayssia/Ulibayssia_AudioPreview.ogg/d26c20f9878abfadffe3f0d33acdb2ad.ogg",
+    "jmcs://jd-contents/Ulibayssia/Ulibayssia_HIGH.webm": "/private/map/Ulibayssia/Ulibayssia_HIGH.webm/b3b4151d6f1ff31b5d9122c6bd1739a5.webm",
+    "jmcs://jd-contents/Ulibayssia/Ulibayssia_LOW.webm": "/private/map/Ulibayssia/Ulibayssia_LOW.webm/ea10214358d2183e0b29ece44ece6e4a.webm",
+    "jmcs://jd-contents/Ulibayssia/Ulibayssia_MID.webm": "/private/map/Ulibayssia/Ulibayssia_MID.webm/25eaa2ef2140cf2442cf768e2c9e7ce6.webm",
+    "jmcs://jd-contents/Ulibayssia/Ulibayssia_ULTRA.hd.webm": "/private/map/Ulibayssia/Ulibayssia_ULTRA.hd.webm/cb2f4ba4fd6cdcc93f7f183621892233.webm",
+    "jmcs://jd-contents/Ulibayssia/Ulibayssia_ULTRA.webm": "/private/map/Ulibayssia/Ulibayssia_ULTRA.webm/c13fe051b9f2623477f09ca94c6624e1.webm",
+    "jmcs://jd-contents/Ulibayssia/Ulibayssia_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Ulibayssia/Ulibayssia_MapPreviewNoSoundCrop_LOW.vp8.webm/ada38da7c3e92ff877a1e3128fd2acfe.webm",
+    "jmcs://jd-contents/Ulibayssia/Ulibayssia_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Ulibayssia/Ulibayssia_MapPreviewNoSoundCrop_MID.vp8.webm/5b7a6da34310d02645ea36d30dfb6dee.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"494070\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Ulibayssia/Ulibayssia_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1122\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1401217\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Ulibayssia/Ulibayssia_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 215.077063
+}

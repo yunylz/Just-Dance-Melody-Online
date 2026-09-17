@@ -1,0 +1,157 @@
+{
+  "urls": {
+    "jmcs://jd-contents/PrinceAliMU/PrinceAliMU.ogg": "/private/map/PrinceAliMU/PrinceAliMU.ogg/a32247932ef157db98f66df6cf92253c.ogg",
+    "jmcs://jd-contents/PrinceAliMU/PrinceAliMU_AudioPreview.ogg": "/public/map/PrinceAliMU/PrinceAliMU_AudioPreview.ogg/c8c6b8b99338053790186e9cd932e7f2.ogg",
+    "jmcs://jd-contents/PrinceAliMU/PrinceAliMU_HIGH.hd.webm": "/private/map/PrinceAliMU/PrinceAliMU_HIGH.hd.webm/119364ffee2c31314660e8f86c7b6017.webm",
+    "jmcs://jd-contents/PrinceAliMU/PrinceAliMU_LOW.hd.webm": "/private/map/PrinceAliMU/PrinceAliMU_LOW.hd.webm/967b9d7adc691c07f78a9d4e06c0a53f.webm",
+    "jmcs://jd-contents/PrinceAliMU/PrinceAliMU_MID.hd.webm": "/private/map/PrinceAliMU/PrinceAliMU_MID.hd.webm/c992023daa918fe441fd492c072a8dad.webm",
+    "jmcs://jd-contents/PrinceAliMU/PrinceAliMU_ULTRA.hd.webm": "/private/map/PrinceAliMU/PrinceAliMU_ULTRA.hd.webm/53bf27928b39a3d024a1e79f1bb6b231.webm",
+    "jmcs://jd-contents/PrinceAliMU/PrinceAliMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PrinceAliMU/PrinceAliMU_MapPreviewNoSoundCrop_LOW.vp8.webm/e164eaf8430ee8a1bc1da8ee57d01767.webm",
+    "jmcs://jd-contents/PrinceAliMU/PrinceAliMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PrinceAliMU/PrinceAliMU_MapPreviewNoSoundCrop_MID.vp8.webm/dd5869330cd246f9dfaade33da9b7754.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33839,
+        67727,
+        101567,
+        135455,
+        169295,
+        203183,
+        237023,
+        270863,
+        304751,
+        338591,
+        372479,
+        405839,
+        439199,
+        472559,
+        505919,
+        538942,
+        571966,
+        604990,
+        637966,
+        670750,
+        703534,
+        736270,
+        769054,
+        801742,
+        834478,
+        867166,
+        899902,
+        932494,
+        965086,
+        997678,
+        1030270,
+        1062909,
+        1095501,
+        1128093,
+        1160685,
+        1193565,
+        1226445,
+        1259325,
+        1292205,
+        1323453,
+        1354701,
+        1385949,
+        1417197,
+        1448973,
+        1480797,
+        1512573
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 296,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 44,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PrinceAliMU/PrinceAliMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PrinceAliMU/nx/PrinceAliMU_banner_bkg.tga.ckd/f37232aa3ac63dfdb765f984960383ba.ckd",
+      "map_bkgImageUrl": "/public/map/PrinceAliMU/nx/PrinceAliMU_map_bkg.tga.ckd/f9dacc08a896db2ba259a7519aee841c.ckd",
+      "expandCoachImageUrl": "/public/map/PrinceAliMU/nx/PrinceAliMU_Cover_AlbumCoach.tga.ckd/864b5e04e96bc076748e4b67c4ba6ac0.ckd",
+      "cover_smallImageUrl": "/public/map/PrinceAliMU/nx/PrinceAliMU_Cover_Online.tga.ckd/37adda4506c35ffd2389f968b5baa41e.ckd",
+      "coverImageUrl": "/public/map/PrinceAliMU/nx/PrinceAliMU_Cover_Generic.tga.ckd/b6d596c0ee5ad8a564e04da14fe29f99.ckd",
+      "coach1ImageUrl": "/public/map/PrinceAliMU/nx/PrinceAliMU_Coach_1.tga.ckd/ab24f5728429e5e22dc291b504b20937.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PrinceAliMU/pc/PrinceAliMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/PrinceAliMU/pc/PrinceAliMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/PrinceAliMU/pc/PrinceAliMU_Cover_AlbumCoach.tga.ckd/a7931348a87da9d73c1dd94a2c57c73d.ckd",
+      "cover_smallImageUrl": "/public/map/PrinceAliMU/pc/PrinceAliMU_Cover_Online.tga.ckd/e2fce73caf3ab1741a1debf058f761aa.ckd",
+      "coverImageUrl": "/public/map/PrinceAliMU/pc/PrinceAliMU_Cover_Generic.tga.ckd/c7e302efd14c63e953419f4d9e91c93f.ckd",
+      "coach1ImageUrl": "/public/map/PrinceAliMU/pc/PrinceAliMU_Coach_1.tga.ckd/b6f907cf95d3a5c02d094d3b31638ebd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PrinceAliMU/orbis/PrinceAliMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/PrinceAliMU/orbis/PrinceAliMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/PrinceAliMU/orbis/PrinceAliMU_Cover_AlbumCoach.tga.ckd/a7931348a87da9d73c1dd94a2c57c73d.ckd",
+      "cover_smallImageUrl": "/public/map/PrinceAliMU/orbis/PrinceAliMU_Cover_Online.tga.ckd/e2fce73caf3ab1741a1debf058f761aa.ckd",
+      "coverImageUrl": "/public/map/PrinceAliMU/orbis/PrinceAliMU_Cover_Generic.tga.ckd/c7e302efd14c63e953419f4d9e91c93f.ckd",
+      "coach1ImageUrl": "/public/map/PrinceAliMU/orbis/PrinceAliMU_Coach_1.tga.ckd/b6f907cf95d3a5c02d094d3b31638ebd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PrinceAliMU/PrinceAliMU_Coach_1_Phone.png/42dd824f746b8306302c64f601cab230.png",
+    "phoneCoverImageUrl": "/public/map/PrinceAliMU/PrinceAliMU_Cover_Phone.jpg/dd01c0b4c1c9ad61c4afe6188b8919b1.jpg",
+    "cover640ImageUrl": "/public/map/PrinceAliMU/PrinceAliMU_Cover_640.png/1a0d9483fb3a8e6e398c8c9c55933038.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "f9f4a6b3f0c9f786e0166f54043d981b",
+      "storageType": 0,
+      "url": "/public/map/PrinceAliMU/nx/PrinceAliMU_MAIN_SCENE_NX.zip/f9f4a6b3f0c9f786e0166f54043d981b.zip"
+    },
+    "pc": {
+      "md5": "6cf9200d3fe7168a2fd0867c85c8c553",
+      "storageType": 0,
+      "url": "/public/map/PrinceAliMU/pc/PrinceAliMU_MAIN_SCENE_PC.zip/6cf9200d3fe7168a2fd0867c85c8c553.zip"
+    },
+    "ps4": {
+      "md5": "c9d92f1a77ba61dde97316f46f964ff1",
+      "storageType": 0,
+      "url": "/public/map/PrinceAliMU/orbis/PrinceAliMU_MAIN_SCENE_ORBIS.zip/c9d92f1a77ba61dde97316f46f964ff1.zip"
+    }
+  },
+  "data": {
+    "mapName": "PrinceAliMU",
+    "title": "Prince Ali",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Disney's Aladdin",
+    "credits": "Written by Howard Ashman, Alan Menken. Published by Walt Disney Music Company (ASCAP) and Wonderland Music Company, Inc. (BMI). All rights reserved. Performed by Craig Toungate. Courtesy of Walt Disney Records. (C) Disney All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#007caa",
+    "songColor2A": "#e1c305",
+    "songColor1B": "#001e4a",
+    "songColor2B": "#6a2400",
+    "lyricsColor": "#0e91ee",
+    "LocaleID": 8605
+  },
+  "mapLength": 173.299667
+}

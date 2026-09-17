@@ -1,0 +1,176 @@
+{
+  "urls": {
+    "jmcs://jd-contents/YMCAMU/YMCAMU.ogg": "/private/map/YMCAMU/YMCAMU.ogg/9b46edf821182dd67d4419d85d9e7ebb.ogg",
+    "jmcs://jd-contents/YMCAMU/YMCAMU_AudioPreview.ogg": "/public/map/YMCAMU/YMCAMU_AudioPreview.ogg/ad1caa2516ed40a4d0c6b7999e787951.ogg",
+    "jmcs://jd-contents/YMCAMU/YMCAMU_HIGH.hd.webm": "/private/map/YMCAMU/YMCAMU_HIGH.hd.webm/51596fd756075a201d7852b577f915b6.webm",
+    "jmcs://jd-contents/YMCAMU/YMCAMU_LOW.hd.webm": "/private/map/YMCAMU/YMCAMU_LOW.hd.webm/a1ad541ede5144b09369ecff31b385e9.webm",
+    "jmcs://jd-contents/YMCAMU/YMCAMU_MID.hd.webm": "/private/map/YMCAMU/YMCAMU_MID.hd.webm/216c7c8a2cf9612570f94c8b9c06e409.webm",
+    "jmcs://jd-contents/YMCAMU/YMCAMU_ULTRA.hd.webm": "/private/map/YMCAMU/YMCAMU_ULTRA.hd.webm/a1082a0cbff1f3ff76fdbf757b1e19b1.webm",
+    "jmcs://jd-contents/YMCAMU/YMCAMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/YMCAMU/YMCAMU_MapPreviewNoSoundCrop_LOW.vp8.webm/e20898f68bc7ddf2e95ed0739d4e6b55.webm",
+    "jmcs://jd-contents/YMCAMU/YMCAMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/YMCAMU/YMCAMU_MapPreviewNoSoundCrop_MID.vp8.webm/79c54ca943aa58053514e75a58252f09.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22751,
+        47471,
+        72239,
+        96959,
+        121919,
+        145439,
+        168959,
+        192047,
+        215423,
+        238127,
+        260831,
+        283535,
+        306383,
+        330047,
+        353327,
+        376223,
+        399071,
+        421967,
+        444815,
+        467663,
+        490511,
+        514031,
+        536927,
+        559775,
+        582623,
+        605375,
+        628079,
+        650063,
+        671423,
+        695087,
+        718511,
+        740975,
+        764255,
+        787055,
+        809903,
+        832703,
+        855455,
+        878207,
+        901247,
+        923615,
+        946175,
+        969071,
+        991919,
+        1014191,
+        1037039,
+        1059839,
+        1082350,
+        1104910,
+        1127518,
+        1150174,
+        1172638,
+        1194910,
+        1217278,
+        1240078,
+        1262878,
+        1285534,
+        1308190,
+        1330270,
+        1351822,
+        1373950,
+        1396606,
+        1419742,
+        1443262,
+        1465966,
+        1488718
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 467,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/YMCAMU/YMCAMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/YMCAMU/nx/YMCAMU_banner_bkg.tga.ckd/f37232aa3ac63dfdb765f984960383ba.ckd",
+      "map_bkgImageUrl": "/public/map/YMCAMU/nx/YMCAMU_map_bkg.tga.ckd/f9dacc08a896db2ba259a7519aee841c.ckd",
+      "expandCoachImageUrl": "/public/map/YMCAMU/nx/YMCAMU_Cover_AlbumCoach.tga.ckd/c2ce2dfdaaac22ee59759a2a871fd621.ckd",
+      "cover_smallImageUrl": "/public/map/YMCAMU/nx/YMCAMU_Cover_Online.tga.ckd/7249c7990391410b20d4d3b79206b4d2.ckd",
+      "coverImageUrl": "/public/map/YMCAMU/nx/YMCAMU_Cover_Generic.tga.ckd/5f7466dae03ae4084683e2f38955de11.ckd",
+      "coach1ImageUrl": "/public/map/YMCAMU/nx/YMCAMU_Coach_1.tga.ckd/dbb9072a66f058704a77bea0f1f77b39.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/YMCAMU/pc/YMCAMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/YMCAMU/pc/YMCAMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/YMCAMU/pc/YMCAMU_Cover_AlbumCoach.tga.ckd/cfabd158b2cd21823f5647f40f7028a5.ckd",
+      "cover_smallImageUrl": "/public/map/YMCAMU/pc/YMCAMU_Cover_Online.tga.ckd/4b909c11f51805423eacc5091c732968.ckd",
+      "coverImageUrl": "/public/map/YMCAMU/pc/YMCAMU_Cover_Generic.tga.ckd/76a062d84a7645ed2e1adf7435690bbe.ckd",
+      "coach1ImageUrl": "/public/map/YMCAMU/pc/YMCAMU_Coach_1.tga.ckd/49c61d2bda92f7b333b21aba7ff4abef.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/YMCAMU/orbis/YMCAMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/YMCAMU/orbis/YMCAMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/YMCAMU/orbis/YMCAMU_Cover_AlbumCoach.tga.ckd/cfabd158b2cd21823f5647f40f7028a5.ckd",
+      "cover_smallImageUrl": "/public/map/YMCAMU/orbis/YMCAMU_Cover_Online.tga.ckd/4b909c11f51805423eacc5091c732968.ckd",
+      "coverImageUrl": "/public/map/YMCAMU/orbis/YMCAMU_Cover_Generic.tga.ckd/76a062d84a7645ed2e1adf7435690bbe.ckd",
+      "coach1ImageUrl": "/public/map/YMCAMU/orbis/YMCAMU_Coach_1.tga.ckd/49c61d2bda92f7b333b21aba7ff4abef.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/YMCAMU/YMCAMU_Coach_1_Phone.png/38d5e05be135358312d397f96e4be3c1.png",
+    "phoneCoverImageUrl": "/public/map/YMCAMU/YMCAMU_Cover_Phone.jpg/69337a94adfeb882564de5c0f0c33d61.jpg",
+    "cover640ImageUrl": "/public/map/YMCAMU/YMCAMU_Cover_640.png/7966fe0f4bc603cada1fcb34179b4548.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "b95273b449efe7db45ee3203af4cdcd7",
+      "storageType": 0,
+      "url": "/public/map/YMCAMU/nx/YMCAMU_MAIN_SCENE_NX.zip/b95273b449efe7db45ee3203af4cdcd7.zip"
+    },
+    "pc": {
+      "md5": "1902f9796911e97e5f86364670a2ed10",
+      "storageType": 0,
+      "url": "/public/map/YMCAMU/pc/YMCAMU_MAIN_SCENE_PC.zip/1902f9796911e97e5f86364670a2ed10.zip"
+    },
+    "ps4": {
+      "md5": "24cb9fe1c322af271176972a24396bef",
+      "storageType": 0,
+      "url": "/public/map/YMCAMU/orbis/YMCAMU_MAIN_SCENE_ORBIS.zip/24cb9fe1c322af271176972a24396bef.zip"
+    }
+  },
+  "data": {
+    "mapName": "YMCAMU",
+    "title": "Y.M.C.A.",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Village People",
+    "credits": "Written by H. Belolo, J. Morali & V. Willis. Published by Can’t Stop Music/Scorpio Music. Courtesy of Scorpio Music, S.A. and Universal Music Group. ©1978. Courtesy of The Island Def Jam Music Group under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#17c2c0",
+    "songColor2A": "#19d5c7",
+    "songColor1B": "#27094c",
+    "songColor2B": "#17084c",
+    "lyricsColor": "#26a7b1",
+    "LocaleID": 8605
+  },
+  "mapLength": 221.173792
+}

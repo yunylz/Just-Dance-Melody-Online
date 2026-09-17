@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "aa09cb8f45ba4ec7d181ae80033f417b",
+      "storageType": 0,
+      "url": "/public/map/Idealistic/nx/Idealistic_MAIN_SCENE_NX.zip/aa09cb8f45ba4ec7d181ae80033f417b.zip"
+    },
+    "pc": {
+      "md5": "8a3015289c4becfd229b0a5ee00f56a4",
+      "storageType": 0,
+      "url": "/public/map/Idealistic/pc/Idealistic_MAIN_SCENE_PC.zip/8a3015289c4becfd229b0a5ee00f56a4.zip"
+    },
+    "ps4": {
+      "md5": "8f2ea7f026e39e6515aab806f2015b7d",
+      "storageType": 0,
+      "url": "/public/map/Idealistic/orbis/Idealistic_MAIN_SCENE_ORBIS.zip/8f2ea7f026e39e6515aab806f2015b7d.zip"
+    }
+  },
+  "data": {
+    "mapName": "Idealistic",
+    "title": "Idealistic",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Digitalism",
+    "credits": "Digitalism - ''Idealistic'' Written by Jense Moelle and Ismail Tuefekci. Published by Universal Music Publishing Group A division of Universal Music Canada Ltd. Courtesy of EMI Music France\\/Astralwerks. Under license from EMI Film & Television Music.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00BDD9",
+    "songColor2A": "#FF56FF",
+    "songColor1B": "#001E58",
+    "songColor2B": "#001246",
+    "lyricsColor": "#23E4FA",
+    "LocaleID": 4294967295,
+    "LocaleId": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22324,
+        44648,
+        66972,
+        89296,
+        111620,
+        133943,
+        156267,
+        178591,
+        200915,
+        223239,
+        245562,
+        267886,
+        290210,
+        312534,
+        334858,
+        357181,
+        379505,
+        401829,
+        424153,
+        446477,
+        468800,
+        491124,
+        513448,
+        535772,
+        558096,
+        580420,
+        602743,
+        625067,
+        647391,
+        669715,
+        692039,
+        714362,
+        736686,
+        759010,
+        781334,
+        803658,
+        825981,
+        848305,
+        870629,
+        892953,
+        915277,
+        937600,
+        959924,
+        982248,
+        1004572,
+        1026896,
+        1049220,
+        1071543,
+        1093867,
+        1116191,
+        1138515,
+        1160839,
+        1183162,
+        1205486,
+        1227810,
+        1250134,
+        1272458,
+        1294781,
+        1317105,
+        1339429,
+        1361753,
+        1384077,
+        1406400,
+        1429302
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 532,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/idealistic/idealistic_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Idealistic/nx/Idealistic_banner_bkg.tga.ckd/a8258c5e645d6df8e06eed917ca5c6b8.ckd",
+      "map_bkgImageUrl": "/public/map/Idealistic/nx/Idealistic_map_bkg.tga.ckd/6ec5c350823498420f2a35e7fb607cf1.ckd",
+      "expandCoachImageUrl": "/public/map/Idealistic/nx/Idealistic_Cover_AlbumCoach.tga.ckd/bc27e80b3c0c313bc23281e88ff5865c.ckd",
+      "cover_smallImageUrl": "/public/map/Idealistic/nx/Idealistic_Cover_Online.tga.ckd/72bb387bab883659a54b4f7c33bc026e.ckd",
+      "coverImageUrl": "/public/map/Idealistic/nx/Idealistic_Cover_Generic.tga.ckd/19f62661e142e00f1e8dd7164547bbed.ckd",
+      "coach1ImageUrl": "/public/map/Idealistic/nx/Idealistic_Coach_1.tga.ckd/02ced4224fc9ef54c6f623b44c37d27c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Idealistic/pc/Idealistic_banner_bkg.tga.ckd/2019824dab8532be3979e9c56b1da050.ckd",
+      "map_bkgImageUrl": "/public/map/Idealistic/pc/Idealistic_map_bkg.tga.ckd/525249b7975a995afc1edd41a85da543.ckd",
+      "expandCoachImageUrl": "/public/map/Idealistic/pc/Idealistic_Cover_AlbumCoach.tga.ckd/f8e875012e71fa940d4fa13c9b8c25bd.ckd",
+      "cover_smallImageUrl": "/public/map/Idealistic/pc/Idealistic_Cover_Online.tga.ckd/f16b034ed440e1eb733a7ed3abbab892.ckd",
+      "coverImageUrl": "/public/map/Idealistic/pc/Idealistic_Cover_Generic.tga.ckd/34a0c98a52e1c4f8889599e4b51024cd.ckd",
+      "coach1ImageUrl": "/public/map/Idealistic/pc/Idealistic_Coach_1.tga.ckd/4b5c2b8d8cf4f1540461ce14d24442a8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Idealistic/orbis/Idealistic_banner_bkg.tga.ckd/2019824dab8532be3979e9c56b1da050.ckd",
+      "map_bkgImageUrl": "/public/map/Idealistic/orbis/Idealistic_map_bkg.tga.ckd/525249b7975a995afc1edd41a85da543.ckd",
+      "expandCoachImageUrl": "/public/map/Idealistic/orbis/Idealistic_Cover_AlbumCoach.tga.ckd/f8e875012e71fa940d4fa13c9b8c25bd.ckd",
+      "cover_smallImageUrl": "/public/map/Idealistic/orbis/Idealistic_Cover_Online.tga.ckd/f16b034ed440e1eb733a7ed3abbab892.ckd",
+      "coverImageUrl": "/public/map/Idealistic/orbis/Idealistic_Cover_Generic.tga.ckd/34a0c98a52e1c4f8889599e4b51024cd.ckd",
+      "coach1ImageUrl": "/public/map/Idealistic/orbis/Idealistic_Coach_1.tga.ckd/4b5c2b8d8cf4f1540461ce14d24442a8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Idealistic/Idealistic_Coach_1_Phone.png/773957845b089246f95073082c3feadc.png",
+    "phoneCoverImageUrl": "/public/map/Idealistic/Idealistic_Cover_Phone.jpg/57106bc14b5eb57276e694231b4f8944.jpg",
+    "cover640ImageUrl": "/public/map/Idealistic/Idealistic_Cover_640.png/3fc01599585cff1d895590e8d1194617.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Idealistic/Idealistic.ogg": "/private/map/Idealistic/Idealistic.ogg/0bb9e9abf53ba53d184361fa541e54c6.ogg",
+    "jmcs://jd-contents/Idealistic/Idealistic_AudioPreview.ogg": "/public/map/Idealistic/Idealistic_AudioPreview.ogg/6cc7f8370a2394273e91490b35b6d76f.ogg",
+    "jmcs://jd-contents/Idealistic/Idealistic_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Idealistic/Idealistic_MapPreviewNoSoundCrop_LOW.vp8.webm/f43bb3ebe9f7b670b7c505f8e65d4dc6.webm",
+    "jmcs://jd-contents/Idealistic/Idealistic_HIGH.webm": "/private/map/Idealistic/Idealistic_HIGH.webm/a86eca7b89e5d49ca54b7883b2c5dffe.webm",
+    "jmcs://jd-contents/Idealistic/Idealistic_LOW.webm": "/private/map/Idealistic/Idealistic_LOW.webm/2cf64b90f3e4b29f621946a1b0822092.webm",
+    "jmcs://jd-contents/Idealistic/Idealistic_MID.webm": "/private/map/Idealistic/Idealistic_MID.webm/14a2364598da461b259ce785891a184f.webm",
+    "jmcs://jd-contents/Idealistic/Idealistic_ULTRA.hd.webm": "/private/map/Idealistic/Idealistic_ULTRA.hd.webm/914e5f894e4260c49d2232a6e7043287.webm",
+    "jmcs://jd-contents/Idealistic/Idealistic_ULTRA.webm": "/private/map/Idealistic/Idealistic_ULTRA.webm/196912f5a07cdcada79aa71ac20d002e.webm",
+    "jmcs://jd-contents/Idealistic/Idealistic_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Idealistic/Idealistic_MapPreviewNoSoundCrop_MID.vp8.webm/9fbb3317667118f086511f5a284be9c0.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496994\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Idealistic/Idealistic_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1472572\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Idealistic/Idealistic_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\n\t\t\t\t\t<Initialization range=\"0-637\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 247.783604
+}

@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "41c794a88b7a4ede22fa9d6aa4f683b3",
+      "storageType": 0,
+      "url": "/public/map/GotMeDancing/nx/GotMeDancing_MAIN_SCENE_NX.zip/41c794a88b7a4ede22fa9d6aa4f683b3.zip"
+    },
+    "pc": {
+      "md5": "0261b64518db20378f926de9bc15ca43",
+      "storageType": 0,
+      "url": "/public/map/GotMeDancing/pc/GotMeDancing_MAIN_SCENE_PC.zip/0261b64518db20378f926de9bc15ca43.zip"
+    },
+    "ps4": {
+      "md5": "0536f21d370b128aceba2ea8471da3e4",
+      "storageType": 0,
+      "url": "/public/map/GotMeDancing/orbis/GotMeDancing_MAIN_SCENE_ORBIS.zip/0536f21d370b128aceba2ea8471da3e4.zip"
+    }
+  },
+  "data": {
+    "mapName": "GotMeDancing",
+    "title": "She's Got Me Dancing",
+    "originalJDVersion": 3,
+    "tags": [
+      "Intense",
+      "Main",
+      "subscribedSong",
+      "JustDance3",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Tommy Sparks",
+    "credits": "Written by Daniel Lindegren.  Published by Kobalt Music Publishing America, Inc obo Global Talent Publishing Ltd.  Courtesy of Interscope Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f95727",
+    "songColor2A": "#330119",
+    "songColor1B": "#330119",
+    "songColor2B": "#010131",
+    "lyricsColor": "#fff300",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30506,
+        61012,
+        91520,
+        117235,
+        142949,
+        168663,
+        194378,
+        220092,
+        245806,
+        271520,
+        297235,
+        322949,
+        348663,
+        374378,
+        400092,
+        425806,
+        451520,
+        477235,
+        502949,
+        528663,
+        554378,
+        580092,
+        605806,
+        631520,
+        657235,
+        682949,
+        708663,
+        734378,
+        760092,
+        785806,
+        811520,
+        837235,
+        862949,
+        888663,
+        914378,
+        940092,
+        965806,
+        991520,
+        1017235,
+        1042949,
+        1068663,
+        1094378,
+        1120092,
+        1145806,
+        1171520,
+        1197235,
+        1222949,
+        1248663,
+        1274378,
+        1300092,
+        1325806,
+        1351520,
+        1377235,
+        1402949,
+        1428663,
+        1454378,
+        1480092
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 397,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GotMeDancing/GotMeDancing_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GotMeDancing/nx/GotMeDancing_banner_bkg.tga.ckd/fd011debe422b53eb2f3fcfc792a75f0.ckd",
+      "map_bkgImageUrl": "/public/map/GotMeDancing/nx/GotMeDancing_map_bkg.tga.ckd/cb5e603d34b01fd804710e9401197a10.ckd",
+      "expandCoachImageUrl": "/public/map/GotMeDancing/nx/GotMeDancing_Cover_AlbumCoach.tga.ckd/a0c0568898b9454d98c54e9658b42b4e.ckd",
+      "cover_smallImageUrl": "/public/map/GotMeDancing/nx/GotMeDancing_Cover_Online.tga.ckd/1d9f5a7c99b4d2ee126fc78ca9b17087.ckd",
+      "coach1ImageUrl": "/public/map/GotMeDancing/nx/GotMeDancing_Coach_1.tga.ckd/9bcda39b4dfc10fb74ab3380f9493461.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GotMeDancing/pc/GotMeDancing_banner_bkg.tga.ckd/a4ab9f36a3a40b6cad8290264efad986.ckd",
+      "map_bkgImageUrl": "/public/map/GotMeDancing/pc/GotMeDancing_map_bkg.tga.ckd/cebabe7d21d9fb0cba2c3954866abe4b.ckd",
+      "expandCoachImageUrl": "/public/map/GotMeDancing/pc/GotMeDancing_Cover_AlbumCoach.tga.ckd/9dc80b285c3f23d5efa26d8d39c35195.ckd",
+      "cover_smallImageUrl": "/public/map/GotMeDancing/pc/GotMeDancing_Cover_Online.tga.ckd/f6397c20db37b513da51497a2edaf5b6.ckd",
+      "coach1ImageUrl": "/public/map/GotMeDancing/pc/GotMeDancing_Coach_1.tga.ckd/a665071e7a1b56a3b9d6c33fc899d016.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GotMeDancing/orbis/GotMeDancing_banner_bkg.tga.ckd/a4ab9f36a3a40b6cad8290264efad986.ckd",
+      "map_bkgImageUrl": "/public/map/GotMeDancing/orbis/GotMeDancing_map_bkg.tga.ckd/cebabe7d21d9fb0cba2c3954866abe4b.ckd",
+      "expandCoachImageUrl": "/public/map/GotMeDancing/orbis/GotMeDancing_Cover_AlbumCoach.tga.ckd/9dc80b285c3f23d5efa26d8d39c35195.ckd",
+      "cover_smallImageUrl": "/public/map/GotMeDancing/orbis/GotMeDancing_Cover_Online.tga.ckd/f6397c20db37b513da51497a2edaf5b6.ckd",
+      "coach1ImageUrl": "/public/map/GotMeDancing/orbis/GotMeDancing_Coach_1.tga.ckd/a665071e7a1b56a3b9d6c33fc899d016.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GotMeDancing/GotMeDancing_Coach_1_Phone.png/157a7215705e84dfc38237c84d8a6cc5.png",
+    "phoneCoverImageUrl": "/public/map/GotMeDancing/GotMeDancing_Cover_Phone.jpg/e498507bc3a747511e96edb372543858.jpg",
+    "cover640ImageUrl": "/public/map/GotMeDancing/GotMeDancing_Cover_640.png/886b677093a551e83e9201c991029aef.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing.ogg": "/private/map/GotMeDancing/GotMeDancing.ogg/99f6498af34b3f0a133607e1ccdd788b.ogg",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_AudioPreview.ogg": "/public/map/GotMeDancing/GotMeDancing_AudioPreview.ogg/962d36e9e3ff72ce9b52c78f8fe65c95.ogg",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_LOW.vp8.webm/cea64875871480c684f1d36b4fcf253e.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_HIGH.webm": "/private/map/GotMeDancing/GotMeDancing_HIGH.webm/a2e0824335492fa44b4f45998b6de3fd.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_LOW.webm": "/private/map/GotMeDancing/GotMeDancing_LOW.webm/a6f808572077f357f3d2ceba8a15e7e9.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_MID.webm": "/private/map/GotMeDancing/GotMeDancing_MID.webm/84c1fb3227394ab628f715b9c9715623.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_ULTRA.hd.webm": "/private/map/GotMeDancing/GotMeDancing_ULTRA.hd.webm/9247b2ad90bac1e5a85a7cdf49132bc4.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_ULTRA.webm": "/private/map/GotMeDancing/GotMeDancing_ULTRA.webm/f2067df98f079e1d383487eb84ca95d5.webm",
+    "jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_MID.vp8.webm/fb98458def245e3adb1f9b1d4f755e34.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495911\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\n\t\t\t\t\t<Initialization range=\"0-640\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1467078\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GotMeDancing/GotMeDancing_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\n\t\t\t\t\t<Initialization range=\"0-641\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 213.067125
+}

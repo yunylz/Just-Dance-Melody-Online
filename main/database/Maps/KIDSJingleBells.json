@@ -1,0 +1,167 @@
+{
+  "urls": {
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells.ogg": "/private/map/KIDSJingleBells/KIDSJingleBells.ogg/77d013cf3d71170b38b1c679598379d9.ogg",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_AudioPreview.ogg": "/public/map/KIDSJingleBells/KIDSJingleBells_AudioPreview.ogg/ef7d8e5f31d75fd763a4315a905fd579.ogg",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_HIGH.hd.webm": "/private/map/KIDSJingleBells/KIDSJingleBells_HIGH.hd.webm/c3fc03ffa6a61bcd44725d6beca00287.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_LOW.hd.webm": "/private/map/KIDSJingleBells/KIDSJingleBells_LOW.hd.webm/038dad2c629c2fb227ca401581dbc2d1.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MID.hd.webm": "/private/map/KIDSJingleBells/KIDSJingleBells_MID.hd.webm/780b7c6b0ce5372134f620032e869c33.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_ULTRA.hd.webm": "/private/map/KIDSJingleBells/KIDSJingleBells_ULTRA.hd.webm/8b0c9e425f609fb8f8306bd300f998e4.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_LOW.vp8.webm/8b99dbe66870a7cf665f8a1b1bc73ed8.webm",
+    "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/KIDSJingleBells/KIDSJingleBells_MapPreviewNoSoundCrop_MID.vp8.webm/12a9df79d286ddce7011e641a052a88e.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30672,
+        57600,
+        84480,
+        111408,
+        138336,
+        165264,
+        192144,
+        219072,
+        246000,
+        272928,
+        299808,
+        326736,
+        353664,
+        380592,
+        407472,
+        434401,
+        461329,
+        488257,
+        515137,
+        542065,
+        568993,
+        595921,
+        622801,
+        649729,
+        676657,
+        703537,
+        730465,
+        757393,
+        784321,
+        811201,
+        838130,
+        865058,
+        891986,
+        918866,
+        945794,
+        972722,
+        999650,
+        1026530,
+        1053458,
+        1080386,
+        1107314,
+        1134194,
+        1161122,
+        1188050,
+        1214978,
+        1241858,
+        1268787,
+        1295715,
+        1322643,
+        1349523,
+        1376451,
+        1403379,
+        1430307,
+        1457187,
+        1484115
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 215,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "f6b9bba862f2faf85a5ecea45bef87d7",
+      "storageType": 0,
+      "url": "/public/map/KIDSJingleBells/nx/KIDSJingleBells_MAIN_SCENE_NX.zip/f6b9bba862f2faf85a5ecea45bef87d7.zip"
+    },
+    "pc": {
+      "md5": "76439efd28b468ff5166275a6fa81720",
+      "storageType": 0,
+      "url": "/public/map/KIDSJingleBells/pc/KIDSJingleBells_MAIN_SCENE_PC.zip/76439efd28b468ff5166275a6fa81720.zip"
+    },
+    "ps4": {
+      "md5": "d47a6bd4e3df2c4754749bf4ac46477c",
+      "storageType": 0,
+      "url": "/public/map/KIDSJingleBells/orbis/KIDSJingleBells_MAIN_SCENE_ORBIS.zip/d47a6bd4e3df2c4754749bf4ac46477c.zip"
+    }
+  },
+  "data": {
+    "mapName": "KIDSJingleBells",
+    "title": "Jingle Bells",
+    "originalJDVersion": 123,
+    "tags": [
+      "main",
+      "kids"
+    ],
+    "artist": "The Just Dance Kids",
+    "credits": "Written By James Pierpont. Public Domain. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ffc600",
+    "songColor2A": "#0ad24c",
+    "songColor1B": "#ff8400",
+    "songColor2B": "#029355",
+    "lyricsColor": "#ff0f0f",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/KIDSJingleBells/nx/KIDSJingleBells_banner_bkg.tga.ckd/106fc41adebfa1c3f1563ea0a1198a76.ckd",
+      "map_bkgImageUrl": "/public/map/KIDSJingleBells/nx/KIDSJingleBells_map_bkg.tga.ckd/760791d76a7d6fc965c97b12e3563c59.ckd",
+      "expandCoachImageUrl": "/public/map/KIDSJingleBells/nx/KIDSJingleBells_Cover_AlbumCoach.tga.ckd/7667ed5ed540429fbc1d7fb03a0b5ec2.ckd",
+      "cover_smallImageUrl": "/public/map/KIDSJingleBells/nx/KIDSJingleBells_Cover_Online.tga.ckd/3b276251d324175fd53e567119fb7316.ckd",
+      "coverImageUrl": "/public/map/KIDSJingleBells/nx/KIDSJingleBells_Cover_Generic.tga.ckd/3b276251d324175fd53e567119fb7316.ckd",
+      "coach1ImageUrl": "/public/map/KIDSJingleBells/nx/KIDSJingleBells_Coach_1.tga.ckd/5c48fe5466a7381a7cecc7f2c84895c7.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/KIDSJingleBells/pc/KIDSJingleBells_banner_bkg.tga.ckd/81afcbea8c8cd9888d897c150d873ad6.ckd",
+      "map_bkgImageUrl": "/public/map/KIDSJingleBells/pc/KIDSJingleBells_map_bkg.tga.ckd/7c28c30813a5f0aeea13f512c5362bf3.ckd",
+      "expandCoachImageUrl": "/public/map/KIDSJingleBells/pc/KIDSJingleBells_Cover_AlbumCoach.tga.ckd/7e632ff8a84c8e3aee99aecdf04f578d.ckd",
+      "cover_smallImageUrl": "/public/map/KIDSJingleBells/pc/KIDSJingleBells_Cover_Online.tga.ckd/971e63656b775f9e26f58fb5f8e9a180.ckd",
+      "coverImageUrl": "/public/map/KIDSJingleBells/pc/KIDSJingleBells_Cover_Generic.tga.ckd/971e63656b775f9e26f58fb5f8e9a180.ckd",
+      "coach1ImageUrl": "/public/map/KIDSJingleBells/pc/KIDSJingleBells_Coach_1.tga.ckd/30d25a8ed378f2370a2f470970af7cb6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/KIDSJingleBells/orbis/KIDSJingleBells_banner_bkg.tga.ckd/81afcbea8c8cd9888d897c150d873ad6.ckd",
+      "map_bkgImageUrl": "/public/map/KIDSJingleBells/orbis/KIDSJingleBells_map_bkg.tga.ckd/7c28c30813a5f0aeea13f512c5362bf3.ckd",
+      "expandCoachImageUrl": "/public/map/KIDSJingleBells/orbis/KIDSJingleBells_Cover_AlbumCoach.tga.ckd/7e632ff8a84c8e3aee99aecdf04f578d.ckd",
+      "cover_smallImageUrl": "/public/map/KIDSJingleBells/orbis/KIDSJingleBells_Cover_Online.tga.ckd/971e63656b775f9e26f58fb5f8e9a180.ckd",
+      "coverImageUrl": "/public/map/KIDSJingleBells/orbis/KIDSJingleBells_Cover_Generic.tga.ckd/971e63656b775f9e26f58fb5f8e9a180.ckd",
+      "coach1ImageUrl": "/public/map/KIDSJingleBells/orbis/KIDSJingleBells_Coach_1.tga.ckd/30d25a8ed378f2370a2f470970af7cb6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/KIDSJingleBells/KIDSJingleBells_Coach_1_Phone.png/f3f2eabb52387cc0f1f3bcd6fe14aca7.png",
+    "phoneCoverImageUrl": "/public/map/KIDSJingleBells/KIDSJingleBells_Cover_Phone.jpg/25836efdf8e8305d751c32dc1d6fbc87.jpg",
+    "cover640ImageUrl": "/public/map/KIDSJingleBells/KIDSJingleBells_Cover_640.png/1160dfdc89ae7fc226577385ae38a1a9.png"
+  },
+  "mapLength": 120.639271
+}

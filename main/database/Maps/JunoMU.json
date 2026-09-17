@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "b67917742f0658d73bb5e774468b2ae1",
+      "storageType": 0,
+      "url": "/public/map/JunoMU/nx/JunoMU_MAIN_SCENE_NX.zip/b67917742f0658d73bb5e774468b2ae1.zip"
+    },
+    "pc": {
+      "md5": "e4dcab354e8d1d2f51f63deb03defadb",
+      "storageType": 0,
+      "url": "/public/map/JunoMU/pc/JunoMU_MAIN_SCENE_PC.zip/e4dcab354e8d1d2f51f63deb03defadb.zip"
+    },
+    "ps4": {
+      "md5": "8698222848c1c9b393b8776257f19d00",
+      "storageType": 0,
+      "url": "/public/map/JunoMU/orbis/JunoMU_MAIN_SCENE_ORBIS.zip/8698222848c1c9b393b8776257f19d00.zip"
+    }
+  },
+  "data": {
+    "mapName": "JunoMU",
+    "title": "Juno",
+    "originalJDVersion": 3000,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "Sabrina Carpenter",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff22da",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22069,
+        44138,
+        66207,
+        88276,
+        110345,
+        132414,
+        154483,
+        176552,
+        198621,
+        220690,
+        242759,
+        264828,
+        286897,
+        308966,
+        331034,
+        353103,
+        375172,
+        397241,
+        419310,
+        441379,
+        463448,
+        485517,
+        507586,
+        529655,
+        551724,
+        573793,
+        595862,
+        617931,
+        640000,
+        662069,
+        684138,
+        706207,
+        728276,
+        750345,
+        772414,
+        794483,
+        816552,
+        838621,
+        860690,
+        882759,
+        904828,
+        926897,
+        948966,
+        971034,
+        993103,
+        1015172,
+        1037241,
+        1059310,
+        1081379,
+        1103448,
+        1125517,
+        1147586,
+        1169655,
+        1191724,
+        1213793,
+        1235862,
+        1257931,
+        1280000,
+        1302069,
+        1324138,
+        1346207,
+        1368276,
+        1390345,
+        1412414,
+        1434483,
+        1456552,
+        1478621
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 483,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JunoMU/JunoMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JunoMU/orbis/JunoMU_banner_bkg.tga.ckd/0b0a7af04712a5fbaa1f9d195a5493cb.ckd",
+      "map_bkgImageUrl": "/public/map/JunoMU/orbis/JunoMU_map_bkg.tga.ckd/edb955c5755dd61e2f59ef74ff927cb1.ckd",
+      "expandCoachImageUrl": "/public/map/JunoMU/orbis/JunoMU_Cover_AlbumCoach.tga.ckd/e70b53fb9ee96c106cc115131f5d32d8.ckd",
+      "cover_smallImageUrl": "/public/map/JunoMU/orbis/JunoMU_Cover_Online.tga.ckd/9aaf0571aa5292366e33b0150cb245fa.ckd",
+      "coach1ImageUrl": "/public/map/JunoMU/orbis/JunoMU_Coach_1.tga.ckd/da138ca8ecf53e1015ded76aa649fa52.ckd"
+    },
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JunoMU/nx/JunoMU_banner_bkg.tga.ckd/a1efa62faf667fbef9fe2ac6fa96c1cc.ckd",
+      "map_bkgImageUrl": "/public/map/JunoMU/nx/JunoMU_map_bkg.tga.ckd/2313372a0cc6fe82ab6d4dec0e791c6c.ckd",
+      "expandCoachImageUrl": "/public/map/JunoMU/nx/JunoMU_Cover_AlbumCoach.tga.ckd/24c4f13caa43162569a78b2e3f7c24fc.ckd",
+      "cover_smallImageUrl": "/public/map/JunoMU/nx/JunoMU_Cover_Online.tga.ckd/87cd8200883b8e283053c8c857b93a5a.ckd",
+      "coach1ImageUrl": "/public/map/JunoMU/nx/JunoMU_Coach_1.tga.ckd/d78afaacb12ad56023c61c23b8cad877.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JunoMU/pc/JunoMU_banner_bkg.tga.ckd/0b0a7af04712a5fbaa1f9d195a5493cb.ckd",
+      "map_bkgImageUrl": "/public/map/JunoMU/pc/JunoMU_map_bkg.tga.ckd/edb955c5755dd61e2f59ef74ff927cb1.ckd",
+      "expandCoachImageUrl": "/public/map/JunoMU/pc/JunoMU_Cover_AlbumCoach.tga.ckd/e70b53fb9ee96c106cc115131f5d32d8.ckd",
+      "cover_smallImageUrl": "/public/map/JunoMU/pc/JunoMU_Cover_Online.tga.ckd/9aaf0571aa5292366e33b0150cb245fa.ckd",
+      "coach1ImageUrl": "/public/map/JunoMU/pc/JunoMU_Coach_1.tga.ckd/da138ca8ecf53e1015ded76aa649fa52.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JunoMU/JunoMU_Coach_1_Phone.png/b7cbe7d6d09ecbccecf9d9ff38ce9881.png",
+    "phoneCoverImageUrl": "/public/map/JunoMU/JunoMU_Cover_Phone.jpg/86c1ab8f67bab226f63305fec7325a4e.jpg",
+    "cover640ImageUrl": "/public/map/JunoMU/JunoMU_Cover_640.png/c6b698304d3a038dee4fab3cf0f060bc.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JunoMU/JunoMU.ogg": "/private/map/JunoMU/JunoMU.ogg/4b576a9a8d308cea8820664b62a3abf3.ogg",
+    "jmcs://jd-contents/JunoMU/JunoMU_AudioPreview.ogg": "/public/map/JunoMU/JunoMU_AudioPreview.ogg/6612d8ab0796dc3088155f2f4a493ec3.ogg",
+    "jmcs://jd-contents/JunoMU/JunoMU_HIGH.webm": "/private/map/JunoMU/JunoMU_HIGH.webm/b861e28ae4f89de5526be6185f14db50.webm",
+    "jmcs://jd-contents/JunoMU/JunoMU_LOW.webm": "/private/map/JunoMU/JunoMU_LOW.webm/311f93293d63bb675be40b9c7910f73b.webm",
+    "jmcs://jd-contents/JunoMU/JunoMU_MID.webm": "/private/map/JunoMU/JunoMU_MID.webm/42954b689d7b20fa3af0cdb69423a477.webm",
+    "jmcs://jd-contents/JunoMU/JunoMU_ULTRA.hd.webm": "/private/map/JunoMU/JunoMU_ULTRA.hd.webm/ded2feb46de8b14dade06b6cdc2db3ab.webm",
+    "jmcs://jd-contents/JunoMU/JunoMU_ULTRA.webm": "/private/map/JunoMU/JunoMU_ULTRA.webm/dd1d02c2758b6612e1471ccd33b9f3d0.webm",
+    "jmcs://jd-contents/JunoMU/JunoMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JunoMU/JunoMU_MapPreviewNoSoundCrop_LOW.vp8.webm/9f9ffa4ed998202319752bc4e264332a.webm",
+    "jmcs://jd-contents/JunoMU/JunoMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JunoMU/JunoMU_MapPreviewNoSoundCrop_MID.vp8.webm/a1b32d69001c1c420b73e8a1b560fc63.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"507099\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JunoMU/JunoMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1496734\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JunoMU/JunoMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 224.706
+}

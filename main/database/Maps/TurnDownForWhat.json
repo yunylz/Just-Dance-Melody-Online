@@ -1,0 +1,183 @@
+{
+  "urls": {
+    "jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_AudioPreview.ogg": "/public/map/TurnDownForWhat/TurnDownForWhat_AudioPreview.ogg/4e5ba766c51590ef33515de9f6c2f644.ogg",
+    "jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat.ogg": "/private/map/TurnDownForWhat/TurnDownForWhat.ogg/551015f93384defa8d5aa512783b8fdf.ogg",
+    "jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_LOW.vp8.webm/20de29d337e58bd3ec21a7ae12f8cbda.webm",
+    "jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_MID.vp8.webm/3fb7cdd9f6b7b2bb47ff231199d735cf.webm",
+    "jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_HIGH.vp8.webm/6513226d8b9cf02dfd1f715df6cdb550.webm",
+    "jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e318a28b9f47798494956985927e33b4.webm",
+    "jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_ULTRA.hd.webm": "/private/map/TurnDownForWhat/TurnDownForWhat_ULTRA.hd.webm/9743cca596d12a9d6348ae9c30ac2deb.webm",
+    "jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_HIGH.hd.webm": "/private/map/TurnDownForWhat/TurnDownForWhat_HIGH.hd.webm/9adbdd42853d79d8280965711ecc3690.webm",
+    "jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_MID.hd.webm": "/private/map/TurnDownForWhat/TurnDownForWhat_MID.hd.webm/aff26ef168721899033649660f18f2f3.webm",
+    "jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_LOW.hd.webm": "/private/map/TurnDownForWhat/TurnDownForWhat_LOW.hd.webm/2f5543e18b75e347cbc540141599f74c.webm"
+  },
+  "mapLength": 235.79989583333332,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -20,
+      "endBeat": 373,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "url": "jmcs://jd-contents/turndownforwhat/turndownforwhat_AudioPreview.ogg",
+    "path": ""
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"645219\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"780-1269\">\n\t\t\t\t\t<Initialization range=\"0-780\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482705\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"780-1270\">\n\t\t\t\t\t<Initialization range=\"0-780\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2943434\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"780-1270\">\n\t\t\t\t\t<Initialization range=\"0-780\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"4706524\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TurnDownForWhat/TurnDownForWhat_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"780-1272\">\n\t\t\t\t\t<Initialization range=\"0-780\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "f63a8637ad6a1272eaa9964c2f5e2777",
+      "storageType": 0,
+      "url": "/public/map/TurnDownForWhat/pc/TurnDownForWhat_MAIN_SCENE_PC.zip/f63a8637ad6a1272eaa9964c2f5e2777.zip"
+    },
+    "ps4": {
+      "md5": "ba45479f8df762d0046ad67285415d07",
+      "storageType": 0,
+      "url": "/public/map/TurnDownForWhat/orbis/TurnDownForWhat_MAIN_SCENE_ORBIS.zip/ba45479f8df762d0046ad67285415d07.zip"
+    },
+    "nx": {
+      "md5": "beac87d39aeb6c248fe9b3012d326bf5",
+      "storageType": 0,
+      "url": "/public/map/TurnDownForWhat/nx/TurnDownForWhat_MAIN_SCENE_NX.zip/beac87d39aeb6c248fe9b3012d326bf5.zip"
+    }
+  },
+  "data": {
+    "mapName": "TurnDownForWhat",
+    "title": "Turn Down For What",
+    "originalJDVersion": 2027,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "DJ Snake, Lil Jon",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/TurnDownForWhat/pc/TurnDownForWhat_Cover_Online.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "coverImageUrl": "/public/map/TurnDownForWhat/pc/TurnDownForWhat_Cover_Generic.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "expandCoachImageUrl": "/public/map/TurnDownForWhat/pc/TurnDownForWhat_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/TurnDownForWhat/pc/TurnDownForWhat_map_bkg.tga.ckd/bd967bc6be1d2b4df418bc5ab43d1a5d.ckd",
+      "banner_bkgImageUrl": "/public/map/TurnDownForWhat/pc/TurnDownForWhat_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/TurnDownForWhat/pc/TurnDownForWhat_Coach_1.tga.ckd/dbe21e0714af764b29297e9379b305fb.ckd",
+      "coach2ImageUrl": "/public/map/TurnDownForWhat/pc/TurnDownForWhat_Coach_2.tga.ckd/a7d3cf385571a71d03553ca4abab4299.ckd",
+      "coach3ImageUrl": "/public/map/TurnDownForWhat/pc/TurnDownForWhat_Coach_3.tga.ckd/2afac2716f1bb13decc46b5154dd54ba.ckd",
+      "phoneCoverImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "phoneCoach2ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Coach_2_Phone.png/4efb880e1db8a576a02b58e699118337.png",
+      "phoneCoach3ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Coach_3_Phone.png/39e25871a3da0bc5b41f964bfa2bfc37.png",
+      "cover640ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/TurnDownForWhat/orbis/TurnDownForWhat_Cover_Online.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "coverImageUrl": "/public/map/TurnDownForWhat/orbis/TurnDownForWhat_Cover_Generic.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "expandCoachImageUrl": "/public/map/TurnDownForWhat/orbis/TurnDownForWhat_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/TurnDownForWhat/orbis/TurnDownForWhat_map_bkg.tga.ckd/bd967bc6be1d2b4df418bc5ab43d1a5d.ckd",
+      "banner_bkgImageUrl": "/public/map/TurnDownForWhat/orbis/TurnDownForWhat_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/TurnDownForWhat/orbis/TurnDownForWhat_Coach_1.tga.ckd/dbe21e0714af764b29297e9379b305fb.ckd",
+      "coach2ImageUrl": "/public/map/TurnDownForWhat/orbis/TurnDownForWhat_Coach_2.tga.ckd/a7d3cf385571a71d03553ca4abab4299.ckd",
+      "coach3ImageUrl": "/public/map/TurnDownForWhat/orbis/TurnDownForWhat_Coach_3.tga.ckd/2afac2716f1bb13decc46b5154dd54ba.ckd",
+      "phoneCoverImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "phoneCoach2ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Coach_2_Phone.png/4efb880e1db8a576a02b58e699118337.png",
+      "phoneCoach3ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Coach_3_Phone.png/39e25871a3da0bc5b41f964bfa2bfc37.png",
+      "cover640ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/TurnDownForWhat/nx/TurnDownForWhat_Cover_Online.tga.ckd/28e19a1498984376509ca2256dccde5c.ckd",
+      "coverImageUrl": "/public/map/TurnDownForWhat/nx/TurnDownForWhat_Cover_Generic.tga.ckd/28e19a1498984376509ca2256dccde5c.ckd",
+      "expandCoachImageUrl": "/public/map/TurnDownForWhat/nx/TurnDownForWhat_Cover_AlbumCoach.tga.ckd/f2acd1f802fbc3c07f5497a0de5fc9d3.ckd",
+      "map_bkgImageUrl": "/public/map/TurnDownForWhat/nx/TurnDownForWhat_map_bkg.tga.ckd/e6b0dcc47e597760d13b23002e2e800b.ckd",
+      "banner_bkgImageUrl": "/public/map/TurnDownForWhat/nx/TurnDownForWhat_banner_bkg.tga.ckd/56a0fc93e1e0b5555651a441a9c51598.ckd",
+      "coach1ImageUrl": "/public/map/TurnDownForWhat/nx/TurnDownForWhat_Coach_1.tga.ckd/26a47213441a0c69ee695455123c4656.ckd",
+      "coach2ImageUrl": "/public/map/TurnDownForWhat/nx/TurnDownForWhat_Coach_2.tga.ckd/2b76cc1b7b5b583b05f164fc8e1026de.ckd",
+      "coach3ImageUrl": "/public/map/TurnDownForWhat/nx/TurnDownForWhat_Coach_3.tga.ckd/eb96fcef1932ef0ae909f73037c496af.ckd",
+      "phoneCoverImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "phoneCoach2ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Coach_2_Phone.png/4efb880e1db8a576a02b58e699118337.png",
+      "phoneCoach3ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Coach_3_Phone.png/39e25871a3da0bc5b41f964bfa2bfc37.png",
+      "cover640ImageUrl": "/public/map/TurnDownForWhat/TurnDownForWhat_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    }
+  }
+}

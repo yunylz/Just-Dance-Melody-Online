@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "76efbb209378aebb3986b3d029724ab3",
+      "storageType": 0,
+      "url": "/public/map/ItsYou/nx/ItsYou_MAIN_SCENE_NX.zip/76efbb209378aebb3986b3d029724ab3.zip"
+    },
+    "pc": {
+      "md5": "18ff4638ca84f910a36541e62cd84519",
+      "storageType": 0,
+      "url": "/public/map/ItsYou/pc/ItsYou_MAIN_SCENE_PC.zip/18ff4638ca84f910a36541e62cd84519.zip"
+    },
+    "ps4": {
+      "md5": "c7d94e764093ffc3a366441b62aee48b",
+      "storageType": 0,
+      "url": "/public/map/ItsYou/orbis/ItsYou_MAIN_SCENE_ORBIS.zip/c7d94e764093ffc3a366441b62aee48b.zip"
+    }
+  },
+  "data": {
+    "mapName": "ItsYou",
+    "title": "It's You",
+    "originalJDVersion": 2014,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2014",
+      "Medium",
+      "Solo"
+    ],
+    "artist": "Duck Sauce",
+    "credits": "Written by Armand Van Helden, Alain Macklovitch, Bruce Patch, Alan Sanchez. Published by Break Dancin Bob Music (BMI) / Alain Macklovitch (SOCAN/BMI) / First Digital Music (BMI), 60% o/b/o Bruce Patch & Alan Sanchez. All rights for First Digital Music administered by First Digital Music. Contains a sample of ''It's You'' recorded by Bruce Patch and Alan Sanchez courtesy of FirstCom Music / Universal Music Publishing Group a division of Universal Music Canada Inc. Courtesy of Universal Records under license from Universal Music Enterprises.Armand Van Helden appears courtesy of X-Mix Productions. (P) & © 2013 Duck Sauce LLC. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00a0d9",
+    "songColor2A": "#c7ecff",
+    "songColor1B": "#00162c",
+    "songColor2B": "#000000",
+    "lyricsColor": "#09b9fa",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67487,
+        89999,
+        112511,
+        135023,
+        157487,
+        179999,
+        202511,
+        225023,
+        247487,
+        269999,
+        292511,
+        315023,
+        337487,
+        359999,
+        382511,
+        405023,
+        427487,
+        449999,
+        472511,
+        495023,
+        517487,
+        539999,
+        562511,
+        585023,
+        607487,
+        629999,
+        652511,
+        675022,
+        697486,
+        719998,
+        742510,
+        765022,
+        787486,
+        809998,
+        832510,
+        855022,
+        877486,
+        899998,
+        922510,
+        945022,
+        967486,
+        989998,
+        1012510,
+        1035022,
+        1057486,
+        1079998,
+        1102510,
+        1125022,
+        1147486,
+        1169998,
+        1192510,
+        1215022,
+        1237486,
+        1259998,
+        1282510,
+        1305022,
+        1327485,
+        1349997,
+        1372509,
+        1395021,
+        1417485,
+        1439997,
+        1462509,
+        1485021
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 355,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ItsYou/ItsYou_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ItsYou/nx/ItsYou_banner_bkg.tga.ckd/f5185009a00f23ce42ce3335e29151e4.ckd",
+      "map_bkgImageUrl": "/public/map/ItsYou/nx/ItsYou_map_bkg.tga.ckd/1163edbc525561fb442bfa99b8e17e35.ckd",
+      "expandCoachImageUrl": "/public/map/ItsYou/nx/ItsYou_Cover_AlbumCoach.tga.ckd/adcfacbf43a0df75a7ea473edc01493f.ckd",
+      "cover_smallImageUrl": "/public/map/ItsYou/nx/ItsYou_Cover_Online.tga.ckd/f4a7c547fce6f94de67b1d1273eca56a.ckd",
+      "coverImageUrl": "/public/map/ItsYou/nx/ItsYou_Cover_Generic.tga.ckd/e92e8eeee302524e498ea1b508892440.ckd",
+      "coach1ImageUrl": "/public/map/ItsYou/nx/ItsYou_Coach_1.tga.ckd/87e4c2edf1809a2300242912415b0930.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ItsYou/pc/ItsYou_banner_bkg.tga.ckd/bcc0a12aa03bcf0fe71a661db02151a5.ckd",
+      "map_bkgImageUrl": "/public/map/ItsYou/pc/ItsYou_map_bkg.tga.ckd/d34897dd813bb308396b3b61f1b42ff7.ckd",
+      "expandCoachImageUrl": "/public/map/ItsYou/pc/ItsYou_Cover_AlbumCoach.tga.ckd/e8c04a87221a7d859b54cb53166804ac.ckd",
+      "cover_smallImageUrl": "/public/map/ItsYou/pc/ItsYou_Cover_Online.tga.ckd/c44f69aa88b2b65fffc50c5a67dca5ca.ckd",
+      "coverImageUrl": "/public/map/ItsYou/pc/ItsYou_Cover_Generic.tga.ckd/e13ed5bec8fb1b3092bd7440638f1b21.ckd",
+      "coach1ImageUrl": "/public/map/ItsYou/pc/ItsYou_Coach_1.tga.ckd/ac77f155f13060a85a4ea5d6f74c161d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ItsYou/orbis/ItsYou_banner_bkg.tga.ckd/bcc0a12aa03bcf0fe71a661db02151a5.ckd",
+      "map_bkgImageUrl": "/public/map/ItsYou/orbis/ItsYou_map_bkg.tga.ckd/d34897dd813bb308396b3b61f1b42ff7.ckd",
+      "expandCoachImageUrl": "/public/map/ItsYou/orbis/ItsYou_Cover_AlbumCoach.tga.ckd/e8c04a87221a7d859b54cb53166804ac.ckd",
+      "cover_smallImageUrl": "/public/map/ItsYou/orbis/ItsYou_Cover_Online.tga.ckd/c44f69aa88b2b65fffc50c5a67dca5ca.ckd",
+      "coverImageUrl": "/public/map/ItsYou/orbis/ItsYou_Cover_Generic.tga.ckd/e13ed5bec8fb1b3092bd7440638f1b21.ckd",
+      "coach1ImageUrl": "/public/map/ItsYou/orbis/ItsYou_Coach_1.tga.ckd/ac77f155f13060a85a4ea5d6f74c161d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ItsYou/ItsYou_Coach_1_Phone.png/02a4fec402c7d0ed999fe4f6fbcdb7dd.png",
+    "phoneCoverImageUrl": "/public/map/ItsYou/ItsYou_Cover_Phone.jpg/657ff316e7fc2f4491eccdccd0ed5c50.jpg",
+    "cover640ImageUrl": "/public/map/ItsYou/ItsYou_Cover_640.png/c11cd4bda3dfacb5ab2ec65b4ab1a412.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ItsYou/ItsYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ItsYou/ItsYou_MapPreviewNoSoundCrop_LOW.vp8.webm/f9fbb2311244579dfe5063114ca21ea5.webm",
+    "jmcs://jd-contents/ItsYou/ItsYou.ogg": "/private/map/ItsYou/ItsYou.ogg/01f1ec4ff2637268a37174ee3c9c705e.ogg",
+    "jmcs://jd-contents/ItsYou/ItsYou_AudioPreview.ogg": "/public/map/ItsYou/ItsYou_AudioPreview.ogg/c421e6c361f824474f1b2b26d9d7b94a.ogg",
+    "jmcs://jd-contents/ItsYou/ItsYou_HIGH.webm": "/private/map/ItsYou/ItsYou_HIGH.webm/7d6625e05489705cb24b901df0c81d97.webm",
+    "jmcs://jd-contents/ItsYou/ItsYou_LOW.webm": "/private/map/ItsYou/ItsYou_LOW.webm/81a252ff99adcef5302d6324958b32ef.webm",
+    "jmcs://jd-contents/ItsYou/ItsYou_MID.webm": "/private/map/ItsYou/ItsYou_MID.webm/a519362353dbbc32c2f9a24fd3ccc839.webm",
+    "jmcs://jd-contents/ItsYou/ItsYou_ULTRA.hd.webm": "/private/map/ItsYou/ItsYou_ULTRA.hd.webm/8518460750c8006a55a37a3f86f0ce7b.webm",
+    "jmcs://jd-contents/ItsYou/ItsYou_ULTRA.webm": "/private/map/ItsYou/ItsYou_ULTRA.webm/34d89bc0f4445bcd1f9bf223846812f4.webm",
+    "jmcs://jd-contents/ItsYou/ItsYou_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ItsYou/ItsYou_MapPreviewNoSoundCrop_MID.vp8.webm/2d0255edb8a367a4221c5675298d42c8.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495543\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsYou/ItsYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\n\t\t\t\t\t<Initialization range=\"0-625\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1470692\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsYou/ItsYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\n\t\t\t\t\t<Initialization range=\"0-626\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 168.740896
+}

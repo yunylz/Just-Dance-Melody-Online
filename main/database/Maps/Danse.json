@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e4e39dd8d73d0de24e7e89b3cd2c9550",
+      "storageType": 0,
+      "url": "/public/map/Danse/nx/Danse_MAIN_SCENE_NX.zip/e4e39dd8d73d0de24e7e89b3cd2c9550.zip"
+    },
+    "pc": {
+      "md5": "7c635b1580cc532e927a6b76352b4275",
+      "storageType": 0,
+      "url": "/public/map/Danse/pc/Danse_MAIN_SCENE_PC.zip/7c635b1580cc532e927a6b76352b4275.zip"
+    },
+    "ps4": {
+      "md5": "f40c380b559cd9ea9a7e9652a9f3cb0a",
+      "storageType": 0,
+      "url": "/public/map/Danse/orbis/Danse_MAIN_SCENE_ORBIS.zip/f40c380b559cd9ea9a7e9652a9f3cb0a.zip"
+    }
+  },
+  "data": {
+    "mapName": "Danse",
+    "title": "Danse (Pop version)",
+    "originalJDVersion": 2014,
+    "tags": [
+      "Intense",
+      "Main",
+      "subscribedSong",
+      "JustDance2014",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Tal",
+    "credits": "Written by Silvio Lisbonne, Manon Romiti, Julio Masidi, Bruno Damas and Tal Benyerzi. Published by Universal Music Publishing, Editions Costallat, UP Com, Warner Chappell Music France and Famous Farmer. Courtesy of Warner Music France, A Warner Music Group Company. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#3dc8f5",
+    "songColor2A": "#f5ac80",
+    "songColor1B": "#470061",
+    "songColor2B": "#7f0060",
+    "lyricsColor": "#fb7910",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22847,
+        45695,
+        68591,
+        91439,
+        114287,
+        137135,
+        159983,
+        182879,
+        205727,
+        228575,
+        251423,
+        274271,
+        297119,
+        320015,
+        342863,
+        365711,
+        388559,
+        411407,
+        434303,
+        457151,
+        479998,
+        502846,
+        525694,
+        548590,
+        571438,
+        594286,
+        617134,
+        639982,
+        662878,
+        685726,
+        708574,
+        731422,
+        754270,
+        777118,
+        800014,
+        822862,
+        845710,
+        868558,
+        891406,
+        914302,
+        937150,
+        959997,
+        982845,
+        1005693,
+        1028589,
+        1051437,
+        1074285,
+        1097133,
+        1119981,
+        1142877,
+        1165725,
+        1188573,
+        1211421,
+        1234269,
+        1257117,
+        1280013,
+        1302861,
+        1325709,
+        1348557,
+        1371405,
+        1394301,
+        1417149,
+        1439996,
+        1462844,
+        1485692
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 376,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Danse/Danse_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Danse/nx/Danse_banner_bkg.tga.ckd/53789fd3682a1cb2d9657bd64a3f8e4c.ckd",
+      "map_bkgImageUrl": "/public/map/Danse/nx/Danse_map_bkg.tga.ckd/cdb7b02f691ec8ee764c489f9c782a02.ckd",
+      "expandCoachImageUrl": "/public/map/Danse/nx/Danse_Cover_AlbumCoach.tga.ckd/c04e45e9f53f6136781805621f158346.ckd",
+      "cover_smallImageUrl": "/public/map/Danse/nx/Danse_Cover_Online.tga.ckd/51105522992e132864f17a8ea5f3f9fd.ckd",
+      "coverImageUrl": "/public/map/Danse/nx/Danse_Cover_Generic.tga.ckd/d3da4409570b1c3a21dfe0e982a927f3.ckd",
+      "coach1ImageUrl": "/public/map/Danse/nx/Danse_Coach_1.tga.ckd/b1987cf6986f32530f90d2dcdd17d563.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Danse/pc/Danse_banner_bkg.tga.ckd/ad0689e3c0dfe8e095404ba9b7523cb6.ckd",
+      "map_bkgImageUrl": "/public/map/Danse/pc/Danse_map_bkg.tga.ckd/0f005c293392857720cc853f1326adcf.ckd",
+      "expandCoachImageUrl": "/public/map/Danse/pc/Danse_Cover_AlbumCoach.tga.ckd/2de0ce45834dd12bfffe06a99e2b9ef0.ckd",
+      "cover_smallImageUrl": "/public/map/Danse/pc/Danse_Cover_Online.tga.ckd/9d1c7d7dc4b6ae82e64e83fe180d3791.ckd",
+      "coverImageUrl": "/public/map/Danse/pc/Danse_Cover_Generic.tga.ckd/5bd1afee143c4de0cdb301089aea4cf3.ckd",
+      "coach1ImageUrl": "/public/map/Danse/pc/Danse_Coach_1.tga.ckd/adfd40603c40e2396a0b6a38feac05fa.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Danse/orbis/Danse_banner_bkg.tga.ckd/ad0689e3c0dfe8e095404ba9b7523cb6.ckd",
+      "map_bkgImageUrl": "/public/map/Danse/orbis/Danse_map_bkg.tga.ckd/0f005c293392857720cc853f1326adcf.ckd",
+      "expandCoachImageUrl": "/public/map/Danse/orbis/Danse_Cover_AlbumCoach.tga.ckd/2de0ce45834dd12bfffe06a99e2b9ef0.ckd",
+      "cover_smallImageUrl": "/public/map/Danse/orbis/Danse_Cover_Online.tga.ckd/9d1c7d7dc4b6ae82e64e83fe180d3791.ckd",
+      "coverImageUrl": "/public/map/Danse/orbis/Danse_Cover_Generic.tga.ckd/5bd1afee143c4de0cdb301089aea4cf3.ckd",
+      "coach1ImageUrl": "/public/map/Danse/orbis/Danse_Coach_1.tga.ckd/adfd40603c40e2396a0b6a38feac05fa.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Danse/Danse_Coach_1_Phone.png/77ddd0d32fdb2323880032a68e0e4384.png",
+    "phoneCoverImageUrl": "/public/map/Danse/Danse_Cover_Phone.jpg/dcfb30a17e529a47e279e13aa6ed3d4c.jpg",
+    "cover640ImageUrl": "/public/map/Danse/Danse_Cover_640.png/0ddf931337da2782f937bffb170fb8b7.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Danse/Danse.ogg": "/private/map/Danse/Danse.ogg/2b33d910299c0fbd65ee523cb75072cd.ogg",
+    "jmcs://jd-contents/Danse/Danse_AudioPreview.ogg": "/public/map/Danse/Danse_AudioPreview.ogg/3c67c1db430a26f749829da81f00b9a2.ogg",
+    "jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Danse/Danse_MapPreviewNoSoundCrop_LOW.vp8.webm/44c5b0c64af6d85abc6aeb572b06952b.webm",
+    "jmcs://jd-contents/Danse/Danse_HIGH.webm": "/private/map/Danse/Danse_HIGH.webm/c517fa27f35c45d1629f181d91d1528e.webm",
+    "jmcs://jd-contents/Danse/Danse_LOW.webm": "/private/map/Danse/Danse_LOW.webm/422cfaa07bbb7cc24787de9eaea4c43e.webm",
+    "jmcs://jd-contents/Danse/Danse_MID.webm": "/private/map/Danse/Danse_MID.webm/42d0d5e205e5213b79c74c34a83e9c17.webm",
+    "jmcs://jd-contents/Danse/Danse_ULTRA.hd.webm": "/private/map/Danse/Danse_ULTRA.hd.webm/4f40fb4c6730eec907c7d239a7089700.webm",
+    "jmcs://jd-contents/Danse/Danse_ULTRA.webm": "/private/map/Danse/Danse_ULTRA.webm/f09cd82985e043f872457827addd8bf3.webm",
+    "jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Danse/Danse_MapPreviewNoSoundCrop_MID.vp8.webm/66785f64d885803af0437a563ca8d86c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496496\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\n\t\t\t\t\t<Initialization range=\"0-623\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1475122\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Danse/Danse_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\n\t\t\t\t\t<Initialization range=\"0-624\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 179.047625
+}

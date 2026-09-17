@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ChooChoo/ChooChoo_AudioPreview.ogg": "/public/map/ChooChoo/ChooChoo_AudioPreview.ogg/f234d2cd550208e6d73a87cbf82407a0.ogg",
+    "jmcs://jd-contents/ChooChoo/ChooChoo.ogg": "/private/map/ChooChoo/ChooChoo.ogg/6100227ecf1461403c925fbfadcab699.ogg",
+    "jmcs://jd-contents/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_LOW.vp8.webm/7fb3e82ffef5f7e6514c5bcbcd6337e5.webm",
+    "jmcs://jd-contents/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_MID.vp8.webm/c668692695ba4556baa88ea3079547eb.webm",
+    "jmcs://jd-contents/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_HIGH.vp8.webm/9822ddbb8e42cd80f906ed281e72d907.webm",
+    "jmcs://jd-contents/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_ULTRA.vp8.webm/865e93aaedb46d42b7dd655521e91721.webm",
+    "jmcs://jd-contents/ChooChoo/ChooChoo_ULTRA.hd.webm": "/private/map/ChooChoo/ChooChoo_ULTRA.hd.webm/e4a1d97b3ed037fdf565c19a0c084358.webm",
+    "jmcs://jd-contents/ChooChoo/ChooChoo_HIGH.hd.webm": "/private/map/ChooChoo/ChooChoo_HIGH.hd.webm/510db3cd3113dc798ea6a5194e239670.webm",
+    "jmcs://jd-contents/ChooChoo/ChooChoo_MID.hd.webm": "/private/map/ChooChoo/ChooChoo_MID.hd.webm/ec04d5772c7e40d3cb45d8c4ba685e44.webm",
+    "jmcs://jd-contents/ChooChoo/ChooChoo_LOW.hd.webm": "/private/map/ChooChoo/ChooChoo_LOW.hd.webm/5352254dd4cc63a14e7b06862a593c07.webm"
+  },
+  "mapLength": 267.32698958333333,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25043,
+        50084,
+        75125,
+        100166,
+        125209,
+        150250,
+        175292,
+        200333,
+        225375,
+        250416,
+        275458,
+        300501,
+        325543,
+        350582,
+        375624,
+        400667,
+        425708,
+        450750,
+        475791,
+        500833,
+        525874,
+        550916,
+        575959,
+        601000,
+        626040,
+        651083,
+        676125,
+        701166,
+        726208,
+        751249,
+        776291,
+        801332,
+        826374,
+        851417,
+        876457,
+        901498,
+        926541,
+        951583,
+        976624,
+        1001666,
+        1026707,
+        1051749,
+        1076790,
+        1101833,
+        1126875,
+        1151914,
+        1176956,
+        1201999,
+        1227041,
+        1252082,
+        1277124,
+        1302165,
+        1327207,
+        1352248,
+        1377291,
+        1402333,
+        1427372
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 513,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/ChooChoo/ChooChoo_AudioPreview.ogg",
+    "path": ""
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"645949\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"800-1290\">\n\t\t\t\t\t<Initialization range=\"0-800\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1474552\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"800-1290\">\n\t\t\t\t\t<Initialization range=\"0-800\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"1993580\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"800-1290\">\n\t\t\t\t\t<Initialization range=\"0-800\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"1994446\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ChooChoo/ChooChoo_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"800-1290\">\n\t\t\t\t\t<Initialization range=\"0-800\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/ChooChoo/pc/ChooChoo_Cover_Online.tga.ckd/36c05c7b29a44a2d6f7811d535cf2c47.ckd",
+      "coverImageUrl": "/public/map/ChooChoo/pc/ChooChoo_Cover_Generic.tga.ckd/e9bb456dd7a8545ddaa8cc54670c71c8.ckd",
+      "expandCoachImageUrl": "/public/map/ChooChoo/pc/ChooChoo_Cover_AlbumCoach.tga.ckd/42468992f6be385ededb50ab4c5cd69a.ckd",
+      "map_bkgImageUrl": "/public/map/ChooChoo/pc/ChooChoo_map_bkg.tga.ckd/6497f901110f3a0e67691bf31f860e61.ckd",
+      "banner_bkgImageUrl": "/public/map/ChooChoo/pc/ChooChoo_banner_bkg.tga.ckd/0947bf20c8d16727fa009dd80c5d8065.ckd",
+      "coach1ImageUrl": "/public/map/ChooChoo/pc/ChooChoo_Coach_1.tga.ckd/0b02d151f010a49250498f22f56e0cd8.ckd",
+      "coach2ImageUrl": "/public/map/ChooChoo/pc/ChooChoo_Coach_2.tga.ckd/095a2dfe7a9a872a9469baea0239c219.ckd",
+      "phoneCoverImageUrl": "/public/map/ChooChoo/ChooChoo_Cover_Phone.jpg/5cf4ca1f27630ede3d899380fb0b6ca5.jpg",
+      "phoneCoach1ImageUrl": "/public/map/ChooChoo/ChooChoo_Coach_1_Phone.png/a5309159fd084ff2afde0c781ce9dc0d.png",
+      "phoneCoach2ImageUrl": "/public/map/ChooChoo/ChooChoo_Coach_2_Phone.png/595bdabd53afb8381c33450609a90651.png",
+      "cover640ImageUrl": "/public/map/ChooChoo/ChooChoo_Cover_640.png/69c3a0e79727035cf3ace8c373957e4c.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/ChooChoo/orbis/ChooChoo_Cover_Online.tga.ckd/36c05c7b29a44a2d6f7811d535cf2c47.ckd",
+      "coverImageUrl": "/public/map/ChooChoo/orbis/ChooChoo_Cover_Generic.tga.ckd/e9bb456dd7a8545ddaa8cc54670c71c8.ckd",
+      "expandCoachImageUrl": "/public/map/ChooChoo/orbis/ChooChoo_Cover_AlbumCoach.tga.ckd/cf63b31cb4a5637f2a7885095ff42907.ckd",
+      "map_bkgImageUrl": "/public/map/ChooChoo/orbis/ChooChoo_map_bkg.tga.ckd/6497f901110f3a0e67691bf31f860e61.ckd",
+      "banner_bkgImageUrl": "/public/map/ChooChoo/orbis/ChooChoo_banner_bkg.tga.ckd/0947bf20c8d16727fa009dd80c5d8065.ckd",
+      "coach1ImageUrl": "/public/map/ChooChoo/orbis/ChooChoo_Coach_1.tga.ckd/515dabc87d26e4c51627d0f87baa55be.ckd",
+      "coach2ImageUrl": "/public/map/ChooChoo/orbis/ChooChoo_Coach_2.tga.ckd/1c3a0997bb450a90a4497bf6f7b0b041.ckd",
+      "phoneCoverImageUrl": "/public/map/ChooChoo/ChooChoo_Cover_Phone.jpg/5cf4ca1f27630ede3d899380fb0b6ca5.jpg",
+      "phoneCoach1ImageUrl": "/public/map/ChooChoo/ChooChoo_Coach_1_Phone.png/a5309159fd084ff2afde0c781ce9dc0d.png",
+      "phoneCoach2ImageUrl": "/public/map/ChooChoo/ChooChoo_Coach_2_Phone.png/595bdabd53afb8381c33450609a90651.png",
+      "cover640ImageUrl": "/public/map/ChooChoo/ChooChoo_Cover_640.png/69c3a0e79727035cf3ace8c373957e4c.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/ChooChoo/nx/ChooChoo_Cover_Online.tga.ckd/1d4b5a3fc68a77c9e656485de965cc3f.ckd",
+      "coverImageUrl": "/public/map/ChooChoo/nx/ChooChoo_Cover_Generic.tga.ckd/a04165d61493f625d99af3d3bd629f3e.ckd",
+      "expandCoachImageUrl": "/public/map/ChooChoo/nx/ChooChoo_Cover_AlbumCoach.tga.ckd/e1e999b85ba59203e635a61de83a597b.ckd",
+      "map_bkgImageUrl": "/public/map/ChooChoo/nx/ChooChoo_map_bkg.tga.ckd/a05d0b9c0ac6a201ec6d4b9c07f8829e.ckd",
+      "banner_bkgImageUrl": "/public/map/ChooChoo/nx/ChooChoo_banner_bkg.tga.ckd/b850aecfa9021ada593fa71df97b33fe.ckd",
+      "coach1ImageUrl": "/public/map/ChooChoo/nx/ChooChoo_Coach_1.tga.ckd/e41078f65287c317357870bcbc22d392.ckd",
+      "coach2ImageUrl": "/public/map/ChooChoo/nx/ChooChoo_Coach_2.tga.ckd/20c916b4c3830d4e630eba3cd2f0e134.ckd",
+      "phoneCoverImageUrl": "/public/map/ChooChoo/ChooChoo_Cover_Phone.jpg/5cf4ca1f27630ede3d899380fb0b6ca5.jpg",
+      "phoneCoach1ImageUrl": "/public/map/ChooChoo/ChooChoo_Coach_1_Phone.png/a5309159fd084ff2afde0c781ce9dc0d.png",
+      "phoneCoach2ImageUrl": "/public/map/ChooChoo/ChooChoo_Coach_2_Phone.png/595bdabd53afb8381c33450609a90651.png",
+      "cover640ImageUrl": "/public/map/ChooChoo/ChooChoo_Cover_640.png/69c3a0e79727035cf3ace8c373957e4c.png"
+    }
+  },
+  "packages": {
+    "pc": {
+      "md5": "6704ee2e050bcae25be8f3291b6dba7a",
+      "storageType": 0,
+      "url": "/public/map/ChooChoo/pc/ChooChoo_MAIN_SCENE_PC.zip/6704ee2e050bcae25be8f3291b6dba7a.zip"
+    },
+    "ps4": {
+      "md5": "a2a899ea432786bc0534d193e12b1e5a",
+      "storageType": 0,
+      "url": "/public/map/ChooChoo/orbis/ChooChoo_MAIN_SCENE_ORBIS.zip/a2a899ea432786bc0534d193e12b1e5a.zip"
+    },
+    "nx": {
+      "md5": "ad3b18635d681c0736d5e71c36934c50",
+      "storageType": 0,
+      "url": "/public/map/ChooChoo/nx/ChooChoo_MAIN_SCENE_NX.zip/ad3b18635d681c0736d5e71c36934c50.zip"
+    }
+  },
+  "data": {
+    "mapName": "ChooChoo",
+    "title": "Choo Choo TRAIN",
+    "originalJDVersion": 1000,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong",
+      "subscribedSong",
+      "Duet",
+      "JustDanceAsia",
+      "jdwii"
+    ],
+    "artist": "EXILE",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#76f3e5",
+    "songColor2A": "#82cffb",
+    "songColor1B": "#070561",
+    "songColor2B": "#220a79",
+    "lyricsColor": "#4BD8C0",
+    "LocaleID": 4294967295
+  }
+}

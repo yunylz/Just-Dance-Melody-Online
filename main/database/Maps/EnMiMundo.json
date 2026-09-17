@@ -1,0 +1,173 @@
+{
+  "urls": {
+    "jmcs://jd-contents/EnMiMundo/EnMiMundo.ogg": "/private/map/EnMiMundo/EnMiMundo.ogg/b09f6d929c7337e29731c02eeb11793f.ogg",
+    "jmcs://jd-contents/EnMiMundo/EnMiMundo_AudioPreview.ogg": "/public/map/EnMiMundo/EnMiMundo_AudioPreview.ogg/29b1a8be4a0347067d358a8e27e91b27.ogg",
+    "jmcs://jd-contents/EnMiMundo/EnMiMundo_HIGH.hd.webm": "/private/map/EnMiMundo/EnMiMundo_HIGH.hd.webm/b3b98b12ff2c52cee7fdd7140d10434e.webm",
+    "jmcs://jd-contents/EnMiMundo/EnMiMundo_LOW.hd.webm": "/private/map/EnMiMundo/EnMiMundo_LOW.hd.webm/066c3f7ba67cd18000944d6e63fd11b4.webm",
+    "jmcs://jd-contents/EnMiMundo/EnMiMundo_MID.hd.webm": "/private/map/EnMiMundo/EnMiMundo_MID.hd.webm/08ea97df6bfdc3ce1383d9a2a75664b4.webm",
+    "jmcs://jd-contents/EnMiMundo/EnMiMundo_ULTRA.hd.webm": "/private/map/EnMiMundo/EnMiMundo_ULTRA.hd.webm/9444d4979b5de4df98e3bc4804b05b07.webm",
+    "jmcs://jd-contents/EnMiMundo/EnMiMundo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/EnMiMundo/EnMiMundo_MapPreviewNoSoundCrop_LOW.vp8.webm/ec041b7156215da1ebe504885b698f17.webm",
+    "jmcs://jd-contents/EnMiMundo/EnMiMundo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/EnMiMundo/EnMiMundo_MapPreviewNoSoundCrop_MID.vp8.webm/27c583d054a8c18a2138d126c1d89d50.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        115200,
+        135648,
+        157680,
+        180192,
+        202752,
+        225264,
+        247776,
+        270336,
+        292848,
+        315360,
+        337920,
+        360432,
+        382944,
+        405504,
+        428016,
+        456192,
+        483840,
+        505824,
+        528864,
+        551424,
+        573936,
+        596448,
+        619008,
+        641520,
+        664032,
+        686592,
+        709104,
+        731616,
+        754176,
+        776688,
+        799200,
+        821232,
+        843744,
+        866304,
+        888816,
+        911328,
+        933888,
+        956400,
+        978912,
+        1001472,
+        1023984,
+        1046496,
+        1069056,
+        1091568,
+        1113600,
+        1136640,
+        1159152,
+        1181664,
+        1204224,
+        1226208,
+        1249248,
+        1271280,
+        1293792,
+        1316352,
+        1339392,
+        1361376,
+        1383936,
+        1406448,
+        1428960,
+        1451520,
+        1474032
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 350,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/EnMiMundo/EnMiMundo_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30.03S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30.03S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495522\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/EnMiMundo/EnMiMundo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"560-1050\">\n\t\t\t\t\t<Initialization range=\"0-560\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1699331\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/EnMiMundo/EnMiMundo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"561-1051\">\n\t\t\t\t\t<Initialization range=\"0-561\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "03573a170b1e9524e3a13fd5818dda32",
+      "storageType": 0,
+      "url": "/public/map/EnMiMundo/nx/EnMiMundo_MAIN_SCENE_NX.zip/03573a170b1e9524e3a13fd5818dda32.zip"
+    },
+    "pc": {
+      "md5": "ee7753cc1b8609189a4372e50a1f0812",
+      "storageType": 0,
+      "url": "/public/map/EnMiMundo/pc/EnMiMundo_MAIN_SCENE_PC.zip/ee7753cc1b8609189a4372e50a1f0812.zip"
+    },
+    "ps4": {
+      "md5": "470c76290abfaa95caba16fecdb37517",
+      "storageType": 0,
+      "url": "/public/map/EnMiMundo/orbis/EnMiMundo_MAIN_SCENE_ORBIS.zip/470c76290abfaa95caba16fecdb37517.zip"
+    }
+  },
+  "data": {
+    "mapName": "EnMiMundo",
+    "title": "En Mi Mundo",
+    "originalJDVersion": 3000,
+    "tags": [
+      "subscribedSong"
+    ],
+    "artist": "Martina Stoessel",
+    "credits": "Dylan and ZarkoTG",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#a34cf9",
+    "songColor2A": "#ffdff7",
+    "songColor1B": "#27133b",
+    "songColor2B": "#7d0065",
+    "lyricsColor": "#8a2dcc",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/EnMiMundo/nx/EnMiMundo_banner_bkg.tga.ckd/92a0a9626ac2767de624df445111c186.ckd",
+      "map_bkgImageUrl": "/public/map/EnMiMundo/nx/EnMiMundo_map_bkg.tga.ckd/5a809c8f015b45947b1712c479eecc0e.ckd",
+      "expandCoachImageUrl": "/public/map/EnMiMundo/nx/EnMiMundo_Cover_AlbumCoach.tga.ckd/e21a58c89f03ea2636bf5fdbe0047c3d.ckd",
+      "cover_smallImageUrl": "/public/map/EnMiMundo/nx/EnMiMundo_Cover_Online.tga.ckd/d3ef0e21026866a215bc5d678b62873f.ckd",
+      "coverImageUrl": "/public/map/EnMiMundo/nx/EnMiMundo_Cover_Generic.tga.ckd/bdb3c8ddce03565ff54dd74c265f0441.ckd",
+      "coach1ImageUrl": "/public/map/EnMiMundo/nx/EnMiMundo_Coach_1.tga.ckd/1eb7f622f8504ad8a84fe0429cfd141f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/EnMiMundo/pc/EnMiMundo_banner_bkg.tga.ckd/8ecf70e8d190223cdd44d4fb5020972e.ckd",
+      "map_bkgImageUrl": "/public/map/EnMiMundo/pc/EnMiMundo_map_bkg.tga.ckd/9e244b58bfc49b7e9c742729cff204ed.ckd",
+      "expandCoachImageUrl": "/public/map/EnMiMundo/pc/EnMiMundo_Cover_AlbumCoach.tga.ckd/d580a3c63d22ad7186f499a7f48ef317.ckd",
+      "cover_smallImageUrl": "/public/map/EnMiMundo/pc/EnMiMundo_Cover_Online.tga.ckd/710eff47a7d59de55fc114e18e0de556.ckd",
+      "coverImageUrl": "/public/map/EnMiMundo/pc/EnMiMundo_Cover_Generic.tga.ckd/ffe98c30782c27ca3e399daa08161b12.ckd",
+      "coach1ImageUrl": "/public/map/EnMiMundo/pc/EnMiMundo_Coach_1.tga.ckd/acf33f9583abed3c06eb90e7331f3d9f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/EnMiMundo/orbis/EnMiMundo_banner_bkg.tga.ckd/8ecf70e8d190223cdd44d4fb5020972e.ckd",
+      "map_bkgImageUrl": "/public/map/EnMiMundo/orbis/EnMiMundo_map_bkg.tga.ckd/9e244b58bfc49b7e9c742729cff204ed.ckd",
+      "expandCoachImageUrl": "/public/map/EnMiMundo/orbis/EnMiMundo_Cover_AlbumCoach.tga.ckd/d580a3c63d22ad7186f499a7f48ef317.ckd",
+      "cover_smallImageUrl": "/public/map/EnMiMundo/orbis/EnMiMundo_Cover_Online.tga.ckd/710eff47a7d59de55fc114e18e0de556.ckd",
+      "coverImageUrl": "/public/map/EnMiMundo/orbis/EnMiMundo_Cover_Generic.tga.ckd/ffe98c30782c27ca3e399daa08161b12.ckd",
+      "coach1ImageUrl": "/public/map/EnMiMundo/orbis/EnMiMundo_Coach_1.tga.ckd/acf33f9583abed3c06eb90e7331f3d9f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/EnMiMundo/EnMiMundo_Coach_1_Phone.png/9631b86c516506643d2a074a8679639a.png",
+    "phoneCoverImageUrl": "/public/map/EnMiMundo/EnMiMundo_Cover_Phone.jpg/5b6e5aae48ca8937f0b501d77995f8d1.jpg",
+    "cover640ImageUrl": "/public/map/EnMiMundo/EnMiMundo_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 165.713
+}

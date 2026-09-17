@@ -1,0 +1,167 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WizardKids/WizardKids.ogg": "/private/map/WizardKids/WizardKids.ogg/b1e258f323ae192d8db6c5a8004e0fd8.ogg",
+    "jmcs://jd-contents/WizardKids/WizardKids_AudioPreview.ogg": "/public/map/WizardKids/WizardKids_AudioPreview.ogg/afeb71d69ce401bf0c9e0ef6fe5a70d8.ogg",
+    "jmcs://jd-contents/WizardKids/WizardKids_HIGH.hd.webm": "/private/map/WizardKids/WizardKids_HIGH.hd.webm/014a549ea8b01250ab5e1fbf7fec2d82.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_LOW.hd.webm": "/private/map/WizardKids/WizardKids_LOW.hd.webm/17036242d767992ef48d4c6ffb3af7c5.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_MID.hd.webm": "/private/map/WizardKids/WizardKids_MID.hd.webm/09040ae497e0522e3bcd7c9c9701c749.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_ULTRA.hd.webm": "/private/map/WizardKids/WizardKids_ULTRA.hd.webm/c7531fe6b6a127e4ea7ff972c33d55e4.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WizardKids/WizardKids_MapPreviewNoSoundCrop_LOW.vp8.webm/b4e742af12b5f6ae74dda41251790658.webm",
+    "jmcs://jd-contents/WizardKids/WizardKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WizardKids/WizardKids_MapPreviewNoSoundCrop_MID.vp8.webm/912acac4fae8478de77c67d66c6c4317.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27407,
+        54863,
+        82271,
+        109727,
+        137135,
+        164591,
+        191999,
+        219407,
+        246862,
+        274270,
+        301726,
+        329134,
+        356590,
+        383998,
+        411406,
+        438861,
+        466269,
+        493725,
+        521133,
+        548589,
+        575997,
+        603405,
+        630861,
+        658269,
+        685724,
+        713132,
+        740588,
+        767996,
+        795404,
+        822860,
+        850268,
+        877723,
+        905131,
+        932587,
+        959995,
+        987403,
+        1014859,
+        1042267,
+        1069723,
+        1097131,
+        1124586,
+        1151994,
+        1179402,
+        1206858,
+        1234266,
+        1261722,
+        1289130,
+        1316585,
+        1343993,
+        1371401,
+        1398857,
+        1426265,
+        1453721,
+        1481129,
+        1508585
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 161,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WizardKids/WizardKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "ee4d0f0615e9010d9aff7c73a6c16160",
+      "storageType": 0,
+      "url": "/public/map/WizardKids/nx/WizardKids_MAIN_SCENE_NX.zip/ee4d0f0615e9010d9aff7c73a6c16160.zip"
+    },
+    "pc": {
+      "md5": "79067e4a8e6572fb9e97d5d2d9cfb8ed",
+      "storageType": 0,
+      "url": "/public/map/WizardKids/pc/WizardKids_MAIN_SCENE_PC.zip/79067e4a8e6572fb9e97d5d2d9cfb8ed.zip"
+    },
+    "ps4": {
+      "md5": "b2460a28fe8b7b3282e47b8cf6f11154",
+      "storageType": 0,
+      "url": "/public/map/WizardKids/orbis/WizardKids_MAIN_SCENE_ORBIS.zip/b2460a28fe8b7b3282e47b8cf6f11154.zip"
+    }
+  },
+  "data": {
+    "mapName": "WizardKids",
+    "title": "Magical Morning",
+    "originalJDVersion": 2020,
+    "tags": [
+      "main",
+      "kidsonly"
+    ],
+    "artist": "The Just Dance Orchestra",
+    "credits": "Composed by Steve Ouimette. Published by Ubisoft Music. Performed by Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#6c54da",
+    "songColor2A": "#6500b3",
+    "songColor1B": "#300741",
+    "songColor2B": "#6c3cc0",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WizardKids/nx/WizardKids_banner_bkg.tga.ckd/b8c788b3721ced321d443c55b328cf69.ckd",
+      "map_bkgImageUrl": "/public/map/WizardKids/nx/WizardKids_map_bkg.tga.ckd/0c44ade765f480c987a38825ffe54da4.ckd",
+      "expandCoachImageUrl": "/public/map/WizardKids/nx/WizardKids_Cover_AlbumCoach.tga.ckd/4145fc75acafa703f8f29175e1a49e61.ckd",
+      "cover_smallImageUrl": "/public/map/WizardKids/nx/WizardKids_Cover_Online.tga.ckd/3679bdb4b965bb4044e1ec928109a4e7.ckd",
+      "coverImageUrl": "/public/map/WizardKids/nx/WizardKids_Cover_Generic.tga.ckd/5f8dbf576a7b4cce05f34e6b7720c8dd.ckd",
+      "coach1ImageUrl": "/public/map/WizardKids/nx/WizardKids_Coach_1.tga.ckd/99e7f75e52868480c8af0b28ae661949.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WizardKids/pc/WizardKids_banner_bkg.tga.ckd/b2884818c09b1551f4d52adabbdf3fb3.ckd",
+      "map_bkgImageUrl": "/public/map/WizardKids/pc/WizardKids_map_bkg.tga.ckd/2d4a0c19e222166d9fa97092744e489f.ckd",
+      "expandCoachImageUrl": "/public/map/WizardKids/pc/WizardKids_Cover_AlbumCoach.tga.ckd/af43c8da0e3dc85a2eeee1a56ac20021.ckd",
+      "cover_smallImageUrl": "/public/map/WizardKids/pc/WizardKids_Cover_Online.tga.ckd/135ab09b2d9edf915f282f8abb025712.ckd",
+      "coverImageUrl": "/public/map/WizardKids/pc/WizardKids_Cover_Generic.tga.ckd/cea0886ada317b78d420bab62bf2785f.ckd",
+      "coach1ImageUrl": "/public/map/WizardKids/pc/WizardKids_Coach_1.tga.ckd/ecf293bf540dbe720c3f954d142fa6e6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WizardKids/orbis/WizardKids_banner_bkg.tga.ckd/b2884818c09b1551f4d52adabbdf3fb3.ckd",
+      "map_bkgImageUrl": "/public/map/WizardKids/orbis/WizardKids_map_bkg.tga.ckd/2d4a0c19e222166d9fa97092744e489f.ckd",
+      "expandCoachImageUrl": "/public/map/WizardKids/orbis/WizardKids_Cover_AlbumCoach.tga.ckd/af43c8da0e3dc85a2eeee1a56ac20021.ckd",
+      "cover_smallImageUrl": "/public/map/WizardKids/orbis/WizardKids_Cover_Online.tga.ckd/135ab09b2d9edf915f282f8abb025712.ckd",
+      "coverImageUrl": "/public/map/WizardKids/orbis/WizardKids_Cover_Generic.tga.ckd/cea0886ada317b78d420bab62bf2785f.ckd",
+      "coach1ImageUrl": "/public/map/WizardKids/orbis/WizardKids_Coach_1.tga.ckd/ecf293bf540dbe720c3f954d142fa6e6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WizardKids/WizardKids_Coach_1_Phone.png/9e7b2aa21b067e03959dca19a0306a0a.png",
+    "phoneCoverImageUrl": "/public/map/WizardKids/WizardKids_Cover_Phone.jpg/0205f9e4dd2924d0f6c9bfefe4e868d9.jpg",
+    "cover640ImageUrl": "/public/map/WizardKids/WizardKids_Cover_640.png/17c3257d26e8c2b1af25bab98594b213.png"
+  },
+  "mapLength": 94.043583
+}

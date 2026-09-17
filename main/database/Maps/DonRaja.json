@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DonRaja/DonRaja.ogg": "/private/map/DonRaja/DonRaja.ogg/6645c75a679201005b2bab423017d132.ogg",
+    "jmcs://jd-contents/DonRaja/DonRaja_AudioPreview.ogg": "/public/map/DonRaja/DonRaja_AudioPreview.ogg/a186575b8c3b6858779eecebcb306595.ogg",
+    "jmcs://jd-contents/DonRaja/DonRaja_HIGH.hd.webm": "/private/map/DonRaja/DonRaja_HIGH.hd.webm/e77b31b68cd2741ecb327dd4e1781c00.webm",
+    "jmcs://jd-contents/DonRaja/DonRaja_LOW.hd.webm": "/private/map/DonRaja/DonRaja_LOW.hd.webm/9c8527131027ba5647b0d66909443804.webm",
+    "jmcs://jd-contents/DonRaja/DonRaja_MID.hd.webm": "/private/map/DonRaja/DonRaja_MID.hd.webm/7b80419152f89193d2124ddb1a8a3a2f.webm",
+    "jmcs://jd-contents/DonRaja/DonRaja_ULTRA.hd.webm": "/private/map/DonRaja/DonRaja_ULTRA.hd.webm/64ea35b0c052c4d56e14133c407bb165.webm",
+    "jmcs://jd-contents/DonRaja/DonRaja_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DonRaja/DonRaja_MapPreviewNoSoundCrop_LOW.vp8.webm/74802cd574315acbdd29ef8081af8207.webm",
+    "jmcs://jd-contents/DonRaja/DonRaja_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DonRaja/DonRaja_MapPreviewNoSoundCrop_MID.vp8.webm/f4805c7f37162cfefa8747e38ceedfcc.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27429,
+        54857,
+        82286,
+        109714,
+        137143,
+        164571,
+        192000,
+        219429,
+        246857,
+        274286,
+        301714,
+        329143,
+        356571,
+        384000,
+        411429,
+        438857,
+        466286,
+        493714,
+        521143,
+        548571,
+        576000,
+        603429,
+        630857,
+        658286,
+        685714,
+        713143,
+        740571,
+        768000,
+        795429,
+        822857,
+        850286,
+        877714,
+        905143,
+        932571,
+        960000,
+        987429,
+        1014857,
+        1042286,
+        1069714,
+        1097143,
+        1124571,
+        1152000,
+        1179429,
+        1206857,
+        1234286,
+        1261714,
+        1289143,
+        1316571,
+        1344000,
+        1371429,
+        1398857,
+        1426286,
+        1453714,
+        1481143
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 312,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DonRaja/DonRaja_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"589878\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DonRaja/DonRaja_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2010866\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DonRaja/DonRaja_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "74e04c981a8e19bfb90d7bfb2db204c8",
+      "storageType": 0,
+      "url": "/public/map/DonRaja/nx/DonRaja_MAIN_SCENE_NX.zip/74e04c981a8e19bfb90d7bfb2db204c8.zip"
+    },
+    "pc": {
+      "md5": "d604dc25a72bbb02f0b3b34cb3551ed3",
+      "storageType": 0,
+      "url": "/public/map/DonRaja/pc/DonRaja_MAIN_SCENE_PC.zip/d604dc25a72bbb02f0b3b34cb3551ed3.zip"
+    },
+    "ps4": {
+      "md5": "fa1fdbd3e044556604b1e818a81c7672",
+      "storageType": 0,
+      "url": "/public/map/DonRaja/orbis/DonRaja_MAIN_SCENE_ORBIS.zip/fa1fdbd3e044556604b1e818a81c7672.zip"
+    }
+  },
+  "data": {
+    "mapName": "DonRaja",
+    "title": "Don Raja",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Su Real and DISTORT",
+    "credits": "“Don Raja” Written by Suhrid Manchanda. Published by Waxploitation Music Publishing / One Two Many Songs Ltd. Courtesy of Waxploitation Records. All rights reserved. Used with permission.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d108ba",
+    "songColor2A": "#f5cc18",
+    "songColor1B": "#070124",
+    "songColor2B": "#7a0a5a",
+    "lyricsColor": "#51c2d6",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DonRaja/nx/DonRaja_banner_bkg.tga.ckd/ee78d09f7dc0204c350e5753b52e59c2.ckd",
+      "map_bkgImageUrl": "/public/map/DonRaja/nx/DonRaja_map_bkg.tga.ckd/525dc78b376f7301b254882f5a3984fe.ckd",
+      "expandCoachImageUrl": "/public/map/DonRaja/nx/DonRaja_Cover_AlbumCoach.tga.ckd/11ee89a82eeaf3a5be6dbc5f767f6792.ckd",
+      "cover_smallImageUrl": "/public/map/DonRaja/nx/DonRaja_Cover_Online.tga.ckd/217e5b69adc175eb0af8b4f9ec0013c4.ckd",
+      "coverImageUrl": "/public/map/DonRaja/nx/DonRaja_Cover_Generic.tga.ckd/44b69ba37018a74795d5dd636d1ddbd6.ckd",
+      "coach1ImageUrl": "/public/map/DonRaja/nx/DonRaja_Coach_1.tga.ckd/0292c9d9a652f48e387b39091a9c26a0.ckd",
+      "coach2ImageUrl": "/public/map/DonRaja/nx/DonRaja_Coach_2.tga.ckd/a6288384178afeedda478fc7252ee7ca.ckd",
+      "coach3ImageUrl": "/public/map/DonRaja/nx/DonRaja_Coach_3.tga.ckd/2672a0ee3ddb238575580a17e0491367.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DonRaja/pc/DonRaja_banner_bkg.tga.ckd/6ddf28b2588b234cd1c9535627b43852.ckd",
+      "map_bkgImageUrl": "/public/map/DonRaja/pc/DonRaja_map_bkg.tga.ckd/792668b5b56701689b4b1ecef6e599ca.ckd",
+      "expandCoachImageUrl": "/public/map/DonRaja/pc/DonRaja_Cover_AlbumCoach.tga.ckd/7a9d9e16f1695e7d3e1516b51eb3d543.ckd",
+      "cover_smallImageUrl": "/public/map/DonRaja/pc/DonRaja_Cover_Online.tga.ckd/0438cd3d4680f79fdc17b5bd5ba9dc17.ckd",
+      "coverImageUrl": "/public/map/DonRaja/pc/DonRaja_Cover_Generic.tga.ckd/ea7a38d64cccbc4a4ec74af542a7d4dd.ckd",
+      "coach1ImageUrl": "/public/map/DonRaja/pc/DonRaja_Coach_1.tga.ckd/9fc00f0dd3f32e4557497869cb37098c.ckd",
+      "coach2ImageUrl": "/public/map/DonRaja/pc/DonRaja_Coach_2.tga.ckd/00f15b3f12af8a219b5d8c160895d7fa.ckd",
+      "coach3ImageUrl": "/public/map/DonRaja/pc/DonRaja_Coach_3.tga.ckd/33f8f83ab9b532055dfc920025cb5e85.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DonRaja/orbis/DonRaja_banner_bkg.tga.ckd/6ddf28b2588b234cd1c9535627b43852.ckd",
+      "map_bkgImageUrl": "/public/map/DonRaja/orbis/DonRaja_map_bkg.tga.ckd/792668b5b56701689b4b1ecef6e599ca.ckd",
+      "expandCoachImageUrl": "/public/map/DonRaja/orbis/DonRaja_Cover_AlbumCoach.tga.ckd/7a9d9e16f1695e7d3e1516b51eb3d543.ckd",
+      "cover_smallImageUrl": "/public/map/DonRaja/orbis/DonRaja_Cover_Online.tga.ckd/0438cd3d4680f79fdc17b5bd5ba9dc17.ckd",
+      "coverImageUrl": "/public/map/DonRaja/orbis/DonRaja_Cover_Generic.tga.ckd/ea7a38d64cccbc4a4ec74af542a7d4dd.ckd",
+      "coach1ImageUrl": "/public/map/DonRaja/orbis/DonRaja_Coach_1.tga.ckd/9fc00f0dd3f32e4557497869cb37098c.ckd",
+      "coach2ImageUrl": "/public/map/DonRaja/orbis/DonRaja_Coach_2.tga.ckd/00f15b3f12af8a219b5d8c160895d7fa.ckd",
+      "coach3ImageUrl": "/public/map/DonRaja/orbis/DonRaja_Coach_3.tga.ckd/33f8f83ab9b532055dfc920025cb5e85.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DonRaja/DonRaja_Coach_1_Phone.png/14cceadd88a288ec44a23fdebdd5f8cd.png",
+    "phoneCoach2ImageUrl": "/public/map/DonRaja/DonRaja_Coach_2_Phone.png/eadb6c41b0e64f36a3efc9386c386325.png",
+    "phoneCoach3ImageUrl": "/public/map/DonRaja/DonRaja_Coach_3_Phone.png/3cf706195f702493da016d11d8dce734.png",
+    "phoneCoverImageUrl": "/public/map/DonRaja/DonRaja_Cover_Phone.jpg/3394c3aa6d41c5b2c03777c3872ab147.jpg",
+    "cover640ImageUrl": "/public/map/DonRaja/DonRaja_Cover_640.png/fb2adb9806dd9805bbbfeaad5729d734.png"
+  },
+  "mapLength": 182.857104
+}

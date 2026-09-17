@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "21a50fa746b6edf66184ca01b49829b7",
+      "storageType": 0,
+      "url": "/public/map/FireOnTheDancefloor/nx/FireOnTheDancefloor_MAIN_SCENE_NX.zip/21a50fa746b6edf66184ca01b49829b7.zip"
+    },
+    "pc": {
+      "md5": "48986c711cc2610602c5b300c9d5489c",
+      "storageType": 0,
+      "url": "/public/map/FireOnTheDancefloor/pc/FireOnTheDancefloor_MAIN_SCENE_PC.zip/48986c711cc2610602c5b300c9d5489c.zip"
+    },
+    "ps4": {
+      "md5": "4211afda88c86c5c9c4e224ec2ffaca0",
+      "storageType": 0,
+      "url": "/public/map/FireOnTheDancefloor/orbis/FireOnTheDancefloor_MAIN_SCENE_ORBIS.zip/4211afda88c86c5c9c4e224ec2ffaca0.zip"
+    }
+  },
+  "data": {
+    "mapName": "FireOnTheDancefloor",
+    "title": "Fire On The Floor",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main"
+    ],
+    "artist": "Michelle Delamor",
+    "credits": "Written by Ivan Corraliza and Michelle Delamor. Published by Kobalt Music Publishing. / Michelle Delamor. Courtesy of Ubiloud / Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff2720",
+    "songColor2A": "#00ffe9",
+    "songColor1B": "#000144",
+    "songColor2B": "#070073",
+    "lyricsColor": "#fd1913",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28512,
+        57024,
+        85536,
+        114048,
+        142560,
+        171072,
+        199584,
+        228096,
+        256608,
+        285120,
+        313632,
+        342144,
+        370656,
+        399168,
+        427680,
+        456192,
+        484704,
+        513216,
+        541728,
+        570240,
+        598752,
+        627264,
+        655776,
+        684336,
+        712848,
+        741360,
+        769872,
+        798384,
+        826896,
+        855408,
+        883968,
+        912480,
+        940992,
+        969504,
+        998016,
+        1026528,
+        1055040,
+        1083552,
+        1112064,
+        1140576,
+        1169088,
+        1197600,
+        1226112,
+        1254624,
+        1283136,
+        1311648,
+        1340208,
+        1368720,
+        1397232,
+        1425744,
+        1454256,
+        1482768
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 308,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/FireOnTheDancefloor/nx/FireOnTheDancefloor_banner_bkg.tga.ckd/e13324534ded99fc40be01e0ede1e830.ckd",
+      "map_bkgImageUrl": "/public/map/FireOnTheDancefloor/nx/FireOnTheDancefloor_map_bkg.tga.ckd/10fc731028a88dc8e95df746aef42800.ckd",
+      "expandCoachImageUrl": "/public/map/FireOnTheDancefloor/nx/FireOnTheDancefloor_Cover_AlbumCoach.tga.ckd/caac2ad76b279bbb7eed5e46ccfca1fd.ckd",
+      "cover_smallImageUrl": "/public/map/FireOnTheDancefloor/nx/FireOnTheDancefloor_Cover_Online.tga.ckd/cf8fcab71ab6770970d606b789fe27c6.ckd",
+      "coverImageUrl": "/public/map/FireOnTheDancefloor/nx/FireOnTheDancefloor_Cover_Generic.tga.ckd/143de5b140c0a9e8faa3c0a39639cfa3.ckd",
+      "coach1ImageUrl": "/public/map/FireOnTheDancefloor/nx/FireOnTheDancefloor_Coach_1.tga.ckd/d54919221f7b0f01b9f20b80070f397a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/FireOnTheDancefloor/pc/FireOnTheDancefloor_banner_bkg.tga.ckd/aeea4a9341ebe54098b192b1f232e45e.ckd",
+      "map_bkgImageUrl": "/public/map/FireOnTheDancefloor/pc/FireOnTheDancefloor_map_bkg.tga.ckd/3f254eef25e6f54111bf2ff6b568fe83.ckd",
+      "expandCoachImageUrl": "/public/map/FireOnTheDancefloor/pc/FireOnTheDancefloor_Cover_AlbumCoach.tga.ckd/f7c3cf32734ef359ab7bb019482547a3.ckd",
+      "cover_smallImageUrl": "/public/map/FireOnTheDancefloor/pc/FireOnTheDancefloor_Cover_Online.tga.ckd/c51d23059aba662bea2da2972b444326.ckd",
+      "coverImageUrl": "/public/map/FireOnTheDancefloor/pc/FireOnTheDancefloor_Cover_Generic.tga.ckd/be3d8c6822d35c647b88941613fd84d7.ckd",
+      "coach1ImageUrl": "/public/map/FireOnTheDancefloor/pc/FireOnTheDancefloor_Coach_1.tga.ckd/1ad924169df75eed1e56d0a651cc9686.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/FireOnTheDancefloor/orbis/FireOnTheDancefloor_banner_bkg.tga.ckd/aeea4a9341ebe54098b192b1f232e45e.ckd",
+      "map_bkgImageUrl": "/public/map/FireOnTheDancefloor/orbis/FireOnTheDancefloor_map_bkg.tga.ckd/3f254eef25e6f54111bf2ff6b568fe83.ckd",
+      "expandCoachImageUrl": "/public/map/FireOnTheDancefloor/orbis/FireOnTheDancefloor_Cover_AlbumCoach.tga.ckd/f7c3cf32734ef359ab7bb019482547a3.ckd",
+      "cover_smallImageUrl": "/public/map/FireOnTheDancefloor/orbis/FireOnTheDancefloor_Cover_Online.tga.ckd/c51d23059aba662bea2da2972b444326.ckd",
+      "coverImageUrl": "/public/map/FireOnTheDancefloor/orbis/FireOnTheDancefloor_Cover_Generic.tga.ckd/be3d8c6822d35c647b88941613fd84d7.ckd",
+      "coach1ImageUrl": "/public/map/FireOnTheDancefloor/orbis/FireOnTheDancefloor_Coach_1.tga.ckd/1ad924169df75eed1e56d0a651cc9686.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/FireOnTheDancefloor/FireOnTheDancefloor_Coach_1_Phone.png/b2913ec0d5122401c602b98dcbae9392.png",
+    "phoneCoverImageUrl": "/public/map/FireOnTheDancefloor/FireOnTheDancefloor_Cover_Phone.jpg/9736224510d541cb28c5222a00799bf6.jpg",
+    "cover640ImageUrl": "/public/map/FireOnTheDancefloor/FireOnTheDancefloor_Cover_640.png/a2df896f049036e2e3172b5f1a493042.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor.ogg": "/private/map/FireOnTheDancefloor/FireOnTheDancefloor.ogg/77e559fe460ecc81559050cdfaf9e970.ogg",
+    "jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_AudioPreview.ogg": "/public/map/FireOnTheDancefloor/FireOnTheDancefloor_AudioPreview.ogg/7006208437314189e98fc87d3711a4c8.ogg",
+    "jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/FireOnTheDancefloor/FireOnTheDancefloor_MapPreviewNoSoundCrop_LOW.vp8.webm/041224e18188ffc1ee933c8cc01ee47b.webm",
+    "jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_HIGH.webm": "/private/map/FireOnTheDancefloor/FireOnTheDancefloor_HIGH.webm/666ddf71c9659e6561f152591e286e02.webm",
+    "jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_LOW.webm": "/private/map/FireOnTheDancefloor/FireOnTheDancefloor_LOW.webm/8da22fd96b792ac019bb30dbc5c5a616.webm",
+    "jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_MID.webm": "/private/map/FireOnTheDancefloor/FireOnTheDancefloor_MID.webm/196f9ca251b38a25bfafdbd6a5ae7039.webm",
+    "jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_ULTRA.hd.webm": "/private/map/FireOnTheDancefloor/FireOnTheDancefloor_ULTRA.hd.webm/0a964c33b55d345fb435072961fb398c.webm",
+    "jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_ULTRA.webm": "/private/map/FireOnTheDancefloor/FireOnTheDancefloor_ULTRA.webm/0bd9421ff64998f370c1a9dfeca53974.webm",
+    "jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/FireOnTheDancefloor/FireOnTheDancefloor_MapPreviewNoSoundCrop_MID.vp8.webm/c046e8fa46058cf49b9e384acaad238b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497305\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"643-1132\">\n\t\t\t\t\t<Initialization range=\"0-643\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482290\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"644-1134\">\n\t\t\t\t\t<Initialization range=\"0-644\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 183.558021
+}

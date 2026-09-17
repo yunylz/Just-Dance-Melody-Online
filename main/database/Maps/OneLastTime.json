@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e8c705350a73c9a956b073c6139593cd",
+      "storageType": 0,
+      "url": "/public/map/OneLastTime/nx/OneLastTime_MAIN_SCENE_NX.zip/e8c705350a73c9a956b073c6139593cd.zip"
+    },
+    "pc": {
+      "md5": "7367cbe51f0fb33c482af6e102b0376b",
+      "storageType": 0,
+      "url": "/public/map/OneLastTime/pc/OneLastTime_MAIN_SCENE_PC.zip/7367cbe51f0fb33c482af6e102b0376b.zip"
+    },
+    "ps4": {
+      "md5": "cb0f256a13fe5b138118e857a0ecacb6",
+      "storageType": 0,
+      "url": "/public/map/OneLastTime/orbis/OneLastTime_MAIN_SCENE_ORBIS.zip/cb0f256a13fe5b138118e857a0ecacb6.zip"
+    }
+  },
+  "data": {
+    "mapName": "OneLastTime",
+    "title": "One Last Time",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Ariana Grande",
+    "credits": "Written by Carl Anthony Falk, David Guetta, Savan Harish Kotecha, Giorgio Tuinfort, Rami Yacoub. Published by Anthem 2101 Songs, Anthem Team 2101 Songs. Administered by Anthem Entertainment Group, LP \\/ MXM, Kobalt Music Catalogues Limited and What A Publishing Limited. Administered by Kobalt Songs Music Publishing \\/ BMG Rights Management Canada A obo BMG Gold Songs \\/ Sony ATV Songs LLC. All rights reserved. Used with permission. Courtesy of Republic Records under license from Universal Music Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f6cc9b",
+    "songColor2A": "#f2a8ea",
+    "songColor1B": "#e95abf",
+    "songColor2B": "#8f56ca",
+    "lyricsColor": "#e22796",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253440,
+        276480,
+        299520,
+        322560,
+        345600,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506880,
+        529920,
+        552960,
+        576000,
+        599040,
+        622080,
+        645120,
+        668160,
+        691200,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852480,
+        875520,
+        898560,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013760,
+        1036800,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198080,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382400,
+        1405440,
+        1428480,
+        1451520,
+        1474560
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -20,
+      "endBeat": 411,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/OneLastTime/OneLastTime_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/OneLastTime/nx/OneLastTime_banner_bkg.tga.ckd/701b0564d13cdb98c4ab4ea91a543e90.ckd",
+      "map_bkgImageUrl": "/public/map/OneLastTime/nx/OneLastTime_map_bkg.tga.ckd/e23afc475f270a0bacafacf83a009004.ckd",
+      "expandCoachImageUrl": "/public/map/OneLastTime/nx/OneLastTime_Cover_AlbumCoach.tga.ckd/1732826144279f849cb9384f27b654b2.ckd",
+      "cover_smallImageUrl": "/public/map/OneLastTime/nx/OneLastTime_Cover_Online.tga.ckd/926381a3ad2fb118ee1459d8a277cd06.ckd",
+      "coverImageUrl": "/public/map/OneLastTime/nx/OneLastTime_Cover_Generic.tga.ckd/585af39956c8d1a5c502fc913ebb1549.ckd",
+      "coach1ImageUrl": "/public/map/OneLastTime/nx/OneLastTime_Coach_1.tga.ckd/76d9df2067f50a09123f2c1bf530b2f6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/OneLastTime/pc/OneLastTime_banner_bkg.tga.ckd/c34b2dc50b3cb83732d36d1c2f200c74.ckd",
+      "map_bkgImageUrl": "/public/map/OneLastTime/pc/OneLastTime_map_bkg.tga.ckd/6a6feac5fa13cc118c7f52985411c61a.ckd",
+      "expandCoachImageUrl": "/public/map/OneLastTime/pc/OneLastTime_Cover_AlbumCoach.tga.ckd/6f58b16ad6d9f059c2c3fa7fed584cd4.ckd",
+      "cover_smallImageUrl": "/public/map/OneLastTime/pc/OneLastTime_Cover_Online.tga.ckd/da02536c5fb75cb18d818609ca6b1a13.ckd",
+      "coverImageUrl": "/public/map/OneLastTime/pc/OneLastTime_Cover_Generic.tga.ckd/39253bbea48e89f44389897741c3bb36.ckd",
+      "coach1ImageUrl": "/public/map/OneLastTime/pc/OneLastTime_Coach_1.tga.ckd/a34e69fc3ef9faf5679477ec24bd6103.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/OneLastTime/orbis/OneLastTime_banner_bkg.tga.ckd/c34b2dc50b3cb83732d36d1c2f200c74.ckd",
+      "map_bkgImageUrl": "/public/map/OneLastTime/orbis/OneLastTime_map_bkg.tga.ckd/6a6feac5fa13cc118c7f52985411c61a.ckd",
+      "expandCoachImageUrl": "/public/map/OneLastTime/orbis/OneLastTime_Cover_AlbumCoach.tga.ckd/6f58b16ad6d9f059c2c3fa7fed584cd4.ckd",
+      "cover_smallImageUrl": "/public/map/OneLastTime/orbis/OneLastTime_Cover_Online.tga.ckd/da02536c5fb75cb18d818609ca6b1a13.ckd",
+      "coverImageUrl": "/public/map/OneLastTime/orbis/OneLastTime_Cover_Generic.tga.ckd/39253bbea48e89f44389897741c3bb36.ckd",
+      "coach1ImageUrl": "/public/map/OneLastTime/orbis/OneLastTime_Coach_1.tga.ckd/a34e69fc3ef9faf5679477ec24bd6103.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/OneLastTime/OneLastTime_Coach_1_Phone.png/35b493d281211200bb192e2b4fbd568f.png",
+    "phoneCoverImageUrl": "/public/map/OneLastTime/OneLastTime_Cover_Phone.jpg/61e42a0859db320d6744fb9564b790db.jpg",
+    "cover640ImageUrl": "/public/map/OneLastTime/OneLastTime_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/OneLastTime/OneLastTime.ogg": "/private/map/OneLastTime/OneLastTime.ogg/0a0d7cbbaab7b33855aab861599ce440.ogg",
+    "jmcs://jd-contents/OneLastTime/OneLastTime_AudioPreview.ogg": "/public/map/OneLastTime/OneLastTime_AudioPreview.ogg/55bbbabed770ef9a31b4aa29ff53f23b.ogg",
+    "jmcs://jd-contents/OneLastTime/OneLastTime_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/OneLastTime/OneLastTime_MapPreviewNoSoundCrop_LOW.vp8.webm/45d28e70eef5c8d252ffc5d9f3f2f64d.webm",
+    "jmcs://jd-contents/OneLastTime/OneLastTime_HIGH.webm": "/private/map/OneLastTime/OneLastTime_HIGH.webm/57b0ae6c691a5342fdfa6e169710af2a.webm",
+    "jmcs://jd-contents/OneLastTime/OneLastTime_LOW.webm": "/private/map/OneLastTime/OneLastTime_LOW.webm/4179714a647c940ed91887f3598ce6db.webm",
+    "jmcs://jd-contents/OneLastTime/OneLastTime_MID.webm": "/private/map/OneLastTime/OneLastTime_MID.webm/5438057acf66b34ba593010b20b9f73c.webm",
+    "jmcs://jd-contents/OneLastTime/OneLastTime_ULTRA.hd.webm": "/private/map/OneLastTime/OneLastTime_ULTRA.hd.webm/e40b906f6efc7612bfd9438187d9966d.webm",
+    "jmcs://jd-contents/OneLastTime/OneLastTime_ULTRA.webm": "/private/map/OneLastTime/OneLastTime_ULTRA.webm/36942700b334f2d29aed44caca5fb79e.webm",
+    "jmcs://jd-contents/OneLastTime/OneLastTime_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/OneLastTime/OneLastTime_MapPreviewNoSoundCrop_MID.vp8.webm/580be90ac07a6106e4fee6fc21b850cf.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"517564\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneLastTime/OneLastTime_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"663-1152\">\n\t\t\t\t\t<Initialization range=\"0-663\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1510658\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneLastTime/OneLastTime_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"664-1154\">\n\t\t\t\t\t<Initialization range=\"0-664\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 206.886458
+}

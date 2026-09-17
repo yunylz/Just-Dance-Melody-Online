@@ -1,0 +1,177 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Versailles/Versailles_AudioPreview.ogg": "/public/map/Versailles/Versailles_AudioPreview.ogg/158e5ff4c1a843aec42f80aa533d0257.ogg",
+    "jmcs://jd-contents/Versailles/Versailles.ogg": "/private/map/Versailles/Versailles.ogg/4f9e1ee7da12f8b2ec033e3857bedfd5.ogg",
+    "jmcs://jd-contents/Versailles/Versailles_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Versailles/Versailles_MapPreviewNoSoundCrop_LOW.vp8.webm/731c0d422eb80baace09ac570b541dcb.webm",
+    "jmcs://jd-contents/Versailles/Versailles_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Versailles/Versailles_MapPreviewNoSoundCrop_MID.vp8.webm/804a7dd046249c6acc3bc000cbe3603b.webm",
+    "jmcs://jd-contents/Versailles/Versailles_ULTRA.hd.webm": "/private/map/Versailles/Versailles_ULTRA.hd.webm/6c316c47429889ef6198674e53969324.webm",
+    "jmcs://jd-contents/Versailles/Versailles_HIGH.hd.webm": "/private/map/Versailles/Versailles_HIGH.hd.webm/9a992368cdce7f2565314985e6550dbc.webm",
+    "jmcs://jd-contents/Versailles/Versailles_MID.hd.webm": "/private/map/Versailles/Versailles_MID.hd.webm/ba40dabb571139ff3f54d77e05736311.webm",
+    "jmcs://jd-contents/Versailles/Versailles_LOW.hd.webm": "/private/map/Versailles/Versailles_LOW.hd.webm/406b85727eef81fbc2b5afd686dedf87.webm",
+    "jmcs://jd-contents/Versailles/Versailles_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/Versailles/Versailles_MapPreviewNoSoundCrop_HIGH.vp8.webm/334b16ba52c4fb5b1efe8eb3bfa6d132.webm",
+    "jmcs://jd-contents/Versailles/Versailles_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/Versailles/Versailles_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0477c8e66e828e63fc9848eb0d1ca354.webm"
+  },
+  "mapLength": 194.65115104166668,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33488,
+        66976,
+        100465,
+        133953,
+        167441,
+        200930,
+        234418,
+        267907,
+        301395,
+        334883,
+        368372,
+        401860,
+        435348,
+        468837,
+        502325,
+        535814,
+        569302,
+        602790,
+        636279,
+        669767,
+        703255,
+        736744,
+        770232,
+        803720,
+        837209,
+        870697,
+        904186,
+        937674,
+        971162,
+        1004651,
+        1038139,
+        1071627,
+        1105116,
+        1138604,
+        1172093,
+        1205581,
+        1239069,
+        1272558,
+        1306046,
+        1339534,
+        1373023,
+        1406511,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 278,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 44,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/Versailles/Versailles_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"645454\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Versailles/Versailles_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"799-1288\">\n\t\t\t\t\t<Initialization range=\"0-799\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484270\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Versailles/Versailles_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"799-1289\">\n\t\t\t\t\t<Initialization range=\"0-799\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2883667\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Versailles/Versailles_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"799-1289\">\n\t\t\t\t\t<Initialization range=\"0-799\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"3996643\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Versailles/Versailles_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"799-1289\">\n\t\t\t\t\t<Initialization range=\"0-799\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "ef9ef19da5ef1ca3f993ff39a17b286d",
+      "storageType": 0,
+      "url": "/public/map/Versailles/pc/Versailles_MAIN_SCENE_PC.zip/ef9ef19da5ef1ca3f993ff39a17b286d.zip"
+    },
+    "ps4": {
+      "md5": "fbf944799a0ccd1a05f074e279a8ac5d",
+      "storageType": 0,
+      "url": "/public/map/Versailles/orbis/Versailles_MAIN_SCENE_ORBIS.zip/fbf944799a0ccd1a05f074e279a8ac5d.zip"
+    },
+    "wiiu": {
+      "md5": "6dc450387ceecf029e1c45a2c137fd08",
+      "storageType": 0,
+      "url": "/public/map/Versailles/wiiu/Versailles_MAIN_SCENE_WIIU.zip/6dc450387ceecf029e1c45a2c137fd08.zip"
+    },
+    "nx": {
+      "md5": "a89a956623adc3160177f7f54932d489",
+      "storageType": 0,
+      "url": "/public/map/Versailles/nx/Versailles_MAIN_SCENE_NX.zip/a89a956623adc3160177f7f54932d489.zip"
+    }
+  },
+  "data": {
+    "mapName": "Versailles",
+    "title": "A Night in the château de Versailles",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "The Just Dance Orchestra",
+    "credits": "Written by Jean-Baptiste Lully, Jean-Philippe Rameau. Published by Ubisoft Music.  Arranged and perfomed by Lionel Gaget. Recorded by Michael Tainturier at Atlas Studio. All rights reserved. Used with permission. Courtesy of Ubisoft Music.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#F3B56C",
+    "songColor2A": "#93D0F7",
+    "songColor1B": "#68040C",
+    "songColor2B": "#083682",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/Versailles/pc/Versailles_Cover_Online.tga.ckd/a9424177c87cf412de3b49877781867a.ckd",
+      "coverImageUrl": "/public/map/Versailles/pc/Versailles_Cover_Generic.tga.ckd/110a0e58c401e3c416706ef12f4660e7.ckd",
+      "expandCoachImageUrl": "/public/map/Versailles/pc/Versailles_Cover_AlbumCoach.tga.ckd/10c905e5067242a79e473374c8acc8fa.ckd",
+      "map_bkgImageUrl": "/public/map/Versailles/pc/Versailles_map_bkg.tga.ckd/78f094bb262c2df135d476cdb3e3d344.ckd",
+      "banner_bkgImageUrl": "/public/map/Versailles/pc/Versailles_banner_bkg.tga.ckd/e97a9baa1239754044909efba2698d5e.ckd",
+      "coach1ImageUrl": "/public/map/Versailles/pc/Versailles_Coach_1.tga.ckd/9715a9f40b3ecdb92838d2c1c68326a0.ckd",
+      "coach2ImageUrl": "/public/map/Versailles/pc/Versailles_Coach_2.tga.ckd/f81ba26b1b053de53f7001bed9c3cf7f.ckd",
+      "phoneCoverImageUrl": "/public/map/Versailles/Versailles_Cover_Phone.jpg/58f2a5b6be7285d5c7c0bb6cf0f8c773.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Versailles/Versailles_Coach_1_Phone.png/117cbaf8284b4126d2d1b338b116e085.png",
+      "phoneCoach2ImageUrl": "/public/map/Versailles/Versailles_Coach_2_Phone.png/147f8d27f245f6eaaacd23a14704b08b.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/Versailles/orbis/Versailles_Cover_Online.tga.ckd/a9424177c87cf412de3b49877781867a.ckd",
+      "coverImageUrl": "/public/map/Versailles/orbis/Versailles_Cover_Generic.tga.ckd/110a0e58c401e3c416706ef12f4660e7.ckd",
+      "expandCoachImageUrl": "/public/map/Versailles/orbis/Versailles_Cover_AlbumCoach.tga.ckd/10c905e5067242a79e473374c8acc8fa.ckd",
+      "map_bkgImageUrl": "/public/map/Versailles/orbis/Versailles_map_bkg.tga.ckd/78f094bb262c2df135d476cdb3e3d344.ckd",
+      "banner_bkgImageUrl": "/public/map/Versailles/orbis/Versailles_banner_bkg.tga.ckd/e97a9baa1239754044909efba2698d5e.ckd",
+      "coach1ImageUrl": "/public/map/Versailles/orbis/Versailles_Coach_1.tga.ckd/9715a9f40b3ecdb92838d2c1c68326a0.ckd",
+      "coach2ImageUrl": "/public/map/Versailles/orbis/Versailles_Coach_2.tga.ckd/f81ba26b1b053de53f7001bed9c3cf7f.ckd",
+      "phoneCoverImageUrl": "/public/map/Versailles/Versailles_Cover_Phone.jpg/58f2a5b6be7285d5c7c0bb6cf0f8c773.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Versailles/Versailles_Coach_1_Phone.png/117cbaf8284b4126d2d1b338b116e085.png",
+      "phoneCoach2ImageUrl": "/public/map/Versailles/Versailles_Coach_2_Phone.png/147f8d27f245f6eaaacd23a14704b08b.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/Versailles/wiiu/Versailles_Cover_Online.tga.ckd/7c342e561109c0d2bb076cfe96ee9bb3.ckd",
+      "coverImageUrl": "/public/map/Versailles/wiiu/Versailles_Cover_Generic.tga.ckd/e271684294a50c06aed6eca8a68c6887.ckd",
+      "expandCoachImageUrl": "/public/map/Versailles/wiiu/Versailles_Cover_AlbumCoach.tga.ckd/01725c0dd2b6ccaf1c45b24261f5698d.ckd",
+      "map_bkgImageUrl": "/public/map/Versailles/wiiu/Versailles_map_bkg.tga.ckd/716ee4d18fd22a1c52cf94ca013ddaa6.ckd",
+      "banner_bkgImageUrl": "/public/map/Versailles/wiiu/Versailles_banner_bkg.tga.ckd/6c5bc47c7527cc58145a47c07afe7d56.ckd",
+      "coach1ImageUrl": "/public/map/Versailles/wiiu/Versailles_Coach_1.tga.ckd/c5b9404d0c91dc80c6ec8bd9de314b2f.ckd",
+      "coach2ImageUrl": "/public/map/Versailles/wiiu/Versailles_Coach_2.tga.ckd/ab255e1c046c445cd1b5beb2e6078826.ckd",
+      "phoneCoverImageUrl": "/public/map/Versailles/Versailles_Cover_Phone.jpg/58f2a5b6be7285d5c7c0bb6cf0f8c773.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Versailles/Versailles_Coach_1_Phone.png/117cbaf8284b4126d2d1b338b116e085.png",
+      "phoneCoach2ImageUrl": "/public/map/Versailles/Versailles_Coach_2_Phone.png/147f8d27f245f6eaaacd23a14704b08b.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/Versailles/nx/Versailles_Cover_Online.tga.ckd/5958ff2a20580f2932597a002069fc80.ckd",
+      "coverImageUrl": "/public/map/Versailles/nx/Versailles_Cover_Generic.tga.ckd/1f10a64850dcf090e701758fdb64c89f.ckd",
+      "expandCoachImageUrl": "/public/map/Versailles/nx/Versailles_Cover_AlbumCoach.tga.ckd/d56cc82dae3dd3b87adb4fae98ced8d1.ckd",
+      "map_bkgImageUrl": "/public/map/Versailles/nx/Versailles_map_bkg.tga.ckd/ffcf9acdced1511ed45d967c05d50bb1.ckd",
+      "banner_bkgImageUrl": "/public/map/Versailles/nx/Versailles_banner_bkg.tga.ckd/8ffb0f752b8ceac03a62f34999bea413.ckd",
+      "coach1ImageUrl": "/public/map/Versailles/nx/Versailles_Coach_1.tga.ckd/b1343098879f88c2845f81ad7f8af1c5.ckd",
+      "coach2ImageUrl": "/public/map/Versailles/nx/Versailles_Coach_2.tga.ckd/cd94234c9ab9524322d3f5822cd0710c.ckd",
+      "phoneCoverImageUrl": "/public/map/Versailles/Versailles_Cover_Phone.jpg/58f2a5b6be7285d5c7c0bb6cf0f8c773.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Versailles/Versailles_Coach_1_Phone.png/117cbaf8284b4126d2d1b338b116e085.png",
+      "phoneCoach2ImageUrl": "/public/map/Versailles/Versailles_Coach_2_Phone.png/147f8d27f245f6eaaacd23a14704b08b.png"
+    },
+    "cover640ImageUrl": "/public/map/Versailles/Versailles_Cover_640.png/5ac8439f4a29a9a7b7fd3138035e1d9c.png"
+  }
+}

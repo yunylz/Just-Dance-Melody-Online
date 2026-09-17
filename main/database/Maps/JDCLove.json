@@ -1,0 +1,181 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "b52591355b6aea0bb35b8fd6b39dc896",
+      "storageType": 0,
+      "url": "/public/map/JDCLove/nx/JDCLove_MAIN_SCENE_NX.zip/b52591355b6aea0bb35b8fd6b39dc896.zip"
+    },
+    "pc": {
+      "md5": "4501b225b12ec0831b43da3a707cc652",
+      "storageType": 0,
+      "url": "/public/map/JDCLove/pc/JDCLove_MAIN_SCENE_PC.zip/4501b225b12ec0831b43da3a707cc652.zip"
+    },
+    "ps4": {
+      "md5": "79e9d3dc7e75afb93fe31fee2cc6a44d",
+      "storageType": 0,
+      "url": "/public/map/JDCLove/orbis/JDCLove_MAIN_SCENE_ORBIS.zip/79e9d3dc7e75afb93fe31fee2cc6a44d.zip"
+    }
+  },
+  "data": {
+    "mapName": "JDCLove",
+    "title": "Love 《爱》",
+    "originalJDVersion": 1100,
+    "tags": [
+      "subscribedSong",
+      "JustDanceAsia",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "Little Tigers (Xiao Hu Dui) (小虎队)",
+    "credits": "<< to be filled >>",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#600857",
+    "songColor2A": "#c71007",
+    "songColor1B": "#17002a",
+    "songColor2B": "#180128",
+    "lyricsColor": "#e4149b"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22944,
+        45888,
+        68880,
+        91824,
+        114768,
+        137712,
+        160656,
+        183600,
+        206592,
+        229536,
+        252480,
+        275424,
+        298368,
+        321312,
+        344304,
+        367248,
+        390192,
+        412992,
+        435744,
+        458544,
+        481344,
+        504144,
+        526896,
+        549696,
+        572496,
+        595248,
+        618048,
+        640848,
+        663600,
+        686400,
+        709200,
+        732000,
+        754752,
+        777552,
+        800352,
+        823152,
+        846000,
+        868800,
+        891600,
+        914400,
+        937200,
+        960000,
+        982800,
+        1005600,
+        1028400,
+        1051200,
+        1074000,
+        1096800,
+        1119600,
+        1142400,
+        1165200,
+        1188048,
+        1210848,
+        1233648,
+        1256448,
+        1279248,
+        1302048,
+        1324848,
+        1347648,
+        1370448,
+        1393248,
+        1416048,
+        1438848,
+        1461648,
+        1484448
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 407,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JDCLove/JDCLove_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JDCLove/nx/JDCLove_banner_bkg.tga.ckd/4b41f251e64f21a0cae9cb55adc4a0fe.ckd",
+      "map_bkgImageUrl": "/public/map/JDCLove/nx/JDCLove_map_bkg.tga.ckd/3879235d48af777ffbcdd075ab67c247.ckd",
+      "expandCoachImageUrl": "/public/map/JDCLove/nx/JDCLove_Cover_AlbumCoach.tga.ckd/611ea79c1649031e42ede8f761e301bb.ckd",
+      "cover_smallImageUrl": "/public/map/JDCLove/nx/JDCLove_Cover_Online.tga.ckd/aa2584e71c11e53cbc00c6dac730e1d7.ckd",
+      "coach1ImageUrl": "/public/map/JDCLove/nx/JDCLove_Coach_1.tga.ckd/7ee4f7e3150cdef26f5f7388b2ff7429.ckd",
+      "coach2ImageUrl": "/public/map/JDCLove/nx/JDCLove_Coach_2.tga.ckd/621b26657ec9982accb99d6d81287a22.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JDCLove/pc/JDCLove_banner_bkg.tga.ckd/731ac6793ec7fdbe93f6b58dd1141255.ckd",
+      "map_bkgImageUrl": "/public/map/JDCLove/pc/JDCLove_map_bkg.tga.ckd/0c9cb243d1433644b962c023575a4057.ckd",
+      "expandCoachImageUrl": "/public/map/JDCLove/pc/JDCLove_Cover_AlbumCoach.tga.ckd/3d4ab415648e6740455613fd1a663bfa.ckd",
+      "cover_smallImageUrl": "/public/map/JDCLove/pc/JDCLove_Cover_Online.tga.ckd/6375cddce1600723a0b27f0382cf4245.ckd",
+      "coach1ImageUrl": "/public/map/JDCLove/pc/JDCLove_Coach_1.tga.ckd/dec25e6e77e062b6896e545b6a714d91.ckd",
+      "coach2ImageUrl": "/public/map/JDCLove/pc/JDCLove_Coach_2.tga.ckd/3894590dfacf6d589629f60a13707348.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JDCLove/orbis/JDCLove_banner_bkg.tga.ckd/731ac6793ec7fdbe93f6b58dd1141255.ckd",
+      "map_bkgImageUrl": "/public/map/JDCLove/orbis/JDCLove_map_bkg.tga.ckd/0c9cb243d1433644b962c023575a4057.ckd",
+      "expandCoachImageUrl": "/public/map/JDCLove/orbis/JDCLove_Cover_AlbumCoach.tga.ckd/3d4ab415648e6740455613fd1a663bfa.ckd",
+      "cover_smallImageUrl": "/public/map/JDCLove/orbis/JDCLove_Cover_Online.tga.ckd/6375cddce1600723a0b27f0382cf4245.ckd",
+      "coach1ImageUrl": "/public/map/JDCLove/orbis/JDCLove_Coach_1.tga.ckd/dec25e6e77e062b6896e545b6a714d91.ckd",
+      "coach2ImageUrl": "/public/map/JDCLove/orbis/JDCLove_Coach_2.tga.ckd/3894590dfacf6d589629f60a13707348.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JDCLove/JDCLove_Coach_1_Phone.png/d55a6c64c0ee827c6f68c87a73a045fd.png",
+    "phoneCoach2ImageUrl": "/public/map/JDCLove/JDCLove_Coach_2_Phone.png/cd66508ed781cdfc776385a26d817f7e.png",
+    "phoneCoverImageUrl": "/public/map/JDCLove/JDCLove_Cover_Phone.jpg/7153c1d200136b4414f703a356fdf4a0.jpg",
+    "cover640ImageUrl": "/public/map/JDCLove/JDCLove_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JDCLove/JDCLove.ogg": "/private/map/JDCLove/JDCLove.ogg/0b82775ed6a1eccd64e213d4455cc256.ogg",
+    "jmcs://jd-contents/JDCLove/JDCLove_AudioPreview.ogg": "/public/map/JDCLove/JDCLove_AudioPreview.ogg/1a999eeae48a17fc7bbf197a6e91d1b4.ogg",
+    "jmcs://jd-contents/JDCLove/JDCLove_HIGH.webm": "/private/map/JDCLove/JDCLove_HIGH.webm/7d0ac20de71fd1bc6350c46772cdd34a.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_LOW.webm": "/private/map/JDCLove/JDCLove_LOW.webm/f4855534a0ea20a4a1f96e6ccf4260b5.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_MID.webm": "/private/map/JDCLove/JDCLove_MID.webm/369bf5d67c6a8db16e3c858c09a97b62.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_ULTRA.hd.webm": "/private/map/JDCLove/JDCLove_ULTRA.hd.webm/20c19c95ba0774c7ebca469ce468c6cc.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_ULTRA.webm": "/private/map/JDCLove/JDCLove_ULTRA.webm/57466ba2e2c52df30937c688c62c8dd9.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JDCLove/JDCLove_MapPreviewNoSoundCrop_LOW.vp8.webm/705ff672a2adf09d7ee2a165f4a781fc.webm",
+    "jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JDCLove/JDCLove_MapPreviewNoSoundCrop_MID.vp8.webm/51d8b509ed9099216c6ba44e84524ef0.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"498289\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"592-1081\">\n\t\t\t\t\t<Initialization range=\"0-592\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1230119\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCLove/JDCLove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\n\t\t\t\t\t<Initialization range=\"0-593\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 203.081083
+}

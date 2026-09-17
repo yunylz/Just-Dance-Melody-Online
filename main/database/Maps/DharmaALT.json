@@ -1,0 +1,182 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DharmaALT/DharmaALT.ogg": "/private/map/DharmaALT/DharmaALT.ogg/0723f0c99d7ffe2b601fcd15797a014b.ogg",
+    "jmcs://jd-contents/DharmaALT/DharmaALT_AudioPreview.ogg": "/public/map/DharmaALT/DharmaALT_AudioPreview.ogg/d5933ab4258f817d8cc1959ca8263655.ogg",
+    "jmcs://jd-contents/DharmaALT/DharmaALT_HIGH.hd.webm": "/private/map/DharmaALT/DharmaALT_HIGH.hd.webm/c9afe2ab8c6a46ed74514075df882db7.webm",
+    "jmcs://jd-contents/DharmaALT/DharmaALT_LOW.hd.webm": "/private/map/DharmaALT/DharmaALT_LOW.hd.webm/c43e71393a67ae0a85e1e970b253b4dd.webm",
+    "jmcs://jd-contents/DharmaALT/DharmaALT_MID.hd.webm": "/private/map/DharmaALT/DharmaALT_MID.hd.webm/781a8625a159a0badecd3f813e4b65c6.webm",
+    "jmcs://jd-contents/DharmaALT/DharmaALT_ULTRA.hd.webm": "/private/map/DharmaALT/DharmaALT_ULTRA.hd.webm/e19d5470574eb31cf1d5dc2d0a3da668.webm",
+    "jmcs://jd-contents/DharmaALT/DharmaALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DharmaALT/DharmaALT_MapPreviewNoSoundCrop_LOW.vp8.webm/93972e179301c5576d4960c6b86aa125.webm",
+    "jmcs://jd-contents/DharmaALT/DharmaALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DharmaALT/DharmaALT_MapPreviewNoSoundCrop_MID.vp8.webm/3b036028d80929007431aa9dff944a40.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67488,
+        90000,
+        112511,
+        135024,
+        157487,
+        180000,
+        202511,
+        225023,
+        247488,
+        270000,
+        292511,
+        315024,
+        337488,
+        360000,
+        382512,
+        405023,
+        427487,
+        450000,
+        472511,
+        495023,
+        517487,
+        540000,
+        562512,
+        585023,
+        607488,
+        630000,
+        652511,
+        675023,
+        697488,
+        720000,
+        742512,
+        765024,
+        787487,
+        810000,
+        832511,
+        855023,
+        877488,
+        900000,
+        922512,
+        945023,
+        967488,
+        990000,
+        1012511,
+        1035024,
+        1057488,
+        1080000,
+        1102511,
+        1125024,
+        1147488,
+        1170000,
+        1192512,
+        1215024,
+        1237488,
+        1260000,
+        1282511,
+        1305023,
+        1327488,
+        1350000,
+        1372511,
+        1395024,
+        1417488,
+        1440000,
+        1462512,
+        1485024
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 386,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DharmaALT/DharmaALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"925666\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DharmaALT/DharmaALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"754-1244\">\n\t\t\t\t\t<Initialization range=\"0-754\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2054345\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DharmaALT/DharmaALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"754-1244\">\n\t\t\t\t\t<Initialization range=\"0-754\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "ccb4e2ba52f05ed376066100f8b29447",
+      "storageType": 0,
+      "url": "/public/map/DharmaALT/nx/DharmaALT_MAIN_SCENE_NX.zip/ccb4e2ba52f05ed376066100f8b29447.zip"
+    },
+    "pc": {
+      "md5": "ac90a0408ac3305b040420e4e1048ce2",
+      "storageType": 0,
+      "url": "/public/map/DharmaALT/pc/DharmaALT_MAIN_SCENE_PC.zip/ac90a0408ac3305b040420e4e1048ce2.zip"
+    },
+    "ps4": {
+      "md5": "2a3cf36d74e266721eba366163775eb0",
+      "storageType": 0,
+      "url": "/public/map/DharmaALT/orbis/DharmaALT_MAIN_SCENE_ORBIS.zip/2a3cf36d74e266721eba366163775eb0.zip"
+    }
+  },
+  "data": {
+    "mapName": "DharmaALT",
+    "title": "Dharma",
+    "originalJDVersion": 2018,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "Headhunterz & KSHMR",
+    "credits": "Written by Niles Howell-Dhar, Willem Rebergen and Friso Venema. Published by Ultra Tunes (ASCAP) obo Trouble and Bass. / Indie Pop Music / Sony/ATV Tunes LLC (ASCAP) c/o Sony/ATV Music Publishing Canada (SOCAN). / WF Productions. All rights reserved. Used with permission. Courtesy of Spinnin' Records, arranged by Fine Gold Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#124988",
+    "songColor2A": "#f9fcc4",
+    "songColor1B": "#011934",
+    "songColor2B": "#40791e",
+    "lyricsColor": "#e40006",
+    "LocaleID": 14528
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DharmaALT/nx/DharmaALT_banner_bkg.tga.ckd/f9bd80255e8a65646806df6712315b96.ckd",
+      "map_bkgImageUrl": "/public/map/DharmaALT/nx/DharmaALT_map_bkg.tga.ckd/6b8cf82ee4f9a5ab3a4d2776544b5b52.ckd",
+      "expandCoachImageUrl": "/public/map/DharmaALT/nx/DharmaALT_Cover_AlbumCoach.tga.ckd/f31405e3d0ad84a4d5a0ae14f2c10aa1.ckd",
+      "cover_smallImageUrl": "/public/map/DharmaALT/nx/DharmaALT_Cover_Online.tga.ckd/b10990c0576622c5266123f4b6c3b8d4.ckd",
+      "coverImageUrl": "/public/map/DharmaALT/nx/DharmaALT_Cover_Generic.tga.ckd/6e9b0ac2df7a18fe970789337ba2be72.ckd",
+      "coach1ImageUrl": "/public/map/DharmaALT/nx/DharmaALT_Coach_1.tga.ckd/02b982653db42955f7e80454b5957710.ckd",
+      "coach2ImageUrl": "/public/map/DharmaALT/nx/DharmaALT_Coach_2.tga.ckd/f9f1d930794bf82636abf5b56c8f1963.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DharmaALT/pc/DharmaALT_banner_bkg.tga.ckd/2d58a46d938521586bcdae6d9aca084d.ckd",
+      "map_bkgImageUrl": "/public/map/DharmaALT/pc/DharmaALT_map_bkg.tga.ckd/f2ae95a9c46e895e6b841ba08abe1369.ckd",
+      "expandCoachImageUrl": "/public/map/DharmaALT/pc/DharmaALT_Cover_AlbumCoach.tga.ckd/9a27e6a051b49945b0bee242310ba85f.ckd",
+      "cover_smallImageUrl": "/public/map/DharmaALT/pc/DharmaALT_Cover_Online.tga.ckd/d13670e1ca5b8e7e5072e286d80be461.ckd",
+      "coverImageUrl": "/public/map/DharmaALT/pc/DharmaALT_Cover_Generic.tga.ckd/409dee0e1a7c97d285c4dfa4cf99366e.ckd",
+      "coach1ImageUrl": "/public/map/DharmaALT/pc/DharmaALT_Coach_1.tga.ckd/4bdae7b70ec402c2028728ea6a04d927.ckd",
+      "coach2ImageUrl": "/public/map/DharmaALT/pc/DharmaALT_Coach_2.tga.ckd/d618449f530ad4a0b989389dac5cf1b6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DharmaALT/orbis/DharmaALT_banner_bkg.tga.ckd/2d58a46d938521586bcdae6d9aca084d.ckd",
+      "map_bkgImageUrl": "/public/map/DharmaALT/orbis/DharmaALT_map_bkg.tga.ckd/f2ae95a9c46e895e6b841ba08abe1369.ckd",
+      "expandCoachImageUrl": "/public/map/DharmaALT/orbis/DharmaALT_Cover_AlbumCoach.tga.ckd/9a27e6a051b49945b0bee242310ba85f.ckd",
+      "cover_smallImageUrl": "/public/map/DharmaALT/orbis/DharmaALT_Cover_Online.tga.ckd/d13670e1ca5b8e7e5072e286d80be461.ckd",
+      "coverImageUrl": "/public/map/DharmaALT/orbis/DharmaALT_Cover_Generic.tga.ckd/409dee0e1a7c97d285c4dfa4cf99366e.ckd",
+      "coach1ImageUrl": "/public/map/DharmaALT/orbis/DharmaALT_Coach_1.tga.ckd/4bdae7b70ec402c2028728ea6a04d927.ckd",
+      "coach2ImageUrl": "/public/map/DharmaALT/orbis/DharmaALT_Coach_2.tga.ckd/d618449f530ad4a0b989389dac5cf1b6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DharmaALT/DharmaALT_Coach_1_Phone.png/143e6d804c36347dd5a69f5f69dac025.png",
+    "phoneCoach2ImageUrl": "/public/map/DharmaALT/DharmaALT_Coach_2_Phone.png/fa12abf06398956878ffa26451626f17.png",
+    "phoneCoverImageUrl": "/public/map/DharmaALT/DharmaALT_Cover_Phone.jpg/495374702e2096faabad7234e31e45e9.jpg",
+    "cover640ImageUrl": "/public/map/DharmaALT/DharmaALT_Cover_640.png/e04247ed55e74e2b2102b1b51efe7a1d.png"
+  },
+  "mapLength": 184.6875
+}

@@ -1,0 +1,161 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Caveman/Caveman.ogg": "/private/map/Caveman/Caveman.ogg/6ed27a73579c6651ac46bd0c2a2f4137.ogg",
+    "jmcs://jd-contents/Caveman/Caveman_AudioPreview.ogg": "/public/map/Caveman/Caveman_AudioPreview.ogg/0f9e90414b29bc32c45fbefa530f8f04.ogg",
+    "jmcs://jd-contents/Caveman/Caveman_HIGH.hd.webm": "/private/map/Caveman/Caveman_HIGH.hd.webm/d3cc9e0822323318ef592feb2c76e04a.webm",
+    "jmcs://jd-contents/Caveman/Caveman_LOW.hd.webm": "/private/map/Caveman/Caveman_LOW.hd.webm/76c3d4a4bd0a32f3b87d347b035f94a8.webm",
+    "jmcs://jd-contents/Caveman/Caveman_MID.hd.webm": "/private/map/Caveman/Caveman_MID.hd.webm/7497a6fb298959f9a28278d88f3c1c29.webm",
+    "jmcs://jd-contents/Caveman/Caveman_ULTRA.hd.webm": "/private/map/Caveman/Caveman_ULTRA.hd.webm/25b32b9dad243fa4d0405b1370f0f878.webm",
+    "jmcs://jd-contents/Caveman/Caveman_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Caveman/Caveman_MapPreviewNoSoundCrop_LOW.vp8.webm/730c3ef04fc266f965d8db5ef4d500d1.webm",
+    "jmcs://jd-contents/Caveman/Caveman_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Caveman/Caveman_MapPreviewNoSoundCrop_MID.vp8.webm/57b6f6e0eeeb80de520416beb52ba9b8.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30638,
+        61277,
+        91915,
+        122553,
+        153191,
+        183830,
+        214468,
+        245106,
+        275745,
+        306383,
+        337021,
+        367660,
+        398298,
+        428936,
+        459574,
+        490213,
+        520851,
+        551489,
+        582128,
+        612766,
+        643404,
+        674043,
+        704681,
+        735319,
+        765957,
+        796596,
+        827234,
+        857872,
+        888511,
+        919149,
+        949787,
+        980426,
+        1011064,
+        1041702,
+        1072340,
+        1102979,
+        1133617,
+        1164255,
+        1194894,
+        1225532,
+        1256170,
+        1286809,
+        1317447,
+        1348085,
+        1378723,
+        1409362,
+        1440000,
+        1470638,
+        1501277
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 236,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Caveman/Caveman_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"530213\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Caveman/Caveman_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1985304\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Caveman/Caveman_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "505a6c6ad3afd2d8468b4e7f711772f8",
+      "storageType": 0,
+      "url": "/public/map/Caveman/nx/Caveman_MAIN_SCENE_NX.zip/505a6c6ad3afd2d8468b4e7f711772f8.zip"
+    },
+    "pc": {
+      "md5": "1cd8aaf24aa6dca1913ba893854cc443",
+      "storageType": 0,
+      "url": "/public/map/Caveman/pc/Caveman_MAIN_SCENE_PC.zip/1cd8aaf24aa6dca1913ba893854cc443.zip"
+    },
+    "ps4": {
+      "md5": "f37854984dd1539bee90c84478db47db",
+      "storageType": 0,
+      "url": "/public/map/Caveman/orbis/Caveman_MAIN_SCENE_ORBIS.zip/f37854984dd1539bee90c84478db47db.zip"
+    }
+  },
+  "data": {
+    "mapName": "Caveman",
+    "title": "Prehistorock",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Ricky Stone",
+    "credits": "“Prehistorock” composed, performed, recorded, and mixed by Steve Ouimette. Additional engineering by Mark Brisbane. Cave People vocals recorded at the Conservatory of Recording Arts and Sciences - Gilbert, AZ. Cave People: Joseph Beasley, Alejandro C. Gomez, Lyssa L. Lynn, Stephan Tacub, Whiskey Joe, Noah S. McDowell, Rick Allen, and Steve Ouimette. Lead Caveman: Steve Ouimette. Courtesy of Ubisoft Music. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e52b0d",
+    "songColor2A": "#005aff",
+    "songColor1B": "#0a0000",
+    "songColor2B": "#020a68",
+    "lyricsColor": "#11aa10",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Caveman/nx/Caveman_banner_bkg.tga.ckd/5f87ed9df3723cb037a9de7692917e2c.ckd",
+      "map_bkgImageUrl": "/public/map/Caveman/nx/Caveman_map_bkg.tga.ckd/4472312b303010c56e8af30cd5347e10.ckd",
+      "expandCoachImageUrl": "/public/map/Caveman/nx/Caveman_Cover_AlbumCoach.tga.ckd/1ec7d79826a62af4d0beed7a08d7ec5c.ckd",
+      "cover_smallImageUrl": "/public/map/Caveman/nx/Caveman_Cover_Online.tga.ckd/0877d089e9eb811f83bfacba6bb6666d.ckd",
+      "coverImageUrl": "/public/map/Caveman/nx/Caveman_Cover_Generic.tga.ckd/f0b129d61e0c35eae93cd07ff382c6be.ckd",
+      "coach1ImageUrl": "/public/map/Caveman/nx/Caveman_Coach_1.tga.ckd/50913d585b782bf7e1227f6a6af88fe0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Caveman/pc/Caveman_banner_bkg.tga.ckd/4e36c022293075a3a0c6b91abbddddd8.ckd",
+      "map_bkgImageUrl": "/public/map/Caveman/pc/Caveman_map_bkg.tga.ckd/1d09a7e09492963a394230dd20299dbf.ckd",
+      "expandCoachImageUrl": "/public/map/Caveman/pc/Caveman_Cover_AlbumCoach.tga.ckd/94d634d97252e150adfa360544eac196.ckd",
+      "cover_smallImageUrl": "/public/map/Caveman/pc/Caveman_Cover_Online.tga.ckd/f65ca3b36479da6af88ad7a1268efbde.ckd",
+      "coverImageUrl": "/public/map/Caveman/pc/Caveman_Cover_Generic.tga.ckd/196ac4c1aee21ca229b3d8308b48d19c.ckd",
+      "coach1ImageUrl": "/public/map/Caveman/pc/Caveman_Coach_1.tga.ckd/dd2a5546df368f2cb1dbc4f33ea06c0a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Caveman/orbis/Caveman_banner_bkg.tga.ckd/4e36c022293075a3a0c6b91abbddddd8.ckd",
+      "map_bkgImageUrl": "/public/map/Caveman/orbis/Caveman_map_bkg.tga.ckd/1d09a7e09492963a394230dd20299dbf.ckd",
+      "expandCoachImageUrl": "/public/map/Caveman/orbis/Caveman_Cover_AlbumCoach.tga.ckd/94d634d97252e150adfa360544eac196.ckd",
+      "cover_smallImageUrl": "/public/map/Caveman/orbis/Caveman_Cover_Online.tga.ckd/f65ca3b36479da6af88ad7a1268efbde.ckd",
+      "coverImageUrl": "/public/map/Caveman/orbis/Caveman_Cover_Generic.tga.ckd/196ac4c1aee21ca229b3d8308b48d19c.ckd",
+      "coach1ImageUrl": "/public/map/Caveman/orbis/Caveman_Coach_1.tga.ckd/dd2a5546df368f2cb1dbc4f33ea06c0a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Caveman/Caveman_Coach_1_Phone.png/01ede571f9247a68399028c512132869.png",
+    "phoneCoverImageUrl": "/public/map/Caveman/Caveman_Cover_Phone.jpg/529d76da8a0149b1b73ed8f446e165ab.jpg",
+    "cover640ImageUrl": "/public/map/Caveman/Caveman_Cover_640.png/99d14df9349c21f9f4520de181ad7888.png"
+  },
+  "mapLength": 156.382958
+}

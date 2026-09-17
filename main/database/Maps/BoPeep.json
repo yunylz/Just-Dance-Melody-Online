@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "faa33f0a9bf2850e7bd305afede25bc1",
+      "storageType": 0,
+      "url": "/public/map/BoPeep/nx/BoPeep_MAIN_SCENE_NX.zip/faa33f0a9bf2850e7bd305afede25bc1.zip"
+    },
+    "pc": {
+      "md5": "8d00f805bb8f96b42718586f86a5a5e8",
+      "storageType": 0,
+      "url": "/public/map/BoPeep/pc/BoPeep_MAIN_SCENE_PC.zip/8d00f805bb8f96b42718586f86a5a5e8.zip"
+    },
+    "ps4": {
+      "md5": "67a91aefed8ac36af5e576bea1492b89",
+      "storageType": 0,
+      "url": "/public/map/BoPeep/orbis/BoPeep_MAIN_SCENE_ORBIS.zip/67a91aefed8ac36af5e576bea1492b89.zip"
+    }
+  },
+  "data": {
+    "mapName": "BoPeep",
+    "title": "Bo Peep Bo Peep",
+    "originalJDVersion": 1001,
+    "tags": [
+      "Main",
+      "jdwii2",
+      "subscribedSong"
+    ],
+    "artist": "T-ARA",
+    "credits": "Tayway210 - Pictos",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#8c0404",
+    "songColor2A": "#4d0689",
+    "songColor1B": "#670505",
+    "songColor2B": "#290556",
+    "lyricsColor": "#ff0984",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        91440,
+        113952,
+        136416,
+        158928,
+        181440,
+        203952,
+        226416,
+        248928,
+        271440,
+        293952,
+        316416,
+        338928,
+        361440,
+        383952,
+        406416,
+        428928,
+        451440,
+        473904,
+        496416,
+        518928,
+        541440,
+        563904,
+        586416,
+        608928,
+        631440,
+        653904,
+        676416,
+        698928,
+        721392,
+        743904,
+        766416,
+        788928,
+        811392,
+        833904,
+        856416,
+        878928,
+        901392,
+        923904,
+        946416,
+        968880,
+        991392,
+        1013904,
+        1036416,
+        1058880,
+        1081392,
+        1103904,
+        1126416,
+        1148880,
+        1171392,
+        1193904,
+        1216368,
+        1238880,
+        1261392,
+        1283904,
+        1306368,
+        1328880,
+        1351392,
+        1373904,
+        1396368,
+        1418880,
+        1441392,
+        1463904,
+        1486368
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 483,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BoPeep/BoPeep_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BoPeep/nx/BoPeep_banner_bkg.tga.ckd/bd9a3f72ff6db99cbdb085ef83e1474d.ckd",
+      "map_bkgImageUrl": "/public/map/BoPeep/nx/BoPeep_map_bkg.tga.ckd/f8222b31a5e65f02109938972d3e4142.ckd",
+      "expandCoachImageUrl": "/public/map/BoPeep/nx/BoPeep_Cover_AlbumCoach.tga.ckd/4fac101e3bd168a8398320fd0fc7d374.ckd",
+      "cover_smallImageUrl": "/public/map/BoPeep/nx/BoPeep_Cover_Online.tga.ckd/de68e151ceb582e9d06855a82ee5b7d8.ckd",
+      "coach1ImageUrl": "/public/map/BoPeep/nx/BoPeep_Coach_1.tga.ckd/76555d868438e1a010ca36bfe340a1c8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BoPeep/pc/BoPeep_banner_bkg.tga.ckd/804b451b6334f2ca1a455087ba83e153.ckd",
+      "map_bkgImageUrl": "/public/map/BoPeep/pc/BoPeep_map_bkg.tga.ckd/1e2a31f43feb17e8e13f59dc18933ebb.ckd",
+      "expandCoachImageUrl": "/public/map/BoPeep/pc/BoPeep_Cover_AlbumCoach.tga.ckd/ab7d5b2248d1b2e199c2dd1c99d69cd1.ckd",
+      "cover_smallImageUrl": "/public/map/BoPeep/pc/BoPeep_Cover_Online.tga.ckd/98300bf98f1bcadd347c02fba26566b3.ckd",
+      "coach1ImageUrl": "/public/map/BoPeep/pc/BoPeep_Coach_1.tga.ckd/1d80dbda2f1a160724e77721f0de4438.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BoPeep/orbis/BoPeep_banner_bkg.tga.ckd/804b451b6334f2ca1a455087ba83e153.ckd",
+      "map_bkgImageUrl": "/public/map/BoPeep/orbis/BoPeep_map_bkg.tga.ckd/1e2a31f43feb17e8e13f59dc18933ebb.ckd",
+      "expandCoachImageUrl": "/public/map/BoPeep/orbis/BoPeep_Cover_AlbumCoach.tga.ckd/ab7d5b2248d1b2e199c2dd1c99d69cd1.ckd",
+      "cover_smallImageUrl": "/public/map/BoPeep/orbis/BoPeep_Cover_Online.tga.ckd/98300bf98f1bcadd347c02fba26566b3.ckd",
+      "coach1ImageUrl": "/public/map/BoPeep/orbis/BoPeep_Coach_1.tga.ckd/1d80dbda2f1a160724e77721f0de4438.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BoPeep/BoPeep_Coach_1_Phone.png/baedb0329dd3cdb812c4876f72b42370.png",
+    "phoneCoverImageUrl": "/public/map/BoPeep/BoPeep_Cover_Phone.jpg/b8955f31a1b5db20367aeacfcd283635.jpg",
+    "cover640ImageUrl": "/public/map/BoPeep/BoPeep_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BoPeep/BoPeep.ogg": "/private/map/BoPeep/BoPeep.ogg/727279a97130b48e3d72e9adf8d57095.ogg",
+    "jmcs://jd-contents/BoPeep/BoPeep_AudioPreview.ogg": "/public/map/BoPeep/BoPeep_AudioPreview.ogg/7955fd451bd1e8875c778d0009cfa03a.ogg",
+    "jmcs://jd-contents/BoPeep/BoPeep_HIGH.webm": "/private/map/BoPeep/BoPeep_HIGH.webm/f4e83a673e1d80594172f111fe03479e.webm",
+    "jmcs://jd-contents/BoPeep/BoPeep_LOW.webm": "/private/map/BoPeep/BoPeep_LOW.webm/6afdcbbaaf609d341dd387aabbce1293.webm",
+    "jmcs://jd-contents/BoPeep/BoPeep_MID.webm": "/private/map/BoPeep/BoPeep_MID.webm/044c0e5da68b8c09c42682677b998853.webm",
+    "jmcs://jd-contents/BoPeep/BoPeep_ULTRA.webm": "/private/map/BoPeep/BoPeep_ULTRA.webm/2aa7f5ea9ae2dad0029c103ec8bb8a28.webm",
+    "jmcs://jd-contents/BoPeep/BoPeep_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BoPeep/BoPeep_MapPreviewNoSoundCrop_LOW.vp8.webm/52e2bb08ef6d732c6f6d9e67b861bf80.webm",
+    "jmcs://jd-contents/BoPeep/BoPeep_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BoPeep/BoPeep_MapPreviewNoSoundCrop_MID.vp8.webm/8f9d027b986b6d763708081ab8c303c5.webm",
+    "jmcs://jd-contents/BoPeep/BoPeep_HIGH.hd.webm": "/private/map/BoPeep/BoPeep_HIGH.hd.webm/a8dc85d66e168f48aee51e738bbaf841.webm",
+    "jmcs://jd-contents/BoPeep/BoPeep_LOW.hd.webm": "/private/map/BoPeep/BoPeep_LOW.hd.webm/26e61a005e120a5ffc0314cd25e39c57.webm",
+    "jmcs://jd-contents/BoPeep/BoPeep_MID.hd.webm": "/private/map/BoPeep/BoPeep_MID.hd.webm/15133916b9c87a90cba5899d5bd15891.webm",
+    "jmcs://jd-contents/BoPeep/BoPeep_ULTRA.hd.webm": "/private/map/BoPeep/BoPeep_ULTRA.hd.webm/6fb0bd0b08c81ab5d16b5fcf9b6d28a6.webm"
+  },
+  "mapLength": 229.429438,
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"516590\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoPeep/BoPeep_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"688-1178\">\n\t\t\t\t\t<Initialization range=\"0-688\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1980327\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoPeep/BoPeep_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\n\t\t\t\t\t<Initialization range=\"0-625\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n"
+}

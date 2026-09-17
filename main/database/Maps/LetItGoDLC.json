@@ -1,0 +1,147 @@
+{
+  "urls": {
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC.ogg": "/private/map/LetItGoDLC/LetItGoDLC.ogg/0a8c1a2ac0b19e0d2a043e265d091b86.ogg",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_AudioPreview.ogg": "/public/map/LetItGoDLC/LetItGoDLC_AudioPreview.ogg/7ef70ac4680dd846bfc05b5c604c17f0.ogg",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_HIGH.hd.webm": "/private/map/LetItGoDLC/LetItGoDLC_HIGH.hd.webm/327f39df4808c60f141a024c45dd9dea.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_LOW.hd.webm": "/private/map/LetItGoDLC/LetItGoDLC_LOW.hd.webm/a6f0f12924d293632f42cf236bf1f1dc.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MID.hd.webm": "/private/map/LetItGoDLC/LetItGoDLC_MID.hd.webm/40fb10f6285e6cfd27a5f976502855dd.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_ULTRA.hd.webm": "/private/map/LetItGoDLC/LetItGoDLC_ULTRA.hd.webm/65670a148906987102eea8890d934171.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/61523c8520ebabfd1cc62054ac0288dc.webm",
+    "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LetItGoDLC/LetItGoDLC_MapPreviewNoSoundCrop_MID.vp8.webm/d687a60150563c8c07df58dd9cf5b6b6.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        42048,
+        84096,
+        126144,
+        168192,
+        210240,
+        252240,
+        294288,
+        336336,
+        378384,
+        420432,
+        462480,
+        504528,
+        546576,
+        588624,
+        630672,
+        672720,
+        714768,
+        756768,
+        798816,
+        840864,
+        882912,
+        924960,
+        967008,
+        1009056,
+        1051104,
+        1093152,
+        1135200,
+        1177248,
+        1219248,
+        1261296,
+        1303344,
+        1345392,
+        1387440,
+        1429488,
+        1471536,
+        1513584
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 252,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 34,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LetItGoDLC/LetItGoDLC_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "08d456be76f9be6ba1430b063defad89",
+      "storageType": 0,
+      "url": "/public/map/LetItGoDLC/nx/LetItGoDLC_MAIN_SCENE_NX.zip/08d456be76f9be6ba1430b063defad89.zip"
+    },
+    "pc": {
+      "md5": "af7639efe0bc51a06de7876a8d2a5eb0",
+      "storageType": 0,
+      "url": "/public/map/LetItGoDLC/pc/LetItGoDLC_MAIN_SCENE_PC.zip/af7639efe0bc51a06de7876a8d2a5eb0.zip"
+    },
+    "ps4": {
+      "md5": "89e478cf738889151ae1dbccaf1d6a4b",
+      "storageType": 0,
+      "url": "/public/map/LetItGoDLC/orbis/LetItGoDLC_MAIN_SCENE_ORBIS.zip/89e478cf738889151ae1dbccaf1d6a4b.zip"
+    }
+  },
+  "data": {
+    "mapName": "LetItGoDLC",
+    "title": "Let It Go",
+    "originalJDVersion": 2015,
+    "tags": [
+      "ALTERNATE"
+    ],
+    "artist": "Disney's Frozen",
+    "credits": "Written by Kristen Anderson-Lopez and Robert Lopez. Published by Wonderland Music Company, Inc. (BMI). All Rights Reserved. 2013. © Disney All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#8dc6f8",
+    "songColor2A": "#70c4ff",
+    "songColor1B": "#0016ad",
+    "songColor2B": "#0b0047",
+    "lyricsColor": "#e653ac",
+    "LocaleID": 11622
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LetItGoDLC/nx/LetItGoDLC_banner_bkg.tga.ckd/837d6a227c220963ffccec4d817b3747.ckd",
+      "map_bkgImageUrl": "/public/map/LetItGoDLC/nx/LetItGoDLC_map_bkg.tga.ckd/e81007668dc34259c771dd5cc6d9e35d.ckd",
+      "expandCoachImageUrl": "/public/map/LetItGoDLC/nx/LetItGoDLC_Cover_AlbumCoach.tga.ckd/ef46ad8d470b3c1a4192127cdd242276.ckd",
+      "cover_smallImageUrl": "/public/map/LetItGoDLC/nx/LetItGoDLC_Cover_Online.tga.ckd/ee544374182270342ac3003b51636308.ckd",
+      "coverImageUrl": "/public/map/LetItGoDLC/nx/LetItGoDLC_Cover_Generic.tga.ckd/e51c933370ff1af107d4ded01363cdf8.ckd",
+      "coach1ImageUrl": "/public/map/LetItGoDLC/nx/LetItGoDLC_Coach_1.tga.ckd/e36169db9780aefe86feb334ee4e7e73.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LetItGoDLC/pc/LetItGoDLC_banner_bkg.tga.ckd/077ca15edc70fabbd7d0f4bb8cb08320.ckd",
+      "map_bkgImageUrl": "/public/map/LetItGoDLC/pc/LetItGoDLC_map_bkg.tga.ckd/1464f6d043729b60cee7c82a09cf225c.ckd",
+      "expandCoachImageUrl": "/public/map/LetItGoDLC/pc/LetItGoDLC_Cover_AlbumCoach.tga.ckd/cfed946d38e7f64ab022a703523fdcb1.ckd",
+      "cover_smallImageUrl": "/public/map/LetItGoDLC/pc/LetItGoDLC_Cover_Online.tga.ckd/542df5f3e89c16df1096900bbd512458.ckd",
+      "coverImageUrl": "/public/map/LetItGoDLC/pc/LetItGoDLC_Cover_Generic.tga.ckd/417e81a5b3f4baa14ae166c821b92521.ckd",
+      "coach1ImageUrl": "/public/map/LetItGoDLC/pc/LetItGoDLC_Coach_1.tga.ckd/7505a6282ec6c6e98bd10b6798e7f5e6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LetItGoDLC/orbis/LetItGoDLC_banner_bkg.tga.ckd/077ca15edc70fabbd7d0f4bb8cb08320.ckd",
+      "map_bkgImageUrl": "/public/map/LetItGoDLC/orbis/LetItGoDLC_map_bkg.tga.ckd/1464f6d043729b60cee7c82a09cf225c.ckd",
+      "expandCoachImageUrl": "/public/map/LetItGoDLC/orbis/LetItGoDLC_Cover_AlbumCoach.tga.ckd/cfed946d38e7f64ab022a703523fdcb1.ckd",
+      "cover_smallImageUrl": "/public/map/LetItGoDLC/orbis/LetItGoDLC_Cover_Online.tga.ckd/542df5f3e89c16df1096900bbd512458.ckd",
+      "coverImageUrl": "/public/map/LetItGoDLC/orbis/LetItGoDLC_Cover_Generic.tga.ckd/417e81a5b3f4baa14ae166c821b92521.ckd",
+      "coach1ImageUrl": "/public/map/LetItGoDLC/orbis/LetItGoDLC_Coach_1.tga.ckd/7505a6282ec6c6e98bd10b6798e7f5e6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LetItGoDLC/LetItGoDLC_Coach_1_Phone.png/805ead30ec6aa5973b8057e0c57e6a4c.png",
+    "phoneCoverImageUrl": "/public/map/LetItGoDLC/LetItGoDLC_Cover_Phone.jpg/7c3abde9d7dd1d0c7172a933cef27713.jpg",
+    "cover640ImageUrl": "/public/map/LetItGoDLC/LetItGoDLC_Cover_640.png/635d3da1b04fc6a94416d9fbdb37ed39.png"
+  },
+  "mapLength": 223.358042
+}

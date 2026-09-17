@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7045b9280e44c29039793f78b8892d43",
+      "storageType": 0,
+      "url": "/public/map/CircusMU/nx/CircusMU_MAIN_SCENE_NX.zip/7045b9280e44c29039793f78b8892d43.zip"
+    },
+    "pc": {
+      "md5": "b31951e5861848ef0dba496ffb6aa820",
+      "storageType": 0,
+      "url": "/public/map/CircusMU/pc/CircusMU_MAIN_SCENE_PC.zip/b31951e5861848ef0dba496ffb6aa820.zip"
+    },
+    "ps4": {
+      "md5": "7df4c37eee82c4245a47bfb2e06ca5c0",
+      "storageType": 0,
+      "url": "/public/map/CircusMU/orbis/CircusMU_MAIN_SCENE_ORBIS.zip/7df4c37eee82c4245a47bfb2e06ca5c0.zip"
+    }
+  },
+  "data": {
+    "mapName": "CircusMU",
+    "title": "Circus",
+    "originalJDVersion": 2016,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2016",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Britney Spears",
+    "credits": "Written by Benjamin Joseph Levin (BMI), Lukasz Gottwald (ASCAP) and Claude Kelly (BMI). Published by Universal Music Publishing, a division of Universal Music Canada Inc. (SOCAN) / Prescription Songs LLC and Kasz Money Publishing. Administered by Kobalt Music Publishing America, Inc. / © 2008 Warner-Tamerlane Publishing Corp. (BMI) and Studio Beast Music (BMI). All rights on behalf of itself and Studio Beast Music Administered by Warner-Tamerlane Publishing Corp. Courtesy of RCA Records, a division of Sony Music Entertainment by arrangement with Sony Music Licensing.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#e173a1",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25055,
+        50063,
+        75119,
+        100175,
+        125231,
+        150239,
+        175295,
+        200351,
+        225407,
+        250415,
+        275471,
+        300527,
+        325583,
+        350591,
+        375647,
+        400703,
+        425759,
+        450767,
+        475823,
+        500879,
+        525935,
+        550943,
+        575999,
+        601055,
+        626063,
+        651119,
+        676175,
+        701231,
+        726239,
+        751295,
+        776350,
+        801406,
+        826414,
+        851470,
+        876526,
+        901582,
+        926590,
+        951646,
+        976702,
+        1001758,
+        1026766,
+        1051822,
+        1076878,
+        1101934,
+        1126942,
+        1151998,
+        1177054,
+        1202062,
+        1227118,
+        1252174,
+        1277230,
+        1302238,
+        1327294,
+        1352350,
+        1377406,
+        1402414,
+        1427470,
+        1452526,
+        1477582,
+        1502590
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 369,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CircusMU/CircusMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CircusMU/nx/CircusMU_banner_bkg.tga.ckd/a5a85fd0681da8d03f1c00baba56f57c.ckd",
+      "map_bkgImageUrl": "/public/map/CircusMU/nx/CircusMU_map_bkg.tga.ckd/0a85c84540da6f2a56e5d6cfc8a43d99.ckd",
+      "expandCoachImageUrl": "/public/map/CircusMU/nx/CircusMU_Cover_AlbumCoach.tga.ckd/f653793697261bf23ea56fe50de88d53.ckd",
+      "cover_smallImageUrl": "/public/map/CircusMU/nx/CircusMU_Cover_Online.tga.ckd/25561835736d4facb6c97e476a9ef54d.ckd",
+      "coverImageUrl": "/public/map/CircusMU/nx/CircusMU_Cover_Generic.tga.ckd/4afce1b93be6ee061f4b8b42f54cd186.ckd",
+      "coach1ImageUrl": "/public/map/CircusMU/nx/CircusMU_Coach_1.tga.ckd/77d1f0cfac14fa572da9e5a0e687f4a9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CircusMU/pc/CircusMU_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/CircusMU/pc/CircusMU_map_bkg.tga.ckd/1e3bbf59382dd1ed48d89b2de4d9957f.ckd",
+      "expandCoachImageUrl": "/public/map/CircusMU/pc/CircusMU_Cover_AlbumCoach.tga.ckd/1f9634fd0363cbe16aa11270f3482251.ckd",
+      "cover_smallImageUrl": "/public/map/CircusMU/pc/CircusMU_Cover_Online.tga.ckd/3563352134e01a9b31892bf9fc3d464d.ckd",
+      "coverImageUrl": "/public/map/CircusMU/pc/CircusMU_Cover_Generic.tga.ckd/02ad719f676b1af7b2511bc6c92e2e58.ckd",
+      "coach1ImageUrl": "/public/map/CircusMU/pc/CircusMU_Coach_1.tga.ckd/be17c531dda6659acf554d3822a35014.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CircusMU/orbis/CircusMU_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/CircusMU/orbis/CircusMU_map_bkg.tga.ckd/1e3bbf59382dd1ed48d89b2de4d9957f.ckd",
+      "expandCoachImageUrl": "/public/map/CircusMU/orbis/CircusMU_Cover_AlbumCoach.tga.ckd/1f9634fd0363cbe16aa11270f3482251.ckd",
+      "cover_smallImageUrl": "/public/map/CircusMU/orbis/CircusMU_Cover_Online.tga.ckd/3563352134e01a9b31892bf9fc3d464d.ckd",
+      "coverImageUrl": "/public/map/CircusMU/orbis/CircusMU_Cover_Generic.tga.ckd/02ad719f676b1af7b2511bc6c92e2e58.ckd",
+      "coach1ImageUrl": "/public/map/CircusMU/orbis/CircusMU_Coach_1.tga.ckd/be17c531dda6659acf554d3822a35014.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CircusMU/CircusMU_Coach_1_Phone.png/5f08eafffd493714e5c834d6f085d631.png",
+    "phoneCoverImageUrl": "/public/map/CircusMU/CircusMU_Cover_Phone.jpg/030a1f4c214e7da3d00ed3bc9143d17b.jpg",
+    "cover640ImageUrl": "/public/map/CircusMU/CircusMU_Cover_640.png/ee6d0161cd3997e93dde2dd67367f8cd.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/CircusMU/CircusMU.ogg": "/private/map/CircusMU/CircusMU.ogg/ddd1cfec62460a46de7421ac8c8c8ba3.ogg",
+    "jmcs://jd-contents/CircusMU/CircusMU_AudioPreview.ogg": "/public/map/CircusMU/CircusMU_AudioPreview.ogg/4d22693f4627ea0a8b030fe5d7b48b1c.ogg",
+    "jmcs://jd-contents/CircusMU/CircusMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CircusMU/CircusMU_MapPreviewNoSoundCrop_LOW.vp8.webm/3988e0eeca118f0a69d5a646d6b76958.webm",
+    "jmcs://jd-contents/CircusMU/CircusMU_HIGH.webm": "/private/map/CircusMU/CircusMU_HIGH.webm/d84dc5d91fc4fc72014644f0ba5d8ccc.webm",
+    "jmcs://jd-contents/CircusMU/CircusMU_LOW.webm": "/private/map/CircusMU/CircusMU_LOW.webm/ecd8860d501b268a208a1bfce2b409a0.webm",
+    "jmcs://jd-contents/CircusMU/CircusMU_MID.webm": "/private/map/CircusMU/CircusMU_MID.webm/a1b96371f99c08931482e80aa3f29b16.webm",
+    "jmcs://jd-contents/CircusMU/CircusMU_ULTRA.hd.webm": "/private/map/CircusMU/CircusMU_ULTRA.hd.webm/8c5b66dcac379bd2acc295037bd79b03.webm",
+    "jmcs://jd-contents/CircusMU/CircusMU_ULTRA.webm": "/private/map/CircusMU/CircusMU_ULTRA.webm/9f5f8e555653b83d985e85164f97ba83.webm",
+    "jmcs://jd-contents/CircusMU/CircusMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CircusMU/CircusMU_MapPreviewNoSoundCrop_MID.vp8.webm/a2af36164d73d3ef1e325740148ff5d2.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496429\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CircusMU/CircusMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1479821\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CircusMU/CircusMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 194.086729
+}

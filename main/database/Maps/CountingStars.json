@@ -1,0 +1,170 @@
+{
+  "urls": {
+    "jmcs://jd-contents/CountingStars/CountingStars.ogg": "/private/map/CountingStars/CountingStars.ogg/31011401ff69bc8a4a61228a80aa37e5.ogg",
+    "jmcs://jd-contents/CountingStars/CountingStars_AudioPreview.ogg": "/public/map/CountingStars/CountingStars_AudioPreview.ogg/c9eee1516bd960a7e46b181d391680b8.ogg",
+    "jmcs://jd-contents/CountingStars/CountingStars_HIGH.hd.webm": "/private/map/CountingStars/CountingStars_HIGH.hd.webm/558adb9fd78988e9def11e697854d4aa.webm",
+    "jmcs://jd-contents/CountingStars/CountingStars_LOW.hd.webm": "/private/map/CountingStars/CountingStars_LOW.hd.webm/6671004523a922252a1500e392b6bd93.webm",
+    "jmcs://jd-contents/CountingStars/CountingStars_MID.hd.webm": "/private/map/CountingStars/CountingStars_MID.hd.webm/ef20c468fb4186f7bd1539cca2885c2c.webm",
+    "jmcs://jd-contents/CountingStars/CountingStars_ULTRA.hd.webm": "/private/map/CountingStars/CountingStars_ULTRA.hd.webm/faa3f36751441b055fa417d441ad7904.webm",
+    "jmcs://jd-contents/CountingStars/CountingStars_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CountingStars/CountingStars_MapPreviewNoSoundCrop_LOW.vp8.webm/e129cb9906a4da50cd300e0e9f74a280.webm",
+    "jmcs://jd-contents/CountingStars/CountingStars_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CountingStars/CountingStars_MapPreviewNoSoundCrop_MID.vp8.webm/e81f839286f6a15d35e9082d4e36df58.webm"
+  },
+  "mapLength": 273.4685,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26667,
+        53333,
+        80000,
+        106667,
+        133333,
+        160000,
+        186667,
+        213333,
+        240000,
+        266667,
+        293333,
+        320000,
+        346667,
+        373333,
+        400000,
+        426667,
+        453333,
+        480000,
+        506667,
+        533333,
+        560000,
+        586667,
+        613333,
+        640000,
+        666667,
+        693333,
+        720000,
+        746667,
+        773333,
+        800000,
+        826667,
+        853333,
+        880000,
+        906667,
+        933333,
+        960000,
+        986667,
+        1013333,
+        1040000,
+        1066816,
+        1090422,
+        1114029,
+        1137635,
+        1161242,
+        1184848,
+        1208455,
+        1232062,
+        1255668,
+        1279275,
+        1302881,
+        1326488,
+        1350094,
+        1373701,
+        1397307,
+        1420914,
+        1444521,
+        1468127,
+        1491734
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -22,
+      "endBeat": 526,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CountingStars/CountingStars_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"581320\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CountingStars/CountingStars_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2024401\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CountingStars/CountingStars_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "edff7fe8323a76c5df29f6780ba51c66",
+      "storageType": 0,
+      "url": "/public/map/CountingStars/nx/CountingStars_MAIN_SCENE_NX.zip/edff7fe8323a76c5df29f6780ba51c66.zip"
+    },
+    "pc": {
+      "md5": "4ca0dc3b8fe6f4f6132cbe356b010ee2",
+      "storageType": 0,
+      "url": "/public/map/CountingStars/pc/CountingStars_MAIN_SCENE_PC.zip/4ca0dc3b8fe6f4f6132cbe356b010ee2.zip"
+    },
+    "ps4": {
+      "md5": "7ece3ff845f860caf408f017a9ce34d2",
+      "storageType": 0,
+      "url": "/public/map/CountingStars/orbis/CountingStars_MAIN_SCENE_ORBIS.zip/7ece3ff845f860caf408f017a9ce34d2.zip"
+    }
+  },
+  "data": {
+    "mapName": "CountingStars",
+    "title": "Counting Stars",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "OneRepublic",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#08c0cc",
+    "songColor2A": "#00defd",
+    "songColor1B": "#030112",
+    "songColor2B": "#110470",
+    "lyricsColor": "#b58f3a",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CountingStars/nx/CountingStars_banner_bkg.tga.ckd/ce4144640cb09bc1da7ccb0368663693.ckd",
+      "map_bkgImageUrl": "/public/map/CountingStars/nx/CountingStars_map_bkg.tga.ckd/46cc5c688ea2de2aa41178e5f94016fb.ckd",
+      "expandCoachImageUrl": "/public/map/CountingStars/nx/CountingStars_Cover_AlbumCoach.tga.ckd/3864bbd9b3e16e7b2d93f8516715595a.ckd",
+      "cover_smallImageUrl": "/public/map/CountingStars/nx/CountingStars_Cover_Online.tga.ckd/ede711ed41e9695553d75f4289c1c23a.ckd",
+      "coverImageUrl": "/public/map/CountingStars/nx/CountingStars_Cover_Generic.tga.ckd/f70e26b33275bee129f7a458d00d2a00.ckd",
+      "coach1ImageUrl": "/public/map/CountingStars/nx/CountingStars_Coach_1.tga.ckd/dfb22bf840bdef62211e4a3dc82d57f0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CountingStars/pc/CountingStars_banner_bkg.tga.ckd/f0b13a0e27fc1d8866656c892e4717c3.ckd",
+      "map_bkgImageUrl": "/public/map/CountingStars/pc/CountingStars_map_bkg.tga.ckd/efd4fcf31d4fd8e54f58ecdebc5aaaa3.ckd",
+      "expandCoachImageUrl": "/public/map/CountingStars/pc/CountingStars_Cover_AlbumCoach.tga.ckd/f8b7ab5703d99989beddde8e4ad0b887.ckd",
+      "cover_smallImageUrl": "/public/map/CountingStars/pc/CountingStars_Cover_Online.tga.ckd/d20d5d94e455f3bb35907f7933320b55.ckd",
+      "coverImageUrl": "/public/map/CountingStars/pc/CountingStars_Cover_Generic.tga.ckd/063f39383ea1c9e51bf8ff495d9ce192.ckd",
+      "coach1ImageUrl": "/public/map/CountingStars/pc/CountingStars_Coach_1.tga.ckd/02a238f69bc78f59c9fc8a643060da8f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CountingStars/orbis/CountingStars_banner_bkg.tga.ckd/f0b13a0e27fc1d8866656c892e4717c3.ckd",
+      "map_bkgImageUrl": "/public/map/CountingStars/orbis/CountingStars_map_bkg.tga.ckd/efd4fcf31d4fd8e54f58ecdebc5aaaa3.ckd",
+      "expandCoachImageUrl": "/public/map/CountingStars/orbis/CountingStars_Cover_AlbumCoach.tga.ckd/f8b7ab5703d99989beddde8e4ad0b887.ckd",
+      "cover_smallImageUrl": "/public/map/CountingStars/orbis/CountingStars_Cover_Online.tga.ckd/d20d5d94e455f3bb35907f7933320b55.ckd",
+      "coverImageUrl": "/public/map/CountingStars/orbis/CountingStars_Cover_Generic.tga.ckd/063f39383ea1c9e51bf8ff495d9ce192.ckd",
+      "coach1ImageUrl": "/public/map/CountingStars/orbis/CountingStars_Coach_1.tga.ckd/02a238f69bc78f59c9fc8a643060da8f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CountingStars/CountingStars_Coach_1_Phone.png/8836ddfdb7d05297f92068bc600758d4.png",
+    "phoneCoverImageUrl": "/public/map/CountingStars/CountingStars_Cover_Phone.jpg/481def8289794f896f5bca95765c1b2c.jpg",
+    "cover640ImageUrl": "/public/map/CountingStars/CountingStars_Cover_640.png/bc9903fece10767fb29482ce0cc3e86e.png"
+  }
+}

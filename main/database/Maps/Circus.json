@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "cb0831cbb66526f077bbe9d3029f57c0",
+      "storageType": 0,
+      "url": "/public/map/Circus/nx/Circus_MAIN_SCENE_NX.zip/cb0831cbb66526f077bbe9d3029f57c0.zip"
+    },
+    "pc": {
+      "md5": "1bc2cd6c9e1961f8e434dfcd39fca215",
+      "storageType": 0,
+      "url": "/public/map/Circus/pc/Circus_MAIN_SCENE_PC.zip/1bc2cd6c9e1961f8e434dfcd39fca215.zip"
+    },
+    "ps4": {
+      "md5": "6747e6b43b3d4bae0fda93d48a352322",
+      "storageType": 0,
+      "url": "/public/map/Circus/orbis/Circus_MAIN_SCENE_ORBIS.zip/6747e6b43b3d4bae0fda93d48a352322.zip"
+    }
+  },
+  "data": {
+    "mapName": "Circus",
+    "title": "Circus",
+    "originalJDVersion": 2016,
+    "tags": [
+      "intense",
+      "main"
+    ],
+    "artist": "Britney Spears",
+    "credits": "Written by Benjamin Joseph Levin (BMI), Lukasz Gottwald (ASCAP) and Claude Kelly (BMI). Published by Universal Music Publishing, a division of Universal Music Canada Inc. (SOCAN) / Prescription Songs LLC and Kasz Money Publishing. Administered by Kobalt Music Publishing America, Inc. / © 2008 Warner-Tamerlane Publishing Corp. (BMI) and Studio Beast Music (BMI). All rights on behalf of itself and Studio Beast Music Administered by Warner-Tamerlane Publishing Corp. Courtesy of RCA Records, a division of Sony Music Entertainment by arrangement with Sony Music Licensing.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 4,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#549d99",
+    "songColor2A": "#ef8912",
+    "songColor1B": "#041027",
+    "songColor2B": "#410044",
+    "lyricsColor": "#ea4cac"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25055,
+        50063,
+        75119,
+        100175,
+        125231,
+        150239,
+        175295,
+        200351,
+        225407,
+        250415,
+        275471,
+        300527,
+        325583,
+        350591,
+        375647,
+        400703,
+        425759,
+        450767,
+        475823,
+        500879,
+        525935,
+        550943,
+        575999,
+        601055,
+        626063,
+        651119,
+        676175,
+        701231,
+        726239,
+        751295,
+        776350,
+        801406,
+        826414,
+        851470,
+        876526,
+        901582,
+        926590,
+        951646,
+        976702,
+        1001758,
+        1026766,
+        1051822,
+        1076878,
+        1101934,
+        1126942,
+        1151998,
+        1177054,
+        1202062,
+        1227118,
+        1252174,
+        1277230,
+        1302238,
+        1327294,
+        1352350,
+        1377406,
+        1402414,
+        1427470,
+        1452526,
+        1477582,
+        1502590
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 363,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Circus/Circus_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Circus/nx/Circus_banner_bkg.tga.ckd/4d8cd86554380125093272791fb6dd76.ckd",
+      "map_bkgImageUrl": "/public/map/Circus/nx/Circus_map_bkg.tga.ckd/ad456e1ae86806518c18417ca13af4c8.ckd",
+      "expandCoachImageUrl": "/public/map/Circus/nx/Circus_Cover_AlbumCoach.tga.ckd/7590fc034832e22803341bc9cbd38206.ckd",
+      "cover_smallImageUrl": "/public/map/Circus/nx/Circus_Cover_Online.tga.ckd/8909ea6b312c9636b406cf50c1ddb5b1.ckd",
+      "coach1ImageUrl": "/public/map/Circus/nx/Circus_Coach_1.tga.ckd/dddf6ce07b7d4f57dce7b46406898dbb.ckd",
+      "coach2ImageUrl": "/public/map/Circus/nx/Circus_Coach_2.tga.ckd/70a1846fd5820b5b6f19a81bfdbae67d.ckd",
+      "coach3ImageUrl": "/public/map/Circus/nx/Circus_Coach_3.tga.ckd/5ec73195e7627abbc72172b543715e5d.ckd",
+      "coach4ImageUrl": "/public/map/Circus/nx/Circus_Coach_4.tga.ckd/aa1461fac80697a2bd130e55e5d85ca0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Circus/pc/Circus_banner_bkg.tga.ckd/b3f6e927fe19c50be0c23aad7324e808.ckd",
+      "map_bkgImageUrl": "/public/map/Circus/pc/Circus_map_bkg.tga.ckd/be9a5b85d32d5b77dcf349ad85352d81.ckd",
+      "expandCoachImageUrl": "/public/map/Circus/pc/Circus_Cover_AlbumCoach.tga.ckd/2839294c8d83c52a7ee1ea90c782ab88.ckd",
+      "cover_smallImageUrl": "/public/map/Circus/pc/Circus_Cover_Online.tga.ckd/0a99318d7f8304bf85842653997a8b1d.ckd",
+      "coach1ImageUrl": "/public/map/Circus/pc/Circus_Coach_1.tga.ckd/db3be0f0d8aadbfe7f27d729c9f164e4.ckd",
+      "coach2ImageUrl": "/public/map/Circus/pc/Circus_Coach_2.tga.ckd/b9835cadd2cb1ee1c1e9031f91a46cf3.ckd",
+      "coach3ImageUrl": "/public/map/Circus/pc/Circus_Coach_3.tga.ckd/e966486c48937ab587e99aa5d9a39802.ckd",
+      "coach4ImageUrl": "/public/map/Circus/pc/Circus_Coach_4.tga.ckd/bec9fc267ba43ed86105b490d776b302.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Circus/orbis/Circus_banner_bkg.tga.ckd/b3f6e927fe19c50be0c23aad7324e808.ckd",
+      "map_bkgImageUrl": "/public/map/Circus/orbis/Circus_map_bkg.tga.ckd/be9a5b85d32d5b77dcf349ad85352d81.ckd",
+      "expandCoachImageUrl": "/public/map/Circus/orbis/Circus_Cover_AlbumCoach.tga.ckd/2839294c8d83c52a7ee1ea90c782ab88.ckd",
+      "cover_smallImageUrl": "/public/map/Circus/orbis/Circus_Cover_Online.tga.ckd/0a99318d7f8304bf85842653997a8b1d.ckd",
+      "coach1ImageUrl": "/public/map/Circus/orbis/Circus_Coach_1.tga.ckd/db3be0f0d8aadbfe7f27d729c9f164e4.ckd",
+      "coach2ImageUrl": "/public/map/Circus/orbis/Circus_Coach_2.tga.ckd/b9835cadd2cb1ee1c1e9031f91a46cf3.ckd",
+      "coach3ImageUrl": "/public/map/Circus/orbis/Circus_Coach_3.tga.ckd/e966486c48937ab587e99aa5d9a39802.ckd",
+      "coach4ImageUrl": "/public/map/Circus/orbis/Circus_Coach_4.tga.ckd/bec9fc267ba43ed86105b490d776b302.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Circus/Circus_Coach_1_Phone.png/380e6e61106094a63963a962d86f0525.png",
+    "phoneCoach2ImageUrl": "/public/map/Circus/Circus_Coach_2_Phone.png/0fa8482412db87411a068ae703fa78bd.png",
+    "phoneCoach3ImageUrl": "/public/map/Circus/Circus_Coach_3_Phone.png/85c21a05e8e9669cd6f1e9d930ba13a0.png",
+    "phoneCoach4ImageUrl": "/public/map/Circus/Circus_Coach_4_Phone.png/1648cf2ef740f6248954f81bd5ab14ee.png",
+    "phoneCoverImageUrl": "/public/map/Circus/Circus_Cover_Phone.jpg/94fecbeab9dc44ab8edfa1b793ef9183.jpg",
+    "cover640ImageUrl": "/public/map/Circus/Circus_Cover_640.png/8341125569e6755c74ca9c4950c3788d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Circus/Circus.ogg": "/private/map/Circus/Circus.ogg/066e190f1f55992b49679e26cbe271db.ogg",
+    "jmcs://jd-contents/Circus/Circus_AudioPreview.ogg": "/public/map/Circus/Circus_AudioPreview.ogg/98f35fd22a45780500fda2d0460b85f7.ogg",
+    "jmcs://jd-contents/Circus/Circus_HIGH.webm": "/private/map/Circus/Circus_HIGH.webm/09dea4a5c6d266abd4e78f13c9eeb107.webm",
+    "jmcs://jd-contents/Circus/Circus_LOW.webm": "/private/map/Circus/Circus_LOW.webm/ea77985ec098f3c903db2fac406f03c7.webm",
+    "jmcs://jd-contents/Circus/Circus_MID.webm": "/private/map/Circus/Circus_MID.webm/9bd4608866e530c267a4db39e4b2d3a3.webm",
+    "jmcs://jd-contents/Circus/Circus_ULTRA.hd.webm": "/private/map/Circus/Circus_ULTRA.hd.webm/4ec4f9ebe8ff548c88a43af99f00f1bc.webm",
+    "jmcs://jd-contents/Circus/Circus_ULTRA.webm": "/private/map/Circus/Circus_ULTRA.webm/75482db99ab62ade1f7abe77cc3c10b1.webm",
+    "jmcs://jd-contents/Circus/Circus_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Circus/Circus_MapPreviewNoSoundCrop_LOW.vp8.webm/703b3d593f800ef83187877ddbddced7.webm",
+    "jmcs://jd-contents/Circus/Circus_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Circus/Circus_MapPreviewNoSoundCrop_MID.vp8.webm/abedfc9def2b2c46107baa0748980036.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496046\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Circus/Circus_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1104\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1476760\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Circus/Circus_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\n\t\t\t\t\t<Initialization range=\"0-616\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 194.086854
+}

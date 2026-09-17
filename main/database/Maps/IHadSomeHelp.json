@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/IHadSomeHelp/IHadSomeHelp.ogg": "/private/map/IHadSomeHelp/IHadSomeHelp.ogg/00d8aaca62c7a302a0d7586082337034.ogg",
+    "jmcs://jd-contents/IHadSomeHelp/IHadSomeHelp_AudioPreview.ogg": "/public/map/IHadSomeHelp/IHadSomeHelp_AudioPreview.ogg/5b08364259ed609005d47c566848adfc.ogg",
+    "jmcs://jd-contents/IHadSomeHelp/IHadSomeHelp_HIGH.hd.webm": "/private/map/IHadSomeHelp/IHadSomeHelp_HIGH.hd.webm/cb8b916008a90a49cf6a9b836b161ad8.webm",
+    "jmcs://jd-contents/IHadSomeHelp/IHadSomeHelp_LOW.hd.webm": "/private/map/IHadSomeHelp/IHadSomeHelp_LOW.hd.webm/8a18aa4191228fb763dda366f8cc9453.webm",
+    "jmcs://jd-contents/IHadSomeHelp/IHadSomeHelp_MID.hd.webm": "/private/map/IHadSomeHelp/IHadSomeHelp_MID.hd.webm/83c6dd235a3d725c0bc923a4c61a86f5.webm",
+    "jmcs://jd-contents/IHadSomeHelp/IHadSomeHelp_ULTRA.hd.webm": "/private/map/IHadSomeHelp/IHadSomeHelp_ULTRA.hd.webm/6dafc0a7e3f23a41c604dc4007de960a.webm",
+    "jmcs://jd-contents/IHadSomeHelp/IHadSomeHelp_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/IHadSomeHelp/IHadSomeHelp_MapPreviewNoSoundCrop_LOW.vp8.webm/5bbc8bc113edaf825624fbca795c1c25.webm",
+    "jmcs://jd-contents/IHadSomeHelp/IHadSomeHelp_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/IHadSomeHelp/IHadSomeHelp_MapPreviewNoSoundCrop_MID.vp8.webm/2d9ce0b7f56c5597670ee38e000cc822.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202500,
+        225000,
+        247500,
+        270000,
+        292500,
+        315000,
+        337500,
+        360000,
+        382500,
+        405000,
+        427500,
+        450000,
+        472500,
+        495000,
+        517500,
+        540000,
+        562500,
+        585000,
+        607500,
+        630000,
+        652500,
+        675000,
+        697500,
+        720000,
+        742500,
+        765000,
+        787500,
+        810000,
+        832500,
+        855000,
+        877500,
+        900000,
+        922500,
+        945000,
+        967500,
+        990000,
+        1012500,
+        1035000,
+        1057500,
+        1080000,
+        1102500,
+        1125000,
+        1147500,
+        1170000,
+        1192500,
+        1215000,
+        1237500,
+        1260000,
+        1282500,
+        1305000,
+        1327500,
+        1350000,
+        1372500,
+        1395000,
+        1417500,
+        1440000,
+        1462500,
+        1485000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -12,
+      "endBeat": 382,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/IHadSomeHelp/IHadSomeHelp_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"525857\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IHadSomeHelp/IHadSomeHelp_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1952419\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IHadSomeHelp/IHadSomeHelp_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "dd5389449bbe8315d2cc4558d9c58d3d",
+      "storageType": 0,
+      "url": "/public/map/IHadSomeHelp/nx/IHadSomeHelp_MAIN_SCENE_NX.zip/dd5389449bbe8315d2cc4558d9c58d3d.zip"
+    },
+    "pc": {
+      "md5": "599b0a04b21f66fc759359a06194af7e",
+      "storageType": 0,
+      "url": "/public/map/IHadSomeHelp/pc/IHadSomeHelp_MAIN_SCENE_PC.zip/599b0a04b21f66fc759359a06194af7e.zip"
+    },
+    "ps4": {
+      "md5": "02dc0c33aadecc83704bb45b7b158424",
+      "storageType": 0,
+      "url": "/public/map/IHadSomeHelp/orbis/IHadSomeHelp_MAIN_SCENE_ORBIS.zip/02dc0c33aadecc83704bb45b7b158424.zip"
+    }
+  },
+  "data": {
+    "mapName": "IHadSomeHelp",
+    "title": "I Had Some Help",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Post Malone feat. Morgan Wallen",
+    "credits": "\"I Had Some Help\" performed by Post Malone feat. Morgan Wallen. Written by Ashley Gorley, Jonathan Hoskins, Chandler Paul Walters, Austin Richard Post, Morgan Wallen, Ryan Vojtesak, Ernest Keith Smith, and Louis Russell Bell. Published by Universal Music Publishing Canada on behalf of Bell Ear Publishing, Universal Music Works, Universal Music Corp. and Posty Publishing / Honey Hole Publishing (BMI), Erns Cadillac Music (BMI), Big Loud Mountain (BMI) and Ern Dog Music (BMI) administered by Warner-Tamerlane Publishing Corp. / Master Of My Domain Music (ASCAP) / Poppy’s Picks (ASCAP) / Sony/ATV Cross Keys Publishing (ASCAP) / Sony/ATV Songs LLC (BMI). Courtesy of Mercury Records / Republic Records under license from Universal Music Canada Inc. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#042ddc",
+    "songColor2A": "#e80f97",
+    "songColor1B": "#000003",
+    "songColor2B": "#010124",
+    "lyricsColor": "#fc5903",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/IHadSomeHelp/nx/IHadSomeHelp_banner_bkg.tga.ckd/dc318a64ca921dc9299b85395aaa3b08.ckd",
+      "map_bkgImageUrl": "/public/map/IHadSomeHelp/nx/IHadSomeHelp_map_bkg.tga.ckd/cba8939195d5ce9feaa9f63d40e07370.ckd",
+      "expandCoachImageUrl": "/public/map/IHadSomeHelp/nx/IHadSomeHelp_Cover_AlbumCoach.tga.ckd/8397913aedf4a397dc3e1e87c09e626f.ckd",
+      "cover_smallImageUrl": "/public/map/IHadSomeHelp/nx/IHadSomeHelp_Cover_Online.tga.ckd/5438bd3ba0feb7e5e7f86a27bab1605a.ckd",
+      "coverImageUrl": "/public/map/IHadSomeHelp/nx/IHadSomeHelp_Cover_Generic.tga.ckd/ccb9d73a671e34b76a2b075991e0602f.ckd",
+      "coach1ImageUrl": "/public/map/IHadSomeHelp/nx/IHadSomeHelp_Coach_1.tga.ckd/f82823618faa8a82dbe8e7c21ce63d49.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/IHadSomeHelp/pc/IHadSomeHelp_banner_bkg.tga.ckd/f7bb14818b6431e71a029e56089034ff.ckd",
+      "map_bkgImageUrl": "/public/map/IHadSomeHelp/pc/IHadSomeHelp_map_bkg.tga.ckd/485757a675850d7e6e26a702282404c2.ckd",
+      "expandCoachImageUrl": "/public/map/IHadSomeHelp/pc/IHadSomeHelp_Cover_AlbumCoach.tga.ckd/bd5678e2b32c94c2f5be4fc38fb48115.ckd",
+      "cover_smallImageUrl": "/public/map/IHadSomeHelp/pc/IHadSomeHelp_Cover_Online.tga.ckd/ff7180a86f9b000d70e0e40758fc4fe8.ckd",
+      "coverImageUrl": "/public/map/IHadSomeHelp/pc/IHadSomeHelp_Cover_Generic.tga.ckd/e6757aeedf06d98026b6edb0d32f61ac.ckd",
+      "coach1ImageUrl": "/public/map/IHadSomeHelp/pc/IHadSomeHelp_Coach_1.tga.ckd/22c1e3c75421002f76d91c98d732bc70.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/IHadSomeHelp/orbis/IHadSomeHelp_banner_bkg.tga.ckd/f7bb14818b6431e71a029e56089034ff.ckd",
+      "map_bkgImageUrl": "/public/map/IHadSomeHelp/orbis/IHadSomeHelp_map_bkg.tga.ckd/485757a675850d7e6e26a702282404c2.ckd",
+      "expandCoachImageUrl": "/public/map/IHadSomeHelp/orbis/IHadSomeHelp_Cover_AlbumCoach.tga.ckd/bd5678e2b32c94c2f5be4fc38fb48115.ckd",
+      "cover_smallImageUrl": "/public/map/IHadSomeHelp/orbis/IHadSomeHelp_Cover_Online.tga.ckd/ff7180a86f9b000d70e0e40758fc4fe8.ckd",
+      "coverImageUrl": "/public/map/IHadSomeHelp/orbis/IHadSomeHelp_Cover_Generic.tga.ckd/e6757aeedf06d98026b6edb0d32f61ac.ckd",
+      "coach1ImageUrl": "/public/map/IHadSomeHelp/orbis/IHadSomeHelp_Coach_1.tga.ckd/22c1e3c75421002f76d91c98d732bc70.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/IHadSomeHelp/IHadSomeHelp_Coach_1_Phone.png/02836d2bef0a47fa7d8ad62829a8608c.png",
+    "phoneCoverImageUrl": "/public/map/IHadSomeHelp/IHadSomeHelp_Cover_Phone.jpg/f0c9ff4d2d5d5c423ae5cfa564ae98b2.jpg",
+    "cover640ImageUrl": "/public/map/IHadSomeHelp/IHadSomeHelp_Cover_640.png/ae6a5880d83a5d9fb08765e18c1d339a.png"
+  },
+  "mapLength": 184.686813
+}

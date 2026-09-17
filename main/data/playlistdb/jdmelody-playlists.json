@@ -1,0 +1,276 @@
+{
+	"__class": "JD_CarouselContent",
+	"categories": [{
+		"__class": "Category",
+		"title": "Recommended",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"categoryType": "playlist",
+		"items": [{
+			"__class": "Item",
+			"isc": "grp_row",
+			"act": "ui_carousel",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "reco-for_you",
+				"displayCode": 1,
+				"displayMethod": "manual"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_row",
+			"act": "ui_carousel",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "reco-top_country",
+				"displayCode": 1,
+				"displayMethod": "manual"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "reco-top_played",
+				"displayCode": 1,
+				"displayMethod": "manual"
+			}]
+		}]
+	}, 
+	{
+		"__class": "Category",
+		"title": "Discover",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"categoryType": "playlist",
+		"items": [{
+			"__class": "Item",
+			"isc": "grp_row",
+			"act": "ui_carousel",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "JustDance2026",
+				"displayCode": 1,
+				"displayMethod": "manual"
+			}]
+		},{
+			"__class": "Item",
+			"isc": "grp_row",
+			"act": "ui_carousel",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "FiestaLatina",
+				"displayCode": 1,
+				"displayMethod": "manual"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_row",
+			"act": "ui_carousel",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "BeachDay",
+				"displayCode": 1,
+				"displayMethod": "manual"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "Veggies",
+				"displayCode": 1,
+				"displayMethod": "manual"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "MoneyDanceStyle",
+				"displayCode": 2,
+				"displayMethod": "recommended"
+			}]
+		}]
+	},
+	{
+		"__class": "Category",
+		"title": "Just Dance Melody",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"categoryType": "playlist",
+		"items": [
+		{
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "DoulsFavorite",
+				"displayCode": 2,
+				"displayMethod": "recommended"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "OldHits",
+				"displayCode": 2,
+				"displayMethod": "recommended"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "BestOfGirls",
+				"displayCode": 2,
+				"displayMethod": "recommended"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "Mashups",
+				"displayCode": 2,
+				"displayMethod": "recommended"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "PreGames",
+				"displayCode": 2,
+				"displayMethod": "recommended"
+			}]
+		}]
+	},
+	{
+		"__class": "Category",
+		"title": "Just Dance Asia",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"categoryType": "playlist",
+		"items": [{
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "JustDanceWII",
+				"displayCode": 2,
+				"displayMethod": "recommended"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "BestOfJDWIIU",
+				"displayCode": 3,
+				"displayMethod": "random"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "BestOfYokai",
+				"displayCode": 3,
+				"displayMethod": "random"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "EasingIntoJDASIA",
+				"displayCode": 2,
+				"displayMethod": "recommended"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "JdWiiU",
+				"displayCode": 3,
+				"displayMethod": "random"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "MustDanceAsia",
+				"displayCode": 3,
+				"displayMethod": "random"
+			}]
+		}]
+	}],
+	"actionLists": {
+		"_None": {
+			"__class": "ActionList",
+			"actions": [{
+				"__class": "Action",
+				"title": "None",
+				"type": "do-nothing"
+			}],
+			"itemType": "map"
+		}
+	},
+	"songItemLists": {}
+}

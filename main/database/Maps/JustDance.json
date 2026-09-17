@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "122e7b01c28b1d829e0973d8de07bf09",
+      "storageType": 0,
+      "url": "/public/map/JustDance/nx/JustDance_MAIN_SCENE_NX.zip/122e7b01c28b1d829e0973d8de07bf09.zip"
+    },
+    "pc": {
+      "md5": "75276368c06b5636d21c347a7b0d56af",
+      "storageType": 0,
+      "url": "/public/map/JustDance/pc/JustDance_MAIN_SCENE_PC.zip/75276368c06b5636d21c347a7b0d56af.zip"
+    },
+    "ps4": {
+      "md5": "a36e2cf6e7836e407d756c64dc24e941",
+      "storageType": 0,
+      "url": "/public/map/JustDance/orbis/JustDance_MAIN_SCENE_ORBIS.zip/a36e2cf6e7836e407d756c64dc24e941.zip"
+    }
+  },
+  "data": {
+    "mapName": "JustDance",
+    "title": "Just Dance",
+    "originalJDVersion": 2014,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Lady Gaga Ft. Colby O'Donis",
+    "credits": "Written by Aliaune Thiam, Stefani Germanotta, Nadir Khayat. Published by Byefall Productions Inc (ASCAP) / Songs of Redone (BMI) / House Of Gaga Publishing LLC (BMI) c/o Sony/ATV Music Publishing Canada (SOCAN). All Rights Reserved. Used with Permission. Courtesy of Interscope Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00E5D8",
+    "songColor2A": "#35E0D2",
+    "songColor1B": "#004067",
+    "songColor2B": "#0E0048",
+    "lyricsColor": "#1CA6C6",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24192,
+        48384,
+        72624,
+        96816,
+        121008,
+        145200,
+        169392,
+        193632,
+        217824,
+        242016,
+        266208,
+        290400,
+        314640,
+        338832,
+        363024,
+        387216,
+        411408,
+        435648,
+        459840,
+        484032,
+        508224,
+        532416,
+        556656,
+        580848,
+        605040,
+        629232,
+        653424,
+        677664,
+        701856,
+        726048,
+        750240,
+        774432,
+        798672,
+        822864,
+        847056,
+        871248,
+        895440,
+        919680,
+        943872,
+        968064,
+        992256,
+        1016448,
+        1040687,
+        1064879,
+        1089071,
+        1113263,
+        1137455,
+        1161695,
+        1185887,
+        1210079,
+        1234271,
+        1258463,
+        1282703,
+        1306895,
+        1331087,
+        1355279,
+        1379471,
+        1403711,
+        1427903
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 480,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/justdance/justdance_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JustDance/nx/JustDance_banner_bkg.tga.ckd/86197a2d4979dfce37c96c6c897e9688.ckd",
+      "map_bkgImageUrl": "/public/map/JustDance/nx/JustDance_map_bkg.tga.ckd/ac05c41de889856caa1e9ca861258ffe.ckd",
+      "expandCoachImageUrl": "/public/map/JustDance/nx/JustDance_Cover_AlbumCoach.tga.ckd/db5fb104d8a4758ffe205693a1d9a46a.ckd",
+      "cover_smallImageUrl": "/public/map/JustDance/nx/JustDance_Cover_Online.tga.ckd/1e49b006738b2d379c015e70a25e1603.ckd",
+      "coverImageUrl": "/public/map/JustDance/nx/JustDance_Cover_Generic.tga.ckd/5f47b51f5620892957198ec7ed656f49.ckd",
+      "coach1ImageUrl": "/public/map/JustDance/nx/JustDance_Coach_1.tga.ckd/51e4887a9aaa3ed150300dea4ddebaea.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JustDance/pc/JustDance_banner_bkg.tga.ckd/d27fccffbd1a3eb2350c8664fa2282af.ckd",
+      "map_bkgImageUrl": "/public/map/JustDance/pc/JustDance_map_bkg.tga.ckd/eded2980617e61f9e6b699de27566bb7.ckd",
+      "expandCoachImageUrl": "/public/map/JustDance/pc/JustDance_Cover_AlbumCoach.tga.ckd/e6ddbaeb04339067fb535553de8048c2.ckd",
+      "cover_smallImageUrl": "/public/map/JustDance/pc/JustDance_Cover_Online.tga.ckd/ba3c7e05e1cd35346638c8be7fc997d8.ckd",
+      "coverImageUrl": "/public/map/JustDance/pc/JustDance_Cover_Generic.tga.ckd/3c5346316b9b3b88d5daf6e07de50cc0.ckd",
+      "coach1ImageUrl": "/public/map/JustDance/pc/JustDance_Coach_1.tga.ckd/2d25d8a6532f59646457257336832eaf.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JustDance/orbis/JustDance_banner_bkg.tga.ckd/d27fccffbd1a3eb2350c8664fa2282af.ckd",
+      "map_bkgImageUrl": "/public/map/JustDance/orbis/JustDance_map_bkg.tga.ckd/eded2980617e61f9e6b699de27566bb7.ckd",
+      "expandCoachImageUrl": "/public/map/JustDance/orbis/JustDance_Cover_AlbumCoach.tga.ckd/e6ddbaeb04339067fb535553de8048c2.ckd",
+      "cover_smallImageUrl": "/public/map/JustDance/orbis/JustDance_Cover_Online.tga.ckd/ba3c7e05e1cd35346638c8be7fc997d8.ckd",
+      "coverImageUrl": "/public/map/JustDance/orbis/JustDance_Cover_Generic.tga.ckd/3c5346316b9b3b88d5daf6e07de50cc0.ckd",
+      "coach1ImageUrl": "/public/map/JustDance/orbis/JustDance_Coach_1.tga.ckd/2d25d8a6532f59646457257336832eaf.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JustDance/JustDance_Coach_1_Phone.png/e316f7d3ddee0e04250c6d0569ea6f4b.png",
+    "phoneCoverImageUrl": "/public/map/JustDance/JustDance_Cover_Phone.jpg/10e5ac9ae78a9d8db95b11fb5b00c417.jpg",
+    "cover640ImageUrl": "/public/map/JustDance/JustDance_Cover_640.png/191d7e3d0808a0809da24f6e69e23ffd.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JustDance/JustDance.ogg": "/private/map/JustDance/JustDance.ogg/459ebb9f44f5e3f1fed121ca3b0f86e9.ogg",
+    "jmcs://jd-contents/JustDance/JustDance_AudioPreview.ogg": "/public/map/JustDance/JustDance_AudioPreview.ogg/a015f3f86eff412f1771c81ad8a528c3.ogg",
+    "jmcs://jd-contents/JustDance/JustDance_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JustDance/JustDance_MapPreviewNoSoundCrop_LOW.vp8.webm/fd1f886e2b1bee85fae3747096b2cbaf.webm",
+    "jmcs://jd-contents/JustDance/JustDance_HIGH.webm": "/private/map/JustDance/JustDance_HIGH.webm/98ef98f690dac935b64a2356818e131d.webm",
+    "jmcs://jd-contents/JustDance/JustDance_LOW.webm": "/private/map/JustDance/JustDance_LOW.webm/c1f681d1b5aa36acdea6d40a092d809d.webm",
+    "jmcs://jd-contents/JustDance/JustDance_MID.webm": "/private/map/JustDance/JustDance_MID.webm/d970b7c09e68d263a495525652d9c74b.webm",
+    "jmcs://jd-contents/JustDance/JustDance_ULTRA.hd.webm": "/private/map/JustDance/JustDance_ULTRA.hd.webm/ad51e60217cd7794288c1d7f0999875b.webm",
+    "jmcs://jd-contents/JustDance/JustDance_ULTRA.webm": "/private/map/JustDance/JustDance_ULTRA.webm/80d367e3fc1eb8118f44a2beda0f123b.webm",
+    "jmcs://jd-contents/JustDance/JustDance_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JustDance/JustDance_MapPreviewNoSoundCrop_MID.vp8.webm/5ede4a227cf122ef3cf9aa0b5a61076c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"493902\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JustDance/JustDance_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1433862\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JustDance/JustDance_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 242.016833
+}

@@ -1,0 +1,180 @@
+{
+  "urls": {
+    "jmcs://jd-contents/TheWeekend/TheWeekend.ogg": "/private/map/TheWeekend/TheWeekend.ogg/a608cae2b57baad53035d03ca711475c.ogg",
+    "jmcs://jd-contents/TheWeekend/TheWeekend_AudioPreview.ogg": "/public/map/TheWeekend/TheWeekend_AudioPreview.ogg/0a103dcbd9ab2c4c6cd6cb30ea6ae838.ogg",
+    "jmcs://jd-contents/TheWeekend/TheWeekend_HIGH.hd.webm": "/private/map/TheWeekend/TheWeekend_HIGH.hd.webm/40b017bf24563230c62b68214cfbaa51.webm",
+    "jmcs://jd-contents/TheWeekend/TheWeekend_LOW.hd.webm": "/private/map/TheWeekend/TheWeekend_LOW.hd.webm/abba15f92149b8f19455fa134514833e.webm",
+    "jmcs://jd-contents/TheWeekend/TheWeekend_MID.hd.webm": "/private/map/TheWeekend/TheWeekend_MID.hd.webm/29c49820c3572fd320a4ea4a134932ce.webm",
+    "jmcs://jd-contents/TheWeekend/TheWeekend_ULTRA.hd.webm": "/private/map/TheWeekend/TheWeekend_ULTRA.hd.webm/f1fb1bc48c09ca3f05706388fc1689e2.webm",
+    "jmcs://jd-contents/TheWeekend/TheWeekend_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TheWeekend/TheWeekend_MapPreviewNoSoundCrop_LOW.vp8.webm/77ce49c786cc98d933fb58244c9c4f27.webm",
+    "jmcs://jd-contents/TheWeekend/TheWeekend_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TheWeekend/TheWeekend_MapPreviewNoSoundCrop_MID.vp8.webm/991d080ec9663111bf4d11da52c388cc.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22677,
+        45354,
+        68031,
+        90709,
+        113386,
+        136063,
+        158740,
+        181417,
+        204094,
+        226772,
+        249449,
+        272126,
+        294803,
+        317480,
+        340157,
+        362835,
+        385512,
+        408189,
+        430866,
+        453543,
+        476220,
+        498898,
+        521575,
+        544252,
+        566929,
+        589606,
+        612283,
+        634961,
+        657638,
+        680315,
+        702992,
+        725669,
+        748346,
+        771024,
+        793701,
+        816378,
+        839055,
+        861732,
+        884409,
+        907087,
+        929764,
+        952441,
+        975118,
+        997795,
+        1020472,
+        1043150,
+        1065827,
+        1088504,
+        1111181,
+        1133858,
+        1156535,
+        1179213,
+        1201890,
+        1224567,
+        1247244,
+        1269921,
+        1292598,
+        1315276,
+        1337953,
+        1360630,
+        1383307,
+        1405984,
+        1428661,
+        1451339,
+        1474016
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 406,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TheWeekend/TheWeekend_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "2ca6fbca15e0708f72d80d85080080f9",
+      "storageType": 0,
+      "url": "/public/map/TheWeekend/nx/TheWeekend_MAIN_SCENE_NX.zip/2ca6fbca15e0708f72d80d85080080f9.zip"
+    },
+    "pc": {
+      "md5": "b4bf7cb0617ef56b04e5c6fe007d7197",
+      "storageType": 0,
+      "url": "/public/map/TheWeekend/pc/TheWeekend_MAIN_SCENE_PC.zip/b4bf7cb0617ef56b04e5c6fe007d7197.zip"
+    },
+    "ps4": {
+      "md5": "6736cfb6398e24131c1fb049bcd12dec",
+      "storageType": 0,
+      "url": "/public/map/TheWeekend/orbis/TheWeekend_MAIN_SCENE_ORBIS.zip/6736cfb6398e24131c1fb049bcd12dec.zip"
+    }
+  },
+  "data": {
+    "mapName": "TheWeekend",
+    "title": "The Weekend",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "Michael Gray",
+    "credits": "Written by Sally Margaret Still, James Irvin, Kevin Duane McCord, Michael Anthony Gray and Oliver Cheatham. Published by Warner Chappell Music Publishing Ltd (PRS). All Rights On Behalf Of Warner Chappell Music Publishing Ltd Administered By WC Music Corp. / Music Of Stage Three (BMI) All rights administered by BMG Rights Management (US) LLC. / Universal Music Publishing Canada on behalf of Songs Of Universal, Inc. Courtesy of Altra Moda Music BV.",
+    "coachCount": 2,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#4e008a",
+    "songColor2A": "#00cafd",
+    "songColor1B": "#3c00b7",
+    "songColor2B": "#edaa02",
+    "lyricsColor": "#3619c5",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TheWeekend/nx/TheWeekend_banner_bkg.tga.ckd/69015a99456c4fcbbc3559fd0b700fa9.ckd",
+      "map_bkgImageUrl": "/public/map/TheWeekend/nx/TheWeekend_map_bkg.tga.ckd/97cdb283152e7d838a27de1ef7bb7b64.ckd",
+      "expandCoachImageUrl": "/public/map/TheWeekend/nx/TheWeekend_Cover_AlbumCoach.tga.ckd/50b5ccc10ac8721c08802841374a24c2.ckd",
+      "cover_smallImageUrl": "/public/map/TheWeekend/nx/TheWeekend_Cover_Online.tga.ckd/dc62cdaa371ecc07c5e57547ebce639e.ckd",
+      "coverImageUrl": "/public/map/TheWeekend/nx/TheWeekend_Cover_Generic.tga.ckd/3a455394a23d09a053f39c409cf627a9.ckd",
+      "coach1ImageUrl": "/public/map/TheWeekend/nx/TheWeekend_Coach_1.tga.ckd/4d5a9d7cd3d51d5e792749cb26ed4722.ckd",
+      "coach2ImageUrl": "/public/map/TheWeekend/nx/TheWeekend_Coach_2.tga.ckd/7d00e4db7c6040d707f0fe7ba0b2fca4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TheWeekend/pc/TheWeekend_banner_bkg.tga.ckd/644c4b145bacc8f9df9d88fe8259bf16.ckd",
+      "map_bkgImageUrl": "/public/map/TheWeekend/pc/TheWeekend_map_bkg.tga.ckd/1965c28ce3993bf17d8204e8598d410c.ckd",
+      "expandCoachImageUrl": "/public/map/TheWeekend/pc/TheWeekend_Cover_AlbumCoach.tga.ckd/dd79dd5f57d503e57e95e7f0bef2db69.ckd",
+      "cover_smallImageUrl": "/public/map/TheWeekend/pc/TheWeekend_Cover_Online.tga.ckd/f3a4811dcc7b64b2a4fc3f2ff8068434.ckd",
+      "coverImageUrl": "/public/map/TheWeekend/pc/TheWeekend_Cover_Generic.tga.ckd/e8e6586b77f68a011cf5c724ca073203.ckd",
+      "coach1ImageUrl": "/public/map/TheWeekend/pc/TheWeekend_Coach_1.tga.ckd/f78089a6b523b266e932effb6a352ff2.ckd",
+      "coach2ImageUrl": "/public/map/TheWeekend/pc/TheWeekend_Coach_2.tga.ckd/0346046e85def7a853cd44d2f7fb49c7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TheWeekend/orbis/TheWeekend_banner_bkg.tga.ckd/644c4b145bacc8f9df9d88fe8259bf16.ckd",
+      "map_bkgImageUrl": "/public/map/TheWeekend/orbis/TheWeekend_map_bkg.tga.ckd/1965c28ce3993bf17d8204e8598d410c.ckd",
+      "expandCoachImageUrl": "/public/map/TheWeekend/orbis/TheWeekend_Cover_AlbumCoach.tga.ckd/dd79dd5f57d503e57e95e7f0bef2db69.ckd",
+      "cover_smallImageUrl": "/public/map/TheWeekend/orbis/TheWeekend_Cover_Online.tga.ckd/f3a4811dcc7b64b2a4fc3f2ff8068434.ckd",
+      "coverImageUrl": "/public/map/TheWeekend/orbis/TheWeekend_Cover_Generic.tga.ckd/e8e6586b77f68a011cf5c724ca073203.ckd",
+      "coach1ImageUrl": "/public/map/TheWeekend/orbis/TheWeekend_Coach_1.tga.ckd/f78089a6b523b266e932effb6a352ff2.ckd",
+      "coach2ImageUrl": "/public/map/TheWeekend/orbis/TheWeekend_Coach_2.tga.ckd/0346046e85def7a853cd44d2f7fb49c7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TheWeekend/TheWeekend_Coach_1_Phone.png/3854e3a19daa87f345e6e345d7d07d9f.png",
+    "phoneCoach2ImageUrl": "/public/map/TheWeekend/TheWeekend_Coach_2_Phone.png/34fe74c77eb035e2d265557085220892.png",
+    "phoneCoverImageUrl": "/public/map/TheWeekend/TheWeekend_Cover_Phone.jpg/b0373c7d1ae19812158a9306a286f9e0.jpg",
+    "cover640ImageUrl": "/public/map/TheWeekend/TheWeekend_Cover_640.png/c2a33c30fbd8022c6dfc5047fa2ae618.png"
+  },
+  "mapLength": 193.228271
+}

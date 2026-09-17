@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1700964aa596ccec01143a6ec54b980a",
+      "storageType": 0,
+      "url": "/public/map/MoveYourFeet/nx/MoveYourFeet_MAIN_SCENE_NX.zip/1700964aa596ccec01143a6ec54b980a.zip"
+    },
+    "pc": {
+      "md5": "e711185e4aff7892792b4ade21e66d00",
+      "storageType": 0,
+      "url": "/public/map/MoveYourFeet/pc/MoveYourFeet_MAIN_SCENE_PC.zip/e711185e4aff7892792b4ade21e66d00.zip"
+    },
+    "ps4": {
+      "md5": "05348e6e7113211a1903dc6468a38a7c",
+      "storageType": 0,
+      "url": "/public/map/MoveYourFeet/orbis/MoveYourFeet_MAIN_SCENE_ORBIS.zip/05348e6e7113211a1903dc6468a38a7c.zip"
+    }
+  },
+  "data": {
+    "mapName": "MoveYourFeet",
+    "title": "Move Your Feet",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Junior Senior",
+    "credits": "Junior Senior - ''Move Your Feet'' Written by Jesper Mortensen. Produced by Junior and Thomas Troelsen. Published by Crunchy Tunes. Courtesy of Warner Music Canada Co. and Crunchy Frog. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#F5AC00",
+    "songColor2A": "#0EFFC0",
+    "songColor1B": "#B50000",
+    "songColor2B": "#002A41",
+    "lyricsColor": "#00FFFD",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24225,
+        48451,
+        72676,
+        96901,
+        121127,
+        145352,
+        169577,
+        193803,
+        218028,
+        242253,
+        266478,
+        290704,
+        314929,
+        339154,
+        363380,
+        387605,
+        411830,
+        436056,
+        460281,
+        484506,
+        508732,
+        532957,
+        557182,
+        581407,
+        605633,
+        629858,
+        654083,
+        678309,
+        702534,
+        726759,
+        750985,
+        775210,
+        799435,
+        823660,
+        847886,
+        872111,
+        896336,
+        920562,
+        944787,
+        969012,
+        993238,
+        1017463,
+        1041688,
+        1065914,
+        1090139,
+        1114364,
+        1138589,
+        1162815,
+        1187040,
+        1211265,
+        1235491,
+        1259716,
+        1283941,
+        1308167,
+        1332392,
+        1356617,
+        1380843,
+        1405068,
+        1429293
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 373,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/moveyourfeet/moveyourfeet_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MoveYourFeet/nx/MoveYourFeet_banner_bkg.tga.ckd/0f1cc97bb16daab7c40a69f026361fff.ckd",
+      "map_bkgImageUrl": "/public/map/MoveYourFeet/nx/MoveYourFeet_map_bkg.tga.ckd/0b47c931dc2e047eb833374ef67d73d1.ckd",
+      "expandCoachImageUrl": "/public/map/MoveYourFeet/nx/MoveYourFeet_Cover_AlbumCoach.tga.ckd/ed6f14b8aa8fd177ba9e98307e83e2c8.ckd",
+      "cover_smallImageUrl": "/public/map/MoveYourFeet/nx/MoveYourFeet_Cover_Online.tga.ckd/bc18d3f15277cb6be6d1ed28819043d3.ckd",
+      "coverImageUrl": "/public/map/MoveYourFeet/nx/MoveYourFeet_Cover_Generic.tga.ckd/c07e0229aaa692c488e29b9edabf0782.ckd",
+      "coach1ImageUrl": "/public/map/MoveYourFeet/nx/MoveYourFeet_Coach_1.tga.ckd/b63acdb6642bcaabe35324036b7e8177.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MoveYourFeet/pc/MoveYourFeet_banner_bkg.tga.ckd/3191d74c9d4a104936cbf52bc25002ea.ckd",
+      "map_bkgImageUrl": "/public/map/MoveYourFeet/pc/MoveYourFeet_map_bkg.tga.ckd/3a3c63146552307729f99b0c9d865b55.ckd",
+      "expandCoachImageUrl": "/public/map/MoveYourFeet/pc/MoveYourFeet_Cover_AlbumCoach.tga.ckd/bedd458babfeb13fa96a4dd82d7ded11.ckd",
+      "cover_smallImageUrl": "/public/map/MoveYourFeet/pc/MoveYourFeet_Cover_Online.tga.ckd/2c0fef6849eef2827b810823962e8081.ckd",
+      "coverImageUrl": "/public/map/MoveYourFeet/pc/MoveYourFeet_Cover_Generic.tga.ckd/5565ac588811e438acea033356dbc852.ckd",
+      "coach1ImageUrl": "/public/map/MoveYourFeet/pc/MoveYourFeet_Coach_1.tga.ckd/fca060355ed55c46905b159463d9dec0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MoveYourFeet/orbis/MoveYourFeet_banner_bkg.tga.ckd/3191d74c9d4a104936cbf52bc25002ea.ckd",
+      "map_bkgImageUrl": "/public/map/MoveYourFeet/orbis/MoveYourFeet_map_bkg.tga.ckd/3a3c63146552307729f99b0c9d865b55.ckd",
+      "expandCoachImageUrl": "/public/map/MoveYourFeet/orbis/MoveYourFeet_Cover_AlbumCoach.tga.ckd/bedd458babfeb13fa96a4dd82d7ded11.ckd",
+      "cover_smallImageUrl": "/public/map/MoveYourFeet/orbis/MoveYourFeet_Cover_Online.tga.ckd/2c0fef6849eef2827b810823962e8081.ckd",
+      "coverImageUrl": "/public/map/MoveYourFeet/orbis/MoveYourFeet_Cover_Generic.tga.ckd/5565ac588811e438acea033356dbc852.ckd",
+      "coach1ImageUrl": "/public/map/MoveYourFeet/orbis/MoveYourFeet_Coach_1.tga.ckd/fca060355ed55c46905b159463d9dec0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MoveYourFeet/MoveYourFeet_Coach_1_Phone.png/0bf345bf9d7fc32154d5e32c9a599e8b.png",
+    "phoneCoverImageUrl": "/public/map/MoveYourFeet/MoveYourFeet_Cover_Phone.jpg/4305ca18e52ae943331fa4c821cef15d.jpg",
+    "cover640ImageUrl": "/public/map/MoveYourFeet/MoveYourFeet_Cover_640.png/ecb2512ae88ef14db5a72195b9f99c55.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MoveYourFeet/MoveYourFeet.ogg": "/private/map/MoveYourFeet/MoveYourFeet.ogg/8af404b0f1881e14aea2a91b4bea7e13.ogg",
+    "jmcs://jd-contents/MoveYourFeet/MoveYourFeet_AudioPreview.ogg": "/public/map/MoveYourFeet/MoveYourFeet_AudioPreview.ogg/6d6f77bd74f9dcf342d6e5b76874b96d.ogg",
+    "jmcs://jd-contents/MoveYourFeet/MoveYourFeet_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MoveYourFeet/MoveYourFeet_MapPreviewNoSoundCrop_LOW.vp8.webm/93120b0880b751bc3af52b7a14b3cc7e.webm",
+    "jmcs://jd-contents/MoveYourFeet/MoveYourFeet_ULTRA.hd.webm": "/private/map/MoveYourFeet/MoveYourFeet_ULTRA.hd.webm/9cb700a24469ec9db96ad2877d4959ad.webm",
+    "jmcs://jd-contents/MoveYourFeet/MoveYourFeet_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MoveYourFeet/MoveYourFeet_MapPreviewNoSoundCrop_MID.vp8.webm/0f2489a0fd33562c7f98cfa37beb32c3.webm",
+    "jmcs://jd-contents/MoveYourFeet/MoveYourFeet_HIGH.hd.webm": "/private/map/MoveYourFeet/MoveYourFeet_HIGH.hd.webm/629fc005e4dbad03f305d91de557b396.webm",
+    "jmcs://jd-contents/MoveYourFeet/MoveYourFeet_LOW.hd.webm": "/private/map/MoveYourFeet/MoveYourFeet_LOW.hd.webm/71dbad82a5df44982d1057c879e3ca0b.webm",
+    "jmcs://jd-contents/MoveYourFeet/MoveYourFeet_MID.hd.webm": "/private/map/MoveYourFeet/MoveYourFeet_MID.hd.webm/cbb4a42295a0074f32f6706d428d1ec9.webm"
+  },
+  "mapLength": 188.997813,
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"533041\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MoveYourFeet/MoveYourFeet_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\n\t\t\t\t\t<Initialization range=\"0-614\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1994446\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MoveYourFeet/MoveYourFeet_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n"
+}

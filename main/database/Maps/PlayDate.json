@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e4b88491f257836893e3247c7bae1ccd",
+      "storageType": 0,
+      "url": "/public/map/PlayDate/nx/PlayDate_MAIN_SCENE_NX.zip/e4b88491f257836893e3247c7bae1ccd.zip"
+    },
+    "pc": {
+      "md5": "94766c2a53e40aa8be04d58359a8232c",
+      "storageType": 0,
+      "url": "/public/map/PlayDate/pc/PlayDate_MAIN_SCENE_PC.zip/94766c2a53e40aa8be04d58359a8232c.zip"
+    },
+    "ps4": {
+      "md5": "2399bd47a5a95948ec6268af63d49ab3",
+      "storageType": 0,
+      "url": "/public/map/PlayDate/orbis/PlayDate_MAIN_SCENE_ORBIS.zip/2399bd47a5a95948ec6268af63d49ab3.zip"
+    }
+  },
+  "data": {
+    "mapName": "PlayDate",
+    "title": "Play Date",
+    "originalJDVersion": 2025,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Melanie Martinez",
+    "credits": "Written by Jennifer Erin Decilveo, Melanie Martinez. Published by BMG Rights Management Canada B obo BMG Mercury / Gap City Music and Warner-Tamerlane Publishing Corp. All rights on behalf of itself and Gap City Music administered by Warner-Tamerlane Publishing Corp. Courtesy of Atlantic Recording Corp. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#02df74",
+    "songColor2A": "#ff811b",
+    "songColor1B": "#052039",
+    "songColor2B": "#804210",
+    "lyricsColor": "#db2301"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23226,
+        46452,
+        69677,
+        92903,
+        116129,
+        139355,
+        162581,
+        185806,
+        209032,
+        232258,
+        255484,
+        278710,
+        301935,
+        325161,
+        348387,
+        371613,
+        394839,
+        418065,
+        441290,
+        464516,
+        487742,
+        510968,
+        534194,
+        557419,
+        580645,
+        603871,
+        627097,
+        650323,
+        673548,
+        696774,
+        720000,
+        743226,
+        766452,
+        789677,
+        812903,
+        836129,
+        859355,
+        882581,
+        905806,
+        929032,
+        952258,
+        975484,
+        998710,
+        1021935,
+        1045161,
+        1068387,
+        1091613,
+        1114839,
+        1138065,
+        1161290,
+        1184516,
+        1207742,
+        1230968,
+        1254194,
+        1277419,
+        1300645,
+        1323871,
+        1347097,
+        1370323,
+        1393548,
+        1416774,
+        1440000,
+        1463226,
+        1486452
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 378,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PlayDate/PlayDate_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PlayDate/nx/PlayDate_banner_bkg.tga.ckd/2421b41c4e577ca71a38fea83048e652.ckd",
+      "map_bkgImageUrl": "/public/map/PlayDate/nx/PlayDate_map_bkg.tga.ckd/9bcf0d4c8eff0d209065841309e28cf2.ckd",
+      "expandCoachImageUrl": "/public/map/PlayDate/nx/PlayDate_Cover_AlbumCoach.tga.ckd/9e607423ce18d40c6d1efd3dd5747ea1.ckd",
+      "cover_smallImageUrl": "/public/map/PlayDate/nx/PlayDate_Cover_Online.tga.ckd/4fb905cb8b58b16f2facf8f91f7a6088.ckd",
+      "coverImageUrl": "/public/map/PlayDate/nx/PlayDate_Cover_Generic.tga.ckd/2214d9e784f85c756a9d49c691792a8d.ckd",
+      "coach1ImageUrl": "/public/map/PlayDate/nx/PlayDate_Coach_1.tga.ckd/01789d2d88140ee2ae72e539564ad24a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PlayDate/pc/PlayDate_banner_bkg.tga.ckd/e9d7ee80cfcd81b8559ba8778b778030.ckd",
+      "map_bkgImageUrl": "/public/map/PlayDate/pc/PlayDate_map_bkg.tga.ckd/bdcd934ce8cbcb47bb159ba0d0124912.ckd",
+      "expandCoachImageUrl": "/public/map/PlayDate/pc/PlayDate_Cover_AlbumCoach.tga.ckd/b3400f3c7ca96095fb9579b7411a0b25.ckd",
+      "cover_smallImageUrl": "/public/map/PlayDate/pc/PlayDate_Cover_Online.tga.ckd/fdbdb5ee716832b352007b4a510e3d58.ckd",
+      "coverImageUrl": "/public/map/PlayDate/pc/PlayDate_Cover_Generic.tga.ckd/fedc985549f2df9527aa51da1dbc7bd9.ckd",
+      "coach1ImageUrl": "/public/map/PlayDate/pc/PlayDate_Coach_1.tga.ckd/511fed30476b861ff0ae8b51a46e8b77.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PlayDate/orbis/PlayDate_banner_bkg.tga.ckd/e9d7ee80cfcd81b8559ba8778b778030.ckd",
+      "map_bkgImageUrl": "/public/map/PlayDate/orbis/PlayDate_map_bkg.tga.ckd/bdcd934ce8cbcb47bb159ba0d0124912.ckd",
+      "expandCoachImageUrl": "/public/map/PlayDate/orbis/PlayDate_Cover_AlbumCoach.tga.ckd/b3400f3c7ca96095fb9579b7411a0b25.ckd",
+      "cover_smallImageUrl": "/public/map/PlayDate/orbis/PlayDate_Cover_Online.tga.ckd/fdbdb5ee716832b352007b4a510e3d58.ckd",
+      "coverImageUrl": "/public/map/PlayDate/orbis/PlayDate_Cover_Generic.tga.ckd/fedc985549f2df9527aa51da1dbc7bd9.ckd",
+      "coach1ImageUrl": "/public/map/PlayDate/orbis/PlayDate_Coach_1.tga.ckd/511fed30476b861ff0ae8b51a46e8b77.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PlayDate/PlayDate_Coach_1_Phone.png/3e9f0222aedacf07da729427145f9544.png",
+    "phoneCoverImageUrl": "/public/map/PlayDate/PlayDate_Cover_Phone.jpg/1d719c213d922aa91a26c24bd336d803.jpg",
+    "cover640ImageUrl": "/public/map/PlayDate/PlayDate_Cover_640.png/7897662696d94cd048c92dea996a5b58.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/PlayDate/PlayDate.ogg": "/private/map/PlayDate/PlayDate.ogg/b010031f4d40b6de009c65bde0ac2b70.ogg",
+    "jmcs://jd-contents/PlayDate/PlayDate_AudioPreview.ogg": "/public/map/PlayDate/PlayDate_AudioPreview.ogg/2e0cdaf0278b96aa6812031453f5eda9.ogg",
+    "jmcs://jd-contents/PlayDate/PlayDate_HIGH.webm": "/private/map/PlayDate/PlayDate_HIGH.webm/6dfc3cf6c2856efd3d497daa4b565637.webm",
+    "jmcs://jd-contents/PlayDate/PlayDate_LOW.webm": "/private/map/PlayDate/PlayDate_LOW.webm/e59d33a82294de58678169b69629baf4.webm",
+    "jmcs://jd-contents/PlayDate/PlayDate_MID.webm": "/private/map/PlayDate/PlayDate_MID.webm/869d988bbd0c422e4bc1b72b6c2fb496.webm",
+    "jmcs://jd-contents/PlayDate/PlayDate_ULTRA.hd.webm": "/private/map/PlayDate/PlayDate_ULTRA.hd.webm/533b1a16af84efcc749b63f4390caf8a.webm",
+    "jmcs://jd-contents/PlayDate/PlayDate_ULTRA.webm": "/private/map/PlayDate/PlayDate_ULTRA.webm/c69f63e39dd09739a6975779c497ef8c.webm",
+    "jmcs://jd-contents/PlayDate/PlayDate_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PlayDate/PlayDate_MapPreviewNoSoundCrop_LOW.vp8.webm/092af14557b192fd13b1205e60443d2a.webm",
+    "jmcs://jd-contents/PlayDate/PlayDate_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PlayDate/PlayDate_MapPreviewNoSoundCrop_MID.vp8.webm/d7e9154273f116a1413a76f97c9e984e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"476873\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PlayDate/PlayDate_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"658-1148\">\n\t\t\t\t\t<Initialization range=\"0-658\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1323894\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PlayDate/PlayDate_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"659-1149\">\n\t\t\t\t\t<Initialization range=\"0-659\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 183.868896
+}

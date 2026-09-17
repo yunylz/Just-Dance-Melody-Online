@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ec7c0b8a48c18446fa916542277060a3",
+      "storageType": 0,
+      "url": "/public/map/Luc/nx/Luc_MAIN_SCENE_NX.zip/ec7c0b8a48c18446fa916542277060a3.zip"
+    },
+    "pc": {
+      "md5": "2cb3fa10327b021f9dff4a824a36f600",
+      "storageType": 0,
+      "url": "/public/map/Luc/pc/Luc_MAIN_SCENE_PC.zip/2cb3fa10327b021f9dff4a824a36f600.zip"
+    },
+    "ps4": {
+      "md5": "c7230363b4974e812a8943c5cc2e33f7",
+      "storageType": 0,
+      "url": "/public/map/Luc/orbis/Luc_MAIN_SCENE_ORBIS.zip/c7230363b4974e812a8943c5cc2e33f7.zip"
+    }
+  },
+  "data": {
+    "mapName": "Luc",
+    "title": "LUCID",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Mashup",
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Rina Sawayama",
+    "credits": "Diogo",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#4aebcc"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22857,
+        45714,
+        68571,
+        91429,
+        114286,
+        137143,
+        160000,
+        182857,
+        205714,
+        228571,
+        251429,
+        274286,
+        297143,
+        320000,
+        342857,
+        365714,
+        388571,
+        411429,
+        434286,
+        457143,
+        480000,
+        502857,
+        525714,
+        548571,
+        571429,
+        594286,
+        617143,
+        640000,
+        662857,
+        685714,
+        708571,
+        731429,
+        754286,
+        777143,
+        800000,
+        822857,
+        845714,
+        868571,
+        891429,
+        914286,
+        937143,
+        960000,
+        982857,
+        1005714,
+        1028571,
+        1051429,
+        1074286,
+        1097143,
+        1120000,
+        1142857,
+        1165714,
+        1188571,
+        1211429,
+        1234286,
+        1257143,
+        1280000,
+        1302857,
+        1325714,
+        1348571,
+        1371429,
+        1394286,
+        1417143,
+        1440000,
+        1462857,
+        1485714
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 454,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Luc/Luc_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Luc/nx/Luc_banner_bkg.tga.ckd/24b948f00ffdec124dce33652a006784.ckd",
+      "map_bkgImageUrl": "/public/map/Luc/nx/Luc_map_bkg.tga.ckd/9e41fb8222765f6f517b2fbfb7a12b28.ckd",
+      "expandCoachImageUrl": "/public/map/Luc/nx/Luc_Cover_AlbumCoach.tga.ckd/b93ce736cae7844d7418512f88bf696d.ckd",
+      "cover_smallImageUrl": "/public/map/Luc/nx/Luc_Cover_Online.tga.ckd/e8078eac21076f69bc9c987d10ac2bea.ckd",
+      "coach1ImageUrl": "/public/map/Luc/nx/Luc_Coach_1.tga.ckd/8223bf4cd50b481322e7af3dfc8a8ad4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Luc/pc/Luc_banner_bkg.tga.ckd/eac0ef0334724284b91d8a4f5b59ab94.ckd",
+      "map_bkgImageUrl": "/public/map/Luc/pc/Luc_map_bkg.tga.ckd/0a6fa0a2b8c7e113487f6acc85b49c78.ckd",
+      "expandCoachImageUrl": "/public/map/Luc/pc/Luc_Cover_AlbumCoach.tga.ckd/8417f04d1bc4a5a5013c1da6dfcfe464.ckd",
+      "cover_smallImageUrl": "/public/map/Luc/pc/Luc_Cover_Online.tga.ckd/68cb8911300b90c1539ef413cfed6298.ckd",
+      "coach1ImageUrl": "/public/map/Luc/pc/Luc_Coach_1.tga.ckd/066c9a676d9726edfe567b733c9a7f15.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Luc/orbis/Luc_banner_bkg.tga.ckd/eac0ef0334724284b91d8a4f5b59ab94.ckd",
+      "map_bkgImageUrl": "/public/map/Luc/orbis/Luc_map_bkg.tga.ckd/0a6fa0a2b8c7e113487f6acc85b49c78.ckd",
+      "expandCoachImageUrl": "/public/map/Luc/orbis/Luc_Cover_AlbumCoach.tga.ckd/8417f04d1bc4a5a5013c1da6dfcfe464.ckd",
+      "cover_smallImageUrl": "/public/map/Luc/orbis/Luc_Cover_Online.tga.ckd/68cb8911300b90c1539ef413cfed6298.ckd",
+      "coach1ImageUrl": "/public/map/Luc/orbis/Luc_Coach_1.tga.ckd/066c9a676d9726edfe567b733c9a7f15.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Luc/Luc_Coach_1_Phone.png/e640668669046acf5dc9350b35482f51.png",
+    "phoneCoverImageUrl": "/public/map/Luc/Luc_Cover_Phone.jpg/3ab12e258cf09b37775be22319c9d052.jpg",
+    "cover640ImageUrl": "/public/map/Luc/Luc_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Luc/Luc.ogg": "/private/map/Luc/Luc.ogg/1f2e4d348be9efac4ec6766978ab26cf.ogg",
+    "jmcs://jd-contents/Luc/Luc_AudioPreview.ogg": "/public/map/Luc/Luc_AudioPreview.ogg/b5aa20b64fa8bc1e657d7c2bbb929cd8.ogg",
+    "jmcs://jd-contents/Luc/Luc_HIGH.webm": "/private/map/Luc/Luc_HIGH.webm/e72a2a23cfa3713a9b39d14dfbd8e279.webm",
+    "jmcs://jd-contents/Luc/Luc_LOW.webm": "/private/map/Luc/Luc_LOW.webm/64c369f095fd4c3af12dacd7b17a281e.webm",
+    "jmcs://jd-contents/Luc/Luc_MID.webm": "/private/map/Luc/Luc_MID.webm/535656e5bd623304f2576a5b5f639bf2.webm",
+    "jmcs://jd-contents/Luc/Luc_ULTRA.webm": "/private/map/Luc/Luc_ULTRA.webm/b42618a9667a8cfaf34f2bacaabca6ba.webm",
+    "jmcs://jd-contents/Luc/Luc_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Luc/Luc_MapPreviewNoSoundCrop_LOW.vp8.webm/5a6c4ce1aa0e230f6f4b2ec27cf456b6.webm",
+    "jmcs://jd-contents/Luc/Luc_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Luc/Luc_MapPreviewNoSoundCrop_MID.vp8.webm/47761f74f27c7a4f869b9ecb9d6f4d1f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"579497\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Luc/Luc_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484412\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Luc/Luc_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 217.633813
+}

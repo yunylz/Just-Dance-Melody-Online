@@ -1,0 +1,168 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WillMyLifeBegin/WillMyLifeBegin.ogg": "/private/map/WillMyLifeBegin/WillMyLifeBegin.ogg/ce48759409f24102ba0c908fc7d2244d.ogg",
+    "jmcs://jd-contents/WillMyLifeBegin/WillMyLifeBegin_AudioPreview.ogg": "/public/map/WillMyLifeBegin/WillMyLifeBegin_AudioPreview.ogg/c8ef04aa6e8e01b5f9ee96bfbd97aba0.ogg",
+    "jmcs://jd-contents/WillMyLifeBegin/WillMyLifeBegin_HIGH.hd.webm": "/private/map/WillMyLifeBegin/WillMyLifeBegin_HIGH.hd.webm/ec39a0ef886ae021356b446a88db3cfd.webm",
+    "jmcs://jd-contents/WillMyLifeBegin/WillMyLifeBegin_LOW.hd.webm": "/private/map/WillMyLifeBegin/WillMyLifeBegin_LOW.hd.webm/ae1c81f71efb513d50c16ace3ed49566.webm",
+    "jmcs://jd-contents/WillMyLifeBegin/WillMyLifeBegin_MID.hd.webm": "/private/map/WillMyLifeBegin/WillMyLifeBegin_MID.hd.webm/0cb1457e304f6fdc3352b65f9a4454a1.webm",
+    "jmcs://jd-contents/WillMyLifeBegin/WillMyLifeBegin_ULTRA.hd.webm": "/private/map/WillMyLifeBegin/WillMyLifeBegin_ULTRA.hd.webm/a245064dbbc5caf8c5893dc89bbc34ab.webm",
+    "jmcs://jd-contents/WillMyLifeBegin/WillMyLifeBegin_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WillMyLifeBegin/WillMyLifeBegin_MapPreviewNoSoundCrop_LOW.vp8.webm/1cc59fe18904604fe3894826b778554a.webm",
+    "jmcs://jd-contents/WillMyLifeBegin/WillMyLifeBegin_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WillMyLifeBegin/WillMyLifeBegin_MapPreviewNoSoundCrop_MID.vp8.webm/d7cde2d9a97985144fae0af68cd8117e.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26667,
+        53333,
+        80000,
+        106667,
+        133333,
+        160000,
+        186667,
+        213333,
+        240000,
+        266667,
+        293333,
+        320000,
+        346667,
+        373333,
+        400000,
+        426667,
+        453333,
+        480000,
+        506667,
+        533333,
+        560000,
+        586667,
+        613333,
+        640000,
+        666667,
+        693333,
+        720000,
+        746667,
+        773333,
+        800000,
+        826667,
+        853333,
+        880000,
+        906667,
+        933333,
+        960000,
+        986667,
+        1013333,
+        1040000,
+        1066667,
+        1093333,
+        1120000,
+        1146667,
+        1173333,
+        1200000,
+        1226667,
+        1253333,
+        1280000,
+        1306667,
+        1333333,
+        1360000,
+        1386667,
+        1413333,
+        1440000,
+        1466667,
+        1493333
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 235,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WillMyLifeBegin/WillMyLifeBegin_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"521508\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WillMyLifeBegin/WillMyLifeBegin_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1995513\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WillMyLifeBegin/WillMyLifeBegin_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "cf61f64bdcdb9d23f6b2814d90c5b4cd",
+      "storageType": 0,
+      "url": "/public/map/WillMyLifeBegin/nx/WillMyLifeBegin_MAIN_SCENE_NX.zip/cf61f64bdcdb9d23f6b2814d90c5b4cd.zip"
+    },
+    "pc": {
+      "md5": "ecddd17c28a53d52b8b9aa675386842e",
+      "storageType": 0,
+      "url": "/public/map/WillMyLifeBegin/pc/WillMyLifeBegin_MAIN_SCENE_PC.zip/ecddd17c28a53d52b8b9aa675386842e.zip"
+    },
+    "ps4": {
+      "md5": "4370fbc7a24e984456f7527e7c8eef62",
+      "storageType": 0,
+      "url": "/public/map/WillMyLifeBegin/orbis/WillMyLifeBegin_MAIN_SCENE_ORBIS.zip/4370fbc7a24e984456f7527e7c8eef62.zip"
+    }
+  },
+  "data": {
+    "mapName": "WillMyLifeBegin",
+    "title": "When Will My Life Begin?",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Disney's Tangled",
+    "credits": "Performed by Mandy Moore. Written by Alan Menken, Glenn Slater. Published by Walt Disney Music Company (ASCAP) / Wonderland Music Company, Inc. (BMI) Courtesy of Walt Disney Records.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#fb90ec",
+    "songColor2A": "#faba80",
+    "songColor1B": "#74097e",
+    "songColor2B": "#8b3705",
+    "lyricsColor": "#1939ff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WillMyLifeBegin/nx/WillMyLifeBegin_banner_bkg.tga.ckd/5bf09b98f641dfa218c8ef8187d6a6e6.ckd",
+      "map_bkgImageUrl": "/public/map/WillMyLifeBegin/nx/WillMyLifeBegin_map_bkg.tga.ckd/7e5e917c18a44816a284c97ed1dfb5be.ckd",
+      "expandCoachImageUrl": "/public/map/WillMyLifeBegin/nx/WillMyLifeBegin_Cover_AlbumCoach.tga.ckd/bf8bdba427bf9e0248038b073d660aaa.ckd",
+      "cover_smallImageUrl": "/public/map/WillMyLifeBegin/nx/WillMyLifeBegin_Cover_Online.tga.ckd/e60adbff0497c6b239c821a1cc2ab226.ckd",
+      "coverImageUrl": "/public/map/WillMyLifeBegin/nx/WillMyLifeBegin_Cover_Generic.tga.ckd/619f4facaefea13d4e2c5ff3dbabdceb.ckd",
+      "coach1ImageUrl": "/public/map/WillMyLifeBegin/nx/WillMyLifeBegin_Coach_1.tga.ckd/a0fa32ccfce7943a047fd94625a54164.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WillMyLifeBegin/pc/WillMyLifeBegin_banner_bkg.tga.ckd/9339c627c7e495bb17263702cc7de5eb.ckd",
+      "map_bkgImageUrl": "/public/map/WillMyLifeBegin/pc/WillMyLifeBegin_map_bkg.tga.ckd/ec1600127d5833f4d22821375cf502ab.ckd",
+      "expandCoachImageUrl": "/public/map/WillMyLifeBegin/pc/WillMyLifeBegin_Cover_AlbumCoach.tga.ckd/92897f155ff22f09cb67412281b98207.ckd",
+      "cover_smallImageUrl": "/public/map/WillMyLifeBegin/pc/WillMyLifeBegin_Cover_Online.tga.ckd/91d0e27912b88999a7e3e54bf0eb20c4.ckd",
+      "coverImageUrl": "/public/map/WillMyLifeBegin/pc/WillMyLifeBegin_Cover_Generic.tga.ckd/905aa269f624de80f1a85cf58c3b680b.ckd",
+      "coach1ImageUrl": "/public/map/WillMyLifeBegin/pc/WillMyLifeBegin_Coach_1.tga.ckd/03e8f1e63ea9d98c20447113f5ecda81.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WillMyLifeBegin/orbis/WillMyLifeBegin_banner_bkg.tga.ckd/9339c627c7e495bb17263702cc7de5eb.ckd",
+      "map_bkgImageUrl": "/public/map/WillMyLifeBegin/orbis/WillMyLifeBegin_map_bkg.tga.ckd/ec1600127d5833f4d22821375cf502ab.ckd",
+      "expandCoachImageUrl": "/public/map/WillMyLifeBegin/orbis/WillMyLifeBegin_Cover_AlbumCoach.tga.ckd/92897f155ff22f09cb67412281b98207.ckd",
+      "cover_smallImageUrl": "/public/map/WillMyLifeBegin/orbis/WillMyLifeBegin_Cover_Online.tga.ckd/91d0e27912b88999a7e3e54bf0eb20c4.ckd",
+      "coverImageUrl": "/public/map/WillMyLifeBegin/orbis/WillMyLifeBegin_Cover_Generic.tga.ckd/905aa269f624de80f1a85cf58c3b680b.ckd",
+      "coach1ImageUrl": "/public/map/WillMyLifeBegin/orbis/WillMyLifeBegin_Coach_1.tga.ckd/03e8f1e63ea9d98c20447113f5ecda81.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WillMyLifeBegin/WillMyLifeBegin_Coach_1_Phone.png/b97052b99a39bcb7fb69d8013754c2c2.png",
+    "phoneCoverImageUrl": "/public/map/WillMyLifeBegin/WillMyLifeBegin_Cover_Phone.jpg/a68e82958da262049c77b922c922b879.jpg",
+    "cover640ImageUrl": "/public/map/WillMyLifeBegin/WillMyLifeBegin_Cover_640.png/264d803db2907af3a6f1afa42a0e9da7.png"
+  },
+  "mapLength": 150.658208
+}

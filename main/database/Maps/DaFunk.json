@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7a7a8a2e914259f1113fb5fbf7f56ae4",
+      "storageType": 0,
+      "url": "/public/map/DaFunk/nx/DaFunk_MAIN_SCENE_NX.zip/7a7a8a2e914259f1113fb5fbf7f56ae4.zip"
+    },
+    "pc": {
+      "md5": "1fb80e688b04d1b6ce930e4f1494b5a0",
+      "storageType": 0,
+      "url": "/public/map/DaFunk/pc/DaFunk_MAIN_SCENE_PC.zip/1fb80e688b04d1b6ce930e4f1494b5a0.zip"
+    },
+    "ps4": {
+      "md5": "3598d43856f9910be343a1361682d110",
+      "storageType": 0,
+      "url": "/public/map/DaFunk/orbis/DaFunk_MAIN_SCENE_ORBIS.zip/3598d43856f9910be343a1361682d110.zip"
+    }
+  },
+  "data": {
+    "mapName": "DaFunk",
+    "title": "Da Funk",
+    "originalJDVersion": 3,
+    "tags": [
+      "main"
+    ],
+    "artist": "Daft Punk",
+    "credits": "Written by Thomas Bangalter, Guy Manuel Homem Christo. Published by Universal Music Publishing Group a division of Universal Music Canada Inc. Courtesy of Daft Life Ltd under exclusive license to EMI Music France. Under license from EMI Film & Television Music.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32976,
+        58896,
+        84768,
+        110640,
+        136560,
+        162432,
+        188352,
+        214224,
+        240144,
+        266016,
+        291936,
+        317808,
+        343728,
+        369600,
+        395472,
+        421392,
+        447264,
+        473616,
+        499056,
+        524976,
+        550848,
+        576768,
+        602640,
+        628560,
+        654432,
+        680304,
+        706224,
+        732096,
+        758016,
+        783888,
+        809808,
+        835680,
+        861600,
+        887472,
+        913392,
+        939264,
+        965136,
+        991056,
+        1016928,
+        1042848,
+        1068720,
+        1094640,
+        1120512,
+        1146432,
+        1172304,
+        1198224,
+        1224096,
+        1249968,
+        1276272,
+        1301760,
+        1327680,
+        1353552,
+        1379472,
+        1405344,
+        1431264,
+        1457136,
+        1483344
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 414,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DaFunk/DaFunk_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DaFunk/nx/DaFunk_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/DaFunk/nx/DaFunk_map_bkg.tga.ckd/e52e895bea9e7cc6e32372709245766f.ckd",
+      "expandCoachImageUrl": "/public/map/DaFunk/nx/DaFunk_Cover_AlbumCoach.tga.ckd/71675749c73b6d6f07eb9d62ae23dacc.ckd",
+      "cover_smallImageUrl": "/public/map/DaFunk/nx/DaFunk_Cover_Online.tga.ckd/043abfe4c8ad246581f482d8802918fb.ckd",
+      "coach1ImageUrl": "/public/map/DaFunk/nx/DaFunk_Coach_1.tga.ckd/8671af64216d70cf405f562959e33ac7.ckd",
+      "coach2ImageUrl": "/public/map/DaFunk/nx/DaFunk_Coach_2.tga.ckd/96f2e87d132e6a4f9953046e648084ae.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DaFunk/pc/DaFunk_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/DaFunk/pc/DaFunk_map_bkg.tga.ckd/2abeca7e1f0df7e8fad635f101a21dcd.ckd",
+      "expandCoachImageUrl": "/public/map/DaFunk/pc/DaFunk_Cover_AlbumCoach.tga.ckd/c5c1a20671ea54a6a702ddb5e6e9ad18.ckd",
+      "cover_smallImageUrl": "/public/map/DaFunk/pc/DaFunk_Cover_Online.tga.ckd/c96ef9b16c0befbb9f7ddf15295646c3.ckd",
+      "coach1ImageUrl": "/public/map/DaFunk/pc/DaFunk_Coach_1.tga.ckd/fd5546c3aaaa0c61b33940fc4617d3a6.ckd",
+      "coach2ImageUrl": "/public/map/DaFunk/pc/DaFunk_Coach_2.tga.ckd/cf87032cd1f329667a3412a1ff834f0e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DaFunk/orbis/DaFunk_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/DaFunk/orbis/DaFunk_map_bkg.tga.ckd/2abeca7e1f0df7e8fad635f101a21dcd.ckd",
+      "expandCoachImageUrl": "/public/map/DaFunk/orbis/DaFunk_Cover_AlbumCoach.tga.ckd/c5c1a20671ea54a6a702ddb5e6e9ad18.ckd",
+      "cover_smallImageUrl": "/public/map/DaFunk/orbis/DaFunk_Cover_Online.tga.ckd/c96ef9b16c0befbb9f7ddf15295646c3.ckd",
+      "coach1ImageUrl": "/public/map/DaFunk/orbis/DaFunk_Coach_1.tga.ckd/fd5546c3aaaa0c61b33940fc4617d3a6.ckd",
+      "coach2ImageUrl": "/public/map/DaFunk/orbis/DaFunk_Coach_2.tga.ckd/cf87032cd1f329667a3412a1ff834f0e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DaFunk/DaFunk_Coach_1_Phone.png/34609f2a3c94030c4202e6ec2c98e18b.png",
+    "phoneCoach2ImageUrl": "/public/map/DaFunk/DaFunk_Coach_2_Phone.png/44d896236169d46717efc3cb371f23ec.png",
+    "phoneCoverImageUrl": "/public/map/DaFunk/DaFunk_Cover_Phone.jpg/403c5bd4017717913e927de8f8621873.jpg",
+    "cover640ImageUrl": "/public/map/DaFunk/DaFunk_Cover_640.png/3ffe9c841e2de3596ce5b0f61d4b6eba.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DaFunk/DaFunk.ogg": "/private/map/DaFunk/DaFunk.ogg/1ea6a49526ebc59298fcf7e6815cb6a5.ogg",
+    "jmcs://jd-contents/DaFunk/DaFunk_AudioPreview.ogg": "/public/map/DaFunk/DaFunk_AudioPreview.ogg/bcde800b988d5e0fce2d57d0e195e302.ogg",
+    "jmcs://jd-contents/DaFunk/DaFunk_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DaFunk/DaFunk_MapPreviewNoSoundCrop_LOW.vp8.webm/1c1061deaec605bc3721961c956a440d.webm",
+    "jmcs://jd-contents/DaFunk/DaFunk_HIGH.webm": "/private/map/DaFunk/DaFunk_HIGH.webm/906255ada0fc96c9ccdaaec2cc7f4241.webm",
+    "jmcs://jd-contents/DaFunk/DaFunk_LOW.webm": "/private/map/DaFunk/DaFunk_LOW.webm/341967788f260caafe6e4dfdc9ecbda4.webm",
+    "jmcs://jd-contents/DaFunk/DaFunk_MID.webm": "/private/map/DaFunk/DaFunk_MID.webm/1e2a82838979a57c1d13303e2d6f0e6e.webm",
+    "jmcs://jd-contents/DaFunk/DaFunk_ULTRA.hd.webm": "/private/map/DaFunk/DaFunk_ULTRA.hd.webm/4caa046c40147cd277065faaa0da543c.webm",
+    "jmcs://jd-contents/DaFunk/DaFunk_ULTRA.webm": "/private/map/DaFunk/DaFunk_ULTRA.webm/24e6540436c6a3af8a1f5a5071421fdd.webm",
+    "jmcs://jd-contents/DaFunk/DaFunk_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DaFunk/DaFunk_MapPreviewNoSoundCrop_MID.vp8.webm/63abe2a5e7d83ca132e5efdc15952972.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"498380\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DaFunk/DaFunk_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480177\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DaFunk/DaFunk_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 223.556
+}

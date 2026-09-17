@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "baf172b66bb95f3f03eb4749b192e2f9",
+      "storageType": 0,
+      "url": "/public/map/SoyYo/nx/SoyYo_MAIN_SCENE_NX.zip/baf172b66bb95f3f03eb4749b192e2f9.zip"
+    },
+    "pc": {
+      "md5": "67a795de288d88056124958ef2db2fef",
+      "storageType": 0,
+      "url": "/public/map/SoyYo/pc/SoyYo_MAIN_SCENE_PC.zip/67a795de288d88056124958ef2db2fef.zip"
+    },
+    "ps4": {
+      "md5": "e10863ec13db8961d49d0dd15b266c90",
+      "storageType": 0,
+      "url": "/public/map/SoyYo/orbis/SoyYo_MAIN_SCENE_ORBIS.zip/e10863ec13db8961d49d0dd15b266c90.zip"
+    }
+  },
+  "data": {
+    "mapName": "SoyYo",
+    "title": "Soy Yo",
+    "originalJDVersion": 2020,
+    "tags": [
+      "subscribedSong",
+      "JustDance2020",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Bomba Estéreo",
+    "credits": "Written by Eric Frederic, Federico Simon Mejia Ochoa, Liliana Margarita Saumet Avila and Joseph Spargur. Published by Nice Life Music/Brodsky Spensive Publishing/Music of Big Deal. / Frederic and Ried Music (BMI) / Songs From The Boardwalk (BMI) / Sony/ATV Songs LLC (BMI) / EMI April Music Inc. (ASCAP). All rights reserved. Used with permission. Courtesy of Sony Music Entertainment US Latin LLC. By arrangement with Sony Music Entertainment. ",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#ff8bf5",
+    "songColor2A": "#a3ecfb",
+    "songColor1B": "#3e20c3",
+    "songColor2B": "#5096dc",
+    "lyricsColor": "#c8017c",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24624,
+        49248,
+        73824,
+        98448,
+        123072,
+        147696,
+        172320,
+        196944,
+        221520,
+        246144,
+        270768,
+        295392,
+        320016,
+        344592,
+        369216,
+        393840,
+        418464,
+        443088,
+        467712,
+        492288,
+        516912,
+        541536,
+        566160,
+        590784,
+        615408,
+        639984,
+        664608,
+        689232,
+        713856,
+        738480,
+        763056,
+        787680,
+        812304,
+        836928,
+        861553,
+        886177,
+        910753,
+        935377,
+        960001,
+        984625,
+        1009249,
+        1033825,
+        1058449,
+        1083073,
+        1107697,
+        1132321,
+        1156945,
+        1181521,
+        1206145,
+        1230769,
+        1255393,
+        1280017,
+        1304593,
+        1329217,
+        1353841,
+        1378465,
+        1403089,
+        1427713,
+        1452289,
+        1476913
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 315,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SoyYo/SoyYo_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SoyYo/nx/SoyYo_banner_bkg.tga.ckd/d908569f629fe5df5b602e83db52503e.ckd",
+      "map_bkgImageUrl": "/public/map/SoyYo/nx/SoyYo_map_bkg.tga.ckd/41a0af943f0da1f6ae6a76f2906f0898.ckd",
+      "expandCoachImageUrl": "/public/map/SoyYo/nx/SoyYo_Cover_AlbumCoach.tga.ckd/3a7f906b47717fdbfbf99f591a67541f.ckd",
+      "cover_smallImageUrl": "/public/map/SoyYo/nx/SoyYo_Cover_Online.tga.ckd/1e63a87c6688425b7949978e973def2c.ckd",
+      "coverImageUrl": "/public/map/SoyYo/nx/SoyYo_Cover_Generic.tga.ckd/89db2d20d2fd412ed4d2072796011a35.ckd",
+      "coach1ImageUrl": "/public/map/SoyYo/nx/SoyYo_Coach_1.tga.ckd/e7d60be29f9685b5f691833c587ecc05.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SoyYo/pc/SoyYo_banner_bkg.tga.ckd/88953577a0ae3bf88cb0dd146dd4c051.ckd",
+      "map_bkgImageUrl": "/public/map/SoyYo/pc/SoyYo_map_bkg.tga.ckd/2902ad3b6d132b757e7797f0a01b07bb.ckd",
+      "expandCoachImageUrl": "/public/map/SoyYo/pc/SoyYo_Cover_AlbumCoach.tga.ckd/5c8ea78e5e9ab4dc8ef0dcf418f8a965.ckd",
+      "cover_smallImageUrl": "/public/map/SoyYo/pc/SoyYo_Cover_Online.tga.ckd/4ba099f8a3436c37cd902316e035d517.ckd",
+      "coverImageUrl": "/public/map/SoyYo/pc/SoyYo_Cover_Generic.tga.ckd/dd6e78f1253344342128552b88655409.ckd",
+      "coach1ImageUrl": "/public/map/SoyYo/pc/SoyYo_Coach_1.tga.ckd/58c5433d90c411a8ce9cd03bb189eb0c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SoyYo/orbis/SoyYo_banner_bkg.tga.ckd/88953577a0ae3bf88cb0dd146dd4c051.ckd",
+      "map_bkgImageUrl": "/public/map/SoyYo/orbis/SoyYo_map_bkg.tga.ckd/2902ad3b6d132b757e7797f0a01b07bb.ckd",
+      "expandCoachImageUrl": "/public/map/SoyYo/orbis/SoyYo_Cover_AlbumCoach.tga.ckd/5c8ea78e5e9ab4dc8ef0dcf418f8a965.ckd",
+      "cover_smallImageUrl": "/public/map/SoyYo/orbis/SoyYo_Cover_Online.tga.ckd/4ba099f8a3436c37cd902316e035d517.ckd",
+      "coverImageUrl": "/public/map/SoyYo/orbis/SoyYo_Cover_Generic.tga.ckd/dd6e78f1253344342128552b88655409.ckd",
+      "coach1ImageUrl": "/public/map/SoyYo/orbis/SoyYo_Coach_1.tga.ckd/58c5433d90c411a8ce9cd03bb189eb0c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SoyYo/SoyYo_Coach_1_Phone.png/7badce365d388fa4a8b4b82f7c33c19f.png",
+    "phoneCoverImageUrl": "/public/map/SoyYo/SoyYo_Cover_Phone.jpg/72e1400b8bf78ccc44c78fba3025473e.jpg",
+    "cover640ImageUrl": "/public/map/SoyYo/SoyYo_Cover_640.png/dda0a45322101a6ab8513a973c96932a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SoyYo/SoyYo_HIGH.webm": "/private/map/SoyYo/SoyYo_HIGH.webm/77f7100dca15689390459d26cd24e161.webm",
+    "jmcs://jd-contents/SoyYo/SoyYo_LOW.webm": "/private/map/SoyYo/SoyYo_LOW.webm/cda78b6abf9335060662c3dca8960132.webm",
+    "jmcs://jd-contents/SoyYo/SoyYo_MID.webm": "/private/map/SoyYo/SoyYo_MID.webm/7495c26ff9aa032730a311ae92588dd5.webm",
+    "jmcs://jd-contents/SoyYo/SoyYo_ULTRA.hd.webm": "/private/map/SoyYo/SoyYo_ULTRA.hd.webm/134fd661ea40d50c102c1e844dfae91e.webm",
+    "jmcs://jd-contents/SoyYo/SoyYo_ULTRA.webm": "/private/map/SoyYo/SoyYo_ULTRA.webm/9cbf6f1966a528d946e9526ea1cb5235.webm",
+    "jmcs://jd-contents/SoyYo/SoyYo.ogg": "/private/map/SoyYo/SoyYo.ogg/717a22e2a3cad6c901e3f85878e7d443.ogg",
+    "jmcs://jd-contents/SoyYo/SoyYo_AudioPreview.ogg": "/public/map/SoyYo/SoyYo_AudioPreview.ogg/1894885f34fda74229542d3892a751fc.ogg",
+    "jmcs://jd-contents/SoyYo/SoyYo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SoyYo/SoyYo_MapPreviewNoSoundCrop_LOW.vp8.webm/c0f5a9618535a61ac5f8734849adf4be.webm",
+    "jmcs://jd-contents/SoyYo/SoyYo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SoyYo/SoyYo_MapPreviewNoSoundCrop_MID.vp8.webm/b1c82a322d75a672bc14bebacfd7613b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497732\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoyYo/SoyYo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"588-1077\">\n\t\t\t\t\t<Initialization range=\"0-588\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480593\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoyYo/SoyYo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"589-1079\">\n\t\t\t\t\t<Initialization range=\"0-589\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 165.127438
+}

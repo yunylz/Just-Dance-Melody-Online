@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "223ab9b3bddcd0bdea181a408a0cd438",
+      "storageType": 0,
+      "url": "/public/map/GetLucky/nx/GetLucky_MAIN_SCENE_NX.zip/223ab9b3bddcd0bdea181a408a0cd438.zip"
+    },
+    "pc": {
+      "md5": "e1ff7fca94c5fb7d6df0f00f25b5cc24",
+      "storageType": 0,
+      "url": "/public/map/GetLucky/pc/GetLucky_MAIN_SCENE_PC.zip/e1ff7fca94c5fb7d6df0f00f25b5cc24.zip"
+    },
+    "ps4": {
+      "md5": "86cb078d642c94d3ecfd2bdb35eade22",
+      "storageType": 0,
+      "url": "/public/map/GetLucky/orbis/GetLucky_MAIN_SCENE_ORBIS.zip/86cb078d642c94d3ecfd2bdb35eade22.zip"
+    }
+  },
+  "data": {
+    "mapName": "GetLucky",
+    "title": "Get Lucky",
+    "originalJDVersion": 2014,
+    "tags": [
+      "subscribedSong",
+      "JustDance2014",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "Daft Punk Ft. Pharrell Williams",
+    "credits": "Written by Thomas Bangalter, Guy Manuel Homem Christo, Pharrell Williams and Nile Rodgers. Published by More Water From Nazareth (ASCAP) / EMI April Music (Canada) Ltd. (SOCAN) XLC Music (BMI) / Sony/ATV Music Publishing Canada (SOCAN) / Imagem Music, BMI. All Rights Reserved. Used With Permission. Courtesy of Daft Life Limited under exclusive license to Columbia Records, a unit of Sony Music Entertainment. By arrangement with Sony Music Licensing.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#fcac03",
+    "songColor2A": "#181c28",
+    "songColor1B": "#5a4518",
+    "songColor2B": "#0c0e14",
+    "lyricsColor": "#ffff00"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24816,
+        49632,
+        74448,
+        99264,
+        124080,
+        148896,
+        173760,
+        198576,
+        223392,
+        248208,
+        273024,
+        297840,
+        322656,
+        347472,
+        372288,
+        397104,
+        421920,
+        446736,
+        471552,
+        496368,
+        521232,
+        546048,
+        570864,
+        595680,
+        620496,
+        645313,
+        670129,
+        694945,
+        719761,
+        744577,
+        769393,
+        794209,
+        819025,
+        843841,
+        868705,
+        893521,
+        918337,
+        943153,
+        967969,
+        992785,
+        1017601,
+        1042417,
+        1067233,
+        1092049,
+        1116865,
+        1141681,
+        1166497,
+        1191361,
+        1216177,
+        1240993,
+        1265809,
+        1290626,
+        1315442,
+        1340258,
+        1365074,
+        1389890,
+        1414706,
+        1439522,
+        1464338,
+        1489154
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 468,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GetLucky/GetLucky_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GetLucky/nx/GetLucky_banner_bkg.tga.ckd/41166ed87d07d45740a497fb4467c7e0.ckd",
+      "map_bkgImageUrl": "/public/map/GetLucky/nx/GetLucky_map_bkg.tga.ckd/a7629252bfe10fb27a3c86e8fffb1f8f.ckd",
+      "expandCoachImageUrl": "/public/map/GetLucky/nx/GetLucky_Cover_AlbumCoach.tga.ckd/0f06080ef9ec7cad2bf9dc95a0507256.ckd",
+      "cover_smallImageUrl": "/public/map/GetLucky/nx/GetLucky_Cover_Online.tga.ckd/b85aa3f4522b8ed59438a618e74372b2.ckd",
+      "coach1ImageUrl": "/public/map/GetLucky/nx/GetLucky_Coach_1.tga.ckd/95ea7cdf39603f9598c85bde4c345cec.ckd",
+      "coach2ImageUrl": "/public/map/GetLucky/nx/GetLucky_Coach_2.tga.ckd/4edf5612c916980f08cfbaa9448d9789.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GetLucky/pc/GetLucky_banner_bkg.tga.ckd/e75f015222eabeb6494ec80a2c322d3b.ckd",
+      "map_bkgImageUrl": "/public/map/GetLucky/pc/GetLucky_map_bkg.tga.ckd/44a321387fa06c7b0811bddf58d2d108.ckd",
+      "expandCoachImageUrl": "/public/map/GetLucky/pc/GetLucky_Cover_AlbumCoach.tga.ckd/9e663637ed4479e72a127037e1b2d230.ckd",
+      "cover_smallImageUrl": "/public/map/GetLucky/pc/GetLucky_Cover_Online.tga.ckd/b2627ac8a16e06dd5d6f2aa4d0e57d24.ckd",
+      "coach1ImageUrl": "/public/map/GetLucky/pc/GetLucky_Coach_1.tga.ckd/08c79464e5859d8b5fc520a2ec307cf4.ckd",
+      "coach2ImageUrl": "/public/map/GetLucky/pc/GetLucky_Coach_2.tga.ckd/242b5faa9af897c2c1ff8b194f30afb7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GetLucky/orbis/GetLucky_banner_bkg.tga.ckd/e75f015222eabeb6494ec80a2c322d3b.ckd",
+      "map_bkgImageUrl": "/public/map/GetLucky/orbis/GetLucky_map_bkg.tga.ckd/44a321387fa06c7b0811bddf58d2d108.ckd",
+      "expandCoachImageUrl": "/public/map/GetLucky/orbis/GetLucky_Cover_AlbumCoach.tga.ckd/9e663637ed4479e72a127037e1b2d230.ckd",
+      "cover_smallImageUrl": "/public/map/GetLucky/orbis/GetLucky_Cover_Online.tga.ckd/b2627ac8a16e06dd5d6f2aa4d0e57d24.ckd",
+      "coach1ImageUrl": "/public/map/GetLucky/orbis/GetLucky_Coach_1.tga.ckd/08c79464e5859d8b5fc520a2ec307cf4.ckd",
+      "coach2ImageUrl": "/public/map/GetLucky/orbis/GetLucky_Coach_2.tga.ckd/242b5faa9af897c2c1ff8b194f30afb7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GetLucky/GetLucky_Coach_1_Phone.png/d00c03fe2f534624fcdcf4c491c95c9f.png",
+    "phoneCoach2ImageUrl": "/public/map/GetLucky/GetLucky_Coach_2_Phone.png/53a942c0f7ae2221c609e007ed9975c0.png",
+    "phoneCoverImageUrl": "/public/map/GetLucky/GetLucky_Cover_Phone.jpg/5e3571e722ac39cd952e5b788dfac5d9.jpg",
+    "cover640ImageUrl": "/public/map/GetLucky/GetLucky_Cover_640.png/98fc3fba8aed227995e7a8307b24b025.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GetLucky/GetLucky.ogg": "/private/map/GetLucky/GetLucky.ogg/3076931b018741d39c1b52c09d4955bd.ogg",
+    "jmcs://jd-contents/GetLucky/GetLucky_AudioPreview.ogg": "/public/map/GetLucky/GetLucky_AudioPreview.ogg/14d9ea7c8596188090ad32478a2aa98d.ogg",
+    "jmcs://jd-contents/GetLucky/GetLucky_HIGH.webm": "/private/map/GetLucky/GetLucky_HIGH.webm/59097825937a68f5f948ca005264fec8.webm",
+    "jmcs://jd-contents/GetLucky/GetLucky_LOW.webm": "/private/map/GetLucky/GetLucky_LOW.webm/9217eeaadef5ee629852ab705ac84711.webm",
+    "jmcs://jd-contents/GetLucky/GetLucky_MID.webm": "/private/map/GetLucky/GetLucky_MID.webm/0a05da4c2fab39ade2fff03ab58f02ef.webm",
+    "jmcs://jd-contents/GetLucky/GetLucky_ULTRA.hd.webm": "/private/map/GetLucky/GetLucky_ULTRA.hd.webm/5b3e238e4042eb0716da41d4ecf7ddca.webm",
+    "jmcs://jd-contents/GetLucky/GetLucky_ULTRA.webm": "/private/map/GetLucky/GetLucky_ULTRA.webm/9ee3de7f7a79bc8212ed616f47f9b59c.webm",
+    "jmcs://jd-contents/GetLucky/GetLucky_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GetLucky/GetLucky_MapPreviewNoSoundCrop_LOW.vp8.webm/d2449c45671faa7210ea15ffc4044081.webm",
+    "jmcs://jd-contents/GetLucky/GetLucky_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GetLucky/GetLucky_MapPreviewNoSoundCrop_MID.vp8.webm/fd93a075a78a8162eb56a20ea04749a3.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"516753\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GetLucky/GetLucky_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"548-1038\">\n\t\t\t\t\t<Initialization range=\"0-548\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1474566\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GetLucky/GetLucky_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"549-1039\">\n\t\t\t\t\t<Initialization range=\"0-549\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 241.992188
+}

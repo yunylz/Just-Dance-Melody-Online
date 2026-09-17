@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "29cb8666fc67b0e045a827468b6d84a5",
+      "storageType": 0,
+      "url": "/public/map/Samishii/nx/Samishii_MAIN_SCENE_NX.zip/29cb8666fc67b0e045a827468b6d84a5.zip"
+    },
+    "pc": {
+      "md5": "6d4b75a52650783db8f2d427f117c87b",
+      "storageType": 0,
+      "url": "/public/map/Samishii/pc/Samishii_MAIN_SCENE_PC.zip/6d4b75a52650783db8f2d427f117c87b.zip"
+    },
+    "ps4": {
+      "md5": "92002203b1d1e7336c3f753ef9fbaefc",
+      "storageType": 0,
+      "url": "/public/map/Samishii/orbis/Samishii_MAIN_SCENE_ORBIS.zip/92002203b1d1e7336c3f753ef9fbaefc.zip"
+    }
+  },
+  "data": {
+    "mapName": "Samishii",
+    "title": "Samishii Nettaigyo",
+    "originalJDVersion": 1001,
+    "tags": [
+      "jd2022",
+      "main_2022",
+      "subscribedSong",
+      "jdwii2",
+      "JustDanceAsia",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "Wink",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#efae05"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        96624,
+        120240,
+        143856,
+        167520,
+        191136,
+        214752,
+        238416,
+        262032,
+        285648,
+        309264,
+        332928,
+        356544,
+        380160,
+        403824,
+        427440,
+        451056,
+        474720,
+        498336,
+        521952,
+        545568,
+        569232,
+        592848,
+        616464,
+        640128,
+        663744,
+        687360,
+        710976,
+        734640,
+        758256,
+        781872,
+        805536,
+        829152,
+        852768,
+        876384,
+        900048,
+        923664,
+        947280,
+        970944,
+        994560,
+        1018176,
+        1041792,
+        1065456,
+        1089072,
+        1112688,
+        1136352,
+        1159968,
+        1183584,
+        1207248,
+        1230864,
+        1254480,
+        1278096,
+        1301760,
+        1325376,
+        1348992,
+        1372656,
+        1396272,
+        1419888,
+        1443504,
+        1467168,
+        1490784
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 546,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Samishii/Samishii_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Samishii/nx/Samishii_banner_bkg.tga.ckd/753f924c3db561a5ba37e40c1dea04c9.ckd",
+      "map_bkgImageUrl": "/public/map/Samishii/nx/Samishii_map_bkg.tga.ckd/9bf583a43baad1d2ae8821e41b753df3.ckd",
+      "expandCoachImageUrl": "/public/map/Samishii/nx/Samishii_Cover_AlbumCoach.tga.ckd/2b403847ba08f0f076cc67695a937c39.ckd",
+      "cover_smallImageUrl": "/public/map/Samishii/nx/Samishii_Cover_Online.tga.ckd/2a6900ad926e4836c2c5a692fd079d92.ckd",
+      "coach1ImageUrl": "/public/map/Samishii/nx/Samishii_Coach_1.tga.ckd/affbc336582ff5efcb3cfae4c5e3a471.ckd",
+      "coach2ImageUrl": "/public/map/Samishii/nx/Samishii_Coach_2.tga.ckd/996ac303cfe33f4821c472e24bee7bc1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Samishii/pc/Samishii_banner_bkg.tga.ckd/cb11ef31a8d1b5e05a2b78701db369f4.ckd",
+      "map_bkgImageUrl": "/public/map/Samishii/pc/Samishii_map_bkg.tga.ckd/3a24a0749148cf3f2963273d9c489a45.ckd",
+      "expandCoachImageUrl": "/public/map/Samishii/pc/Samishii_Cover_AlbumCoach.tga.ckd/2698a30f32f5b71f99e44060568ac9f3.ckd",
+      "cover_smallImageUrl": "/public/map/Samishii/pc/Samishii_Cover_Online.tga.ckd/88de91d1fda0aaca419843b4b45aca24.ckd",
+      "coach1ImageUrl": "/public/map/Samishii/pc/Samishii_Coach_1.tga.ckd/bed09556f697acb9bed2bccfaa611f65.ckd",
+      "coach2ImageUrl": "/public/map/Samishii/pc/Samishii_Coach_2.tga.ckd/0f8e42405cadaacdd26cb2a1f0937cce.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Samishii/orbis/Samishii_banner_bkg.tga.ckd/cb11ef31a8d1b5e05a2b78701db369f4.ckd",
+      "map_bkgImageUrl": "/public/map/Samishii/orbis/Samishii_map_bkg.tga.ckd/3a24a0749148cf3f2963273d9c489a45.ckd",
+      "expandCoachImageUrl": "/public/map/Samishii/orbis/Samishii_Cover_AlbumCoach.tga.ckd/2698a30f32f5b71f99e44060568ac9f3.ckd",
+      "cover_smallImageUrl": "/public/map/Samishii/orbis/Samishii_Cover_Online.tga.ckd/88de91d1fda0aaca419843b4b45aca24.ckd",
+      "coach1ImageUrl": "/public/map/Samishii/orbis/Samishii_Coach_1.tga.ckd/bed09556f697acb9bed2bccfaa611f65.ckd",
+      "coach2ImageUrl": "/public/map/Samishii/orbis/Samishii_Coach_2.tga.ckd/0f8e42405cadaacdd26cb2a1f0937cce.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Samishii/Samishii_Coach_1_Phone.png/7c15e0c2daa331f658912b0be3e769c3.png",
+    "phoneCoach2ImageUrl": "/public/map/Samishii/Samishii_Coach_2_Phone.png/5d5978534defcd4287c7d16bff5061ee.png",
+    "phoneCoverImageUrl": "/public/map/Samishii/Samishii_Cover_Phone.jpg/8615fa5e7f37b41787936ec5ed0fb62b.jpg",
+    "cover640ImageUrl": "/public/map/Samishii/Samishii_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Samishii/Samishii.ogg": "/private/map/Samishii/Samishii.ogg/d5811244ca06aaa994ac986df5c28f11.ogg",
+    "jmcs://jd-contents/Samishii/Samishii_AudioPreview.ogg": "/public/map/Samishii/Samishii_AudioPreview.ogg/7dbddbb229fd211524b81e455ad9e0f7.ogg",
+    "jmcs://jd-contents/Samishii/Samishii_HIGH.webm": "/private/map/Samishii/Samishii_HIGH.webm/14e2c0c83687fd832dedbc4ab5000a36.webm",
+    "jmcs://jd-contents/Samishii/Samishii_LOW.webm": "/private/map/Samishii/Samishii_LOW.webm/de54dbbe88c178c4a477998a9bb44315.webm",
+    "jmcs://jd-contents/Samishii/Samishii_MID.webm": "/private/map/Samishii/Samishii_MID.webm/e5774d2a206ae1796d64ec56d1a4d8cf.webm",
+    "jmcs://jd-contents/Samishii/Samishii_ULTRA.webm": "/private/map/Samishii/Samishii_ULTRA.webm/9f3e7b8691f489d67fd8f5ffb87bdd64.webm",
+    "jmcs://jd-contents/Samishii/Samishii_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Samishii/Samishii_MapPreviewNoSoundCrop_LOW.vp8.webm/dcbb3391cb4d609bbaa95bd6dca2362a.webm",
+    "jmcs://jd-contents/Samishii/Samishii_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Samishii/Samishii_MapPreviewNoSoundCrop_MID.vp8.webm/88884c1425e8b87b619bb35f1521ae37.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"514837\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Samishii/Samishii_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1501752\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Samishii/Samishii_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 271.862063
+}

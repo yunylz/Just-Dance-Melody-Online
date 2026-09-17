@@ -1,0 +1,166 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "cb558dfa8029b3ec4fb45bda901d3f9a",
+      "storageType": 0,
+      "url": "/public/map/ThankUNextMU/nx/ThankUNextMU_MAIN_SCENE_NX.zip/cb558dfa8029b3ec4fb45bda901d3f9a.zip"
+    },
+    "pc": {
+      "md5": "638f9e2c4c982a95447785d2f6cba327",
+      "storageType": 0,
+      "url": "/public/map/ThankUNextMU/pc/ThankUNextMU_MAIN_SCENE_PC.zip/638f9e2c4c982a95447785d2f6cba327.zip"
+    },
+    "ps4": {
+      "md5": "5d3c00f367d3bbb6125ed1f622b922fb",
+      "storageType": 0,
+      "url": "/public/map/ThankUNextMU/orbis/ThankUNextMU_MAIN_SCENE_ORBIS.zip/5d3c00f367d3bbb6125ed1f622b922fb.zip"
+    }
+  },
+  "data": {
+    "mapName": "ThankUNextMU",
+    "title": "thank u, next",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Ariana Grande",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff44df"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26916,
+        53832,
+        80748,
+        107664,
+        134579,
+        161495,
+        188411,
+        215327,
+        242243,
+        269159,
+        296075,
+        322991,
+        349907,
+        376822,
+        403738,
+        430654,
+        457570,
+        484486,
+        511402,
+        538318,
+        565234,
+        592150,
+        619065,
+        645981,
+        672897,
+        699813,
+        726729,
+        753645,
+        780561,
+        807477,
+        834393,
+        861308,
+        888224,
+        915140,
+        942056,
+        968972,
+        995888,
+        1022804,
+        1049720,
+        1076636,
+        1103551,
+        1130467,
+        1157383,
+        1184299,
+        1211215,
+        1238131,
+        1265047,
+        1291963,
+        1318879,
+        1345794,
+        1372710,
+        1399626,
+        1426542,
+        1453458,
+        1480374
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 365,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ThankUNextMU/ThankUNextMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ThankUNextMU/nx/ThankUNextMU_banner_bkg.tga.ckd/743952533d54e8dda0cd781cf7a2d674.ckd",
+      "map_bkgImageUrl": "/public/map/ThankUNextMU/nx/ThankUNextMU_map_bkg.tga.ckd/e4992bc415b4679ab8513c32e6bfc28a.ckd",
+      "expandCoachImageUrl": "/public/map/ThankUNextMU/nx/ThankUNextMU_Cover_AlbumCoach.tga.ckd/806b4d037aeea2e18facb3c9ca45358a.ckd",
+      "cover_smallImageUrl": "/public/map/ThankUNextMU/nx/ThankUNextMU_Cover_Online.tga.ckd/34bf820ead0d563731ae5cdda689c4b1.ckd",
+      "coach1ImageUrl": "/public/map/ThankUNextMU/nx/ThankUNextMU_Coach_1.tga.ckd/a0b078408dd6d5deb20802a4084449f3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ThankUNextMU/pc/ThankUNextMU_banner_bkg.tga.ckd/62363c18cdf32f8f86cf51fce27415ba.ckd",
+      "map_bkgImageUrl": "/public/map/ThankUNextMU/pc/ThankUNextMU_map_bkg.tga.ckd/d48fe485b86540a4405dfef740645f69.ckd",
+      "expandCoachImageUrl": "/public/map/ThankUNextMU/pc/ThankUNextMU_Cover_AlbumCoach.tga.ckd/e710fb866e9c0e3eb5c009d6cee18747.ckd",
+      "cover_smallImageUrl": "/public/map/ThankUNextMU/pc/ThankUNextMU_Cover_Online.tga.ckd/b4174ecefd788aa4437f81f17ce156c7.ckd",
+      "coach1ImageUrl": "/public/map/ThankUNextMU/pc/ThankUNextMU_Coach_1.tga.ckd/76c13947bfdcb634999ed8d623a2df60.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ThankUNextMU/orbis/ThankUNextMU_banner_bkg.tga.ckd/62363c18cdf32f8f86cf51fce27415ba.ckd",
+      "map_bkgImageUrl": "/public/map/ThankUNextMU/orbis/ThankUNextMU_map_bkg.tga.ckd/d48fe485b86540a4405dfef740645f69.ckd",
+      "expandCoachImageUrl": "/public/map/ThankUNextMU/orbis/ThankUNextMU_Cover_AlbumCoach.tga.ckd/e710fb866e9c0e3eb5c009d6cee18747.ckd",
+      "cover_smallImageUrl": "/public/map/ThankUNextMU/orbis/ThankUNextMU_Cover_Online.tga.ckd/b4174ecefd788aa4437f81f17ce156c7.ckd",
+      "coach1ImageUrl": "/public/map/ThankUNextMU/orbis/ThankUNextMU_Coach_1.tga.ckd/76c13947bfdcb634999ed8d623a2df60.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ThankUNextMU/ThankUNextMU_Coach_1_Phone.png/3f26e1a433384d5bcfffd9d2637a2d84.png",
+    "phoneCoverImageUrl": "/public/map/ThankUNextMU/ThankUNextMU_Cover_Phone.jpg/7b022a9209fb6baacc10246bb041fb34.jpg",
+    "cover640ImageUrl": "/public/map/ThankUNextMU/ThankUNextMU_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ThankUNextMU/ThankUNextMU.ogg": "/private/map/ThankUNextMU/ThankUNextMU.ogg/3ba9864b1f27708db9cb39459a9c7d79.ogg",
+    "jmcs://jd-contents/ThankUNextMU/ThankUNextMU_AudioPreview.ogg": "/public/map/ThankUNextMU/ThankUNextMU_AudioPreview.ogg/a01ae2a1797f32b5555346a5b4f822f4.ogg",
+    "jmcs://jd-contents/ThankUNextMU/ThankUNextMU_HIGH.webm": "/private/map/ThankUNextMU/ThankUNextMU_HIGH.webm/f4df4564f2ddfc3326313e44037ab078.webm",
+    "jmcs://jd-contents/ThankUNextMU/ThankUNextMU_LOW.webm": "/private/map/ThankUNextMU/ThankUNextMU_LOW.webm/2897e5b31cee45deca919bbb9477970a.webm",
+    "jmcs://jd-contents/ThankUNextMU/ThankUNextMU_MID.webm": "/private/map/ThankUNextMU/ThankUNextMU_MID.webm/2fbdfddcda915a708ed9c9cf85de1b1a.webm",
+    "jmcs://jd-contents/ThankUNextMU/ThankUNextMU_ULTRA.webm": "/private/map/ThankUNextMU/ThankUNextMU_ULTRA.webm/0aa82cc694afc913994fd29b0fb6c208.webm",
+    "jmcs://jd-contents/ThankUNextMU/ThankUNextMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ThankUNextMU/ThankUNextMU_MapPreviewNoSoundCrop_LOW.vp8.webm/557896cf2e90c1c70045609823aeedcc.webm",
+    "jmcs://jd-contents/ThankUNextMU/ThankUNextMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ThankUNextMU/ThankUNextMU_MapPreviewNoSoundCrop_MID.vp8.webm/3240d2926188d256be5296904ec99790.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"493158\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThankUNextMU/ThankUNextMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\n\t\t\t\t\t<Initialization range=\"0-640\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1459076\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThankUNextMU/ThankUNextMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\n\t\t\t\t\t<Initialization range=\"0-641\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 208.366563
+}

@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f885757eac0e0c4639f014c2ddec3271",
+      "storageType": 0,
+      "url": "/public/map/WhineUp/nx/WhineUp_MAIN_SCENE_NX.zip/f885757eac0e0c4639f014c2ddec3271.zip"
+    },
+    "pc": {
+      "md5": "499e3eb9a31943f4db91ca9caf7a7c1b",
+      "storageType": 0,
+      "url": "/public/map/WhineUp/pc/WhineUp_MAIN_SCENE_PC.zip/499e3eb9a31943f4db91ca9caf7a7c1b.zip"
+    },
+    "ps4": {
+      "md5": "9580de04728c4610d0529cca52407870",
+      "storageType": 0,
+      "url": "/public/map/WhineUp/orbis/WhineUp_MAIN_SCENE_ORBIS.zip/9580de04728c4610d0529cca52407870.zip"
+    }
+  },
+  "data": {
+    "mapName": "WhineUp",
+    "title": "Whine Up",
+    "originalJDVersion": 2024,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Kat DeLuna ft. Elephant Man",
+    "credits": "Written by Kat DeLuna, Nadir Al-Khayat, Janet Sewell-Ulepic, Bryan O’Neil Published by Sony Music Publishing / Greensleeves Courtesy of Sony Music",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f544c9",
+    "songColor2A": "#fae349",
+    "songColor1B": "#20228e",
+    "songColor2B": "#e46651",
+    "lyricsColor": "#f87217"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253440,
+        276480,
+        299520,
+        322560,
+        345600,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506880,
+        529920,
+        552960,
+        576000,
+        599040,
+        622080,
+        645120,
+        668160,
+        691200,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852480,
+        875520,
+        898560,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013760,
+        1036800,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198080,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382400,
+        1405440,
+        1428480,
+        1451520,
+        1474560
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 422,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WhineUp/WhineUp_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WhineUp/nx/WhineUp_banner_bkg.tga.ckd/3ee54afe5331462e0417dbd8281849c2.ckd",
+      "map_bkgImageUrl": "/public/map/WhineUp/nx/WhineUp_map_bkg.tga.ckd/eeb3728fa7c6eaee4fe86dad392def18.ckd",
+      "expandCoachImageUrl": "/public/map/WhineUp/nx/WhineUp_Cover_AlbumCoach.tga.ckd/e9be6cdcb9246ebcd67b083c796affd2.ckd",
+      "cover_smallImageUrl": "/public/map/WhineUp/nx/WhineUp_Cover_Online.tga.ckd/d071c8cb7dd0ae5cdb8984dbd9d26b92.ckd",
+      "coverImageUrl": "/public/map/WhineUp/nx/WhineUp_Cover_Generic.tga.ckd/a29364486a36c142bf20b0b2c52cb03b.ckd",
+      "coach1ImageUrl": "/public/map/WhineUp/nx/WhineUp_Coach_1.tga.ckd/93a4444ee9baa10638327d71144a3e1e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WhineUp/pc/WhineUp_banner_bkg.tga.ckd/f4d7e2508b44d88dc3c795d36bab4d6d.ckd",
+      "map_bkgImageUrl": "/public/map/WhineUp/pc/WhineUp_map_bkg.tga.ckd/64082406b3a7ef33870d924d8113cf3e.ckd",
+      "expandCoachImageUrl": "/public/map/WhineUp/pc/WhineUp_Cover_AlbumCoach.tga.ckd/8faef8455b619781c07d9ccfcf5f922a.ckd",
+      "cover_smallImageUrl": "/public/map/WhineUp/pc/WhineUp_Cover_Online.tga.ckd/206df9740e691dbb1bea18314901e2ea.ckd",
+      "coverImageUrl": "/public/map/WhineUp/pc/WhineUp_Cover_Generic.tga.ckd/b5decc203f6fe299be6f3128c1deef95.ckd",
+      "coach1ImageUrl": "/public/map/WhineUp/pc/WhineUp_Coach_1.tga.ckd/e9fabd672e82b5c3839d7dc166901efd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WhineUp/orbis/WhineUp_banner_bkg.tga.ckd/f4d7e2508b44d88dc3c795d36bab4d6d.ckd",
+      "map_bkgImageUrl": "/public/map/WhineUp/orbis/WhineUp_map_bkg.tga.ckd/64082406b3a7ef33870d924d8113cf3e.ckd",
+      "expandCoachImageUrl": "/public/map/WhineUp/orbis/WhineUp_Cover_AlbumCoach.tga.ckd/8faef8455b619781c07d9ccfcf5f922a.ckd",
+      "cover_smallImageUrl": "/public/map/WhineUp/orbis/WhineUp_Cover_Online.tga.ckd/206df9740e691dbb1bea18314901e2ea.ckd",
+      "coverImageUrl": "/public/map/WhineUp/orbis/WhineUp_Cover_Generic.tga.ckd/b5decc203f6fe299be6f3128c1deef95.ckd",
+      "coach1ImageUrl": "/public/map/WhineUp/orbis/WhineUp_Coach_1.tga.ckd/e9fabd672e82b5c3839d7dc166901efd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WhineUp/WhineUp_Coach_1_Phone.png/bdedecf98b9f7a4d5987b81fc454146c.png",
+    "phoneCoverImageUrl": "/public/map/WhineUp/WhineUp_Cover_Phone.jpg/47b14e35fb6cfcdd95a27739cbbecf36.jpg",
+    "cover640ImageUrl": "/public/map/WhineUp/WhineUp_Cover_640.png/d4c20daf578c993547ccef3425742cf7.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/WhineUp/WhineUp.ogg": "/private/map/WhineUp/WhineUp.ogg/6c8d7cb8ca0587b6a9b86f22c0a7d81c.ogg",
+    "jmcs://jd-contents/WhineUp/WhineUp_AudioPreview.ogg": "/public/map/WhineUp/WhineUp_AudioPreview.ogg/47d99ebf150f1fb18ded3e2d96a26627.ogg",
+    "jmcs://jd-contents/WhineUp/WhineUp_HIGH.webm": "/private/map/WhineUp/WhineUp_HIGH.webm/c8daeed0ca994987704ee3261c5a965e.webm",
+    "jmcs://jd-contents/WhineUp/WhineUp_LOW.webm": "/private/map/WhineUp/WhineUp_LOW.webm/fa98c9cbef5bc0ab5d6cff0001f77bcb.webm",
+    "jmcs://jd-contents/WhineUp/WhineUp_MID.webm": "/private/map/WhineUp/WhineUp_MID.webm/3d98e0e0eb3e41135c5291c50589c890.webm",
+    "jmcs://jd-contents/WhineUp/WhineUp_ULTRA.hd.webm": "/private/map/WhineUp/WhineUp_ULTRA.hd.webm/295bc072d65a67323406678155faf26e.webm",
+    "jmcs://jd-contents/WhineUp/WhineUp_ULTRA.webm": "/private/map/WhineUp/WhineUp_ULTRA.webm/a5357c375ae36db66912d5cfbcec63e6.webm",
+    "jmcs://jd-contents/WhineUp/WhineUp_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WhineUp/WhineUp_MapPreviewNoSoundCrop_LOW.vp8.webm/7ae5a42542d5b8a758ef2ad7c5874755.webm",
+    "jmcs://jd-contents/WhineUp/WhineUp_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WhineUp/WhineUp_MapPreviewNoSoundCrop_MID.vp8.webm/dcd18e1cb7102bf88f25593c6229972e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"546093\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhineUp/WhineUp_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"653-1143\">\n\t\t\t\t\t<Initialization range=\"0-653\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1534692\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhineUp/WhineUp_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\n\t\t\t\t\t<Initialization range=\"0-654\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 204.006458
+}

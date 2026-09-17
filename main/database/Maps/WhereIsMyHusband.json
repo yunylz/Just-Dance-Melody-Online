@@ -1,0 +1,179 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_AudioPreview.ogg": "/public/map/WhereIsMyHusband/WhereIsMyHusband_AudioPreview.ogg/e7c4e0e4821daec6278722d69c296550.ogg",
+    "jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband.ogg": "/private/map/WhereIsMyHusband/WhereIsMyHusband.ogg/60c4207596517a6c23f0d16622f9aaf1.ogg",
+    "jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_LOW.vp8.webm/75e8bf586c615f34bd5d898600ada95b.webm",
+    "jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_MID.vp8.webm/3c12bc8148b7b26d56e5f2a120be7170.webm",
+    "jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_HIGH.vp8.webm/d5a58e6dfb4954ded287367c38aab47d.webm",
+    "jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f698d705c9ab392556e44d3fef764988.webm",
+    "jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_ULTRA.hd.webm": "/private/map/WhereIsMyHusband/WhereIsMyHusband_ULTRA.hd.webm/45289c57c54b951284874d978c7b21d6.webm",
+    "jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_HIGH.hd.webm": "/private/map/WhereIsMyHusband/WhereIsMyHusband_HIGH.hd.webm/a9bd50d5fcd3e82bb40f08327dc723dd.webm",
+    "jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_MID.hd.webm": "/private/map/WhereIsMyHusband/WhereIsMyHusband_MID.hd.webm/8c752b23df9b84220b5868f52737320b.webm",
+    "jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_LOW.hd.webm": "/private/map/WhereIsMyHusband/WhereIsMyHusband_LOW.hd.webm/73e88d4d4b66614540d3cd7063d75b9b.webm"
+  },
+  "mapLength": 216.20671354166666,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24828,
+        49655,
+        74483,
+        99310,
+        124138,
+        148966,
+        173793,
+        198621,
+        223448,
+        248276,
+        273104,
+        297931,
+        322759,
+        347586,
+        372414,
+        397242,
+        422069,
+        446897,
+        471724,
+        496552,
+        521379,
+        546207,
+        571035,
+        595862,
+        620690,
+        645517,
+        670345,
+        695173,
+        720000,
+        744828,
+        769655,
+        794483,
+        819310,
+        844138,
+        868966,
+        893793,
+        918621,
+        943448,
+        968276,
+        993104,
+        1017931,
+        1042759,
+        1067586,
+        1092414,
+        1117242,
+        1142069,
+        1166897,
+        1191724,
+        1216552,
+        1241379,
+        1266207,
+        1291035,
+        1315862,
+        1340690,
+        1365517,
+        1390345,
+        1415173
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -20,
+      "endBeat": 398,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "url": "jmcs://jd-contents/whereismyhusband/whereismyhusband_AudioPreview.ogg",
+    "path": ""
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"645740\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"784-1274\">\n\t\t\t\t\t<Initialization range=\"0-784\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1479273\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"784-1274\">\n\t\t\t\t\t<Initialization range=\"0-784\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2878295\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"784-1274\">\n\t\t\t\t\t<Initialization range=\"0-784\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"3197164\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereIsMyHusband/WhereIsMyHusband_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"784-1274\">\n\t\t\t\t\t<Initialization range=\"0-784\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "18968aa1ddeb63d10acd89f80cc2c7ba",
+      "storageType": 0,
+      "url": "/public/map/WhereIsMyHusband/pc/WhereIsMyHusband_MAIN_SCENE_PC.zip/18968aa1ddeb63d10acd89f80cc2c7ba.zip"
+    },
+    "ps4": {
+      "md5": "dd3e0d1044b51940bb1c777f08c59a0e",
+      "storageType": 0,
+      "url": "/public/map/WhereIsMyHusband/orbis/WhereIsMyHusband_MAIN_SCENE_ORBIS.zip/dd3e0d1044b51940bb1c777f08c59a0e.zip"
+    },
+    "nx": {
+      "md5": "c0d0a1bd40bb7471bebf7f5ec72ea41f",
+      "storageType": 0,
+      "url": "/public/map/WhereIsMyHusband/nx/WhereIsMyHusband_MAIN_SCENE_NX.zip/c0d0a1bd40bb7471bebf7f5ec72ea41f.zip"
+    }
+  },
+  "data": {
+    "mapName": "WhereIsMyHusband",
+    "title": "WHERE IS MY HUSBAND!",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "RAYE",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#777777",
+    "songColor2B": "#111111",
+    "lyricsColor": "#00E4FC",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/WhereIsMyHusband/pc/WhereIsMyHusband_Cover_Online.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "coverImageUrl": "/public/map/WhereIsMyHusband/pc/WhereIsMyHusband_Cover_Generic.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "expandCoachImageUrl": "/public/map/WhereIsMyHusband/pc/WhereIsMyHusband_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/WhereIsMyHusband/pc/WhereIsMyHusband_map_bkg.tga.ckd/bd967bc6be1d2b4df418bc5ab43d1a5d.ckd",
+      "banner_bkgImageUrl": "/public/map/WhereIsMyHusband/pc/WhereIsMyHusband_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/WhereIsMyHusband/pc/WhereIsMyHusband_Coach_1.tga.ckd/dbe21e0714af764b29297e9379b305fb.ckd",
+      "phoneCoverImageUrl": "/public/map/WhereIsMyHusband/WhereIsMyHusband_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WhereIsMyHusband/WhereIsMyHusband_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/WhereIsMyHusband/WhereIsMyHusband_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/WhereIsMyHusband/orbis/WhereIsMyHusband_Cover_Online.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "coverImageUrl": "/public/map/WhereIsMyHusband/orbis/WhereIsMyHusband_Cover_Generic.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "expandCoachImageUrl": "/public/map/WhereIsMyHusband/orbis/WhereIsMyHusband_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/WhereIsMyHusband/orbis/WhereIsMyHusband_map_bkg.tga.ckd/bd967bc6be1d2b4df418bc5ab43d1a5d.ckd",
+      "banner_bkgImageUrl": "/public/map/WhereIsMyHusband/orbis/WhereIsMyHusband_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/WhereIsMyHusband/orbis/WhereIsMyHusband_Coach_1.tga.ckd/dbe21e0714af764b29297e9379b305fb.ckd",
+      "phoneCoverImageUrl": "/public/map/WhereIsMyHusband/WhereIsMyHusband_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WhereIsMyHusband/WhereIsMyHusband_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/WhereIsMyHusband/WhereIsMyHusband_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/WhereIsMyHusband/nx/WhereIsMyHusband_Cover_Online.tga.ckd/28e19a1498984376509ca2256dccde5c.ckd",
+      "coverImageUrl": "/public/map/WhereIsMyHusband/nx/WhereIsMyHusband_Cover_Generic.tga.ckd/28e19a1498984376509ca2256dccde5c.ckd",
+      "expandCoachImageUrl": "/public/map/WhereIsMyHusband/nx/WhereIsMyHusband_Cover_AlbumCoach.tga.ckd/f2acd1f802fbc3c07f5497a0de5fc9d3.ckd",
+      "map_bkgImageUrl": "/public/map/WhereIsMyHusband/nx/WhereIsMyHusband_map_bkg.tga.ckd/e6b0dcc47e597760d13b23002e2e800b.ckd",
+      "banner_bkgImageUrl": "/public/map/WhereIsMyHusband/nx/WhereIsMyHusband_banner_bkg.tga.ckd/56a0fc93e1e0b5555651a441a9c51598.ckd",
+      "coach1ImageUrl": "/public/map/WhereIsMyHusband/nx/WhereIsMyHusband_Coach_1.tga.ckd/26a47213441a0c69ee695455123c4656.ckd",
+      "phoneCoverImageUrl": "/public/map/WhereIsMyHusband/WhereIsMyHusband_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WhereIsMyHusband/WhereIsMyHusband_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/WhereIsMyHusband/WhereIsMyHusband_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    }
+  }
+}

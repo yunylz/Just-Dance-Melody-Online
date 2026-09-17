@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "61804b7e2160661c6b4fd9c70dfce283",
+      "storageType": 0,
+      "url": "/public/map/DanceMyGeneration/nx/DanceMyGeneration_MAIN_SCENE_NX.zip/61804b7e2160661c6b4fd9c70dfce283.zip"
+    },
+    "pc": {
+      "md5": "89dc270b82cd952c288c25b86110a537",
+      "storageType": 0,
+      "url": "/public/map/DanceMyGeneration/pc/DanceMyGeneration_MAIN_SCENE_PC.zip/89dc270b82cd952c288c25b86110a537.zip"
+    },
+    "ps4": {
+      "md5": "d5cec0538812353604cf12afb6548441",
+      "storageType": 0,
+      "url": "/public/map/DanceMyGeneration/orbis/DanceMyGeneration_MAIN_SCENE_ORBIS.zip/d5cec0538812353604cf12afb6548441.zip"
+    }
+  },
+  "data": {
+    "mapName": "DanceMyGeneration",
+    "title": "Dance My Generation",
+    "originalJDVersion": 1003,
+    "tags": [
+      "subscribedSong",
+      "jdwiiu",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Golden Bomber",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#03c3c1",
+    "credits": "CREDITS STRING TO BE FILLED"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21648,
+        43296,
+        64944,
+        86640,
+        108288,
+        129936,
+        151584,
+        173232,
+        194880,
+        216528,
+        238176,
+        259872,
+        281520,
+        303168,
+        324816,
+        346464,
+        368112,
+        389760,
+        411408,
+        433104,
+        454752,
+        476400,
+        498048,
+        519696,
+        541344,
+        562992,
+        584640,
+        606336,
+        627984,
+        649632,
+        671280,
+        692928,
+        714576,
+        736224,
+        757872,
+        779568,
+        801216,
+        822864,
+        844512,
+        866160,
+        887808,
+        909456,
+        931104,
+        952800,
+        974448,
+        996096,
+        1017744,
+        1039392,
+        1061040,
+        1082688,
+        1104384,
+        1126032,
+        1147680,
+        1169328,
+        1190976,
+        1212624,
+        1234272,
+        1255920,
+        1277616,
+        1299264,
+        1320912,
+        1342560,
+        1364208,
+        1385856,
+        1407504,
+        1429152,
+        1450848,
+        1472496
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 556,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DanceMyGeneration/DanceMyGeneration_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DanceMyGeneration/nx/DanceMyGeneration_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/DanceMyGeneration/nx/DanceMyGeneration_map_bkg.tga.ckd/18232d3083e0c1b1d46cb19de269a8fe.ckd",
+      "expandCoachImageUrl": "/public/map/DanceMyGeneration/nx/DanceMyGeneration_Cover_AlbumCoach.tga.ckd/8b46fb3d7e99d7a45e15164a9912c17a.ckd",
+      "cover_smallImageUrl": "/public/map/DanceMyGeneration/nx/DanceMyGeneration_Cover_Online.tga.ckd/9a117e9ea334be55399f94688f48c81e.ckd",
+      "coach1ImageUrl": "/public/map/DanceMyGeneration/nx/DanceMyGeneration_Coach_1.tga.ckd/c81c2b39033ca05b3ae42dd844897d52.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DanceMyGeneration/pc/DanceMyGeneration_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/DanceMyGeneration/pc/DanceMyGeneration_map_bkg.tga.ckd/e5eb6b7d3dd40c1b1e9b2bb553deba75.ckd",
+      "expandCoachImageUrl": "/public/map/DanceMyGeneration/pc/DanceMyGeneration_Cover_AlbumCoach.tga.ckd/5135703f54e4c270f434e4ee8f4ad9c8.ckd",
+      "cover_smallImageUrl": "/public/map/DanceMyGeneration/pc/DanceMyGeneration_Cover_Online.tga.ckd/5aac353fd9f3cef3d6cef731bd3f347a.ckd",
+      "coach1ImageUrl": "/public/map/DanceMyGeneration/pc/DanceMyGeneration_Coach_1.tga.ckd/802b8a3db77afae7a6d72767025304cf.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DanceMyGeneration/orbis/DanceMyGeneration_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/DanceMyGeneration/orbis/DanceMyGeneration_map_bkg.tga.ckd/e5eb6b7d3dd40c1b1e9b2bb553deba75.ckd",
+      "expandCoachImageUrl": "/public/map/DanceMyGeneration/orbis/DanceMyGeneration_Cover_AlbumCoach.tga.ckd/5135703f54e4c270f434e4ee8f4ad9c8.ckd",
+      "cover_smallImageUrl": "/public/map/DanceMyGeneration/orbis/DanceMyGeneration_Cover_Online.tga.ckd/5aac353fd9f3cef3d6cef731bd3f347a.ckd",
+      "coach1ImageUrl": "/public/map/DanceMyGeneration/orbis/DanceMyGeneration_Coach_1.tga.ckd/802b8a3db77afae7a6d72767025304cf.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DanceMyGeneration/DanceMyGeneration_Coach_1_Phone.png/58e9b7ee91728fcba37570a29c50bb8d.png",
+    "phoneCoverImageUrl": "/public/map/DanceMyGeneration/DanceMyGeneration_Cover_Phone.jpg/e868ff4073b3c6c32f4013e59f70bf74.jpg",
+    "cover640ImageUrl": "/public/map/DanceMyGeneration/DanceMyGeneration_Cover_640.png/79ffac54fc3fad08fa19b65b9c41108e.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DanceMyGeneration/DanceMyGeneration.ogg": "/private/map/DanceMyGeneration/DanceMyGeneration.ogg/9f780fc464038a4361025f6ad4a9e301.ogg",
+    "jmcs://jd-contents/DanceMyGeneration/DanceMyGeneration_AudioPreview.ogg": "/public/map/DanceMyGeneration/DanceMyGeneration_AudioPreview.ogg/9bb43c25f6443f99c85b7c8285fd18d1.ogg",
+    "jmcs://jd-contents/DanceMyGeneration/DanceMyGeneration_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DanceMyGeneration/DanceMyGeneration_MapPreviewNoSoundCrop_LOW.vp8.webm/58bc399c2ac12d9787d5f1ec14ed0d5a.webm",
+    "jmcs://jd-contents/DanceMyGeneration/DanceMyGeneration_HIGH.webm": "/private/map/DanceMyGeneration/DanceMyGeneration_HIGH.webm/eabbe90cd30fb5b1101b917f362c8e07.webm",
+    "jmcs://jd-contents/DanceMyGeneration/DanceMyGeneration_LOW.webm": "/private/map/DanceMyGeneration/DanceMyGeneration_LOW.webm/eefd86c9fefc362fb0da5eb7f07c820d.webm",
+    "jmcs://jd-contents/DanceMyGeneration/DanceMyGeneration_MID.webm": "/private/map/DanceMyGeneration/DanceMyGeneration_MID.webm/c2625ed981de56c9da5a707d3e72ddf8.webm",
+    "jmcs://jd-contents/DanceMyGeneration/DanceMyGeneration_ULTRA.webm": "/private/map/DanceMyGeneration/DanceMyGeneration_ULTRA.webm/90c4131c1dee0bf06fec938c49109de5.webm",
+    "jmcs://jd-contents/DanceMyGeneration/DanceMyGeneration_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DanceMyGeneration/DanceMyGeneration_MapPreviewNoSoundCrop_MID.vp8.webm/dad1b69c5828280654a8d4de67652011.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"541145\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DanceMyGeneration/DanceMyGeneration_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"570-1060\">\n\t\t\t\t\t<Initialization range=\"0-570\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1508152\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DanceMyGeneration/DanceMyGeneration_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"571-1061\">\n\t\t\t\t\t<Initialization range=\"0-571\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 255.827063
+}

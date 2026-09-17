@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c630e637dc7a841921f96969672ac8fb",
+      "storageType": 0,
+      "url": "/public/map/Respect/nx/Respect_MAIN_SCENE_NX.zip/c630e637dc7a841921f96969672ac8fb.zip"
+    },
+    "pc": {
+      "md5": "d4ec9f322458b08f8a240e1d65a2fd31",
+      "storageType": 0,
+      "url": "/public/map/Respect/pc/Respect_MAIN_SCENE_PC.zip/d4ec9f322458b08f8a240e1d65a2fd31.zip"
+    },
+    "ps4": {
+      "md5": "6c8d8c7fa4246c554d82d209cfe44f39",
+      "storageType": 0,
+      "url": "/public/map/Respect/orbis/Respect_MAIN_SCENE_ORBIS.zip/6c8d8c7fa4246c554d82d209cfe44f39.zip"
+    }
+  },
+  "data": {
+    "mapName": "Respect",
+    "title": "Respect",
+    "originalJDVersion": 4,
+    "tags": [
+      "Main"
+    ],
+    "artist": "Aretha Franklin",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29094,
+        58188,
+        87282,
+        113979,
+        140293,
+        167147,
+        193775,
+        220472,
+        245393,
+        272804,
+        299431,
+        324474,
+        347253,
+        376114,
+        401274,
+        426317,
+        452235,
+        477264,
+        502307,
+        528116,
+        551705,
+        577265,
+        602774,
+        628983,
+        654026,
+        679983,
+        705679,
+        731349,
+        756600,
+        782200,
+        808288,
+        832956,
+        858443,
+        883238,
+        908877,
+        933536,
+        958579,
+        984432,
+        1009814,
+        1034752,
+        1060666,
+        1085334,
+        1110995,
+        1135654,
+        1161028,
+        1186228,
+        1211749,
+        1236766,
+        1262697,
+        1287739,
+        1312782,
+        1338173,
+        1362868,
+        1388354,
+        1412953,
+        1439014,
+        1463578,
+        1489022
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 279,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Respect/Respect_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Respect/nx/Respect_banner_bkg.tga.ckd/f04c8f2b37eeeab896113fcce1f5bfb7.ckd",
+      "map_bkgImageUrl": "/public/map/Respect/nx/Respect_map_bkg.tga.ckd/9d7581dec29edf8aa3be55d9e4c9a6ae.ckd",
+      "expandCoachImageUrl": "/public/map/Respect/nx/Respect_Cover_AlbumCoach.tga.ckd/ed267b6c4c83c62efe8876fb24887f8a.ckd",
+      "cover_smallImageUrl": "/public/map/Respect/nx/Respect_Cover_Online.tga.ckd/2b03018ae1473cfdd107b22c74f378bb.ckd",
+      "coach1ImageUrl": "/public/map/Respect/nx/Respect_Coach_1.tga.ckd/799eed14dc9e003abb4c2534fcf3e462.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Respect/pc/Respect_banner_bkg.tga.ckd/b6e446651eaf35960d1aa122c3522fbf.ckd",
+      "map_bkgImageUrl": "/public/map/Respect/pc/Respect_map_bkg.tga.ckd/98f9375c54c3b8b8099408d3a97b160b.ckd",
+      "expandCoachImageUrl": "/public/map/Respect/pc/Respect_Cover_AlbumCoach.tga.ckd/c2a44520b8a695ae1a5e3d0f600d2c44.ckd",
+      "cover_smallImageUrl": "/public/map/Respect/pc/Respect_Cover_Online.tga.ckd/a3a72cd14d3759a8cc9998994ed584eb.ckd",
+      "coach1ImageUrl": "/public/map/Respect/pc/Respect_Coach_1.tga.ckd/d97eef47e366e8eb2f276df2be0124dd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Respect/orbis/Respect_banner_bkg.tga.ckd/b6e446651eaf35960d1aa122c3522fbf.ckd",
+      "map_bkgImageUrl": "/public/map/Respect/orbis/Respect_map_bkg.tga.ckd/98f9375c54c3b8b8099408d3a97b160b.ckd",
+      "expandCoachImageUrl": "/public/map/Respect/orbis/Respect_Cover_AlbumCoach.tga.ckd/c2a44520b8a695ae1a5e3d0f600d2c44.ckd",
+      "cover_smallImageUrl": "/public/map/Respect/orbis/Respect_Cover_Online.tga.ckd/a3a72cd14d3759a8cc9998994ed584eb.ckd",
+      "coach1ImageUrl": "/public/map/Respect/orbis/Respect_Coach_1.tga.ckd/d97eef47e366e8eb2f276df2be0124dd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Respect/Respect_Coach_1_Phone.png/51ab969d1271f92f62dfc3b52327055c.png",
+    "phoneCoverImageUrl": "/public/map/Respect/Respect_Cover_Phone.jpg/982475a8f6367ad3f012f4836f0a0636.jpg",
+    "cover640ImageUrl": "/public/map/Respect/Respect_Cover_640.png/f25e6baa3c0d2d2f4cb0d94be73cd7d4.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Respect/Respect.ogg": "/private/map/Respect/Respect.ogg/c31711a32e95e47f61e25ce76e808573.ogg",
+    "jmcs://jd-contents/Respect/Respect_AudioPreview.ogg": "/public/map/Respect/Respect_AudioPreview.ogg/134d5e86be9dcfb15e1d378dd084a28d.ogg",
+    "jmcs://jd-contents/Respect/Respect_HIGH.webm": "/private/map/Respect/Respect_HIGH.webm/34f84dff0090ac582b9b3668375ae740.webm",
+    "jmcs://jd-contents/Respect/Respect_LOW.webm": "/private/map/Respect/Respect_LOW.webm/913e3f692464654083cd8706d69e73f2.webm",
+    "jmcs://jd-contents/Respect/Respect_MID.webm": "/private/map/Respect/Respect_MID.webm/2c60d393d3e5ce5baaec638e3a10ecf1.webm",
+    "jmcs://jd-contents/Respect/Respect_ULTRA.hd.webm": "/private/map/Respect/Respect_ULTRA.hd.webm/76e738c55cca118f6247529a43c0673c.webm",
+    "jmcs://jd-contents/Respect/Respect_ULTRA.webm": "/private/map/Respect/Respect_ULTRA.webm/42d6d038c901ec98d20453b641151359.webm",
+    "jmcs://jd-contents/Respect/Respect_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Respect/Respect_MapPreviewNoSoundCrop_LOW.vp8.webm/ac26650fa05715c04e798e949f197d00.webm",
+    "jmcs://jd-contents/Respect/Respect_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Respect/Respect_MapPreviewNoSoundCrop_MID.vp8.webm/ee65187c1b8dfccafface9780da94c91.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"516873\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Respect/Respect_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1509900\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Respect/Respect_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 146.519979
+}

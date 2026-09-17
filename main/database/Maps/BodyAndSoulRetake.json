@@ -1,0 +1,182 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BodyAndSoulRetake/BodyAndSoulRetake.ogg": "/private/map/BodyAndSoulRetake/BodyAndSoulRetake.ogg/4eb0981ba46df7989f36b3cd8dcdc45e.ogg",
+    "jmcs://jd-contents/BodyAndSoulRetake/BodyAndSoulRetake_AudioPreview.ogg": "/public/map/BodyAndSoulRetake/BodyAndSoulRetake_AudioPreview.ogg/deb03c013c2fdb95b120845b3b3ff9b4.ogg",
+    "jmcs://jd-contents/BodyAndSoulRetake/BodyAndSoulRetake_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BodyAndSoulRetake/BodyAndSoulRetake_MapPreviewNoSoundCrop_LOW.vp8.webm/3dac9f587481f0c1d1430762b7e8b4ed.webm",
+    "jmcs://jd-contents/BodyAndSoulRetake/BodyAndSoulRetake_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BodyAndSoulRetake/BodyAndSoulRetake_MapPreviewNoSoundCrop_MID.vp8.webm/1fe0dfd02e0e24f282afaaaea278364d.webm",
+    "jmcs://jd-contents/BodyAndSoulRetake/BodyAndSoulRetake_HIGH.hd.webm": "/private/map/BodyAndSoulRetake/BodyAndSoulRetake_HIGH.hd.webm/df69a7669045648e24b1cddc438a60e6.webm",
+    "jmcs://jd-contents/BodyAndSoulRetake/BodyAndSoulRetake_LOW.hd.webm": "/private/map/BodyAndSoulRetake/BodyAndSoulRetake_LOW.hd.webm/802e7322c4d612ea28c10e8f2ec57b27.webm",
+    "jmcs://jd-contents/BodyAndSoulRetake/BodyAndSoulRetake_MID.hd.webm": "/private/map/BodyAndSoulRetake/BodyAndSoulRetake_MID.hd.webm/b1775bd69d3399bd288f7cec3fe19084.webm",
+    "jmcs://jd-contents/BodyAndSoulRetake/BodyAndSoulRetake_ULTRA.hd.webm": "/private/map/BodyAndSoulRetake/BodyAndSoulRetake_ULTRA.hd.webm/9b7f8ef577954b44e48ceffbd5d3da3f.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        6720,
+        30144,
+        53568,
+        76944,
+        100368,
+        123792,
+        147216,
+        170640,
+        194016,
+        217440,
+        240864,
+        264288,
+        287712,
+        311088,
+        334512,
+        357936,
+        381360,
+        404784,
+        428160,
+        451584,
+        475008,
+        498432,
+        521856,
+        545232,
+        568656,
+        592080,
+        615504,
+        638928,
+        662304,
+        685728,
+        709152,
+        732576,
+        756000,
+        779376,
+        802800,
+        826224,
+        849648,
+        873072,
+        896448,
+        919872,
+        943296,
+        966720,
+        990144,
+        1013520,
+        1036944,
+        1060368,
+        1083792,
+        1107216,
+        1130592,
+        1154016,
+        1177440,
+        1200864,
+        1224288,
+        1247664,
+        1271088,
+        1294512,
+        1317936,
+        1341360,
+        1364736,
+        1388160,
+        1411584,
+        1435008,
+        1458432,
+        1481808
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 550,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BodyAndSoulRetake/BodyAndSoulRetake_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "1b6fc81347c5e5a9d448f7efe9e38a33",
+      "storageType": 0,
+      "url": "/public/map/BodyAndSoulRetake/nx/BodyAndSoulRetake_MAIN_SCENE_NX.zip/1b6fc81347c5e5a9d448f7efe9e38a33.zip"
+    },
+    "pc": {
+      "md5": "78346d0d3a2816a026ecd204ec0d6021",
+      "storageType": 0,
+      "url": "/public/map/BodyAndSoulRetake/pc/BodyAndSoulRetake_MAIN_SCENE_PC.zip/78346d0d3a2816a026ecd204ec0d6021.zip"
+    },
+    "ps4": {
+      "md5": "aadd369802e117a2ad02444fa819f54c",
+      "storageType": 0,
+      "url": "/public/map/BodyAndSoulRetake/orbis/BodyAndSoulRetake_MAIN_SCENE_ORBIS.zip/aadd369802e117a2ad02444fa819f54c.zip"
+    }
+  },
+  "data": {
+    "mapName": "BodyAndSoulRetake",
+    "title": "Body & Soul",
+    "originalJDVersion": 1001,
+    "tags": [
+      "jd2022",
+      "main_2022",
+      "subscribedSong",
+      "jdwii2",
+      "JustDanceAsia",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "SPEED",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#D300C4",
+    "songColor2A": "#B99888",
+    "songColor1B": "#30012D",
+    "songColor2B": "#25305A",
+    "lyricsColor": "#00e8ff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BodyAndSoulRetake/nx/BodyAndSoulRetake_banner_bkg.tga.ckd/13a39bf80ed41566ce8571914aae110c.ckd",
+      "map_bkgImageUrl": "/public/map/BodyAndSoulRetake/nx/BodyAndSoulRetake_map_bkg.tga.ckd/159d032255191ce125b293254d9ec34b.ckd",
+      "expandCoachImageUrl": "/public/map/BodyAndSoulRetake/nx/BodyAndSoulRetake_Cover_AlbumCoach.tga.ckd/30830f60cc61a22e4fd521db142dc970.ckd",
+      "cover_smallImageUrl": "/public/map/BodyAndSoulRetake/nx/BodyAndSoulRetake_Cover_Online.tga.ckd/2c35ee72a2bebfb9e435f23df677668c.ckd",
+      "coverImageUrl": "/public/map/BodyAndSoulRetake/nx/BodyAndSoulRetake_Cover_Generic.tga.ckd/7310a1837f8fd8185340139aec18d9e6.ckd",
+      "coach1ImageUrl": "/public/map/BodyAndSoulRetake/nx/BodyAndSoulRetake_Coach_1.tga.ckd/ad08b29427d6186941074462776bb020.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BodyAndSoulRetake/pc/BodyAndSoulRetake_banner_bkg.tga.ckd/11080a47ede69e3be0f8e3aa14935690.ckd",
+      "map_bkgImageUrl": "/public/map/BodyAndSoulRetake/pc/BodyAndSoulRetake_map_bkg.tga.ckd/b634f2741606d1c6e4ed0f78fd411037.ckd",
+      "expandCoachImageUrl": "/public/map/BodyAndSoulRetake/pc/BodyAndSoulRetake_Cover_AlbumCoach.tga.ckd/7fe3818ce395dcb38ba882cfcf1b6d3b.ckd",
+      "cover_smallImageUrl": "/public/map/BodyAndSoulRetake/pc/BodyAndSoulRetake_Cover_Online.tga.ckd/65e3c33a91d8ed2faf2009609facbfba.ckd",
+      "coverImageUrl": "/public/map/BodyAndSoulRetake/pc/BodyAndSoulRetake_Cover_Generic.tga.ckd/3189351b99cc84dab65dfd79dec12e08.ckd",
+      "coach1ImageUrl": "/public/map/BodyAndSoulRetake/pc/BodyAndSoulRetake_Coach_1.tga.ckd/b6d486bf508cdc11552845f6408da635.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BodyAndSoulRetake/orbis/BodyAndSoulRetake_banner_bkg.tga.ckd/11080a47ede69e3be0f8e3aa14935690.ckd",
+      "map_bkgImageUrl": "/public/map/BodyAndSoulRetake/orbis/BodyAndSoulRetake_map_bkg.tga.ckd/b634f2741606d1c6e4ed0f78fd411037.ckd",
+      "expandCoachImageUrl": "/public/map/BodyAndSoulRetake/orbis/BodyAndSoulRetake_Cover_AlbumCoach.tga.ckd/7fe3818ce395dcb38ba882cfcf1b6d3b.ckd",
+      "cover_smallImageUrl": "/public/map/BodyAndSoulRetake/orbis/BodyAndSoulRetake_Cover_Online.tga.ckd/65e3c33a91d8ed2faf2009609facbfba.ckd",
+      "coverImageUrl": "/public/map/BodyAndSoulRetake/orbis/BodyAndSoulRetake_Cover_Generic.tga.ckd/3189351b99cc84dab65dfd79dec12e08.ckd",
+      "coach1ImageUrl": "/public/map/BodyAndSoulRetake/orbis/BodyAndSoulRetake_Coach_1.tga.ckd/b6d486bf508cdc11552845f6408da635.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BodyAndSoulRetake/BodyAndSoulRetake_Coach_1_Phone.png/8e4052239c7d333829c29142b4ee8c1f.png",
+    "phoneCoverImageUrl": "/public/map/BodyAndSoulRetake/BodyAndSoulRetake_Cover_Phone.jpg/00e940e9cc98c5b46445588dba767e0c.jpg",
+    "cover640ImageUrl": "/public/map/BodyAndSoulRetake/BodyAndSoulRetake_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"507792\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BodyAndSoulRetake/BodyAndSoulRetake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"701-1191\">\n\t\t\t\t\t<Initialization range=\"0-701\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1993576\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BodyAndSoulRetake/BodyAndSoulRetake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"702-1192\">\n\t\t\t\t\t<Initialization range=\"0-702\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 272.8405
+}

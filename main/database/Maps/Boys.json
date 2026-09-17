@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "21b8b8657dbb4cb3e7d4a523e2acb0a3",
+      "storageType": 0,
+      "url": "/public/map/Boys/nx/Boys_MAIN_SCENE_NX.zip/21b8b8657dbb4cb3e7d4a523e2acb0a3.zip"
+    },
+    "pc": {
+      "md5": "ae5dc0eda91a42d1fa1f862e869f434f",
+      "storageType": 0,
+      "url": "/public/map/Boys/pc/Boys_MAIN_SCENE_PC.zip/ae5dc0eda91a42d1fa1f862e869f434f.zip"
+    },
+    "ps4": {
+      "md5": "2edb680c9d4dce0df9385419467d44d5",
+      "storageType": 0,
+      "url": "/public/map/Boys/orbis/Boys_MAIN_SCENE_ORBIS.zip/2edb680c9d4dce0df9385419467d44d5.zip"
+    }
+  },
+  "data": {
+    "mapName": "Boys",
+    "title": "Boys",
+    "originalJDVersion": 2020,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Easy",
+      "JustDance2020"
+    ],
+    "artist": "Lizzo",
+    "credits": "Written by Aaron Puckett, Eric Frederic, Lizzo and Nate Mercereau. Published by Frederic and Ried Music (BMI) / Songs From The Broadwalk (BMI) / Sony/ATV Songs LLC (BMI) / Nice Life Songs (BMI) / Poslaniec Publishing (BMI) / Kobalt Songs Music Publishing obo Prescription Songs (ASCAP) / Hazheart Music (ASCAP). / Warner-Tamerlane Publishing Corp. (BMI) OBO Melissa Jefferson pub designee. All rights reserved. Used with permission. Courtesy of Nice Life Recording Company / Atlantic Recording Corporation. By arrangement with Warner Music Group Film & TV Licensing. All rights of the producer and other rightsholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#32ffff",
+    "songColor2A": "#ff00fc",
+    "songColor1B": "#3e0063",
+    "songColor2B": "#57008c",
+    "lyricsColor": "#13da10",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 349,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Boys/Boys_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Boys/nx/Boys_banner_bkg.tga.ckd/65dbf28fb3ca2f130d0ed4a97bbc9e52.ckd",
+      "map_bkgImageUrl": "/public/map/Boys/nx/Boys_map_bkg.tga.ckd/11af0513c39b5171312ea3c6feb8450a.ckd",
+      "expandCoachImageUrl": "/public/map/Boys/nx/Boys_Cover_AlbumCoach.tga.ckd/06883362003d73b0727c538d6be50189.ckd",
+      "cover_smallImageUrl": "/public/map/Boys/nx/Boys_Cover_Online.tga.ckd/79409d85976566680115485865cac1e4.ckd",
+      "coverImageUrl": "/public/map/Boys/nx/Boys_Cover_Generic.tga.ckd/2559ec2ad2d0691e48eac72a8eccd71c.ckd",
+      "coach1ImageUrl": "/public/map/Boys/nx/Boys_Coach_1.tga.ckd/514b504ec6b7613a9df6e787d74c4230.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Boys/pc/Boys_banner_bkg.tga.ckd/fed6a9e123c4a69a14959b0f79e1bc3a.ckd",
+      "map_bkgImageUrl": "/public/map/Boys/pc/Boys_map_bkg.tga.ckd/073ed3b641806f26d4189618e223b497.ckd",
+      "expandCoachImageUrl": "/public/map/Boys/pc/Boys_Cover_AlbumCoach.tga.ckd/2c2c7bfe9ce4aa67577af377b05c9a86.ckd",
+      "cover_smallImageUrl": "/public/map/Boys/pc/Boys_Cover_Online.tga.ckd/50e3e1b0ceb263f49a0d106352ba6b6d.ckd",
+      "coverImageUrl": "/public/map/Boys/pc/Boys_Cover_Generic.tga.ckd/e936a9780589ca571040c356c8faf933.ckd",
+      "coach1ImageUrl": "/public/map/Boys/pc/Boys_Coach_1.tga.ckd/c0769865d0884577ddc94df463406288.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Boys/orbis/Boys_banner_bkg.tga.ckd/fed6a9e123c4a69a14959b0f79e1bc3a.ckd",
+      "map_bkgImageUrl": "/public/map/Boys/orbis/Boys_map_bkg.tga.ckd/073ed3b641806f26d4189618e223b497.ckd",
+      "expandCoachImageUrl": "/public/map/Boys/orbis/Boys_Cover_AlbumCoach.tga.ckd/2c2c7bfe9ce4aa67577af377b05c9a86.ckd",
+      "cover_smallImageUrl": "/public/map/Boys/orbis/Boys_Cover_Online.tga.ckd/50e3e1b0ceb263f49a0d106352ba6b6d.ckd",
+      "coverImageUrl": "/public/map/Boys/orbis/Boys_Cover_Generic.tga.ckd/e936a9780589ca571040c356c8faf933.ckd",
+      "coach1ImageUrl": "/public/map/Boys/orbis/Boys_Coach_1.tga.ckd/c0769865d0884577ddc94df463406288.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Boys/Boys_Coach_1_Phone.png/3042c379c7909b1f174011f5ab882a55.png",
+    "phoneCoverImageUrl": "/public/map/Boys/Boys_Cover_Phone.jpg/6048d6ed283370aba186e9441e503bf6.jpg",
+    "cover640ImageUrl": "/public/map/Boys/Boys_Cover_640.png/7b651e15dbc2f332bd7fba4f338c9309.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Boys/Boys.ogg": "/private/map/Boys/Boys.ogg/c40bb81a27a499eefaa310e30fd6356d.ogg",
+    "jmcs://jd-contents/Boys/Boys_AudioPreview.ogg": "/public/map/Boys/Boys_AudioPreview.ogg/86dee6d2a1bd149c0b3306d8966b5754.ogg",
+    "jmcs://jd-contents/Boys/Boys_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Boys/Boys_MapPreviewNoSoundCrop_LOW.vp8.webm/3ec044c42f72933bd9fc27bb9e31c30b.webm",
+    "jmcs://jd-contents/Boys/Boys_HIGH.webm": "/private/map/Boys/Boys_HIGH.webm/9a1f3af2df02d4658247fbf491193b45.webm",
+    "jmcs://jd-contents/Boys/Boys_LOW.webm": "/private/map/Boys/Boys_LOW.webm/be8cc698d066d23ecd4b538017b3ca5c.webm",
+    "jmcs://jd-contents/Boys/Boys_MID.webm": "/private/map/Boys/Boys_MID.webm/0e6b0911aa6cf6cb3ba73baaf8b63afc.webm",
+    "jmcs://jd-contents/Boys/Boys_ULTRA.hd.webm": "/private/map/Boys/Boys_ULTRA.hd.webm/0fbbe1a60fe4d82925d82978dfaa8755.webm",
+    "jmcs://jd-contents/Boys/Boys_ULTRA.webm": "/private/map/Boys/Boys_ULTRA.webm/4b8210eb1123567246817175f0963ffe.webm",
+    "jmcs://jd-contents/Boys/Boys_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Boys/Boys_MapPreviewNoSoundCrop_MID.vp8.webm/dd1c77da5df99be8b08bebd28361b565.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"488117\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Boys/Boys_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\n\t\t\t\t\t<Initialization range=\"0-606\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1433769\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Boys/Boys_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\n\t\t\t\t\t<Initialization range=\"0-607\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 174.5
+}

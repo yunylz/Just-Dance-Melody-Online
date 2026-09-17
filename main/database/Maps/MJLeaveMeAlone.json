@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "76a5d39a58f00de164f70791888e1de4",
+      "storageType": 0,
+      "url": "/public/map/MJLeaveMeAlone/nx/MJLeaveMeAlone_MAIN_SCENE_NX.zip/76a5d39a58f00de164f70791888e1de4.zip"
+    },
+    "pc": {
+      "md5": "6358297c6af1cd338ceb9d7f9674828b",
+      "storageType": 0,
+      "url": "/public/map/MJLeaveMeAlone/pc/MJLeaveMeAlone_MAIN_SCENE_PC.zip/6358297c6af1cd338ceb9d7f9674828b.zip"
+    },
+    "ps4": {
+      "md5": "08e1775ffb5bf17467e418795684be60",
+      "storageType": 0,
+      "url": "/public/map/MJLeaveMeAlone/orbis/MJLeaveMeAlone_MAIN_SCENE_ORBIS.zip/08e1775ffb5bf17467e418795684be60.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJLeaveMeAlone",
+    "title": "Leave Me Alone",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong",
+      "mjte",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#af470a",
+    "songColor2A": "#4f9938",
+    "songColor1B": "#3b1905",
+    "songColor2B": "#1f3b17",
+    "lyricsColor": "#ea8f00"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        239,
+        23470,
+        46750,
+        70029,
+        93260,
+        116540,
+        139819,
+        163099,
+        186378,
+        209657,
+        232985,
+        256264,
+        279591,
+        302871,
+        326198,
+        349478,
+        372805,
+        396084,
+        419412,
+        442691,
+        465970,
+        489298,
+        512577,
+        535905,
+        559184,
+        582511,
+        605791,
+        629118,
+        652397,
+        675725,
+        699004,
+        722332,
+        745611,
+        768938,
+        792218,
+        815497,
+        838824,
+        862104,
+        885431,
+        908711,
+        932038,
+        955317,
+        978645,
+        1001924,
+        1025251,
+        1048531,
+        1071858,
+        1095138,
+        1118417,
+        1141744,
+        1165024,
+        1188351,
+        1211630,
+        1234958,
+        1258237,
+        1281565,
+        1304844,
+        1328171,
+        1351451,
+        1374778,
+        1398057,
+        1421385,
+        1444664,
+        1467943,
+        1491271
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 549,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJLeaveMeAlone/nx/MJLeaveMeAlone_banner_bkg.tga.ckd/5472fecea207a83552752f0927ef2d7c.ckd",
+      "map_bkgImageUrl": "/public/map/MJLeaveMeAlone/nx/MJLeaveMeAlone_map_bkg.tga.ckd/530763c6526ed3e864f6e7640d2fce5a.ckd",
+      "expandCoachImageUrl": "/public/map/MJLeaveMeAlone/nx/MJLeaveMeAlone_Cover_AlbumCoach.tga.ckd/15fb5f052344883d35b33063e1617f20.ckd",
+      "cover_smallImageUrl": "/public/map/MJLeaveMeAlone/nx/MJLeaveMeAlone_Cover_Online.tga.ckd/fc22e0033b42d568eadda073a5b6e638.ckd",
+      "coach1ImageUrl": "/public/map/MJLeaveMeAlone/nx/MJLeaveMeAlone_Coach_1.tga.ckd/5458a8e4d23a43884f2f6f644682143c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJLeaveMeAlone/pc/MJLeaveMeAlone_banner_bkg.tga.ckd/474ab7bc7304986429ad210020e73c6c.ckd",
+      "map_bkgImageUrl": "/public/map/MJLeaveMeAlone/pc/MJLeaveMeAlone_map_bkg.tga.ckd/f075a9a2abc4987fb4676c9070745df0.ckd",
+      "expandCoachImageUrl": "/public/map/MJLeaveMeAlone/pc/MJLeaveMeAlone_Cover_AlbumCoach.tga.ckd/b2d9e9ce5bce53187a90105eadfa2fb5.ckd",
+      "cover_smallImageUrl": "/public/map/MJLeaveMeAlone/pc/MJLeaveMeAlone_Cover_Online.tga.ckd/43c2035a46f296c969f791d33945bb0f.ckd",
+      "coach1ImageUrl": "/public/map/MJLeaveMeAlone/pc/MJLeaveMeAlone_Coach_1.tga.ckd/e95d44b1b631cb0186b9de58b7c47eb9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJLeaveMeAlone/orbis/MJLeaveMeAlone_banner_bkg.tga.ckd/474ab7bc7304986429ad210020e73c6c.ckd",
+      "map_bkgImageUrl": "/public/map/MJLeaveMeAlone/orbis/MJLeaveMeAlone_map_bkg.tga.ckd/f075a9a2abc4987fb4676c9070745df0.ckd",
+      "expandCoachImageUrl": "/public/map/MJLeaveMeAlone/orbis/MJLeaveMeAlone_Cover_AlbumCoach.tga.ckd/b2d9e9ce5bce53187a90105eadfa2fb5.ckd",
+      "cover_smallImageUrl": "/public/map/MJLeaveMeAlone/orbis/MJLeaveMeAlone_Cover_Online.tga.ckd/43c2035a46f296c969f791d33945bb0f.ckd",
+      "coach1ImageUrl": "/public/map/MJLeaveMeAlone/orbis/MJLeaveMeAlone_Coach_1.tga.ckd/e95d44b1b631cb0186b9de58b7c47eb9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJLeaveMeAlone/MJLeaveMeAlone_Coach_1_Phone.png/e9457d74974998ad7313650ba59db7a0.png",
+    "phoneCoverImageUrl": "/public/map/MJLeaveMeAlone/MJLeaveMeAlone_Cover_Phone.jpg/8f1b5bdc83a319c703c8e410c404f9bb.jpg",
+    "cover640ImageUrl": "/public/map/MJLeaveMeAlone/MJLeaveMeAlone_Cover_640.png/6e61b1be01916260cf837e0e311bcd54.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone.ogg": "/private/map/MJLeaveMeAlone/MJLeaveMeAlone.ogg/dbc6cba4294a58183027a4a90af576a8.ogg",
+    "jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_AudioPreview.ogg": "/public/map/MJLeaveMeAlone/MJLeaveMeAlone_AudioPreview.ogg/3b554c3786d6a9a02e85a6b61f45bea0.ogg",
+    "jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_HIGH.webm": "/private/map/MJLeaveMeAlone/MJLeaveMeAlone_HIGH.webm/e82391423d72c0c4603795e49e0e3756.webm",
+    "jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_LOW.webm": "/private/map/MJLeaveMeAlone/MJLeaveMeAlone_LOW.webm/8d87c37f338986f96a2513f335468648.webm",
+    "jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_MID.webm": "/private/map/MJLeaveMeAlone/MJLeaveMeAlone_MID.webm/a32220ffe3e69d0223ba84b29145796d.webm",
+    "jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_ULTRA.hd.webm": "/private/map/MJLeaveMeAlone/MJLeaveMeAlone_ULTRA.hd.webm/3add8707323dc3c4e3cb66dcb52f1ea7.webm",
+    "jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_ULTRA.webm": "/private/map/MJLeaveMeAlone/MJLeaveMeAlone_ULTRA.webm/7eaa9659784f71620d9cf838baf6fa30.webm",
+    "jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJLeaveMeAlone/MJLeaveMeAlone_MapPreviewNoSoundCrop_LOW.vp8.webm/ba68338340eded4b6355124df066b609.webm",
+    "jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJLeaveMeAlone/MJLeaveMeAlone_MapPreviewNoSoundCrop_MID.vp8.webm/67e38c8dc4ac956a3413aed63184132c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"499670\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\n\t\t\t\t\t<Initialization range=\"0-628\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1383676\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\n\t\t\t\t\t<Initialization range=\"0-629\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 266.4
+}

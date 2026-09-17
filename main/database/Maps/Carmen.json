@@ -1,0 +1,182 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Carmen/Carmen.ogg": "/private/map/Carmen/Carmen.ogg/ea50fad139a144ae68abbbe7da9e8f09.ogg",
+    "jmcs://jd-contents/Carmen/Carmen_AudioPreview.ogg": "/public/map/Carmen/Carmen_AudioPreview.ogg/8e96140a311899c62c22dc4b81650dff.ogg",
+    "jmcs://jd-contents/Carmen/Carmen_HIGH.hd.webm": "/private/map/Carmen/Carmen_HIGH.hd.webm/c4e4a3de2288ebe6c67f1920d42d9e81.webm",
+    "jmcs://jd-contents/Carmen/Carmen_LOW.hd.webm": "/private/map/Carmen/Carmen_LOW.hd.webm/62b3d33206f5ff7dedd300a0872ff2db.webm",
+    "jmcs://jd-contents/Carmen/Carmen_MID.hd.webm": "/private/map/Carmen/Carmen_MID.hd.webm/5effa621bbca646d872d17b89b547276.webm",
+    "jmcs://jd-contents/Carmen/Carmen_ULTRA.hd.webm": "/private/map/Carmen/Carmen_ULTRA.hd.webm/31e22966111e5ce6cc0f9182d5380bf4.webm",
+    "jmcs://jd-contents/Carmen/Carmen_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Carmen/Carmen_MapPreviewNoSoundCrop_LOW.vp8.webm/a96acd9c5ae1212ae9100c90ac0e924a.webm",
+    "jmcs://jd-contents/Carmen/Carmen_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Carmen/Carmen_MapPreviewNoSoundCrop_MID.vp8.webm/2c8e5237ce5471a4888542fd79b82acf.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        20879,
+        41807,
+        65999,
+        90239,
+        113375,
+        135359,
+        157151,
+        178943,
+        200687,
+        222479,
+        244271,
+        266111,
+        287903,
+        309695,
+        331535,
+        353327,
+        375119,
+        396959,
+        418703,
+        440495,
+        462287,
+        484031,
+        505823,
+        527615,
+        549407,
+        571151,
+        592895,
+        614591,
+        636335,
+        658078,
+        680734,
+        703390,
+        726046,
+        748702,
+        770686,
+        792670,
+        814606,
+        836590,
+        858574,
+        880510,
+        902494,
+        924430,
+        947134,
+        969838,
+        992542,
+        1015246,
+        1037374,
+        1059502,
+        1081582,
+        1103710,
+        1125646,
+        1147582,
+        1169470,
+        1191406,
+        1213342,
+        1235278,
+        1257166,
+        1279102,
+        1301325,
+        1323597,
+        1345245,
+        1366893,
+        1389693,
+        1412493,
+        1435293,
+        1458093,
+        1480557
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -14,
+      "endBeat": 278,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Carmen/Carmen_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "c6d0e410708c7da94bcfbf819faeca1b",
+      "storageType": 0,
+      "url": "/public/map/Carmen/nx/Carmen_MAIN_SCENE_NX.zip/c6d0e410708c7da94bcfbf819faeca1b.zip"
+    },
+    "pc": {
+      "md5": "1c8558050d1115af38af5c98cd46f950",
+      "storageType": 0,
+      "url": "/public/map/Carmen/pc/Carmen_MAIN_SCENE_PC.zip/1c8558050d1115af38af5c98cd46f950.zip"
+    },
+    "ps4": {
+      "md5": "a3dbe4c5b8079af5f2ce9c473cc78014",
+      "storageType": 0,
+      "url": "/public/map/Carmen/orbis/Carmen_MAIN_SCENE_ORBIS.zip/a3dbe4c5b8079af5f2ce9c473cc78014.zip"
+    }
+  },
+  "data": {
+    "mapName": "Carmen",
+    "title": "Carmen (Ouverture)",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main"
+    ],
+    "artist": "Just Dance Orchestra",
+    "credits": "Written by Georges Bizet. Published by APM Music. Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#d71818",
+    "songColor2A": "#ffe540",
+    "songColor1B": "#2e000f",
+    "songColor2B": "#e2ad73",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Carmen/nx/Carmen_banner_bkg.tga.ckd/af24d6b0dfee37ab7f5e93dae09df888.ckd",
+      "map_bkgImageUrl": "/public/map/Carmen/nx/Carmen_map_bkg.tga.ckd/0495ebace19a957ef3c92ea53c7d86f6.ckd",
+      "expandCoachImageUrl": "/public/map/Carmen/nx/Carmen_Cover_AlbumCoach.tga.ckd/a3e700bacf24da4b45401d26e33acd8e.ckd",
+      "cover_smallImageUrl": "/public/map/Carmen/nx/Carmen_Cover_Online.tga.ckd/835f703a6028b6b2eae74ad7600bfc00.ckd",
+      "coverImageUrl": "/public/map/Carmen/nx/Carmen_Cover_Generic.tga.ckd/5f7aaa169a06ee6f605055a0ab6ddac5.ckd",
+      "coach1ImageUrl": "/public/map/Carmen/nx/Carmen_Coach_1.tga.ckd/d215736c5ec2a83d554e305cabc1bb82.ckd",
+      "coach2ImageUrl": "/public/map/Carmen/nx/Carmen_Coach_2.tga.ckd/29a2d4294d4f0079664f7bcac66ae5b9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Carmen/pc/Carmen_banner_bkg.tga.ckd/babc403ef653dd644242d83473138def.ckd",
+      "map_bkgImageUrl": "/public/map/Carmen/pc/Carmen_map_bkg.tga.ckd/6601b258670710f15f9391896e83232c.ckd",
+      "expandCoachImageUrl": "/public/map/Carmen/pc/Carmen_Cover_AlbumCoach.tga.ckd/3491a6ecc15a68f88fd3e9d96c0b01b0.ckd",
+      "cover_smallImageUrl": "/public/map/Carmen/pc/Carmen_Cover_Online.tga.ckd/505cc17995b8d626502ea4946bf2681c.ckd",
+      "coverImageUrl": "/public/map/Carmen/pc/Carmen_Cover_Generic.tga.ckd/a3acfab74e5ea14fe305531b52aaf0b4.ckd",
+      "coach1ImageUrl": "/public/map/Carmen/pc/Carmen_Coach_1.tga.ckd/997ae09244aff8a0d556bf1a2d700ad4.ckd",
+      "coach2ImageUrl": "/public/map/Carmen/pc/Carmen_Coach_2.tga.ckd/34f30fba725fd53d38369bacf4b759f2.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Carmen/orbis/Carmen_banner_bkg.tga.ckd/babc403ef653dd644242d83473138def.ckd",
+      "map_bkgImageUrl": "/public/map/Carmen/orbis/Carmen_map_bkg.tga.ckd/6601b258670710f15f9391896e83232c.ckd",
+      "expandCoachImageUrl": "/public/map/Carmen/orbis/Carmen_Cover_AlbumCoach.tga.ckd/3491a6ecc15a68f88fd3e9d96c0b01b0.ckd",
+      "cover_smallImageUrl": "/public/map/Carmen/orbis/Carmen_Cover_Online.tga.ckd/505cc17995b8d626502ea4946bf2681c.ckd",
+      "coverImageUrl": "/public/map/Carmen/orbis/Carmen_Cover_Generic.tga.ckd/a3acfab74e5ea14fe305531b52aaf0b4.ckd",
+      "coach1ImageUrl": "/public/map/Carmen/orbis/Carmen_Coach_1.tga.ckd/997ae09244aff8a0d556bf1a2d700ad4.ckd",
+      "coach2ImageUrl": "/public/map/Carmen/orbis/Carmen_Coach_2.tga.ckd/34f30fba725fd53d38369bacf4b759f2.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Carmen/Carmen_Coach_1_Phone.png/218ee65c1f53c6324603276bf2e1fb56.png",
+    "phoneCoach2ImageUrl": "/public/map/Carmen/Carmen_Coach_2_Phone.png/68a23e5cf7c87a974a35440199dc7048.png",
+    "phoneCoverImageUrl": "/public/map/Carmen/Carmen_Cover_Phone.jpg/df9039e3319f402a3398a05fa32a46f3.jpg",
+    "cover640ImageUrl": "/public/map/Carmen/Carmen_Cover_640.png/a0e5f1e9d94a8a62e785ef4519d5f263.png"
+  },
+  "mapLength": 140.253792
+}

@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "60a051eed596405dea92d09306b00dae",
+      "storageType": 0,
+      "url": "/public/map/ItsyBitsy/nx/ItsyBitsy_MAIN_SCENE_NX.zip/60a051eed596405dea92d09306b00dae.zip"
+    },
+    "pc": {
+      "md5": "3298602c5d37dce1691d2e4f78df92a7",
+      "storageType": 0,
+      "url": "/public/map/ItsyBitsy/pc/ItsyBitsy_MAIN_SCENE_PC.zip/3298602c5d37dce1691d2e4f78df92a7.zip"
+    },
+    "ps4": {
+      "md5": "e3f31b22e69452e668d4228ded53ffab",
+      "storageType": 0,
+      "url": "/public/map/ItsyBitsy/orbis/ItsyBitsy_MAIN_SCENE_ORBIS.zip/e3f31b22e69452e668d4228ded53ffab.zip"
+    }
+  },
+  "data": {
+    "mapName": "ItsyBitsy",
+    "title": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Sunlight Shakers",
+    "credits": "EMPTY",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#003cff",
+    "songColor2A": "#cd0087",
+    "songColor1B": "#00095f",
+    "songColor2B": "#560059",
+    "lyricsColor": "#0c1300"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23808,
+        47520,
+        71232,
+        94944,
+        118608,
+        142320,
+        166032,
+        190512,
+        214944,
+        238800,
+        262656,
+        286512,
+        310369,
+        334225,
+        358081,
+        381937,
+        405793,
+        429649,
+        453505,
+        477361,
+        501217,
+        525073,
+        548929,
+        572785,
+        596641,
+        620354,
+        644114,
+        667826,
+        691586,
+        715298,
+        739058,
+        762770,
+        786530,
+        810242,
+        834002,
+        857714,
+        881474,
+        905282,
+        929139,
+        952995,
+        976851,
+        1000707,
+        1024563,
+        1048419,
+        1072275,
+        1096131,
+        1119987,
+        1143843,
+        1167699,
+        1191171,
+        1214691,
+        1238164,
+        1261684,
+        1285156,
+        1308676,
+        1332148,
+        1355668,
+        1379140,
+        1402660,
+        1426132,
+        1449652,
+        1473124,
+        1496644
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 288,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ItsyBitsy/ItsyBitsy_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ItsyBitsy/nx/ItsyBitsy_banner_bkg.tga.ckd/427d0ac81b50312f8f6ed62b43188825.ckd",
+      "map_bkgImageUrl": "/public/map/ItsyBitsy/nx/ItsyBitsy_map_bkg.tga.ckd/ebcfb34d27e67e9aa4727e26890a44b2.ckd",
+      "expandCoachImageUrl": "/public/map/ItsyBitsy/nx/ItsyBitsy_Cover_AlbumCoach.tga.ckd/241195b3afb6c59b65ab4b276b8f59a5.ckd",
+      "cover_smallImageUrl": "/public/map/ItsyBitsy/nx/ItsyBitsy_Cover_Online.tga.ckd/a0b27d32dc236fd1583145b49a1708e8.ckd",
+      "coach1ImageUrl": "/public/map/ItsyBitsy/nx/ItsyBitsy_Coach_1.tga.ckd/5cb943594c4d07040256d5c66c235baa.ckd",
+      "coach2ImageUrl": "/public/map/ItsyBitsy/nx/ItsyBitsy_Coach_2.tga.ckd/d6b7d2abd3944febfcba05533c861c7a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ItsyBitsy/pc/ItsyBitsy_banner_bkg.tga.ckd/21bbcc6ddc13eee3bfcbb6cd2ad17e8b.ckd",
+      "map_bkgImageUrl": "/public/map/ItsyBitsy/pc/ItsyBitsy_map_bkg.tga.ckd/dee1c58275e2ff0380e4ff2d6c4fe1c1.ckd",
+      "expandCoachImageUrl": "/public/map/ItsyBitsy/pc/ItsyBitsy_Cover_AlbumCoach.tga.ckd/e056962af6e624f478bc1ff2a818cf0e.ckd",
+      "cover_smallImageUrl": "/public/map/ItsyBitsy/pc/ItsyBitsy_Cover_Online.tga.ckd/f8e68f11644a80b86a14d11986593c9b.ckd",
+      "coach1ImageUrl": "/public/map/ItsyBitsy/pc/ItsyBitsy_Coach_1.tga.ckd/40a94f0f01bf8ff226315be57b021407.ckd",
+      "coach2ImageUrl": "/public/map/ItsyBitsy/pc/ItsyBitsy_Coach_2.tga.ckd/7581114d6117b04fa86f45fde8638c1e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ItsyBitsy/orbis/ItsyBitsy_banner_bkg.tga.ckd/21bbcc6ddc13eee3bfcbb6cd2ad17e8b.ckd",
+      "map_bkgImageUrl": "/public/map/ItsyBitsy/orbis/ItsyBitsy_map_bkg.tga.ckd/dee1c58275e2ff0380e4ff2d6c4fe1c1.ckd",
+      "expandCoachImageUrl": "/public/map/ItsyBitsy/orbis/ItsyBitsy_Cover_AlbumCoach.tga.ckd/e056962af6e624f478bc1ff2a818cf0e.ckd",
+      "cover_smallImageUrl": "/public/map/ItsyBitsy/orbis/ItsyBitsy_Cover_Online.tga.ckd/f8e68f11644a80b86a14d11986593c9b.ckd",
+      "coach1ImageUrl": "/public/map/ItsyBitsy/orbis/ItsyBitsy_Coach_1.tga.ckd/40a94f0f01bf8ff226315be57b021407.ckd",
+      "coach2ImageUrl": "/public/map/ItsyBitsy/orbis/ItsyBitsy_Coach_2.tga.ckd/7581114d6117b04fa86f45fde8638c1e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ItsyBitsy/ItsyBitsy_Coach_1_Phone.png/bbf924492a34f60f5a7558193442e1ab.png",
+    "phoneCoach2ImageUrl": "/public/map/ItsyBitsy/ItsyBitsy_Coach_2_Phone.png/370b18c9f9a8e34f89cbe5734a327eac.png",
+    "phoneCoverImageUrl": "/public/map/ItsyBitsy/ItsyBitsy_Cover_Phone.jpg/e56f706f26483b5273bd29467e91df19.jpg",
+    "cover640ImageUrl": "/public/map/ItsyBitsy/ItsyBitsy_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ItsyBitsy/ItsyBitsy.ogg": "/private/map/ItsyBitsy/ItsyBitsy.ogg/393559acb494df972de9430e416b1bc1.ogg",
+    "jmcs://jd-contents/ItsyBitsy/ItsyBitsy_AudioPreview.ogg": "/public/map/ItsyBitsy/ItsyBitsy_AudioPreview.ogg/51dd2847f15b7e95842f677b2b1eacbd.ogg",
+    "jmcs://jd-contents/ItsyBitsy/ItsyBitsy_HIGH.webm": "/private/map/ItsyBitsy/ItsyBitsy_HIGH.webm/6e73f8b273e7b7eec4b2c42a7a4a1b16.webm",
+    "jmcs://jd-contents/ItsyBitsy/ItsyBitsy_LOW.webm": "/private/map/ItsyBitsy/ItsyBitsy_LOW.webm/0d5d070b9ffd8e7dcdcc77663f6ee1d3.webm",
+    "jmcs://jd-contents/ItsyBitsy/ItsyBitsy_MID.webm": "/private/map/ItsyBitsy/ItsyBitsy_MID.webm/3ad016b51c9ee7de418b1eb2ef069c1d.webm",
+    "jmcs://jd-contents/ItsyBitsy/ItsyBitsy_ULTRA.hd.webm": "/private/map/ItsyBitsy/ItsyBitsy_ULTRA.hd.webm/f569d380ae49be8cdf9d575a1959ddf4.webm",
+    "jmcs://jd-contents/ItsyBitsy/ItsyBitsy_ULTRA.webm": "/private/map/ItsyBitsy/ItsyBitsy_ULTRA.webm/a594247e359e3cbe240cfc9119fdd654.webm",
+    "jmcs://jd-contents/ItsyBitsy/ItsyBitsy_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ItsyBitsy/ItsyBitsy_MapPreviewNoSoundCrop_LOW.vp8.webm/536c40e8cfc899ba275d8b65fd7ca4e7.webm",
+    "jmcs://jd-contents/ItsyBitsy/ItsyBitsy_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ItsyBitsy/ItsyBitsy_MapPreviewNoSoundCrop_MID.vp8.webm/00c27c0c49f7d895ae0f0f09e3f7b298.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"527130\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsyBitsy/ItsyBitsy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\n\t\t\t\t\t<Initialization range=\"0-599\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1514699\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsyBitsy/ItsyBitsy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"600-1090\">\n\t\t\t\t\t<Initialization range=\"0-600\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 144.157458
+}

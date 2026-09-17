@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4e024000dcd0d574413cc414e6515a8d",
+      "storageType": 0,
+      "url": "/public/map/Apache/nx/Apache_MAIN_SCENE_NX.zip/4e024000dcd0d574413cc414e6515a8d.zip"
+    },
+    "pc": {
+      "md5": "3da26baf95af1d66ebb324b2d956097d",
+      "storageType": 0,
+      "url": "/public/map/Apache/pc/Apache_MAIN_SCENE_PC.zip/3da26baf95af1d66ebb324b2d956097d.zip"
+    },
+    "ps4": {
+      "md5": "5693bcad2c58b6b00ce71ca4a2b3ed10",
+      "storageType": 0,
+      "url": "/public/map/Apache/orbis/Apache_MAIN_SCENE_ORBIS.zip/5693bcad2c58b6b00ce71ca4a2b3ed10.zip"
+    }
+  },
+  "data": {
+    "mapName": "Apache",
+    "title": "Apache (Jump On It)",
+    "originalJDVersion": 3,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance3",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "The Sugarhill Gang",
+    "credits": "Written by Michael Wright and Joey Robinson. Published by Big Stage Music Inc. Courtesy of D.E.F. Classic's a division of S H Concerts Inc. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f87a00",
+    "songColor2A": "#ffad25",
+    "songColor1B": "#9a0000",
+    "songColor2B": "#730000",
+    "lyricsColor": "#7cd21a",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25671,
+        50714,
+        75757,
+        100799,
+        125842,
+        150885,
+        175928,
+        200970,
+        226013,
+        251056,
+        276099,
+        301141,
+        326184,
+        351227,
+        376269,
+        401312,
+        426355,
+        451398,
+        476440,
+        501483,
+        526526,
+        551568,
+        576611,
+        601654,
+        626697,
+        651739,
+        676782,
+        701825,
+        726867,
+        751910,
+        776953,
+        801996,
+        827038,
+        852081,
+        877124,
+        902167,
+        927209,
+        952252,
+        977295,
+        1002337,
+        1027380,
+        1052423,
+        1077466,
+        1102508,
+        1127551,
+        1152594,
+        1177636,
+        1202679,
+        1227722,
+        1252765,
+        1277807,
+        1302850,
+        1327893,
+        1352935,
+        1377978,
+        1403143,
+        1428186,
+        1453228,
+        1478271
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 479,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Apache/Apache_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Apache/nx/Apache_banner_bkg.tga.ckd/abb57e6888e39c82866884ef346ae40c.ckd",
+      "map_bkgImageUrl": "/public/map/Apache/nx/Apache_map_bkg.tga.ckd/e9d7d83df25148717a9333698c607f62.ckd",
+      "expandCoachImageUrl": "/public/map/Apache/nx/Apache_Cover_AlbumCoach.tga.ckd/f681053bbdc8987bc1d871d2216169c2.ckd",
+      "cover_smallImageUrl": "/public/map/Apache/nx/Apache_Cover_Online.tga.ckd/3b9c0f4711b312873afbda92741071dc.ckd",
+      "coverImageUrl": "/public/map/Apache/nx/Apache_Cover_Generic.tga.ckd/be4848ef56bc3cf16b778697346799ad.ckd",
+      "coach1ImageUrl": "/public/map/Apache/nx/Apache_Coach_1.tga.ckd/6342f64c3ed4d0d2de583ee91692bcbc.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Apache/pc/Apache_banner_bkg.tga.ckd/22780a88f80f2908294a53c9ee06b802.ckd",
+      "map_bkgImageUrl": "/public/map/Apache/pc/Apache_map_bkg.tga.ckd/beb56b3b7b66991fdacd1e28c12de6fa.ckd",
+      "expandCoachImageUrl": "/public/map/Apache/pc/Apache_Cover_AlbumCoach.tga.ckd/f9324501eca7f4855b4a2e1f398ad323.ckd",
+      "cover_smallImageUrl": "/public/map/Apache/pc/Apache_Cover_Online.tga.ckd/d538d3c24ace4575c022d6f4782a963c.ckd",
+      "coverImageUrl": "/public/map/Apache/pc/Apache_Cover_Generic.tga.ckd/156fe2b7ff5c667454a18e14ea4f01a2.ckd",
+      "coach1ImageUrl": "/public/map/Apache/pc/Apache_Coach_1.tga.ckd/762c09722565a002b37780e441a7aa86.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Apache/orbis/Apache_banner_bkg.tga.ckd/22780a88f80f2908294a53c9ee06b802.ckd",
+      "map_bkgImageUrl": "/public/map/Apache/orbis/Apache_map_bkg.tga.ckd/beb56b3b7b66991fdacd1e28c12de6fa.ckd",
+      "expandCoachImageUrl": "/public/map/Apache/orbis/Apache_Cover_AlbumCoach.tga.ckd/f9324501eca7f4855b4a2e1f398ad323.ckd",
+      "cover_smallImageUrl": "/public/map/Apache/orbis/Apache_Cover_Online.tga.ckd/d538d3c24ace4575c022d6f4782a963c.ckd",
+      "coverImageUrl": "/public/map/Apache/orbis/Apache_Cover_Generic.tga.ckd/156fe2b7ff5c667454a18e14ea4f01a2.ckd",
+      "coach1ImageUrl": "/public/map/Apache/orbis/Apache_Coach_1.tga.ckd/762c09722565a002b37780e441a7aa86.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Apache/Apache_Coach_1_Phone.png/c857fa053b10d144777479243ac71288.png",
+    "phoneCoverImageUrl": "/public/map/Apache/Apache_Cover_Phone.jpg/78d81d83df38bb9390b968f02b70b5f6.jpg",
+    "cover640ImageUrl": "/public/map/Apache/Apache_Cover_640.png/91d10c3bc10825eb9ba8ff9a0f666b62.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Apache/Apache.ogg": "/private/map/Apache/Apache.ogg/b7ca54f380d2e594a813fa1d9686802d.ogg",
+    "jmcs://jd-contents/Apache/Apache_AudioPreview.ogg": "/public/map/Apache/Apache_AudioPreview.ogg/8956a3ae96ba9676f7141d20fbc7e5c3.ogg",
+    "jmcs://jd-contents/Apache/Apache_HIGH.webm": "/private/map/Apache/Apache_HIGH.webm/81831624d777a2ec2c59c4b5d01cfefb.webm",
+    "jmcs://jd-contents/Apache/Apache_LOW.webm": "/private/map/Apache/Apache_LOW.webm/4b21c8a35bb67cdf521a3a5f30e65472.webm",
+    "jmcs://jd-contents/Apache/Apache_MID.webm": "/private/map/Apache/Apache_MID.webm/a039f52ffc1a2c3146b304fd0a296904.webm",
+    "jmcs://jd-contents/Apache/Apache_ULTRA.hd.webm": "/private/map/Apache/Apache_ULTRA.hd.webm/bfbec03fa20cb3afcd1f6256433048bf.webm",
+    "jmcs://jd-contents/Apache/Apache_ULTRA.webm": "/private/map/Apache/Apache_ULTRA.webm/c8c23cb497cdfa46335d72f794e3adf4.webm",
+    "jmcs://jd-contents/Apache/Apache_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Apache/Apache_MapPreviewNoSoundCrop_LOW.vp8.webm/85269fda9fc2b6ee1552a2e93c6937b6.webm",
+    "jmcs://jd-contents/Apache/Apache_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Apache/Apache_MapPreviewNoSoundCrop_MID.vp8.webm/d83701af19c1505a8d37ac62721fef23.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"498002\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Apache/Apache_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"627-1116\">\n\t\t\t\t\t<Initialization range=\"0-627\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1471220\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Apache/Apache_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\n\t\t\t\t\t<Initialization range=\"0-628\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 250.252813
+}

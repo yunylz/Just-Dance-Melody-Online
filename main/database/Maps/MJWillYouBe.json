@@ -1,0 +1,160 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MJWillYouBe/MJWillYouBe.ogg": "/private/map/MJWillYouBe/MJWillYouBe.ogg/a43ab013d459e11060ad8d64844cd29c.ogg",
+    "jmcs://jd-contents/MJWillYouBe/MJWillYouBe_AudioPreview.ogg": "/public/map/MJWillYouBe/MJWillYouBe_AudioPreview.ogg/c395d07904d9a720c8828f21880920ce.ogg",
+    "jmcs://jd-contents/MJWillYouBe/MJWillYouBe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJWillYouBe/MJWillYouBe_MapPreviewNoSoundCrop_LOW.vp8.webm/24a76869cad47ea6b95fe5a754f51662.webm",
+    "jmcs://jd-contents/MJWillYouBe/MJWillYouBe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJWillYouBe/MJWillYouBe_MapPreviewNoSoundCrop_MID.vp8.webm/66991ce3d2c2dd3fd7a7b6e1eb1ca2dc.webm",
+    "jmcs://jd-contents/MJWillYouBe/MJWillYouBe_HIGH.hd.webm": "/private/map/MJWillYouBe/MJWillYouBe_HIGH.hd.webm/62fb0d55cc6327ee26236eb24e2189fd.webm",
+    "jmcs://jd-contents/MJWillYouBe/MJWillYouBe_LOW.hd.webm": "/private/map/MJWillYouBe/MJWillYouBe_LOW.hd.webm/9ce8b0b5d42f209cfac83b6e93678808.webm",
+    "jmcs://jd-contents/MJWillYouBe/MJWillYouBe_MID.hd.webm": "/private/map/MJWillYouBe/MJWillYouBe_MID.hd.webm/3074b71216609169b94b43a5cb3b1393.webm",
+    "jmcs://jd-contents/MJWillYouBe/MJWillYouBe_ULTRA.hd.webm": "/private/map/MJWillYouBe/MJWillYouBe_ULTRA.hd.webm/2705710e5613ca375abf36f7ab897c01.webm"
+  },
+  "mapLength": 220.66386458333332,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        34875,
+        69581,
+        104287,
+        139010,
+        173701,
+        208424,
+        243147,
+        277871,
+        312594,
+        347317,
+        382040,
+        416764,
+        451487,
+        486210,
+        520933,
+        555657,
+        590380,
+        625103,
+        659826,
+        694550,
+        729273,
+        763996,
+        798719,
+        833443,
+        868166,
+        902889,
+        937613,
+        972336,
+        1007059,
+        1041782,
+        1076506,
+        1111229,
+        1145952,
+        1180675,
+        1215399,
+        1250122,
+        1284845,
+        1319568,
+        1354292,
+        1389015,
+        1423738,
+        1458462,
+        1493185
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 305,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 41,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJWillYouBe/MJWillYouBe_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"559477\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJWillYouBe/MJWillYouBe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"789-1279\">\n\t\t\t\t\t<Initialization range=\"0-789\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1986191\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJWillYouBe/MJWillYouBe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"789-1279\">\n\t\t\t\t\t<Initialization range=\"0-789\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJWillYouBe/nx/MJWillYouBe_banner_bkg.tga.ckd/de80aef1f8c0bcebf405f5723afc46a8.ckd",
+      "map_bkgImageUrl": "/public/map/MJWillYouBe/nx/MJWillYouBe_map_bkg.tga.ckd/c852a8f90e1c562c3ea6587c0cd16c45.ckd",
+      "expandCoachImageUrl": "/public/map/MJWillYouBe/nx/MJWillYouBe_Cover_AlbumCoach.tga.ckd/c42760f99a5a6a3288d3ba6619a8e0d0.ckd",
+      "cover_smallImageUrl": "/public/map/MJWillYouBe/nx/MJWillYouBe_Cover_Online.tga.ckd/e4d4537b9154ebd75b4892f3821ac98d.ckd",
+      "coverImageUrl": "/public/map/MJWillYouBe/nx/MJWillYouBe_Cover_Generic.tga.ckd/15523da4d204f6f74a78e5b6798a7a3e.ckd",
+      "coach1ImageUrl": "/public/map/MJWillYouBe/nx/MJWillYouBe_Coach_1.tga.ckd/710a090e3a31ae55f14e3a866bdbf35a.ckd",
+      "coach2ImageUrl": "/public/map/MJWillYouBe/nx/MJWillYouBe_Coach_2.tga.ckd/5e9c4fa7fb35ce0409157c8b7d720d96.ckd",
+      "coach3ImageUrl": "/public/map/MJWillYouBe/nx/MJWillYouBe_Coach_3.tga.ckd/bd593204b68a8f083d8345746d0b8712.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJWillYouBe/pc/MJWillYouBe_banner_bkg.tga.ckd/2a4cfe3685dee10196f5674e98e29c54.ckd",
+      "map_bkgImageUrl": "/public/map/MJWillYouBe/pc/MJWillYouBe_map_bkg.tga.ckd/76ae13809bbd2f189e3b07bf6c153a2a.ckd",
+      "expandCoachImageUrl": "/public/map/MJWillYouBe/pc/MJWillYouBe_Cover_AlbumCoach.tga.ckd/4f25b15cc361ece1e1d056ab42759b9a.ckd",
+      "cover_smallImageUrl": "/public/map/MJWillYouBe/pc/MJWillYouBe_Cover_Online.tga.ckd/d6b31049d1cc28ea0cd96bfc347a4ca3.ckd",
+      "coverImageUrl": "/public/map/MJWillYouBe/pc/MJWillYouBe_Cover_Generic.tga.ckd/951204a09a19ca8b1e5d123a2edd5442.ckd",
+      "coach1ImageUrl": "/public/map/MJWillYouBe/pc/MJWillYouBe_Coach_1.tga.ckd/768c74344aa4b6bec53daf58f39fd243.ckd",
+      "coach2ImageUrl": "/public/map/MJWillYouBe/pc/MJWillYouBe_Coach_2.tga.ckd/2ea7adf620fc61b50f8b1c01a9c8339a.ckd",
+      "coach3ImageUrl": "/public/map/MJWillYouBe/pc/MJWillYouBe_Coach_3.tga.ckd/418ff27f26f5309f77563fea868c7a23.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJWillYouBe/orbis/MJWillYouBe_banner_bkg.tga.ckd/2a4cfe3685dee10196f5674e98e29c54.ckd",
+      "map_bkgImageUrl": "/public/map/MJWillYouBe/orbis/MJWillYouBe_map_bkg.tga.ckd/76ae13809bbd2f189e3b07bf6c153a2a.ckd",
+      "expandCoachImageUrl": "/public/map/MJWillYouBe/orbis/MJWillYouBe_Cover_AlbumCoach.tga.ckd/4f25b15cc361ece1e1d056ab42759b9a.ckd",
+      "cover_smallImageUrl": "/public/map/MJWillYouBe/orbis/MJWillYouBe_Cover_Online.tga.ckd/d6b31049d1cc28ea0cd96bfc347a4ca3.ckd",
+      "coverImageUrl": "/public/map/MJWillYouBe/orbis/MJWillYouBe_Cover_Generic.tga.ckd/951204a09a19ca8b1e5d123a2edd5442.ckd",
+      "coach1ImageUrl": "/public/map/MJWillYouBe/orbis/MJWillYouBe_Coach_1.tga.ckd/768c74344aa4b6bec53daf58f39fd243.ckd",
+      "coach2ImageUrl": "/public/map/MJWillYouBe/orbis/MJWillYouBe_Coach_2.tga.ckd/2ea7adf620fc61b50f8b1c01a9c8339a.ckd",
+      "coach3ImageUrl": "/public/map/MJWillYouBe/orbis/MJWillYouBe_Coach_3.tga.ckd/418ff27f26f5309f77563fea868c7a23.ckd"
+    },
+    "cover640ImageUrl": "/public/map/MJWillYouBe/MJWillYouBe_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "a560ef6c4ac7cd7231a18de4fd7e2287",
+      "storageType": 0,
+      "url": "/public/map/MJWillYouBe/nx/MJWillYouBe_MAIN_SCENE_NX.zip/a560ef6c4ac7cd7231a18de4fd7e2287.zip"
+    },
+    "pc": {
+      "md5": "4419cba4d17f04c7b73e430358a53590",
+      "storageType": 0,
+      "url": "/public/map/MJWillYouBe/pc/MJWillYouBe_MAIN_SCENE_PC.zip/4419cba4d17f04c7b73e430358a53590.zip"
+    },
+    "ps4": {
+      "md5": "d067757041ffdfbd2df6870e9cb1f5a8",
+      "storageType": 0,
+      "url": "/public/map/MJWillYouBe/orbis/MJWillYouBe_MAIN_SCENE_ORBIS.zip/d067757041ffdfbd2df6870e9cb1f5a8.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJWillYouBe",
+    "title": "Will You Be There",
+    "originalJDVersion": 2009,
+    "tags": [
+      "MJTEDrop",
+      "subscribedSong"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d81406",
+    "songColor2A": "#f7b3fb",
+    "songColor1B": "#510002",
+    "songColor2B": "#52254c",
+    "lyricsColor": "#fcdf2b",
+    "LocaleID": 4294967295
+  }
+}

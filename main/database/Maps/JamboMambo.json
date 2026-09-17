@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "6030adb6f6a08a1a498854c94149baa0",
+      "storageType": 0,
+      "url": "/public/map/JamboMambo/nx/JamboMambo_MAIN_SCENE_NX.zip/6030adb6f6a08a1a498854c94149baa0.zip"
+    },
+    "pc": {
+      "md5": "8914e36b3a02d8848e031ac061b59d33",
+      "storageType": 0,
+      "url": "/public/map/JamboMambo/pc/JamboMambo_MAIN_SCENE_PC.zip/8914e36b3a02d8848e031ac061b59d33.zip"
+    },
+    "ps4": {
+      "md5": "9f3d3da07e4b6cf3771fdc9685ceb20f",
+      "storageType": 0,
+      "url": "/public/map/JamboMambo/orbis/JamboMambo_MAIN_SCENE_ORBIS.zip/9f3d3da07e4b6cf3771fdc9685ceb20f.zip"
+    }
+  },
+  "data": {
+    "mapName": "JamboMambo",
+    "title": "Jambo Mambo",
+    "originalJDVersion": 3,
+    "tags": [
+      "Cool",
+      "Main"
+    ],
+    "artist": "Olé Orquesta",
+    "credits": "Written by Antonio Diaz Lopez.  Published by Extreme Production Music USA (ASCAP)  Courtesy of Extreme Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#02af8b",
+    "songColor2A": "#f2a93f",
+    "songColor1B": "#094000",
+    "songColor2B": "#850808",
+    "lyricsColor": "#03c9d1",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        34333,
+        68666,
+        103001,
+        130278,
+        157555,
+        184832,
+        212109,
+        238894,
+        266391,
+        293062,
+        320337,
+        346142,
+        373082,
+        401020,
+        427481,
+        455574,
+        482531,
+        509872,
+        536941,
+        564322,
+        591959,
+        618932,
+        645505,
+        673130,
+        701067,
+        727504,
+        754865,
+        782898,
+        810175,
+        837451,
+        864729,
+        892006,
+        919283,
+        946140,
+        973837,
+        1000754,
+        1028391,
+        1055612,
+        1082608,
+        1110552,
+        1137499,
+        1164776,
+        1192053,
+        1219330,
+        1246607,
+        1273884,
+        1301161,
+        1329045,
+        1357075,
+        1383216,
+        1410749,
+        1437702,
+        1465151,
+        1492220
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 316,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JamboMambo/JamboMambo_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JamboMambo/nx/JamboMambo_banner_bkg.tga.ckd/bb84354207d7158b6cff562b08b41fa8.ckd",
+      "map_bkgImageUrl": "/public/map/JamboMambo/nx/JamboMambo_map_bkg.tga.ckd/ff42082a3c669154b285a492bf4963f0.ckd",
+      "expandCoachImageUrl": "/public/map/JamboMambo/nx/JamboMambo_Cover_AlbumCoach.tga.ckd/39afcc226276981ec5dc0644a26bfd12.ckd",
+      "cover_smallImageUrl": "/public/map/JamboMambo/nx/JamboMambo_Cover_Online.tga.ckd/0b17d50e64999be55496c63384ebd02f.ckd",
+      "coverImageUrl": "/public/map/JamboMambo/nx/JamboMambo_Cover_Generic.tga.ckd/ebf25dbce49f0f6ee8fff2a7bf10c301.ckd",
+      "coach1ImageUrl": "/public/map/JamboMambo/nx/JamboMambo_Coach_1.tga.ckd/08529a91c9b456b961dfb9ec3e44fd9b.ckd",
+      "coach2ImageUrl": "/public/map/JamboMambo/nx/JamboMambo_Coach_2.tga.ckd/95313b5d094527da64b4acbbaad00179.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JamboMambo/pc/JamboMambo_banner_bkg.tga.ckd/62e8ce6ab9cc61671f791d490a4fcab2.ckd",
+      "map_bkgImageUrl": "/public/map/JamboMambo/pc/JamboMambo_map_bkg.tga.ckd/3d0f51bdcd9e1e74dfea718d58e49097.ckd",
+      "expandCoachImageUrl": "/public/map/JamboMambo/pc/JamboMambo_Cover_AlbumCoach.tga.ckd/39b571fa50fbf6a9ca9c369d1578741e.ckd",
+      "cover_smallImageUrl": "/public/map/JamboMambo/pc/JamboMambo_Cover_Online.tga.ckd/d4d3aa5d2fdfa0d0855c95f0e87e0afa.ckd",
+      "coverImageUrl": "/public/map/JamboMambo/pc/JamboMambo_Cover_Generic.tga.ckd/8688c7f3a51ab639145bdf4eeedb1575.ckd",
+      "coach1ImageUrl": "/public/map/JamboMambo/pc/JamboMambo_Coach_1.tga.ckd/1808272cc19e6e9a13f49cc4fdca6539.ckd",
+      "coach2ImageUrl": "/public/map/JamboMambo/pc/JamboMambo_Coach_2.tga.ckd/808864c47d95ea189c83df3604dea84f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JamboMambo/orbis/JamboMambo_banner_bkg.tga.ckd/62e8ce6ab9cc61671f791d490a4fcab2.ckd",
+      "map_bkgImageUrl": "/public/map/JamboMambo/orbis/JamboMambo_map_bkg.tga.ckd/3d0f51bdcd9e1e74dfea718d58e49097.ckd",
+      "expandCoachImageUrl": "/public/map/JamboMambo/orbis/JamboMambo_Cover_AlbumCoach.tga.ckd/39b571fa50fbf6a9ca9c369d1578741e.ckd",
+      "cover_smallImageUrl": "/public/map/JamboMambo/orbis/JamboMambo_Cover_Online.tga.ckd/d4d3aa5d2fdfa0d0855c95f0e87e0afa.ckd",
+      "coverImageUrl": "/public/map/JamboMambo/orbis/JamboMambo_Cover_Generic.tga.ckd/8688c7f3a51ab639145bdf4eeedb1575.ckd",
+      "coach1ImageUrl": "/public/map/JamboMambo/orbis/JamboMambo_Coach_1.tga.ckd/1808272cc19e6e9a13f49cc4fdca6539.ckd",
+      "coach2ImageUrl": "/public/map/JamboMambo/orbis/JamboMambo_Coach_2.tga.ckd/808864c47d95ea189c83df3604dea84f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JamboMambo/JamboMambo_Coach_1_Phone.png/8772efa133a4b2a37b5d9fc2d93b56ba.png",
+    "phoneCoach2ImageUrl": "/public/map/JamboMambo/JamboMambo_Coach_2_Phone.png/b39cd2c3eba5ebf72ee5da466e27fc20.png",
+    "phoneCoverImageUrl": "/public/map/JamboMambo/JamboMambo_Cover_Phone.jpg/9a41ac26849bea306fd00a83c69b69e6.jpg",
+    "cover640ImageUrl": "/public/map/JamboMambo/JamboMambo_Cover_640.png/f9938a685a75f38e01a78923fbabb627.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JamboMambo/JamboMambo.ogg": "/private/map/JamboMambo/JamboMambo.ogg/8ae10824335194a83b412d6b61502f73.ogg",
+    "jmcs://jd-contents/JamboMambo/JamboMambo_AudioPreview.ogg": "/public/map/JamboMambo/JamboMambo_AudioPreview.ogg/ca123dd9da604a3a316e5a19d106812f.ogg",
+    "jmcs://jd-contents/JamboMambo/JamboMambo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JamboMambo/JamboMambo_MapPreviewNoSoundCrop_LOW.vp8.webm/3c8df55f78aa6240b0b7f02e2ccf5832.webm",
+    "jmcs://jd-contents/JamboMambo/JamboMambo_HIGH.webm": "/private/map/JamboMambo/JamboMambo_HIGH.webm/222f0af32c77756f5802e749421c3457.webm",
+    "jmcs://jd-contents/JamboMambo/JamboMambo_LOW.webm": "/private/map/JamboMambo/JamboMambo_LOW.webm/e2677d29268f9aadcc090d02a05e90e0.webm",
+    "jmcs://jd-contents/JamboMambo/JamboMambo_MID.webm": "/private/map/JamboMambo/JamboMambo_MID.webm/2bf751bfaf7331801a0efab264575f16.webm",
+    "jmcs://jd-contents/JamboMambo/JamboMambo_ULTRA.hd.webm": "/private/map/JamboMambo/JamboMambo_ULTRA.hd.webm/000ba8894caecd232da5c48f2ab282c6.webm",
+    "jmcs://jd-contents/JamboMambo/JamboMambo_ULTRA.webm": "/private/map/JamboMambo/JamboMambo_ULTRA.webm/b09419fe42103c72e3d234b764213185.webm",
+    "jmcs://jd-contents/JamboMambo/JamboMambo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JamboMambo/JamboMambo_MapPreviewNoSoundCrop_MID.vp8.webm/1f031d89b2ff79010b5f4fbaf9335ab4.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497747\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JamboMambo/JamboMambo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1122\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1477257\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JamboMambo/JamboMambo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 180.52625
+}

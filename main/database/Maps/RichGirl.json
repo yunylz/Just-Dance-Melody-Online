@@ -1,0 +1,160 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f2e097348279d76e3bdd4bdc38593c19",
+      "storageType": 0,
+      "url": "/public/map/RichGirl/nx/RichGirl_MAIN_SCENE_NX.zip/f2e097348279d76e3bdd4bdc38593c19.zip"
+    },
+    "pc": {
+      "md5": "f3ba305041e9a3977ebe6676ba009208",
+      "storageType": 0,
+      "url": "/public/map/RichGirl/pc/RichGirl_MAIN_SCENE_PC.zip/f3ba305041e9a3977ebe6676ba009208.zip"
+    },
+    "ps4": {
+      "md5": "ecf065680fbef692dea45021a804e71c",
+      "storageType": 0,
+      "url": "/public/map/RichGirl/orbis/RichGirl_MAIN_SCENE_ORBIS.zip/ecf065680fbef692dea45021a804e71c.zip"
+    }
+  },
+  "data": {
+    "mapName": "RichGirl",
+    "title": "Rich Girl",
+    "originalJDVersion": 2014,
+    "tags": [
+      "Main"
+    ],
+    "artist": "Gwen Stefani",
+    "credits": "Written by Justin Tranter, Robin Lennart Fredriksson, Mattias Per Larsson and Joseph Jonas. Published by Warner-Tamerlane Publishing Corp. Obo itself and Justin's School For Girls / WB Music Corp. obo Warner/Chappell Music Scandinavia Ab. / Universal Music Publishing Group, a division of Universal Music Canada Inc.  Courtesy of Republic Records under license from Universal Music Enterprises. ",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ed348d"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29375,
+        58751,
+        88175,
+        117551,
+        146927,
+        176303,
+        205727,
+        235103,
+        264479,
+        293855,
+        323279,
+        352655,
+        382031,
+        411407,
+        440831,
+        470207,
+        499583,
+        528959,
+        558383,
+        587759,
+        617135,
+        646511,
+        675935,
+        705311,
+        734687,
+        764063,
+        793487,
+        822862,
+        852238,
+        881614,
+        911038,
+        940414,
+        969790,
+        999166,
+        1028590,
+        1057966,
+        1087342,
+        1116718,
+        1146142,
+        1175518,
+        1204894,
+        1234270,
+        1263694,
+        1293070,
+        1322446,
+        1351822,
+        1381246,
+        1410622,
+        1439998,
+        1469374,
+        1498750
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 407,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RichGirl/RichGirl_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RichGirl/nx/RichGirl_banner_bkg.tga.ckd/ee2e3a29a9bf13bd2a44f5474002d668.ckd",
+      "map_bkgImageUrl": "/public/map/RichGirl/nx/RichGirl_map_bkg.tga.ckd/71192685ba600ff06709530192ecc0ba.ckd",
+      "expandCoachImageUrl": "/public/map/RichGirl/nx/RichGirl_Cover_AlbumCoach.tga.ckd/3538d6ceceac3b8c3ab86fe9432327c2.ckd",
+      "cover_smallImageUrl": "/public/map/RichGirl/nx/RichGirl_Cover_Online.tga.ckd/7fa7a6ffd40230ec5669015f3d221780.ckd",
+      "coach1ImageUrl": "/public/map/RichGirl/nx/RichGirl_Coach_1.tga.ckd/93857bc0711adc71e4230e5fc2b1938b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RichGirl/pc/RichGirl_banner_bkg.tga.ckd/452ccf8cf118f25cbf10ff877cbe9c60.ckd",
+      "map_bkgImageUrl": "/public/map/RichGirl/pc/RichGirl_map_bkg.tga.ckd/4f73139bbc6718c57e49ff7e52c1cba5.ckd",
+      "expandCoachImageUrl": "/public/map/RichGirl/pc/RichGirl_Cover_AlbumCoach.tga.ckd/50a8b24d2e0fec6d72dd26726ba8dc96.ckd",
+      "cover_smallImageUrl": "/public/map/RichGirl/pc/RichGirl_Cover_Online.tga.ckd/134aae9f3986c614174a591fd0a9e934.ckd",
+      "coach1ImageUrl": "/public/map/RichGirl/pc/RichGirl_Coach_1.tga.ckd/93fd50a1a2704254c15e44871b9be8ec.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RichGirl/orbis/RichGirl_banner_bkg.tga.ckd/452ccf8cf118f25cbf10ff877cbe9c60.ckd",
+      "map_bkgImageUrl": "/public/map/RichGirl/orbis/RichGirl_map_bkg.tga.ckd/4f73139bbc6718c57e49ff7e52c1cba5.ckd",
+      "expandCoachImageUrl": "/public/map/RichGirl/orbis/RichGirl_Cover_AlbumCoach.tga.ckd/50a8b24d2e0fec6d72dd26726ba8dc96.ckd",
+      "cover_smallImageUrl": "/public/map/RichGirl/orbis/RichGirl_Cover_Online.tga.ckd/134aae9f3986c614174a591fd0a9e934.ckd",
+      "coach1ImageUrl": "/public/map/RichGirl/orbis/RichGirl_Coach_1.tga.ckd/93fd50a1a2704254c15e44871b9be8ec.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RichGirl/RichGirl_Coach_1_Phone.png/b97c7cb34eac4e84c5b8d03d049e16b7.png",
+    "phoneCoverImageUrl": "/public/map/RichGirl/RichGirl_Cover_Phone.jpg/bda8d7a9269b773648151628005f36ba.jpg",
+    "cover640ImageUrl": "/public/map/RichGirl/RichGirl_Cover_640.png/6703940480338f011ca6f509ad321805.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/RichGirl/RichGirl.ogg": "/private/map/RichGirl/RichGirl.ogg/ea8b1fe8bdaa034972a7f40b783f4d88.ogg",
+    "jmcs://jd-contents/RichGirl/RichGirl_AudioPreview.ogg": "/public/map/RichGirl/RichGirl_AudioPreview.ogg/80164214d6015644de8b412f6a500707.ogg",
+    "jmcs://jd-contents/RichGirl/RichGirl_HIGH.webm": "/private/map/RichGirl/RichGirl_HIGH.webm/b993eda1c10a1f15cb3f81bd5f1d72b8.webm",
+    "jmcs://jd-contents/RichGirl/RichGirl_LOW.webm": "/private/map/RichGirl/RichGirl_LOW.webm/f3052b51ed803025ec028d1ea95e9a8a.webm",
+    "jmcs://jd-contents/RichGirl/RichGirl_MID.webm": "/private/map/RichGirl/RichGirl_MID.webm/b3ce970556478e83c5c77b88ee25b28a.webm",
+    "jmcs://jd-contents/RichGirl/RichGirl_ULTRA.hd.webm": "/private/map/RichGirl/RichGirl_ULTRA.hd.webm/3f2696c0bda0fb5320c9121cfbb762b0.webm",
+    "jmcs://jd-contents/RichGirl/RichGirl_ULTRA.webm": "/private/map/RichGirl/RichGirl_ULTRA.webm/281fd464652130070af13b0ae520fcc3.webm",
+    "jmcs://jd-contents/RichGirl/RichGirl_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RichGirl/RichGirl_MapPreviewNoSoundCrop_LOW.vp8.webm/2f6aeaecea5690d8519046871a0abc0e.webm",
+    "jmcs://jd-contents/RichGirl/RichGirl_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RichGirl/RichGirl_MapPreviewNoSoundCrop_MID.vp8.webm/45a85cfd8c6ce47dcb851ea04cf070ce.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"503984\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RichGirl/RichGirl_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1487968\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RichGirl/RichGirl_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 254.760979
+}

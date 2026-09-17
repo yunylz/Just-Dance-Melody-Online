@@ -1,0 +1,164 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1d0d0ef167ec124e8822a349d7848a65",
+      "storageType": 0,
+      "url": "/public/map/Leila/nx/Leila_MAIN_SCENE_NX.zip/1d0d0ef167ec124e8822a349d7848a65.zip"
+    },
+    "pc": {
+      "md5": "0cd2bb3639262322ba2b8320376bdeba",
+      "storageType": 0,
+      "url": "/public/map/Leila/pc/Leila_MAIN_SCENE_PC.zip/0cd2bb3639262322ba2b8320376bdeba.zip"
+    },
+    "ps4": {
+      "md5": "c5845dc1416909fead26d7334aaa7d15",
+      "storageType": 0,
+      "url": "/public/map/Leila/orbis/Leila_MAIN_SCENE_ORBIS.zip/c5845dc1416909fead26d7334aaa7d15.zip"
+    }
+  },
+  "data": {
+    "mapName": "Leila",
+    "title": "Leila",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main",
+      "extreme"
+    ],
+    "artist": "Cheb Salama",
+    "credits": "Written by Tom Salta, MC Rai and Basar Under. Produced, engineered and mixed by Tom Salta. Published by Ubisoft Music Publishing. Vocals by Bora Ebeoglu, Emre Ilmaz, Mc Rai, Justin Ancheta, Maren Metke, Fatma Arabacioglu and Tom Salta. Guitars by Steve Ouimette. Saz by Haluk Kecelioglu. Music supervision – Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ffb336",
+    "songColor2A": "#4284c8",
+    "songColor1B": "#c33400",
+    "songColor2B": "#03005a",
+    "lyricsColor": "#ff1065"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27408,
+        54864,
+        82272,
+        109728,
+        137136,
+        164592,
+        192000,
+        219408,
+        246864,
+        274272,
+        301728,
+        329136,
+        356592,
+        384000,
+        411408,
+        438864,
+        466273,
+        493729,
+        521137,
+        548593,
+        576001,
+        603409,
+        630865,
+        658273,
+        685729,
+        713137,
+        740593,
+        768001,
+        795409,
+        822865,
+        850273,
+        877729,
+        905138,
+        932594,
+        960002,
+        987410,
+        1014866,
+        1042274,
+        1069730,
+        1097138,
+        1124594,
+        1152002,
+        1179410,
+        1206866,
+        1234274,
+        1261730,
+        1289138,
+        1316594,
+        1344003,
+        1371411,
+        1398867,
+        1426275,
+        1453731,
+        1481139
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 339,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Leila/Leila_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Leila/nx/Leila_banner_bkg.tga.ckd/3c821dbf7cd6990b9c7e2e8e80111ae9.ckd",
+      "map_bkgImageUrl": "/public/map/Leila/nx/Leila_map_bkg.tga.ckd/d4ec179feb21ab9da814ca57bdcabe07.ckd",
+      "expandCoachImageUrl": "/public/map/Leila/nx/Leila_Cover_AlbumCoach.tga.ckd/ae777612867282a5ee036e7cf4b47c5d.ckd",
+      "cover_smallImageUrl": "/public/map/Leila/nx/Leila_Cover_Online.tga.ckd/a735f0c19a80e2d02d61f2742babfd30.ckd",
+      "coach1ImageUrl": "/public/map/Leila/nx/Leila_Coach_1.tga.ckd/0aa9b3160e2c646227eab6b6a15aabcd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Leila/pc/Leila_banner_bkg.tga.ckd/694213c62b87bcf935e277846821ed29.ckd",
+      "map_bkgImageUrl": "/public/map/Leila/pc/Leila_map_bkg.tga.ckd/2090c9ab1cf9b9f0ab44292c2cf4f042.ckd",
+      "expandCoachImageUrl": "/public/map/Leila/pc/Leila_Cover_AlbumCoach.tga.ckd/b593aacf3cc92e986990779f9ab03f6c.ckd",
+      "cover_smallImageUrl": "/public/map/Leila/pc/Leila_Cover_Online.tga.ckd/e6b9ee5be6e327696183abb1d9bfc735.ckd",
+      "coach1ImageUrl": "/public/map/Leila/pc/Leila_Coach_1.tga.ckd/8e8ac766e96374ab73b12712b36959b9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Leila/orbis/Leila_banner_bkg.tga.ckd/694213c62b87bcf935e277846821ed29.ckd",
+      "map_bkgImageUrl": "/public/map/Leila/orbis/Leila_map_bkg.tga.ckd/2090c9ab1cf9b9f0ab44292c2cf4f042.ckd",
+      "expandCoachImageUrl": "/public/map/Leila/orbis/Leila_Cover_AlbumCoach.tga.ckd/b593aacf3cc92e986990779f9ab03f6c.ckd",
+      "cover_smallImageUrl": "/public/map/Leila/orbis/Leila_Cover_Online.tga.ckd/e6b9ee5be6e327696183abb1d9bfc735.ckd",
+      "coach1ImageUrl": "/public/map/Leila/orbis/Leila_Coach_1.tga.ckd/8e8ac766e96374ab73b12712b36959b9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Leila/Leila_Coach_1_Phone.png/bde28f1408d6d378d11823af7b02b684.png",
+    "phoneCoverImageUrl": "/public/map/Leila/Leila_Cover_Phone.jpg/8499bcb6ff1dc0d97fcb9ec3b874207c.jpg",
+    "cover640ImageUrl": "/public/map/Leila/Leila_Cover_640.png/3f0aaf8829cdd827a0de86d9861798d0.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Leila/Leila.ogg": "/private/map/Leila/Leila.ogg/712639bf52482a824144ffb0b699733a.ogg",
+    "jmcs://jd-contents/Leila/Leila_AudioPreview.ogg": "/public/map/Leila/Leila_AudioPreview.ogg/3611f544844cda1fc50cb8eae4a18b69.ogg",
+    "jmcs://jd-contents/Leila/Leila_HIGH.webm": "/private/map/Leila/Leila_HIGH.webm/fb043dcd5aab1b3b31343893ccb45eec.webm",
+    "jmcs://jd-contents/Leila/Leila_LOW.webm": "/private/map/Leila/Leila_LOW.webm/2b9b9f14a5374fe0d9abaacd92b30e22.webm",
+    "jmcs://jd-contents/Leila/Leila_MID.webm": "/private/map/Leila/Leila_MID.webm/88f86781b15a20ee382ee8248d8720e0.webm",
+    "jmcs://jd-contents/Leila/Leila_ULTRA.hd.webm": "/private/map/Leila/Leila_ULTRA.hd.webm/6f9899404afd5b9432cbeeca8971fa6b.webm",
+    "jmcs://jd-contents/Leila/Leila_ULTRA.webm": "/private/map/Leila/Leila_ULTRA.webm/7768e587e2cd1dc30598b3cdc685116b.webm",
+    "jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Leila/Leila_MapPreviewNoSoundCrop_LOW.vp8.webm/571b65d82013fc2bb17ff3c21a25fb5e.webm",
+    "jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Leila/Leila_MapPreviewNoSoundCrop_MID.vp8.webm/a02821db8ed8951b2c441534c3d90f1e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496449\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\n\t\t\t\t\t<Initialization range=\"0-617\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1447988\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Leila/Leila_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 195.827146
+}

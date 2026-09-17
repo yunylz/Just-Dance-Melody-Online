@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "833cabaee9808fe9e521f13cd80708ff",
+      "storageType": 0,
+      "url": "/public/map/Buttons/nx/Buttons_MAIN_SCENE_NX.zip/833cabaee9808fe9e521f13cd80708ff.zip"
+    },
+    "pc": {
+      "md5": "3339bf37456be9d075d6a80b42404b4d",
+      "storageType": 0,
+      "url": "/public/map/Buttons/pc/Buttons_MAIN_SCENE_PC.zip/3339bf37456be9d075d6a80b42404b4d.zip"
+    },
+    "ps4": {
+      "md5": "22921a137b0ecdd06c6a2c24804c30ca",
+      "storageType": 0,
+      "url": "/public/map/Buttons/orbis/Buttons_MAIN_SCENE_ORBIS.zip/22921a137b0ecdd06c6a2c24804c30ca.zip"
+    }
+  },
+  "data": {
+    "mapName": "Buttons",
+    "title": "Buttons",
+    "originalJDVersion": 2022,
+    "tags": [
+      "main",
+      "bringchairtutorial"
+    ],
+    "artist": "The Pussycat Dolls Ft. Snoop Dogg",
+    "credits": "Written by Jamal F. Jones, Nicole Prascovia Scherzinger, Sean Garrett and Jason Perry. Published by Universal Music Publishing Canada on behalf of Showdy Pimp Music, Universal Music Corp., Songs Of Universal, Inc. and She Rights Music. / BMG Rights Management Canada B (SOCAN) obo Songs Of Windswept Pacific (BMI) obo Hitco Music (BMI) obo itself and Team S Dot Publishing (BMI). All rights administered by BMG Rights Management (Canada) Inc. / Jason’s Lyrics (SESAC) / Tunes of Reach Music (SESAC). Courtesy of Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#f5a027",
+    "songColor2A": "#e8231e",
+    "songColor1B": "#0d0000",
+    "songColor2B": "#1c0303",
+    "lyricsColor": "#fb79e4"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27324,
+        54649,
+        81973,
+        109298,
+        136622,
+        163947,
+        191271,
+        218596,
+        245920,
+        273245,
+        300569,
+        327894,
+        355218,
+        382543,
+        409867,
+        437192,
+        464516,
+        491841,
+        519165,
+        546490,
+        573814,
+        601139,
+        628463,
+        655787,
+        683112,
+        710436,
+        737761,
+        765085,
+        792410,
+        819734,
+        847059,
+        874383,
+        901708,
+        929032,
+        956357,
+        983681,
+        1011006,
+        1038330,
+        1065655,
+        1092979,
+        1120304,
+        1147628,
+        1174953,
+        1202277,
+        1229602,
+        1256926,
+        1284250,
+        1311575,
+        1338899,
+        1366224,
+        1393548,
+        1420873,
+        1448197,
+        1475522,
+        1502846
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -14,
+      "endBeat": 400,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Buttons/Buttons_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Buttons/nx/Buttons_banner_bkg.tga.ckd/178b3e50d4187b1bc9e1681ddf7a1ceb.ckd",
+      "map_bkgImageUrl": "/public/map/Buttons/nx/Buttons_map_bkg.tga.ckd/12ff2a00bf2355038a6b55084a1c2369.ckd",
+      "expandCoachImageUrl": "/public/map/Buttons/nx/Buttons_Cover_AlbumCoach.tga.ckd/eaeaf8db04768ec7e5fb378b2cbf7b5e.ckd",
+      "cover_smallImageUrl": "/public/map/Buttons/nx/Buttons_Cover_Online.tga.ckd/6c27f84b7e6a280c152b27308474e493.ckd",
+      "coverImageUrl": "/public/map/Buttons/nx/Buttons_Cover_Generic.tga.ckd/93dd89cb36b0d9a667e50589432e1d2b.ckd",
+      "coach1ImageUrl": "/public/map/Buttons/nx/Buttons_Coach_1.tga.ckd/638430816ad67661b3148a65b90719d1.ckd",
+      "coach2ImageUrl": "/public/map/Buttons/nx/Buttons_Coach_2.tga.ckd/95c8f73775d3bb861a23c879a1d0582a.ckd",
+      "coach3ImageUrl": "/public/map/Buttons/nx/Buttons_Coach_3.tga.ckd/fda2e1f7d3113cf11e85346d84559162.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Buttons/pc/Buttons_banner_bkg.tga.ckd/a6a2c55fd49301e14f0fda35af57877e.ckd",
+      "map_bkgImageUrl": "/public/map/Buttons/pc/Buttons_map_bkg.tga.ckd/b5c76134210e39476bd9a7e815c62765.ckd",
+      "expandCoachImageUrl": "/public/map/Buttons/pc/Buttons_Cover_AlbumCoach.tga.ckd/a6459d9784852c70e3a787c064a0808a.ckd",
+      "cover_smallImageUrl": "/public/map/Buttons/pc/Buttons_Cover_Online.tga.ckd/674d640c464a48e837170db9fd8af72f.ckd",
+      "coverImageUrl": "/public/map/Buttons/pc/Buttons_Cover_Generic.tga.ckd/3c16919d4ce03fdcc3c5851d809c7489.ckd",
+      "coach1ImageUrl": "/public/map/Buttons/pc/Buttons_Coach_1.tga.ckd/453f6b747b38e92a95f73447542f10be.ckd",
+      "coach2ImageUrl": "/public/map/Buttons/pc/Buttons_Coach_2.tga.ckd/60e037dba5cfb0044aa06a2053df4795.ckd",
+      "coach3ImageUrl": "/public/map/Buttons/pc/Buttons_Coach_3.tga.ckd/be15b55631810b5831f40e051ea8ba57.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Buttons/orbis/Buttons_banner_bkg.tga.ckd/a6a2c55fd49301e14f0fda35af57877e.ckd",
+      "map_bkgImageUrl": "/public/map/Buttons/orbis/Buttons_map_bkg.tga.ckd/b5c76134210e39476bd9a7e815c62765.ckd",
+      "expandCoachImageUrl": "/public/map/Buttons/orbis/Buttons_Cover_AlbumCoach.tga.ckd/a6459d9784852c70e3a787c064a0808a.ckd",
+      "cover_smallImageUrl": "/public/map/Buttons/orbis/Buttons_Cover_Online.tga.ckd/674d640c464a48e837170db9fd8af72f.ckd",
+      "coverImageUrl": "/public/map/Buttons/orbis/Buttons_Cover_Generic.tga.ckd/3c16919d4ce03fdcc3c5851d809c7489.ckd",
+      "coach1ImageUrl": "/public/map/Buttons/orbis/Buttons_Coach_1.tga.ckd/453f6b747b38e92a95f73447542f10be.ckd",
+      "coach2ImageUrl": "/public/map/Buttons/orbis/Buttons_Coach_2.tga.ckd/60e037dba5cfb0044aa06a2053df4795.ckd",
+      "coach3ImageUrl": "/public/map/Buttons/orbis/Buttons_Coach_3.tga.ckd/be15b55631810b5831f40e051ea8ba57.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Buttons/Buttons_Coach_1_Phone.png/9c68a5829c43fdf9c9a2cfdfcdd044eb.png",
+    "phoneCoach2ImageUrl": "/public/map/Buttons/Buttons_Coach_2_Phone.png/c7ad39cfd6cd28f8ee31960a87ee42bc.png",
+    "phoneCoach3ImageUrl": "/public/map/Buttons/Buttons_Coach_3_Phone.png/9326b9184e93dd9a83618607d09861e6.png",
+    "phoneCoverImageUrl": "/public/map/Buttons/Buttons_Cover_Phone.jpg/56a8407328e1bc5db61313f748093fb5.jpg",
+    "cover640ImageUrl": "/public/map/Buttons/Buttons_Cover_640.png/99bb51f369ba5b311927e50eb31bcf3a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Buttons/Buttons.ogg": "/private/map/Buttons/Buttons.ogg/06ee276353c3f8f5f54ad955c5e25dd2.ogg",
+    "jmcs://jd-contents/Buttons/Buttons_AudioPreview.ogg": "/public/map/Buttons/Buttons_AudioPreview.ogg/7d4d675fc6e19248e45e37f09bfdfb12.ogg",
+    "jmcs://jd-contents/Buttons/Buttons_HIGH.webm": "/private/map/Buttons/Buttons_HIGH.webm/dcf6ba1396c9d42f7d51b3cba46d5d94.webm",
+    "jmcs://jd-contents/Buttons/Buttons_LOW.webm": "/private/map/Buttons/Buttons_LOW.webm/8bd2d9798c52771b4b93b2f7d048249f.webm",
+    "jmcs://jd-contents/Buttons/Buttons_MID.webm": "/private/map/Buttons/Buttons_MID.webm/a72977693c0c37e00b17113873c4f0a6.webm",
+    "jmcs://jd-contents/Buttons/Buttons_ULTRA.hd.webm": "/private/map/Buttons/Buttons_ULTRA.hd.webm/e7753be9320ad2bd5fa9c21adcf156d6.webm",
+    "jmcs://jd-contents/Buttons/Buttons_ULTRA.webm": "/private/map/Buttons/Buttons_ULTRA.webm/242d78ba01812c7cb3f261ac6bb13baa.webm",
+    "jmcs://jd-contents/Buttons/Buttons_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Buttons/Buttons_MapPreviewNoSoundCrop_LOW.vp8.webm/78d1fb43638c33cad52dcf328ec51a01.webm",
+    "jmcs://jd-contents/Buttons/Buttons_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Buttons/Buttons_MapPreviewNoSoundCrop_MID.vp8.webm/37117fc2772a41c953c822993f63e13f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"515614\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buttons/Buttons_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\n\t\t\t\t\t<Initialization range=\"0-599\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1491978\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buttons/Buttons_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"600-1090\">\n\t\t\t\t\t<Initialization range=\"0-600\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 236.24275
+}

@@ -1,0 +1,166 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DeliteRetake/DeliteRetake.ogg": "/private/map/DeliteRetake/DeliteRetake.ogg/f5f6ceb6ae8ebbaab87b1b265d756cd1.ogg",
+    "jmcs://jd-contents/DeliteRetake/DeliteRetake_AudioPreview.ogg": "/public/map/DeliteRetake/DeliteRetake_AudioPreview.ogg/7e315de152dc99dc8e475a856be1fd31.ogg",
+    "jmcs://jd-contents/DeliteRetake/DeliteRetake_HIGH.hd.webm": "/private/map/DeliteRetake/DeliteRetake_HIGH.hd.webm/46d373a74c9d973b6b3468687678dc08.webm",
+    "jmcs://jd-contents/DeliteRetake/DeliteRetake_LOW.hd.webm": "/private/map/DeliteRetake/DeliteRetake_LOW.hd.webm/a688c08b7f3d315483600ee5703601eb.webm",
+    "jmcs://jd-contents/DeliteRetake/DeliteRetake_MID.hd.webm": "/private/map/DeliteRetake/DeliteRetake_MID.hd.webm/15604d121d9b284271394bd41351fc2d.webm",
+    "jmcs://jd-contents/DeliteRetake/DeliteRetake_ULTRA.hd.webm": "/private/map/DeliteRetake/DeliteRetake_ULTRA.hd.webm/e42842225407aff3a27ce765888cdff4.webm",
+    "jmcs://jd-contents/DeliteRetake/DeliteRetake_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DeliteRetake/DeliteRetake_MapPreviewNoSoundCrop_LOW.vp8.webm/a10fbbcfc178a0e84439940fb6b57cc6.webm",
+    "jmcs://jd-contents/DeliteRetake/DeliteRetake_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DeliteRetake/DeliteRetake_MapPreviewNoSoundCrop_MID.vp8.webm/deb197606cf7dd8fd2b181e93d5a61fb.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23712,
+        47376,
+        71088,
+        94800,
+        118512,
+        142176,
+        165888,
+        189600,
+        213312,
+        236976,
+        260688,
+        284400,
+        308112,
+        331776,
+        355488,
+        379200,
+        402912,
+        426576,
+        450288,
+        474000,
+        497712,
+        521376,
+        545088,
+        568800,
+        592512,
+        616176,
+        639888,
+        663600,
+        687312,
+        710976,
+        734688,
+        758400,
+        782112,
+        805776,
+        829488,
+        853200,
+        876912,
+        900576,
+        924288,
+        948000,
+        971712,
+        995376,
+        1019088,
+        1042800,
+        1066512,
+        1090176,
+        1113888,
+        1137600,
+        1161312,
+        1184976,
+        1208688,
+        1232400,
+        1256064,
+        1279776,
+        1303488,
+        1327200,
+        1350864,
+        1374576,
+        1398288,
+        1422000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 454,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DeliteRetake/DeliteRetake_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"656716\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DeliteRetake/DeliteRetake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1995626\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DeliteRetake/DeliteRetake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "a22ba8b8ac34ade959c2e9e650cd80dd",
+      "storageType": 0,
+      "url": "/public/map/DeliteRetake/nx/DeliteRetake_MAIN_SCENE_NX.zip/a22ba8b8ac34ade959c2e9e650cd80dd.zip"
+    },
+    "pc": {
+      "md5": "2c20d84c3eed2a5407e67ffd9391b098",
+      "storageType": 0,
+      "url": "/public/map/DeliteRetake/pc/DeliteRetake_MAIN_SCENE_PC.zip/2c20d84c3eed2a5407e67ffd9391b098.zip"
+    },
+    "ps4": {
+      "md5": "608dcf4c003262c13ed24299f7c99044",
+      "storageType": 0,
+      "url": "/public/map/DeliteRetake/orbis/DeliteRetake_MAIN_SCENE_ORBIS.zip/608dcf4c003262c13ed24299f7c99044.zip"
+    }
+  },
+  "data": {
+    "mapName": "DeliteRetake",
+    "title": "Groove Is In The Heart",
+    "originalJDVersion": 1,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Deee-Lite",
+    "credits": "Written by Dmitry Brill, Towa Tei, Kier Kirby. Published by T-Girl Music LLC and EMI Music Publishing Ltd. Courtesy of Elektra Records.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#c41673",
+    "songColor2A": "#df7412",
+    "songColor1B": "#600a20",
+    "songColor2B": "#81340e",
+    "lyricsColor": "#ffc915",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DeliteRetake/nx/DeliteRetake_banner_bkg.tga.ckd/49cc58939f5d8555c275e3118c7210f6.ckd",
+      "map_bkgImageUrl": "/public/map/DeliteRetake/nx/DeliteRetake_map_bkg.tga.ckd/b695876b60ec0d84ab52a589c50a89c2.ckd",
+      "expandCoachImageUrl": "/public/map/DeliteRetake/nx/DeliteRetake_Cover_AlbumCoach.tga.ckd/6ccdeb3b49fb271d695d86f213a8b197.ckd",
+      "cover_smallImageUrl": "/public/map/DeliteRetake/nx/DeliteRetake_Cover_Online.tga.ckd/59c8cb5cadc86246ce6bd3510fb81ca1.ckd",
+      "coverImageUrl": "/public/map/DeliteRetake/nx/DeliteRetake_Cover_Generic.tga.ckd/0220392776ae501083d2ac183dbb5593.ckd",
+      "coach1ImageUrl": "/public/map/DeliteRetake/nx/DeliteRetake_Coach_1.tga.ckd/211e1e92b4ea3cd886725025e6ed5e93.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DeliteRetake/pc/DeliteRetake_banner_bkg.tga.ckd/e54acacdd15c9fee10a8ecbab60fe202.ckd",
+      "map_bkgImageUrl": "/public/map/DeliteRetake/pc/DeliteRetake_map_bkg.tga.ckd/da9133cc2a246184b0e9f90cfeb7aa61.ckd",
+      "expandCoachImageUrl": "/public/map/DeliteRetake/pc/DeliteRetake_Cover_AlbumCoach.tga.ckd/41b1c56e7502c654c43628bec2340758.ckd",
+      "cover_smallImageUrl": "/public/map/DeliteRetake/pc/DeliteRetake_Cover_Online.tga.ckd/dfa0ad170385feaa6c6b3eac1d8e393f.ckd",
+      "coverImageUrl": "/public/map/DeliteRetake/pc/DeliteRetake_Cover_Generic.tga.ckd/8ec560aa768a0dfad55de7c1632e646b.ckd",
+      "coach1ImageUrl": "/public/map/DeliteRetake/pc/DeliteRetake_Coach_1.tga.ckd/5cd51b21cf59d92773160c55296598f1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DeliteRetake/orbis/DeliteRetake_banner_bkg.tga.ckd/e54acacdd15c9fee10a8ecbab60fe202.ckd",
+      "map_bkgImageUrl": "/public/map/DeliteRetake/orbis/DeliteRetake_map_bkg.tga.ckd/da9133cc2a246184b0e9f90cfeb7aa61.ckd",
+      "expandCoachImageUrl": "/public/map/DeliteRetake/orbis/DeliteRetake_Cover_AlbumCoach.tga.ckd/41b1c56e7502c654c43628bec2340758.ckd",
+      "cover_smallImageUrl": "/public/map/DeliteRetake/orbis/DeliteRetake_Cover_Online.tga.ckd/dfa0ad170385feaa6c6b3eac1d8e393f.ckd",
+      "coverImageUrl": "/public/map/DeliteRetake/orbis/DeliteRetake_Cover_Generic.tga.ckd/8ec560aa768a0dfad55de7c1632e646b.ckd",
+      "coach1ImageUrl": "/public/map/DeliteRetake/orbis/DeliteRetake_Coach_1.tga.ckd/5cd51b21cf59d92773160c55296598f1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DeliteRetake/DeliteRetake_Coach_1_Phone.png/89c6d34215f0ecfd9e2401849241dde4.png",
+    "phoneCoverImageUrl": "/public/map/DeliteRetake/DeliteRetake_Cover_Phone.jpg/4bd35fbec7f34033ceda740b8bc22662.jpg",
+    "cover640ImageUrl": "/public/map/DeliteRetake/DeliteRetake_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 224.160625
+}

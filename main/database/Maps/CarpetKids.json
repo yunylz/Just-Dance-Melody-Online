@@ -1,0 +1,165 @@
+{
+  "urls": {
+    "jmcs://jd-contents/CarpetKids/CarpetKids.ogg": "/private/map/CarpetKids/CarpetKids.ogg/f0ffca8062082fc6e566b46c906de770.ogg",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_AudioPreview.ogg": "/public/map/CarpetKids/CarpetKids_AudioPreview.ogg/d046f177869460c1e7b07ee4b33fd197.ogg",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_HIGH.hd.webm": "/private/map/CarpetKids/CarpetKids_HIGH.hd.webm/8a1fa958514acbeba864aec8085890e6.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_LOW.hd.webm": "/private/map/CarpetKids/CarpetKids_LOW.hd.webm/c62be69a3268585bd4d6a5b27ed2b0eb.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_MID.hd.webm": "/private/map/CarpetKids/CarpetKids_MID.hd.webm/4a08795e848284e44d21c32b95a317f0.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_ULTRA.hd.webm": "/private/map/CarpetKids/CarpetKids_ULTRA.hd.webm/ebdde1c3efd97c8353bc3bcb3c324b0c.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_LOW.vp8.webm/22d23d20af1ef2f8a1f34ae33d29180e.webm",
+    "jmcs://jd-contents/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CarpetKids/CarpetKids_MapPreviewNoSoundCrop_MID.vp8.webm/cb832857702187cab378ecce914cdb5b.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547201,
+        576001,
+        604801,
+        633601,
+        662401,
+        691201,
+        720001,
+        748801,
+        777601,
+        806401,
+        835201,
+        864001,
+        892801,
+        921601,
+        950401,
+        979201,
+        1008001,
+        1036801,
+        1065601,
+        1094402,
+        1123202,
+        1152002,
+        1180802,
+        1209602,
+        1238402,
+        1267202,
+        1296002,
+        1324802,
+        1353602,
+        1382402,
+        1411202,
+        1440002,
+        1468802,
+        1497602
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 200,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CarpetKids/CarpetKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "ee8581e0c7834506dc44790b31adaf4a",
+      "storageType": 0,
+      "url": "/public/map/CarpetKids/nx/CarpetKids_MAIN_SCENE_NX.zip/ee8581e0c7834506dc44790b31adaf4a.zip"
+    },
+    "pc": {
+      "md5": "9d27df602f119acb38e638731d6a0c9f",
+      "storageType": 0,
+      "url": "/public/map/CarpetKids/pc/CarpetKids_MAIN_SCENE_PC.zip/9d27df602f119acb38e638731d6a0c9f.zip"
+    },
+    "ps4": {
+      "md5": "f3482e0d29dda8dcd3c9a28ccc75f6fb",
+      "storageType": 0,
+      "url": "/public/map/CarpetKids/orbis/CarpetKids_MAIN_SCENE_ORBIS.zip/f3482e0d29dda8dcd3c9a28ccc75f6fb.zip"
+    }
+  },
+  "data": {
+    "mapName": "CarpetKids",
+    "title": "Flying Carpet",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main",
+      "kidsonly",
+      "chairtutorial"
+    ],
+    "artist": "Persian Nights",
+    "credits": "Composed, produced, engineered and mixed by Steve Ouimette. Published by Ubisoft Music Publishing. All instruments - Steve Ouimette. Flute - Mark Visher. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#dc7ff1",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#fe67e2",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CarpetKids/nx/CarpetKids_banner_bkg.tga.ckd/64c02310a3137db31d94952840fc2f93.ckd",
+      "map_bkgImageUrl": "/public/map/CarpetKids/nx/CarpetKids_map_bkg.tga.ckd/2b63e9aaf13a4e3dfdef493a355bd8ac.ckd",
+      "expandCoachImageUrl": "/public/map/CarpetKids/nx/CarpetKids_Cover_AlbumCoach.tga.ckd/6f7ede27bd03e213c5bc4a7542d1336f.ckd",
+      "cover_smallImageUrl": "/public/map/CarpetKids/nx/CarpetKids_Cover_Online.tga.ckd/a53eb3977b1f266b961b82a93f808bb3.ckd",
+      "coverImageUrl": "/public/map/CarpetKids/nx/CarpetKids_Cover_Generic.tga.ckd/ec3d303be84bcee33baec72f9c08dea1.ckd",
+      "coach1ImageUrl": "/public/map/CarpetKids/nx/CarpetKids_Coach_1.tga.ckd/95ac96cb6c226574ec75dad1c8174432.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CarpetKids/pc/CarpetKids_banner_bkg.tga.ckd/e3a7ccc59b9bfbe786bce3e4be5f67ff.ckd",
+      "map_bkgImageUrl": "/public/map/CarpetKids/pc/CarpetKids_map_bkg.tga.ckd/9e56e608f4a05821adc4997658dd4850.ckd",
+      "expandCoachImageUrl": "/public/map/CarpetKids/pc/CarpetKids_Cover_AlbumCoach.tga.ckd/5080d0f660181be136a6ae78bddfbc85.ckd",
+      "cover_smallImageUrl": "/public/map/CarpetKids/pc/CarpetKids_Cover_Online.tga.ckd/897ad24c6fb7cbfc783609115cdccfcc.ckd",
+      "coverImageUrl": "/public/map/CarpetKids/pc/CarpetKids_Cover_Generic.tga.ckd/99a037833b6d259dd1ea5c7b56467957.ckd",
+      "coach1ImageUrl": "/public/map/CarpetKids/pc/CarpetKids_Coach_1.tga.ckd/be1901019bac01db1638aef060aa869c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CarpetKids/orbis/CarpetKids_banner_bkg.tga.ckd/e3a7ccc59b9bfbe786bce3e4be5f67ff.ckd",
+      "map_bkgImageUrl": "/public/map/CarpetKids/orbis/CarpetKids_map_bkg.tga.ckd/9e56e608f4a05821adc4997658dd4850.ckd",
+      "expandCoachImageUrl": "/public/map/CarpetKids/orbis/CarpetKids_Cover_AlbumCoach.tga.ckd/5080d0f660181be136a6ae78bddfbc85.ckd",
+      "cover_smallImageUrl": "/public/map/CarpetKids/orbis/CarpetKids_Cover_Online.tga.ckd/897ad24c6fb7cbfc783609115cdccfcc.ckd",
+      "coverImageUrl": "/public/map/CarpetKids/orbis/CarpetKids_Cover_Generic.tga.ckd/99a037833b6d259dd1ea5c7b56467957.ckd",
+      "coach1ImageUrl": "/public/map/CarpetKids/orbis/CarpetKids_Coach_1.tga.ckd/be1901019bac01db1638aef060aa869c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CarpetKids/CarpetKids_Coach_1_Phone.png/2b0225b816db811bdd70a0c1f71c0878.png",
+    "phoneCoverImageUrl": "/public/map/CarpetKids/CarpetKids_Cover_Phone.jpg/ea242ddbb8a0e3cd1fbde8177037ac95.jpg",
+    "cover640ImageUrl": "/public/map/CarpetKids/CarpetKids_Cover_640.png/9205797d54cae84dfc7fcb1e08ec675e.png"
+  },
+  "mapLength": 124.854
+}

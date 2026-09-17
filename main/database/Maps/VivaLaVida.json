@@ -1,0 +1,183 @@
+{
+  "urls": {
+    "jmcs://jd-contents/VivaLaVida/VivaLaVida.ogg": "/private/map/VivaLaVida/VivaLaVida.ogg/aa4ad769f829de2bfae1b393c9a3857e.ogg",
+    "jmcs://jd-contents/VivaLaVida/VivaLaVida_AudioPreview.ogg": "/public/map/VivaLaVida/VivaLaVida_AudioPreview.ogg/3779fd9c3e3b5c30e893424264254241.ogg",
+    "jmcs://jd-contents/VivaLaVida/VivaLaVida_HIGH.hd.webm": "/private/map/VivaLaVida/VivaLaVida_HIGH.hd.webm/aae7ab90142dc6fea5f4d2fcd6ef05d9.webm",
+    "jmcs://jd-contents/VivaLaVida/VivaLaVida_LOW.hd.webm": "/private/map/VivaLaVida/VivaLaVida_LOW.hd.webm/306abca483fe89a8b34ad52d7a267f32.webm",
+    "jmcs://jd-contents/VivaLaVida/VivaLaVida_MID.hd.webm": "/private/map/VivaLaVida/VivaLaVida_MID.hd.webm/7932d0faa74aa20e4e040537f6867b33.webm",
+    "jmcs://jd-contents/VivaLaVida/VivaLaVida_ULTRA.hd.webm": "/private/map/VivaLaVida/VivaLaVida_ULTRA.hd.webm/060238a646e3737bcebb9ed70ffb6fa4.webm",
+    "jmcs://jd-contents/VivaLaVida/VivaLaVida_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/VivaLaVida/VivaLaVida_MapPreviewNoSoundCrop_LOW.vp8.webm/8410c2ecb9f80d4ccfbec8b50ee67994.webm",
+    "jmcs://jd-contents/VivaLaVida/VivaLaVida_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/VivaLaVida/VivaLaVida_MapPreviewNoSoundCrop_MID.vp8.webm/055e15aa3302156c4c76b3ef7889a264.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        20870,
+        41739,
+        62609,
+        83478,
+        104348,
+        125217,
+        146087,
+        166957,
+        187826,
+        208696,
+        229565,
+        250435,
+        271304,
+        292174,
+        313043,
+        333913,
+        354783,
+        375652,
+        396522,
+        417391,
+        438261,
+        459130,
+        480000,
+        500870,
+        521739,
+        542609,
+        563478,
+        584348,
+        605217,
+        626087,
+        646957,
+        667826,
+        688696,
+        709565,
+        730435,
+        751304,
+        772174,
+        793043,
+        813913,
+        834783,
+        855652,
+        876522,
+        897391,
+        918261,
+        939130,
+        960000,
+        980870,
+        1001739,
+        1022609,
+        1043478,
+        1064348,
+        1085217,
+        1106087,
+        1126957,
+        1147826,
+        1168696,
+        1189565,
+        1210435,
+        1231304,
+        1252174,
+        1273043,
+        1293913,
+        1314783,
+        1335652,
+        1356522,
+        1377391,
+        1398261,
+        1419130,
+        1440000,
+        1460870,
+        1481739
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -19,
+      "endBeat": 560,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 69,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/VivaLaVida/VivaLaVida_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"539442\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/VivaLaVida/VivaLaVida_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\n\t\t\t\t\t<Initialization range=\"0-614\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1968795\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/VivaLaVida/VivaLaVida_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "ccfea2c76a5dc81142d88b8d92d4cadf",
+      "storageType": 0,
+      "url": "/public/map/VivaLaVida/nx/VivaLaVida_MAIN_SCENE_NX.zip/ccfea2c76a5dc81142d88b8d92d4cadf.zip"
+    },
+    "pc": {
+      "md5": "b8c427a6cd94635441044468b961dcc6",
+      "storageType": 0,
+      "url": "/public/map/VivaLaVida/pc/VivaLaVida_MAIN_SCENE_PC.zip/b8c427a6cd94635441044468b961dcc6.zip"
+    },
+    "ps4": {
+      "md5": "6c1fc6984cbd40b82596a50490bd9834",
+      "storageType": 0,
+      "url": "/public/map/VivaLaVida/orbis/VivaLaVida_MAIN_SCENE_ORBIS.zip/6c1fc6984cbd40b82596a50490bd9834.zip"
+    }
+  },
+  "data": {
+    "mapName": "VivaLaVida",
+    "title": "Viva La Vida",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Coldplay",
+    "credits": "EMPTY",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#280ada",
+    "songColor2A": "#f5df8d",
+    "songColor1B": "#00000e",
+    "songColor2B": "#95440b",
+    "lyricsColor": "#f72d88",
+    "LocaleID": 4294967295
+  },
+  "mapLength": 250.440417,
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/VivaLaVida/nx/VivaLaVida_banner_bkg.tga.ckd/50472509d7ea7d501d6f91fb9786d5fd.ckd",
+      "map_bkgImageUrl": "/public/map/VivaLaVida/nx/VivaLaVida_map_bkg.tga.ckd/53f98e233a94c0c54dbf3764ee5413d2.ckd",
+      "expandCoachImageUrl": "/public/map/VivaLaVida/nx/VivaLaVida_Cover_AlbumCoach.tga.ckd/bf2e06aac388083e9736e889b5fb7234.ckd",
+      "cover_smallImageUrl": "/public/map/VivaLaVida/nx/VivaLaVida_Cover_Online.tga.ckd/5ce9a280ab494cdcb3c6bbdeb58c59ae.ckd",
+      "coverImageUrl": "/public/map/VivaLaVida/nx/VivaLaVida_Cover_Generic.tga.ckd/697ef2b90dd8a000b9647eb01c75255e.ckd",
+      "coach1ImageUrl": "/public/map/VivaLaVida/nx/VivaLaVida_Coach_1.tga.ckd/08096b87ea2d31cd3bb627986785e902.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/VivaLaVida/pc/VivaLaVida_banner_bkg.tga.ckd/446bf2a72d5f27c2d9a329f16518aab1.ckd",
+      "map_bkgImageUrl": "/public/map/VivaLaVida/pc/VivaLaVida_map_bkg.tga.ckd/8ac5bf4ed69bf3bb32c25ee5adfa826b.ckd",
+      "expandCoachImageUrl": "/public/map/VivaLaVida/pc/VivaLaVida_Cover_AlbumCoach.tga.ckd/7348ce3643d309d37ecdba3a491ac15b.ckd",
+      "cover_smallImageUrl": "/public/map/VivaLaVida/pc/VivaLaVida_Cover_Online.tga.ckd/42abc7fb3855d4a3e21fd6b1d64c01bc.ckd",
+      "coverImageUrl": "/public/map/VivaLaVida/pc/VivaLaVida_Cover_Generic.tga.ckd/bee2db89588bf6150c4cdb62381846bb.ckd",
+      "coach1ImageUrl": "/public/map/VivaLaVida/pc/VivaLaVida_Coach_1.tga.ckd/691c52e1b0d8767d58291a3bf4856330.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/VivaLaVida/orbis/VivaLaVida_banner_bkg.tga.ckd/446bf2a72d5f27c2d9a329f16518aab1.ckd",
+      "map_bkgImageUrl": "/public/map/VivaLaVida/orbis/VivaLaVida_map_bkg.tga.ckd/8ac5bf4ed69bf3bb32c25ee5adfa826b.ckd",
+      "expandCoachImageUrl": "/public/map/VivaLaVida/orbis/VivaLaVida_Cover_AlbumCoach.tga.ckd/7348ce3643d309d37ecdba3a491ac15b.ckd",
+      "cover_smallImageUrl": "/public/map/VivaLaVida/orbis/VivaLaVida_Cover_Online.tga.ckd/42abc7fb3855d4a3e21fd6b1d64c01bc.ckd",
+      "coverImageUrl": "/public/map/VivaLaVida/orbis/VivaLaVida_Cover_Generic.tga.ckd/bee2db89588bf6150c4cdb62381846bb.ckd",
+      "coach1ImageUrl": "/public/map/VivaLaVida/orbis/VivaLaVida_Coach_1.tga.ckd/691c52e1b0d8767d58291a3bf4856330.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/VivaLaVida/VivaLaVida_Coach_1_Phone.png/e36110065d2d43fcb24470f2bd4dd9a4.png",
+    "phoneCoverImageUrl": "/public/map/VivaLaVida/VivaLaVida_Cover_Phone.jpg/3594172a5a5499604776ad9324897478.jpg",
+    "cover640ImageUrl": "/public/map/VivaLaVida/VivaLaVida_Cover_640.png/21991945dcbf5e2a93c946c679d49019.png"
+  }
+}

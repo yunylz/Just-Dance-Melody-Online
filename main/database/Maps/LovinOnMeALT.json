@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "38e06e6379d173bc5cf62ed4af0e4a0e",
+      "storageType": 0,
+      "url": "/public/map/LovinOnMeALT/nx/LovinOnMeALT_MAIN_SCENE_NX.zip/38e06e6379d173bc5cf62ed4af0e4a0e.zip"
+    },
+    "pc": {
+      "md5": "2205994f00777874426ba0fa0f040c94",
+      "storageType": 0,
+      "url": "/public/map/LovinOnMeALT/pc/LovinOnMeALT_MAIN_SCENE_PC.zip/2205994f00777874426ba0fa0f040c94.zip"
+    },
+    "ps4": {
+      "md5": "3de5ffb01074fe446a4d3a1c69b3ca01",
+      "storageType": 0,
+      "url": "/public/map/LovinOnMeALT/orbis/LovinOnMeALT_MAIN_SCENE_ORBIS.zip/3de5ffb01074fe446a4d3a1c69b3ca01.zip"
+    }
+  },
+  "data": {
+    "mapName": "LovinOnMeALT",
+    "title": "Lovin On Me",
+    "originalJDVersion": 2025,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Hard"
+    ],
+    "artist": "Jack Harlow",
+    "credits": "Written by Nik Frascona, Delbert Michael Greer, Jackman Harlow, Sean Aaron Momberger, Reginald Nelton, Nickie Jon Pabon, Ozan Yildirim. Published by Harlow Happenings, Sony Sounds, OZ Music GmbH / Universal Music Publishing Canada on behalf of Roc Nation Music and Universal Music Corp. / 300 Rainwater Music, Sean Mom Publishing, Futuristic Music Publishing Co BMI Pub Designee and The Eldalerado Music pub designee. All rights on behalf of 300 Rainwater Music, Sean Mom Publishing, Futuristic Music Publishing Co BMI Pub Designee and The Eldalerado Music pub designee administered by Warner-Tamerlane Publishing Corp. / OZ Music GmbH. Administered by Kobalt Songs Music Publishing. Courtesy of Atlantic Recording Corp. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#41e7be",
+    "songColor2A": "#c958f8",
+    "songColor1B": "#020e39",
+    "songColor2B": "#07095e",
+    "lyricsColor": "#f8f265"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27429,
+        54857,
+        82286,
+        109714,
+        137143,
+        164571,
+        192000,
+        219429,
+        246857,
+        274286,
+        301714,
+        329143,
+        356571,
+        384000,
+        411429,
+        438857,
+        466286,
+        493714,
+        521143,
+        548571,
+        576000,
+        603429,
+        630857,
+        658286,
+        685714,
+        713143,
+        740571,
+        768000,
+        795429,
+        822857,
+        850286,
+        877714,
+        905143,
+        932571,
+        960000,
+        987429,
+        1014857,
+        1042286,
+        1069714,
+        1097143,
+        1124571,
+        1152000,
+        1179429,
+        1206857,
+        1234286,
+        1261714,
+        1289143,
+        1316571,
+        1344000,
+        1371429,
+        1398857,
+        1426286,
+        1453714,
+        1481143
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 247,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LovinOnMeALT/nx/LovinOnMeALT_banner_bkg.tga.ckd/f2dfefead73b5fdbab60780af6e4d2da.ckd",
+      "map_bkgImageUrl": "/public/map/LovinOnMeALT/nx/LovinOnMeALT_map_bkg.tga.ckd/9383456e8600fa0ea342575afea61522.ckd",
+      "expandCoachImageUrl": "/public/map/LovinOnMeALT/nx/LovinOnMeALT_Cover_AlbumCoach.tga.ckd/ebd38417aeca61d46baeed1ab735157e.ckd",
+      "cover_smallImageUrl": "/public/map/LovinOnMeALT/nx/LovinOnMeALT_Cover_Online.tga.ckd/d6368daa1c38cb03b879ac878c6c9f0b.ckd",
+      "coverImageUrl": "/public/map/LovinOnMeALT/nx/LovinOnMeALT_Cover_Generic.tga.ckd/66438ca3f284b2b3c974d85e1549be9b.ckd",
+      "coach1ImageUrl": "/public/map/LovinOnMeALT/nx/LovinOnMeALT_Coach_1.tga.ckd/e1a6939d194481d604eb586c3a0922e5.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LovinOnMeALT/pc/LovinOnMeALT_banner_bkg.tga.ckd/fcb90fbf6498a1f07b1df3595d976817.ckd",
+      "map_bkgImageUrl": "/public/map/LovinOnMeALT/pc/LovinOnMeALT_map_bkg.tga.ckd/0c6e1ba716ba6d78c5ca97b6d2965e56.ckd",
+      "expandCoachImageUrl": "/public/map/LovinOnMeALT/pc/LovinOnMeALT_Cover_AlbumCoach.tga.ckd/60d66f5193d2a18982040722e4922184.ckd",
+      "cover_smallImageUrl": "/public/map/LovinOnMeALT/pc/LovinOnMeALT_Cover_Online.tga.ckd/cb2081830b35329938766a06463b6c1f.ckd",
+      "coverImageUrl": "/public/map/LovinOnMeALT/pc/LovinOnMeALT_Cover_Generic.tga.ckd/59c601b7516a826281ea275b2382250d.ckd",
+      "coach1ImageUrl": "/public/map/LovinOnMeALT/pc/LovinOnMeALT_Coach_1.tga.ckd/691c7cf1f903bc3b30634d421a0d0d4f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LovinOnMeALT/orbis/LovinOnMeALT_banner_bkg.tga.ckd/fcb90fbf6498a1f07b1df3595d976817.ckd",
+      "map_bkgImageUrl": "/public/map/LovinOnMeALT/orbis/LovinOnMeALT_map_bkg.tga.ckd/0c6e1ba716ba6d78c5ca97b6d2965e56.ckd",
+      "expandCoachImageUrl": "/public/map/LovinOnMeALT/orbis/LovinOnMeALT_Cover_AlbumCoach.tga.ckd/60d66f5193d2a18982040722e4922184.ckd",
+      "cover_smallImageUrl": "/public/map/LovinOnMeALT/orbis/LovinOnMeALT_Cover_Online.tga.ckd/cb2081830b35329938766a06463b6c1f.ckd",
+      "coverImageUrl": "/public/map/LovinOnMeALT/orbis/LovinOnMeALT_Cover_Generic.tga.ckd/59c601b7516a826281ea275b2382250d.ckd",
+      "coach1ImageUrl": "/public/map/LovinOnMeALT/orbis/LovinOnMeALT_Coach_1.tga.ckd/691c7cf1f903bc3b30634d421a0d0d4f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LovinOnMeALT/LovinOnMeALT_Coach_1_Phone.png/6744c17df94ebc080f8e9e9e904714b0.png",
+    "phoneCoverImageUrl": "/public/map/LovinOnMeALT/LovinOnMeALT_Cover_Phone.jpg/832ef346560bbb07bf84d6c6c179266c.jpg",
+    "cover640ImageUrl": "/public/map/LovinOnMeALT/LovinOnMeALT_Cover_640.png/6312a9d17f977c894c72aff1ac32e569.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT.ogg": "/private/map/LovinOnMeALT/LovinOnMeALT.ogg/bd1d51c992365224eb9dac821bd28e17.ogg",
+    "jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT_AudioPreview.ogg": "/public/map/LovinOnMeALT/LovinOnMeALT_AudioPreview.ogg/ae7fad67c1727c483119b0d651234833.ogg",
+    "jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT_HIGH.webm": "/private/map/LovinOnMeALT/LovinOnMeALT_HIGH.webm/167653eb065c3f4ddaed79ac333e1b4e.webm",
+    "jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT_LOW.webm": "/private/map/LovinOnMeALT/LovinOnMeALT_LOW.webm/16662f5f3bd9fa991d91a6adb579f73a.webm",
+    "jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT_MID.webm": "/private/map/LovinOnMeALT/LovinOnMeALT_MID.webm/90c8000ff005ea3286fa98e852a9b557.webm",
+    "jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT_ULTRA.hd.webm": "/private/map/LovinOnMeALT/LovinOnMeALT_ULTRA.hd.webm/2ce0778866f7ed2cba67d6217f815ea4.webm",
+    "jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT_ULTRA.webm": "/private/map/LovinOnMeALT/LovinOnMeALT_ULTRA.webm/7f7c6b91840e17cfff1e9165a20783d8.webm",
+    "jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LovinOnMeALT/LovinOnMeALT_MapPreviewNoSoundCrop_LOW.vp8.webm/f6e8ac557827ba9e0c9295b0b67834a6.webm",
+    "jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LovinOnMeALT/LovinOnMeALT_MapPreviewNoSoundCrop_MID.vp8.webm/f0a7ab060c4ace690cd7f45d1ce057f1.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"527692\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"665-1154\">\n\t\t\t\t\t<Initialization range=\"0-665\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1519134\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LovinOnMeALT/LovinOnMeALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"666-1156\">\n\t\t\t\t\t<Initialization range=\"0-666\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 141.720771
+}

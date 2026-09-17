@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/CalmDown/CalmDown.ogg": "/private/map/CalmDown/CalmDown.ogg/151613da55bb48f5bb48376736836511.ogg",
+    "jmcs://jd-contents/CalmDown/CalmDown_AudioPreview.ogg": "/public/map/CalmDown/CalmDown_AudioPreview.ogg/7f7c009abf6e5ea0ddf16e339413a74d.ogg",
+    "jmcs://jd-contents/CalmDown/CalmDown_HIGH.hd.webm": "/private/map/CalmDown/CalmDown_HIGH.hd.webm/a9b10586f1316f55828eb81f3b81e2af.webm",
+    "jmcs://jd-contents/CalmDown/CalmDown_LOW.hd.webm": "/private/map/CalmDown/CalmDown_LOW.hd.webm/901f0409c29b220ca53fb2f9fa317cbc.webm",
+    "jmcs://jd-contents/CalmDown/CalmDown_MID.hd.webm": "/private/map/CalmDown/CalmDown_MID.hd.webm/e4a8eef887242219ce388e87a8091f43.webm",
+    "jmcs://jd-contents/CalmDown/CalmDown_ULTRA.hd.webm": "/private/map/CalmDown/CalmDown_ULTRA.hd.webm/7238bba583ee52b9640ee0a237aa8547.webm",
+    "jmcs://jd-contents/CalmDown/CalmDown_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CalmDown/CalmDown_MapPreviewNoSoundCrop_LOW.vp8.webm/8849fd69aee6582ceef7c24fb14f430f.webm",
+    "jmcs://jd-contents/CalmDown/CalmDown_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CalmDown/CalmDown_MapPreviewNoSoundCrop_MID.vp8.webm/59a06fd5fdc33670598ef66e065d8b6b.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26916,
+        53832,
+        80748,
+        107664,
+        134579,
+        161495,
+        188411,
+        215327,
+        242243,
+        269159,
+        296075,
+        322991,
+        349907,
+        376822,
+        403738,
+        430654,
+        457570,
+        484486,
+        511402,
+        538318,
+        565234,
+        592150,
+        619065,
+        645981,
+        672897,
+        699813,
+        726729,
+        753645,
+        780561,
+        807477,
+        834393,
+        861308,
+        888224,
+        915140,
+        942056,
+        968972,
+        995888,
+        1022804,
+        1049720,
+        1076636,
+        1103551,
+        1130467,
+        1157383,
+        1184299,
+        1211215,
+        1238131,
+        1265047,
+        1291963,
+        1318879,
+        1345794,
+        1372710,
+        1399626,
+        1426542,
+        1453458,
+        1480374
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 395,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CalmDown/CalmDown_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"547972\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CalmDown/CalmDown_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2004695\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CalmDown/CalmDown_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "7768f3dc27239de2b56463b6ecfd536b",
+      "storageType": 0,
+      "url": "/public/map/CalmDown/nx/CalmDown_MAIN_SCENE_NX.zip/7768f3dc27239de2b56463b6ecfd536b.zip"
+    },
+    "pc": {
+      "md5": "201a95ce2417a279987e913d8cb3e8ee",
+      "storageType": 0,
+      "url": "/public/map/CalmDown/pc/CalmDown_MAIN_SCENE_PC.zip/201a95ce2417a279987e913d8cb3e8ee.zip"
+    },
+    "ps4": {
+      "md5": "610942c87505657bb673407f31be0b86",
+      "storageType": 0,
+      "url": "/public/map/CalmDown/orbis/CalmDown_MAIN_SCENE_ORBIS.zip/610942c87505657bb673407f31be0b86.zip"
+    }
+  },
+  "data": {
+    "mapName": "CalmDown",
+    "title": "Calm Down",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Rema",
+    "credits": "Written by Michael Ovie Hunter, Alexander Uwaifo, Divine Ikubor. Published by Sony Music Publishing (France) SAS, Blue Sky Publishing. Courtesy of Sony Music Publishing France. All rights reserved / MAVIN GLOBAL HOLDINGS LIMITED. All rights on behalf of MAVIN GLOBAL HOLDINGS LIMITED administered by WC Music Corp. Courtesy of Virgin Music Ltd. under license from Universal Music Enterprises.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ffcd75",
+    "songColor2A": "#e29eff",
+    "songColor1B": "#a04b18",
+    "songColor2B": "#7844e2",
+    "lyricsColor": "#2815c8",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CalmDown/nx/CalmDown_banner_bkg.tga.ckd/c6c4ae7f2ea4d02f93e03b7369dc8b64.ckd",
+      "map_bkgImageUrl": "/public/map/CalmDown/nx/CalmDown_map_bkg.tga.ckd/75d859b92baa6bc83b7403157df12801.ckd",
+      "expandCoachImageUrl": "/public/map/CalmDown/nx/CalmDown_Cover_AlbumCoach.tga.ckd/3eab8a74380231658dd1b11ca8c84dec.ckd",
+      "cover_smallImageUrl": "/public/map/CalmDown/nx/CalmDown_Cover_Online.tga.ckd/a5bd15780a5640d7af09bfcfcdea0e81.ckd",
+      "coverImageUrl": "/public/map/CalmDown/nx/CalmDown_Cover_Generic.tga.ckd/005c0f2b65efc6fd2719dc518cdde5ce.ckd",
+      "coach1ImageUrl": "/public/map/CalmDown/nx/CalmDown_Coach_1.tga.ckd/2ab3206308a8331e444e0ae656bd087e.ckd",
+      "coach2ImageUrl": "/public/map/CalmDown/nx/CalmDown_Coach_2.tga.ckd/de4a78f9551c8dd4ad43b97b9cf08e86.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CalmDown/pc/CalmDown_banner_bkg.tga.ckd/94ae2fb2138bc8dc8630cb0dc6959032.ckd",
+      "map_bkgImageUrl": "/public/map/CalmDown/pc/CalmDown_map_bkg.tga.ckd/5d598d567963e39e07c19b13c173c4a2.ckd",
+      "expandCoachImageUrl": "/public/map/CalmDown/pc/CalmDown_Cover_AlbumCoach.tga.ckd/82c16f70ffeb9616b4a8daa776fdc624.ckd",
+      "cover_smallImageUrl": "/public/map/CalmDown/pc/CalmDown_Cover_Online.tga.ckd/ed8f88c0e65228ec7935cbda9b865304.ckd",
+      "coverImageUrl": "/public/map/CalmDown/pc/CalmDown_Cover_Generic.tga.ckd/cefb9120a4fdcb1e03a04a86533f0ec1.ckd",
+      "coach1ImageUrl": "/public/map/CalmDown/pc/CalmDown_Coach_1.tga.ckd/d44cd56c213af5ba65b627ecdf331a72.ckd",
+      "coach2ImageUrl": "/public/map/CalmDown/pc/CalmDown_Coach_2.tga.ckd/b894ff7db31984cf3b8f21c7a5746a2c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CalmDown/orbis/CalmDown_banner_bkg.tga.ckd/94ae2fb2138bc8dc8630cb0dc6959032.ckd",
+      "map_bkgImageUrl": "/public/map/CalmDown/orbis/CalmDown_map_bkg.tga.ckd/5d598d567963e39e07c19b13c173c4a2.ckd",
+      "expandCoachImageUrl": "/public/map/CalmDown/orbis/CalmDown_Cover_AlbumCoach.tga.ckd/82c16f70ffeb9616b4a8daa776fdc624.ckd",
+      "cover_smallImageUrl": "/public/map/CalmDown/orbis/CalmDown_Cover_Online.tga.ckd/ed8f88c0e65228ec7935cbda9b865304.ckd",
+      "coverImageUrl": "/public/map/CalmDown/orbis/CalmDown_Cover_Generic.tga.ckd/cefb9120a4fdcb1e03a04a86533f0ec1.ckd",
+      "coach1ImageUrl": "/public/map/CalmDown/orbis/CalmDown_Coach_1.tga.ckd/d44cd56c213af5ba65b627ecdf331a72.ckd",
+      "coach2ImageUrl": "/public/map/CalmDown/orbis/CalmDown_Coach_2.tga.ckd/b894ff7db31984cf3b8f21c7a5746a2c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CalmDown/CalmDown_Coach_1_Phone.png/954ce0e799066bb584d7b7662f468d83.png",
+    "phoneCoach2ImageUrl": "/public/map/CalmDown/CalmDown_Coach_2_Phone.png/986b06fa2022fb363d8da80bd26c80d3.png",
+    "phoneCoverImageUrl": "/public/map/CalmDown/CalmDown_Cover_Phone.jpg/e766e53e016181f9bdef54b061c4857a.jpg",
+    "cover640ImageUrl": "/public/map/CalmDown/CalmDown_Cover_640.png/1ce7dc31008ad2452019ff9816e3fd99.png"
+  },
+  "mapLength": 222.056083
+}

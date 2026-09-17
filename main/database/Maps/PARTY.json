@@ -1,0 +1,176 @@
+{
+  "urls": {
+    "jmcs://jd-contents/PARTY/PARTY.ogg": "/private/map/PARTY/PARTY.ogg/8677dcef9738b3b49f06daaadca2305e.ogg",
+    "jmcs://jd-contents/PARTY/PARTY_AudioPreview.ogg": "/public/map/PARTY/PARTY_AudioPreview.ogg/7a7eb53a17f9466bd28b26ff14587eb2.ogg",
+    "jmcs://jd-contents/PARTY/PARTY_HIGH.hd.webm": "/private/map/PARTY/PARTY_HIGH.hd.webm/0f7ea53af53e8ee52c10c03484320c52.webm",
+    "jmcs://jd-contents/PARTY/PARTY_LOW.hd.webm": "/private/map/PARTY/PARTY_LOW.hd.webm/9499bd2d65eadc36691389966a80bf33.webm",
+    "jmcs://jd-contents/PARTY/PARTY_MID.hd.webm": "/private/map/PARTY/PARTY_MID.hd.webm/25c4874e11fde1fb4b18271abe2caa43.webm",
+    "jmcs://jd-contents/PARTY/PARTY_ULTRA.hd.webm": "/private/map/PARTY/PARTY_ULTRA.hd.webm/7d7b29530dd35697be8d3c6bc9498548.webm",
+    "jmcs://jd-contents/PARTY/PARTY_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PARTY/PARTY_MapPreviewNoSoundCrop_LOW.vp8.webm/b078c8d77549267e092551aa2fb566dc.webm",
+    "jmcs://jd-contents/PARTY/PARTY_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PARTY/PARTY_MapPreviewNoSoundCrop_MID.vp8.webm/5d9425302787b34f602b807a143dea54.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22857,
+        45714,
+        68571,
+        91429,
+        114286,
+        137143,
+        160000,
+        182857,
+        205714,
+        228571,
+        251429,
+        274286,
+        297143,
+        320000,
+        342857,
+        365714,
+        388571,
+        411429,
+        434286,
+        457143,
+        480000,
+        502857,
+        525714,
+        548571,
+        571429,
+        594286,
+        617143,
+        640000,
+        662857,
+        685714,
+        708571,
+        731429,
+        754286,
+        777143,
+        800000,
+        822857,
+        845714,
+        868571,
+        891429,
+        914286,
+        937143,
+        960000,
+        982857,
+        1005714,
+        1028571,
+        1051429,
+        1074286,
+        1097143,
+        1120000,
+        1142857,
+        1165714,
+        1188571,
+        1211429,
+        1234286,
+        1257143,
+        1280000,
+        1302857,
+        1325714,
+        1348571,
+        1371429,
+        1394286,
+        1417143,
+        1440000,
+        1462857,
+        1485714
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -17,
+      "endBeat": 447,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PARTY/PARTY_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "13b0426d61f600d6bc6d3e158eb75918",
+      "storageType": 0,
+      "url": "/public/map/PARTY/nx/PARTY_MAIN_SCENE_NX.zip/13b0426d61f600d6bc6d3e158eb75918.zip"
+    },
+    "pc": {
+      "md5": "e9add58b9924419b8cd36346e3d965f4",
+      "storageType": 0,
+      "url": "/public/map/PARTY/pc/PARTY_MAIN_SCENE_PC.zip/e9add58b9924419b8cd36346e3d965f4.zip"
+    },
+    "ps4": {
+      "md5": "9a11c3ba11268403c03fcfc8d3106371",
+      "storageType": 0,
+      "url": "/public/map/PARTY/orbis/PARTY_MAIN_SCENE_ORBIS.zip/9a11c3ba11268403c03fcfc8d3106371.zip"
+    }
+  },
+  "data": {
+    "mapName": "PARTY",
+    "title": "If You Wanna Party",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Just Dancers",
+    "credits": "Composed by Pablo San Martin, Tammy Infusino and Robert Bryan Lualhati. Produced by Pablo San Martin. Artists (singers): Jessica Morale as Brezziana, Red Robyn as Sara, Terrell Mackey as Jack Rose, Jon Paul Wallace as Wanderlust, Julia Zivic as Mihaly. All rights reserved. Used with permission. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#fabfff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PARTY/nx/PARTY_banner_bkg.tga.ckd/2745100391e54072270e168ff0dde21f.ckd",
+      "map_bkgImageUrl": "/public/map/PARTY/nx/PARTY_map_bkg.tga.ckd/d9df38219263d915995b39c666e3ec0b.ckd",
+      "expandCoachImageUrl": "/public/map/PARTY/nx/PARTY_Cover_AlbumCoach.tga.ckd/bdd606ab8a41d7d321e5a25dcc02f5d3.ckd",
+      "cover_smallImageUrl": "/public/map/PARTY/nx/PARTY_Cover_Online.tga.ckd/3b48e588eb3d8ad1f685fa0d47bb3a27.ckd",
+      "coverImageUrl": "/public/map/PARTY/nx/PARTY_Cover_Generic.tga.ckd/d08b853119b0e824dbd84edb851d7888.ckd",
+      "coach1ImageUrl": "/public/map/PARTY/nx/PARTY_Coach_1.tga.ckd/f018dd04b5d1101a8700070d656ababe.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PARTY/pc/PARTY_banner_bkg.tga.ckd/e700bda5b04371e1bbee1a729e6787a5.ckd",
+      "map_bkgImageUrl": "/public/map/PARTY/pc/PARTY_map_bkg.tga.ckd/4b2e24572041a18e0b35f6dd77d45daf.ckd",
+      "expandCoachImageUrl": "/public/map/PARTY/pc/PARTY_Cover_AlbumCoach.tga.ckd/973c6b5131cc7c7c60a6921e99d96a52.ckd",
+      "cover_smallImageUrl": "/public/map/PARTY/pc/PARTY_Cover_Online.tga.ckd/ddac334147062ad1b63ac29055828f27.ckd",
+      "coverImageUrl": "/public/map/PARTY/pc/PARTY_Cover_Generic.tga.ckd/e5552c397bfecbcd8e64f69a03095468.ckd",
+      "coach1ImageUrl": "/public/map/PARTY/pc/PARTY_Coach_1.tga.ckd/58af054082795f6f2483c367bc32428b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PARTY/orbis/PARTY_banner_bkg.tga.ckd/e700bda5b04371e1bbee1a729e6787a5.ckd",
+      "map_bkgImageUrl": "/public/map/PARTY/orbis/PARTY_map_bkg.tga.ckd/4b2e24572041a18e0b35f6dd77d45daf.ckd",
+      "expandCoachImageUrl": "/public/map/PARTY/orbis/PARTY_Cover_AlbumCoach.tga.ckd/973c6b5131cc7c7c60a6921e99d96a52.ckd",
+      "cover_smallImageUrl": "/public/map/PARTY/orbis/PARTY_Cover_Online.tga.ckd/ddac334147062ad1b63ac29055828f27.ckd",
+      "coverImageUrl": "/public/map/PARTY/orbis/PARTY_Cover_Generic.tga.ckd/e5552c397bfecbcd8e64f69a03095468.ckd",
+      "coach1ImageUrl": "/public/map/PARTY/orbis/PARTY_Coach_1.tga.ckd/58af054082795f6f2483c367bc32428b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PARTY/PARTY_Coach_1_Phone.png/58abc1360a92b26b8d9b887778e76d31.png",
+    "phoneCoverImageUrl": "/public/map/PARTY/PARTY_Cover_Phone.jpg/55b28d4c35dd9d2cc0eaa3572f24abf1.jpg",
+    "cover640ImageUrl": "/public/map/PARTY/PARTY_Cover_640.png/956ee25cde94fe44d766aec56b021ee2.png"
+  },
+  "mapLength": 220.882771
+}

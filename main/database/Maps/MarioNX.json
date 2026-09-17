@@ -1,0 +1,163 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "0fc4297037dad715e0a72c70d93f96a8",
+      "storageType": 0,
+      "url": "/public/map/MarioNX/nx/MarioNX_MAIN_SCENE_NX.zip/0fc4297037dad715e0a72c70d93f96a8.zip"
+    },
+    "pc": {
+      "md5": "76c7bbdfbb633b1631d4827371647e84",
+      "storageType": 0,
+      "url": "/public/map/MarioNX/pc/MarioNX_MAIN_SCENE_PC.zip/76c7bbdfbb633b1631d4827371647e84.zip"
+    },
+    "ps4": {
+      "md5": "420f70973017d637c5a3f7d3bff71ea8",
+      "storageType": 0,
+      "url": "/public/map/MarioNX/orbis/MarioNX_MAIN_SCENE_ORBIS.zip/420f70973017d637c5a3f7d3bff71ea8.zip"
+    }
+  },
+  "data": {
+    "mapName": "MarioNX",
+    "title": "Just Mario",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main",
+      "kidsmode",
+      "forcerumble"
+    ],
+    "artist": "Ubisoft Meets Nintendo",
+    "credits": "Music composed by Kōji Kondō. Arrangements by Steve Ouimette. \n SUPER MARIO characters and music © Nintendo. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#75ba26",
+    "songColor2A": "#7ea5f2",
+    "songColor1B": "#054643",
+    "songColor2B": "#284578",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28703,
+        57407,
+        86159,
+        114863,
+        143567,
+        172271,
+        200975,
+        229727,
+        258431,
+        287135,
+        315839,
+        344543,
+        373295,
+        401999,
+        430703,
+        459407,
+        488111,
+        516863,
+        545567,
+        574271,
+        602975,
+        631727,
+        660431,
+        689135,
+        717839,
+        746543,
+        775295,
+        803999,
+        832703,
+        861407,
+        890111,
+        918863,
+        947567,
+        976271,
+        1004975,
+        1033679,
+        1062431,
+        1091135,
+        1119839,
+        1148543,
+        1177247,
+        1205999,
+        1234703,
+        1263407,
+        1292111,
+        1320815,
+        1349567,
+        1378271,
+        1406974,
+        1435678,
+        1464382,
+        1493134
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 372,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MarioNX/MarioNX_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MarioNX/nx/MarioNX_banner_bkg.tga.ckd/b96a718ec559697d06e8c1b0137afe4c.ckd",
+      "map_bkgImageUrl": "/public/map/MarioNX/nx/MarioNX_map_bkg.tga.ckd/41f82feb9feb5fee55aa66c133fb656c.ckd",
+      "expandCoachImageUrl": "/public/map/MarioNX/nx/MarioNX_Cover_AlbumCoach.tga.ckd/de0b23aedd1a2be03be47a5b90d02f1d.ckd",
+      "cover_smallImageUrl": "/public/map/MarioNX/nx/MarioNX_Cover_Online.tga.ckd/795e5f3e60a0181e51551b5d3f02f440.ckd",
+      "coach1ImageUrl": "/public/map/MarioNX/nx/MarioNX_Coach_1.tga.ckd/6f6f33de9a5b5abd167c21b584daa6ff.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MarioNX/pc/MarioNX_banner_bkg.tga.ckd/27549524952b3fe6b357f5d83969ca37.ckd",
+      "map_bkgImageUrl": "/public/map/MarioNX/pc/MarioNX_map_bkg.tga.ckd/41facd55d109325271559679000f1e11.ckd",
+      "expandCoachImageUrl": "/public/map/MarioNX/pc/MarioNX_Cover_AlbumCoach.tga.ckd/deb8b9142e88dd81136f4391dc3a3e0f.ckd",
+      "cover_smallImageUrl": "/public/map/MarioNX/pc/MarioNX_Cover_Online.tga.ckd/7603de22e34babafc8964cc8f0a0b675.ckd",
+      "coach1ImageUrl": "/public/map/MarioNX/pc/MarioNX_Coach_1.tga.ckd/293f6cf421a1f234952d842050fe0a28.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MarioNX/orbis/MarioNX_banner_bkg.tga.ckd/27549524952b3fe6b357f5d83969ca37.ckd",
+      "map_bkgImageUrl": "/public/map/MarioNX/orbis/MarioNX_map_bkg.tga.ckd/41facd55d109325271559679000f1e11.ckd",
+      "expandCoachImageUrl": "/public/map/MarioNX/orbis/MarioNX_Cover_AlbumCoach.tga.ckd/deb8b9142e88dd81136f4391dc3a3e0f.ckd",
+      "cover_smallImageUrl": "/public/map/MarioNX/orbis/MarioNX_Cover_Online.tga.ckd/7603de22e34babafc8964cc8f0a0b675.ckd",
+      "coach1ImageUrl": "/public/map/MarioNX/orbis/MarioNX_Coach_1.tga.ckd/293f6cf421a1f234952d842050fe0a28.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MarioNX/MarioNX_Coach_1_Phone.png/0790aa8309a8fe67cb0c8410b316eaa4.png",
+    "phoneCoverImageUrl": "/public/map/MarioNX/MarioNX_Cover_Phone.jpg/493ab79cbe39e2454a5a2d91dd68aae5.jpg",
+    "cover640ImageUrl": "/public/map/MarioNX/MarioNX_Cover_640.png/0c4a22d9973e8f817c22c34e2d683f0f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MarioNX/MarioNX.ogg": "/private/map/MarioNX/MarioNX.ogg/611bb5a1bdba364c2723311f9b452b19.ogg",
+    "jmcs://jd-contents/MarioNX/MarioNX_AudioPreview.ogg": "/public/map/MarioNX/MarioNX_AudioPreview.ogg/6ef584ed5d7a306de19092a37b3d20e2.ogg",
+    "jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MarioNX/MarioNX_MapPreviewNoSoundCrop_LOW.vp8.webm/47dc09b2ba4238ba311f7bb54b8e0d1a.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_HIGH.webm": "/private/map/MarioNX/MarioNX_HIGH.webm/1eee334cca3b4aec425a8f4c8f8ec6f4.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_LOW.webm": "/private/map/MarioNX/MarioNX_LOW.webm/3b2a962450f91cb931fcce0001f727a1.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_MID.webm": "/private/map/MarioNX/MarioNX_MID.webm/04d835898828f5f4c4a2a61ae5a18173.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_ULTRA.hd.webm": "/private/map/MarioNX/MarioNX_ULTRA.hd.webm/c726662992b897f2ceac60dc912d6fc1.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_ULTRA.webm": "/private/map/MarioNX/MarioNX_ULTRA.webm/0556ae15db691a973036e1bcc55e484c.webm",
+    "jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MarioNX/MarioNX_MapPreviewNoSoundCrop_MID.vp8.webm/1c8c9d3673268b0310b063510b94c36e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"487973\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"621-1110\">\n\t\t\t\t\t<Initialization range=\"0-621\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1263045\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MarioNX/MarioNX_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\n\t\t\t\t\t<Initialization range=\"0-622\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 198.718854
+}

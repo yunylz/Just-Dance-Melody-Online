@@ -1,0 +1,156 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "bb10614ca00835ad4ece3f0da378c8cf",
+      "storageType": 0,
+      "url": "/public/map/Playground/nx/Playground_MAIN_SCENE_NX.zip/bb10614ca00835ad4ece3f0da378c8cf.zip"
+    },
+    "pc": {
+      "md5": "46b243d4dad6c3ff76422ebd5bf5053a",
+      "storageType": 0,
+      "url": "/public/map/Playground/pc/Playground_MAIN_SCENE_PC.zip/46b243d4dad6c3ff76422ebd5bf5053a.zip"
+    },
+    "ps4": {
+      "md5": "1163d6054ee9819a9ade8df8173c78f5",
+      "storageType": 0,
+      "url": "/public/map/Playground/orbis/Playground_MAIN_SCENE_ORBIS.zip/1163d6054ee9819a9ade8df8173c78f5.zip"
+    }
+  },
+  "data": {
+    "mapName": "Playground",
+    "title": "Playground",
+    "originalJDVersion": 2023,
+    "tags": [
+      "Solo",
+      "Easy",
+      "subscribedSong"
+    ],
+    "artist": "Bea Miller",
+    "credits": "Written by Kole Hicks, Sebastien Najand, Michael James Pitman, Alexander Seaver, Alexander Miller Temple, Richard Fraser Thomson, Jason Nicholas Walsh, Brendon Maurice Charles Williams. Published by BMG Gold Songs obo Riot Games Inc, BMG Platinum Songs US obo Songs by Riot Games Music Publishing / Peer Music LTD obo Alexander Seaver Music. Courtesy of Bea Miller with Hollywood Records & Riot Games Inc.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#eb815d",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        36599,
+        73198,
+        109797,
+        146395,
+        182994,
+        219593,
+        256192,
+        292791,
+        329390,
+        365988,
+        402587,
+        439186,
+        475785,
+        512384,
+        548983,
+        585582,
+        622180,
+        658779,
+        695378,
+        731977,
+        768576,
+        805175,
+        841774,
+        878372,
+        914971,
+        951570,
+        988169,
+        1024768,
+        1061367,
+        1097965,
+        1134564,
+        1171163,
+        1207762,
+        1244361,
+        1280960,
+        1317559,
+        1354157,
+        1390756,
+        1427355,
+        1463954,
+        1500553
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 305,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 39,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Playground/Playground_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Playground/nx/Playground_banner_bkg.tga.ckd/7e34972d3869f300cc5fcbff3c9d7f90.ckd",
+      "map_bkgImageUrl": "/public/map/Playground/nx/Playground_map_bkg.tga.ckd/a7edb0a83507ca5f1559a73c3fbe2fa3.ckd",
+      "expandCoachImageUrl": "/public/map/Playground/nx/Playground_Cover_AlbumCoach.tga.ckd/c6682eb94b43dd0275e6def7e2c91771.ckd",
+      "cover_smallImageUrl": "/public/map/Playground/nx/Playground_Cover_Online.tga.ckd/dab8a0d3f8cab00750ad52434c0c0a76.ckd",
+      "coverImageUrl": "/public/map/Playground/nx/Playground_Cover_Generic.tga.ckd/e017fc4806c362c9e1a36c99a84d0803.ckd",
+      "coach1ImageUrl": "/public/map/Playground/nx/Playground_Coach_1.tga.ckd/338666b218e77a508aebfef649d91848.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Playground/pc/Playground_banner_bkg.tga.ckd/62f6cff69ed673d6ca6920987896cced.ckd",
+      "map_bkgImageUrl": "/public/map/Playground/pc/Playground_map_bkg.tga.ckd/470a9b5bd507d3cf08c5a4f0b27cab4c.ckd",
+      "expandCoachImageUrl": "/public/map/Playground/pc/Playground_Cover_AlbumCoach.tga.ckd/047ab4160531c27af60b458646bb4924.ckd",
+      "cover_smallImageUrl": "/public/map/Playground/pc/Playground_Cover_Online.tga.ckd/205275cb10a80c76b26954deb76c45b9.ckd",
+      "coverImageUrl": "/public/map/Playground/pc/Playground_Cover_Generic.tga.ckd/db91a64212c4837c25a4c4c505c0dab5.ckd",
+      "coach1ImageUrl": "/public/map/Playground/pc/Playground_Coach_1.tga.ckd/9bde8fc45ce4c6b08b523a85116a62cc.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Playground/orbis/Playground_banner_bkg.tga.ckd/62f6cff69ed673d6ca6920987896cced.ckd",
+      "map_bkgImageUrl": "/public/map/Playground/orbis/Playground_map_bkg.tga.ckd/470a9b5bd507d3cf08c5a4f0b27cab4c.ckd",
+      "expandCoachImageUrl": "/public/map/Playground/orbis/Playground_Cover_AlbumCoach.tga.ckd/047ab4160531c27af60b458646bb4924.ckd",
+      "cover_smallImageUrl": "/public/map/Playground/orbis/Playground_Cover_Online.tga.ckd/205275cb10a80c76b26954deb76c45b9.ckd",
+      "coverImageUrl": "/public/map/Playground/orbis/Playground_Cover_Generic.tga.ckd/db91a64212c4837c25a4c4c505c0dab5.ckd",
+      "coach1ImageUrl": "/public/map/Playground/orbis/Playground_Coach_1.tga.ckd/9bde8fc45ce4c6b08b523a85116a62cc.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Playground/Playground_Coach_1_Phone.png/60251dedddedb566c9b931390f5241dd.png",
+    "phoneCoverImageUrl": "/public/map/Playground/Playground_Cover_Phone.jpg/b5038bfe22aed86660b1b851ab8f8161.jpg",
+    "cover640ImageUrl": "/public/map/Playground/Playground_Cover_640.png/df36cb16b58020698c0a583532c410fb.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Playground/Playground.ogg": "/private/map/Playground/Playground.ogg/81a9e43843f61adedc4030f02d933b9b.ogg",
+    "jmcs://jd-contents/Playground/Playground_AudioPreview.ogg": "/public/map/Playground/Playground_AudioPreview.ogg/091daea95a68d83925f233741b491a0c.ogg",
+    "jmcs://jd-contents/Playground/Playground_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Playground/Playground_MapPreviewNoSoundCrop_LOW.vp8.webm/58fc382d4aeb0fdbe894cdda015beb94.webm",
+    "jmcs://jd-contents/Playground/Playground_HIGH.webm": "/private/map/Playground/Playground_HIGH.webm/c47294153b05cee5460f85c8a61c46c7.webm",
+    "jmcs://jd-contents/Playground/Playground_LOW.webm": "/private/map/Playground/Playground_LOW.webm/532f28fc0d4089dd0f252e0787d6008a.webm",
+    "jmcs://jd-contents/Playground/Playground_MID.webm": "/private/map/Playground/Playground_MID.webm/ecd4435869069f5616caebb71739f510.webm",
+    "jmcs://jd-contents/Playground/Playground_ULTRA.hd.webm": "/private/map/Playground/Playground_ULTRA.hd.webm/81ac1f7f2698b8ac0700f9fc6b680d00.webm",
+    "jmcs://jd-contents/Playground/Playground_ULTRA.webm": "/private/map/Playground/Playground_ULTRA.webm/0fa8017b5e7abe79bceac3b83c6dcf12.webm",
+    "jmcs://jd-contents/Playground/Playground_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Playground/Playground_MapPreviewNoSoundCrop_MID.vp8.webm/2f6ea3bb829b1f0261e1ea4e21994881.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"507165\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Playground/Playground_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"665-1154\">\n\t\t\t\t\t<Initialization range=\"0-665\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1499238\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Playground/Playground_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"666-1156\">\n\t\t\t\t\t<Initialization range=\"0-666\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 237.13725
+}

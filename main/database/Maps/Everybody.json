@@ -1,0 +1,179 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Everybody/Everybody.ogg": "/private/map/Everybody/Everybody.ogg/3c0da130049abe543ff453cc5256d16e.ogg",
+    "jmcs://jd-contents/Everybody/Everybody_AudioPreview.ogg": "/public/map/Everybody/Everybody_AudioPreview.ogg/7fa8ff06a58e5251782a68d1065e3d4c.ogg",
+    "jmcs://jd-contents/Everybody/Everybody_HIGH.hd.webm": "/private/map/Everybody/Everybody_HIGH.hd.webm/47d954a79685f0fc16f03e898c2b5371.webm",
+    "jmcs://jd-contents/Everybody/Everybody_LOW.hd.webm": "/private/map/Everybody/Everybody_LOW.hd.webm/2e0acde8462eb48fb96c6f3871b4c9b6.webm",
+    "jmcs://jd-contents/Everybody/Everybody_MID.hd.webm": "/private/map/Everybody/Everybody_MID.hd.webm/fb0e6220192574a0a10abb89752250de.webm",
+    "jmcs://jd-contents/Everybody/Everybody_ULTRA.hd.webm": "/private/map/Everybody/Everybody_ULTRA.hd.webm/b8d63a423f22a864fb3d618d882c8b4a.webm",
+    "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp8.webm/4269b73e4d3f0751c9bebb4258692d24.webm",
+    "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp8.webm/f8ffcb205f9ff0d965005450debf3313.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26657,
+        53314,
+        79970,
+        106627,
+        133284,
+        159941,
+        186598,
+        213254,
+        239911,
+        266568,
+        293225,
+        319882,
+        346538,
+        373195,
+        399852,
+        426509,
+        453165,
+        479822,
+        506479,
+        533136,
+        559793,
+        586449,
+        613106,
+        639763,
+        666420,
+        693077,
+        719733,
+        746390,
+        773047,
+        799704,
+        826361,
+        853017,
+        879674,
+        906331,
+        932988,
+        959645,
+        986301,
+        1012958,
+        1039615,
+        1066272,
+        1092929,
+        1119585,
+        1146242,
+        1172899,
+        1199556,
+        1226213,
+        1252869,
+        1279526,
+        1306183,
+        1332840,
+        1359496,
+        1386153,
+        1412810,
+        1439467,
+        1466124,
+        1492780
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 405,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Everybody/Everybody_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "371e17c6f9df88fbd26ff3fced37ba1f",
+      "storageType": 0,
+      "url": "/public/map/Everybody/nx/Everybody_MAIN_SCENE_NX.zip/371e17c6f9df88fbd26ff3fced37ba1f.zip"
+    },
+    "pc": {
+      "md5": "5463823147cf1b771cbd874ea3da2008",
+      "storageType": 0,
+      "url": "/public/map/Everybody/pc/Everybody_MAIN_SCENE_PC.zip/5463823147cf1b771cbd874ea3da2008.zip"
+    },
+    "ps4": {
+      "md5": "5c26a5908b65c37035aedbc8801114eb",
+      "storageType": 0,
+      "url": "/public/map/Everybody/orbis/Everybody_MAIN_SCENE_ORBIS.zip/5c26a5908b65c37035aedbc8801114eb.zip"
+    }
+  },
+  "data": {
+    "mapName": "Everybody",
+    "title": "Everybody (Backstreet's Back)",
+    "originalJDVersion": 2020,
+    "tags": [
+      "main"
+    ],
+    "artist": "Backstreet Boys",
+    "credits": "Written by Max Martin and Dag Volle. Published by Kobalt Songs Music Publishing obo GV-MSM / GV-Maratone",
+    "coachCount": 4,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#2e0015",
+    "songColor2A": "#7552ff",
+    "songColor1B": "#a60b5b",
+    "songColor2B": "#6c0087",
+    "lyricsColor": "#22e9fe",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Everybody/nx/Everybody_banner_bkg.tga.ckd/c1f74625bdbc1a28893f8a35aa7e4d85.ckd",
+      "map_bkgImageUrl": "/public/map/Everybody/nx/Everybody_map_bkg.tga.ckd/922ac58d51a5c9bf31b40c5238255da4.ckd",
+      "expandCoachImageUrl": "/public/map/Everybody/nx/Everybody_Cover_AlbumCoach.tga.ckd/c7b7077be693480d76b1b281703cff9b.ckd",
+      "cover_smallImageUrl": "/public/map/Everybody/nx/Everybody_Cover_Online.tga.ckd/8b99e6d111d767187a18cc4d2e399bea.ckd",
+      "coverImageUrl": "/public/map/Everybody/nx/Everybody_Cover_Generic.tga.ckd/4e6c9820bff16e6454a6182912dede02.ckd",
+      "coach1ImageUrl": "/public/map/Everybody/nx/Everybody_Coach_1.tga.ckd/c803d3f46d9e8461786ff6fe00014d18.ckd",
+      "coach2ImageUrl": "/public/map/Everybody/nx/Everybody_Coach_2.tga.ckd/2c231ea2f37d11427c78603a7d4dc808.ckd",
+      "coach3ImageUrl": "/public/map/Everybody/nx/Everybody_Coach_3.tga.ckd/9b74fba285457124330d992f7ead570d.ckd",
+      "coach4ImageUrl": "/public/map/Everybody/nx/Everybody_Coach_4.tga.ckd/b373d671337ae1881c63648c795314ea.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Everybody/pc/Everybody_banner_bkg.tga.ckd/a4751d789cebb612cca8e9b25dbb78c3.ckd",
+      "map_bkgImageUrl": "/public/map/Everybody/pc/Everybody_map_bkg.tga.ckd/4442472451dab2d5a779497a8da1cb91.ckd",
+      "expandCoachImageUrl": "/public/map/Everybody/pc/Everybody_Cover_AlbumCoach.tga.ckd/f58a4092078e30525ad0734980a69bbe.ckd",
+      "cover_smallImageUrl": "/public/map/Everybody/pc/Everybody_Cover_Online.tga.ckd/fc2d62ca8701433f1dae61ef0fbd1f13.ckd",
+      "coverImageUrl": "/public/map/Everybody/pc/Everybody_Cover_Generic.tga.ckd/9e6325e982e90f987e9a468cf94cbdf7.ckd",
+      "coach1ImageUrl": "/public/map/Everybody/pc/Everybody_Coach_1.tga.ckd/9305d69c3e4c27ab7a8d982b49cb24c0.ckd",
+      "coach2ImageUrl": "/public/map/Everybody/pc/Everybody_Coach_2.tga.ckd/13f9fada3a4532a9dff368d076f0b85f.ckd",
+      "coach3ImageUrl": "/public/map/Everybody/pc/Everybody_Coach_3.tga.ckd/976e950c62428130e4ecdff6ebd90a2f.ckd",
+      "coach4ImageUrl": "/public/map/Everybody/pc/Everybody_Coach_4.tga.ckd/9e66c2b825433a54c38d006460354dcb.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Everybody/orbis/Everybody_banner_bkg.tga.ckd/a4751d789cebb612cca8e9b25dbb78c3.ckd",
+      "map_bkgImageUrl": "/public/map/Everybody/orbis/Everybody_map_bkg.tga.ckd/4442472451dab2d5a779497a8da1cb91.ckd",
+      "expandCoachImageUrl": "/public/map/Everybody/orbis/Everybody_Cover_AlbumCoach.tga.ckd/f58a4092078e30525ad0734980a69bbe.ckd",
+      "cover_smallImageUrl": "/public/map/Everybody/orbis/Everybody_Cover_Online.tga.ckd/fc2d62ca8701433f1dae61ef0fbd1f13.ckd",
+      "coverImageUrl": "/public/map/Everybody/orbis/Everybody_Cover_Generic.tga.ckd/9e6325e982e90f987e9a468cf94cbdf7.ckd",
+      "coach1ImageUrl": "/public/map/Everybody/orbis/Everybody_Coach_1.tga.ckd/9305d69c3e4c27ab7a8d982b49cb24c0.ckd",
+      "coach2ImageUrl": "/public/map/Everybody/orbis/Everybody_Coach_2.tga.ckd/13f9fada3a4532a9dff368d076f0b85f.ckd",
+      "coach3ImageUrl": "/public/map/Everybody/orbis/Everybody_Coach_3.tga.ckd/976e950c62428130e4ecdff6ebd90a2f.ckd",
+      "coach4ImageUrl": "/public/map/Everybody/orbis/Everybody_Coach_4.tga.ckd/9e66c2b825433a54c38d006460354dcb.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Everybody/Everybody_Coach_1_Phone.png/5ce9f310a5432aec99080890247bb05e.png",
+    "phoneCoach2ImageUrl": "/public/map/Everybody/Everybody_Coach_2_Phone.png/1a1ca67ecf0608edef7009f7004e9930.png",
+    "phoneCoach3ImageUrl": "/public/map/Everybody/Everybody_Coach_3_Phone.png/c2bf7f0ab089051bfe0fbc0941099b3a.png",
+    "phoneCoach4ImageUrl": "/public/map/Everybody/Everybody_Coach_4_Phone.png/568fa1b05a44b7eaf73ccca28feb5c03.png",
+    "phoneCoverImageUrl": "/public/map/Everybody/Everybody_Cover_Phone.jpg/88efee368d36a15b6e079304d2346d79.jpg",
+    "cover640ImageUrl": "/public/map/Everybody/Everybody_Cover_640.png/05615eb5804f2ff0dc6388efe9315740.png"
+  },
+  "mapLength": 228.424271
+}

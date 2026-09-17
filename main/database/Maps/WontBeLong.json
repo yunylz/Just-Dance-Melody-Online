@@ -1,0 +1,163 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c917791511effcd24d959906340916a8",
+      "storageType": 0,
+      "url": "/public/map/WontBeLong/nx/WontBeLong_MAIN_SCENE_NX.zip/c917791511effcd24d959906340916a8.zip"
+    },
+    "pc": {
+      "md5": "9cdb535664e986cbf9e0b9ae3b1210f5",
+      "storageType": 0,
+      "url": "/public/map/WontBeLong/pc/WontBeLong_MAIN_SCENE_PC.zip/9cdb535664e986cbf9e0b9ae3b1210f5.zip"
+    },
+    "ps4": {
+      "md5": "db412dd7dd48e6d32081d12d3b7bcc69",
+      "storageType": 0,
+      "url": "/public/map/WontBeLong/orbis/WontBeLong_MAIN_SCENE_ORBIS.zip/db412dd7dd48e6d32081d12d3b7bcc69.zip"
+    }
+  },
+  "data": {
+    "mapName": "WontBeLong",
+    "title": "WON'T BE LONG",
+    "originalJDVersion": 1000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "jdwii",
+      "JustDanceAsia",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "Exile & Koda Kumi",
+    "credits": "empty",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#3e9dc1",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        193200,
+        220896,
+        248592,
+        276240,
+        303936,
+        331632,
+        359328,
+        387024,
+        414720,
+        442416,
+        470112,
+        497808,
+        525456,
+        553152,
+        580848,
+        608544,
+        636240,
+        663936,
+        691632,
+        719328,
+        747024,
+        774672,
+        802368,
+        830064,
+        857760,
+        885456,
+        913152,
+        940848,
+        968544,
+        996240,
+        1023888,
+        1051584,
+        1079280,
+        1106976,
+        1134672,
+        1162368,
+        1190064,
+        1217760,
+        1245456,
+        1273152,
+        1300800,
+        1328496,
+        1356192,
+        1383888,
+        1411584,
+        1439280,
+        1466976,
+        1494672
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 430,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WontBeLong/WontBeLong_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WontBeLong/nx/WontBeLong_banner_bkg.tga.ckd/fa97e5814a9921bc26d5f8e91226f5e1.ckd",
+      "map_bkgImageUrl": "/public/map/WontBeLong/nx/WontBeLong_map_bkg.tga.ckd/4942b5d2b109d877143b2d9616245eb2.ckd",
+      "expandCoachImageUrl": "/public/map/WontBeLong/nx/WontBeLong_Cover_AlbumCoach.tga.ckd/56332f32e1f4bb0c84395300f1d27a31.ckd",
+      "cover_smallImageUrl": "/public/map/WontBeLong/nx/WontBeLong_Cover_Online.tga.ckd/4b9435c849173defa99bfe64b868811c.ckd",
+      "coach1ImageUrl": "/public/map/WontBeLong/nx/WontBeLong_Coach_1.tga.ckd/a6567a85f8e4f4fd1604efc29add48fb.ckd",
+      "coach2ImageUrl": "/public/map/WontBeLong/nx/WontBeLong_Coach_2.tga.ckd/e64f841823c63fef3a65ae63f9426c23.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WontBeLong/pc/WontBeLong_banner_bkg.tga.ckd/ae2025325fc00964e33fd1e400c74749.ckd",
+      "map_bkgImageUrl": "/public/map/WontBeLong/pc/WontBeLong_map_bkg.tga.ckd/b4b89a45c6a4de1dd54509a323ef9e37.ckd",
+      "expandCoachImageUrl": "/public/map/WontBeLong/pc/WontBeLong_Cover_AlbumCoach.tga.ckd/07a2ea3c066f3dd85121140311dc8e2c.ckd",
+      "cover_smallImageUrl": "/public/map/WontBeLong/pc/WontBeLong_Cover_Online.tga.ckd/72ddfa39b1720d407e58640ba43039e0.ckd",
+      "coach1ImageUrl": "/public/map/WontBeLong/pc/WontBeLong_Coach_1.tga.ckd/474e75918ae2690c3f66313266f070d2.ckd",
+      "coach2ImageUrl": "/public/map/WontBeLong/pc/WontBeLong_Coach_2.tga.ckd/ff3621c5a74f390fdb50f1119cdaa21b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WontBeLong/orbis/WontBeLong_banner_bkg.tga.ckd/ae2025325fc00964e33fd1e400c74749.ckd",
+      "map_bkgImageUrl": "/public/map/WontBeLong/orbis/WontBeLong_map_bkg.tga.ckd/b4b89a45c6a4de1dd54509a323ef9e37.ckd",
+      "expandCoachImageUrl": "/public/map/WontBeLong/orbis/WontBeLong_Cover_AlbumCoach.tga.ckd/07a2ea3c066f3dd85121140311dc8e2c.ckd",
+      "cover_smallImageUrl": "/public/map/WontBeLong/orbis/WontBeLong_Cover_Online.tga.ckd/72ddfa39b1720d407e58640ba43039e0.ckd",
+      "coach1ImageUrl": "/public/map/WontBeLong/orbis/WontBeLong_Coach_1.tga.ckd/474e75918ae2690c3f66313266f070d2.ckd",
+      "coach2ImageUrl": "/public/map/WontBeLong/orbis/WontBeLong_Coach_2.tga.ckd/ff3621c5a74f390fdb50f1119cdaa21b.ckd"
+    }
+  },
+  "urls": {
+    "jmcs://jd-contents/WontBeLong/WontBeLong.ogg": "/private/map/WontBeLong/WontBeLong.ogg/9218354d1724cb4cdff09018b2a0d8bc.ogg",
+    "jmcs://jd-contents/WontBeLong/WontBeLong_AudioPreview.ogg": "/public/map/WontBeLong/WontBeLong_AudioPreview.ogg/ee49f9e00c98140223d2ec553b3b9495.ogg",
+    "jmcs://jd-contents/WontBeLong/WontBeLong_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WontBeLong/WontBeLong_MapPreviewNoSoundCrop_LOW.vp8.webm/cf84471471037519352be415b4444780.webm",
+    "jmcs://jd-contents/WontBeLong/WontBeLong_HIGH.webm": "/private/map/WontBeLong/WontBeLong_HIGH.webm/68174d4567ba2d56b9d60665fece6755.webm",
+    "jmcs://jd-contents/WontBeLong/WontBeLong_LOW.webm": "/private/map/WontBeLong/WontBeLong_LOW.webm/1682b4735c25e19d9e25a88356fa3995.webm",
+    "jmcs://jd-contents/WontBeLong/WontBeLong_MID.webm": "/private/map/WontBeLong/WontBeLong_MID.webm/4113a0848eb77fdb26ca19b90eedd5cf.webm",
+    "jmcs://jd-contents/WontBeLong/WontBeLong_ULTRA.hd.webm": "/private/map/WontBeLong/WontBeLong_ULTRA.hd.webm/c8458a6d992c16d3a17711b3410682da.webm",
+    "jmcs://jd-contents/WontBeLong/WontBeLong_ULTRA.webm": "/private/map/WontBeLong/WontBeLong_ULTRA.webm/5f7b55ad0196ab63b5e96337b0a53d6c.webm",
+    "jmcs://jd-contents/WontBeLong/WontBeLong_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WontBeLong/WontBeLong_MapPreviewNoSoundCrop_MID.vp8.webm/ff347afe8d524f1c3c08cc7822063483.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500654\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WontBeLong/WontBeLong_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484149\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WontBeLong/WontBeLong_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 253.888
+}

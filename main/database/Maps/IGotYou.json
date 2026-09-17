@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "87cc37a3d3d7fe35a9690fdbec31c07a",
+      "storageType": 0,
+      "url": "/public/map/IGotYou/nx/IGotYou_MAIN_SCENE_NX.zip/87cc37a3d3d7fe35a9690fdbec31c07a.zip"
+    },
+    "pc": {
+      "md5": "d3bd03384c023732da76f0446d978615",
+      "storageType": 0,
+      "url": "/public/map/IGotYou/pc/IGotYou_MAIN_SCENE_PC.zip/d3bd03384c023732da76f0446d978615.zip"
+    },
+    "ps4": {
+      "md5": "a79f69164b858af21892f1c09c06bcbb",
+      "storageType": 0,
+      "url": "/public/map/IGotYou/orbis/IGotYou_MAIN_SCENE_ORBIS.zip/a79f69164b858af21892f1c09c06bcbb.zip"
+    }
+  },
+  "data": {
+    "mapName": "IGotYou",
+    "title": "I Got You (I Feel Good)",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "James Brown",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF0000",
+    "LocaleId": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        20304,
+        40560,
+        60864,
+        81120,
+        101424,
+        121680,
+        141984,
+        162240,
+        182544,
+        202800,
+        223104,
+        243360,
+        263664,
+        283968,
+        303312,
+        323616,
+        343344,
+        363600,
+        383280,
+        403536,
+        423840,
+        444096,
+        464064,
+        484368,
+        504624,
+        523728,
+        544032,
+        564288,
+        584592,
+        604848,
+        625152,
+        644016,
+        664320,
+        683616,
+        703872,
+        724176,
+        744432,
+        764736,
+        784992,
+        805296,
+        825552,
+        845856,
+        866112,
+        886416,
+        904608,
+        924864,
+        945168,
+        965424,
+        983952,
+        1004256,
+        1024512,
+        1044000,
+        1064304,
+        1086432,
+        1106736,
+        1126992,
+        1147296,
+        1167600,
+        1185984,
+        1206240,
+        1226544,
+        1244928,
+        1265232,
+        1285488,
+        1305792,
+        1326048,
+        1346352,
+        1366608,
+        1386912,
+        1408848,
+        1429152
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 406,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 71,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/igotyou/igotyou_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/IGotYou/nx/IGotYou_banner_bkg.tga.ckd/2b4bc4660dfbac5b71aa09e9767e61f6.ckd",
+      "map_bkgImageUrl": "/public/map/IGotYou/nx/IGotYou_map_bkg.tga.ckd/66894d9ffa71237464547aebbb2a4175.ckd",
+      "expandCoachImageUrl": "/public/map/IGotYou/nx/IGotYou_Cover_AlbumCoach.tga.ckd/6f1842736f77b340bc424ab4ddfa8734.ckd",
+      "cover_smallImageUrl": "/public/map/IGotYou/nx/IGotYou_Cover_Online.tga.ckd/3241eae359177917a261602f992bb455.ckd",
+      "coach1ImageUrl": "/public/map/IGotYou/nx/IGotYou_Coach_1.tga.ckd/ae82cc855822d726ec831f266623ba59.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/IGotYou/pc/IGotYou_banner_bkg.tga.ckd/f85d052c69fbeef54ea04fd92890f2b3.ckd",
+      "map_bkgImageUrl": "/public/map/IGotYou/pc/IGotYou_map_bkg.tga.ckd/d086cb4c3e97a48b64a9c01a1c8647c7.ckd",
+      "expandCoachImageUrl": "/public/map/IGotYou/pc/IGotYou_Cover_AlbumCoach.tga.ckd/e6a22118bef29a69045bed8bca59f7c6.ckd",
+      "cover_smallImageUrl": "/public/map/IGotYou/pc/IGotYou_Cover_Online.tga.ckd/48f1522534bd90da37ad3a169994c186.ckd",
+      "coach1ImageUrl": "/public/map/IGotYou/pc/IGotYou_Coach_1.tga.ckd/afde442cfb8899fe78cdaa33ac65d9f9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/IGotYou/orbis/IGotYou_banner_bkg.tga.ckd/f85d052c69fbeef54ea04fd92890f2b3.ckd",
+      "map_bkgImageUrl": "/public/map/IGotYou/orbis/IGotYou_map_bkg.tga.ckd/d086cb4c3e97a48b64a9c01a1c8647c7.ckd",
+      "expandCoachImageUrl": "/public/map/IGotYou/orbis/IGotYou_Cover_AlbumCoach.tga.ckd/e6a22118bef29a69045bed8bca59f7c6.ckd",
+      "cover_smallImageUrl": "/public/map/IGotYou/orbis/IGotYou_Cover_Online.tga.ckd/48f1522534bd90da37ad3a169994c186.ckd",
+      "coach1ImageUrl": "/public/map/IGotYou/orbis/IGotYou_Coach_1.tga.ckd/afde442cfb8899fe78cdaa33ac65d9f9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/IGotYou/IGotYou_Coach_1_Phone.png/8b9791d5e076e2bdc543b58b23076c4d.png",
+    "phoneCoverImageUrl": "/public/map/IGotYou/IGotYou_Cover_Phone.jpg/4bd3b61a5e2cc6bea131b56e1e7bfa3b.jpg",
+    "cover640ImageUrl": "/public/map/IGotYou/IGotYou_Cover_640.png/d7d2a0ca153c76d08da8efde5ff5a402.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/IGotYou/IGotYou.ogg": "/private/map/IGotYou/IGotYou.ogg/ae43218d3496be17ac530935b90a3c5b.ogg",
+    "jmcs://jd-contents/IGotYou/IGotYou_AudioPreview.ogg": "/public/map/IGotYou/IGotYou_AudioPreview.ogg/426f0ced666eff9d347c9144e9975765.ogg",
+    "jmcs://jd-contents/IGotYou/IGotYou_HIGH.webm": "/private/map/IGotYou/IGotYou_HIGH.webm/c772c3b4984a61336eaf3b614293726e.webm",
+    "jmcs://jd-contents/IGotYou/IGotYou_LOW.webm": "/private/map/IGotYou/IGotYou_LOW.webm/058aad340efbe6c79086bd0fb7f7079d.webm",
+    "jmcs://jd-contents/IGotYou/IGotYou_MID.webm": "/private/map/IGotYou/IGotYou_MID.webm/4ebd9fa035d2caad6d6f9dd3616d6de4.webm",
+    "jmcs://jd-contents/IGotYou/IGotYou_ULTRA.hd.webm": "/private/map/IGotYou/IGotYou_ULTRA.hd.webm/fd8e76c6f887c82012977a9a2344f14c.webm",
+    "jmcs://jd-contents/IGotYou/IGotYou_ULTRA.webm": "/private/map/IGotYou/IGotYou_ULTRA.webm/1678bcd0a6549d68473d616cb257e9cd.webm",
+    "jmcs://jd-contents/IGotYou/IGotYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/IGotYou/IGotYou_MapPreviewNoSoundCrop_LOW.vp8.webm/35f9b2d0a8ee0d4649c146fc6e5579fa.webm",
+    "jmcs://jd-contents/IGotYou/IGotYou_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/IGotYou/IGotYou_MapPreviewNoSoundCrop_MID.vp8.webm/d5996a35ad5eaed19cb6403454876e80.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"498445\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IGotYou/IGotYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1487822\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IGotYou/IGotYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 168.720979
+}

@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ed342a79efe5003339a6c999dfcc58b6",
+      "storageType": 0,
+      "url": "/public/map/KIDSTheHamsterDance/nx/KIDSTheHamsterDance_MAIN_SCENE_NX.zip/ed342a79efe5003339a6c999dfcc58b6.zip"
+    },
+    "pc": {
+      "md5": "efb4c955321d3a73feaf955791b6dd92",
+      "storageType": 0,
+      "url": "/public/map/KIDSTheHamsterDance/pc/KIDSTheHamsterDance_MAIN_SCENE_PC.zip/efb4c955321d3a73feaf955791b6dd92.zip"
+    },
+    "ps4": {
+      "md5": "3943e8d1e9f95803b9e7a71435a822ab",
+      "storageType": 0,
+      "url": "/public/map/KIDSTheHamsterDance/orbis/KIDSTheHamsterDance_MAIN_SCENE_ORBIS.zip/3943e8d1e9f95803b9e7a71435a822ab.zip"
+    }
+  },
+  "data": {
+    "mapName": "KIDSTheHamsterDance",
+    "title": "The Hamster Dance Song",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "The Just Dance Kids",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22223,
+        43391,
+        64559,
+        85727,
+        106895,
+        128063,
+        149279,
+        170447,
+        191615,
+        212783,
+        233951,
+        255119,
+        276335,
+        297503,
+        318671,
+        339839,
+        361007,
+        382223,
+        403391,
+        424559,
+        445727,
+        466895,
+        488063,
+        509279,
+        530447,
+        551615,
+        572783,
+        593951,
+        615119,
+        636335,
+        657503,
+        678671,
+        699839,
+        721007,
+        742223,
+        763391,
+        784559,
+        805727,
+        826895,
+        848063,
+        869279,
+        890447,
+        911615,
+        932783,
+        953951,
+        975119,
+        996335,
+        1017503,
+        1038671,
+        1059839,
+        1081007,
+        1102223,
+        1123391,
+        1144559,
+        1165727,
+        1186895,
+        1208063,
+        1229279,
+        1250447,
+        1271615,
+        1292783,
+        1313951,
+        1335119,
+        1356335,
+        1377503,
+        1398671,
+        1419839,
+        1441007,
+        1462223,
+        1483391
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 312,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 68,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/KIDSTheHamsterDance/nx/KIDSTheHamsterDance_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/KIDSTheHamsterDance/nx/KIDSTheHamsterDance_map_bkg.tga.ckd/feaf24a286cac99cc92753b47101338e.ckd",
+      "expandCoachImageUrl": "/public/map/KIDSTheHamsterDance/nx/KIDSTheHamsterDance_Cover_AlbumCoach.tga.ckd/f60a0bdcd8fae61f7b022c058e9be011.ckd",
+      "cover_smallImageUrl": "/public/map/KIDSTheHamsterDance/nx/KIDSTheHamsterDance_Cover_Online.tga.ckd/4acae06fdbe2c6739ca0e18ede7cf5d4.ckd",
+      "coach1ImageUrl": "/public/map/KIDSTheHamsterDance/nx/KIDSTheHamsterDance_Coach_1.tga.ckd/c1bf9a039db33024ea3bc0e105da3487.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/KIDSTheHamsterDance/pc/KIDSTheHamsterDance_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/KIDSTheHamsterDance/pc/KIDSTheHamsterDance_map_bkg.tga.ckd/a659b6386c5e5a207ab4416bfdbaf213.ckd",
+      "expandCoachImageUrl": "/public/map/KIDSTheHamsterDance/pc/KIDSTheHamsterDance_Cover_AlbumCoach.tga.ckd/489f2994ca1a35cb7aa673d4a52321a3.ckd",
+      "cover_smallImageUrl": "/public/map/KIDSTheHamsterDance/pc/KIDSTheHamsterDance_Cover_Online.tga.ckd/4e42115cb23778e065e2b5bce46e5ba6.ckd",
+      "coach1ImageUrl": "/public/map/KIDSTheHamsterDance/pc/KIDSTheHamsterDance_Coach_1.tga.ckd/85c63832fa0ee507bd72f406b9aeb6ae.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/KIDSTheHamsterDance/orbis/KIDSTheHamsterDance_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/KIDSTheHamsterDance/orbis/KIDSTheHamsterDance_map_bkg.tga.ckd/a659b6386c5e5a207ab4416bfdbaf213.ckd",
+      "expandCoachImageUrl": "/public/map/KIDSTheHamsterDance/orbis/KIDSTheHamsterDance_Cover_AlbumCoach.tga.ckd/489f2994ca1a35cb7aa673d4a52321a3.ckd",
+      "cover_smallImageUrl": "/public/map/KIDSTheHamsterDance/orbis/KIDSTheHamsterDance_Cover_Online.tga.ckd/4e42115cb23778e065e2b5bce46e5ba6.ckd",
+      "coach1ImageUrl": "/public/map/KIDSTheHamsterDance/orbis/KIDSTheHamsterDance_Coach_1.tga.ckd/85c63832fa0ee507bd72f406b9aeb6ae.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/KIDSTheHamsterDance/KIDSTheHamsterDance_Coach_1_Phone.png/dcb6eb20c4e31ca23ed7ef17f3391210.png",
+    "phoneCoverImageUrl": "/public/map/KIDSTheHamsterDance/KIDSTheHamsterDance_Cover_Phone.jpg/c19aae348cfbe478aaa20728df11c9cf.jpg",
+    "cover640ImageUrl": "/public/map/KIDSTheHamsterDance/KIDSTheHamsterDance_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance.ogg": "/private/map/KIDSTheHamsterDance/KIDSTheHamsterDance.ogg/1640ed1acc63424bffb90fc81666d378.ogg",
+    "jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance_AudioPreview.ogg": "/public/map/KIDSTheHamsterDance/KIDSTheHamsterDance_AudioPreview.ogg/b39e2f46ac84a534d53e9a0e70274c15.ogg",
+    "jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/KIDSTheHamsterDance/KIDSTheHamsterDance_MapPreviewNoSoundCrop_LOW.vp8.webm/429d5d3149a154bc492fbf934a93300f.webm",
+    "jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance_HIGH.webm": "/private/map/KIDSTheHamsterDance/KIDSTheHamsterDance_HIGH.webm/4b66a96d45b2860711b8c497eb0d6e93.webm",
+    "jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance_LOW.webm": "/private/map/KIDSTheHamsterDance/KIDSTheHamsterDance_LOW.webm/01e7d41dc25751d82d196a25ecdebebe.webm",
+    "jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance_MID.webm": "/private/map/KIDSTheHamsterDance/KIDSTheHamsterDance_MID.webm/e7b7845fc05c00827f91a27f0ee5a04a.webm",
+    "jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance_ULTRA.hd.webm": "/private/map/KIDSTheHamsterDance/KIDSTheHamsterDance_ULTRA.hd.webm/0f7843e89412ec528e507f0cab3d037e.webm",
+    "jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance_ULTRA.webm": "/private/map/KIDSTheHamsterDance/KIDSTheHamsterDance_ULTRA.webm/b03e81aaa3a70a080983fd9f7dcd5b70.webm",
+    "jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/KIDSTheHamsterDance/KIDSTheHamsterDance_MapPreviewNoSoundCrop_MID.vp8.webm/32100822ba1aaed3653442dc27d10fdb.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"506522\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\n\t\t\t\t\t<Initialization range=\"0-622\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1485304\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSTheHamsterDance/KIDSTheHamsterDance_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\n\t\t\t\t\t<Initialization range=\"0-623\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 137.461625
+}

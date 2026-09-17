@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "2c0ed9782f6d74e9d1759b50d222eab1",
+      "storageType": 0,
+      "url": "/public/map/ABBAVoulezVous/nx/ABBAVoulezVous_MAIN_SCENE_NX.zip/2c0ed9782f6d74e9d1759b50d222eab1.zip"
+    },
+    "pc": {
+      "md5": "4928e1c5fbb126662985fc775b3e9c17",
+      "storageType": 0,
+      "url": "/public/map/ABBAVoulezVous/pc/ABBAVoulezVous_MAIN_SCENE_PC.zip/4928e1c5fbb126662985fc775b3e9c17.zip"
+    },
+    "ps4": {
+      "md5": "2ab41cae172a8886ed9de7014adcaee7",
+      "storageType": 0,
+      "url": "/public/map/ABBAVoulezVous/orbis/ABBAVoulezVous_MAIN_SCENE_ORBIS.zip/2ab41cae172a8886ed9de7014adcaee7.zip"
+    }
+  },
+  "data": {
+    "mapName": "ABBAVoulezVous",
+    "title": "Voulez-Vous",
+    "originalJDVersion": 4884,
+    "tags": [
+      "main",
+      "jdabba"
+    ],
+    "artist": "ABBA",
+    "credits": "Written by Ulvaeus, Bjoern K.; Andersson, Benny Goran Bror. Published by Universal Music Publishing. Courtesy of Polydor Limited under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#feb500",
+    "songColor2A": "#fec800",
+    "songColor1B": "#333333",
+    "songColor2B": "#cd4f00",
+    "lyricsColor": "#ffcf1a",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        13919,
+        36624,
+        59280,
+        81984,
+        104640,
+        127295,
+        150000,
+        172656,
+        195360,
+        218016,
+        240719,
+        263376,
+        286080,
+        308544,
+        331056,
+        353568,
+        376080,
+        398544,
+        421056,
+        443568,
+        466032,
+        488544,
+        511056,
+        533568,
+        556032,
+        578736,
+        601392,
+        624096,
+        646752,
+        669456,
+        692112,
+        714768,
+        737472,
+        760128,
+        782831,
+        805488,
+        828191,
+        850848,
+        873552,
+        896208,
+        918864,
+        941903,
+        964944,
+        987936,
+        1010976,
+        1033680,
+        1056336,
+        1078992,
+        1101696,
+        1124352,
+        1147008,
+        1169712,
+        1192368,
+        1215024,
+        1237728,
+        1260384,
+        1283040,
+        1305744,
+        1328400,
+        1351056,
+        1373760,
+        1396608,
+        1419504,
+        1442400,
+        1465296,
+        1488192
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 542,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ABBAVoulezVous/nx/ABBAVoulezVous_banner_bkg.tga.ckd/9dfba8245bac6d3917ebd702dff9974b.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAVoulezVous/nx/ABBAVoulezVous_map_bkg.tga.ckd/cb3c6780559fd7b4fda840c02e5b6239.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAVoulezVous/nx/ABBAVoulezVous_Cover_AlbumCoach.tga.ckd/6fc5538544471d187d35b9f21e6322b9.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAVoulezVous/nx/ABBAVoulezVous_Cover_Online.tga.ckd/17469af115f7867611bb942d2edc2e82.ckd",
+      "coach1ImageUrl": "/public/map/ABBAVoulezVous/nx/ABBAVoulezVous_Coach_1.tga.ckd/5870acb432781f941449a255729bd4dd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ABBAVoulezVous/pc/ABBAVoulezVous_banner_bkg.tga.ckd/ebe8dce8acbefa98943d928a7d6ece0c.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAVoulezVous/pc/ABBAVoulezVous_map_bkg.tga.ckd/f95ff410dac34aa7abf3a68751301fdd.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAVoulezVous/pc/ABBAVoulezVous_Cover_AlbumCoach.tga.ckd/7c4640d46487ff4681ae138e6b1e2cf4.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAVoulezVous/pc/ABBAVoulezVous_Cover_Online.tga.ckd/687b03f625cab28dead028c43cdf1bf1.ckd",
+      "coach1ImageUrl": "/public/map/ABBAVoulezVous/pc/ABBAVoulezVous_Coach_1.tga.ckd/d168a058d85675910557dd5b5ada1049.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ABBAVoulezVous/orbis/ABBAVoulezVous_banner_bkg.tga.ckd/ebe8dce8acbefa98943d928a7d6ece0c.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAVoulezVous/orbis/ABBAVoulezVous_map_bkg.tga.ckd/f95ff410dac34aa7abf3a68751301fdd.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAVoulezVous/orbis/ABBAVoulezVous_Cover_AlbumCoach.tga.ckd/7c4640d46487ff4681ae138e6b1e2cf4.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAVoulezVous/orbis/ABBAVoulezVous_Cover_Online.tga.ckd/687b03f625cab28dead028c43cdf1bf1.ckd",
+      "coach1ImageUrl": "/public/map/ABBAVoulezVous/orbis/ABBAVoulezVous_Coach_1.tga.ckd/d168a058d85675910557dd5b5ada1049.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ABBAVoulezVous/ABBAVoulezVous_Coach_1_Phone.png/7ac4cd71236aff7e7ee12cc8c24c10ef.png",
+    "phoneCoverImageUrl": "/public/map/ABBAVoulezVous/ABBAVoulezVous_Cover_Phone.jpg/f16d0ea79339ac45647c34174ae3072e.jpg",
+    "cover640ImageUrl": "/public/map/ABBAVoulezVous/ABBAVoulezVous_Cover_640.png/4950d275b7da849493c56f3f001977eb.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous.ogg": "/private/map/ABBAVoulezVous/ABBAVoulezVous.ogg/adeb7be6fa182080db3c007965cdafd9.ogg",
+    "jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous_AudioPreview.ogg": "/public/map/ABBAVoulezVous/ABBAVoulezVous_AudioPreview.ogg/b34bf93d92c3e79ff1b789448ba8c1b9.ogg",
+    "jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ABBAVoulezVous/ABBAVoulezVous_MapPreviewNoSoundCrop_LOW.vp8.webm/99b41bdcadd550eceb81211a4568e2ae.webm",
+    "jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous_HIGH.webm": "/private/map/ABBAVoulezVous/ABBAVoulezVous_HIGH.webm/ef694dbd587c88f3a1f6d4de276c2766.webm",
+    "jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous_LOW.webm": "/private/map/ABBAVoulezVous/ABBAVoulezVous_LOW.webm/ce1b50c1092a0c6ac23f3ef08047cc47.webm",
+    "jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous_MID.webm": "/private/map/ABBAVoulezVous/ABBAVoulezVous_MID.webm/099135b0f76f9cf6875e17be934bd409.webm",
+    "jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous_ULTRA.hd.webm": "/private/map/ABBAVoulezVous/ABBAVoulezVous_ULTRA.hd.webm/08ebc6369cc64ca62c04c595a7839842.webm",
+    "jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous_ULTRA.webm": "/private/map/ABBAVoulezVous/ABBAVoulezVous_ULTRA.webm/af060c9849ff445e01d8e5cd4ccdfe38.webm",
+    "jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ABBAVoulezVous/ABBAVoulezVous_MapPreviewNoSoundCrop_MID.vp8.webm/2555697b3cbc7498b6cba5dbb448571c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"494109\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\n\t\t\t\t\t<Initialization range=\"0-646\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1330482\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAVoulezVous/ABBAVoulezVous_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 257.96
+}

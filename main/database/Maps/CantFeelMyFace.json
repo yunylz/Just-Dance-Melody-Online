@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "27c8cb65eb867baa6fcdbd35ce257fbd",
+      "storageType": 0,
+      "url": "/public/map/CantFeelMyFace/nx/CantFeelMyFace_MAIN_SCENE_NX.zip/27c8cb65eb867baa6fcdbd35ce257fbd.zip"
+    },
+    "pc": {
+      "md5": "1501b3d497a7bbc5ed0f2c21f8ed0731",
+      "storageType": 0,
+      "url": "/public/map/CantFeelMyFace/pc/CantFeelMyFace_MAIN_SCENE_PC.zip/1501b3d497a7bbc5ed0f2c21f8ed0731.zip"
+    },
+    "ps4": {
+      "md5": "fdd1592ee6562d50d7f1c067210c89bb",
+      "storageType": 0,
+      "url": "/public/map/CantFeelMyFace/orbis/CantFeelMyFace_MAIN_SCENE_ORBIS.zip/fdd1592ee6562d50d7f1c067210c89bb.zip"
+    }
+  },
+  "data": {
+    "mapName": "CantFeelMyFace",
+    "title": "Can't Feel My Face",
+    "originalJDVersion": 2017,
+    "tags": [
+      "cool",
+      "subscribedSong",
+      "JustDance2017",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "The Weeknd",
+    "credits": "Written by Peter Svensson, Max Martin, Savan Kotecha, Ali Payami and Abel Tesfaye. Published by Songs Music Publishing, LLC. o/b/o Songs of SMP (ASCAP) / WB Music Corp. obo Warner/Chappell Music Scandinavia AB. / MXM Music AB Administered by Kobalt Music Publishing America, Inc. Courtesy of The Weeknd XO & Republic Records under license from Universal Music Enterprises.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00a061",
+    "songColor2A": "#ff9c5a",
+    "songColor1B": "#000049",
+    "songColor2B": "#65006d",
+    "lyricsColor": "#f61f87",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26687,
+        53327,
+        80015,
+        106655,
+        133343,
+        159983,
+        186671,
+        213311,
+        239999,
+        266687,
+        293327,
+        320015,
+        346655,
+        373343,
+        399983,
+        426671,
+        453311,
+        479999,
+        506687,
+        533327,
+        560015,
+        586655,
+        613343,
+        639982,
+        666670,
+        693310,
+        719998,
+        746686,
+        773326,
+        800014,
+        826654,
+        853342,
+        879982,
+        906670,
+        933310,
+        959998,
+        986686,
+        1013326,
+        1040014,
+        1066654,
+        1093342,
+        1119982,
+        1146670,
+        1173310,
+        1199998,
+        1226686,
+        1253326,
+        1280013,
+        1306653,
+        1333341,
+        1359981,
+        1386669,
+        1413309,
+        1439997,
+        1466685,
+        1493325
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 380,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CantFeelMyFace/nx/CantFeelMyFace_banner_bkg.tga.ckd/a5fce5db5367d88f0feb31478503eb11.ckd",
+      "map_bkgImageUrl": "/public/map/CantFeelMyFace/nx/CantFeelMyFace_map_bkg.tga.ckd/48ab0ebebbe919925f9948cc0dc58373.ckd",
+      "expandCoachImageUrl": "/public/map/CantFeelMyFace/nx/CantFeelMyFace_Cover_AlbumCoach.tga.ckd/2a562c608b3bb9cdfe73bcada1cb9bed.ckd",
+      "cover_smallImageUrl": "/public/map/CantFeelMyFace/nx/CantFeelMyFace_Cover_Online.tga.ckd/268860439a02add4f7ff14dfc660f39e.ckd",
+      "coverImageUrl": "/public/map/CantFeelMyFace/nx/CantFeelMyFace_Cover_Generic.tga.ckd/08c06b691e8c1fceb8b51c86d055f67e.ckd",
+      "coach1ImageUrl": "/public/map/CantFeelMyFace/nx/CantFeelMyFace_Coach_1.tga.ckd/d89aaac480b7c15b00c4a22baffb9c3b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CantFeelMyFace/pc/CantFeelMyFace_banner_bkg.tga.ckd/41922dc066ff912ebec23ff68b62126b.ckd",
+      "map_bkgImageUrl": "/public/map/CantFeelMyFace/pc/CantFeelMyFace_map_bkg.tga.ckd/9b02ef67b31d81beb61a4f441cc14953.ckd",
+      "expandCoachImageUrl": "/public/map/CantFeelMyFace/pc/CantFeelMyFace_Cover_AlbumCoach.tga.ckd/00817ea4ff09145f19356fa5163c5bed.ckd",
+      "cover_smallImageUrl": "/public/map/CantFeelMyFace/pc/CantFeelMyFace_Cover_Online.tga.ckd/67bf7034821e8840b1c0d3dd9137f916.ckd",
+      "coverImageUrl": "/public/map/CantFeelMyFace/pc/CantFeelMyFace_Cover_Generic.tga.ckd/54376e4a018a2d14e4eaf88093af571a.ckd",
+      "coach1ImageUrl": "/public/map/CantFeelMyFace/pc/CantFeelMyFace_Coach_1.tga.ckd/c8a47f880dadd14d881994d4009cc132.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CantFeelMyFace/orbis/CantFeelMyFace_banner_bkg.tga.ckd/41922dc066ff912ebec23ff68b62126b.ckd",
+      "map_bkgImageUrl": "/public/map/CantFeelMyFace/orbis/CantFeelMyFace_map_bkg.tga.ckd/9b02ef67b31d81beb61a4f441cc14953.ckd",
+      "expandCoachImageUrl": "/public/map/CantFeelMyFace/orbis/CantFeelMyFace_Cover_AlbumCoach.tga.ckd/00817ea4ff09145f19356fa5163c5bed.ckd",
+      "cover_smallImageUrl": "/public/map/CantFeelMyFace/orbis/CantFeelMyFace_Cover_Online.tga.ckd/67bf7034821e8840b1c0d3dd9137f916.ckd",
+      "coverImageUrl": "/public/map/CantFeelMyFace/orbis/CantFeelMyFace_Cover_Generic.tga.ckd/54376e4a018a2d14e4eaf88093af571a.ckd",
+      "coach1ImageUrl": "/public/map/CantFeelMyFace/orbis/CantFeelMyFace_Coach_1.tga.ckd/c8a47f880dadd14d881994d4009cc132.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CantFeelMyFace/CantFeelMyFace_Coach_1_Phone.png/8311840c5f5b18a1eeb058f5fb445d5e.png",
+    "phoneCoverImageUrl": "/public/map/CantFeelMyFace/CantFeelMyFace_Cover_Phone.jpg/aa1b468088c0c4da24be35555991bfe1.jpg",
+    "cover640ImageUrl": "/public/map/CantFeelMyFace/CantFeelMyFace_Cover_640.png/ed6f2cdcb8883dcee206ac015bd500a9.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace.ogg": "/private/map/CantFeelMyFace/CantFeelMyFace.ogg/96222e756cf847cc606a344f3f4595e3.ogg",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_AudioPreview.ogg": "/public/map/CantFeelMyFace/CantFeelMyFace_AudioPreview.ogg/f84638c37109c73c13d4d95529b759a6.ogg",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_LOW.vp8.webm/67098eddcaf0b895a4029c14adf35496.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_HIGH.webm": "/private/map/CantFeelMyFace/CantFeelMyFace_HIGH.webm/3a77d135a92354d2c6d606be077cc643.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_LOW.webm": "/private/map/CantFeelMyFace/CantFeelMyFace_LOW.webm/7aa34e58d13fc99b02d62463ed0415a3.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MID.webm": "/private/map/CantFeelMyFace/CantFeelMyFace_MID.webm/2219d90e1fb2fc6c3fe0f43a69ad5261.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_ULTRA.hd.webm": "/private/map/CantFeelMyFace/CantFeelMyFace_ULTRA.hd.webm/1db707085d2c22c799a5bbc922b3a781.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_ULTRA.webm": "/private/map/CantFeelMyFace/CantFeelMyFace_ULTRA.webm/53e7a0a177dc5fa7f690d10fc69604fe.webm",
+    "jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_MID.vp8.webm/1851209e30de29b5ddbc48b76831b279.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495965\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"638-1127\">\n\t\t\t\t\t<Initialization range=\"0-638\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1417941\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantFeelMyFace/CantFeelMyFace_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\n\t\t\t\t\t<Initialization range=\"0-639\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 213.889667
+}

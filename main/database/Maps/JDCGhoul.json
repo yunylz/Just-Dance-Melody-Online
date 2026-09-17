@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d8da1ed9450affb3a616340d295c1346",
+      "storageType": 0,
+      "url": "/public/map/JDCGhoul/nx/JDCGhoul_MAIN_SCENE_NX.zip/d8da1ed9450affb3a616340d295c1346.zip"
+    },
+    "pc": {
+      "md5": "2a11deaede02cf88095699d3bb5b5ed8",
+      "storageType": 0,
+      "url": "/public/map/JDCGhoul/pc/JDCGhoul_MAIN_SCENE_PC.zip/2a11deaede02cf88095699d3bb5b5ed8.zip"
+    },
+    "ps4": {
+      "md5": "ac5f46fc44542d1bc97e65061cb8d3d7",
+      "storageType": 0,
+      "url": "/public/map/JDCGhoul/orbis/JDCGhoul_MAIN_SCENE_ORBIS.zip/ac5f46fc44542d1bc97e65061cb8d3d7.zip"
+    }
+  },
+  "data": {
+    "mapName": "JDCGhoul",
+    "title": "It's My Orbit (官方完整版)",
+    "originalJDVersion": 1103,
+    "tags": [
+      "subscribedSong",
+      "JustDanceAsia",
+      "Trio",
+      "Easy"
+    ],
+    "artist": "Zhang Yanqi & Veegee & Zhao Rui (張顏齊×徐若僑×趙睿)",
+    "credits": "EMPTY",
+    "coachCount": 3,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23802,
+        47603,
+        71405,
+        95207,
+        119008,
+        142810,
+        166612,
+        190413,
+        214215,
+        238017,
+        261818,
+        285620,
+        309421,
+        333223,
+        357025,
+        380826,
+        404628,
+        428430,
+        452231,
+        476033,
+        499835,
+        523636,
+        547438,
+        571240,
+        595041,
+        618843,
+        642645,
+        666446,
+        690248,
+        714050,
+        737851,
+        761653,
+        785455,
+        809256,
+        833058,
+        856860,
+        880661,
+        904463,
+        928264,
+        952066,
+        975868,
+        999669,
+        1023471,
+        1047273,
+        1071074,
+        1094876,
+        1118678,
+        1142479,
+        1166281,
+        1190083,
+        1213884,
+        1237686,
+        1261488,
+        1285289,
+        1309091,
+        1332893,
+        1356694,
+        1380496,
+        1404298,
+        1428099,
+        1451901,
+        1475702
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 379,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JDCGhoul/JDCGhoul_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JDCGhoul/nx/JDCGhoul_banner_bkg.tga.ckd/735eecc04a64c8dbd09bd2a7edeec226.ckd",
+      "map_bkgImageUrl": "/public/map/JDCGhoul/nx/JDCGhoul_map_bkg.tga.ckd/116e8cb13eef89516267b48ef126c349.ckd",
+      "expandCoachImageUrl": "/public/map/JDCGhoul/nx/JDCGhoul_Cover_AlbumCoach.tga.ckd/7c34ea52eef9e6ac995ae90655e81b27.ckd",
+      "cover_smallImageUrl": "/public/map/JDCGhoul/nx/JDCGhoul_Cover_Online.tga.ckd/b2b3a02cb04e302ea68d1c02105cf57e.ckd",
+      "coach1ImageUrl": "/public/map/JDCGhoul/nx/JDCGhoul_Coach_1.tga.ckd/c5f6581b482c4e035647ad2dd8574aed.ckd",
+      "coach2ImageUrl": "/public/map/JDCGhoul/nx/JDCGhoul_Coach_2.tga.ckd/f33f55189fef09ddca125cef33225ca3.ckd",
+      "coach3ImageUrl": "/public/map/JDCGhoul/nx/JDCGhoul_Coach_3.tga.ckd/0090877d890bc8ac9d78a3bbf6c964ed.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JDCGhoul/pc/JDCGhoul_banner_bkg.tga.ckd/113cfc89aeaf234f7b22425d739bec5a.ckd",
+      "map_bkgImageUrl": "/public/map/JDCGhoul/pc/JDCGhoul_map_bkg.tga.ckd/d542e08016c1d455ef1dc307c9f0de29.ckd",
+      "expandCoachImageUrl": "/public/map/JDCGhoul/pc/JDCGhoul_Cover_AlbumCoach.tga.ckd/32178fbdba77222aca5873538ed3d103.ckd",
+      "cover_smallImageUrl": "/public/map/JDCGhoul/pc/JDCGhoul_Cover_Online.tga.ckd/4b425f0326a9b8b662d5fac24e20f6c7.ckd",
+      "coach1ImageUrl": "/public/map/JDCGhoul/pc/JDCGhoul_Coach_1.tga.ckd/950cf6328362d68dede1252756849e21.ckd",
+      "coach2ImageUrl": "/public/map/JDCGhoul/pc/JDCGhoul_Coach_2.tga.ckd/9b5fbe16ba192138c77daef9138b6d96.ckd",
+      "coach3ImageUrl": "/public/map/JDCGhoul/pc/JDCGhoul_Coach_3.tga.ckd/3c878cfbe17969e0ace502400bb0fffd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JDCGhoul/orbis/JDCGhoul_banner_bkg.tga.ckd/113cfc89aeaf234f7b22425d739bec5a.ckd",
+      "map_bkgImageUrl": "/public/map/JDCGhoul/orbis/JDCGhoul_map_bkg.tga.ckd/d542e08016c1d455ef1dc307c9f0de29.ckd",
+      "expandCoachImageUrl": "/public/map/JDCGhoul/orbis/JDCGhoul_Cover_AlbumCoach.tga.ckd/32178fbdba77222aca5873538ed3d103.ckd",
+      "cover_smallImageUrl": "/public/map/JDCGhoul/orbis/JDCGhoul_Cover_Online.tga.ckd/4b425f0326a9b8b662d5fac24e20f6c7.ckd",
+      "coach1ImageUrl": "/public/map/JDCGhoul/orbis/JDCGhoul_Coach_1.tga.ckd/950cf6328362d68dede1252756849e21.ckd",
+      "coach2ImageUrl": "/public/map/JDCGhoul/orbis/JDCGhoul_Coach_2.tga.ckd/9b5fbe16ba192138c77daef9138b6d96.ckd",
+      "coach3ImageUrl": "/public/map/JDCGhoul/orbis/JDCGhoul_Coach_3.tga.ckd/3c878cfbe17969e0ace502400bb0fffd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JDCGhoul/JDCGhoul_Coach_1_Phone.png/bfb9ccb6deea33bfa199aeed28365021.png",
+    "phoneCoach2ImageUrl": "/public/map/JDCGhoul/JDCGhoul_Coach_2_Phone.png/96537f626a9149a9e79955b9252a13ab.png",
+    "phoneCoach3ImageUrl": "/public/map/JDCGhoul/JDCGhoul_Coach_3_Phone.png/75c8280d4f0168acb80ed7d74b02f0a0.png",
+    "phoneCoverImageUrl": "/public/map/JDCGhoul/JDCGhoul_Cover_Phone.jpg/9abffc7908d7e8f312266740aafa936e.jpg",
+    "cover640ImageUrl": "/public/map/JDCGhoul/JDCGhoul_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul.ogg": "/private/map/JDCGhoul/JDCGhoul.ogg/4f7b221a240bd0ce2baee647e1d59d75.ogg",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_AudioPreview.ogg": "/public/map/JDCGhoul/JDCGhoul_AudioPreview.ogg/c2de3b91a1c304cd3265fe3ebfafee56.ogg",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_HIGH.webm": "/private/map/JDCGhoul/JDCGhoul_HIGH.webm/c4b9e9cfb580aa4404668c6f5fe4dd6f.webm",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_LOW.webm": "/private/map/JDCGhoul/JDCGhoul_LOW.webm/a72b9fbf407004f761a52838db65658f.webm",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_MID.webm": "/private/map/JDCGhoul/JDCGhoul_MID.webm/cc6fcd5431d5c57eb940a4dce55bde99.webm",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_ULTRA.hd.webm": "/private/map/JDCGhoul/JDCGhoul_ULTRA.hd.webm/b322fea6ce3cfe4c31b35656944fa8fd.webm",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_ULTRA.webm": "/private/map/JDCGhoul/JDCGhoul_ULTRA.webm/020b781335940ea13e955c2caf374b36.webm",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JDCGhoul/JDCGhoul_MapPreviewNoSoundCrop_LOW.vp8.webm/1f8bc194a1ef3539eda4e285b0b5d239.webm",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JDCGhoul/JDCGhoul_MapPreviewNoSoundCrop_MID.vp8.webm/f671aca1795c636c341fbf0c74610f76.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496232\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGhoul/JDCGhoul_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\n\t\t\t\t\t<Initialization range=\"0-646\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480296\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGhoul/JDCGhoul_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 187.438021
+}

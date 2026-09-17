@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "36b4c65f8445b595a3942aa61d085b6c",
+      "storageType": 0,
+      "url": "/public/map/CureForMe/nx/CureForMe_MAIN_SCENE_NX.zip/36b4c65f8445b595a3942aa61d085b6c.zip"
+    },
+    "pc": {
+      "md5": "3574b643edce9a45f4f4fb655fab520d",
+      "storageType": 0,
+      "url": "/public/map/CureForMe/pc/CureForMe_MAIN_SCENE_PC.zip/3574b643edce9a45f4f4fb655fab520d.zip"
+    },
+    "ps4": {
+      "md5": "1e57fd76350ed0afab4a79be4a36dee6",
+      "storageType": 0,
+      "url": "/public/map/CureForMe/orbis/CureForMe_MAIN_SCENE_ORBIS.zip/1e57fd76350ed0afab4a79be4a36dee6.zip"
+    }
+  },
+  "data": {
+    "mapName": "CureForMe",
+    "title": "Cure For Me",
+    "originalJDVersion": 2024,
+    "tags": [
+      "Alternate",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "AURORA",
+    "credits": "Written by Aurora Aksnes, Magnus Aserud Skylstad. Published by Budde Music Publishing / Ultra International Music Publishing. Courtesy of Glassnote Entertainment Group LLC.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#FF7CC3",
+    "songColor2A": "#FFE78C",
+    "songColor1B": "#424AA5",
+    "songColor2B": "#AF74D6",
+    "lyricsColor": "#FF991A",
+    "LocaleID": 20003365
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24828,
+        49655,
+        74483,
+        99311,
+        124138,
+        148966,
+        173793,
+        198621,
+        223448,
+        248276,
+        273104,
+        297931,
+        322759,
+        347586,
+        372414,
+        397242,
+        422069,
+        446897,
+        471724,
+        496552,
+        521380,
+        546207,
+        571035,
+        595862,
+        620690,
+        645517,
+        670345,
+        695173,
+        720000,
+        744828,
+        769655,
+        794483,
+        819311,
+        844138,
+        868966,
+        893793,
+        918621,
+        943448,
+        968276,
+        993104,
+        1017931,
+        1042759,
+        1067586,
+        1092414,
+        1117242,
+        1142069,
+        1166897,
+        1191724,
+        1216552,
+        1241380,
+        1266207,
+        1291035,
+        1315862,
+        1340690,
+        1365517,
+        1390345,
+        1415173,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 396,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CureForMe/CureForMe_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CureForMe/nx/CureForMe_banner_bkg.tga.ckd/2f7fb233737a2b919441a25771142e2d.ckd",
+      "map_bkgImageUrl": "/public/map/CureForMe/nx/CureForMe_map_bkg.tga.ckd/3356571ad47ecd2172cfcc5ade3a4bce.ckd",
+      "expandCoachImageUrl": "/public/map/CureForMe/nx/CureForMe_Cover_AlbumCoach.tga.ckd/90bf9d7dbe38bf1517926f74d5f75f91.ckd",
+      "cover_smallImageUrl": "/public/map/CureForMe/nx/CureForMe_Cover_Online.tga.ckd/3dc3ee2349a838f71868fbdbecda5d7f.ckd",
+      "coverImageUrl": "/public/map/CureForMe/nx/CureForMe_Cover_Generic.tga.ckd/eaae8b2bf320604c6b0de11ed6c3220f.ckd",
+      "coach1ImageUrl": "/public/map/CureForMe/nx/CureForMe_Coach_1.tga.ckd/3e8d637f9c616458986c0531fcf8264c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CureForMe/pc/CureForMe_banner_bkg.tga.ckd/8c036b927b022dacd897d6f8779bb2e9.ckd",
+      "map_bkgImageUrl": "/public/map/CureForMe/pc/CureForMe_map_bkg.tga.ckd/93cea8a1ed8ab93d758efbc65308611a.ckd",
+      "expandCoachImageUrl": "/public/map/CureForMe/pc/CureForMe_Cover_AlbumCoach.tga.ckd/d1462e21bdc192f2844374c264b5410c.ckd",
+      "cover_smallImageUrl": "/public/map/CureForMe/pc/CureForMe_Cover_Online.tga.ckd/71ba5453e6fb750b1daf14412638659d.ckd",
+      "coverImageUrl": "/public/map/CureForMe/pc/CureForMe_Cover_Generic.tga.ckd/47f6f85a63ecb0604e18bf16e1ca79ce.ckd",
+      "coach1ImageUrl": "/public/map/CureForMe/pc/CureForMe_Coach_1.tga.ckd/c498f998655ec5823ffb411da4e10a18.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CureForMe/orbis/CureForMe_banner_bkg.tga.ckd/8c036b927b022dacd897d6f8779bb2e9.ckd",
+      "map_bkgImageUrl": "/public/map/CureForMe/orbis/CureForMe_map_bkg.tga.ckd/93cea8a1ed8ab93d758efbc65308611a.ckd",
+      "expandCoachImageUrl": "/public/map/CureForMe/orbis/CureForMe_Cover_AlbumCoach.tga.ckd/d1462e21bdc192f2844374c264b5410c.ckd",
+      "cover_smallImageUrl": "/public/map/CureForMe/orbis/CureForMe_Cover_Online.tga.ckd/71ba5453e6fb750b1daf14412638659d.ckd",
+      "coverImageUrl": "/public/map/CureForMe/orbis/CureForMe_Cover_Generic.tga.ckd/47f6f85a63ecb0604e18bf16e1ca79ce.ckd",
+      "coach1ImageUrl": "/public/map/CureForMe/orbis/CureForMe_Coach_1.tga.ckd/c498f998655ec5823ffb411da4e10a18.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CureForMe/CureForMe_Coach_1_Phone.png/9161f312403c85a3502409ea7c0df168.png",
+    "phoneCoverImageUrl": "/public/map/CureForMe/CureForMe_Cover_Phone.jpg/b0ac5fd7425a54f66e5c084777b182df.jpg",
+    "cover640ImageUrl": "/public/map/CureForMe/CureForMe_Cover_640.png/118f4acbcec17c86a0addf299e16bdb6.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/CureForMe/CureForMe.ogg": "/private/map/CureForMe/CureForMe.ogg/4d41dabe155b014433435e3b1394730e.ogg",
+    "jmcs://jd-contents/CureForMe/CureForMe_AudioPreview.ogg": "/public/map/CureForMe/CureForMe_AudioPreview.ogg/9868106bcde780b9a2590ce39802800b.ogg",
+    "jmcs://jd-contents/CureForMe/CureForMe_HIGH.webm": "/private/map/CureForMe/CureForMe_HIGH.webm/db6e313bc4862822e8b6109dc07aefa6.webm",
+    "jmcs://jd-contents/CureForMe/CureForMe_LOW.webm": "/private/map/CureForMe/CureForMe_LOW.webm/38493a04476e69d4789a331a7173eae6.webm",
+    "jmcs://jd-contents/CureForMe/CureForMe_MID.webm": "/private/map/CureForMe/CureForMe_MID.webm/bc5631d446199d495f09011e503a5657.webm",
+    "jmcs://jd-contents/CureForMe/CureForMe_ULTRA.hd.webm": "/private/map/CureForMe/CureForMe_ULTRA.hd.webm/ed328d3e5f66bd16a15421f0f85695b0.webm",
+    "jmcs://jd-contents/CureForMe/CureForMe_ULTRA.webm": "/private/map/CureForMe/CureForMe_ULTRA.webm/8643bca26ef44e82962fdab309020614.webm",
+    "jmcs://jd-contents/CureForMe/CureForMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CureForMe/CureForMe_MapPreviewNoSoundCrop_LOW.vp8.webm/17598589775d8cfa38b2266cc8707f1d.webm",
+    "jmcs://jd-contents/CureForMe/CureForMe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CureForMe/CureForMe_MapPreviewNoSoundCrop_MID.vp8.webm/772d159fd0c9ff25e1fea8d24a430c38.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"514295\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CureForMe/CureForMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"650-1139\">\n\t\t\t\t\t<Initialization range=\"0-650\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1510583\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CureForMe/CureForMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\n\t\t\t\t\t<Initialization range=\"0-651\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 209.369083
+}

@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d5afd503dee5828dcc8022fc8917eae9",
+      "storageType": 0,
+      "url": "/public/map/KissingStrangers/nx/KissingStrangers_MAIN_SCENE_NX.zip/d5afd503dee5828dcc8022fc8917eae9.zip"
+    },
+    "pc": {
+      "md5": "0ab0ade1b945b328484b1cddd4e231b7",
+      "storageType": 0,
+      "url": "/public/map/KissingStrangers/pc/KissingStrangers_MAIN_SCENE_PC.zip/0ab0ade1b945b328484b1cddd4e231b7.zip"
+    },
+    "ps4": {
+      "md5": "2d4f340114411f8622c48c29c08a76c4",
+      "storageType": 0,
+      "url": "/public/map/KissingStrangers/orbis/KissingStrangers_MAIN_SCENE_ORBIS.zip/2d4f340114411f8622c48c29c08a76c4.zip"
+    }
+  },
+  "data": {
+    "mapName": "KissingStrangers",
+    "title": "Kissing Strangers",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main"
+    ],
+    "artist": "DNCE ft. Nicki Minaj",
+    "credits": "Written by Mattias Larsson, Robin Fredriksson, Justin Tranter and Onika Tanya Maraj. Published by Warner-Tamerlane Publishing Corp. (BMI) obo Itself and Justin’s School For Girls. WB Music Corp. (ASCAP) obo Warner/Chappell Music Scandinavia AB (STIM) / Songs Of Universal, Inc. Courtesy of Republic Records under license from Universal Music Enterprises. / Nicki Minaj appears courtesy Cash Money Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#19b4aa",
+    "songColor2A": "#ff7dc9",
+    "songColor1B": "#0a160f",
+    "songColor2B": "#240328",
+    "lyricsColor": "#fe2ba0",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        167999,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        335999,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        671999,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1223999,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1343999,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 404,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/KissingStrangers/KissingStrangers_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/KissingStrangers/nx/KissingStrangers_banner_bkg.tga.ckd/ba40b00ba6bf9702a80f820e36d9d564.ckd",
+      "map_bkgImageUrl": "/public/map/KissingStrangers/nx/KissingStrangers_map_bkg.tga.ckd/e45e1de86a86fc17b0b15731f27295ec.ckd",
+      "expandCoachImageUrl": "/public/map/KissingStrangers/nx/KissingStrangers_Cover_AlbumCoach.tga.ckd/47b473b6cce925aa6f5c76c9cfec1ac2.ckd",
+      "cover_smallImageUrl": "/public/map/KissingStrangers/nx/KissingStrangers_Cover_Online.tga.ckd/05d5ac9f58efbb6ea31d722ae4c4d114.ckd",
+      "coverImageUrl": "/public/map/KissingStrangers/nx/KissingStrangers_Cover_Generic.tga.ckd/5b20be277ce3afee19a98259761d614b.ckd",
+      "coach1ImageUrl": "/public/map/KissingStrangers/nx/KissingStrangers_Coach_1.tga.ckd/6b7ddcd6e521b60044b41aed09910d9d.ckd",
+      "coach2ImageUrl": "/public/map/KissingStrangers/nx/KissingStrangers_Coach_2.tga.ckd/f9ee3883a5a10861e1c8f926182b0564.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/KissingStrangers/pc/KissingStrangers_banner_bkg.tga.ckd/048a5dc3bdf3f6b91c056dcc2673383a.ckd",
+      "map_bkgImageUrl": "/public/map/KissingStrangers/pc/KissingStrangers_map_bkg.tga.ckd/645100f61de6baff83bdc0f894d4f93a.ckd",
+      "expandCoachImageUrl": "/public/map/KissingStrangers/pc/KissingStrangers_Cover_AlbumCoach.tga.ckd/4da3c34690953466385fa208d3058f20.ckd",
+      "cover_smallImageUrl": "/public/map/KissingStrangers/pc/KissingStrangers_Cover_Online.tga.ckd/5efd3b5b864aa6953304502788fff6c9.ckd",
+      "coverImageUrl": "/public/map/KissingStrangers/pc/KissingStrangers_Cover_Generic.tga.ckd/58e2ca02e47e6f21b19343213c6e38b4.ckd",
+      "coach1ImageUrl": "/public/map/KissingStrangers/pc/KissingStrangers_Coach_1.tga.ckd/3c52c7084cbb254a5716823776d48209.ckd",
+      "coach2ImageUrl": "/public/map/KissingStrangers/pc/KissingStrangers_Coach_2.tga.ckd/67f47fa8dc6b2f999c82ba27a2338c77.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/KissingStrangers/orbis/KissingStrangers_banner_bkg.tga.ckd/048a5dc3bdf3f6b91c056dcc2673383a.ckd",
+      "map_bkgImageUrl": "/public/map/KissingStrangers/orbis/KissingStrangers_map_bkg.tga.ckd/645100f61de6baff83bdc0f894d4f93a.ckd",
+      "expandCoachImageUrl": "/public/map/KissingStrangers/orbis/KissingStrangers_Cover_AlbumCoach.tga.ckd/4da3c34690953466385fa208d3058f20.ckd",
+      "cover_smallImageUrl": "/public/map/KissingStrangers/orbis/KissingStrangers_Cover_Online.tga.ckd/5efd3b5b864aa6953304502788fff6c9.ckd",
+      "coverImageUrl": "/public/map/KissingStrangers/orbis/KissingStrangers_Cover_Generic.tga.ckd/58e2ca02e47e6f21b19343213c6e38b4.ckd",
+      "coach1ImageUrl": "/public/map/KissingStrangers/orbis/KissingStrangers_Coach_1.tga.ckd/3c52c7084cbb254a5716823776d48209.ckd",
+      "coach2ImageUrl": "/public/map/KissingStrangers/orbis/KissingStrangers_Coach_2.tga.ckd/67f47fa8dc6b2f999c82ba27a2338c77.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/KissingStrangers/KissingStrangers_Coach_1_Phone.png/5c44ea69263c25c5823c1517050f4535.png",
+    "phoneCoach2ImageUrl": "/public/map/KissingStrangers/KissingStrangers_Coach_2_Phone.png/0a96247a2870bbe66a335472c081513f.png",
+    "phoneCoverImageUrl": "/public/map/KissingStrangers/KissingStrangers_Cover_Phone.jpg/2bad00cd82866bf4b763c0c4b8737e17.jpg",
+    "cover640ImageUrl": "/public/map/KissingStrangers/KissingStrangers_Cover_640.png/181445ffa04dd4ac461adc4daba3a998.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/KissingStrangers/KissingStrangers.ogg": "/private/map/KissingStrangers/KissingStrangers.ogg/7b80d496d6b4ac676bcc7468d2bd61ef.ogg",
+    "jmcs://jd-contents/KissingStrangers/KissingStrangers_AudioPreview.ogg": "/public/map/KissingStrangers/KissingStrangers_AudioPreview.ogg/69cdea9df3e79e1ea895db2648404119.ogg",
+    "jmcs://jd-contents/KissingStrangers/KissingStrangers_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/KissingStrangers/KissingStrangers_MapPreviewNoSoundCrop_LOW.vp8.webm/f1f0248661de8f7887a1e1317e13c97d.webm",
+    "jmcs://jd-contents/KissingStrangers/KissingStrangers_HIGH.webm": "/private/map/KissingStrangers/KissingStrangers_HIGH.webm/7202f0de3ea07aa8723163ff3ec0c2fe.webm",
+    "jmcs://jd-contents/KissingStrangers/KissingStrangers_LOW.webm": "/private/map/KissingStrangers/KissingStrangers_LOW.webm/04d0659df2e4046811712638c679ae29.webm",
+    "jmcs://jd-contents/KissingStrangers/KissingStrangers_MID.webm": "/private/map/KissingStrangers/KissingStrangers_MID.webm/c6d6a965679bb1a9fe5c48b4bc40c921.webm",
+    "jmcs://jd-contents/KissingStrangers/KissingStrangers_ULTRA.hd.webm": "/private/map/KissingStrangers/KissingStrangers_ULTRA.hd.webm/68af85608353265738f374d602f62f30.webm",
+    "jmcs://jd-contents/KissingStrangers/KissingStrangers_ULTRA.webm": "/private/map/KissingStrangers/KissingStrangers_ULTRA.webm/b13a34c25391bc93293418b0481410dc.webm",
+    "jmcs://jd-contents/KissingStrangers/KissingStrangers_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/KissingStrangers/KissingStrangers_MapPreviewNoSoundCrop_MID.vp8.webm/0dcd6f2e793bc0f52947a3fddc0dc29b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497566\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KissingStrangers/KissingStrangers_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"641-1130\">\n\t\t\t\t\t<Initialization range=\"0-641\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482648\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KissingStrangers/KissingStrangers_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"642-1132\">\n\t\t\t\t\t<Initialization range=\"0-642\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 207.208313
+}

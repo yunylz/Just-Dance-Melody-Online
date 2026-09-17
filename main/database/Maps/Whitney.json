@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "158fad88afd577198e0879506864e748",
+      "storageType": 0,
+      "url": "/public/map/Whitney/nx/Whitney_MAIN_SCENE_NX.zip/158fad88afd577198e0879506864e748.zip"
+    },
+    "pc": {
+      "md5": "e7782984cf0fd7f9f5b9df584fa8a1aa",
+      "storageType": 0,
+      "url": "/public/map/Whitney/pc/Whitney_MAIN_SCENE_PC.zip/e7782984cf0fd7f9f5b9df584fa8a1aa.zip"
+    },
+    "ps4": {
+      "md5": "0d82f05fbda99f9edda74d6938477828",
+      "storageType": 0,
+      "url": "/public/map/Whitney/orbis/Whitney_MAIN_SCENE_ORBIS.zip/0d82f05fbda99f9edda74d6938477828.zip"
+    }
+  },
+  "data": {
+    "mapName": "Whitney",
+    "title": "Whitney",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Rêve",
+    "credits": "Written by Nickolas Ashford, Briannah Donolo, Valerie Simpson, Joel Stouffer. Published by Sony Music Publishing Canada / EMI April Music Inc. / Nick O Val Music Co Inc. / Ultra International Music Publishing. Courtesy of Universal Music Canada under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e49cff",
+    "songColor2A": "#7f97fc",
+    "songColor1B": "#3f0792",
+    "songColor2B": "#0d26a2",
+    "lyricsColor": "#7ebe6a",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 377,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Whitney/Whitney_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Whitney/nx/Whitney_banner_bkg.tga.ckd/9005ce8fda05e68f2b5411bdcff1e65b.ckd",
+      "map_bkgImageUrl": "/public/map/Whitney/nx/Whitney_map_bkg.tga.ckd/f1fb2c58a717eed0207d3713c96dd80d.ckd",
+      "expandCoachImageUrl": "/public/map/Whitney/nx/Whitney_Cover_AlbumCoach.tga.ckd/56f4a6552e5d9e829482a192713ccd83.ckd",
+      "cover_smallImageUrl": "/public/map/Whitney/nx/Whitney_Cover_Online.tga.ckd/a85e6a9ec49890774def6bffcdc1e122.ckd",
+      "coverImageUrl": "/public/map/Whitney/nx/Whitney_Cover_Generic.tga.ckd/d6f536d959b2bec346be728ada2e6aab.ckd",
+      "coach1ImageUrl": "/public/map/Whitney/nx/Whitney_Coach_1.tga.ckd/a16ddc1ad73e770f7e04dc67c33d169a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Whitney/pc/Whitney_banner_bkg.tga.ckd/875452306b4410294285dc23a56f08f2.ckd",
+      "map_bkgImageUrl": "/public/map/Whitney/pc/Whitney_map_bkg.tga.ckd/ee200d9d5df1fafb525de3d4fed42f2e.ckd",
+      "expandCoachImageUrl": "/public/map/Whitney/pc/Whitney_Cover_AlbumCoach.tga.ckd/edf4b2f6219181c1ace14582e44bd058.ckd",
+      "cover_smallImageUrl": "/public/map/Whitney/pc/Whitney_Cover_Online.tga.ckd/a520361a6b707bcf072ccfbebd8a9753.ckd",
+      "coverImageUrl": "/public/map/Whitney/pc/Whitney_Cover_Generic.tga.ckd/b56c2e23014490813ad0e991389c260c.ckd",
+      "coach1ImageUrl": "/public/map/Whitney/pc/Whitney_Coach_1.tga.ckd/4c091d6754bac32ddcf09059b9d062f2.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Whitney/orbis/Whitney_banner_bkg.tga.ckd/875452306b4410294285dc23a56f08f2.ckd",
+      "map_bkgImageUrl": "/public/map/Whitney/orbis/Whitney_map_bkg.tga.ckd/ee200d9d5df1fafb525de3d4fed42f2e.ckd",
+      "expandCoachImageUrl": "/public/map/Whitney/orbis/Whitney_Cover_AlbumCoach.tga.ckd/edf4b2f6219181c1ace14582e44bd058.ckd",
+      "cover_smallImageUrl": "/public/map/Whitney/orbis/Whitney_Cover_Online.tga.ckd/a520361a6b707bcf072ccfbebd8a9753.ckd",
+      "coverImageUrl": "/public/map/Whitney/orbis/Whitney_Cover_Generic.tga.ckd/b56c2e23014490813ad0e991389c260c.ckd",
+      "coach1ImageUrl": "/public/map/Whitney/orbis/Whitney_Coach_1.tga.ckd/4c091d6754bac32ddcf09059b9d062f2.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Whitney/Whitney_Coach_1_Phone.png/7a720ba10ae39c7723150a8bde15b80e.png",
+    "phoneCoverImageUrl": "/public/map/Whitney/Whitney_Cover_Phone.jpg/76b41ab6a34eda88e18e405e3edfa45d.jpg",
+    "cover640ImageUrl": "/public/map/Whitney/Whitney_Cover_640.png/2441b32081c8e8d6c6d866796cb82a0b.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Whitney/Whitney.ogg": "/private/map/Whitney/Whitney.ogg/32a875b5b51fd3ea10e86d3b5b15714a.ogg",
+    "jmcs://jd-contents/Whitney/Whitney_AudioPreview.ogg": "/public/map/Whitney/Whitney_AudioPreview.ogg/5bcb635e90abe36dd0a4b587006b0c59.ogg",
+    "jmcs://jd-contents/Whitney/Whitney_HIGH.webm": "/private/map/Whitney/Whitney_HIGH.webm/20be730bac2c545b1fc8c9e126ebb477.webm",
+    "jmcs://jd-contents/Whitney/Whitney_LOW.webm": "/private/map/Whitney/Whitney_LOW.webm/aec02f4e68a01c1f9a6e09b63b724d4e.webm",
+    "jmcs://jd-contents/Whitney/Whitney_MID.webm": "/private/map/Whitney/Whitney_MID.webm/5411fb9c36f8fd868a79a05612f6076a.webm",
+    "jmcs://jd-contents/Whitney/Whitney_ULTRA.hd.webm": "/private/map/Whitney/Whitney_ULTRA.hd.webm/9d95a89f110ffcd80df8f51a2a8b25af.webm",
+    "jmcs://jd-contents/Whitney/Whitney_ULTRA.webm": "/private/map/Whitney/Whitney_ULTRA.webm/24724604ce627712d3e4db7f5c894b3f.webm",
+    "jmcs://jd-contents/Whitney/Whitney_HIGH.hd.webm": "/private/map/Whitney/Whitney_HIGH.hd.webm/1ed330cfe3f07174319079141eec5635.webm",
+    "jmcs://jd-contents/Whitney/Whitney_LOW.hd.webm": "/private/map/Whitney/Whitney_LOW.hd.webm/cd57b56c826c1ddff1fef8928dbc0667.webm",
+    "jmcs://jd-contents/Whitney/Whitney_MID.hd.webm": "/private/map/Whitney/Whitney_MID.hd.webm/ae7af1f18670505891d1cb71908c6178.webm",
+    "jmcs://jd-contents/Whitney/Whitney_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Whitney/Whitney_MapPreviewNoSoundCrop_LOW.vp8.webm/afd5345acb1d45f008466c23f4835007.webm",
+    "jmcs://jd-contents/Whitney/Whitney_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Whitney/Whitney_MapPreviewNoSoundCrop_MID.vp8.webm/7eba294cd7c13f3b471bfbeb491fa450.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"557585\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Whitney/Whitney_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2025710\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Whitney/Whitney_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 195.999979
+}

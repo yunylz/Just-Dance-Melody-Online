@@ -1,0 +1,155 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ae601ce11a5d84c7bd2e894094941374",
+      "storageType": 0,
+      "url": "/public/map/UmbrellaALT/nx/UmbrellaALT_MAIN_SCENE_NX.zip/ae601ce11a5d84c7bd2e894094941374.zip"
+    },
+    "pc": {
+      "md5": "cb8a697096cf4e773f3d09348c2fd4cb",
+      "storageType": 0,
+      "url": "/public/map/UmbrellaALT/pc/UmbrellaALT_MAIN_SCENE_PC.zip/cb8a697096cf4e773f3d09348c2fd4cb.zip"
+    },
+    "ps4": {
+      "md5": "f944d335d58e57064e3e8e1c6753cf63",
+      "storageType": 0,
+      "url": "/public/map/UmbrellaALT/orbis/UmbrellaALT_MAIN_SCENE_ORBIS.zip/f944d335d58e57064e3e8e1c6753cf63.zip"
+    }
+  },
+  "data": {
+    "mapName": "UmbrellaALT",
+    "title": "Umbrella",
+    "originalJDVersion": 4,
+    "tags": [
+      "main"
+    ],
+    "artist": "Rihanna Ft. JAY-Z",
+    "credits": "Written by Shawn Carter, Thaddis Laphonia Harrell, Terius Nash and Christopher A. Stewart. Published by EMI April Music Inc. (ASCAP) / Sony/ATV Music Publishing (UK) Ltd. (PRS)/ Sony/ATV Music Publishing Canada (SOCAN) / WB Music Corp. (ASCAP), 2082 Music Publishing (ASCAP). All rights on behalf of itself and 2082 Music Publishing administered by WB Music Corp. / March Ninth Music Publishing/Songs of Peer Ltd. All rights reserved. Used by permission.Courtesy of The Island Def Jam Music Group under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        43027,
+        76130,
+        109233,
+        142336,
+        175439,
+        207886,
+        241453,
+        274556,
+        307659,
+        340762,
+        373865,
+        406968,
+        440071,
+        473174,
+        506277,
+        539380,
+        572483,
+        605586,
+        638689,
+        671792,
+        704895,
+        737998,
+        771101,
+        804204,
+        837307,
+        870410,
+        903513,
+        936616,
+        969719,
+        1002822,
+        1035925,
+        1069028,
+        1102131,
+        1135234,
+        1168337,
+        1201440,
+        1234543,
+        1267646,
+        1300749,
+        1333852,
+        1366955,
+        1400058,
+        1433161,
+        1466264,
+        1499367
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 374,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 43,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/UmbrellaALT/UmbrellaALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/UmbrellaALT/nx/UmbrellaALT_banner_bkg.tga.ckd/b97f7ba3b59e17b94f5422a69799812c.ckd",
+      "map_bkgImageUrl": "/public/map/UmbrellaALT/nx/UmbrellaALT_map_bkg.tga.ckd/5e7ee6c5af5efacbde9c00479e602f47.ckd",
+      "expandCoachImageUrl": "/public/map/UmbrellaALT/nx/UmbrellaALT_Cover_AlbumCoach.tga.ckd/80eeb95df507947e1337c6cf166655ed.ckd",
+      "cover_smallImageUrl": "/public/map/UmbrellaALT/nx/UmbrellaALT_Cover_Online.tga.ckd/cb507099fda8dc31d6c7e9b3f634a8ca.ckd",
+      "coach1ImageUrl": "/public/map/UmbrellaALT/nx/UmbrellaALT_Coach_1.tga.ckd/3ecc6acef2d4c02196baa0b9b61329a9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/UmbrellaALT/pc/UmbrellaALT_banner_bkg.tga.ckd/42616e492acd5c4e28d4f2adff8c67fb.ckd",
+      "map_bkgImageUrl": "/public/map/UmbrellaALT/pc/UmbrellaALT_map_bkg.tga.ckd/91eb9d14db652aaba350c246b5fdc25b.ckd",
+      "expandCoachImageUrl": "/public/map/UmbrellaALT/pc/UmbrellaALT_Cover_AlbumCoach.tga.ckd/cbc5a2030ce8cb906907b1c587f85ca3.ckd",
+      "cover_smallImageUrl": "/public/map/UmbrellaALT/pc/UmbrellaALT_Cover_Online.tga.ckd/03c272aee8c4d5389f312fadcac568a6.ckd",
+      "coach1ImageUrl": "/public/map/UmbrellaALT/pc/UmbrellaALT_Coach_1.tga.ckd/4f80aaf0b281297146ff450b08181b1e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/UmbrellaALT/orbis/UmbrellaALT_banner_bkg.tga.ckd/42616e492acd5c4e28d4f2adff8c67fb.ckd",
+      "map_bkgImageUrl": "/public/map/UmbrellaALT/orbis/UmbrellaALT_map_bkg.tga.ckd/91eb9d14db652aaba350c246b5fdc25b.ckd",
+      "expandCoachImageUrl": "/public/map/UmbrellaALT/orbis/UmbrellaALT_Cover_AlbumCoach.tga.ckd/cbc5a2030ce8cb906907b1c587f85ca3.ckd",
+      "cover_smallImageUrl": "/public/map/UmbrellaALT/orbis/UmbrellaALT_Cover_Online.tga.ckd/03c272aee8c4d5389f312fadcac568a6.ckd",
+      "coach1ImageUrl": "/public/map/UmbrellaALT/orbis/UmbrellaALT_Coach_1.tga.ckd/4f80aaf0b281297146ff450b08181b1e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/UmbrellaALT/UmbrellaALT_Coach_1_Phone.png/4b49c7a85db31fbdbee62deffbbb2a62.png",
+    "phoneCoverImageUrl": "/public/map/UmbrellaALT/UmbrellaALT_Cover_Phone.jpg/1483192f68fc1c55e6e578d76f8811ca.jpg",
+    "cover640ImageUrl": "/public/map/UmbrellaALT/UmbrellaALT_Cover_640.png/f85225056c66e157e2c67abdb1b3b60b.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/UmbrellaALT/UmbrellaALT.ogg": "/private/map/UmbrellaALT/UmbrellaALT.ogg/7d8bc0e2307e6256e20aa94115144a7a.ogg",
+    "jmcs://jd-contents/UmbrellaALT/UmbrellaALT_AudioPreview.ogg": "/public/map/UmbrellaALT/UmbrellaALT_AudioPreview.ogg/60e6d49cf2fa0e9732a8d04dc3a391be.ogg",
+    "jmcs://jd-contents/UmbrellaALT/UmbrellaALT_HIGH.webm": "/private/map/UmbrellaALT/UmbrellaALT_HIGH.webm/0ea115871659bb24c2baa171577925b9.webm",
+    "jmcs://jd-contents/UmbrellaALT/UmbrellaALT_LOW.webm": "/private/map/UmbrellaALT/UmbrellaALT_LOW.webm/7514c1250fc4dda8fc203c8a0ca59cd1.webm",
+    "jmcs://jd-contents/UmbrellaALT/UmbrellaALT_MID.webm": "/private/map/UmbrellaALT/UmbrellaALT_MID.webm/31ae8273220da0de19c728f9f79ae736.webm",
+    "jmcs://jd-contents/UmbrellaALT/UmbrellaALT_ULTRA.hd.webm": "/private/map/UmbrellaALT/UmbrellaALT_ULTRA.hd.webm/9af717673a111729c684c559be75649a.webm",
+    "jmcs://jd-contents/UmbrellaALT/UmbrellaALT_ULTRA.webm": "/private/map/UmbrellaALT/UmbrellaALT_ULTRA.webm/2947e1ac4c952e27729685b25b29facf.webm",
+    "jmcs://jd-contents/UmbrellaALT/UmbrellaALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/UmbrellaALT/UmbrellaALT_MapPreviewNoSoundCrop_LOW.vp8.webm/7e2ce7bbdbbec189528b65ff1073575f.webm",
+    "jmcs://jd-contents/UmbrellaALT/UmbrellaALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/UmbrellaALT/UmbrellaALT_MapPreviewNoSoundCrop_MID.vp8.webm/81081aba9610f324f08dc7c792ed796a.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"499197\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/UmbrellaALT/UmbrellaALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\n\t\t\t\t\t<Initialization range=\"0-610\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1472604\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/UmbrellaALT/UmbrellaALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"611-1101\">\n\t\t\t\t\t<Initialization range=\"0-611\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 255.864
+}

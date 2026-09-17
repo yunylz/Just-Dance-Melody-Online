@@ -1,0 +1,161 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "cf0e36e8af058bbb1b7af06493284ecc",
+      "storageType": 0,
+      "url": "/public/map/Sidewinder/nx/Sidewinder_MAIN_SCENE_NX.zip/cf0e36e8af058bbb1b7af06493284ecc.zip"
+    },
+    "pc": {
+      "md5": "d34024c8cb6f64d807c7fe8262e3360e",
+      "storageType": 0,
+      "url": "/public/map/Sidewinder/pc/Sidewinder_MAIN_SCENE_PC.zip/d34024c8cb6f64d807c7fe8262e3360e.zip"
+    },
+    "ps4": {
+      "md5": "4d52f0844e90551e65cb0391aae5e717",
+      "storageType": 0,
+      "url": "/public/map/Sidewinder/orbis/Sidewinder_MAIN_SCENE_ORBIS.zip/4d52f0844e90551e65cb0391aae5e717.zip"
+    }
+  },
+  "data": {
+    "mapName": "Sidewinder",
+    "title": "Fight Club",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main"
+    ],
+    "artist": "Lights",
+    "credits": "Written by Lights Poxleitner, Todd Clark and Stephen Kozmeniuk. Published by Sony/ATV Music Publishing Canada (SOCAN) and Nyan King Music / EMI Music Publishing Ltd. (PRS) c/o EMI Blackwood Music (Canada) Ltd. (SOCAN). / Egg Songs Publishing(ASCAP). All rights reserved. Used with permission. Courtesy of Warner Bros. Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#046fb2",
+    "songColor2A": "#fdfec1",
+    "songColor1B": "#021c2d",
+    "songColor2B": "#6a3408",
+    "lyricsColor": "#cb1d81"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 327,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Sidewinder/Sidewinder_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Sidewinder/nx/Sidewinder_banner_bkg.tga.ckd/2f48a270ccad56725c73b8f40d54eb42.ckd",
+      "map_bkgImageUrl": "/public/map/Sidewinder/nx/Sidewinder_map_bkg.tga.ckd/5c7ed30cf2403bdbf3f22a157977ddc4.ckd",
+      "expandCoachImageUrl": "/public/map/Sidewinder/nx/Sidewinder_Cover_AlbumCoach.tga.ckd/40c3584ad32a6e5301478a883e5e1b8e.ckd",
+      "cover_smallImageUrl": "/public/map/Sidewinder/nx/Sidewinder_Cover_Online.tga.ckd/91b2b5c72e26c2742ff2c6faa170c460.ckd",
+      "coach1ImageUrl": "/public/map/Sidewinder/nx/Sidewinder_Coach_1.tga.ckd/9c7a970f3f6e83c46bc4bc57ba278066.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Sidewinder/pc/Sidewinder_banner_bkg.tga.ckd/af308e429a92b880bbf014f091bc2c82.ckd",
+      "map_bkgImageUrl": "/public/map/Sidewinder/pc/Sidewinder_map_bkg.tga.ckd/392f43acc09a5436e6040f2c271089e7.ckd",
+      "expandCoachImageUrl": "/public/map/Sidewinder/pc/Sidewinder_Cover_AlbumCoach.tga.ckd/4647efee3811c6cdb37f6510b7caf870.ckd",
+      "cover_smallImageUrl": "/public/map/Sidewinder/pc/Sidewinder_Cover_Online.tga.ckd/dab77aa6f38231cb962e24f51f56dc32.ckd",
+      "coach1ImageUrl": "/public/map/Sidewinder/pc/Sidewinder_Coach_1.tga.ckd/9baaa92589807fb40b89cc10886a3de6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Sidewinder/orbis/Sidewinder_banner_bkg.tga.ckd/af308e429a92b880bbf014f091bc2c82.ckd",
+      "map_bkgImageUrl": "/public/map/Sidewinder/orbis/Sidewinder_map_bkg.tga.ckd/392f43acc09a5436e6040f2c271089e7.ckd",
+      "expandCoachImageUrl": "/public/map/Sidewinder/orbis/Sidewinder_Cover_AlbumCoach.tga.ckd/4647efee3811c6cdb37f6510b7caf870.ckd",
+      "cover_smallImageUrl": "/public/map/Sidewinder/orbis/Sidewinder_Cover_Online.tga.ckd/dab77aa6f38231cb962e24f51f56dc32.ckd",
+      "coach1ImageUrl": "/public/map/Sidewinder/orbis/Sidewinder_Coach_1.tga.ckd/9baaa92589807fb40b89cc10886a3de6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Sidewinder/Sidewinder_Coach_1_Phone.png/ebe554a7318a46dfd79f07e04745e015.png",
+    "phoneCoverImageUrl": "/public/map/Sidewinder/Sidewinder_Cover_Phone.jpg/ea3539a5e8d60b5f97cb1392590ca02c.jpg",
+    "cover640ImageUrl": "/public/map/Sidewinder/Sidewinder_Cover_640.png/1e52b2b7a0122b63c5ce844a491f56ca.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Sidewinder/Sidewinder.ogg": "/private/map/Sidewinder/Sidewinder.ogg/2605539a8d28fea221f51fa2d29ced10.ogg",
+    "jmcs://jd-contents/Sidewinder/Sidewinder_AudioPreview.ogg": "/public/map/Sidewinder/Sidewinder_AudioPreview.ogg/db7e7a6032b9b7c5d7fe85f8075cef99.ogg",
+    "jmcs://jd-contents/Sidewinder/Sidewinder_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Sidewinder/Sidewinder_MapPreviewNoSoundCrop_LOW.vp8.webm/f89c8dd5a9fd364ae7d24dedffdb5813.webm",
+    "jmcs://jd-contents/Sidewinder/Sidewinder_HIGH.webm": "/private/map/Sidewinder/Sidewinder_HIGH.webm/5a34744f67173e372995211e1e5b479b.webm",
+    "jmcs://jd-contents/Sidewinder/Sidewinder_LOW.webm": "/private/map/Sidewinder/Sidewinder_LOW.webm/bbf1343fab2659e39c64a4e3d2b2adca.webm",
+    "jmcs://jd-contents/Sidewinder/Sidewinder_MID.webm": "/private/map/Sidewinder/Sidewinder_MID.webm/b8c76944f08fa4891b0a40b1ede05756.webm",
+    "jmcs://jd-contents/Sidewinder/Sidewinder_ULTRA.hd.webm": "/private/map/Sidewinder/Sidewinder_ULTRA.hd.webm/1b451d0c753122baf513f37cbf2de3b3.webm",
+    "jmcs://jd-contents/Sidewinder/Sidewinder_ULTRA.webm": "/private/map/Sidewinder/Sidewinder_ULTRA.webm/a80d5f76bb3cb7a26c292631317b8223.webm",
+    "jmcs://jd-contents/Sidewinder/Sidewinder_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Sidewinder/Sidewinder_MapPreviewNoSoundCrop_MID.vp8.webm/b27aa02098a5cfe963647b90f034b80c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"474018\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sidewinder/Sidewinder_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"626-1115\">\n\t\t\t\t\t<Initialization range=\"0-626\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1432695\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sidewinder/Sidewinder_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"627-1117\">\n\t\t\t\t\t<Initialization range=\"0-627\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 201.000021
+}

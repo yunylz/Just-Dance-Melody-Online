@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Dynamite/Dynamite.ogg": "/private/map/Dynamite/Dynamite.ogg/e641e41b5493a445dbc579a8f393e627.ogg",
+    "jmcs://jd-contents/Dynamite/Dynamite_AudioPreview.ogg": "/public/map/Dynamite/Dynamite_AudioPreview.ogg/5e966ca7d0e2cd00d54da33470fdd18f.ogg",
+    "jmcs://jd-contents/Dynamite/Dynamite_HIGH.hd.webm": "/private/map/Dynamite/Dynamite_HIGH.hd.webm/97c87de4deddb774c06ddbd58f2dacd3.webm",
+    "jmcs://jd-contents/Dynamite/Dynamite_LOW.hd.webm": "/private/map/Dynamite/Dynamite_LOW.hd.webm/b4f8b8050d565e92ada3851030aa166c.webm",
+    "jmcs://jd-contents/Dynamite/Dynamite_MID.hd.webm": "/private/map/Dynamite/Dynamite_MID.hd.webm/51982e25612c9f7c3ebdfa5af254f131.webm",
+    "jmcs://jd-contents/Dynamite/Dynamite_ULTRA.hd.webm": "/private/map/Dynamite/Dynamite_ULTRA.hd.webm/1472ea9977bd657abb82c4f0c5df04ff.webm",
+    "jmcs://jd-contents/Dynamite/Dynamite_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Dynamite/Dynamite_MapPreviewNoSoundCrop_LOW.vp8.webm/af702d6bd9f68d5222942d2015450e51.webm",
+    "jmcs://jd-contents/Dynamite/Dynamite_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Dynamite/Dynamite_MapPreviewNoSoundCrop_MID.vp8.webm/30722eb26278690ebe3e589ebb8077a2.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25263,
+        50526,
+        75789,
+        101053,
+        126316,
+        151579,
+        176842,
+        202105,
+        227368,
+        252632,
+        277895,
+        303158,
+        328421,
+        353684,
+        378947,
+        404211,
+        429474,
+        454737,
+        480000,
+        505263,
+        530526,
+        555789,
+        581053,
+        606316,
+        631579,
+        656842,
+        682105,
+        707368,
+        732632,
+        757895,
+        783158,
+        808421,
+        833684,
+        858947,
+        884211,
+        909474,
+        934737,
+        960000,
+        985263,
+        1010526,
+        1035789,
+        1061053,
+        1086316,
+        1111579,
+        1136842,
+        1162105,
+        1187368,
+        1212632,
+        1237895,
+        1263158,
+        1288421,
+        1313684,
+        1338947,
+        1364211,
+        1389474,
+        1414737,
+        1440000,
+        1465263,
+        1490526
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -16,
+      "endBeat": 379,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Dynamite/Dynamite_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"567330\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dynamite/Dynamite_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2015359\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dynamite/Dynamite_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "352f14dadd5ef4c18f289b5dd21bb914",
+      "storageType": 0,
+      "url": "/public/map/Dynamite/nx/Dynamite_MAIN_SCENE_NX.zip/352f14dadd5ef4c18f289b5dd21bb914.zip"
+    },
+    "pc": {
+      "md5": "44c2dc421e4a5eb3cc6272ccbcf3873d",
+      "storageType": 0,
+      "url": "/public/map/Dynamite/pc/Dynamite_MAIN_SCENE_PC.zip/44c2dc421e4a5eb3cc6272ccbcf3873d.zip"
+    },
+    "ps4": {
+      "md5": "282f4093781fe2d1210b381fff05feb0",
+      "storageType": 0,
+      "url": "/public/map/Dynamite/orbis/Dynamite_MAIN_SCENE_ORBIS.zip/282f4093781fe2d1210b381fff05feb0.zip"
+    }
+  },
+  "data": {
+    "mapName": "Dynamite",
+    "title": "Dynamite",
+    "originalJDVersion": 2023,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "BTS (방탄소년단)",
+    "credits": "Written by Dave Stewart, Jessica Agombar. Published by Stellar Songs Limited (PRS). Courtesy of Big Hit Music Label.  ",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#fa3998",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Dynamite/nx/Dynamite_banner_bkg.tga.ckd/3817c7d48d7c155a5a5763f1a94539ff.ckd",
+      "map_bkgImageUrl": "/public/map/Dynamite/nx/Dynamite_map_bkg.tga.ckd/af5cd68fc6ef9c59c62cb7d02ad22cb4.ckd",
+      "expandCoachImageUrl": "/public/map/Dynamite/nx/Dynamite_Cover_AlbumCoach.tga.ckd/5bf857e8969ae053c110d8574c1a884e.ckd",
+      "cover_smallImageUrl": "/public/map/Dynamite/nx/Dynamite_Cover_Online.tga.ckd/b2acea516eb702bed88ec41e87ab080b.ckd",
+      "coverImageUrl": "/public/map/Dynamite/nx/Dynamite_Cover_Generic.tga.ckd/9e912f0b0ea6ce075209b11c3f0fd936.ckd",
+      "coach1ImageUrl": "/public/map/Dynamite/nx/Dynamite_Coach_1.tga.ckd/c762890322d4b3c2e4fa81b5c39ff18e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Dynamite/pc/Dynamite_banner_bkg.tga.ckd/bd3ba2a8de6ca398188c58c7c34bed56.ckd",
+      "map_bkgImageUrl": "/public/map/Dynamite/pc/Dynamite_map_bkg.tga.ckd/5d548a067d18ffb1f8f34daad5c78d1a.ckd",
+      "expandCoachImageUrl": "/public/map/Dynamite/pc/Dynamite_Cover_AlbumCoach.tga.ckd/15da14d0505c59aa0dd282ce7c0df0cb.ckd",
+      "cover_smallImageUrl": "/public/map/Dynamite/pc/Dynamite_Cover_Online.tga.ckd/67a7881c394f416baadee21156095fa0.ckd",
+      "coverImageUrl": "/public/map/Dynamite/pc/Dynamite_Cover_Generic.tga.ckd/ea1ed04122002abe0c23f69b140e6672.ckd",
+      "coach1ImageUrl": "/public/map/Dynamite/pc/Dynamite_Coach_1.tga.ckd/2c8a6dd94b2afd9ff6e09cac8dd0cb35.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Dynamite/orbis/Dynamite_banner_bkg.tga.ckd/bd3ba2a8de6ca398188c58c7c34bed56.ckd",
+      "map_bkgImageUrl": "/public/map/Dynamite/orbis/Dynamite_map_bkg.tga.ckd/5d548a067d18ffb1f8f34daad5c78d1a.ckd",
+      "expandCoachImageUrl": "/public/map/Dynamite/orbis/Dynamite_Cover_AlbumCoach.tga.ckd/15da14d0505c59aa0dd282ce7c0df0cb.ckd",
+      "cover_smallImageUrl": "/public/map/Dynamite/orbis/Dynamite_Cover_Online.tga.ckd/67a7881c394f416baadee21156095fa0.ckd",
+      "coverImageUrl": "/public/map/Dynamite/orbis/Dynamite_Cover_Generic.tga.ckd/ea1ed04122002abe0c23f69b140e6672.ckd",
+      "coach1ImageUrl": "/public/map/Dynamite/orbis/Dynamite_Coach_1.tga.ckd/2c8a6dd94b2afd9ff6e09cac8dd0cb35.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Dynamite/Dynamite_Coach_1_Phone.png/453feec1adbd4759649760fe4ea01f16.png",
+    "phoneCoverImageUrl": "/public/map/Dynamite/Dynamite_Cover_Phone.jpg/0b3d1c1d209ccb9551ae15675eec815e.jpg",
+    "cover640ImageUrl": "/public/map/Dynamite/Dynamite_Cover_640.png/b75e0f537e7936e403c2ec785a4ccb80.png"
+  },
+  "mapLength": 207.893688
+}

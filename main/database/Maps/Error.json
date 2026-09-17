@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "10713a9ed60f9bf4474885e216ed7a01",
+      "storageType": 0,
+      "url": "/public/map/Error/nx/Error_MAIN_SCENE_NX.zip/10713a9ed60f9bf4474885e216ed7a01.zip"
+    },
+    "pc": {
+      "md5": "f19aac7d63d61999a28436a824d8f16a",
+      "storageType": 0,
+      "url": "/public/map/Error/pc/Error_MAIN_SCENE_PC.zip/f19aac7d63d61999a28436a824d8f16a.zip"
+    },
+    "ps4": {
+      "md5": "54a93d2b079164018b0a976be87e2077",
+      "storageType": 0,
+      "url": "/public/map/Error/orbis/Error_MAIN_SCENE_ORBIS.zip/54a93d2b079164018b0a976be87e2077.zip"
+    }
+  },
+  "data": {
+    "mapName": "Error",
+    "title": "Error",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main"
+    ],
+    "artist": "Natalia Nykiel",
+    "credits": "Written by Natalia Nykiel, Michał Majak, Jakub Parowicz and Michal 'FOX' Krol. Published by Natalia Nykiel / Michał Majak / Jakub Parowicz / Michal 'FOX' Krol. Courtesy of Universal Music Poland under license from Universal Music Enterprise. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f44e6f",
+    "songColor2A": "#18a58b",
+    "songColor1B": "#511834",
+    "songColor2B": "#004b4c",
+    "lyricsColor": "#00fb5f",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23232,
+        46464,
+        69696,
+        92880,
+        116112,
+        139344,
+        162576,
+        185808,
+        209040,
+        232272,
+        255504,
+        278688,
+        301920,
+        325152,
+        348384,
+        371616,
+        394848,
+        418080,
+        441312,
+        464496,
+        487728,
+        510960,
+        534192,
+        557425,
+        580657,
+        603889,
+        627121,
+        650305,
+        673537,
+        696769,
+        720001,
+        743233,
+        766465,
+        789697,
+        812881,
+        836113,
+        859345,
+        882577,
+        905809,
+        929041,
+        952273,
+        975505,
+        998689,
+        1021921,
+        1045153,
+        1068385,
+        1091617,
+        1114850,
+        1138082,
+        1161314,
+        1184498,
+        1207730,
+        1230962,
+        1254194,
+        1277426,
+        1300658,
+        1323890,
+        1347122,
+        1370306,
+        1393538,
+        1416770,
+        1440002,
+        1463234,
+        1486466
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 408,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Error/Error_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Error/nx/Error_banner_bkg.tga.ckd/5cc7c7a1eb9c60370a3fb64738843e30.ckd",
+      "map_bkgImageUrl": "/public/map/Error/nx/Error_map_bkg.tga.ckd/80f9a8fe24feaeee2df88a1a13fee2e0.ckd",
+      "expandCoachImageUrl": "/public/map/Error/nx/Error_Cover_AlbumCoach.tga.ckd/c7ebf27d833148742cfcfa36899f5680.ckd",
+      "cover_smallImageUrl": "/public/map/Error/nx/Error_Cover_Online.tga.ckd/dc40fca63b990b2dec8c13e8a7928bd6.ckd",
+      "coverImageUrl": "/public/map/Error/nx/Error_Cover_Generic.tga.ckd/340b3b8e5b6ad9b05fe0f3705dd81de7.ckd",
+      "coach1ImageUrl": "/public/map/Error/nx/Error_Coach_1.tga.ckd/c7ac67604a96917990e5528958a7e4ac.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Error/pc/Error_banner_bkg.tga.ckd/2e63ae59d3db9c7444a33d30312aa46f.ckd",
+      "map_bkgImageUrl": "/public/map/Error/pc/Error_map_bkg.tga.ckd/b391dc3aa1227eb751aa4f4156137d30.ckd",
+      "expandCoachImageUrl": "/public/map/Error/pc/Error_Cover_AlbumCoach.tga.ckd/9a19729896f841a8fb7d693262d817cf.ckd",
+      "cover_smallImageUrl": "/public/map/Error/pc/Error_Cover_Online.tga.ckd/febae0d5cb35ac6e726684385e8a6bed.ckd",
+      "coverImageUrl": "/public/map/Error/pc/Error_Cover_Generic.tga.ckd/5012b2f6689b5399516c98c9d08f6a66.ckd",
+      "coach1ImageUrl": "/public/map/Error/pc/Error_Coach_1.tga.ckd/3fd40f2ce8f0d0c8182d4003f72db57f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Error/orbis/Error_banner_bkg.tga.ckd/2e63ae59d3db9c7444a33d30312aa46f.ckd",
+      "map_bkgImageUrl": "/public/map/Error/orbis/Error_map_bkg.tga.ckd/b391dc3aa1227eb751aa4f4156137d30.ckd",
+      "expandCoachImageUrl": "/public/map/Error/orbis/Error_Cover_AlbumCoach.tga.ckd/9a19729896f841a8fb7d693262d817cf.ckd",
+      "cover_smallImageUrl": "/public/map/Error/orbis/Error_Cover_Online.tga.ckd/febae0d5cb35ac6e726684385e8a6bed.ckd",
+      "coverImageUrl": "/public/map/Error/orbis/Error_Cover_Generic.tga.ckd/5012b2f6689b5399516c98c9d08f6a66.ckd",
+      "coach1ImageUrl": "/public/map/Error/orbis/Error_Coach_1.tga.ckd/3fd40f2ce8f0d0c8182d4003f72db57f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Error/Error_Coach_1_Phone.png/23a4211f83311086dc1bffd1a2caf2ef.png",
+    "phoneCoverImageUrl": "/public/map/Error/Error_Cover_Phone.jpg/f8064ade1814528194404a74edb7e2a4.jpg",
+    "cover640ImageUrl": "/public/map/Error/Error_Cover_640.png/9288d0bcb8fef75d05d5c912e3600955.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Error/Error.ogg": "/private/map/Error/Error.ogg/59580271f169b10d51715d1d19e750f9.ogg",
+    "jmcs://jd-contents/Error/Error_AudioPreview.ogg": "/public/map/Error/Error_AudioPreview.ogg/43dfd414cafab60427eb02797f8e184e.ogg",
+    "jmcs://jd-contents/Error/Error_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Error/Error_MapPreviewNoSoundCrop_LOW.vp8.webm/845be12547746b42295c7a8e3cb44488.webm",
+    "jmcs://jd-contents/Error/Error_HIGH.webm": "/private/map/Error/Error_HIGH.webm/d453d8871bebb2027add0c3ce6e8fa70.webm",
+    "jmcs://jd-contents/Error/Error_LOW.webm": "/private/map/Error/Error_LOW.webm/0cb9fd2fe22b5720c99d774ef7e5157e.webm",
+    "jmcs://jd-contents/Error/Error_MID.webm": "/private/map/Error/Error_MID.webm/775715ea0d9185a3b961d233412a860d.webm",
+    "jmcs://jd-contents/Error/Error_ULTRA.hd.webm": "/private/map/Error/Error_ULTRA.hd.webm/fea9bc7a0d6e82b7897fd8d6e62e8a48.webm",
+    "jmcs://jd-contents/Error/Error_ULTRA.webm": "/private/map/Error/Error_ULTRA.webm/2f539be86db2c2b694cf9bdb7b90c306.webm",
+    "jmcs://jd-contents/Error/Error_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Error/Error_MapPreviewNoSoundCrop_MID.vp8.webm/7a82db71042639839802686304f845e7.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496720\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Error/Error_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\n\t\t\t\t\t<Initialization range=\"0-646\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1475372\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Error/Error_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 200.805604
+}

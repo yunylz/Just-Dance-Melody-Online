@@ -1,0 +1,156 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "0668886e44d4af29a6d31fed41862575",
+      "storageType": 0,
+      "url": "/public/map/Panini/nx/Panini_MAIN_SCENE_NX.zip/0668886e44d4af29a6d31fed41862575.zip"
+    },
+    "pc": {
+      "md5": "311fca443e4b9147a1651b6000a46666",
+      "storageType": 0,
+      "url": "/public/map/Panini/pc/Panini_MAIN_SCENE_PC.zip/311fca443e4b9147a1651b6000a46666.zip"
+    },
+    "ps4": {
+      "md5": "1312a86f9d3892f642584214ce2d21cc",
+      "storageType": 0,
+      "url": "/public/map/Panini/orbis/Panini_MAIN_SCENE_ORBIS.zip/1312a86f9d3892f642584214ce2d21cc.zip"
+    }
+  },
+  "data": {
+    "mapName": "Panini",
+    "title": "Panini",
+    "originalJDVersion": 2020,
+    "tags": [
+      "subscribedSong",
+      "JustDance2020",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Lil Nas X",
+    "credits": " All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f211f2",
+    "songColor2A": "#41efab",
+    "songColor1B": "#001368",
+    "songColor2B": "#120098",
+    "lyricsColor": "#ff8342",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        37403,
+        74805,
+        112208,
+        149610,
+        187013,
+        224416,
+        261818,
+        299221,
+        336623,
+        374026,
+        411429,
+        448831,
+        486234,
+        523636,
+        561039,
+        598442,
+        635844,
+        673247,
+        710649,
+        748052,
+        785455,
+        822857,
+        860260,
+        897662,
+        935065,
+        972468,
+        1009870,
+        1047273,
+        1084675,
+        1122078,
+        1159481,
+        1196883,
+        1234286,
+        1271688,
+        1309091,
+        1346494,
+        1383896,
+        1421299,
+        1458701,
+        1496104
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 149,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 38,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Panini/Panini_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Panini/nx/Panini_banner_bkg.tga.ckd/7c6aa7ea9f4544a2828887f07958493d.ckd",
+      "map_bkgImageUrl": "/public/map/Panini/nx/Panini_map_bkg.tga.ckd/21d22308049254754282254d330eff6f.ckd",
+      "expandCoachImageUrl": "/public/map/Panini/nx/Panini_Cover_AlbumCoach.tga.ckd/bf93fd1f3953ca88e1d3e646a44dfa3a.ckd",
+      "cover_smallImageUrl": "/public/map/Panini/nx/Panini_Cover_Online.tga.ckd/72be2d1e2233500f07170f60d09b5edd.ckd",
+      "coverImageUrl": "/public/map/Panini/nx/Panini_Cover_Generic.tga.ckd/176752a0c2d47703681a1690fc6f0140.ckd",
+      "coach1ImageUrl": "/public/map/Panini/nx/Panini_Coach_1.tga.ckd/2c7206d223384b621f13df4ebff47de6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Panini/pc/Panini_banner_bkg.tga.ckd/57812ee3e7e1191c01cfc40c1827360f.ckd",
+      "map_bkgImageUrl": "/public/map/Panini/pc/Panini_map_bkg.tga.ckd/1f228c4c1dec8352f006cb181a66cfa9.ckd",
+      "expandCoachImageUrl": "/public/map/Panini/pc/Panini_Cover_AlbumCoach.tga.ckd/ac3a99f484d7cf60fb2b220e4c9b3413.ckd",
+      "cover_smallImageUrl": "/public/map/Panini/pc/Panini_Cover_Online.tga.ckd/321e8b807a134333a7b3485565135a50.ckd",
+      "coverImageUrl": "/public/map/Panini/pc/Panini_Cover_Generic.tga.ckd/c5b8608eb5e603278c3b84fe0a55474f.ckd",
+      "coach1ImageUrl": "/public/map/Panini/pc/Panini_Coach_1.tga.ckd/98686e3b6f015913b8b7df2dc46f4c69.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Panini/orbis/Panini_banner_bkg.tga.ckd/57812ee3e7e1191c01cfc40c1827360f.ckd",
+      "map_bkgImageUrl": "/public/map/Panini/orbis/Panini_map_bkg.tga.ckd/1f228c4c1dec8352f006cb181a66cfa9.ckd",
+      "expandCoachImageUrl": "/public/map/Panini/orbis/Panini_Cover_AlbumCoach.tga.ckd/ac3a99f484d7cf60fb2b220e4c9b3413.ckd",
+      "cover_smallImageUrl": "/public/map/Panini/orbis/Panini_Cover_Online.tga.ckd/321e8b807a134333a7b3485565135a50.ckd",
+      "coverImageUrl": "/public/map/Panini/orbis/Panini_Cover_Generic.tga.ckd/c5b8608eb5e603278c3b84fe0a55474f.ckd",
+      "coach1ImageUrl": "/public/map/Panini/orbis/Panini_Coach_1.tga.ckd/98686e3b6f015913b8b7df2dc46f4c69.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Panini/Panini_Coach_1_Phone.png/805c7acd0be024b11a99eaee30e62c5b.png",
+    "phoneCoverImageUrl": "/public/map/Panini/Panini_Cover_Phone.jpg/8ea5875a20424f1a03b157808d8081a3.jpg",
+    "cover640ImageUrl": "/public/map/Panini/Panini_Cover_640.png/f26c735167c176ea3632369a669b98b2.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Panini/Panini.ogg": "/private/map/Panini/Panini.ogg/3a6d23e22b48c4c55e951a0c87238216.ogg",
+    "jmcs://jd-contents/Panini/Panini_AudioPreview.ogg": "/public/map/Panini/Panini_AudioPreview.ogg/e91c023344aa051f2f86f7cf9f23de62.ogg",
+    "jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Panini/Panini_MapPreviewNoSoundCrop_LOW.vp8.webm/26b350978910897e0e0092cdb86a5fd5.webm",
+    "jmcs://jd-contents/Panini/Panini_HIGH.webm": "/private/map/Panini/Panini_HIGH.webm/9ff80f094c03699a751ee14b016fe292.webm",
+    "jmcs://jd-contents/Panini/Panini_LOW.webm": "/private/map/Panini/Panini_LOW.webm/e4e32f8a932b4e5eede6aec11ae7b6b2.webm",
+    "jmcs://jd-contents/Panini/Panini_MID.webm": "/private/map/Panini/Panini_MID.webm/42b1886d78381d534abb483953c0115f.webm",
+    "jmcs://jd-contents/Panini/Panini_ULTRA.hd.webm": "/private/map/Panini/Panini_ULTRA.hd.webm/bf5338d48568bcad188ef3a8268dad34.webm",
+    "jmcs://jd-contents/Panini/Panini_ULTRA.webm": "/private/map/Panini/Panini_ULTRA.webm/6eb2cb6ccc4534b2310f973cb7e45be4.webm",
+    "jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Panini/Panini_MapPreviewNoSoundCrop_MID.vp8.webm/1fd034bb27459895ae8efd3586d8a568.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496680\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\n\t\t\t\t\t<Initialization range=\"0-646\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482301\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Panini/Panini_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 117.857104
+}

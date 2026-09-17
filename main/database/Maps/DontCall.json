@@ -1,0 +1,162 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f223485fa1885922f41c70ac7eab2a61",
+      "storageType": 0,
+      "url": "/public/map/DontCall/nx/DontCall_MAIN_SCENE_NX.zip/f223485fa1885922f41c70ac7eab2a61.zip"
+    },
+    "pc": {
+      "md5": "568802039281dbed1260f98247fbace9",
+      "storageType": 0,
+      "url": "/public/map/DontCall/pc/DontCall_MAIN_SCENE_PC.zip/568802039281dbed1260f98247fbace9.zip"
+    },
+    "ps4": {
+      "md5": "d6f5d8e87e3400565e16e9bf8ebd332c",
+      "storageType": 0,
+      "url": "/public/map/DontCall/orbis/DontCall_MAIN_SCENE_ORBIS.zip/d6f5d8e87e3400565e16e9bf8ebd332c.zip"
+    }
+  },
+  "data": {
+    "mapName": "DontCall",
+    "title": "Don't Call Me Up",
+    "originalJDVersion": 2020,
+    "tags": [
+      "main"
+    ],
+    "artist": "Mabel",
+    "credits": "Written by Camille Angelina Purcell, Mabel McVey and Steve Mac. Published by BMG Gold Songs (ASCAP), BMG Platinum Songs US (BMI). / Universal Music Publishing Limited. Courtesy of Polydor Records Ltd/Capitol Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#3cd8ea",
+    "songColor2A": "#ff7bdd",
+    "songColor1B": "#1042d0",
+    "songColor2B": "#4405ad",
+    "lyricsColor": "#f8920e",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29088,
+        58176,
+        87264,
+        116352,
+        145440,
+        174528,
+        203616,
+        232704,
+        261792,
+        290880,
+        319968,
+        349056,
+        378144,
+        407232,
+        436320,
+        465408,
+        494496,
+        523583,
+        552671,
+        581759,
+        610847,
+        639935,
+        669023,
+        698111,
+        727199,
+        756287,
+        785375,
+        814463,
+        843551,
+        872639,
+        901727,
+        930815,
+        959903,
+        988991,
+        1018079,
+        1047167,
+        1076255,
+        1105343,
+        1134431,
+        1163519,
+        1192607,
+        1221695,
+        1250783,
+        1279871,
+        1308959,
+        1338047,
+        1367135,
+        1396223,
+        1425311,
+        1454399,
+        1483487,
+        1512574
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 292,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DontCall/DontCall_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DontCall/nx/DontCall_banner_bkg.tga.ckd/2f4650b80412a0877d65fe9e8217c5fe.ckd",
+      "map_bkgImageUrl": "/public/map/DontCall/nx/DontCall_map_bkg.tga.ckd/adb3e682d8162891a71615dcc624afbe.ckd",
+      "expandCoachImageUrl": "/public/map/DontCall/nx/DontCall_Cover_AlbumCoach.tga.ckd/bf63c7faf688e0708fe0f578555adc20.ckd",
+      "cover_smallImageUrl": "/public/map/DontCall/nx/DontCall_Cover_Online.tga.ckd/9af085b63b23c74283445116885706a6.ckd",
+      "coach1ImageUrl": "/public/map/DontCall/nx/DontCall_Coach_1.tga.ckd/3e8a1be81969add973ca3819a89c41e7.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DontCall/pc/DontCall_banner_bkg.tga.ckd/335164431d80d045cc6cd8d7f8f9092c.ckd",
+      "map_bkgImageUrl": "/public/map/DontCall/pc/DontCall_map_bkg.tga.ckd/8b1d278082aa077a09d65962580e153e.ckd",
+      "expandCoachImageUrl": "/public/map/DontCall/pc/DontCall_Cover_AlbumCoach.tga.ckd/299d3d9b029136d27fbd2d45cdd966ca.ckd",
+      "cover_smallImageUrl": "/public/map/DontCall/pc/DontCall_Cover_Online.tga.ckd/e370696db9d645f4252d93acd0d34a9c.ckd",
+      "coach1ImageUrl": "/public/map/DontCall/pc/DontCall_Coach_1.tga.ckd/643476ec6ab1346e80ad455fd78bbc30.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DontCall/orbis/DontCall_banner_bkg.tga.ckd/335164431d80d045cc6cd8d7f8f9092c.ckd",
+      "map_bkgImageUrl": "/public/map/DontCall/orbis/DontCall_map_bkg.tga.ckd/8b1d278082aa077a09d65962580e153e.ckd",
+      "expandCoachImageUrl": "/public/map/DontCall/orbis/DontCall_Cover_AlbumCoach.tga.ckd/299d3d9b029136d27fbd2d45cdd966ca.ckd",
+      "cover_smallImageUrl": "/public/map/DontCall/orbis/DontCall_Cover_Online.tga.ckd/e370696db9d645f4252d93acd0d34a9c.ckd",
+      "coach1ImageUrl": "/public/map/DontCall/orbis/DontCall_Coach_1.tga.ckd/643476ec6ab1346e80ad455fd78bbc30.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DontCall/DontCall_Coach_1_Phone.png/9e89b1457639b13970da4b99eac125f4.png",
+    "phoneCoverImageUrl": "/public/map/DontCall/DontCall_Cover_Phone.jpg/9ebccee96fe459259097064472bb09ab.jpg",
+    "cover640ImageUrl": "/public/map/DontCall/DontCall_Cover_640.png/6fcc5df8e77f9b2d9d7e5aaeb5823497.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DontCall/DontCall.ogg": "/private/map/DontCall/DontCall.ogg/47f5d7ba50617933c16106869439f369.ogg",
+    "jmcs://jd-contents/DontCall/DontCall_AudioPreview.ogg": "/public/map/DontCall/DontCall_AudioPreview.ogg/6b030e469e9a93be4265f814f8d68423.ogg",
+    "jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DontCall/DontCall_MapPreviewNoSoundCrop_LOW.vp8.webm/4cda1a634841f77fc59c1c144a37b72c.webm",
+    "jmcs://jd-contents/DontCall/DontCall_HIGH.webm": "/private/map/DontCall/DontCall_HIGH.webm/9eb255b3fbe4e535cb33c273cbd2b996.webm",
+    "jmcs://jd-contents/DontCall/DontCall_LOW.webm": "/private/map/DontCall/DontCall_LOW.webm/515c8d2ce2b4b692cf791d907914181a.webm",
+    "jmcs://jd-contents/DontCall/DontCall_MID.webm": "/private/map/DontCall/DontCall_MID.webm/d8efb0ae224dbfc6fca5f471422d4113.webm",
+    "jmcs://jd-contents/DontCall/DontCall_ULTRA.hd.webm": "/private/map/DontCall/DontCall_ULTRA.hd.webm/dd206fca28dd7ef2cfb26597eee876b5.webm",
+    "jmcs://jd-contents/DontCall/DontCall_ULTRA.webm": "/private/map/DontCall/DontCall_ULTRA.webm/538408191d5128455fcd77dbc82a7a2b.webm",
+    "jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DontCall/DontCall_MapPreviewNoSoundCrop_MID.vp8.webm/22479efce94853fac4144a70653f470b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497406\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"649-1138\">\n\t\t\t\t\t<Initialization range=\"0-649\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480756\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontCall/DontCall_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\n\t\t\t\t\t<Initialization range=\"0-650\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 178.76975
+}

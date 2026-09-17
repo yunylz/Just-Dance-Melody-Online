@@ -1,0 +1,157 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "06e34dfb6d93b1c1a4bb0dcab5156125",
+      "storageType": 0,
+      "url": "/public/map/Umbrella/nx/Umbrella_MAIN_SCENE_NX.zip/06e34dfb6d93b1c1a4bb0dcab5156125.zip"
+    },
+    "pc": {
+      "md5": "7c91da291a52f580358e8dd40b5cad90",
+      "storageType": 0,
+      "url": "/public/map/Umbrella/pc/Umbrella_MAIN_SCENE_PC.zip/7c91da291a52f580358e8dd40b5cad90.zip"
+    },
+    "ps4": {
+      "md5": "7b4b3622d5b3b655cfa92c2a71aaf4e4",
+      "storageType": 0,
+      "url": "/public/map/Umbrella/orbis/Umbrella_MAIN_SCENE_ORBIS.zip/7b4b3622d5b3b655cfa92c2a71aaf4e4.zip"
+    }
+  },
+  "data": {
+    "mapName": "Umbrella",
+    "title": "Umbrella",
+    "originalJDVersion": 4,
+    "tags": [
+      "subscribedSong",
+      "JustDance4",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Rihanna Ft. JAY-Z",
+    "credits": "planedec50",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        43008,
+        76128,
+        109200,
+        142320,
+        175392,
+        207840,
+        241440,
+        274512,
+        307632,
+        340752,
+        373824,
+        406944,
+        440064,
+        473136,
+        506256,
+        539376,
+        572448,
+        605568,
+        638688,
+        671760,
+        704880,
+        737952,
+        771072,
+        804192,
+        837264,
+        870384,
+        903504,
+        936576,
+        969696,
+        1002816,
+        1035888,
+        1069008,
+        1102128,
+        1135200,
+        1168320,
+        1201440,
+        1234512,
+        1267632,
+        1300704,
+        1333824,
+        1366944,
+        1400016,
+        1433136,
+        1466256,
+        1499328
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 371,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 43,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Umbrella/Umbrella_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Umbrella/nx/Umbrella_banner_bkg.tga.ckd/b97f7ba3b59e17b94f5422a69799812c.ckd",
+      "map_bkgImageUrl": "/public/map/Umbrella/nx/Umbrella_map_bkg.tga.ckd/5e7ee6c5af5efacbde9c00479e602f47.ckd",
+      "expandCoachImageUrl": "/public/map/Umbrella/nx/Umbrella_Cover_AlbumCoach.tga.ckd/316aee6f9af454cc382cc38e26ea6eac.ckd",
+      "cover_smallImageUrl": "/public/map/Umbrella/nx/Umbrella_Cover_Online.tga.ckd/f9b8ec4d78511cc9e91b9cdcd500f5cc.ckd",
+      "coach1ImageUrl": "/public/map/Umbrella/nx/Umbrella_Coach_1.tga.ckd/fe55845daedfe26331223fc37aca314c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Umbrella/pc/Umbrella_banner_bkg.tga.ckd/42616e492acd5c4e28d4f2adff8c67fb.ckd",
+      "map_bkgImageUrl": "/public/map/Umbrella/pc/Umbrella_map_bkg.tga.ckd/91eb9d14db652aaba350c246b5fdc25b.ckd",
+      "expandCoachImageUrl": "/public/map/Umbrella/pc/Umbrella_Cover_AlbumCoach.tga.ckd/36c46d7fa81b54ab1e7944360a29d5ee.ckd",
+      "cover_smallImageUrl": "/public/map/Umbrella/pc/Umbrella_Cover_Online.tga.ckd/86951dfc000fa7a5eb60b167af8f38d8.ckd",
+      "coach1ImageUrl": "/public/map/Umbrella/pc/Umbrella_Coach_1.tga.ckd/3a697e95a0fd1e5ac3d2eaa5d742cb40.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Umbrella/orbis/Umbrella_banner_bkg.tga.ckd/42616e492acd5c4e28d4f2adff8c67fb.ckd",
+      "map_bkgImageUrl": "/public/map/Umbrella/orbis/Umbrella_map_bkg.tga.ckd/91eb9d14db652aaba350c246b5fdc25b.ckd",
+      "expandCoachImageUrl": "/public/map/Umbrella/orbis/Umbrella_Cover_AlbumCoach.tga.ckd/36c46d7fa81b54ab1e7944360a29d5ee.ckd",
+      "cover_smallImageUrl": "/public/map/Umbrella/orbis/Umbrella_Cover_Online.tga.ckd/86951dfc000fa7a5eb60b167af8f38d8.ckd",
+      "coach1ImageUrl": "/public/map/Umbrella/orbis/Umbrella_Coach_1.tga.ckd/3a697e95a0fd1e5ac3d2eaa5d742cb40.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Umbrella/Umbrella_Coach_1_Phone.png/b473238b7bc03c860be64ce8b2ad5a14.png",
+    "phoneCoverImageUrl": "/public/map/Umbrella/Umbrella_Cover_Phone.jpg/1e94f6179f328073492df5422c96da43.jpg",
+    "cover640ImageUrl": "/public/map/Umbrella/Umbrella_Cover_640.png/fe7b7dd90d035547040836f5a81def2b.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Umbrella/Umbrella.ogg": "/private/map/Umbrella/Umbrella.ogg/dbb6ed983a4f8e9da39e150638ccd803.ogg",
+    "jmcs://jd-contents/Umbrella/Umbrella_AudioPreview.ogg": "/public/map/Umbrella/Umbrella_AudioPreview.ogg/85de63c1a69741a70a9bd1f495a19846.ogg",
+    "jmcs://jd-contents/Umbrella/Umbrella_HIGH.webm": "/private/map/Umbrella/Umbrella_HIGH.webm/63a6a1109a7323a7dbaa51deabe50bb1.webm",
+    "jmcs://jd-contents/Umbrella/Umbrella_LOW.webm": "/private/map/Umbrella/Umbrella_LOW.webm/23a79e7c14258749e3bc90c4cceafde9.webm",
+    "jmcs://jd-contents/Umbrella/Umbrella_MID.webm": "/private/map/Umbrella/Umbrella_MID.webm/c0fd6d044485669311f5a02aaf18ca3a.webm",
+    "jmcs://jd-contents/Umbrella/Umbrella_ULTRA.hd.webm": "/private/map/Umbrella/Umbrella_ULTRA.hd.webm/c00e0541a6713c01b31724abc51e80cb.webm",
+    "jmcs://jd-contents/Umbrella/Umbrella_ULTRA.webm": "/private/map/Umbrella/Umbrella_ULTRA.webm/c9af8e2932d633197a148c74930164d2.webm",
+    "jmcs://jd-contents/Umbrella/Umbrella_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Umbrella/Umbrella_MapPreviewNoSoundCrop_LOW.vp8.webm/5a9f2b2a13bd158dd0b809b21eefccd0.webm",
+    "jmcs://jd-contents/Umbrella/Umbrella_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Umbrella/Umbrella_MapPreviewNoSoundCrop_MID.vp8.webm/9fcdca431fe819a16b3bb733854ebb34.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497754\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Umbrella/Umbrella_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1476135\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Umbrella/Umbrella_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 255.864
+}

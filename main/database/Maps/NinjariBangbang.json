@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "5bce26fdf16457836f813beebd3bcc40",
+      "storageType": 0,
+      "url": "/public/map/NinjariBangbang/nx/NinjariBangbang_MAIN_SCENE_NX.zip/5bce26fdf16457836f813beebd3bcc40.zip"
+    },
+    "pc": {
+      "md5": "dc5445c3f38cb11c5b03becc81fd42b0",
+      "storageType": 0,
+      "url": "/public/map/NinjariBangbang/pc/NinjariBangbang_MAIN_SCENE_PC.zip/dc5445c3f38cb11c5b03becc81fd42b0.zip"
+    },
+    "ps4": {
+      "md5": "c4d1c2c8ce33b88893099706c6e02490",
+      "storageType": 0,
+      "url": "/public/map/NinjariBangbang/orbis/NinjariBangbang_MAIN_SCENE_ORBIS.zip/c4d1c2c8ce33b88893099706c6e02490.zip"
+    }
+  },
+  "data": {
+    "mapName": "NinjariBangbang",
+    "title": "Ninja Re Bang Bang (にんじゃりばんばん)",
+    "originalJDVersion": 1003,
+    "tags": [
+      "subscribedSong",
+      "jdwiiu",
+      "Solo",
+      "Hard"
+    ],
+    "artist": "Kyary Pamyu Pamyu",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#40ecf2",
+    "songColor2A": "#fc06de",
+    "songColor1B": "#037c6a",
+    "songColor2B": "#6d035f",
+    "lyricsColor": "#00f5d2"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22176,
+        44304,
+        66480,
+        88608,
+        110784,
+        132912,
+        155088,
+        177216,
+        199392,
+        221520,
+        243696,
+        265824,
+        288000,
+        310176,
+        332304,
+        354480,
+        376608,
+        398784,
+        420912,
+        443088,
+        465216,
+        487392,
+        509520,
+        531696,
+        553824,
+        576000,
+        598176,
+        620304,
+        642480,
+        664608,
+        686784,
+        708912,
+        731088,
+        753216,
+        775392,
+        797520,
+        819696,
+        841824,
+        864001,
+        886177,
+        908305,
+        930481,
+        952609,
+        974785,
+        996913,
+        1019089,
+        1041217,
+        1063393,
+        1085521,
+        1107697,
+        1129825,
+        1152001,
+        1174177,
+        1196305,
+        1218481,
+        1240609,
+        1262785,
+        1284913,
+        1307089,
+        1329217,
+        1351393,
+        1373521,
+        1395697,
+        1417825,
+        1440001,
+        1462177,
+        1484305
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 574,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/NinjariBangbang/NinjariBangbang_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/NinjariBangbang/nx/NinjariBangbang_banner_bkg.tga.ckd/ebc451e4cdf0c6ef2c6c6b150f5b8931.ckd",
+      "map_bkgImageUrl": "/public/map/NinjariBangbang/nx/NinjariBangbang_map_bkg.tga.ckd/a655a298dd2908cb0bf6bcf29c0776ea.ckd",
+      "expandCoachImageUrl": "/public/map/NinjariBangbang/nx/NinjariBangbang_Cover_AlbumCoach.tga.ckd/1bb675353d12c88daa2584f3c77acb8a.ckd",
+      "cover_smallImageUrl": "/public/map/NinjariBangbang/nx/NinjariBangbang_Cover_Online.tga.ckd/871dc60feec7526f84f012bb63d70f2e.ckd",
+      "coach1ImageUrl": "/public/map/NinjariBangbang/nx/NinjariBangbang_Coach_1.tga.ckd/e24ac0584f8f4466fc99e81ab7f22981.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/NinjariBangbang/pc/NinjariBangbang_banner_bkg.tga.ckd/8e2c81a1aba079a4b878f5169825e3c7.ckd",
+      "map_bkgImageUrl": "/public/map/NinjariBangbang/pc/NinjariBangbang_map_bkg.tga.ckd/51c46b8fe37852c62077a6bfbc65d56a.ckd",
+      "expandCoachImageUrl": "/public/map/NinjariBangbang/pc/NinjariBangbang_Cover_AlbumCoach.tga.ckd/402982879cfed0131f9c6ea313058d7e.ckd",
+      "cover_smallImageUrl": "/public/map/NinjariBangbang/pc/NinjariBangbang_Cover_Online.tga.ckd/217053df4eed41d0f0f0e7e660dbf306.ckd",
+      "coach1ImageUrl": "/public/map/NinjariBangbang/pc/NinjariBangbang_Coach_1.tga.ckd/6c5d5adafdeb5760bbe19aadf84f95b1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/NinjariBangbang/orbis/NinjariBangbang_banner_bkg.tga.ckd/8e2c81a1aba079a4b878f5169825e3c7.ckd",
+      "map_bkgImageUrl": "/public/map/NinjariBangbang/orbis/NinjariBangbang_map_bkg.tga.ckd/51c46b8fe37852c62077a6bfbc65d56a.ckd",
+      "expandCoachImageUrl": "/public/map/NinjariBangbang/orbis/NinjariBangbang_Cover_AlbumCoach.tga.ckd/402982879cfed0131f9c6ea313058d7e.ckd",
+      "cover_smallImageUrl": "/public/map/NinjariBangbang/orbis/NinjariBangbang_Cover_Online.tga.ckd/217053df4eed41d0f0f0e7e660dbf306.ckd",
+      "coach1ImageUrl": "/public/map/NinjariBangbang/orbis/NinjariBangbang_Coach_1.tga.ckd/6c5d5adafdeb5760bbe19aadf84f95b1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/NinjariBangbang/NinjariBangbang_Coach_1_Phone.png/d97791d2d7d191b0db406ca7a7ca5611.png",
+    "phoneCoverImageUrl": "/public/map/NinjariBangbang/NinjariBangbang_Cover_Phone.jpg/838afab3df49a12c340ed58779f05002.jpg",
+    "cover640ImageUrl": "/public/map/NinjariBangbang/NinjariBangbang_Cover_640.png/394260541d8e29b61cd8ea9a81206b2e.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/NinjariBangbang/NinjariBangbang.ogg": "/private/map/NinjariBangbang/NinjariBangbang.ogg/480c463f993f008a5b40f5367cf9cf5f.ogg",
+    "jmcs://jd-contents/NinjariBangbang/NinjariBangbang_AudioPreview.ogg": "/public/map/NinjariBangbang/NinjariBangbang_AudioPreview.ogg/188f882158703b11fcc7f57863d9378f.ogg",
+    "jmcs://jd-contents/NinjariBangbang/NinjariBangbang_HIGH.webm": "/private/map/NinjariBangbang/NinjariBangbang_HIGH.webm/2d5b38ed89e0868f62be079c1b6b850d.webm",
+    "jmcs://jd-contents/NinjariBangbang/NinjariBangbang_LOW.webm": "/private/map/NinjariBangbang/NinjariBangbang_LOW.webm/0a2a9f0c3b171167c0d94089d5c1c067.webm",
+    "jmcs://jd-contents/NinjariBangbang/NinjariBangbang_MID.webm": "/private/map/NinjariBangbang/NinjariBangbang_MID.webm/d00c1b581cbc36190a4eabed30904011.webm",
+    "jmcs://jd-contents/NinjariBangbang/NinjariBangbang_ULTRA.webm": "/private/map/NinjariBangbang/NinjariBangbang_ULTRA.webm/ba713151a48091d30c7418ff3fcb0209.webm",
+    "jmcs://jd-contents/NinjariBangbang/NinjariBangbang_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/NinjariBangbang/NinjariBangbang_MapPreviewNoSoundCrop_LOW.vp8.webm/6ce4b8c35a42decee4185e53ff0826b1.webm",
+    "jmcs://jd-contents/NinjariBangbang/NinjariBangbang_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/NinjariBangbang/NinjariBangbang_MapPreviewNoSoundCrop_MID.vp8.webm/3b93f63c4661908a902c07223a9dec0b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"517962\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NinjariBangbang/NinjariBangbang_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"566-1056\">\n\t\t\t\t\t<Initialization range=\"0-566\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1493554\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NinjariBangbang/NinjariBangbang_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"567-1057\">\n\t\t\t\t\t<Initialization range=\"0-567\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 267.68
+}

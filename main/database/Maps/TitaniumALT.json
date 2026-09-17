@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "126d2a47cabe6096226d2cd10b41b102",
+      "storageType": 0,
+      "url": "/public/map/TitaniumALT/nx/TitaniumALT_MAIN_SCENE_NX.zip/126d2a47cabe6096226d2cd10b41b102.zip"
+    },
+    "pc": {
+      "md5": "0d56044bd7f4aa8b6cde1e00360b3901",
+      "storageType": 0,
+      "url": "/public/map/TitaniumALT/pc/TitaniumALT_MAIN_SCENE_PC.zip/0d56044bd7f4aa8b6cde1e00360b3901.zip"
+    },
+    "ps4": {
+      "md5": "cd15543100667fd085567f113c59520e",
+      "storageType": 0,
+      "url": "/public/map/TitaniumALT/orbis/TitaniumALT_MAIN_SCENE_ORBIS.zip/cd15543100667fd085567f113c59520e.zip"
+    }
+  },
+  "data": {
+    "mapName": "TitaniumALT",
+    "title": "Titanium",
+    "originalJDVersion": 2017,
+    "tags": [
+      "Main"
+    ],
+    "artist": "David Guetta Ft. Sia",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22847,
+        45695,
+        68591,
+        91439,
+        114287,
+        137135,
+        159983,
+        182879,
+        205727,
+        228575,
+        251423,
+        274271,
+        297119,
+        320015,
+        342863,
+        365711,
+        388559,
+        411407,
+        434303,
+        457151,
+        479998,
+        502846,
+        525694,
+        548590,
+        571438,
+        594286,
+        617134,
+        639982,
+        662878,
+        685726,
+        708574,
+        731422,
+        754270,
+        777118,
+        800014,
+        822862,
+        845710,
+        868558,
+        891406,
+        914302,
+        937149,
+        959997,
+        982845,
+        1005693,
+        1028589,
+        1051437,
+        1074285,
+        1097133,
+        1119981,
+        1142877,
+        1165725,
+        1188573,
+        1211421,
+        1234269,
+        1257117,
+        1280013,
+        1302861,
+        1325709,
+        1348557,
+        1371405,
+        1394301,
+        1417148,
+        1439996,
+        1462844,
+        1485692
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 445,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TitaniumALT/TitaniumALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TitaniumALT/nx/TitaniumALT_banner_bkg.tga.ckd/a3ae40411f3f1365b176c026d41ac56c.ckd",
+      "map_bkgImageUrl": "/public/map/TitaniumALT/nx/TitaniumALT_map_bkg.tga.ckd/377a4f729ecaf5fbd65c51e46ba44e13.ckd",
+      "expandCoachImageUrl": "/public/map/TitaniumALT/nx/TitaniumALT_Cover_AlbumCoach.tga.ckd/f1920d1fe6eaf4666fe4f253199f5601.ckd",
+      "cover_smallImageUrl": "/public/map/TitaniumALT/nx/TitaniumALT_Cover_Online.tga.ckd/4381d17b394c9962e47887948948f066.ckd",
+      "coach1ImageUrl": "/public/map/TitaniumALT/nx/TitaniumALT_Coach_1.tga.ckd/8a030ca67770a175e3c5a6718dd600d4.ckd",
+      "coach2ImageUrl": "/public/map/TitaniumALT/nx/TitaniumALT_Coach_2.tga.ckd/ebacd3c8483c0e1983a731a36e4d5466.ckd",
+      "coach3ImageUrl": "/public/map/TitaniumALT/nx/TitaniumALT_Coach_3.tga.ckd/bb9921bbff612ac8e9feb56c6f1a43e8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TitaniumALT/pc/TitaniumALT_banner_bkg.tga.ckd/64a3d0be59cd429f0b23a02d83708239.ckd",
+      "map_bkgImageUrl": "/public/map/TitaniumALT/pc/TitaniumALT_map_bkg.tga.ckd/edb6cde1b7c7fb4f7101ea9cd194a576.ckd",
+      "expandCoachImageUrl": "/public/map/TitaniumALT/pc/TitaniumALT_Cover_AlbumCoach.tga.ckd/fe5bc8748a3f5f3896e6f53185be84ad.ckd",
+      "cover_smallImageUrl": "/public/map/TitaniumALT/pc/TitaniumALT_Cover_Online.tga.ckd/07cdc83544cdc710c8f3ca0bf0f9c9b8.ckd",
+      "coach1ImageUrl": "/public/map/TitaniumALT/pc/TitaniumALT_Coach_1.tga.ckd/b8d5a4569fe25906498aab7eb021b4ea.ckd",
+      "coach2ImageUrl": "/public/map/TitaniumALT/pc/TitaniumALT_Coach_2.tga.ckd/a80a6f30919e253ca584e46d441810dc.ckd",
+      "coach3ImageUrl": "/public/map/TitaniumALT/pc/TitaniumALT_Coach_3.tga.ckd/1194e20207f1f97e235f5a16cbb7dd84.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TitaniumALT/orbis/TitaniumALT_banner_bkg.tga.ckd/64a3d0be59cd429f0b23a02d83708239.ckd",
+      "map_bkgImageUrl": "/public/map/TitaniumALT/orbis/TitaniumALT_map_bkg.tga.ckd/edb6cde1b7c7fb4f7101ea9cd194a576.ckd",
+      "expandCoachImageUrl": "/public/map/TitaniumALT/orbis/TitaniumALT_Cover_AlbumCoach.tga.ckd/fe5bc8748a3f5f3896e6f53185be84ad.ckd",
+      "cover_smallImageUrl": "/public/map/TitaniumALT/orbis/TitaniumALT_Cover_Online.tga.ckd/07cdc83544cdc710c8f3ca0bf0f9c9b8.ckd",
+      "coach1ImageUrl": "/public/map/TitaniumALT/orbis/TitaniumALT_Coach_1.tga.ckd/b8d5a4569fe25906498aab7eb021b4ea.ckd",
+      "coach2ImageUrl": "/public/map/TitaniumALT/orbis/TitaniumALT_Coach_2.tga.ckd/a80a6f30919e253ca584e46d441810dc.ckd",
+      "coach3ImageUrl": "/public/map/TitaniumALT/orbis/TitaniumALT_Coach_3.tga.ckd/1194e20207f1f97e235f5a16cbb7dd84.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TitaniumALT/TitaniumALT_Coach_1_Phone.png/07cedd8640d9329b5b951e9d5e1f1b06.png",
+    "phoneCoach2ImageUrl": "/public/map/TitaniumALT/TitaniumALT_Coach_2_Phone.png/9f55e5dba4d117ac10baa42856eecb69.png",
+    "phoneCoach3ImageUrl": "/public/map/TitaniumALT/TitaniumALT_Coach_3_Phone.png/7497e6bc1f0de411dbbdca3bb39e1df3.png",
+    "phoneCoverImageUrl": "/public/map/TitaniumALT/TitaniumALT_Cover_Phone.jpg/4cad4c40d5ac8c8356b9c04bc35910a4.jpg",
+    "cover640ImageUrl": "/public/map/TitaniumALT/TitaniumALT_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/TitaniumALT/TitaniumALT.ogg": "/private/map/TitaniumALT/TitaniumALT.ogg/0137c9f5f4104f2bdd907511b67f6254.ogg",
+    "jmcs://jd-contents/TitaniumALT/TitaniumALT_AudioPreview.ogg": "/public/map/TitaniumALT/TitaniumALT_AudioPreview.ogg/1a362c40aa659bfc789969f66e9a430c.ogg",
+    "jmcs://jd-contents/TitaniumALT/TitaniumALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TitaniumALT/TitaniumALT_MapPreviewNoSoundCrop_LOW.vp8.webm/c9126f69a70bcbf519c69e45a5e45978.webm",
+    "jmcs://jd-contents/TitaniumALT/TitaniumALT_HIGH.webm": "/private/map/TitaniumALT/TitaniumALT_HIGH.webm/5c59ebf5b021fbf44d391eee91f48526.webm",
+    "jmcs://jd-contents/TitaniumALT/TitaniumALT_LOW.webm": "/private/map/TitaniumALT/TitaniumALT_LOW.webm/e46dad2760b60606f69a4e481a04bc37.webm",
+    "jmcs://jd-contents/TitaniumALT/TitaniumALT_MID.webm": "/private/map/TitaniumALT/TitaniumALT_MID.webm/21659da00dc7fe7c2422a9cd9a31dbda.webm",
+    "jmcs://jd-contents/TitaniumALT/TitaniumALT_ULTRA.hd.webm": "/private/map/TitaniumALT/TitaniumALT_ULTRA.hd.webm/e97a358f543b92ece20e6e422a15bbd1.webm",
+    "jmcs://jd-contents/TitaniumALT/TitaniumALT_ULTRA.webm": "/private/map/TitaniumALT/TitaniumALT_ULTRA.webm/addacd8a287d102b6508d190a7c4def9.webm",
+    "jmcs://jd-contents/TitaniumALT/TitaniumALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TitaniumALT/TitaniumALT_MapPreviewNoSoundCrop_MID.vp8.webm/34ec05df70a54fdb66109967073d36e6.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"481884\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TitaniumALT/TitaniumALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\n\t\t\t\t\t<Initialization range=\"0-605\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1361330\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TitaniumALT/TitaniumALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\n\t\t\t\t\t<Initialization range=\"0-606\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 216.666521
+}

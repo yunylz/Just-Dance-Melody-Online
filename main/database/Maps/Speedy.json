@@ -1,0 +1,167 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "510e7d2ad7401bdc9234a4bbfd2805a6",
+      "storageType": 0,
+      "url": "/public/map/Speedy/nx/Speedy_MAIN_SCENE_NX.zip/510e7d2ad7401bdc9234a4bbfd2805a6.zip"
+    },
+    "pc": {
+      "md5": "ea89f814467f6b52226b2368006ce4e7",
+      "storageType": 0,
+      "url": "/public/map/Speedy/pc/Speedy_MAIN_SCENE_PC.zip/ea89f814467f6b52226b2368006ce4e7.zip"
+    },
+    "ps4": {
+      "md5": "53dc9224c2144715beed85d6980e42f3",
+      "storageType": 0,
+      "url": "/public/map/Speedy/orbis/Speedy_MAIN_SCENE_ORBIS.zip/53dc9224c2144715beed85d6980e42f3.zip"
+    }
+  },
+  "data": {
+    "mapName": "Speedy",
+    "title": "Speedy Gonzalez",
+    "originalJDVersion": 2015,
+    "tags": [
+      "main"
+    ],
+    "artist": "Los Pimientos Locos",
+    "credits": "EMPTY",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#000000",
+    "songColor2A": "#000000",
+    "songColor1B": "#570000",
+    "songColor2B": "#000000",
+    "lyricsColor": "#8b0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28080,
+        56160,
+        84240,
+        112368,
+        140496,
+        168576,
+        196704,
+        224832,
+        252960,
+        281088,
+        309216,
+        337344,
+        365472,
+        393600,
+        421680,
+        449808,
+        477936,
+        506064,
+        534192,
+        562320,
+        590448,
+        618576,
+        646704,
+        674784,
+        702912,
+        731040,
+        759168,
+        787296,
+        815424,
+        843552,
+        871680,
+        899808,
+        927936,
+        956016,
+        984145,
+        1012273,
+        1039873,
+        1067473,
+        1095073,
+        1122625,
+        1150225,
+        1177825,
+        1205425,
+        1233025,
+        1257553,
+        1282129,
+        1306657,
+        1331185,
+        1355761,
+        1380289,
+        1404865,
+        1429393,
+        1460017,
+        1490641
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 372,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Speedy/Speedy_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Speedy/nx/Speedy_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/Speedy/nx/Speedy_map_bkg.tga.ckd/a74740f1b66504b21f42f493aaf99ce5.ckd",
+      "expandCoachImageUrl": "/public/map/Speedy/nx/Speedy_Cover_AlbumCoach.tga.ckd/2acb49874cda7e3506efc4d4626a32ce.ckd",
+      "cover_smallImageUrl": "/public/map/Speedy/nx/Speedy_Cover_Online.tga.ckd/c8e87f940d63a242d7cf636db3922438.ckd",
+      "coach1ImageUrl": "/public/map/Speedy/nx/Speedy_Coach_1.tga.ckd/f386d2e0d1735e7b1fb4f7468b47f9cc.ckd",
+      "coach2ImageUrl": "/public/map/Speedy/nx/Speedy_Coach_2.tga.ckd/07114c6526a8bc5b205846f8215f4b1a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Speedy/pc/Speedy_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/Speedy/pc/Speedy_map_bkg.tga.ckd/4fb8e50e93d7c3efb12170ff473cc401.ckd",
+      "expandCoachImageUrl": "/public/map/Speedy/pc/Speedy_Cover_AlbumCoach.tga.ckd/108af14b03a5126349a06838acfc7b88.ckd",
+      "cover_smallImageUrl": "/public/map/Speedy/pc/Speedy_Cover_Online.tga.ckd/ee6e21fc30be41825b2053d5b4903735.ckd",
+      "coach1ImageUrl": "/public/map/Speedy/pc/Speedy_Coach_1.tga.ckd/b3a0eb91ed2032a46a726c74d2dfaf17.ckd",
+      "coach2ImageUrl": "/public/map/Speedy/pc/Speedy_Coach_2.tga.ckd/6a806a677dc92f8c9265a6bb18749229.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Speedy/orbis/Speedy_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/Speedy/orbis/Speedy_map_bkg.tga.ckd/4fb8e50e93d7c3efb12170ff473cc401.ckd",
+      "expandCoachImageUrl": "/public/map/Speedy/orbis/Speedy_Cover_AlbumCoach.tga.ckd/108af14b03a5126349a06838acfc7b88.ckd",
+      "cover_smallImageUrl": "/public/map/Speedy/orbis/Speedy_Cover_Online.tga.ckd/ee6e21fc30be41825b2053d5b4903735.ckd",
+      "coach1ImageUrl": "/public/map/Speedy/orbis/Speedy_Coach_1.tga.ckd/b3a0eb91ed2032a46a726c74d2dfaf17.ckd",
+      "coach2ImageUrl": "/public/map/Speedy/orbis/Speedy_Coach_2.tga.ckd/6a806a677dc92f8c9265a6bb18749229.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Speedy/Speedy_Coach_1_Phone.png/b6fb60e270c06ca9906aef5c0e5b18f2.png",
+    "phoneCoach2ImageUrl": "/public/map/Speedy/Speedy_Coach_2_Phone.png/a9ab430455ea0631ed7b63fc646d7a55.png",
+    "phoneCoverImageUrl": "/public/map/Speedy/Speedy_Cover_Phone.jpg/41cdc38a5cec755573adcc3fe1edd041.jpg",
+    "cover640ImageUrl": "/public/map/Speedy/Speedy_Cover_640.png/f8400b3d7df75f0e580472149c28050b.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Speedy/Speedy.ogg": "/private/map/Speedy/Speedy.ogg/6b756a1652c02ac4a115f1887e12170d.ogg",
+    "jmcs://jd-contents/Speedy/Speedy_AudioPreview.ogg": "/public/map/Speedy/Speedy_AudioPreview.ogg/85ed022153a2cd0a3f85f7235f718421.ogg",
+    "jmcs://jd-contents/Speedy/Speedy_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Speedy/Speedy_MapPreviewNoSoundCrop_LOW.vp8.webm/66394031013e7db50105f6d20a003282.webm",
+    "jmcs://jd-contents/Speedy/Speedy_HIGH.webm": "/private/map/Speedy/Speedy_HIGH.webm/bc92740bca1b75665a648275e4dcbc85.webm",
+    "jmcs://jd-contents/Speedy/Speedy_LOW.webm": "/private/map/Speedy/Speedy_LOW.webm/bd5706a127f9d253ee47c2d7d72f30bc.webm",
+    "jmcs://jd-contents/Speedy/Speedy_MID.webm": "/private/map/Speedy/Speedy_MID.webm/92951361e5033aa8e87a1f153e49f3d6.webm",
+    "jmcs://jd-contents/Speedy/Speedy_ULTRA.hd.webm": "/private/map/Speedy/Speedy_ULTRA.hd.webm/0edf3e393d9fa1af0b24eac8a8fa21b1.webm",
+    "jmcs://jd-contents/Speedy/Speedy_ULTRA.webm": "/private/map/Speedy/Speedy_ULTRA.webm/a4723d804784e0108107cb5e0265e31e.webm",
+    "jmcs://jd-contents/Speedy/Speedy_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Speedy/Speedy_MapPreviewNoSoundCrop_MID.vp8.webm/fcb09f1197b187ff1ab5a19903f46ba1.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"518427\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Speedy/Speedy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1509872\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Speedy/Speedy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 162.942896
+}

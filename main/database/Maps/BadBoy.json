@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7b44baeac01e0a1e4d1c52f648f035a4",
+      "storageType": 0,
+      "url": "/public/map/BadBoy/nx/BadBoy_MAIN_SCENE_NX.zip/7b44baeac01e0a1e4d1c52f648f035a4.zip"
+    },
+    "pc": {
+      "md5": "e46aec7d4efff4dbb16bdfb79372b9cf",
+      "storageType": 0,
+      "url": "/public/map/BadBoy/pc/BadBoy_MAIN_SCENE_PC.zip/e46aec7d4efff4dbb16bdfb79372b9cf.zip"
+    },
+    "ps4": {
+      "md5": "125e864080341051ecd8253d9f64d66f",
+      "storageType": 0,
+      "url": "/public/map/BadBoy/orbis/BadBoy_MAIN_SCENE_ORBIS.zip/125e864080341051ecd8253d9f64d66f.zip"
+    }
+  },
+  "data": {
+    "mapName": "BadBoy",
+    "title": "Bad Boy",
+    "originalJDVersion": 2020,
+    "tags": [
+      "main"
+    ],
+    "artist": "Riton & Kah-Lo",
+    "credits": "Written by Henry Smithson, Thomas Wright Goss and Faridah Demola-Seriki. Published by Kobalt Songs Music Publishing / Copyright Control / Kah-Lo obo Faridah Demola-Seriki. Courtesy of 2018 Ritontime.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#f417ec",
+    "songColor2A": "#ffd400",
+    "songColor1B": "#000339",
+    "songColor2B": "#d947d4",
+    "lyricsColor": "#30fbd6",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23607,
+        47213,
+        70820,
+        94426,
+        118033,
+        141639,
+        165246,
+        188852,
+        212459,
+        236066,
+        259672,
+        283279,
+        306885,
+        330492,
+        354098,
+        377705,
+        401311,
+        424918,
+        448525,
+        472131,
+        495738,
+        519344,
+        542951,
+        566557,
+        590164,
+        613770,
+        637377,
+        660984,
+        684590,
+        708197,
+        731803,
+        755410,
+        779016,
+        802623,
+        826230,
+        849836,
+        873443,
+        897049,
+        920656,
+        944262,
+        967869,
+        991475,
+        1015082,
+        1038689,
+        1062295,
+        1085902,
+        1109508,
+        1133115,
+        1156721,
+        1180328,
+        1203934,
+        1227541,
+        1251148,
+        1274754,
+        1298361,
+        1321967,
+        1345574,
+        1369180,
+        1392787,
+        1416393,
+        1440000,
+        1463607,
+        1487213
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 378,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BadBoy/BadBoy_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BadBoy/nx/BadBoy_banner_bkg.tga.ckd/0894c2a2ffc2ecaf4bfcaa68db6bc673.ckd",
+      "map_bkgImageUrl": "/public/map/BadBoy/nx/BadBoy_map_bkg.tga.ckd/b0986dbbd23c3f7e33c6ad37feca92d8.ckd",
+      "expandCoachImageUrl": "/public/map/BadBoy/nx/BadBoy_Cover_AlbumCoach.tga.ckd/6e5051a28aeb7fc65c13de1f2bfabec3.ckd",
+      "cover_smallImageUrl": "/public/map/BadBoy/nx/BadBoy_Cover_Online.tga.ckd/fa829be5cc37a96919ecc65ec04eaced.ckd",
+      "coverImageUrl": "/public/map/BadBoy/nx/BadBoy_Cover_Generic.tga.ckd/06b3f69a7e2c7e433bb33851a90c52b5.ckd",
+      "coach1ImageUrl": "/public/map/BadBoy/nx/BadBoy_Coach_1.tga.ckd/13d53e89510a42321d47c89bd66104c4.ckd",
+      "coach2ImageUrl": "/public/map/BadBoy/nx/BadBoy_Coach_2.tga.ckd/0552c1e3c25796353c9e9210a5936570.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BadBoy/pc/BadBoy_banner_bkg.tga.ckd/34d1eefc7334352fdc1cbfc98f7490e1.ckd",
+      "map_bkgImageUrl": "/public/map/BadBoy/pc/BadBoy_map_bkg.tga.ckd/22b4bd8b1f1fb562d32d47965fb74c7d.ckd",
+      "expandCoachImageUrl": "/public/map/BadBoy/pc/BadBoy_Cover_AlbumCoach.tga.ckd/6f1f30ceca1d94a4fce8b965aed247eb.ckd",
+      "cover_smallImageUrl": "/public/map/BadBoy/pc/BadBoy_Cover_Online.tga.ckd/199d9d25b304e16bf048c3e6e2c33111.ckd",
+      "coverImageUrl": "/public/map/BadBoy/pc/BadBoy_Cover_Generic.tga.ckd/29f30e5449f6af3b70f06c669716cf56.ckd",
+      "coach1ImageUrl": "/public/map/BadBoy/pc/BadBoy_Coach_1.tga.ckd/f6c8978a61a7e87c0f4cde6f5424e30c.ckd",
+      "coach2ImageUrl": "/public/map/BadBoy/pc/BadBoy_Coach_2.tga.ckd/41627ba9c3723b40929a5f528fa46393.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BadBoy/orbis/BadBoy_banner_bkg.tga.ckd/34d1eefc7334352fdc1cbfc98f7490e1.ckd",
+      "map_bkgImageUrl": "/public/map/BadBoy/orbis/BadBoy_map_bkg.tga.ckd/22b4bd8b1f1fb562d32d47965fb74c7d.ckd",
+      "expandCoachImageUrl": "/public/map/BadBoy/orbis/BadBoy_Cover_AlbumCoach.tga.ckd/6f1f30ceca1d94a4fce8b965aed247eb.ckd",
+      "cover_smallImageUrl": "/public/map/BadBoy/orbis/BadBoy_Cover_Online.tga.ckd/199d9d25b304e16bf048c3e6e2c33111.ckd",
+      "coverImageUrl": "/public/map/BadBoy/orbis/BadBoy_Cover_Generic.tga.ckd/29f30e5449f6af3b70f06c669716cf56.ckd",
+      "coach1ImageUrl": "/public/map/BadBoy/orbis/BadBoy_Coach_1.tga.ckd/f6c8978a61a7e87c0f4cde6f5424e30c.ckd",
+      "coach2ImageUrl": "/public/map/BadBoy/orbis/BadBoy_Coach_2.tga.ckd/41627ba9c3723b40929a5f528fa46393.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BadBoy/BadBoy_Coach_1_Phone.png/9cfdc52a4cdf0ba4e034d6629bd27531.png",
+    "phoneCoach2ImageUrl": "/public/map/BadBoy/BadBoy_Coach_2_Phone.png/1a5bc21ea5862578a69f212a059bb05d.png",
+    "phoneCoverImageUrl": "/public/map/BadBoy/BadBoy_Cover_Phone.jpg/07ab4a56867f4d38fe9ccb40adcd860b.jpg",
+    "cover640ImageUrl": "/public/map/BadBoy/BadBoy_Cover_640.png/a6b41c6cf8570fc8744092c1bce7a464.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BadBoy/BadBoy.ogg": "/private/map/BadBoy/BadBoy.ogg/0dcf65e18f68cc2334ec6eb8e63bfd32.ogg",
+    "jmcs://jd-contents/BadBoy/BadBoy_AudioPreview.ogg": "/public/map/BadBoy/BadBoy_AudioPreview.ogg/83f3f53c81e9c2d7d6038ddc843ab36a.ogg",
+    "jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BadBoy/BadBoy_MapPreviewNoSoundCrop_LOW.vp8.webm/a79f51880fcc5d11950508965df37522.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_HIGH.webm": "/private/map/BadBoy/BadBoy_HIGH.webm/95a7be5211b1b1509856bdc7c982930a.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_LOW.webm": "/private/map/BadBoy/BadBoy_LOW.webm/475248d607d275b70f8eefb896199506.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_MID.webm": "/private/map/BadBoy/BadBoy_MID.webm/5d76171d0ce270f7528d5686c69a8e34.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_ULTRA.hd.webm": "/private/map/BadBoy/BadBoy_ULTRA.hd.webm/7d1cbfc616a29e0ac96c3ff6e8e09f1b.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_ULTRA.webm": "/private/map/BadBoy/BadBoy_ULTRA.webm/7ebaf70fa6e03b4d39222ab29b301119.webm",
+    "jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BadBoy/BadBoy_MapPreviewNoSoundCrop_MID.vp8.webm/27256cd13084ae3c459b4f71a12b92dc.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497204\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"597-1086\">\n\t\t\t\t\t<Initialization range=\"0-597\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484041\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadBoy/BadBoy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\n\t\t\t\t\t<Initialization range=\"0-594\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 185.409792
+}

@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "86f723f2a5fb879c411b0eff2c0aa249",
+      "storageType": 0,
+      "url": "/public/map/TrainingSeason/nx/TrainingSeason_MAIN_SCENE_NX.zip/86f723f2a5fb879c411b0eff2c0aa249.zip"
+    },
+    "pc": {
+      "md5": "a04908d3467562dcd3fc2689e418b951",
+      "storageType": 0,
+      "url": "/public/map/TrainingSeason/pc/TrainingSeason_MAIN_SCENE_PC.zip/a04908d3467562dcd3fc2689e418b951.zip"
+    },
+    "ps4": {
+      "md5": "12f1e2f35877d59f8dcfb1c83187f44b",
+      "storageType": 0,
+      "url": "/public/map/TrainingSeason/orbis/TrainingSeason_MAIN_SCENE_ORBIS.zip/12f1e2f35877d59f8dcfb1c83187f44b.zip"
+    }
+  },
+  "data": {
+    "mapName": "TrainingSeason",
+    "title": "Training Season",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Dua Lipa",
+    "credits": "Written by Caroline Ailin, Shaun Frank, Nicholas Gale, Yaakov Gruzman, Daniel Harle, Tobias MacDonald Jesso, Dua Lipa, Kevin Parker, Steve Francis Richard Mastroianni, Martina Sorbara.\r\nPublished by Stellar Sun Songs, Famous Virgins Inc., Viking Jamz Publishing, Sony/ATV Music Publishing (UK) Limited and Sony Music Publishing (australia) Pty Limited / Regicide Entertainment / Hyvetown Music / Universal Music Publishing Canada on behalf of Songs Of Universal, Inc. / Radical 22 Publishing Limited. All rights on behalf of Radical 22 Publishing Limited administered by WC Music Corp. / Steve Francis Richard Mastroianni.\r\nCourtesy of Warner Music UK Ltd. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#f7cf4e"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23415,
+        46829,
+        70244,
+        93659,
+        117073,
+        140488,
+        163902,
+        187317,
+        210732,
+        234146,
+        257561,
+        280976,
+        304390,
+        327805,
+        351220,
+        374634,
+        398049,
+        421463,
+        444878,
+        468293,
+        491707,
+        515122,
+        538537,
+        561951,
+        585366,
+        608780,
+        632195,
+        655610,
+        679024,
+        702439,
+        725854,
+        749268,
+        772683,
+        796098,
+        819512,
+        842927,
+        866341,
+        889756,
+        913171,
+        936585,
+        960000,
+        983415,
+        1006829,
+        1030244,
+        1053659,
+        1077073,
+        1100488,
+        1123902,
+        1147317,
+        1170732,
+        1194146,
+        1217561,
+        1240976,
+        1264390,
+        1287805,
+        1311220,
+        1334634,
+        1358049,
+        1381463,
+        1404878,
+        1428293,
+        1451707,
+        1475122
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 440,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TrainingSeason/TrainingSeason_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TrainingSeason/nx/TrainingSeason_banner_bkg.tga.ckd/50f3f26559292f10e1bee70bfafd169f.ckd",
+      "map_bkgImageUrl": "/public/map/TrainingSeason/nx/TrainingSeason_map_bkg.tga.ckd/e5bde707e01f35c0e56fe86088578b1b.ckd",
+      "expandCoachImageUrl": "/public/map/TrainingSeason/nx/TrainingSeason_Cover_AlbumCoach.tga.ckd/d363919106dd0e51deef0a3197e0b089.ckd",
+      "cover_smallImageUrl": "/public/map/TrainingSeason/nx/TrainingSeason_Cover_Online.tga.ckd/9b67dd430d2f7b00f10f5b023848f6f2.ckd",
+      "coach1ImageUrl": "/public/map/TrainingSeason/nx/TrainingSeason_Coach_1.tga.ckd/b359ea877310b4cd552b3e9cb9e531f4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TrainingSeason/pc/TrainingSeason_banner_bkg.tga.ckd/db42722a1b20f4b63ce7b4d42112cfaa.ckd",
+      "map_bkgImageUrl": "/public/map/TrainingSeason/pc/TrainingSeason_map_bkg.tga.ckd/70c9978586ef2fc06ae01b8fbbff2ade.ckd",
+      "expandCoachImageUrl": "/public/map/TrainingSeason/pc/TrainingSeason_Cover_AlbumCoach.tga.ckd/02546c21a0aba139c7770dd2b65ce714.ckd",
+      "cover_smallImageUrl": "/public/map/TrainingSeason/pc/TrainingSeason_Cover_Online.tga.ckd/f4dc60258e6748e6295f9e4ee576525d.ckd",
+      "coach1ImageUrl": "/public/map/TrainingSeason/pc/TrainingSeason_Coach_1.tga.ckd/80b32ef04f2038f338ab3b202b40664d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TrainingSeason/orbis/TrainingSeason_banner_bkg.tga.ckd/db42722a1b20f4b63ce7b4d42112cfaa.ckd",
+      "map_bkgImageUrl": "/public/map/TrainingSeason/orbis/TrainingSeason_map_bkg.tga.ckd/70c9978586ef2fc06ae01b8fbbff2ade.ckd",
+      "expandCoachImageUrl": "/public/map/TrainingSeason/orbis/TrainingSeason_Cover_AlbumCoach.tga.ckd/02546c21a0aba139c7770dd2b65ce714.ckd",
+      "cover_smallImageUrl": "/public/map/TrainingSeason/orbis/TrainingSeason_Cover_Online.tga.ckd/f4dc60258e6748e6295f9e4ee576525d.ckd",
+      "coach1ImageUrl": "/public/map/TrainingSeason/orbis/TrainingSeason_Coach_1.tga.ckd/80b32ef04f2038f338ab3b202b40664d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TrainingSeason/TrainingSeason_Coach_1_Phone.png/ff4a2edf8c82432eabd8310c0bd56ca2.png",
+    "phoneCoverImageUrl": "/public/map/TrainingSeason/TrainingSeason_Cover_Phone.jpg/84db2e42923ab5d98013289756209b05.jpg",
+    "cover640ImageUrl": "/public/map/TrainingSeason/TrainingSeason_Cover_640.png/045f5e0310db3fec387c149c54a23fab.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/TrainingSeason/TrainingSeason.ogg": "/private/map/TrainingSeason/TrainingSeason.ogg/7af7e3d4a2c5512fa5298322e4a56dc7.ogg",
+    "jmcs://jd-contents/TrainingSeason/TrainingSeason_AudioPreview.ogg": "/public/map/TrainingSeason/TrainingSeason_AudioPreview.ogg/60c39264e7fd347dfe21397871ce3286.ogg",
+    "jmcs://jd-contents/TrainingSeason/TrainingSeason_HIGH.webm": "/private/map/TrainingSeason/TrainingSeason_HIGH.webm/7a304bc75cea44e7147735e9fc3e087b.webm",
+    "jmcs://jd-contents/TrainingSeason/TrainingSeason_LOW.webm": "/private/map/TrainingSeason/TrainingSeason_LOW.webm/4ed5f1ea2003609cbc4d10fb118fd89e.webm",
+    "jmcs://jd-contents/TrainingSeason/TrainingSeason_MID.webm": "/private/map/TrainingSeason/TrainingSeason_MID.webm/e46825bfceffbc753dc332c6a84ec37c.webm",
+    "jmcs://jd-contents/TrainingSeason/TrainingSeason_ULTRA.webm": "/private/map/TrainingSeason/TrainingSeason_ULTRA.webm/c2a9ab4b0f52f98a390867e4dd7ed29d.webm",
+    "jmcs://jd-contents/TrainingSeason/TrainingSeason_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TrainingSeason/TrainingSeason_MapPreviewNoSoundCrop_LOW.vp8.webm/49e31dd9a31a61efa371e56f73e7fb91.webm",
+    "jmcs://jd-contents/TrainingSeason/TrainingSeason_ULTRA.hd.webm": "/private/map/TrainingSeason/TrainingSeason_ULTRA.hd.webm/0a86bf76a0dbe0661031fdcb056963fa.webm",
+    "jmcs://jd-contents/TrainingSeason/TrainingSeason_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TrainingSeason/TrainingSeason_MapPreviewNoSoundCrop_MID.vp8.webm/106cc8abdebbd8c1721114b066c9a7ae.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"501090\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TrainingSeason/TrainingSeason_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\n\t\t\t\t\t<Initialization range=\"0-639\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1490717\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TrainingSeason/TrainingSeason_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\n\t\t\t\t\t<Initialization range=\"0-640\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 222.644771
+}

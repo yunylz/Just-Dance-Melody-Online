@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e2fd1f2d19d84abda41eb8f707e16f91",
+      "storageType": 0,
+      "url": "/public/map/Jump/nx/Jump_MAIN_SCENE_NX.zip/e2fd1f2d19d84abda41eb8f707e16f91.zip"
+    },
+    "pc": {
+      "md5": "ffb0a8dbd2563c58d28c1912fc291928",
+      "storageType": 0,
+      "url": "/public/map/Jump/pc/Jump_MAIN_SCENE_PC.zip/ffb0a8dbd2563c58d28c1912fc291928.zip"
+    },
+    "ps4": {
+      "md5": "7af5a16ca39030d071026c4e09ddfb7f",
+      "storageType": 0,
+      "url": "/public/map/Jump/orbis/Jump_MAIN_SCENE_ORBIS.zip/7af5a16ca39030d071026c4e09ddfb7f.zip"
+    }
+  },
+  "data": {
+    "mapName": "Jump",
+    "title": "Jump",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Kris Kross",
+    "credits": "Written by Deke Richards, Alphonso Mizell, Freddie Perren, Berry Gordy Jr., Jermaine Dupri, Marshall Jones, Leroy Bonner, Clarence Satchell, Norman Napier, Andrew Noland, Marvin Pierce, Gregory Webster, Walter Morrison and Ralph Middlebrooks. Published by Bridgeport Music Inc. (BMI), EMI April Music Inc (ASCAP) and Jobete Music Co. Inc (ASCAP). All rights reserved.\\u00a0 Used by permission. Courtesy of One Media Publishing Ltd. By arrangement with The Orchard.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FFB62D",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28263,
+        56525,
+        84787,
+        113050,
+        141312,
+        169574,
+        197837,
+        226099,
+        254361,
+        282623,
+        310886,
+        339148,
+        367410,
+        395673,
+        423935,
+        452197,
+        480460,
+        508722,
+        536984,
+        565247,
+        593509,
+        621771,
+        650034,
+        678296,
+        706558,
+        734820,
+        763083,
+        791345,
+        819607,
+        847870,
+        876132,
+        904394,
+        932657,
+        960919,
+        989181,
+        1017444,
+        1045706,
+        1073968,
+        1102231,
+        1130493,
+        1158755,
+        1187017,
+        1215280,
+        1243542,
+        1271804,
+        1300067,
+        1328329,
+        1356591,
+        1384854,
+        1413116
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 338,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Jump/Jump_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "cover_smallImageUrl": "/public/map/Jump/nx/Jump_Cover_Online.tga.ckd/056e667d54d642ce349b087ab0274f20.ckd",
+      "coverImageUrl": "/public/map/Jump/nx/Jump_Cover_Generic.tga.ckd/7cede60aff6431f91f5459abecd64880.ckd",
+      "expandCoachImageUrl": "/public/map/Jump/nx/Jump_Cover_AlbumCoach.tga.ckd/4fc81b62e79f1c9c255e44d0425302ee.ckd",
+      "map_bkgImageUrl": "/public/map/Jump/nx/Jump_map_bkg.tga.ckd/96f7fa04260ee6a4e16bed3addc75699.ckd",
+      "banner_bkgImageUrl": "/public/map/Jump/nx/Jump_banner_bkg.tga.ckd/8318793b4c50897cf2d585e408f32386.ckd",
+      "coach1ImageUrl": "/public/map/Jump/nx/Jump_Coach_1.tga.ckd/70302c0e905db5ac1179e22a48ea68af.ckd",
+      "coach2ImageUrl": "/public/map/Jump/nx/Jump_Coach_2.tga.ckd/3910bccd2dee6d9f277102aec694485c.ckd",
+      "phoneCoverImageUrl": "/public/map/Jump/Jump_Cover_Phone.jpg/e6d11b1a62f94911fba914a3970a271b.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Jump/Jump_Coach_1_Phone.png/42cce35743f7f12cae57a2f978a2c15e.png",
+      "phoneCoach2ImageUrl": "/public/map/Jump/Jump_Coach_2_Phone.png/cc2b6890aea0f924c23368f4b1cb8bf7.png",
+      "cover640ImageUrl": "/public/map/Jump/Jump_Cover_640.png/7a42e74d433013269020e6ad8c830318.png"
+    },
+    "pc": {
+      "cover_smallImageUrl": "/public/map/Jump/pc/Jump_Cover_Online.tga.ckd/ddf7cf0720cae562fc6cee732986a1fa.ckd",
+      "coverImageUrl": "/public/map/Jump/pc/Jump_Cover_Generic.tga.ckd/071df8864a1bcc8835591e7474ef7730.ckd",
+      "expandCoachImageUrl": "/public/map/Jump/pc/Jump_Cover_AlbumCoach.tga.ckd/7ea46e13af76a836929350d455291317.ckd",
+      "map_bkgImageUrl": "/public/map/Jump/pc/Jump_map_bkg.tga.ckd/38aef98baf627b79f1856093f4a8c16e.ckd",
+      "banner_bkgImageUrl": "/public/map/Jump/pc/Jump_banner_bkg.tga.ckd/856f295ed7c3d7d63aa8b6355c91e777.ckd",
+      "coach1ImageUrl": "/public/map/Jump/pc/Jump_Coach_1.tga.ckd/67953e6aa9702b37674fa70ea1165bb4.ckd",
+      "coach2ImageUrl": "/public/map/Jump/pc/Jump_Coach_2.tga.ckd/bfd8892afac1940a37f110410eb7c000.ckd",
+      "phoneCoverImageUrl": "/public/map/Jump/Jump_Cover_Phone.jpg/e6d11b1a62f94911fba914a3970a271b.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Jump/Jump_Coach_1_Phone.png/42cce35743f7f12cae57a2f978a2c15e.png",
+      "phoneCoach2ImageUrl": "/public/map/Jump/Jump_Coach_2_Phone.png/cc2b6890aea0f924c23368f4b1cb8bf7.png",
+      "cover640ImageUrl": "/public/map/Jump/Jump_Cover_640.png/7a42e74d433013269020e6ad8c830318.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/Jump/orbis/Jump_Cover_Online.tga.ckd/ddf7cf0720cae562fc6cee732986a1fa.ckd",
+      "coverImageUrl": "/public/map/Jump/orbis/Jump_Cover_Generic.tga.ckd/071df8864a1bcc8835591e7474ef7730.ckd",
+      "expandCoachImageUrl": "/public/map/Jump/orbis/Jump_Cover_AlbumCoach.tga.ckd/7ea46e13af76a836929350d455291317.ckd",
+      "map_bkgImageUrl": "/public/map/Jump/orbis/Jump_map_bkg.tga.ckd/38aef98baf627b79f1856093f4a8c16e.ckd",
+      "banner_bkgImageUrl": "/public/map/Jump/orbis/Jump_banner_bkg.tga.ckd/856f295ed7c3d7d63aa8b6355c91e777.ckd",
+      "coach1ImageUrl": "/public/map/Jump/orbis/Jump_Coach_1.tga.ckd/67953e6aa9702b37674fa70ea1165bb4.ckd",
+      "coach2ImageUrl": "/public/map/Jump/orbis/Jump_Coach_2.tga.ckd/bfd8892afac1940a37f110410eb7c000.ckd",
+      "phoneCoverImageUrl": "/public/map/Jump/Jump_Cover_Phone.jpg/e6d11b1a62f94911fba914a3970a271b.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Jump/Jump_Coach_1_Phone.png/42cce35743f7f12cae57a2f978a2c15e.png",
+      "phoneCoach2ImageUrl": "/public/map/Jump/Jump_Coach_2_Phone.png/cc2b6890aea0f924c23368f4b1cb8bf7.png",
+      "cover640ImageUrl": "/public/map/Jump/Jump_Cover_640.png/7a42e74d433013269020e6ad8c830318.png"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Jump/Jump_Coach_1_Phone.png/137b466870b07daa625ea5bd90bf7110.png",
+    "phoneCoach2ImageUrl": "/public/map/Jump/Jump_Coach_2_Phone.png/ef3dbf49a04571587ed00675649bdf6f.png",
+    "phoneCoverImageUrl": "/public/map/Jump/Jump_Cover_Phone.jpg/f1279de60fa974de528ada40b5794046.jpg",
+    "cover640ImageUrl": "/public/map/Jump/Jump_Cover_640.png/7c76dedbf6b196199a567a0999d6cc1d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Jump/Jump.ogg": "/private/map/Jump/Jump.ogg/19a59b1b3534e242d145081112ba39b9.ogg",
+    "jmcs://jd-contents/Jump/Jump_AudioPreview.ogg": "/public/map/Jump/Jump_AudioPreview.ogg/23d2bad4f7c6e11d2e308f3be32c90a9.ogg",
+    "jmcs://jd-contents/Jump/Jump_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Jump/Jump_MapPreviewNoSoundCrop_LOW.vp8.webm/4620c45dff73096ae795dfa487bacc78.webm",
+    "jmcs://jd-contents/Jump/Jump_HIGH.webm": "/private/map/Jump/Jump_HIGH.webm/d7efd1af2108b12cd2ecb7757b1fa59c.webm",
+    "jmcs://jd-contents/Jump/Jump_LOW.webm": "/private/map/Jump/Jump_LOW.webm/1fb3a3f34e3a59e463c1392b28ab6c07.webm",
+    "jmcs://jd-contents/Jump/Jump_MID.webm": "/private/map/Jump/Jump_MID.webm/d9b6adbb7787cff6aab63fffa0fe405e.webm",
+    "jmcs://jd-contents/Jump/Jump_ULTRA.hd.webm": "/private/map/Jump/Jump_ULTRA.hd.webm/f2f34124c0649006f04ed3f676e1580e.webm",
+    "jmcs://jd-contents/Jump/Jump_ULTRA.webm": "/private/map/Jump/Jump_ULTRA.webm/9fee4d9528e7361d36e4671b93e9843a.webm",
+    "jmcs://jd-contents/Jump/Jump_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Jump/Jump_MapPreviewNoSoundCrop_MID.vp8.webm/e6b4c05bdb7272a88a288d04bed61065.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496592\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Jump/Jump_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"592-1081\">\n\t\t\t\t\t<Initialization range=\"0-592\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1473925\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Jump/Jump_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\n\t\t\t\t\t<Initialization range=\"0-593\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 199.25279166666667
+}

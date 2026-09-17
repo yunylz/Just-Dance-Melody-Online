@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "2151428b282b1d9c2f961ced7c31103a",
+      "storageType": 0,
+      "url": "/public/map/GongXiGongXi/nx/GongXiGongXi_MAIN_SCENE_NX.zip/2151428b282b1d9c2f961ced7c31103a.zip"
+    },
+    "pc": {
+      "md5": "2101a657977e11443435a581489c2a43",
+      "storageType": 0,
+      "url": "/public/map/GongXiGongXi/pc/GongXiGongXi_MAIN_SCENE_PC.zip/2101a657977e11443435a581489c2a43.zip"
+    },
+    "ps4": {
+      "md5": "c3421b9b799f9aa127120a0250b75892",
+      "storageType": 0,
+      "url": "/public/map/GongXiGongXi/orbis/GongXiGongXi_MAIN_SCENE_ORBIS.zip/c3421b9b799f9aa127120a0250b75892.zip"
+    }
+  },
+  "data": {
+    "mapName": "GongXiGongXi",
+    "title": "Gong Xi Gong Xi (恭喜恭喜)",
+    "originalJDVersion": 1103,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "舞力全开乐队",
+    "credits": "\\u9648\\u6b4c\\u8f9b\\u521b\\u4f5c\\uff0c\\u821e\\u529b\\u5168\\u5f00\\u4e50\\u961f\\u6f14\\u5531\\u3002\\u627f\\u8499Ubisoft Music\\u63d0\\u4f9b\\u3002",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31304,
+        62609,
+        93913,
+        125218,
+        156522,
+        187826,
+        219131,
+        250435,
+        281739,
+        313044,
+        344348,
+        375652,
+        406957,
+        438261,
+        469565,
+        500870,
+        532174,
+        563478,
+        594783,
+        626087,
+        657391,
+        688696,
+        720000,
+        751304,
+        782609,
+        813913,
+        845218,
+        876522,
+        907826,
+        939131,
+        970435,
+        1001739,
+        1033044,
+        1064348,
+        1095652,
+        1126957,
+        1158261,
+        1189565,
+        1220870,
+        1252174,
+        1283478,
+        1314783,
+        1346087,
+        1377391,
+        1408696
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 250,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 45,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/gongxigongxi/gongxigongxi_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GongXiGongXi/nx/GongXiGongXi_banner_bkg.tga.ckd/20ddf64e0e1e88e657647ab344878000.ckd",
+      "map_bkgImageUrl": "/public/map/GongXiGongXi/nx/GongXiGongXi_map_bkg.tga.ckd/6f2c6bcfa3e106cbc76e62a01cefca94.ckd",
+      "expandCoachImageUrl": "/public/map/GongXiGongXi/nx/GongXiGongXi_Cover_AlbumCoach.tga.ckd/b078909461ef4a106154e99c7bf99207.ckd",
+      "cover_smallImageUrl": "/public/map/GongXiGongXi/nx/GongXiGongXi_Cover_Online.tga.ckd/1d12dd66e83020001bfaa5bdb79148e7.ckd",
+      "coach1ImageUrl": "/public/map/GongXiGongXi/nx/GongXiGongXi_Coach_1.tga.ckd/e9a913c8d98902982c9fb6336967b79e.ckd",
+      "coach2ImageUrl": "/public/map/GongXiGongXi/nx/GongXiGongXi_Coach_2.tga.ckd/0367d3c38f5f272953755cfde170391b.ckd",
+      "coach3ImageUrl": "/public/map/GongXiGongXi/nx/GongXiGongXi_Coach_3.tga.ckd/a7583b6f66405056f74165b620eacb43.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GongXiGongXi/pc/GongXiGongXi_banner_bkg.tga.ckd/bbe7903418bdd288dd9bcb7d67d67d28.ckd",
+      "map_bkgImageUrl": "/public/map/GongXiGongXi/pc/GongXiGongXi_map_bkg.tga.ckd/9537d803bb2edd6f36447e1d2f32b418.ckd",
+      "expandCoachImageUrl": "/public/map/GongXiGongXi/pc/GongXiGongXi_Cover_AlbumCoach.tga.ckd/9681d5aaee137ddbc858c1abee302342.ckd",
+      "cover_smallImageUrl": "/public/map/GongXiGongXi/pc/GongXiGongXi_Cover_Online.tga.ckd/4d2cb33bb8245024f0d89014c60baceb.ckd",
+      "coach1ImageUrl": "/public/map/GongXiGongXi/pc/GongXiGongXi_Coach_1.tga.ckd/0c2d46663af30ae4dd407976bbb2a5c5.ckd",
+      "coach2ImageUrl": "/public/map/GongXiGongXi/pc/GongXiGongXi_Coach_2.tga.ckd/830be03f835cdf378949e5191efc932a.ckd",
+      "coach3ImageUrl": "/public/map/GongXiGongXi/pc/GongXiGongXi_Coach_3.tga.ckd/ee47aa868d67f6727aaed235995e84d0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GongXiGongXi/orbis/GongXiGongXi_banner_bkg.tga.ckd/bbe7903418bdd288dd9bcb7d67d67d28.ckd",
+      "map_bkgImageUrl": "/public/map/GongXiGongXi/orbis/GongXiGongXi_map_bkg.tga.ckd/9537d803bb2edd6f36447e1d2f32b418.ckd",
+      "expandCoachImageUrl": "/public/map/GongXiGongXi/orbis/GongXiGongXi_Cover_AlbumCoach.tga.ckd/9681d5aaee137ddbc858c1abee302342.ckd",
+      "cover_smallImageUrl": "/public/map/GongXiGongXi/orbis/GongXiGongXi_Cover_Online.tga.ckd/4d2cb33bb8245024f0d89014c60baceb.ckd",
+      "coach1ImageUrl": "/public/map/GongXiGongXi/orbis/GongXiGongXi_Coach_1.tga.ckd/0c2d46663af30ae4dd407976bbb2a5c5.ckd",
+      "coach2ImageUrl": "/public/map/GongXiGongXi/orbis/GongXiGongXi_Coach_2.tga.ckd/830be03f835cdf378949e5191efc932a.ckd",
+      "coach3ImageUrl": "/public/map/GongXiGongXi/orbis/GongXiGongXi_Coach_3.tga.ckd/ee47aa868d67f6727aaed235995e84d0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GongXiGongXi/GongXiGongXi_Coach_1_Phone.png/695acf774268d48b642144ce81811028.png",
+    "phoneCoach2ImageUrl": "/public/map/GongXiGongXi/GongXiGongXi_Coach_2_Phone.png/f80d7c25916fc4fd85c62de89992fcae.png",
+    "phoneCoach3ImageUrl": "/public/map/GongXiGongXi/GongXiGongXi_Coach_3_Phone.png/b805b2e11724b4cb863e746a5653b03e.png",
+    "phoneCoverImageUrl": "/public/map/GongXiGongXi/GongXiGongXi_Cover_Phone.jpg/d3d8123bb4924c7609cf6baf9c0aa5cc.jpg",
+    "cover640ImageUrl": "/public/map/GongXiGongXi/GongXiGongXi_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GongXiGongXi/GongXiGongXi.ogg": "/private/map/GongXiGongXi/GongXiGongXi.ogg/d47965b7667235ebf57aebf64e3e7b38.ogg",
+    "jmcs://jd-contents/GongXiGongXi/GongXiGongXi_AudioPreview.ogg": "/public/map/GongXiGongXi/GongXiGongXi_AudioPreview.ogg/5d82f99c0c5bbf127885e54089e53064.ogg",
+    "jmcs://jd-contents/GongXiGongXi/GongXiGongXi_HIGH.webm": "/private/map/GongXiGongXi/GongXiGongXi_HIGH.webm/f1d3ade6fa528f3d6b470eda8a6654e5.webm",
+    "jmcs://jd-contents/GongXiGongXi/GongXiGongXi_LOW.webm": "/private/map/GongXiGongXi/GongXiGongXi_LOW.webm/252b7eb8fdc45532910c76fcfed72166.webm",
+    "jmcs://jd-contents/GongXiGongXi/GongXiGongXi_MID.webm": "/private/map/GongXiGongXi/GongXiGongXi_MID.webm/e30fda66bb56ea2d251b978872c43793.webm",
+    "jmcs://jd-contents/GongXiGongXi/GongXiGongXi_ULTRA.hd.webm": "/private/map/GongXiGongXi/GongXiGongXi_ULTRA.hd.webm/fd41346e911bc957961fe96c3345c818.webm",
+    "jmcs://jd-contents/GongXiGongXi/GongXiGongXi_ULTRA.webm": "/private/map/GongXiGongXi/GongXiGongXi_ULTRA.webm/6cf7b1a4a667ef180d3afde285b0bbd7.webm",
+    "jmcs://jd-contents/GongXiGongXi/GongXiGongXi_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GongXiGongXi/GongXiGongXi_MapPreviewNoSoundCrop_LOW.vp8.webm/be675a33c4f71918ec9f10c03e0fc628.webm",
+    "jmcs://jd-contents/GongXiGongXi/GongXiGongXi_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GongXiGongXi/GongXiGongXi_MapPreviewNoSoundCrop_MID.vp8.webm/194cdb0ec070b7e84decf584e64d486d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497302\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GongXiGongXi/GongXiGongXi_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"653-1142\">\n\t\t\t\t\t<Initialization range=\"0-653\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484671\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GongXiGongXi/GongXiGongXi_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\n\t\t\t\t\t<Initialization range=\"0-654\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 168.913
+}

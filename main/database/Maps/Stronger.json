@@ -1,0 +1,184 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Stronger/Stronger_AudioPreview.ogg": "/public/map/Stronger/Stronger_AudioPreview.ogg/e6e7cf2ac4ef2062ea255afcd40a701b.ogg",
+    "jmcs://jd-contents/Stronger/Stronger.ogg": "/private/map/Stronger/Stronger.ogg/0dab9dc2b8aba1763c6af75c2e776683.ogg",
+    "jmcs://jd-contents/Stronger/Stronger_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Stronger/Stronger_MapPreviewNoSoundCrop_LOW.vp8.webm/100229f5261c0537afe3f778fddf6a6a.webm",
+    "jmcs://jd-contents/Stronger/Stronger_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Stronger/Stronger_MapPreviewNoSoundCrop_MID.vp8.webm/377efb18b81bd3c8ebc1064585a61f27.webm",
+    "jmcs://jd-contents/Stronger/Stronger_ULTRA.hd.webm": "/private/map/Stronger/Stronger_ULTRA.hd.webm/7dd613d861f99393a303ea9b8d75b1ec.webm",
+    "jmcs://jd-contents/Stronger/Stronger_HIGH.hd.webm": "/private/map/Stronger/Stronger_HIGH.hd.webm/33d0d49b5b509ff6369bfe13f3de9d4a.webm",
+    "jmcs://jd-contents/Stronger/Stronger_MID.hd.webm": "/private/map/Stronger/Stronger_MID.hd.webm/5fc11f932f0b6a88b8b7f5c371c33062.webm",
+    "jmcs://jd-contents/Stronger/Stronger_LOW.hd.webm": "/private/map/Stronger/Stronger_LOW.hd.webm/23e1f59b624ca050a717195927bb2b0b.webm",
+    "jmcs://jd-contents/Stronger/Stronger_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/Stronger/Stronger_MapPreviewNoSoundCrop_HIGH.vp8.webm/f64bfadcb74bf59a3ef38e6542757103.webm",
+    "jmcs://jd-contents/Stronger/Stronger_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/Stronger/Stronger_MapPreviewNoSoundCrop_ULTRA.vp8.webm/10b4c0bb15d0e808746e14ea6aeaae00.webm"
+  },
+  "mapLength": 238.96539583333333,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24827,
+        49655,
+        74483,
+        99310,
+        124138,
+        148965,
+        173793,
+        198621,
+        223448,
+        248276,
+        273103,
+        297931,
+        322759,
+        347586,
+        372414,
+        397241,
+        422069,
+        446896,
+        471724,
+        496552,
+        521379,
+        546207,
+        571034,
+        595862,
+        620690,
+        645517,
+        670345,
+        695172,
+        720000,
+        744827,
+        769655,
+        794483,
+        819310,
+        844138,
+        868965,
+        893793,
+        918621,
+        943448,
+        968276,
+        993103,
+        1017931,
+        1042759,
+        1067586,
+        1092414,
+        1117241,
+        1142069,
+        1166896,
+        1191724,
+        1216552,
+        1241379,
+        1266207,
+        1291034,
+        1315862,
+        1340690,
+        1365517,
+        1390345,
+        1415172,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -29,
+      "endBeat": 433,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/Stronger/Stronger_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"646284\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Stronger/Stronger_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"792-1282\">\n\t\t\t\t\t<Initialization range=\"0-792\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484975\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Stronger/Stronger_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"792-1282\">\n\t\t\t\t\t<Initialization range=\"0-792\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2949881\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Stronger/Stronger_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"792-1282\">\n\t\t\t\t\t<Initialization range=\"0-792\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"5812877\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Stronger/Stronger_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"792-1289\">\n\t\t\t\t\t<Initialization range=\"0-792\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "f45927f8ba36d49e76243134f13f9e07",
+      "storageType": 0,
+      "url": "/public/map/Stronger/pc/Stronger_MAIN_SCENE_PC.zip/f45927f8ba36d49e76243134f13f9e07.zip"
+    },
+    "ps4": {
+      "md5": "b5bc66870bfdea8178044467dafcc2ec",
+      "storageType": 0,
+      "url": "/public/map/Stronger/orbis/Stronger_MAIN_SCENE_ORBIS.zip/b5bc66870bfdea8178044467dafcc2ec.zip"
+    },
+    "wiiu": {
+      "md5": "4bed7fc1553f7027f67b68676b777358",
+      "storageType": 0,
+      "url": "/public/map/Stronger/wiiu/Stronger_MAIN_SCENE_WIIU.zip/4bed7fc1553f7027f67b68676b777358.zip"
+    },
+    "nx": {
+      "md5": "d6e98a9bd524e074f06a687d2dd631c1",
+      "storageType": 0,
+      "url": "/public/map/Stronger/nx/Stronger_MAIN_SCENE_NX.zip/d6e98a9bd524e074f06a687d2dd631c1.zip"
+    }
+  },
+  "data": {
+    "mapName": "Stronger",
+    "title": "Stronger (What Doesn't Kill You)",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Kelly Clarkson",
+    "credits": "Written by Jörgen Elofsson, David H. Gamson, Greg Kurstin, Ali Tamposi. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing MGB Scandinav / EMI April Music Inc. and Kurstin Music / BMG Gold Songs. All rights administered by BMG Rights Management (US) LLC / Reservoir 416. Courtesy of RCA Records and 19 Recordings Limited. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#10EBFF",
+    "songColor2A": "#FBDC99",
+    "songColor1B": "#050E5D",
+    "songColor2B": "#792409",
+    "lyricsColor": "#0EB4BB",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/Stronger/pc/Stronger_Cover_Online.tga.ckd/6318afa18e790e458d0e3ba06d014ad4.ckd",
+      "coverImageUrl": "/public/map/Stronger/pc/Stronger_Cover_Generic.tga.ckd/35bf5b1603bb5f9a4111c6a7359b8c9e.ckd",
+      "expandCoachImageUrl": "/public/map/Stronger/pc/Stronger_Cover_AlbumCoach.tga.ckd/ce3a51e6d6d685021760ad961b6588d4.ckd",
+      "map_bkgImageUrl": "/public/map/Stronger/pc/Stronger_map_bkg.tga.ckd/cb8ca0b054715b15625025571bb34590.ckd",
+      "banner_bkgImageUrl": "/public/map/Stronger/pc/Stronger_banner_bkg.tga.ckd/4beb9640c3853be16581178f8b07050a.ckd",
+      "coach1ImageUrl": "/public/map/Stronger/pc/Stronger_Coach_1.tga.ckd/954f75b90dfb633efc7bd9bea1959abe.ckd",
+      "phoneCoverImageUrl": "/public/map/Stronger/Stronger_Cover_Phone.jpg/7f352d16dd15c0b593e9ed8cea22e68d.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Stronger/Stronger_Coach_1_Phone.png/48d3f6079f287f0fdf940135191cd1e4.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/Stronger/orbis/Stronger_Cover_Online.tga.ckd/6318afa18e790e458d0e3ba06d014ad4.ckd",
+      "coverImageUrl": "/public/map/Stronger/orbis/Stronger_Cover_Generic.tga.ckd/35bf5b1603bb5f9a4111c6a7359b8c9e.ckd",
+      "expandCoachImageUrl": "/public/map/Stronger/orbis/Stronger_Cover_AlbumCoach.tga.ckd/ce3a51e6d6d685021760ad961b6588d4.ckd",
+      "map_bkgImageUrl": "/public/map/Stronger/orbis/Stronger_map_bkg.tga.ckd/cb8ca0b054715b15625025571bb34590.ckd",
+      "banner_bkgImageUrl": "/public/map/Stronger/orbis/Stronger_banner_bkg.tga.ckd/4beb9640c3853be16581178f8b07050a.ckd",
+      "coach1ImageUrl": "/public/map/Stronger/orbis/Stronger_Coach_1.tga.ckd/954f75b90dfb633efc7bd9bea1959abe.ckd",
+      "phoneCoverImageUrl": "/public/map/Stronger/Stronger_Cover_Phone.jpg/7f352d16dd15c0b593e9ed8cea22e68d.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Stronger/Stronger_Coach_1_Phone.png/48d3f6079f287f0fdf940135191cd1e4.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/Stronger/wiiu/Stronger_Cover_Online.tga.ckd/35608b050ca6e47996587882ea95c5fc.ckd",
+      "coverImageUrl": "/public/map/Stronger/wiiu/Stronger_Cover_Generic.tga.ckd/cbc3ba385c6c48e8f689b1124f6ad593.ckd",
+      "expandCoachImageUrl": "/public/map/Stronger/wiiu/Stronger_Cover_AlbumCoach.tga.ckd/36672d5b7c1e6306c38ebd6cf822c411.ckd",
+      "map_bkgImageUrl": "/public/map/Stronger/wiiu/Stronger_map_bkg.tga.ckd/0dccce61c4756febe895e534c4b23c66.ckd",
+      "banner_bkgImageUrl": "/public/map/Stronger/wiiu/Stronger_banner_bkg.tga.ckd/d704726d1447e04453017f09432c8d13.ckd",
+      "coach1ImageUrl": "/public/map/Stronger/wiiu/Stronger_Coach_1.tga.ckd/e6c8d3e3497b1f83f362900d057b6391.ckd",
+      "phoneCoverImageUrl": "/public/map/Stronger/Stronger_Cover_Phone.jpg/7f352d16dd15c0b593e9ed8cea22e68d.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Stronger/Stronger_Coach_1_Phone.png/48d3f6079f287f0fdf940135191cd1e4.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/Stronger/nx/Stronger_Cover_Online.tga.ckd/7c9d6ace7dbc7e1a9d87912b8ed661b1.ckd",
+      "coverImageUrl": "/public/map/Stronger/nx/Stronger_Cover_Generic.tga.ckd/a0ea78b40c265a9bcde1a16099526bbd.ckd",
+      "expandCoachImageUrl": "/public/map/Stronger/nx/Stronger_Cover_AlbumCoach.tga.ckd/3947cb8cb9bc13b6e63eac861ea0e932.ckd",
+      "map_bkgImageUrl": "/public/map/Stronger/nx/Stronger_map_bkg.tga.ckd/7e55b1f4338bf74d2cc23e13f6e92ed8.ckd",
+      "banner_bkgImageUrl": "/public/map/Stronger/nx/Stronger_banner_bkg.tga.ckd/9ca23f324769651d7a8f7f09d1ae83bf.ckd",
+      "coach1ImageUrl": "/public/map/Stronger/nx/Stronger_Coach_1.tga.ckd/cad68a1a06d52a0497a5ca3883a56e1b.ckd",
+      "phoneCoverImageUrl": "/public/map/Stronger/Stronger_Cover_Phone.jpg/7f352d16dd15c0b593e9ed8cea22e68d.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Stronger/Stronger_Coach_1_Phone.png/48d3f6079f287f0fdf940135191cd1e4.png"
+    },
+    "cover640ImageUrl": "/public/map/Stronger/Stronger_Cover_640.png/345e65da55eb557e409ec7ea04653121.png"
+  }
+}

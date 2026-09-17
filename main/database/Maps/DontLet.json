@@ -1,0 +1,155 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "0b939ebb3a362b723c670e4d76f6efc7",
+      "storageType": 0,
+      "url": "/public/map/DontLet/nx/DontLet_MAIN_SCENE_NX.zip/0b939ebb3a362b723c670e4d76f6efc7.zip"
+    },
+    "pc": {
+      "md5": "30e899b0fed8dbc99e23e256b0867199",
+      "storageType": 0,
+      "url": "/public/map/DontLet/pc/DontLet_MAIN_SCENE_PC.zip/30e899b0fed8dbc99e23e256b0867199.zip"
+    },
+    "ps4": {
+      "md5": "7d3658c2f64879d7a46e0d3a222b2232",
+      "storageType": 0,
+      "url": "/public/map/DontLet/orbis/DontLet_MAIN_SCENE_ORBIS.zip/7d3658c2f64879d7a46e0d3a222b2232.zip"
+    }
+  },
+  "data": {
+    "mapName": "DontLet",
+    "title": "Don't Let Me Down",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Chainsmokers ft. Daya",
+    "credits": "Written by Andrew Taggart, Scott Friedman and Emily Schwartz. Published by Nice Hair Publishing / Sony/ATV Allegro (ASCAP) c/o Sony/ATV Music Publishing Canada (SOCAN) / Prescription Songs LLC. Administered by Kobalt Music Publishing America, Inc. / Rebel One Publishing, administered by Imagem Music (BMI). All rights reserved.  Used with permission. Courtesy of Columbia Records. By arrangement with Sony Music Licensing.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff70d2",
+    "songColor2A": "#321799",
+    "songColor1B": "#4f0000",
+    "songColor2B": "#191b66",
+    "lyricsColor": "#19c6f1"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        36000,
+        72000,
+        108000,
+        144000,
+        180000,
+        216000,
+        252000,
+        288000,
+        324000,
+        360000,
+        395999,
+        432000,
+        468000,
+        504000,
+        540000,
+        576000,
+        612000,
+        648000,
+        684000,
+        720000,
+        756000,
+        791999,
+        828000,
+        864000,
+        900000,
+        936000,
+        972000,
+        1008000,
+        1044000,
+        1080000,
+        1116000,
+        1152000,
+        1188000,
+        1224000,
+        1260000,
+        1296000,
+        1332000,
+        1368000,
+        1404000,
+        1440000,
+        1476000,
+        1512000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 273,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 40,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DontLet/DontLet_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DontLet/nx/DontLet_banner_bkg.tga.ckd/7314906c8265862fbc1d8b2c3087ae6a.ckd",
+      "map_bkgImageUrl": "/public/map/DontLet/nx/DontLet_map_bkg.tga.ckd/38265ec6743e31fb1993abf3043ddcd3.ckd",
+      "expandCoachImageUrl": "/public/map/DontLet/nx/DontLet_Cover_AlbumCoach.tga.ckd/38f0716bcc85cf349fa50065ccf56e2d.ckd",
+      "cover_smallImageUrl": "/public/map/DontLet/nx/DontLet_Cover_Online.tga.ckd/f4184162b6f7874e75e77eab85ff1d9a.ckd",
+      "coach1ImageUrl": "/public/map/DontLet/nx/DontLet_Coach_1.tga.ckd/80cb0b48732f552552999a2ef51c62a4.ckd",
+      "coach2ImageUrl": "/public/map/DontLet/nx/DontLet_Coach_2.tga.ckd/0d5aea57bf0c199bbff9a29e1e537afa.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DontLet/pc/DontLet_banner_bkg.tga.ckd/08f25f1048423b9415c68f4517bcf4fc.ckd",
+      "map_bkgImageUrl": "/public/map/DontLet/pc/DontLet_map_bkg.tga.ckd/f169ed5c890582e76fdafa0574c2e127.ckd",
+      "expandCoachImageUrl": "/public/map/DontLet/pc/DontLet_Cover_AlbumCoach.tga.ckd/48e89377c06a272aa286ea5f8e481b83.ckd",
+      "cover_smallImageUrl": "/public/map/DontLet/pc/DontLet_Cover_Online.tga.ckd/ca05a4da562e514516993b5467ef2fe3.ckd",
+      "coach1ImageUrl": "/public/map/DontLet/pc/DontLet_Coach_1.tga.ckd/f661e5c5ec0554e0cd1250af72ebb11e.ckd",
+      "coach2ImageUrl": "/public/map/DontLet/pc/DontLet_Coach_2.tga.ckd/313c3e27bde6de324426588dfbafa42a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DontLet/orbis/DontLet_banner_bkg.tga.ckd/08f25f1048423b9415c68f4517bcf4fc.ckd",
+      "map_bkgImageUrl": "/public/map/DontLet/orbis/DontLet_map_bkg.tga.ckd/f169ed5c890582e76fdafa0574c2e127.ckd",
+      "expandCoachImageUrl": "/public/map/DontLet/orbis/DontLet_Cover_AlbumCoach.tga.ckd/48e89377c06a272aa286ea5f8e481b83.ckd",
+      "cover_smallImageUrl": "/public/map/DontLet/orbis/DontLet_Cover_Online.tga.ckd/ca05a4da562e514516993b5467ef2fe3.ckd",
+      "coach1ImageUrl": "/public/map/DontLet/orbis/DontLet_Coach_1.tga.ckd/f661e5c5ec0554e0cd1250af72ebb11e.ckd",
+      "coach2ImageUrl": "/public/map/DontLet/orbis/DontLet_Coach_2.tga.ckd/313c3e27bde6de324426588dfbafa42a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DontLet/DontLet_Coach_1_Phone.png/4fe287a445de979cd6a16c478873f55e.png",
+    "phoneCoach2ImageUrl": "/public/map/DontLet/DontLet_Coach_2_Phone.png/32834cce9c2efa939a4167d4271b5f95.png",
+    "phoneCoverImageUrl": "/public/map/DontLet/DontLet_Cover_Phone.jpg/69cff91c809283aa9104775cfbd54560.jpg",
+    "cover640ImageUrl": "/public/map/DontLet/DontLet_Cover_640.png/fb028727e99454f9ba974bf206f8c5dd.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DontLet/DontLet.ogg": "/private/map/DontLet/DontLet.ogg/1797138bcfa6c59eb5a183b6a52b0a98.ogg",
+    "jmcs://jd-contents/DontLet/DontLet_AudioPreview.ogg": "/public/map/DontLet/DontLet_AudioPreview.ogg/20f2f3b5a815a013bb9374d33b265cfe.ogg",
+    "jmcs://jd-contents/DontLet/DontLet_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DontLet/DontLet_MapPreviewNoSoundCrop_LOW.vp8.webm/9b2bda0cf52a85f6ae547f767b1c564f.webm",
+    "jmcs://jd-contents/DontLet/DontLet_HIGH.webm": "/private/map/DontLet/DontLet_HIGH.webm/1721ef138495838db9f2474a70d865e8.webm",
+    "jmcs://jd-contents/DontLet/DontLet_LOW.webm": "/private/map/DontLet/DontLet_LOW.webm/6e5103a03d52ec04dad0c939ecd560b1.webm",
+    "jmcs://jd-contents/DontLet/DontLet_MID.webm": "/private/map/DontLet/DontLet_MID.webm/663affa3a4fa9c6ad4776ef470228e43.webm",
+    "jmcs://jd-contents/DontLet/DontLet_ULTRA.hd.webm": "/private/map/DontLet/DontLet_ULTRA.hd.webm/4dcbd47e6ba18cb90c519788b25c5f8d.webm",
+    "jmcs://jd-contents/DontLet/DontLet_ULTRA.webm": "/private/map/DontLet/DontLet_ULTRA.webm/7a95ad84b4632b68dda043950cf5c705.webm",
+    "jmcs://jd-contents/DontLet/DontLet_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DontLet/DontLet_MapPreviewNoSoundCrop_MID.vp8.webm/228dd49f55cd64d2a792a1027e59d621.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495446\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontLet/DontLet_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"650-1139\">\n\t\t\t\t\t<Initialization range=\"0-650\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1366047\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontLet/DontLet_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\n\t\t\t\t\t<Initialization range=\"0-651\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 205.5
+}

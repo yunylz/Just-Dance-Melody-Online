@@ -1,0 +1,169 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SchoolyardKids/SchoolyardKids.ogg": "/private/map/SchoolyardKids/SchoolyardKids.ogg/81430658844146394c8a28220091a695.ogg",
+    "jmcs://jd-contents/SchoolyardKids/SchoolyardKids_AudioPreview.ogg": "/public/map/SchoolyardKids/SchoolyardKids_AudioPreview.ogg/6bc2448493ce3b1b9e257131ad28850b.ogg",
+    "jmcs://jd-contents/SchoolyardKids/SchoolyardKids_HIGH.hd.webm": "/private/map/SchoolyardKids/SchoolyardKids_HIGH.hd.webm/698f2f14c0eb97ab033475d465500159.webm",
+    "jmcs://jd-contents/SchoolyardKids/SchoolyardKids_LOW.hd.webm": "/private/map/SchoolyardKids/SchoolyardKids_LOW.hd.webm/3bbc245b48fb3d647f578fabe939cfaf.webm",
+    "jmcs://jd-contents/SchoolyardKids/SchoolyardKids_MID.hd.webm": "/private/map/SchoolyardKids/SchoolyardKids_MID.hd.webm/7d469b9c8638e3c041bb92c10cc15301.webm",
+    "jmcs://jd-contents/SchoolyardKids/SchoolyardKids_ULTRA.hd.webm": "/private/map/SchoolyardKids/SchoolyardKids_ULTRA.hd.webm/fdf1292f494dd7c83046633c8da5f6a2.webm",
+    "jmcs://jd-contents/SchoolyardKids/SchoolyardKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SchoolyardKids/SchoolyardKids_MapPreviewNoSoundCrop_LOW.vp8.webm/5bca7cdf94145c7e4668e569f873557e.webm",
+    "jmcs://jd-contents/SchoolyardKids/SchoolyardKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SchoolyardKids/SchoolyardKids_MapPreviewNoSoundCrop_MID.vp8.webm/a8f083f32a5839247ea062f3da2e8678.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28223,
+        56447,
+        84719,
+        112943,
+        141167,
+        169391,
+        197663,
+        225887,
+        254111,
+        282335,
+        310607,
+        338831,
+        367055,
+        395279,
+        423551,
+        451775,
+        479999,
+        508223,
+        536446,
+        564718,
+        592942,
+        621166,
+        649390,
+        677662,
+        705886,
+        734110,
+        762334,
+        790606,
+        818830,
+        847054,
+        875278,
+        903550,
+        931774,
+        959998,
+        988222,
+        1016446,
+        1044717,
+        1072941,
+        1101165,
+        1129389,
+        1157661,
+        1185885,
+        1214109,
+        1242333,
+        1270605,
+        1298829,
+        1327053,
+        1355277,
+        1383549,
+        1411773,
+        1439997,
+        1468221,
+        1496445
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 206,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SchoolyardKids/SchoolyardKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "a277da5cf2c6a77d395157c24ee153f9",
+      "storageType": 0,
+      "url": "/public/map/SchoolyardKids/nx/SchoolyardKids_MAIN_SCENE_NX.zip/a277da5cf2c6a77d395157c24ee153f9.zip"
+    },
+    "pc": {
+      "md5": "254533a78d71e122b32db1f83d580265",
+      "storageType": 0,
+      "url": "/public/map/SchoolyardKids/pc/SchoolyardKids_MAIN_SCENE_PC.zip/254533a78d71e122b32db1f83d580265.zip"
+    },
+    "ps4": {
+      "md5": "9ba6a7052b5773d43d5c06853a061745",
+      "storageType": 0,
+      "url": "/public/map/SchoolyardKids/orbis/SchoolyardKids_MAIN_SCENE_ORBIS.zip/9ba6a7052b5773d43d5c06853a061745.zip"
+    }
+  },
+  "data": {
+    "mapName": "SchoolyardKids",
+    "title": "Mini Yo School",
+    "originalJDVersion": 2020,
+    "tags": [
+      "main",
+      "kidsonly"
+    ],
+    "artist": "Dancing Bros.",
+    "credits": "Composed by Steve Ouimette. Published by Ubisoft Music. Performed by Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#1e91d5",
+    "songColor2A": "#ffd734",
+    "songColor1B": "#142a8f",
+    "songColor2B": "#820089",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SchoolyardKids/nx/SchoolyardKids_banner_bkg.tga.ckd/a796343144f1733f907e8d5587c11784.ckd",
+      "map_bkgImageUrl": "/public/map/SchoolyardKids/nx/SchoolyardKids_map_bkg.tga.ckd/d6b15150bcbcbc21d472c1866534001a.ckd",
+      "expandCoachImageUrl": "/public/map/SchoolyardKids/nx/SchoolyardKids_Cover_AlbumCoach.tga.ckd/41a364febb95dba43e8c25502b150486.ckd",
+      "cover_smallImageUrl": "/public/map/SchoolyardKids/nx/SchoolyardKids_Cover_Online.tga.ckd/ff80681a563fdfc130b071702529119a.ckd",
+      "coverImageUrl": "/public/map/SchoolyardKids/nx/SchoolyardKids_Cover_Generic.tga.ckd/f34a910af80c27cb82db96ae66df135c.ckd",
+      "coach1ImageUrl": "/public/map/SchoolyardKids/nx/SchoolyardKids_Coach_1.tga.ckd/2e1a3e27b4f1bc4507fd71e22b949e28.ckd",
+      "coach2ImageUrl": "/public/map/SchoolyardKids/nx/SchoolyardKids_Coach_2.tga.ckd/0e692021aee516fd7730c3cf04079052.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SchoolyardKids/pc/SchoolyardKids_banner_bkg.tga.ckd/89722567056cb069c37473d1e759ee9a.ckd",
+      "map_bkgImageUrl": "/public/map/SchoolyardKids/pc/SchoolyardKids_map_bkg.tga.ckd/84c0984aeeee26996eba4e1ed1e17b88.ckd",
+      "expandCoachImageUrl": "/public/map/SchoolyardKids/pc/SchoolyardKids_Cover_AlbumCoach.tga.ckd/d197909cd75486bce1bd6dc75d079493.ckd",
+      "cover_smallImageUrl": "/public/map/SchoolyardKids/pc/SchoolyardKids_Cover_Online.tga.ckd/9597c4501f257b389d70644c38117239.ckd",
+      "coverImageUrl": "/public/map/SchoolyardKids/pc/SchoolyardKids_Cover_Generic.tga.ckd/85e0bf54f943ae9e0b1f5678de9b2542.ckd",
+      "coach1ImageUrl": "/public/map/SchoolyardKids/pc/SchoolyardKids_Coach_1.tga.ckd/1956cebca34636e6361fc3d09e04f46b.ckd",
+      "coach2ImageUrl": "/public/map/SchoolyardKids/pc/SchoolyardKids_Coach_2.tga.ckd/ade38f5e8adad8f12d7ece858b7cebdd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SchoolyardKids/orbis/SchoolyardKids_banner_bkg.tga.ckd/89722567056cb069c37473d1e759ee9a.ckd",
+      "map_bkgImageUrl": "/public/map/SchoolyardKids/orbis/SchoolyardKids_map_bkg.tga.ckd/84c0984aeeee26996eba4e1ed1e17b88.ckd",
+      "expandCoachImageUrl": "/public/map/SchoolyardKids/orbis/SchoolyardKids_Cover_AlbumCoach.tga.ckd/d197909cd75486bce1bd6dc75d079493.ckd",
+      "cover_smallImageUrl": "/public/map/SchoolyardKids/orbis/SchoolyardKids_Cover_Online.tga.ckd/9597c4501f257b389d70644c38117239.ckd",
+      "coverImageUrl": "/public/map/SchoolyardKids/orbis/SchoolyardKids_Cover_Generic.tga.ckd/85e0bf54f943ae9e0b1f5678de9b2542.ckd",
+      "coach1ImageUrl": "/public/map/SchoolyardKids/orbis/SchoolyardKids_Coach_1.tga.ckd/1956cebca34636e6361fc3d09e04f46b.ckd",
+      "coach2ImageUrl": "/public/map/SchoolyardKids/orbis/SchoolyardKids_Coach_2.tga.ckd/ade38f5e8adad8f12d7ece858b7cebdd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SchoolyardKids/SchoolyardKids_Coach_1_Phone.png/651a2438d8665d836110bc13b2420ad8.png",
+    "phoneCoach2ImageUrl": "/public/map/SchoolyardKids/SchoolyardKids_Coach_2_Phone.png/7e6e9b5510d0ce49e260a2e092e01ff6.png",
+    "phoneCoverImageUrl": "/public/map/SchoolyardKids/SchoolyardKids_Cover_Phone.jpg/0b773cd1c6038e89df6df403f2a941aa.jpg",
+    "cover640ImageUrl": "/public/map/SchoolyardKids/SchoolyardKids_Cover_640.png/2585015060d0843649dab11df30e75aa.png"
+  },
+  "mapLength": 124.70575
+}

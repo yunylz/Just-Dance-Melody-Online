@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SayMyName/SayMyName_AudioPreview.ogg": "/public/map/SayMyName/SayMyName_AudioPreview.ogg/eff3f2924a18bac4673aefbc7a4458ee.ogg",
+    "jmcs://jd-contents/SayMyName/SayMyName.ogg": "/private/map/SayMyName/SayMyName.ogg/0a3620775c8f4d82d2dfba8a20b05a1a.ogg",
+    "jmcs://jd-contents/SayMyName/SayMyName_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SayMyName/SayMyName_MapPreviewNoSoundCrop_LOW.vp8.webm/dadb8ad189d4f7d83d2085f1016b4e0e.webm",
+    "jmcs://jd-contents/SayMyName/SayMyName_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SayMyName/SayMyName_MapPreviewNoSoundCrop_MID.vp8.webm/098d0fa8a6457a75de9d7c0ac3571468.webm",
+    "jmcs://jd-contents/SayMyName/SayMyName_ULTRA.hd.webm": "/private/map/SayMyName/SayMyName_ULTRA.hd.webm/57aa0b1b12edea9c14b249e8d4aed03f.webm",
+    "jmcs://jd-contents/SayMyName/SayMyName_HIGH.hd.webm": "/private/map/SayMyName/SayMyName_HIGH.hd.webm/cfac2749cfe4db4a492c6f81ec6d14d0.webm",
+    "jmcs://jd-contents/SayMyName/SayMyName_MID.hd.webm": "/private/map/SayMyName/SayMyName_MID.hd.webm/a58078cc55a1dddd0bf9b0470344c62b.webm",
+    "jmcs://jd-contents/SayMyName/SayMyName_LOW.hd.webm": "/private/map/SayMyName/SayMyName_LOW.hd.webm/574865da0b85d019a66100bb8ac840c1.webm",
+    "jmcs://jd-contents/SayMyName/SayMyName_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/SayMyName/SayMyName_MapPreviewNoSoundCrop_HIGH.vp8.webm/6909efc32a5e6c00b3611680acf00fae.webm",
+    "jmcs://jd-contents/SayMyName/SayMyName_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/SayMyName/SayMyName_MapPreviewNoSoundCrop_ULTRA.vp8.webm/29f3956f34ec07ca1ebf3617561fc8d2.webm"
+  },
+  "mapLength": 228.23529166666665,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        37647,
+        75294,
+        112941,
+        150588,
+        188235,
+        225882,
+        263529,
+        301176,
+        338824,
+        376471,
+        414118,
+        451765,
+        489412,
+        527059,
+        564706,
+        602353,
+        640000,
+        677647,
+        715294,
+        752941,
+        790588,
+        828235,
+        865882,
+        903529,
+        941176,
+        978824,
+        1016471,
+        1054118,
+        1091765,
+        1129412,
+        1167059,
+        1204706,
+        1242353,
+        1280000,
+        1317647,
+        1355294,
+        1392941,
+        1430588
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 283,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 39,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/SayMyName/SayMyName_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"646064\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayMyName/SayMyName_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"762-1252\">\n\t\t\t\t\t<Initialization range=\"0-762\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482443\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayMyName/SayMyName_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"762-1252\">\n\t\t\t\t\t<Initialization range=\"0-762\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2931777\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayMyName/SayMyName_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"762-1252\">\n\t\t\t\t\t<Initialization range=\"0-762\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"3780173\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayMyName/SayMyName_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"762-1252\">\n\t\t\t\t\t<Initialization range=\"0-762\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "26df062e341a0911df1d94033017992c",
+      "storageType": 0,
+      "url": "/public/map/SayMyName/pc/SayMyName_MAIN_SCENE_PC.zip/26df062e341a0911df1d94033017992c.zip"
+    },
+    "ps4": {
+      "md5": "5d6c797fee1be7840d7cc1d912738daf",
+      "storageType": 0,
+      "url": "/public/map/SayMyName/orbis/SayMyName_MAIN_SCENE_ORBIS.zip/5d6c797fee1be7840d7cc1d912738daf.zip"
+    },
+    "wiiu": {
+      "md5": "2bf030ac542f8f5cf8ab6157b3814da1",
+      "storageType": 0,
+      "url": "/public/map/SayMyName/wiiu/SayMyName_MAIN_SCENE_WIIU.zip/2bf030ac542f8f5cf8ab6157b3814da1.zip"
+    },
+    "nx": {
+      "md5": "b650371124c4cabf07df67adf3162a62",
+      "storageType": 0,
+      "url": "/public/map/SayMyName/nx/SayMyName_MAIN_SCENE_NX.zip/b650371124c4cabf07df67adf3162a62.zip"
+    }
+  },
+  "data": {
+    "mapName": "SayMyName",
+    "title": "Say My Name",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "ATEEZ",
+    "credits": "Written by EDEN, BUDDY, LEEZ, HLB, Hongjoong Kim, Mingi Song. Published by Sony Music Publishing Korea. Courtesy of KQ Entertainment.",
+    "coachCount": 3,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#F8A01A",
+    "songColor2A": "#F9E764",
+    "songColor1B": "#5D2B06",
+    "songColor2B": "#AA4B06",
+    "lyricsColor": "#51FAFF",
+    "LocaleId": 12624,
+    "LocaleID": 12624
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/SayMyName/pc/SayMyName_Cover_Online.tga.ckd/f1e0ab8e0aeb6c9e0bec0c70d27ee50a.ckd",
+      "coverImageUrl": "/public/map/SayMyName/pc/SayMyName_Cover_Generic.tga.ckd/50c062befb112e41d3dfd79d1d9e50c8.ckd",
+      "expandCoachImageUrl": "/public/map/SayMyName/pc/SayMyName_Cover_AlbumCoach.tga.ckd/de33b5432d294008c43dba043c670aff.ckd",
+      "map_bkgImageUrl": "/public/map/SayMyName/pc/SayMyName_map_bkg.tga.ckd/5e9f86bcb8949337eacb89663c26ddcf.ckd",
+      "banner_bkgImageUrl": "/public/map/SayMyName/pc/SayMyName_banner_bkg.tga.ckd/cb8c1c2109cb4f22bfb52e3bdbe3e7da.ckd",
+      "coach1ImageUrl": "/public/map/SayMyName/pc/SayMyName_Coach_1.tga.ckd/8c2eefceb093389131dab586fb65c3fe.ckd",
+      "coach2ImageUrl": "/public/map/SayMyName/pc/SayMyName_Coach_2.tga.ckd/1dca0e8e96787af9c0d9ce3243355cdd.ckd",
+      "coach3ImageUrl": "/public/map/SayMyName/pc/SayMyName_Coach_3.tga.ckd/7575f0a64bd98cd8416f7a1ae14a51ca.ckd",
+      "phoneCoverImageUrl": "/public/map/SayMyName/SayMyName_Cover_Phone.jpg/2f6d31c062e15aaffdccca50db2a7d5e.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SayMyName/SayMyName_Coach_1_Phone.png/e474b827fe66f9c05a794475f53d922c.png",
+      "phoneCoach2ImageUrl": "/public/map/SayMyName/SayMyName_Coach_2_Phone.png/4ff1a051469a538c247e68132d8a2e4f.png",
+      "phoneCoach3ImageUrl": "/public/map/SayMyName/SayMyName_Coach_3_Phone.png/e25b09af9de0d81fefda776b06b28e8b.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/SayMyName/orbis/SayMyName_Cover_Online.tga.ckd/f1e0ab8e0aeb6c9e0bec0c70d27ee50a.ckd",
+      "coverImageUrl": "/public/map/SayMyName/orbis/SayMyName_Cover_Generic.tga.ckd/50c062befb112e41d3dfd79d1d9e50c8.ckd",
+      "expandCoachImageUrl": "/public/map/SayMyName/orbis/SayMyName_Cover_AlbumCoach.tga.ckd/de33b5432d294008c43dba043c670aff.ckd",
+      "map_bkgImageUrl": "/public/map/SayMyName/orbis/SayMyName_map_bkg.tga.ckd/5e9f86bcb8949337eacb89663c26ddcf.ckd",
+      "banner_bkgImageUrl": "/public/map/SayMyName/orbis/SayMyName_banner_bkg.tga.ckd/cb8c1c2109cb4f22bfb52e3bdbe3e7da.ckd",
+      "coach1ImageUrl": "/public/map/SayMyName/orbis/SayMyName_Coach_1.tga.ckd/8c2eefceb093389131dab586fb65c3fe.ckd",
+      "coach2ImageUrl": "/public/map/SayMyName/orbis/SayMyName_Coach_2.tga.ckd/1dca0e8e96787af9c0d9ce3243355cdd.ckd",
+      "coach3ImageUrl": "/public/map/SayMyName/orbis/SayMyName_Coach_3.tga.ckd/7575f0a64bd98cd8416f7a1ae14a51ca.ckd",
+      "phoneCoverImageUrl": "/public/map/SayMyName/SayMyName_Cover_Phone.jpg/2f6d31c062e15aaffdccca50db2a7d5e.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SayMyName/SayMyName_Coach_1_Phone.png/e474b827fe66f9c05a794475f53d922c.png",
+      "phoneCoach2ImageUrl": "/public/map/SayMyName/SayMyName_Coach_2_Phone.png/4ff1a051469a538c247e68132d8a2e4f.png",
+      "phoneCoach3ImageUrl": "/public/map/SayMyName/SayMyName_Coach_3_Phone.png/e25b09af9de0d81fefda776b06b28e8b.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/SayMyName/wiiu/SayMyName_Cover_Online.tga.ckd/8ed045ef87dbbd8bdaa55aa008490953.ckd",
+      "coverImageUrl": "/public/map/SayMyName/wiiu/SayMyName_Cover_Generic.tga.ckd/64c8e774e0367e8d28c02535d0d0bca3.ckd",
+      "expandCoachImageUrl": "/public/map/SayMyName/wiiu/SayMyName_Cover_AlbumCoach.tga.ckd/047faa15aed85fc17245695445aa4f09.ckd",
+      "map_bkgImageUrl": "/public/map/SayMyName/wiiu/SayMyName_map_bkg.tga.ckd/7377f6ce076449798a09bd2fe30c90a0.ckd",
+      "banner_bkgImageUrl": "/public/map/SayMyName/wiiu/SayMyName_banner_bkg.tga.ckd/f96788bad4055a637d6f581509f71a0c.ckd",
+      "coach1ImageUrl": "/public/map/SayMyName/wiiu/SayMyName_Coach_1.tga.ckd/3b7f9fce8674c3381834e82a8ada949a.ckd",
+      "coach2ImageUrl": "/public/map/SayMyName/wiiu/SayMyName_Coach_2.tga.ckd/341f70d91c95b9c44eabb6e6f773d5c7.ckd",
+      "coach3ImageUrl": "/public/map/SayMyName/wiiu/SayMyName_Coach_3.tga.ckd/315a59aa66efe237a4a84a4f19e0d78e.ckd",
+      "phoneCoverImageUrl": "/public/map/SayMyName/SayMyName_Cover_Phone.jpg/2f6d31c062e15aaffdccca50db2a7d5e.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SayMyName/SayMyName_Coach_1_Phone.png/e474b827fe66f9c05a794475f53d922c.png",
+      "phoneCoach2ImageUrl": "/public/map/SayMyName/SayMyName_Coach_2_Phone.png/4ff1a051469a538c247e68132d8a2e4f.png",
+      "phoneCoach3ImageUrl": "/public/map/SayMyName/SayMyName_Coach_3_Phone.png/e25b09af9de0d81fefda776b06b28e8b.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/SayMyName/nx/SayMyName_Cover_Online.tga.ckd/add4437c25b521e1a2e8777474a5a5ba.ckd",
+      "coverImageUrl": "/public/map/SayMyName/nx/SayMyName_Cover_Generic.tga.ckd/426d14591b0ece2da0ea52927de01839.ckd",
+      "expandCoachImageUrl": "/public/map/SayMyName/nx/SayMyName_Cover_AlbumCoach.tga.ckd/7ef742b85747a46434220994e87ecc9b.ckd",
+      "map_bkgImageUrl": "/public/map/SayMyName/nx/SayMyName_map_bkg.tga.ckd/210ac4c74b2d81021e7fafb01811c72e.ckd",
+      "banner_bkgImageUrl": "/public/map/SayMyName/nx/SayMyName_banner_bkg.tga.ckd/51df509736cfcb0bedc63ed94dfd9cd7.ckd",
+      "coach1ImageUrl": "/public/map/SayMyName/nx/SayMyName_Coach_1.tga.ckd/334dd75bd6facca1d59eeda3b532c7a4.ckd",
+      "coach2ImageUrl": "/public/map/SayMyName/nx/SayMyName_Coach_2.tga.ckd/5164e155035c42a86a49bcfa67522ba8.ckd",
+      "coach3ImageUrl": "/public/map/SayMyName/nx/SayMyName_Coach_3.tga.ckd/a52642a6ec7b64bb27598d19e0ce0a29.ckd",
+      "phoneCoverImageUrl": "/public/map/SayMyName/SayMyName_Cover_Phone.jpg/2f6d31c062e15aaffdccca50db2a7d5e.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SayMyName/SayMyName_Coach_1_Phone.png/e474b827fe66f9c05a794475f53d922c.png",
+      "phoneCoach2ImageUrl": "/public/map/SayMyName/SayMyName_Coach_2_Phone.png/4ff1a051469a538c247e68132d8a2e4f.png",
+      "phoneCoach3ImageUrl": "/public/map/SayMyName/SayMyName_Coach_3_Phone.png/e25b09af9de0d81fefda776b06b28e8b.png"
+    },
+    "cover640ImageUrl": "/public/map/SayMyName/SayMyName_Cover_640.png/2b4c62db4825484a843d489939b8b984.png"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d12342856cc7c538222a5255a59f5409",
+      "storageType": 0,
+      "url": "/public/map/ABBASummerNight/nx/ABBASummerNight_MAIN_SCENE_NX.zip/d12342856cc7c538222a5255a59f5409.zip"
+    },
+    "pc": {
+      "md5": "740d30431cb686fa4415fd67b0d77ca1",
+      "storageType": 0,
+      "url": "/public/map/ABBASummerNight/pc/ABBASummerNight_MAIN_SCENE_PC.zip/740d30431cb686fa4415fd67b0d77ca1.zip"
+    },
+    "ps4": {
+      "md5": "60995d05d58c939400b08ecc83f7e9b5",
+      "storageType": 0,
+      "url": "/public/map/ABBASummerNight/orbis/ABBASummerNight_MAIN_SCENE_ORBIS.zip/60995d05d58c939400b08ecc83f7e9b5.zip"
+    }
+  },
+  "data": {
+    "mapName": "ABBASummerNight",
+    "title": "Summer Night City",
+    "originalJDVersion": 4884,
+    "tags": [
+      "abba",
+      "realmoves",
+      "abbaycd",
+      "spinoff",
+      "easy",
+      "party"
+    ],
+    "artist": "ABBA",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#222594",
+    "songColor2A": "#6c0a07",
+    "songColor1B": "#01022c",
+    "songColor2B": "#3c0201",
+    "lyricsColor": "#c60000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        124128,
+        147168,
+        170208,
+        193248,
+        216288,
+        240384,
+        263712,
+        287280,
+        309984,
+        332304,
+        355872,
+        378528,
+        401040,
+        423648,
+        446688,
+        469392,
+        491808,
+        514848,
+        537792,
+        560544,
+        583344,
+        606480,
+        628992,
+        652320,
+        675072,
+        697488,
+        720672,
+        743568,
+        766176,
+        788112,
+        811344,
+        833664,
+        856512,
+        878976,
+        902016,
+        925056,
+        946656,
+        969072,
+        994176,
+        1014816,
+        1036560,
+        1059216,
+        1081776,
+        1103712,
+        1126560,
+        1148880,
+        1170624,
+        1194096,
+        1215696,
+        1237584,
+        1260144,
+        1282608,
+        1304976,
+        1327584,
+        1349472,
+        1372272,
+        1395024,
+        1417008,
+        1439520,
+        1461792,
+        1484592
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 454,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ABBASummerNight/nx/ABBASummerNight_banner_bkg.tga.ckd/12a7aab9f955fc600ee575ba2b0dedb6.ckd",
+      "map_bkgImageUrl": "/public/map/ABBASummerNight/nx/ABBASummerNight_map_bkg.tga.ckd/9da06902b9b4d88af2f615f46189cd61.ckd",
+      "expandCoachImageUrl": "/public/map/ABBASummerNight/nx/ABBASummerNight_Cover_AlbumCoach.tga.ckd/0fe229767218fd004f359d67e1b4d575.ckd",
+      "cover_smallImageUrl": "/public/map/ABBASummerNight/nx/ABBASummerNight_Cover_Online.tga.ckd/6e9a930a0bab09d8b8a05b8f2f1f9c1e.ckd",
+      "coverImageUrl": "/public/map/ABBASummerNight/nx/ABBASummerNight_Cover_Generic.tga.ckd/9df641113959682fcd867e931f8a0d98.ckd",
+      "coach1ImageUrl": "/public/map/ABBASummerNight/nx/ABBASummerNight_Coach_1.tga.ckd/17b4cfacdd25892266487a7876dde370.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ABBASummerNight/pc/ABBASummerNight_banner_bkg.tga.ckd/fdf26d15fc3e712bdb2c09c4b492c7f1.ckd",
+      "map_bkgImageUrl": "/public/map/ABBASummerNight/pc/ABBASummerNight_map_bkg.tga.ckd/6f5c6fa216eda93c9ed32980e798858c.ckd",
+      "expandCoachImageUrl": "/public/map/ABBASummerNight/pc/ABBASummerNight_Cover_AlbumCoach.tga.ckd/2f2887dda3a97a0f49285348727e4000.ckd",
+      "cover_smallImageUrl": "/public/map/ABBASummerNight/pc/ABBASummerNight_Cover_Online.tga.ckd/225feb5d790c82077b09a37de5f7f2dd.ckd",
+      "coverImageUrl": "/public/map/ABBASummerNight/pc/ABBASummerNight_Cover_Generic.tga.ckd/96568921297246a7a417135c81ee383c.ckd",
+      "coach1ImageUrl": "/public/map/ABBASummerNight/pc/ABBASummerNight_Coach_1.tga.ckd/8b2b4c59bee9cc5f98623ac400a44fa9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ABBASummerNight/orbis/ABBASummerNight_banner_bkg.tga.ckd/fdf26d15fc3e712bdb2c09c4b492c7f1.ckd",
+      "map_bkgImageUrl": "/public/map/ABBASummerNight/orbis/ABBASummerNight_map_bkg.tga.ckd/6f5c6fa216eda93c9ed32980e798858c.ckd",
+      "expandCoachImageUrl": "/public/map/ABBASummerNight/orbis/ABBASummerNight_Cover_AlbumCoach.tga.ckd/2f2887dda3a97a0f49285348727e4000.ckd",
+      "cover_smallImageUrl": "/public/map/ABBASummerNight/orbis/ABBASummerNight_Cover_Online.tga.ckd/225feb5d790c82077b09a37de5f7f2dd.ckd",
+      "coverImageUrl": "/public/map/ABBASummerNight/orbis/ABBASummerNight_Cover_Generic.tga.ckd/96568921297246a7a417135c81ee383c.ckd",
+      "coach1ImageUrl": "/public/map/ABBASummerNight/orbis/ABBASummerNight_Coach_1.tga.ckd/8b2b4c59bee9cc5f98623ac400a44fa9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ABBASummerNight/ABBASummerNight_Coach_1_Phone.png/4778d1e01a536f355b615d5ead3ef218.png",
+    "phoneCoverImageUrl": "/public/map/ABBASummerNight/ABBASummerNight_Cover_Phone.jpg/3cc5071f775758f1c84a44c0b352fae1.jpg",
+    "cover640ImageUrl": "/public/map/ABBASummerNight/ABBASummerNight_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight.ogg": "/private/map/ABBASummerNight/ABBASummerNight.ogg/c62ddce03b620eabcc75c11c68e26708.ogg",
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_AudioPreview.ogg": "/public/map/ABBASummerNight/ABBASummerNight_AudioPreview.ogg/f6e0f4d1e04940b12bf7c3020625bdb7.ogg",
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ABBASummerNight/ABBASummerNight_MapPreviewNoSoundCrop_LOW.vp8.webm/e1af94b984719e28eecd4a4fa2bc22c5.webm",
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_HIGH.hd.webm": "/private/map/ABBASummerNight/ABBASummerNight_HIGH.hd.webm/34fb4fd0417528ab5679f8e96b29820f.webm",
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_HIGH.webm": "/private/map/ABBASummerNight/ABBASummerNight_HIGH.webm/4f47123fde25c907e36edce355818587.webm",
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_LOW.hd.webm": "/private/map/ABBASummerNight/ABBASummerNight_LOW.hd.webm/7f3b15fce67e748503746277200364ed.webm",
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_LOW.webm": "/private/map/ABBASummerNight/ABBASummerNight_LOW.webm/aa3cc2ddff3cfe0d95961f461f385f0c.webm",
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_MID.hd.webm": "/private/map/ABBASummerNight/ABBASummerNight_MID.hd.webm/1f0c060f911bb6dc40c0007b4ed7ae33.webm",
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_MID.webm": "/private/map/ABBASummerNight/ABBASummerNight_MID.webm/504844141844f8e8eead92a16924090d.webm",
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_ULTRA.hd.webm": "/private/map/ABBASummerNight/ABBASummerNight_ULTRA.hd.webm/f3e35e9ef71bf87d4d28f51cdaa23e3b.webm",
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_ULTRA.webm": "/private/map/ABBASummerNight/ABBASummerNight_ULTRA.webm/981116e9f54a54ada13487ccd2f26625.webm",
+    "jmcs://jd-contents/ABBASummerNight/ABBASummerNight_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ABBASummerNight/ABBASummerNight_MapPreviewNoSoundCrop_MID.vp8.webm/6d0d98475205324234d93ef4d0f04ebb.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"492617\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBASummerNight/ABBASummerNight_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1472604\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBASummerNight/ABBASummerNight_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 212.016
+}

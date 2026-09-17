@@ -1,0 +1,173 @@
+{
+  "urls": {
+    "jmcs://jd-contents/GoodGirls/GoodGirls.ogg": "/private/map/GoodGirls/GoodGirls.ogg/6be22a7174c37459d5df4e9e041ca270.ogg",
+    "jmcs://jd-contents/GoodGirls/GoodGirls_AudioPreview.ogg": "/public/map/GoodGirls/GoodGirls_AudioPreview.ogg/ae1a494b3d182f31af743ec6efdc70b5.ogg",
+    "jmcs://jd-contents/GoodGirls/GoodGirls_HIGH.hd.webm": "/private/map/GoodGirls/GoodGirls_HIGH.hd.webm/68268ea7e0f3776b1c0bd76a9ab6b027.webm",
+    "jmcs://jd-contents/GoodGirls/GoodGirls_LOW.hd.webm": "/private/map/GoodGirls/GoodGirls_LOW.hd.webm/7d58085156f5dde2a7b435d22b1ef7cf.webm",
+    "jmcs://jd-contents/GoodGirls/GoodGirls_MID.hd.webm": "/private/map/GoodGirls/GoodGirls_MID.hd.webm/abe8338fcccd32e5230b433a25bba044.webm",
+    "jmcs://jd-contents/GoodGirls/GoodGirls_ULTRA.hd.webm": "/private/map/GoodGirls/GoodGirls_ULTRA.hd.webm/95b2b8946e218004ef4382a8f959abd9.webm",
+    "jmcs://jd-contents/GoodGirls/GoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GoodGirls/GoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm/bfd35edc8462987ad376765cab7a5b39.webm",
+    "jmcs://jd-contents/GoodGirls/GoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GoodGirls/GoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm/e6835da79df5f660ed7cf4918440a835.webm"
+  },
+  "mapLength": 151.911224,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26182,
+        52364,
+        78545,
+        104727,
+        130909,
+        157091,
+        183273,
+        209455,
+        235636,
+        261818,
+        288000,
+        314182,
+        340364,
+        366545,
+        392727,
+        418909,
+        445091,
+        471273,
+        497455,
+        523636,
+        549818,
+        576000,
+        602182,
+        628364,
+        654545,
+        680727,
+        706909,
+        733091,
+        759273,
+        785455,
+        811636,
+        837818,
+        864000,
+        890182,
+        916364,
+        942545,
+        968727,
+        994909,
+        1021091,
+        1047273,
+        1073455,
+        1099636,
+        1125818,
+        1152000,
+        1178182,
+        1204364,
+        1230545,
+        1256727,
+        1282909,
+        1309091,
+        1335273,
+        1361455,
+        1387636,
+        1413818,
+        1440000,
+        1466182,
+        1492364
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 273,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GoodGirls/GoodGirls_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"574800\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodGirls/GoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1977529\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodGirls/GoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "d730c74c9d4c39e52f36b2ad27c72d9c",
+      "storageType": 0,
+      "url": "/public/map/GoodGirls/nx/GoodGirls_MAIN_SCENE_NX.zip/d730c74c9d4c39e52f36b2ad27c72d9c.zip"
+    },
+    "pc": {
+      "md5": "adaa5b0346874500e0f5a841e38ceb43",
+      "storageType": 0,
+      "url": "/public/map/GoodGirls/pc/GoodGirls_MAIN_SCENE_PC.zip/adaa5b0346874500e0f5a841e38ceb43.zip"
+    },
+    "ps4": {
+      "md5": "e7289d7777312df319384ea5c631ada5",
+      "storageType": 0,
+      "url": "/public/map/GoodGirls/orbis/GoodGirls_MAIN_SCENE_ORBIS.zip/e7289d7777312df319384ea5c631ada5.zip"
+    }
+  },
+  "data": {
+    "mapName": "GoodGirls",
+    "title": "Good Girls",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Zanillya Ft. Humphrey Dennis",
+    "credits": "EMPTY",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#eb09d4",
+    "songColor2A": "#f7d528",
+    "songColor1B": "#030123",
+    "songColor2B": "#c052e9",
+    "lyricsColor": "#ffff00",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GoodGirls/nx/GoodGirls_banner_bkg.tga.ckd/64b5828173f27115c28756f6c6abb28f.ckd",
+      "map_bkgImageUrl": "/public/map/GoodGirls/nx/GoodGirls_map_bkg.tga.ckd/8d4bed4d5558f7dd7395690f16c462b5.ckd",
+      "expandCoachImageUrl": "/public/map/GoodGirls/nx/GoodGirls_Cover_AlbumCoach.tga.ckd/19a336bbad6ccca5fe89d5987e8bf71f.ckd",
+      "cover_smallImageUrl": "/public/map/GoodGirls/nx/GoodGirls_Cover_Online.tga.ckd/a575d880e51b29026183b526682689ef.ckd",
+      "coverImageUrl": "/public/map/GoodGirls/nx/GoodGirls_Cover_Generic.tga.ckd/163b8959f3cb4a7e940191a560a70a19.ckd",
+      "coach1ImageUrl": "/public/map/GoodGirls/nx/GoodGirls_Coach_1.tga.ckd/f6195860ca992ef974c54de78b878a2b.ckd",
+      "coach2ImageUrl": "/public/map/GoodGirls/nx/GoodGirls_Coach_2.tga.ckd/b967bd2ff7424105da1755ef71547aac.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GoodGirls/pc/GoodGirls_banner_bkg.tga.ckd/97f0c36363d9d34fdf014d9ca3669b9a.ckd",
+      "map_bkgImageUrl": "/public/map/GoodGirls/pc/GoodGirls_map_bkg.tga.ckd/543adcf1c38ad9afa2483a8861b3bde5.ckd",
+      "expandCoachImageUrl": "/public/map/GoodGirls/pc/GoodGirls_Cover_AlbumCoach.tga.ckd/f6443e325d41f0cd9f1018f1a5c659a2.ckd",
+      "cover_smallImageUrl": "/public/map/GoodGirls/pc/GoodGirls_Cover_Online.tga.ckd/9f6f4687ac3c7da2c8d74eaec15a37a3.ckd",
+      "coverImageUrl": "/public/map/GoodGirls/pc/GoodGirls_Cover_Generic.tga.ckd/0e6ad6cab4c90bc94282169dfa7daac6.ckd",
+      "coach1ImageUrl": "/public/map/GoodGirls/pc/GoodGirls_Coach_1.tga.ckd/98aa6cce2c50e0a3c79abb740b4a492c.ckd",
+      "coach2ImageUrl": "/public/map/GoodGirls/pc/GoodGirls_Coach_2.tga.ckd/396296bb5b9878aea354d8838e1faded.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GoodGirls/orbis/GoodGirls_banner_bkg.tga.ckd/97f0c36363d9d34fdf014d9ca3669b9a.ckd",
+      "map_bkgImageUrl": "/public/map/GoodGirls/orbis/GoodGirls_map_bkg.tga.ckd/543adcf1c38ad9afa2483a8861b3bde5.ckd",
+      "expandCoachImageUrl": "/public/map/GoodGirls/orbis/GoodGirls_Cover_AlbumCoach.tga.ckd/f6443e325d41f0cd9f1018f1a5c659a2.ckd",
+      "cover_smallImageUrl": "/public/map/GoodGirls/orbis/GoodGirls_Cover_Online.tga.ckd/9f6f4687ac3c7da2c8d74eaec15a37a3.ckd",
+      "coverImageUrl": "/public/map/GoodGirls/orbis/GoodGirls_Cover_Generic.tga.ckd/0e6ad6cab4c90bc94282169dfa7daac6.ckd",
+      "coach1ImageUrl": "/public/map/GoodGirls/orbis/GoodGirls_Coach_1.tga.ckd/98aa6cce2c50e0a3c79abb740b4a492c.ckd",
+      "coach2ImageUrl": "/public/map/GoodGirls/orbis/GoodGirls_Coach_2.tga.ckd/396296bb5b9878aea354d8838e1faded.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GoodGirls/GoodGirls_Coach_1_Phone.png/c5843b6580a93647dd9a0d668d9fdad8.png",
+    "phoneCoach2ImageUrl": "/public/map/GoodGirls/GoodGirls_Coach_2_Phone.png/e71d90103bc58600cad4207080fcb122.png",
+    "phoneCoverImageUrl": "/public/map/GoodGirls/GoodGirls_Cover_Phone.jpg/86b6c4c8a328697121a0098b1e13deb4.jpg",
+    "cover640ImageUrl": "/public/map/GoodGirls/GoodGirls_Cover_640.png/87b881e26c8cc812ad1544ef95adc799.png"
+  }
+}

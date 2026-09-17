@@ -1,0 +1,162 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Sirtaki/Sirtaki.ogg": "/private/map/Sirtaki/Sirtaki.ogg/5ef2c7f062d4388784d7d5f97c91144a.ogg",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_AudioPreview.ogg": "/public/map/Sirtaki/Sirtaki_AudioPreview.ogg/6fad56e3bb1f7a1dff3647023119aff4.ogg",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_HIGH.hd.webm": "/private/map/Sirtaki/Sirtaki_HIGH.hd.webm/a19978f64edd5ec5060a25d85371c34e.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_LOW.hd.webm": "/private/map/Sirtaki/Sirtaki_LOW.hd.webm/eb2c53c4751104196bd0d11e7b09a442.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MID.hd.webm": "/private/map/Sirtaki/Sirtaki_MID.hd.webm/02d487ff72b8e72daa669ad1998dfa61.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_ULTRA.hd.webm": "/private/map/Sirtaki/Sirtaki_ULTRA.hd.webm/af88db9e9347ad9fab7f30a17390697a.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_LOW.vp8.webm/f8b3e803411c2f79e6ff6823113e2c8c.webm",
+    "jmcs://jd-contents/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Sirtaki/Sirtaki_MapPreviewNoSoundCrop_MID.vp8.webm/311df15bd7eec7e56c7e7a749dd6e8a1.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        35999,
+        71999,
+        107951,
+        143951,
+        180287,
+        216575,
+        252863,
+        289199,
+        325055,
+        360863,
+        396719,
+        432575,
+        468767,
+        504959,
+        541199,
+        577391,
+        613151,
+        648863,
+        684622,
+        720334,
+        756094,
+        791806,
+        827566,
+        863278,
+        899182,
+        935038,
+        970894,
+        1006798,
+        1042126,
+        1077454,
+        1112782,
+        1148110,
+        1183438,
+        1218718,
+        1253998,
+        1289278,
+        1324606,
+        1359885,
+        1395165,
+        1430493,
+        1465773,
+        1501053
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 340,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 40,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Sirtaki/Sirtaki_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "ec85624c569697fd9928145ff81d92d8",
+      "storageType": 0,
+      "url": "/public/map/Sirtaki/nx/Sirtaki_MAIN_SCENE_NX.zip/ec85624c569697fd9928145ff81d92d8.zip"
+    },
+    "pc": {
+      "md5": "f6ab5fd6c1515e6558fa113d54daf389",
+      "storageType": 0,
+      "url": "/public/map/Sirtaki/pc/Sirtaki_MAIN_SCENE_PC.zip/f6ab5fd6c1515e6558fa113d54daf389.zip"
+    },
+    "ps4": {
+      "md5": "3d677f3b350fd6619a62114869602e7b",
+      "storageType": 0,
+      "url": "/public/map/Sirtaki/orbis/Sirtaki_MAIN_SCENE_ORBIS.zip/3d677f3b350fd6619a62114869602e7b.zip"
+    }
+  },
+  "data": {
+    "mapName": "Sirtaki",
+    "title": "Epic Sirtaki",
+    "originalJDVersion": 2015,
+    "tags": [
+      "extreme",
+      "main"
+    ],
+    "artist": "The Bouzouki's",
+    "credits": "Composed and Produced by Steve Ouimette. Engineering: Steve Ouimette, Cat Gray. Mix: Rob Beaton, Steve Ouimette. Percussion: Cat Gray. Bouzouki, bass, guitars: Steve Ouimette. Music supervision: Alkis Argyriadis, Manu Bachet.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#bca001",
+    "songColor2A": "#39c6f9",
+    "songColor1B": "#6d3001",
+    "songColor2B": "#013896",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Sirtaki/nx/Sirtaki_banner_bkg.tga.ckd/b87c78514765c056123c7ae5448cf211.ckd",
+      "map_bkgImageUrl": "/public/map/Sirtaki/nx/Sirtaki_map_bkg.tga.ckd/8f36903b44e2af6c53ab09fd2f66240e.ckd",
+      "expandCoachImageUrl": "/public/map/Sirtaki/nx/Sirtaki_Cover_AlbumCoach.tga.ckd/11bfbd98ce0acb0300023686cf72f5b0.ckd",
+      "cover_smallImageUrl": "/public/map/Sirtaki/nx/Sirtaki_Cover_Online.tga.ckd/0d8fd22cace8ce180f1f98b487ee2b95.ckd",
+      "coverImageUrl": "/public/map/Sirtaki/nx/Sirtaki_Cover_Generic.tga.ckd/cd3fa1ea73425be202826bf6688a10b8.ckd",
+      "coach1ImageUrl": "/public/map/Sirtaki/nx/Sirtaki_Coach_1.tga.ckd/318f3a95fc0222c227f20aae96e2982e.ckd",
+      "coach2ImageUrl": "/public/map/Sirtaki/nx/Sirtaki_Coach_2.tga.ckd/4065fe510cfb75705a05f5b77916e6db.ckd",
+      "coach3ImageUrl": "/public/map/Sirtaki/nx/Sirtaki_Coach_3.tga.ckd/769cd0f6eaeca0ce06d75b3eb26015e8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Sirtaki/pc/Sirtaki_banner_bkg.tga.ckd/181091dcf32b165902e3a347483afa4c.ckd",
+      "map_bkgImageUrl": "/public/map/Sirtaki/pc/Sirtaki_map_bkg.tga.ckd/4618cae3ac78ea3a4e2e994f5d4d02e0.ckd",
+      "expandCoachImageUrl": "/public/map/Sirtaki/pc/Sirtaki_Cover_AlbumCoach.tga.ckd/212071ef8bfc74671589ddf89f9aa20e.ckd",
+      "cover_smallImageUrl": "/public/map/Sirtaki/pc/Sirtaki_Cover_Online.tga.ckd/3479db6ce3bc098cfe488d2435d1a47a.ckd",
+      "coverImageUrl": "/public/map/Sirtaki/pc/Sirtaki_Cover_Generic.tga.ckd/e395bd70bdbf18f91673a5626c2890a2.ckd",
+      "coach1ImageUrl": "/public/map/Sirtaki/pc/Sirtaki_Coach_1.tga.ckd/8645e3f85e269071e6a2f1888ffdddfa.ckd",
+      "coach2ImageUrl": "/public/map/Sirtaki/pc/Sirtaki_Coach_2.tga.ckd/3ddb110f147251e238a803f7da5385e5.ckd",
+      "coach3ImageUrl": "/public/map/Sirtaki/pc/Sirtaki_Coach_3.tga.ckd/dbce2755407a7ac41c39d4edc5e11fd0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Sirtaki/orbis/Sirtaki_banner_bkg.tga.ckd/181091dcf32b165902e3a347483afa4c.ckd",
+      "map_bkgImageUrl": "/public/map/Sirtaki/orbis/Sirtaki_map_bkg.tga.ckd/4618cae3ac78ea3a4e2e994f5d4d02e0.ckd",
+      "expandCoachImageUrl": "/public/map/Sirtaki/orbis/Sirtaki_Cover_AlbumCoach.tga.ckd/212071ef8bfc74671589ddf89f9aa20e.ckd",
+      "cover_smallImageUrl": "/public/map/Sirtaki/orbis/Sirtaki_Cover_Online.tga.ckd/3479db6ce3bc098cfe488d2435d1a47a.ckd",
+      "coverImageUrl": "/public/map/Sirtaki/orbis/Sirtaki_Cover_Generic.tga.ckd/e395bd70bdbf18f91673a5626c2890a2.ckd",
+      "coach1ImageUrl": "/public/map/Sirtaki/orbis/Sirtaki_Coach_1.tga.ckd/8645e3f85e269071e6a2f1888ffdddfa.ckd",
+      "coach2ImageUrl": "/public/map/Sirtaki/orbis/Sirtaki_Coach_2.tga.ckd/3ddb110f147251e238a803f7da5385e5.ckd",
+      "coach3ImageUrl": "/public/map/Sirtaki/orbis/Sirtaki_Coach_3.tga.ckd/dbce2755407a7ac41c39d4edc5e11fd0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Sirtaki/Sirtaki_Coach_1_Phone.png/a79e18448927f0b9a2f7338b35b1f0d0.png",
+    "phoneCoach2ImageUrl": "/public/map/Sirtaki/Sirtaki_Coach_2_Phone.png/70677c014c245ad879614fcea608cf2d.png",
+    "phoneCoach3ImageUrl": "/public/map/Sirtaki/Sirtaki_Coach_3_Phone.png/86d58f5c536dd0bee1440cae5241c2e5.png",
+    "phoneCoverImageUrl": "/public/map/Sirtaki/Sirtaki_Cover_Phone.jpg/adfb65811194677008153457473606ad.jpg",
+    "cover640ImageUrl": "/public/map/Sirtaki/Sirtaki_Cover_640.png/3d678e74365890eefe2409e61bbc0bad.png"
+  },
+  "mapLength": 171.88275
+}

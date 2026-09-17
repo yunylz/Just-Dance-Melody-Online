@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7ea9ca8fc5ac32aae9e90b1061f8adc8",
+      "storageType": 0,
+      "url": "/public/map/Louie/nx/Louie_MAIN_SCENE_NX.zip/7ea9ca8fc5ac32aae9e90b1061f8adc8.zip"
+    },
+    "pc": {
+      "md5": "af5a813fa4fe5baf039872da57a08589",
+      "storageType": 0,
+      "url": "/public/map/Louie/pc/Louie_MAIN_SCENE_PC.zip/af5a813fa4fe5baf039872da57a08589.zip"
+    },
+    "ps4": {
+      "md5": "8fcd6229cd261a71c54ba91b8cea21d9",
+      "storageType": 0,
+      "url": "/public/map/Louie/orbis/Louie_MAIN_SCENE_ORBIS.zip/8fcd6229cd261a71c54ba91b8cea21d9.zip"
+    }
+  },
+  "data": {
+    "mapName": "Louie",
+    "title": "Louie Louie",
+    "originalJDVersion": 1,
+    "tags": [
+      "subscribedSong",
+      "JustDance1",
+      "Solo",
+      "Easy",
+      "forcerumble"
+    ],
+    "artist": "Iggy Pop",
+    "credits": "Iggy Pop – \"Louie Louie\" Written by Richard Berry. Published by EMI Virgin Songs, Inc. d/b/a EMI Longitude Music (BMI). All Rights Reserved. Used by Permission. Courtesy of Virgin Records Inc. Under license from EMI & Television Music.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#00cba6",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25054,
+        48813,
+        73219,
+        97626,
+        122032,
+        146439,
+        170845,
+        195252,
+        219658,
+        243984,
+        267877,
+        291726,
+        316132,
+        340539,
+        364705,
+        388344,
+        412750,
+        437157,
+        461563,
+        485970,
+        510376,
+        534783,
+        559189,
+        583020,
+        607426,
+        631833,
+        656023,
+        678582,
+        702916,
+        726843,
+        750265,
+        774048,
+        798454,
+        822309,
+        846403,
+        870378,
+        894712,
+        918615,
+        942757,
+        966468,
+        990874,
+        1015281,
+        1039687,
+        1062942,
+        1087348,
+        1111323,
+        1134433,
+        1158840,
+        1183246,
+        1207593,
+        1231675,
+        1255266,
+        1279432,
+        1303575,
+        1327477,
+        1351308,
+        1375522,
+        1399665,
+        1423567
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 455,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Louie/Louie_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Louie/nx/Louie_banner_bkg.tga.ckd/ac80b412f4ed75a402613f092887b73c.ckd",
+      "map_bkgImageUrl": "/public/map/Louie/nx/Louie_map_bkg.tga.ckd/61cff6f3aef8f22a1630f9de9aab3bf7.ckd",
+      "expandCoachImageUrl": "/public/map/Louie/nx/Louie_Cover_AlbumCoach.tga.ckd/dd272245e0f9613c49eb41b9b9668227.ckd",
+      "cover_smallImageUrl": "/public/map/Louie/nx/Louie_Cover_Online.tga.ckd/6e8078f631ba6603f3d739cfe7c1a4c6.ckd",
+      "coach1ImageUrl": "/public/map/Louie/nx/Louie_Coach_1.tga.ckd/1a75c6c5fc9c4108d5c170617b955bb6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Louie/pc/Louie_banner_bkg.tga.ckd/33bcb43a9d0960c55ee5700e4e0ce4aa.ckd",
+      "map_bkgImageUrl": "/public/map/Louie/pc/Louie_map_bkg.tga.ckd/0d76e9b8e4f61a780cc597ba74b5ca45.ckd",
+      "expandCoachImageUrl": "/public/map/Louie/pc/Louie_Cover_AlbumCoach.tga.ckd/097016e4483b425336bdc4511588c41c.ckd",
+      "cover_smallImageUrl": "/public/map/Louie/pc/Louie_Cover_Online.tga.ckd/bb40904ec9601d17a587e178167f0309.ckd",
+      "coach1ImageUrl": "/public/map/Louie/pc/Louie_Coach_1.tga.ckd/f1c4afc9f7829e93b28801740abac2f1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Louie/orbis/Louie_banner_bkg.tga.ckd/33bcb43a9d0960c55ee5700e4e0ce4aa.ckd",
+      "map_bkgImageUrl": "/public/map/Louie/orbis/Louie_map_bkg.tga.ckd/0d76e9b8e4f61a780cc597ba74b5ca45.ckd",
+      "expandCoachImageUrl": "/public/map/Louie/orbis/Louie_Cover_AlbumCoach.tga.ckd/097016e4483b425336bdc4511588c41c.ckd",
+      "cover_smallImageUrl": "/public/map/Louie/orbis/Louie_Cover_Online.tga.ckd/bb40904ec9601d17a587e178167f0309.ckd",
+      "coach1ImageUrl": "/public/map/Louie/orbis/Louie_Coach_1.tga.ckd/f1c4afc9f7829e93b28801740abac2f1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Louie/Louie_Coach_1_Phone.png/5001c2e7d979e5a61145703845906a5c.png",
+    "phoneCoverImageUrl": "/public/map/Louie/Louie_Cover_Phone.jpg/074a9dc50ba767a2e8ec08f3e91011a8.jpg",
+    "cover640ImageUrl": "/public/map/Louie/Louie_Cover_640.png/55106915a62c6694f07039c1b1959242.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Louie/Louie.ogg": "/private/map/Louie/Louie.ogg/b38ba06c2a84246e2ae8ac8e872d6fc7.ogg",
+    "jmcs://jd-contents/Louie/Louie_AudioPreview.ogg": "/public/map/Louie/Louie_AudioPreview.ogg/e87635976b060dc423bf34b5cc91ee3a.ogg",
+    "jmcs://jd-contents/Louie/Louie_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Louie/Louie_MapPreviewNoSoundCrop_LOW.vp8.webm/33317f3e975d40a000f6503f44f303e2.webm",
+    "jmcs://jd-contents/Louie/Louie_HIGH.webm": "/private/map/Louie/Louie_HIGH.webm/5334095f75a71d78ab06f51b7fd2bf09.webm",
+    "jmcs://jd-contents/Louie/Louie_LOW.webm": "/private/map/Louie/Louie_LOW.webm/cac0f002573e6a76745da6198cb303f6.webm",
+    "jmcs://jd-contents/Louie/Louie_MID.webm": "/private/map/Louie/Louie_MID.webm/c034e41d6f0747b34120e01cdebb4e6b.webm",
+    "jmcs://jd-contents/Louie/Louie_ULTRA.hd.webm": "/private/map/Louie/Louie_ULTRA.hd.webm/8893da91d11479ed9b9fc980ef7dc826.webm",
+    "jmcs://jd-contents/Louie/Louie_ULTRA.webm": "/private/map/Louie/Louie_ULTRA.webm/2b7305ec94cb2009e9ac008b3947d43c.webm",
+    "jmcs://jd-contents/Louie/Louie_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Louie/Louie_MapPreviewNoSoundCrop_MID.vp8.webm/2cf05fb3ea5470d36a2231614cd35722.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"488950\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Louie/Louie_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"626-1115\">\n\t\t\t\t\t<Initialization range=\"0-626\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"715067\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Louie/Louie_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"627-1117\">\n\t\t\t\t\t<Initialization range=\"0-627\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 231.173167
+}

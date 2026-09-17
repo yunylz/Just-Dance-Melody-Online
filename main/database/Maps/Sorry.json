@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "49158046e90612cfb9b15ce520db2865",
+      "storageType": 0,
+      "url": "/public/map/Sorry/nx/Sorry_MAIN_SCENE_NX.zip/49158046e90612cfb9b15ce520db2865.zip"
+    },
+    "pc": {
+      "md5": "d4ad9fca3be2bf19646d04f4457a4cdb",
+      "storageType": 0,
+      "url": "/public/map/Sorry/pc/Sorry_MAIN_SCENE_PC.zip/d4ad9fca3be2bf19646d04f4457a4cdb.zip"
+    },
+    "ps4": {
+      "md5": "f2f382b7a20ac5caeea95aeb53a3dd22",
+      "storageType": 0,
+      "url": "/public/map/Sorry/orbis/Sorry_MAIN_SCENE_ORBIS.zip/f2f382b7a20ac5caeea95aeb53a3dd22.zip"
+    }
+  },
+  "data": {
+    "mapName": "Sorry",
+    "title": "Sorry",
+    "originalJDVersion": 2017,
+    "tags": [
+      "cool",
+      "justdance2017",
+      "solo",
+      "medium",
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Justin Bieber",
+    "credits": "Written by Justin Tranter, Julia Michaels, Justin Bieber, Sonny Moore and Michael Tucker. Published by Warner-Tamerlane Publishing Corp. obo itself, Justin's School For Girls And Thanks For The Songs Richard \\/ These Are Songs of Pulse (ASCAP) \\/ Published by OWSLA Music Publishing and Copaface. Administered by Kobalt Music Publishing America, Inc. \\/ Universal Music Corp. on behalf of itself and Bieber Time Publishing. Courtesy of Def Jam Recordings under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#8A18E4",
+    "songColor2A": "#FFFFFF",
+    "songColor1B": "#3F007D",
+    "songColor2B": "#C92000",
+    "lyricsColor": "#F2B668",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 335,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/sorry/sorry_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Sorry/nx/Sorry_banner_bkg.tga.ckd/a844d8780b2f1f1509402f747c11d2f5.ckd",
+      "map_bkgImageUrl": "/public/map/Sorry/nx/Sorry_map_bkg.tga.ckd/dfe39f98a107e51adcac142d0611210e.ckd",
+      "expandCoachImageUrl": "/public/map/Sorry/nx/Sorry_Cover_AlbumCoach.tga.ckd/a44dc022e96d933ea96dfb28982e3847.ckd",
+      "cover_smallImageUrl": "/public/map/Sorry/nx/Sorry_Cover_Online.tga.ckd/ed2b3e38c605dcb401a0593c18971c5e.ckd",
+      "coverImageUrl": "/public/map/Sorry/nx/Sorry_Cover_Generic.tga.ckd/eefcec7af1dc640379497a649aaa34ca.ckd",
+      "coach1ImageUrl": "/public/map/Sorry/nx/Sorry_Coach_1.tga.ckd/41ec192773da2f5307b800e6a311c355.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Sorry/pc/Sorry_banner_bkg.tga.ckd/8b0ce7cc4050817759a1bd81066caaae.ckd",
+      "map_bkgImageUrl": "/public/map/Sorry/pc/Sorry_map_bkg.tga.ckd/7471a6e2ed534e2505b26a19f66d89ec.ckd",
+      "expandCoachImageUrl": "/public/map/Sorry/pc/Sorry_Cover_AlbumCoach.tga.ckd/9e45aeaed3543c9f7851f982dd1a4d34.ckd",
+      "cover_smallImageUrl": "/public/map/Sorry/pc/Sorry_Cover_Online.tga.ckd/f7decb29a56dee59a84d9e876fdb1188.ckd",
+      "coverImageUrl": "/public/map/Sorry/pc/Sorry_Cover_Generic.tga.ckd/6300c3d410a119866e6787a37b2fc12b.ckd",
+      "coach1ImageUrl": "/public/map/Sorry/pc/Sorry_Coach_1.tga.ckd/f7948cee263b9aa7aec39243aa3d0f41.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Sorry/orbis/Sorry_banner_bkg.tga.ckd/8b0ce7cc4050817759a1bd81066caaae.ckd",
+      "map_bkgImageUrl": "/public/map/Sorry/orbis/Sorry_map_bkg.tga.ckd/7471a6e2ed534e2505b26a19f66d89ec.ckd",
+      "expandCoachImageUrl": "/public/map/Sorry/orbis/Sorry_Cover_AlbumCoach.tga.ckd/9e45aeaed3543c9f7851f982dd1a4d34.ckd",
+      "cover_smallImageUrl": "/public/map/Sorry/orbis/Sorry_Cover_Online.tga.ckd/f7decb29a56dee59a84d9e876fdb1188.ckd",
+      "coverImageUrl": "/public/map/Sorry/orbis/Sorry_Cover_Generic.tga.ckd/6300c3d410a119866e6787a37b2fc12b.ckd",
+      "coach1ImageUrl": "/public/map/Sorry/orbis/Sorry_Coach_1.tga.ckd/f7948cee263b9aa7aec39243aa3d0f41.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Sorry/Sorry_Coach_1_Phone.png/a7b693d99a79b01be6f5f17cb4a4ece0.png",
+    "phoneCoverImageUrl": "/public/map/Sorry/Sorry_Cover_Phone.jpg/4988b27b1436ddc36c010a4405b8fde4.jpg",
+    "cover640ImageUrl": "/public/map/Sorry/Sorry_Cover_640.png/451beff342a9986a7696a84575edee3c.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Sorry/Sorry.ogg": "/private/map/Sorry/Sorry.ogg/138996049f90c787f55a9be449e98864.ogg",
+    "jmcs://jd-contents/Sorry/Sorry_AudioPreview.ogg": "/public/map/Sorry/Sorry_AudioPreview.ogg/012ba1013b17814f1bb5637953fa8872.ogg",
+    "jmcs://jd-contents/Sorry/Sorry_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Sorry/Sorry_MapPreviewNoSoundCrop_LOW.vp8.webm/55efc335e92fc8acc8425ace364bdaea.webm",
+    "jmcs://jd-contents/Sorry/Sorry_HIGH.webm": "/private/map/Sorry/Sorry_HIGH.webm/283c184197224f2774d77d5ab0165345.webm",
+    "jmcs://jd-contents/Sorry/Sorry_LOW.webm": "/private/map/Sorry/Sorry_LOW.webm/7679b0cac872d0202cd18abadc478448.webm",
+    "jmcs://jd-contents/Sorry/Sorry_MID.webm": "/private/map/Sorry/Sorry_MID.webm/2fc368b5b15fe7f44757804f73a338ac.webm",
+    "jmcs://jd-contents/Sorry/Sorry_ULTRA.hd.webm": "/private/map/Sorry/Sorry_ULTRA.hd.webm/959aa49eab0a63c081795ed339afa674.webm",
+    "jmcs://jd-contents/Sorry/Sorry_ULTRA.webm": "/private/map/Sorry/Sorry_ULTRA.webm/b69ac0ba782c8ccf2276249d3b7c6f69.webm",
+    "jmcs://jd-contents/Sorry/Sorry_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Sorry/Sorry_MapPreviewNoSoundCrop_MID.vp8.webm/52ec44ec47a8d1b7da84785e7787967e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496626\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sorry/Sorry_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\n\t\t\t\t\t<Initialization range=\"0-617\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1466188\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sorry/Sorry_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 206.600021
+}

@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1ebc6625c3ae6137578f5ae231cc6c28",
+      "storageType": 0,
+      "url": "/public/map/BarbieGirlJD2/nx/BarbieGirlJD2_MAIN_SCENE_NX.zip/1ebc6625c3ae6137578f5ae231cc6c28.zip"
+    },
+    "pc": {
+      "md5": "0142c8fc4b50a1a64afe1e395f87ca8b",
+      "storageType": 0,
+      "url": "/public/map/BarbieGirlJD2/pc/BarbieGirlJD2_MAIN_SCENE_PC.zip/0142c8fc4b50a1a64afe1e395f87ca8b.zip"
+    },
+    "ps4": {
+      "md5": "a41841d9d687bd48197917342d259dc5",
+      "storageType": 0,
+      "url": "/public/map/BarbieGirlJD2/orbis/BarbieGirlJD2_MAIN_SCENE_ORBIS.zip/a41841d9d687bd48197917342d259dc5.zip"
+    }
+  },
+  "data": {
+    "mapName": "BarbieGirlJD2",
+    "title": "Barbie Girl",
+    "originalJDVersion": 2,
+    "tags": [
+      "main"
+    ],
+    "artist": "Aqua",
+    "credits": "Written by C. Norren, S. Rasted, L. C. Nystrom, R. Dif, J. Pedersen, K. Dahlgaard. Published by Universal Music Publishing Group a division of Universal Music Canada Ltd \\/ Warner\\/Chappell Denmark A\\/S (KODA) administered by WB Music Corp. \\/ Unknown Publisher (NS). All rights reserved. Courtesy of Countdown Media. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#DF014F",
+    "songColor2A": "#F7392B",
+    "songColor1B": "#7E002F",
+    "songColor2B": "#611914",
+    "lyricsColor": "#E173A1",
+    "LocaleID": 4294967295,
+    "LocaleId": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22176,
+        44352,
+        66528,
+        88704,
+        110880,
+        133056,
+        155232,
+        177408,
+        199584,
+        221760,
+        243936,
+        266112,
+        288288,
+        310464,
+        332640,
+        354816,
+        376992,
+        399168,
+        421344,
+        443520,
+        465696,
+        487872,
+        510048,
+        532224,
+        554400,
+        576576,
+        598752,
+        620928,
+        643104,
+        665280,
+        687456,
+        709632,
+        731808,
+        753984,
+        776160,
+        798336,
+        820512,
+        842688,
+        864864,
+        887040,
+        909216,
+        931392,
+        953568,
+        975744,
+        997920,
+        1020096,
+        1042272,
+        1064448,
+        1086624,
+        1108800,
+        1130976,
+        1153152,
+        1175328,
+        1197504,
+        1219680,
+        1241856,
+        1264032,
+        1286208,
+        1308384,
+        1330560,
+        1352736,
+        1374912,
+        1397088,
+        1419264
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 437,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/barbiegirljd2/barbiegirljd2_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BarbieGirlJD2/nx/BarbieGirlJD2_banner_bkg.tga.ckd/0fe6c1e3ec6361306dacca811acd3e81.ckd",
+      "map_bkgImageUrl": "/public/map/BarbieGirlJD2/nx/BarbieGirlJD2_map_bkg.tga.ckd/aa5acc840f1740d9a305b5cc8a273fec.ckd",
+      "expandCoachImageUrl": "/public/map/BarbieGirlJD2/nx/BarbieGirlJD2_Cover_AlbumCoach.tga.ckd/edc87cdc0de5755d9cde4f229c4ccb57.ckd",
+      "cover_smallImageUrl": "/public/map/BarbieGirlJD2/nx/BarbieGirlJD2_Cover_Online.tga.ckd/fcee090784a5289e336da433a1d447b6.ckd",
+      "coach1ImageUrl": "/public/map/BarbieGirlJD2/nx/BarbieGirlJD2_Coach_1.tga.ckd/bdfc9134a88036d47023ae3484b9f9d5.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BarbieGirlJD2/pc/BarbieGirlJD2_banner_bkg.tga.ckd/229585cf83f9881df82d79c6123bd502.ckd",
+      "map_bkgImageUrl": "/public/map/BarbieGirlJD2/pc/BarbieGirlJD2_map_bkg.tga.ckd/92d77ecff36d8167395945b99e89ca18.ckd",
+      "expandCoachImageUrl": "/public/map/BarbieGirlJD2/pc/BarbieGirlJD2_Cover_AlbumCoach.tga.ckd/dc1886db0644fad141b58fd9d48fc95b.ckd",
+      "cover_smallImageUrl": "/public/map/BarbieGirlJD2/pc/BarbieGirlJD2_Cover_Online.tga.ckd/1f97b17646c7c53418892a7a99903828.ckd",
+      "coach1ImageUrl": "/public/map/BarbieGirlJD2/pc/BarbieGirlJD2_Coach_1.tga.ckd/5ff356d01e59c2e28d9dcc47f5007fd1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BarbieGirlJD2/orbis/BarbieGirlJD2_banner_bkg.tga.ckd/229585cf83f9881df82d79c6123bd502.ckd",
+      "map_bkgImageUrl": "/public/map/BarbieGirlJD2/orbis/BarbieGirlJD2_map_bkg.tga.ckd/92d77ecff36d8167395945b99e89ca18.ckd",
+      "expandCoachImageUrl": "/public/map/BarbieGirlJD2/orbis/BarbieGirlJD2_Cover_AlbumCoach.tga.ckd/dc1886db0644fad141b58fd9d48fc95b.ckd",
+      "cover_smallImageUrl": "/public/map/BarbieGirlJD2/orbis/BarbieGirlJD2_Cover_Online.tga.ckd/1f97b17646c7c53418892a7a99903828.ckd",
+      "coach1ImageUrl": "/public/map/BarbieGirlJD2/orbis/BarbieGirlJD2_Coach_1.tga.ckd/5ff356d01e59c2e28d9dcc47f5007fd1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BarbieGirlJD2/BarbieGirlJD2_Coach_1_Phone.png/4f6fb8ec90b74354c2968a38678926fe.png",
+    "phoneCoverImageUrl": "/public/map/BarbieGirlJD2/BarbieGirlJD2_Cover_Phone.jpg/49be5236e875ae91334926c03eda62fe.jpg",
+    "cover640ImageUrl": "/public/map/BarbieGirlJD2/BarbieGirlJD2_Cover_640.png/112d3e1e951b41891d9278b6a6e5c48f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BarbieGirlJD2/BarbieGirlJD2.ogg": "/private/map/BarbieGirlJD2/BarbieGirlJD2.ogg/c3ec48a5148c69b2541f52eac81614a4.ogg",
+    "jmcs://jd-contents/BarbieGirlJD2/BarbieGirlJD2_AudioPreview.ogg": "/public/map/BarbieGirlJD2/BarbieGirlJD2_AudioPreview.ogg/fae5a5feb516acb38902c0b68e8e22b9.ogg",
+    "jmcs://jd-contents/BarbieGirlJD2/BarbieGirlJD2_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BarbieGirlJD2/BarbieGirlJD2_MapPreviewNoSoundCrop_LOW.vp8.webm/8e136cdb18840afefa95425b6da1ffda.webm",
+    "jmcs://jd-contents/BarbieGirlJD2/BarbieGirlJD2_HIGH.webm": "/private/map/BarbieGirlJD2/BarbieGirlJD2_HIGH.webm/0abfdbf02809a79a2245aa35da95b3e0.webm",
+    "jmcs://jd-contents/BarbieGirlJD2/BarbieGirlJD2_LOW.webm": "/private/map/BarbieGirlJD2/BarbieGirlJD2_LOW.webm/18abf34a15c75d142a0af038d9a48226.webm",
+    "jmcs://jd-contents/BarbieGirlJD2/BarbieGirlJD2_MID.webm": "/private/map/BarbieGirlJD2/BarbieGirlJD2_MID.webm/2431b185e6a30e5e16655ae5a75506af.webm",
+    "jmcs://jd-contents/BarbieGirlJD2/BarbieGirlJD2_ULTRA.hd.webm": "/private/map/BarbieGirlJD2/BarbieGirlJD2_ULTRA.hd.webm/8331624efd7f953909146e07cd71b523.webm",
+    "jmcs://jd-contents/BarbieGirlJD2/BarbieGirlJD2_ULTRA.webm": "/private/map/BarbieGirlJD2/BarbieGirlJD2_ULTRA.webm/0cdf70c9dfa8768ef5051c2a9a7d77ae.webm",
+    "jmcs://jd-contents/BarbieGirlJD2/BarbieGirlJD2_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BarbieGirlJD2/BarbieGirlJD2_MapPreviewNoSoundCrop_MID.vp8.webm/be01629bf3e00f1ff106451a9d7891d6.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"507817\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbieGirlJD2/BarbieGirlJD2_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1500748\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbieGirlJD2/BarbieGirlJD2_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 198.965667
+}

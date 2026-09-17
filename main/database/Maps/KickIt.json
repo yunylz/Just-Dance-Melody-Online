@@ -1,0 +1,167 @@
+{
+  "urls": {
+    "jmcs://jd-contents/KickIt/KickIt.ogg": "/private/map/KickIt/KickIt.ogg/3d4c58f02b63b43e211bf8c343495964.ogg",
+    "jmcs://jd-contents/KickIt/KickIt_AudioPreview.ogg": "/public/map/KickIt/KickIt_AudioPreview.ogg/83925133fc396797fc329f3566ae6f96.ogg",
+    "jmcs://jd-contents/KickIt/KickIt_HIGH.hd.webm": "/private/map/KickIt/KickIt_HIGH.hd.webm/7f89d18b7f3e5238d1bef459d0a797a2.webm",
+    "jmcs://jd-contents/KickIt/KickIt_LOW.hd.webm": "/private/map/KickIt/KickIt_LOW.hd.webm/989fa01d5ea3ab9ed22b84f32f66424c.webm",
+    "jmcs://jd-contents/KickIt/KickIt_MID.hd.webm": "/private/map/KickIt/KickIt_MID.hd.webm/ef6ad62ee916b13e51f9aff0db56fea0.webm",
+    "jmcs://jd-contents/KickIt/KickIt_ULTRA.hd.webm": "/private/map/KickIt/KickIt_ULTRA.hd.webm/3d5c94a106ece52040f5d948eb715a81.webm",
+    "jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/KickIt/KickIt_MapPreviewNoSoundCrop_LOW.vp8.webm/ef4b4ff991e22ad11ef5647b1d749d17.webm",
+    "jmcs://jd-contents/KickIt/KickIt_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/KickIt/KickIt_MapPreviewNoSoundCrop_MID.vp8.webm/b0cc8a04c138ef392d71d10c69a8a518.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        34491,
+        68982,
+        103473,
+        137964,
+        172455,
+        206946,
+        241437,
+        275928,
+        310419,
+        344910,
+        379401,
+        413892,
+        448383,
+        482874,
+        517365,
+        551856,
+        586347,
+        620838,
+        655329,
+        689820,
+        724311,
+        758802,
+        793293,
+        827784,
+        862275,
+        896766,
+        931257,
+        965749,
+        1000240,
+        1034731,
+        1069222,
+        1103713,
+        1138204,
+        1172695,
+        1207186,
+        1241677,
+        1276168,
+        1310659,
+        1345150,
+        1379641,
+        1414132,
+        1448623,
+        1483114,
+        1517605
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 301,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 42,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/KickIt/KickIt_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "ed152b8cc1612153b6ed43d901351979",
+      "storageType": 0,
+      "url": "/public/map/KickIt/nx/KickIt_MAIN_SCENE_NX.zip/ed152b8cc1612153b6ed43d901351979.zip"
+    },
+    "pc": {
+      "md5": "0aa32637e03708c61ad5073c1b158e46",
+      "storageType": 0,
+      "url": "/public/map/KickIt/pc/KickIt_MAIN_SCENE_PC.zip/0aa32637e03708c61ad5073c1b158e46.zip"
+    },
+    "ps4": {
+      "md5": "21d8591d55bc454b4eeb886bf4d1d45d",
+      "storageType": 0,
+      "url": "/public/map/KickIt/orbis/KickIt_MAIN_SCENE_ORBIS.zip/21d8591d55bc454b4eeb886bf4d1d45d.zip"
+    }
+  },
+  "data": {
+    "mapName": "KickIt",
+    "title": "Kick It",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "NCT 127",
+    "credits": "Written by Wutan, Rick Bridges and danke Published by Peermusic Ltd. / Warner/Chappell Music Publishing / Kobalt Music Publishing America, Inc. / Sony/ATV Music Publishing. All rights reserved. Used with permission. Courtesy of SM Entertainment/ Caroline Records under license from Universal Music Enterprises.",
+    "coachCount": 4,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#29fdff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/KickIt/nx/KickIt_banner_bkg.tga.ckd/85ae8b583a845c92c0db6ba7bfa6b540.ckd",
+      "map_bkgImageUrl": "/public/map/KickIt/nx/KickIt_map_bkg.tga.ckd/b8fcd9af0d4224bd27abc9cbb56d2704.ckd",
+      "expandCoachImageUrl": "/public/map/KickIt/nx/KickIt_Cover_AlbumCoach.tga.ckd/39217fb8e128afdc65c0bacdfe0999d3.ckd",
+      "cover_smallImageUrl": "/public/map/KickIt/nx/KickIt_Cover_Online.tga.ckd/da423a5e1c79b4aa1c47112b9121d9b5.ckd",
+      "coverImageUrl": "/public/map/KickIt/nx/KickIt_Cover_Generic.tga.ckd/817b047490f6287d6a5d61c86357ef5d.ckd",
+      "coach1ImageUrl": "/public/map/KickIt/nx/KickIt_Coach_1.tga.ckd/c52961fe51618a2fd6a4ab1a216c5009.ckd",
+      "coach2ImageUrl": "/public/map/KickIt/nx/KickIt_Coach_2.tga.ckd/cff897757589ec88fb6dd8f42bd80382.ckd",
+      "coach3ImageUrl": "/public/map/KickIt/nx/KickIt_Coach_3.tga.ckd/00744eb71bda81de939bfa6bf0cc21e2.ckd",
+      "coach4ImageUrl": "/public/map/KickIt/nx/KickIt_Coach_4.tga.ckd/ecaafb654f7db1362b70cb890ae77289.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/KickIt/pc/KickIt_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/KickIt/pc/KickIt_map_bkg.tga.ckd/30268623586c7cb0ca5920427dc790c1.ckd",
+      "expandCoachImageUrl": "/public/map/KickIt/pc/KickIt_Cover_AlbumCoach.tga.ckd/f884917a8ad72298ceaa5dc71f7752a6.ckd",
+      "cover_smallImageUrl": "/public/map/KickIt/pc/KickIt_Cover_Online.tga.ckd/91c41bb41ff14d67c11cc876bc63f650.ckd",
+      "coverImageUrl": "/public/map/KickIt/pc/KickIt_Cover_Generic.tga.ckd/87916dbf6d75e3e354b5323e993a0d05.ckd",
+      "coach1ImageUrl": "/public/map/KickIt/pc/KickIt_Coach_1.tga.ckd/0e518717b39e89551c50c4558f2dc8b1.ckd",
+      "coach2ImageUrl": "/public/map/KickIt/pc/KickIt_Coach_2.tga.ckd/45eb7c880eb5b6190b3b94d8a5391000.ckd",
+      "coach3ImageUrl": "/public/map/KickIt/pc/KickIt_Coach_3.tga.ckd/b52be3ea90741bed0aafba81bb0331e2.ckd",
+      "coach4ImageUrl": "/public/map/KickIt/pc/KickIt_Coach_4.tga.ckd/a6b9e2cfb4e5871216677c6a2782b867.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/KickIt/orbis/KickIt_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/KickIt/orbis/KickIt_map_bkg.tga.ckd/30268623586c7cb0ca5920427dc790c1.ckd",
+      "expandCoachImageUrl": "/public/map/KickIt/orbis/KickIt_Cover_AlbumCoach.tga.ckd/f884917a8ad72298ceaa5dc71f7752a6.ckd",
+      "cover_smallImageUrl": "/public/map/KickIt/orbis/KickIt_Cover_Online.tga.ckd/91c41bb41ff14d67c11cc876bc63f650.ckd",
+      "coverImageUrl": "/public/map/KickIt/orbis/KickIt_Cover_Generic.tga.ckd/87916dbf6d75e3e354b5323e993a0d05.ckd",
+      "coach1ImageUrl": "/public/map/KickIt/orbis/KickIt_Coach_1.tga.ckd/0e518717b39e89551c50c4558f2dc8b1.ckd",
+      "coach2ImageUrl": "/public/map/KickIt/orbis/KickIt_Coach_2.tga.ckd/45eb7c880eb5b6190b3b94d8a5391000.ckd",
+      "coach3ImageUrl": "/public/map/KickIt/orbis/KickIt_Coach_3.tga.ckd/b52be3ea90741bed0aafba81bb0331e2.ckd",
+      "coach4ImageUrl": "/public/map/KickIt/orbis/KickIt_Coach_4.tga.ckd/a6b9e2cfb4e5871216677c6a2782b867.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/KickIt/KickIt_Coach_1_Phone.png/4bbec64d49b7b92161608804391ae030.png",
+    "phoneCoach2ImageUrl": "/public/map/KickIt/KickIt_Coach_2_Phone.png/f68310171b532e3930b6c4b9c72716c1.png",
+    "phoneCoach3ImageUrl": "/public/map/KickIt/KickIt_Coach_3_Phone.png/f027c902c9671f8c1ce919f0f57e8e98.png",
+    "phoneCoach4ImageUrl": "/public/map/KickIt/KickIt_Coach_4_Phone.png/a272414d9adf86d8997cdf9b87db8da6.png",
+    "phoneCoverImageUrl": "/public/map/KickIt/KickIt_Cover_Phone.jpg/f2e19fbec59e54e27bb767c73a5b9723.jpg",
+    "cover640ImageUrl": "/public/map/KickIt/KickIt_Cover_640.png/fafd5f66cd955adb245f2b5cefd452f7.png"
+  },
+  "mapLength": 214.850292
+}

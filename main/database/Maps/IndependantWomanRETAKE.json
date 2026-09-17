@@ -1,0 +1,177 @@
+{
+  "urls": {
+    "jmcs://jd-contents/IndependantWomanRETAKE/IndependantWomanRETAKE.ogg": "/private/map/IndependantWomanRETAKE/IndependantWomanRETAKE.ogg/78751611b07a91f4b4bc88c2dc2eea5e.ogg",
+    "jmcs://jd-contents/IndependantWomanRETAKE/IndependantWomanRETAKE_AudioPreview.ogg": "/public/map/IndependantWomanRETAKE/IndependantWomanRETAKE_AudioPreview.ogg/85b91924d801d652687f25d0f14a4d25.ogg",
+    "jmcs://jd-contents/IndependantWomanRETAKE/IndependantWomanRETAKE_HIGH.hd.webm": "/private/map/IndependantWomanRETAKE/IndependantWomanRETAKE_HIGH.hd.webm/43a30e9905be43ce909cb40d9ebe7f35.webm",
+    "jmcs://jd-contents/IndependantWomanRETAKE/IndependantWomanRETAKE_LOW.hd.webm": "/private/map/IndependantWomanRETAKE/IndependantWomanRETAKE_LOW.hd.webm/91849dcdab87ff29f89f6704dbdf4ac8.webm",
+    "jmcs://jd-contents/IndependantWomanRETAKE/IndependantWomanRETAKE_MID.hd.webm": "/private/map/IndependantWomanRETAKE/IndependantWomanRETAKE_MID.hd.webm/2ce37a4e86dd41319a719b4fced3765d.webm",
+    "jmcs://jd-contents/IndependantWomanRETAKE/IndependantWomanRETAKE_ULTRA.hd.webm": "/private/map/IndependantWomanRETAKE/IndependantWomanRETAKE_ULTRA.hd.webm/d8e5e07ba8b2c150c54259daccc19b82.webm",
+    "jmcs://jd-contents/IndependantWomanRETAKE/IndependantWomanRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/IndependantWomanRETAKE/IndependantWomanRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm/275c8c23403cd86e2470d2217ac7b229.webm",
+    "jmcs://jd-contents/IndependantWomanRETAKE/IndependantWomanRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/IndependantWomanRETAKE/IndependantWomanRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm/29c799c57088704f6462faf1fb79d28a.webm"
+  },
+  "mapLength": 203.52525,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        10416,
+        35040,
+        59664,
+        84240,
+        108864,
+        133488,
+        158112,
+        182688,
+        207312,
+        231936,
+        256560,
+        281184,
+        305760,
+        330384,
+        355008,
+        379632,
+        404208,
+        428832,
+        453456,
+        478080,
+        502656,
+        527280,
+        551904,
+        576528,
+        601152,
+        625728,
+        650352,
+        674976,
+        699600,
+        724176,
+        748800,
+        773424,
+        798048,
+        822624,
+        847248,
+        871872,
+        896496,
+        921072,
+        945696,
+        970320,
+        994944,
+        1019568,
+        1044144,
+        1068768,
+        1093392,
+        1118016,
+        1142592,
+        1167216,
+        1191840,
+        1216464,
+        1241040,
+        1265664,
+        1290288,
+        1314912,
+        1339536,
+        1364112,
+        1388736,
+        1413360,
+        1437984,
+        1462560,
+        1487184
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 366,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/IndependantWomanRETAKE/IndependantWomanRETAKE_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"620263\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IndependantWomanRETAKE/IndependantWomanRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2037462\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IndependantWomanRETAKE/IndependantWomanRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "4750456ab9b9560d9aa657a964fd9fdb",
+      "storageType": 0,
+      "url": "/public/map/IndependantWomanRETAKE/nx/IndependantWomanRETAKE_MAIN_SCENE_NX.zip/4750456ab9b9560d9aa657a964fd9fdb.zip"
+    },
+    "pc": {
+      "md5": "6ba1976fbfe7a9242131fc7568e12021",
+      "storageType": 0,
+      "url": "/public/map/IndependantWomanRETAKE/pc/IndependantWomanRETAKE_MAIN_SCENE_PC.zip/6ba1976fbfe7a9242131fc7568e12021.zip"
+    },
+    "ps4": {
+      "md5": "878543c795135f1ef31b6097b92eb523",
+      "storageType": 0,
+      "url": "/public/map/IndependantWomanRETAKE/orbis/IndependantWomanRETAKE_MAIN_SCENE_ORBIS.zip/878543c795135f1ef31b6097b92eb523.zip"
+    }
+  },
+  "data": {
+    "mapName": "IndependantWomanRETAKE",
+    "title": "Independent Woman",
+    "originalJDVersion": 1001,
+    "artist": "AI",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#6bdedb",
+    "songColor2A": "#efde4f",
+    "songColor1B": "#03205f",
+    "songColor2B": "#590131",
+    "lyricsColor": "#00bbff",
+    "tags": [
+      "subscribedSong",
+      "jdwii2",
+      "JustDanceAsia",
+      "Solo",
+      "Easy"
+    ],
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/IndependantWomanRETAKE/nx/IndependantWomanRETAKE_banner_bkg.tga.ckd/573d7ce7368916cdc4e5df863a382d3f.ckd",
+      "map_bkgImageUrl": "/public/map/IndependantWomanRETAKE/nx/IndependantWomanRETAKE_map_bkg.tga.ckd/036241ef833c24873471b59c4f2cbc24.ckd",
+      "expandCoachImageUrl": "/public/map/IndependantWomanRETAKE/nx/IndependantWomanRETAKE_Cover_AlbumCoach.tga.ckd/c4d5c4588522bfa6d9137173e388c6bf.ckd",
+      "cover_smallImageUrl": "/public/map/IndependantWomanRETAKE/nx/IndependantWomanRETAKE_Cover_Online.tga.ckd/a74ae7c87780f922afa2556b1f88cf7d.ckd",
+      "coverImageUrl": "/public/map/IndependantWomanRETAKE/nx/IndependantWomanRETAKE_Cover_Generic.tga.ckd/92b0a7078252635db9b0bbd1c4031f38.ckd",
+      "coach1ImageUrl": "/public/map/IndependantWomanRETAKE/nx/IndependantWomanRETAKE_Coach_1.tga.ckd/a5e9fea50764ad589e4f42f0774df928.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/IndependantWomanRETAKE/pc/IndependantWomanRETAKE_banner_bkg.tga.ckd/53f67969ed165ead187fb4890ba567e3.ckd",
+      "map_bkgImageUrl": "/public/map/IndependantWomanRETAKE/pc/IndependantWomanRETAKE_map_bkg.tga.ckd/ab02ba85b1c8a7e45af9bd709441b934.ckd",
+      "expandCoachImageUrl": "/public/map/IndependantWomanRETAKE/pc/IndependantWomanRETAKE_Cover_AlbumCoach.tga.ckd/f3b9d263072ba4a0827979ede5a830f5.ckd",
+      "cover_smallImageUrl": "/public/map/IndependantWomanRETAKE/pc/IndependantWomanRETAKE_Cover_Online.tga.ckd/b7d81fc7c612c6764cb4a6e187d671ee.ckd",
+      "coverImageUrl": "/public/map/IndependantWomanRETAKE/pc/IndependantWomanRETAKE_Cover_Generic.tga.ckd/168c6d7a64deec60982a911277d656ac.ckd",
+      "coach1ImageUrl": "/public/map/IndependantWomanRETAKE/pc/IndependantWomanRETAKE_Coach_1.tga.ckd/f18a430a6462826898df8f9ab2bdbae9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/IndependantWomanRETAKE/orbis/IndependantWomanRETAKE_banner_bkg.tga.ckd/53f67969ed165ead187fb4890ba567e3.ckd",
+      "map_bkgImageUrl": "/public/map/IndependantWomanRETAKE/orbis/IndependantWomanRETAKE_map_bkg.tga.ckd/ab02ba85b1c8a7e45af9bd709441b934.ckd",
+      "expandCoachImageUrl": "/public/map/IndependantWomanRETAKE/orbis/IndependantWomanRETAKE_Cover_AlbumCoach.tga.ckd/f3b9d263072ba4a0827979ede5a830f5.ckd",
+      "cover_smallImageUrl": "/public/map/IndependantWomanRETAKE/orbis/IndependantWomanRETAKE_Cover_Online.tga.ckd/b7d81fc7c612c6764cb4a6e187d671ee.ckd",
+      "coverImageUrl": "/public/map/IndependantWomanRETAKE/orbis/IndependantWomanRETAKE_Cover_Generic.tga.ckd/168c6d7a64deec60982a911277d656ac.ckd",
+      "coach1ImageUrl": "/public/map/IndependantWomanRETAKE/orbis/IndependantWomanRETAKE_Coach_1.tga.ckd/f18a430a6462826898df8f9ab2bdbae9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/IndependantWomanRETAKE/IndependantWomanRETAKE_Coach_1_Phone.png/d52792be76fd79c6cf1b20d3666c109b.png",
+    "phoneCoverImageUrl": "/public/map/IndependantWomanRETAKE/IndependantWomanRETAKE_Cover_Phone.jpg/6aa4a55e9752b7736b53769d0b5f56fc.jpg",
+    "cover640ImageUrl": "/public/map/IndependantWomanRETAKE/IndependantWomanRETAKE_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  }
+}

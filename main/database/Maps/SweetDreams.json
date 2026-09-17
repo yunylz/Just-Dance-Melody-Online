@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7489737a7a5d43b72260347287fd31f3",
+      "storageType": 0,
+      "url": "/public/map/SweetDreams/nx/SweetDreams_MAIN_SCENE_NX.zip/7489737a7a5d43b72260347287fd31f3.zip"
+    },
+    "pc": {
+      "md5": "09e7b104f423c80616cf8d80c91cec4b",
+      "storageType": 0,
+      "url": "/public/map/SweetDreams/pc/SweetDreams_MAIN_SCENE_PC.zip/09e7b104f423c80616cf8d80c91cec4b.zip"
+    },
+    "ps4": {
+      "md5": "0959117734287f0ad330bf141c3d3ba7",
+      "storageType": 0,
+      "url": "/public/map/SweetDreams/orbis/SweetDreams_MAIN_SCENE_ORBIS.zip/0959117734287f0ad330bf141c3d3ba7.zip"
+    }
+  },
+  "data": {
+    "mapName": "SweetDreams",
+    "title": "Sweet Dreams (Are Made Of This)",
+    "originalJDVersion": 2023,
+    "tags": [
+      "Easy",
+      "Solo",
+      "subscribedSong"
+    ],
+    "artist": "Eurythmics",
+    "credits": "Written by Ann Lennox, David Allan Stewart. Published by Universal Music Publishing Canada. Courtesy of Sony Music.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ec31e0",
+    "songColor2A": "#f35dce",
+    "songColor1B": "#1c093f",
+    "songColor2B": "#111055",
+    "lyricsColor": "#d54cb3"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23005,
+        46010,
+        69015,
+        92020,
+        115025,
+        138030,
+        161035,
+        184040,
+        207045,
+        230050,
+        253055,
+        276060,
+        299065,
+        322070,
+        345075,
+        368081,
+        391086,
+        414091,
+        437096,
+        460101,
+        483106,
+        506111,
+        529116,
+        552121,
+        575126,
+        598131,
+        621136,
+        644141,
+        667146,
+        690151,
+        713156,
+        736161,
+        759166,
+        782171,
+        805176,
+        828181,
+        851186,
+        874191,
+        897196,
+        920201,
+        943206,
+        966211,
+        989216,
+        1012221,
+        1035226,
+        1058231,
+        1081237,
+        1104242,
+        1127247,
+        1150252,
+        1173257,
+        1196262,
+        1219267,
+        1242272,
+        1265277,
+        1288282,
+        1311287,
+        1334292,
+        1357297,
+        1380302,
+        1403307,
+        1426312,
+        1449317,
+        1472322,
+        1495327
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 445,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SweetDreams/SweetDreams_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SweetDreams/nx/SweetDreams_banner_bkg.tga.ckd/69ab975415cfe916c659ac3335168642.ckd",
+      "map_bkgImageUrl": "/public/map/SweetDreams/nx/SweetDreams_map_bkg.tga.ckd/72629708925bb78101a12935c8a74a79.ckd",
+      "expandCoachImageUrl": "/public/map/SweetDreams/nx/SweetDreams_Cover_AlbumCoach.tga.ckd/3e4dc9502af8368807b8d9589535031c.ckd",
+      "cover_smallImageUrl": "/public/map/SweetDreams/nx/SweetDreams_Cover_Online.tga.ckd/e59b73e87e1cb32bdd4bca42b9f3bd7a.ckd",
+      "coverImageUrl": "/public/map/SweetDreams/nx/SweetDreams_Cover_Generic.tga.ckd/1443c8f47c1311ef965f2c2eb96d122d.ckd",
+      "coach1ImageUrl": "/public/map/SweetDreams/nx/SweetDreams_Coach_1.tga.ckd/77240e63fcdc6bd8e6888064cee17cfe.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SweetDreams/pc/SweetDreams_banner_bkg.tga.ckd/06b22ad971a1c73da0dcf36e24f3773e.ckd",
+      "map_bkgImageUrl": "/public/map/SweetDreams/pc/SweetDreams_map_bkg.tga.ckd/876bb6ed4a06f556585e92ea10df998d.ckd",
+      "expandCoachImageUrl": "/public/map/SweetDreams/pc/SweetDreams_Cover_AlbumCoach.tga.ckd/a5de8cd34083eeb14b862db4a315ab3d.ckd",
+      "cover_smallImageUrl": "/public/map/SweetDreams/pc/SweetDreams_Cover_Online.tga.ckd/453a89a244f967c6c3ac6edc29d0f18d.ckd",
+      "coverImageUrl": "/public/map/SweetDreams/pc/SweetDreams_Cover_Generic.tga.ckd/8a3e15b00aa0915d57fb22dea6a931de.ckd",
+      "coach1ImageUrl": "/public/map/SweetDreams/pc/SweetDreams_Coach_1.tga.ckd/2b4c40e57bb5aeb26500d370952726ab.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SweetDreams/orbis/SweetDreams_banner_bkg.tga.ckd/06b22ad971a1c73da0dcf36e24f3773e.ckd",
+      "map_bkgImageUrl": "/public/map/SweetDreams/orbis/SweetDreams_map_bkg.tga.ckd/876bb6ed4a06f556585e92ea10df998d.ckd",
+      "expandCoachImageUrl": "/public/map/SweetDreams/orbis/SweetDreams_Cover_AlbumCoach.tga.ckd/a5de8cd34083eeb14b862db4a315ab3d.ckd",
+      "cover_smallImageUrl": "/public/map/SweetDreams/orbis/SweetDreams_Cover_Online.tga.ckd/453a89a244f967c6c3ac6edc29d0f18d.ckd",
+      "coverImageUrl": "/public/map/SweetDreams/orbis/SweetDreams_Cover_Generic.tga.ckd/8a3e15b00aa0915d57fb22dea6a931de.ckd",
+      "coach1ImageUrl": "/public/map/SweetDreams/orbis/SweetDreams_Coach_1.tga.ckd/2b4c40e57bb5aeb26500d370952726ab.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SweetDreams/SweetDreams_Coach_1_Phone.png/b0dd50ff01a7ca974021b7d48d7569e8.png",
+    "phoneCoverImageUrl": "/public/map/SweetDreams/SweetDreams_Cover_Phone.jpg/7339633808fac5c4e31d9b0f790ad80d.jpg",
+    "cover640ImageUrl": "/public/map/SweetDreams/SweetDreams_Cover_640.png/54910650d2002201b2a05448950776a0.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SweetDreams/SweetDreams.ogg": "/private/map/SweetDreams/SweetDreams.ogg/52b31e3763f9a6fdbbdd9791d19dfc0b.ogg",
+    "jmcs://jd-contents/SweetDreams/SweetDreams_AudioPreview.ogg": "/public/map/SweetDreams/SweetDreams_AudioPreview.ogg/0af49e9ad87a91543d9bf34e92d34204.ogg",
+    "jmcs://jd-contents/SweetDreams/SweetDreams_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SweetDreams/SweetDreams_MapPreviewNoSoundCrop_LOW.vp8.webm/765fd3bd4bfce27d64003ee45b3f5325.webm",
+    "jmcs://jd-contents/SweetDreams/SweetDreams_HIGH.webm": "/private/map/SweetDreams/SweetDreams_HIGH.webm/ac1225a5efe09bb604352449e5558d43.webm",
+    "jmcs://jd-contents/SweetDreams/SweetDreams_LOW.webm": "/private/map/SweetDreams/SweetDreams_LOW.webm/7cec84e91a8cbfdcafa5d5e99165328d.webm",
+    "jmcs://jd-contents/SweetDreams/SweetDreams_MID.webm": "/private/map/SweetDreams/SweetDreams_MID.webm/cdcc5ea2fcb39f1de5bd006da503b8e3.webm",
+    "jmcs://jd-contents/SweetDreams/SweetDreams_ULTRA.hd.webm": "/private/map/SweetDreams/SweetDreams_ULTRA.hd.webm/720513c18864687f00f245ec69d1b1f0.webm",
+    "jmcs://jd-contents/SweetDreams/SweetDreams_ULTRA.webm": "/private/map/SweetDreams/SweetDreams_ULTRA.webm/e14fc46a3778e13595c933b9775f2cbe.webm",
+    "jmcs://jd-contents/SweetDreams/SweetDreams_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SweetDreams/SweetDreams_MapPreviewNoSoundCrop_MID.vp8.webm/cb4fef837de220fae15d7612537c2a13.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"487633\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetDreams/SweetDreams_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"665-1155\">\n\t\t\t\t\t<Initialization range=\"0-665\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483891\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetDreams/SweetDreams_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"666-1156\">\n\t\t\t\t\t<Initialization range=\"0-666\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 216.151438
+}

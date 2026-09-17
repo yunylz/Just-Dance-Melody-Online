@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MJThrillerRETAKE/MJThrillerRETAKE.ogg": "/private/map/MJThrillerRETAKE/MJThrillerRETAKE.ogg/68811c6e8f7de1462e192b1c74ee0c6d.ogg",
+    "jmcs://jd-contents/MJThrillerRETAKE/MJThrillerRETAKE_AudioPreview.ogg": "/public/map/MJThrillerRETAKE/MJThrillerRETAKE_AudioPreview.ogg/588af83770ace10cdc2743f9f918b1e2.ogg",
+    "jmcs://jd-contents/MJThrillerRETAKE/MJThrillerRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJThrillerRETAKE/MJThrillerRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm/13a3eb9b802f9663939417f92e1e8e5a.webm",
+    "jmcs://jd-contents/MJThrillerRETAKE/MJThrillerRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJThrillerRETAKE/MJThrillerRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm/fe00a3beeb95840bd15a6aaaeff908d5.webm",
+    "jmcs://jd-contents/MJThrillerRETAKE/MJThrillerRETAKE_HIGH.hd.webm": "/private/map/MJThrillerRETAKE/MJThrillerRETAKE_HIGH.hd.webm/4c47819d58bcace4b0600e093b851ab8.webm",
+    "jmcs://jd-contents/MJThrillerRETAKE/MJThrillerRETAKE_LOW.hd.webm": "/private/map/MJThrillerRETAKE/MJThrillerRETAKE_LOW.hd.webm/ff6e7405774967239d15576c66d0a8e2.webm",
+    "jmcs://jd-contents/MJThrillerRETAKE/MJThrillerRETAKE_MID.hd.webm": "/private/map/MJThrillerRETAKE/MJThrillerRETAKE_MID.hd.webm/3c52fe96582cbd8e8e5a4fd86775bdd8.webm",
+    "jmcs://jd-contents/MJThrillerRETAKE/MJThrillerRETAKE_ULTRA.hd.webm": "/private/map/MJThrillerRETAKE/MJThrillerRETAKE_ULTRA.hd.webm/74fb34ca43d63522a3782690085d8c04.webm"
+  },
+  "mapLength": 358.34368229166665,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23921,
+        48328,
+        72720,
+        97118,
+        121508,
+        145750,
+        169991,
+        194233,
+        218475,
+        242716,
+        266958,
+        291199,
+        315441,
+        339683,
+        363924,
+        388131,
+        412408,
+        436649,
+        460891,
+        485167,
+        509426,
+        533694,
+        558032,
+        582238,
+        606445,
+        630739,
+        654998,
+        679275,
+        703542,
+        727793,
+        752034,
+        776276,
+        800518,
+        824794,
+        849051,
+        873277,
+        897710,
+        922144,
+        946716,
+        971080,
+        995513,
+        1019981,
+        1044275,
+        1068604,
+        1092810,
+        1117244,
+        1141720,
+        1165901,
+        1190404,
+        1214593,
+        1238857,
+        1263390,
+        1287902,
+        1312013,
+        1336280,
+        1360757,
+        1385277,
+        1409414,
+        1433534,
+        1457671,
+        1481791
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 708,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJThrillerRETAKE/MJThrillerRETAKE_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"611522\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJThrillerRETAKE/MJThrillerRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"791-1281\">\n\t\t\t\t\t<Initialization range=\"0-791\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2002621\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJThrillerRETAKE/MJThrillerRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"791-1281\">\n\t\t\t\t\t<Initialization range=\"0-791\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "4ada23f3f3cbfade8e46c5c6f2969645",
+      "storageType": 0,
+      "url": "/public/map/MJThrillerRETAKE/nx/MJThrillerRETAKE_MAIN_SCENE_NX.zip/4ada23f3f3cbfade8e46c5c6f2969645.zip"
+    },
+    "pc": {
+      "md5": "64b0dbff5c569f0e7337e76b745ae968",
+      "storageType": 0,
+      "url": "/public/map/MJThrillerRETAKE/pc/MJThrillerRETAKE_MAIN_SCENE_PC.zip/64b0dbff5c569f0e7337e76b745ae968.zip"
+    },
+    "ps4": {
+      "md5": "c4a7183546151ba1e83319a940542c69",
+      "storageType": 0,
+      "url": "/public/map/MJThrillerRETAKE/orbis/MJThrillerRETAKE_MAIN_SCENE_ORBIS.zip/c4a7183546151ba1e83319a940542c69.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJThrillerRETAKE",
+    "title": "Thriller",
+    "originalJDVersion": 2009,
+    "tags": [
+      "MJTEDrop",
+      "subscribedSong"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#c12f00",
+    "songColor2A": "#57c0b2",
+    "songColor1B": "#4b1402",
+    "songColor2B": "#213600",
+    "lyricsColor": "#7fbc45",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJThrillerRETAKE/nx/MJThrillerRETAKE_banner_bkg.tga.ckd/8c6dfcf949ae2d18246969aa45e9014f.ckd",
+      "map_bkgImageUrl": "/public/map/MJThrillerRETAKE/nx/MJThrillerRETAKE_map_bkg.tga.ckd/bcd026aba685cc9da872a9e7851e7974.ckd",
+      "expandCoachImageUrl": "/public/map/MJThrillerRETAKE/nx/MJThrillerRETAKE_Cover_AlbumCoach.tga.ckd/6eb0d9aaf7a4d2781b8a8a757d94bc85.ckd",
+      "cover_smallImageUrl": "/public/map/MJThrillerRETAKE/nx/MJThrillerRETAKE_Cover_Online.tga.ckd/ef915740f81572c14887231184fcbbe4.ckd",
+      "coverImageUrl": "/public/map/MJThrillerRETAKE/nx/MJThrillerRETAKE_Cover_Generic.tga.ckd/a63832984cba5217e22f1a5eb278518d.ckd",
+      "coach1ImageUrl": "/public/map/MJThrillerRETAKE/nx/MJThrillerRETAKE_Coach_1.tga.ckd/8e91b12b7665d9401b128e4c776d3133.ckd",
+      "coach2ImageUrl": "/public/map/MJThrillerRETAKE/nx/MJThrillerRETAKE_Coach_2.tga.ckd/80d965850c54d8a035bf08fe809591de.ckd",
+      "coach3ImageUrl": "/public/map/MJThrillerRETAKE/nx/MJThrillerRETAKE_Coach_3.tga.ckd/8e91b12b7665d9401b128e4c776d3133.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJThrillerRETAKE/pc/MJThrillerRETAKE_banner_bkg.tga.ckd/2371cd5378a3238034ac94a40baeb039.ckd",
+      "map_bkgImageUrl": "/public/map/MJThrillerRETAKE/pc/MJThrillerRETAKE_map_bkg.tga.ckd/9b629d8b411d231caeebc0ffee6a13fe.ckd",
+      "expandCoachImageUrl": "/public/map/MJThrillerRETAKE/pc/MJThrillerRETAKE_Cover_AlbumCoach.tga.ckd/08a8dc83b4b8fcd511da612a685c258c.ckd",
+      "cover_smallImageUrl": "/public/map/MJThrillerRETAKE/pc/MJThrillerRETAKE_Cover_Online.tga.ckd/053e231adad0d6b496845d9139822481.ckd",
+      "coverImageUrl": "/public/map/MJThrillerRETAKE/pc/MJThrillerRETAKE_Cover_Generic.tga.ckd/028d26d9d0de3c863385bc2a2550c255.ckd",
+      "coach1ImageUrl": "/public/map/MJThrillerRETAKE/pc/MJThrillerRETAKE_Coach_1.tga.ckd/c0ebaf61b297f311fff79dba94ba0cb9.ckd",
+      "coach2ImageUrl": "/public/map/MJThrillerRETAKE/pc/MJThrillerRETAKE_Coach_2.tga.ckd/b8cb34636ef3c245caca39f4d581643f.ckd",
+      "coach3ImageUrl": "/public/map/MJThrillerRETAKE/pc/MJThrillerRETAKE_Coach_3.tga.ckd/c0ebaf61b297f311fff79dba94ba0cb9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJThrillerRETAKE/orbis/MJThrillerRETAKE_banner_bkg.tga.ckd/2371cd5378a3238034ac94a40baeb039.ckd",
+      "map_bkgImageUrl": "/public/map/MJThrillerRETAKE/orbis/MJThrillerRETAKE_map_bkg.tga.ckd/9b629d8b411d231caeebc0ffee6a13fe.ckd",
+      "expandCoachImageUrl": "/public/map/MJThrillerRETAKE/orbis/MJThrillerRETAKE_Cover_AlbumCoach.tga.ckd/08a8dc83b4b8fcd511da612a685c258c.ckd",
+      "cover_smallImageUrl": "/public/map/MJThrillerRETAKE/orbis/MJThrillerRETAKE_Cover_Online.tga.ckd/053e231adad0d6b496845d9139822481.ckd",
+      "coverImageUrl": "/public/map/MJThrillerRETAKE/orbis/MJThrillerRETAKE_Cover_Generic.tga.ckd/028d26d9d0de3c863385bc2a2550c255.ckd",
+      "coach1ImageUrl": "/public/map/MJThrillerRETAKE/orbis/MJThrillerRETAKE_Coach_1.tga.ckd/c0ebaf61b297f311fff79dba94ba0cb9.ckd",
+      "coach2ImageUrl": "/public/map/MJThrillerRETAKE/orbis/MJThrillerRETAKE_Coach_2.tga.ckd/b8cb34636ef3c245caca39f4d581643f.ckd",
+      "coach3ImageUrl": "/public/map/MJThrillerRETAKE/orbis/MJThrillerRETAKE_Coach_3.tga.ckd/c0ebaf61b297f311fff79dba94ba0cb9.ckd"
+    },
+    "cover640ImageUrl": "/public/map/MJThrillerRETAKE/MJThrillerRETAKE_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  }
+}

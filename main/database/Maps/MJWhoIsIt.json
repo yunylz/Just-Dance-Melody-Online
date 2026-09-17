@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MJWhoIsIt/MJWhoIsIt.ogg": "/private/map/MJWhoIsIt/MJWhoIsIt.ogg/f0964a8f5e46532a8e38e03722640efd.ogg",
+    "jmcs://jd-contents/MJWhoIsIt/MJWhoIsIt_AudioPreview.ogg": "/public/map/MJWhoIsIt/MJWhoIsIt_AudioPreview.ogg/3d16465023c0caaf97a7229dbfb3ae95.ogg",
+    "jmcs://jd-contents/MJWhoIsIt/MJWhoIsIt_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJWhoIsIt/MJWhoIsIt_MapPreviewNoSoundCrop_LOW.vp8.webm/c8d03e3216afaa8893eb4a73e544149b.webm",
+    "jmcs://jd-contents/MJWhoIsIt/MJWhoIsIt_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJWhoIsIt/MJWhoIsIt_MapPreviewNoSoundCrop_MID.vp8.webm/a5d45bce13c6825845251e675125d4b7.webm",
+    "jmcs://jd-contents/MJWhoIsIt/MJWhoIsIt_HIGH.hd.webm": "/private/map/MJWhoIsIt/MJWhoIsIt_HIGH.hd.webm/58d0417862368d6e2584ee395b18a84b.webm",
+    "jmcs://jd-contents/MJWhoIsIt/MJWhoIsIt_LOW.hd.webm": "/private/map/MJWhoIsIt/MJWhoIsIt_LOW.hd.webm/050ec8698899ff116066b5cfb527aa5f.webm",
+    "jmcs://jd-contents/MJWhoIsIt/MJWhoIsIt_MID.hd.webm": "/private/map/MJWhoIsIt/MJWhoIsIt_MID.hd.webm/a042fc1c2aa59f728e31d1113aa13911.webm",
+    "jmcs://jd-contents/MJWhoIsIt/MJWhoIsIt_ULTRA.hd.webm": "/private/map/MJWhoIsIt/MJWhoIsIt_ULTRA.hd.webm/a88be197c412f82cbc6c7ac297de8ef3.webm"
+  },
+  "mapLength": 240.01327083333334,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28194,
+        56337,
+        84479,
+        112622,
+        140767,
+        168816,
+        196675,
+        224642,
+        252662,
+        280666,
+        308588,
+        336252,
+        364146,
+        392195,
+        420009,
+        448154,
+        475983,
+        504095,
+        532035,
+        559973,
+        588105,
+        616108,
+        643879,
+        671841,
+        700055,
+        727962,
+        755722,
+        783684,
+        811644,
+        839788,
+        867748,
+        895614,
+        923563,
+        951562,
+        979408,
+        1007338,
+        1035461,
+        1063405,
+        1091539,
+        1119488,
+        1147282,
+        1175259,
+        1203284,
+        1230998,
+        1259067,
+        1287107,
+        1314997,
+        1342915,
+        1370895,
+        1398955,
+        1426819,
+        1454687,
+        1482768
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 412,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJWhoIsIt/MJWhoIsIt_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"519282\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJWhoIsIt/MJWhoIsIt_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"786-1276\">\n\t\t\t\t\t<Initialization range=\"0-786\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1991476\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJWhoIsIt/MJWhoIsIt_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"787-1277\">\n\t\t\t\t\t<Initialization range=\"0-787\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "04e54e75075845e2073ca85544a67687",
+      "storageType": 0,
+      "url": "/public/map/MJWhoIsIt/nx/MJWhoIsIt_MAIN_SCENE_NX.zip/04e54e75075845e2073ca85544a67687.zip"
+    },
+    "pc": {
+      "md5": "b2aa3dae7f4ee891c6e529d03afbdd20",
+      "storageType": 0,
+      "url": "/public/map/MJWhoIsIt/pc/MJWhoIsIt_MAIN_SCENE_PC.zip/b2aa3dae7f4ee891c6e529d03afbdd20.zip"
+    },
+    "ps4": {
+      "md5": "384dc6ffd03932a13ec4a732dcc9aae7",
+      "storageType": 0,
+      "url": "/public/map/MJWhoIsIt/orbis/MJWhoIsIt_MAIN_SCENE_ORBIS.zip/384dc6ffd03932a13ec4a732dcc9aae7.zip"
+    }
+  },
+"data": {
+    "mapName": "MJWhoIsIt",
+    "title": "Who Is It",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong",
+      "MJTESeason"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "Credits to Planedec50, All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#aa2096",
+    "songColor2A": "#f2d5ff",
+    "songColor1B": "#1f001b",
+    "songColor2B": "#1c0e1c",
+    "lyricsColor": "#8E00AA",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJWhoIsIt/nx/MJWhoIsIt_banner_bkg.tga.ckd/c8fbe9fdac224f0698276f5e10b2b92a.ckd",
+      "map_bkgImageUrl": "/public/map/MJWhoIsIt/nx/MJWhoIsIt_map_bkg.tga.ckd/1e9cc31ce5e3d3b95fbb7a3b8ea2d05f.ckd",
+      "expandCoachImageUrl": "/public/map/MJWhoIsIt/nx/MJWhoIsIt_Cover_AlbumCoach.tga.ckd/26a6d498cea006d59fbe628f4250d695.ckd",
+      "cover_smallImageUrl": "/public/map/MJWhoIsIt/nx/MJWhoIsIt_Cover_Online.tga.ckd/db2707369c22e2ce84eb01681a377a82.ckd",
+      "coverImageUrl": "/public/map/MJWhoIsIt/nx/MJWhoIsIt_Cover_Generic.tga.ckd/af8829e1b6c9e0a492ebb7bd2d9a8086.ckd",
+      "coach1ImageUrl": "/public/map/MJWhoIsIt/nx/MJWhoIsIt_Coach_1.tga.ckd/2a5ba5c6024e4ac056f2a94394a8fafa.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJWhoIsIt/pc/MJWhoIsIt_banner_bkg.tga.ckd/91af2bd8a07c0a495bedc783db1ec79c.ckd",
+      "map_bkgImageUrl": "/public/map/MJWhoIsIt/pc/MJWhoIsIt_map_bkg.tga.ckd/879bca63882fc97a2922d6b0846ee2c0.ckd",
+      "expandCoachImageUrl": "/public/map/MJWhoIsIt/pc/MJWhoIsIt_Cover_AlbumCoach.tga.ckd/4dc137af7ddcdfaef9356cdc48ff2c4f.ckd",
+      "cover_smallImageUrl": "/public/map/MJWhoIsIt/pc/MJWhoIsIt_Cover_Online.tga.ckd/0cba3a90984ed0ae9c03bbb877b7c2ac.ckd",
+      "coverImageUrl": "/public/map/MJWhoIsIt/pc/MJWhoIsIt_Cover_Generic.tga.ckd/7f0dd9d45619fe664e7b4e1eea61123b.ckd",
+      "coach1ImageUrl": "/public/map/MJWhoIsIt/pc/MJWhoIsIt_Coach_1.tga.ckd/d08b689f313107cde2dff078b197f977.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJWhoIsIt/orbis/MJWhoIsIt_banner_bkg.tga.ckd/91af2bd8a07c0a495bedc783db1ec79c.ckd",
+      "map_bkgImageUrl": "/public/map/MJWhoIsIt/orbis/MJWhoIsIt_map_bkg.tga.ckd/879bca63882fc97a2922d6b0846ee2c0.ckd",
+      "expandCoachImageUrl": "/public/map/MJWhoIsIt/orbis/MJWhoIsIt_Cover_AlbumCoach.tga.ckd/4dc137af7ddcdfaef9356cdc48ff2c4f.ckd",
+      "cover_smallImageUrl": "/public/map/MJWhoIsIt/orbis/MJWhoIsIt_Cover_Online.tga.ckd/0cba3a90984ed0ae9c03bbb877b7c2ac.ckd",
+      "coverImageUrl": "/public/map/MJWhoIsIt/orbis/MJWhoIsIt_Cover_Generic.tga.ckd/7f0dd9d45619fe664e7b4e1eea61123b.ckd",
+      "coach1ImageUrl": "/public/map/MJWhoIsIt/orbis/MJWhoIsIt_Coach_1.tga.ckd/d08b689f313107cde2dff078b197f977.ckd"
+    },
+    "cover640ImageUrl": "/public/map/MJWhoIsIt/MJWhoIsIt_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1e31c5ba1c48839b2e12dd754da3d983",
+      "storageType": 0,
+      "url": "/public/map/ComeBackHome/nx/ComeBackHome_MAIN_SCENE_NX.zip/1e31c5ba1c48839b2e12dd754da3d983.zip"
+    },
+    "pc": {
+      "md5": "fdae8dcd53501921203ae0134542ebb7",
+      "storageType": 0,
+      "url": "/public/map/ComeBackHome/pc/ComeBackHome_MAIN_SCENE_PC.zip/fdae8dcd53501921203ae0134542ebb7.zip"
+    },
+    "ps4": {
+      "md5": "6fc01dda88197626e7ed7fae7759f165",
+      "storageType": 0,
+      "url": "/public/map/ComeBackHome/orbis/ComeBackHome_MAIN_SCENE_ORBIS.zip/6fc01dda88197626e7ed7fae7759f165.zip"
+    }
+  },
+  "data": {
+    "mapName": "ComeBackHome",
+    "title": "Come Back Home",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "2NE1",
+    "credits": "Written by Pil Kang Choi, Daniel Park and Hong Jun Park. Published by Universal Music Publishing Ltd. Courtesy of YG Entertainment Inc. ",
+    "coachCount": 3,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#f10a0a",
+    "songColor2A": "#1bf7ed",
+    "songColor1B": "#030219",
+    "songColor2B": "#0b024e",
+    "lyricsColor": "#f3d062"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        38400,
+        76800,
+        115200,
+        153600,
+        192000,
+        230400,
+        268800,
+        307200,
+        345600,
+        384000,
+        422400,
+        460800,
+        499200,
+        537600,
+        576000,
+        614400,
+        652800,
+        691200,
+        729600,
+        768000,
+        806400,
+        844800,
+        883200,
+        921600,
+        960000,
+        998400,
+        1036800,
+        1075200,
+        1113600,
+        1152000,
+        1190400,
+        1228800,
+        1267200,
+        1305600,
+        1344000,
+        1382400,
+        1420800,
+        1459200,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 288,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 37,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ComeBackHome/ComeBackHome_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ComeBackHome/nx/ComeBackHome_banner_bkg.tga.ckd/68b24ddc81dcafd7e963a6d8953da86c.ckd",
+      "map_bkgImageUrl": "/public/map/ComeBackHome/nx/ComeBackHome_map_bkg.tga.ckd/c18e97a53c98fcc899dff9666dd2c9f1.ckd",
+      "expandCoachImageUrl": "/public/map/ComeBackHome/nx/ComeBackHome_Cover_AlbumCoach.tga.ckd/07ce59f2fec745dd959272237e2158bb.ckd",
+      "cover_smallImageUrl": "/public/map/ComeBackHome/nx/ComeBackHome_Cover_Online.tga.ckd/93bc0e161d08e212bb2d12c4037d7e30.ckd",
+      "coverImageUrl": "/public/map/ComeBackHome/nx/ComeBackHome_Cover_Generic.tga.ckd/4b669067d0e45285a72cbac7885f6c4a.ckd",
+      "coach1ImageUrl": "/public/map/ComeBackHome/nx/ComeBackHome_Coach_1.tga.ckd/50038dffa5fb47d92857baa00a6996d9.ckd",
+      "coach2ImageUrl": "/public/map/ComeBackHome/nx/ComeBackHome_Coach_2.tga.ckd/9d22d36601677c71db3280a56d274438.ckd",
+      "coach3ImageUrl": "/public/map/ComeBackHome/nx/ComeBackHome_Coach_3.tga.ckd/e459d49636183ece4a07237855adc8ff.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ComeBackHome/pc/ComeBackHome_banner_bkg.tga.ckd/6fe36f0a1c34eb57625fa13d68e3efae.ckd",
+      "map_bkgImageUrl": "/public/map/ComeBackHome/pc/ComeBackHome_map_bkg.tga.ckd/4ec78667eb6d6bfe6074fee682addef3.ckd",
+      "expandCoachImageUrl": "/public/map/ComeBackHome/pc/ComeBackHome_Cover_AlbumCoach.tga.ckd/5ddae06661c77fe63c9fecf6eba7437d.ckd",
+      "cover_smallImageUrl": "/public/map/ComeBackHome/pc/ComeBackHome_Cover_Online.tga.ckd/cd0f4470e1f871e69cc7f229e4e980c4.ckd",
+      "coverImageUrl": "/public/map/ComeBackHome/pc/ComeBackHome_Cover_Generic.tga.ckd/361d22fd5fe8727fedbd7a6128ac1063.ckd",
+      "coach1ImageUrl": "/public/map/ComeBackHome/pc/ComeBackHome_Coach_1.tga.ckd/18f0cc9622420266a21231fc37bc763e.ckd",
+      "coach2ImageUrl": "/public/map/ComeBackHome/pc/ComeBackHome_Coach_2.tga.ckd/d7ff751c1b75f87e14c21ba9d6ee138b.ckd",
+      "coach3ImageUrl": "/public/map/ComeBackHome/pc/ComeBackHome_Coach_3.tga.ckd/e61bd5da9ece566199d7512b35e53967.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ComeBackHome/orbis/ComeBackHome_banner_bkg.tga.ckd/6fe36f0a1c34eb57625fa13d68e3efae.ckd",
+      "map_bkgImageUrl": "/public/map/ComeBackHome/orbis/ComeBackHome_map_bkg.tga.ckd/4ec78667eb6d6bfe6074fee682addef3.ckd",
+      "expandCoachImageUrl": "/public/map/ComeBackHome/orbis/ComeBackHome_Cover_AlbumCoach.tga.ckd/5ddae06661c77fe63c9fecf6eba7437d.ckd",
+      "cover_smallImageUrl": "/public/map/ComeBackHome/orbis/ComeBackHome_Cover_Online.tga.ckd/cd0f4470e1f871e69cc7f229e4e980c4.ckd",
+      "coverImageUrl": "/public/map/ComeBackHome/orbis/ComeBackHome_Cover_Generic.tga.ckd/361d22fd5fe8727fedbd7a6128ac1063.ckd",
+      "coach1ImageUrl": "/public/map/ComeBackHome/orbis/ComeBackHome_Coach_1.tga.ckd/18f0cc9622420266a21231fc37bc763e.ckd",
+      "coach2ImageUrl": "/public/map/ComeBackHome/orbis/ComeBackHome_Coach_2.tga.ckd/d7ff751c1b75f87e14c21ba9d6ee138b.ckd",
+      "coach3ImageUrl": "/public/map/ComeBackHome/orbis/ComeBackHome_Coach_3.tga.ckd/e61bd5da9ece566199d7512b35e53967.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ComeBackHome/ComeBackHome_Coach_1_Phone.png/6f5d2a1dcac9b2b197217dd3238160a6.png",
+    "phoneCoach2ImageUrl": "/public/map/ComeBackHome/ComeBackHome_Coach_2_Phone.png/4e28949fac239400bd9d1bb6560612b4.png",
+    "phoneCoach3ImageUrl": "/public/map/ComeBackHome/ComeBackHome_Coach_3_Phone.png/3985d7c29ab6579bd59c9d3b014f34c1.png",
+    "phoneCoverImageUrl": "/public/map/ComeBackHome/ComeBackHome_Cover_Phone.jpg/618a458c9218512f9d286c2f8e2819c7.jpg",
+    "cover640ImageUrl": "/public/map/ComeBackHome/ComeBackHome_Cover_640.png/e9d2f97fe9dab7ea47f7fa454f8a9e96.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ComeBackHome/ComeBackHome.ogg": "/private/map/ComeBackHome/ComeBackHome.ogg/207f03b27cb0f25e6e1fc31c60325329.ogg",
+    "jmcs://jd-contents/ComeBackHome/ComeBackHome_AudioPreview.ogg": "/public/map/ComeBackHome/ComeBackHome_AudioPreview.ogg/51eefebeb08a3a461cb5bc7962f08321.ogg",
+    "jmcs://jd-contents/ComeBackHome/ComeBackHome_HIGH.webm": "/private/map/ComeBackHome/ComeBackHome_HIGH.webm/f3667da56bfb976f4e9b04f4b11316f9.webm",
+    "jmcs://jd-contents/ComeBackHome/ComeBackHome_LOW.webm": "/private/map/ComeBackHome/ComeBackHome_LOW.webm/4ac57860bab6cddaa88b9ef455671c8c.webm",
+    "jmcs://jd-contents/ComeBackHome/ComeBackHome_MID.webm": "/private/map/ComeBackHome/ComeBackHome_MID.webm/329e33a7b160accd9e2a48f459dc6735.webm",
+    "jmcs://jd-contents/ComeBackHome/ComeBackHome_ULTRA.hd.webm": "/private/map/ComeBackHome/ComeBackHome_ULTRA.hd.webm/0dcfe05d6ab810a3ecee4f597e7ef52a.webm",
+    "jmcs://jd-contents/ComeBackHome/ComeBackHome_ULTRA.webm": "/private/map/ComeBackHome/ComeBackHome_ULTRA.webm/268dfa425410c55dd94c9c77d5b06483.webm",
+    "jmcs://jd-contents/ComeBackHome/ComeBackHome_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ComeBackHome/ComeBackHome_MapPreviewNoSoundCrop_LOW.vp8.webm/6b2e6eba9ea490af4ca8486d6a5364ff.webm",
+    "jmcs://jd-contents/ComeBackHome/ComeBackHome_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ComeBackHome/ComeBackHome_MapPreviewNoSoundCrop_MID.vp8.webm/cf8460ef3af6043fef16c5368bc8aaaf.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497005\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ComeBackHome/ComeBackHome_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"663-1152\">\n\t\t\t\t\t<Initialization range=\"0-663\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480196\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ComeBackHome/ComeBackHome_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"664-1154\">\n\t\t\t\t\t<Initialization range=\"0-664\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 232.8
+}

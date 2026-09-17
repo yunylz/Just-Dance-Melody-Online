@@ -1,0 +1,180 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WomanVIP/WomanVIP_AudioPreview.ogg": "/public/map/WomanVIP/WomanVIP_AudioPreview.ogg/bcacc7154b91544332f5f0106613f60c.ogg",
+    "jmcs://jd-contents/WomanVIP/WomanVIP.ogg": "/private/map/WomanVIP/WomanVIP.ogg/bddda5f00ba85ced3e13e211b3a4f3fb.ogg",
+    "jmcs://jd-contents/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_LOW.vp8.webm/860e28ac5d2863ec30d5e5ac5ed8436f.webm",
+    "jmcs://jd-contents/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_MID.vp8.webm/f6c4f8150e5de63b2473ae4aca232846.webm",
+    "jmcs://jd-contents/WomanVIP/WomanVIP_ULTRA.hd.webm": "/private/map/WomanVIP/WomanVIP_ULTRA.hd.webm/54800bcb7f9451d406f84be32b589399.webm",
+    "jmcs://jd-contents/WomanVIP/WomanVIP_HIGH.hd.webm": "/private/map/WomanVIP/WomanVIP_HIGH.hd.webm/705c419ced99de55b9306eb991f4c2c5.webm",
+    "jmcs://jd-contents/WomanVIP/WomanVIP_MID.hd.webm": "/private/map/WomanVIP/WomanVIP_MID.hd.webm/154c1b14bb009fa8cd0c132f58c1e88d.webm",
+    "jmcs://jd-contents/WomanVIP/WomanVIP_LOW.hd.webm": "/private/map/WomanVIP/WomanVIP_LOW.hd.webm/3039ff7c135e9ec10a61037461e407be.webm",
+    "jmcs://jd-contents/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_HIGH.vp8.webm/53b3beb6719e949a3707cb5118848132.webm",
+    "jmcs://jd-contents/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_ULTRA.vp8.webm/462f07a445ab410bf84d80799f579d99.webm"
+  },
+  "mapLength": 177.22215625,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26667,
+        53334,
+        80000,
+        106667,
+        133334,
+        160000,
+        186667,
+        213334,
+        240000,
+        266667,
+        293334,
+        320000,
+        346667,
+        373334,
+        400000,
+        426667,
+        453334,
+        480000,
+        506667,
+        533334,
+        560000,
+        586667,
+        613334,
+        640000,
+        666667,
+        693334,
+        720000,
+        746667,
+        773334,
+        800000,
+        826667,
+        853334,
+        880000,
+        906667,
+        933334,
+        960000,
+        986667,
+        1013334,
+        1040000,
+        1066667,
+        1093334,
+        1120000,
+        1146667,
+        1173334,
+        1200000,
+        1226667,
+        1253334,
+        1280000,
+        1306667,
+        1333334,
+        1360000,
+        1386667,
+        1413334,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 316,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/WomanVIP/WomanVIP_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"637562\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"799-1288\">\n\t\t\t\t\t<Initialization range=\"0-799\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1471703\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"799-1289\">\n\t\t\t\t\t<Initialization range=\"0-799\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"1869772\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"799-1289\">\n\t\t\t\t\t<Initialization range=\"0-799\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"1869772\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WomanVIP/WomanVIP_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"799-1289\">\n\t\t\t\t\t<Initialization range=\"0-799\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "08577c7a2cbacea69176db7c73a5208f",
+      "storageType": 0,
+      "url": "/public/map/WomanVIP/pc/WomanVIP_MAIN_SCENE_PC.zip/08577c7a2cbacea69176db7c73a5208f.zip"
+    },
+    "ps4": {
+      "md5": "e555b55ecbca46afbb8c1d0d912c1ad2",
+      "storageType": 0,
+      "url": "/public/map/WomanVIP/orbis/WomanVIP_MAIN_SCENE_ORBIS.zip/e555b55ecbca46afbb8c1d0d912c1ad2.zip"
+    },
+    "wiiu": {
+      "md5": "0fbc9e7cb0ae911d371698d2fb5d3ae3",
+      "storageType": 0,
+      "url": "/public/map/WomanVIP/wiiu/WomanVIP_MAIN_SCENE_WIIU.zip/0fbc9e7cb0ae911d371698d2fb5d3ae3.zip"
+    },
+    "nx": {
+      "md5": "1b0166c281ead0fc1b91dc69b05b111c",
+      "storageType": 0,
+      "url": "/public/map/WomanVIP/nx/WomanVIP_MAIN_SCENE_NX.zip/1b0166c281ead0fc1b91dc69b05b111c.zip"
+    }
+  },
+  "data": {
+    "mapName": "WomanVIP",
+    "title": "Woman",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Doja Cat",
+    "credits": "Written by Amala Zandile Dlamini, Aynzli Jones, David Sprecher, Aaron Thomas Horn, Lukasz Gottwald, Linden Jay, Jidenna Mobisson. Published by Doja Cat Music [BMI], Where Da Kasz At [BMI], Kasz Money Publishing [ASCAP], Air Horn Limited. Admin by Songs of Kobalt Music Publishing, Kobalt Songs Music Publishing / Camp Yeti Beats (BMI) All rights on behalf of Camp Yeti Beats administered by Warner-Tamerlane Publishing Corp. / Magic Chief Publishing (BMI) obo Jidenna Mobisson / Universal Music Publishing Canada on behalf of Electric Feel Music and Songs of Universal, Inc. Courtesy of Kemosabe Records/RCA Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#FCE1A7",
+    "songColor2A": "#A7FDF8",
+    "songColor1B": "#5D380C",
+    "songColor2B": "#084E84",
+    "lyricsColor": "#6089E3",
+    "LocaleID": 20003359
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/WomanVIP/pc/WomanVIP_Cover_Online.tga.ckd/ee026d7a6004ef7cf00bd24d5710d13f.ckd",
+      "coverImageUrl": "/public/map/WomanVIP/pc/WomanVIP_Cover_Generic.tga.ckd/f076e24411a2b1a56c0a55427e6f527a.ckd",
+      "expandCoachImageUrl": "/public/map/WomanVIP/pc/WomanVIP_Cover_AlbumCoach.tga.ckd/668ad2bab0179e85353999239ecb9e72.ckd",
+      "map_bkgImageUrl": "/public/map/WomanVIP/pc/WomanVIP_map_bkg.tga.ckd/967e1e39eacadfcacabd492ed8c825c2.ckd",
+      "banner_bkgImageUrl": "/public/map/WomanVIP/pc/WomanVIP_banner_bkg.tga.ckd/cb7cd1c6d5729a5ee1ddd3c04ffe4e74.ckd",
+      "coach1ImageUrl": "/public/map/WomanVIP/pc/WomanVIP_Coach_1.tga.ckd/628c19299fa0eb477c29803d9e948e78.ckd",
+      "phoneCoverImageUrl": "/public/map/WomanVIP/WomanVIP_Cover_Phone.jpg/af191f881d567f97fe6205e8e52bc12a.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WomanVIP/WomanVIP_Coach_1_Phone.png/a85c3e8f868ea00650bd1e96082e717e.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/WomanVIP/orbis/WomanVIP_Cover_Online.tga.ckd/ee026d7a6004ef7cf00bd24d5710d13f.ckd",
+      "coverImageUrl": "/public/map/WomanVIP/orbis/WomanVIP_Cover_Generic.tga.ckd/f076e24411a2b1a56c0a55427e6f527a.ckd",
+      "expandCoachImageUrl": "/public/map/WomanVIP/orbis/WomanVIP_Cover_AlbumCoach.tga.ckd/668ad2bab0179e85353999239ecb9e72.ckd",
+      "map_bkgImageUrl": "/public/map/WomanVIP/orbis/WomanVIP_map_bkg.tga.ckd/967e1e39eacadfcacabd492ed8c825c2.ckd",
+      "banner_bkgImageUrl": "/public/map/WomanVIP/orbis/WomanVIP_banner_bkg.tga.ckd/cb7cd1c6d5729a5ee1ddd3c04ffe4e74.ckd",
+      "coach1ImageUrl": "/public/map/WomanVIP/orbis/WomanVIP_Coach_1.tga.ckd/628c19299fa0eb477c29803d9e948e78.ckd",
+      "phoneCoverImageUrl": "/public/map/WomanVIP/WomanVIP_Cover_Phone.jpg/af191f881d567f97fe6205e8e52bc12a.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WomanVIP/WomanVIP_Coach_1_Phone.png/a85c3e8f868ea00650bd1e96082e717e.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/WomanVIP/wiiu/WomanVIP_Cover_Online.tga.ckd/3a7f649cd052316a03cd93e00b998217.ckd",
+      "coverImageUrl": "/public/map/WomanVIP/wiiu/WomanVIP_Cover_Generic.tga.ckd/e3b6be8c24d3afb579f80d47d873e791.ckd",
+      "expandCoachImageUrl": "/public/map/WomanVIP/wiiu/WomanVIP_Cover_AlbumCoach.tga.ckd/91b7fa7c329810d61397761864e6f5f1.ckd",
+      "map_bkgImageUrl": "/public/map/WomanVIP/wiiu/WomanVIP_map_bkg.tga.ckd/0ebedfdafa72c5ed33d66bbf9acd2d54.ckd",
+      "banner_bkgImageUrl": "/public/map/WomanVIP/wiiu/WomanVIP_banner_bkg.tga.ckd/22ec14f18982c1d2d041ef0ca13c7ac3.ckd",
+      "coach1ImageUrl": "/public/map/WomanVIP/wiiu/WomanVIP_Coach_1.tga.ckd/66d7ec3be59ae92b11042da59725fad1.ckd",
+      "phoneCoverImageUrl": "/public/map/WomanVIP/WomanVIP_Cover_Phone.jpg/af191f881d567f97fe6205e8e52bc12a.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WomanVIP/WomanVIP_Coach_1_Phone.png/a85c3e8f868ea00650bd1e96082e717e.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/WomanVIP/nx/WomanVIP_Cover_Online.tga.ckd/79d6c6f4c078ca952a556fc5e313feea.ckd",
+      "coverImageUrl": "/public/map/WomanVIP/nx/WomanVIP_Cover_Generic.tga.ckd/d0183529f66131a4bb69201fe0f78aab.ckd",
+      "expandCoachImageUrl": "/public/map/WomanVIP/nx/WomanVIP_Cover_AlbumCoach.tga.ckd/c112f50c5425abb21ead5ec7efcb5f5b.ckd",
+      "map_bkgImageUrl": "/public/map/WomanVIP/nx/WomanVIP_map_bkg.tga.ckd/41293fc6e37596cec5ad460cde6dc633.ckd",
+      "banner_bkgImageUrl": "/public/map/WomanVIP/nx/WomanVIP_banner_bkg.tga.ckd/b0290bd7675af75157253309667dc2bf.ckd",
+      "coach1ImageUrl": "/public/map/WomanVIP/nx/WomanVIP_Coach_1.tga.ckd/a8bf5bca12d83d3fb5e702d3977f8244.ckd",
+      "phoneCoverImageUrl": "/public/map/WomanVIP/WomanVIP_Cover_Phone.jpg/af191f881d567f97fe6205e8e52bc12a.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WomanVIP/WomanVIP_Coach_1_Phone.png/a85c3e8f868ea00650bd1e96082e717e.png"
+    },
+    "cover640ImageUrl": "/public/map/WomanVIP/WomanVIP_Cover_640.png/5769ca88f703cc29fa26693f39dd2afd.png"
+  }
+}

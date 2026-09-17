@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Witch/Witch.ogg": "/private/map/Witch/Witch.ogg/3b26d3d3e98d18fa5ac09882f0e208a4.ogg",
+    "jmcs://jd-contents/Witch/Witch_AudioPreview.ogg": "/public/map/Witch/Witch_AudioPreview.ogg/c3505adf8fcfaef8c4f1fd6f34846c3c.ogg",
+    "jmcs://jd-contents/Witch/Witch_HIGH.hd.webm": "/private/map/Witch/Witch_HIGH.hd.webm/cc68c8c6c95af9bd640f17a7717fe0b3.webm",
+    "jmcs://jd-contents/Witch/Witch_LOW.hd.webm": "/private/map/Witch/Witch_LOW.hd.webm/9f5c80ef40226ad1290ae13dcc09093b.webm",
+    "jmcs://jd-contents/Witch/Witch_MID.hd.webm": "/private/map/Witch/Witch_MID.hd.webm/6226352387f210bc0b3cd73c58a5b871.webm",
+    "jmcs://jd-contents/Witch/Witch_ULTRA.hd.webm": "/private/map/Witch/Witch_ULTRA.hd.webm/afacd7b922f1ab32618ff8e540439122.webm",
+    "jmcs://jd-contents/Witch/Witch_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Witch/Witch_MapPreviewNoSoundCrop_LOW.vp8.webm/6d6cbfb34a588f0d5a87069f3b50c01c.webm",
+    "jmcs://jd-contents/Witch/Witch_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Witch/Witch_MapPreviewNoSoundCrop_MID.vp8.webm/426c8bb579257068d52f1b61ff77f00c.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 425,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Witch/Witch_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "adce90126e4d86b092c42bb00332db62",
+      "storageType": 0,
+      "url": "/public/map/Witch/nx/Witch_MAIN_SCENE_NX.zip/adce90126e4d86b092c42bb00332db62.zip"
+    },
+    "pc": {
+      "md5": "4b60c2a2b49a5b4e96725da5c9e8e5ef",
+      "storageType": 0,
+      "url": "/public/map/Witch/pc/Witch_MAIN_SCENE_PC.zip/4b60c2a2b49a5b4e96725da5c9e8e5ef.zip"
+    },
+    "ps4": {
+      "md5": "bad47774bb847aa3f1660514c9f9d768",
+      "storageType": 0,
+      "url": "/public/map/Witch/orbis/Witch_MAIN_SCENE_ORBIS.zip/bad47774bb847aa3f1660514c9f9d768.zip"
+    }
+  },
+  "data": {
+    "mapName": "Witch",
+    "title": "Witch",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Apashe ft. Alina Pash",
+    "credits": "Written by John De Buck, Alina Pash, and Olga Maslova. Published by Disques Kannibalen. Courtesy of 2022 Kannibalen Records.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f21d9f",
+    "songColor2A": "#850cf7",
+    "songColor1B": "#17012c",
+    "songColor2B": "#210642",
+    "lyricsColor": "#fd3e3f",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Witch/nx/Witch_banner_bkg.tga.ckd/82f764df15b16b14032ee897fb96892b.ckd",
+      "map_bkgImageUrl": "/public/map/Witch/nx/Witch_map_bkg.tga.ckd/efe3d01d692512b3edd6c7c5055b2f78.ckd",
+      "expandCoachImageUrl": "/public/map/Witch/nx/Witch_Cover_AlbumCoach.tga.ckd/bead211d6e6eb1c27028b50e0245fd0e.ckd",
+      "cover_smallImageUrl": "/public/map/Witch/nx/Witch_Cover_Online.tga.ckd/64056e60c927aa96f84251f81f5a52fc.ckd",
+      "coverImageUrl": "/public/map/Witch/nx/Witch_Cover_Generic.tga.ckd/3b801fa659ec4f8c6b638c149976ee76.ckd",
+      "coach1ImageUrl": "/public/map/Witch/nx/Witch_Coach_1.tga.ckd/633fa3fa54d6a696baec7735c267bddd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Witch/pc/Witch_banner_bkg.tga.ckd/b48fa056082b523e7edd94f440874309.ckd",
+      "map_bkgImageUrl": "/public/map/Witch/pc/Witch_map_bkg.tga.ckd/db1261a650d8e90130a92f8a1bde0180.ckd",
+      "expandCoachImageUrl": "/public/map/Witch/pc/Witch_Cover_AlbumCoach.tga.ckd/883cd3c5d55ac8bd353cd1e27c5a33d5.ckd",
+      "cover_smallImageUrl": "/public/map/Witch/pc/Witch_Cover_Online.tga.ckd/38ca4c54f8b868a21e2d865f2cf79e69.ckd",
+      "coverImageUrl": "/public/map/Witch/pc/Witch_Cover_Generic.tga.ckd/21d7e145f011372357519fc086a7a187.ckd",
+      "coach1ImageUrl": "/public/map/Witch/pc/Witch_Coach_1.tga.ckd/b9165b7cdbf6c6977ca92960b3e73c9f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Witch/orbis/Witch_banner_bkg.tga.ckd/b48fa056082b523e7edd94f440874309.ckd",
+      "map_bkgImageUrl": "/public/map/Witch/orbis/Witch_map_bkg.tga.ckd/db1261a650d8e90130a92f8a1bde0180.ckd",
+      "expandCoachImageUrl": "/public/map/Witch/orbis/Witch_Cover_AlbumCoach.tga.ckd/883cd3c5d55ac8bd353cd1e27c5a33d5.ckd",
+      "cover_smallImageUrl": "/public/map/Witch/orbis/Witch_Cover_Online.tga.ckd/38ca4c54f8b868a21e2d865f2cf79e69.ckd",
+      "coverImageUrl": "/public/map/Witch/orbis/Witch_Cover_Generic.tga.ckd/21d7e145f011372357519fc086a7a187.ckd",
+      "coach1ImageUrl": "/public/map/Witch/orbis/Witch_Coach_1.tga.ckd/b9165b7cdbf6c6977ca92960b3e73c9f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Witch/Witch_Coach_1_Phone.png/05a5671f1dc63e48928cfa319c336187.png",
+    "phoneCoverImageUrl": "/public/map/Witch/Witch_Cover_Phone.jpg/20fb8a409cce682994337f7180c29b8a.jpg",
+    "cover640ImageUrl": "/public/map/Witch/Witch_Cover_640.png/cb221d977379506a2d561e241bb162f5.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"531354\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Witch/Witch_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1866357\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Witch/Witch_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 217.0065
+}

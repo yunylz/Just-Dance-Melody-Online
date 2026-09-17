@@ -1,0 +1,150 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "46c1476d63a2cb33806a8326d594371f",
+      "storageType": 0,
+      "url": "/public/map/HotForMe/nx/HotForMe_MAIN_SCENE_NX.zip/46c1476d63a2cb33806a8326d594371f.zip"
+    },
+    "pc": {
+      "md5": "a04f8e2a13479004bd7f02b17c35db53",
+      "storageType": 0,
+      "url": "/public/map/HotForMe/pc/HotForMe_MAIN_SCENE_PC.zip/a04f8e2a13479004bd7f02b17c35db53.zip"
+    },
+    "ps4": {
+      "md5": "9a827095b830a165c3270581f709579b",
+      "storageType": 0,
+      "url": "/public/map/HotForMe/orbis/HotForMe_MAIN_SCENE_ORBIS.zip/9a827095b830a165c3270581f709579b.zip"
+    }
+  },
+  "data": {
+    "mapName": "HotForMe",
+    "title": "Hot For Me",
+    "originalJDVersion": 4,
+    "tags": [
+      "Main"
+    ],
+    "artist": "A.K.A",
+    "credits": "Written by Gautier Marinof, Simon O'Leary and Pierre-David Boulianne. Published by CircleRoad Publishing Inc. and Ubisoft Music Publishing Inc. Courtesy of Ubiloud. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.\r\n",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#e70fa8"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        44289,
+        79410,
+        114531,
+        149652,
+        184773,
+        219894,
+        255015,
+        290136,
+        325257,
+        360378,
+        395499,
+        430620,
+        465741,
+        500862,
+        535983,
+        571104,
+        606225,
+        641346,
+        676467,
+        711588,
+        746709,
+        781830,
+        816951,
+        852072,
+        887193,
+        922314,
+        957435,
+        992556,
+        1027677,
+        1062798,
+        1097919,
+        1133040,
+        1168161,
+        1203282,
+        1238403,
+        1273524,
+        1308645,
+        1343766,
+        1378887,
+        1414008,
+        1449129,
+        1484250,
+        1519371
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 277,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 41,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HotForMe/HotForMe_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HotForMe/nx/HotForMe_banner_bkg.tga.ckd/099e6fe6d4dd155a5db198c4bbfc8843.ckd",
+      "map_bkgImageUrl": "/public/map/HotForMe/nx/HotForMe_map_bkg.tga.ckd/a35f38b95f1a03f6b60a3d63f9ff0297.ckd",
+      "expandCoachImageUrl": "/public/map/HotForMe/nx/HotForMe_Cover_AlbumCoach.tga.ckd/7806b447bb8b522d5ea72f5850371bd5.ckd",
+      "cover_smallImageUrl": "/public/map/HotForMe/nx/HotForMe_Cover_Online.tga.ckd/972e55d4a722e7ba5d727fb164ad2750.ckd",
+      "coach1ImageUrl": "/public/map/HotForMe/nx/HotForMe_Coach_1.tga.ckd/8386c541c0522b8bc26c56068fbb88d8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HotForMe/pc/HotForMe_banner_bkg.tga.ckd/75ad11040dd9fbaa70d13c4542457be2.ckd",
+      "map_bkgImageUrl": "/public/map/HotForMe/pc/HotForMe_map_bkg.tga.ckd/46ed14bed1593eaa5279605052d5c909.ckd",
+      "expandCoachImageUrl": "/public/map/HotForMe/pc/HotForMe_Cover_AlbumCoach.tga.ckd/abfba019775ac9618089998a46237679.ckd",
+      "cover_smallImageUrl": "/public/map/HotForMe/pc/HotForMe_Cover_Online.tga.ckd/2f22a1d0e7c782bc319a5be860703425.ckd",
+      "coach1ImageUrl": "/public/map/HotForMe/pc/HotForMe_Coach_1.tga.ckd/b1757ad5600fc89020ffa777a55e3de7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HotForMe/orbis/HotForMe_banner_bkg.tga.ckd/75ad11040dd9fbaa70d13c4542457be2.ckd",
+      "map_bkgImageUrl": "/public/map/HotForMe/orbis/HotForMe_map_bkg.tga.ckd/46ed14bed1593eaa5279605052d5c909.ckd",
+      "expandCoachImageUrl": "/public/map/HotForMe/orbis/HotForMe_Cover_AlbumCoach.tga.ckd/abfba019775ac9618089998a46237679.ckd",
+      "cover_smallImageUrl": "/public/map/HotForMe/orbis/HotForMe_Cover_Online.tga.ckd/2f22a1d0e7c782bc319a5be860703425.ckd",
+      "coach1ImageUrl": "/public/map/HotForMe/orbis/HotForMe_Coach_1.tga.ckd/b1757ad5600fc89020ffa777a55e3de7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HotForMe/HotForMe_Coach_1_Phone.png/475dc096c4bab54cba7802bcbc57ba99.png",
+    "phoneCoverImageUrl": "/public/map/HotForMe/HotForMe_Cover_Phone.jpg/ead19d004039780bb8868f0c7d261279.jpg",
+    "cover640ImageUrl": "/public/map/HotForMe/HotForMe_Cover_640.png/dc088e4ccfc79fe8af712aed3ec8d230.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HotForMe/HotForMe.ogg": "/private/map/HotForMe/HotForMe.ogg/b4fad9b075b59cbc240eb68b3214be8a.ogg",
+    "jmcs://jd-contents/HotForMe/HotForMe_AudioPreview.ogg": "/public/map/HotForMe/HotForMe_AudioPreview.ogg/91e77b6e7813db34d7169fd3070c9d98.ogg",
+    "jmcs://jd-contents/HotForMe/HotForMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HotForMe/HotForMe_MapPreviewNoSoundCrop_LOW.vp8.webm/4960e491675ef7878230c10ce2c6423c.webm",
+    "jmcs://jd-contents/HotForMe/HotForMe_HIGH.webm": "/private/map/HotForMe/HotForMe_HIGH.webm/d31967726b64a5c9e40cf50d5cd7c229.webm",
+    "jmcs://jd-contents/HotForMe/HotForMe_LOW.webm": "/private/map/HotForMe/HotForMe_LOW.webm/3cd0ad9ce2057b6473e361d8e8fd58e2.webm",
+    "jmcs://jd-contents/HotForMe/HotForMe_MID.webm": "/private/map/HotForMe/HotForMe_MID.webm/09d2f4171015230f26aa947a5b4793fa.webm",
+    "jmcs://jd-contents/HotForMe/HotForMe_ULTRA.hd.webm": "/private/map/HotForMe/HotForMe_ULTRA.hd.webm/a8026305a6c50c3fc693b367ce7586df.webm",
+    "jmcs://jd-contents/HotForMe/HotForMe_ULTRA.webm": "/private/map/HotForMe/HotForMe_ULTRA.webm/c8ae2dd7959044962eac4dc6a41d703c.webm"
+  },
+  "mapLength": 204.432833
+}

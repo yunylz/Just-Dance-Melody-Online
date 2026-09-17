@@ -1,0 +1,187 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ShineALittle/ShineALittle_AudioPreview.ogg": "/public/map/ShineALittle/ShineALittle_AudioPreview.ogg/c67eb3c25fa57404d40b360776236d6c.ogg",
+    "jmcs://jd-contents/ShineALittle/ShineALittle.ogg": "/private/map/ShineALittle/ShineALittle.ogg/4fac5da1eba84f3285ac18c0063c5de6.ogg",
+    "jmcs://jd-contents/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_LOW.vp8.webm/241a3eee5c98e3228cbf86818cf0d2c8.webm",
+    "jmcs://jd-contents/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_MID.vp8.webm/b26d40b489265a01b9b73660146063de.webm",
+    "jmcs://jd-contents/ShineALittle/ShineALittle_ULTRA.hd.webm": "/private/map/ShineALittle/ShineALittle_ULTRA.hd.webm/c22e65c10f6ee2197f96b787b0ba692c.webm",
+    "jmcs://jd-contents/ShineALittle/ShineALittle_HIGH.hd.webm": "/private/map/ShineALittle/ShineALittle_HIGH.hd.webm/b5edc42913bb43d4f96af76d653ac46d.webm",
+    "jmcs://jd-contents/ShineALittle/ShineALittle_MID.hd.webm": "/private/map/ShineALittle/ShineALittle_MID.hd.webm/00a99065253322a10f514074e09c6496.webm",
+    "jmcs://jd-contents/ShineALittle/ShineALittle_LOW.hd.webm": "/private/map/ShineALittle/ShineALittle_LOW.hd.webm/4bbae2bd3f957116931bdd7986f77af6.webm",
+    "jmcs://jd-contents/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_HIGH.vp8.webm/cfda7671f507852eaf7acbc5cb550289.webm",
+    "jmcs://jd-contents/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7623c7605d0a4845b9e552f640149d3f.webm"
+  },
+  "mapLength": 207.31709895833333,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23415,
+        46830,
+        70244,
+        93659,
+        117074,
+        140488,
+        163903,
+        187318,
+        210732,
+        234147,
+        257561,
+        280976,
+        304391,
+        327805,
+        351220,
+        374635,
+        398049,
+        421464,
+        444878,
+        468293,
+        491708,
+        515122,
+        538537,
+        561952,
+        585366,
+        608781,
+        632196,
+        655610,
+        679025,
+        702439,
+        725854,
+        749269,
+        772683,
+        796098,
+        819513,
+        842927,
+        866342,
+        889757,
+        913171,
+        936586,
+        960000,
+        983415,
+        1006830,
+        1030244,
+        1053659,
+        1077074,
+        1100488,
+        1123903,
+        1147318,
+        1170732,
+        1194147,
+        1217561,
+        1240976,
+        1264391,
+        1287805,
+        1311220,
+        1334635,
+        1358049,
+        1381464,
+        1404878,
+        1428293
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -31,
+      "endBeat": 394,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/ShineALittle/ShineALittle_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"632061\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1254\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1466523\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2668326\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"2985852\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ShineALittle/ShineALittle_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "590d73802c2e81a68108cbab32d1c7b8",
+      "storageType": 0,
+      "url": "/public/map/ShineALittle/pc/ShineALittle_MAIN_SCENE_PC.zip/590d73802c2e81a68108cbab32d1c7b8.zip"
+    },
+    "ps4": {
+      "md5": "2dafb6d9f034a63a54bce8cfbf4c21d6",
+      "storageType": 0,
+      "url": "/public/map/ShineALittle/orbis/ShineALittle_MAIN_SCENE_ORBIS.zip/2dafb6d9f034a63a54bce8cfbf4c21d6.zip"
+    },
+    "wiiu": {
+      "md5": "62d77e69125b5aac65a2d07bf32d321b",
+      "storageType": 0,
+      "url": "/public/map/ShineALittle/wiiu/ShineALittle_MAIN_SCENE_WIIU.zip/62d77e69125b5aac65a2d07bf32d321b.zip"
+    },
+    "nx": {
+      "md5": "62cc3eb57cd0276a5bb354b04386da9a",
+      "storageType": 0,
+      "url": "/public/map/ShineALittle/nx/ShineALittle_MAIN_SCENE_NX.zip/62cc3eb57cd0276a5bb354b04386da9a.zip"
+    }
+  },
+  "data": {
+    "mapName": "ShineALittle",
+    "title": "Shine a Little Love",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "The Sunlight Shakers",
+    "credits": "Written by Jeff Lynne. Published by EMI Blackwood Music Inc. Vocals by Brody Dolyniuk, Steve Ouimette. Drums by Brian Griffin. Strings by Pete Whitfield. Keys by Jamie Hosmer. Guitar and Bass by Steve Ouimette.  Produced, recorded and mixed by Steve Ouimette. All rights reserved. Used with permission. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#6BDAFA",
+    "songColor2A": "#FDD286",
+    "songColor1B": "#04065B",
+    "songColor2B": "#6C2806",
+    "lyricsColor": "#BE240F",
+    "LocaleId": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/ShineALittle/pc/ShineALittle_Cover_Online.tga.ckd/1cf7f322d95765deb6dbaf8f80de3584.ckd",
+      "coverImageUrl": "/public/map/ShineALittle/pc/ShineALittle_Cover_Generic.tga.ckd/760f9fe790b2cb701c791537aaf8b416.ckd",
+      "expandCoachImageUrl": "/public/map/ShineALittle/pc/ShineALittle_Cover_AlbumCoach.tga.ckd/409621d56fd6c1f655629074a754133a.ckd",
+      "map_bkgImageUrl": "/public/map/ShineALittle/pc/ShineALittle_map_bkg.tga.ckd/9c442e0ed15df3012e9f3a9cfec710ee.ckd",
+      "banner_bkgImageUrl": "/public/map/ShineALittle/pc/ShineALittle_banner_bkg.tga.ckd/3b417168e57a324f98ceb025b762a432.ckd",
+      "coach1ImageUrl": "/public/map/ShineALittle/pc/ShineALittle_Coach_1.tga.ckd/d5d550b303daf4656d74c758bcb86763.ckd",
+      "phoneCoverImageUrl": "/public/map/ShineALittle/ShineALittle_Cover_Phone.jpg/7cf77d596c47e4c29ee9b7316415216b.jpg",
+      "phoneCoach1ImageUrl": "/public/map/ShineALittle/ShineALittle_Coach_1_Phone.png/3099157dfeb78c09b1476ac91ee68877.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/ShineALittle/orbis/ShineALittle_Cover_Online.tga.ckd/1cf7f322d95765deb6dbaf8f80de3584.ckd",
+      "coverImageUrl": "/public/map/ShineALittle/orbis/ShineALittle_Cover_Generic.tga.ckd/760f9fe790b2cb701c791537aaf8b416.ckd",
+      "expandCoachImageUrl": "/public/map/ShineALittle/orbis/ShineALittle_Cover_AlbumCoach.tga.ckd/409621d56fd6c1f655629074a754133a.ckd",
+      "map_bkgImageUrl": "/public/map/ShineALittle/orbis/ShineALittle_map_bkg.tga.ckd/9c442e0ed15df3012e9f3a9cfec710ee.ckd",
+      "banner_bkgImageUrl": "/public/map/ShineALittle/orbis/ShineALittle_banner_bkg.tga.ckd/3b417168e57a324f98ceb025b762a432.ckd",
+      "coach1ImageUrl": "/public/map/ShineALittle/orbis/ShineALittle_Coach_1.tga.ckd/d5d550b303daf4656d74c758bcb86763.ckd",
+      "phoneCoverImageUrl": "/public/map/ShineALittle/ShineALittle_Cover_Phone.jpg/7cf77d596c47e4c29ee9b7316415216b.jpg",
+      "phoneCoach1ImageUrl": "/public/map/ShineALittle/ShineALittle_Coach_1_Phone.png/3099157dfeb78c09b1476ac91ee68877.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/ShineALittle/wiiu/ShineALittle_Cover_Online.tga.ckd/a997f9aea59499b3d95328c6d98e7389.ckd",
+      "coverImageUrl": "/public/map/ShineALittle/wiiu/ShineALittle_Cover_Generic.tga.ckd/5da272abde964ee729b966ea23097cf8.ckd",
+      "expandCoachImageUrl": "/public/map/ShineALittle/wiiu/ShineALittle_Cover_AlbumCoach.tga.ckd/7a8aefe9051c3b21a1b08e41ec8d5d24.ckd",
+      "map_bkgImageUrl": "/public/map/ShineALittle/wiiu/ShineALittle_map_bkg.tga.ckd/6cbe13dcf48aa3fedc90a491da47764d.ckd",
+      "banner_bkgImageUrl": "/public/map/ShineALittle/wiiu/ShineALittle_banner_bkg.tga.ckd/16fa5ed8b36f37d4323770df8dadacb6.ckd",
+      "coach1ImageUrl": "/public/map/ShineALittle/wiiu/ShineALittle_Coach_1.tga.ckd/181305f212c268286cd8673a9a12cd94.ckd",
+      "phoneCoverImageUrl": "/public/map/ShineALittle/ShineALittle_Cover_Phone.jpg/7cf77d596c47e4c29ee9b7316415216b.jpg",
+      "phoneCoach1ImageUrl": "/public/map/ShineALittle/ShineALittle_Coach_1_Phone.png/3099157dfeb78c09b1476ac91ee68877.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/ShineALittle/nx/ShineALittle_Cover_Online.tga.ckd/4b4a44e32483476e84a3466a4429b4a9.ckd",
+      "coverImageUrl": "/public/map/ShineALittle/nx/ShineALittle_Cover_Generic.tga.ckd/dd101cacfd811491cb8b777b509cd3a1.ckd",
+      "expandCoachImageUrl": "/public/map/ShineALittle/nx/ShineALittle_Cover_AlbumCoach.tga.ckd/c2469e56ced8680ee74f4210b035df68.ckd",
+      "map_bkgImageUrl": "/public/map/ShineALittle/nx/ShineALittle_map_bkg.tga.ckd/1c45835f68b4e454a469e34f52755e59.ckd",
+      "banner_bkgImageUrl": "/public/map/ShineALittle/nx/ShineALittle_banner_bkg.tga.ckd/a8a6d933ec04be67d89c7d51fca9d7df.ckd",
+      "coach1ImageUrl": "/public/map/ShineALittle/nx/ShineALittle_Coach_1.tga.ckd/20ae5b72497f761457562d52f4020304.ckd",
+      "phoneCoverImageUrl": "/public/map/ShineALittle/ShineALittle_Cover_Phone.jpg/7cf77d596c47e4c29ee9b7316415216b.jpg",
+      "phoneCoach1ImageUrl": "/public/map/ShineALittle/ShineALittle_Coach_1_Phone.png/3099157dfeb78c09b1476ac91ee68877.png"
+    },
+    "cover640ImageUrl": "/public/map/ShineALittle/ShineALittle_Cover_640.png/db5865c90e52d8773bf2ce1ae108060b.png"
+  }
+}

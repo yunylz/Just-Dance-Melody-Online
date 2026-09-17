@@ -1,0 +1,166 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1ff08b6a3828744a802fe989db432919",
+      "storageType": 0,
+      "url": "/public/map/Power/nx/Power_MAIN_SCENE_NX.zip/1ff08b6a3828744a802fe989db432919.zip"
+    },
+    "pc": {
+      "md5": "a1cf7173391d2dcc99e93c80965b3d9d",
+      "storageType": 0,
+      "url": "/public/map/Power/pc/Power_MAIN_SCENE_PC.zip/a1cf7173391d2dcc99e93c80965b3d9d.zip"
+    },
+    "ps4": {
+      "md5": "96f9c23b7e1d3efb0174fd2ade81e6e4",
+      "storageType": 0,
+      "url": "/public/map/Power/orbis/Power_MAIN_SCENE_ORBIS.zip/96f9c23b7e1d3efb0174fd2ade81e6e4.zip"
+    }
+  },
+  "data": {
+    "mapName": "Power",
+    "title": "The Power",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Snap!",
+    "credits": "Written by Benito Benites, John Virgo Garrett III and Antoinette Colandreo. Published by Hanseatic Musikverlag GmbH & Co KG (GEMA) / House Of Fun Music, Inc. (BMI). All rights on behalf of Hanseatic Musikverlag GmbH & Co KG administered by WB Music Corp. All rights reserved. Courtesy of Luma Musikverwaltungs GmbH.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#42D696",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26448,
+        52896,
+        79344,
+        105792,
+        132240,
+        158688,
+        185136,
+        211584,
+        238032,
+        264480,
+        290928,
+        317376,
+        343824,
+        370272,
+        396720,
+        423168,
+        449616,
+        476064,
+        502512,
+        528960,
+        555360,
+        581808,
+        608256,
+        634704,
+        661152,
+        687600,
+        714048,
+        740496,
+        766944,
+        793392,
+        819840,
+        846288,
+        872736,
+        899616,
+        926064,
+        952464,
+        978912,
+        1005360,
+        1031808,
+        1058256,
+        1084704,
+        1111152,
+        1137168,
+        1163616,
+        1190064,
+        1216512,
+        1242960,
+        1269408,
+        1295856,
+        1322304,
+        1348752,
+        1375200,
+        1402128,
+        1428576
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 415,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/power/power_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Power/nx/Power_banner_bkg.tga.ckd/8c26164453360ac442997671c0fa9c10.ckd",
+      "map_bkgImageUrl": "/public/map/Power/nx/Power_map_bkg.tga.ckd/32ca7d2e3dcc9c5a411f0d3e0a8fd6fe.ckd",
+      "expandCoachImageUrl": "/public/map/Power/nx/Power_Cover_AlbumCoach.tga.ckd/8b8efec8a84bc43a4c40669f6e366326.ckd",
+      "cover_smallImageUrl": "/public/map/Power/nx/Power_Cover_Online.tga.ckd/74cecea8693f47d003380ce04ea5091a.ckd",
+      "coach1ImageUrl": "/public/map/Power/nx/Power_Coach_1.tga.ckd/a0f9faf8dd72e8b09bf35a402f66d9e3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Power/pc/Power_banner_bkg.tga.ckd/8e55945e9a03693a9ab2f21467aed6ae.ckd",
+      "map_bkgImageUrl": "/public/map/Power/pc/Power_map_bkg.tga.ckd/a838bea3cc72c6f508099541f8059c53.ckd",
+      "expandCoachImageUrl": "/public/map/Power/pc/Power_Cover_AlbumCoach.tga.ckd/a8176b86ac1fd7aa1b3d2e56ebc1d790.ckd",
+      "cover_smallImageUrl": "/public/map/Power/pc/Power_Cover_Online.tga.ckd/b2f0bbf5deb138ed6a2b46d9851ffad5.ckd",
+      "coach1ImageUrl": "/public/map/Power/pc/Power_Coach_1.tga.ckd/d946338d6a536c7b7a183e37e39b2e29.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Power/orbis/Power_banner_bkg.tga.ckd/8e55945e9a03693a9ab2f21467aed6ae.ckd",
+      "map_bkgImageUrl": "/public/map/Power/orbis/Power_map_bkg.tga.ckd/a838bea3cc72c6f508099541f8059c53.ckd",
+      "expandCoachImageUrl": "/public/map/Power/orbis/Power_Cover_AlbumCoach.tga.ckd/a8176b86ac1fd7aa1b3d2e56ebc1d790.ckd",
+      "cover_smallImageUrl": "/public/map/Power/orbis/Power_Cover_Online.tga.ckd/b2f0bbf5deb138ed6a2b46d9851ffad5.ckd",
+      "coach1ImageUrl": "/public/map/Power/orbis/Power_Coach_1.tga.ckd/d946338d6a536c7b7a183e37e39b2e29.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Power/Power_Coach_1_Phone.png/dddc4ef6921531ea8960ae73e7837f30.png",
+    "phoneCoverImageUrl": "/public/map/Power/Power_Cover_Phone.jpg/f603923b99019eb5f4eb24d3ecf710d8.jpg",
+    "cover640ImageUrl": "/public/map/Power/Power_Cover_640.png/80f4a2261f8fa30a6aa3e509a1de1656.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Power/Power.ogg": "/private/map/Power/Power.ogg/9c5680610dea1f108b3a5acfb3faa813.ogg",
+    "jmcs://jd-contents/Power/Power_AudioPreview.ogg": "/public/map/Power/Power_AudioPreview.ogg/79f9568abf358e317d55ac19ffaefa2b.ogg",
+    "jmcs://jd-contents/Power/Power_HIGH.webm": "/private/map/Power/Power_HIGH.webm/197fe9ad7ef3d97f920211fb1d809dcc.webm",
+    "jmcs://jd-contents/Power/Power_LOW.webm": "/private/map/Power/Power_LOW.webm/b9b33231da982dfa73be77600d6a470e.webm",
+    "jmcs://jd-contents/Power/Power_MID.webm": "/private/map/Power/Power_MID.webm/79b75df7b879ed44cfb922865226d437.webm",
+    "jmcs://jd-contents/Power/Power_ULTRA.hd.webm": "/private/map/Power/Power_ULTRA.hd.webm/3528ad736b39ea83584b8f5da71d2c40.webm",
+    "jmcs://jd-contents/Power/Power_ULTRA.webm": "/private/map/Power/Power_ULTRA.webm/0400270046ce7ba74d1bd18ffb7bd395.webm",
+    "jmcs://jd-contents/Power/Power_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Power/Power_MapPreviewNoSoundCrop_LOW.vp8.webm/b6400d4299597d3f2440a66c82a1bd34.webm",
+    "jmcs://jd-contents/Power/Power_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Power/Power_MapPreviewNoSoundCrop_MID.vp8.webm/00af73622c97cb2825e8a17ce8a9a621.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"508432\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Power/Power_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1489252\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Power/Power_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 229.184
+}

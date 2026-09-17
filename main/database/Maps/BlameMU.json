@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BlameMU/BlameMU_HIGH.hd.webm": "/private/map/BlameMU/BlameMU_HIGH.hd.webm/3cebf14396455bb1cfa86160192546c4.webm",
+    "jmcs://jd-contents/BlameMU/BlameMU_LOW.hd.webm": "/private/map/BlameMU/BlameMU_LOW.hd.webm/0467d21790902fca3896229c8093158a.webm",
+    "jmcs://jd-contents/BlameMU/BlameMU_MID.hd.webm": "/private/map/BlameMU/BlameMU_MID.hd.webm/ed05398262507133edbf510cd402f48a.webm",
+    "jmcs://jd-contents/BlameMU/BlameMU_ULTRA.hd.webm": "/private/map/BlameMU/BlameMU_ULTRA.hd.webm/1799502634aef868f21d6c0d3f13bcea.webm",
+    "jmcs://jd-contents/BlameMU/BlameMU.ogg": "/private/map/BlameMU/BlameMU.ogg/f0201db56e4da822556c72b679558079.ogg",
+    "jmcs://jd-contents/BlameMU/BlameMU_AudioPreview.ogg": "/public/map/BlameMU/BlameMU_AudioPreview.ogg/5c87927f3607da3eee49190a71c31f69.ogg",
+    "jmcs://jd-contents/BlameMU/BlameMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BlameMU/BlameMU_MapPreviewNoSoundCrop_LOW.vp8.webm/5a344a1410fcb5f695fb781e8f5bc405.webm",
+    "jmcs://jd-contents/BlameMU/BlameMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BlameMU/BlameMU_MapPreviewNoSoundCrop_MID.vp8.webm/5e9f2b073a9d9bd9b562c9b1a74cc6ed.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67487,
+        89999,
+        112511,
+        135023,
+        157487,
+        179999,
+        202511,
+        225023,
+        247487,
+        269999,
+        292511,
+        315023,
+        337487,
+        359999,
+        382511,
+        405023,
+        427487,
+        449999,
+        472511,
+        495023,
+        517487,
+        539999,
+        562511,
+        585023,
+        607487,
+        629999,
+        652511,
+        675023,
+        697487,
+        719999,
+        742511,
+        765023,
+        787487,
+        809999,
+        832510,
+        855022,
+        877486,
+        899998,
+        922510,
+        945022,
+        967486,
+        989998,
+        1012510,
+        1035022,
+        1057486,
+        1079998,
+        1102510,
+        1125022,
+        1147486,
+        1169998,
+        1192510,
+        1215022,
+        1237486,
+        1259998,
+        1282510,
+        1305022,
+        1327486,
+        1349998,
+        1372510,
+        1395022,
+        1417486,
+        1439998,
+        1462510,
+        1485022
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 441,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BlameMU/BlameMU_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"613478\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlameMU/BlameMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2015133\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlameMU/BlameMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "f6764a43b4a7b40c35628f8350c7f9bc",
+      "storageType": 0,
+      "url": "/public/map/BlameMU/nx/BlameMU_MAIN_SCENE_NX.zip/f6764a43b4a7b40c35628f8350c7f9bc.zip"
+    },
+    "pc": {
+      "md5": "a3abbde9ca15ae20ac30898c85834993",
+      "storageType": 0,
+      "url": "/public/map/BlameMU/pc/BlameMU_MAIN_SCENE_PC.zip/a3abbde9ca15ae20ac30898c85834993.zip"
+    },
+    "ps4": {
+      "md5": "2af561c49ec474f730292000265dc233",
+      "storageType": 0,
+      "url": "/public/map/BlameMU/orbis/BlameMU_MAIN_SCENE_ORBIS.zip/2af561c49ec474f730292000265dc233.zip"
+    }
+  },
+  "data": {
+    "mapName": "BlameMU",
+    "title": "Blame",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "Calvin Harris Ft. John Newman",
+    "credits": "Written by Newman James Richard, Newman John William Peter, Wiles Adam Richard. Published by B-Unique Music Limited. Administered by Kobalt Music Publishing America, Inc., Sony/ATV Music Publishing Canada (SOCAN). All rights reserved. Used with permission / BMG. Courtesy of Epic Records by arrangement with Sony Music Licensing.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff2b12",
+    "songColor2A": "#5db5fe",
+    "songColor1B": "#3f0100",
+    "songColor2B": "#000535",
+    "lyricsColor": "#8c9bff",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BlameMU/nx/BlameMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/BlameMU/nx/BlameMU_map_bkg.tga.ckd/7fb1ab5815da81ea9f2f49dde10c7654.ckd",
+      "expandCoachImageUrl": "/public/map/BlameMU/nx/BlameMU_Cover_AlbumCoach.tga.ckd/02e9264a12b65e0fa020ed9639f08886.ckd",
+      "cover_smallImageUrl": "/public/map/BlameMU/nx/BlameMU_Cover_Online.tga.ckd/87f79966b22022fa811b7a8270c2f05f.ckd",
+      "coverImageUrl": "/public/map/BlameMU/nx/BlameMU_Cover_Generic.tga.ckd/29b1e61ba3e23f2415e3f132de3341a6.ckd",
+      "coach1ImageUrl": "/public/map/BlameMU/nx/BlameMU_Coach_1.tga.ckd/515b30c7a215460cece0b82d7b97bd4d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BlameMU/pc/BlameMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/BlameMU/pc/BlameMU_map_bkg.tga.ckd/5cd795c784f8a54246e6e9c3664b512b.ckd",
+      "expandCoachImageUrl": "/public/map/BlameMU/pc/BlameMU_Cover_AlbumCoach.tga.ckd/6c6a970564f656ccfd24005ca0679d71.ckd",
+      "cover_smallImageUrl": "/public/map/BlameMU/pc/BlameMU_Cover_Online.tga.ckd/a3efd5bb52855e0dbab7fd2a22c44f9e.ckd",
+      "coverImageUrl": "/public/map/BlameMU/pc/BlameMU_Cover_Generic.tga.ckd/31e163d8fe139607dfcbd7fcda4d769b.ckd",
+      "coach1ImageUrl": "/public/map/BlameMU/pc/BlameMU_Coach_1.tga.ckd/fe5df42ae831def940315fc5a3d0b0d2.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BlameMU/orbis/BlameMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/BlameMU/orbis/BlameMU_map_bkg.tga.ckd/5cd795c784f8a54246e6e9c3664b512b.ckd",
+      "expandCoachImageUrl": "/public/map/BlameMU/orbis/BlameMU_Cover_AlbumCoach.tga.ckd/6c6a970564f656ccfd24005ca0679d71.ckd",
+      "cover_smallImageUrl": "/public/map/BlameMU/orbis/BlameMU_Cover_Online.tga.ckd/a3efd5bb52855e0dbab7fd2a22c44f9e.ckd",
+      "coverImageUrl": "/public/map/BlameMU/orbis/BlameMU_Cover_Generic.tga.ckd/31e163d8fe139607dfcbd7fcda4d769b.ckd",
+      "coach1ImageUrl": "/public/map/BlameMU/orbis/BlameMU_Coach_1.tga.ckd/fe5df42ae831def940315fc5a3d0b0d2.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BlameMU/BlameMU_Coach_1_Phone.png/076220e80daf8792f8e9ff6a888031bc.png",
+    "phoneCoverImageUrl": "/public/map/BlameMU/BlameMU_Cover_Phone.jpg/be1de6c2eff4c10642aab9a93084c97b.jpg",
+    "cover640ImageUrl": "/public/map/BlameMU/BlameMU_Cover_640.png/f566244c82bc730e9c1d8bcbb7fd070c.png"
+  },
+  "mapLength": 208.124729
+}

@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/GimmeGimmeMU/GimmeGimmeMU.ogg": "/private/map/GimmeGimmeMU/GimmeGimmeMU.ogg/fa01a9c7cbbdbf6cc7dc7ba4ad2be70a.ogg",
+    "jmcs://jd-contents/GimmeGimmeMU/GimmeGimmeMU_AudioPreview.ogg": "/public/map/GimmeGimmeMU/GimmeGimmeMU_AudioPreview.ogg/060b4c0d0c5ea4dff2f15d33e3f39115.ogg",
+    "jmcs://jd-contents/GimmeGimmeMU/GimmeGimmeMU_HIGH.hd.webm": "/private/map/GimmeGimmeMU/GimmeGimmeMU_HIGH.hd.webm/2e4e6f5a99843d843100768a4e6b7c2d.webm",
+    "jmcs://jd-contents/GimmeGimmeMU/GimmeGimmeMU_LOW.hd.webm": "/private/map/GimmeGimmeMU/GimmeGimmeMU_LOW.hd.webm/96e865948268b4110df7e94d944b77e4.webm",
+    "jmcs://jd-contents/GimmeGimmeMU/GimmeGimmeMU_MID.hd.webm": "/private/map/GimmeGimmeMU/GimmeGimmeMU_MID.hd.webm/87c8a4322efdc31d35606ffb9a3e1f1d.webm",
+    "jmcs://jd-contents/GimmeGimmeMU/GimmeGimmeMU_ULTRA.hd.webm": "/private/map/GimmeGimmeMU/GimmeGimmeMU_ULTRA.hd.webm/640d6906c163ad93e161bf47b425432f.webm",
+    "jmcs://jd-contents/GimmeGimmeMU/GimmeGimmeMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GimmeGimmeMU/GimmeGimmeMU_MapPreviewNoSoundCrop_LOW.vp8.webm/2c5bb46c1563151580105175a3b38432.webm",
+    "jmcs://jd-contents/GimmeGimmeMU/GimmeGimmeMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GimmeGimmeMU/GimmeGimmeMU_MapPreviewNoSoundCrop_MID.vp8.webm/8b795332c47d04de9fbfaa55939b443a.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26112,
+        52224,
+        78336,
+        104448,
+        130560,
+        156672,
+        182736,
+        208176,
+        233520,
+        258672,
+        283824,
+        308784,
+        333744,
+        358656,
+        383568,
+        408432,
+        433296,
+        458016,
+        482688,
+        507744,
+        532896,
+        558000,
+        583104,
+        608208,
+        633312,
+        658080,
+        682752,
+        707472,
+        732144,
+        758352,
+        784800,
+        809568,
+        834144,
+        858672,
+        883248,
+        907824,
+        932352,
+        959232,
+        983233,
+        1007041,
+        1030897,
+        1054753,
+        1078609,
+        1103041,
+        1127617,
+        1152193,
+        1176721,
+        1200817,
+        1224865,
+        1248913,
+        1272961,
+        1297345,
+        1321729,
+        1346161,
+        1370785,
+        1395121,
+        1419313,
+        1443553,
+        1467793,
+        1492033
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 567,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GimmeGimmeMU/GimmeGimmeMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GimmeGimmeMU/nx/GimmeGimmeMU_banner_bkg.tga.ckd/c4303aff4227da59e240e66e596dc4d0.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeGimmeMU/nx/GimmeGimmeMU_map_bkg.tga.ckd/f9dacc08a896db2ba259a7519aee841c.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeGimmeMU/nx/GimmeGimmeMU_Cover_AlbumCoach.tga.ckd/308fa90b86c3a4c91cd5311c5c6431b9.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeGimmeMU/nx/GimmeGimmeMU_Cover_Online.tga.ckd/35f1ad724a69b4c8b2397bf6776413c1.ckd",
+      "coverImageUrl": "/public/map/GimmeGimmeMU/nx/GimmeGimmeMU_Cover_Generic.tga.ckd/a3c604bd383a12f689f3aa7cb01c1371.ckd",
+      "coach1ImageUrl": "/public/map/GimmeGimmeMU/nx/GimmeGimmeMU_Coach_1.tga.ckd/b1e07151175d41dbc5def6f4013d3527.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GimmeGimmeMU/pc/GimmeGimmeMU_banner_bkg.tga.ckd/7eb8a8b99ed571b2f34478d11d568e16.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeGimmeMU/pc/GimmeGimmeMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeGimmeMU/pc/GimmeGimmeMU_Cover_AlbumCoach.tga.ckd/910141eae113fca6abf120aec47a82a0.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeGimmeMU/pc/GimmeGimmeMU_Cover_Online.tga.ckd/af08bba5757ae912d4231166fd9a4c67.ckd",
+      "coverImageUrl": "/public/map/GimmeGimmeMU/pc/GimmeGimmeMU_Cover_Generic.tga.ckd/f89213f28a04916fcf819ad1342c2f90.ckd",
+      "coach1ImageUrl": "/public/map/GimmeGimmeMU/pc/GimmeGimmeMU_Coach_1.tga.ckd/ed05370058649b6846fa1d6989b80518.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GimmeGimmeMU/orbis/GimmeGimmeMU_banner_bkg.tga.ckd/7eb8a8b99ed571b2f34478d11d568e16.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeGimmeMU/orbis/GimmeGimmeMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeGimmeMU/orbis/GimmeGimmeMU_Cover_AlbumCoach.tga.ckd/910141eae113fca6abf120aec47a82a0.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeGimmeMU/orbis/GimmeGimmeMU_Cover_Online.tga.ckd/af08bba5757ae912d4231166fd9a4c67.ckd",
+      "coverImageUrl": "/public/map/GimmeGimmeMU/orbis/GimmeGimmeMU_Cover_Generic.tga.ckd/f89213f28a04916fcf819ad1342c2f90.ckd",
+      "coach1ImageUrl": "/public/map/GimmeGimmeMU/orbis/GimmeGimmeMU_Coach_1.tga.ckd/ed05370058649b6846fa1d6989b80518.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GimmeGimmeMU/GimmeGimmeMU_Coach_1_Phone.png/6683b71324803481b1e95aa2307c0ed6.png",
+    "phoneCoverImageUrl": "/public/map/GimmeGimmeMU/GimmeGimmeMU_Cover_Phone.jpg/1f08dead4c13365dce68ea3d9e98b020.jpg",
+    "cover640ImageUrl": "/public/map/GimmeGimmeMU/GimmeGimmeMU_Cover_640.png/4f77c90cb01e36308e55b6daa3b6a1ad.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "0a8ed84e8b7e1a4821e2cb3698ed5142",
+      "storageType": 0,
+      "url": "/public/map/GimmeGimmeMU/nx/GimmeGimmeMU_MAIN_SCENE_NX.zip/0a8ed84e8b7e1a4821e2cb3698ed5142.zip"
+    },
+    "pc": {
+      "md5": "a0be061c6b0e6a6fd518fc0933564124",
+      "storageType": 0,
+      "url": "/public/map/GimmeGimmeMU/pc/GimmeGimmeMU_MAIN_SCENE_PC.zip/a0be061c6b0e6a6fd518fc0933564124.zip"
+    },
+    "ps4": {
+      "md5": "4b4d66ae5f3c93d5176c3b8d37be2835",
+      "storageType": 0,
+      "url": "/public/map/GimmeGimmeMU/orbis/GimmeGimmeMU_MAIN_SCENE_ORBIS.zip/4b4d66ae5f3c93d5176c3b8d37be2835.zip"
+    }
+  },
+  "data": {
+    "mapName": "GimmeGimmeMU",
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "ABBA",
+    "credits": "Written by Benny Goran Bror Andersson and Bjorn Ulvaeus. Published by EMI Waterford Music, Inc. (ASCAP) and Union Songs AB (STIM). All Rights for the U.S.A. and Canada Controlled and Administered by EMI. Waterford Music, Inc. c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) / Universal Music Publishing Group a division of Universal Music Canada Inc. All Rights Reserved. International Copyright Secured. Used by Permission. Courtesy of Polydor Limited under license from Universal Music Enterprises All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#6600e1",
+    "songColor2A": "#e2a011",
+    "songColor1B": "#050049",
+    "songColor2B": "#811e1e",
+    "lyricsColor": "#fcc530",
+    "LocaleID": 13572
+  },
+  "mapLength": 285.761292
+}

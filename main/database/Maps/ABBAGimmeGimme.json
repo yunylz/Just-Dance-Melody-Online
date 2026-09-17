@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f3fa0f906d4eb43455881100bcdc117f",
+      "storageType": 0,
+      "url": "/public/map/ABBAGimmeGimme/nx/ABBAGimmeGimme_MAIN_SCENE_NX.zip/f3fa0f906d4eb43455881100bcdc117f.zip"
+    },
+    "pc": {
+      "md5": "af8207678e5a2d72f92a04dd42041b75",
+      "storageType": 0,
+      "url": "/public/map/ABBAGimmeGimme/pc/ABBAGimmeGimme_MAIN_SCENE_PC.zip/af8207678e5a2d72f92a04dd42041b75.zip"
+    },
+    "ps4": {
+      "md5": "b8869211d0faf01a39ed5eeb3d4e5d37",
+      "storageType": 0,
+      "url": "/public/map/ABBAGimmeGimme/orbis/ABBAGimmeGimme_MAIN_SCENE_ORBIS.zip/b8869211d0faf01a39ed5eeb3d4e5d37.zip"
+    }
+  },
+  "data": {
+    "mapName": "ABBAGimmeGimme",
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "originalJDVersion": 4884,
+    "tags": [
+      "jdabba",
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "ABBA",
+    "credits": "Written by Ulvaeus, Bjoern K.; Andersson, Benny Goran Bror. Published by Universal Music Publishing. Courtesy of Polydor Limited under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#feb500",
+    "songColor2A": "#fec800",
+    "songColor1B": "#333333",
+    "songColor2B": "#cd4f00",
+    "lyricsColor": "#dd13d9",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33743,
+        57887,
+        82079,
+        106223,
+        130367,
+        154559,
+        178703,
+        202895,
+        228095,
+        253295,
+        278495,
+        303743,
+        328943,
+        354143,
+        379343,
+        404543,
+        429791,
+        454271,
+        478799,
+        503279,
+        527807,
+        552335,
+        576815,
+        601919,
+        627071,
+        652175,
+        677279,
+        702431,
+        727535,
+        752639,
+        777743,
+        802895,
+        827999,
+        853103,
+        878207,
+        903311,
+        928415,
+        953519,
+        977374,
+        1001278,
+        1025134,
+        1051870,
+        1075918,
+        1099966,
+        1124014,
+        1148062,
+        1172110,
+        1196158,
+        1220206,
+        1244254,
+        1268302,
+        1292350,
+        1316398,
+        1340446,
+        1364494,
+        1388542,
+        1412590,
+        1436734,
+        1460926,
+        1485070
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 520,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ABBAGimmeGimme/nx/ABBAGimmeGimme_banner_bkg.tga.ckd/224f6be6c96d652dba05e906659798f3.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAGimmeGimme/nx/ABBAGimmeGimme_map_bkg.tga.ckd/c8c29805f99e94ea904a757282be97ca.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAGimmeGimme/nx/ABBAGimmeGimme_Cover_AlbumCoach.tga.ckd/f98e157612a1f140b22e333375b58098.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAGimmeGimme/nx/ABBAGimmeGimme_Cover_Online.tga.ckd/04517b371ef6f45e6b42b77532f3ff4f.ckd",
+      "coach1ImageUrl": "/public/map/ABBAGimmeGimme/nx/ABBAGimmeGimme_Coach_1.tga.ckd/3896bfe85c35ddaafe5e41bd6041795d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ABBAGimmeGimme/pc/ABBAGimmeGimme_banner_bkg.tga.ckd/2f4f0e315cf801a7b43e4912047ab5a7.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAGimmeGimme/pc/ABBAGimmeGimme_map_bkg.tga.ckd/5dd17c0204f451880cb1feae38b29140.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAGimmeGimme/pc/ABBAGimmeGimme_Cover_AlbumCoach.tga.ckd/d0655dfba7021463a176d2c268940583.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAGimmeGimme/pc/ABBAGimmeGimme_Cover_Online.tga.ckd/e13bdc41e6f190b01b0211cfa5a6fb19.ckd",
+      "coach1ImageUrl": "/public/map/ABBAGimmeGimme/pc/ABBAGimmeGimme_Coach_1.tga.ckd/a6e4b9fb3325cfdfc165d38455340a35.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ABBAGimmeGimme/orbis/ABBAGimmeGimme_banner_bkg.tga.ckd/2f4f0e315cf801a7b43e4912047ab5a7.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAGimmeGimme/orbis/ABBAGimmeGimme_map_bkg.tga.ckd/5dd17c0204f451880cb1feae38b29140.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAGimmeGimme/orbis/ABBAGimmeGimme_Cover_AlbumCoach.tga.ckd/d0655dfba7021463a176d2c268940583.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAGimmeGimme/orbis/ABBAGimmeGimme_Cover_Online.tga.ckd/e13bdc41e6f190b01b0211cfa5a6fb19.ckd",
+      "coach1ImageUrl": "/public/map/ABBAGimmeGimme/orbis/ABBAGimmeGimme_Coach_1.tga.ckd/a6e4b9fb3325cfdfc165d38455340a35.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ABBAGimmeGimme/ABBAGimmeGimme_Coach_1_Phone.png/b93d593134648e5fb39dd187a533d148.png",
+    "phoneCoverImageUrl": "/public/map/ABBAGimmeGimme/ABBAGimmeGimme_Cover_Phone.jpg/b014446569a1fc20a8df87d51581ac0f.jpg",
+    "cover640ImageUrl": "/public/map/ABBAGimmeGimme/ABBAGimmeGimme_Cover_640.png/0993cba329e88c2df62da09eec031aeb.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme.ogg": "/private/map/ABBAGimmeGimme/ABBAGimmeGimme.ogg/03ac0e26c90560b8221af937d34961d7.ogg",
+    "jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme_AudioPreview.ogg": "/public/map/ABBAGimmeGimme/ABBAGimmeGimme_AudioPreview.ogg/74d16ae0b741194403a06e185b6fb199.ogg",
+    "jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ABBAGimmeGimme/ABBAGimmeGimme_MapPreviewNoSoundCrop_LOW.vp8.webm/b23e73e9f1d3ef3bcc12dd804fb420f3.webm",
+    "jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme_HIGH.webm": "/private/map/ABBAGimmeGimme/ABBAGimmeGimme_HIGH.webm/a75e41d825cc589fbf52cb752a660c80.webm",
+    "jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme_LOW.webm": "/private/map/ABBAGimmeGimme/ABBAGimmeGimme_LOW.webm/bd2230fd2476709b549a21a7ecaeb136.webm",
+    "jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme_MID.webm": "/private/map/ABBAGimmeGimme/ABBAGimmeGimme_MID.webm/28db4f2b1164d460744baffeccf25307.webm",
+    "jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme_ULTRA.hd.webm": "/private/map/ABBAGimmeGimme/ABBAGimmeGimme_ULTRA.hd.webm/549687e6d863e0a5e84e500026535ceb.webm",
+    "jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme_ULTRA.webm": "/private/map/ABBAGimmeGimme/ABBAGimmeGimme_ULTRA.webm/ebbafda25472ac07977f6611f82be050.webm",
+    "jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ABBAGimmeGimme/ABBAGimmeGimme_MapPreviewNoSoundCrop_MID.vp8.webm/a9ddf09157642bbb732d9907ab8da2c7.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495791\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"641-1130\">\n\t\t\t\t\t<Initialization range=\"0-641\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1463337\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAGimmeGimme/ABBAGimmeGimme_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"642-1132\">\n\t\t\t\t\t<Initialization range=\"0-642\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 264.291729
+}

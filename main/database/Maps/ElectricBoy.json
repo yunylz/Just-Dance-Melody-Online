@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ff983da503d8b12675c9391c69072b40",
+      "storageType": 0,
+      "url": "/public/map/ElectricBoy/nx/ElectricBoy_MAIN_SCENE_NX.zip/ff983da503d8b12675c9391c69072b40.zip"
+    },
+    "pc": {
+      "md5": "033d9b713df57a4d5292363e77badc30",
+      "storageType": 0,
+      "url": "/public/map/ElectricBoy/pc/ElectricBoy_MAIN_SCENE_PC.zip/033d9b713df57a4d5292363e77badc30.zip"
+    },
+    "ps4": {
+      "md5": "95548b2e29c205f7e0a89e2a69208afb",
+      "storageType": 0,
+      "url": "/public/map/ElectricBoy/orbis/ElectricBoy_MAIN_SCENE_ORBIS.zip/95548b2e29c205f7e0a89e2a69208afb.zip"
+    }
+  },
+  "data": {
+    "mapName": "ElectricBoy",
+    "title": "Electric Boy (エレクトリックボーイ)",
+    "originalJDVersion": 1003,
+    "tags": [
+      "subscribedSong",
+      "jdwiiu",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "KARA",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#0a2eef",
+    "songColor2A": "#0635f2",
+    "songColor1B": "#040c44",
+    "songColor2B": "#1c0241",
+    "lyricsColor": "#01c0ff",
+    "credits": "CREDITS STRING TO BE FILLED"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22848,
+        45696,
+        68592,
+        91440,
+        114288,
+        137136,
+        159984,
+        182880,
+        205728,
+        228576,
+        251424,
+        274272,
+        297120,
+        320016,
+        342864,
+        365712,
+        388560,
+        411408,
+        434304,
+        457152,
+        480000,
+        502848,
+        525696,
+        548592,
+        571440,
+        594288,
+        617136,
+        639984,
+        662880,
+        685728,
+        708576,
+        731424,
+        754272,
+        777120,
+        800016,
+        822864,
+        845712,
+        868560,
+        891408,
+        914304,
+        937152,
+        960000,
+        982848,
+        1005696,
+        1028592,
+        1051440,
+        1074288,
+        1097136,
+        1119984,
+        1142880,
+        1165728,
+        1188576,
+        1211424,
+        1234273,
+        1257121,
+        1280017,
+        1302865,
+        1325713,
+        1348561,
+        1371409,
+        1394305,
+        1417153,
+        1440001,
+        1462849,
+        1485697
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 418,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ElectricBoy/ElectricBoy_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ElectricBoy/nx/ElectricBoy_banner_bkg.tga.ckd/c9977e40d94a9180acf75991feb58ce0.ckd",
+      "map_bkgImageUrl": "/public/map/ElectricBoy/nx/ElectricBoy_map_bkg.tga.ckd/db6d4589e03ba0864e76681c78dfd1ad.ckd",
+      "expandCoachImageUrl": "/public/map/ElectricBoy/nx/ElectricBoy_Cover_AlbumCoach.tga.ckd/0aa38455e2f69b950b6f7e6e7de931dc.ckd",
+      "cover_smallImageUrl": "/public/map/ElectricBoy/nx/ElectricBoy_Cover_Online.tga.ckd/dad6ab6956355e0dc17b16ea7041394a.ckd",
+      "coach1ImageUrl": "/public/map/ElectricBoy/nx/ElectricBoy_Coach_1.tga.ckd/9bc4838a06e584a70d49e0d6dea32044.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ElectricBoy/pc/ElectricBoy_banner_bkg.tga.ckd/eb34285fdc6d6a96ebad1dd605bc633d.ckd",
+      "map_bkgImageUrl": "/public/map/ElectricBoy/pc/ElectricBoy_map_bkg.tga.ckd/bf631bfcc82fb9cbb3aa4f8babd90fe2.ckd",
+      "expandCoachImageUrl": "/public/map/ElectricBoy/pc/ElectricBoy_Cover_AlbumCoach.tga.ckd/a8a4ce61532f741753af75d30935e36c.ckd",
+      "cover_smallImageUrl": "/public/map/ElectricBoy/pc/ElectricBoy_Cover_Online.tga.ckd/eb20c739efa174e0144721c4df0dd6ef.ckd",
+      "coach1ImageUrl": "/public/map/ElectricBoy/pc/ElectricBoy_Coach_1.tga.ckd/cfd96de9efc0aa4b4ac37f68e50cdf62.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ElectricBoy/orbis/ElectricBoy_banner_bkg.tga.ckd/eb34285fdc6d6a96ebad1dd605bc633d.ckd",
+      "map_bkgImageUrl": "/public/map/ElectricBoy/orbis/ElectricBoy_map_bkg.tga.ckd/bf631bfcc82fb9cbb3aa4f8babd90fe2.ckd",
+      "expandCoachImageUrl": "/public/map/ElectricBoy/orbis/ElectricBoy_Cover_AlbumCoach.tga.ckd/a8a4ce61532f741753af75d30935e36c.ckd",
+      "cover_smallImageUrl": "/public/map/ElectricBoy/orbis/ElectricBoy_Cover_Online.tga.ckd/eb20c739efa174e0144721c4df0dd6ef.ckd",
+      "coach1ImageUrl": "/public/map/ElectricBoy/orbis/ElectricBoy_Coach_1.tga.ckd/cfd96de9efc0aa4b4ac37f68e50cdf62.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ElectricBoy/ElectricBoy_Coach_1_Phone.png/b3a7ec5b96d4dd4bb4d66cea6d0d4069.png",
+    "phoneCoverImageUrl": "/public/map/ElectricBoy/ElectricBoy_Cover_Phone.jpg/1d25e67d97fd7e335330bf045a909a9c.jpg",
+    "cover640ImageUrl": "/public/map/ElectricBoy/ElectricBoy_Cover_640.png/b5125fe3cba600cb00ae068fdb987e51.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy.ogg": "/private/map/ElectricBoy/ElectricBoy.ogg/9fc1615aa991c0bd3faf495bab4dfef2.ogg",
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy_AudioPreview.ogg": "/public/map/ElectricBoy/ElectricBoy_AudioPreview.ogg/1d7b569bb997b254319ac97b65b48480.ogg",
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy_HIGH.webm": "/private/map/ElectricBoy/ElectricBoy_HIGH.webm/1a1255912517ca7f625e9dc6fb549d8a.webm",
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy_LOW.webm": "/private/map/ElectricBoy/ElectricBoy_LOW.webm/32ba6c56ba4964f234209cf90b769c2d.webm",
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy_MID.webm": "/private/map/ElectricBoy/ElectricBoy_MID.webm/0a3d8b5e0cca626a495646a8f222c8b2.webm",
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy_ULTRA.webm": "/private/map/ElectricBoy/ElectricBoy_ULTRA.webm/374e92b61eac4997dfc483bcd1dc5e1d.webm",
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ElectricBoy/ElectricBoy_MapPreviewNoSoundCrop_LOW.vp8.webm/9e0054aca161da3b3b9a5cdfc54492c7.webm",
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ElectricBoy/ElectricBoy_MapPreviewNoSoundCrop_MID.vp8.webm/b2c3e0a66dc65edac363551326c84801.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"487672\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ElectricBoy/ElectricBoy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"558-1048\">\n\t\t\t\t\t<Initialization range=\"0-558\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1304313\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ElectricBoy/ElectricBoy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"559-1049\">\n\t\t\t\t\t<Initialization range=\"0-559\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 202.856938
+}

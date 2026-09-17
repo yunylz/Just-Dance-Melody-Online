@@ -1,0 +1,166 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "49ca7e6c95016bef2fa54550a15c22fa",
+      "storageType": 0,
+      "url": "/public/map/BlackMamba/nx/BlackMamba_MAIN_SCENE_NX.zip/49ca7e6c95016bef2fa54550a15c22fa.zip"
+    },
+    "pc": {
+      "md5": "b70cc0478b6e8830cd03fc0decfb7a90",
+      "storageType": 0,
+      "url": "/public/map/BlackMamba/pc/BlackMamba_MAIN_SCENE_PC.zip/b70cc0478b6e8830cd03fc0decfb7a90.zip"
+    },
+    "ps4": {
+      "md5": "fa539ec4aa1d18e9fd0587399360e558",
+      "storageType": 0,
+      "url": "/public/map/BlackMamba/orbis/BlackMamba_MAIN_SCENE_ORBIS.zip/fa539ec4aa1d18e9fd0587399360e558.zip"
+    }
+  },
+  "data": {
+    "mapName": "BlackMamba",
+    "title": "Let Me Love You",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main"
+    ],
+    "artist": "DJ Snake Ft. Justin Bieber",
+    "credits": "Written by Andrew Wotman, Louis Russell Bell, Justin Bieber, William Grigahcine, Dong Lee Brian, Steven Marsden, Carl Austin Rosen and Ali Tamposi. Published by Bieber Time Publishing c\\/o Universal Music Corp. (ASCAP) \\/ BMG Gold Songs (ASCAP) o\\/b\\/o itself & Get Familiar Music LLC. (ASCAP) \\/ Andrew Watt Music. Administered by Kobalt Music Publishing America, Inc.\\/ obo Brian Lee d\\/b\\/a Briyunlee Songs, Songs MP (BMI). Courtesy of Interscope Records under license from Universal Music Enterprises. Justin Bieber appears courtesy of Def Jam Recordings.All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f2a018",
+    "songColor2A": "#aa3aff",
+    "songColor1B": "#a92c00",
+    "songColor2B": "#01006a",
+    "lyricsColor": "#fe0c60",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 342,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BlackMamba/BlackMamba_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BlackMamba/nx/BlackMamba_banner_bkg.tga.ckd/31e152a5d49d5a7a76fd4793b79cd575.ckd",
+      "map_bkgImageUrl": "/public/map/BlackMamba/nx/BlackMamba_map_bkg.tga.ckd/64da956374f51c220f44a12c95b9df56.ckd",
+      "expandCoachImageUrl": "/public/map/BlackMamba/nx/BlackMamba_Cover_AlbumCoach.tga.ckd/ef225535f90865f205d7fabe943b2632.ckd",
+      "cover_smallImageUrl": "/public/map/BlackMamba/nx/BlackMamba_Cover_Online.tga.ckd/c5c9c482b86738b7b778778c4933e651.ckd",
+      "coach1ImageUrl": "/public/map/BlackMamba/nx/BlackMamba_Coach_1.tga.ckd/2caf3c331926c48b066e958e8723b172.ckd",
+      "coach2ImageUrl": "/public/map/BlackMamba/nx/BlackMamba_Coach_2.tga.ckd/a1a382b9c7ccd1727bec86c16aaffefe.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BlackMamba/pc/BlackMamba_banner_bkg.tga.ckd/7ae527e2f6decd2f3685b39f7ecb1290.ckd",
+      "map_bkgImageUrl": "/public/map/BlackMamba/pc/BlackMamba_map_bkg.tga.ckd/77deefeb0c154bb00f95c567782815ca.ckd",
+      "expandCoachImageUrl": "/public/map/BlackMamba/pc/BlackMamba_Cover_AlbumCoach.tga.ckd/2e5398538fdb580e9d0ba49be874cf29.ckd",
+      "cover_smallImageUrl": "/public/map/BlackMamba/pc/BlackMamba_Cover_Online.tga.ckd/80b895d5a88e5d2cd3e1ad6dbaf38019.ckd",
+      "coach1ImageUrl": "/public/map/BlackMamba/pc/BlackMamba_Coach_1.tga.ckd/69700e61ef474da4a72b9749c6d88b07.ckd",
+      "coach2ImageUrl": "/public/map/BlackMamba/pc/BlackMamba_Coach_2.tga.ckd/c116847f8323b1840fa1b55e16f55549.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BlackMamba/orbis/BlackMamba_banner_bkg.tga.ckd/7ae527e2f6decd2f3685b39f7ecb1290.ckd",
+      "map_bkgImageUrl": "/public/map/BlackMamba/orbis/BlackMamba_map_bkg.tga.ckd/77deefeb0c154bb00f95c567782815ca.ckd",
+      "expandCoachImageUrl": "/public/map/BlackMamba/orbis/BlackMamba_Cover_AlbumCoach.tga.ckd/2e5398538fdb580e9d0ba49be874cf29.ckd",
+      "cover_smallImageUrl": "/public/map/BlackMamba/orbis/BlackMamba_Cover_Online.tga.ckd/80b895d5a88e5d2cd3e1ad6dbaf38019.ckd",
+      "coach1ImageUrl": "/public/map/BlackMamba/orbis/BlackMamba_Coach_1.tga.ckd/69700e61ef474da4a72b9749c6d88b07.ckd",
+      "coach2ImageUrl": "/public/map/BlackMamba/orbis/BlackMamba_Coach_2.tga.ckd/c116847f8323b1840fa1b55e16f55549.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BlackMamba/BlackMamba_Coach_1_Phone.png/de0641c2ef447f5a8a1ff0355c9a456d.png",
+    "phoneCoach2ImageUrl": "/public/map/BlackMamba/BlackMamba_Coach_2_Phone.png/297ec29c564b66862df048d41abf9447.png",
+    "phoneCoverImageUrl": "/public/map/BlackMamba/BlackMamba_Cover_Phone.jpg/40601ec2b9e85b267231757c53d3a350.jpg",
+    "cover640ImageUrl": "/public/map/BlackMamba/BlackMamba_Cover_640.png/702fa519a0bf924c15d4f1d45c4f4952.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BlackMamba/BlackMamba.ogg": "/private/map/BlackMamba/BlackMamba.ogg/12924c6ac88435c10c7bea45e4a039d6.ogg",
+    "jmcs://jd-contents/BlackMamba/BlackMamba_AudioPreview.ogg": "/public/map/BlackMamba/BlackMamba_AudioPreview.ogg/3055a02145438b3ceba9b8f44a434dc8.ogg",
+    "jmcs://jd-contents/BlackMamba/BlackMamba_HIGH.webm": "/private/map/BlackMamba/BlackMamba_HIGH.webm/5bee9f4bed7d4523d63aeb4bf482d03f.webm",
+    "jmcs://jd-contents/BlackMamba/BlackMamba_LOW.webm": "/private/map/BlackMamba/BlackMamba_LOW.webm/6ba9503f5bc884beb0707282b72b9a24.webm",
+    "jmcs://jd-contents/BlackMamba/BlackMamba_MID.webm": "/private/map/BlackMamba/BlackMamba_MID.webm/d511ebbe494aabe4eaa9601d385e26b8.webm",
+    "jmcs://jd-contents/BlackMamba/BlackMamba_ULTRA.hd.webm": "/private/map/BlackMamba/BlackMamba_ULTRA.hd.webm/689d4115758079bcadafafa502130365.webm",
+    "jmcs://jd-contents/BlackMamba/BlackMamba_ULTRA.webm": "/private/map/BlackMamba/BlackMamba_ULTRA.webm/23eef3da1c73ee8d8fabdf081590ba90.webm",
+    "jmcs://jd-contents/BlackMamba/BlackMamba_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BlackMamba/BlackMamba_MapPreviewNoSoundCrop_LOW.vp8.webm/a2f63ece4c558f96600e476e5fa4a3cb.webm",
+    "jmcs://jd-contents/BlackMamba/BlackMamba_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BlackMamba/BlackMamba_MapPreviewNoSoundCrop_MID.vp8.webm/5583b4401e6869746010fbab2346ea06.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497003\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlackMamba/BlackMamba_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"652-1141\">\n\t\t\t\t\t<Initialization range=\"0-652\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478741\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlackMamba/BlackMamba_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"653-1143\">\n\t\t\t\t\t<Initialization range=\"0-653\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 206.400083
+}

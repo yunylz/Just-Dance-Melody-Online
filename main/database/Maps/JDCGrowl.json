@@ -1,0 +1,171 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "abef67642328fef1efa211f167c4e5fd",
+      "storageType": 0,
+      "url": "/public/map/JDCGrowl/nx/JDCGrowl_MAIN_SCENE_NX.zip/abef67642328fef1efa211f167c4e5fd.zip"
+    },
+    "pc": {
+      "md5": "9d515af08e0507066a16a43aad69bdd5",
+      "storageType": 0,
+      "url": "/public/map/JDCGrowl/pc/JDCGrowl_MAIN_SCENE_PC.zip/9d515af08e0507066a16a43aad69bdd5.zip"
+    },
+    "ps4": {
+      "md5": "2aad0413087ba08018f2d067dedb742c",
+      "storageType": 0,
+      "url": "/public/map/JDCGrowl/orbis/JDCGrowl_MAIN_SCENE_ORBIS.zip/2aad0413087ba08018f2d067dedb742c.zip"
+    }
+  },
+  "data": {
+    "mapName": "JDCGrowl",
+    "title": "Growl (咆哮)",
+    "originalJDVersion": 1100,
+    "tags": [
+      "subscribedSong",
+      "JustDanceAsia",
+      "Quartet",
+      "Medium"
+    ],
+    "artist": "EXO-M",
+    "credits": "Written by Wang Ya Jun. Published by SM Entertainment. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 4,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#453d22",
+    "songColor2A": "#c19b04",
+    "songColor1B": "#011015",
+    "songColor2B": "#011123",
+    "lyricsColor": "#95cfdd"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32016,
+        63984,
+        96000,
+        128016,
+        159984,
+        192000,
+        224016,
+        255984,
+        288000,
+        320016,
+        351984,
+        384000,
+        416016,
+        447984,
+        480000,
+        512016,
+        543984,
+        576000,
+        608016,
+        639984,
+        672000,
+        704016,
+        735984,
+        768000,
+        800016,
+        831984,
+        864000,
+        896016,
+        927984,
+        960000,
+        992016,
+        1023984,
+        1056000,
+        1088016,
+        1119984,
+        1152000,
+        1184016,
+        1215984,
+        1248000,
+        1280016,
+        1311984,
+        1344000,
+        1376016,
+        1407984,
+        1440000,
+        1472016,
+        1503984
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 308,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 45,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JDCGrowl/JDCGrowl_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JDCGrowl/nx/JDCGrowl_banner_bkg.tga.ckd/c8cb211517830d586705377740e5c75e.ckd",
+      "map_bkgImageUrl": "/public/map/JDCGrowl/nx/JDCGrowl_map_bkg.tga.ckd/56265fcf80f2e49ba6b8d78faaed41b0.ckd",
+      "expandCoachImageUrl": "/public/map/JDCGrowl/nx/JDCGrowl_Cover_AlbumCoach.tga.ckd/0d00447b9e333b565483b05838a4baf1.ckd",
+      "cover_smallImageUrl": "/public/map/JDCGrowl/nx/JDCGrowl_Cover_Online.tga.ckd/4b6ed03075ac0eec605364142650109f.ckd",
+      "coach1ImageUrl": "/public/map/JDCGrowl/nx/JDCGrowl_Coach_1.tga.ckd/7e95f81410e8d3f795c6a2e4223f5c48.ckd",
+      "coach2ImageUrl": "/public/map/JDCGrowl/nx/JDCGrowl_Coach_2.tga.ckd/94431b175929768e3f9a19e9eeace4ad.ckd",
+      "coach3ImageUrl": "/public/map/JDCGrowl/nx/JDCGrowl_Coach_3.tga.ckd/c4d01336968ff980f4cd611483bafff6.ckd",
+      "coach4ImageUrl": "/public/map/JDCGrowl/nx/JDCGrowl_Coach_4.tga.ckd/58dcb677606ffbc43442c62465d2b181.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JDCGrowl/pc/JDCGrowl_banner_bkg.tga.ckd/90dea9a7822caf0c7c596b2d113c94e5.ckd",
+      "map_bkgImageUrl": "/public/map/JDCGrowl/pc/JDCGrowl_map_bkg.tga.ckd/2d314bff20272e7de90a31923317c26d.ckd",
+      "expandCoachImageUrl": "/public/map/JDCGrowl/pc/JDCGrowl_Cover_AlbumCoach.tga.ckd/41fe61ebdc0a67e8351f694a1632362a.ckd",
+      "cover_smallImageUrl": "/public/map/JDCGrowl/pc/JDCGrowl_Cover_Online.tga.ckd/2f2322f2fe4e96b74f5121351043a64a.ckd",
+      "coach1ImageUrl": "/public/map/JDCGrowl/pc/JDCGrowl_Coach_1.tga.ckd/73a616be55da94116784f0535512b8ad.ckd",
+      "coach2ImageUrl": "/public/map/JDCGrowl/pc/JDCGrowl_Coach_2.tga.ckd/77165864e81fc10cd34a99ed45ec4fda.ckd",
+      "coach3ImageUrl": "/public/map/JDCGrowl/pc/JDCGrowl_Coach_3.tga.ckd/b379ae7b35b8746784ea2fd635b0a3b6.ckd",
+      "coach4ImageUrl": "/public/map/JDCGrowl/pc/JDCGrowl_Coach_4.tga.ckd/6f4d55c8337d306e338bb3323294471c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JDCGrowl/orbis/JDCGrowl_banner_bkg.tga.ckd/90dea9a7822caf0c7c596b2d113c94e5.ckd",
+      "map_bkgImageUrl": "/public/map/JDCGrowl/orbis/JDCGrowl_map_bkg.tga.ckd/2d314bff20272e7de90a31923317c26d.ckd",
+      "expandCoachImageUrl": "/public/map/JDCGrowl/orbis/JDCGrowl_Cover_AlbumCoach.tga.ckd/41fe61ebdc0a67e8351f694a1632362a.ckd",
+      "cover_smallImageUrl": "/public/map/JDCGrowl/orbis/JDCGrowl_Cover_Online.tga.ckd/2f2322f2fe4e96b74f5121351043a64a.ckd",
+      "coach1ImageUrl": "/public/map/JDCGrowl/orbis/JDCGrowl_Coach_1.tga.ckd/73a616be55da94116784f0535512b8ad.ckd",
+      "coach2ImageUrl": "/public/map/JDCGrowl/orbis/JDCGrowl_Coach_2.tga.ckd/77165864e81fc10cd34a99ed45ec4fda.ckd",
+      "coach3ImageUrl": "/public/map/JDCGrowl/orbis/JDCGrowl_Coach_3.tga.ckd/b379ae7b35b8746784ea2fd635b0a3b6.ckd",
+      "coach4ImageUrl": "/public/map/JDCGrowl/orbis/JDCGrowl_Coach_4.tga.ckd/6f4d55c8337d306e338bb3323294471c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JDCGrowl/JDCGrowl_Coach_1_Phone.png/493f5131ab79693ed84fd707f07bd573.png",
+    "phoneCoach2ImageUrl": "/public/map/JDCGrowl/JDCGrowl_Coach_2_Phone.png/2bdd654df82dff145308672a7c8dc017.png",
+    "phoneCoach3ImageUrl": "/public/map/JDCGrowl/JDCGrowl_Coach_3_Phone.png/d408a6162a8bde0e4d5606c5a266e95c.png",
+    "phoneCoach4ImageUrl": "/public/map/JDCGrowl/JDCGrowl_Coach_4_Phone.png/6457b510d30b4f1abafc349bb83a2727.png",
+    "phoneCoverImageUrl": "/public/map/JDCGrowl/JDCGrowl_Cover_Phone.jpg/74d2a7dfab03e09a2018f633f2962e3c.jpg",
+    "cover640ImageUrl": "/public/map/JDCGrowl/JDCGrowl_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JDCGrowl/JDCGrowl.ogg": "/private/map/JDCGrowl/JDCGrowl.ogg/31e7c63dd6fa2dd2e35e1013cc6e80eb.ogg",
+    "jmcs://jd-contents/JDCGrowl/JDCGrowl_AudioPreview.ogg": "/public/map/JDCGrowl/JDCGrowl_AudioPreview.ogg/d024975b65a224231e2e328f8d838eb4.ogg",
+    "jmcs://jd-contents/JDCGrowl/JDCGrowl_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JDCGrowl/JDCGrowl_MapPreviewNoSoundCrop_LOW.vp8.webm/b25ba64d6cccaa413a933debf785ed78.webm",
+    "jmcs://jd-contents/JDCGrowl/JDCGrowl_HIGH.webm": "/private/map/JDCGrowl/JDCGrowl_HIGH.webm/96a48f75b06606cfb8771c00bd92e982.webm",
+    "jmcs://jd-contents/JDCGrowl/JDCGrowl_LOW.webm": "/private/map/JDCGrowl/JDCGrowl_LOW.webm/5a3bb7e22f1979777dc9b0d683c3a32e.webm",
+    "jmcs://jd-contents/JDCGrowl/JDCGrowl_MID.webm": "/private/map/JDCGrowl/JDCGrowl_MID.webm/7a6a90144d4c3f39804aba6eecb5a811.webm",
+    "jmcs://jd-contents/JDCGrowl/JDCGrowl_ULTRA.hd.webm": "/private/map/JDCGrowl/JDCGrowl_ULTRA.hd.webm/681117997a16df6d76cd1952ec192b30.webm",
+    "jmcs://jd-contents/JDCGrowl/JDCGrowl_ULTRA.webm": "/private/map/JDCGrowl/JDCGrowl_ULTRA.webm/1fac7cd3fa1ffcd7d0e6a5f734452841.webm",
+    "jmcs://jd-contents/JDCGrowl/JDCGrowl_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JDCGrowl/JDCGrowl_MapPreviewNoSoundCrop_MID.vp8.webm/58ceac5b3d0f73103863e3950bf64837.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"506990\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGrowl/JDCGrowl_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"595-1085\">\n\t\t\t\t\t<Initialization range=\"0-595\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1472138\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGrowl/JDCGrowl_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"596-1086\">\n\t\t\t\t\t<Initialization range=\"0-596\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 206.667021
+}

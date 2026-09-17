@@ -1,0 +1,179 @@
+{
+  "urls": {
+    "jmcs://jd-contents/PopMuzik/PopMuzik.ogg": "/private/map/PopMuzik/PopMuzik.ogg/8512222e6d84cdf70f79963993dc520b.ogg",
+    "jmcs://jd-contents/PopMuzik/PopMuzik_AudioPreview.ogg": "/public/map/PopMuzik/PopMuzik_AudioPreview.ogg/b15b5d4edaa1e1c776ea64bcbfca79a2.ogg",
+    "jmcs://jd-contents/PopMuzik/PopMuzik_HIGH.hd.webm": "/private/map/PopMuzik/PopMuzik_HIGH.hd.webm/6ed469439eed4f23bc2c2684ae038361.webm",
+    "jmcs://jd-contents/PopMuzik/PopMuzik_LOW.hd.webm": "/private/map/PopMuzik/PopMuzik_LOW.hd.webm/5e6eae4b579f84b10f953b77c9474c60.webm",
+    "jmcs://jd-contents/PopMuzik/PopMuzik_MID.hd.webm": "/private/map/PopMuzik/PopMuzik_MID.hd.webm/52cd3ee8150b0809bd1d79fd5a64df1d.webm",
+    "jmcs://jd-contents/PopMuzik/PopMuzik_ULTRA.hd.webm": "/private/map/PopMuzik/PopMuzik_ULTRA.hd.webm/b89ccf9e4241e338d4202cc700ea26f9.webm",
+    "jmcs://jd-contents/PopMuzik/PopMuzik_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PopMuzik/PopMuzik_MapPreviewNoSoundCrop_LOW.vp8.webm/f7a8a36aca1a825761d9e975813285c0.webm",
+    "jmcs://jd-contents/PopMuzik/PopMuzik_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PopMuzik/PopMuzik_MapPreviewNoSoundCrop_MID.vp8.webm/0a9d534511e24e7c112b839e6f9a9c2d.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32000,
+        61091,
+        88261,
+        117352,
+        146443,
+        175533,
+        211089,
+        248492,
+        262405,
+        276318,
+        289409,
+        302500,
+        315590,
+        328681,
+        341772,
+        354863,
+        382162,
+        408608,
+        435054,
+        461501,
+        487947,
+        514393,
+        540839,
+        567286,
+        593732,
+        620178,
+        646625,
+        673071,
+        699517,
+        725963,
+        752410,
+        778856,
+        805302,
+        831748,
+        858195,
+        884641,
+        911087,
+        937534,
+        963980,
+        990426,
+        1016872,
+        1043319,
+        1069765,
+        1096211,
+        1122658,
+        1149104,
+        1175550,
+        1201996,
+        1228443,
+        1254889,
+        1281335,
+        1307782,
+        1334228,
+        1360674,
+        1387120,
+        1413567,
+        1440013,
+        1466459,
+        1492906
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 363,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PopMuzik/PopMuzik_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"552238\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PopMuzik/PopMuzik_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1978784\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PopMuzik/PopMuzik_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "44d5d895b99015539ec805d35ab74c0d",
+      "storageType": 0,
+      "url": "/public/map/PopMuzik/nx/PopMuzik_MAIN_SCENE_NX.zip/44d5d895b99015539ec805d35ab74c0d.zip"
+    },
+    "pc": {
+      "md5": "19fdc68c2d6bf2ad065dbce3f66f3441",
+      "storageType": 0,
+      "url": "/public/map/PopMuzik/pc/PopMuzik_MAIN_SCENE_PC.zip/19fdc68c2d6bf2ad065dbce3f66f3441.zip"
+    },
+    "ps4": {
+      "md5": "bbd7d6d811db6956fca466de32b124ce",
+      "storageType": 0,
+      "url": "/public/map/PopMuzik/orbis/PopMuzik_MAIN_SCENE_ORBIS.zip/bbd7d6d811db6956fca466de32b124ce.zip"
+    }
+  },
+  "data": {
+    "mapName": "PopMuzik",
+    "title": "Pop Muzik",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "M / Robin Scott",
+    "credits": "“Pop Muzik”  Performed by M / Robin Scott Written By Robin Edmond Scott Published by BMG Rights Management Canada A (SOCAN) Courtesy of Robin Scott Limited under exclusive license to Union Square Music Limited, a BMG Company All rights administered by BMG Rights Management (US) LLC. All rights reserved. Used with permission.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ef0adc",
+    "songColor2A": "#22f4e4",
+    "songColor1B": "#04001a",
+    "songColor2B": "#060a64",
+    "lyricsColor": "#1edef0",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PopMuzik/nx/PopMuzik_banner_bkg.tga.ckd/e87b3a0ecce7b7e6641ac4542242a873.ckd",
+      "map_bkgImageUrl": "/public/map/PopMuzik/nx/PopMuzik_map_bkg.tga.ckd/a5906eea7c6a34c4ee4ca44eeb6971e8.ckd",
+      "expandCoachImageUrl": "/public/map/PopMuzik/nx/PopMuzik_Cover_AlbumCoach.tga.ckd/715285e1f6fbf66ee74cd93fc3073629.ckd",
+      "cover_smallImageUrl": "/public/map/PopMuzik/nx/PopMuzik_Cover_Online.tga.ckd/87fbe2ae9e942906d7feda44326ebb10.ckd",
+      "coverImageUrl": "/public/map/PopMuzik/nx/PopMuzik_Cover_Generic.tga.ckd/29a9b8558cae38ec6809df91a956e228.ckd",
+      "coach1ImageUrl": "/public/map/PopMuzik/nx/PopMuzik_Coach_1.tga.ckd/95c0d09426c82239c7dcf27116658ed3.ckd",
+      "coach2ImageUrl": "/public/map/PopMuzik/nx/PopMuzik_Coach_2.tga.ckd/9945be38d7ecf1245d36e771b13d531e.ckd",
+      "coach3ImageUrl": "/public/map/PopMuzik/nx/PopMuzik_Coach_3.tga.ckd/538874b4a2cde13c2a90d70e5275fffd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PopMuzik/pc/PopMuzik_banner_bkg.tga.ckd/cfcb31d5297bffb6ca589e493dfb5d93.ckd",
+      "map_bkgImageUrl": "/public/map/PopMuzik/pc/PopMuzik_map_bkg.tga.ckd/8349b023fade09105cfa66cd786a2cd3.ckd",
+      "expandCoachImageUrl": "/public/map/PopMuzik/pc/PopMuzik_Cover_AlbumCoach.tga.ckd/256c4d362878c4e47025e88639cb5f2e.ckd",
+      "cover_smallImageUrl": "/public/map/PopMuzik/pc/PopMuzik_Cover_Online.tga.ckd/7e559cc29d88550b5cd01d2e0828786f.ckd",
+      "coverImageUrl": "/public/map/PopMuzik/pc/PopMuzik_Cover_Generic.tga.ckd/536bd4f4cf80e146ca532959f0684ba1.ckd",
+      "coach1ImageUrl": "/public/map/PopMuzik/pc/PopMuzik_Coach_1.tga.ckd/b7208e9ae1a1035d612be4be0779d9ad.ckd",
+      "coach2ImageUrl": "/public/map/PopMuzik/pc/PopMuzik_Coach_2.tga.ckd/6e85d24ff6ae60ee94465d55ca2dcbda.ckd",
+      "coach3ImageUrl": "/public/map/PopMuzik/pc/PopMuzik_Coach_3.tga.ckd/1ddbaf096848a67dc639465c56dd7b5b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PopMuzik/orbis/PopMuzik_banner_bkg.tga.ckd/cfcb31d5297bffb6ca589e493dfb5d93.ckd",
+      "map_bkgImageUrl": "/public/map/PopMuzik/orbis/PopMuzik_map_bkg.tga.ckd/8349b023fade09105cfa66cd786a2cd3.ckd",
+      "expandCoachImageUrl": "/public/map/PopMuzik/orbis/PopMuzik_Cover_AlbumCoach.tga.ckd/256c4d362878c4e47025e88639cb5f2e.ckd",
+      "cover_smallImageUrl": "/public/map/PopMuzik/orbis/PopMuzik_Cover_Online.tga.ckd/7e559cc29d88550b5cd01d2e0828786f.ckd",
+      "coverImageUrl": "/public/map/PopMuzik/orbis/PopMuzik_Cover_Generic.tga.ckd/536bd4f4cf80e146ca532959f0684ba1.ckd",
+      "coach1ImageUrl": "/public/map/PopMuzik/orbis/PopMuzik_Coach_1.tga.ckd/b7208e9ae1a1035d612be4be0779d9ad.ckd",
+      "coach2ImageUrl": "/public/map/PopMuzik/orbis/PopMuzik_Coach_2.tga.ckd/6e85d24ff6ae60ee94465d55ca2dcbda.ckd",
+      "coach3ImageUrl": "/public/map/PopMuzik/orbis/PopMuzik_Coach_3.tga.ckd/1ddbaf096848a67dc639465c56dd7b5b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PopMuzik/PopMuzik_Coach_1_Phone.png/888f7bf3c092182343a20d5bcbd007c2.png",
+    "phoneCoach2ImageUrl": "/public/map/PopMuzik/PopMuzik_Coach_2_Phone.png/4153a5a604207bf05f752e1edd71450e.png",
+    "phoneCoach3ImageUrl": "/public/map/PopMuzik/PopMuzik_Coach_3_Phone.png/b03f8fa89c1fb908e4e4d0e8d5b5de91.png",
+    "phoneCoverImageUrl": "/public/map/PopMuzik/PopMuzik_Cover_Phone.jpg/ede7866bf5f730f23c201255a61a4ef6.jpg",
+    "cover640ImageUrl": "/public/map/PopMuzik/PopMuzik_Cover_640.png/ddffd31a8e299b493ca63e5f0af7d6e5.png"
+  },
+  "mapLength": 201.892313
+}

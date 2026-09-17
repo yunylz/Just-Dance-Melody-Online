@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "100c860caa87cdc50e36c38f52eccf14",
+      "storageType": 0,
+      "url": "/public/map/Rotten/nx/Rotten_MAIN_SCENE_NX.zip/100c860caa87cdc50e36c38f52eccf14.zip"
+    },
+    "pc": {
+      "md5": "da5ce3525018531ac68f86796447fb63",
+      "storageType": 0,
+      "url": "/public/map/Rotten/pc/Rotten_MAIN_SCENE_PC.zip/da5ce3525018531ac68f86796447fb63.zip"
+    },
+    "ps4": {
+      "md5": "9c870ec332e80cedc802554aa0ec6699",
+      "storageType": 0,
+      "url": "/public/map/Rotten/orbis/Rotten_MAIN_SCENE_ORBIS.zip/9c870ec332e80cedc802554aa0ec6699.zip"
+    }
+  },
+  "data": {
+    "mapName": "Rotten",
+    "title": "Rotten To The Core",
+    "originalJDVersion": 2014,
+    "tags": [
+      "main"
+    ],
+    "artist": "Dove Cameron, Cameron Boyce, Booboo Stewart, and Sofia Carson",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        99840,
+        122352,
+        144864,
+        166368,
+        189936,
+        212448,
+        235008,
+        255984,
+        280032,
+        302592,
+        324576,
+        346080,
+        370176,
+        392688,
+        415200,
+        437760,
+        459744,
+        482304,
+        504816,
+        526848,
+        549888,
+        572400,
+        594432,
+        616944,
+        639456,
+        662496,
+        685056,
+        706560,
+        729072,
+        752640,
+        774624,
+        794592,
+        819696,
+        842736,
+        864768,
+        886752,
+        909792,
+        932352,
+        952800,
+        976368,
+        999936,
+        1022448,
+        1044960,
+        1066464,
+        1090032,
+        1112544,
+        1135104,
+        1157088,
+        1180128,
+        1202688,
+        1224672,
+        1246176,
+        1269744,
+        1292256,
+        1314816,
+        1337328,
+        1359840,
+        1382400,
+        1404912,
+        1426416,
+        1449984,
+        1472496,
+        1495008
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 357,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Rotten/Rotten_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Rotten/nx/Rotten_banner_bkg.tga.ckd/f2df3176d39a22718ecfbc023e4ddafa.ckd",
+      "map_bkgImageUrl": "/public/map/Rotten/nx/Rotten_map_bkg.tga.ckd/60d1ab9fe6805f9833469e81c9d2a259.ckd",
+      "expandCoachImageUrl": "/public/map/Rotten/nx/Rotten_Cover_AlbumCoach.tga.ckd/740fbfce759ac1a58ab4e10e44ec3b0c.ckd",
+      "cover_smallImageUrl": "/public/map/Rotten/nx/Rotten_Cover_Online.tga.ckd/bd56f48888d4d4d2395c5874c7a8dafe.ckd",
+      "coach1ImageUrl": "/public/map/Rotten/nx/Rotten_Coach_1.tga.ckd/3339630eebc52484a74c8cb64475c40a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Rotten/pc/Rotten_banner_bkg.tga.ckd/92a1c8c38477ac8cac9875f292958ae7.ckd",
+      "map_bkgImageUrl": "/public/map/Rotten/pc/Rotten_map_bkg.tga.ckd/be5a3f5067253289d9aa47f0e215f0eb.ckd",
+      "expandCoachImageUrl": "/public/map/Rotten/pc/Rotten_Cover_AlbumCoach.tga.ckd/e1f206a6d515539b487e02849cae4ae1.ckd",
+      "cover_smallImageUrl": "/public/map/Rotten/pc/Rotten_Cover_Online.tga.ckd/f4275f5d05133ffc336c90b6e84f7bf4.ckd",
+      "coach1ImageUrl": "/public/map/Rotten/pc/Rotten_Coach_1.tga.ckd/baf209fe6ac4703e0cd3a2b7d4c7322e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Rotten/orbis/Rotten_banner_bkg.tga.ckd/92a1c8c38477ac8cac9875f292958ae7.ckd",
+      "map_bkgImageUrl": "/public/map/Rotten/orbis/Rotten_map_bkg.tga.ckd/be5a3f5067253289d9aa47f0e215f0eb.ckd",
+      "expandCoachImageUrl": "/public/map/Rotten/orbis/Rotten_Cover_AlbumCoach.tga.ckd/e1f206a6d515539b487e02849cae4ae1.ckd",
+      "cover_smallImageUrl": "/public/map/Rotten/orbis/Rotten_Cover_Online.tga.ckd/f4275f5d05133ffc336c90b6e84f7bf4.ckd",
+      "coach1ImageUrl": "/public/map/Rotten/orbis/Rotten_Coach_1.tga.ckd/baf209fe6ac4703e0cd3a2b7d4c7322e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Rotten/Rotten_Coach_1_Phone.png/0197bd7819a0ca6364e50f7e6911bbc2.png",
+    "phoneCoverImageUrl": "/public/map/Rotten/Rotten_Cover_Phone.jpg/c694e69790035855c8400fc163746ec8.jpg",
+    "cover640ImageUrl": "/public/map/Rotten/Rotten_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Rotten/Rotten.ogg": "/private/map/Rotten/Rotten.ogg/58bffd0f830650fd36d8d464832e0154.ogg",
+    "jmcs://jd-contents/Rotten/Rotten_AudioPreview.ogg": "/public/map/Rotten/Rotten_AudioPreview.ogg/a13604deda55b6c30df73b3d79ed7329.ogg",
+    "jmcs://jd-contents/Rotten/Rotten_HIGH.webm": "/private/map/Rotten/Rotten_HIGH.webm/970249137c5a55f35427035305166b02.webm",
+    "jmcs://jd-contents/Rotten/Rotten_LOW.webm": "/private/map/Rotten/Rotten_LOW.webm/c7f70bd350c020b864cb374108dc2124.webm",
+    "jmcs://jd-contents/Rotten/Rotten_MID.webm": "/private/map/Rotten/Rotten_MID.webm/3ab0f4999342f1079a231976ba9827f9.webm",
+    "jmcs://jd-contents/Rotten/Rotten_ULTRA.webm": "/private/map/Rotten/Rotten_ULTRA.webm/e8d1587388ce1998807c29a249eb8a07.webm",
+    "jmcs://jd-contents/Rotten/Rotten_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Rotten/Rotten_MapPreviewNoSoundCrop_LOW.vp8.webm/ac42c87e5b516193c812dfc0eca42e96.webm",
+    "jmcs://jd-contents/Rotten/Rotten_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Rotten/Rotten_MapPreviewNoSoundCrop_MID.vp8.webm/4a0fcb3a335980fdf62978c45addf68e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"505182\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rotten/Rotten_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1498321\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rotten/Rotten_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 167.033688
+}

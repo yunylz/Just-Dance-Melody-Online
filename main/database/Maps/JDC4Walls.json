@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "cee98b90ae0893b65907c4705fbad5c1",
+      "storageType": 0,
+      "url": "/public/map/JDC4Walls/nx/JDC4Walls_MAIN_SCENE_NX.zip/cee98b90ae0893b65907c4705fbad5c1.zip"
+    },
+    "pc": {
+      "md5": "b43528b5a70a9b547f48c19fc8468246",
+      "storageType": 0,
+      "url": "/public/map/JDC4Walls/pc/JDC4Walls_MAIN_SCENE_PC.zip/b43528b5a70a9b547f48c19fc8468246.zip"
+    },
+    "ps4": {
+      "md5": "4ae18fa342acc1541500be43dcca1887",
+      "storageType": 0,
+      "url": "/public/map/JDC4Walls/orbis/JDC4Walls_MAIN_SCENE_ORBIS.zip/4ae18fa342acc1541500be43dcca1887.zip"
+    }
+  },
+  "data": {
+    "mapName": "JDC4Walls",
+    "title": "4 Walls",
+    "originalJDVersion": 1100,
+    "tags": [
+      "main",
+      "JustDanceAsia"
+    ],
+    "artist": "f(x)",
+    "credits": "Written by Greg Bonnick, Hayden Chapman, Tay Jasper, Seu Lan Lee and Adrian McKinnon. Published by Warner Chappell Music, Inc., Sony/ATV Music Publishing LLC. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#fd38e6",
+    "songColor2A": "#20f2ef",
+    "songColor1B": "#171288",
+    "songColor2B": "#1741ae",
+    "lyricsColor": "#13e195"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22847,
+        45695,
+        68591,
+        91439,
+        114287,
+        137135,
+        159983,
+        182879,
+        205727,
+        228575,
+        251423,
+        274271,
+        297119,
+        320015,
+        342863,
+        365711,
+        388559,
+        411407,
+        434303,
+        457151,
+        479999,
+        502847,
+        525695,
+        548591,
+        571439,
+        594287,
+        617135,
+        639983,
+        662879,
+        685727,
+        708575,
+        731423,
+        754271,
+        777119,
+        800015,
+        822863,
+        845711,
+        868559,
+        891407,
+        914303,
+        937151,
+        959999,
+        982847,
+        1005695,
+        1028591,
+        1051439,
+        1074287,
+        1097135,
+        1119983,
+        1142879,
+        1165727,
+        1188575,
+        1211423,
+        1234271,
+        1257119,
+        1280015,
+        1302863,
+        1325711,
+        1348559,
+        1371407,
+        1394303,
+        1417151,
+        1439999,
+        1462847,
+        1485695
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 431,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JDC4Walls/JDC4Walls_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JDC4Walls/nx/JDC4Walls_banner_bkg.tga.ckd/bb4eaf0d21b5d91dde4c2b23ee70e8cb.ckd",
+      "map_bkgImageUrl": "/public/map/JDC4Walls/nx/JDC4Walls_map_bkg.tga.ckd/2e2b4c52573f58642050b7c60fc07d60.ckd",
+      "expandCoachImageUrl": "/public/map/JDC4Walls/nx/JDC4Walls_Cover_AlbumCoach.tga.ckd/9a134f2226cc198251b6904390f4cb37.ckd",
+      "cover_smallImageUrl": "/public/map/JDC4Walls/nx/JDC4Walls_Cover_Online.tga.ckd/2899cd2c75f4e227cee0f4b40b3646d2.ckd",
+      "coverImageUrl": "/public/map/JDC4Walls/nx/JDC4Walls_Cover_Generic.tga.ckd/5ff510ee0b73d0d73e441bbd3c1dfe06.ckd",
+      "coach1ImageUrl": "/public/map/JDC4Walls/nx/JDC4Walls_Coach_1.tga.ckd/cb1334708c52f4467546cca4d9210ced.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JDC4Walls/pc/JDC4Walls_banner_bkg.tga.ckd/27d2b8224b5e1a7605094c855e45ddd1.ckd",
+      "map_bkgImageUrl": "/public/map/JDC4Walls/pc/JDC4Walls_map_bkg.tga.ckd/5daab4c535c8c4d85f7668d7c0c6c432.ckd",
+      "expandCoachImageUrl": "/public/map/JDC4Walls/pc/JDC4Walls_Cover_AlbumCoach.tga.ckd/7ff2954cd5443f609eb49de3efe59e06.ckd",
+      "cover_smallImageUrl": "/public/map/JDC4Walls/pc/JDC4Walls_Cover_Online.tga.ckd/9ac6f58e2b9bed94865d5303abdfa1b6.ckd",
+      "coverImageUrl": "/public/map/JDC4Walls/pc/JDC4Walls_Cover_Generic.tga.ckd/e8c7a71d5facb5a06bc36175d8e0a95a.ckd",
+      "coach1ImageUrl": "/public/map/JDC4Walls/pc/JDC4Walls_Coach_1.tga.ckd/2f116c6d99a125e10c0af657d7535c00.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JDC4Walls/orbis/JDC4Walls_banner_bkg.tga.ckd/27d2b8224b5e1a7605094c855e45ddd1.ckd",
+      "map_bkgImageUrl": "/public/map/JDC4Walls/orbis/JDC4Walls_map_bkg.tga.ckd/5daab4c535c8c4d85f7668d7c0c6c432.ckd",
+      "expandCoachImageUrl": "/public/map/JDC4Walls/orbis/JDC4Walls_Cover_AlbumCoach.tga.ckd/7ff2954cd5443f609eb49de3efe59e06.ckd",
+      "cover_smallImageUrl": "/public/map/JDC4Walls/orbis/JDC4Walls_Cover_Online.tga.ckd/9ac6f58e2b9bed94865d5303abdfa1b6.ckd",
+      "coverImageUrl": "/public/map/JDC4Walls/orbis/JDC4Walls_Cover_Generic.tga.ckd/e8c7a71d5facb5a06bc36175d8e0a95a.ckd",
+      "coach1ImageUrl": "/public/map/JDC4Walls/orbis/JDC4Walls_Coach_1.tga.ckd/2f116c6d99a125e10c0af657d7535c00.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JDC4Walls/JDC4Walls_Coach_1_Phone.png/c9adc9516d0b414348c6a342b15d14da.png",
+    "phoneCoverImageUrl": "/public/map/JDC4Walls/JDC4Walls_Cover_Phone.jpg/986c462ac8a3c1278fbfac11e7288f6f.jpg",
+    "cover640ImageUrl": "/public/map/JDC4Walls/JDC4Walls_Cover_640.png/cedd5e402ae4bf1495aaf54ae27a9366.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JDC4Walls/JDC4Walls.ogg": "/private/map/JDC4Walls/JDC4Walls.ogg/da8f1b9b7eca47939e59e18e41ab6a74.ogg",
+    "jmcs://jd-contents/JDC4Walls/JDC4Walls_AudioPreview.ogg": "/public/map/JDC4Walls/JDC4Walls_AudioPreview.ogg/ad0356ab308cb80d6d89d92163c46393.ogg",
+    "jmcs://jd-contents/JDC4Walls/JDC4Walls_HIGH.webm": "/private/map/JDC4Walls/JDC4Walls_HIGH.webm/aee9f82d67c08ecfe80b007693e8ce70.webm",
+    "jmcs://jd-contents/JDC4Walls/JDC4Walls_LOW.webm": "/private/map/JDC4Walls/JDC4Walls_LOW.webm/c564c9f73aa13cc6115b486526a7e4dc.webm",
+    "jmcs://jd-contents/JDC4Walls/JDC4Walls_MID.webm": "/private/map/JDC4Walls/JDC4Walls_MID.webm/90763429ebede39876363aadec44111f.webm",
+    "jmcs://jd-contents/JDC4Walls/JDC4Walls_ULTRA.hd.webm": "/private/map/JDC4Walls/JDC4Walls_ULTRA.hd.webm/04da730898738470c1a058c17f0de95a.webm",
+    "jmcs://jd-contents/JDC4Walls/JDC4Walls_ULTRA.webm": "/private/map/JDC4Walls/JDC4Walls_ULTRA.webm/64537e23b9f12f4701207a341bdb4d2b.webm",
+    "jmcs://jd-contents/JDC4Walls/JDC4Walls_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JDC4Walls/JDC4Walls_MapPreviewNoSoundCrop_LOW.vp8.webm/a0918a663be6ed0dab64433578866add.webm",
+    "jmcs://jd-contents/JDC4Walls/JDC4Walls_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JDC4Walls/JDC4Walls_MapPreviewNoSoundCrop_MID.vp8.webm/3a76202a14b1bd8e78b0b7195706a96f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"515557\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDC4Walls/JDC4Walls_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"597-1086\">\n\t\t\t\t\t<Initialization range=\"0-597\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1474908\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDC4Walls/JDC4Walls_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\n\t\t\t\t\t<Initialization range=\"0-598\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 218.464667
+}

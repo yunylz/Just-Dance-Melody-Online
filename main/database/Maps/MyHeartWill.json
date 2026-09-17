@@ -1,0 +1,183 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MyHeartWill/MyHeartWill_AudioPreview.ogg": "/public/map/MyHeartWill/MyHeartWill_AudioPreview.ogg/8344447a45ee90d90bb334551f529d18.ogg",
+    "jmcs://jd-contents/MyHeartWill/MyHeartWill.ogg": "/private/map/MyHeartWill/MyHeartWill.ogg/7c007b9a8c68290a5b55f2533b586483.ogg",
+    "jmcs://jd-contents/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_LOW.vp8.webm/55458607eb3639df424a8faa7536b716.webm",
+    "jmcs://jd-contents/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_MID.vp8.webm/670cb44f2aceb6d68a045c21e7b2e692.webm",
+    "jmcs://jd-contents/MyHeartWill/MyHeartWill_ULTRA.hd.webm": "/private/map/MyHeartWill/MyHeartWill_ULTRA.hd.webm/ef5de1a797f8192ab47fae05dfbb90b2.webm",
+    "jmcs://jd-contents/MyHeartWill/MyHeartWill_HIGH.hd.webm": "/private/map/MyHeartWill/MyHeartWill_HIGH.hd.webm/f43e9513c337b056186e1053d074aaa9.webm",
+    "jmcs://jd-contents/MyHeartWill/MyHeartWill_MID.hd.webm": "/private/map/MyHeartWill/MyHeartWill_MID.hd.webm/2660f1d403ed5bc9c522fc4cafde7ba3.webm",
+    "jmcs://jd-contents/MyHeartWill/MyHeartWill_LOW.hd.webm": "/private/map/MyHeartWill/MyHeartWill_LOW.hd.webm/e93487780b190ba6f4f9996d6b448235.webm",
+    "jmcs://jd-contents/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_HIGH.vp8.webm/3a42adf62723a7a576a1462be68712c8.webm",
+    "jmcs://jd-contents/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_ULTRA.vp8.webm/fc918b7b437af8be6451ff45da852535.webm"
+  },
+  "mapLength": 283.712671875,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29112,
+        58332,
+        87553,
+        116774,
+        145995,
+        175216,
+        204436,
+        233657,
+        261560,
+        290672,
+        319784,
+        348896,
+        378008,
+        406808,
+        435608,
+        464408,
+        493208,
+        522478,
+        551749,
+        581019,
+        610290,
+        639560,
+        668830,
+        698101,
+        727371,
+        756326,
+        785282,
+        814237,
+        843192,
+        872147,
+        901102,
+        930057,
+        959979,
+        988934,
+        1017889,
+        1046845,
+        1075800,
+        1104755,
+        1133710,
+        1162665,
+        1191777,
+        1220889,
+        1250001,
+        1279113,
+        1308225,
+        1337336,
+        1366448,
+        1395560,
+        1424672
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 464,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/MyHeartWill/MyHeartWill_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"647104\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"800-1290\">\n\t\t\t\t\t<Initialization range=\"0-800\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1486889\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"800-1290\">\n\t\t\t\t\t<Initialization range=\"0-800\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2813837\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"800-1290\">\n\t\t\t\t\t<Initialization range=\"0-800\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"2966599\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MyHeartWill/MyHeartWill_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"800-1290\">\n\t\t\t\t\t<Initialization range=\"0-800\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "7ea2c9d0d22025bb91dcf92e5811fd8e",
+      "storageType": 0,
+      "url": "/public/map/MyHeartWill/pc/MyHeartWill_MAIN_SCENE_PC.zip/7ea2c9d0d22025bb91dcf92e5811fd8e.zip"
+    },
+    "ps4": {
+      "md5": "4080361e87ed23a822e1d13ddb5e0fcb",
+      "storageType": 0,
+      "url": "/public/map/MyHeartWill/orbis/MyHeartWill_MAIN_SCENE_ORBIS.zip/4080361e87ed23a822e1d13ddb5e0fcb.zip"
+    },
+    "wiiu": {
+      "md5": "64bcd6a9989f8226ab0a1286f6560b4a",
+      "storageType": 0,
+      "url": "/public/map/MyHeartWill/wiiu/MyHeartWill_MAIN_SCENE_WIIU.zip/64bcd6a9989f8226ab0a1286f6560b4a.zip"
+    },
+    "nx": {
+      "md5": "7243aff60c7f3ba6e09294fc17c25972",
+      "storageType": 0,
+      "url": "/public/map/MyHeartWill/nx/MyHeartWill_MAIN_SCENE_NX.zip/7243aff60c7f3ba6e09294fc17c25972.zip"
+    }
+  },
+  "data": {
+    "mapName": "MyHeartWill",
+    "title": "My Heart Will Go On",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Céline Dion",
+    "credits": "Written by James Horner, Will Jennings. Published by Sony ATV Harmony / T.C.F. Music Publishing, Inc., Irving Music, Inc. obo Blue Sky Rider Songs, Fox Film Music Corp. / Universal Music Publishing Canada on behalf of Blue Sky Rider Songs. Courtesy of SME Canada. By arrangement with Sony Music Entertainment.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#F684F6",
+    "songColor2A": "#436FEF",
+    "songColor1B": "#5C0534",
+    "songColor2B": "#17044D",
+    "lyricsColor": "#4D5AFF",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/MyHeartWill/pc/MyHeartWill_Cover_Online.tga.ckd/df1ebf6157f485459196dfff57f8e5c8.ckd",
+      "coverImageUrl": "/public/map/MyHeartWill/pc/MyHeartWill_Cover_Generic.tga.ckd/9b3c2d2025d41eb0c8ba0f2d512afe8e.ckd",
+      "expandCoachImageUrl": "/public/map/MyHeartWill/pc/MyHeartWill_Cover_AlbumCoach.tga.ckd/4e646b29042b09e3d8fa8dc52321d938.ckd",
+      "map_bkgImageUrl": "/public/map/MyHeartWill/pc/MyHeartWill_map_bkg.tga.ckd/370b05bba826aaa8df50c010495f993e.ckd",
+      "banner_bkgImageUrl": "/public/map/MyHeartWill/pc/MyHeartWill_banner_bkg.tga.ckd/0cb27011747584992aceaf0d526ceefb.ckd",
+      "coach1ImageUrl": "/public/map/MyHeartWill/pc/MyHeartWill_Coach_1.tga.ckd/5dfddf4cc47f12308596bd7cd58dbd33.ckd",
+      "coach2ImageUrl": "/public/map/MyHeartWill/pc/MyHeartWill_Coach_2.tga.ckd/4132ae80090f7ac45f882d090c688f95.ckd",
+      "phoneCoverImageUrl": "/public/map/MyHeartWill/MyHeartWill_Cover_Phone.jpg/392d4de12fc6373c4cad89f190adbf78.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MyHeartWill/MyHeartWill_Coach_1_Phone.png/ae882e5909be5cc9dff2841131e54d66.png",
+      "phoneCoach2ImageUrl": "/public/map/MyHeartWill/MyHeartWill_Coach_2_Phone.png/de990829a6f928897cdec8be6b24b38f.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/MyHeartWill/orbis/MyHeartWill_Cover_Online.tga.ckd/df1ebf6157f485459196dfff57f8e5c8.ckd",
+      "coverImageUrl": "/public/map/MyHeartWill/orbis/MyHeartWill_Cover_Generic.tga.ckd/9b3c2d2025d41eb0c8ba0f2d512afe8e.ckd",
+      "expandCoachImageUrl": "/public/map/MyHeartWill/orbis/MyHeartWill_Cover_AlbumCoach.tga.ckd/4e646b29042b09e3d8fa8dc52321d938.ckd",
+      "map_bkgImageUrl": "/public/map/MyHeartWill/orbis/MyHeartWill_map_bkg.tga.ckd/370b05bba826aaa8df50c010495f993e.ckd",
+      "banner_bkgImageUrl": "/public/map/MyHeartWill/orbis/MyHeartWill_banner_bkg.tga.ckd/0cb27011747584992aceaf0d526ceefb.ckd",
+      "coach1ImageUrl": "/public/map/MyHeartWill/orbis/MyHeartWill_Coach_1.tga.ckd/5dfddf4cc47f12308596bd7cd58dbd33.ckd",
+      "coach2ImageUrl": "/public/map/MyHeartWill/orbis/MyHeartWill_Coach_2.tga.ckd/4132ae80090f7ac45f882d090c688f95.ckd",
+      "phoneCoverImageUrl": "/public/map/MyHeartWill/MyHeartWill_Cover_Phone.jpg/392d4de12fc6373c4cad89f190adbf78.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MyHeartWill/MyHeartWill_Coach_1_Phone.png/ae882e5909be5cc9dff2841131e54d66.png",
+      "phoneCoach2ImageUrl": "/public/map/MyHeartWill/MyHeartWill_Coach_2_Phone.png/de990829a6f928897cdec8be6b24b38f.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/MyHeartWill/wiiu/MyHeartWill_Cover_Online.tga.ckd/cb7689c09cf2fbd3c0ec0c1c17ac167a.ckd",
+      "coverImageUrl": "/public/map/MyHeartWill/wiiu/MyHeartWill_Cover_Generic.tga.ckd/8647e830b4fcb59f1b1dcf5ac37fdd71.ckd",
+      "expandCoachImageUrl": "/public/map/MyHeartWill/wiiu/MyHeartWill_Cover_AlbumCoach.tga.ckd/b6ca562edd6f445ca8b6d50e2d2cec0c.ckd",
+      "map_bkgImageUrl": "/public/map/MyHeartWill/wiiu/MyHeartWill_map_bkg.tga.ckd/0e8861d3a20fcbe6cd564ab15e38306a.ckd",
+      "banner_bkgImageUrl": "/public/map/MyHeartWill/wiiu/MyHeartWill_banner_bkg.tga.ckd/147b8f0b666b36885f2bae3676fe20ce.ckd",
+      "coach1ImageUrl": "/public/map/MyHeartWill/wiiu/MyHeartWill_Coach_1.tga.ckd/eae7b788f8b7247762d53a157f22e25f.ckd",
+      "coach2ImageUrl": "/public/map/MyHeartWill/wiiu/MyHeartWill_Coach_2.tga.ckd/1e447e5fbb2af1565c2347a93bd7d4c6.ckd",
+      "phoneCoverImageUrl": "/public/map/MyHeartWill/MyHeartWill_Cover_Phone.jpg/392d4de12fc6373c4cad89f190adbf78.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MyHeartWill/MyHeartWill_Coach_1_Phone.png/ae882e5909be5cc9dff2841131e54d66.png",
+      "phoneCoach2ImageUrl": "/public/map/MyHeartWill/MyHeartWill_Coach_2_Phone.png/de990829a6f928897cdec8be6b24b38f.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/MyHeartWill/nx/MyHeartWill_Cover_Online.tga.ckd/e27c1f85df031b4bd94bac71d24e3cb8.ckd",
+      "coverImageUrl": "/public/map/MyHeartWill/nx/MyHeartWill_Cover_Generic.tga.ckd/543a73c249611226a3c5006dbb3bb054.ckd",
+      "expandCoachImageUrl": "/public/map/MyHeartWill/nx/MyHeartWill_Cover_AlbumCoach.tga.ckd/63c05cfea63573a390dc0f31af6274fe.ckd",
+      "map_bkgImageUrl": "/public/map/MyHeartWill/nx/MyHeartWill_map_bkg.tga.ckd/90d921430fa10c6f8067cb378db2ea79.ckd",
+      "banner_bkgImageUrl": "/public/map/MyHeartWill/nx/MyHeartWill_banner_bkg.tga.ckd/72bbbd2f6086a7ef477a56548cd0dd04.ckd",
+      "coach1ImageUrl": "/public/map/MyHeartWill/nx/MyHeartWill_Coach_1.tga.ckd/7c6ee60103affa1c7b26b75b8baf862f.ckd",
+      "coach2ImageUrl": "/public/map/MyHeartWill/nx/MyHeartWill_Coach_2.tga.ckd/4857bb011f176c2f4491e3c761440849.ckd",
+      "phoneCoverImageUrl": "/public/map/MyHeartWill/MyHeartWill_Cover_Phone.jpg/392d4de12fc6373c4cad89f190adbf78.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MyHeartWill/MyHeartWill_Coach_1_Phone.png/ae882e5909be5cc9dff2841131e54d66.png",
+      "phoneCoach2ImageUrl": "/public/map/MyHeartWill/MyHeartWill_Coach_2_Phone.png/de990829a6f928897cdec8be6b24b38f.png"
+    },
+    "cover640ImageUrl": "/public/map/MyHeartWill/MyHeartWill_Cover_640.png/c90b9785ffdd0d6600587d4816bcb27e.png"
+  }
+}

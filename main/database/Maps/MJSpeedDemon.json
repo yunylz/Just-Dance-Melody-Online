@@ -1,0 +1,177 @@
+{
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"643902\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"796-1286\">\n\t\t\t\t\t<Initialization range=\"0-796\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1462124\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"796-1286\">\n\t\t\t\t\t<Initialization range=\"0-796\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"1614061\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"796-1286\">\n\t\t\t\t\t<Initialization range=\"0-796\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"1614463\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"796-1286\">\n\t\t\t\t\t<Initialization range=\"0-796\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "urls": {
+    "jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_LOW.vp8.webm/b8f49c610e57d13b389b9444b9b6a398.webm",
+    "jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_MID.vp8.webm/4634eaf1df1003c7ea2ff7780341a6eb.webm",
+    "jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_HIGH.vp8.webm/9c7160b647935e634bbd8beb12c6a5a2.webm",
+    "jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/MJSpeedDemon/MJSpeedDemon_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6043cbcb7d449b10baeae220b1c0720a.webm",
+    "jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_ULTRA.hd.webm": "/private/map/MJSpeedDemon/MJSpeedDemon_ULTRA.hd.webm/9b6ef34ab6067e78867474d281051ab2.webm",
+    "jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_HIGH.hd.webm": "/private/map/MJSpeedDemon/MJSpeedDemon_HIGH.hd.webm/6e1ca28dd4723fe4d062c1f8d729359b.webm",
+    "jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_MID.hd.webm": "/private/map/MJSpeedDemon/MJSpeedDemon_MID.hd.webm/8d989e0ddd08b9d4b7931abbbcfc9c80.webm",
+    "jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_LOW.hd.webm": "/private/map/MJSpeedDemon/MJSpeedDemon_LOW.hd.webm/c10e62b1f1dcad2080e44b45e5d78c79.webm",
+    "jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon_AudioPreview.ogg": "/public/map/MJSpeedDemon/MJSpeedDemon_AudioPreview.ogg/53d0820ed580b4a5998cddaeb594b198.ogg",
+    "jmcs://jd-contents/MJSpeedDemon/MJSpeedDemon.ogg": "/private/map/MJSpeedDemon/MJSpeedDemon.ogg/2346673c5852438918683b07dc2466c7.ogg"
+  },
+  "mapLength": 243.26799479166667,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29116,
+        58234,
+        87349,
+        116467,
+        145583,
+        174700,
+        203816,
+        232934,
+        262050,
+        291167,
+        320283,
+        349401,
+        378517,
+        407634,
+        436750,
+        465868,
+        494984,
+        524101,
+        553217,
+        582335,
+        611450,
+        640568,
+        669684,
+        698802,
+        727917,
+        757035,
+        786151,
+        815269,
+        844384,
+        873502,
+        902618,
+        931735,
+        960851,
+        989969,
+        1019085,
+        1048203,
+        1077318,
+        1106436,
+        1135552,
+        1164669,
+        1193785,
+        1222903,
+        1252018,
+        1281136,
+        1310252,
+        1339370,
+        1368486,
+        1397603,
+        1426719
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 400,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "url": "jmcs://jd-contents/mjspeeddemon/mjspeeddemon_AudioPreview.ogg",
+    "path": ""
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/MJSpeedDemon/pc/MJSpeedDemon_Cover_Online.tga.ckd/9a8d0624dea571b8a9b5655823f430c9.ckd",
+      "coverImageUrl": "/public/map/MJSpeedDemon/pc/MJSpeedDemon_Cover_Generic.tga.ckd/0898c621a306140a0d088de6a811fb77.ckd",
+      "expandCoachImageUrl": "/public/map/MJSpeedDemon/pc/MJSpeedDemon_Cover_AlbumCoach.tga.ckd/8d7dda4b54a55d62d1581df3251144cc.ckd",
+      "map_bkgImageUrl": "/public/map/MJSpeedDemon/pc/MJSpeedDemon_map_bkg.tga.ckd/ebfb17dc78296f4f9920cc1f59fdb6b9.ckd",
+      "banner_bkgImageUrl": "/public/map/MJSpeedDemon/pc/MJSpeedDemon_banner_bkg.tga.ckd/46b165d3f0bcc1174ae276ec2df41968.ckd",
+      "coach1ImageUrl": "/public/map/MJSpeedDemon/pc/MJSpeedDemon_Coach_1.tga.ckd/81e406d4a1582c27dc68f10c089ed89c.ckd",
+      "coach2ImageUrl": "/public/map/MJSpeedDemon/pc/MJSpeedDemon_Coach_2.tga.ckd/ca712e0efb6006505b3a42f710c6a937.ckd",
+      "phoneCoverImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Cover_Phone.jpg/15ba8dda520957d888b386b1eeb2b03f.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Coach_1_Phone.png/9fd1c154b7f86f251e15cab744d864e2.png",
+      "phoneCoach2ImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Coach_2_Phone.png/b553f1d6b9d3b6d5ab0d21bf63609562.png",
+      "cover640ImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Cover_640.png/a7e67b3b381d6cafc6e8ff4ab6faa469.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/MJSpeedDemon/orbis/MJSpeedDemon_Cover_Online.tga.ckd/9a8d0624dea571b8a9b5655823f430c9.ckd",
+      "coverImageUrl": "/public/map/MJSpeedDemon/orbis/MJSpeedDemon_Cover_Generic.tga.ckd/0898c621a306140a0d088de6a811fb77.ckd",
+      "expandCoachImageUrl": "/public/map/MJSpeedDemon/orbis/MJSpeedDemon_Cover_AlbumCoach.tga.ckd/24504ba5cd90bc61533aa0c82ec3cd21.ckd",
+      "map_bkgImageUrl": "/public/map/MJSpeedDemon/orbis/MJSpeedDemon_map_bkg.tga.ckd/ebfb17dc78296f4f9920cc1f59fdb6b9.ckd",
+      "banner_bkgImageUrl": "/public/map/MJSpeedDemon/orbis/MJSpeedDemon_banner_bkg.tga.ckd/46b165d3f0bcc1174ae276ec2df41968.ckd",
+      "coach1ImageUrl": "/public/map/MJSpeedDemon/orbis/MJSpeedDemon_Coach_1.tga.ckd/3d10ac551cbdebf15602ff0da17afca2.ckd",
+      "coach2ImageUrl": "/public/map/MJSpeedDemon/orbis/MJSpeedDemon_Coach_2.tga.ckd/7aaacfd3fc172f55ce613c7c1b3358eb.ckd",
+      "phoneCoverImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Cover_Phone.jpg/15ba8dda520957d888b386b1eeb2b03f.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Coach_1_Phone.png/9fd1c154b7f86f251e15cab744d864e2.png",
+      "phoneCoach2ImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Coach_2_Phone.png/b553f1d6b9d3b6d5ab0d21bf63609562.png",
+      "cover640ImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Cover_640.png/a7e67b3b381d6cafc6e8ff4ab6faa469.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/MJSpeedDemon/nx/MJSpeedDemon_Cover_Online.tga.ckd/7dcfb3cc87fff641f43852c89940cff5.ckd",
+      "coverImageUrl": "/public/map/MJSpeedDemon/nx/MJSpeedDemon_Cover_Generic.tga.ckd/ae50b89a6f112144658eecdf4fb1f225.ckd",
+      "expandCoachImageUrl": "/public/map/MJSpeedDemon/nx/MJSpeedDemon_Cover_AlbumCoach.tga.ckd/b22f05fcb3cf6b32c22498f9883974a2.ckd",
+      "map_bkgImageUrl": "/public/map/MJSpeedDemon/nx/MJSpeedDemon_map_bkg.tga.ckd/3c6afcfa93544160ae3ac28a1c5c31a4.ckd",
+      "banner_bkgImageUrl": "/public/map/MJSpeedDemon/nx/MJSpeedDemon_banner_bkg.tga.ckd/c92cc632d3161d1be7c1359a25cbbc1b.ckd",
+      "coach1ImageUrl": "/public/map/MJSpeedDemon/nx/MJSpeedDemon_Coach_1.tga.ckd/538573b2baffca2b47d22506e967a0fc.ckd",
+      "coach2ImageUrl": "/public/map/MJSpeedDemon/nx/MJSpeedDemon_Coach_2.tga.ckd/e5f4318b2931216399e14b714f9b16c6.ckd",
+      "phoneCoverImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Cover_Phone.jpg/15ba8dda520957d888b386b1eeb2b03f.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Coach_1_Phone.png/9fd1c154b7f86f251e15cab744d864e2.png",
+      "phoneCoach2ImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Coach_2_Phone.png/b553f1d6b9d3b6d5ab0d21bf63609562.png",
+      "cover640ImageUrl": "/public/map/MJSpeedDemon/MJSpeedDemon_Cover_640.png/a7e67b3b381d6cafc6e8ff4ab6faa469.png"
+    }
+  },
+  "packages": {
+    "pc": {
+      "md5": "03f8b637e46b643e7c1cf9213efff1a0",
+      "storageType": 0,
+      "url": "/public/map/MJSpeedDemon/pc/MJSpeedDemon_MAIN_SCENE_PC.zip/03f8b637e46b643e7c1cf9213efff1a0.zip"
+    },
+    "ps4": {
+      "md5": "d98535242817c3d1d02760b608411e18",
+      "storageType": 0,
+      "url": "/public/map/MJSpeedDemon/orbis/MJSpeedDemon_MAIN_SCENE_ORBIS.zip/d98535242817c3d1d02760b608411e18.zip"
+    },
+    "nx": {
+      "md5": "8237fceaf20118d8c514abded5297342",
+      "storageType": 0,
+      "url": "/public/map/MJSpeedDemon/nx/MJSpeedDemon_MAIN_SCENE_NX.zip/8237fceaf20118d8c514abded5297342.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJSpeedDemon",
+    "title": "Speed Demon",
+    "originalJDVersion": 2009,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#daac99",
+    "songColor2A": "#8ad4ef",
+    "songColor1B": "#562b05",
+    "songColor2B": "#115090",
+    "lyricsColor": "#7C4C2E",
+    "LocaleID": 4294967295
+  }
+}

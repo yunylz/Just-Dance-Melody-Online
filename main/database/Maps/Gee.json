@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4ec513ee255c629b7dfb0b2ad28034c9",
+      "storageType": 0,
+      "url": "/public/map/Gee/nx/Gee_MAIN_SCENE_NX.zip/4ec513ee255c629b7dfb0b2ad28034c9.zip"
+    },
+    "pc": {
+      "md5": "963a8388272fe934b04a0ce3b70cd035",
+      "storageType": 0,
+      "url": "/public/map/Gee/pc/Gee_MAIN_SCENE_PC.zip/963a8388272fe934b04a0ce3b70cd035.zip"
+    },
+    "ps4": {
+      "md5": "501827ea4e16f4ae3197ec23380739e2",
+      "storageType": 0,
+      "url": "/public/map/Gee/orbis/Gee_MAIN_SCENE_ORBIS.zip/501827ea4e16f4ae3197ec23380739e2.zip"
+    }
+  },
+  "data": {
+    "mapName": "Gee",
+    "title": "Gee",
+    "originalJDVersion": 1000,
+    "tags": [
+      "subscribedSong",
+      "JustDanceAsia",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Girls Generation",
+    "credits": "<< to be filled >>",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#fb5ff2",
+    "songColor2A": "#41ffdd",
+    "songColor1B": "#3b2297",
+    "songColor2B": "#d147e1",
+    "lyricsColor": "#9ee701",
+    "LocaleID": 20003379
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 334,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Gee/Gee_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Gee/nx/Gee_banner_bkg.tga.ckd/817a15fd87c2230d908432f20bc86f1d.ckd",
+      "map_bkgImageUrl": "/public/map/Gee/nx/Gee_map_bkg.tga.ckd/94a8ae371c3177de0cdfd3814af42b8f.ckd",
+      "expandCoachImageUrl": "/public/map/Gee/nx/Gee_Cover_AlbumCoach.tga.ckd/e31dbd3089b9ac909ee5ca88956df152.ckd",
+      "cover_smallImageUrl": "/public/map/Gee/nx/Gee_Cover_Online.tga.ckd/f59641dd6f9781a9c7c8cfb792bf1cd0.ckd",
+      "coverImageUrl": "/public/map/Gee/nx/Gee_Cover_Generic.tga.ckd/8d355efeebb709a854dfeafc7ba2ce10.ckd",
+      "coach1ImageUrl": "/public/map/Gee/nx/Gee_Coach_1.tga.ckd/ca9daa5a81ba64a2e7421b40b92c6792.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Gee/pc/Gee_banner_bkg.tga.ckd/c5147f6d921870a360bd882ea1db0967.ckd",
+      "map_bkgImageUrl": "/public/map/Gee/pc/Gee_map_bkg.tga.ckd/66f01bbab482dc05a89e08c33829efcb.ckd",
+      "expandCoachImageUrl": "/public/map/Gee/pc/Gee_Cover_AlbumCoach.tga.ckd/56c209679ea8be6546f51fbdde73ef4c.ckd",
+      "cover_smallImageUrl": "/public/map/Gee/pc/Gee_Cover_Online.tga.ckd/541dfcca7ebf6a691a2553705aeb303b.ckd",
+      "coverImageUrl": "/public/map/Gee/pc/Gee_Cover_Generic.tga.ckd/43679f4c8c5b302321e288987c5cf3cb.ckd",
+      "coach1ImageUrl": "/public/map/Gee/pc/Gee_Coach_1.tga.ckd/cdcb83a8a3c8adb9b0a63d91896176d7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Gee/orbis/Gee_banner_bkg.tga.ckd/c5147f6d921870a360bd882ea1db0967.ckd",
+      "map_bkgImageUrl": "/public/map/Gee/orbis/Gee_map_bkg.tga.ckd/66f01bbab482dc05a89e08c33829efcb.ckd",
+      "expandCoachImageUrl": "/public/map/Gee/orbis/Gee_Cover_AlbumCoach.tga.ckd/56c209679ea8be6546f51fbdde73ef4c.ckd",
+      "cover_smallImageUrl": "/public/map/Gee/orbis/Gee_Cover_Online.tga.ckd/541dfcca7ebf6a691a2553705aeb303b.ckd",
+      "coverImageUrl": "/public/map/Gee/orbis/Gee_Cover_Generic.tga.ckd/43679f4c8c5b302321e288987c5cf3cb.ckd",
+      "coach1ImageUrl": "/public/map/Gee/orbis/Gee_Coach_1.tga.ckd/cdcb83a8a3c8adb9b0a63d91896176d7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Gee/Gee_Coach_1_Phone.png/cafdee11a88bfea30b723d173bd52799.png",
+    "phoneCoverImageUrl": "/public/map/Gee/Gee_Cover_Phone.jpg/ac98b6e48a2bdd1da388ba418155c724.jpg",
+    "cover640ImageUrl": "/public/map/Gee/Gee_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Gee/Gee.ogg": "/private/map/Gee/Gee.ogg/f5650b5a0aeb00c2a4d6ac335803caef.ogg",
+    "jmcs://jd-contents/Gee/Gee_AudioPreview.ogg": "/public/map/Gee/Gee_AudioPreview.ogg/e23a97fcfc1d7a7b3a359257e59b6996.ogg",
+    "jmcs://jd-contents/Gee/Gee_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Gee/Gee_MapPreviewNoSoundCrop_LOW.vp8.webm/a9a1a6ec3ac0a685693bb299977c973d.webm",
+    "jmcs://jd-contents/Gee/Gee_HIGH.webm": "/private/map/Gee/Gee_HIGH.webm/e895428710998acd88ebf95c0263cfc1.webm",
+    "jmcs://jd-contents/Gee/Gee_LOW.webm": "/private/map/Gee/Gee_LOW.webm/6ff9236011a7eed102c77c575f722d06.webm",
+    "jmcs://jd-contents/Gee/Gee_MID.webm": "/private/map/Gee/Gee_MID.webm/01b4bc66b4ae839fb3f0eb01dab0229c.webm",
+    "jmcs://jd-contents/Gee/Gee_ULTRA.hd.webm": "/private/map/Gee/Gee_ULTRA.hd.webm/3d6c234ff3b15e0435c95cafdaafe714.webm",
+    "jmcs://jd-contents/Gee/Gee_ULTRA.webm": "/private/map/Gee/Gee_ULTRA.webm/61049f0872758a0a17d49cb877c9fcd9.webm",
+    "jmcs://jd-contents/Gee/Gee_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Gee/Gee_MapPreviewNoSoundCrop_MID.vp8.webm/f8198946de836263f4a5c57a446acc91.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500801\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Gee/Gee_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1493618\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Gee/Gee_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 204.133333
+}

@@ -1,0 +1,175 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MysticalMagical/MysticalMagical.ogg": "/private/map/MysticalMagical/MysticalMagical.ogg/e62b286e0bbc0bba47b741dc33aa78ec.ogg",
+    "jmcs://jd-contents/MysticalMagical/MysticalMagical_AudioPreview.ogg": "/public/map/MysticalMagical/MysticalMagical_AudioPreview.ogg/c64305d62aeeabb7a6cad1d0c6557487.ogg",
+    "jmcs://jd-contents/MysticalMagical/MysticalMagical_HIGH.hd.webm": "/private/map/MysticalMagical/MysticalMagical_HIGH.hd.webm/158b793942ca597a4e7af00a25428416.webm",
+    "jmcs://jd-contents/MysticalMagical/MysticalMagical_LOW.hd.webm": "/private/map/MysticalMagical/MysticalMagical_LOW.hd.webm/a1c81a022c39191c5775bd3272e69967.webm",
+    "jmcs://jd-contents/MysticalMagical/MysticalMagical_MID.hd.webm": "/private/map/MysticalMagical/MysticalMagical_MID.hd.webm/2edb3655200133927cb31eb8653a00c4.webm",
+    "jmcs://jd-contents/MysticalMagical/MysticalMagical_ULTRA.hd.webm": "/private/map/MysticalMagical/MysticalMagical_ULTRA.hd.webm/feca3267d9f247051ed78893941e68d3.webm",
+    "jmcs://jd-contents/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_LOW.vp8.webm/b0ee67ba9042c75c6123ba80b217a50c.webm",
+    "jmcs://jd-contents/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_MID.vp8.webm/a1b8239108c083eb034a6afdadfa7457.webm",
+    "jmcs://jd-contents/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_HIGH.vp8.webm/77869e044c3aecd045b64bdd93aa7b0d.webm",
+    "jmcs://jd-contents/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_ULTRA.vp8.webm/06a28ea35a2e7d893e3200ece17debb6.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 339,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MysticalMagical/MysticalMagical_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"644997\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"804-1294\">\n\t\t\t\t\t<Initialization range=\"0-804\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1472465\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"804-1294\">\n\t\t\t\t\t<Initialization range=\"0-804\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2441061\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"804-1294\">\n\t\t\t\t\t<Initialization range=\"0-804\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"2735125\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MysticalMagical/MysticalMagical_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"804-1294\">\n\t\t\t\t\t<Initialization range=\"0-804\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "08990dc87f29b36f3da08772c230ee60",
+      "storageType": 0,
+      "url": "/public/map/MysticalMagical/nx/MysticalMagical_MAIN_SCENE_NX.zip/08990dc87f29b36f3da08772c230ee60.zip"
+    },
+    "pc": {
+      "md5": "9d0dd300c4f7917778273b7b0cba285d",
+      "storageType": 0,
+      "url": "/public/map/MysticalMagical/pc/MysticalMagical_MAIN_SCENE_PC.zip/9d0dd300c4f7917778273b7b0cba285d.zip"
+    },
+    "ps4": {
+      "md5": "3540deb2abdfd09d6ab4ebcaed9e7a9e",
+      "storageType": 0,
+      "url": "/public/map/MysticalMagical/orbis/MysticalMagical_MAIN_SCENE_ORBIS.zip/3540deb2abdfd09d6ab4ebcaed9e7a9e.zip"
+    }
+  },
+  "data": {
+    "mapName": "MysticalMagical",
+    "title": "Mystical Magical",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Benson Boone",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#A93A9B",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "cover_smallImageUrl": "/public/map/MysticalMagical/nx/MysticalMagical_Cover_Online.tga.ckd/736156357dc361b3edb47994a6bccae1.ckd",
+      "coverImageUrl": "/public/map/MysticalMagical/nx/MysticalMagical_Cover_Generic.tga.ckd/736156357dc361b3edb47994a6bccae1.ckd",
+      "expandCoachImageUrl": "/public/map/MysticalMagical/nx/MysticalMagical_Cover_AlbumCoach.tga.ckd/cdd7b5e87f97d698c421aef043d12a6a.ckd",
+      "map_bkgImageUrl": "/public/map/MysticalMagical/nx/MysticalMagical_map_bkg.tga.ckd/bce0f95f1e7da0c51f69de60f36ad0a4.ckd",
+      "banner_bkgImageUrl": "/public/map/MysticalMagical/nx/MysticalMagical_banner_bkg.tga.ckd/fde2403c9aaed6d68a5eaba38ef20fe1.ckd",
+      "coach1ImageUrl": "/public/map/MysticalMagical/nx/MysticalMagical_Coach_1.tga.ckd/31085a237505efdebdc001adbe6e3526.ckd",
+      "phoneCoverImageUrl": "/public/map/MysticalMagical/MysticalMagical_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MysticalMagical/MysticalMagical_Coach_1_Phone.png/c5e814da9a83a32a4f3335d9fe373a32.png",
+      "cover640ImageUrl": "/public/map/MysticalMagical/MysticalMagical_Cover_640.png/63a56cb78940356b20c2850198592d0e.png"
+    },
+    "pc": {
+      "cover_smallImageUrl": "/public/map/MysticalMagical/pc/MysticalMagical_Cover_Online.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "coverImageUrl": "/public/map/MysticalMagical/pc/MysticalMagical_Cover_Generic.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "expandCoachImageUrl": "/public/map/MysticalMagical/pc/MysticalMagical_Cover_AlbumCoach.tga.ckd/d61d0853e4735fa22c4335d211c92153.ckd",
+      "map_bkgImageUrl": "/public/map/MysticalMagical/pc/MysticalMagical_map_bkg.tga.ckd/d7106f083854b9bf01eae81d081c1435.ckd",
+      "banner_bkgImageUrl": "/public/map/MysticalMagical/pc/MysticalMagical_banner_bkg.tga.ckd/47b143f7dbd0862e2caa5cd3c5f53313.ckd",
+      "coach1ImageUrl": "/public/map/MysticalMagical/pc/MysticalMagical_Coach_1.tga.ckd/0fbd2f8b0e6dcafd3b5032fdeac25f30.ckd",
+      "phoneCoverImageUrl": "/public/map/MysticalMagical/MysticalMagical_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MysticalMagical/MysticalMagical_Coach_1_Phone.png/c5e814da9a83a32a4f3335d9fe373a32.png",
+      "cover640ImageUrl": "/public/map/MysticalMagical/MysticalMagical_Cover_640.png/63a56cb78940356b20c2850198592d0e.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/MysticalMagical/orbis/MysticalMagical_Cover_Online.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "coverImageUrl": "/public/map/MysticalMagical/orbis/MysticalMagical_Cover_Generic.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "expandCoachImageUrl": "/public/map/MysticalMagical/orbis/MysticalMagical_Cover_AlbumCoach.tga.ckd/d61d0853e4735fa22c4335d211c92153.ckd",
+      "map_bkgImageUrl": "/public/map/MysticalMagical/orbis/MysticalMagical_map_bkg.tga.ckd/d7106f083854b9bf01eae81d081c1435.ckd",
+      "banner_bkgImageUrl": "/public/map/MysticalMagical/orbis/MysticalMagical_banner_bkg.tga.ckd/47b143f7dbd0862e2caa5cd3c5f53313.ckd",
+      "coach1ImageUrl": "/public/map/MysticalMagical/orbis/MysticalMagical_Coach_1.tga.ckd/0fbd2f8b0e6dcafd3b5032fdeac25f30.ckd",
+      "phoneCoverImageUrl": "/public/map/MysticalMagical/MysticalMagical_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MysticalMagical/MysticalMagical_Coach_1_Phone.png/c5e814da9a83a32a4f3335d9fe373a32.png",
+      "cover640ImageUrl": "/public/map/MysticalMagical/MysticalMagical_Cover_640.png/63a56cb78940356b20c2850198592d0e.png"
+    },
+    "cover640ImageUrl": "/public/map/MysticalMagical/MysticalMagical_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 173.49994270833332
+}

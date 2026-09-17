@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "5435abd83ab60355c71eb3d1a1a4b44d",
+      "storageType": 0,
+      "url": "/public/map/DiscoInferno/nx/DiscoInferno_MAIN_SCENE_NX.zip/5435abd83ab60355c71eb3d1a1a4b44d.zip"
+    },
+    "pc": {
+      "md5": "78194680f7ea280a826db63261c610b2",
+      "storageType": 0,
+      "url": "/public/map/DiscoInferno/pc/DiscoInferno_MAIN_SCENE_PC.zip/78194680f7ea280a826db63261c610b2.zip"
+    },
+    "ps4": {
+      "md5": "d5c41ac33a576834387341be1c9db2ef",
+      "storageType": 0,
+      "url": "/public/map/DiscoInferno/orbis/DiscoInferno_MAIN_SCENE_ORBIS.zip/d5c41ac33a576834387341be1c9db2ef.zip"
+    }
+  },
+  "data": {
+    "mapName": "DiscoInferno",
+    "title": "Disco Inferno",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Trammps",
+    "credits": "Written by Tyrone Kersey, Leroy Green. Published by Reservoir 416 / Mercy Kersey Music (BMI). Courtesy of Atlantic Recording Corporation. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#e20a1a",
+    "songColor2A": "#d86908",
+    "songColor1B": "#280303",
+    "songColor2B": "#561b0b",
+    "lyricsColor": "#f1d302",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202500,
+        224826,
+        247151,
+        269477,
+        291802,
+        314128,
+        336453,
+        358779,
+        381105,
+        403430,
+        425756,
+        448081,
+        470407,
+        492733,
+        515058,
+        537384,
+        559709,
+        582035,
+        604360,
+        626686,
+        649012,
+        671337,
+        693663,
+        715988,
+        738314,
+        760640,
+        782965,
+        805291,
+        827616,
+        849942,
+        872267,
+        894593,
+        916919,
+        939244,
+        961570,
+        983895,
+        1006221,
+        1028547,
+        1050872,
+        1073198,
+        1095523,
+        1117849,
+        1140174,
+        1162500,
+        1184826,
+        1207151,
+        1229477,
+        1251802,
+        1274128,
+        1296453,
+        1318779,
+        1341105,
+        1363430,
+        1385756,
+        1408081,
+        1430407,
+        1452733,
+        1475058
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -30,
+      "endBeat": 424,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DiscoInferno/DiscoInferno_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DiscoInferno/nx/DiscoInferno_banner_bkg.tga.ckd/974e73204ccf18acca89b26f3405d37e.ckd",
+      "map_bkgImageUrl": "/public/map/DiscoInferno/nx/DiscoInferno_map_bkg.tga.ckd/efbd8fc2c3f15f5483d2dd5cb8443ac4.ckd",
+      "expandCoachImageUrl": "/public/map/DiscoInferno/nx/DiscoInferno_Cover_AlbumCoach.tga.ckd/76b90d75d604e5c71fa05e485971d8e6.ckd",
+      "cover_smallImageUrl": "/public/map/DiscoInferno/nx/DiscoInferno_Cover_Online.tga.ckd/3f4e70a1140e77c1b18a8638e290a649.ckd",
+      "coverImageUrl": "/public/map/DiscoInferno/nx/DiscoInferno_Cover_Generic.tga.ckd/9ee8de9c69be15e3a3ea6a381e7e3dcf.ckd",
+      "coach1ImageUrl": "/public/map/DiscoInferno/nx/DiscoInferno_Coach_1.tga.ckd/e4f1ace83693c05f2fff9411edfd9160.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DiscoInferno/pc/DiscoInferno_banner_bkg.tga.ckd/61243b5d6dcef37664f7cc04e10bea8d.ckd",
+      "map_bkgImageUrl": "/public/map/DiscoInferno/pc/DiscoInferno_map_bkg.tga.ckd/ee06e029b19c475ad535890c8197005c.ckd",
+      "expandCoachImageUrl": "/public/map/DiscoInferno/pc/DiscoInferno_Cover_AlbumCoach.tga.ckd/115a15d3930ef05cfa9187d86a08818b.ckd",
+      "cover_smallImageUrl": "/public/map/DiscoInferno/pc/DiscoInferno_Cover_Online.tga.ckd/54572b0ccccc3b3d3cea3dbf5a67a6e0.ckd",
+      "coverImageUrl": "/public/map/DiscoInferno/pc/DiscoInferno_Cover_Generic.tga.ckd/aa56d3f2e1fdaa97038d671fa58691a7.ckd",
+      "coach1ImageUrl": "/public/map/DiscoInferno/pc/DiscoInferno_Coach_1.tga.ckd/f943222d47ff226469b78a7f0e17de9a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DiscoInferno/orbis/DiscoInferno_banner_bkg.tga.ckd/61243b5d6dcef37664f7cc04e10bea8d.ckd",
+      "map_bkgImageUrl": "/public/map/DiscoInferno/orbis/DiscoInferno_map_bkg.tga.ckd/ee06e029b19c475ad535890c8197005c.ckd",
+      "expandCoachImageUrl": "/public/map/DiscoInferno/orbis/DiscoInferno_Cover_AlbumCoach.tga.ckd/115a15d3930ef05cfa9187d86a08818b.ckd",
+      "cover_smallImageUrl": "/public/map/DiscoInferno/orbis/DiscoInferno_Cover_Online.tga.ckd/54572b0ccccc3b3d3cea3dbf5a67a6e0.ckd",
+      "coverImageUrl": "/public/map/DiscoInferno/orbis/DiscoInferno_Cover_Generic.tga.ckd/aa56d3f2e1fdaa97038d671fa58691a7.ckd",
+      "coach1ImageUrl": "/public/map/DiscoInferno/orbis/DiscoInferno_Coach_1.tga.ckd/f943222d47ff226469b78a7f0e17de9a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DiscoInferno/DiscoInferno_Coach_1_Phone.png/39116a4efcd7404f752fc531dd939163.png",
+    "phoneCoverImageUrl": "/public/map/DiscoInferno/DiscoInferno_Cover_Phone.jpg/053d390b724d38b03c42d324381fabcf.jpg",
+    "cover640ImageUrl": "/public/map/DiscoInferno/DiscoInferno_Cover_640.png/7f71abb99b7a5a79722ab011568617c5.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno.ogg": "/private/map/DiscoInferno/DiscoInferno.ogg/edd686792db60883840808052abad052.ogg",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_AudioPreview.ogg": "/public/map/DiscoInferno/DiscoInferno_AudioPreview.ogg/5f4c5275e80028bb9fde18adcc4123bc.ogg",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DiscoInferno/DiscoInferno_MapPreviewNoSoundCrop_LOW.vp8.webm/6162bcea12dba42a9fa39b37fad0c27f.webm",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_HIGH.webm": "/private/map/DiscoInferno/DiscoInferno_HIGH.webm/9d114f73b1ba12c13bb1f602962bd187.webm",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_LOW.webm": "/private/map/DiscoInferno/DiscoInferno_LOW.webm/6ffccf37892739e15f74f311ba52e851.webm",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_MID.webm": "/private/map/DiscoInferno/DiscoInferno_MID.webm/68d6c3814a56a55938bb2d24660bb7d7.webm",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_ULTRA.hd.webm": "/private/map/DiscoInferno/DiscoInferno_ULTRA.hd.webm/335ff1df8a0040ae80d1ed7a5a07725e.webm",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_ULTRA.webm": "/private/map/DiscoInferno/DiscoInferno_ULTRA.webm/f2fad64c2182beda730b735c7766791c.webm",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DiscoInferno/DiscoInferno_MapPreviewNoSoundCrop_MID.vp8.webm/2f4ac44cbc806bca74471cce580c9330.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"506588\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DiscoInferno/DiscoInferno_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"669-1159\">\n\t\t\t\t\t<Initialization range=\"0-669\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1470816\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DiscoInferno/DiscoInferno_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"670-1160\">\n\t\t\t\t\t<Initialization range=\"0-670\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 211.0805
+}

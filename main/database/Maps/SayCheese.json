@@ -1,0 +1,166 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SayCheese/SayCheese.ogg": "/private/map/SayCheese/SayCheese.ogg/8c0fec685ffaa8f6da82ca38f6700609.ogg",
+    "jmcs://jd-contents/SayCheese/SayCheese_AudioPreview.ogg": "/public/map/SayCheese/SayCheese_AudioPreview.ogg/c0a2133cca6e14aace7c9ae2d9c58d02.ogg",
+    "jmcs://jd-contents/SayCheese/SayCheese_HIGH.hd.webm": "/private/map/SayCheese/SayCheese_HIGH.hd.webm/bc9cb42e81cf61583a2ae439c8ff12e9.webm",
+    "jmcs://jd-contents/SayCheese/SayCheese_LOW.hd.webm": "/private/map/SayCheese/SayCheese_LOW.hd.webm/e18ae656e3318d2941feb49486d81dc9.webm",
+    "jmcs://jd-contents/SayCheese/SayCheese_MID.hd.webm": "/private/map/SayCheese/SayCheese_MID.hd.webm/0a44c736c0e2fa5b8f4c33f00fa60a76.webm",
+    "jmcs://jd-contents/SayCheese/SayCheese_ULTRA.hd.webm": "/private/map/SayCheese/SayCheese_ULTRA.hd.webm/d5d1e7284b9ed1f59aa56c9d6130f5f9.webm",
+    "jmcs://jd-contents/SayCheese/SayCheese_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SayCheese/SayCheese_MapPreviewNoSoundCrop_LOW.vp8.webm/b5b30c955cc36c62848e6c24fd37949a.webm",
+    "jmcs://jd-contents/SayCheese/SayCheese_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SayCheese/SayCheese_MapPreviewNoSoundCrop_MID.vp8.webm/a96d350149f3360df69e8b06d6418768.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27429,
+        54857,
+        82286,
+        109714,
+        137143,
+        164571,
+        192000,
+        219429,
+        246857,
+        274286,
+        301714,
+        329143,
+        356571,
+        384000,
+        411429,
+        438857,
+        466286,
+        493714,
+        521143,
+        548571,
+        576000,
+        603429,
+        630857,
+        658286,
+        685714,
+        713143,
+        740571,
+        768000,
+        795429,
+        822857,
+        850286,
+        877714,
+        905143,
+        932571,
+        960000,
+        987429,
+        1014857,
+        1042286,
+        1069714,
+        1097143,
+        1124571,
+        1152000,
+        1179429,
+        1206857,
+        1234286,
+        1261714,
+        1289143,
+        1316571,
+        1344000,
+        1371429,
+        1398857,
+        1426286,
+        1453714,
+        1481143
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 271,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SayCheese/SayCheese_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"596184\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayCheese/SayCheese_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2041698\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayCheese/SayCheese_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "6baa08e33275b397f6b984434b0949c0",
+      "storageType": 0,
+      "url": "/public/map/SayCheese/nx/SayCheese_MAIN_SCENE_NX.zip/6baa08e33275b397f6b984434b0949c0.zip"
+    },
+    "pc": {
+      "md5": "576ceafda32db72ad42115ae77d7cded",
+      "storageType": 0,
+      "url": "/public/map/SayCheese/pc/SayCheese_MAIN_SCENE_PC.zip/576ceafda32db72ad42115ae77d7cded.zip"
+    },
+    "ps4": {
+      "md5": "20270e74b878d77fba17c30cb3b32e93",
+      "storageType": 0,
+      "url": "/public/map/SayCheese/orbis/SayCheese_MAIN_SCENE_ORBIS.zip/20270e74b878d77fba17c30cb3b32e93.zip"
+    }
+  },
+  "data": {
+    "mapName": "SayCheese",
+    "title": "Say Cheese",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Paul Russell",
+    "credits": "“Say Cheese” performed by Paul Russell. Written by Paul Russell, Sean Cook, Raymond Haley, and Richard Parker. Published by Modern Arts Melody (ASCAP) / Paul Jeffrey Russell Music (ASCAP) / Songs By Work Of Art (ASCAP) / Sony/ATV Tunes LLC (ASCAP) / WC Music Corp. (ASCAP) / Unichappell Music Inc. (BMI) / Range Music Partners and Essancy Music Group LLC administered by WC Music Corp. Courtesy of Arista Records. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ce24f2",
+    "songColor2A": "#ffe04e",
+    "songColor1B": "#0c0547",
+    "songColor2B": "#ba0aca",
+    "lyricsColor": "#1b9efb",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SayCheese/nx/SayCheese_banner_bkg.tga.ckd/ec0fef8fe4cff9b297e73cb1065e82b2.ckd",
+      "map_bkgImageUrl": "/public/map/SayCheese/nx/SayCheese_map_bkg.tga.ckd/5226f4533316a322d9496f884e5a3876.ckd",
+      "expandCoachImageUrl": "/public/map/SayCheese/nx/SayCheese_Cover_AlbumCoach.tga.ckd/92b0fbb6f438e8288efe69c31bcf50cc.ckd",
+      "cover_smallImageUrl": "/public/map/SayCheese/nx/SayCheese_Cover_Online.tga.ckd/5458b8bca0c96c6d61dfe46b8b861d8f.ckd",
+      "coverImageUrl": "/public/map/SayCheese/nx/SayCheese_Cover_Generic.tga.ckd/89ca091253f90e587276eb3a09c504df.ckd",
+      "coach1ImageUrl": "/public/map/SayCheese/nx/SayCheese_Coach_1.tga.ckd/8d53695496ddfa88d9f7e1fa5e5eb9ea.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SayCheese/pc/SayCheese_banner_bkg.tga.ckd/9c588000e5a67dba26a2691a16838158.ckd",
+      "map_bkgImageUrl": "/public/map/SayCheese/pc/SayCheese_map_bkg.tga.ckd/eea1bc742fd3519af56e684e28d3e861.ckd",
+      "expandCoachImageUrl": "/public/map/SayCheese/pc/SayCheese_Cover_AlbumCoach.tga.ckd/5d0b4bdcc76f86aa5a556f13e0a57fd3.ckd",
+      "cover_smallImageUrl": "/public/map/SayCheese/pc/SayCheese_Cover_Online.tga.ckd/efacb74b8617f3261bbb81379c922366.ckd",
+      "coverImageUrl": "/public/map/SayCheese/pc/SayCheese_Cover_Generic.tga.ckd/71e476a7fd160706bd5b8b3aacfd95f5.ckd",
+      "coach1ImageUrl": "/public/map/SayCheese/pc/SayCheese_Coach_1.tga.ckd/47817ff56754e143f19f60f82c03d2b1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SayCheese/orbis/SayCheese_banner_bkg.tga.ckd/9c588000e5a67dba26a2691a16838158.ckd",
+      "map_bkgImageUrl": "/public/map/SayCheese/orbis/SayCheese_map_bkg.tga.ckd/eea1bc742fd3519af56e684e28d3e861.ckd",
+      "expandCoachImageUrl": "/public/map/SayCheese/orbis/SayCheese_Cover_AlbumCoach.tga.ckd/5d0b4bdcc76f86aa5a556f13e0a57fd3.ckd",
+      "cover_smallImageUrl": "/public/map/SayCheese/orbis/SayCheese_Cover_Online.tga.ckd/efacb74b8617f3261bbb81379c922366.ckd",
+      "coverImageUrl": "/public/map/SayCheese/orbis/SayCheese_Cover_Generic.tga.ckd/71e476a7fd160706bd5b8b3aacfd95f5.ckd",
+      "coach1ImageUrl": "/public/map/SayCheese/orbis/SayCheese_Coach_1.tga.ckd/47817ff56754e143f19f60f82c03d2b1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SayCheese/SayCheese_Coach_1_Phone.png/744a3267a24c8424d0b0707b34a6198a.png",
+    "phoneCoverImageUrl": "/public/map/SayCheese/SayCheese_Cover_Phone.jpg/24efce0fad9b60efc6ee31afe3af4375.jpg",
+    "cover640ImageUrl": "/public/map/SayCheese/SayCheese_Cover_640.png/32cf560c51e376a890a51524bb379542.png"
+  },
+  "mapLength": 158.285688
+}

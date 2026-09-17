@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "744b2a4e408cc4f26cbff591c311f135",
+      "storageType": 0,
+      "url": "/public/map/MarciaBaila/nx/MarciaBaila_MAIN_SCENE_NX.zip/744b2a4e408cc4f26cbff591c311f135.zip"
+    },
+    "pc": {
+      "md5": "0f9d5026685a4950feb39c695f24ee66",
+      "storageType": 0,
+      "url": "/public/map/MarciaBaila/pc/MarciaBaila_MAIN_SCENE_PC.zip/0f9d5026685a4950feb39c695f24ee66.zip"
+    },
+    "ps4": {
+      "md5": "f42ffa4f12a71fbc01e39245d03e9344",
+      "storageType": 0,
+      "url": "/public/map/MarciaBaila/orbis/MarciaBaila_MAIN_SCENE_ORBIS.zip/f42ffa4f12a71fbc01e39245d03e9344.zip"
+    }
+  },
+  "data": {
+    "mapName": "MarciaBaila",
+    "title": "Marcia Baila",
+    "originalJDVersion": 3,
+    "tags": [
+      "main"
+    ],
+    "artist": "Les Rita Mitsouko",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22896,
+        45792,
+        68688,
+        91584,
+        114480,
+        137232,
+        159936,
+        182640,
+        205392,
+        227568,
+        250800,
+        273264,
+        296256,
+        318576,
+        341712,
+        364176,
+        387168,
+        409536,
+        432384,
+        454896,
+        478032,
+        500352,
+        523968,
+        545856,
+        568896,
+        591312,
+        614496,
+        636720,
+        659568,
+        682224,
+        705264,
+        727968,
+        750672,
+        773040,
+        796128,
+        818640,
+        841584,
+        864048,
+        886992,
+        909360,
+        932448,
+        954816,
+        977904,
+        1000320,
+        1023360,
+        1045680,
+        1069104,
+        1090992,
+        1114224,
+        1136928,
+        1159680,
+        1182384,
+        1205088,
+        1227840,
+        1250544,
+        1272624,
+        1295760,
+        1318320,
+        1341024,
+        1363680,
+        1386576,
+        1408944,
+        1432320,
+        1454592,
+        1477440
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 514,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MarciaBaila/MarciaBaila_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MarciaBaila/nx/MarciaBaila_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/MarciaBaila/nx/MarciaBaila_map_bkg.tga.ckd/4b2f63c9cb1a0f19b8a23473b92ea48b.ckd",
+      "expandCoachImageUrl": "/public/map/MarciaBaila/nx/MarciaBaila_Cover_AlbumCoach.tga.ckd/7f22e88c0d0156cb9fa4dbc2ce04057c.ckd",
+      "cover_smallImageUrl": "/public/map/MarciaBaila/nx/MarciaBaila_Cover_Online.tga.ckd/0895c3a181d5db541621cdfa89e39184.ckd",
+      "coach1ImageUrl": "/public/map/MarciaBaila/nx/MarciaBaila_Coach_1.tga.ckd/3057d772b02ef94fa86c172566b28dbc.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MarciaBaila/pc/MarciaBaila_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/MarciaBaila/pc/MarciaBaila_map_bkg.tga.ckd/9dcc35c9d86165c0cfb7285277b29615.ckd",
+      "expandCoachImageUrl": "/public/map/MarciaBaila/pc/MarciaBaila_Cover_AlbumCoach.tga.ckd/27c0a4d6367f0f29bc3043fa9fb19216.ckd",
+      "cover_smallImageUrl": "/public/map/MarciaBaila/pc/MarciaBaila_Cover_Online.tga.ckd/7f096b2d24520a52140894668983d831.ckd",
+      "coach1ImageUrl": "/public/map/MarciaBaila/pc/MarciaBaila_Coach_1.tga.ckd/349d836125b9bb94723145b840acb8ec.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MarciaBaila/orbis/MarciaBaila_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/MarciaBaila/orbis/MarciaBaila_map_bkg.tga.ckd/9dcc35c9d86165c0cfb7285277b29615.ckd",
+      "expandCoachImageUrl": "/public/map/MarciaBaila/orbis/MarciaBaila_Cover_AlbumCoach.tga.ckd/27c0a4d6367f0f29bc3043fa9fb19216.ckd",
+      "cover_smallImageUrl": "/public/map/MarciaBaila/orbis/MarciaBaila_Cover_Online.tga.ckd/7f096b2d24520a52140894668983d831.ckd",
+      "coach1ImageUrl": "/public/map/MarciaBaila/orbis/MarciaBaila_Coach_1.tga.ckd/349d836125b9bb94723145b840acb8ec.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MarciaBaila/MarciaBaila_Coach_1_Phone.png/85a2e320c77b9b306a22c2c03591cf88.png",
+    "phoneCoverImageUrl": "/public/map/MarciaBaila/MarciaBaila_Cover_Phone.jpg/3b43525c3e92235683036a8ce2c388af.jpg",
+    "cover640ImageUrl": "/public/map/MarciaBaila/MarciaBaila_Cover_640.png/0d323756ffe4be259056103d999f764d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MarciaBaila/MarciaBaila.ogg": "/private/map/MarciaBaila/MarciaBaila.ogg/b2f334c788a949223a41ab54ae61cf4d.ogg",
+    "jmcs://jd-contents/MarciaBaila/MarciaBaila_AudioPreview.ogg": "/public/map/MarciaBaila/MarciaBaila_AudioPreview.ogg/2ee8db6066f4000216c781a9cb6f0b7b.ogg",
+    "jmcs://jd-contents/MarciaBaila/MarciaBaila_HIGH.webm": "/private/map/MarciaBaila/MarciaBaila_HIGH.webm/380c03de2885e19060d7eae342e6c5b6.webm",
+    "jmcs://jd-contents/MarciaBaila/MarciaBaila_LOW.webm": "/private/map/MarciaBaila/MarciaBaila_LOW.webm/3116950b6457064f3a11b6eb63a848b0.webm",
+    "jmcs://jd-contents/MarciaBaila/MarciaBaila_MID.webm": "/private/map/MarciaBaila/MarciaBaila_MID.webm/42d97898f48f2c3afa23b113e2bd3a5a.webm",
+    "jmcs://jd-contents/MarciaBaila/MarciaBaila_ULTRA.hd.webm": "/private/map/MarciaBaila/MarciaBaila_ULTRA.hd.webm/15172a1cbf530e88470e10caad298fe3.webm",
+    "jmcs://jd-contents/MarciaBaila/MarciaBaila_ULTRA.webm": "/private/map/MarciaBaila/MarciaBaila_ULTRA.webm/6e70a2b9bcd8af7f4e56e2a86844f638.webm",
+    "jmcs://jd-contents/MarciaBaila/MarciaBaila_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MarciaBaila/MarciaBaila_MapPreviewNoSoundCrop_LOW.vp8.webm/81f3be6714b2a2f9f519ff634850c31d.webm",
+    "jmcs://jd-contents/MarciaBaila/MarciaBaila_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MarciaBaila/MarciaBaila_MapPreviewNoSoundCrop_MID.vp8.webm/7b26d481e89e62426206cedd21dcf6e3.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"498802\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MarciaBaila/MarciaBaila_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1492272\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MarciaBaila/MarciaBaila_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 242.880979
+}

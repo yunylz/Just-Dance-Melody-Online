@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "045d27e64f47352d819469b3a73a66e6",
+      "storageType": 0,
+      "url": "/public/map/ThankUNext/nx/ThankUNext_MAIN_SCENE_NX.zip/045d27e64f47352d819469b3a73a66e6.zip"
+    },
+    "pc": {
+      "md5": "4c2fb41bf1e90682317a691288df81d1",
+      "storageType": 0,
+      "url": "/public/map/ThankUNext/pc/ThankUNext_MAIN_SCENE_PC.zip/4c2fb41bf1e90682317a691288df81d1.zip"
+    },
+    "ps4": {
+      "md5": "9de700e4ee7cb5a5cf9805ac6d4bfb5b",
+      "storageType": 0,
+      "url": "/public/map/ThankUNext/orbis/ThankUNext_MAIN_SCENE_ORBIS.zip/9de700e4ee7cb5a5cf9805ac6d4bfb5b.zip"
+    }
+  },
+  "data": {
+    "mapName": "ThankUNext",
+    "title": "thank u, next",
+    "originalJDVersion": 2023,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Ariana Grande",
+    "credits": "Written by Charles Michael Anderson, Thomas Lee Brown, Michael David Foster, Ariana Grande, Kimberly Krysiuk, Victoria Monet McCants, Taylor Monet Parks, Njomza Vitia. Published by Avex USA Songs, The Hillstorian, Avex USA Hits, The District 4 12, TBHitsville / BMG Gold Songs, BMG Platinum Songs US. All rights administered by BMG Rights Management LLC / Warner-Tamerlane Publishing Corp. and Taylor Monet Music. All rights on behalf of itself and Taylor Monet Music administered by Warner-Tamerlane Publishing Corp. / Universal Music Publishing / Downtown Music Services. Courtesy of Republic Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff99f2",
+    "songColor2A": "#f8e581",
+    "songColor1B": "#6237dd",
+    "songColor2B": "#ce852f",
+    "lyricsColor": "#ea238a"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26916,
+        53832,
+        80748,
+        107664,
+        134579,
+        161495,
+        188411,
+        215327,
+        242243,
+        269159,
+        296075,
+        322991,
+        349907,
+        376822,
+        403738,
+        430654,
+        457570,
+        484486,
+        511402,
+        538318,
+        565234,
+        592150,
+        619065,
+        645981,
+        672897,
+        699813,
+        726729,
+        753645,
+        780561,
+        807477,
+        834393,
+        861308,
+        888224,
+        915140,
+        942056,
+        968972,
+        995888,
+        1022804,
+        1049720,
+        1076636,
+        1103551,
+        1130467,
+        1157383,
+        1184299,
+        1211215,
+        1238131,
+        1265047,
+        1291963,
+        1318879,
+        1345794,
+        1372710,
+        1399626,
+        1426542,
+        1453458,
+        1480374
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 382,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ThankUNext/ThankUNext_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ThankUNext/nx/ThankUNext_banner_bkg.tga.ckd/eb7a204a451f330653aa9b77ac295671.ckd",
+      "map_bkgImageUrl": "/public/map/ThankUNext/nx/ThankUNext_map_bkg.tga.ckd/1db392f3e8369cc498b46029f782d3e6.ckd",
+      "expandCoachImageUrl": "/public/map/ThankUNext/nx/ThankUNext_Cover_AlbumCoach.tga.ckd/c0fd1e6ec457d6dc1c48c03fc98e6818.ckd",
+      "cover_smallImageUrl": "/public/map/ThankUNext/nx/ThankUNext_Cover_Online.tga.ckd/5b394c2e077a36d99e2c0afaca0dd40f.ckd",
+      "coverImageUrl": "/public/map/ThankUNext/nx/ThankUNext_Cover_Generic.tga.ckd/9d5a9945ec6ffd6c70db3d01d827e3e3.ckd",
+      "coach1ImageUrl": "/public/map/ThankUNext/nx/ThankUNext_Coach_1.tga.ckd/067d9059da29af21396adeaef03df373.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ThankUNext/pc/ThankUNext_banner_bkg.tga.ckd/091583919823563cd8e5bc4f828a9ea9.ckd",
+      "map_bkgImageUrl": "/public/map/ThankUNext/pc/ThankUNext_map_bkg.tga.ckd/1d5a468be55f3a2c69c1e64decab0936.ckd",
+      "expandCoachImageUrl": "/public/map/ThankUNext/pc/ThankUNext_Cover_AlbumCoach.tga.ckd/9225d690275f81e0c5f53ab50c873d28.ckd",
+      "cover_smallImageUrl": "/public/map/ThankUNext/pc/ThankUNext_Cover_Online.tga.ckd/f4f061861c3f8bf9b4b744f43a76dc8c.ckd",
+      "coverImageUrl": "/public/map/ThankUNext/pc/ThankUNext_Cover_Generic.tga.ckd/7e41a62e920c362f6d22788e65c94752.ckd",
+      "coach1ImageUrl": "/public/map/ThankUNext/pc/ThankUNext_Coach_1.tga.ckd/58ae7c25868b553869204ef9b9b980ee.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ThankUNext/orbis/ThankUNext_banner_bkg.tga.ckd/091583919823563cd8e5bc4f828a9ea9.ckd",
+      "map_bkgImageUrl": "/public/map/ThankUNext/orbis/ThankUNext_map_bkg.tga.ckd/1d5a468be55f3a2c69c1e64decab0936.ckd",
+      "expandCoachImageUrl": "/public/map/ThankUNext/orbis/ThankUNext_Cover_AlbumCoach.tga.ckd/9225d690275f81e0c5f53ab50c873d28.ckd",
+      "cover_smallImageUrl": "/public/map/ThankUNext/orbis/ThankUNext_Cover_Online.tga.ckd/f4f061861c3f8bf9b4b744f43a76dc8c.ckd",
+      "coverImageUrl": "/public/map/ThankUNext/orbis/ThankUNext_Cover_Generic.tga.ckd/7e41a62e920c362f6d22788e65c94752.ckd",
+      "coach1ImageUrl": "/public/map/ThankUNext/orbis/ThankUNext_Coach_1.tga.ckd/58ae7c25868b553869204ef9b9b980ee.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ThankUNext/ThankUNext_Coach_1_Phone.png/eb33d7c8e26ce9098848611caccb6d80.png",
+    "phoneCoverImageUrl": "/public/map/ThankUNext/ThankUNext_Cover_Phone.jpg/80b74a59d8f59d3d63fd0aad49a39c55.jpg",
+    "cover640ImageUrl": "/public/map/ThankUNext/ThankUNext_Cover_640.png/ced0c9964dded172b7381adf972ab651.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ThankUNext/ThankUNext.ogg": "/private/map/ThankUNext/ThankUNext.ogg/76fcaa1f2e29be20002b55b2436f97f1.ogg",
+    "jmcs://jd-contents/ThankUNext/ThankUNext_AudioPreview.ogg": "/public/map/ThankUNext/ThankUNext_AudioPreview.ogg/5a42c74242a19e958ce5b58e30163aa1.ogg",
+    "jmcs://jd-contents/ThankUNext/ThankUNext_HIGH.webm": "/private/map/ThankUNext/ThankUNext_HIGH.webm/885ef30a74276e421344c8ace6be8638.webm",
+    "jmcs://jd-contents/ThankUNext/ThankUNext_LOW.webm": "/private/map/ThankUNext/ThankUNext_LOW.webm/7218df1929f1baa2beaa7558ec121fa9.webm",
+    "jmcs://jd-contents/ThankUNext/ThankUNext_MID.webm": "/private/map/ThankUNext/ThankUNext_MID.webm/199708a35dcc5fc3fb0f047d09248bbd.webm",
+    "jmcs://jd-contents/ThankUNext/ThankUNext_ULTRA.hd.webm": "/private/map/ThankUNext/ThankUNext_ULTRA.hd.webm/70e2dfcc230ec8a30989392a201446f0.webm",
+    "jmcs://jd-contents/ThankUNext/ThankUNext_ULTRA.webm": "/private/map/ThankUNext/ThankUNext_ULTRA.webm/aeae4ddbc2191ddf9cfefaf6c7f19db7.webm",
+    "jmcs://jd-contents/ThankUNext/ThankUNext_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ThankUNext/ThankUNext_MapPreviewNoSoundCrop_LOW.vp8.webm/29e187cff02eebba53e135f373f277fb.webm",
+    "jmcs://jd-contents/ThankUNext/ThankUNext_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ThankUNext/ThankUNext_MapPreviewNoSoundCrop_MID.vp8.webm/4be0028ce85797fee3850b6f137ea098.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"504866\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThankUNext/ThankUNext_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"660-1149\">\n\t\t\t\t\t<Initialization range=\"0-660\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1461338\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThankUNext/ThankUNext_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\n\t\t\t\t\t<Initialization range=\"0-661\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 210.286875
+}

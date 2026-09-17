@@ -1,0 +1,183 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MonsterMash/MonsterMash.ogg": "/private/map/MonsterMash/MonsterMash.ogg/b0fc55b7cefa4b2d94336c991d89d4a1.ogg",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_AudioPreview.ogg": "/public/map/MonsterMash/MonsterMash_AudioPreview.ogg/b40a10a1d3095cffc2bd1a98efc5925f.ogg",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_HIGH.hd.webm": "/private/map/MonsterMash/MonsterMash_HIGH.hd.webm/7cec932c7e0804acd6286aeac5bbfe3e.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_LOW.hd.webm": "/private/map/MonsterMash/MonsterMash_LOW.hd.webm/37cb1c6c0c57d025587312ec1d7fc468.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_MID.hd.webm": "/private/map/MonsterMash/MonsterMash_MID.hd.webm/ceb91be8e6148d4458a4039e7ef7321e.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_ULTRA.hd.webm": "/private/map/MonsterMash/MonsterMash_ULTRA.hd.webm/299e4399b069f18bb938d0c54eed0e30.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_LOW.vp8.webm/536875dc10ad7a13a459e6b401a51c9d.webm",
+    "jmcs://jd-contents/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MonsterMash/MonsterMash_MapPreviewNoSoundCrop_MID.vp8.webm/c112aa9eac5a49f286d75cbc9ddc1392.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        20410,
+        40821,
+        61231,
+        81641,
+        102052,
+        122462,
+        142872,
+        163283,
+        183693,
+        204104,
+        224514,
+        244924,
+        265335,
+        285745,
+        306155,
+        326566,
+        346976,
+        367386,
+        387797,
+        408207,
+        428617,
+        449028,
+        469438,
+        489848,
+        510259,
+        530669,
+        551079,
+        571490,
+        591900,
+        612310,
+        632721,
+        653131,
+        673541,
+        693952,
+        714362,
+        734772,
+        755183,
+        775593,
+        796003,
+        816414,
+        836824,
+        857234,
+        877645,
+        898055,
+        918465,
+        938876,
+        959286,
+        979696,
+        1000107,
+        1020517,
+        1040927,
+        1061338,
+        1081748,
+        1102158,
+        1122569,
+        1142979,
+        1163389,
+        1183800,
+        1204210,
+        1224621,
+        1245031,
+        1265441,
+        1285852,
+        1306262,
+        1326672,
+        1347083,
+        1367493,
+        1387903,
+        1408314,
+        1428724
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 2
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 435,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 70,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/monstermash/monstermash_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "1807fd87c9b988bd20f5770845d1f38f",
+      "storageType": 0,
+      "url": "/public/map/MonsterMash/nx/MonsterMash_MAIN_SCENE_NX.zip/1807fd87c9b988bd20f5770845d1f38f.zip"
+    },
+    "pc": {
+      "md5": "fa181e76c940117cbf06a48514e1ed25",
+      "storageType": 0,
+      "url": "/public/map/MonsterMash/pc/MonsterMash_MAIN_SCENE_PC.zip/fa181e76c940117cbf06a48514e1ed25.zip"
+    },
+    "ps4": {
+      "md5": "c2782c066b5db279458d8d36e17e0e9e",
+      "storageType": 0,
+      "url": "/public/map/MonsterMash/orbis/MonsterMash_MAIN_SCENE_ORBIS.zip/c2782c066b5db279458d8d36e17e0e9e.zip"
+    }
+  },
+  "data": {
+    "mapName": "MonsterMash",
+    "title": "Monster Mash",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "The Frighteners (in the style of Bobby 'Boris' Pickett & The Crypt-Kickers)",
+    "credits": "The Frighteners \\u2013 ''Monster Mash'' Written by Bobby Pickett and Lenny Capizzi. Published by Capizzi Music / Gary S Paxton Publications/Reservoir 416. Courtesy of 2006 Music Factory Entertainment Group Ltd. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#006F5D",
+    "songColor2A": "#FDFFC5",
+    "songColor1B": "#001A26",
+    "songColor2B": "#003B28",
+    "lyricsColor": "#CE3816",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MonsterMash/nx/MonsterMash_banner_bkg.tga.ckd/bc44db1e97e5cd940d2862330c234bec.ckd",
+      "map_bkgImageUrl": "/public/map/MonsterMash/nx/MonsterMash_map_bkg.tga.ckd/aaac21409ec357e94203c2c7caf546d7.ckd",
+      "expandCoachImageUrl": "/public/map/MonsterMash/nx/MonsterMash_Cover_AlbumCoach.tga.ckd/be7b67811e83574340fb4819a970d15f.ckd",
+      "cover_smallImageUrl": "/public/map/MonsterMash/nx/MonsterMash_Cover_Online.tga.ckd/33fbbd7516610fabceed795d3b81e4ab.ckd",
+      "coverImageUrl": "/public/map/MonsterMash/nx/MonsterMash_Cover_Generic.tga.ckd/5cda759086fc3b4292fcd2d6a7ab0469.ckd",
+      "coach1ImageUrl": "/public/map/MonsterMash/nx/MonsterMash_Coach_1.tga.ckd/b1ef7dfac41698174e53cb883a272f2c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MonsterMash/pc/MonsterMash_banner_bkg.tga.ckd/540732e7d7344191a1cda4e7e338c8cb.ckd",
+      "map_bkgImageUrl": "/public/map/MonsterMash/pc/MonsterMash_map_bkg.tga.ckd/d99dc4d0fd99affad72b851460a0ed72.ckd",
+      "expandCoachImageUrl": "/public/map/MonsterMash/pc/MonsterMash_Cover_AlbumCoach.tga.ckd/87a4f7f5da87ff7d4fdfb8957fd1e8ca.ckd",
+      "cover_smallImageUrl": "/public/map/MonsterMash/pc/MonsterMash_Cover_Online.tga.ckd/98e74cd72e3e9d8bf108fe16daaa7494.ckd",
+      "coverImageUrl": "/public/map/MonsterMash/pc/MonsterMash_Cover_Generic.tga.ckd/582a11294b5541915cd1d7981e9dbe66.ckd",
+      "coach1ImageUrl": "/public/map/MonsterMash/pc/MonsterMash_Coach_1.tga.ckd/b3128ac0466a48fec8cd6db2c0212360.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MonsterMash/orbis/MonsterMash_banner_bkg.tga.ckd/540732e7d7344191a1cda4e7e338c8cb.ckd",
+      "map_bkgImageUrl": "/public/map/MonsterMash/orbis/MonsterMash_map_bkg.tga.ckd/d99dc4d0fd99affad72b851460a0ed72.ckd",
+      "expandCoachImageUrl": "/public/map/MonsterMash/orbis/MonsterMash_Cover_AlbumCoach.tga.ckd/87a4f7f5da87ff7d4fdfb8957fd1e8ca.ckd",
+      "cover_smallImageUrl": "/public/map/MonsterMash/orbis/MonsterMash_Cover_Online.tga.ckd/98e74cd72e3e9d8bf108fe16daaa7494.ckd",
+      "coverImageUrl": "/public/map/MonsterMash/orbis/MonsterMash_Cover_Generic.tga.ckd/582a11294b5541915cd1d7981e9dbe66.ckd",
+      "coach1ImageUrl": "/public/map/MonsterMash/orbis/MonsterMash_Coach_1.tga.ckd/b3128ac0466a48fec8cd6db2c0212360.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MonsterMash/MonsterMash_Coach_1_Phone.png/7b8f371dfeb770457504438a0872e7cc.png",
+    "phoneCoverImageUrl": "/public/map/MonsterMash/MonsterMash_Cover_Phone.jpg/3e48bf24ad32d7ce6d9ac55cb83a59c7.jpg",
+    "cover640ImageUrl": "/public/map/MonsterMash/MonsterMash_Cover_640.png/4b05aac3b766ab0a98fa4f89147f9295.png"
+  },
+  "mapLength": 185.4055
+}

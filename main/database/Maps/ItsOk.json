@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ItsOk/ItsOk.ogg": "/private/map/ItsOk/ItsOk.ogg/9ae8bd40fe78b2ae09bdf776ad955bc4.ogg",
+    "jmcs://jd-contents/ItsOk/ItsOk_AudioPreview.ogg": "/public/map/ItsOk/ItsOk_AudioPreview.ogg/87914466d65b3e49ad10d89744206822.ogg",
+    "jmcs://jd-contents/ItsOk/ItsOk_HIGH.hd.webm": "/private/map/ItsOk/ItsOk_HIGH.hd.webm/425c42018fa3186eca4ad9104006038e.webm",
+    "jmcs://jd-contents/ItsOk/ItsOk_LOW.hd.webm": "/private/map/ItsOk/ItsOk_LOW.hd.webm/ac356da85f88858197094adace38d00d.webm",
+    "jmcs://jd-contents/ItsOk/ItsOk_MID.hd.webm": "/private/map/ItsOk/ItsOk_MID.hd.webm/35e378250223697e33caf301e3e455e2.webm",
+    "jmcs://jd-contents/ItsOk/ItsOk_ULTRA.hd.webm": "/private/map/ItsOk/ItsOk_ULTRA.hd.webm/3c3c1c63d009e65d437f445d1703b113.webm",
+    "jmcs://jd-contents/ItsOk/ItsOk_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ItsOk/ItsOk_MapPreviewNoSoundCrop_LOW.vp8.webm/8e1ba21b1c65688400f4538d30fffb11.webm",
+    "jmcs://jd-contents/ItsOk/ItsOk_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ItsOk/ItsOk_MapPreviewNoSoundCrop_MID.vp8.webm/37d935831bf0d185885350e86f13563e.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25043,
+        50087,
+        75130,
+        100174,
+        125217,
+        150261,
+        175304,
+        200348,
+        225391,
+        250435,
+        275478,
+        300522,
+        325565,
+        350609,
+        375652,
+        400696,
+        425739,
+        450783,
+        475826,
+        500870,
+        525913,
+        550957,
+        576000,
+        601043,
+        626087,
+        651130,
+        676174,
+        701217,
+        726261,
+        751304,
+        776348,
+        801391,
+        826435,
+        851478,
+        876522,
+        901565,
+        926609,
+        951652,
+        976696,
+        1001739,
+        1026783,
+        1051826,
+        1076870,
+        1101913,
+        1126957,
+        1152000,
+        1177043,
+        1202087,
+        1227130,
+        1252174,
+        1277217,
+        1302261,
+        1327304,
+        1352348,
+        1377391,
+        1402435,
+        1427478,
+        1452522,
+        1477565
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 298,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ItsOk/ItsOk_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"551787\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsOk/ItsOk_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1974776\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsOk/ItsOk_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "67281e6f4ec7b60b056bc0d83dc9c2b4",
+      "storageType": 0,
+      "url": "/public/map/ItsOk/nx/ItsOk_MAIN_SCENE_NX.zip/67281e6f4ec7b60b056bc0d83dc9c2b4.zip"
+    },
+    "pc": {
+      "md5": "575c4731c42cf2eff420c5713827cef6",
+      "storageType": 0,
+      "url": "/public/map/ItsOk/pc/ItsOk_MAIN_SCENE_PC.zip/575c4731c42cf2eff420c5713827cef6.zip"
+    },
+    "ps4": {
+      "md5": "ffee784c69115f66e5934357a6cd0248",
+      "storageType": 0,
+      "url": "/public/map/ItsOk/orbis/ItsOk_MAIN_SCENE_ORBIS.zip/ffee784c69115f66e5934357a6cd0248.zip"
+    }
+  },
+  "data": {
+    "mapName": "ItsOk",
+    "title": "It's ok I'm ok",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Tate McRae",
+    "credits": "\"It's ok I'm ok\" performed by Tate McRae. Written by Ilya Salmanzadeh, Savan Kotecha, Ryan Tedder, and Tate McRae. Published by MXM [ASCAP] administered by Kobalt Songs Music Publishing / Songs of Wolf Cousins (STIM) administered by WC Music Corp. / T8 Entertainment Inc (SOCAN) / Singles Only Please (GMR). Courtesy of RCA Records by arrangement with Sony Music Entertainment. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f700e7",
+    "songColor2A": "#0bffb7",
+    "songColor1B": "#000014",
+    "songColor2B": "#000071",
+    "lyricsColor": "#09ffa8",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ItsOk/nx/ItsOk_banner_bkg.tga.ckd/b1e118b9b93ec888298ff12138404396.ckd",
+      "map_bkgImageUrl": "/public/map/ItsOk/nx/ItsOk_map_bkg.tga.ckd/e9bc718f27f0e90bfdbec3e034f29d07.ckd",
+      "expandCoachImageUrl": "/public/map/ItsOk/nx/ItsOk_Cover_AlbumCoach.tga.ckd/15b409a00e79e385d34df65349d8976c.ckd",
+      "cover_smallImageUrl": "/public/map/ItsOk/nx/ItsOk_Cover_Online.tga.ckd/4187a21097f00705b936bcf1a792bffd.ckd",
+      "coverImageUrl": "/public/map/ItsOk/nx/ItsOk_Cover_Generic.tga.ckd/532d8f41dbf0fbf6a341f06f2fd124a8.ckd",
+      "coach1ImageUrl": "/public/map/ItsOk/nx/ItsOk_Coach_1.tga.ckd/86b5c2678844b8b995493e0ac17f5a97.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ItsOk/pc/ItsOk_banner_bkg.tga.ckd/943833e8802515c0b6871cb1697635f2.ckd",
+      "map_bkgImageUrl": "/public/map/ItsOk/pc/ItsOk_map_bkg.tga.ckd/ee114dff21e494cc1bf5e29872f129f8.ckd",
+      "expandCoachImageUrl": "/public/map/ItsOk/pc/ItsOk_Cover_AlbumCoach.tga.ckd/fb52d137672fb58f159292b7600425d3.ckd",
+      "cover_smallImageUrl": "/public/map/ItsOk/pc/ItsOk_Cover_Online.tga.ckd/78379fde5be8233e1a923bad089d3274.ckd",
+      "coverImageUrl": "/public/map/ItsOk/pc/ItsOk_Cover_Generic.tga.ckd/40dcfbf8620ecfadf190349d15f18b9a.ckd",
+      "coach1ImageUrl": "/public/map/ItsOk/pc/ItsOk_Coach_1.tga.ckd/ffb2175800fe36750587239b68dd7816.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ItsOk/orbis/ItsOk_banner_bkg.tga.ckd/943833e8802515c0b6871cb1697635f2.ckd",
+      "map_bkgImageUrl": "/public/map/ItsOk/orbis/ItsOk_map_bkg.tga.ckd/ee114dff21e494cc1bf5e29872f129f8.ckd",
+      "expandCoachImageUrl": "/public/map/ItsOk/orbis/ItsOk_Cover_AlbumCoach.tga.ckd/fb52d137672fb58f159292b7600425d3.ckd",
+      "cover_smallImageUrl": "/public/map/ItsOk/orbis/ItsOk_Cover_Online.tga.ckd/78379fde5be8233e1a923bad089d3274.ckd",
+      "coverImageUrl": "/public/map/ItsOk/orbis/ItsOk_Cover_Generic.tga.ckd/40dcfbf8620ecfadf190349d15f18b9a.ckd",
+      "coach1ImageUrl": "/public/map/ItsOk/orbis/ItsOk_Coach_1.tga.ckd/ffb2175800fe36750587239b68dd7816.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ItsOk/ItsOk_Coach_1_Phone.png/436634aa93a552a6f2ce49dbd480abf3.png",
+    "phoneCoverImageUrl": "/public/map/ItsOk/ItsOk_Cover_Phone.jpg/bf3789f816a3e22daa5b3837442216a5.jpg",
+    "cover640ImageUrl": "/public/map/ItsOk/ItsOk_Cover_640.png/837e51ff348893a03e163f4b0fd7e91e.png"
+  },
+  "mapLength": 160.681813
+}

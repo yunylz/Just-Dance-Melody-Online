@@ -1,0 +1,151 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WhatYouWaitJD3/WhatYouWaitJD3.ogg": "/private/map/WhatYouWaitJD3/WhatYouWaitJD3.ogg/dff0e24833956fcb8792b8ae755fb464.ogg",
+    "jmcs://jd-contents/WhatYouWaitJD3/WhatYouWaitJD3_AudioPreview.ogg": "/public/map/WhatYouWaitJD3/WhatYouWaitJD3_AudioPreview.ogg/079ef96e2b53249b8c627b6c56495c7a.ogg",
+    "jmcs://jd-contents/WhatYouWaitJD3/WhatYouWaitJD3_HIGH.hd.webm": "/private/map/WhatYouWaitJD3/WhatYouWaitJD3_HIGH.hd.webm/4b9c22acf217857c738fd8c251f4e03c.webm",
+    "jmcs://jd-contents/WhatYouWaitJD3/WhatYouWaitJD3_LOW.hd.webm": "/private/map/WhatYouWaitJD3/WhatYouWaitJD3_LOW.hd.webm/9b3c5002f17fc27cbf6d663101690d6b.webm",
+    "jmcs://jd-contents/WhatYouWaitJD3/WhatYouWaitJD3_MID.hd.webm": "/private/map/WhatYouWaitJD3/WhatYouWaitJD3_MID.hd.webm/ea6b40c82b49af5717b3f3cc36c3efab.webm",
+    "jmcs://jd-contents/WhatYouWaitJD3/WhatYouWaitJD3_ULTRA.hd.webm": "/private/map/WhatYouWaitJD3/WhatYouWaitJD3_ULTRA.hd.webm/c42b61eee6cb539cf76ef782e1787636.webm",
+    "jmcs://jd-contents/WhatYouWaitJD3/WhatYouWaitJD3_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WhatYouWaitJD3/WhatYouWaitJD3_MapPreviewNoSoundCrop_LOW.vp8.webm/6b1803c428572a96ae6606dfb0698fcd.webm",
+    "jmcs://jd-contents/WhatYouWaitJD3/WhatYouWaitJD3_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WhatYouWaitJD3/WhatYouWaitJD3_MapPreviewNoSoundCrop_MID.vp8.webm/9384d14e1e6900dbe76af4e2126cfcb1.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        60114,
+        120228,
+        180342,
+        227966,
+        274060,
+        322751,
+        364992,
+        412616,
+        458710,
+        507401,
+        549642,
+        593484,
+        642995,
+        686993,
+        731614,
+        772621,
+        813422,
+        855424,
+        900460,
+        945693,
+        990134,
+        1038663,
+        1080300,
+        1124550,
+        1170184,
+        1191354,
+        1212524,
+        1233694,
+        1254864,
+        1276034,
+        1297204,
+        1318374,
+        1339544,
+        1360715,
+        1381885,
+        1403055,
+        1424225,
+        1445395,
+        1466565,
+        1487735
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 480,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 38,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WhatYouWaitJD3/WhatYouWaitJD3_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"528201\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatYouWaitJD3/WhatYouWaitJD3_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1993628\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatYouWaitJD3/WhatYouWaitJD3_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "f76f540d33fd69e076368e03a39b46e8",
+      "storageType": 0,
+      "url": "/public/map/WhatYouWaitJD3/nx/WhatYouWaitJD3_MAIN_SCENE_NX.zip/f76f540d33fd69e076368e03a39b46e8.zip"
+    },
+    "pc": {
+      "md5": "09415fc9103ec2a3f1b2e0a12bf2bf54",
+      "storageType": 0,
+      "url": "/public/map/WhatYouWaitJD3/pc/WhatYouWaitJD3_MAIN_SCENE_PC.zip/09415fc9103ec2a3f1b2e0a12bf2bf54.zip"
+    },
+    "ps4": {
+      "md5": "ad2802401bd8fbfb65802b9b5dc96454",
+      "storageType": 0,
+      "url": "/public/map/WhatYouWaitJD3/orbis/WhatYouWaitJD3_MAIN_SCENE_ORBIS.zip/ad2802401bd8fbfb65802b9b5dc96454.zip"
+    }
+  },
+  "data": {
+    "mapName": "WhatYouWaitJD3",
+    "title": "What You Waiting For",
+    "originalJDVersion": 3,
+    "tags": [
+      "Main"
+    ],
+    "artist": "Gwen Stefani",
+    "credits": "Written by Linda Perry and Gwen Stefani. Published by Stuck In The Throat Music (ASCAP), Sony/ATV Music Publishing Canada (SOCAN) and Harajuku Lover Music (ASCAP). All rights reserved. Used by permission. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f792f8",
+    "songColor2A": "#f5fa65",
+    "songColor1B": "#9105a6",
+    "songColor2B": "#b95809",
+    "lyricsColor": "#00fafe",
+    "LocaleID": 10022
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WhatYouWaitJD3/nx/WhatYouWaitJD3_banner_bkg.tga.ckd/06aef1a9bf8ec76bae3898f7a4b6135e.ckd",
+      "map_bkgImageUrl": "/public/map/WhatYouWaitJD3/nx/WhatYouWaitJD3_map_bkg.tga.ckd/4cc4743a44216076d05f60d57d8de24d.ckd",
+      "expandCoachImageUrl": "/public/map/WhatYouWaitJD3/nx/WhatYouWaitJD3_Cover_AlbumCoach.tga.ckd/464e493a330554604466471c19130564.ckd",
+      "cover_smallImageUrl": "/public/map/WhatYouWaitJD3/nx/WhatYouWaitJD3_Cover_Online.tga.ckd/d117cce25f3e8fd46afce66eccd95f96.ckd",
+      "coverImageUrl": "/public/map/WhatYouWaitJD3/nx/WhatYouWaitJD3_Cover_Generic.tga.ckd/86cd4b23cbc41d8dc10be6e2f81677e7.ckd",
+      "coach1ImageUrl": "/public/map/WhatYouWaitJD3/nx/WhatYouWaitJD3_Coach_1.tga.ckd/eb8f69924c27a90e94fcddda71453b70.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WhatYouWaitJD3/pc/WhatYouWaitJD3_banner_bkg.tga.ckd/d676929048c7bb860ba4ff0640a8b525.ckd",
+      "map_bkgImageUrl": "/public/map/WhatYouWaitJD3/pc/WhatYouWaitJD3_map_bkg.tga.ckd/8833bbcf1dc66169a00442eedd940ebf.ckd",
+      "expandCoachImageUrl": "/public/map/WhatYouWaitJD3/pc/WhatYouWaitJD3_Cover_AlbumCoach.tga.ckd/2cbc2d18d0f061168f841e0e5091c8a5.ckd",
+      "cover_smallImageUrl": "/public/map/WhatYouWaitJD3/pc/WhatYouWaitJD3_Cover_Online.tga.ckd/d50c0eab1b716114ff01933e624c2290.ckd",
+      "coverImageUrl": "/public/map/WhatYouWaitJD3/pc/WhatYouWaitJD3_Cover_Generic.tga.ckd/13b356abf127b1d9b63c973ec1c2ae40.ckd",
+      "coach1ImageUrl": "/public/map/WhatYouWaitJD3/pc/WhatYouWaitJD3_Coach_1.tga.ckd/a0522a84daddc020047d24ad8e6a869c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WhatYouWaitJD3/orbis/WhatYouWaitJD3_banner_bkg.tga.ckd/d676929048c7bb860ba4ff0640a8b525.ckd",
+      "map_bkgImageUrl": "/public/map/WhatYouWaitJD3/orbis/WhatYouWaitJD3_map_bkg.tga.ckd/8833bbcf1dc66169a00442eedd940ebf.ckd",
+      "expandCoachImageUrl": "/public/map/WhatYouWaitJD3/orbis/WhatYouWaitJD3_Cover_AlbumCoach.tga.ckd/2cbc2d18d0f061168f841e0e5091c8a5.ckd",
+      "cover_smallImageUrl": "/public/map/WhatYouWaitJD3/orbis/WhatYouWaitJD3_Cover_Online.tga.ckd/d50c0eab1b716114ff01933e624c2290.ckd",
+      "coverImageUrl": "/public/map/WhatYouWaitJD3/orbis/WhatYouWaitJD3_Cover_Generic.tga.ckd/13b356abf127b1d9b63c973ec1c2ae40.ckd",
+      "coach1ImageUrl": "/public/map/WhatYouWaitJD3/orbis/WhatYouWaitJD3_Coach_1.tga.ckd/a0522a84daddc020047d24ad8e6a869c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WhatYouWaitJD3/WhatYouWaitJD3_Coach_1_Phone.png/065376eedff8064fc3397370218c9378.png",
+    "phoneCoverImageUrl": "/public/map/WhatYouWaitJD3/WhatYouWaitJD3_Cover_Phone.jpg/0615cc539934e2f33ffb2a2d2623fe3d.jpg",
+    "cover640ImageUrl": "/public/map/WhatYouWaitJD3/WhatYouWaitJD3_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  }
+}

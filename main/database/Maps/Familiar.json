@@ -1,0 +1,159 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Familiar/Familiar.ogg": "/private/map/Familiar/Familiar.ogg/9e76e4cda1cf1e90f73f5a82a3685aaf.ogg",
+    "jmcs://jd-contents/Familiar/Familiar_AudioPreview.ogg": "/public/map/Familiar/Familiar_AudioPreview.ogg/069e15fa3e5a71636117d359ff91891e.ogg",
+    "jmcs://jd-contents/Familiar/Familiar_HIGH.hd.webm": "/private/map/Familiar/Familiar_HIGH.hd.webm/01646bb3c383acc086685c68d22a83ae.webm",
+    "jmcs://jd-contents/Familiar/Familiar_LOW.hd.webm": "/private/map/Familiar/Familiar_LOW.hd.webm/17f3ef1f74da34bfa15ef3b86b6f476b.webm",
+    "jmcs://jd-contents/Familiar/Familiar_MID.hd.webm": "/private/map/Familiar/Familiar_MID.hd.webm/bd62c658ff34d8e46f3a55b2c1bcdc48.webm",
+    "jmcs://jd-contents/Familiar/Familiar_ULTRA.hd.webm": "/private/map/Familiar/Familiar_ULTRA.hd.webm/0c0a383b6c56c03343472acad14c79ca.webm",
+    "jmcs://jd-contents/Familiar/Familiar_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Familiar/Familiar_MapPreviewNoSoundCrop_LOW.vp8.webm/3b3ea65339164649e73f3e45e200f5ec.webm",
+    "jmcs://jd-contents/Familiar/Familiar_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Familiar/Familiar_MapPreviewNoSoundCrop_MID.vp8.webm/3427b6fd6b4328ab77e7f72282ca5665.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30960,
+        61920,
+        92880,
+        123888,
+        154848,
+        185808,
+        216768,
+        247728,
+        278688,
+        309696,
+        340656,
+        371616,
+        402576,
+        433536,
+        464496,
+        495504,
+        526464,
+        557424,
+        588384,
+        619344,
+        650304,
+        681312,
+        712272,
+        743232,
+        774192,
+        805152,
+        836112,
+        867120,
+        898080,
+        929040,
+        960000,
+        990960,
+        1021920,
+        1052880,
+        1083888,
+        1114848,
+        1145808,
+        1176768,
+        1207728,
+        1238688,
+        1269696,
+        1300656,
+        1331616,
+        1362576,
+        1393536,
+        1424496,
+        1455504,
+        1486464
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 302,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Familiar/Familiar_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "91192822d44e353750cbefc3d5dde5ab",
+      "storageType": 0,
+      "url": "/public/map/Familiar/nx/Familiar_MAIN_SCENE_NX.zip/91192822d44e353750cbefc3d5dde5ab.zip"
+    },
+    "pc": {
+      "md5": "658557118f73fd0325b5883bad9bcdee",
+      "storageType": 0,
+      "url": "/public/map/Familiar/pc/Familiar_MAIN_SCENE_PC.zip/658557118f73fd0325b5883bad9bcdee.zip"
+    },
+    "ps4": {
+      "md5": "bfff07883c42e39be899a43b60437840",
+      "storageType": 0,
+      "url": "/public/map/Familiar/orbis/Familiar_MAIN_SCENE_ORBIS.zip/bfff07883c42e39be899a43b60437840.zip"
+    }
+  },
+  "data": {
+    "mapName": "Familiar",
+    "title": "Familiar",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main"
+    ],
+    "artist": "Liam Payne & J Balvin",
+    "credits": "Written by Gamal Lewis, Jose Alvaro Osorio Balvin, Mike Sabath and Sean Douglas. Published by Sony/ATV Sonata (SESAC), Eastman Pond Publishing (BMI) c/o Sony/ATV Music Publishing Canada (SOCAN) / Universal Musica Unica Publishing. All rights reserved. Used with permission. Courtesy of Republic Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#7941ea",
+    "songColor2A": "#cc6302",
+    "songColor1B": "#541a77",
+    "songColor2B": "#c67b11",
+    "lyricsColor": "#fe03c3",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Familiar/nx/Familiar_banner_bkg.tga.ckd/0c82e94c0a192413d9b02fc28beafe0b.ckd",
+      "map_bkgImageUrl": "/public/map/Familiar/nx/Familiar_map_bkg.tga.ckd/4ac8a9abf55f9cf9daa74552391fa5b2.ckd",
+      "expandCoachImageUrl": "/public/map/Familiar/nx/Familiar_Cover_AlbumCoach.tga.ckd/d407e7f61e0a99daecfada629808e253.ckd",
+      "cover_smallImageUrl": "/public/map/Familiar/nx/Familiar_Cover_Online.tga.ckd/2f4d6224c22603d19c4e284a91ccef45.ckd",
+      "coverImageUrl": "/public/map/Familiar/nx/Familiar_Cover_Generic.tga.ckd/49556c4a4624987b6b344c79331361bb.ckd",
+      "coach1ImageUrl": "/public/map/Familiar/nx/Familiar_Coach_1.tga.ckd/19963e84a958b1d343bdf34b1f13e598.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Familiar/pc/Familiar_banner_bkg.tga.ckd/9fbdf2d08b9bfa332c20d1897b92560e.ckd",
+      "map_bkgImageUrl": "/public/map/Familiar/pc/Familiar_map_bkg.tga.ckd/338b971ce53d32780df951ec0c6197a9.ckd",
+      "expandCoachImageUrl": "/public/map/Familiar/pc/Familiar_Cover_AlbumCoach.tga.ckd/c1f5a4f8dbc330b6263241761dd50e19.ckd",
+      "cover_smallImageUrl": "/public/map/Familiar/pc/Familiar_Cover_Online.tga.ckd/8bde60d2b75c136593a8a44da8b18b5e.ckd",
+      "coverImageUrl": "/public/map/Familiar/pc/Familiar_Cover_Generic.tga.ckd/70c38fc3f3695919a238fb99993e44c1.ckd",
+      "coach1ImageUrl": "/public/map/Familiar/pc/Familiar_Coach_1.tga.ckd/ac58c424f6558fb062dd6e40d2372b07.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Familiar/orbis/Familiar_banner_bkg.tga.ckd/9fbdf2d08b9bfa332c20d1897b92560e.ckd",
+      "map_bkgImageUrl": "/public/map/Familiar/orbis/Familiar_map_bkg.tga.ckd/338b971ce53d32780df951ec0c6197a9.ckd",
+      "expandCoachImageUrl": "/public/map/Familiar/orbis/Familiar_Cover_AlbumCoach.tga.ckd/c1f5a4f8dbc330b6263241761dd50e19.ckd",
+      "cover_smallImageUrl": "/public/map/Familiar/orbis/Familiar_Cover_Online.tga.ckd/8bde60d2b75c136593a8a44da8b18b5e.ckd",
+      "coverImageUrl": "/public/map/Familiar/orbis/Familiar_Cover_Generic.tga.ckd/70c38fc3f3695919a238fb99993e44c1.ckd",
+      "coach1ImageUrl": "/public/map/Familiar/orbis/Familiar_Coach_1.tga.ckd/ac58c424f6558fb062dd6e40d2372b07.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Familiar/Familiar_Coach_1_Phone.png/af238a0bc65a9377abe3acd3548f4719.png",
+    "phoneCoverImageUrl": "/public/map/Familiar/Familiar_Cover_Phone.jpg/198331b08fdc4a181633c10cceb7f9d9.jpg",
+    "cover640ImageUrl": "/public/map/Familiar/Familiar_Cover_640.png/aaaa0f7505e9290d16569858044ddcca.png"
+  },
+  "mapLength": 196.129021
+}

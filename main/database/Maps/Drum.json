@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3e841c537e74a50243418acbd24f2ebd",
+      "storageType": 0,
+      "url": "/public/map/Drum/nx/Drum_MAIN_SCENE_NX.zip/3e841c537e74a50243418acbd24f2ebd.zip"
+    },
+    "pc": {
+      "md5": "d6c900d6b1459fb27a420f9c51de5d5f",
+      "storageType": 0,
+      "url": "/public/map/Drum/pc/Drum_MAIN_SCENE_PC.zip/d6c900d6b1459fb27a420f9c51de5d5f.zip"
+    },
+    "ps4": {
+      "md5": "8ec3821f59a90251e5f1a8b85bf7f261",
+      "storageType": 0,
+      "url": "/public/map/Drum/orbis/Drum_MAIN_SCENE_ORBIS.zip/8ec3821f59a90251e5f1a8b85bf7f261.zip"
+    }
+  },
+  "data": {
+    "mapName": "Drum",
+    "title": "Jungle Drum",
+    "originalJDVersion": 3,
+    "tags": [
+      "main"
+    ],
+    "artist": "Emilíana Torrini",
+    "credits": "EMPTY",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#003cff",
+    "songColor2A": "#cd0087",
+    "songColor1B": "#00095f",
+    "songColor2B": "#560059",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27428,
+        54856,
+        82284,
+        109712,
+        137140,
+        164568,
+        192000,
+        216241,
+        240483,
+        264864,
+        289140,
+        313458,
+        337776,
+        362094,
+        386411,
+        410729,
+        435047,
+        459365,
+        483683,
+        508001,
+        532318,
+        556636,
+        580954,
+        605272,
+        629590,
+        653908,
+        678225,
+        702543,
+        726861,
+        751179,
+        775497,
+        799814,
+        824132,
+        848450,
+        872768,
+        897086,
+        921404,
+        945721,
+        970039,
+        994357,
+        1018675,
+        1042705,
+        1066579,
+        1090897,
+        1115215,
+        1139533,
+        1163850,
+        1188168,
+        1212486,
+        1237326,
+        1261958,
+        1286275,
+        1310593,
+        1334911,
+        1359229,
+        1383547,
+        1407865,
+        1431373,
+        1455690,
+        1480008
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 268,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Drum/Drum_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Drum/nx/Drum_banner_bkg.tga.ckd/d91b713a7c56a3ba00f0c64a6a83e5ca.ckd",
+      "map_bkgImageUrl": "/public/map/Drum/nx/Drum_map_bkg.tga.ckd/0c5b88e91623c8868c60199cd9c70c69.ckd",
+      "expandCoachImageUrl": "/public/map/Drum/nx/Drum_Cover_AlbumCoach.tga.ckd/095d0ec732889ca9e7a83928aa5935b5.ckd",
+      "cover_smallImageUrl": "/public/map/Drum/nx/Drum_Cover_Online.tga.ckd/4528704b99558a9fc0b124f0b8b1a401.ckd",
+      "coach1ImageUrl": "/public/map/Drum/nx/Drum_Coach_1.tga.ckd/225d233575c2e5ed14b0d00f6438daa1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Drum/pc/Drum_banner_bkg.tga.ckd/9b2fdbaa0835f40fd6c9a78ddef4f9cb.ckd",
+      "map_bkgImageUrl": "/public/map/Drum/pc/Drum_map_bkg.tga.ckd/acd53743e1d45881de2fc7f5183b456e.ckd",
+      "expandCoachImageUrl": "/public/map/Drum/pc/Drum_Cover_AlbumCoach.tga.ckd/d54033130b1d40ee203f88d54899bed8.ckd",
+      "cover_smallImageUrl": "/public/map/Drum/pc/Drum_Cover_Online.tga.ckd/f2c4e9f91a2464946b5024f7e6b9f15b.ckd",
+      "coach1ImageUrl": "/public/map/Drum/pc/Drum_Coach_1.tga.ckd/268fe5a395bcc8cd9ea29acc864ea265.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Drum/orbis/Drum_banner_bkg.tga.ckd/9b2fdbaa0835f40fd6c9a78ddef4f9cb.ckd",
+      "map_bkgImageUrl": "/public/map/Drum/orbis/Drum_map_bkg.tga.ckd/acd53743e1d45881de2fc7f5183b456e.ckd",
+      "expandCoachImageUrl": "/public/map/Drum/orbis/Drum_Cover_AlbumCoach.tga.ckd/d54033130b1d40ee203f88d54899bed8.ckd",
+      "cover_smallImageUrl": "/public/map/Drum/orbis/Drum_Cover_Online.tga.ckd/f2c4e9f91a2464946b5024f7e6b9f15b.ckd",
+      "coach1ImageUrl": "/public/map/Drum/orbis/Drum_Coach_1.tga.ckd/268fe5a395bcc8cd9ea29acc864ea265.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Drum/Drum_Coach_1_Phone.png/8e9d6d6871ce4d27e7d17e74cf7eb0b0.png",
+    "phoneCoverImageUrl": "/public/map/Drum/Drum_Cover_Phone.jpg/0fa97b97b703bb30c9fbaebbc50cdccf.jpg",
+    "cover640ImageUrl": "/public/map/Drum/Drum_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Drum/Drum.ogg": "/private/map/Drum/Drum.ogg/38eec4ae28c68e941ed19e049fe087de.ogg",
+    "jmcs://jd-contents/Drum/Drum_AudioPreview.ogg": "/public/map/Drum/Drum_AudioPreview.ogg/3cbe335643fea424ba14898519defed4.ogg",
+    "jmcs://jd-contents/Drum/Drum_HIGH.webm": "/private/map/Drum/Drum_HIGH.webm/890513f5bfdaefd8e964f2932794a680.webm",
+    "jmcs://jd-contents/Drum/Drum_LOW.webm": "/private/map/Drum/Drum_LOW.webm/adabafc9054a2181ce06833c9c045f2a.webm",
+    "jmcs://jd-contents/Drum/Drum_MID.webm": "/private/map/Drum/Drum_MID.webm/c59eb057345eec934ea8130f678a682d.webm",
+    "jmcs://jd-contents/Drum/Drum_ULTRA.hd.webm": "/private/map/Drum/Drum_ULTRA.hd.webm/7b84bf43458ad395ceca900e8f10faf7.webm",
+    "jmcs://jd-contents/Drum/Drum_ULTRA.webm": "/private/map/Drum/Drum_ULTRA.webm/25b76d8b262744990024b7f71a62eb1a.webm",
+    "jmcs://jd-contents/Drum/Drum_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Drum/Drum_MapPreviewNoSoundCrop_LOW.vp8.webm/9580001e9896ee5e570e0fa8eb015d59.webm",
+    "jmcs://jd-contents/Drum/Drum_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Drum/Drum_MapPreviewNoSoundCrop_MID.vp8.webm/0c4b7fe67561027184fdd6ac65134b25.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"506693\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Drum/Drum_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\n\t\t\t\t\t<Initialization range=\"0-594\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1495665\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Drum/Drum_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"595-1085\">\n\t\t\t\t\t<Initialization range=\"0-595\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 136.369563
+}

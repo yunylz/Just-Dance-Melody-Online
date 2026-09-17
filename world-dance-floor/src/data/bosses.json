@@ -1,0 +1,1412 @@
+{
+    "bosses": {
+        "BOOMBOX": {
+            "__class": "OnlineBoss",
+            "bossId": "BOOMBOX",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/BOOMBOX/logo.png/549014eb38a2b3d31a80c489175e1f40.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/BOOMBOX/BOOMBOX.png/9508cb5c79d48e818e3f2a28a1de6fd9.png",
+            "packages": {
+                "bossContent": "BOOMBOX_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Billy": {
+            "__class": "OnlineBoss",
+            "bossId": "Billy",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Billy/logo.png/8d0f6b8b4e037a55270d201e69984ee3.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Billy/Billy.png/6c6c55b2ab8d87d230aa85f9bf1304cc.png",
+            "packages": {
+                "bossContent": "Billy_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "CaptainSharptooth": {
+            "__class": "OnlineBoss",
+            "bossId": "CaptainSharptooth",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/CaptainSharptooth/logo.png/a9636aaa164a0080e387a05e7ddefe82.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/CaptainSharptooth/CaptainSharptooth.png/e201ee4cc59650ec59e55fcae114be94.png",
+            "packages": {
+                "bossContent": "CaptainSharptooth_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        }
+    },
+    "seasonal": {
+        "Arachna": {
+            "__class": "OnlineBoss",
+            "bossId": "Arachna",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Arachna/nx/logo.png/6df28ff5871339f6104eeba94f367574.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Arachna/nx/Arachna.png/24640f8f5461a07d7017d833f94eb934.png",
+            "packages": {
+                "bossContent": "Arachna_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "BabaYaga": {
+            "__class": "OnlineBoss",
+            "bossId": "BabaYaga",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/BabaYaga/logo.png/e495f44355f3ff78554190d34ba21432.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/BabaYaga/BabaYaga.png/d1c667670ba0554ccc422bc08840a441.png",
+            "packages": {
+                "bossContent": "BabaYaga_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Esqueletta": {
+            "__class": "OnlineBoss",
+            "bossId": "Esqueletta",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Esqueletta/nx/logo.png/24a7e465026d420d683ef08ea73b0618.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Esqueletta/nx/Esqueletta.png/c2af058f0ad5017cf989cf0235cc0903.png",
+            "packages": {
+                "bossContent": "Esqueletta_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Frankenstein": {
+            "__class": "OnlineBoss",
+            "bossId": "Frankenstein",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Frankenstein/logo.png/87a72ee3fcdced95c183742c3755e628.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Frankenstein/Frankenstein.png/d272f3a3a37e4f0a82e5800fec702a5d.png",
+            "packages": {
+                "bossContent": "Frankenstein_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Garylou": {
+            "__class": "OnlineBoss",
+            "bossId": "Garylou",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Garylou/nx/logo.png/64dc8a997376dc0eb30d31caa719a635.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Garylou/nx/Garylou.png/e43ab4d026957753abe2ef4c4921484f.png",
+            "packages": {
+                "bossContent": "Garylou_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "GrumpyGhost": {
+            "__class": "OnlineBoss",
+            "bossId": "GrumpyGhost",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/GrumpyGhost/nx/logo.png/b27999924fa5b31234b75f630a936cce.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/GrumpyGhost/nx/GrumpyGhost.png/e7548fd4f006462802f10acc242896b8.png",
+            "packages": {
+                "bossContent": "GrumpyGhost_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "JackOPumpkin": {
+            "__class": "OnlineBoss",
+            "bossId": "JackOPumpkin",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/JackOPumpkin/nx/logo.png/e73e83e239cc080ad5ced071fe23a794.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/JackOPumpkin/nx/JackOPumpkin.png/8ded0b0abcde95e74ed885c67c53ba27.png",
+            "packages": {
+                "bossContent": "JackOPumpkin_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "PumpkinHead": {
+            "__class": "OnlineBoss",
+            "bossId": "PumpkinHead",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/PumpkinHead/logo.png/e37de53bd7f833a2f26b26788114f483.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/PumpkinHead/PumpkinHead.png/bc906d3b7056dc8f62fbd8cd87e0d937.png",
+            "packages": {
+                "bossContent": "PumpkinHead_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "TwoTeeth": {
+            "__class": "OnlineBoss",
+            "bossId": "TwoTeeth",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/TwoTeeth/nx/logo.png/fd2dec0238e523c74bee5af1ff4647db.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/TwoTeeth/nx/TwoTeeth.png/b9814824d3d060ff62c915a3d8c76760.png",
+            "packages": {
+                "bossContent": "TwoTeeth_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "BigSanta": {
+            "__class": "OnlineBoss",
+            "bossId": "BigSanta",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/BigSanta/logo.png/3241ba152f5b791a184504a654f13739.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/BigSanta/BigSanta.png/22400c40de15edc13b447d39fa461ca0.png",
+            "packages": {
+                "bossContent": "BigSanta_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "FiggySnowRider": {
+            "__class": "OnlineBoss",
+            "bossId": "FiggySnowRider",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/FiggySnowRider/nx/logo.png/f3a48093d5665d2507a2128931bfa222.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/FiggySnowRider/nx/FiggySnowRider.png/7ab501fd2bf4b11c0ec68192c4c81b9d.png",
+            "packages": {
+                "bossContent": "FiggySnowRider_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Polaris": {
+            "__class": "OnlineBoss",
+            "bossId": "Polaris",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Polaris/nx/logo.png/94b2f476fea0f0c3385c7917e2b48d5a.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Polaris/nx/Polaris.png/8d743ad56ab0ffe089423916744adb1a.png",
+            "packages": {
+                "bossContent": "Polaris_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Reign": {
+            "__class": "OnlineBoss",
+            "bossId": "Reign",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Reign/nx/logo.png/a768791583f72ba9c73a633aaafd36d6.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Reign/nx/Reign.png/89c7fcd136cf1a89fe4edee164f3a935.png",
+            "packages": {
+                "bossContent": "Reign_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Santa": {
+            "__class": "OnlineBoss",
+            "bossId": "Santa",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Santa/logo.png/bc68de72b19f4496dfd8cb09ddf32d6a.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Santa/Santa.png/1159edc23db6d1cc65ea356dd3565500.png",
+            "packages": {
+                "bossContent": "Santa_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "SnowMan": {
+            "__class": "OnlineBoss",
+            "bossId": "SnowMan",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/SnowMan/nx/logo.png/f08da87a9c266a90c1a5e53c5bc89843.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/SnowMan/nx/SnowMan.png/78270a42d6301b82146a2fb58adf3567.png",
+            "packages": {
+                "bossContent": "SnowMan_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Sparkle": {
+            "__class": "OnlineBoss",
+            "bossId": "Sparkle",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Sparkle/logo.png/dc5df0125e7f915ca35da6d737bb741a.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Sparkle/Sparkle.png/b7ae02c7677c19376a026a44949715d5.png",
+            "packages": {
+                "bossContent": "Sparkle_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Sparkle2": {
+            "__class": "OnlineBoss",
+            "bossId": "Sparkle2",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Sparkle2/logo.png/8be3af3da660c4961f4cd92bf8f62613.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Sparkle2/Sparkle2.png/73405374be264996fbfbad8f671fc9c8.png",
+            "packages": {
+                "bossContent": "Sparkle2_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "SuperSanta": {
+            "__class": "OnlineBoss",
+            "bossId": "SuperSanta",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/SuperSanta/nx/logo.png/a1ec3f3cf6f47e01585b147e26218675.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/SuperSanta/nx/SuperSanta.png/ba8605613bcda807a539e4a3f5015a21.png",
+            "packages": {
+                "bossContent": "SuperSanta_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Twinkle": {
+            "__class": "OnlineBoss",
+            "bossId": "Twinkle",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Twinkle/logo.png/c40b106ffe937e3419b6e1abb3583a60.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Twinkle/Twinkle.png/3b2b68c979ba61ab904a22e460a45241.png",
+            "packages": {
+                "bossContent": "Twinkle_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Twinkle2": {
+            "__class": "OnlineBoss",
+            "bossId": "Twinkle2",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Twinkle2/logo.png/86236e13290741744d6400dddb210498.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Twinkle2/Twinkle2.png/7594e7d24ae02249291b7bbaed2e4f49.png",
+            "packages": {
+                "bossContent": "Twinkle2_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Yeti": {
+            "__class": "OnlineBoss",
+            "bossId": "Yeti",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Yeti/nx/logo.png/779eb95df2969ad290bc5836ccd12f7b.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Yeti/nx/Yeti.png/0a84da0a8e4e83d989162d7bb3511054.png",
+            "packages": {
+                "bossContent": "Yeti_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "ArcherOfLove": {
+            "__class": "OnlineBoss",
+            "bossId": "ArcherOfLove",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/ArcherOfLove/nx/logo.png/180863c7c26934f902e01b049af96f5c.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/ArcherOfLove/nx/ArcherOfLove.png/54d10b1d60e6216b027c859dd301adf7.png",
+            "packages": {
+                "bossContent": "ArcherOfLove_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "TheLovelyGift": {
+            "__class": "OnlineBoss",
+            "bossId": "TheLovelyGift",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/TheLovelyGift/nx/logo.png/45da7b3cd7599c8836986bc07f0c4f7a.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/TheLovelyGift/nx/TheLovelyGift.png/d159cc99843b1a5cddbfe6b27d9bf63a.png",
+            "packages": {
+                "bossContent": "TheLovelyGift_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "TheRedQueen": {
+            "__class": "OnlineBoss",
+            "bossId": "TheRedQueen",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/TheRedQueen/nx/logo.png/aa3566c16809b2be9e18604903ebb9fb.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/TheRedQueen/nx/TheRedQueen.png/69bead63709ce11cf310846a47f7f04c.png",
+            "packages": {
+                "bossContent": "TheRedQueen_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Arlecchino": {
+            "__class": "OnlineBoss",
+            "bossId": "Arlecchino",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Arlecchino/logo.png/ac28770fa56b8f05f096a2c74258f2c2.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Arlecchino/Arlecchino.png/2a84bbf2a25033cc5ff8bbff158e253c.png",
+            "packages": {
+                "bossContent": "Arlecchino_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Battucada": {
+            "__class": "OnlineBoss",
+            "bossId": "Battucada",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Battucada/logo.png/d596c465c66adf557004c8764c9831f2.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Battucada/Battucada.png/8386f6dd0768ad646e543c55b49e2098.png",
+            "packages": {
+                "bossContent": "Battucada_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Martello": {
+            "__class": "OnlineBoss",
+            "bossId": "Martello",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Martello/logo.png/020e2653175621781cb6f6e7726c53df.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Martello/Martello.png/9d84f75a9b1abeebde10bc2c86cdd37f.png",
+            "packages": {
+                "bossContent": "Martello_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "PandaFloat": {
+            "__class": "OnlineBoss",
+            "bossId": "PandaFloat",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/PandaFloat/logo.png/83ea6d637390ac4dbb98a47cfa74587e.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/PandaFloat/PandaFloat.png/ba6be127647bcb9fcfb8526e15491dbe.png",
+            "packages": {
+                "bossContent": "PandaFloat_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Earthdog": {
+            "__class": "OnlineBoss",
+            "bossId": "Earthdog",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Earthdog/nx/logo.png/64cf5699357525c5306cda9c812d7c2b.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Earthdog/nx/Earthdog.png/55fe684cddd20c889d2703c83bc0d8db.png",
+            "packages": {
+                "bossContent": "Earthdog_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "FireRooster": {
+            "__class": "OnlineBoss",
+            "bossId": "FireRooster",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/FireRooster/nx/logo.png/ead27c8412d8c1ab39dc7358dfb76364.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/FireRooster/nx/FireRooster.png/7d37ba0f8bd0868c6efe56ab7ea8ca53.png",
+            "packages": {
+                "bossContent": "FireRooster_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Monkeyking": {
+            "__class": "OnlineBoss",
+            "bossId": "Monkeyking",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Monkeyking/nx/logo.png/8d33f9a25b85fbad0e987e7a43ace01e.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Monkeyking/nx/Monkeyking.png/5501d73177cfa23c56471621a759ad6e.png",
+            "packages": {
+                "bossContent": "Monkeyking_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Nami": {
+            "__class": "OnlineBoss",
+            "bossId": "Nami",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Nami/logo.png/96fbda0b1f4d7f046c266c97ccea8b10.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Nami/Nami.png/ebd6d1d2cc3cc6816df36d639b949249.png",
+            "packages": {
+                "bossContent": "Nami_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Sunny": {
+            "__class": "OnlineBoss",
+            "bossId": "Sunny",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Sunny/logo.png/c1bec48c87a54c4152e93789a49fe5cf.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Sunny/Sunny.png/5fbfe1a3a9282c26279658e1cd41de0e.png",
+            "packages": {
+                "bossContent": "Sunny_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Wilo": {
+            "__class": "OnlineBoss",
+            "bossId": "Wilo",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Wilo/logo.png/682e20f5cff9d3c5ce00433e15690b43.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Wilo/Wilo.png/09df8fbd05a712867d1de4acd2c286c3.png",
+            "packages": {
+                "bossContent": "Wilo_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        }
+    },
+    "drafts": {
+        "Boumbabox": {
+            "__class": "OnlineBoss",
+            "bossId": "Boumbabox",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Boumbabox/nx/logo.png/e415363b204d62f14d3a4d10f3592aab.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Boumbabox/nx/Boumbabox.png/f17ceee0930e9a1423ee8f4a55b2c841.png",
+            "packages": {
+                "bossContent": "Boumbabox_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Bushido": {
+            "__class": "OnlineBoss",
+            "bossId": "Bushido",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Bushido/nx/logo.png/6699d32aeb187044a4359a207a799708.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Bushido/nx/Bushido.png/318ca0d44791fe2526328a641fafc5fd.png",
+            "packages": {
+                "bossContent": "Bushido_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Chickpea": {
+            "__class": "OnlineBoss",
+            "bossId": "Chickpea",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Chickpea/logo.png/1c95626d1c4595058b2838758d40f1df.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Chickpea/Chickpea.png/107b5bdb46a96cc38699a1fe3202d4e3.png",
+            "packages": {
+                "bossContent": "Chickpea_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Chita": {
+            "__class": "OnlineBoss",
+            "bossId": "Chita",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Chita/logo.png/bfcc603bc2b98cb61a012b3c704ac88e.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Chita/Chita.png/dd1fc59e7afcac6e7ed30a13b27b1a69.png",
+            "packages": {
+                "bossContent": "Chita_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "CoachJD": {
+            "__class": "OnlineBoss",
+            "bossId": "CoachJD",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/CoachJD/logo.png/94f07145bfc693b929a3e4b354cff97e.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/CoachJD/CoachJD.png/92bf4eeb9c8e78ad96e77405308b4835.png",
+            "packages": {
+                "bossContent": "CoachJD_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "CounselorGiraffus": {
+            "__class": "OnlineBoss",
+            "bossId": "CounselorGiraffus",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/CounselorGiraffus/nx/logo.png/ea8d88b86f66ed22e0206b3a7bf60a68.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/CounselorGiraffus/nx/CounselorGiraffus.png/17ae45f1d94bbc24c784e32cd595c837.png",
+            "packages": {
+                "bossContent": "CounselorGiraffus_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "CrashGuy": {
+            "__class": "OnlineBoss",
+            "bossId": "CrashGuy",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/CrashGuy/logo.png/af037cd7aa437023db6f37e62c9a38f0.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/CrashGuy/CrashGuy.png/85010a74364f29ec993c997d12f453d6.png",
+            "packages": {
+                "bossContent": "CrashGuy_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Curtie": {
+            "__class": "OnlineBoss",
+            "bossId": "Curtie",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Curtie/logo.png/4600dbd2cf98087ff14a92baa3a28526.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Curtie/Curtie.png/f60697962eba7a3ba2e610e45ab19e8b.png",
+            "packages": {
+                "bossContent": "Curtie_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Deezy": {
+            "__class": "OnlineBoss",
+            "bossId": "Deezy",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Deezy/logo.png/8535a34d6c4814242278b2d9a116625f.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Deezy/Deezy.png/69b7d3fd53547a51608ec0689cf305cf.png",
+            "packages": {
+                "bossContent": "Deezy_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Elpee": {
+            "__class": "OnlineBoss",
+            "bossId": "Elpee",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Elpee/nx/logo.png/46fc6853c5d6a4568de5d5a30beb5161.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Elpee/nx/Elpee.png/34477d5e970d58683c936ee464c58258.png",
+            "packages": {
+                "bossContent": "Elpee_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "FURY": {
+            "__class": "OnlineBoss",
+            "bossId": "FURY",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/FURY/logo.png/52ab4d11dbf4e6c64dbf89c6d6b8607d.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/FURY/FURY.png/40f761840b5471ca8deb5128b8beff01.png",
+            "packages": {
+                "bossContent": "FURY_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "GAMEBO": {
+            "__class": "OnlineBoss",
+            "bossId": "GAMEBO",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/GAMEBO/logo.png/759aa24e8202b21230c1e39a5fdcc9a9.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/GAMEBO/GAMEBO.png/685dd9b51e8dc7808813345ba591dc74.png",
+            "packages": {
+                "bossContent": "GAMEBO_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "George": {
+            "__class": "OnlineBoss",
+            "bossId": "George",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/George/logo.png/c1f58f87f6de4b2506453e1a32557b40.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/George/George.png/71c357cc1897f7e5bae0562dfff1d0a4.png",
+            "packages": {
+                "bossContent": "George_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Hippos": {
+            "__class": "OnlineBoss",
+            "bossId": "Hippos",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Hippos/logo.png/f9d0e8e7cb74aafc5f8316b551edec9e.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Hippos/Hippos.png/a099ddd233bda8bba3b4ab83b8287dab.png",
+            "packages": {
+                "bossContent": "Hippos_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "JimiSeaHorse": {
+            "__class": "OnlineBoss",
+            "bossId": "JimiSeaHorse",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/JimiSeaHorse/nx/logo.png/11bf58b845c55eb88b20abb42a3c5df4.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/JimiSeaHorse/nx/JimiSeaHorse.png/b684ff1cd251114d222b50d537e6904c.png",
+            "packages": {
+                "bossContent": "JimiSeaHorse_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Kawacake": {
+            "__class": "OnlineBoss",
+            "bossId": "Kawacake",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Kawacake/logo.png/aa610e1b7a453675fac860c4df1d01e2.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Kawacake/Kawacake.png/98fbde2cfd03eb75c146efde3d4c3e21.png",
+            "packages": {
+                "bossContent": "Kawacake_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "KeytarCat": {
+            "__class": "OnlineBoss",
+            "bossId": "KeytarCat",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/KeytarCat/nx/logo.png/f54e33bdfd89ac69079a0c23b1f85c71.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/KeytarCat/nx/KeytarCat.png/0efa5293e2290aaaea65fe13c70a9f39.png",
+            "packages": {
+                "bossContent": "KeytarCat_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "KingJumbo": {
+            "__class": "OnlineBoss",
+            "bossId": "KingJumbo",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/KingJumbo/nx/logo.png/e63c4889e4239a92324cc0aafe9efaf7.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/KingJumbo/nx/KingJumbo.png/4c4f3074f1ce7dfd52c64407615fc88a.png",
+            "packages": {
+                "bossContent": "KingJumbo_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "LazerCat": {
+            "__class": "OnlineBoss",
+            "bossId": "LazerCat",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/LazerCat/nx/logo.png/543e58ce0b2f65863e357acc2d4347ff.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/LazerCat/nx/LazerCat.png/c2ea560e827d916e1c9fc282b1f07b00.png",
+            "packages": {
+                "bossContent": "LazerCat_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Leek": {
+            "__class": "OnlineBoss",
+            "bossId": "Leek",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Leek/nx/logo.png/549c4d98f8f4a6c4ceace893072fa6d7.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Leek/nx/Leek.png/bbb08ec87798211dfb92acbb7402060b.png",
+            "packages": {
+                "bossContent": "Leek_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "LeopoldTheJester": {
+            "__class": "OnlineBoss",
+            "bossId": "LeopoldTheJester",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/LeopoldTheJester/nx/logo.png/d460291bcb5f10584da0954b4d911125.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/LeopoldTheJester/nx/LeopoldTheJester.png/d4b803139b69bde09cec02ac5f7cbd80.png",
+            "packages": {
+                "bossContent": "LeopoldTheJester_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Marquee": {
+            "__class": "OnlineBoss",
+            "bossId": "Marquee",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Marquee/logo.png/121bd4f5d17781f7c32efc18dc69fc9e.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Marquee/Marquee.png/c69bd04b60c0bd6297d9040372b1f98a.png",
+            "packages": {
+                "bossContent": "Marquee_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Micky": {
+            "__class": "OnlineBoss",
+            "bossId": "Micky",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Micky/logo.png/92f3660fb2ebab30942b9c259cbf5c91.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Micky/Micky.png/cf18944c0c447ffbde226cfac1cba764.png",
+            "packages": {
+                "bossContent": "Micky_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "MrChiefClaws": {
+            "__class": "OnlineBoss",
+            "bossId": "MrChiefClaws",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/MrChiefClaws/nx/logo.png/bdb55af9e5b6b924c7e3f76fd0125d60.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/MrChiefClaws/nx/MrChiefClaws.png/6d3233c3036852ebc8c2cbd25163a637.png",
+            "packages": {
+                "bossContent": "MrChiefClaws_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "MrMacaron": {
+            "__class": "OnlineBoss",
+            "bossId": "MrMacaron",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/MrMacaron/logo.png/b0ffdf0cf26433cc0c108c4fea070fd3.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/MrMacaron/MrMacaron.png/228ac297ae03856871ebaa2b84a6e979.png",
+            "packages": {
+                "bossContent": "MrMacaron_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Muchacharacas": {
+            "__class": "OnlineBoss",
+            "bossId": "Muchacharacas",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Muchacharacas/nx/logo.png/6fd688163df029f853a7410343c9790d.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Muchacharacas/nx/Muchacharacas.png/87f51223b60640ad6d07dab7b1536d63.png",
+            "packages": {
+                "bossContent": "Muchacharacas_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Muchachopeta": {
+            "__class": "OnlineBoss",
+            "bossId": "Muchachopeta",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Muchachopeta/nx/logo.png/0eb148337564e499c315e090fbb0390e.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Muchachopeta/nx/Muchachopeta.png/292750cdb37a20af22ef5c583b0b9547.png",
+            "packages": {
+                "bossContent": "Muchachopeta_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Muchachotarra": {
+            "__class": "OnlineBoss",
+            "bossId": "Muchachotarra",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Muchachotarra/nx/logo.png/4efc5bf42bb97092d0e314749e0e4281.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Muchachotarra/nx/Muchachotarra.png/c32923351a615d31d54dd25550d5a800.png",
+            "packages": {
+                "bossContent": "Muchachotarra_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "NEO": {
+            "__class": "OnlineBoss",
+            "bossId": "NEO",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/NEO/logo.png/648eb72ee0a07cc5dc33daf67a0539d9.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/NEO/NEO.png/66a2eb2083592be00e63337d91d0a1fe.png",
+            "packages": {
+                "bossContent": "NEO_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Nash": {
+            "__class": "OnlineBoss",
+            "bossId": "Nash",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Nash/logo.png/186944cb2f46f236e8297e4b70e19eff.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Nash/Nash.png/5599ca1a970e8a4bf2a0dd3f682f2848.png",
+            "packages": {
+                "bossContent": "Nash_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Nostresso": {
+            "__class": "OnlineBoss",
+            "bossId": "Nostresso",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Nostresso/logo.png/3fd0e89546cec86bb0ece845cfd5ae64.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Nostresso/Nostresso.png/c7e6932aaf4376eeac4e109bd2425a1c.png",
+            "packages": {
+                "bossContent": "Nostresso_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Oboy": {
+            "__class": "OnlineBoss",
+            "bossId": "Oboy",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Oboy/logo.png/598e31b7e3894a4891ec95af5b343ac5.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Oboy/Oboy.png/95dceb5ace3977a35985b8ed518c5b4b.png",
+            "packages": {
+                "bossContent": "Oboy_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "OctoDrum": {
+            "__class": "OnlineBoss",
+            "bossId": "OctoDrum",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/OctoDrum/nx/logo.png/2986497e2cf4daf12b5a3499773de649.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/OctoDrum/nx/OctoDrum.png/bf95c2b6bc1ca1fc6dbab5b2c6e437d7.png",
+            "packages": {
+                "bossContent": "OctoDrum_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "POLARO": {
+            "__class": "OnlineBoss",
+            "bossId": "POLARO",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/POLARO/logo.png/3f6aac8b89d085da3813d9a3bfa576b8.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/POLARO/POLARO.png/0f57853b4c85870cfdb0c3d674041fbf.png",
+            "packages": {
+                "bossContent": "POLARO_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "PeglegPorpoise": {
+            "__class": "OnlineBoss",
+            "bossId": "PeglegPorpoise",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/PeglegPorpoise/logo.png/b375e97b0132adf18aaebb8ff5b33959.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/PeglegPorpoise/PeglegPorpoise.png/0f97a1096f222edfe8fcb34e2dd213f2.png",
+            "packages": {
+                "bossContent": "PeglegPorpoise_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Rabback": {
+            "__class": "OnlineBoss",
+            "bossId": "Rabback",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Rabback/logo.png/6345ae8b284028ac0f0325b0d14cc454.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Rabback/Rabback.png/ffed64c48bf8c69988dc1cb3a86d6d3b.png",
+            "packages": {
+                "bossContent": "Rabback_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "RedLion": {
+            "__class": "OnlineBoss",
+            "bossId": "RedLion",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/RedLion/logo.png/2549184e0e474c02fe202fba1995f118.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/RedLion/RedLion.png/1293529a543fb31263f2335a007b4e0b.png",
+            "packages": {
+                "bossContent": "RedLion_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Rina": {
+            "__class": "OnlineBoss",
+            "bossId": "Rina",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Rina/logo.png/15b9baf8b0d7f113fc97343f858a6f78.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Rina/Rina.png/b9209371cf052386f8d3f895225cf57e.png",
+            "packages": {
+                "bossContent": "Rina_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "RocketCat": {
+            "__class": "OnlineBoss",
+            "bossId": "RocketCat",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/RocketCat/nx/logo.png/eeb325321ad027b5828608db15841c65.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/RocketCat/nx/RocketCat.png/6bef3a9525215e1235abca555561f3da.png",
+            "packages": {
+                "bossContent": "RocketCat_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Roxie": {
+            "__class": "OnlineBoss",
+            "bossId": "Roxie",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Roxie/logo.png/dcad8b06e531e194f42505064963f3b2.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Roxie/Roxie.png/6571380959cb9e5c44e253465cdc1531.png",
+            "packages": {
+                "bossContent": "Roxie_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "STEREO": {
+            "__class": "OnlineBoss",
+            "bossId": "STEREO",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/STEREO/logo.png/2938b97802cab7a0ee2b44998e020c2e.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/STEREO/STEREO.png/886182332f60151d579926b363f7d344.png",
+            "packages": {
+                "bossContent": "STEREO_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Selena": {
+            "__class": "OnlineBoss",
+            "bossId": "Selena",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Selena/logo.png/9f900bc4b6a882de66caa5f05d60602f.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Selena/Selena.png/a75b322cd4482eeacffd037a8b77a356.png",
+            "packages": {
+                "bossContent": "Selena_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Shamisa": {
+            "__class": "OnlineBoss",
+            "bossId": "Shamisa",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Shamisa/nx/logo.png/a557350fb10ec782dfb20e554a667110.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Shamisa/nx/Shamisa.png/14f9b49d5918a69febecabfbaf9014a0.png",
+            "packages": {
+                "bossContent": "Shamisa_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Stan": {
+            "__class": "OnlineBoss",
+            "bossId": "Stan",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Stan/logo.png/6cfd24dceb27572c105ad87661695dc3.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Stan/Stan.png/16db0e5d24245c56eb42757d98d4b40c.png",
+            "packages": {
+                "bossContent": "Stan_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "T-rex": {
+            "__class": "OnlineBoss",
+            "bossId": "T-rex",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/T-rex/logo.png/10a92a5df9316b1e851514661aef347c.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/T-rex/T-rex.png/b58fdd9d5aa5be1da51bf6e21b6de393.png",
+            "packages": {
+                "bossContent": "T-rex_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "TheGiraffa": {
+            "__class": "OnlineBoss",
+            "bossId": "TheGiraffa",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/TheGiraffa/logo.png/e1ab132c85cc2db1f8d693bc1bb222bb.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/TheGiraffa/TheGiraffa.png/40684b9bd822535609382819a0a9904c.png",
+            "packages": {
+                "bossContent": "TheGiraffa_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Tomato": {
+            "__class": "OnlineBoss",
+            "bossId": "Tomato",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Tomato/nx/logo.png/00d0a21e18a284c664aff4f68805db97.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Tomato/nx/Tomato.png/ebca7819260206fc6e774674f74468d8.png",
+            "packages": {
+                "bossContent": "Tomato_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Turnip": {
+            "__class": "OnlineBoss",
+            "bossId": "Turnip",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Turnip/nx/logo.png/071fb9cbe07dfb637a8573e7d15bb7e2.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Turnip/nx/Turnip.png/58c65cb67fd1c050ae6e71b5fb9c6c30.png",
+            "packages": {
+                "bossContent": "Turnip_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "WhiteYeti": {
+            "__class": "OnlineBoss",
+            "bossId": "WhiteYeti",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/WhiteYeti/logo.png/045554f17753b341593b8ee4a728130d.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/WhiteYeti/WhiteYeti.png/a6c1245ac82bf3cd96b3ca6e64b5b5de.png",
+            "packages": {
+                "bossContent": "WhiteYeti_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Yoggio": {
+            "__class": "OnlineBoss",
+            "bossId": "Yoggio",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Yoggio/logo.png/5e7ff950ac96058506c44c3a42ee819b.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Yoggio/Yoggio.png/b8701d27a03b7778dfacfb93eedee279.png",
+            "packages": {
+                "bossContent": "Yoggio_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "BlueTyphoon": {
+            "__class": "OnlineBoss",
+            "bossId": "BlueTyphoon",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/BlueTyphoon/logo.png/8791320404bd88304e756b922db7786f.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/BlueTyphoon/BlueTyphoon.png/c7a713aae9afd629e1f557179d557b43.png",
+            "packages": {
+                "bossContent": "BlueTyphoon_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Clint": {
+            "__class": "OnlineBoss",
+            "bossId": "Clint",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Clint/logo.png/d059c341ee64f82b581bbf4e7ab08720.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Clint/Clint.png/56bc806b38213ca00cc06cbb182b7d80.png",
+            "packages": {
+                "bossContent": "Clint_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Damona": {
+            "__class": "OnlineBoss",
+            "bossId": "Damona",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Damona/logo.png/c787cc47815fabedbd828b351e59b0a8.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Damona/Damona.png/ab315ec92c40ab0663e8053cbdd8117f.png",
+            "packages": {
+                "bossContent": "Damona_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Deerman": {
+            "__class": "OnlineBoss",
+            "bossId": "Deerman",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Deerman/logo.png/69f1ccdea23509c8313457217dc170ad.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Deerman/Deerman.png/03fb27d21f91871cb98adfe7c91974fa.png",
+            "packages": {
+                "bossContent": "Deerman_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Eagzio": {
+            "__class": "OnlineBoss",
+            "bossId": "Eagzio",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Eagzio/nx/logo.png/213bbb2588af4002a564003cb5670003.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Eagzio/nx/Eagzio.png/25cf7e1d2a7b66a3cab1d115b116078f.png",
+            "packages": {
+                "bossContent": "Eagzio_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Firestorm": {
+            "__class": "OnlineBoss",
+            "bossId": "Firestorm",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Firestorm/logo.png/c323370568bf87459e471617750e4818.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Firestorm/Firestorm.png/d57cf20ce58cd5cdeaa621b7c4203301.png",
+            "packages": {
+                "bossContent": "Firestorm_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Gaya": {
+            "__class": "OnlineBoss",
+            "bossId": "Gaya",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Gaya/logo.png/d620896c28ca6c34e30502951eac2d80.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Gaya/Gaya.png/538cbc357802cc2f929925830d5f3b11.png",
+            "packages": {
+                "bossContent": "Gaya_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Iscream": {
+            "__class": "OnlineBoss",
+            "bossId": "Iscream",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Iscream/logo.png/d9904dd8055dbbfe249749b2cb358f95.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Iscream/Iscream.png/794b37d96491b708f8db63ce0da7dd1b.png",
+            "packages": {
+                "bossContent": "Iscream_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Kong": {
+            "__class": "OnlineBoss",
+            "bossId": "Kong",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Kong/logo.png/cb509c0aac2cbddded7d732e3b5feb17.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Kong/Kong.png/59335d530994932909a82c0911c7bfd9.png",
+            "packages": {
+                "bossContent": "Kong_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "McQuack": {
+            "__class": "OnlineBoss",
+            "bossId": "McQuack",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/McQuack/logo.png/d579e3b551583b45893e55b113b20eb3.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/McQuack/McQuack.png/b0b2c515b8fcecc1ffeb8a88f8684564.png",
+            "packages": {
+                "bossContent": "McQuack_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Minerva": {
+            "__class": "OnlineBoss",
+            "bossId": "Minerva",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Minerva/logo.png/be9b54be30bdaf4d5e4b950cdd9a41ea.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Minerva/Minerva.png/0773dafa6ef9d44a1dd8f383c9254ef0.png",
+            "packages": {
+                "bossContent": "Minerva_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Monty": {
+            "__class": "OnlineBoss",
+            "bossId": "Monty",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Monty/logo.png/a3f216651a6ac1d9b4cba620ad9974e2.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Monty/Monty.png/d664ef4f8f57bfa4512bb74856f0c094.png",
+            "packages": {
+                "bossContent": "Monty_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Ori": {
+            "__class": "OnlineBoss",
+            "bossId": "Ori",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Ori/logo.png/4ca0f9072b0236fa61289a23a611eb6e.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Ori/Ori.png/114022534eebad232f8d8401c91bb142.png",
+            "packages": {
+                "bossContent": "Ori_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Peekhibou": {
+            "__class": "OnlineBoss",
+            "bossId": "Peekhibou",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Peekhibou/nx/logo.png/a60d25b7438d02cf5f4f025ec3f9a899.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Peekhibou/nx/Peekhibou.png/aad75445c37a6792f2bdc41ac47d30f6.png",
+            "packages": {
+                "bossContent": "Peekhibou_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 4,
+                "playlistLength": 2
+            }
+        },
+        "Pygmalion": {
+            "__class": "OnlineBoss",
+            "bossId": "Pygmalion",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Pygmalion/nx/logo.png/319d06d39fa361a8f1f2e8ca7e26d311.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Pygmalion/nx/Pygmalion.png/b975dbcb6114fd5418930e2e595a01d1.png",
+            "packages": {
+                "bossContent": "Pygmalion_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "Shinobi": {
+            "__class": "OnlineBoss",
+            "bossId": "Shinobi",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Shinobi/nx/logo.png/022227335f66695c1c8f148a9bc9a1e6.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Shinobi/nx/Shinobi.png/8a977f75906bd66ccc435690c1b8e703.png",
+            "packages": {
+                "bossContent": "Shinobi_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "SuperPanda": {
+            "__class": "OnlineBoss",
+            "bossId": "SuperPanda",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/SuperPanda/logo.png/533a40e05267903dae6f84b5f6298c45.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/SuperPanda/SuperPanda.png/73228a359a657a9739f38186928a27db.png",
+            "packages": {
+                "bossContent": "SuperPanda_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "Taurus": {
+            "__class": "OnlineBoss",
+            "bossId": "Taurus",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Taurus/logo.png/94e35547fcd117086f85cdcc61f06bd9.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/Taurus/Taurus.png/402a8ea8c498aa84f327434b43b0a9e7.png",
+            "packages": {
+                "bossContent": "Taurus_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 5,
+                "playlistLength": 3
+            }
+        },
+        "TunaToes": {
+            "__class": "OnlineBoss",
+            "bossId": "TunaToes",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/TunaToes/logo.png/fbc2e00f5a3afe87dedd8fab9ed067b3.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/TunaToes/TunaToes.png/0347d15a6740a8d144db7cfcd9b36a18.png",
+            "packages": {
+                "bossContent": "TunaToes_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "WokeeTokee": {
+            "__class": "OnlineBoss",
+            "bossId": "WokeeTokee",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/WokeeTokee/nx/logo.png/dae3ae9b7af76e17d0944eb09bf99863.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/WokeeTokee/nx/WokeeTokee.png/704770fb74f0d0df8b297bbbbddd5f6c.png",
+            "packages": {
+                "bossContent": "WokeeTokee_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        },
+        "WoodHorns": {
+            "__class": "OnlineBoss",
+            "bossId": "WoodHorns",
+            "logo": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/WoodHorns/logo.png/d041f283c5cd9790024a67a3bf819cb0.png",
+            "newsFeedPictureUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf-bosses/WoodHorns/WoodHorns.png/62c58c3ae5977c698777a8fc38d4bd3c.png",
+            "packages": {
+                "bossContent": "WoodHorns_bossContent"
+            },
+            "config": {
+                "bossDifficulty": 3,
+                "playlistLength": 1
+            }
+        }
+    }
+}

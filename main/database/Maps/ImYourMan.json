@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4635baf417acad39a43e9f2867fb050c",
+      "storageType": 0,
+      "url": "/public/map/ImYourMan/nx/ImYourMan_MAIN_SCENE_NX.zip/4635baf417acad39a43e9f2867fb050c.zip"
+    },
+    "pc": {
+      "md5": "1052e4ac7cc43413d86c7425943480f6",
+      "storageType": 0,
+      "url": "/public/map/ImYourMan/pc/ImYourMan_MAIN_SCENE_PC.zip/1052e4ac7cc43413d86c7425943480f6.zip"
+    },
+    "ps4": {
+      "md5": "596e33e25731028acc4ad86c0f9c364a",
+      "storageType": 0,
+      "url": "/public/map/ImYourMan/orbis/ImYourMan_MAIN_SCENE_ORBIS.zip/596e33e25731028acc4ad86c0f9c364a.zip"
+    }
+  },
+  "data": {
+    "mapName": "ImYourMan",
+    "title": "I’m Your Man",
+    "originalJDVersion": 1001,
+    "tags": [
+      "jdwii2",
+      "subscribedSong",
+      "JustDanceAsia",
+      "Hard",
+      "Solo"
+    ],
+    "artist": "2PM",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff1c08",
+    "songColor2A": "#ffffff",
+    "songColor1B": "#050100",
+    "songColor2B": "#000000",
+    "lyricsColor": "#fbd426"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        48528,
+        70176,
+        91824,
+        113472,
+        135120,
+        156768,
+        178416,
+        200064,
+        221760,
+        243408,
+        265056,
+        286704,
+        308352,
+        330000,
+        351648,
+        373296,
+        394944,
+        416640,
+        438288,
+        459936,
+        481584,
+        503232,
+        524880,
+        546528,
+        568176,
+        589824,
+        611520,
+        633168,
+        654816,
+        676464,
+        698112,
+        719760,
+        741408,
+        763056,
+        784704,
+        806400,
+        828048,
+        849696,
+        871344,
+        892992,
+        914640,
+        936288,
+        957936,
+        979584,
+        1001280,
+        1022928,
+        1044576,
+        1066224,
+        1087872,
+        1109520,
+        1131168,
+        1152816,
+        1174464,
+        1196160,
+        1217808,
+        1239456,
+        1261104,
+        1282752,
+        1304400,
+        1326048,
+        1347696,
+        1369344,
+        1391040,
+        1412688,
+        1434336,
+        1455984,
+        1477632
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 433,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ImYourMan/ImYourMan_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ImYourMan/nx/ImYourMan_banner_bkg.tga.ckd/fc083863fcd3403a2c71e477746a16ce.ckd",
+      "map_bkgImageUrl": "/public/map/ImYourMan/nx/ImYourMan_map_bkg.tga.ckd/e419164152e5551344e9cc85a2c015ff.ckd",
+      "expandCoachImageUrl": "/public/map/ImYourMan/nx/ImYourMan_Cover_AlbumCoach.tga.ckd/02c65dcc973f01fabfbf8a6d6a99150c.ckd",
+      "cover_smallImageUrl": "/public/map/ImYourMan/nx/ImYourMan_Cover_Online.tga.ckd/ba4d835d424525dfa69fc3820cfd23fd.ckd",
+      "coach1ImageUrl": "/public/map/ImYourMan/nx/ImYourMan_Coach_1.tga.ckd/02c65dcc973f01fabfbf8a6d6a99150c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ImYourMan/pc/ImYourMan_banner_bkg.tga.ckd/dc2d32828e1f3bc85690f0dc284b344c.ckd",
+      "map_bkgImageUrl": "/public/map/ImYourMan/pc/ImYourMan_map_bkg.tga.ckd/7bd6ef67455b60d8426e9591077a6aea.ckd",
+      "expandCoachImageUrl": "/public/map/ImYourMan/pc/ImYourMan_Cover_AlbumCoach.tga.ckd/e62c7e6002027318da42d7c4493a1d9b.ckd",
+      "cover_smallImageUrl": "/public/map/ImYourMan/pc/ImYourMan_Cover_Online.tga.ckd/379ca868ef7bc710fc92b08208cfcc6c.ckd",
+      "coach1ImageUrl": "/public/map/ImYourMan/pc/ImYourMan_Coach_1.tga.ckd/e62c7e6002027318da42d7c4493a1d9b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ImYourMan/orbis/ImYourMan_banner_bkg.tga.ckd/dc2d32828e1f3bc85690f0dc284b344c.ckd",
+      "map_bkgImageUrl": "/public/map/ImYourMan/orbis/ImYourMan_map_bkg.tga.ckd/7bd6ef67455b60d8426e9591077a6aea.ckd",
+      "expandCoachImageUrl": "/public/map/ImYourMan/orbis/ImYourMan_Cover_AlbumCoach.tga.ckd/e62c7e6002027318da42d7c4493a1d9b.ckd",
+      "cover_smallImageUrl": "/public/map/ImYourMan/orbis/ImYourMan_Cover_Online.tga.ckd/379ca868ef7bc710fc92b08208cfcc6c.ckd",
+      "coach1ImageUrl": "/public/map/ImYourMan/orbis/ImYourMan_Coach_1.tga.ckd/e62c7e6002027318da42d7c4493a1d9b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ImYourMan/ImYourMan_Coach_1_Phone.png/40becea73dd56f54616e2c3933d18c80.png",
+    "phoneCoverImageUrl": "/public/map/ImYourMan/ImYourMan_Cover_Phone.jpg/c576fa12f5ad0b1ca170167fbfdec24e.jpg",
+    "cover640ImageUrl": "/public/map/ImYourMan/ImYourMan_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ImYourMan/ImYourMan.ogg": "/private/map/ImYourMan/ImYourMan.ogg/7c649eb3558b20a5c965d75759052a10.ogg",
+    "jmcs://jd-contents/ImYourMan/ImYourMan_AudioPreview.ogg": "/public/map/ImYourMan/ImYourMan_AudioPreview.ogg/faeedb1b92e81b72025eca498004d76f.ogg",
+    "jmcs://jd-contents/ImYourMan/ImYourMan_HIGH.webm": "/private/map/ImYourMan/ImYourMan_HIGH.webm/70e50678944a87368051a60e9124d6ff.webm",
+    "jmcs://jd-contents/ImYourMan/ImYourMan_LOW.webm": "/private/map/ImYourMan/ImYourMan_LOW.webm/45a95bff037f1d3bb12867fe51cc2e5d.webm",
+    "jmcs://jd-contents/ImYourMan/ImYourMan_MID.webm": "/private/map/ImYourMan/ImYourMan_MID.webm/257de2aa6ede90a5a292a15cb558bf7f.webm",
+    "jmcs://jd-contents/ImYourMan/ImYourMan_ULTRA.webm": "/private/map/ImYourMan/ImYourMan_ULTRA.webm/b5c3171d4784b26801951db3922d7621.webm",
+    "jmcs://jd-contents/ImYourMan/ImYourMan_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ImYourMan/ImYourMan_MapPreviewNoSoundCrop_LOW.vp8.webm/20b6b99ba626f52bbdb4bca79a8c5890.webm",
+    "jmcs://jd-contents/ImYourMan/ImYourMan_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ImYourMan/ImYourMan_MapPreviewNoSoundCrop_MID.vp8.webm/aeabdde5c14872200e42ab5908fb7cbe.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"530602\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ImYourMan/ImYourMan_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1513754\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ImYourMan/ImYourMan_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 197.950667
+}

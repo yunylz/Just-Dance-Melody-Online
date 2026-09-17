@@ -1,0 +1,177 @@
+{
+  "urls": {
+    "jmcs://jd-contents/NailsHipsJD/NailsHipsJD.ogg": "/private/map/NailsHipsJD/NailsHipsJD.ogg/534559304a9378cd98092126e39b8ff2.ogg",
+    "jmcs://jd-contents/NailsHipsJD/NailsHipsJD_AudioPreview.ogg": "/public/map/NailsHipsJD/NailsHipsJD_AudioPreview.ogg/a4e6d276adeac02df769f1944adbad2f.ogg",
+    "jmcs://jd-contents/NailsHipsJD/NailsHipsJD_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/NailsHipsJD/NailsHipsJD_MapPreviewNoSoundCrop_LOW.vp8.webm/113981e2ebe4db9b4cb19ab68e97a99e.webm",
+    "jmcs://jd-contents/NailsHipsJD/NailsHipsJD_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/NailsHipsJD/NailsHipsJD_MapPreviewNoSoundCrop_MID.vp8.webm/a942db8db80800d8426c30e9ea5866e4.webm",
+    "jmcs://jd-contents/NailsHipsJD/NailsHipsJD_HIGH.hd.webm": "/private/map/NailsHipsJD/NailsHipsJD_HIGH.hd.webm/ba3654829e66aebc03ccd33498a5b503.webm",
+    "jmcs://jd-contents/NailsHipsJD/NailsHipsJD_LOW.hd.webm": "/private/map/NailsHipsJD/NailsHipsJD_LOW.hd.webm/569edf6c4d4554f1ff9492bc7e9353d2.webm",
+    "jmcs://jd-contents/NailsHipsJD/NailsHipsJD_MID.hd.webm": "/private/map/NailsHipsJD/NailsHipsJD_MID.hd.webm/5f6609f3fca66812a8e39db6fd55b6d3.webm",
+    "jmcs://jd-contents/NailsHipsJD/NailsHipsJD_ULTRA.hd.webm": "/private/map/NailsHipsJD/NailsHipsJD_ULTRA.hd.webm/d3c1be43d9e2adf4f895a5e5d592d8b3.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22857,
+        45714,
+        68571,
+        91429,
+        114286,
+        137143,
+        160000,
+        182857,
+        205714,
+        228571,
+        251429,
+        274286,
+        297143,
+        320000,
+        342857,
+        365714,
+        388571,
+        411429,
+        434286,
+        457143,
+        480000,
+        502857,
+        525714,
+        548571,
+        571429,
+        594286,
+        617143,
+        640000,
+        662857,
+        685714,
+        708571,
+        731429,
+        754286,
+        777143,
+        800000,
+        822857,
+        845714,
+        868571,
+        891429,
+        914286,
+        937143,
+        960000,
+        982857,
+        1005714,
+        1028571,
+        1051429,
+        1074286,
+        1097143,
+        1120000,
+        1142857,
+        1165714,
+        1188571,
+        1211429,
+        1234286,
+        1257143,
+        1280000,
+        1302857,
+        1325714,
+        1348571,
+        1371429,
+        1394286,
+        1417143,
+        1440000,
+        1462857,
+        1485714
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -13,
+      "endBeat": 503,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/NailsHipsJD/NailsHipsJD_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"655163\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NailsHipsJD/NailsHipsJD_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"772-1262\">\n\t\t\t\t\t<Initialization range=\"0-772\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1991018\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NailsHipsJD/NailsHipsJD_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"772-1262\">\n\t\t\t\t\t<Initialization range=\"0-772\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "5f2d09cc609224ed91b3868545ac8267",
+      "storageType": 0,
+      "url": "/public/map/NailsHipsJD/nx/NailsHipsJD_MAIN_SCENE_NX.zip/5f2d09cc609224ed91b3868545ac8267.zip"
+    },
+    "pc": {
+      "md5": "fe259ef276806be8f5e6efdf260c6b4e",
+      "storageType": 0,
+      "url": "/public/map/NailsHipsJD/pc/NailsHipsJD_MAIN_SCENE_PC.zip/fe259ef276806be8f5e6efdf260c6b4e.zip"
+    },
+    "ps4": {
+      "md5": "8a4322ec70106da1e960048ba5249c6f",
+      "storageType": 0,
+      "url": "/public/map/NailsHipsJD/orbis/NailsHipsJD_MAIN_SCENE_ORBIS.zip/8a4322ec70106da1e960048ba5249c6f.zip"
+    }
+  },
+  "data": {
+    "mapName": "NailsHipsJD",
+    "title": "Nails, Hair, Hips, Heels (Just Dance Version)",
+    "originalJDVersion": 2022,
+    "tags": [
+      "main"
+    ],
+    "artist": "Todrick Hall",
+    "credits": "Written by Todrick Dramaul Hall, Jean-Yves G. Ducornet, Kofi Agyei Owusu-Ofori and Carl Seante McGrier II. Published by Universal Music Publishing Canada on behalf of Planet Jeeve Music, Songs of Sheba Publishing Llc., Universal Music Corp., Songs Of Universal, Inc. and Ithaca Publishing Holdings LLC. / Singh, Singh & Trauben obo Ofori Music Publishing and Blackstock Music Publishing. \tCourtesy of frtyfve records.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#0ff0fe",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/NailsHipsJD/nx/NailsHipsJD_banner_bkg.tga.ckd/85ae8b583a845c92c0db6ba7bfa6b540.ckd",
+      "map_bkgImageUrl": "/public/map/NailsHipsJD/nx/NailsHipsJD_map_bkg.tga.ckd/9272044243f44812b445a046b033fb3e.ckd",
+      "expandCoachImageUrl": "/public/map/NailsHipsJD/nx/NailsHipsJD_Cover_AlbumCoach.tga.ckd/9eda78e901d7bc2fb8f2a68e8cff1e66.ckd",
+      "cover_smallImageUrl": "/public/map/NailsHipsJD/nx/NailsHipsJD_Cover_Online.tga.ckd/6d878a5f258a1133142721b1a3fee296.ckd",
+      "coverImageUrl": "/public/map/NailsHipsJD/nx/NailsHipsJD_Cover_Generic.tga.ckd/6218845880cf66001a940ff844d0cb7d.ckd",
+      "coach1ImageUrl": "/public/map/NailsHipsJD/nx/NailsHipsJD_Coach_1.tga.ckd/4335d913edc7f8a5ea64ad6b55f330bd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/NailsHipsJD/pc/NailsHipsJD_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/NailsHipsJD/pc/NailsHipsJD_map_bkg.tga.ckd/3ccce58841878c9d67c389df8435250c.ckd",
+      "expandCoachImageUrl": "/public/map/NailsHipsJD/pc/NailsHipsJD_Cover_AlbumCoach.tga.ckd/0b6ba5c1ff9c10a4124a5002af3c65ec.ckd",
+      "cover_smallImageUrl": "/public/map/NailsHipsJD/pc/NailsHipsJD_Cover_Online.tga.ckd/49b5ca1d93ed4ef53d5021c39c8096bd.ckd",
+      "coverImageUrl": "/public/map/NailsHipsJD/pc/NailsHipsJD_Cover_Generic.tga.ckd/5c4b2d01d792313dabef48fa62c792be.ckd",
+      "coach1ImageUrl": "/public/map/NailsHipsJD/pc/NailsHipsJD_Coach_1.tga.ckd/9c2582fa137e0f8d06ba1e29bf6d0901.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/NailsHipsJD/orbis/NailsHipsJD_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/NailsHipsJD/orbis/NailsHipsJD_map_bkg.tga.ckd/3ccce58841878c9d67c389df8435250c.ckd",
+      "expandCoachImageUrl": "/public/map/NailsHipsJD/orbis/NailsHipsJD_Cover_AlbumCoach.tga.ckd/0b6ba5c1ff9c10a4124a5002af3c65ec.ckd",
+      "cover_smallImageUrl": "/public/map/NailsHipsJD/orbis/NailsHipsJD_Cover_Online.tga.ckd/49b5ca1d93ed4ef53d5021c39c8096bd.ckd",
+      "coverImageUrl": "/public/map/NailsHipsJD/orbis/NailsHipsJD_Cover_Generic.tga.ckd/5c4b2d01d792313dabef48fa62c792be.ckd",
+      "coach1ImageUrl": "/public/map/NailsHipsJD/orbis/NailsHipsJD_Coach_1.tga.ckd/9c2582fa137e0f8d06ba1e29bf6d0901.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/NailsHipsJD/NailsHipsJD_Coach_1_Phone.png/9bf0a218f0a7f43c5d4edf6598b53ff7.png",
+    "phoneCoverImageUrl": "/public/map/NailsHipsJD/NailsHipsJD_Cover_Phone.jpg/c0440adb2dde1ae1bc403158095faa39.jpg",
+    "cover640ImageUrl": "/public/map/NailsHipsJD/NailsHipsJD_Cover_640.png/3b05597e0f172d516e1ca7b14e6b644e.png"
+  },
+  "mapLength": 240.952313
+}

@@ -1,0 +1,156 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1428d20a5a454c393815b526da09b938",
+      "storageType": 0,
+      "url": "/public/map/SoExcited/nx/SoExcited_MAIN_SCENE_NX.zip/1428d20a5a454c393815b526da09b938.zip"
+    },
+    "pc": {
+      "md5": "2137e16c137b38ddffd80e1d95569b1a",
+      "storageType": 0,
+      "url": "/public/map/SoExcited/pc/SoExcited_MAIN_SCENE_PC.zip/2137e16c137b38ddffd80e1d95569b1a.zip"
+    },
+    "ps4": {
+      "md5": "1e933d697fa9569567eb23ab12e8af1a",
+      "storageType": 0,
+      "url": "/public/map/SoExcited/orbis/SoExcited_MAIN_SCENE_ORBIS.zip/1e933d697fa9569567eb23ab12e8af1a.zip"
+    }
+  },
+  "data": {
+    "mapName": "SoExcited",
+    "title": "I'm So Excited",
+    "originalJDVersion": 3,
+    "tags": [
+      "main"
+    ],
+    "artist": "Pointer Sisters",
+    "credits": "Empty Credits",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ffc400"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        45925,
+        91850,
+        123496,
+        155141,
+        186786,
+        218431,
+        250076,
+        281721,
+        313367,
+        345012,
+        376657,
+        408302,
+        439947,
+        471592,
+        503238,
+        534883,
+        566528,
+        598173,
+        629818,
+        661463,
+        693109,
+        724754,
+        756399,
+        788044,
+        819689,
+        851334,
+        882980,
+        914625,
+        946270,
+        977915,
+        1009560,
+        1041205,
+        1072851,
+        1104496,
+        1136141,
+        1167786,
+        1199431,
+        1231076,
+        1262722,
+        1294367,
+        1326012,
+        1357657,
+        1389302,
+        1420948,
+        1452593,
+        1484238,
+        1515883
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 355,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 45,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SoExcited/SoExcited_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SoExcited/nx/SoExcited_banner_bkg.tga.ckd/5c65c66f77a8b47e541175fe1796bcd6.ckd",
+      "map_bkgImageUrl": "/public/map/SoExcited/nx/SoExcited_map_bkg.tga.ckd/78b3e8a8195efa3c57f3542631dd8d86.ckd",
+      "expandCoachImageUrl": "/public/map/SoExcited/nx/SoExcited_Cover_AlbumCoach.tga.ckd/74e64d385a043f643d4143160d696aee.ckd",
+      "cover_smallImageUrl": "/public/map/SoExcited/nx/SoExcited_Cover_Online.tga.ckd/a9a9fb9fc63da5f367b0d7edcb740c8a.ckd",
+      "coach1ImageUrl": "/public/map/SoExcited/nx/SoExcited_Coach_1.tga.ckd/c261ec57a4a5c73f63ac5fd2d3158014.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SoExcited/pc/SoExcited_banner_bkg.tga.ckd/ecae1a6c2ff978d284d7e91338a38353.ckd",
+      "map_bkgImageUrl": "/public/map/SoExcited/pc/SoExcited_map_bkg.tga.ckd/ebfb3d281a2cc536b8cd7e0ca07b47d8.ckd",
+      "expandCoachImageUrl": "/public/map/SoExcited/pc/SoExcited_Cover_AlbumCoach.tga.ckd/727440633623c9746a3d0ca7eb7fbb9a.ckd",
+      "cover_smallImageUrl": "/public/map/SoExcited/pc/SoExcited_Cover_Online.tga.ckd/6a9dd13db2b51e5d90c54f1916bf0bfc.ckd",
+      "coach1ImageUrl": "/public/map/SoExcited/pc/SoExcited_Coach_1.tga.ckd/25dc31112f392aaf470d1b2f4a229777.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SoExcited/orbis/SoExcited_banner_bkg.tga.ckd/ecae1a6c2ff978d284d7e91338a38353.ckd",
+      "map_bkgImageUrl": "/public/map/SoExcited/orbis/SoExcited_map_bkg.tga.ckd/ebfb3d281a2cc536b8cd7e0ca07b47d8.ckd",
+      "expandCoachImageUrl": "/public/map/SoExcited/orbis/SoExcited_Cover_AlbumCoach.tga.ckd/727440633623c9746a3d0ca7eb7fbb9a.ckd",
+      "cover_smallImageUrl": "/public/map/SoExcited/orbis/SoExcited_Cover_Online.tga.ckd/6a9dd13db2b51e5d90c54f1916bf0bfc.ckd",
+      "coach1ImageUrl": "/public/map/SoExcited/orbis/SoExcited_Coach_1.tga.ckd/25dc31112f392aaf470d1b2f4a229777.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SoExcited/SoExcited_Coach_1_Phone.png/86eacfe1ff194a82cc995fbdea62c142.png",
+    "phoneCoverImageUrl": "/public/map/SoExcited/SoExcited_Cover_Phone.jpg/f1660242794c2cfb2c0539612cadfc74.jpg",
+    "cover640ImageUrl": "/public/map/SoExcited/SoExcited_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SoExcited/SoExcited.ogg": "/private/map/SoExcited/SoExcited.ogg/9c68f9636978568b130121a459aa0d3b.ogg",
+    "jmcs://jd-contents/SoExcited/SoExcited_AudioPreview.ogg": "/public/map/SoExcited/SoExcited_AudioPreview.ogg/9e0c8735e620d7f89be3cec132f28e65.ogg",
+    "jmcs://jd-contents/SoExcited/SoExcited_HIGH.webm": "/private/map/SoExcited/SoExcited_HIGH.webm/952a9e69560cb83eb69e73b2cd7344c9.webm",
+    "jmcs://jd-contents/SoExcited/SoExcited_LOW.webm": "/private/map/SoExcited/SoExcited_LOW.webm/e718707a45f498ac77f5bf621429345c.webm",
+    "jmcs://jd-contents/SoExcited/SoExcited_MID.webm": "/private/map/SoExcited/SoExcited_MID.webm/6bdbd7682affb1431b95ae6ebd0ee7b3.webm",
+    "jmcs://jd-contents/SoExcited/SoExcited_ULTRA.hd.webm": "/private/map/SoExcited/SoExcited_ULTRA.hd.webm/0601e5de92b0659069748f2f1bbdf820.webm",
+    "jmcs://jd-contents/SoExcited/SoExcited_ULTRA.webm": "/private/map/SoExcited/SoExcited_ULTRA.webm/0e829a15f23d0f580a4d15b5ece4f9f8.webm",
+    "jmcs://jd-contents/SoExcited/SoExcited_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SoExcited/SoExcited_MapPreviewNoSoundCrop_LOW.vp8.webm/b19140bd12f1c08bdb58d49d68037202.webm",
+    "jmcs://jd-contents/SoExcited/SoExcited_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SoExcited/SoExcited_MapPreviewNoSoundCrop_MID.vp8.webm/18dcae931e4dfcdf06225048b2ad14d9.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"517008\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoExcited/SoExcited_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1502959\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoExcited/SoExcited_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 235.416979
+}

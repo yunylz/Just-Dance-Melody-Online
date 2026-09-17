@@ -1,0 +1,172 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DontRush/DontRush.ogg": "/private/map/DontRush/DontRush.ogg/e4f38bf2e667d68c8241b79995815c64.ogg",
+    "jmcs://jd-contents/DontRush/DontRush_AudioPreview.ogg": "/public/map/DontRush/DontRush_AudioPreview.ogg/bbe038b9978204a15022271a0d41d417.ogg",
+    "jmcs://jd-contents/DontRush/DontRush_HIGH.hd.webm": "/private/map/DontRush/DontRush_HIGH.hd.webm/abfec803d9670e72faa132e48ebcffa7.webm",
+    "jmcs://jd-contents/DontRush/DontRush_LOW.hd.webm": "/private/map/DontRush/DontRush_LOW.hd.webm/e18612dc311b8d5f3f6bc7162160f15e.webm",
+    "jmcs://jd-contents/DontRush/DontRush_MID.hd.webm": "/private/map/DontRush/DontRush_MID.hd.webm/d0a1d2ddbe89f9db7fc7ec0a0d3a2f8d.webm",
+    "jmcs://jd-contents/DontRush/DontRush_ULTRA.hd.webm": "/private/map/DontRush/DontRush_ULTRA.hd.webm/06dfe8f4261b8a4b697c2b132f55bb3c.webm",
+    "jmcs://jd-contents/DontRush/DontRush_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DontRush/DontRush_MapPreviewNoSoundCrop_LOW.vp8.webm/de176b9cdf9fdb9b85023fd4a2c555be.webm",
+    "jmcs://jd-contents/DontRush/DontRush_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DontRush/DontRush_MapPreviewNoSoundCrop_MID.vp8.webm/ac1fb5382f8f2c70bcb6537635a887df.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26667,
+        53333,
+        80000,
+        106667,
+        133333,
+        160000,
+        186667,
+        213333,
+        240000,
+        266667,
+        293333,
+        320000,
+        346667,
+        373333,
+        400000,
+        426667,
+        453333,
+        480000,
+        506667,
+        533333,
+        560000,
+        586667,
+        613333,
+        640000,
+        666667,
+        693333,
+        720000,
+        746667,
+        773333,
+        800000,
+        826667,
+        853333,
+        880000,
+        906667,
+        933333,
+        960000,
+        986667,
+        1013333,
+        1040000,
+        1066667,
+        1093333,
+        1120000,
+        1146667,
+        1173333,
+        1200000,
+        1226667,
+        1253333,
+        1280000,
+        1306667,
+        1333333,
+        1360000,
+        1386667,
+        1413333,
+        1440000,
+        1466667,
+        1493333
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 379,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DontRush/DontRush_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"548140\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontRush/DontRush_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2011331\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontRush/DontRush_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "65c1b69689bb18d82da6caff1a45f993",
+      "storageType": 0,
+      "url": "/public/map/DontRush/nx/DontRush_MAIN_SCENE_NX.zip/65c1b69689bb18d82da6caff1a45f993.zip"
+    },
+    "pc": {
+      "md5": "999d6a08c1c12fcabd0ff54796d78f21",
+      "storageType": 0,
+      "url": "/public/map/DontRush/pc/DontRush_MAIN_SCENE_PC.zip/999d6a08c1c12fcabd0ff54796d78f21.zip"
+    },
+    "ps4": {
+      "md5": "af81039f04758ee813d8abad92ec9313",
+      "storageType": 0,
+      "url": "/public/map/DontRush/orbis/DontRush_MAIN_SCENE_ORBIS.zip/af81039f04758ee813d8abad92ec9313.zip"
+    }
+  },
+  "data": {
+    "mapName": "DontRush",
+    "title": "Don't Rush",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Young T & Bugsey (Feat. Headie One)",
+    "credits": "Written by Irving Ampofo Adjei, Dan Traynor, Adedoyin Olaide Julius-Adewuyi, Ra'Chard Shakur Tucker. Published by Universal Music Publishing International / Sony ATV Music Publishing UK Limited. Courtesy of Epic Records & Black Butter Limited. By arrangement with Sony Music Entertainment.",
+    "coachCount": 2,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#d63fd9",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DontRush/nx/DontRush_banner_bkg.tga.ckd/e3b84990587cb1241c85d71d6148f41c.ckd",
+      "map_bkgImageUrl": "/public/map/DontRush/nx/DontRush_map_bkg.tga.ckd/7e927ebaeb18202f2de88efa8508da4d.ckd",
+      "expandCoachImageUrl": "/public/map/DontRush/nx/DontRush_Cover_AlbumCoach.tga.ckd/d3dafa47a03da28f85909db2ff35e3ba.ckd",
+      "cover_smallImageUrl": "/public/map/DontRush/nx/DontRush_Cover_Online.tga.ckd/c3b559bead18fb350851e3e75e1cfec5.ckd",
+      "coverImageUrl": "/public/map/DontRush/nx/DontRush_Cover_Generic.tga.ckd/498c93b7f5c96deec18c2977ca6941ab.ckd",
+      "coach1ImageUrl": "/public/map/DontRush/nx/DontRush_Coach_1.tga.ckd/3d0e7a81ef8bd0d6336b81f6b78da8b9.ckd",
+      "coach2ImageUrl": "/public/map/DontRush/nx/DontRush_Coach_2.tga.ckd/3395a4ab9736514dbd36e6223782f6fd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DontRush/pc/DontRush_banner_bkg.tga.ckd/4a8535250ad1ded7a606e28d4c50eb56.ckd",
+      "map_bkgImageUrl": "/public/map/DontRush/pc/DontRush_map_bkg.tga.ckd/7750680de56c058fef0ae3051e938530.ckd",
+      "expandCoachImageUrl": "/public/map/DontRush/pc/DontRush_Cover_AlbumCoach.tga.ckd/8680a3dd4f178a227c96decf8b9e1cdc.ckd",
+      "cover_smallImageUrl": "/public/map/DontRush/pc/DontRush_Cover_Online.tga.ckd/05a764aca524ee002d8138cea2097ea1.ckd",
+      "coverImageUrl": "/public/map/DontRush/pc/DontRush_Cover_Generic.tga.ckd/b56e96d9ca64167d3bd465480d99b514.ckd",
+      "coach1ImageUrl": "/public/map/DontRush/pc/DontRush_Coach_1.tga.ckd/88f668cce143bcc029022bfd54fe2fbb.ckd",
+      "coach2ImageUrl": "/public/map/DontRush/pc/DontRush_Coach_2.tga.ckd/1dbc631bde3614af026a690121f04ce5.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DontRush/orbis/DontRush_banner_bkg.tga.ckd/4a8535250ad1ded7a606e28d4c50eb56.ckd",
+      "map_bkgImageUrl": "/public/map/DontRush/orbis/DontRush_map_bkg.tga.ckd/7750680de56c058fef0ae3051e938530.ckd",
+      "expandCoachImageUrl": "/public/map/DontRush/orbis/DontRush_Cover_AlbumCoach.tga.ckd/8680a3dd4f178a227c96decf8b9e1cdc.ckd",
+      "cover_smallImageUrl": "/public/map/DontRush/orbis/DontRush_Cover_Online.tga.ckd/05a764aca524ee002d8138cea2097ea1.ckd",
+      "coverImageUrl": "/public/map/DontRush/orbis/DontRush_Cover_Generic.tga.ckd/b56e96d9ca64167d3bd465480d99b514.ckd",
+      "coach1ImageUrl": "/public/map/DontRush/orbis/DontRush_Coach_1.tga.ckd/88f668cce143bcc029022bfd54fe2fbb.ckd",
+      "coach2ImageUrl": "/public/map/DontRush/orbis/DontRush_Coach_2.tga.ckd/1dbc631bde3614af026a690121f04ce5.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DontRush/DontRush_Coach_1_Phone.png/a2e224a532aa417581f64dc627af90d7.png",
+    "phoneCoach2ImageUrl": "/public/map/DontRush/DontRush_Coach_2_Phone.png/bd80f6659c313fcbf01ae31540fc4c73.png",
+    "phoneCoverImageUrl": "/public/map/DontRush/DontRush_Cover_Phone.jpg/cd103db5e1c558c8d5abb1afbb896c45.jpg",
+    "cover640ImageUrl": "/public/map/DontRush/DontRush_Cover_640.png/33ce15fbf5b128452f410d13aa173dba.png"
+  },
+  "mapLength": 213.333333
+}

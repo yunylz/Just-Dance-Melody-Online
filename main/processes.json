@@ -1,0 +1,14 @@
+{
+    "apps": [
+        {
+            "error_file": "./logs/jdmerror.log",
+            "exec_mode": "cluster",
+            "instances": 4,
+            "log_date_format": "DD-MM HH:mm:ss Z",
+            "max-memory-restart": "800M",
+            "name": "JD Melody Online Prod",
+            "out_file": "./logs/jdmlog.log",
+            "script": "server.js"
+        }
+    ]
+}

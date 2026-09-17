@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "626c654ceb41c0811df68849f8d90e7d",
+      "storageType": 0,
+      "url": "/public/map/JDCDrinkingSong/nx/JDCDrinkingSong_MAIN_SCENE_NX.zip/626c654ceb41c0811df68849f8d90e7d.zip"
+    },
+    "pc": {
+      "md5": "f56450e9961e5282c3c02ba34ae54562",
+      "storageType": 0,
+      "url": "/public/map/JDCDrinkingSong/pc/JDCDrinkingSong_MAIN_SCENE_PC.zip/f56450e9961e5282c3c02ba34ae54562.zip"
+    },
+    "ps4": {
+      "md5": "e927986b52d5d584797f3c2ae5842d3d",
+      "storageType": 0,
+      "url": "/public/map/JDCDrinkingSong/orbis/JDCDrinkingSong_MAIN_SCENE_ORBIS.zip/e927986b52d5d584797f3c2ae5842d3d.zip"
+    }
+  },
+  "data": {
+    "mapName": "JDCDrinkingSong",
+    "title": "Drinking Song 《酒歌》",
+    "originalJDVersion": 1100,
+    "tags": [
+      "subscribedSong",
+      "JustDanceAsia",
+      "Trio",
+      "Medium",
+      "forceRumble"
+    ],
+    "artist": "Hanggai (杭蓋)",
+    "credits": "<< to be filled >>",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#d1062d",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33120,
+        66192,
+        99312,
+        132432,
+        165504,
+        198624,
+        231744,
+        264816,
+        296304,
+        329424,
+        361296,
+        393216,
+        425136,
+        458304,
+        491472,
+        524640,
+        557808,
+        590064,
+        622320,
+        654576,
+        686832,
+        718992,
+        751152,
+        783312,
+        815520,
+        847872,
+        880224,
+        912576,
+        944928,
+        977280,
+        1009632,
+        1041984,
+        1074336,
+        1106688,
+        1139088,
+        1172016,
+        1204944,
+        1237872,
+        1270800,
+        1303728,
+        1336608,
+        1369440,
+        1402320,
+        1435152,
+        1468032,
+        1499760
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 377,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 44,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JDCDrinkingSong/nx/JDCDrinkingSong_banner_bkg.tga.ckd/a97809dd6ccd2041798063a4bb07f33f.ckd",
+      "map_bkgImageUrl": "/public/map/JDCDrinkingSong/nx/JDCDrinkingSong_map_bkg.tga.ckd/df4e36316a19a9b4d40a5d879b227928.ckd",
+      "expandCoachImageUrl": "/public/map/JDCDrinkingSong/nx/JDCDrinkingSong_Cover_AlbumCoach.tga.ckd/2b642933ed7e9c4d437e844cade557d1.ckd",
+      "cover_smallImageUrl": "/public/map/JDCDrinkingSong/nx/JDCDrinkingSong_Cover_Online.tga.ckd/8e81aad51865bfb5c5f2f8be257fd321.ckd",
+      "coach1ImageUrl": "/public/map/JDCDrinkingSong/nx/JDCDrinkingSong_Coach_1.tga.ckd/195a04b72d22ce1a80e647d6ba8b793c.ckd",
+      "coach2ImageUrl": "/public/map/JDCDrinkingSong/nx/JDCDrinkingSong_Coach_2.tga.ckd/5ac6547304205afe2ba26d3e3316eeb7.ckd",
+      "coach3ImageUrl": "/public/map/JDCDrinkingSong/nx/JDCDrinkingSong_Coach_3.tga.ckd/cbe31d62095eec0dfeabbd2365db1aa3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JDCDrinkingSong/pc/JDCDrinkingSong_banner_bkg.tga.ckd/53dd529cbf11199fb4cdb03cf7a756f4.ckd",
+      "map_bkgImageUrl": "/public/map/JDCDrinkingSong/pc/JDCDrinkingSong_map_bkg.tga.ckd/b8d044861bf6c19477a372a3095b4643.ckd",
+      "expandCoachImageUrl": "/public/map/JDCDrinkingSong/pc/JDCDrinkingSong_Cover_AlbumCoach.tga.ckd/2d52e3bef2d0f199e29619f7b9e73445.ckd",
+      "cover_smallImageUrl": "/public/map/JDCDrinkingSong/pc/JDCDrinkingSong_Cover_Online.tga.ckd/e5294dd1edbd4a4ecf47b2ee6c1e0f9c.ckd",
+      "coach1ImageUrl": "/public/map/JDCDrinkingSong/pc/JDCDrinkingSong_Coach_1.tga.ckd/07270221646f1649bd1783505bfefa8e.ckd",
+      "coach2ImageUrl": "/public/map/JDCDrinkingSong/pc/JDCDrinkingSong_Coach_2.tga.ckd/e922be582e9f7816d4e0557c5902f27e.ckd",
+      "coach3ImageUrl": "/public/map/JDCDrinkingSong/pc/JDCDrinkingSong_Coach_3.tga.ckd/314526e7ac4b7ad3646ee6c6e5dcad9f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JDCDrinkingSong/orbis/JDCDrinkingSong_banner_bkg.tga.ckd/53dd529cbf11199fb4cdb03cf7a756f4.ckd",
+      "map_bkgImageUrl": "/public/map/JDCDrinkingSong/orbis/JDCDrinkingSong_map_bkg.tga.ckd/b8d044861bf6c19477a372a3095b4643.ckd",
+      "expandCoachImageUrl": "/public/map/JDCDrinkingSong/orbis/JDCDrinkingSong_Cover_AlbumCoach.tga.ckd/2d52e3bef2d0f199e29619f7b9e73445.ckd",
+      "cover_smallImageUrl": "/public/map/JDCDrinkingSong/orbis/JDCDrinkingSong_Cover_Online.tga.ckd/e5294dd1edbd4a4ecf47b2ee6c1e0f9c.ckd",
+      "coach1ImageUrl": "/public/map/JDCDrinkingSong/orbis/JDCDrinkingSong_Coach_1.tga.ckd/07270221646f1649bd1783505bfefa8e.ckd",
+      "coach2ImageUrl": "/public/map/JDCDrinkingSong/orbis/JDCDrinkingSong_Coach_2.tga.ckd/e922be582e9f7816d4e0557c5902f27e.ckd",
+      "coach3ImageUrl": "/public/map/JDCDrinkingSong/orbis/JDCDrinkingSong_Coach_3.tga.ckd/314526e7ac4b7ad3646ee6c6e5dcad9f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JDCDrinkingSong/JDCDrinkingSong_Coach_1_Phone.png/3eae60a0f7ca9047595e5ed8b902d331.png",
+    "phoneCoach2ImageUrl": "/public/map/JDCDrinkingSong/JDCDrinkingSong_Coach_2_Phone.png/72e9be4343ca7431d1b74d55024498b1.png",
+    "phoneCoach3ImageUrl": "/public/map/JDCDrinkingSong/JDCDrinkingSong_Coach_3_Phone.png/39c45a48f3ddbd492f0344f1f0490ed5.png",
+    "phoneCoverImageUrl": "/public/map/JDCDrinkingSong/JDCDrinkingSong_Cover_Phone.jpg/abcd53248010775a2023b6a9cef3aefb.jpg",
+    "cover640ImageUrl": "/public/map/JDCDrinkingSong/JDCDrinkingSong_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong.ogg": "/private/map/JDCDrinkingSong/JDCDrinkingSong.ogg/2d57e9fc68a3d1780f077a985559abfb.ogg",
+    "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_AudioPreview.ogg": "/public/map/JDCDrinkingSong/JDCDrinkingSong_AudioPreview.ogg/81189eddd664a77e6a0ebba311a292a1.ogg",
+    "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JDCDrinkingSong/JDCDrinkingSong_MapPreviewNoSoundCrop_LOW.vp8.webm/cdb5589f97e7c1aeb70614f413e55df9.webm",
+    "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_HIGH.webm": "/private/map/JDCDrinkingSong/JDCDrinkingSong_HIGH.webm/1471b95c49b98f3302bcbee188c3c52b.webm",
+    "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_LOW.webm": "/private/map/JDCDrinkingSong/JDCDrinkingSong_LOW.webm/e6dfc87358b184f3020fc1fa5869b251.webm",
+    "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_MID.webm": "/private/map/JDCDrinkingSong/JDCDrinkingSong_MID.webm/b41f9fac17abcd8d921cd92e78da5334.webm",
+    "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_ULTRA.hd.webm": "/private/map/JDCDrinkingSong/JDCDrinkingSong_ULTRA.hd.webm/6d0f58c806d1a07196b1123d6601a15f.webm",
+    "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_ULTRA.webm": "/private/map/JDCDrinkingSong/JDCDrinkingSong_ULTRA.webm/e87326021773ff1b2ca141fe3a398e90.webm",
+    "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JDCDrinkingSong/JDCDrinkingSong_MapPreviewNoSoundCrop_MID.vp8.webm/5b557b301192b6c03bbae260125d76e3.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497701\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"612-1101\">\n\t\t\t\t\t<Initialization range=\"0-612\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482510\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\n\t\t\t\t\t<Initialization range=\"0-613\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 178.916271
+}

@@ -1,0 +1,161 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "07caddab76826e3d0c6a8be8ddd11c41",
+      "storageType": 0,
+      "url": "/public/map/BoyIsMine/nx/BoyIsMine_MAIN_SCENE_NX.zip/07caddab76826e3d0c6a8be8ddd11c41.zip"
+    },
+    "pc": {
+      "md5": "71b6ea6717ed47cf83c12ae4bfd4f0f8",
+      "storageType": 0,
+      "url": "/public/map/BoyIsMine/pc/BoyIsMine_MAIN_SCENE_PC.zip/71b6ea6717ed47cf83c12ae4bfd4f0f8.zip"
+    },
+    "ps4": {
+      "md5": "6fa9d407d392ab91c34ee66b211d10c7",
+      "storageType": 0,
+      "url": "/public/map/BoyIsMine/orbis/BoyIsMine_MAIN_SCENE_ORBIS.zip/6fa9d407d392ab91c34ee66b211d10c7.zip"
+    }
+  },
+  "data": {
+    "mapName": "BoyIsMine",
+    "title": "the boy is mine",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Ariana Grande",
+    "credits": "Written by Ariana Grande, Max Martin, David Park, Shintaro Yasuda. Published by Universal Music Publishing Canada on behalf of Shintaro Yasuda Publishing, Songs Of Universal, Inc., Universal Tunes and Champagne Therapy Publishing / MXM. Administered by Kobalt Songs Music Publishing / Sony ATV Songs LLC. Courtesy of Republic Records under license from Universal Music Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#f4ce44"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        16269,
+        45360,
+        74451,
+        103542,
+        132633,
+        161724,
+        190815,
+        219906,
+        248996,
+        278087,
+        307178,
+        336269,
+        365360,
+        394451,
+        423542,
+        452633,
+        482041,
+        511450,
+        540858,
+        570267,
+        599675,
+        629084,
+        658492,
+        687900,
+        717309,
+        746717,
+        776126,
+        805534,
+        834943,
+        864351,
+        893760,
+        923168,
+        952576,
+        981985,
+        1011393,
+        1040802,
+        1070210,
+        1099619,
+        1129027,
+        1158436,
+        1187844,
+        1217253,
+        1246661,
+        1276069,
+        1305478,
+        1334886,
+        1364295,
+        1393703,
+        1423112,
+        1452520,
+        1481929,
+        1511337
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 284,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BoyIsMine/BoyIsMine_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BoyIsMine/nx/BoyIsMine_banner_bkg.tga.ckd/441f3d8274b083787362b4a90b109881.ckd",
+      "map_bkgImageUrl": "/public/map/BoyIsMine/nx/BoyIsMine_map_bkg.tga.ckd/a103432411782a830a71918306368359.ckd",
+      "expandCoachImageUrl": "/public/map/BoyIsMine/nx/BoyIsMine_Cover_AlbumCoach.tga.ckd/9caf0b7e7902487098d1afe45f5e8d12.ckd",
+      "cover_smallImageUrl": "/public/map/BoyIsMine/nx/BoyIsMine_Cover_Online.tga.ckd/b4be1212e21af816a536a93f7bf86d87.ckd",
+      "coach1ImageUrl": "/public/map/BoyIsMine/nx/BoyIsMine_Coach_1.tga.ckd/d0cb10933d0f8d99a961fe4cce035c9e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BoyIsMine/pc/BoyIsMine_banner_bkg.tga.ckd/063950fb1a2ae78c66099f92438bf5e2.ckd",
+      "map_bkgImageUrl": "/public/map/BoyIsMine/pc/BoyIsMine_map_bkg.tga.ckd/0f56a6b8153b1d5978b844b34a57c5b2.ckd",
+      "expandCoachImageUrl": "/public/map/BoyIsMine/pc/BoyIsMine_Cover_AlbumCoach.tga.ckd/2c95daf1545f003bdb6cb1c3738cc2c5.ckd",
+      "cover_smallImageUrl": "/public/map/BoyIsMine/pc/BoyIsMine_Cover_Online.tga.ckd/3f568d9ecca62f0b971db9d32fe87ffc.ckd",
+      "coach1ImageUrl": "/public/map/BoyIsMine/pc/BoyIsMine_Coach_1.tga.ckd/0ae6118cbe45e69fb941bf256f405fd4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BoyIsMine/orbis/BoyIsMine_banner_bkg.tga.ckd/063950fb1a2ae78c66099f92438bf5e2.ckd",
+      "map_bkgImageUrl": "/public/map/BoyIsMine/orbis/BoyIsMine_map_bkg.tga.ckd/0f56a6b8153b1d5978b844b34a57c5b2.ckd",
+      "expandCoachImageUrl": "/public/map/BoyIsMine/orbis/BoyIsMine_Cover_AlbumCoach.tga.ckd/2c95daf1545f003bdb6cb1c3738cc2c5.ckd",
+      "cover_smallImageUrl": "/public/map/BoyIsMine/orbis/BoyIsMine_Cover_Online.tga.ckd/3f568d9ecca62f0b971db9d32fe87ffc.ckd",
+      "coach1ImageUrl": "/public/map/BoyIsMine/orbis/BoyIsMine_Coach_1.tga.ckd/0ae6118cbe45e69fb941bf256f405fd4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BoyIsMine/BoyIsMine_Coach_1_Phone.png/b9727eae36560ff5f4de3fc1d4af93df.png",
+    "phoneCoverImageUrl": "/public/map/BoyIsMine/BoyIsMine_Cover_Phone.jpg/0028e87a5a8926e8718605e9e359a993.jpg",
+    "cover640ImageUrl": "/public/map/BoyIsMine/BoyIsMine_Cover_640.png/706306005954d1e15155275324a75d36.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BoyIsMine/BoyIsMine.ogg": "/private/map/BoyIsMine/BoyIsMine.ogg/06e752ca4ca823a29aa311291d28c47a.ogg",
+    "jmcs://jd-contents/BoyIsMine/BoyIsMine_AudioPreview.ogg": "/public/map/BoyIsMine/BoyIsMine_AudioPreview.ogg/654eaa20c39882a5556033510d885c1b.ogg",
+    "jmcs://jd-contents/BoyIsMine/BoyIsMine_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BoyIsMine/BoyIsMine_MapPreviewNoSoundCrop_LOW.vp8.webm/ed777deecebb7c0f838e327961290ff1.webm",
+    "jmcs://jd-contents/BoyIsMine/BoyIsMine_HIGH.webm": "/private/map/BoyIsMine/BoyIsMine_HIGH.webm/26558c9063996669f3695b1249dd331d.webm",
+    "jmcs://jd-contents/BoyIsMine/BoyIsMine_LOW.webm": "/private/map/BoyIsMine/BoyIsMine_LOW.webm/d9ed24e0a63c4bbd161eb76ee019e6c7.webm",
+    "jmcs://jd-contents/BoyIsMine/BoyIsMine_MID.webm": "/private/map/BoyIsMine/BoyIsMine_MID.webm/dcda503e75a2c72ddb86a933dd95106f.webm",
+    "jmcs://jd-contents/BoyIsMine/BoyIsMine_ULTRA.hd.webm": "/private/map/BoyIsMine/BoyIsMine_ULTRA.hd.webm/5d0478f1db39b91c63d0865cbb27f1d6.webm",
+    "jmcs://jd-contents/BoyIsMine/BoyIsMine_ULTRA.webm": "/private/map/BoyIsMine/BoyIsMine_ULTRA.webm/43ebe694632ed85fc351af72194e374c.webm",
+    "jmcs://jd-contents/BoyIsMine/BoyIsMine_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BoyIsMine/BoyIsMine_MapPreviewNoSoundCrop_MID.vp8.webm/4cf78cdab71cedd70f8abbb572cac123.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"520786\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoyIsMine/BoyIsMine_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\n\t\t\t\t\t<Initialization range=\"0-640\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1522257\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoyIsMine/BoyIsMine_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\n\t\t\t\t\t<Initialization range=\"0-641\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 176.483396
+}

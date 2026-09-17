@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "964515641526aa72809b2be6f8d16a8a",
+      "storageType": 0,
+      "url": "/public/map/Apple/nx/Apple_MAIN_SCENE_NX.zip/964515641526aa72809b2be6f8d16a8a.zip"
+    },
+    "pc": {
+      "md5": "7f78f789a5afe034af6dd464c82c0c1e",
+      "storageType": 0,
+      "url": "/public/map/Apple/pc/Apple_MAIN_SCENE_PC.zip/7f78f789a5afe034af6dd464c82c0c1e.zip"
+    },
+    "ps4": {
+      "md5": "56b7da55e1b5791ec10adab9a65ff25a",
+      "storageType": 0,
+      "url": "/public/map/Apple/orbis/Apple_MAIN_SCENE_ORBIS.zip/56b7da55e1b5791ec10adab9a65ff25a.zip"
+    }
+  },
+  "data": {
+    "mapName": "Apple",
+    "title": "Apple",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Charli xcx",
+    "credits": "Written by Charlotte Aitchison, Noonie Bao, George Daniel, Linus Wiklund. Published by Sony Music Publishing (UK) Ltd., Sony Music Publishing Scandinavia aB, EMI Music Publishing Scandinavia aB \\/ Concord CM UK Limited, administered by Concord Road co Concord Music Group, Inc. Courtesy of Atlantic Recording Corp. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#C0FF2E",
+    "songColor2A": "#BFFE2F",
+    "songColor1B": "#172433",
+    "songColor2B": "#425593",
+    "lyricsColor": "#64CD16",
+    "LocaleID": 4294967295,
+    "LocaleId": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22857,
+        45714,
+        68571,
+        91428,
+        114285,
+        137143,
+        160000,
+        182857,
+        205714,
+        228571,
+        251428,
+        274285,
+        297143,
+        320000,
+        342857,
+        365714,
+        388571,
+        411428,
+        434285,
+        457143,
+        480000,
+        502857,
+        525714,
+        548571,
+        571428,
+        594285,
+        617143,
+        640000,
+        662857,
+        685714,
+        708571,
+        731428,
+        754285,
+        777143,
+        800000,
+        822857,
+        845714,
+        868571,
+        891428,
+        914285,
+        937143,
+        960000,
+        982857,
+        1005714,
+        1028571,
+        1051428,
+        1074285,
+        1097143,
+        1120000,
+        1142857,
+        1165714,
+        1188571,
+        1211428,
+        1234285,
+        1257143,
+        1280000,
+        1302857,
+        1325714,
+        1348571,
+        1371428,
+        1394285,
+        1417143
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 323,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/apple/apple_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Apple/nx/Apple_banner_bkg.tga.ckd/688269dfb471651f56929b7c8b199e7b.ckd",
+      "map_bkgImageUrl": "/public/map/Apple/nx/Apple_map_bkg.tga.ckd/7d967df74c3f25a0abc322b29a4c7315.ckd",
+      "expandCoachImageUrl": "/public/map/Apple/nx/Apple_Cover_AlbumCoach.tga.ckd/70baa1df02f151ec2c9231018d8b9016.ckd",
+      "cover_smallImageUrl": "/public/map/Apple/nx/Apple_Cover_Online.tga.ckd/b3fd2f0f95c91154f92f35f995553ccf.ckd",
+      "coverImageUrl": "/public/map/Apple/nx/Apple_Cover_Generic.tga.ckd/673a1db44fd6c61b313aa39cc3c90e0f.ckd",
+      "coach1ImageUrl": "/public/map/Apple/nx/Apple_Coach_1.tga.ckd/6d9d548a0818300c84e318bed6ec3bbc.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Apple/pc/Apple_banner_bkg.tga.ckd/aebdd8a6713145f363ed2e68bcd84c18.ckd",
+      "map_bkgImageUrl": "/public/map/Apple/pc/Apple_map_bkg.tga.ckd/aec1b50e6e5dba6c7b378ee765956b8b.ckd",
+      "expandCoachImageUrl": "/public/map/Apple/pc/Apple_Cover_AlbumCoach.tga.ckd/abbec2d658cd7706ab4fab4fe1fb2a79.ckd",
+      "cover_smallImageUrl": "/public/map/Apple/pc/Apple_Cover_Online.tga.ckd/72cebd2fa0fee86277cbfde77e8e4d9b.ckd",
+      "coverImageUrl": "/public/map/Apple/pc/Apple_Cover_Generic.tga.ckd/4624eb6272cc2ea63415d792e4abc8d7.ckd",
+      "coach1ImageUrl": "/public/map/Apple/pc/Apple_Coach_1.tga.ckd/503a9aba4fb491c5b134d106a05171d1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Apple/orbis/Apple_banner_bkg.tga.ckd/aebdd8a6713145f363ed2e68bcd84c18.ckd",
+      "map_bkgImageUrl": "/public/map/Apple/orbis/Apple_map_bkg.tga.ckd/aec1b50e6e5dba6c7b378ee765956b8b.ckd",
+      "expandCoachImageUrl": "/public/map/Apple/orbis/Apple_Cover_AlbumCoach.tga.ckd/abbec2d658cd7706ab4fab4fe1fb2a79.ckd",
+      "cover_smallImageUrl": "/public/map/Apple/orbis/Apple_Cover_Online.tga.ckd/72cebd2fa0fee86277cbfde77e8e4d9b.ckd",
+      "coverImageUrl": "/public/map/Apple/orbis/Apple_Cover_Generic.tga.ckd/4624eb6272cc2ea63415d792e4abc8d7.ckd",
+      "coach1ImageUrl": "/public/map/Apple/orbis/Apple_Coach_1.tga.ckd/503a9aba4fb491c5b134d106a05171d1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Apple/Apple_Coach_1_Phone.png/963a5e4b5781545e55c8989bde40a49f.png",
+    "phoneCoverImageUrl": "/public/map/Apple/Apple_Cover_Phone.jpg/50ac2a88c24bff359fb4509e45e92496.jpg",
+    "cover640ImageUrl": "/public/map/Apple/Apple_Cover_640.png/226f538872fab2b0551f3ebafc9e579a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Apple/Apple.ogg": "/private/map/Apple/Apple.ogg/0440bd6b7a1a99806a6e22055558f10c.ogg",
+    "jmcs://jd-contents/Apple/Apple_AudioPreview.ogg": "/public/map/Apple/Apple_AudioPreview.ogg/96a982eae9c67efed045989b65ed9d35.ogg",
+    "jmcs://jd-contents/Apple/Apple_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Apple/Apple_MapPreviewNoSoundCrop_LOW.vp8.webm/ce1e84fc99a2f4fa44a9e2d4e22ae070.webm",
+    "jmcs://jd-contents/Apple/Apple_HIGH.webm": "/private/map/Apple/Apple_HIGH.webm/4c0f12d5c224658de427f72a57abc191.webm",
+    "jmcs://jd-contents/Apple/Apple_LOW.webm": "/private/map/Apple/Apple_LOW.webm/4a66513863a8176f19868f2766c42bb4.webm",
+    "jmcs://jd-contents/Apple/Apple_MID.webm": "/private/map/Apple/Apple_MID.webm/c043f333fe21a10647f2fcdac87a8321.webm",
+    "jmcs://jd-contents/Apple/Apple_ULTRA.hd.webm": "/private/map/Apple/Apple_ULTRA.hd.webm/8214cd5d065c4bc318fbc0045286592f.webm",
+    "jmcs://jd-contents/Apple/Apple_ULTRA.webm": "/private/map/Apple/Apple_ULTRA.webm/3769b1f142d7e9b1996aa4e01abfd85c.webm",
+    "jmcs://jd-contents/Apple/Apple_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Apple/Apple_MapPreviewNoSoundCrop_MID.vp8.webm/445f17a9ebb4feb45216d84460e49c76.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"520688\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Apple/Apple_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"627-1117\">\n\t\t\t\t\t<Initialization range=\"0-627\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1511734\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Apple/Apple_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\n\t\t\t\t\t<Initialization range=\"0-628\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 158.572938
+}

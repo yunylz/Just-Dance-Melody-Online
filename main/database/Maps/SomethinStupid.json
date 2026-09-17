@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "bc97c53ba24d3ea08e5c7d37a85fb4b2",
+      "storageType": 0,
+      "url": "/public/map/SomethinStupid/nx/SomethinStupid_MAIN_SCENE_NX.zip/bc97c53ba24d3ea08e5c7d37a85fb4b2.zip"
+    },
+    "pc": {
+      "md5": "cb8b2c0e7021ff71a6e6e889cda028fd",
+      "storageType": 0,
+      "url": "/public/map/SomethinStupid/pc/SomethinStupid_MAIN_SCENE_PC.zip/cb8b2c0e7021ff71a6e6e889cda028fd.zip"
+    },
+    "ps4": {
+      "md5": "da0256d45af58f6793eeb590e0ed5479",
+      "storageType": 0,
+      "url": "/public/map/SomethinStupid/orbis/SomethinStupid_MAIN_SCENE_ORBIS.zip/da0256d45af58f6793eeb590e0ed5479.zip"
+    }
+  },
+  "data": {
+    "mapName": "SomethinStupid",
+    "title": "Somethin' Stupid",
+    "originalJDVersion": 3,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance3",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "Robbie Williams and Nicole Kidman",
+    "credits": "Written by C. Carson Parks. Published by Greenwood Music. Courtesy of Chrysalis Records Ltd. under license from EMI Film & Television Music All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f48e00",
+    "songColor2A": "#42cfff",
+    "songColor1B": "#8d0000",
+    "songColor2B": "#00082c",
+    "lyricsColor": "#fab804",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31200,
+        62400,
+        93600,
+        124800,
+        151759,
+        178718,
+        205678,
+        232637,
+        259597,
+        286556,
+        313516,
+        340475,
+        367435,
+        394394,
+        421354,
+        448313,
+        475272,
+        502232,
+        529191,
+        557126,
+        583110,
+        610070,
+        637029,
+        665591,
+        690948,
+        718953,
+        745424,
+        774056,
+        799622,
+        827557,
+        854028,
+        882590,
+        909550,
+        936509,
+        963468,
+        990428,
+        1017387,
+        1044347,
+        1071724,
+        1098858,
+        1125904,
+        1153595,
+        1179144,
+        1207671,
+        1234839,
+        1261381,
+        1288340,
+        1315300,
+        1342259,
+        1370699,
+        1396178,
+        1424000,
+        1450097,
+        1478450,
+        1504469
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 302,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SomethinStupid/SomethinStupid_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SomethinStupid/nx/SomethinStupid_banner_bkg.tga.ckd/f92e3d93e4e09d73a6539e37219fc6a2.ckd",
+      "map_bkgImageUrl": "/public/map/SomethinStupid/nx/SomethinStupid_map_bkg.tga.ckd/3d82e1b9f63afb5b230e82077c678a20.ckd",
+      "expandCoachImageUrl": "/public/map/SomethinStupid/nx/SomethinStupid_Cover_AlbumCoach.tga.ckd/1ca341d8bba603c64488d8b2b027f433.ckd",
+      "cover_smallImageUrl": "/public/map/SomethinStupid/nx/SomethinStupid_Cover_Online.tga.ckd/77d224a4f184f652e66b538a16543472.ckd",
+      "coverImageUrl": "/public/map/SomethinStupid/nx/SomethinStupid_Cover_Generic.tga.ckd/69783a8809a97a68c8acfd389e5122b8.ckd",
+      "coach1ImageUrl": "/public/map/SomethinStupid/nx/SomethinStupid_Coach_1.tga.ckd/725023a3d88152b5c7b275a70ab9bd1b.ckd",
+      "coach2ImageUrl": "/public/map/SomethinStupid/nx/SomethinStupid_Coach_2.tga.ckd/be158342e6fb1eec25598bb609fedd23.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SomethinStupid/pc/SomethinStupid_banner_bkg.tga.ckd/8ca15c6dcee5384ae6930e9d241c3059.ckd",
+      "map_bkgImageUrl": "/public/map/SomethinStupid/pc/SomethinStupid_map_bkg.tga.ckd/280a73895f5dce716db4ddc1b6f00f87.ckd",
+      "expandCoachImageUrl": "/public/map/SomethinStupid/pc/SomethinStupid_Cover_AlbumCoach.tga.ckd/f8cb0910371c1d0399c68e4306668a84.ckd",
+      "cover_smallImageUrl": "/public/map/SomethinStupid/pc/SomethinStupid_Cover_Online.tga.ckd/0068f1d6e2ac0071fac09859181e4d0c.ckd",
+      "coverImageUrl": "/public/map/SomethinStupid/pc/SomethinStupid_Cover_Generic.tga.ckd/1532ba525b5569702cbe2a182d9dbb02.ckd",
+      "coach1ImageUrl": "/public/map/SomethinStupid/pc/SomethinStupid_Coach_1.tga.ckd/213a2609db0d6c8281ad4ae8e5614504.ckd",
+      "coach2ImageUrl": "/public/map/SomethinStupid/pc/SomethinStupid_Coach_2.tga.ckd/0388825461f541dcf17620a1a15db27e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SomethinStupid/orbis/SomethinStupid_banner_bkg.tga.ckd/8ca15c6dcee5384ae6930e9d241c3059.ckd",
+      "map_bkgImageUrl": "/public/map/SomethinStupid/orbis/SomethinStupid_map_bkg.tga.ckd/280a73895f5dce716db4ddc1b6f00f87.ckd",
+      "expandCoachImageUrl": "/public/map/SomethinStupid/orbis/SomethinStupid_Cover_AlbumCoach.tga.ckd/f8cb0910371c1d0399c68e4306668a84.ckd",
+      "cover_smallImageUrl": "/public/map/SomethinStupid/orbis/SomethinStupid_Cover_Online.tga.ckd/0068f1d6e2ac0071fac09859181e4d0c.ckd",
+      "coverImageUrl": "/public/map/SomethinStupid/orbis/SomethinStupid_Cover_Generic.tga.ckd/1532ba525b5569702cbe2a182d9dbb02.ckd",
+      "coach1ImageUrl": "/public/map/SomethinStupid/orbis/SomethinStupid_Coach_1.tga.ckd/213a2609db0d6c8281ad4ae8e5614504.ckd",
+      "coach2ImageUrl": "/public/map/SomethinStupid/orbis/SomethinStupid_Coach_2.tga.ckd/0388825461f541dcf17620a1a15db27e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SomethinStupid/SomethinStupid_Coach_1_Phone.png/ebf5903338437c03015a3cd6f79ad5b4.png",
+    "phoneCoach2ImageUrl": "/public/map/SomethinStupid/SomethinStupid_Coach_2_Phone.png/413fd751605cc68c1b5ae1f39dbaf6e8.png",
+    "phoneCoverImageUrl": "/public/map/SomethinStupid/SomethinStupid_Cover_Phone.jpg/c8b6d9566b0095129f94e3b60b212437.jpg",
+    "cover640ImageUrl": "/public/map/SomethinStupid/SomethinStupid_Cover_640.png/aa0aff4098434f29fbd2feeeb73b63e5.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid.ogg": "/private/map/SomethinStupid/SomethinStupid.ogg/4d87449ae408393f81defe7e8407ea3a.ogg",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_AudioPreview.ogg": "/public/map/SomethinStupid/SomethinStupid_AudioPreview.ogg/e2672841409691d7ffbb567c7bcd0585.ogg",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_LOW.vp8.webm/0a1e2413f93308344035682815423c2d.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_HIGH.webm": "/private/map/SomethinStupid/SomethinStupid_HIGH.webm/cc9534dd7b7b33e5d08ac3b7db4b7a38.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_LOW.webm": "/private/map/SomethinStupid/SomethinStupid_LOW.webm/148601b162d357c4064e2f3eac7fb4c5.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_MID.webm": "/private/map/SomethinStupid/SomethinStupid_MID.webm/e0a102654e3198fceed170ea202f76d9.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_ULTRA.hd.webm": "/private/map/SomethinStupid/SomethinStupid_ULTRA.hd.webm/89ffdedfecd3f597721d52c326de76f1.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_ULTRA.webm": "/private/map/SomethinStupid/SomethinStupid_ULTRA.webm/054dba48cdb5e4b24dad6c981be7e9b0.webm",
+    "jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_MID.vp8.webm/42cc43f233bc6e6d3e97ce80bf08aa81.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497881\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"644-1133\">\n\t\t\t\t\t<Initialization range=\"0-644\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1476858\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SomethinStupid/SomethinStupid_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"645-1135\">\n\t\t\t\t\t<Initialization range=\"0-645\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 171.462604
+}

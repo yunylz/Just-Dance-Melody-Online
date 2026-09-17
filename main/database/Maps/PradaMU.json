@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "60dfb36e704d7b3817f17395d6e41c33",
+      "storageType": 0,
+      "url": "/public/map/PradaMU/nx/PradaMU_MAIN_SCENE_NX.zip/60dfb36e704d7b3817f17395d6e41c33.zip"
+    },
+    "pc": {
+      "md5": "7f966709c15287beeb568df8b0fb9016",
+      "storageType": 0,
+      "url": "/public/map/PradaMU/pc/PradaMU_MAIN_SCENE_PC.zip/7f966709c15287beeb568df8b0fb9016.zip"
+    },
+    "ps4": {
+      "md5": "bd555e309dbf9fd643e8c6e4c0a48449",
+      "storageType": 0,
+      "url": "/public/map/PradaMU/orbis/PradaMU_MAIN_SCENE_ORBIS.zip/bd555e309dbf9fd643e8c6e4c0a48449.zip"
+    }
+  },
+  "data": {
+    "mapName": "PradaMU",
+    "title": "Emily Rose",
+    "originalJDVersion": 3000,
+    "tags": [
+      "main"
+    ],
+    "artist": "Miss Prada",
+    "credits": "All rights of the producer and other rightsholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange, or use of this video game for public performance, broadcasting, and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#9b17e6",
+    "songColor2A": "#d1192b",
+    "songColor1B": "#060033",
+    "songColor2B": "#140949",
+    "lyricsColor": "#e35335",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        7344,
+        29352,
+        51360,
+        73368,
+        95376,
+        117384,
+        139392,
+        161400,
+        183408,
+        205416,
+        227424,
+        249432,
+        271440,
+        293448,
+        315456,
+        337464,
+        359472,
+        381480,
+        403488,
+        425496,
+        447504,
+        469512,
+        491520,
+        513528,
+        535536,
+        557232,
+        578976,
+        601296,
+        623568,
+        644736,
+        667056,
+        689328,
+        711072,
+        732240,
+        754512,
+        776256,
+        797424,
+        817488,
+        839232,
+        862656,
+        884400,
+        905568,
+        927840,
+        949584,
+        971856,
+        993024,
+        1015344,
+        1037088,
+        1058784,
+        1081104,
+        1102848,
+        1124544,
+        1146288,
+        1168032,
+        1189776,
+        1211520,
+        1233216,
+        1254960,
+        1276704,
+        1298448,
+        1320720,
+        1342464,
+        1364208,
+        1386480,
+        1408224,
+        1429968,
+        1451664,
+        1473408
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 406,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PradaMU/PradaMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PradaMU/nx/PradaMU_banner_bkg.tga.ckd/7cf92e10e0141739a65f7e50f1abdb3d.ckd",
+      "map_bkgImageUrl": "/public/map/PradaMU/nx/PradaMU_map_bkg.tga.ckd/65c62d5dfddd0647a7fad4b8f9816427.ckd",
+      "expandCoachImageUrl": "/public/map/PradaMU/nx/PradaMU_Cover_AlbumCoach.tga.ckd/d8910d31cdadb60fbc0a825a610a0064.ckd",
+      "cover_smallImageUrl": "/public/map/PradaMU/nx/PradaMU_Cover_Online.tga.ckd/54b4eb24dd32a0744c343b50aa5bbd6f.ckd",
+      "coverImageUrl": "/public/map/PradaMU/nx/PradaMU_Cover_Generic.tga.ckd/16055a57ccc307118f2a9d4ce37ece80.ckd",
+      "coach1ImageUrl": "/public/map/PradaMU/nx/PradaMU_Coach_1.tga.ckd/e44a74784137b7f971983f7b570b42f5.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PradaMU/pc/PradaMU_banner_bkg.tga.ckd/216ecff0a3624d92035226382aea98b4.ckd",
+      "map_bkgImageUrl": "/public/map/PradaMU/pc/PradaMU_map_bkg.tga.ckd/1b5c58687364ba8ddd16f9998f2afc98.ckd",
+      "expandCoachImageUrl": "/public/map/PradaMU/pc/PradaMU_Cover_AlbumCoach.tga.ckd/5bf14314dc207507a2f62a198331e380.ckd",
+      "cover_smallImageUrl": "/public/map/PradaMU/pc/PradaMU_Cover_Online.tga.ckd/48d83a33aa524196bcea6ba0679ab4c9.ckd",
+      "coverImageUrl": "/public/map/PradaMU/pc/PradaMU_Cover_Generic.tga.ckd/a0386e136fd9586879c43173e9328815.ckd",
+      "coach1ImageUrl": "/public/map/PradaMU/pc/PradaMU_Coach_1.tga.ckd/e13d76a95ffc14201fe77af772d09d92.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PradaMU/orbis/PradaMU_banner_bkg.tga.ckd/216ecff0a3624d92035226382aea98b4.ckd",
+      "map_bkgImageUrl": "/public/map/PradaMU/orbis/PradaMU_map_bkg.tga.ckd/1b5c58687364ba8ddd16f9998f2afc98.ckd",
+      "expandCoachImageUrl": "/public/map/PradaMU/orbis/PradaMU_Cover_AlbumCoach.tga.ckd/5bf14314dc207507a2f62a198331e380.ckd",
+      "cover_smallImageUrl": "/public/map/PradaMU/orbis/PradaMU_Cover_Online.tga.ckd/48d83a33aa524196bcea6ba0679ab4c9.ckd",
+      "coverImageUrl": "/public/map/PradaMU/orbis/PradaMU_Cover_Generic.tga.ckd/a0386e136fd9586879c43173e9328815.ckd",
+      "coach1ImageUrl": "/public/map/PradaMU/orbis/PradaMU_Coach_1.tga.ckd/e13d76a95ffc14201fe77af772d09d92.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PradaMU/PradaMU_Coach_1_Phone.png/b5d28a762b4018501563e5e726796f39.png",
+    "phoneCoverImageUrl": "/public/map/PradaMU/PradaMU_Cover_Phone.jpg/d4b150cb1ac2c4a7d4f03e44ec6c857c.jpg",
+    "cover640ImageUrl": "/public/map/PradaMU/PradaMU_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/PradaMU/PradaMU.ogg": "/private/map/PradaMU/PradaMU.ogg/5ccc6f206a5f3dcef214e0057e373251.ogg",
+    "jmcs://jd-contents/PradaMU/PradaMU_AudioPreview.ogg": "/public/map/PradaMU/PradaMU_AudioPreview.ogg/e94187a7a6cf8e4e30b33b7c8fdf974d.ogg",
+    "jmcs://jd-contents/PradaMU/PradaMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PradaMU/PradaMU_MapPreviewNoSoundCrop_LOW.vp8.webm/0833e4a3f1e0f024114ceb08f4845c51.webm",
+    "jmcs://jd-contents/PradaMU/PradaMU_ULTRA.hd.webm": "/private/map/PradaMU/PradaMU_ULTRA.hd.webm/fb19e57c1ea5e3a4a0a113fe3f3e8519.webm",
+    "jmcs://jd-contents/PradaMU/PradaMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PradaMU/PradaMU_MapPreviewNoSoundCrop_MID.vp8.webm/245250f5b8a855c8559be3338e656bed.webm",
+    "jmcs://jd-contents/PradaMU/PradaMU_HIGH.hd.webm": "/private/map/PradaMU/PradaMU_HIGH.hd.webm/c19eb6fbe78af2bd194111dc9f0a8f44.webm",
+    "jmcs://jd-contents/PradaMU/PradaMU_LOW.hd.webm": "/private/map/PradaMU/PradaMU_LOW.hd.webm/743982c1eb1e34556caa5748379d6c1e.webm",
+    "jmcs://jd-contents/PradaMU/PradaMU_MID.hd.webm": "/private/map/PradaMU/PradaMU_MID.hd.webm/605431afede913071d23ff7ee58aaa27.webm"
+  },
+  "mapLength": 188.011979,
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"862055\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PradaMU/PradaMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1898936\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PradaMU/PradaMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n"
+}

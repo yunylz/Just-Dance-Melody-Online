@@ -1,0 +1,172 @@
+{
+  "urls": {
+    "jmcs://jd-contents/AquamarineMURETAKE/AquamarineMURETAKE.ogg": "/private/map/AquamarineMURETAKE/AquamarineMURETAKE.ogg/8fa73ba89a0b702d51ad1182bbbf9bf3.ogg",
+    "jmcs://jd-contents/AquamarineMURETAKE/AquamarineMURETAKE_AudioPreview.ogg": "/public/map/AquamarineMURETAKE/AquamarineMURETAKE_AudioPreview.ogg/dd4fbbe56b4bec446aca2096f76f7b25.ogg",
+    "jmcs://jd-contents/AquamarineMURETAKE/AquamarineMURETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AquamarineMURETAKE/AquamarineMURETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm/7b2dd323ee8f04dedd4369936ea3dcb4.webm",
+    "jmcs://jd-contents/AquamarineMURETAKE/AquamarineMURETAKE_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AquamarineMURETAKE/AquamarineMURETAKE_MapPreviewNoSoundCrop_MID.vp8.webm/bfc03ad7c6977fc5e2a021bd0328b1e3.webm",
+    "jmcs://jd-contents/AquamarineMURETAKE/AquamarineMURETAKE_HIGH.hd.webm": "/private/map/AquamarineMURETAKE/AquamarineMURETAKE_HIGH.hd.webm/a4a18c4914c49906bbee88c2877a3ff5.webm",
+    "jmcs://jd-contents/AquamarineMURETAKE/AquamarineMURETAKE_LOW.hd.webm": "/private/map/AquamarineMURETAKE/AquamarineMURETAKE_LOW.hd.webm/32642b6365203b162ec0e7469f40f018.webm",
+    "jmcs://jd-contents/AquamarineMURETAKE/AquamarineMURETAKE_MID.hd.webm": "/private/map/AquamarineMURETAKE/AquamarineMURETAKE_MID.hd.webm/3fe9486e19b3ff52e4af0bd2c9e78d86.webm",
+    "jmcs://jd-contents/AquamarineMURETAKE/AquamarineMURETAKE_ULTRA.hd.webm": "/private/map/AquamarineMURETAKE/AquamarineMURETAKE_ULTRA.hd.webm/6aa5f443af00420ee97da5ed30c3438d.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        11760,
+        37344,
+        62976,
+        88560,
+        114672,
+        140256,
+        165888,
+        191472,
+        216048,
+        239616,
+        262656,
+        294912,
+        320496,
+        345600,
+        368640,
+        396768,
+        421344,
+        448512,
+        474624,
+        500736,
+        526848,
+        554496,
+        577008,
+        602592,
+        628704,
+        655344,
+        681984,
+        709632,
+        731136,
+        757248,
+        782304,
+        806880,
+        829920,
+        854496,
+        879600,
+        905184,
+        930816,
+        956400,
+        982512,
+        1008096,
+        1028592,
+        1052640,
+        1078752,
+        1104384,
+        1129968,
+        1156080,
+        1181184,
+        1207296,
+        1232880,
+        1258464,
+        1284096,
+        1309680,
+        1335264,
+        1361376,
+        1387008,
+        1412592,
+        1438176,
+        1464288,
+        1489920
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 307,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AquamarineMURETAKE/AquamarineMURETAKE_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "109688110b2cb66f643feb0ea2b8e39c",
+      "storageType": 0,
+      "url": "/public/map/AquamarineMURETAKE/nx/AquamarineMURETAKE_MAIN_SCENE_NX.zip/109688110b2cb66f643feb0ea2b8e39c.zip"
+    },
+    "pc": {
+      "md5": "7695687b39358f1df713248a2803210d",
+      "storageType": 0,
+      "url": "/public/map/AquamarineMURETAKE/pc/AquamarineMURETAKE_MAIN_SCENE_PC.zip/7695687b39358f1df713248a2803210d.zip"
+    },
+    "ps4": {
+      "md5": "e9cf3d4fe2d309b714c35dde1d2cccc0",
+      "storageType": 0,
+      "url": "/public/map/AquamarineMURETAKE/orbis/AquamarineMURETAKE_MAIN_SCENE_ORBIS.zip/e9cf3d4fe2d309b714c35dde1d2cccc0.zip"
+    }
+  },
+  "data": {
+    "mapName": "AquamarineMURETAKE",
+    "title": "Aquamarine",
+    "originalJDVersion": 3000,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Addison Rae",
+    "credits": "CREDITS to Dylan and Devvie for KTAPE",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#84d6ff",
+    "LocaleID": 13572
+  },
+  "mapLenght": 165.204,
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AquamarineMURETAKE/nx/AquamarineMURETAKE_banner_bkg.tga.ckd/5597f20476e67525131fd6e96e6d7dc4.ckd",
+      "map_bkgImageUrl": "/public/map/AquamarineMURETAKE/nx/AquamarineMURETAKE_map_bkg.tga.ckd/59828591da026e21ec8cdd9e78aac0f1.ckd",
+      "expandCoachImageUrl": "/public/map/AquamarineMURETAKE/nx/AquamarineMURETAKE_Cover_AlbumCoach.tga.ckd/dbbc6ca66c489a71a5a36b0ab741f360.ckd",
+      "cover_smallImageUrl": "/public/map/AquamarineMURETAKE/nx/AquamarineMURETAKE_Cover_Online.tga.ckd/7ee31c30f54d36fb215143932d111d0e.ckd",
+      "coverImageUrl": "/public/map/AquamarineMURETAKE/nx/AquamarineMURETAKE_Cover_Generic.tga.ckd/15495aa5feeac75f4a9e52f9c03f1800.ckd",
+      "coach1ImageUrl": "/public/map/AquamarineMURETAKE/nx/AquamarineMURETAKE_Coach_1.tga.ckd/9b61698c92f2c5ca17304567278a737b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AquamarineMURETAKE/pc/AquamarineMURETAKE_banner_bkg.tga.ckd/4eb90221ba4dd6ab08556f6c1c5292c1.ckd",
+      "map_bkgImageUrl": "/public/map/AquamarineMURETAKE/pc/AquamarineMURETAKE_map_bkg.tga.ckd/a37f81fc66d734a66b72a8ef052b0b09.ckd",
+      "expandCoachImageUrl": "/public/map/AquamarineMURETAKE/pc/AquamarineMURETAKE_Cover_AlbumCoach.tga.ckd/7af37fa1e875cf8200693c47ff181beb.ckd",
+      "cover_smallImageUrl": "/public/map/AquamarineMURETAKE/pc/AquamarineMURETAKE_Cover_Online.tga.ckd/f38797569e335290e066e2fb6b70709c.ckd",
+      "coverImageUrl": "/public/map/AquamarineMURETAKE/pc/AquamarineMURETAKE_Cover_Generic.tga.ckd/7e0ccadac79983c55499a9eae0d2e12d.ckd",
+      "coach1ImageUrl": "/public/map/AquamarineMURETAKE/pc/AquamarineMURETAKE_Coach_1.tga.ckd/f79ef412ce2a8143de3188d7c450bc87.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AquamarineMURETAKE/orbis/AquamarineMURETAKE_banner_bkg.tga.ckd/4eb90221ba4dd6ab08556f6c1c5292c1.ckd",
+      "map_bkgImageUrl": "/public/map/AquamarineMURETAKE/orbis/AquamarineMURETAKE_map_bkg.tga.ckd/a37f81fc66d734a66b72a8ef052b0b09.ckd",
+      "expandCoachImageUrl": "/public/map/AquamarineMURETAKE/orbis/AquamarineMURETAKE_Cover_AlbumCoach.tga.ckd/7af37fa1e875cf8200693c47ff181beb.ckd",
+      "cover_smallImageUrl": "/public/map/AquamarineMURETAKE/orbis/AquamarineMURETAKE_Cover_Online.tga.ckd/f38797569e335290e066e2fb6b70709c.ckd",
+      "coverImageUrl": "/public/map/AquamarineMURETAKE/orbis/AquamarineMURETAKE_Cover_Generic.tga.ckd/7e0ccadac79983c55499a9eae0d2e12d.ckd",
+      "coach1ImageUrl": "/public/map/AquamarineMURETAKE/orbis/AquamarineMURETAKE_Coach_1.tga.ckd/f79ef412ce2a8143de3188d7c450bc87.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AquamarineMURETAKE/AquamarineMURETAKE_Coach_1_Phone.png/cd8dbf0750d713004902a3ea9a7acb5d.png",
+    "phoneCoverImageUrl": "/public/map/AquamarineMURETAKE/AquamarineMURETAKE_Cover_Phone.jpg/6f080803792cb1950b21fca37538cf9c.jpg",
+    "cover640ImageUrl": "/public/map/AquamarineMURETAKE/AquamarineMURETAKE_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"682355\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AquamarineMURETAKE/AquamarineMURETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"706-1196\">\n\t\t\t\t\t<Initialization range=\"0-706\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1655385\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AquamarineMURETAKE/AquamarineMURETAKE_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"706-1196\">\n\t\t\t\t\t<Initialization range=\"0-706\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 165.203604
+}

@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ControlResponse/ControlResponse.ogg": "/private/map/ControlResponse/ControlResponse.ogg/242d5e96c90239641520b7598154c5bb.ogg",
+    "jmcs://jd-contents/ControlResponse/ControlResponse_AudioPreview.ogg": "/public/map/ControlResponse/ControlResponse_AudioPreview.ogg/65c3d0c80bd2e1ee29da349cdda67931.ogg",
+    "jmcs://jd-contents/ControlResponse/ControlResponse_HIGH.hd.webm": "/private/map/ControlResponse/ControlResponse_HIGH.hd.webm/c84ddd5e8e001c756c6bcdf771eb46c8.webm",
+    "jmcs://jd-contents/ControlResponse/ControlResponse_LOW.hd.webm": "/private/map/ControlResponse/ControlResponse_LOW.hd.webm/e7afe85b1dd7b55744750e2287496fc1.webm",
+    "jmcs://jd-contents/ControlResponse/ControlResponse_MID.hd.webm": "/private/map/ControlResponse/ControlResponse_MID.hd.webm/2f06492a77a7494f781194de199cb8f5.webm",
+    "jmcs://jd-contents/ControlResponse/ControlResponse_ULTRA.hd.webm": "/private/map/ControlResponse/ControlResponse_ULTRA.hd.webm/dbe4f2d1bc6960827ab392165586990a.webm",
+    "jmcs://jd-contents/ControlResponse/ControlResponse_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ControlResponse/ControlResponse_MapPreviewNoSoundCrop_LOW.vp8.webm/412592ddfe08af7aade3c31079a27055.webm",
+    "jmcs://jd-contents/ControlResponse/ControlResponse_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ControlResponse/ControlResponse_MapPreviewNoSoundCrop_MID.vp8.webm/5f599f3a21bd343e9ebc89ea9c0fed93.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 248,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ControlResponse/ControlResponse_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"565569\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ControlResponse/ControlResponse_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1978266\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ControlResponse/ControlResponse_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "239c25611772977717cefd96c4ab6077",
+      "storageType": 0,
+      "url": "/public/map/ControlResponse/nx/ControlResponse_MAIN_SCENE_NX.zip/239c25611772977717cefd96c4ab6077.zip"
+    },
+    "pc": {
+      "md5": "b237f9ac88e227ff6c3344d4639cd46e",
+      "storageType": 0,
+      "url": "/public/map/ControlResponse/pc/ControlResponse_MAIN_SCENE_PC.zip/b237f9ac88e227ff6c3344d4639cd46e.zip"
+    },
+    "ps4": {
+      "md5": "818f3dc79f0c88f2d7d2f17d17166c42",
+      "storageType": 0,
+      "url": "/public/map/ControlResponse/orbis/ControlResponse_MAIN_SCENE_ORBIS.zip/818f3dc79f0c88f2d7d2f17d17166c42.zip"
+    }
+  },
+  "data": {
+    "mapName": "ControlResponse",
+    "title": "Control Response",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Hyper",
+    "credits": "Written by Guy Hatfield. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#777777",
+    "songColor2B": "#111111",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ControlResponse/nx/ControlResponse_banner_bkg.tga.ckd/d50b5ab36e9f2ecbdc8310ee14a01979.ckd",
+      "map_bkgImageUrl": "/public/map/ControlResponse/nx/ControlResponse_map_bkg.tga.ckd/27daae533d6872b314db3936108ec474.ckd",
+      "expandCoachImageUrl": "/public/map/ControlResponse/nx/ControlResponse_Cover_AlbumCoach.tga.ckd/95bbc671333403942647013f9e8cea03.ckd",
+      "cover_smallImageUrl": "/public/map/ControlResponse/nx/ControlResponse_Cover_Online.tga.ckd/2045b3a7c7f2cb6649714fa253a6671e.ckd",
+      "coverImageUrl": "/public/map/ControlResponse/nx/ControlResponse_Cover_Generic.tga.ckd/50dbd747a950bde66ade49ccbdeb1f94.ckd",
+      "coach1ImageUrl": "/public/map/ControlResponse/nx/ControlResponse_Coach_1.tga.ckd/dad58bc8565b57a37d6d6f4764aa9759.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ControlResponse/pc/ControlResponse_banner_bkg.tga.ckd/a2b0965127306abaa7b9c348d835a519.ckd",
+      "map_bkgImageUrl": "/public/map/ControlResponse/pc/ControlResponse_map_bkg.tga.ckd/63dd6838b781a59732bd76a5135cedb3.ckd",
+      "expandCoachImageUrl": "/public/map/ControlResponse/pc/ControlResponse_Cover_AlbumCoach.tga.ckd/bb63ee008942201e947a1b80d5bc0204.ckd",
+      "cover_smallImageUrl": "/public/map/ControlResponse/pc/ControlResponse_Cover_Online.tga.ckd/10d8eb87fc9a69260758d60f9d48930b.ckd",
+      "coverImageUrl": "/public/map/ControlResponse/pc/ControlResponse_Cover_Generic.tga.ckd/f0eb9bde4678198e91bf06ea1fa59dca.ckd",
+      "coach1ImageUrl": "/public/map/ControlResponse/pc/ControlResponse_Coach_1.tga.ckd/37b74773d55fc33c0f1294ceca918831.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ControlResponse/orbis/ControlResponse_banner_bkg.tga.ckd/a2b0965127306abaa7b9c348d835a519.ckd",
+      "map_bkgImageUrl": "/public/map/ControlResponse/orbis/ControlResponse_map_bkg.tga.ckd/63dd6838b781a59732bd76a5135cedb3.ckd",
+      "expandCoachImageUrl": "/public/map/ControlResponse/orbis/ControlResponse_Cover_AlbumCoach.tga.ckd/bb63ee008942201e947a1b80d5bc0204.ckd",
+      "cover_smallImageUrl": "/public/map/ControlResponse/orbis/ControlResponse_Cover_Online.tga.ckd/10d8eb87fc9a69260758d60f9d48930b.ckd",
+      "coverImageUrl": "/public/map/ControlResponse/orbis/ControlResponse_Cover_Generic.tga.ckd/f0eb9bde4678198e91bf06ea1fa59dca.ckd",
+      "coach1ImageUrl": "/public/map/ControlResponse/orbis/ControlResponse_Coach_1.tga.ckd/37b74773d55fc33c0f1294ceca918831.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ControlResponse/ControlResponse_Coach_1_Phone.png/a764405cfd6fb520957655beca3732c3.png",
+    "phoneCoverImageUrl": "/public/map/ControlResponse/ControlResponse_Cover_Phone.jpg/93a8fd878f3bd28b552dc430ecdca0d4.jpg",
+    "cover640ImageUrl": "/public/map/ControlResponse/ControlResponse_Cover_640.png/8ddc2390e6a122e4df1b9a67d42dde67.png"
+  },
+  "mapLength": 152.4
+}

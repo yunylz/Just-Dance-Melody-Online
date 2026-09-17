@@ -1,0 +1,181 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "945cfd68b3d5e916fc6a9a55370f1174",
+      "storageType": 0,
+      "url": "/public/map/BigDreamerCHN/nx/BigDreamerCHN_MAIN_SCENE_NX.zip/945cfd68b3d5e916fc6a9a55370f1174.zip"
+    },
+    "pc": {
+      "md5": "252a3e9036803dc20ca95740742cc597",
+      "storageType": 0,
+      "url": "/public/map/BigDreamerCHN/pc/BigDreamerCHN_MAIN_SCENE_PC.zip/252a3e9036803dc20ca95740742cc597.zip"
+    },
+    "ps4": {
+      "md5": "ef6da862c17fa9f945bad8e1f9055f74",
+      "storageType": 0,
+      "url": "/public/map/BigDreamerCHN/orbis/BigDreamerCHN_MAIN_SCENE_ORBIS.zip/ef6da862c17fa9f945bad8e1f9055f74.zip"
+    }
+  },
+  "data": {
+    "mapName": "BigDreamerCHN",
+    "title": "Big Dreamer《大梦想家》",
+    "originalJDVersion": 1102,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "TFBOYS",
+    "credits": " All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#076194",
+    "songColor2A": "#f4e004",
+    "songColor1B": "#182246",
+    "songColor2B": "#d72020",
+    "lyricsColor": "#ecd009"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21024,
+        42048,
+        63072,
+        84096,
+        105120,
+        126144,
+        147168,
+        168192,
+        189216,
+        210240,
+        231264,
+        252288,
+        273312,
+        294336,
+        315360,
+        336384,
+        357408,
+        378432,
+        399456,
+        420480,
+        441504,
+        462528,
+        483552,
+        504576,
+        525648,
+        546672,
+        567696,
+        588720,
+        609744,
+        630768,
+        651793,
+        672817,
+        693841,
+        714865,
+        735889,
+        756913,
+        777937,
+        798961,
+        819985,
+        841009,
+        862033,
+        883057,
+        904081,
+        925105,
+        946129,
+        967153,
+        988177,
+        1009201,
+        1030225,
+        1051249,
+        1072273,
+        1093297,
+        1114321,
+        1135345,
+        1156369,
+        1177393,
+        1198417,
+        1219441,
+        1240465,
+        1261489,
+        1282514,
+        1303538,
+        1324562,
+        1345586,
+        1366610,
+        1387634,
+        1408658,
+        1429682,
+        1450706,
+        1471730
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 513,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 68,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BigDreamerCHN/nx/BigDreamerCHN_banner_bkg.tga.ckd/acf508367bc23a4a877711dc796ab641.ckd",
+      "map_bkgImageUrl": "/public/map/BigDreamerCHN/nx/BigDreamerCHN_map_bkg.tga.ckd/c5079b4b13493fa01045728219fc60de.ckd",
+      "expandCoachImageUrl": "/public/map/BigDreamerCHN/nx/BigDreamerCHN_Cover_AlbumCoach.tga.ckd/f2f42d27c48ea1869380e011799bc314.ckd",
+      "cover_smallImageUrl": "/public/map/BigDreamerCHN/nx/BigDreamerCHN_Cover_Online.tga.ckd/4c237a293f150c3d5405886876e5082a.ckd",
+      "coach1ImageUrl": "/public/map/BigDreamerCHN/nx/BigDreamerCHN_Coach_1.tga.ckd/9b5bd1c8a54ed2747db543547edcc617.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BigDreamerCHN/pc/BigDreamerCHN_banner_bkg.tga.ckd/67bcc9dec664b0d11520e50f019040e7.ckd",
+      "map_bkgImageUrl": "/public/map/BigDreamerCHN/pc/BigDreamerCHN_map_bkg.tga.ckd/b23a442c08f3087050706a1aaa828639.ckd",
+      "expandCoachImageUrl": "/public/map/BigDreamerCHN/pc/BigDreamerCHN_Cover_AlbumCoach.tga.ckd/135b33bb1252a813eed17fd8641c1b7d.ckd",
+      "cover_smallImageUrl": "/public/map/BigDreamerCHN/pc/BigDreamerCHN_Cover_Online.tga.ckd/d2cebdc9c8e57cd01884d1ee8fae4aa5.ckd",
+      "coach1ImageUrl": "/public/map/BigDreamerCHN/pc/BigDreamerCHN_Coach_1.tga.ckd/236bd3a742c22f30f3da1fe6f80cedf5.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BigDreamerCHN/orbis/BigDreamerCHN_banner_bkg.tga.ckd/67bcc9dec664b0d11520e50f019040e7.ckd",
+      "map_bkgImageUrl": "/public/map/BigDreamerCHN/orbis/BigDreamerCHN_map_bkg.tga.ckd/b23a442c08f3087050706a1aaa828639.ckd",
+      "expandCoachImageUrl": "/public/map/BigDreamerCHN/orbis/BigDreamerCHN_Cover_AlbumCoach.tga.ckd/135b33bb1252a813eed17fd8641c1b7d.ckd",
+      "cover_smallImageUrl": "/public/map/BigDreamerCHN/orbis/BigDreamerCHN_Cover_Online.tga.ckd/d2cebdc9c8e57cd01884d1ee8fae4aa5.ckd",
+      "coach1ImageUrl": "/public/map/BigDreamerCHN/orbis/BigDreamerCHN_Coach_1.tga.ckd/236bd3a742c22f30f3da1fe6f80cedf5.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BigDreamerCHN/BigDreamerCHN_Coach_1_Phone.png/3a448b255900b8587e41e3ba01736a4d.png",
+    "phoneCoverImageUrl": "/public/map/BigDreamerCHN/BigDreamerCHN_Cover_Phone.jpg/69778bcf7f4aad97d07ac7bb554f155d.jpg",
+    "cover640ImageUrl": "/public/map/BigDreamerCHN/BigDreamerCHN_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN.ogg": "/private/map/BigDreamerCHN/BigDreamerCHN.ogg/a79e1621695d040c96cbf079d07b3b48.ogg",
+    "jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN_AudioPreview.ogg": "/public/map/BigDreamerCHN/BigDreamerCHN_AudioPreview.ogg/41b08b802327352adc2088f3cd40b834.ogg",
+    "jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BigDreamerCHN/BigDreamerCHN_MapPreviewNoSoundCrop_LOW.vp8.webm/ee3aefdb5bc08f4f0abdc4655be77af4.webm",
+    "jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN_HIGH.webm": "/private/map/BigDreamerCHN/BigDreamerCHN_HIGH.webm/8746a494bdfac0ae10ad888e475bd57e.webm",
+    "jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN_LOW.webm": "/private/map/BigDreamerCHN/BigDreamerCHN_LOW.webm/1364f4172e4299d1411303bbd27ccda9.webm",
+    "jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN_MID.webm": "/private/map/BigDreamerCHN/BigDreamerCHN_MID.webm/ac633332690df7427cfd210a88033ba5.webm",
+    "jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN_ULTRA.hd.webm": "/private/map/BigDreamerCHN/BigDreamerCHN_ULTRA.hd.webm/fbcfbf0d38fa50a1e83c2a0e001dd559.webm",
+    "jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN_ULTRA.webm": "/private/map/BigDreamerCHN/BigDreamerCHN_ULTRA.webm/90ce3d7954b8782b4aee90d0b91c28ad.webm",
+    "jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BigDreamerCHN/BigDreamerCHN_MapPreviewNoSoundCrop_MID.vp8.webm/60096e16ca1e7adab716cc6eecfb0a27.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"525629\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\n\t\t\t\t\t<Initialization range=\"0-613\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1495350\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigDreamerCHN/BigDreamerCHN_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\n\t\t\t\t\t<Initialization range=\"0-614\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 227.332354
+}

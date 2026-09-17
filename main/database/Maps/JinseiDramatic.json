@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "cacc6e38b09ebe4f5f331daee8677679",
+      "storageType": 0,
+      "url": "/public/map/JinseiDramatic/nx/JinseiDramatic_MAIN_SCENE_NX.zip/cacc6e38b09ebe4f5f331daee8677679.zip"
+    },
+    "pc": {
+      "md5": "e8d6572312a4cb61986d0bb49624c7b0",
+      "storageType": 0,
+      "url": "/public/map/JinseiDramatic/pc/JinseiDramatic_MAIN_SCENE_PC.zip/e8d6572312a4cb61986d0bb49624c7b0.zip"
+    },
+    "ps4": {
+      "md5": "3b1f7a5e639e84dbcc231a738923c642",
+      "storageType": 0,
+      "url": "/public/map/JinseiDramatic/orbis/JinseiDramatic_MAIN_SCENE_ORBIS.zip/3b1f7a5e639e84dbcc231a738923c642.zip"
+    }
+  },
+  "data": {
+    "mapName": "JinseiDramatic",
+    "title": "Jinsei Dramatic (人生ドラマチック)",
+    "originalJDVersion": 1104,
+    "tags": [
+      "Main",
+      "JDWiiUYK",
+      "subscribedSong",
+      "JustDanceAsia",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "King Cream Soda (キング・クリームソーダ)",
+    "credits": "作詞：motsu & 高木 貴司 - 作曲 編曲：菊谷 知樹",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67487,
+        89999,
+        112511,
+        135023,
+        157487,
+        179999,
+        202511,
+        225023,
+        247487,
+        269999,
+        292511,
+        315022,
+        337486,
+        359998,
+        382510,
+        405022,
+        427486,
+        449998,
+        472510,
+        495022,
+        517486,
+        539998,
+        562510,
+        585022,
+        607485,
+        629997,
+        652509,
+        675021,
+        697485,
+        719997,
+        742509,
+        765021,
+        787485,
+        809997,
+        832509,
+        855021,
+        877485,
+        899996,
+        922508,
+        945020,
+        967484,
+        989996,
+        1012508,
+        1035020,
+        1057484,
+        1079996,
+        1102508,
+        1125020,
+        1147484,
+        1169996,
+        1192507,
+        1215019,
+        1237483,
+        1259995,
+        1282507,
+        1305019,
+        1327483,
+        1349995,
+        1372507,
+        1395019,
+        1417483,
+        1439995,
+        1462507,
+        1485019
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 314,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JinseiDramatic/JinseiDramatic_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JinseiDramatic/nx/JinseiDramatic_banner_bkg.tga.ckd/dc34688bed0cbbc685d3663fbe703820.ckd",
+      "map_bkgImageUrl": "/public/map/JinseiDramatic/nx/JinseiDramatic_map_bkg.tga.ckd/9c342a75ebf457d7209a27ec063e5331.ckd",
+      "expandCoachImageUrl": "/public/map/JinseiDramatic/nx/JinseiDramatic_Cover_AlbumCoach.tga.ckd/4e633aaf9b5efc7ac699a2075e3d9a7c.ckd",
+      "cover_smallImageUrl": "/public/map/JinseiDramatic/nx/JinseiDramatic_Cover_Online.tga.ckd/5dbc047219304a847387f7d1cb114ec7.ckd",
+      "coach1ImageUrl": "/public/map/JinseiDramatic/nx/JinseiDramatic_Coach_1.tga.ckd/c637a3b53bd770023112cb2dc154b0e5.ckd",
+      "coach2ImageUrl": "/public/map/JinseiDramatic/nx/JinseiDramatic_Coach_2.tga.ckd/b3945e0942f4f97b28ccbbb5de906419.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JinseiDramatic/pc/JinseiDramatic_banner_bkg.tga.ckd/a780c04dcfa380d208420a3f447a679c.ckd",
+      "map_bkgImageUrl": "/public/map/JinseiDramatic/pc/JinseiDramatic_map_bkg.tga.ckd/b34b14855e2e6ec955bef33fe268fed6.ckd",
+      "expandCoachImageUrl": "/public/map/JinseiDramatic/pc/JinseiDramatic_Cover_AlbumCoach.tga.ckd/db5f396c9eee34a2c363c248071fad47.ckd",
+      "cover_smallImageUrl": "/public/map/JinseiDramatic/pc/JinseiDramatic_Cover_Online.tga.ckd/106c4597d4b16f3d4e3312754eec07aa.ckd",
+      "coach1ImageUrl": "/public/map/JinseiDramatic/pc/JinseiDramatic_Coach_1.tga.ckd/276446f94ed0e43413ca9fb542d0f776.ckd",
+      "coach2ImageUrl": "/public/map/JinseiDramatic/pc/JinseiDramatic_Coach_2.tga.ckd/6cfbef8a7c1eb5b18d05acfb53d1d9d8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JinseiDramatic/orbis/JinseiDramatic_banner_bkg.tga.ckd/a780c04dcfa380d208420a3f447a679c.ckd",
+      "map_bkgImageUrl": "/public/map/JinseiDramatic/orbis/JinseiDramatic_map_bkg.tga.ckd/b34b14855e2e6ec955bef33fe268fed6.ckd",
+      "expandCoachImageUrl": "/public/map/JinseiDramatic/orbis/JinseiDramatic_Cover_AlbumCoach.tga.ckd/db5f396c9eee34a2c363c248071fad47.ckd",
+      "cover_smallImageUrl": "/public/map/JinseiDramatic/orbis/JinseiDramatic_Cover_Online.tga.ckd/106c4597d4b16f3d4e3312754eec07aa.ckd",
+      "coach1ImageUrl": "/public/map/JinseiDramatic/orbis/JinseiDramatic_Coach_1.tga.ckd/276446f94ed0e43413ca9fb542d0f776.ckd",
+      "coach2ImageUrl": "/public/map/JinseiDramatic/orbis/JinseiDramatic_Coach_2.tga.ckd/6cfbef8a7c1eb5b18d05acfb53d1d9d8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JinseiDramatic/JinseiDramatic_Coach_1_Phone.png/e41a4eb095a6f73b93a08e3568de7518.png",
+    "phoneCoach2ImageUrl": "/public/map/JinseiDramatic/JinseiDramatic_Coach_2_Phone.png/d354bc8026abfdb783f46cd4c938c6df.png",
+    "phoneCoverImageUrl": "/public/map/JinseiDramatic/JinseiDramatic_Cover_Phone.jpg/2f34d9bb7ed35a54e6e3d5e2f2ebbcc9.jpg",
+    "cover640ImageUrl": "/public/map/JinseiDramatic/JinseiDramatic_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JinseiDramatic/JinseiDramatic.ogg": "/private/map/JinseiDramatic/JinseiDramatic.ogg/c439e2c730d930bee3c3799fd8ec90c3.ogg",
+    "jmcs://jd-contents/JinseiDramatic/JinseiDramatic_AudioPreview.ogg": "/public/map/JinseiDramatic/JinseiDramatic_AudioPreview.ogg/ff315524c1a9c81eb6c06450aa97e98a.ogg",
+    "jmcs://jd-contents/JinseiDramatic/JinseiDramatic_HIGH.webm": "/private/map/JinseiDramatic/JinseiDramatic_HIGH.webm/aed9d7be2b6e1f18c514ab58277273e9.webm",
+    "jmcs://jd-contents/JinseiDramatic/JinseiDramatic_LOW.webm": "/private/map/JinseiDramatic/JinseiDramatic_LOW.webm/7b8aecee1a9afe8a04a931e1fe3e0a06.webm",
+    "jmcs://jd-contents/JinseiDramatic/JinseiDramatic_MID.webm": "/private/map/JinseiDramatic/JinseiDramatic_MID.webm/f457589683e2597deb8d3d22866f6fb9.webm",
+    "jmcs://jd-contents/JinseiDramatic/JinseiDramatic_ULTRA.webm": "/private/map/JinseiDramatic/JinseiDramatic_ULTRA.webm/4ebeb3c1b22c30a50bf0af205f86b95f.webm",
+    "jmcs://jd-contents/JinseiDramatic/JinseiDramatic_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JinseiDramatic/JinseiDramatic_MapPreviewNoSoundCrop_LOW.vp8.webm/20faa79f0f50495b25277eec9f8f438d.webm",
+    "jmcs://jd-contents/JinseiDramatic/JinseiDramatic_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JinseiDramatic/JinseiDramatic_MapPreviewNoSoundCrop_MID.vp8.webm/d3d29070b40af24a70d5a4503fdba7ad.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"529413\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JinseiDramatic/JinseiDramatic_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"582-1072\">\n\t\t\t\t\t<Initialization range=\"0-582\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1500617\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JinseiDramatic/JinseiDramatic_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"583-1073\">\n\t\t\t\t\t<Initialization range=\"0-583\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 149.062396
+}

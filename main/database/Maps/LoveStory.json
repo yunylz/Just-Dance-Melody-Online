@@ -1,0 +1,176 @@
+{
+  "urls": {
+    "jmcs://jd-contents/LoveStory/LoveStory.ogg": "/private/map/LoveStory/LoveStory.ogg/092742d74b85e33047d8c9cdd0cefc3b.ogg",
+    "jmcs://jd-contents/LoveStory/LoveStory_AudioPreview.ogg": "/public/map/LoveStory/LoveStory_AudioPreview.ogg/491340bbbcbaf4c0038e3fc7040b6468.ogg",
+    "jmcs://jd-contents/LoveStory/LoveStory_HIGH.hd.webm": "/private/map/LoveStory/LoveStory_HIGH.hd.webm/ef8da250e49899b929bf709955d4b8ac.webm",
+    "jmcs://jd-contents/LoveStory/LoveStory_LOW.hd.webm": "/private/map/LoveStory/LoveStory_LOW.hd.webm/353165fd328ce4ca87b674a54f8ec808.webm",
+    "jmcs://jd-contents/LoveStory/LoveStory_MID.hd.webm": "/private/map/LoveStory/LoveStory_MID.hd.webm/1853e339cf616bfa75a77cd3ee6ae82a.webm",
+    "jmcs://jd-contents/LoveStory/LoveStory_ULTRA.hd.webm": "/private/map/LoveStory/LoveStory_ULTRA.hd.webm/fef8d94b66e48d67ae7d420ee0c500c1.webm",
+    "jmcs://jd-contents/LoveStory/LoveStory_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LoveStory/LoveStory_MapPreviewNoSoundCrop_LOW.vp8.webm/a28d8bb61660f32752fba31612063e4c.webm",
+    "jmcs://jd-contents/LoveStory/LoveStory_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LoveStory/LoveStory_MapPreviewNoSoundCrop_MID.vp8.webm/4add6be4164f363dfb1ee8ca49a6c0bf.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24202,
+        48403,
+        72605,
+        96807,
+        121008,
+        145210,
+        169412,
+        193613,
+        217815,
+        242017,
+        266218,
+        290420,
+        314622,
+        338824,
+        363025,
+        387227,
+        411429,
+        435630,
+        459832,
+        484034,
+        508235,
+        532437,
+        556639,
+        580840,
+        605042,
+        629244,
+        653445,
+        677647,
+        701849,
+        726050,
+        750252,
+        774454,
+        798655,
+        822857,
+        847059,
+        871261,
+        895462,
+        919664,
+        943866,
+        968067,
+        992269,
+        1016471,
+        1040672,
+        1064874,
+        1089076,
+        1113277,
+        1137479,
+        1161681,
+        1185882,
+        1210084,
+        1234286,
+        1258487,
+        1282689,
+        1306891,
+        1331092,
+        1355294,
+        1379496,
+        1403697,
+        1427899,
+        1452101,
+        1476303
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -18,
+      "endBeat": 468,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LoveStory/LoveStory_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "736f4f822fd0d0a1441c2485059cabc0",
+      "storageType": 0,
+      "url": "/public/map/LoveStory/nx/LoveStory_MAIN_SCENE_NX.zip/736f4f822fd0d0a1441c2485059cabc0.zip"
+    },
+    "pc": {
+      "md5": "8c5899ca6b47fa69b830796ce0e7fcae",
+      "storageType": 0,
+      "url": "/public/map/LoveStory/pc/LoveStory_MAIN_SCENE_PC.zip/8c5899ca6b47fa69b830796ce0e7fcae.zip"
+    },
+    "ps4": {
+      "md5": "90335d714d763b8c8c51f939351b9686",
+      "storageType": 0,
+      "url": "/public/map/LoveStory/orbis/LoveStory_MAIN_SCENE_ORBIS.zip/90335d714d763b8c8c51f939351b9686.zip"
+    }
+  },
+  "data": {
+    "mapName": "LoveStory",
+    "title": "Love Story (Taylor's Version)",
+    "originalJDVersion": 2022,
+    "tags": [
+      "main"
+    ],
+    "artist": "Taylor Swift",
+    "credits": "Written by Taylor Swift. Published by Universal Music Publishing Canada on behalf of Taylor Swift Music. / Sony/ATV Tree Publishing (BMI). All rights reserved. Used with permission. Courtesy Taylor Swift/Republic Records under license from Universal Music Enterprises.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#05b4f5",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LoveStory/nx/LoveStory_banner_bkg.tga.ckd/85ae8b583a845c92c0db6ba7bfa6b540.ckd",
+      "map_bkgImageUrl": "/public/map/LoveStory/nx/LoveStory_map_bkg.tga.ckd/a6e0522b8755838b518e2fad90d4ac82.ckd",
+      "expandCoachImageUrl": "/public/map/LoveStory/nx/LoveStory_Cover_AlbumCoach.tga.ckd/c1a2bdbeeef0af3189080b3a04a4168f.ckd",
+      "cover_smallImageUrl": "/public/map/LoveStory/nx/LoveStory_Cover_Online.tga.ckd/87b90dcbc1b4d8780eb86a4af92ae03b.ckd",
+      "coverImageUrl": "/public/map/LoveStory/nx/LoveStory_Cover_Generic.tga.ckd/e70870f4863a114e84bc29d296ff247f.ckd",
+      "coach1ImageUrl": "/public/map/LoveStory/nx/LoveStory_Coach_1.tga.ckd/8311232e1ba2876109e1c6706063462c.ckd",
+      "coach2ImageUrl": "/public/map/LoveStory/nx/LoveStory_Coach_2.tga.ckd/ba474f843f68011597f1a4d3c38aebed.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LoveStory/pc/LoveStory_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/LoveStory/pc/LoveStory_map_bkg.tga.ckd/9d202caa7db7f2fcde119a1c4be5f184.ckd",
+      "expandCoachImageUrl": "/public/map/LoveStory/pc/LoveStory_Cover_AlbumCoach.tga.ckd/87bef1b9be71a56cb7ec69c6d5a2a2df.ckd",
+      "cover_smallImageUrl": "/public/map/LoveStory/pc/LoveStory_Cover_Online.tga.ckd/fcf5451379110ca7676136cfb9d4f9d2.ckd",
+      "coverImageUrl": "/public/map/LoveStory/pc/LoveStory_Cover_Generic.tga.ckd/9b7c429ee4c15a906a5f63e21610af90.ckd",
+      "coach1ImageUrl": "/public/map/LoveStory/pc/LoveStory_Coach_1.tga.ckd/c775cfc92df83db50d9f97a637b0680d.ckd",
+      "coach2ImageUrl": "/public/map/LoveStory/pc/LoveStory_Coach_2.tga.ckd/1c7eee4fe1d7cd0e572189fb78e67d08.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LoveStory/orbis/LoveStory_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/LoveStory/orbis/LoveStory_map_bkg.tga.ckd/9d202caa7db7f2fcde119a1c4be5f184.ckd",
+      "expandCoachImageUrl": "/public/map/LoveStory/orbis/LoveStory_Cover_AlbumCoach.tga.ckd/87bef1b9be71a56cb7ec69c6d5a2a2df.ckd",
+      "cover_smallImageUrl": "/public/map/LoveStory/orbis/LoveStory_Cover_Online.tga.ckd/fcf5451379110ca7676136cfb9d4f9d2.ckd",
+      "coverImageUrl": "/public/map/LoveStory/orbis/LoveStory_Cover_Generic.tga.ckd/9b7c429ee4c15a906a5f63e21610af90.ckd",
+      "coach1ImageUrl": "/public/map/LoveStory/orbis/LoveStory_Coach_1.tga.ckd/c775cfc92df83db50d9f97a637b0680d.ckd",
+      "coach2ImageUrl": "/public/map/LoveStory/orbis/LoveStory_Coach_2.tga.ckd/1c7eee4fe1d7cd0e572189fb78e67d08.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LoveStory/LoveStory_Coach_1_Phone.png/d8470fa89dadb55fe93f4ed844aa1737.png",
+    "phoneCoach2ImageUrl": "/public/map/LoveStory/LoveStory_Coach_2_Phone.png/1dca59a7725586ce6769d18098bf6871.png",
+    "phoneCoverImageUrl": "/public/map/LoveStory/LoveStory_Cover_Phone.jpg/0aa5428a73dcb3c4407e72705c02afd7.jpg",
+    "cover640ImageUrl": "/public/map/LoveStory/LoveStory_Cover_640.png/f49a1a7faebd3929fced7eb8550e3ec5.png"
+  },
+  "mapLength": 243.024958
+}

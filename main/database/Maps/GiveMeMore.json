@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "32ef59720934e36b2373800c43f76f8b",
+      "storageType": 0,
+      "url": "/public/map/GiveMeMore/nx/GiveMeMore_MAIN_SCENE_NX.zip/32ef59720934e36b2373800c43f76f8b.zip"
+    },
+    "pc": {
+      "md5": "46ff426335082e1a201849883145c3e6",
+      "storageType": 0,
+      "url": "/public/map/GiveMeMore/pc/GiveMeMore_MAIN_SCENE_PC.zip/46ff426335082e1a201849883145c3e6.zip"
+    },
+    "ps4": {
+      "md5": "884f531bcd3e35f852d8fa6b7ffb2d75",
+      "storageType": 0,
+      "url": "/public/map/GiveMeMore/orbis/GiveMeMore_MAIN_SCENE_ORBIS.zip/884f531bcd3e35f852d8fa6b7ffb2d75.zip"
+    }
+  },
+  "data": {
+    "mapName": "GiveMeMore",
+    "title": "Dance All Nite",
+    "originalJDVersion": 3,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance3",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Anja",
+    "credits": "Written by Rick Lp. Published by Ubisoft Music / Circleroadrecords. Courtesy of You B Tuned / Ubisoft.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#5b16fe",
+    "songColor2A": "#291af9",
+    "songColor1B": "#210269",
+    "songColor2B": "#080075",
+    "lyricsColor": "#fe07a0"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30659,
+        61318,
+        91977,
+        117020,
+        142064,
+        167108,
+        192152,
+        217196,
+        242239,
+        267283,
+        292327,
+        317371,
+        342415,
+        367459,
+        392502,
+        417468,
+        442590,
+        467551,
+        492678,
+        517721,
+        542765,
+        567809,
+        592853,
+        617897,
+        642940,
+        667984,
+        693028,
+        718072,
+        742979,
+        768159,
+        793105,
+        818247,
+        843291,
+        868622,
+        893470,
+        918422,
+        943309,
+        968771,
+        993554,
+        1018598,
+        1043641,
+        1068685,
+        1093729,
+        1118629,
+        1143708,
+        1168697,
+        1193780,
+        1218878,
+        1243992,
+        1269036,
+        1294079,
+        1318980,
+        1344019,
+        1369087,
+        1394118,
+        1419172,
+        1444242,
+        1469260,
+        1494304
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 413,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GiveMeMore/GiveMeMore_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GiveMeMore/nx/GiveMeMore_banner_bkg.tga.ckd/7db632329c3decfa93158480e44bcf85.ckd",
+      "map_bkgImageUrl": "/public/map/GiveMeMore/nx/GiveMeMore_map_bkg.tga.ckd/34c5322fb79dfb75feb7590cab1b6c24.ckd",
+      "expandCoachImageUrl": "/public/map/GiveMeMore/nx/GiveMeMore_Cover_AlbumCoach.tga.ckd/8b4240a0121401821e6c6b67088e783c.ckd",
+      "cover_smallImageUrl": "/public/map/GiveMeMore/nx/GiveMeMore_Cover_Online.tga.ckd/2f2c629b94bd3f70e1a3608f59f96f5f.ckd",
+      "coach1ImageUrl": "/public/map/GiveMeMore/nx/GiveMeMore_Coach_1.tga.ckd/02a4b4efec415ed9f7cd5e916f4e54d8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GiveMeMore/pc/GiveMeMore_banner_bkg.tga.ckd/d89a7cf358e766e1bb1254e83319329c.ckd",
+      "map_bkgImageUrl": "/public/map/GiveMeMore/pc/GiveMeMore_map_bkg.tga.ckd/85573254c0504d131bcfbab705c73acd.ckd",
+      "expandCoachImageUrl": "/public/map/GiveMeMore/pc/GiveMeMore_Cover_AlbumCoach.tga.ckd/f4dc4583eb7ab85a314247d8d82bdde0.ckd",
+      "cover_smallImageUrl": "/public/map/GiveMeMore/pc/GiveMeMore_Cover_Online.tga.ckd/7f3c09b70418aa8fc2699729d61fcab7.ckd",
+      "coach1ImageUrl": "/public/map/GiveMeMore/pc/GiveMeMore_Coach_1.tga.ckd/a5ca3deaadf308a0b022a5ececa80c04.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GiveMeMore/orbis/GiveMeMore_banner_bkg.tga.ckd/d89a7cf358e766e1bb1254e83319329c.ckd",
+      "map_bkgImageUrl": "/public/map/GiveMeMore/orbis/GiveMeMore_map_bkg.tga.ckd/85573254c0504d131bcfbab705c73acd.ckd",
+      "expandCoachImageUrl": "/public/map/GiveMeMore/orbis/GiveMeMore_Cover_AlbumCoach.tga.ckd/f4dc4583eb7ab85a314247d8d82bdde0.ckd",
+      "cover_smallImageUrl": "/public/map/GiveMeMore/orbis/GiveMeMore_Cover_Online.tga.ckd/7f3c09b70418aa8fc2699729d61fcab7.ckd",
+      "coach1ImageUrl": "/public/map/GiveMeMore/orbis/GiveMeMore_Coach_1.tga.ckd/a5ca3deaadf308a0b022a5ececa80c04.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GiveMeMore/GiveMeMore_Coach_1_Phone.png/c2af2fc4879651b3c6cad86bb43b87b1.png",
+    "phoneCoverImageUrl": "/public/map/GiveMeMore/GiveMeMore_Cover_Phone.jpg/3774fce3af1f1e0425affaeb132bf505.jpg",
+    "cover640ImageUrl": "/public/map/GiveMeMore/GiveMeMore_Cover_640.png/17530d80482d5d39690249b22f4043e0.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GiveMeMore/GiveMeMore.ogg": "/private/map/GiveMeMore/GiveMeMore.ogg/f92b77899a311d57c3a18bc3bc676568.ogg",
+    "jmcs://jd-contents/GiveMeMore/GiveMeMore_AudioPreview.ogg": "/public/map/GiveMeMore/GiveMeMore_AudioPreview.ogg/f559708f960e2deb39a202495398edff.ogg",
+    "jmcs://jd-contents/GiveMeMore/GiveMeMore_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GiveMeMore/GiveMeMore_MapPreviewNoSoundCrop_LOW.vp8.webm/d10a874d84a1b49e3cb1d19023fa47fa.webm",
+    "jmcs://jd-contents/GiveMeMore/GiveMeMore_HIGH.webm": "/private/map/GiveMeMore/GiveMeMore_HIGH.webm/dbda7904c18eb7ed2e7446e566a82a97.webm",
+    "jmcs://jd-contents/GiveMeMore/GiveMeMore_LOW.webm": "/private/map/GiveMeMore/GiveMeMore_LOW.webm/aedfa3d46cf8cd8848d5752771ff64f8.webm",
+    "jmcs://jd-contents/GiveMeMore/GiveMeMore_MID.webm": "/private/map/GiveMeMore/GiveMeMore_MID.webm/bd534bb2a9d1ed63c9eed421a047bbb2.webm",
+    "jmcs://jd-contents/GiveMeMore/GiveMeMore_ULTRA.hd.webm": "/private/map/GiveMeMore/GiveMeMore_ULTRA.hd.webm/16392cd235db04e7ec93c28fb7d3d429.webm",
+    "jmcs://jd-contents/GiveMeMore/GiveMeMore_ULTRA.webm": "/private/map/GiveMeMore/GiveMeMore_ULTRA.webm/3e569fadb42e3cbbb5fce499b5499f7e.webm"
+  },
+  "mapLength": 215.959
+}

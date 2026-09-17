@@ -1,0 +1,175 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Sokusu/Sokusu.ogg": "/private/map/Sokusu/Sokusu.ogg/9d16a28df4d60220bf43edca40fe8a4a.ogg",
+    "jmcs://jd-contents/Sokusu/Sokusu_AudioPreview.ogg": "/public/map/Sokusu/Sokusu_AudioPreview.ogg/085656bcabef87099aee71d43d0e2510.ogg",
+    "jmcs://jd-contents/Sokusu/Sokusu_HIGH.hd.webm": "/private/map/Sokusu/Sokusu_HIGH.hd.webm/052a447c348571aa53aa0291fe43f349.webm",
+    "jmcs://jd-contents/Sokusu/Sokusu_LOW.hd.webm": "/private/map/Sokusu/Sokusu_LOW.hd.webm/5a08f42b9bb98db76bd54f795954b703.webm",
+    "jmcs://jd-contents/Sokusu/Sokusu_MID.hd.webm": "/private/map/Sokusu/Sokusu_MID.hd.webm/abee545d27890b17c74453dd54ae7960.webm",
+    "jmcs://jd-contents/Sokusu/Sokusu_ULTRA.hd.webm": "/private/map/Sokusu/Sokusu_ULTRA.hd.webm/675f397ad1a96a948bad3382e4588f56.webm",
+    "jmcs://jd-contents/Sokusu/Sokusu_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Sokusu/Sokusu_MapPreviewNoSoundCrop_LOW.vp8.webm/ff52b86256a6b7c1b955f0ce974672f8.webm",
+    "jmcs://jd-contents/Sokusu/Sokusu_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Sokusu/Sokusu_MapPreviewNoSoundCrop_MID.vp8.webm/e904cbd02221fbd21b87cc44d1a7783f.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23415,
+        46829,
+        70244,
+        93659,
+        117073,
+        140488,
+        163902,
+        187317,
+        210732,
+        234146,
+        257561,
+        280976,
+        304390,
+        327805,
+        351220,
+        374634,
+        398049,
+        421463,
+        444878,
+        468293,
+        491707,
+        515122,
+        538537,
+        561951,
+        585366,
+        608780,
+        632195,
+        655610,
+        679024,
+        702439,
+        725854,
+        749268,
+        772683,
+        796098,
+        819512,
+        842927,
+        866341,
+        889756,
+        913171,
+        936585,
+        960000,
+        983415,
+        1006829,
+        1030244,
+        1053659,
+        1077073,
+        1100488,
+        1123902,
+        1147317,
+        1170732,
+        1194146,
+        1217561,
+        1240976,
+        1264390,
+        1287805,
+        1311220,
+        1334634,
+        1358049,
+        1381463,
+        1404878,
+        1428293,
+        1451707,
+        1475122
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 400,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Sokusu/Sokusu_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"514600\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sokusu/Sokusu_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1984928\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sokusu/Sokusu_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "5b075cc750374406f72b61c9eaf756f8",
+      "storageType": 0,
+      "url": "/public/map/Sokusu/nx/Sokusu_MAIN_SCENE_NX.zip/5b075cc750374406f72b61c9eaf756f8.zip"
+    },
+    "pc": {
+      "md5": "0e17f6533901f98b80d6f59f2feb63a8",
+      "storageType": 0,
+      "url": "/public/map/Sokusu/pc/Sokusu_MAIN_SCENE_PC.zip/0e17f6533901f98b80d6f59f2feb63a8.zip"
+    },
+    "ps4": {
+      "md5": "b7277546886414d6b23cb5c2f44c5e13",
+      "storageType": 0,
+      "url": "/public/map/Sokusu/orbis/Sokusu_MAIN_SCENE_ORBIS.zip/b7277546886414d6b23cb5c2f44c5e13.zip"
+    }
+  },
+  "data": {
+    "mapName": "Sokusu",
+    "title": "Sokusu",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Wanko Ni Mero Mero",
+    "credits": "\"Sokusu\" written by Reni Mimura and Tom Salta. Vocals by Reni Mimura. Composed, produced, and performed by Tom Salta. Courtesy of Ubisoft Music. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e35eef",
+    "songColor2A": "#97fff1",
+    "songColor1B": "#1a0663",
+    "songColor2B": "#004fba",
+    "lyricsColor": "#de2678",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Sokusu/nx/Sokusu_banner_bkg.tga.ckd/ce730066e81898d005adeeedf5e2307b.ckd",
+      "map_bkgImageUrl": "/public/map/Sokusu/nx/Sokusu_map_bkg.tga.ckd/e20fdea87b7a94049cabd68eac8963dd.ckd",
+      "expandCoachImageUrl": "/public/map/Sokusu/nx/Sokusu_Cover_AlbumCoach.tga.ckd/aac6db618a78e9031193174c56a2a88f.ckd",
+      "cover_smallImageUrl": "/public/map/Sokusu/nx/Sokusu_Cover_Online.tga.ckd/55bf72478487dfbf4f7b89075df1f5b5.ckd",
+      "coverImageUrl": "/public/map/Sokusu/nx/Sokusu_Cover_Generic.tga.ckd/1c8253a2e20acd8d66e7fbcb3f75b967.ckd",
+      "coach1ImageUrl": "/public/map/Sokusu/nx/Sokusu_Coach_1.tga.ckd/0a9b3dd8b85bc9704b7118b0ce816f55.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Sokusu/pc/Sokusu_banner_bkg.tga.ckd/dbcbd712d5f3744bc810834a95e8afc5.ckd",
+      "map_bkgImageUrl": "/public/map/Sokusu/pc/Sokusu_map_bkg.tga.ckd/a68a46b2ad9d2cbdbc66599aab2d0962.ckd",
+      "expandCoachImageUrl": "/public/map/Sokusu/pc/Sokusu_Cover_AlbumCoach.tga.ckd/679fc0a353a331c2ce2b65f4e3be95c5.ckd",
+      "cover_smallImageUrl": "/public/map/Sokusu/pc/Sokusu_Cover_Online.tga.ckd/316aedd5b3415e8ced9c58d401a624e8.ckd",
+      "coverImageUrl": "/public/map/Sokusu/pc/Sokusu_Cover_Generic.tga.ckd/aafc6cdbf57d1d9a1046be76577aecf3.ckd",
+      "coach1ImageUrl": "/public/map/Sokusu/pc/Sokusu_Coach_1.tga.ckd/a82cd02b0330f454c192d8a48329790d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Sokusu/orbis/Sokusu_banner_bkg.tga.ckd/dbcbd712d5f3744bc810834a95e8afc5.ckd",
+      "map_bkgImageUrl": "/public/map/Sokusu/orbis/Sokusu_map_bkg.tga.ckd/a68a46b2ad9d2cbdbc66599aab2d0962.ckd",
+      "expandCoachImageUrl": "/public/map/Sokusu/orbis/Sokusu_Cover_AlbumCoach.tga.ckd/679fc0a353a331c2ce2b65f4e3be95c5.ckd",
+      "cover_smallImageUrl": "/public/map/Sokusu/orbis/Sokusu_Cover_Online.tga.ckd/316aedd5b3415e8ced9c58d401a624e8.ckd",
+      "coverImageUrl": "/public/map/Sokusu/orbis/Sokusu_Cover_Generic.tga.ckd/aafc6cdbf57d1d9a1046be76577aecf3.ckd",
+      "coach1ImageUrl": "/public/map/Sokusu/orbis/Sokusu_Coach_1.tga.ckd/a82cd02b0330f454c192d8a48329790d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Sokusu/Sokusu_Coach_1_Phone.png/8c1406b6011de3369e7cb6b3763c40e2.png",
+    "phoneCoverImageUrl": "/public/map/Sokusu/Sokusu_Cover_Phone.jpg/0073978ac43d2a8c1e16c5e28ffc86e5.jpg",
+    "cover640ImageUrl": "/public/map/Sokusu/Sokusu_Cover_640.png/9394abb5830ca45ea3a2bdaa2d465bf2.png"
+  },
+  "mapLength": 199.512208
+}

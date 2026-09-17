@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "77f4b94e8ba940a8c9f6dbaf5a3a369c",
+      "storageType": 0,
+      "url": "/public/map/RushMU/nx/RushMU_MAIN_SCENE_NX.zip/77f4b94e8ba940a8c9f6dbaf5a3a369c.zip"
+    },
+    "pc": {
+      "md5": "a6a64e777e0ced4c8184ba7f8ea90a80",
+      "storageType": 0,
+      "url": "/public/map/RushMU/pc/RushMU_MAIN_SCENE_PC.zip/a6a64e777e0ced4c8184ba7f8ea90a80.zip"
+    },
+    "ps4": {
+      "md5": "c1c6660573d60450c14d4aeac24a56b6",
+      "storageType": 0,
+      "url": "/public/map/RushMU/orbis/RushMU_MAIN_SCENE_ORBIS.zip/c1c6660573d60450c14d4aeac24a56b6.zip"
+    }
+  },
+  "data": {
+    "mapName": "RushMU",
+    "title": "Rush",
+    "originalJDVersion": 3000,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Troye Sivan",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#4ed9bc",
+    "songColor2A": "#ffe75c",
+    "songColor1B": "#151625",
+    "songColor2B": "#d70543",
+    "lyricsColor": "#ff33cc",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22848,
+        45696,
+        68544,
+        91392,
+        114240,
+        137136,
+        159984,
+        182832,
+        205680,
+        228528,
+        251424,
+        274272,
+        297120,
+        319968,
+        342816,
+        365712,
+        388560,
+        411408,
+        434256,
+        457104,
+        480000,
+        502848,
+        525696,
+        548544,
+        571392,
+        594240,
+        617136,
+        639984,
+        662832,
+        685680,
+        708528,
+        731424,
+        754272,
+        777120,
+        799968,
+        822816,
+        845712,
+        868560,
+        891408,
+        914256,
+        937104,
+        960000,
+        982848,
+        1005696,
+        1028544,
+        1051392,
+        1074240,
+        1097136,
+        1119984,
+        1142832,
+        1165680,
+        1188528,
+        1211424,
+        1234272,
+        1257120,
+        1279968,
+        1302816,
+        1325712,
+        1348560,
+        1371408,
+        1394256,
+        1417104,
+        1440000,
+        1462848,
+        1485696
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 325,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RushMU/RushMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RushMU/nx/RushMU_banner_bkg.tga.ckd/a5a85fd0681da8d03f1c00baba56f57c.ckd",
+      "map_bkgImageUrl": "/public/map/RushMU/nx/RushMU_map_bkg.tga.ckd/62309e9e1bb07038b127635e7d1623f6.ckd",
+      "expandCoachImageUrl": "/public/map/RushMU/nx/RushMU_Cover_AlbumCoach.tga.ckd/16bbbfe2a52813d09029de459cfc2480.ckd",
+      "cover_smallImageUrl": "/public/map/RushMU/nx/RushMU_Cover_Online.tga.ckd/13c1190b8b2ac4ffd31de7c1eab9d8be.ckd",
+      "coach1ImageUrl": "/public/map/RushMU/nx/RushMU_Coach_1.tga.ckd/12d035c874f00411ded670263e583df1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RushMU/pc/RushMU_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/RushMU/pc/RushMU_map_bkg.tga.ckd/aa148bac148d0bac054a89396d0f5f5f.ckd",
+      "expandCoachImageUrl": "/public/map/RushMU/pc/RushMU_Cover_AlbumCoach.tga.ckd/b771330b1a1bce76ac9f06922bd3a7ec.ckd",
+      "cover_smallImageUrl": "/public/map/RushMU/pc/RushMU_Cover_Online.tga.ckd/ddc67ccfa74085a13355e00a23c84f8f.ckd",
+      "coach1ImageUrl": "/public/map/RushMU/pc/RushMU_Coach_1.tga.ckd/8f772e16c6aa6fb7f2d90009e59f3ded.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RushMU/orbis/RushMU_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/RushMU/orbis/RushMU_map_bkg.tga.ckd/aa148bac148d0bac054a89396d0f5f5f.ckd",
+      "expandCoachImageUrl": "/public/map/RushMU/orbis/RushMU_Cover_AlbumCoach.tga.ckd/b771330b1a1bce76ac9f06922bd3a7ec.ckd",
+      "cover_smallImageUrl": "/public/map/RushMU/orbis/RushMU_Cover_Online.tga.ckd/ddc67ccfa74085a13355e00a23c84f8f.ckd",
+      "coach1ImageUrl": "/public/map/RushMU/orbis/RushMU_Coach_1.tga.ckd/8f772e16c6aa6fb7f2d90009e59f3ded.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RushMU/RushMU_Coach_1_Phone.png/960793dcbb43f27a560214da10839881.png",
+    "phoneCoverImageUrl": "/public/map/RushMU/RushMU_Cover_Phone.jpg/f86a288ec3eb1f6e7dc3c680de3a5708.jpg",
+    "cover640ImageUrl": "/public/map/RushMU/RushMU_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/RushMU/RushMU.ogg": "/private/map/RushMU/RushMU.ogg/fed461f73a94ff9d9c4d9897524e48ef.ogg",
+    "jmcs://jd-contents/RushMU/RushMU_AudioPreview.ogg": "/public/map/RushMU/RushMU_AudioPreview.ogg/d07ee2b620ccd0c3694c465ecffc1f73.ogg",
+    "jmcs://jd-contents/RushMU/RushMU_HIGH.webm": "/private/map/RushMU/RushMU_HIGH.webm/5dd126316bf79bf1e942e6a6d289bbdb.webm",
+    "jmcs://jd-contents/RushMU/RushMU_LOW.webm": "/private/map/RushMU/RushMU_LOW.webm/8e7ce469aff1b1226f849685118579ed.webm",
+    "jmcs://jd-contents/RushMU/RushMU_MID.webm": "/private/map/RushMU/RushMU_MID.webm/74333e727514036d1520ae2f6c3837d0.webm",
+    "jmcs://jd-contents/RushMU/RushMU_ULTRA.webm": "/private/map/RushMU/RushMU_ULTRA.webm/c769a042538a9df8a8c397499bbe1166.webm",
+    "jmcs://jd-contents/RushMU/RushMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RushMU/RushMU_MapPreviewNoSoundCrop_LOW.vp8.webm/2e62e65aef577418c54ab2ca91410409.webm",
+    "jmcs://jd-contents/RushMU/RushMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RushMU/RushMU_MapPreviewNoSoundCrop_MID.vp8.webm/6a5418617c4142f29ca29750b1c55c1e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"513735\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RushMU/RushMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1477408\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RushMU/RushMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 156.650063
+}

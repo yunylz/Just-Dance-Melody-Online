@@ -1,0 +1,166 @@
+{
+  "urls": {
+    "jmcs://jd-contents/HowLongMU/HowLongMU.ogg": "/private/map/HowLongMU/HowLongMU.ogg/b7432c60011f747c4f581a85acecf0e1.ogg",
+    "jmcs://jd-contents/HowLongMU/HowLongMU_AudioPreview.ogg": "/public/map/HowLongMU/HowLongMU_AudioPreview.ogg/7226e1bec6006ba6e17c33578a1faa2a.ogg",
+    "jmcs://jd-contents/HowLongMU/HowLongMU_HIGH.hd.webm": "/private/map/HowLongMU/HowLongMU_HIGH.hd.webm/cec599a061674ec6ba69669899842a0c.webm",
+    "jmcs://jd-contents/HowLongMU/HowLongMU_LOW.hd.webm": "/private/map/HowLongMU/HowLongMU_LOW.hd.webm/2fbf63231669e41a69fba81086d55ab8.webm",
+    "jmcs://jd-contents/HowLongMU/HowLongMU_MID.hd.webm": "/private/map/HowLongMU/HowLongMU_MID.hd.webm/65b1ad9288df05615df97c3be0a49675.webm",
+    "jmcs://jd-contents/HowLongMU/HowLongMU_ULTRA.hd.webm": "/private/map/HowLongMU/HowLongMU_ULTRA.hd.webm/1f37fd2dfa7d2595b240b5c908eacf94.webm",
+    "jmcs://jd-contents/HowLongMU/HowLongMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HowLongMU/HowLongMU_MapPreviewNoSoundCrop_LOW.vp8.webm/b298f58a8fccef974f23d2592d42e175.webm",
+    "jmcs://jd-contents/HowLongMU/HowLongMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HowLongMU/HowLongMU_MapPreviewNoSoundCrop_MID.vp8.webm/c77a02e18ec88b36e048564d34c66a05.webm"
+  },
+  "mapLength": 200.1818125,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26182,
+        52364,
+        78545,
+        104727,
+        130909,
+        157091,
+        183273,
+        209455,
+        235636,
+        261818,
+        288000,
+        314182,
+        340364,
+        366545,
+        392727,
+        418909,
+        445091,
+        471273,
+        497455,
+        523636,
+        549818,
+        576000,
+        602182,
+        628364,
+        654545,
+        680727,
+        706909,
+        733091,
+        759273,
+        785455,
+        811636,
+        837818,
+        864000,
+        890182,
+        916364,
+        942545,
+        968727,
+        994909,
+        1021091,
+        1047273,
+        1073455,
+        1099636,
+        1125818,
+        1152000,
+        1178182,
+        1204364,
+        1230545,
+        1256727,
+        1282909,
+        1309091,
+        1335273,
+        1361455,
+        1387636,
+        1413818,
+        1440000,
+        1466182,
+        1492364
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 367,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HowLongMU/HowLongMU_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "ccc66b23a81b1d79be160f5f13ff61c8",
+      "storageType": 0,
+      "url": "/public/map/HowLongMU/nx/HowLongMU_MAIN_SCENE_NX.zip/ccc66b23a81b1d79be160f5f13ff61c8.zip"
+    },
+    "pc": {
+      "md5": "2040eb9d6f0def00b968b1dd0e060478",
+      "storageType": 0,
+      "url": "/public/map/HowLongMU/pc/HowLongMU_MAIN_SCENE_PC.zip/2040eb9d6f0def00b968b1dd0e060478.zip"
+    },
+    "ps4": {
+      "md5": "d4b4dc75b26008d848dd0a9baa0e9f7b",
+      "storageType": 0,
+      "url": "/public/map/HowLongMU/orbis/HowLongMU_MAIN_SCENE_ORBIS.zip/d4b4dc75b26008d848dd0a9baa0e9f7b.zip"
+    }
+  },
+  "data": {
+    "mapName": "HowLongMU",
+    "title": "How Long",
+    "originalJDVersion": 3000,
+    "tags": [
+      "main"
+    ],
+    "artist": "Charlie Puth",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff6942",
+    "songColor2A": "#00b1ff",
+    "songColor1B": "#770d00",
+    "songColor2B": "#001a34",
+    "lyricsColor": "#00b1ff",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HowLongMU/nx/HowLongMU_banner_bkg.tga.ckd/30cfbaf87bdfc23e516b086dcd7e06af.ckd",
+      "map_bkgImageUrl": "/public/map/HowLongMU/nx/HowLongMU_map_bkg.tga.ckd/b1f10a712c98f82016c5da698c366e2c.ckd",
+      "expandCoachImageUrl": "/public/map/HowLongMU/nx/HowLongMU_Cover_AlbumCoach.tga.ckd/b54db38d935cf77bcd4e9ddff116c065.ckd",
+      "cover_smallImageUrl": "/public/map/HowLongMU/nx/HowLongMU_Cover_Online.tga.ckd/c5b9429cb2f083ebe6f310db2fc8ea30.ckd",
+      "coverImageUrl": "/public/map/HowLongMU/nx/HowLongMU_Cover_Generic.tga.ckd/4aec1353d74cb822699d0c4f211e57c0.ckd",
+      "coach1ImageUrl": "/public/map/HowLongMU/nx/HowLongMU_Coach_1.tga.ckd/cf3247746f9a5d93fc6441d9d713108e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HowLongMU/pc/HowLongMU_banner_bkg.tga.ckd/b7a087240fd875e2bc13e5647d8903f9.ckd",
+      "map_bkgImageUrl": "/public/map/HowLongMU/pc/HowLongMU_map_bkg.tga.ckd/a0571e0c37860878f08fbb8dd98b03de.ckd",
+      "expandCoachImageUrl": "/public/map/HowLongMU/pc/HowLongMU_Cover_AlbumCoach.tga.ckd/81b9e99d4af4f89eef6cf49a09d8464c.ckd",
+      "cover_smallImageUrl": "/public/map/HowLongMU/pc/HowLongMU_Cover_Online.tga.ckd/29f24877ddf318dbe8c0de743348ccfd.ckd",
+      "coverImageUrl": "/public/map/HowLongMU/pc/HowLongMU_Cover_Generic.tga.ckd/a9d574a50be4bcf6d786973a71531b97.ckd",
+      "coach1ImageUrl": "/public/map/HowLongMU/pc/HowLongMU_Coach_1.tga.ckd/e50cf0557cd8f42aef5be89300a0efd6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HowLongMU/orbis/HowLongMU_banner_bkg.tga.ckd/b7a087240fd875e2bc13e5647d8903f9.ckd",
+      "map_bkgImageUrl": "/public/map/HowLongMU/orbis/HowLongMU_map_bkg.tga.ckd/a0571e0c37860878f08fbb8dd98b03de.ckd",
+      "expandCoachImageUrl": "/public/map/HowLongMU/orbis/HowLongMU_Cover_AlbumCoach.tga.ckd/81b9e99d4af4f89eef6cf49a09d8464c.ckd",
+      "cover_smallImageUrl": "/public/map/HowLongMU/orbis/HowLongMU_Cover_Online.tga.ckd/29f24877ddf318dbe8c0de743348ccfd.ckd",
+      "coverImageUrl": "/public/map/HowLongMU/orbis/HowLongMU_Cover_Generic.tga.ckd/a9d574a50be4bcf6d786973a71531b97.ckd",
+      "coach1ImageUrl": "/public/map/HowLongMU/orbis/HowLongMU_Coach_1.tga.ckd/e50cf0557cd8f42aef5be89300a0efd6.ckd"
+    },
+    "cover640ImageUrl": "/public/map/HowLongMU/HowLongMU_Cover_640.png/e297607d5d9c3c5bc88bc06efcbc6c88.png"
+  }
+}

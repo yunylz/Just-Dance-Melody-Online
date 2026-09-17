@@ -1,0 +1,373 @@
+26-04 15:33:24 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+26-04 15:33:24 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+26-04 15:33:25 +00:00: (node:3540228) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+26-04 15:33:25 +00:00: (node:3540228) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+26-04 15:33:25 +00:00: (node:3540228) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+27-04 18:59:21 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+27-04 18:59:21 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+27-04 18:59:21 +00:00: (node:3567547) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+27-04 18:59:21 +00:00: (node:3567547) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+27-04 18:59:21 +00:00: (node:3567547) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (/root/JDMO/main/main/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/root/JDMO/main/main/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/root/JDMO/main/main/node_modules/express/lib/response.js:279:15)
+    at /root/JDMO/main/main/routes/songdb.js:183:21
+    at /root/JDMO/main/main/node_modules/express/lib/response.js:451:22
+    at onerror (/root/JDMO/main/main/node_modules/express/lib/response.js:1080:5)
+    at onfinish (/root/JDMO/main/main/node_modules/express/lib/response.js:1098:21)
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at listener (/root/JDMO/main/main/node_modules/on-finished/index.js:170:15)
+28-04 12:06:50 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+28-04 12:06:50 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+28-04 12:06:50 +00:00: (node:3582387) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+28-04 12:06:50 +00:00: (node:3582387) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+28-04 12:06:50 +00:00: (node:3582387) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (/root/JDMO/main/main/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/root/JDMO/main/main/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/root/JDMO/main/main/node_modules/express/lib/response.js:279:15)
+    at handleSongDbRequest (/root/JDMO/main/main/routes/songdb.js:113:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (/root/JDMO/main/main/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/root/JDMO/main/main/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/root/JDMO/main/main/node_modules/express/lib/response.js:279:15)
+    at handleSongDbRequest (/root/JDMO/main/main/routes/songdb.js:113:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (/root/JDMO/main/main/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/root/JDMO/main/main/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/root/JDMO/main/main/node_modules/express/lib/response.js:279:15)
+    at handleSongDbRequest (/root/JDMO/main/main/routes/songdb.js:113:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (/root/JDMO/main/main/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/root/JDMO/main/main/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/root/JDMO/main/main/node_modules/express/lib/response.js:279:15)
+    at handleSongDbRequest (/root/JDMO/main/main/routes/songdb.js:113:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (/root/JDMO/main/main/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/root/JDMO/main/main/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/root/JDMO/main/main/node_modules/express/lib/response.js:279:15)
+    at handleSongDbRequest (/root/JDMO/main/main/routes/songdb.js:113:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (/root/JDMO/main/main/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/root/JDMO/main/main/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/root/JDMO/main/main/node_modules/express/lib/response.js:279:15)
+    at handleSongDbRequest (/root/JDMO/main/main/routes/songdb.js:113:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (/root/JDMO/main/main/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/root/JDMO/main/main/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/root/JDMO/main/main/node_modules/express/lib/response.js:279:15)
+    at /root/JDMO/main/main/routes/songdb.js:183:21
+    at /root/JDMO/main/main/node_modules/express/lib/response.js:451:22
+    at onerror (/root/JDMO/main/main/node_modules/express/lib/response.js:1080:5)
+    at onfinish (/root/JDMO/main/main/node_modules/express/lib/response.js:1098:21)
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at listener (/root/JDMO/main/main/node_modules/on-finished/index.js:170:15)
+28-04 16:51:16 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+28-04 16:51:16 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+28-04 16:51:16 +00:00: (node:3586169) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+28-04 16:51:16 +00:00: (node:3586169) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+28-04 16:51:16 +00:00: (node:3586169) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (/root/JDMO/main/main/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/root/JDMO/main/main/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/root/JDMO/main/main/node_modules/express/lib/response.js:279:15)
+    at /root/JDMO/main/main/routes/songdb.js:183:21
+    at /root/JDMO/main/main/node_modules/express/lib/response.js:451:22
+    at onerror (/root/JDMO/main/main/node_modules/express/lib/response.js:1080:5)
+    at onfinish (/root/JDMO/main/main/node_modules/express/lib/response.js:1098:21)
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at listener (/root/JDMO/main/main/node_modules/on-finished/index.js:170:15)
+28-04 16:59:42 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+28-04 16:59:42 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+28-04 16:59:43 +00:00: (node:3586270) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+28-04 16:59:43 +00:00: (node:3586270) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+28-04 16:59:43 +00:00: (node:3586270) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 17:06:56 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 17:06:56 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 17:06:56 +00:00: (node:3635161) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 17:06:56 +00:00: (node:3635161) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 17:06:56 +00:00: (node:3635161) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 17:12:05 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 17:12:05 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 17:12:05 +00:00: (node:3635625) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 17:12:05 +00:00: (node:3635625) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 17:12:05 +00:00: (node:3635625) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 17:13:22 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:13:39 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:14:08 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:14:14 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:14:22 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:14:35 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:14:45 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:14:47 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:15:05 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:15:09 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:15:24 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:15:33 +00:00: ReferenceError: sessionInfo is not defined
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s-yunyl.js:39:27)
+    at Layer.handle [as handle_request] (/root/JDMO/main/main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/JDMO/main/main/node_modules/express/lib/router/route.js:149:13)
+    at validarSesion (/root/JDMO/main/main/logger/sessionvalidator-s2s.js:62:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) Token Validator Error:
+30-04 17:15:37 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 17:15:37 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 17:15:37 +00:00: (node:3635866) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 17:15:37 +00:00: (node:3635866) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 17:15:37 +00:00: (node:3635866) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 17:19:21 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 17:19:21 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 17:19:22 +00:00: (node:3636095) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 17:19:22 +00:00: (node:3636095) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 17:19:22 +00:00: (node:3636095) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 17:43:51 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 17:43:51 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 17:43:52 +00:00: (node:3636779) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 17:43:52 +00:00: (node:3636779) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 17:43:52 +00:00: (node:3636779) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 17:46:42 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 17:46:42 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 17:46:42 +00:00: (node:3636960) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 17:46:42 +00:00: (node:3636960) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 17:46:42 +00:00: (node:3636960) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 17:50:11 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 17:50:11 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 17:50:12 +00:00: (node:3637269) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 17:50:12 +00:00: (node:3637269) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 17:50:12 +00:00: (node:3637269) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 17:55:59 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 17:55:59 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 17:55:59 +00:00: (node:3637499) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 17:55:59 +00:00: (node:3637499) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 17:55:59 +00:00: (node:3637499) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 18:25:47 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 18:25:47 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 18:25:47 +00:00: (node:3638256) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 18:25:47 +00:00: (node:3638256) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 18:25:47 +00:00: (node:3638256) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 18:29:02 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 18:29:02 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 18:29:02 +00:00: (node:3638424) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 18:29:02 +00:00: (node:3638424) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 18:29:02 +00:00: (node:3638424) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 18:51:20 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 18:51:20 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 18:51:21 +00:00: (node:3639312) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 18:51:21 +00:00: (node:3639312) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 18:51:21 +00:00: (node:3639312) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 18:51:33 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 18:51:33 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 18:51:34 +00:00: (node:3639425) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 18:51:34 +00:00: (node:3639425) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 18:51:34 +00:00: (node:3639425) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 18:51:49 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 18:51:49 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 18:51:49 +00:00: (node:3639545) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 18:51:49 +00:00: (node:3639545) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 18:51:49 +00:00: (node:3639545) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 18:52:24 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 18:52:24 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 18:52:24 +00:00: (node:3639684) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 18:52:24 +00:00: (node:3639684) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 18:52:24 +00:00: (node:3639684) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 18:53:08 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 18:53:08 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 18:53:08 +00:00: (node:3639834) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 18:53:08 +00:00: (node:3639834) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 18:53:08 +00:00: (node:3639834) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 19:09:44 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 19:09:44 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 19:09:44 +00:00: (node:3640883) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 19:09:44 +00:00: (node:3640883) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 19:09:44 +00:00: (node:3640883) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil
+30-04 19:12:34 +00:00: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+30-04 19:12:34 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+30-04 19:12:35 +00:00: (node:3641134) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node-22 --trace-warnings ...` to show where the warning was created)
+30-04 19:12:35 +00:00: (node:3641134) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+30-04 19:12:35 +00:00: (node:3641134) NOTE: The AWS SDK for JavaScript (v2) will enter maintenance mode
+on September 8, 2024 and reach end-of-support on September 8, 2025.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check blog post at https://a.co/cUPnyil

@@ -1,0 +1,118 @@
+{
+    "__class": "HomeService::HomeData",
+    "tileList": [
+        {
+            "__class": "HomeService::HomeTile",
+            "type": 2,
+            "creationTime": 1613578222360,
+            "locked": false,
+            "new": true,
+            "lockDuration": 0,
+            "contentExpiry": 0,
+            "uuid": "00000000-0000-0000-0000-000000000000",
+            "newsTileInfo": {
+                "__class": "HomeService::NewsTileInfo",
+                "type": 0,
+                "title": "Welcome to Just Dance Melody Online",
+                "text": "Grab your friends and family because It’s time to turn up the volume and let loose! \n\n[C:ff7b88e8]Just Dance Melody Online, [C:ff575757]the #1 Music Video Game streaming service of All Time is out this winter with 1400 songs and universes.\n\nJoin a community of more than 6000 players around the world and dance it out! \n\n[C:ff7b88e8]Just Dance Melody Online [C:ff575757]is a brand new platform for streaming and playing the latest & hottest songs the Just Dance Franchise has to offer! \n\nIt features songs from previous mods such as Just Dance Asia!, as well as new additions exclusive to Just Dance Melody Online, \n\nSo you'll have endless amounts of fun and songs to dance to! \n\n[C:ff7b88e8]Just Dance Melody Online is currently available for:\n\n[C:ffe60012]Nintendo Switch Systems - Just Dance 2019 - 2020 - 2021 & 2022 \n\n[C:ff2e6db4]PS4 - Just Dance 2019 - 2020 - 2021 & 2022 \n\n[C:ff575757]PC - Just Dance 2017 \n\nThanks for Playing & Keep on dancing! - [C:ff7b88e8]JDMO Development Team [icon:star]",
+                "imageUrl": "https://jdmo-cdn.c0llydoll.com/public/homedb/home_tile_asset_welcome_hanabi_y4.jpg",
+                "winnerPid": "00000000-0000-0000-0000-000000000000",
+                "winnerPlatform": "Orbis",
+                "winnerName": "Test",
+                "winnerNameSuffix": 0,
+                "winnerCountry": 8086,
+                "winnerAvatar": 80,
+                "winnerAlias": 30,
+                "offlineNewID": ""
+            }
+        },
+        {
+            "__class": "HomeService::HomeTile",
+            "type": 2,
+            "creationTime": 1613578222360,
+            "locked": false,
+            "new": true,
+            "lockDuration": 0,
+            "contentExpiry": 0,
+            "uuid": "00000000-0000-0000-0000-000000000000",
+            "newsTileInfo": {
+                "__class": "HomeService::NewsTileInfo",
+                "type": 0,
+                "title": "Join Mitchy's Discord Server!",
+                "text": "Join to Mitchy's Discord Server to check latest updates - https://discord.gg/FBZB7g5gDH",
+                "imageUrl": "",
+                "winnerPid": "00000000-0000-0000-0000-000000000000",
+                "winnerPlatform": "",
+                "winnerName": "",
+                "winnerNameSuffix": 0,
+                "winnerCountry": 4294967295,
+                "winnerAvatar": 4294967295,
+                "winnerAlias": 4294967295,
+                "offlineNewID": ""
+            }
+        },
+        {
+            "class": "HomeService::HomeTile",
+            "type": 3,
+            "creationTime": 1613578222360,
+            "locked": false,
+            "new": true,
+            "lockDuration": 0,
+            "contentExpiry": 0,
+            "uuid": "00000000-0000-0000-0000-000000000000",
+            "videoTileInfo": {
+                "__class": "HomeService::VideoTileInfo",
+                "type": 1,
+                "streaming": true,
+                "description": "BIRDS OF A FEATHER - Billie Eilish",
+                "videoDataUrl": "https://jdmo-cdn.c0llydoll.com/public/streamed-videos/BOAF_VideoPreview/metadata/5a0ca66be32ddabe9c7a4d8c2d45e682.json",
+                "thumbnailUrl": "https://jdmo-cdn.c0llydoll.com/public/homedb/12345BOAFTest.jpg",
+                "dancerPid": "",
+                "dancerPlatform": "",
+                "dancerName": "",
+                "dancerNameSuffix": 0,
+                "dancerCountry": 4294967295,
+                "dancerAlias": 4294967295,
+                "dancerAvatar": 4294967295,
+                "dancerPortraitBorder": 4294967295,
+                "dancerJDPoints": 4294967295
+            }
+        },
+        {
+            "__class": "HomeService::HomeTile",
+            "type": 0,
+            "creationTime": 1590943627,
+            "locked": false,
+            "new": true,
+            "lockDuration": 0,
+            "contentExpiry": 0,
+            "uuid": "00000000-0000-0000-0000-000000000000",
+            "mapTileInfo": {
+                "__class": "HomeService::MapTileInfo",
+                "type": 6,
+                "mapName": "YesAndMU"
+            }
+        },
+        {
+            "__class": "HomeService::HomeTile",
+            "type": 0,
+            "creationTime": 1590943627,
+            "locked": false,
+            "new": true,
+            "lockDuration": 0,
+            "contentExpiry": 0,
+            "uuid": "00000000-0000-0000-0000-000000000000",
+            "mapTileInfo": {
+                "__class": "HomeService::MapTileInfo",
+                "type": 6,
+                "mapName": "AllIWant"
+            }
+        }
+    ],
+    "timestampLastRequest": 1613578407,
+    "timestampLastManualContent": 1612964700,
+    "timestampLastMapContent": 0,
+    "timestampLastVideoContent": 0,
+    "timestampLastPlaylistContent": 0,
+    "timestampLastLocalTrack": 1540857600
+}

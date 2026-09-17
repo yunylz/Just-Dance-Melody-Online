@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "2f75fc7bbc406ff7c5747c42206181d2",
+      "storageType": 0,
+      "url": "/public/map/BadRomanceALT/nx/BadRomanceALT_MAIN_SCENE_NX.zip/2f75fc7bbc406ff7c5747c42206181d2.zip"
+    },
+    "pc": {
+      "md5": "d3aac108687117ee04b05e0797e8f40b",
+      "storageType": 0,
+      "url": "/public/map/BadRomanceALT/pc/BadRomanceALT_MAIN_SCENE_PC.zip/d3aac108687117ee04b05e0797e8f40b.zip"
+    },
+    "ps4": {
+      "md5": "a2482ace76f0f3c201a4df3304dfb356",
+      "storageType": 0,
+      "url": "/public/map/BadRomanceALT/orbis/BadRomanceALT_MAIN_SCENE_ORBIS.zip/a2482ace76f0f3c201a4df3304dfb356.zip"
+    }
+  },
+  "data": {
+    "mapName": "BadRomanceALT",
+    "title": "Bad Romance",
+    "originalJDVersion": 2015,
+    "tags": [
+      "alternate",
+      "subscribedSong",
+      "JustDance2015",
+      "Solo",
+      "Extreme"
+    ],
+    "artist": "Lady Gaga",
+    "credits": "\"Bad Romance\" - Lady Gaga Written by Stefani Germanotta and Nadir Khayat. Published by House of Gaga Publishing LLC (BMI) and Songs of Redone (BMI) c/o Sony/ATV Music Publishing Canada (SOCAN). All rights reserved.  Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 3,
+    "songColor1A": "#ad0056",
+    "songColor2A": "#00eee5",
+    "songColor1B": "#52003c",
+    "songColor2B": "#00225c",
+    "lyricsColor": "#be1c9c",
+    "LocaleID": 11629
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24192,
+        48384,
+        72624,
+        96816,
+        121008,
+        145200,
+        169392,
+        193632,
+        217824,
+        242016,
+        266208,
+        290400,
+        314640,
+        338832,
+        363024,
+        387216,
+        411408,
+        435648,
+        459840,
+        484032,
+        508224,
+        532416,
+        556656,
+        580848,
+        605040,
+        629232,
+        653424,
+        677664,
+        701856,
+        726048,
+        750241,
+        774433,
+        798673,
+        822865,
+        847057,
+        871249,
+        895441,
+        919681,
+        943873,
+        968065,
+        992257,
+        1016449,
+        1040689,
+        1064881,
+        1089073,
+        1113265,
+        1137457,
+        1161697,
+        1185889,
+        1210081,
+        1234273,
+        1258465,
+        1282705,
+        1306897,
+        1331089,
+        1355281,
+        1379473,
+        1403713,
+        1427905,
+        1452097,
+        1476289
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 588,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BadRomanceALT/nx/BadRomanceALT_banner_bkg.tga.ckd/2585dbd41569120dde1f001242623460.ckd",
+      "map_bkgImageUrl": "/public/map/BadRomanceALT/nx/BadRomanceALT_map_bkg.tga.ckd/81fca3366e3b1ef777ed269d15f2c79f.ckd",
+      "expandCoachImageUrl": "/public/map/BadRomanceALT/nx/BadRomanceALT_Cover_AlbumCoach.tga.ckd/bf568b73ff1f88b6dc015fad0dee2f8e.ckd",
+      "cover_smallImageUrl": "/public/map/BadRomanceALT/nx/BadRomanceALT_Cover_Online.tga.ckd/75eeb21c60b0923f87ab961a942bc1ce.ckd",
+      "coach1ImageUrl": "/public/map/BadRomanceALT/nx/BadRomanceALT_Coach_1.tga.ckd/0f40b89e45fd50f80ba01d57e6c9ad35.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BadRomanceALT/pc/BadRomanceALT_banner_bkg.tga.ckd/a15ff7d9776b1538e9755f3da5743b61.ckd",
+      "map_bkgImageUrl": "/public/map/BadRomanceALT/pc/BadRomanceALT_map_bkg.tga.ckd/630772670a1086f9111e939ababc5f1b.ckd",
+      "expandCoachImageUrl": "/public/map/BadRomanceALT/pc/BadRomanceALT_Cover_AlbumCoach.tga.ckd/58a2f66514055ca659947dbc81936862.ckd",
+      "cover_smallImageUrl": "/public/map/BadRomanceALT/pc/BadRomanceALT_Cover_Online.tga.ckd/909cf9b4ee99c57859da8eae534eb01e.ckd",
+      "coach1ImageUrl": "/public/map/BadRomanceALT/pc/BadRomanceALT_Coach_1.tga.ckd/d2db606e97ea2df627d34505fe28192e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BadRomanceALT/orbis/BadRomanceALT_banner_bkg.tga.ckd/a15ff7d9776b1538e9755f3da5743b61.ckd",
+      "map_bkgImageUrl": "/public/map/BadRomanceALT/orbis/BadRomanceALT_map_bkg.tga.ckd/630772670a1086f9111e939ababc5f1b.ckd",
+      "expandCoachImageUrl": "/public/map/BadRomanceALT/orbis/BadRomanceALT_Cover_AlbumCoach.tga.ckd/58a2f66514055ca659947dbc81936862.ckd",
+      "cover_smallImageUrl": "/public/map/BadRomanceALT/orbis/BadRomanceALT_Cover_Online.tga.ckd/909cf9b4ee99c57859da8eae534eb01e.ckd",
+      "coach1ImageUrl": "/public/map/BadRomanceALT/orbis/BadRomanceALT_Coach_1.tga.ckd/d2db606e97ea2df627d34505fe28192e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BadRomanceALT/BadRomanceALT_Coach_1_Phone.png/8b96c2c4c082b8184102ff64488c0d41.png",
+    "phoneCoverImageUrl": "/public/map/BadRomanceALT/BadRomanceALT_Cover_Phone.jpg/9ef771ce6b3a71cd2de82e0918e99b73.jpg",
+    "cover640ImageUrl": "/public/map/BadRomanceALT/BadRomanceALT_Cover_640.png/4ee18002ef9ac1ea8d0e45d79775f804.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BadRomanceALT/BadRomanceALT.ogg": "/private/map/BadRomanceALT/BadRomanceALT.ogg/7aabca6f863f95086acc6ca7aad88077.ogg",
+    "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_AudioPreview.ogg": "/public/map/BadRomanceALT/BadRomanceALT_AudioPreview.ogg/a1db6ad82542fb128b6374ff8ae9f564.ogg",
+    "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BadRomanceALT/BadRomanceALT_MapPreviewNoSoundCrop_LOW.vp8.webm/590c48a2425f6c97b43066456f1affef.webm",
+    "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_HIGH.webm": "/private/map/BadRomanceALT/BadRomanceALT_HIGH.webm/563a07e8a5a8d1190d28db346cd9a0fd.webm",
+    "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_LOW.webm": "/private/map/BadRomanceALT/BadRomanceALT_LOW.webm/aa46b90fd474b8e894ba710162e75ee5.webm",
+    "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_MID.webm": "/private/map/BadRomanceALT/BadRomanceALT_MID.webm/1675d066916acd3373dd974ed36fbe15.webm",
+    "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_ULTRA.hd.webm": "/private/map/BadRomanceALT/BadRomanceALT_ULTRA.hd.webm/be7306494f5336dd80aa679b1232dd36.webm",
+    "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_ULTRA.webm": "/private/map/BadRomanceALT/BadRomanceALT_ULTRA.webm/ae1ad26a9378cc9ea42c82b6d8edad3e.webm",
+    "jmcs://jd-contents/BadRomanceALT/BadRomanceALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BadRomanceALT/BadRomanceALT_MapPreviewNoSoundCrop_MID.vp8.webm/314da8fa40c1676e34d7a3c55eb18881.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495043\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadRomanceALT/BadRomanceALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"613-1102\">\n\t\t\t\t\t<Initialization range=\"0-613\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1143005\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadRomanceALT/BadRomanceALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\n\t\t\t\t\t<Initialization range=\"0-614\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 295.966396
+}

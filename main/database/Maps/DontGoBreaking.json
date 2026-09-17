@@ -1,0 +1,183 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DontGoBreaking/DontGoBreaking.ogg": "/private/map/DontGoBreaking/DontGoBreaking.ogg/8826c35a36460cda8fa154fbf8508951.ogg",
+    "jmcs://jd-contents/DontGoBreaking/DontGoBreaking_AudioPreview.ogg": "/public/map/DontGoBreaking/DontGoBreaking_AudioPreview.ogg/293cdcde9d0bcb3715f30c38a4d403ed.ogg",
+    "jmcs://jd-contents/DontGoBreaking/DontGoBreaking_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DontGoBreaking/DontGoBreaking_MapPreviewNoSoundCrop_LOW.vp8.webm/95199311f18aaf295d136bc744fc5d9e.webm",
+    "jmcs://jd-contents/DontGoBreaking/DontGoBreaking_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DontGoBreaking/DontGoBreaking_MapPreviewNoSoundCrop_MID.vp8.webm/b4dbfc83194ccf803865bdcbaee3e681.webm",
+    "jmcs://jd-contents/DontGoBreaking/DontGoBreaking_HIGH.hd.webm": "/private/map/DontGoBreaking/DontGoBreaking_HIGH.hd.webm/05c5a0d1be19a70e98e8c3a7f6931ab9.webm",
+    "jmcs://jd-contents/DontGoBreaking/DontGoBreaking_LOW.hd.webm": "/private/map/DontGoBreaking/DontGoBreaking_LOW.hd.webm/b7f38879c153a18603314647b2fbe69c.webm",
+    "jmcs://jd-contents/DontGoBreaking/DontGoBreaking_MID.hd.webm": "/private/map/DontGoBreaking/DontGoBreaking_MID.hd.webm/bea7648a5bf08eca1dd5270077dfa5bf.webm",
+    "jmcs://jd-contents/DontGoBreaking/DontGoBreaking_ULTRA.hd.webm": "/private/map/DontGoBreaking/DontGoBreaking_ULTRA.hd.webm/ff423ac1844f0277c0f1d15ec1ccf104.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202500,
+        225000,
+        247500,
+        270000,
+        292500,
+        315000,
+        337500,
+        360000,
+        382500,
+        405000,
+        427500,
+        450000,
+        471233,
+        492466,
+        513698,
+        534931,
+        556164,
+        577397,
+        598630,
+        619863,
+        644906,
+        667406,
+        689906,
+        712406,
+        734906,
+        757318,
+        779731,
+        802143,
+        824556,
+        846881,
+        869207,
+        891533,
+        913858,
+        935759,
+        957660,
+        979562,
+        1001463,
+        1023364,
+        1045265,
+        1067166,
+        1089067,
+        1110968,
+        1132870,
+        1154771,
+        1176672,
+        1198573,
+        1220474,
+        1242375,
+        1264276,
+        1286178,
+        1308079,
+        1329980,
+        1351881,
+        1373782,
+        1395683,
+        1417584,
+        1439738,
+        1461892,
+        1484046
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 515,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DontGoBreaking/DontGoBreaking_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "0ef266614acdf2f667a5e90ea87a2aee",
+      "storageType": 0,
+      "url": "/public/map/DontGoBreaking/nx/DontGoBreaking_MAIN_SCENE_NX.zip/0ef266614acdf2f667a5e90ea87a2aee.zip"
+    },
+    "pc": {
+      "md5": "045e26dfae56634532dc3616794f35a9",
+      "storageType": 0,
+      "url": "/public/map/DontGoBreaking/pc/DontGoBreaking_MAIN_SCENE_PC.zip/045e26dfae56634532dc3616794f35a9.zip"
+    },
+    "ps4": {
+      "md5": "29d3006a87eca47b2901cb83f2c4352a",
+      "storageType": 0,
+      "url": "/public/map/DontGoBreaking/orbis/DontGoBreaking_MAIN_SCENE_ORBIS.zip/29d3006a87eca47b2901cb83f2c4352a.zip"
+    }
+  },
+  "data": {
+    "mapName": "DontGoBreaking",
+    "title": "Don't Go Breaking My Heart",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Elton John & Kiki Dee",
+    "credits": "\\u201cDon\\u2019t Go Breaking My Heart\\u201d Written by Carte Blanche, Ann Orson  Published by Universal Music Publishing Canada on behalf of Rouge Booze, Inc. and HST Publishing Ltd Steve Ouimette - Production, recording, mixing, guitar, bass, Rhodes, BGV Stefanie Drexler, Chris Cron - Vocals Anthony Morra - Drums Pete Whitfield, Sarah Brandwood-Spencer, Paulette Bayley - Violins Alistair Vennart  - Viola Simon Turner, Clare Rowe - Cello Jamie Hosmer \\u2013 Piano Courtesy of Ubisoft Music All rights reserved. Used with permission.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#fbe082",
+    "songColor2A": "#75f8fa",
+    "songColor1B": "#cd6a3a",
+    "songColor2B": "#1f50cb",
+    "lyricsColor": "#86ea05",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DontGoBreaking/nx/DontGoBreaking_banner_bkg.tga.ckd/37fd8000a05b3f21a8c78e95ceda108e.ckd",
+      "map_bkgImageUrl": "/public/map/DontGoBreaking/nx/DontGoBreaking_map_bkg.tga.ckd/31031ff9f9bb08a7e9f11636cbe59b88.ckd",
+      "expandCoachImageUrl": "/public/map/DontGoBreaking/nx/DontGoBreaking_Cover_AlbumCoach.tga.ckd/c78e7ae6b4d1c463555692727303f435.ckd",
+      "cover_smallImageUrl": "/public/map/DontGoBreaking/nx/DontGoBreaking_Cover_Online.tga.ckd/0cbc834590ed0d2a5c1cccd8ae2d46eb.ckd",
+      "coverImageUrl": "/public/map/DontGoBreaking/nx/DontGoBreaking_Cover_Generic.tga.ckd/23825589b7aae4f14cc6e6dac8274a6a.ckd",
+      "coach1ImageUrl": "/public/map/DontGoBreaking/nx/DontGoBreaking_Coach_1.tga.ckd/aca9278e2a64ec2060e5b9d4e3ab899a.ckd",
+      "coach2ImageUrl": "/public/map/DontGoBreaking/nx/DontGoBreaking_Coach_2.tga.ckd/8693f5867f0b2c7b783d2e4c6832cb3b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DontGoBreaking/pc/DontGoBreaking_banner_bkg.tga.ckd/593e04fcab6b89ed995e2d2e8a685a0a.ckd",
+      "map_bkgImageUrl": "/public/map/DontGoBreaking/pc/DontGoBreaking_map_bkg.tga.ckd/b67753fbd99f1aad84105cfe98dd5fce.ckd",
+      "expandCoachImageUrl": "/public/map/DontGoBreaking/pc/DontGoBreaking_Cover_AlbumCoach.tga.ckd/813de31960df8edfb0239a004c1537d9.ckd",
+      "cover_smallImageUrl": "/public/map/DontGoBreaking/pc/DontGoBreaking_Cover_Online.tga.ckd/cf179a115dd816392182e8478cde1427.ckd",
+      "coverImageUrl": "/public/map/DontGoBreaking/pc/DontGoBreaking_Cover_Generic.tga.ckd/2a0efc30262e6bd55bcda5d5ceae8685.ckd",
+      "coach1ImageUrl": "/public/map/DontGoBreaking/pc/DontGoBreaking_Coach_1.tga.ckd/78ffab560b27edf100361d2dbcccb2f2.ckd",
+      "coach2ImageUrl": "/public/map/DontGoBreaking/pc/DontGoBreaking_Coach_2.tga.ckd/815094f03915d721e220339a622ef1ec.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DontGoBreaking/orbis/DontGoBreaking_banner_bkg.tga.ckd/593e04fcab6b89ed995e2d2e8a685a0a.ckd",
+      "map_bkgImageUrl": "/public/map/DontGoBreaking/orbis/DontGoBreaking_map_bkg.tga.ckd/b67753fbd99f1aad84105cfe98dd5fce.ckd",
+      "expandCoachImageUrl": "/public/map/DontGoBreaking/orbis/DontGoBreaking_Cover_AlbumCoach.tga.ckd/813de31960df8edfb0239a004c1537d9.ckd",
+      "cover_smallImageUrl": "/public/map/DontGoBreaking/orbis/DontGoBreaking_Cover_Online.tga.ckd/cf179a115dd816392182e8478cde1427.ckd",
+      "coverImageUrl": "/public/map/DontGoBreaking/orbis/DontGoBreaking_Cover_Generic.tga.ckd/2a0efc30262e6bd55bcda5d5ceae8685.ckd",
+      "coach1ImageUrl": "/public/map/DontGoBreaking/orbis/DontGoBreaking_Coach_1.tga.ckd/78ffab560b27edf100361d2dbcccb2f2.ckd",
+      "coach2ImageUrl": "/public/map/DontGoBreaking/orbis/DontGoBreaking_Coach_2.tga.ckd/815094f03915d721e220339a622ef1ec.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DontGoBreaking/DontGoBreaking_Coach_1_Phone.png/7dece7a279c2a6f863dc9e6b24487afc.png",
+    "phoneCoach2ImageUrl": "/public/map/DontGoBreaking/DontGoBreaking_Coach_2_Phone.png/c1451581263ae6baf01e33c7298ad210.png",
+    "phoneCoverImageUrl": "/public/map/DontGoBreaking/DontGoBreaking_Cover_Phone.jpg/98fc01d185afbdd8ac88fd855b5d390c.jpg",
+    "cover640ImageUrl": "/public/map/DontGoBreaking/DontGoBreaking_Cover_640.png/79de9107182638e4f24678892cc1dcdc.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"558216\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontGoBreaking/DontGoBreaking_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\n\t\t\t\t\t<Initialization range=\"0-614\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2005350\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontGoBreaking/DontGoBreaking_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 239.4535
+}

@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1dca40096bcac126e6b6536cd2b6cb2b",
+      "storageType": 0,
+      "url": "/public/map/Acceptable/nx/Acceptable_MAIN_SCENE_NX.zip/1dca40096bcac126e6b6536cd2b6cb2b.zip"
+    },
+    "pc": {
+      "md5": "e56b2be2f7570f6167f77b341bb4766d",
+      "storageType": 0,
+      "url": "/public/map/Acceptable/pc/Acceptable_MAIN_SCENE_PC.zip/e56b2be2f7570f6167f77b341bb4766d.zip"
+    },
+    "ps4": {
+      "md5": "7494704bb5d1844a413c5c8deef98975",
+      "storageType": 0,
+      "url": "/public/map/Acceptable/orbis/Acceptable_MAIN_SCENE_ORBIS.zip/7494704bb5d1844a413c5c8deef98975.zip"
+    }
+  },
+  "data": {
+    "mapName": "Acceptable",
+    "title": "Acceptable In The 80s",
+    "originalJDVersion": 1,
+    "tags": [
+      "Main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Calvin Harris",
+    "credits": "Written by Adam Wiles. Published by EMI April Music Inc. (ASCAP). All Rights Reserved. Used by Permission. Courtesy of Sony Music Entertainment UK Limited. By arrangement with Sony Music Entertainment Canada Inc. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#6DDD2C",
+    "songColor2A": "#00C4BE",
+    "songColor1B": "#030061",
+    "songColor2B": "#00234C",
+    "lyricsColor": "#12F3E1",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202500,
+        225000,
+        247500,
+        270000,
+        292500,
+        315000,
+        337500,
+        360000,
+        382500,
+        405000,
+        427500,
+        450000,
+        472500,
+        495000,
+        517500,
+        540000,
+        562500,
+        585000,
+        607500,
+        630000,
+        652500,
+        675000,
+        697500,
+        720000,
+        742500,
+        765000,
+        787500,
+        810000,
+        832500,
+        855000,
+        877500,
+        900000,
+        922500,
+        945000,
+        967500,
+        990000,
+        1012500,
+        1035000,
+        1057500,
+        1080000,
+        1102500,
+        1125000,
+        1147500,
+        1170000,
+        1192500,
+        1215000,
+        1237500,
+        1260000,
+        1282500,
+        1305000,
+        1327500,
+        1350000,
+        1372500,
+        1395000,
+        1417500,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 461,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Acceptable/Acceptable_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Acceptable/nx/Acceptable_banner_bkg.tga.ckd/e9011bb75a64f37902fb4211a07d772b.ckd",
+      "map_bkgImageUrl": "/public/map/Acceptable/nx/Acceptable_map_bkg.tga.ckd/c79534c62acf6e13b41b324c911fdc04.ckd",
+      "expandCoachImageUrl": "/public/map/Acceptable/nx/Acceptable_Cover_AlbumCoach.tga.ckd/bb248db9fb887df1ed8c61700f991438.ckd",
+      "cover_smallImageUrl": "/public/map/Acceptable/nx/Acceptable_Cover_Online.tga.ckd/bd89739f6770a778487677a94cb4f84d.ckd",
+      "coach1ImageUrl": "/public/map/Acceptable/nx/Acceptable_Coach_1.tga.ckd/cec972da33845416e45c8adea27b4adb.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Acceptable/pc/Acceptable_banner_bkg.tga.ckd/71cb785c5b9c1fc101e1a8b7a991691e.ckd",
+      "map_bkgImageUrl": "/public/map/Acceptable/pc/Acceptable_map_bkg.tga.ckd/58fe834db4abd2c184a5543736f5ddda.ckd",
+      "expandCoachImageUrl": "/public/map/Acceptable/pc/Acceptable_Cover_AlbumCoach.tga.ckd/3c8c590dbf177865a3072e5bdd1b84e2.ckd",
+      "cover_smallImageUrl": "/public/map/Acceptable/pc/Acceptable_Cover_Online.tga.ckd/b6a2b7009d8996412b7c0ac5c43a4a02.ckd",
+      "coach1ImageUrl": "/public/map/Acceptable/pc/Acceptable_Coach_1.tga.ckd/47062fe49b82cbb0692c6dd590761701.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Acceptable/orbis/Acceptable_banner_bkg.tga.ckd/71cb785c5b9c1fc101e1a8b7a991691e.ckd",
+      "map_bkgImageUrl": "/public/map/Acceptable/orbis/Acceptable_map_bkg.tga.ckd/58fe834db4abd2c184a5543736f5ddda.ckd",
+      "expandCoachImageUrl": "/public/map/Acceptable/orbis/Acceptable_Cover_AlbumCoach.tga.ckd/3c8c590dbf177865a3072e5bdd1b84e2.ckd",
+      "cover_smallImageUrl": "/public/map/Acceptable/orbis/Acceptable_Cover_Online.tga.ckd/b6a2b7009d8996412b7c0ac5c43a4a02.ckd",
+      "coach1ImageUrl": "/public/map/Acceptable/orbis/Acceptable_Coach_1.tga.ckd/47062fe49b82cbb0692c6dd590761701.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Acceptable/Acceptable_Coach_1_Phone.png/16ad01af99c596a33d1f577b45acce21.png",
+    "phoneCoverImageUrl": "/public/map/Acceptable/Acceptable_Cover_Phone.jpg/cbf8d01867057602e154c32774d8ca2a.jpg",
+    "cover640ImageUrl": "/public/map/Acceptable/Acceptable_Cover_640.png/b4cf80bd99d78d4acbab3606c9534144.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Acceptable/Acceptable.ogg": "/private/map/Acceptable/Acceptable.ogg/bd3a8b34c4b23832292056bd9d333bbc.ogg",
+    "jmcs://jd-contents/Acceptable/Acceptable_AudioPreview.ogg": "/public/map/Acceptable/Acceptable_AudioPreview.ogg/caa4d2b3e0c6e016b022fe52447d1785.ogg",
+    "jmcs://jd-contents/Acceptable/Acceptable_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Acceptable/Acceptable_MapPreviewNoSoundCrop_LOW.vp8.webm/7bf5bdc1e56b9b26644a23fe870dd414.webm",
+    "jmcs://jd-contents/Acceptable/Acceptable_HIGH.webm": "/private/map/Acceptable/Acceptable_HIGH.webm/b2f9a258f65d97526784f57e70bc7560.webm",
+    "jmcs://jd-contents/Acceptable/Acceptable_LOW.webm": "/private/map/Acceptable/Acceptable_LOW.webm/f3fc64a726ba0b43728602deaa456250.webm",
+    "jmcs://jd-contents/Acceptable/Acceptable_MID.webm": "/private/map/Acceptable/Acceptable_MID.webm/4283483ad42b3cb6065334c914d56c01.webm",
+    "jmcs://jd-contents/Acceptable/Acceptable_ULTRA.hd.webm": "/private/map/Acceptable/Acceptable_ULTRA.hd.webm/64378e572063cdefb59fd067a9fbe799.webm",
+    "jmcs://jd-contents/Acceptable/Acceptable_ULTRA.webm": "/private/map/Acceptable/Acceptable_ULTRA.webm/9604a8ebb2e981a47af64fb45b2cebf3.webm",
+    "jmcs://jd-contents/Acceptable/Acceptable_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Acceptable/Acceptable_MapPreviewNoSoundCrop_MID.vp8.webm/f13818efe699634963d5e7fc5f9f95fd.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"493041\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Acceptable/Acceptable_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1110955\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Acceptable/Acceptable_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\n\t\t\t\t\t<Initialization range=\"0-637\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 216.22675
+}

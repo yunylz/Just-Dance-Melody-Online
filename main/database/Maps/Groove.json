@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "6a81bcf7bfeb341556465fac921699d6",
+      "storageType": 0,
+      "url": "/public/map/Groove/nx/Groove_MAIN_SCENE_NX.zip/6a81bcf7bfeb341556465fac921699d6.zip"
+    },
+    "pc": {
+      "md5": "f3cd1b975850bbb04a5cf5a55ad9bff0",
+      "storageType": 0,
+      "url": "/public/map/Groove/pc/Groove_MAIN_SCENE_PC.zip/f3cd1b975850bbb04a5cf5a55ad9bff0.zip"
+    },
+    "ps4": {
+      "md5": "aa62d10ddb4ac3e88b2441b644a5af32",
+      "storageType": 0,
+      "url": "/public/map/Groove/orbis/Groove_MAIN_SCENE_ORBIS.zip/aa62d10ddb4ac3e88b2441b644a5af32.zip"
+    }
+  },
+  "data": {
+    "mapName": "Groove",
+    "title": "Groove",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main"
+    ],
+    "artist": "Jack & Jack",
+    "credits": "Written by Jack Johnson, Jack Gilinsky and Jordan Palmer. Published by Jack & Jack Music Publishing (BMI), Sony/ATV Allegro (ASCAP), Jordan Palmer Songs (ASCAP) Courtesy of Jack & Jack LLC. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00c3b6",
+    "songColor2A": "#f01b71",
+    "songColor1B": "#002232",
+    "songColor2B": "#610007",
+    "lyricsColor": "#c80030",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23232,
+        46464,
+        69696,
+        92880,
+        116112,
+        139344,
+        162576,
+        185808,
+        209040,
+        232272,
+        255504,
+        278688,
+        301920,
+        325152,
+        348384,
+        371616,
+        394848,
+        418080,
+        441312,
+        464496,
+        487728,
+        510960,
+        534193,
+        557425,
+        580657,
+        603889,
+        627121,
+        650305,
+        673537,
+        696769,
+        720001,
+        743233,
+        766465,
+        789697,
+        812881,
+        836113,
+        859345,
+        882577,
+        905809,
+        929041,
+        952273,
+        975505,
+        998689,
+        1021921,
+        1045153,
+        1068386,
+        1091618,
+        1114850,
+        1138082,
+        1161314,
+        1184498,
+        1207730,
+        1230962,
+        1254194,
+        1277426,
+        1300658,
+        1323890,
+        1347122,
+        1370306,
+        1393538,
+        1416770,
+        1440002,
+        1463234,
+        1486466
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 388,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Groove/Groove_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Groove/nx/Groove_banner_bkg.tga.ckd/e9179aecf7c7895eac7bef616262ce7c.ckd",
+      "map_bkgImageUrl": "/public/map/Groove/nx/Groove_map_bkg.tga.ckd/a9e129f247d97cb574ed03c46cba470d.ckd",
+      "expandCoachImageUrl": "/public/map/Groove/nx/Groove_Cover_AlbumCoach.tga.ckd/5ae886bdbc8f8a8e60aa064c46063e75.ckd",
+      "cover_smallImageUrl": "/public/map/Groove/nx/Groove_Cover_Online.tga.ckd/1f316ffdcf279bf68d29e142a2e412f7.ckd",
+      "coach1ImageUrl": "/public/map/Groove/nx/Groove_Coach_1.tga.ckd/f30de42ca74c41f4ddebd953b04cb555.ckd",
+      "coach2ImageUrl": "/public/map/Groove/nx/Groove_Coach_2.tga.ckd/f871db39a2f32dc281ebfbf9a52735b3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Groove/pc/Groove_banner_bkg.tga.ckd/dd5d5a399d8ea91f7fa03be4d008f76e.ckd",
+      "map_bkgImageUrl": "/public/map/Groove/pc/Groove_map_bkg.tga.ckd/6a7d2d6f4350f7c4200828eb1effd51a.ckd",
+      "expandCoachImageUrl": "/public/map/Groove/pc/Groove_Cover_AlbumCoach.tga.ckd/6ee040e8a41c070ebad428232577d6cc.ckd",
+      "cover_smallImageUrl": "/public/map/Groove/pc/Groove_Cover_Online.tga.ckd/1fddad05d5d8df6f1a5a0c09c182f01a.ckd",
+      "coach1ImageUrl": "/public/map/Groove/pc/Groove_Coach_1.tga.ckd/916d4248126a9886ec30a9bf1716f773.ckd",
+      "coach2ImageUrl": "/public/map/Groove/pc/Groove_Coach_2.tga.ckd/af422da8f872659a666dab58d7aaf38d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Groove/orbis/Groove_banner_bkg.tga.ckd/dd5d5a399d8ea91f7fa03be4d008f76e.ckd",
+      "map_bkgImageUrl": "/public/map/Groove/orbis/Groove_map_bkg.tga.ckd/6a7d2d6f4350f7c4200828eb1effd51a.ckd",
+      "expandCoachImageUrl": "/public/map/Groove/orbis/Groove_Cover_AlbumCoach.tga.ckd/6ee040e8a41c070ebad428232577d6cc.ckd",
+      "cover_smallImageUrl": "/public/map/Groove/orbis/Groove_Cover_Online.tga.ckd/1fddad05d5d8df6f1a5a0c09c182f01a.ckd",
+      "coach1ImageUrl": "/public/map/Groove/orbis/Groove_Coach_1.tga.ckd/916d4248126a9886ec30a9bf1716f773.ckd",
+      "coach2ImageUrl": "/public/map/Groove/orbis/Groove_Coach_2.tga.ckd/af422da8f872659a666dab58d7aaf38d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Groove/Groove_Coach_1_Phone.png/647fa230175ecd2c9e50ac35847b220a.png",
+    "phoneCoach2ImageUrl": "/public/map/Groove/Groove_Coach_2_Phone.png/17bcb97ff401c279eda59fbd588d6d34.png",
+    "phoneCoverImageUrl": "/public/map/Groove/Groove_Cover_Phone.jpg/5391fc0d3728d95c22b87f4fa0b95e54.jpg",
+    "cover640ImageUrl": "/public/map/Groove/Groove_Cover_640.png/69d606b95c9035257227cbaf28f5742d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Groove/Groove.ogg": "/private/map/Groove/Groove.ogg/cc937d977c9dc2d242adefe19d079a3b.ogg",
+    "jmcs://jd-contents/Groove/Groove_AudioPreview.ogg": "/public/map/Groove/Groove_AudioPreview.ogg/e333155799e5ed7f7657df50bcfcca88.ogg",
+    "jmcs://jd-contents/Groove/Groove_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Groove/Groove_MapPreviewNoSoundCrop_LOW.vp8.webm/04a7a2d2c62662ec24daaedb935b5a46.webm",
+    "jmcs://jd-contents/Groove/Groove_HIGH.webm": "/private/map/Groove/Groove_HIGH.webm/35037d8469e9a208cb47c19c7303e04e.webm",
+    "jmcs://jd-contents/Groove/Groove_LOW.webm": "/private/map/Groove/Groove_LOW.webm/c9039301a7611071b98aa91868c58157.webm",
+    "jmcs://jd-contents/Groove/Groove_MID.webm": "/private/map/Groove/Groove_MID.webm/581242a597e8170d0e9dc42966fa14de.webm",
+    "jmcs://jd-contents/Groove/Groove_ULTRA.hd.webm": "/private/map/Groove/Groove_ULTRA.hd.webm/7ec4ced834ff47b3f782aba5c921372c.webm",
+    "jmcs://jd-contents/Groove/Groove_ULTRA.webm": "/private/map/Groove/Groove_ULTRA.webm/366aab320460c348f7a3b87e67840e10.webm",
+    "jmcs://jd-contents/Groove/Groove_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Groove/Groove_MapPreviewNoSoundCrop_MID.vp8.webm/a6ec1d569ffa6cd8eed83873a5739ce5.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495525\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Groove/Groove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\n\t\t\t\t\t<Initialization range=\"0-619\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1456091\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Groove/Groove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\n\t\t\t\t\t<Initialization range=\"0-620\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 189.676604
+}

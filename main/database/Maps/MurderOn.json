@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d95d22f52b98e06cdce5663978ad796a",
+      "storageType": 0,
+      "url": "/public/map/MurderOn/nx/MurderOn_MAIN_SCENE_NX.zip/d95d22f52b98e06cdce5663978ad796a.zip"
+    },
+    "pc": {
+      "md5": "f59b219323b928973753d35e8835dc11",
+      "storageType": 0,
+      "url": "/public/map/MurderOn/pc/MurderOn_MAIN_SCENE_PC.zip/f59b219323b928973753d35e8835dc11.zip"
+    },
+    "ps4": {
+      "md5": "0b7422e8c5a1c83463c9671db8dfc21c",
+      "storageType": 0,
+      "url": "/public/map/MurderOn/orbis/MurderOn_MAIN_SCENE_ORBIS.zip/0b7422e8c5a1c83463c9671db8dfc21c.zip"
+    }
+  },
+  "data": {
+    "mapName": "MurderOn",
+    "title": "Murder On The Dancefloor",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sophie Ellis-Bextor",
+    "credits": "Written by Sophie Ellis-Bextor, Alexander Gregg.  Published by Universal Music Publishing International, BMG BMG Platinum Songs US (BMI) obo Keepin It Real How Bout You Music Publishing (BMI).  All rights administered by BMG Rights Management (US) LLC.  Courtesy of Polydor Ltd. (UK) under license from Universal Music Canada Inc.",
+    "coachCount": 2,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#a32ae9",
+    "songColor2A": "#f5bd45",
+    "songColor1B": "#1a0345",
+    "songColor2B": "#422906",
+    "lyricsColor": "#ff42ff",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24615,
+        47998,
+        74010,
+        98594,
+        123161,
+        147729,
+        172052,
+        196373,
+        220695,
+        245509,
+        270328,
+        294898,
+        319465,
+        344033,
+        368601,
+        393168,
+        417736,
+        442303,
+        466871,
+        491438,
+        516006,
+        540573,
+        565141,
+        589709,
+        614276,
+        638844,
+        663411,
+        687979,
+        712546,
+        737114,
+        761682,
+        786249,
+        810817,
+        834667,
+        858509,
+        882352,
+        906912,
+        931480,
+        956047,
+        980615,
+        1005182,
+        1029750,
+        1053834,
+        1078153,
+        1102718,
+        1127794,
+        1152362,
+        1176929,
+        1201497,
+        1225818,
+        1250385,
+        1274953,
+        1299520,
+        1324088,
+        1348656,
+        1373223,
+        1397791,
+        1422358,
+        1446926,
+        1471493,
+        1496061
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 460,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MurderOn/MurderOn_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MurderOn/nx/MurderOn_banner_bkg.tga.ckd/568ec750e2455de49e778c1678ee24c7.ckd",
+      "map_bkgImageUrl": "/public/map/MurderOn/nx/MurderOn_map_bkg.tga.ckd/b8160d646573c40303e22714b3610f54.ckd",
+      "expandCoachImageUrl": "/public/map/MurderOn/nx/MurderOn_Cover_AlbumCoach.tga.ckd/3d3426c0042e33eac79e0a85a14745e8.ckd",
+      "cover_smallImageUrl": "/public/map/MurderOn/nx/MurderOn_Cover_Online.tga.ckd/399f825d9a885bd8d187aca0a0dae3a8.ckd",
+      "coverImageUrl": "/public/map/MurderOn/nx/MurderOn_Cover_Generic.tga.ckd/fde4d3b753c2bb0e03bca50254631e32.ckd",
+      "coach1ImageUrl": "/public/map/MurderOn/nx/MurderOn_Coach_1.tga.ckd/8e15e693d502217a5a735ca76daf992a.ckd",
+      "coach2ImageUrl": "/public/map/MurderOn/nx/MurderOn_Coach_2.tga.ckd/ab3742d27534136425e6aab0e025afab.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MurderOn/pc/MurderOn_banner_bkg.tga.ckd/3d258941870d2fb035155f57732dc501.ckd",
+      "map_bkgImageUrl": "/public/map/MurderOn/pc/MurderOn_map_bkg.tga.ckd/46dfaf9a1921ccd4f1652f85bc16e15a.ckd",
+      "expandCoachImageUrl": "/public/map/MurderOn/pc/MurderOn_Cover_AlbumCoach.tga.ckd/018b4932ccfdcaca5c8b6516cbc6a271.ckd",
+      "cover_smallImageUrl": "/public/map/MurderOn/pc/MurderOn_Cover_Online.tga.ckd/7c2116612e2f294dc05221462d844509.ckd",
+      "coverImageUrl": "/public/map/MurderOn/pc/MurderOn_Cover_Generic.tga.ckd/8999bc8e6eec1abed88deb2a475324a2.ckd",
+      "coach1ImageUrl": "/public/map/MurderOn/pc/MurderOn_Coach_1.tga.ckd/6785d42379c69115cf6bbf6ed36dfe3a.ckd",
+      "coach2ImageUrl": "/public/map/MurderOn/pc/MurderOn_Coach_2.tga.ckd/4fc7c2d49b129ae38d900e2d09dd52fe.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MurderOn/orbis/MurderOn_banner_bkg.tga.ckd/3d258941870d2fb035155f57732dc501.ckd",
+      "map_bkgImageUrl": "/public/map/MurderOn/orbis/MurderOn_map_bkg.tga.ckd/46dfaf9a1921ccd4f1652f85bc16e15a.ckd",
+      "expandCoachImageUrl": "/public/map/MurderOn/orbis/MurderOn_Cover_AlbumCoach.tga.ckd/018b4932ccfdcaca5c8b6516cbc6a271.ckd",
+      "cover_smallImageUrl": "/public/map/MurderOn/orbis/MurderOn_Cover_Online.tga.ckd/7c2116612e2f294dc05221462d844509.ckd",
+      "coverImageUrl": "/public/map/MurderOn/orbis/MurderOn_Cover_Generic.tga.ckd/8999bc8e6eec1abed88deb2a475324a2.ckd",
+      "coach1ImageUrl": "/public/map/MurderOn/orbis/MurderOn_Coach_1.tga.ckd/6785d42379c69115cf6bbf6ed36dfe3a.ckd",
+      "coach2ImageUrl": "/public/map/MurderOn/orbis/MurderOn_Coach_2.tga.ckd/4fc7c2d49b129ae38d900e2d09dd52fe.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MurderOn/MurderOn_Coach_1_Phone.png/455eadeb04975f04f8a0e24ab7bf4da6.png",
+    "phoneCoach2ImageUrl": "/public/map/MurderOn/MurderOn_Coach_2_Phone.png/7adffc1e23bcf15b54eb975a0ebe255a.png",
+    "phoneCoverImageUrl": "/public/map/MurderOn/MurderOn_Cover_Phone.jpg/6a8c58312190d015defed384340796a9.jpg",
+    "cover640ImageUrl": "/public/map/MurderOn/MurderOn_Cover_640.png/1a543e3efbeabff5cd1d1bdf18fa4cc1.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MurderOn/MurderOn.ogg": "/private/map/MurderOn/MurderOn.ogg/2aee60ce8c9f7e0c2af2fb7c537ed9f4.ogg",
+    "jmcs://jd-contents/MurderOn/MurderOn_AudioPreview.ogg": "/public/map/MurderOn/MurderOn_AudioPreview.ogg/6ee2c657dce154572171de1ec0d01ea4.ogg",
+    "jmcs://jd-contents/MurderOn/MurderOn_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MurderOn/MurderOn_MapPreviewNoSoundCrop_LOW.vp8.webm/540be6dbebb443c1c60c1de3cd80731c.webm",
+    "jmcs://jd-contents/MurderOn/MurderOn_HIGH.webm": "/private/map/MurderOn/MurderOn_HIGH.webm/9bced1b7014f6cb76bc285a5904c7a33.webm",
+    "jmcs://jd-contents/MurderOn/MurderOn_LOW.webm": "/private/map/MurderOn/MurderOn_LOW.webm/7d626e78e21032f755d2ca1708e7a0f1.webm",
+    "jmcs://jd-contents/MurderOn/MurderOn_MID.webm": "/private/map/MurderOn/MurderOn_MID.webm/cd636d69efd7532464b327ab1e9d1f76.webm",
+    "jmcs://jd-contents/MurderOn/MurderOn_ULTRA.hd.webm": "/private/map/MurderOn/MurderOn_ULTRA.hd.webm/5409afb2d3864cbcea1b3d6ad38bfa0b.webm",
+    "jmcs://jd-contents/MurderOn/MurderOn_ULTRA.webm": "/private/map/MurderOn/MurderOn_ULTRA.webm/30cab00745843ffdd3b853089934f0b2.webm",
+    "jmcs://jd-contents/MurderOn/MurderOn_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MurderOn/MurderOn_MapPreviewNoSoundCrop_MID.vp8.webm/7300a2998a43fdba3bdaa1da0b42171b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"510068\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MurderOn/MurderOn_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\n\t\t\t\t\t<Initialization range=\"0-631\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1489047\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MurderOn/MurderOn_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 236.243854
+}

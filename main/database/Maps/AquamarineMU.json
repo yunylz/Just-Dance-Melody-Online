@@ -1,0 +1,162 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "935735265fd788f4b6ab148ba3b92e31",
+      "storageType": 0,
+      "url": "/public/map/AquamarineMU/nx/AquamarineMU_MAIN_SCENE_NX.zip/935735265fd788f4b6ab148ba3b92e31.zip"
+    },
+    "pc": {
+      "md5": "0a03bc1e02980e2366ae86acc39806da",
+      "storageType": 0,
+      "url": "/public/map/AquamarineMU/pc/AquamarineMU_MAIN_SCENE_PC.zip/0a03bc1e02980e2366ae86acc39806da.zip"
+    },
+    "ps4": {
+      "md5": "c8718bbd72c068fbf62f3480701250e9",
+      "storageType": 0,
+      "url": "/public/map/AquamarineMU/orbis/AquamarineMU_MAIN_SCENE_ORBIS.zip/c8718bbd72c068fbf62f3480701250e9.zip"
+    }
+  },
+  "data": {
+    "mapName": "AquamarineMU",
+    "title": "Aquamarine",
+    "originalJDVersion": 2024,
+    "tags": [
+      "Main"
+    ],
+    "artist": "Addison Rae",
+    "credits": "Backround and choreo by Dylan, Timeline by ZarkoTG and Kim and Karaoke Tape by kleopy",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#58e8ed",
+    "LocaleID": 12680
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25728,
+        51408,
+        77136,
+        102864,
+        128592,
+        154272,
+        180000,
+        205728,
+        231408,
+        257136,
+        282864,
+        308592,
+        334272,
+        360000,
+        385728,
+        411408,
+        437136,
+        462864,
+        488592,
+        514272,
+        540000,
+        565728,
+        591408,
+        617136,
+        642864,
+        668592,
+        694272,
+        720000,
+        745728,
+        771408,
+        797136,
+        822864,
+        848592,
+        874272,
+        900000,
+        925728,
+        951408,
+        977136,
+        1002864,
+        1028592,
+        1054272,
+        1080000,
+        1105728,
+        1131408,
+        1157136,
+        1182864,
+        1208592,
+        1234272,
+        1260000,
+        1285728,
+        1311408,
+        1337136,
+        1362864,
+        1388592,
+        1414272,
+        1440000,
+        1465728,
+        1491408
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 308,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AquamarineMU/AquamarineMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AquamarineMU/nx/AquamarineMU_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/AquamarineMU/nx/AquamarineMU_map_bkg.tga.ckd/a863e06ced778e96c545400a3cddb410.ckd",
+      "expandCoachImageUrl": "/public/map/AquamarineMU/nx/AquamarineMU_Cover_AlbumCoach.tga.ckd/51e6773b05815b7ddb9e250e97139b75.ckd",
+      "cover_smallImageUrl": "/public/map/AquamarineMU/nx/AquamarineMU_Cover_Online.tga.ckd/8382206743acde2ef553c1ac3b26aeea.ckd",
+      "coach1ImageUrl": "/public/map/AquamarineMU/nx/AquamarineMU_Coach_1.tga.ckd/0d6bb181cd1e364003068a308468e7b9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AquamarineMU/pc/AquamarineMU_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/AquamarineMU/pc/AquamarineMU_map_bkg.tga.ckd/db7125d1e233814e6dec58cb66cd9072.ckd",
+      "expandCoachImageUrl": "/public/map/AquamarineMU/pc/AquamarineMU_Cover_AlbumCoach.tga.ckd/835c1f03c952e451f06616747beaa8f6.ckd",
+      "cover_smallImageUrl": "/public/map/AquamarineMU/pc/AquamarineMU_Cover_Online.tga.ckd/d18e99edcdf69e6026fa2ce70525ea70.ckd",
+      "coach1ImageUrl": "/public/map/AquamarineMU/pc/AquamarineMU_Coach_1.tga.ckd/5db107ec7c09b41a18054215123fcdd5.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AquamarineMU/orbis/AquamarineMU_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/AquamarineMU/orbis/AquamarineMU_map_bkg.tga.ckd/db7125d1e233814e6dec58cb66cd9072.ckd",
+      "expandCoachImageUrl": "/public/map/AquamarineMU/orbis/AquamarineMU_Cover_AlbumCoach.tga.ckd/835c1f03c952e451f06616747beaa8f6.ckd",
+      "cover_smallImageUrl": "/public/map/AquamarineMU/orbis/AquamarineMU_Cover_Online.tga.ckd/d18e99edcdf69e6026fa2ce70525ea70.ckd",
+      "coach1ImageUrl": "/public/map/AquamarineMU/orbis/AquamarineMU_Coach_1.tga.ckd/5db107ec7c09b41a18054215123fcdd5.ckd"
+    }
+  },
+  "urls": {
+    "jmcs://jd-contents/AquamarineMU/AquamarineMU.ogg": "/private/map/AquamarineMU/AquamarineMU.ogg/3a05d32f7b62365b14b89569252f8bd6.ogg",
+    "jmcs://jd-contents/AquamarineMU/AquamarineMU_AudioPreview.ogg": "/public/map/AquamarineMU/AquamarineMU_AudioPreview.ogg/8f2ad875032895273f6293832eef97be.ogg",
+    "jmcs://jd-contents/AquamarineMU/AquamarineMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AquamarineMU/AquamarineMU_MapPreviewNoSoundCrop_LOW.vp8.webm/5254dbed61cdf091907672a461e484fb.webm",
+    "jmcs://jd-contents/AquamarineMU/AquamarineMU_HIGH.webm": "/private/map/AquamarineMU/AquamarineMU_HIGH.webm/ed019b55f8bf0284fdcff24d3339eb62.webm",
+    "jmcs://jd-contents/AquamarineMU/AquamarineMU_LOW.webm": "/private/map/AquamarineMU/AquamarineMU_LOW.webm/18b1fcd4d3da3973eece5f72f60e7a68.webm",
+    "jmcs://jd-contents/AquamarineMU/AquamarineMU_MID.webm": "/private/map/AquamarineMU/AquamarineMU_MID.webm/5a73f8bd699ed917856b9f830b760e60.webm",
+    "jmcs://jd-contents/AquamarineMU/AquamarineMU_ULTRA.hd.webm": "/private/map/AquamarineMU/AquamarineMU_ULTRA.hd.webm/2077d590615fb8123fe0f557359b6c1a.webm",
+    "jmcs://jd-contents/AquamarineMU/AquamarineMU_ULTRA.webm": "/private/map/AquamarineMU/AquamarineMU_ULTRA.webm/fa7421ebc8c2589c9ce4c836f7cb92cd.webm"
+  }
+}

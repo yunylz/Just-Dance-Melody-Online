@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "dbefe85daf242a906e3b31fea319472f",
+      "storageType": 0,
+      "url": "/public/map/NextLevelAespa/nx/NextLevelAespa_MAIN_SCENE_NX.zip/dbefe85daf242a906e3b31fea319472f.zip"
+    },
+    "pc": {
+      "md5": "81523f05ce14af302d57a44934b49c5c",
+      "storageType": 0,
+      "url": "/public/map/NextLevelAespa/pc/NextLevelAespa_MAIN_SCENE_PC.zip/81523f05ce14af302d57a44934b49c5c.zip"
+    },
+    "ps4": {
+      "md5": "2a761bf365c4869c88356ea54608e495",
+      "storageType": 0,
+      "url": "/public/map/NextLevelAespa/orbis/NextLevelAespa_MAIN_SCENE_ORBIS.zip/2a761bf365c4869c88356ea54608e495.zip"
+    }
+  },
+  "data": {
+    "mapName": "NextLevelAespa",
+    "title": "Next Level",
+    "originalJDVersion": 3001,
+    "tags": [
+      "Mashup",
+      "subscribedSong",
+      "JustDanceAsia",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "aespa",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ffc72e"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26422,
+        52844,
+        79266,
+        105688,
+        132110,
+        158532,
+        184954,
+        211376,
+        237798,
+        264220,
+        290642,
+        317064,
+        343486,
+        369908,
+        396330,
+        422752,
+        449174,
+        475596,
+        502018,
+        528440,
+        554862,
+        581284,
+        607706,
+        634128,
+        660550,
+        686972,
+        713395,
+        739817,
+        766239,
+        792661,
+        819083,
+        845505,
+        871927,
+        898349,
+        924771,
+        951193,
+        977615,
+        1004037,
+        1030459,
+        1056881,
+        1083303,
+        1109725,
+        1136147,
+        1162569,
+        1188991,
+        1215413,
+        1241835,
+        1268257,
+        1294679,
+        1321101,
+        1347523,
+        1373945,
+        1400367,
+        1426789,
+        1453211,
+        1479633
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 387,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/NextLevelAespa/NextLevelAespa_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/NextLevelAespa/nx/NextLevelAespa_banner_bkg.tga.ckd/4f626a7d0062548d250d827b0cab6903.ckd",
+      "map_bkgImageUrl": "/public/map/NextLevelAespa/nx/NextLevelAespa_map_bkg.tga.ckd/63a289ff24f038c46f670173e6c97470.ckd",
+      "expandCoachImageUrl": "/public/map/NextLevelAespa/nx/NextLevelAespa_Cover_AlbumCoach.tga.ckd/9438f0a3bdc209a18d25fb061b8f4b12.ckd",
+      "cover_smallImageUrl": "/public/map/NextLevelAespa/nx/NextLevelAespa_Cover_Online.tga.ckd/b597bef118be80cb21ba35b151a52ad3.ckd",
+      "coach1ImageUrl": "/public/map/NextLevelAespa/nx/NextLevelAespa_Coach_1.tga.ckd/c135e82b9981ccac1bd512ade8b8d9d9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/NextLevelAespa/pc/NextLevelAespa_banner_bkg.tga.ckd/3ae117e205cd1bc372281093b73b7e39.ckd",
+      "map_bkgImageUrl": "/public/map/NextLevelAespa/pc/NextLevelAespa_map_bkg.tga.ckd/5b8c1a77f0273c87687dac016d87acda.ckd",
+      "expandCoachImageUrl": "/public/map/NextLevelAespa/pc/NextLevelAespa_Cover_AlbumCoach.tga.ckd/d85d3a3ce65bee8c98faa3be3735e4db.ckd",
+      "cover_smallImageUrl": "/public/map/NextLevelAespa/pc/NextLevelAespa_Cover_Online.tga.ckd/2848516557ee248377a708fb44f3f643.ckd",
+      "coach1ImageUrl": "/public/map/NextLevelAespa/pc/NextLevelAespa_Coach_1.tga.ckd/d2c6b664df1df3dc1e115bed98b42da1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/NextLevelAespa/orbis/NextLevelAespa_banner_bkg.tga.ckd/3ae117e205cd1bc372281093b73b7e39.ckd",
+      "map_bkgImageUrl": "/public/map/NextLevelAespa/orbis/NextLevelAespa_map_bkg.tga.ckd/5b8c1a77f0273c87687dac016d87acda.ckd",
+      "expandCoachImageUrl": "/public/map/NextLevelAespa/orbis/NextLevelAespa_Cover_AlbumCoach.tga.ckd/d85d3a3ce65bee8c98faa3be3735e4db.ckd",
+      "cover_smallImageUrl": "/public/map/NextLevelAespa/orbis/NextLevelAespa_Cover_Online.tga.ckd/2848516557ee248377a708fb44f3f643.ckd",
+      "coach1ImageUrl": "/public/map/NextLevelAespa/orbis/NextLevelAespa_Coach_1.tga.ckd/d2c6b664df1df3dc1e115bed98b42da1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/NextLevelAespa/NextLevelAespa_Coach_1_Phone.png/54a18c35c47abe35f18ee4cd43ffb94e.png",
+    "phoneCoverImageUrl": "/public/map/NextLevelAespa/NextLevelAespa_Cover_Phone.jpg/4d5b8a762a89690a5b78d21f88d7898e.jpg",
+    "cover640ImageUrl": "/public/map/NextLevelAespa/NextLevelAespa_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/NextLevelAespa/NextLevelAespa.ogg": "/private/map/NextLevelAespa/NextLevelAespa.ogg/4adfe78f99b40e4da129568be369a22b.ogg",
+    "jmcs://jd-contents/NextLevelAespa/NextLevelAespa_AudioPreview.ogg": "/public/map/NextLevelAespa/NextLevelAespa_AudioPreview.ogg/22b94661dd53803293df586a15cdb5aa.ogg",
+    "jmcs://jd-contents/NextLevelAespa/NextLevelAespa_HIGH.webm": "/private/map/NextLevelAespa/NextLevelAespa_HIGH.webm/5c15998f00a049401f0cec9161939436.webm",
+    "jmcs://jd-contents/NextLevelAespa/NextLevelAespa_LOW.webm": "/private/map/NextLevelAespa/NextLevelAespa_LOW.webm/8b74231882f8df82af95c815023376fa.webm",
+    "jmcs://jd-contents/NextLevelAespa/NextLevelAespa_MID.webm": "/private/map/NextLevelAespa/NextLevelAespa_MID.webm/4688849ded7f810b131416d5c244c1ae.webm",
+    "jmcs://jd-contents/NextLevelAespa/NextLevelAespa_ULTRA.webm": "/private/map/NextLevelAespa/NextLevelAespa_ULTRA.webm/aa30ebec2f2d7dc1eb3fa6e34effa7ab.webm",
+    "jmcs://jd-contents/NextLevelAespa/NextLevelAespa_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/NextLevelAespa/NextLevelAespa_MapPreviewNoSoundCrop_LOW.vp8.webm/e3c8cb54c626dc627503909bfc525295.webm",
+    "jmcs://jd-contents/NextLevelAespa/NextLevelAespa_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/NextLevelAespa/NextLevelAespa_MapPreviewNoSoundCrop_MID.vp8.webm/1dbd9269f9b155c4ccf4e5bcab939aac.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"514548\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NextLevelAespa/NextLevelAespa_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1493765\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NextLevelAespa/NextLevelAespa_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 221.496604
+}

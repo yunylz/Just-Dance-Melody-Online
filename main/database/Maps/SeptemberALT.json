@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e13b15bda4689184b935b0f94f0fa3bf",
+      "storageType": 0,
+      "url": "/public/map/SeptemberALT/nx/SeptemberALT_MAIN_SCENE_NX.zip/e13b15bda4689184b935b0f94f0fa3bf.zip"
+    },
+    "pc": {
+      "md5": "a753dd35cb586f2d15adbede68278140",
+      "storageType": 0,
+      "url": "/public/map/SeptemberALT/pc/SeptemberALT_MAIN_SCENE_PC.zip/a753dd35cb586f2d15adbede68278140.zip"
+    },
+    "ps4": {
+      "md5": "49dbf342cd45fb61ebd691fb99616229",
+      "storageType": 0,
+      "url": "/public/map/SeptemberALT/orbis/SeptemberALT_MAIN_SCENE_ORBIS.zip/49dbf342cd45fb61ebd691fb99616229.zip"
+    }
+  },
+  "data": {
+    "mapName": "SeptemberALT",
+    "title": "September",
+    "originalJDVersion": 2017,
+    "tags": [
+      "alternate",
+      "extreme"
+    ],
+    "artist": "Equinox Stars",
+    "credits": "Written by Al McKay, Maurice White and Allee Willis. Published by EMI April Music Inc. c/o EMI April Music (Canada) Ltd. (SOCAN) and EMI Blackwood Music Inc. c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) All rights reserved. Used with permission. Re-Record Cover Master : Courtesy of Ubisoft Music. Produced and engineered by Steve Ouimette. Mixed by Steve Ouimette and Cat Gray. Lead Vocals by Tyriq Johnson. Background vocals by Cat Gray. Drums and Keyboards by Cat Gray. Guitar and Bass by Steve Ouimette. Music supervision – Manu Bachet. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#00beba",
+    "songColor2A": "#ff89b7",
+    "songColor1B": "#000648",
+    "songColor2B": "#a10040",
+    "lyricsColor": "#f40b69",
+    "LocaleID": 13755
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23760,
+        47568,
+        71328,
+        95088,
+        118896,
+        142656,
+        166416,
+        190224,
+        213984,
+        237696,
+        261408,
+        285120,
+        308832,
+        332064,
+        355248,
+        378432,
+        401664,
+        424704,
+        447744,
+        470784,
+        493824,
+        516912,
+        539952,
+        562992,
+        586032,
+        609264,
+        632496,
+        655680,
+        678912,
+        702144,
+        725328,
+        748560,
+        771792,
+        794928,
+        818016,
+        841152,
+        864288,
+        887424,
+        910560,
+        933696,
+        956832,
+        979968,
+        1003104,
+        1026240,
+        1049328,
+        1072464,
+        1095600,
+        1118737,
+        1141873,
+        1165009,
+        1188145,
+        1211281,
+        1234417,
+        1257505,
+        1280641,
+        1303777,
+        1326913,
+        1350049,
+        1373185,
+        1396321,
+        1419457,
+        1442257,
+        1465009,
+        1487809
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 385,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SeptemberALT/SeptemberALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SeptemberALT/nx/SeptemberALT_banner_bkg.tga.ckd/8976c013cea80c21efb6ac142dd7ba8d.ckd",
+      "map_bkgImageUrl": "/public/map/SeptemberALT/nx/SeptemberALT_map_bkg.tga.ckd/fcb97066cb02999695775bee404cf6ca.ckd",
+      "expandCoachImageUrl": "/public/map/SeptemberALT/nx/SeptemberALT_Cover_AlbumCoach.tga.ckd/7ff63fa6a47a7eb1d9b04fb2476743b2.ckd",
+      "cover_smallImageUrl": "/public/map/SeptemberALT/nx/SeptemberALT_Cover_Online.tga.ckd/4d38e22f51a0c115595480d04d61ecc5.ckd",
+      "coverImageUrl": "/public/map/SeptemberALT/nx/SeptemberALT_Cover_Generic.tga.ckd/c27d57ddb94e1a7bf8b7b676aa429fa7.ckd",
+      "coach1ImageUrl": "/public/map/SeptemberALT/nx/SeptemberALT_Coach_1.tga.ckd/63b7a9f797c387a521338da2af7862d0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SeptemberALT/pc/SeptemberALT_banner_bkg.tga.ckd/6145c3479afd0ee1bb7709053af7edaa.ckd",
+      "map_bkgImageUrl": "/public/map/SeptemberALT/pc/SeptemberALT_map_bkg.tga.ckd/6598fda23771feb6389dd0fc1daa3870.ckd",
+      "expandCoachImageUrl": "/public/map/SeptemberALT/pc/SeptemberALT_Cover_AlbumCoach.tga.ckd/322ec2883a23934e559fc652f1d19ed1.ckd",
+      "cover_smallImageUrl": "/public/map/SeptemberALT/pc/SeptemberALT_Cover_Online.tga.ckd/1fc3dc752a29a6ab6ba2cdd0394297e1.ckd",
+      "coverImageUrl": "/public/map/SeptemberALT/pc/SeptemberALT_Cover_Generic.tga.ckd/5b3042835846de4b4d3864ac048ac5b5.ckd",
+      "coach1ImageUrl": "/public/map/SeptemberALT/pc/SeptemberALT_Coach_1.tga.ckd/8e5a60a83a37cd21f989414ecd05af5e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SeptemberALT/orbis/SeptemberALT_banner_bkg.tga.ckd/6145c3479afd0ee1bb7709053af7edaa.ckd",
+      "map_bkgImageUrl": "/public/map/SeptemberALT/orbis/SeptemberALT_map_bkg.tga.ckd/6598fda23771feb6389dd0fc1daa3870.ckd",
+      "expandCoachImageUrl": "/public/map/SeptemberALT/orbis/SeptemberALT_Cover_AlbumCoach.tga.ckd/322ec2883a23934e559fc652f1d19ed1.ckd",
+      "cover_smallImageUrl": "/public/map/SeptemberALT/orbis/SeptemberALT_Cover_Online.tga.ckd/1fc3dc752a29a6ab6ba2cdd0394297e1.ckd",
+      "coverImageUrl": "/public/map/SeptemberALT/orbis/SeptemberALT_Cover_Generic.tga.ckd/5b3042835846de4b4d3864ac048ac5b5.ckd",
+      "coach1ImageUrl": "/public/map/SeptemberALT/orbis/SeptemberALT_Coach_1.tga.ckd/8e5a60a83a37cd21f989414ecd05af5e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SeptemberALT/SeptemberALT_Coach_1_Phone.png/0b5d9b69873a6a69e09d4381fe639001.png",
+    "phoneCoverImageUrl": "/public/map/SeptemberALT/SeptemberALT_Cover_Phone.jpg/56994e3fb316ca9f13b300a32c903e05.jpg",
+    "cover640ImageUrl": "/public/map/SeptemberALT/SeptemberALT_Cover_640.png/bef945f0a5664ffb66914f630ba0373a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SeptemberALT/SeptemberALT.ogg": "/private/map/SeptemberALT/SeptemberALT.ogg/a2c647863548a6a12a89ba11d859278a.ogg",
+    "jmcs://jd-contents/SeptemberALT/SeptemberALT_AudioPreview.ogg": "/public/map/SeptemberALT/SeptemberALT_AudioPreview.ogg/66dc761e2e60e560b5ded623b54ff810.ogg",
+    "jmcs://jd-contents/SeptemberALT/SeptemberALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SeptemberALT/SeptemberALT_MapPreviewNoSoundCrop_LOW.vp8.webm/be1744d728fee4f592cb624f34fd9766.webm",
+    "jmcs://jd-contents/SeptemberALT/SeptemberALT_HIGH.webm": "/private/map/SeptemberALT/SeptemberALT_HIGH.webm/697a57da52f897a7abddcaeba4d3af4d.webm",
+    "jmcs://jd-contents/SeptemberALT/SeptemberALT_LOW.webm": "/private/map/SeptemberALT/SeptemberALT_LOW.webm/07f88e33b935e6705faa26fa57dc8d76.webm",
+    "jmcs://jd-contents/SeptemberALT/SeptemberALT_MID.webm": "/private/map/SeptemberALT/SeptemberALT_MID.webm/fd627c222b1dccc7fdd13e1a0c1420ca.webm",
+    "jmcs://jd-contents/SeptemberALT/SeptemberALT_ULTRA.hd.webm": "/private/map/SeptemberALT/SeptemberALT_ULTRA.hd.webm/5510c25bc54fffac6e20780ecb6162cf.webm",
+    "jmcs://jd-contents/SeptemberALT/SeptemberALT_ULTRA.webm": "/private/map/SeptemberALT/SeptemberALT_ULTRA.webm/fd8b248a795f8753167dd8a7fe0ac32c.webm",
+    "jmcs://jd-contents/SeptemberALT/SeptemberALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SeptemberALT/SeptemberALT_MapPreviewNoSoundCrop_MID.vp8.webm/0edf17f1cc4874d31199c330e2905da9.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496256\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SeptemberALT/SeptemberALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1267185\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SeptemberALT/SeptemberALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 186.266167
+}

@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Judas/Judas.ogg": "/private/map/Judas/Judas.ogg/a5dec4ae600df5cb8b241018d7f57ef8.ogg",
+    "jmcs://jd-contents/Judas/Judas_AudioPreview.ogg": "/public/map/Judas/Judas_AudioPreview.ogg/c887c0bc6153b0ffbcf339446f7c2d80.ogg",
+    "jmcs://jd-contents/Judas/Judas_HIGH.hd.webm": "/private/map/Judas/Judas_HIGH.hd.webm/a7ae4cab542cb468de2ba7429b5e1fa3.webm",
+    "jmcs://jd-contents/Judas/Judas_LOW.hd.webm": "/private/map/Judas/Judas_LOW.hd.webm/72b64a4fe45a2cc1665edf930d3a1371.webm",
+    "jmcs://jd-contents/Judas/Judas_MID.hd.webm": "/private/map/Judas/Judas_MID.hd.webm/11d3f7d703970e4905d5973856be561f.webm",
+    "jmcs://jd-contents/Judas/Judas_ULTRA.hd.webm": "/private/map/Judas/Judas_ULTRA.hd.webm/8762df34108e4149a1703bafa1c9d37a.webm",
+    "jmcs://jd-contents/Judas/Judas_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Judas/Judas_MapPreviewNoSoundCrop_LOW.vp8.webm/8d3011e36deb54ffe1fee4f8333b45ed.webm",
+    "jmcs://jd-contents/Judas/Judas_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Judas/Judas_MapPreviewNoSoundCrop_MID.vp8.webm/0b7b3a309458476cd0e01c177c03b06d.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21985,
+        43969,
+        65954,
+        87939,
+        109924,
+        131908,
+        153893,
+        175878,
+        197863,
+        219847,
+        241832,
+        263817,
+        285802,
+        307786,
+        329771,
+        351756,
+        373740,
+        395725,
+        417710,
+        439695,
+        461679,
+        483664,
+        505649,
+        527634,
+        549618,
+        571603,
+        593588,
+        615573,
+        637557,
+        659542,
+        681527,
+        703511,
+        725496,
+        747481,
+        769466,
+        791450,
+        813435,
+        835420,
+        857405,
+        879389,
+        901374,
+        923359,
+        945344,
+        967328,
+        989313,
+        1011298,
+        1033282,
+        1055267,
+        1077252,
+        1099237,
+        1121221,
+        1143206,
+        1165191,
+        1187176,
+        1209160,
+        1231145,
+        1253130,
+        1275115,
+        1297099,
+        1319084,
+        1341069,
+        1363053,
+        1385038,
+        1407023,
+        1429008,
+        1450992,
+        1472977
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -21,
+      "endBeat": 545,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Judas/Judas_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "ef6be474551aae7224bbb5b6e81d78a1",
+      "storageType": 0,
+      "url": "/public/map/Judas/nx/Judas_MAIN_SCENE_NX.zip/ef6be474551aae7224bbb5b6e81d78a1.zip"
+    },
+    "pc": {
+      "md5": "d7d8abdcae0e936d62096190646a36ef",
+      "storageType": 0,
+      "url": "/public/map/Judas/pc/Judas_MAIN_SCENE_PC.zip/d7d8abdcae0e936d62096190646a36ef.zip"
+    },
+    "ps4": {
+      "md5": "89284ee02b754e30832409a5ebca4113",
+      "storageType": 0,
+      "url": "/public/map/Judas/orbis/Judas_MAIN_SCENE_ORBIS.zip/89284ee02b754e30832409a5ebca4113.zip"
+    }
+  },
+  "data": {
+    "mapName": "Judas",
+    "title": "Judas",
+    "originalJDVersion": 2022,
+    "tags": [
+      "main"
+    ],
+    "artist": "Lady Gaga",
+    "credits": "Written by Stefani Germanotta and Nadir Khayat. Published by House of Gaga Publishing LLC (BMI) / Songs Of Redone (BMI) / Sony/ATV Songs LLC (BMI). All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f04de6",
+    "songColor2A": "#45e8f7",
+    "songColor1B": "#3c36b6",
+    "songColor2B": "#11358e",
+    "lyricsColor": "#ffa416",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Judas/nx/Judas_banner_bkg.tga.ckd/89ce58a099947f5e7ad8ef8f795e3bb7.ckd",
+      "map_bkgImageUrl": "/public/map/Judas/nx/Judas_map_bkg.tga.ckd/7b1829ed9298010e0bd6b08524677816.ckd",
+      "expandCoachImageUrl": "/public/map/Judas/nx/Judas_Cover_AlbumCoach.tga.ckd/9c75ff811c9f2f7bbf15ee5e22a37ec6.ckd",
+      "cover_smallImageUrl": "/public/map/Judas/nx/Judas_Cover_Online.tga.ckd/7137ba0e3bdc659059c800a4559bb50b.ckd",
+      "coverImageUrl": "/public/map/Judas/nx/Judas_Cover_Generic.tga.ckd/8a61e520b7dca4ac9529958bde027674.ckd",
+      "coach1ImageUrl": "/public/map/Judas/nx/Judas_Coach_1.tga.ckd/da489b1102354b91d2e9f8ec7585d046.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Judas/pc/Judas_banner_bkg.tga.ckd/9a21d0eda8127561f507f1ef7b84fc61.ckd",
+      "map_bkgImageUrl": "/public/map/Judas/pc/Judas_map_bkg.tga.ckd/64d5733c8a2b685a6c8dc06609282e54.ckd",
+      "expandCoachImageUrl": "/public/map/Judas/pc/Judas_Cover_AlbumCoach.tga.ckd/c8e2463ffbfe306ce775362ed0911f88.ckd",
+      "cover_smallImageUrl": "/public/map/Judas/pc/Judas_Cover_Online.tga.ckd/2200b674dcbc671f6beec982485b7263.ckd",
+      "coverImageUrl": "/public/map/Judas/pc/Judas_Cover_Generic.tga.ckd/811d6d3c4f60f8f9f0cf8487ef075b00.ckd",
+      "coach1ImageUrl": "/public/map/Judas/pc/Judas_Coach_1.tga.ckd/f698e56602802fcad3b08a3efd6647f0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Judas/orbis/Judas_banner_bkg.tga.ckd/9a21d0eda8127561f507f1ef7b84fc61.ckd",
+      "map_bkgImageUrl": "/public/map/Judas/orbis/Judas_map_bkg.tga.ckd/64d5733c8a2b685a6c8dc06609282e54.ckd",
+      "expandCoachImageUrl": "/public/map/Judas/orbis/Judas_Cover_AlbumCoach.tga.ckd/c8e2463ffbfe306ce775362ed0911f88.ckd",
+      "cover_smallImageUrl": "/public/map/Judas/orbis/Judas_Cover_Online.tga.ckd/2200b674dcbc671f6beec982485b7263.ckd",
+      "coverImageUrl": "/public/map/Judas/orbis/Judas_Cover_Generic.tga.ckd/811d6d3c4f60f8f9f0cf8487ef075b00.ckd",
+      "coach1ImageUrl": "/public/map/Judas/orbis/Judas_Coach_1.tga.ckd/f698e56602802fcad3b08a3efd6647f0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Judas/Judas_Coach_1_Phone.png/bc3fbc769d45f9eb89b226f8e51f314f.png",
+    "phoneCoverImageUrl": "/public/map/Judas/Judas_Cover_Phone.jpg/0ddb1c0a1b7ced1b8c7d9a3181a3855e.jpg",
+    "cover640ImageUrl": "/public/map/Judas/Judas_Cover_640.png/ed75210de799487f5dfaef1f97172a6c.png"
+  },
+  "mapLength": 257.862271
+}

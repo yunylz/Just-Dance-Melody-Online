@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8e1df19e39147ece8d1ec338af9052f2",
+      "storageType": 0,
+      "url": "/public/map/MovingOnUp/nx/MovingOnUp_MAIN_SCENE_NX.zip/8e1df19e39147ece8d1ec338af9052f2.zip"
+    },
+    "pc": {
+      "md5": "51bfd286bccfd63138ebbc362636b0bb",
+      "storageType": 0,
+      "url": "/public/map/MovingOnUp/pc/MovingOnUp_MAIN_SCENE_PC.zip/51bfd286bccfd63138ebbc362636b0bb.zip"
+    },
+    "ps4": {
+      "md5": "3ce85384834a81e105a7c724dcd97968",
+      "storageType": 0,
+      "url": "/public/map/MovingOnUp/orbis/MovingOnUp_MAIN_SCENE_ORBIS.zip/3ce85384834a81e105a7c724dcd97968.zip"
+    }
+  },
+  "data": {
+    "mapName": "MovingOnUp",
+    "title": "Moving On Up",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "M People",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#A0ED55",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46032,
+        69072,
+        92112,
+        115152,
+        138144,
+        161184,
+        184224,
+        207264,
+        230256,
+        253296,
+        276336,
+        299328,
+        322368,
+        345408,
+        368448,
+        391440,
+        414480,
+        437520,
+        460560,
+        483552,
+        506592,
+        529632,
+        552624,
+        575664,
+        598704,
+        621744,
+        644736,
+        667776,
+        690816,
+        713856,
+        736848,
+        759888,
+        782928,
+        805920,
+        828960,
+        852000,
+        875040,
+        898032,
+        921072,
+        944112,
+        967392,
+        990432,
+        1013472,
+        1036512,
+        1059552,
+        1082544,
+        1105584,
+        1128624,
+        1151616,
+        1174656,
+        1197696,
+        1220736,
+        1243728,
+        1266768,
+        1289808,
+        1312848,
+        1335840,
+        1358880,
+        1381920,
+        1404960,
+        1427952
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 448,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/movingonup/movingonup_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MovingOnUp/nx/MovingOnUp_banner_bkg.tga.ckd/3bc832ff04cc78eaec62212fac3f6d28.ckd",
+      "map_bkgImageUrl": "/public/map/MovingOnUp/nx/MovingOnUp_map_bkg.tga.ckd/b8ff247c8f31f18a051c0bdbcf9223b2.ckd",
+      "expandCoachImageUrl": "/public/map/MovingOnUp/nx/MovingOnUp_Cover_AlbumCoach.tga.ckd/6e786083b9b539ce408cc0c4b4af3882.ckd",
+      "cover_smallImageUrl": "/public/map/MovingOnUp/nx/MovingOnUp_Cover_Online.tga.ckd/e1c8c5fb1dbd2b541dbc1ddf9f8d1619.ckd",
+      "coach1ImageUrl": "/public/map/MovingOnUp/nx/MovingOnUp_Coach_1.tga.ckd/29b852550896c42dd100916947be717c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MovingOnUp/pc/MovingOnUp_banner_bkg.tga.ckd/6be3a02c2671148a665c98124bf77b6c.ckd",
+      "map_bkgImageUrl": "/public/map/MovingOnUp/pc/MovingOnUp_map_bkg.tga.ckd/29df919e1479fb9b70752662f13b41e4.ckd",
+      "expandCoachImageUrl": "/public/map/MovingOnUp/pc/MovingOnUp_Cover_AlbumCoach.tga.ckd/d9058b5b75cdee4b1e6d8c4db6c024da.ckd",
+      "cover_smallImageUrl": "/public/map/MovingOnUp/pc/MovingOnUp_Cover_Online.tga.ckd/69ea34a13f49e55fea03885bb9f74bee.ckd",
+      "coach1ImageUrl": "/public/map/MovingOnUp/pc/MovingOnUp_Coach_1.tga.ckd/28aeb1851f2f2846542eda4428460b09.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MovingOnUp/orbis/MovingOnUp_banner_bkg.tga.ckd/6be3a02c2671148a665c98124bf77b6c.ckd",
+      "map_bkgImageUrl": "/public/map/MovingOnUp/orbis/MovingOnUp_map_bkg.tga.ckd/29df919e1479fb9b70752662f13b41e4.ckd",
+      "expandCoachImageUrl": "/public/map/MovingOnUp/orbis/MovingOnUp_Cover_AlbumCoach.tga.ckd/d9058b5b75cdee4b1e6d8c4db6c024da.ckd",
+      "cover_smallImageUrl": "/public/map/MovingOnUp/orbis/MovingOnUp_Cover_Online.tga.ckd/69ea34a13f49e55fea03885bb9f74bee.ckd",
+      "coach1ImageUrl": "/public/map/MovingOnUp/orbis/MovingOnUp_Coach_1.tga.ckd/28aeb1851f2f2846542eda4428460b09.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MovingOnUp/MovingOnUp_Coach_1_Phone.png/e099274888dd2e90d2f88039e2197814.png",
+    "phoneCoverImageUrl": "/public/map/MovingOnUp/MovingOnUp_Cover_Phone.jpg/819015b613fae1f4c58fe4e394141bf1.jpg",
+    "cover640ImageUrl": "/public/map/MovingOnUp/MovingOnUp_Cover_640.png/aee351c9de57a22cbbb23aa604e462b2.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MovingOnUp/MovingOnUp.ogg": "/private/map/MovingOnUp/MovingOnUp.ogg/1a64f5811173e7eccde78d6d6594a05c.ogg",
+    "jmcs://jd-contents/MovingOnUp/MovingOnUp_AudioPreview.ogg": "/public/map/MovingOnUp/MovingOnUp_AudioPreview.ogg/86955cee460f176f709e93121ebd1efc.ogg",
+    "jmcs://jd-contents/MovingOnUp/MovingOnUp_HIGH.webm": "/private/map/MovingOnUp/MovingOnUp_HIGH.webm/2a47c53a112857a6581871a30b2852c8.webm",
+    "jmcs://jd-contents/MovingOnUp/MovingOnUp_LOW.webm": "/private/map/MovingOnUp/MovingOnUp_LOW.webm/10eeea80f15cbff0c056e0b4c037bdd6.webm",
+    "jmcs://jd-contents/MovingOnUp/MovingOnUp_MID.webm": "/private/map/MovingOnUp/MovingOnUp_MID.webm/6bec7d7012c229c48853016e616cf2c1.webm",
+    "jmcs://jd-contents/MovingOnUp/MovingOnUp_ULTRA.hd.webm": "/private/map/MovingOnUp/MovingOnUp_ULTRA.hd.webm/321e3ba1c262d1485192e1ef76a96b03.webm",
+    "jmcs://jd-contents/MovingOnUp/MovingOnUp_ULTRA.webm": "/private/map/MovingOnUp/MovingOnUp_ULTRA.webm/28d98e2a33c137a48e3c69c6063ca572.webm",
+    "jmcs://jd-contents/MovingOnUp/MovingOnUp_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MovingOnUp/MovingOnUp_MapPreviewNoSoundCrop_LOW.vp8.webm/c82effd37d0df53b075324b96195b47d.webm",
+    "jmcs://jd-contents/MovingOnUp/MovingOnUp_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MovingOnUp/MovingOnUp_MapPreviewNoSoundCrop_MID.vp8.webm/8610ea52f39b12b6ebe89971ef4b6d3a.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"491318\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MovingOnUp/MovingOnUp_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1427983\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MovingOnUp/MovingOnUp_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 217.032979
+}

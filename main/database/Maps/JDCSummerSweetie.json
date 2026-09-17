@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d7cb31e8afe3ec08998ace312c72e520",
+      "storageType": 0,
+      "url": "/public/map/JDCSummerSweetie/nx/JDCSummerSweetie_MAIN_SCENE_NX.zip/d7cb31e8afe3ec08998ace312c72e520.zip"
+    },
+    "pc": {
+      "md5": "23df34e723fd60293720f5701c314336",
+      "storageType": 0,
+      "url": "/public/map/JDCSummerSweetie/pc/JDCSummerSweetie_MAIN_SCENE_PC.zip/23df34e723fd60293720f5701c314336.zip"
+    },
+    "ps4": {
+      "md5": "8f97317dc1cb32e042bdc299143826cd",
+      "storageType": 0,
+      "url": "/public/map/JDCSummerSweetie/orbis/JDCSummerSweetie_MAIN_SCENE_ORBIS.zip/8f97317dc1cb32e042bdc299143826cd.zip"
+    }
+  },
+  "data": {
+    "mapName": "JDCSummerSweetie",
+    "title": "Summer Sweetie (夏日甜心)",
+    "originalJDVersion": 1100,
+    "tags": [
+      "subscribedSong",
+      "JustDanceAsia",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "SNH48",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#ff79de",
+    "songColor2A": "#6543ef",
+    "songColor1B": "#672556",
+    "songColor2B": "#2e1f6b",
+    "lyricsColor": "#7046e6"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67487,
+        89999,
+        112511,
+        135023,
+        157487,
+        179999,
+        202511,
+        225023,
+        247487,
+        269999,
+        292511,
+        315023,
+        337487,
+        359999,
+        382511,
+        405023,
+        427486,
+        449998,
+        472510,
+        495022,
+        517486,
+        539998,
+        562510,
+        585022,
+        607486,
+        629998,
+        652510,
+        675022,
+        697486,
+        719998,
+        742510,
+        765022,
+        787486,
+        809998,
+        832510,
+        855021,
+        877485,
+        899997,
+        922509,
+        945021,
+        967485,
+        989997,
+        1012509,
+        1035021,
+        1057485,
+        1079997,
+        1102509,
+        1125021,
+        1147485,
+        1169997,
+        1192509,
+        1215021,
+        1237485,
+        1259997,
+        1282508,
+        1305020,
+        1327484,
+        1349996,
+        1372508,
+        1395020,
+        1417484,
+        1439996,
+        1462508,
+        1485020
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 454,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JDCSummerSweetie/nx/JDCSummerSweetie_banner_bkg.tga.ckd/6b65999c1c9a04be120f3efcee987b67.ckd",
+      "map_bkgImageUrl": "/public/map/JDCSummerSweetie/nx/JDCSummerSweetie_map_bkg.tga.ckd/14714a8e76190f9a4180e7416db723fa.ckd",
+      "expandCoachImageUrl": "/public/map/JDCSummerSweetie/nx/JDCSummerSweetie_Cover_AlbumCoach.tga.ckd/f6629fc534c333ed014f7e3a42df3fbf.ckd",
+      "cover_smallImageUrl": "/public/map/JDCSummerSweetie/nx/JDCSummerSweetie_Cover_Online.tga.ckd/ba5de81cba5981b8442555c08d803ffb.ckd",
+      "coach1ImageUrl": "/public/map/JDCSummerSweetie/nx/JDCSummerSweetie_Coach_1.tga.ckd/5b7d09dcd112a29f7de0d9201dfb1947.ckd",
+      "coach2ImageUrl": "/public/map/JDCSummerSweetie/nx/JDCSummerSweetie_Coach_2.tga.ckd/d726fea014a9065f6fc45a89c4e8927b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JDCSummerSweetie/pc/JDCSummerSweetie_banner_bkg.tga.ckd/7b8d92feee44e9b66a3ee4f04a3f8cb8.ckd",
+      "map_bkgImageUrl": "/public/map/JDCSummerSweetie/pc/JDCSummerSweetie_map_bkg.tga.ckd/1f743fdd09f5928ae764ecad58289479.ckd",
+      "expandCoachImageUrl": "/public/map/JDCSummerSweetie/pc/JDCSummerSweetie_Cover_AlbumCoach.tga.ckd/c0e742d755d5407ddea9a3da34804af8.ckd",
+      "cover_smallImageUrl": "/public/map/JDCSummerSweetie/pc/JDCSummerSweetie_Cover_Online.tga.ckd/3c32261d4c53738baaa24473c108fb9b.ckd",
+      "coach1ImageUrl": "/public/map/JDCSummerSweetie/pc/JDCSummerSweetie_Coach_1.tga.ckd/a02089e7056be1e12d3850f87254dac9.ckd",
+      "coach2ImageUrl": "/public/map/JDCSummerSweetie/pc/JDCSummerSweetie_Coach_2.tga.ckd/a071c29bacb69d1fbfa192831ba22469.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JDCSummerSweetie/orbis/JDCSummerSweetie_banner_bkg.tga.ckd/7b8d92feee44e9b66a3ee4f04a3f8cb8.ckd",
+      "map_bkgImageUrl": "/public/map/JDCSummerSweetie/orbis/JDCSummerSweetie_map_bkg.tga.ckd/1f743fdd09f5928ae764ecad58289479.ckd",
+      "expandCoachImageUrl": "/public/map/JDCSummerSweetie/orbis/JDCSummerSweetie_Cover_AlbumCoach.tga.ckd/c0e742d755d5407ddea9a3da34804af8.ckd",
+      "cover_smallImageUrl": "/public/map/JDCSummerSweetie/orbis/JDCSummerSweetie_Cover_Online.tga.ckd/3c32261d4c53738baaa24473c108fb9b.ckd",
+      "coach1ImageUrl": "/public/map/JDCSummerSweetie/orbis/JDCSummerSweetie_Coach_1.tga.ckd/a02089e7056be1e12d3850f87254dac9.ckd",
+      "coach2ImageUrl": "/public/map/JDCSummerSweetie/orbis/JDCSummerSweetie_Coach_2.tga.ckd/a071c29bacb69d1fbfa192831ba22469.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JDCSummerSweetie/JDCSummerSweetie_Coach_1_Phone.png/7ce90257ac92eee0836bdec99efa3c4e.png",
+    "phoneCoach2ImageUrl": "/public/map/JDCSummerSweetie/JDCSummerSweetie_Coach_2_Phone.png/70317c7ba0c105c38f409ee7b2d97845.png",
+    "phoneCoverImageUrl": "/public/map/JDCSummerSweetie/JDCSummerSweetie_Cover_Phone.jpg/3792ab43ba0c085689eb299cda482118.jpg",
+    "cover640ImageUrl": "/public/map/JDCSummerSweetie/JDCSummerSweetie_Cover_640.png/76d6d434e33a64c036491017bdd50ee6.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie.ogg": "/private/map/JDCSummerSweetie/JDCSummerSweetie.ogg/30e6a9f39841eaef348db8a07fa5c1ca.ogg",
+    "jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie_AudioPreview.ogg": "/public/map/JDCSummerSweetie/JDCSummerSweetie_AudioPreview.ogg/4e8444f9deb54edb7b64099d5497d553.ogg",
+    "jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie_HIGH.webm": "/private/map/JDCSummerSweetie/JDCSummerSweetie_HIGH.webm/71b73b17e94ce691c8509140df5c8ebd.webm",
+    "jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie_LOW.webm": "/private/map/JDCSummerSweetie/JDCSummerSweetie_LOW.webm/078fb97a66d41405e5fd2fee83651e70.webm",
+    "jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie_MID.webm": "/private/map/JDCSummerSweetie/JDCSummerSweetie_MID.webm/cd64ba87051a88781aed10db4e6a2c60.webm",
+    "jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie_ULTRA.hd.webm": "/private/map/JDCSummerSweetie/JDCSummerSweetie_ULTRA.hd.webm/1bf7d8360935dff67d06d7f47b817ec9.webm",
+    "jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie_ULTRA.webm": "/private/map/JDCSummerSweetie/JDCSummerSweetie_ULTRA.webm/3e7c4ddda8cfd934449b79a8edb33f1f.webm",
+    "jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JDCSummerSweetie/JDCSummerSweetie_MapPreviewNoSoundCrop_LOW.vp8.webm/bb15efe348bb429835c529c5aea291b4.webm",
+    "jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JDCSummerSweetie/JDCSummerSweetie_MapPreviewNoSoundCrop_MID.vp8.webm/8fd33bbe8b1e16da8ba9c587bb9e40ea.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"507285\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480773\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSummerSweetie/JDCSummerSweetie_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\n\t\t\t\t\t<Initialization range=\"0-616\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 216.093479
+}

@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Beggin/Beggin.ogg": "/private/map/Beggin/Beggin.ogg/d0c20e8ca41cf1231af64e5ff0d883d5.ogg",
+    "jmcs://jd-contents/Beggin/Beggin_AudioPreview.ogg": "/public/map/Beggin/Beggin_AudioPreview.ogg/a739842b74bc1233e003af12f9703e6b.ogg",
+    "jmcs://jd-contents/Beggin/Beggin_HIGH.hd.webm": "/private/map/Beggin/Beggin_HIGH.hd.webm/13358aec447006c3de52de38b3cc8c71.webm",
+    "jmcs://jd-contents/Beggin/Beggin_LOW.hd.webm": "/private/map/Beggin/Beggin_LOW.hd.webm/9f84da30c652e8afe0a549385f6e6ef5.webm",
+    "jmcs://jd-contents/Beggin/Beggin_MID.hd.webm": "/private/map/Beggin/Beggin_MID.hd.webm/dac66d088409d1e74cbade0e3b36a0e8.webm",
+    "jmcs://jd-contents/Beggin/Beggin_ULTRA.hd.webm": "/private/map/Beggin/Beggin_ULTRA.hd.webm/736d75934506de9b542c0007de0bfc48.webm",
+    "jmcs://jd-contents/Beggin/Beggin_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Beggin/Beggin_MapPreviewNoSoundCrop_LOW.vp8.webm/c83c47d0542cc7239dcb43d72c5cbcdc.webm",
+    "jmcs://jd-contents/Beggin/Beggin_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Beggin/Beggin_MapPreviewNoSoundCrop_MID.vp8.webm/a61f40fc4f99939729d69e283465dd2e.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21493,
+        42985,
+        64478,
+        85970,
+        107463,
+        128955,
+        150448,
+        171940,
+        193433,
+        214925,
+        236418,
+        257910,
+        279403,
+        300896,
+        322388,
+        343881,
+        365373,
+        386866,
+        408358,
+        429851,
+        451343,
+        472836,
+        494328,
+        515821,
+        537313,
+        558806,
+        580299,
+        601791,
+        623284,
+        644776,
+        666269,
+        687761,
+        709254,
+        730746,
+        752239,
+        773731,
+        795224,
+        816716,
+        838209,
+        859701,
+        881194,
+        902687,
+        924179,
+        945672,
+        967164,
+        988657,
+        1010149,
+        1031642,
+        1053134,
+        1074627,
+        1096119,
+        1117612,
+        1139104,
+        1160597,
+        1182090,
+        1203582,
+        1225075,
+        1246567,
+        1268060,
+        1289552,
+        1311045,
+        1332537,
+        1354030,
+        1375522,
+        1397015,
+        1418507,
+        1440000,
+        1461493,
+        1482985
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -29,
+      "endBeat": 474,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 67,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Beggin/Beggin_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"538637\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Beggin/Beggin_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1980524\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Beggin/Beggin_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "0c6b57896e9eb0925d04c57ba67856aa",
+      "storageType": 0,
+      "url": "/public/map/Beggin/nx/Beggin_MAIN_SCENE_NX.zip/0c6b57896e9eb0925d04c57ba67856aa.zip"
+    },
+    "pc": {
+      "md5": "d8e77345c13a8c1f113b7907a2b296bc",
+      "storageType": 0,
+      "url": "/public/map/Beggin/pc/Beggin_MAIN_SCENE_PC.zip/d8e77345c13a8c1f113b7907a2b296bc.zip"
+    },
+    "ps4": {
+      "md5": "f639aee53b4932fdecc579ecf4c7ffa3",
+      "storageType": 0,
+      "url": "/public/map/Beggin/orbis/Beggin_MAIN_SCENE_ORBIS.zip/f639aee53b4932fdecc579ecf4c7ffa3.zip"
+    }
+  },
+  "data": {
+    "mapName": "Beggin",
+    "title": "Beggin'",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Måneskin",
+    "credits": "Written by Peggy Farina, Robert Gaudio. Published by EMI Longitude Music / Universal Music Publishing International. Courtesy of Sony Music Entertainment Italy S.p.A. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e11f5f",
+    "songColor2A": "#d27512",
+    "songColor1B": "#710808",
+    "songColor2B": "#7d2509",
+    "lyricsColor": "#d24e93",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Beggin/nx/Beggin_banner_bkg.tga.ckd/8271a6e0961c05766aca5c02b6d74dc5.ckd",
+      "map_bkgImageUrl": "/public/map/Beggin/nx/Beggin_map_bkg.tga.ckd/7421758f3fe67df912cd4a2d3dc58b54.ckd",
+      "expandCoachImageUrl": "/public/map/Beggin/nx/Beggin_Cover_AlbumCoach.tga.ckd/abd54b286b042fc79cb6f5f0b228d2cb.ckd",
+      "cover_smallImageUrl": "/public/map/Beggin/nx/Beggin_Cover_Online.tga.ckd/f65c5b33a0c5f7f060d2cb689298e5fa.ckd",
+      "coverImageUrl": "/public/map/Beggin/nx/Beggin_Cover_Generic.tga.ckd/733df3851c05ff02ef29950c8bc2dd06.ckd",
+      "coach1ImageUrl": "/public/map/Beggin/nx/Beggin_Coach_1.tga.ckd/6691a9b7fb6164405529c2ffed0af4cf.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Beggin/pc/Beggin_banner_bkg.tga.ckd/b0fbc7cd96727f377235d663f72c438e.ckd",
+      "map_bkgImageUrl": "/public/map/Beggin/pc/Beggin_map_bkg.tga.ckd/06e14d7cfbbc6a98fc3d6bba6cc39f71.ckd",
+      "expandCoachImageUrl": "/public/map/Beggin/pc/Beggin_Cover_AlbumCoach.tga.ckd/de294b31ec75ad3d3a6d33f05ba68744.ckd",
+      "cover_smallImageUrl": "/public/map/Beggin/pc/Beggin_Cover_Online.tga.ckd/c08baa171d12bd01c47959bb7db6c445.ckd",
+      "coverImageUrl": "/public/map/Beggin/pc/Beggin_Cover_Generic.tga.ckd/da4fca7ef39c9f59f01448b42f6ab8bf.ckd",
+      "coach1ImageUrl": "/public/map/Beggin/pc/Beggin_Coach_1.tga.ckd/71d5684e7183a731eac16cb48f1058e7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Beggin/orbis/Beggin_banner_bkg.tga.ckd/b0fbc7cd96727f377235d663f72c438e.ckd",
+      "map_bkgImageUrl": "/public/map/Beggin/orbis/Beggin_map_bkg.tga.ckd/06e14d7cfbbc6a98fc3d6bba6cc39f71.ckd",
+      "expandCoachImageUrl": "/public/map/Beggin/orbis/Beggin_Cover_AlbumCoach.tga.ckd/de294b31ec75ad3d3a6d33f05ba68744.ckd",
+      "cover_smallImageUrl": "/public/map/Beggin/orbis/Beggin_Cover_Online.tga.ckd/c08baa171d12bd01c47959bb7db6c445.ckd",
+      "coverImageUrl": "/public/map/Beggin/orbis/Beggin_Cover_Generic.tga.ckd/da4fca7ef39c9f59f01448b42f6ab8bf.ckd",
+      "coach1ImageUrl": "/public/map/Beggin/orbis/Beggin_Coach_1.tga.ckd/71d5684e7183a731eac16cb48f1058e7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Beggin/Beggin_Coach_1_Phone.png/7b69928ab1de2463b287ad9fe96c946c.png",
+    "phoneCoverImageUrl": "/public/map/Beggin/Beggin_Cover_Phone.jpg/427427625680d3119f06d376f8bb0deb.jpg",
+    "cover640ImageUrl": "/public/map/Beggin/Beggin_Cover_640.png/a1b67b5b5ec1115d49757a113fd2570f.png"
+  },
+  "mapLength": 224.776042
+}

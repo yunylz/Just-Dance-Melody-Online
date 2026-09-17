@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter.ogg": "/private/map/MillionTimesBetter/MillionTimesBetter.ogg/98ef5bf0469662987353e6350c68a719.ogg",
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_AudioPreview.ogg": "/public/map/MillionTimesBetter/MillionTimesBetter_AudioPreview.ogg/72e9f32082e0f1eaab986d71950a319b.ogg",
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_HIGH.hd.webm": "/private/map/MillionTimesBetter/MillionTimesBetter_HIGH.hd.webm/240e364961acf190585e35acef49e9fe.webm",
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_LOW.hd.webm": "/private/map/MillionTimesBetter/MillionTimesBetter_LOW.hd.webm/bb2a4b0f620f54d08019af7128fe337c.webm",
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_MID.hd.webm": "/private/map/MillionTimesBetter/MillionTimesBetter_MID.hd.webm/ec6ff2302c5122340f112bbea4331bab.webm",
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_ULTRA.hd.webm": "/private/map/MillionTimesBetter/MillionTimesBetter_ULTRA.hd.webm/3bb94343ab77942c14698d8f2ab6df02.webm",
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MillionTimesBetter/MillionTimesBetter_MapPreviewNoSoundCrop_LOW.vp8.webm/73454988be32672567aefdc7d21e3126.webm",
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MillionTimesBetter/MillionTimesBetter_MapPreviewNoSoundCrop_MID.vp8.webm/fb50b082298ca1b63ffdd397c1c3a133.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21022,
+        42044,
+        63066,
+        84088,
+        105109,
+        126131,
+        147153,
+        168175,
+        189197,
+        210219,
+        231241,
+        252263,
+        273285,
+        294307,
+        315328,
+        336350,
+        357372,
+        378394,
+        399416,
+        420438,
+        441460,
+        462482,
+        483504,
+        504526,
+        525547,
+        546569,
+        567591,
+        588613,
+        609635,
+        630657,
+        651679,
+        672701,
+        693723,
+        714745,
+        735766,
+        756788,
+        777810,
+        798832,
+        819854,
+        840876,
+        861898,
+        882920,
+        903942,
+        924964,
+        945985,
+        967007,
+        988029,
+        1009051,
+        1030073,
+        1051095,
+        1072117,
+        1093139,
+        1114161,
+        1135182,
+        1156204,
+        1177226,
+        1198248,
+        1219270,
+        1240292,
+        1261314,
+        1282336,
+        1303358,
+        1324380,
+        1345401,
+        1366423,
+        1387445,
+        1408467,
+        1429489,
+        1450511,
+        1471533
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 415,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 68,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"553003\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2010363\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "331eeeb753e029b4ea9df0a1abe77572",
+      "storageType": 0,
+      "url": "/public/map/MillionTimesBetter/nx/MillionTimesBetter_MAIN_SCENE_NX.zip/331eeeb753e029b4ea9df0a1abe77572.zip"
+    },
+    "pc": {
+      "md5": "70b0e73d7f24c7ce8eaa798a137ed19e",
+      "storageType": 0,
+      "url": "/public/map/MillionTimesBetter/pc/MillionTimesBetter_MAIN_SCENE_PC.zip/70b0e73d7f24c7ce8eaa798a137ed19e.zip"
+    },
+    "ps4": {
+      "md5": "96405b630d6b39ea7257a7518a1d1a97",
+      "storageType": 0,
+      "url": "/public/map/MillionTimesBetter/orbis/MillionTimesBetter_MAIN_SCENE_ORBIS.zip/96405b630d6b39ea7257a7518a1d1a97.zip"
+    }
+  },
+  "data": {
+    "mapName": "MillionTimesBetter",
+    "title": "Million Times Better",
+    "originalJDVersion": 2027,
+    "tags": [
+      "main"
+    ],
+    "artist": "Crystal Enigma",
+    "credits": "\"Million Times Better\" Performed by Crystal Enigma, Written by Pete Crow, Published by Ubisoft Music Publishing, Courtesy of Ubisoft Music, All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#f4a313",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MillionTimesBetter/nx/MillionTimesBetter_banner_bkg.tga.ckd/a3785e1ec26c04a0bcb09fa3a5f5a518.ckd",
+      "map_bkgImageUrl": "/public/map/MillionTimesBetter/nx/MillionTimesBetter_map_bkg.tga.ckd/747f98ab5d53744c55a82ec295b34cb1.ckd",
+      "expandCoachImageUrl": "/public/map/MillionTimesBetter/nx/MillionTimesBetter_Cover_AlbumCoach.tga.ckd/b6e30370caec23d7fe5fdca3c98a809b.ckd",
+      "cover_smallImageUrl": "/public/map/MillionTimesBetter/nx/MillionTimesBetter_Cover_Online.tga.ckd/ef057be25fe47f6e4bdbf2096ffb0b77.ckd",
+      "coverImageUrl": "/public/map/MillionTimesBetter/nx/MillionTimesBetter_Cover_Generic.tga.ckd/69ec96cd294109e749ab5655bb32ad23.ckd",
+      "coach1ImageUrl": "/public/map/MillionTimesBetter/nx/MillionTimesBetter_Coach_1.tga.ckd/5769dcc4fc2c37c22c3c4880e7d48ca7.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MillionTimesBetter/pc/MillionTimesBetter_banner_bkg.tga.ckd/17440b5345db10c960c50e6344c9bf9c.ckd",
+      "map_bkgImageUrl": "/public/map/MillionTimesBetter/pc/MillionTimesBetter_map_bkg.tga.ckd/d39dff0c2a47964cd349034fc3117798.ckd",
+      "expandCoachImageUrl": "/public/map/MillionTimesBetter/pc/MillionTimesBetter_Cover_AlbumCoach.tga.ckd/639ca4dbba75b7c4c6c7bbd90fd732fa.ckd",
+      "cover_smallImageUrl": "/public/map/MillionTimesBetter/pc/MillionTimesBetter_Cover_Online.tga.ckd/dd95d3384448862ed471a21d5037ebaf.ckd",
+      "coverImageUrl": "/public/map/MillionTimesBetter/pc/MillionTimesBetter_Cover_Generic.tga.ckd/8d1ee19e46b3461673cca6694385e933.ckd",
+      "coach1ImageUrl": "/public/map/MillionTimesBetter/pc/MillionTimesBetter_Coach_1.tga.ckd/d0205710d9a55c4cd0927fb36b1ada3b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MillionTimesBetter/orbis/MillionTimesBetter_banner_bkg.tga.ckd/17440b5345db10c960c50e6344c9bf9c.ckd",
+      "map_bkgImageUrl": "/public/map/MillionTimesBetter/orbis/MillionTimesBetter_map_bkg.tga.ckd/d39dff0c2a47964cd349034fc3117798.ckd",
+      "expandCoachImageUrl": "/public/map/MillionTimesBetter/orbis/MillionTimesBetter_Cover_AlbumCoach.tga.ckd/639ca4dbba75b7c4c6c7bbd90fd732fa.ckd",
+      "cover_smallImageUrl": "/public/map/MillionTimesBetter/orbis/MillionTimesBetter_Cover_Online.tga.ckd/dd95d3384448862ed471a21d5037ebaf.ckd",
+      "coverImageUrl": "/public/map/MillionTimesBetter/orbis/MillionTimesBetter_Cover_Generic.tga.ckd/8d1ee19e46b3461673cca6694385e933.ckd",
+      "coach1ImageUrl": "/public/map/MillionTimesBetter/orbis/MillionTimesBetter_Coach_1.tga.ckd/d0205710d9a55c4cd0927fb36b1ada3b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MillionTimesBetter/MillionTimesBetter_Coach_1_Phone.png/81822e9e7f5125c10b4f942bf4f76751.png",
+    "phoneCoverImageUrl": "/public/map/MillionTimesBetter/MillionTimesBetter_Cover_Phone.jpg/fc5f9003e0ef623b444dc7e84cf95dff.jpg",
+    "cover640ImageUrl": "/public/map/MillionTimesBetter/MillionTimesBetter_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3fcd2dc7b50cf94eafecfd2e92008791",
+      "storageType": 0,
+      "url": "/public/map/JaiHo/nx/JaiHo_MAIN_SCENE_NX.zip/3fcd2dc7b50cf94eafecfd2e92008791.zip"
+    },
+    "pc": {
+      "md5": "b0f4ceeef59e9c40ddda087306cf78d5",
+      "storageType": 0,
+      "url": "/public/map/JaiHo/pc/JaiHo_MAIN_SCENE_PC.zip/b0f4ceeef59e9c40ddda087306cf78d5.zip"
+    },
+    "ps4": {
+      "md5": "f3e5fb4b1a6ff7a41f1ff975aec8b6a4",
+      "storageType": 0,
+      "url": "/public/map/JaiHo/orbis/JaiHo_MAIN_SCENE_ORBIS.zip/f3e5fb4b1a6ff7a41f1ff975aec8b6a4.zip"
+    }
+  },
+  "data": {
+    "mapName": "JaiHo",
+    "title": "Jai Ho!",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "A. R. Rahman ft. The Pussycat Dolls",
+    "credits": "Jai Ho by A. R. Rahman ft. The Pussycat Dolls",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#600857",
+    "songColor2A": "#C71007",
+    "songColor1B": "#17002A",
+    "songColor2B": "#180128",
+    "lyricsColor": "#50F7E0",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21142,
+        42284,
+        63426,
+        84567,
+        105709,
+        126851,
+        147993,
+        169134,
+        190276,
+        211418,
+        233256,
+        253702,
+        274843,
+        295985,
+        317353,
+        338269,
+        359410,
+        380552,
+        401694,
+        422836,
+        443977,
+        465119,
+        486548,
+        507403,
+        528544,
+        549686,
+        570828,
+        591970,
+        613112,
+        634253,
+        654942,
+        676537,
+        697679,
+        718820,
+        739962,
+        761104,
+        782246,
+        803387,
+        824843,
+        845671,
+        866813,
+        887955,
+        909532,
+        930238,
+        951380,
+        972522,
+        993663,
+        1014805,
+        1035947,
+        1057089,
+        1078230,
+        1099372,
+        1120514,
+        1141656,
+        1163176,
+        1183939,
+        1205081,
+        1226223,
+        1247365,
+        1268506,
+        1289648,
+        1310790,
+        1331932,
+        1353073,
+        1374215,
+        1395357,
+        1416499,
+        1437641
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 2
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 499,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 68,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/jaiho/jaiho_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JaiHo/nx/JaiHo_banner_bkg.tga.ckd/31bf4f46912edbac92dc39ce8398006b.ckd",
+      "map_bkgImageUrl": "/public/map/JaiHo/nx/JaiHo_map_bkg.tga.ckd/112b471e5938dbd21c41dbe7c5c12835.ckd",
+      "expandCoachImageUrl": "/public/map/JaiHo/nx/JaiHo_Cover_AlbumCoach.tga.ckd/6a5aadefcf8bfacf9d7c36ac4a95287b.ckd",
+      "cover_smallImageUrl": "/public/map/JaiHo/nx/JaiHo_Cover_Online.tga.ckd/8975123fc84243805f242cc0a636c489.ckd",
+      "coach1ImageUrl": "/public/map/JaiHo/nx/JaiHo_Coach_1.tga.ckd/9bdb6af85a40697db16bb064e1839d42.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JaiHo/pc/JaiHo_banner_bkg.tga.ckd/610b0316ad16aed0966ce98d42075d65.ckd",
+      "map_bkgImageUrl": "/public/map/JaiHo/pc/JaiHo_map_bkg.tga.ckd/19e2cccab16787554ac5a8450680d490.ckd",
+      "expandCoachImageUrl": "/public/map/JaiHo/pc/JaiHo_Cover_AlbumCoach.tga.ckd/e7147b7d30cde07d9225738a31e0c4b6.ckd",
+      "cover_smallImageUrl": "/public/map/JaiHo/pc/JaiHo_Cover_Online.tga.ckd/738da9944c0ce720dca25c00da8e225a.ckd",
+      "coach1ImageUrl": "/public/map/JaiHo/pc/JaiHo_Coach_1.tga.ckd/4a046357f2bdcad2550234c644b9f4bc.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JaiHo/orbis/JaiHo_banner_bkg.tga.ckd/610b0316ad16aed0966ce98d42075d65.ckd",
+      "map_bkgImageUrl": "/public/map/JaiHo/orbis/JaiHo_map_bkg.tga.ckd/19e2cccab16787554ac5a8450680d490.ckd",
+      "expandCoachImageUrl": "/public/map/JaiHo/orbis/JaiHo_Cover_AlbumCoach.tga.ckd/e7147b7d30cde07d9225738a31e0c4b6.ckd",
+      "cover_smallImageUrl": "/public/map/JaiHo/orbis/JaiHo_Cover_Online.tga.ckd/738da9944c0ce720dca25c00da8e225a.ckd",
+      "coach1ImageUrl": "/public/map/JaiHo/orbis/JaiHo_Coach_1.tga.ckd/4a046357f2bdcad2550234c644b9f4bc.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JaiHo/JaiHo_Coach_1_Phone.png/5a0f36cc67172d48b799961477bb611c.png",
+    "phoneCoverImageUrl": "/public/map/JaiHo/JaiHo_Cover_Phone.jpg/ccc689003ddc3f9efc5d3c65a1a53253.jpg",
+    "cover640ImageUrl": "/public/map/JaiHo/JaiHo_Cover_640.png/992608b0255ccf389adaba09b1d220c3.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JaiHo/JaiHo.ogg": "/private/map/JaiHo/JaiHo.ogg/83cd1ef38fc7dbc292a6a722b7314577.ogg",
+    "jmcs://jd-contents/JaiHo/JaiHo_AudioPreview.ogg": "/public/map/JaiHo/JaiHo_AudioPreview.ogg/bd288e60b342c1e6d547ffa5e03d55af.ogg",
+    "jmcs://jd-contents/JaiHo/JaiHo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JaiHo/JaiHo_MapPreviewNoSoundCrop_LOW.vp8.webm/314a4c8afeeee0ed70bbf2fc6adbfce7.webm",
+    "jmcs://jd-contents/JaiHo/JaiHo_HIGH.webm": "/private/map/JaiHo/JaiHo_HIGH.webm/a96d7b8d2bf8cb863b0fb816b328f96c.webm",
+    "jmcs://jd-contents/JaiHo/JaiHo_LOW.webm": "/private/map/JaiHo/JaiHo_LOW.webm/1e6ab2ed0c316b77e246ca7eb8fd7aef.webm",
+    "jmcs://jd-contents/JaiHo/JaiHo_MID.webm": "/private/map/JaiHo/JaiHo_MID.webm/0511d7510e0a5e25af5dd4b36fde5823.webm",
+    "jmcs://jd-contents/JaiHo/JaiHo_ULTRA.hd.webm": "/private/map/JaiHo/JaiHo_ULTRA.hd.webm/69d40fbf4861846e085bab1c407220b1.webm",
+    "jmcs://jd-contents/JaiHo/JaiHo_ULTRA.webm": "/private/map/JaiHo/JaiHo_ULTRA.webm/dd6d356d0fe27b04f7b13dea278ac628.webm",
+    "jmcs://jd-contents/JaiHo/JaiHo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JaiHo/JaiHo_MapPreviewNoSoundCrop_MID.vp8.webm/29561f6f1a2ff2e6df2ed23f7217007c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500816\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JaiHo/JaiHo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1489894\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JaiHo/JaiHo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 222.603563
+}

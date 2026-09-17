@@ -1,0 +1,153 @@
+{
+  "urls": {
+    "jmcs://jd-contents/HeatWaves/HeatWaves.ogg": "/private/map/HeatWaves/HeatWaves.ogg/c2731aec56dea3295b15dd9edaa57847.ogg",
+    "jmcs://jd-contents/HeatWaves/HeatWaves_AudioPreview.ogg": "/public/map/HeatWaves/HeatWaves_AudioPreview.ogg/742320f9ba3f211bc22ae3b252316668.ogg",
+    "jmcs://jd-contents/HeatWaves/HeatWaves_HIGH.hd.webm": "/private/map/HeatWaves/HeatWaves_HIGH.hd.webm/84c06ef0df65d5a76d6b8ce0d59d13fe.webm",
+    "jmcs://jd-contents/HeatWaves/HeatWaves_LOW.hd.webm": "/private/map/HeatWaves/HeatWaves_LOW.hd.webm/e03e09e1a7b37cccca7b6531703d6e13.webm",
+    "jmcs://jd-contents/HeatWaves/HeatWaves_MID.hd.webm": "/private/map/HeatWaves/HeatWaves_MID.hd.webm/554e3e7af87df31cdc282adf0f56eea4.webm",
+    "jmcs://jd-contents/HeatWaves/HeatWaves_ULTRA.hd.webm": "/private/map/HeatWaves/HeatWaves_ULTRA.hd.webm/f157d52a817fca211efe8f7f5ce5e0c2.webm",
+    "jmcs://jd-contents/HeatWaves/HeatWaves_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HeatWaves/HeatWaves_MapPreviewNoSoundCrop_LOW.vp8.webm/ff4c4dd2ccd632bcc5d563e2c2e6ded6.webm",
+    "jmcs://jd-contents/HeatWaves/HeatWaves_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HeatWaves/HeatWaves_MapPreviewNoSoundCrop_MID.vp8.webm/c5f55d2761e8002b4c6fe5bf4dfc5ff2.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        35643,
+        71286,
+        106929,
+        142572,
+        178216,
+        213859,
+        249502,
+        285145,
+        320788,
+        356431,
+        392074,
+        427717,
+        463361,
+        499004,
+        534647,
+        570290,
+        605933,
+        641576,
+        677219,
+        712862,
+        748506,
+        784149,
+        819792,
+        855435,
+        891078,
+        926721,
+        962364,
+        998007,
+        1033651,
+        1069294,
+        1104937,
+        1140580,
+        1176223,
+        1211866,
+        1247509,
+        1283152,
+        1318796,
+        1354439,
+        1390082,
+        1425725,
+        1461368,
+        1497011
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -18,
+      "endBeat": 329,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 40,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HeatWaves/HeatWaves_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "56980f969df0c2dae82e8e48470633ab",
+      "storageType": 0,
+      "url": "/public/map/HeatWaves/nx/HeatWaves_MAIN_SCENE_NX.zip/56980f969df0c2dae82e8e48470633ab.zip"
+    },
+    "pc": {
+      "md5": "6ed700baa4d76705439bd4a65cfd00e6",
+      "storageType": 0,
+      "url": "/public/map/HeatWaves/pc/HeatWaves_MAIN_SCENE_PC.zip/6ed700baa4d76705439bd4a65cfd00e6.zip"
+    },
+    "ps4": {
+      "md5": "d26098b43e0e56319a30b515ec16b825",
+      "storageType": 0,
+      "url": "/public/map/HeatWaves/orbis/HeatWaves_MAIN_SCENE_ORBIS.zip/d26098b43e0e56319a30b515ec16b825.zip"
+    }
+  },
+  "data": {
+    "mapName": "HeatWaves",
+    "title": "Heat Waves",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Glass Animals",
+    "credits": "Written by Dave Bayley. Published by Beggars Music Limited. Courtesy of Polydor Records Ltd./Republic Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#f44d10",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HeatWaves/nx/HeatWaves_banner_bkg.tga.ckd/174024e1942fb78392f469b83cffbadb.ckd",
+      "map_bkgImageUrl": "/public/map/HeatWaves/nx/HeatWaves_map_bkg.tga.ckd/1f8c66063fd57e12ed1a49b291d99277.ckd",
+      "expandCoachImageUrl": "/public/map/HeatWaves/nx/HeatWaves_Cover_AlbumCoach.tga.ckd/29cab28ba6e881c6bbb8dd94af662704.ckd",
+      "cover_smallImageUrl": "/public/map/HeatWaves/nx/HeatWaves_Cover_Online.tga.ckd/10e0d875a8f21b205a014d1b7a97445d.ckd",
+      "coverImageUrl": "/public/map/HeatWaves/nx/HeatWaves_Cover_Generic.tga.ckd/64ec5d7e44d934443c2ed36b0245dd4f.ckd",
+      "coach1ImageUrl": "/public/map/HeatWaves/nx/HeatWaves_Coach_1.tga.ckd/a41090b81dfccabdb1dd5ef5af88e592.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HeatWaves/pc/HeatWaves_banner_bkg.tga.ckd/453f262b2333c314a9c6f71782f13b3c.ckd",
+      "map_bkgImageUrl": "/public/map/HeatWaves/pc/HeatWaves_map_bkg.tga.ckd/718c1929dcc53bbef5fde31189ef0066.ckd",
+      "expandCoachImageUrl": "/public/map/HeatWaves/pc/HeatWaves_Cover_AlbumCoach.tga.ckd/1643afb91336ec6742716af24f35682c.ckd",
+      "cover_smallImageUrl": "/public/map/HeatWaves/pc/HeatWaves_Cover_Online.tga.ckd/f0e6ed8f1cda853b906553d104c180bd.ckd",
+      "coverImageUrl": "/public/map/HeatWaves/pc/HeatWaves_Cover_Generic.tga.ckd/3ca1a788e35b98c02ad60dbaae31c390.ckd",
+      "coach1ImageUrl": "/public/map/HeatWaves/pc/HeatWaves_Coach_1.tga.ckd/49ca902520466a21bf71ed02be2e62a0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HeatWaves/orbis/HeatWaves_banner_bkg.tga.ckd/453f262b2333c314a9c6f71782f13b3c.ckd",
+      "map_bkgImageUrl": "/public/map/HeatWaves/orbis/HeatWaves_map_bkg.tga.ckd/718c1929dcc53bbef5fde31189ef0066.ckd",
+      "expandCoachImageUrl": "/public/map/HeatWaves/orbis/HeatWaves_Cover_AlbumCoach.tga.ckd/1643afb91336ec6742716af24f35682c.ckd",
+      "cover_smallImageUrl": "/public/map/HeatWaves/orbis/HeatWaves_Cover_Online.tga.ckd/f0e6ed8f1cda853b906553d104c180bd.ckd",
+      "coverImageUrl": "/public/map/HeatWaves/orbis/HeatWaves_Cover_Generic.tga.ckd/3ca1a788e35b98c02ad60dbaae31c390.ckd",
+      "coach1ImageUrl": "/public/map/HeatWaves/orbis/HeatWaves_Coach_1.tga.ckd/49ca902520466a21bf71ed02be2e62a0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HeatWaves/HeatWaves_Coach_1_Phone.png/b9cc7d439c44891c71762d102e2dcbb3.png",
+    "phoneCoverImageUrl": "/public/map/HeatWaves/HeatWaves_Cover_Phone.jpg/6feffbdb40003d055555b206d55a861c.jpg",
+    "cover640ImageUrl": "/public/map/HeatWaves/HeatWaves_Cover_640.png/8c360e7d7788ae7aff50fd2811fcf04c.png"
+  },
+  "mapLength": 257.657229
+}

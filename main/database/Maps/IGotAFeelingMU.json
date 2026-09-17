@@ -1,0 +1,179 @@
+{
+  "urls": {
+    "jmcs://jd-contents/IGotAFeelingMU/IGotAFeelingMU_HIGH.hd.webm": "/private/map/IGotAFeelingMU/IGotAFeelingMU_HIGH.hd.webm/1f75c2a6c18f5df406fded09b14011be.webm",
+    "jmcs://jd-contents/IGotAFeelingMU/IGotAFeelingMU_LOW.hd.webm": "/private/map/IGotAFeelingMU/IGotAFeelingMU_LOW.hd.webm/83131ad7f386ebfb2c30246ce714b1d7.webm",
+    "jmcs://jd-contents/IGotAFeelingMU/IGotAFeelingMU_MID.hd.webm": "/private/map/IGotAFeelingMU/IGotAFeelingMU_MID.hd.webm/2a00f1f40a9399ea7a99774520e1e630.webm",
+    "jmcs://jd-contents/IGotAFeelingMU/IGotAFeelingMU_ULTRA.hd.webm": "/private/map/IGotAFeelingMU/IGotAFeelingMU_ULTRA.hd.webm/a10f45b25d62cdecf54ef7367cb31dc1.webm",
+    "jmcs://jd-contents/IGotAFeelingMU/IGotAFeelingMU.ogg": "/private/map/IGotAFeelingMU/IGotAFeelingMU.ogg/fa16619a7e0df96b78ac9c719cb3acb6.ogg",
+    "jmcs://jd-contents/IGotAFeelingMU/IGotAFeelingMU_AudioPreview.ogg": "/public/map/IGotAFeelingMU/IGotAFeelingMU_AudioPreview.ogg/53ed9a70526aac87361b8b50811d12f9.ogg",
+    "jmcs://jd-contents/IGotAFeelingMU/IGotAFeelingMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/IGotAFeelingMU/IGotAFeelingMU_MapPreviewNoSoundCrop_LOW.vp8.webm/5a37020d0d29352287e4658eceece480.webm",
+    "jmcs://jd-contents/IGotAFeelingMU/IGotAFeelingMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/IGotAFeelingMU/IGotAFeelingMU_MapPreviewNoSoundCrop_MID.vp8.webm/db839145d637f1f1700a2029b33db715.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22512,
+        45024,
+        67536,
+        90000,
+        112512,
+        135024,
+        157536,
+        180000,
+        202511,
+        225023,
+        247535,
+        269999,
+        292511,
+        315023,
+        337535,
+        359999,
+        382511,
+        405023,
+        427535,
+        449999,
+        472511,
+        495023,
+        517535,
+        539999,
+        562511,
+        585023,
+        607535,
+        629999,
+        652511,
+        675023,
+        697535,
+        719999,
+        742511,
+        765023,
+        787535,
+        809999,
+        832511,
+        855023,
+        877535,
+        899999,
+        922511,
+        945023,
+        967535,
+        989999,
+        1012511,
+        1035023,
+        1057535,
+        1079998,
+        1102510,
+        1125022,
+        1147534,
+        1169998,
+        1192510,
+        1215022,
+        1237534,
+        1259998,
+        1282510,
+        1305022,
+        1327534,
+        1349998,
+        1372510,
+        1395022,
+        1417534,
+        1439998
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 473,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/igotafeelingmu/igotafeelingmu_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"607485\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IGotAFeelingMU/IGotAFeelingMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1980799\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IGotAFeelingMU/IGotAFeelingMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "56ec838ca9b3c3d1b64f86a06d667f37",
+      "storageType": 0,
+      "url": "/public/map/IGotAFeelingMU/nx/IGotAFeelingMU_MAIN_SCENE_NX.zip/56ec838ca9b3c3d1b64f86a06d667f37.zip"
+    },
+    "pc": {
+      "md5": "3a015db054ad42fc74f029d0a14f77e4",
+      "storageType": 0,
+      "url": "/public/map/IGotAFeelingMU/pc/IGotAFeelingMU_MAIN_SCENE_PC.zip/3a015db054ad42fc74f029d0a14f77e4.zip"
+    },
+    "ps4": {
+      "md5": "c4a4da6d6c09f4823b54713f1e6d638d",
+      "storageType": 0,
+      "url": "/public/map/IGotAFeelingMU/orbis/IGotAFeelingMU_MAIN_SCENE_ORBIS.zip/c4a4da6d6c09f4823b54713f1e6d638d.zip"
+    }
+  },
+  "data": {
+    "mapName": "IGotAFeelingMU",
+    "title": "I Gotta Feeling",
+    "originalJDVersion": 2016,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "The Black Eyed Peas",
+    "credits": "Written by Stacy Ferguson, Allan Pineda, David Guetta, Frederic Riesterer, William Adams, and Jaime Gomez.  Published by EMI April Music (Canada) Ltd. (SOCAN) obo itself and Headphone Junkie Publishing (ASCAP) \\/ BMG Sapphire Songs (BMI)\\/I Am Composing LLC (BMI)\\/APL De Ap Publishing LLC (BMI)\\/Tab Magnetic Publishing (BMI) \\/ Square Rivoli Publishing (SACEM) \\/ Rister Editions (SACEM).  All rights reserved.  Used with permission. Courtesy of Interscope Records, under license from Universal Music Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#2B37FF",
+    "songColor2A": "#D82AFF",
+    "songColor1B": "#01001E",
+    "songColor2B": "#070018",
+    "lyricsColor": "#FF10C6",
+    "LocaleID": 13572,
+    "LocaleId": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/IGotAFeelingMU/nx/IGotAFeelingMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/IGotAFeelingMU/nx/IGotAFeelingMU_map_bkg.tga.ckd/7fb1ab5815da81ea9f2f49dde10c7654.ckd",
+      "expandCoachImageUrl": "/public/map/IGotAFeelingMU/nx/IGotAFeelingMU_Cover_AlbumCoach.tga.ckd/9166d4b2089f1374997d7494c0f24f52.ckd",
+      "cover_smallImageUrl": "/public/map/IGotAFeelingMU/nx/IGotAFeelingMU_Cover_Online.tga.ckd/52b385741d3c22dbac43e3379cfb27b2.ckd",
+      "coverImageUrl": "/public/map/IGotAFeelingMU/nx/IGotAFeelingMU_Cover_Generic.tga.ckd/aa68a0dea7fb9875a0cf14bc1228ef8c.ckd",
+      "coach1ImageUrl": "/public/map/IGotAFeelingMU/nx/IGotAFeelingMU_Coach_1.tga.ckd/8331817a08ce4bbd6c439c3b6a9139fd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/IGotAFeelingMU/pc/IGotAFeelingMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/IGotAFeelingMU/pc/IGotAFeelingMU_map_bkg.tga.ckd/5cd795c784f8a54246e6e9c3664b512b.ckd",
+      "expandCoachImageUrl": "/public/map/IGotAFeelingMU/pc/IGotAFeelingMU_Cover_AlbumCoach.tga.ckd/0ecb2351cc543b430bb6dea8ae723211.ckd",
+      "cover_smallImageUrl": "/public/map/IGotAFeelingMU/pc/IGotAFeelingMU_Cover_Online.tga.ckd/ae996b22bb5c3a666fbf330c6b1da7c7.ckd",
+      "coverImageUrl": "/public/map/IGotAFeelingMU/pc/IGotAFeelingMU_Cover_Generic.tga.ckd/a3a63272d1f1b4dec0b0be8691bfb9d7.ckd",
+      "coach1ImageUrl": "/public/map/IGotAFeelingMU/pc/IGotAFeelingMU_Coach_1.tga.ckd/89197ef8f5c9a3033a8c23c6fec7c312.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/IGotAFeelingMU/orbis/IGotAFeelingMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/IGotAFeelingMU/orbis/IGotAFeelingMU_map_bkg.tga.ckd/5cd795c784f8a54246e6e9c3664b512b.ckd",
+      "expandCoachImageUrl": "/public/map/IGotAFeelingMU/orbis/IGotAFeelingMU_Cover_AlbumCoach.tga.ckd/0ecb2351cc543b430bb6dea8ae723211.ckd",
+      "cover_smallImageUrl": "/public/map/IGotAFeelingMU/orbis/IGotAFeelingMU_Cover_Online.tga.ckd/ae996b22bb5c3a666fbf330c6b1da7c7.ckd",
+      "coverImageUrl": "/public/map/IGotAFeelingMU/orbis/IGotAFeelingMU_Cover_Generic.tga.ckd/a3a63272d1f1b4dec0b0be8691bfb9d7.ckd",
+      "coach1ImageUrl": "/public/map/IGotAFeelingMU/orbis/IGotAFeelingMU_Coach_1.tga.ckd/89197ef8f5c9a3033a8c23c6fec7c312.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/IGotAFeelingMU/IGotAFeelingMU_Coach_1_Phone.png/190027867839baffe0bfa9377e55ae94.png",
+    "phoneCoverImageUrl": "/public/map/IGotAFeelingMU/IGotAFeelingMU_Cover_Phone.jpg/a9a355cd73271bba635cb462a4028e11.jpg",
+    "cover640ImageUrl": "/public/map/IGotAFeelingMU/IGotAFeelingMU_Cover_640.png/7a94ff872b3d0340409561bc3567abbe.png"
+  },
+  "mapLength": 223.124729
+}

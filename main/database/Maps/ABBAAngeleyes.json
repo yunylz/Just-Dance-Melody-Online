@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ee992b6a593987b5319a88ad9cec360b",
+      "storageType": 0,
+      "url": "/public/map/ABBAAngeleyes/nx/ABBAAngeleyes_MAIN_SCENE_NX.zip/ee992b6a593987b5319a88ad9cec360b.zip"
+    },
+    "pc": {
+      "md5": "d0c203298fd4392732614b0954651c58",
+      "storageType": 0,
+      "url": "/public/map/ABBAAngeleyes/pc/ABBAAngeleyes_MAIN_SCENE_PC.zip/d0c203298fd4392732614b0954651c58.zip"
+    },
+    "ps4": {
+      "md5": "012f148960286ef62c4e7f87923e1a0a",
+      "storageType": 0,
+      "url": "/public/map/ABBAAngeleyes/orbis/ABBAAngeleyes_MAIN_SCENE_ORBIS.zip/012f148960286ef62c4e7f87923e1a0a.zip"
+    }
+  },
+  "data": {
+    "mapName": "ABBAAngeleyes",
+    "title": "Angeleyes",
+    "originalJDVersion": 4884,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "main"
+    ],
+    "artist": "ABBA",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#fc7f6e",
+    "songColor2A": "#9e437a",
+    "songColor1B": "#61342e",
+    "songColor2B": "#461f37",
+    "lyricsColor": "#ad4180",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        108576,
+        132000,
+        154896,
+        178608,
+        202176,
+        224640,
+        247392,
+        271152,
+        291264,
+        313056,
+        334176,
+        355056,
+        377904,
+        401040,
+        421440,
+        442896,
+        464016,
+        487008,
+        507696,
+        530256,
+        551280,
+        574080,
+        595008,
+        617232,
+        637680,
+        659664,
+        680928,
+        703728,
+        724272,
+        747216,
+        767856,
+        790080,
+        810720,
+        833232,
+        853824,
+        875520,
+        897312,
+        919344,
+        940032,
+        962112,
+        983040,
+        1004688,
+        1025760,
+        1048032,
+        1069440,
+        1090992,
+        1110960,
+        1133040,
+        1153248,
+        1174992,
+        1194960,
+        1216800,
+        1237488,
+        1258416,
+        1279440,
+        1301472,
+        1323168,
+        1344720,
+        1365936,
+        1387776,
+        1409424,
+        1431408,
+        1452048,
+        1474416
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 510,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ABBAAngeleyes/nx/ABBAAngeleyes_banner_bkg.tga.ckd/3ab64659fb382b86711f083dc1b0d465.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAAngeleyes/nx/ABBAAngeleyes_map_bkg.tga.ckd/d4d013e79fee1a5b649005e012922d51.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAAngeleyes/nx/ABBAAngeleyes_Cover_AlbumCoach.tga.ckd/262e9a050d491f624c064406e3af8b92.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAAngeleyes/nx/ABBAAngeleyes_Cover_Online.tga.ckd/cced3676a90b73e58357b1a3380efb9b.ckd",
+      "coach1ImageUrl": "/public/map/ABBAAngeleyes/nx/ABBAAngeleyes_Coach_1.tga.ckd/bc05a8d33f9cb4ce0d5269830c0b527e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ABBAAngeleyes/pc/ABBAAngeleyes_banner_bkg.tga.ckd/0b9aa4c103245106c63e503d13c01696.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAAngeleyes/pc/ABBAAngeleyes_map_bkg.tga.ckd/9d726301c2e08295b1cbec77f6c21218.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAAngeleyes/pc/ABBAAngeleyes_Cover_AlbumCoach.tga.ckd/660d624fcc21375ccc29dc5ff2068445.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAAngeleyes/pc/ABBAAngeleyes_Cover_Online.tga.ckd/c8eddadf09692cf518354bc6fbed9a50.ckd",
+      "coverImageUrl": "/public/map/ABBAAngeleyes/pc/ABBAAngeleyes_Cover_Generic.tga.ckd/e48732e16e098264e7d86720eabfae3f.ckd",
+      "coach1ImageUrl": "/public/map/ABBAAngeleyes/pc/ABBAAngeleyes_Coach_1.tga.ckd/0cadfe1ec74b3695ad1862dc30b5ea8f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ABBAAngeleyes/orbis/ABBAAngeleyes_banner_bkg.tga.ckd/0b9aa4c103245106c63e503d13c01696.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAAngeleyes/orbis/ABBAAngeleyes_map_bkg.tga.ckd/9d726301c2e08295b1cbec77f6c21218.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAAngeleyes/orbis/ABBAAngeleyes_Cover_AlbumCoach.tga.ckd/660d624fcc21375ccc29dc5ff2068445.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAAngeleyes/orbis/ABBAAngeleyes_Cover_Online.tga.ckd/c8eddadf09692cf518354bc6fbed9a50.ckd",
+      "coach1ImageUrl": "/public/map/ABBAAngeleyes/orbis/ABBAAngeleyes_Coach_1.tga.ckd/0cadfe1ec74b3695ad1862dc30b5ea8f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ABBAAngeleyes/ABBAAngeleyes_Coach_1_Phone.png/6ec644042b6ec05a7dbfb42019b2ea6b.png",
+    "phoneCoverImageUrl": "/public/map/ABBAAngeleyes/ABBAAngeleyes_Cover_Phone.jpg/c9b68438e4eb0947eb936447e38bdc58.jpg",
+    "cover640ImageUrl": "/public/map/ABBAAngeleyes/ABBAAngeleyes_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes.ogg": "/private/map/ABBAAngeleyes/ABBAAngeleyes.ogg/487aadd62f833454e4573ed7318c7731.ogg",
+    "jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes_AudioPreview.ogg": "/public/map/ABBAAngeleyes/ABBAAngeleyes_AudioPreview.ogg/2276259f062c0ba34dbedef1cbf76e25.ogg",
+    "jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes_HIGH.webm": "/private/map/ABBAAngeleyes/ABBAAngeleyes_HIGH.webm/ef22d8dc0a58ad6b3ab6a06e34b882d6.webm",
+    "jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes_LOW.webm": "/private/map/ABBAAngeleyes/ABBAAngeleyes_LOW.webm/d31007e423c3570a418f383beb1327bc.webm",
+    "jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes_MID.webm": "/private/map/ABBAAngeleyes/ABBAAngeleyes_MID.webm/9d0e97fefb034da01d170b50cf833d5a.webm",
+    "jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes_ULTRA.hd.webm": "/private/map/ABBAAngeleyes/ABBAAngeleyes_ULTRA.hd.webm/7de8e0829f899c83f6cf92a90bb25550.webm",
+    "jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes_ULTRA.webm": "/private/map/ABBAAngeleyes/ABBAAngeleyes_ULTRA.webm/13fc959a9455ae6dfc01ba15eb3f7542.webm",
+    "jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ABBAAngeleyes/ABBAAngeleyes_MapPreviewNoSoundCrop_LOW.vp8.webm/e62dbbafc31e654ae5dd9c23f985a3b5.webm",
+    "jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ABBAAngeleyes/ABBAAngeleyes_MapPreviewNoSoundCrop_MID.vp8.webm/794541a5118a4ecef847c5c6b284c86e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"508925\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1496900\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAAngeleyes/ABBAAngeleyes_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 231.062167
+}

@@ -1,0 +1,166 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "140f95e6235e6c9ea671171331552df6",
+      "storageType": 0,
+      "url": "/public/map/FancyMU/nx/FancyMU_MAIN_SCENE_NX.zip/140f95e6235e6c9ea671171331552df6.zip"
+    },
+    "pc": {
+      "md5": "0d162dadc70aadbe29d4c9b7308a1efe",
+      "storageType": 0,
+      "url": "/public/map/FancyMU/pc/FancyMU_MAIN_SCENE_PC.zip/0d162dadc70aadbe29d4c9b7308a1efe.zip"
+    },
+    "ps4": {
+      "md5": "d3024dad6e59fb67739602480e93144d",
+      "storageType": 0,
+      "url": "/public/map/FancyMU/orbis/FancyMU_MAIN_SCENE_ORBIS.zip/d3024dad6e59fb67739602480e93144d.zip"
+    }
+  },
+  "data": {
+    "mapName": "FancyMU",
+    "title": "Fancy",
+    "originalJDVersion": 2016,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2016",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Iggy Azalea Ft. Charli XCX",
+    "credits": "Written by George Astasio (PRS), Jason Andrew Pebworth (PRS), Charlotte Aitchison (PRS), Amethyst Kelly (ASCAP), Kurtis McKenzie (PRS), Jonathan Shave (PRS) and John Turner (BMI). Published by Universal Music Publishing, a division of Universal Music Canada Inc. (SOCAN) / Lateral Mgmt London Stockholm AB.  Administered by Kobalt Music Publishing America, Inc. /  Grand Hustle Anthems (ASCAP), Turn First Music Publishing (BMI), Turn First Ltd (PRS) all c/o Sony/ATV Music Publishing Canada (SOCAN) and Stellar Songs Ltd. (PRS). All rights reserved.  Used with permission. Courtesy of Virgin EMI Records, under license from Universal Music Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#52d6fe",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30336,
+        60624,
+        90960,
+        121248,
+        151584,
+        181872,
+        212208,
+        242544,
+        272832,
+        303168,
+        333456,
+        363792,
+        394128,
+        424417,
+        454753,
+        485041,
+        515377,
+        545665,
+        576001,
+        606337,
+        636625,
+        666961,
+        697249,
+        727585,
+        757873,
+        788209,
+        818546,
+        848834,
+        879170,
+        909458,
+        939794,
+        970130,
+        1000418,
+        1030754,
+        1061042,
+        1091378,
+        1121666,
+        1152002,
+        1182338,
+        1212626,
+        1242963,
+        1273251,
+        1303587,
+        1333875,
+        1364211,
+        1394547,
+        1424835,
+        1455171,
+        1485459
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 312,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/FancyMU/FancyMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/FancyMU/nx/FancyMU_banner_bkg.tga.ckd/ce236fecaf7973d869e66fefd6b34e42.ckd",
+      "map_bkgImageUrl": "/public/map/FancyMU/nx/FancyMU_map_bkg.tga.ckd/a6191910b3bc6bedacd47d14d35a3893.ckd",
+      "expandCoachImageUrl": "/public/map/FancyMU/nx/FancyMU_Cover_AlbumCoach.tga.ckd/28b73d362b0d7c5d2a794427ff11b207.ckd",
+      "cover_smallImageUrl": "/public/map/FancyMU/nx/FancyMU_Cover_Online.tga.ckd/4546dd393b864c17178c265114da2a95.ckd",
+      "coverImageUrl": "/public/map/FancyMU/nx/FancyMU_Cover_Generic.tga.ckd/130dfb2fc6ce83767ce70b6df2837532.ckd",
+      "coach1ImageUrl": "/public/map/FancyMU/nx/FancyMU_Coach_1.tga.ckd/2963bdfb39c52b9b12b11dd7ba444079.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/FancyMU/pc/FancyMU_banner_bkg.tga.ckd/193ce0c57b029c079128006a77a033e2.ckd",
+      "map_bkgImageUrl": "/public/map/FancyMU/pc/FancyMU_map_bkg.tga.ckd/f805a0e888b20dae719a0577083a20f4.ckd",
+      "expandCoachImageUrl": "/public/map/FancyMU/pc/FancyMU_Cover_AlbumCoach.tga.ckd/ecbc09d6afbf3b1e490da7f503367af4.ckd",
+      "cover_smallImageUrl": "/public/map/FancyMU/pc/FancyMU_Cover_Online.tga.ckd/b5181d87913b84f5e0943ccefd3b17e5.ckd",
+      "coverImageUrl": "/public/map/FancyMU/pc/FancyMU_Cover_Generic.tga.ckd/1b622aa7ba90d9d93bd9a3e30ff4f411.ckd",
+      "coach1ImageUrl": "/public/map/FancyMU/pc/FancyMU_Coach_1.tga.ckd/ea96c77e638285e2c8aa1c841c229b1d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/FancyMU/orbis/FancyMU_banner_bkg.tga.ckd/193ce0c57b029c079128006a77a033e2.ckd",
+      "map_bkgImageUrl": "/public/map/FancyMU/orbis/FancyMU_map_bkg.tga.ckd/f805a0e888b20dae719a0577083a20f4.ckd",
+      "expandCoachImageUrl": "/public/map/FancyMU/orbis/FancyMU_Cover_AlbumCoach.tga.ckd/ecbc09d6afbf3b1e490da7f503367af4.ckd",
+      "cover_smallImageUrl": "/public/map/FancyMU/orbis/FancyMU_Cover_Online.tga.ckd/b5181d87913b84f5e0943ccefd3b17e5.ckd",
+      "coverImageUrl": "/public/map/FancyMU/orbis/FancyMU_Cover_Generic.tga.ckd/1b622aa7ba90d9d93bd9a3e30ff4f411.ckd",
+      "coach1ImageUrl": "/public/map/FancyMU/orbis/FancyMU_Coach_1.tga.ckd/ea96c77e638285e2c8aa1c841c229b1d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/FancyMU/FancyMU_Coach_1_Phone.png/db1631b0318d54a723ed50a04e193ac1.png",
+    "phoneCoverImageUrl": "/public/map/FancyMU/FancyMU_Cover_Phone.jpg/55f369c2ed1656e86a55a4a4b3002271.jpg",
+    "cover640ImageUrl": "/public/map/FancyMU/FancyMU_Cover_640.png/ab324c55c56a90593510e0b24c1d139b.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/FancyMU/FancyMU.ogg": "/private/map/FancyMU/FancyMU.ogg/c0b391247154e006a70d9928080a5f96.ogg",
+    "jmcs://jd-contents/FancyMU/FancyMU_AudioPreview.ogg": "/public/map/FancyMU/FancyMU_AudioPreview.ogg/4ea453dba71593dbf9f002c0634834c5.ogg",
+    "jmcs://jd-contents/FancyMU/FancyMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/FancyMU/FancyMU_MapPreviewNoSoundCrop_LOW.vp8.webm/349a2859781dd3e5bd915857e30ea18b.webm",
+    "jmcs://jd-contents/FancyMU/FancyMU_HIGH.webm": "/private/map/FancyMU/FancyMU_HIGH.webm/a7719c0b3a604b5093498daa33605c0e.webm",
+    "jmcs://jd-contents/FancyMU/FancyMU_LOW.webm": "/private/map/FancyMU/FancyMU_LOW.webm/bbb77ec0e09b82966e2d533b60b6b423.webm",
+    "jmcs://jd-contents/FancyMU/FancyMU_MID.webm": "/private/map/FancyMU/FancyMU_MID.webm/a2fabbad09a1f1249e4202a40d4791c6.webm",
+    "jmcs://jd-contents/FancyMU/FancyMU_ULTRA.hd.webm": "/private/map/FancyMU/FancyMU_ULTRA.hd.webm/e770083f0b6d79763f49aa3ee28468e6.webm",
+    "jmcs://jd-contents/FancyMU/FancyMU_ULTRA.webm": "/private/map/FancyMU/FancyMU_ULTRA.webm/22bb603d0a34e5b50c00fd92badb1b7f.webm",
+    "jmcs://jd-contents/FancyMU/FancyMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/FancyMU/FancyMU_MapPreviewNoSoundCrop_MID.vp8.webm/42aa15fbffaf0b9a47b0d7a8452d69db.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"515760\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyMU/FancyMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478054\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyMU/FancyMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 198.315479
+}

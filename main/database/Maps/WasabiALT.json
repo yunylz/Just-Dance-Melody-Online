@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7f703672ac786f9276d28d8ea86229a4",
+      "storageType": 0,
+      "url": "/public/map/WasabiALT/nx/WasabiALT_MAIN_SCENE_NX.zip/7f703672ac786f9276d28d8ea86229a4.zip"
+    },
+    "pc": {
+      "md5": "d2997cbf92ca045b78421b3d3300c2ba",
+      "storageType": 0,
+      "url": "/public/map/WasabiALT/pc/WasabiALT_MAIN_SCENE_PC.zip/d2997cbf92ca045b78421b3d3300c2ba.zip"
+    },
+    "ps4": {
+      "md5": "204879f37a6690685e2a2d2c4b06938e",
+      "storageType": 0,
+      "url": "/public/map/WasabiALT/orbis/WasabiALT_MAIN_SCENE_ORBIS.zip/204879f37a6690685e2a2d2c4b06938e.zip"
+    }
+  },
+  "data": {
+    "mapName": "WasabiALT",
+    "title": "Wasabi",
+    "originalJDVersion": 2024,
+    "tags": [
+      "subscribedSong",
+      "Duet",
+      "Extreme"
+    ],
+    "artist": "Little Mix",
+    "credits": "Written by MNEK, Shungudzo Kuyimba, Michael Sabath, Jade Thirlwall. Published by Sony/ATV Ballad, Sony/ATV Music Publishing Allegro (UK) / Zim Croc Music and James of Big Family / WARNER CHAPPELL MUSIC LTD. All rights on behalf of WARNER CHAPPELL MUSIC LTD administered by WC Music Corp. Courtesy of Simco Limited under exclusive license to Sony Music Entertainment UK Limited & Columbia Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 2,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#eca469",
+    "songColor2A": "#7acee6",
+    "songColor1B": "#19057a",
+    "songColor2B": "#06114c",
+    "lyricsColor": "#48b9ff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25263,
+        50526,
+        75789,
+        101053,
+        126316,
+        151579,
+        176842,
+        202105,
+        227368,
+        252632,
+        277895,
+        303158,
+        328421,
+        353684,
+        378947,
+        404211,
+        429474,
+        454737,
+        480000,
+        505263,
+        530526,
+        555789,
+        581053,
+        606316,
+        631579,
+        656842,
+        682105,
+        707368,
+        732632,
+        757895,
+        783158,
+        808421,
+        833684,
+        858947,
+        884211,
+        909474,
+        934737,
+        960000,
+        985263,
+        1010526,
+        1035789,
+        1061053,
+        1086316,
+        1111579,
+        1136842,
+        1162105,
+        1187368,
+        1212632,
+        1237895,
+        1263158,
+        1288421,
+        1313684,
+        1338947,
+        1364211,
+        1389474,
+        1414737,
+        1440000,
+        1465263,
+        1490526
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 296,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WasabiALT/WasabiALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WasabiALT/nx/WasabiALT_banner_bkg.tga.ckd/ca0da96986e2b304f569c037ed0820f7.ckd",
+      "map_bkgImageUrl": "/public/map/WasabiALT/nx/WasabiALT_map_bkg.tga.ckd/3be0aecd47ce3a39ddd2694049dc523c.ckd",
+      "expandCoachImageUrl": "/public/map/WasabiALT/nx/WasabiALT_Cover_AlbumCoach.tga.ckd/e051234ef88dc31bb05bd5bfcc8be528.ckd",
+      "cover_smallImageUrl": "/public/map/WasabiALT/nx/WasabiALT_Cover_Online.tga.ckd/05555f29945185725b5bb4d194de047b.ckd",
+      "coach1ImageUrl": "/public/map/WasabiALT/nx/WasabiALT_Coach_1.tga.ckd/fe63bbccc3f08e93c403099a0b8b54e6.ckd",
+      "coach2ImageUrl": "/public/map/WasabiALT/nx/WasabiALT_Coach_2.tga.ckd/efe675fd393635ae52d5a7d437a835c3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WasabiALT/pc/WasabiALT_banner_bkg.tga.ckd/5a0f0e87eb9453bbad419ff1f044b6a9.ckd",
+      "map_bkgImageUrl": "/public/map/WasabiALT/pc/WasabiALT_map_bkg.tga.ckd/df8efa4349bcf699c64d4cdef6994a1c.ckd",
+      "expandCoachImageUrl": "/public/map/WasabiALT/pc/WasabiALT_Cover_AlbumCoach.tga.ckd/4c831367f881bdde74b3b1b1e7de51f3.ckd",
+      "cover_smallImageUrl": "/public/map/WasabiALT/pc/WasabiALT_Cover_Online.tga.ckd/c9b621603ca9b87316b9b5858b2a2052.ckd",
+      "coach1ImageUrl": "/public/map/WasabiALT/pc/WasabiALT_Coach_1.tga.ckd/b11aaf7af886a3b5ede090fd03677c93.ckd",
+      "coach2ImageUrl": "/public/map/WasabiALT/pc/WasabiALT_Coach_2.tga.ckd/30b1d295839b2a870812c8f7e1e81ccd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WasabiALT/orbis/WasabiALT_banner_bkg.tga.ckd/5a0f0e87eb9453bbad419ff1f044b6a9.ckd",
+      "map_bkgImageUrl": "/public/map/WasabiALT/orbis/WasabiALT_map_bkg.tga.ckd/df8efa4349bcf699c64d4cdef6994a1c.ckd",
+      "expandCoachImageUrl": "/public/map/WasabiALT/orbis/WasabiALT_Cover_AlbumCoach.tga.ckd/4c831367f881bdde74b3b1b1e7de51f3.ckd",
+      "cover_smallImageUrl": "/public/map/WasabiALT/orbis/WasabiALT_Cover_Online.tga.ckd/c9b621603ca9b87316b9b5858b2a2052.ckd",
+      "coach1ImageUrl": "/public/map/WasabiALT/orbis/WasabiALT_Coach_1.tga.ckd/b11aaf7af886a3b5ede090fd03677c93.ckd",
+      "coach2ImageUrl": "/public/map/WasabiALT/orbis/WasabiALT_Coach_2.tga.ckd/30b1d295839b2a870812c8f7e1e81ccd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WasabiALT/WasabiALT_Coach_1_Phone.png/4462d2563ff9666f6dd7938033d81a69.png",
+    "phoneCoach2ImageUrl": "/public/map/WasabiALT/WasabiALT_Coach_2_Phone.png/aa397d35bb8b483d950afd62a702ea41.png",
+    "phoneCoverImageUrl": "/public/map/WasabiALT/WasabiALT_Cover_Phone.jpg/6ad20b467a003416d6df68444c155901.jpg",
+    "cover640ImageUrl": "/public/map/WasabiALT/WasabiALT_Cover_640.png/b88a7d038b84216504bad93725c131f2.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/WasabiALT/WasabiALT.ogg": "/private/map/WasabiALT/WasabiALT.ogg/aac19e587afff6a941329253807cc6d6.ogg",
+    "jmcs://jd-contents/WasabiALT/WasabiALT_AudioPreview.ogg": "/public/map/WasabiALT/WasabiALT_AudioPreview.ogg/a49f46fc0bcf668af122c9629886ab21.ogg",
+    "jmcs://jd-contents/WasabiALT/WasabiALT_HIGH.webm": "/private/map/WasabiALT/WasabiALT_HIGH.webm/2da4c986cbb8ada0cb26b2c3904e2cd2.webm",
+    "jmcs://jd-contents/WasabiALT/WasabiALT_LOW.webm": "/private/map/WasabiALT/WasabiALT_LOW.webm/816c358404eb63dfd669d8954c104914.webm",
+    "jmcs://jd-contents/WasabiALT/WasabiALT_MID.webm": "/private/map/WasabiALT/WasabiALT_MID.webm/96c3eb0ebef24e884c71eb8abffdf8c0.webm",
+    "jmcs://jd-contents/WasabiALT/WasabiALT_ULTRA.hd.webm": "/private/map/WasabiALT/WasabiALT_ULTRA.hd.webm/855c28a98cbb39f04ad4732a02a0efbb.webm",
+    "jmcs://jd-contents/WasabiALT/WasabiALT_ULTRA.webm": "/private/map/WasabiALT/WasabiALT_ULTRA.webm/06517e35cf2f152db3dc84593be75f85.webm",
+    "jmcs://jd-contents/WasabiALT/WasabiALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WasabiALT/WasabiALT_MapPreviewNoSoundCrop_LOW.vp8.webm/eeb3806bde46b02be0af301cbe81899c.webm",
+    "jmcs://jd-contents/WasabiALT/WasabiALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WasabiALT/WasabiALT_MapPreviewNoSoundCrop_MID.vp8.webm/ab14fea0af606fdff2c1ff922db4f2cf.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"551386\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WasabiALT/WasabiALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\n\t\t\t\t\t<Initialization range=\"0-631\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1525230\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WasabiALT/WasabiALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 157.90125
+}

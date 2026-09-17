@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "354d520847368b5781780c9d2ab81139",
+      "storageType": 0,
+      "url": "/public/map/Holiday/nx/Holiday_MAIN_SCENE_NX.zip/354d520847368b5781780c9d2ab81139.zip"
+    },
+    "pc": {
+      "md5": "9c7065872b926d3a68323b0a9698e068",
+      "storageType": 0,
+      "url": "/public/map/Holiday/pc/Holiday_MAIN_SCENE_PC.zip/9c7065872b926d3a68323b0a9698e068.zip"
+    },
+    "ps4": {
+      "md5": "d39b1dce53697664b58dad4009c68139",
+      "storageType": 0,
+      "url": "/public/map/Holiday/orbis/Holiday_MAIN_SCENE_ORBIS.zip/d39b1dce53697664b58dad4009c68139.zip"
+    }
+  },
+  "data": {
+    "mapName": "Holiday",
+    "title": "Holiday",
+    "originalJDVersion": 2,
+    "tags": [
+      "main"
+    ],
+    "artist": "Madonna",
+    "credits": "Written by Lisa Stevens and Curtis Hudson. Published by House Of Fun Music, Inc. (BMI). Courtesy of Turn Up The Music Licensing. By arrangement with The Orchard.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e74972",
+    "songColor2A": "#f1d224",
+    "songColor1B": "#790064",
+    "songColor2B": "#890000",
+    "lyricsColor": "#ff8105",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        48000,
+        72678,
+        97356,
+        122034,
+        146712,
+        171390,
+        196068,
+        220746,
+        245424,
+        270102,
+        294780,
+        319459,
+        344137,
+        368815,
+        393493,
+        418171,
+        442849,
+        467527,
+        492205,
+        516883,
+        541561,
+        566240,
+        590918,
+        615596,
+        640274,
+        664952,
+        689630,
+        714308,
+        738986,
+        763664,
+        788342,
+        813020,
+        837699,
+        862377,
+        887055,
+        911733,
+        936411,
+        961089,
+        985767,
+        1010445,
+        1035123,
+        1059801,
+        1084480,
+        1109158,
+        1133836,
+        1158514,
+        1183192,
+        1207870,
+        1232548,
+        1257226,
+        1281904,
+        1306582,
+        1331260,
+        1355939,
+        1380617,
+        1405295,
+        1429973,
+        1454651,
+        1479329
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 411,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Holiday/Holiday_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Holiday/nx/Holiday_banner_bkg.tga.ckd/e0db4655c47b601087c1ca96e304624c.ckd",
+      "map_bkgImageUrl": "/public/map/Holiday/nx/Holiday_map_bkg.tga.ckd/eb1a03b674c7cf5c2684f7dcea73b4de.ckd",
+      "expandCoachImageUrl": "/public/map/Holiday/nx/Holiday_Cover_AlbumCoach.tga.ckd/9a20c07df1686268d2c146a3945af103.ckd",
+      "cover_smallImageUrl": "/public/map/Holiday/nx/Holiday_Cover_Online.tga.ckd/147d9aba9a47280a2b231c5c175bfa6b.ckd",
+      "coach1ImageUrl": "/public/map/Holiday/nx/Holiday_Coach_1.tga.ckd/4463e0149d321cf25e0c600fd0ec6d63.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Holiday/pc/Holiday_banner_bkg.tga.ckd/11ada7338229b1628329dc7936c62f5b.ckd",
+      "map_bkgImageUrl": "/public/map/Holiday/pc/Holiday_map_bkg.tga.ckd/478ae93b9c5d8e1b4a7123e4a5d6c2c3.ckd",
+      "expandCoachImageUrl": "/public/map/Holiday/pc/Holiday_Cover_AlbumCoach.tga.ckd/d22616f618e9774f0abc4a04b16d1dcd.ckd",
+      "cover_smallImageUrl": "/public/map/Holiday/pc/Holiday_Cover_Online.tga.ckd/14ffc9fe39e238bd258c5335a44ca656.ckd",
+      "coach1ImageUrl": "/public/map/Holiday/pc/Holiday_Coach_1.tga.ckd/adca252ac25a396dcb448319db5925bf.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Holiday/orbis/Holiday_banner_bkg.tga.ckd/11ada7338229b1628329dc7936c62f5b.ckd",
+      "map_bkgImageUrl": "/public/map/Holiday/orbis/Holiday_map_bkg.tga.ckd/478ae93b9c5d8e1b4a7123e4a5d6c2c3.ckd",
+      "expandCoachImageUrl": "/public/map/Holiday/orbis/Holiday_Cover_AlbumCoach.tga.ckd/d22616f618e9774f0abc4a04b16d1dcd.ckd",
+      "cover_smallImageUrl": "/public/map/Holiday/orbis/Holiday_Cover_Online.tga.ckd/14ffc9fe39e238bd258c5335a44ca656.ckd",
+      "coach1ImageUrl": "/public/map/Holiday/orbis/Holiday_Coach_1.tga.ckd/adca252ac25a396dcb448319db5925bf.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Holiday/Holiday_Coach_1_Phone.png/c0e6bd7441914e31ab4ea817371bd1be.png",
+    "phoneCoverImageUrl": "/public/map/Holiday/Holiday_Cover_Phone.jpg/f2bd50b80dd2d8c41374033ee3d562f7.jpg",
+    "cover640ImageUrl": "/public/map/Holiday/Holiday_Cover_640.png/196357862c5e1e5f4759e07d61411a74.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Holiday/Holiday.ogg": "/private/map/Holiday/Holiday.ogg/52310f3f5797754905c0046a31e46583.ogg",
+    "jmcs://jd-contents/Holiday/Holiday_AudioPreview.ogg": "/public/map/Holiday/Holiday_AudioPreview.ogg/efd99e7a149b00c1e155a9cf2a2fb2c3.ogg",
+    "jmcs://jd-contents/Holiday/Holiday_HIGH.webm": "/private/map/Holiday/Holiday_HIGH.webm/9de2b474eca8e56814ca462c569818de.webm",
+    "jmcs://jd-contents/Holiday/Holiday_LOW.webm": "/private/map/Holiday/Holiday_LOW.webm/5908cc4676913ac700d4a93fcce07c39.webm",
+    "jmcs://jd-contents/Holiday/Holiday_MID.webm": "/private/map/Holiday/Holiday_MID.webm/037e88c7d1479412327a2cb9df15b297.webm",
+    "jmcs://jd-contents/Holiday/Holiday_ULTRA.hd.webm": "/private/map/Holiday/Holiday_ULTRA.hd.webm/29c7103c71610b4722ae2a07696d8c8a.webm",
+    "jmcs://jd-contents/Holiday/Holiday_ULTRA.webm": "/private/map/Holiday/Holiday_ULTRA.webm/c2c5e9fb53444e6b28f8758bb6df3144.webm",
+    "jmcs://jd-contents/Holiday/Holiday_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Holiday/Holiday_MapPreviewNoSoundCrop_LOW.vp8.webm/76a1083451a6da5269fe69dacae875cb.webm",
+    "jmcs://jd-contents/Holiday/Holiday_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Holiday/Holiday_MapPreviewNoSoundCrop_MID.vp8.webm/2bf99e0c8858a5c383e59b0b2c17e27d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495530\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Holiday/Holiday_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\n\t\t\t\t\t<Initialization range=\"0-630\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"965472\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Holiday/Holiday_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\n\t\t\t\t\t<Initialization range=\"0-631\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 212.331354
+}

@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Farfalle/Farfalle.ogg": "/private/map/Farfalle/Farfalle.ogg/6a805172869e250b61a5d4a988c8c560.ogg",
+    "jmcs://jd-contents/Farfalle/Farfalle_AudioPreview.ogg": "/public/map/Farfalle/Farfalle_AudioPreview.ogg/ac721d40ab01ad0987c61901d792de1c.ogg",
+    "jmcs://jd-contents/Farfalle/Farfalle_HIGH.hd.webm": "/private/map/Farfalle/Farfalle_HIGH.hd.webm/83d6a8207c80fc8328eb796682b13323.webm",
+    "jmcs://jd-contents/Farfalle/Farfalle_LOW.hd.webm": "/private/map/Farfalle/Farfalle_LOW.hd.webm/12b0b968620fd5def3beb4b89e0532b5.webm",
+    "jmcs://jd-contents/Farfalle/Farfalle_MID.hd.webm": "/private/map/Farfalle/Farfalle_MID.hd.webm/e1c98e05833bc6d101f58786da8ce2f0.webm",
+    "jmcs://jd-contents/Farfalle/Farfalle_ULTRA.hd.webm": "/private/map/Farfalle/Farfalle_ULTRA.hd.webm/f78d6ce2fcf39d35ada546c253d3b690.webm",
+    "jmcs://jd-contents/Farfalle/Farfalle_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Farfalle/Farfalle_MapPreviewNoSoundCrop_LOW.vp8.webm/ad9b4a4300aff37785b1dce9fc7400bd.webm",
+    "jmcs://jd-contents/Farfalle/Farfalle_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Farfalle/Farfalle_MapPreviewNoSoundCrop_MID.vp8.webm/4458c77bdd99cb8a9b6bcc16a0fb9b56.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -16,
+      "endBeat": 337,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Farfalle/Farfalle_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"517558\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Farfalle/Farfalle_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1993146\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Farfalle/Farfalle_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "3100b0bbb10a0273a4b9e1c6ce90860e",
+      "storageType": 0,
+      "url": "/public/map/Farfalle/nx/Farfalle_MAIN_SCENE_NX.zip/3100b0bbb10a0273a4b9e1c6ce90860e.zip"
+    },
+    "pc": {
+      "md5": "cd59dbbf51f98fe5f5d842b01285c364",
+      "storageType": 0,
+      "url": "/public/map/Farfalle/pc/Farfalle_MAIN_SCENE_PC.zip/cd59dbbf51f98fe5f5d842b01285c364.zip"
+    },
+    "ps4": {
+      "md5": "c67e7cdcfcf9d22ec3ef0356f54aac99",
+      "storageType": 0,
+      "url": "/public/map/Farfalle/orbis/Farfalle_MAIN_SCENE_ORBIS.zip/c67e7cdcfcf9d22ec3ef0356f54aac99.zip"
+    }
+  },
+  "data": {
+    "mapName": "Farfalle",
+    "title": "farfalle",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "sangiovanni",
+    "credits": "Written by Giovanni Pietro Damian, Alessandro La Cava, Stefano Tognini. Published by Universal Music, Careers on behalf of Universal Music Publishing Ricordi Srl., and Diana Srl. / Sugar Music.  Courtesy of Universal Music Italy under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#a77cf6",
+    "songColor2A": "#e985ff",
+    "songColor1B": "#300d72",
+    "songColor2B": "#9303a8",
+    "lyricsColor": "#cb1952",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Farfalle/nx/Farfalle_banner_bkg.tga.ckd/2b9be019234168f6e4142e14da34a7cb.ckd",
+      "map_bkgImageUrl": "/public/map/Farfalle/nx/Farfalle_map_bkg.tga.ckd/90824fcbec8bb9718b997feee13f1811.ckd",
+      "expandCoachImageUrl": "/public/map/Farfalle/nx/Farfalle_Cover_AlbumCoach.tga.ckd/98fbc557e363216079e98806a6f4acc4.ckd",
+      "cover_smallImageUrl": "/public/map/Farfalle/nx/Farfalle_Cover_Online.tga.ckd/819ce1b93036d9ecf39264fa6bc6a242.ckd",
+      "coverImageUrl": "/public/map/Farfalle/nx/Farfalle_Cover_Generic.tga.ckd/beeb1f4679ac4892e6a28f0bc8341dac.ckd",
+      "coach1ImageUrl": "/public/map/Farfalle/nx/Farfalle_Coach_1.tga.ckd/a6422da6600a026f5f1a9fd319bccbe6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Farfalle/pc/Farfalle_banner_bkg.tga.ckd/3c198f073a65110202a9885d6e4d3077.ckd",
+      "map_bkgImageUrl": "/public/map/Farfalle/pc/Farfalle_map_bkg.tga.ckd/648e59fc29191a7f7d6bc86f8eeb59e1.ckd",
+      "expandCoachImageUrl": "/public/map/Farfalle/pc/Farfalle_Cover_AlbumCoach.tga.ckd/a56868008b57047d8e56515012f83130.ckd",
+      "cover_smallImageUrl": "/public/map/Farfalle/pc/Farfalle_Cover_Online.tga.ckd/e21a0ce58ca6409332e2047fbc7f4670.ckd",
+      "coverImageUrl": "/public/map/Farfalle/pc/Farfalle_Cover_Generic.tga.ckd/6868fb9c67a49e6cd15b9e6bb893a6eb.ckd",
+      "coach1ImageUrl": "/public/map/Farfalle/pc/Farfalle_Coach_1.tga.ckd/594e1833f26e5044a0f41d71dcfc997a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Farfalle/orbis/Farfalle_banner_bkg.tga.ckd/3c198f073a65110202a9885d6e4d3077.ckd",
+      "map_bkgImageUrl": "/public/map/Farfalle/orbis/Farfalle_map_bkg.tga.ckd/648e59fc29191a7f7d6bc86f8eeb59e1.ckd",
+      "expandCoachImageUrl": "/public/map/Farfalle/orbis/Farfalle_Cover_AlbumCoach.tga.ckd/a56868008b57047d8e56515012f83130.ckd",
+      "cover_smallImageUrl": "/public/map/Farfalle/orbis/Farfalle_Cover_Online.tga.ckd/e21a0ce58ca6409332e2047fbc7f4670.ckd",
+      "coverImageUrl": "/public/map/Farfalle/orbis/Farfalle_Cover_Generic.tga.ckd/6868fb9c67a49e6cd15b9e6bb893a6eb.ckd",
+      "coach1ImageUrl": "/public/map/Farfalle/orbis/Farfalle_Coach_1.tga.ckd/594e1833f26e5044a0f41d71dcfc997a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Farfalle/Farfalle_Coach_1_Phone.png/ae92e0ed2e55286638eca10b6848e56f.png",
+    "phoneCoverImageUrl": "/public/map/Farfalle/Farfalle_Cover_Phone.jpg/30995699cbd80a0c28683688369f919b.jpg",
+    "cover640ImageUrl": "/public/map/Farfalle/Farfalle_Cover_640.png/90ddd35f2a21493968e855ffc2334286.png"
+  },
+  "mapLength": 176.5
+}

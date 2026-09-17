@@ -1,0 +1,181 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "18f1a9a2219549636a45ebf0d405ff14",
+      "storageType": 0,
+      "url": "/public/map/Sway/nx/Sway_MAIN_SCENE_NX.zip/18f1a9a2219549636a45ebf0d405ff14.zip"
+    },
+    "pc": {
+      "md5": "492ce615212ce5ca073019ecfc2c308d",
+      "storageType": 0,
+      "url": "/public/map/Sway/pc/Sway_MAIN_SCENE_PC.zip/492ce615212ce5ca073019ecfc2c308d.zip"
+    },
+    "ps4": {
+      "md5": "d489803dbd124517e94bda5e7a673d41",
+      "storageType": 0,
+      "url": "/public/map/Sway/orbis/Sway_MAIN_SCENE_ORBIS.zip/d489803dbd124517e94bda5e7a673d41.zip"
+    }
+  },
+  "data": {
+    "mapName": "Sway",
+    "title": "Sway (Quien Sera)",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Marine Band",
+    "credits": "Marine Band - ''Sway (Quien Sera)'' Written by Pablo Beltran Ruiz, Luis Demetrio Tranconis Molina and Norman Gimbel. Published by Peer International Corporation obo Editorial Mexicana de Musica Int. S.A.. Courtesy of Music Factory Entertainment Group Ltd.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#0044E1",
+    "songColor2A": "#E6BE56",
+    "songColor1B": "#060033",
+    "songColor2B": "#B1008D",
+    "lyricsColor": "#DC4100",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22857,
+        45714,
+        68571,
+        91428,
+        114285,
+        137142,
+        160000,
+        182857,
+        205714,
+        228571,
+        251428,
+        274285,
+        297142,
+        320000,
+        342857,
+        365714,
+        388571,
+        411428,
+        434285,
+        457142,
+        480000,
+        502857,
+        525714,
+        548571,
+        571428,
+        594285,
+        617142,
+        640000,
+        662857,
+        685714,
+        708571,
+        731428,
+        754285,
+        777142,
+        800000,
+        822857,
+        845714,
+        868571,
+        891428,
+        914285,
+        937142,
+        960000,
+        982857,
+        1005714,
+        1028571,
+        1051428,
+        1074285,
+        1097142,
+        1120000,
+        1142857,
+        1165714,
+        1188571,
+        1211428,
+        1234285,
+        1257142,
+        1280000,
+        1302857,
+        1325714,
+        1348571,
+        1371428,
+        1394285,
+        1417142
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 398,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/sway/sway_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Sway/nx/Sway_banner_bkg.tga.ckd/9e7550cad53fc3d81dd574f8e0acb51c.ckd",
+      "map_bkgImageUrl": "/public/map/Sway/nx/Sway_map_bkg.tga.ckd/333da3eb3216e61dd0b9f8cffa2ddcb0.ckd",
+      "expandCoachImageUrl": "/public/map/Sway/nx/Sway_Cover_AlbumCoach.tga.ckd/69aa371bfc482f2e082388943f7caef3.ckd",
+      "cover_smallImageUrl": "/public/map/Sway/nx/Sway_Cover_Online.tga.ckd/b34edfeba259b5232ea517310cd769ec.ckd",
+      "coverImageUrl": "/public/map/Sway/nx/Sway_Cover_Generic.tga.ckd/44f6aad6d65634725ba1966fb02e5ef0.ckd",
+      "coach1ImageUrl": "/public/map/Sway/nx/Sway_Coach_1.tga.ckd/4c05ea5b077699bcefb0517fbfdef680.ckd",
+      "coach2ImageUrl": "/public/map/Sway/nx/Sway_Coach_2.tga.ckd/36ff49d55f69e85e075b81c00e985131.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Sway/pc/Sway_banner_bkg.tga.ckd/dca5e4b612e680eacef1a4af2da2ff6e.ckd",
+      "map_bkgImageUrl": "/public/map/Sway/pc/Sway_map_bkg.tga.ckd/a7be306c6c36097dcf5051a2a7effdfa.ckd",
+      "expandCoachImageUrl": "/public/map/Sway/pc/Sway_Cover_AlbumCoach.tga.ckd/ffd18f9d2311dda6d7833e1eff45cf6a.ckd",
+      "cover_smallImageUrl": "/public/map/Sway/pc/Sway_Cover_Online.tga.ckd/dea4e1b6e9d90837915b194c7ca308e1.ckd",
+      "coverImageUrl": "/public/map/Sway/pc/Sway_Cover_Generic.tga.ckd/3128bb72696f246463d95cceab8a53d4.ckd",
+      "coach1ImageUrl": "/public/map/Sway/pc/Sway_Coach_1.tga.ckd/46e937e8d8518c30ecd7a1bbb94545e0.ckd",
+      "coach2ImageUrl": "/public/map/Sway/pc/Sway_Coach_2.tga.ckd/775bd8a41d2644d8ff2193ac2f81548d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Sway/orbis/Sway_banner_bkg.tga.ckd/dca5e4b612e680eacef1a4af2da2ff6e.ckd",
+      "map_bkgImageUrl": "/public/map/Sway/orbis/Sway_map_bkg.tga.ckd/a7be306c6c36097dcf5051a2a7effdfa.ckd",
+      "expandCoachImageUrl": "/public/map/Sway/orbis/Sway_Cover_AlbumCoach.tga.ckd/ffd18f9d2311dda6d7833e1eff45cf6a.ckd",
+      "cover_smallImageUrl": "/public/map/Sway/orbis/Sway_Cover_Online.tga.ckd/dea4e1b6e9d90837915b194c7ca308e1.ckd",
+      "coverImageUrl": "/public/map/Sway/orbis/Sway_Cover_Generic.tga.ckd/3128bb72696f246463d95cceab8a53d4.ckd",
+      "coach1ImageUrl": "/public/map/Sway/orbis/Sway_Coach_1.tga.ckd/46e937e8d8518c30ecd7a1bbb94545e0.ckd",
+      "coach2ImageUrl": "/public/map/Sway/orbis/Sway_Coach_2.tga.ckd/775bd8a41d2644d8ff2193ac2f81548d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Sway/Sway_Coach_1_Phone.png/c2bab98ff98e3f3d415724e2be485b3a.png",
+    "phoneCoach2ImageUrl": "/public/map/Sway/Sway_Coach_2_Phone.png/a1b77dd90074e85169bde607c6986fa6.png",
+    "phoneCoverImageUrl": "/public/map/Sway/Sway_Cover_Phone.jpg/851cc94ef3806e9fbd509b4dbc2120b6.jpg",
+    "cover640ImageUrl": "/public/map/Sway/Sway_Cover_640.png/4411fa2a55b041505e7cd3400f0f8bea.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Sway/Sway.ogg": "/private/map/Sway/Sway.ogg/dae5407f66d36804cfc0968012565cc5.ogg",
+    "jmcs://jd-contents/Sway/Sway_AudioPreview.ogg": "/public/map/Sway/Sway_AudioPreview.ogg/48f6c81532b62e458678e54882e04bd7.ogg",
+    "jmcs://jd-contents/Sway/Sway_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Sway/Sway_MapPreviewNoSoundCrop_LOW.vp8.webm/1522f13021b72807bf5ee558a8a202e7.webm",
+    "jmcs://jd-contents/Sway/Sway_HIGH.webm": "/private/map/Sway/Sway_HIGH.webm/cacf5dd758df556317f62778820afda0.webm",
+    "jmcs://jd-contents/Sway/Sway_LOW.webm": "/private/map/Sway/Sway_LOW.webm/6351a36b84f503ffb3104d1dac7d1f8b.webm",
+    "jmcs://jd-contents/Sway/Sway_MID.webm": "/private/map/Sway/Sway_MID.webm/03531fdb9b0f2d1f79977cbff773fa67.webm",
+    "jmcs://jd-contents/Sway/Sway_ULTRA.hd.webm": "/private/map/Sway/Sway_ULTRA.hd.webm/5001767f73cc6b5ec842959c4fc26e57.webm",
+    "jmcs://jd-contents/Sway/Sway_ULTRA.webm": "/private/map/Sway/Sway_ULTRA.webm/d5f98774b302de92ad9660f3199edac3.webm",
+    "jmcs://jd-contents/Sway/Sway_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Sway/Sway_MapPreviewNoSoundCrop_MID.vp8.webm/77fba23f05d873d1db697e26963142b8.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497488\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sway/Sway_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\n\t\t\t\t\t<Initialization range=\"0-624\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1481230\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sway/Sway_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\n\t\t\t\t\t<Initialization range=\"0-625\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 189.973417
+}

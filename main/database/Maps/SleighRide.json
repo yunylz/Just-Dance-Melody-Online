@@ -1,0 +1,160 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SleighRide/SleighRide.ogg": "/private/map/SleighRide/SleighRide.ogg/05ba074b951617edcae1ecd8a12f97bf.ogg",
+    "jmcs://jd-contents/SleighRide/SleighRide_AudioPreview.ogg": "/public/map/SleighRide/SleighRide_AudioPreview.ogg/ca1b56ebdad08a76659573b3f232ad92.ogg",
+    "jmcs://jd-contents/SleighRide/SleighRide_HIGH.hd.webm": "/private/map/SleighRide/SleighRide_HIGH.hd.webm/e111a27b852b5055c5b26eec329d1d7b.webm",
+    "jmcs://jd-contents/SleighRide/SleighRide_LOW.hd.webm": "/private/map/SleighRide/SleighRide_LOW.hd.webm/2e97f979bd0b925ba7d1b6e117a7a631.webm",
+    "jmcs://jd-contents/SleighRide/SleighRide_MID.hd.webm": "/private/map/SleighRide/SleighRide_MID.hd.webm/b50b94ffd0e45a851f70c8e9e31dfc66.webm",
+    "jmcs://jd-contents/SleighRide/SleighRide_ULTRA.hd.webm": "/private/map/SleighRide/SleighRide_ULTRA.hd.webm/f068f9c1e37256dd64d520c71d5f2876.webm",
+    "jmcs://jd-contents/SleighRide/SleighRide_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SleighRide/SleighRide_MapPreviewNoSoundCrop_LOW.vp8.webm/4a74f066271e5895feecc58d193707ed.webm",
+    "jmcs://jd-contents/SleighRide/SleighRide_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SleighRide/SleighRide_MapPreviewNoSoundCrop_MID.vp8.webm/45ac688615c519b1c0452b0bcfc47f3a.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31135,
+        62270,
+        93405,
+        124541,
+        155676,
+        186811,
+        217946,
+        249081,
+        280216,
+        311351,
+        342486,
+        373622,
+        404757,
+        435892,
+        467027,
+        498162,
+        529297,
+        560432,
+        591568,
+        622703,
+        653838,
+        684973,
+        716108,
+        747243,
+        778378,
+        809514,
+        840649,
+        871784,
+        902919,
+        934054,
+        965189,
+        996324,
+        1027459,
+        1058595,
+        1089730,
+        1120865,
+        1152000,
+        1183135,
+        1214270,
+        1245405,
+        1276541,
+        1307676,
+        1338811,
+        1369946,
+        1401081,
+        1432216,
+        1463351,
+        1494486
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 259,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SleighRide/SleighRide_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"537306\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SleighRide/SleighRide_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1974096\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SleighRide/SleighRide_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "e4bfa0d007476eb2f340baa8a948ffc7",
+      "storageType": 0,
+      "url": "/public/map/SleighRide/nx/SleighRide_MAIN_SCENE_NX.zip/e4bfa0d007476eb2f340baa8a948ffc7.zip"
+    },
+    "pc": {
+      "md5": "4ea6e5d9a3fead2405cc5b6002d592b4",
+      "storageType": 0,
+      "url": "/public/map/SleighRide/pc/SleighRide_MAIN_SCENE_PC.zip/4ea6e5d9a3fead2405cc5b6002d592b4.zip"
+    },
+    "ps4": {
+      "md5": "4e6b5e54251da93b90de090b0a9d64f3",
+      "storageType": 0,
+      "url": "/public/map/SleighRide/orbis/SleighRide_MAIN_SCENE_ORBIS.zip/4e6b5e54251da93b90de090b0a9d64f3.zip"
+    }
+  },
+  "data": {
+    "mapName": "SleighRide",
+    "title": "Sleigh Ride",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Mrs. Claus and the Elves",
+    "credits": "Written by Leroy Anderson, Mitchell Parish, Steve Ouimette. Published by BMG Gold Songs / EMI Mills Music Inc.  Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f43324",
+    "songColor2A": "#e7930e",
+    "songColor1B": "#590505",
+    "songColor2B": "#7c4013",
+    "lyricsColor": "#fcc743",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SleighRide/nx/SleighRide_banner_bkg.tga.ckd/deba49a4a87d8de93d946b9e36208102.ckd",
+      "map_bkgImageUrl": "/public/map/SleighRide/nx/SleighRide_map_bkg.tga.ckd/5d51af0bec1a6b75bdebbae754bbf17b.ckd",
+      "expandCoachImageUrl": "/public/map/SleighRide/nx/SleighRide_Cover_AlbumCoach.tga.ckd/3186fe6402425605330016197638c9d2.ckd",
+      "cover_smallImageUrl": "/public/map/SleighRide/nx/SleighRide_Cover_Online.tga.ckd/2eb3a84ee99595623f8d97a48ce75b29.ckd",
+      "coverImageUrl": "/public/map/SleighRide/nx/SleighRide_Cover_Generic.tga.ckd/b337a4c8566ccb4b3ba207b26cd1ccb4.ckd",
+      "coach1ImageUrl": "/public/map/SleighRide/nx/SleighRide_Coach_1.tga.ckd/62a89c9621f90b1e21535b05904d93be.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SleighRide/pc/SleighRide_banner_bkg.tga.ckd/4e189e23e7da30bc511accb264ad3e3e.ckd",
+      "map_bkgImageUrl": "/public/map/SleighRide/pc/SleighRide_map_bkg.tga.ckd/72281aa9fedda86c61c87b3c361e7fb1.ckd",
+      "expandCoachImageUrl": "/public/map/SleighRide/pc/SleighRide_Cover_AlbumCoach.tga.ckd/ae1bcbe6acd1d0633392bad39499edd7.ckd",
+      "cover_smallImageUrl": "/public/map/SleighRide/pc/SleighRide_Cover_Online.tga.ckd/34e80412e14c75cf3e6adddd320c960a.ckd",
+      "coverImageUrl": "/public/map/SleighRide/pc/SleighRide_Cover_Generic.tga.ckd/704b4478d102d34d53e38a8fb91d9dbc.ckd",
+      "coach1ImageUrl": "/public/map/SleighRide/pc/SleighRide_Coach_1.tga.ckd/9bd61ce329f94d8d4fb20a698d280d0b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SleighRide/orbis/SleighRide_banner_bkg.tga.ckd/4e189e23e7da30bc511accb264ad3e3e.ckd",
+      "map_bkgImageUrl": "/public/map/SleighRide/orbis/SleighRide_map_bkg.tga.ckd/72281aa9fedda86c61c87b3c361e7fb1.ckd",
+      "expandCoachImageUrl": "/public/map/SleighRide/orbis/SleighRide_Cover_AlbumCoach.tga.ckd/ae1bcbe6acd1d0633392bad39499edd7.ckd",
+      "cover_smallImageUrl": "/public/map/SleighRide/orbis/SleighRide_Cover_Online.tga.ckd/34e80412e14c75cf3e6adddd320c960a.ckd",
+      "coverImageUrl": "/public/map/SleighRide/orbis/SleighRide_Cover_Generic.tga.ckd/704b4478d102d34d53e38a8fb91d9dbc.ckd",
+      "coach1ImageUrl": "/public/map/SleighRide/orbis/SleighRide_Coach_1.tga.ckd/9bd61ce329f94d8d4fb20a698d280d0b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SleighRide/SleighRide_Coach_1_Phone.png/2d0afae4336883cce4de000594a22fe5.png",
+    "phoneCoverImageUrl": "/public/map/SleighRide/SleighRide_Cover_Phone.jpg/97ef3a7e28d8127acfbcc9939b356930.jpg",
+    "cover640ImageUrl": "/public/map/SleighRide/SleighRide_Cover_640.png/4120a47fdc4c317b230da35eeeb4db33.png"
+  },
+  "mapLength": 176.538646
+}

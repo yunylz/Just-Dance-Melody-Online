@@ -1,0 +1,168 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MJBloodOnRETAKE/MJBloodOnRETAKE_AudioPreview.ogg": "/public/map/MJBloodOnRETAKE/MJBloodOnRETAKE_AudioPreview.ogg/28e37f7259bcb7a22cae41727ce8885e.ogg",
+    "jmcs://jd-contents/MJBloodOnRETAKE/MJBloodOnRETAKE.ogg": "/private/map/MJBloodOnRETAKE/MJBloodOnRETAKE.ogg/c4a48009704b8e76e99922bd14727603.ogg",
+    "jmcs://jd-contents/MJBloodOnRETAKE/MJBloodOnRETAKE_HIGH.hd.webm": "/private/map/MJBloodOnRETAKE/MJBloodOnRETAKE_HIGH.hd.webm/697093e19a52d3ce53d39c6afd5c20e7.webm",
+    "jmcs://jd-contents/MJBloodOnRETAKE/MJBloodOnRETAKE_LOW.hd.webm": "/private/map/MJBloodOnRETAKE/MJBloodOnRETAKE_LOW.hd.webm/3fb55a762a19733dda669967321d59df.webm",
+    "jmcs://jd-contents/MJBloodOnRETAKE/MJBloodOnRETAKE_MID.hd.webm": "/private/map/MJBloodOnRETAKE/MJBloodOnRETAKE_MID.hd.webm/e7c57ca1e5f6fa5164f34b3dd8fd553c.webm",
+    "jmcs://jd-contents/MJBloodOnRETAKE/MJBloodOnRETAKE_ULTRA.hd.webm": "/private/map/MJBloodOnRETAKE/MJBloodOnRETAKE_ULTRA.hd.webm/d8acb2686089330891674a2ab9687865.webm",
+    "jmcs://jd-contents/MJBloodOnRETAKE/MJBloodOnRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJBloodOnRETAKE/MJBloodOnRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm/9369dec3e8686d2c09658af08c28c749.webm",
+    "jmcs://jd-contents/MJBloodOnRETAKE/MJBloodOnRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJBloodOnRETAKE/MJBloodOnRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm/09fc4804730580ddd495053c5d7fea43.webm"
+  },
+  "mapLength": 252.72423958333334,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26207,
+        52415,
+        78574,
+        104734,
+        130893,
+        157437,
+        183836,
+        210427,
+        236587,
+        263130,
+        289482,
+        316169,
+        342328,
+        368776,
+        395175,
+        421479,
+        447878,
+        474230,
+        500725,
+        527508,
+        553764,
+        580163,
+        606611,
+        633394,
+        659314,
+        686001,
+        712208,
+        739088,
+        765199,
+        791503,
+        818046,
+        844590,
+        870461,
+        896572,
+        923740,
+        949899,
+        976347,
+        1002698,
+        1029145,
+        1055737,
+        1082664,
+        1108344,
+        1134839,
+        1161383,
+        1187734,
+        1214085,
+        1240677,
+        1267220,
+        1293380,
+        1319779,
+        1346419,
+        1372866,
+        1399073,
+        1425569,
+        1452016,
+        1478464,
+        1504815
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 459,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "url": "jmcs://jd-contents/MJBloodOnRETAKE/MJBloodOnRETAKE_AudioPreview.ogg",
+    "path": ""
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"499359\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJBloodOnRETAKE/MJBloodOnRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"829-1319\">\n\t\t\t\t\t<Initialization range=\"0-829\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1915649\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJBloodOnRETAKE/MJBloodOnRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"830-1320\">\n\t\t\t\t\t<Initialization range=\"0-830\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "30110b69d8d3b76be615ba8423d02deb",
+      "storageType": 0,
+      "url": "/public/map/MJBloodOnRETAKE/nx/MJBloodOnRETAKE_MAIN_SCENE_NX.zip/30110b69d8d3b76be615ba8423d02deb.zip"
+    },
+    "pc": {
+      "md5": "9ab24945bf4ac957b12add9996a371ee",
+      "storageType": 0,
+      "url": "/public/map/MJBloodOnRETAKE/pc/MJBloodOnRETAKE_MAIN_SCENE_PC.zip/9ab24945bf4ac957b12add9996a371ee.zip"
+    },
+    "ps4": {
+      "md5": "4485a71887962596ec6545d3dada52fe",
+      "storageType": 0,
+      "url": "/public/map/MJBloodOnRETAKE/orbis/MJBloodOnRETAKE_MAIN_SCENE_ORBIS.zip/4485a71887962596ec6545d3dada52fe.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJBloodOnRETAKE",
+    "title": "Blood on the Dance Floor",
+    "originalJDVersion": 2009,
+    "tags": [
+      "mjte",
+      "subscribedSong"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "Planedec50 Pictos.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#6e0110",
+    "songColor2A": "#31003e",
+    "songColor1B": "#2a0006",
+    "songColor2B": "#18001f",
+    "lyricsColor": "#f30000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJBloodOnRETAKE/nx/MJBloodOnRETAKE_banner_bkg.tga.ckd/7a8115a874fb628e10797f380325356a.ckd",
+      "map_bkgImageUrl": "/public/map/MJBloodOnRETAKE/nx/MJBloodOnRETAKE_map_bkg.tga.ckd/1bc2d0eb05b2472e20b509c40e98b9ef.ckd",
+      "expandCoachImageUrl": "/public/map/MJBloodOnRETAKE/nx/MJBloodOnRETAKE_Cover_AlbumCoach.tga.ckd/eddea8d75f438a26e1d8a32769278ff7.ckd",
+      "cover_smallImageUrl": "/public/map/MJBloodOnRETAKE/nx/MJBloodOnRETAKE_Cover_Online.tga.ckd/eb1293617841f34b7a5cf9692a307b4e.ckd",
+      "coverImageUrl": "/public/map/MJBloodOnRETAKE/nx/MJBloodOnRETAKE_Cover_Generic.tga.ckd/b75f7a48d04eac708ba588b79d02417e.ckd",
+      "coach1ImageUrl": "/public/map/MJBloodOnRETAKE/nx/MJBloodOnRETAKE_Coach_1.tga.ckd/5b278cf1aa7e17adeada7502bcd740f0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJBloodOnRETAKE/pc/MJBloodOnRETAKE_banner_bkg.tga.ckd/fd74941d78082fa47261a1648dac0ace.ckd",
+      "map_bkgImageUrl": "/public/map/MJBloodOnRETAKE/pc/MJBloodOnRETAKE_map_bkg.tga.ckd/73136e5287f8ed82d623431b21be2ac3.ckd",
+      "expandCoachImageUrl": "/public/map/MJBloodOnRETAKE/pc/MJBloodOnRETAKE_Cover_AlbumCoach.tga.ckd/bce65394d0748bb9399d2aa3f790b488.ckd",
+      "cover_smallImageUrl": "/public/map/MJBloodOnRETAKE/pc/MJBloodOnRETAKE_Cover_Online.tga.ckd/56ae7fec45f16ce9d20aa9d6484089d3.ckd",
+      "coverImageUrl": "/public/map/MJBloodOnRETAKE/pc/MJBloodOnRETAKE_Cover_Generic.tga.ckd/2d8c6b7b265edd6198ada6cf6224cea2.ckd",
+      "coach1ImageUrl": "/public/map/MJBloodOnRETAKE/pc/MJBloodOnRETAKE_Coach_1.tga.ckd/4ed089da3ea91017e692e1eb730acbc5.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJBloodOnRETAKE/orbis/MJBloodOnRETAKE_banner_bkg.tga.ckd/fd74941d78082fa47261a1648dac0ace.ckd",
+      "map_bkgImageUrl": "/public/map/MJBloodOnRETAKE/orbis/MJBloodOnRETAKE_map_bkg.tga.ckd/73136e5287f8ed82d623431b21be2ac3.ckd",
+      "expandCoachImageUrl": "/public/map/MJBloodOnRETAKE/orbis/MJBloodOnRETAKE_Cover_AlbumCoach.tga.ckd/bce65394d0748bb9399d2aa3f790b488.ckd",
+      "cover_smallImageUrl": "/public/map/MJBloodOnRETAKE/orbis/MJBloodOnRETAKE_Cover_Online.tga.ckd/56ae7fec45f16ce9d20aa9d6484089d3.ckd",
+      "coverImageUrl": "/public/map/MJBloodOnRETAKE/orbis/MJBloodOnRETAKE_Cover_Generic.tga.ckd/2d8c6b7b265edd6198ada6cf6224cea2.ckd",
+      "coach1ImageUrl": "/public/map/MJBloodOnRETAKE/orbis/MJBloodOnRETAKE_Coach_1.tga.ckd/4ed089da3ea91017e692e1eb730acbc5.ckd"
+    },
+    "cover640ImageUrl": "/public/map/MJBloodOnRETAKE/MJBloodOnRETAKE_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  }
+}

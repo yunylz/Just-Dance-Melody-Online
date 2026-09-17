@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WeCanFlyRetake/WeCanFlyRetake.ogg": "/private/map/WeCanFlyRetake/WeCanFlyRetake.ogg/6c2fb71547cf4c22f56eb4fc97cc45ff.ogg",
+    "jmcs://jd-contents/WeCanFlyRetake/WeCanFlyRetake_AudioPreview.ogg": "/public/map/WeCanFlyRetake/WeCanFlyRetake_AudioPreview.ogg/447a37e7d76186b70a18dc437a3cfb88.ogg",
+    "jmcs://jd-contents/WeCanFlyRetake/WeCanFlyRetake_HIGH.hd.webm": "/private/map/WeCanFlyRetake/WeCanFlyRetake_HIGH.hd.webm/ad8ac4bcb965670e5d605bd348ed5e95.webm",
+    "jmcs://jd-contents/WeCanFlyRetake/WeCanFlyRetake_LOW.hd.webm": "/private/map/WeCanFlyRetake/WeCanFlyRetake_LOW.hd.webm/b4107f7c8e60ac83d28bbb473b1d5702.webm",
+    "jmcs://jd-contents/WeCanFlyRetake/WeCanFlyRetake_MID.hd.webm": "/private/map/WeCanFlyRetake/WeCanFlyRetake_MID.hd.webm/972a2b5e61cebd15ec7cd73bca8301e4.webm",
+    "jmcs://jd-contents/WeCanFlyRetake/WeCanFlyRetake_ULTRA.hd.webm": "/private/map/WeCanFlyRetake/WeCanFlyRetake_ULTRA.hd.webm/de545e1f22b34c8f3d8ff8b74ecc7a49.webm",
+    "jmcs://jd-contents/WeCanFlyRetake/WeCanFlyRetake_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WeCanFlyRetake/WeCanFlyRetake_MapPreviewNoSoundCrop_LOW.vp8.webm/28ccae5915d959c01a6b9be72f904985.webm",
+    "jmcs://jd-contents/WeCanFlyRetake/WeCanFlyRetake_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WeCanFlyRetake/WeCanFlyRetake_MapPreviewNoSoundCrop_MID.vp8.webm/b9245e8ed089ec8cb957dffaf223bfae.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        12240,
+        34704,
+        57216,
+        79728,
+        102240,
+        124704,
+        147216,
+        169728,
+        192192,
+        214704,
+        237216,
+        259728,
+        282192,
+        304704,
+        327216,
+        349728,
+        372192,
+        394704,
+        417216,
+        439680,
+        462192,
+        484704,
+        507216,
+        529680,
+        552192,
+        574704,
+        597216,
+        619680,
+        642192,
+        664704,
+        687216,
+        709680,
+        732192,
+        754704,
+        777168,
+        799680,
+        822192,
+        844704,
+        867168,
+        889680,
+        912192,
+        934704,
+        957168,
+        979680,
+        1002192,
+        1024656,
+        1047168,
+        1069680,
+        1092192,
+        1114656,
+        1137168,
+        1159680,
+        1182192,
+        1204656,
+        1227168,
+        1249680,
+        1272144,
+        1294656,
+        1317168,
+        1339680,
+        1362144,
+        1384656,
+        1407168,
+        1429680,
+        1452144,
+        1474656
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 506,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WeCanFlyRetake/WeCanFlyRetake_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"692940\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WeCanFlyRetake/WeCanFlyRetake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"706-1196\">\n\t\t\t\t\t<Initialization range=\"0-706\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1971478\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WeCanFlyRetake/WeCanFlyRetake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"706-1196\">\n\t\t\t\t\t<Initialization range=\"0-706\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WeCanFlyRetake/nx/WeCanFlyRetake_banner_bkg.tga.ckd/00d4f58186aee6795583af8b2e571ef5.ckd",
+      "map_bkgImageUrl": "/public/map/WeCanFlyRetake/nx/WeCanFlyRetake_map_bkg.tga.ckd/d6a4be6f52883d8dbb74cc86e8fd0228.ckd",
+      "expandCoachImageUrl": "/public/map/WeCanFlyRetake/nx/WeCanFlyRetake_Cover_AlbumCoach.tga.ckd/965ec57aeef62b4632d96a35f9b81737.ckd",
+      "cover_smallImageUrl": "/public/map/WeCanFlyRetake/nx/WeCanFlyRetake_Cover_Online.tga.ckd/bbcf8e326bf547351285676be8e99340.ckd",
+      "coverImageUrl": "/public/map/WeCanFlyRetake/nx/WeCanFlyRetake_Cover_Generic.tga.ckd/bbcf8e326bf547351285676be8e99340.ckd",
+      "coach1ImageUrl": "/public/map/WeCanFlyRetake/nx/WeCanFlyRetake_Coach_1.tga.ckd/07c3d0acab06f6d28c19c72f3bf18d55.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WeCanFlyRetake/pc/WeCanFlyRetake_banner_bkg.tga.ckd/cadf5e6a9e5e497752ae901d02377f9b.ckd",
+      "map_bkgImageUrl": "/public/map/WeCanFlyRetake/pc/WeCanFlyRetake_map_bkg.tga.ckd/c6708ea1cf5e450dee7e210451e3f036.ckd",
+      "expandCoachImageUrl": "/public/map/WeCanFlyRetake/pc/WeCanFlyRetake_Cover_AlbumCoach.tga.ckd/4edaeb6a54a9cc7dd1155806142912ef.ckd",
+      "cover_smallImageUrl": "/public/map/WeCanFlyRetake/pc/WeCanFlyRetake_Cover_Online.tga.ckd/cea215e51ebfa646ea465ae898ac21c9.ckd",
+      "coverImageUrl": "/public/map/WeCanFlyRetake/pc/WeCanFlyRetake_Cover_Generic.tga.ckd/cea215e51ebfa646ea465ae898ac21c9.ckd",
+      "coach1ImageUrl": "/public/map/WeCanFlyRetake/pc/WeCanFlyRetake_Coach_1.tga.ckd/0f2edd69b00844d047b7ec2d7cb73dd1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WeCanFlyRetake/orbis/WeCanFlyRetake_banner_bkg.tga.ckd/cadf5e6a9e5e497752ae901d02377f9b.ckd",
+      "map_bkgImageUrl": "/public/map/WeCanFlyRetake/orbis/WeCanFlyRetake_map_bkg.tga.ckd/c6708ea1cf5e450dee7e210451e3f036.ckd",
+      "expandCoachImageUrl": "/public/map/WeCanFlyRetake/orbis/WeCanFlyRetake_Cover_AlbumCoach.tga.ckd/4edaeb6a54a9cc7dd1155806142912ef.ckd",
+      "cover_smallImageUrl": "/public/map/WeCanFlyRetake/orbis/WeCanFlyRetake_Cover_Online.tga.ckd/cea215e51ebfa646ea465ae898ac21c9.ckd",
+      "coverImageUrl": "/public/map/WeCanFlyRetake/orbis/WeCanFlyRetake_Cover_Generic.tga.ckd/cea215e51ebfa646ea465ae898ac21c9.ckd",
+      "coach1ImageUrl": "/public/map/WeCanFlyRetake/orbis/WeCanFlyRetake_Coach_1.tga.ckd/0f2edd69b00844d047b7ec2d7cb73dd1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WeCanFlyRetake/WeCanFlyRetake_Coach_1_Phone.png/53c69b9adb05cb8f428599e805a45f83.png",
+    "phoneCoverImageUrl": "/public/map/WeCanFlyRetake/WeCanFlyRetake_Cover_Phone.jpg/35f731f8287ee790c01402643e6729b4.jpg",
+    "cover640ImageUrl": "/public/map/WeCanFlyRetake/WeCanFlyRetake_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "1acd8d74439636ccdfb53aa2f3a4b4c1",
+      "storageType": 0,
+      "url": "/public/map/WeCanFlyRetake/nx/WeCanFlyRetake_MAIN_SCENE_NX.zip/1acd8d74439636ccdfb53aa2f3a4b4c1.zip"
+    },
+    "pc": {
+      "md5": "1e06e4bf89914526db95cb33f35893cb",
+      "storageType": 0,
+      "url": "/public/map/WeCanFlyRetake/pc/WeCanFlyRetake_MAIN_SCENE_PC.zip/1e06e4bf89914526db95cb33f35893cb.zip"
+    },
+    "ps4": {
+      "md5": "f700cf8dfc01b241aff2d2bf4eb8f80d",
+      "storageType": 0,
+      "url": "/public/map/WeCanFlyRetake/orbis/WeCanFlyRetake_MAIN_SCENE_ORBIS.zip/f700cf8dfc01b241aff2d2bf4eb8f80d.zip"
+    }
+  },
+  "data": {
+    "mapName": "WeCanFlyRetake",
+    "title": "We Can Fly",
+    "originalJDVersion": 1001,
+    "tags": [
+      "subscribedSong"
+    ],
+    "artist": "Happiness",
+    "credits": "Uwu",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#ff74de",
+    "songColor2A": "#fc5617",
+    "songColor1B": "#3d2036",
+    "songColor2B": "#311810",
+    "lyricsColor": "#14ffe3",
+    "LocaleID": 4294967295
+  },
+  "mapLength": 241.877813
+}

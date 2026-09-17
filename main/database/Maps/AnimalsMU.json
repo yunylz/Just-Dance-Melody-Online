@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/AnimalsMU/AnimalsMU_HIGH.hd.webm": "/private/map/AnimalsMU/AnimalsMU_HIGH.hd.webm/0faa873cb57cdca2bbb74230b43cc0ee.webm",
+    "jmcs://jd-contents/AnimalsMU/AnimalsMU_LOW.hd.webm": "/private/map/AnimalsMU/AnimalsMU_LOW.hd.webm/d8eeb652741be628268d67916504b6cc.webm",
+    "jmcs://jd-contents/AnimalsMU/AnimalsMU_MID.hd.webm": "/private/map/AnimalsMU/AnimalsMU_MID.hd.webm/8cd89bb8e77a07f9ad6f58fe31d164ba.webm",
+    "jmcs://jd-contents/AnimalsMU/AnimalsMU_ULTRA.hd.webm": "/private/map/AnimalsMU/AnimalsMU_ULTRA.hd.webm/f4dc6b1b559ecc75c287bdbd0f5b2d5f.webm",
+    "jmcs://jd-contents/AnimalsMU/AnimalsMU.ogg": "/private/map/AnimalsMU/AnimalsMU.ogg/6027a9f23248a8112e7885d314c91491.ogg",
+    "jmcs://jd-contents/AnimalsMU/AnimalsMU_AudioPreview.ogg": "/public/map/AnimalsMU/AnimalsMU_AudioPreview.ogg/a6cc398acb63754ff1dd43d1a6fe5592.ogg",
+    "jmcs://jd-contents/AnimalsMU/AnimalsMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AnimalsMU/AnimalsMU_MapPreviewNoSoundCrop_LOW.vp8.webm/408a3901f9d7682af58b6e9e620030ea.webm",
+    "jmcs://jd-contents/AnimalsMU/AnimalsMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AnimalsMU/AnimalsMU_MapPreviewNoSoundCrop_MID.vp8.webm/77e16f735bb26db6bb28988d66799fdf.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22512,
+        45024,
+        67488,
+        90000,
+        112512,
+        135023,
+        157488,
+        180000,
+        202511,
+        225024,
+        247487,
+        270000,
+        292512,
+        315024,
+        337488,
+        360000,
+        382512,
+        405023,
+        427487,
+        450000,
+        472511,
+        495023,
+        517487,
+        540000,
+        562512,
+        585024,
+        607488,
+        630000,
+        652512,
+        675024,
+        697488,
+        720000,
+        742512,
+        765024,
+        787488,
+        810000,
+        832511,
+        855024,
+        877487,
+        900000,
+        922511,
+        945023,
+        967487,
+        990000,
+        1012511,
+        1035023,
+        1057488,
+        1080000,
+        1102512,
+        1125024,
+        1147488,
+        1170000,
+        1192511,
+        1215024,
+        1237488,
+        1260000,
+        1282512,
+        1305024,
+        1327487,
+        1350000,
+        1372511,
+        1395023,
+        1417488,
+        1440000,
+        1462512,
+        1485024
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 378,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AnimalsMU/AnimalsMU_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"611536\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AnimalsMU/AnimalsMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2011897\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AnimalsMU/AnimalsMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "3f14afd0721731aa52fd6635bc434df4",
+      "storageType": 0,
+      "url": "/public/map/AnimalsMU/nx/AnimalsMU_MAIN_SCENE_NX.zip/3f14afd0721731aa52fd6635bc434df4.zip"
+    },
+    "pc": {
+      "md5": "6649640c14adac8c72baf55cb882c752",
+      "storageType": 0,
+      "url": "/public/map/AnimalsMU/pc/AnimalsMU_MAIN_SCENE_PC.zip/6649640c14adac8c72baf55cb882c752.zip"
+    },
+    "ps4": {
+      "md5": "36e4b2ab9425fcc155b8ae8b7efe5bea",
+      "storageType": 0,
+      "url": "/public/map/AnimalsMU/orbis/AnimalsMU_MAIN_SCENE_ORBIS.zip/36e4b2ab9425fcc155b8ae8b7efe5bea.zip"
+    }
+  },
+  "data": {
+    "mapName": "AnimalsMU",
+    "title": "Animals",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "Martin Garrix",
+    "credits": "Written by Martijn Garritsen. Published by Universal Music Publishing, a division of Universal Music Canada Inc. Courtesy of Universal Music Entertainment, under license from Universal Music Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#a42aff",
+    "songColor2A": "#016abd",
+    "songColor1B": "#0e0113",
+    "songColor2B": "#040c1b",
+    "lyricsColor": "#0cfbba",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AnimalsMU/nx/AnimalsMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/AnimalsMU/nx/AnimalsMU_map_bkg.tga.ckd/62caa21a1fb208e135ea5fd83d3705ba.ckd",
+      "expandCoachImageUrl": "/public/map/AnimalsMU/nx/AnimalsMU_Cover_AlbumCoach.tga.ckd/729c09f53d315394b9deff715dca6749.ckd",
+      "cover_smallImageUrl": "/public/map/AnimalsMU/nx/AnimalsMU_Cover_Online.tga.ckd/e172744b054f6fbc08082545ce008493.ckd",
+      "coverImageUrl": "/public/map/AnimalsMU/nx/AnimalsMU_Cover_Generic.tga.ckd/ce5cc92828cb620983c6e1ef8ba2c6f4.ckd",
+      "coach1ImageUrl": "/public/map/AnimalsMU/nx/AnimalsMU_Coach_1.tga.ckd/f85e07336bec1d6c93485ee8f7cbe7e8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AnimalsMU/pc/AnimalsMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/AnimalsMU/pc/AnimalsMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/AnimalsMU/pc/AnimalsMU_Cover_AlbumCoach.tga.ckd/3fc1803dd1264bdbdb38ba7f1e8c2dc2.ckd",
+      "cover_smallImageUrl": "/public/map/AnimalsMU/pc/AnimalsMU_Cover_Online.tga.ckd/b9fadbc91de84e0b52cc0d95750489ac.ckd",
+      "coverImageUrl": "/public/map/AnimalsMU/pc/AnimalsMU_Cover_Generic.tga.ckd/43af4a23c905cc19ead5e7a14dea471d.ckd",
+      "coach1ImageUrl": "/public/map/AnimalsMU/pc/AnimalsMU_Coach_1.tga.ckd/c0f280010de6bd3e5ca53af12fa95c73.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AnimalsMU/orbis/AnimalsMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/AnimalsMU/orbis/AnimalsMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/AnimalsMU/orbis/AnimalsMU_Cover_AlbumCoach.tga.ckd/3fc1803dd1264bdbdb38ba7f1e8c2dc2.ckd",
+      "cover_smallImageUrl": "/public/map/AnimalsMU/orbis/AnimalsMU_Cover_Online.tga.ckd/b9fadbc91de84e0b52cc0d95750489ac.ckd",
+      "coverImageUrl": "/public/map/AnimalsMU/orbis/AnimalsMU_Cover_Generic.tga.ckd/43af4a23c905cc19ead5e7a14dea471d.ckd",
+      "coach1ImageUrl": "/public/map/AnimalsMU/orbis/AnimalsMU_Coach_1.tga.ckd/c0f280010de6bd3e5ca53af12fa95c73.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AnimalsMU/AnimalsMU_Coach_1_Phone.png/ccc12badceb6967775282f1044c4fc81.png",
+    "phoneCoverImageUrl": "/public/map/AnimalsMU/AnimalsMU_Cover_Phone.jpg/1e9353ba7e165c1c8f059d8611c0d6e9.jpg",
+    "cover640ImageUrl": "/public/map/AnimalsMU/AnimalsMU_Cover_640.png/b63969c0bc7cb99b01fc25897e08954e.png"
+  },
+  "mapLength": 177.188
+}

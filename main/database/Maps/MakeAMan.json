@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MakeAMan/MakeAMan.ogg": "/private/map/MakeAMan/MakeAMan.ogg/2a36b7001b076275eb38173721e6cdcc.ogg",
+    "jmcs://jd-contents/MakeAMan/MakeAMan_AudioPreview.ogg": "/public/map/MakeAMan/MakeAMan_AudioPreview.ogg/20398f84c88460aea7137b5f7c66e4e8.ogg",
+    "jmcs://jd-contents/MakeAMan/MakeAMan_HIGH.hd.webm": "/private/map/MakeAMan/MakeAMan_HIGH.hd.webm/1cf51328a3b4e1f47edede9af955b7d3.webm",
+    "jmcs://jd-contents/MakeAMan/MakeAMan_LOW.hd.webm": "/private/map/MakeAMan/MakeAMan_LOW.hd.webm/5c9c60002e4601e3f893a3f5b9123296.webm",
+    "jmcs://jd-contents/MakeAMan/MakeAMan_MID.hd.webm": "/private/map/MakeAMan/MakeAMan_MID.hd.webm/5a2ddf89ff876882c3ce553d605225ce.webm",
+    "jmcs://jd-contents/MakeAMan/MakeAMan_ULTRA.hd.webm": "/private/map/MakeAMan/MakeAMan_ULTRA.hd.webm/2123953274512485af71e7de44d1d555.webm",
+    "jmcs://jd-contents/MakeAMan/MakeAMan_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MakeAMan/MakeAMan_MapPreviewNoSoundCrop_LOW.vp8.webm/bba8580287d57dfa5960b203800bd8c3.webm",
+    "jmcs://jd-contents/MakeAMan/MakeAMan_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MakeAMan/MakeAMan_MapPreviewNoSoundCrop_MID.vp8.webm/27d8c26df877c60e4862819800cdb95f.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25285,
+        50571,
+        75856,
+        101141,
+        126427,
+        151712,
+        176997,
+        202283,
+        227568,
+        252853,
+        278139,
+        303424,
+        328709,
+        353995,
+        379280,
+        404565,
+        429851,
+        455136,
+        480421,
+        505707,
+        530992,
+        556277,
+        581563,
+        606848,
+        632133,
+        657419,
+        682704,
+        707989,
+        733275,
+        758560,
+        783845,
+        809131,
+        834416,
+        859701,
+        884987,
+        910272,
+        935558,
+        960843,
+        986128,
+        1011414,
+        1036699,
+        1061984,
+        1087270,
+        1112555,
+        1137840,
+        1163126,
+        1188411,
+        1213696,
+        1238982,
+        1264267,
+        1289552,
+        1314838,
+        1340123,
+        1365408,
+        1390694,
+        1415979,
+        1441264,
+        1466550,
+        1491835
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 379,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MakeAMan/MakeAMan_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"513348\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MakeAMan/MakeAMan_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1985482\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MakeAMan/MakeAMan_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "05904d2ce86648d41443306a06a431b1",
+      "storageType": 0,
+      "url": "/public/map/MakeAMan/nx/MakeAMan_MAIN_SCENE_NX.zip/05904d2ce86648d41443306a06a431b1.zip"
+    },
+    "pc": {
+      "md5": "bda2dcfc81d533e30729c6866cfbd0fa",
+      "storageType": 0,
+      "url": "/public/map/MakeAMan/pc/MakeAMan_MAIN_SCENE_PC.zip/bda2dcfc81d533e30729c6866cfbd0fa.zip"
+    },
+    "ps4": {
+      "md5": "14d9e472076dd23ed1f322de76abed9f",
+      "storageType": 0,
+      "url": "/public/map/MakeAMan/orbis/MakeAMan_MAIN_SCENE_ORBIS.zip/14d9e472076dd23ed1f322de76abed9f.zip"
+    }
+  },
+  "data": {
+    "mapName": "MakeAMan",
+    "title": "I'll Make a Man Out of You",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Disney's Mulan",
+    "credits": "Performed by Donny Osmond. Written by Matthew Wilder, David Zippel. Published by Walt Disney Music Company (ASCAP). All Rights Reserved. Courtesy of Walt Disney Records.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#37bf7d",
+    "songColor2A": "#f9c86c",
+    "songColor1B": "#10442b",
+    "songColor2B": "#99680a",
+    "lyricsColor": "#ae0001",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MakeAMan/nx/MakeAMan_banner_bkg.tga.ckd/0bb9eb54bab8f950064dfe2300fe5f3d.ckd",
+      "map_bkgImageUrl": "/public/map/MakeAMan/nx/MakeAMan_map_bkg.tga.ckd/a900ec6030f2deea0c3f82709173506f.ckd",
+      "expandCoachImageUrl": "/public/map/MakeAMan/nx/MakeAMan_Cover_AlbumCoach.tga.ckd/d9407c7b541e1bf17419f031db33adf7.ckd",
+      "cover_smallImageUrl": "/public/map/MakeAMan/nx/MakeAMan_Cover_Online.tga.ckd/1d9910f6f42e123dc8ed94f4d9f8a1a6.ckd",
+      "coverImageUrl": "/public/map/MakeAMan/nx/MakeAMan_Cover_Generic.tga.ckd/61ee1c85edd09137a6e5ce33d4b9fad4.ckd",
+      "coach1ImageUrl": "/public/map/MakeAMan/nx/MakeAMan_Coach_1.tga.ckd/de3c256ae5b288bf8a45e24c9f6dc3c9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MakeAMan/pc/MakeAMan_banner_bkg.tga.ckd/0da7b9320ced8879018566baaaf5e8d8.ckd",
+      "map_bkgImageUrl": "/public/map/MakeAMan/pc/MakeAMan_map_bkg.tga.ckd/6886bdb8c83b6e3d2fa53ba9cec8497c.ckd",
+      "expandCoachImageUrl": "/public/map/MakeAMan/pc/MakeAMan_Cover_AlbumCoach.tga.ckd/c827e674359ba12c3cbbc742dea15c47.ckd",
+      "cover_smallImageUrl": "/public/map/MakeAMan/pc/MakeAMan_Cover_Online.tga.ckd/e12247aa3bef3d813fd601a7aa7aa6a9.ckd",
+      "coverImageUrl": "/public/map/MakeAMan/pc/MakeAMan_Cover_Generic.tga.ckd/6c7bdf5cc34bdcbd1b9f8bb80028727e.ckd",
+      "coach1ImageUrl": "/public/map/MakeAMan/pc/MakeAMan_Coach_1.tga.ckd/60d7377e1d64adcf2444469134dc38f8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MakeAMan/orbis/MakeAMan_banner_bkg.tga.ckd/0da7b9320ced8879018566baaaf5e8d8.ckd",
+      "map_bkgImageUrl": "/public/map/MakeAMan/orbis/MakeAMan_map_bkg.tga.ckd/6886bdb8c83b6e3d2fa53ba9cec8497c.ckd",
+      "expandCoachImageUrl": "/public/map/MakeAMan/orbis/MakeAMan_Cover_AlbumCoach.tga.ckd/c827e674359ba12c3cbbc742dea15c47.ckd",
+      "cover_smallImageUrl": "/public/map/MakeAMan/orbis/MakeAMan_Cover_Online.tga.ckd/e12247aa3bef3d813fd601a7aa7aa6a9.ckd",
+      "coverImageUrl": "/public/map/MakeAMan/orbis/MakeAMan_Cover_Generic.tga.ckd/6c7bdf5cc34bdcbd1b9f8bb80028727e.ckd",
+      "coach1ImageUrl": "/public/map/MakeAMan/orbis/MakeAMan_Coach_1.tga.ckd/60d7377e1d64adcf2444469134dc38f8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MakeAMan/MakeAMan_Coach_1_Phone.png/d7ae44e8d3980369ed33baf568c93827.png",
+    "phoneCoverImageUrl": "/public/map/MakeAMan/MakeAMan_Cover_Phone.jpg/d7fa44c95977b56e86195410596c1ae6.jpg",
+    "cover640ImageUrl": "/public/map/MakeAMan/MakeAMan_Cover_640.png/cee4ec16b5d2400c9500b4294107404c.png"
+  },
+  "mapLength": 204.147063
+}

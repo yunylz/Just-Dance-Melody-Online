@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "0f844fc4e7f1b72acad342513e5748a7",
+      "storageType": 0,
+      "url": "/public/map/KissKissMU/nx/KissKissMU_MAIN_SCENE_NX.zip/0f844fc4e7f1b72acad342513e5748a7.zip"
+    },
+    "pc": {
+      "md5": "7ce129af9e19fe8e5f26859c0a08ce90",
+      "storageType": 0,
+      "url": "/public/map/KissKissMU/pc/KissKissMU_MAIN_SCENE_PC.zip/7ce129af9e19fe8e5f26859c0a08ce90.zip"
+    },
+    "ps4": {
+      "md5": "4d04cc02d4ca49057a5508cf86e5768d",
+      "storageType": 0,
+      "url": "/public/map/KissKissMU/orbis/KissKissMU_MAIN_SCENE_ORBIS.zip/4d04cc02d4ca49057a5508cf86e5768d.zip"
+    }
+  },
+  "data": {
+    "mapName": "KissKissMU",
+    "title": "Kiss Kiss",
+    "originalJDVersion": 2015,
+    "tags": [
+      "MASHUP",
+      "subscribedSong",
+      "JustDance2015",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Prince Royce",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#148ce9",
+    "songColor2A": "#7c2df3",
+    "songColor1B": "#01065a",
+    "songColor2B": "#1d094e",
+    "lyricsColor": "#ff4550",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25488,
+        50976,
+        76464,
+        101952,
+        127440,
+        152928,
+        178416,
+        203904,
+        229392,
+        254880,
+        280368,
+        305856,
+        331344,
+        356832,
+        382320,
+        407809,
+        433297,
+        458785,
+        484225,
+        509713,
+        535201,
+        560689,
+        586177,
+        611665,
+        637153,
+        662641,
+        688129,
+        713617,
+        739105,
+        764593,
+        790081,
+        815570,
+        841058,
+        866546,
+        892034,
+        917522,
+        943010,
+        968498,
+        993986,
+        1019474,
+        1044962,
+        1070450,
+        1095938,
+        1121426,
+        1146914,
+        1172402,
+        1197891,
+        1223379,
+        1248867,
+        1274355,
+        1299843,
+        1325331,
+        1350819,
+        1376307,
+        1401795,
+        1427283,
+        1452723,
+        1478211
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 358,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/KissKissMU/KissKissMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/KissKissMU/nx/KissKissMU_banner_bkg.tga.ckd/3fe33e389313ed04b89a8a112138449c.ckd",
+      "map_bkgImageUrl": "/public/map/KissKissMU/nx/KissKissMU_map_bkg.tga.ckd/d137443a28fafcc3e240832e6904cdee.ckd",
+      "expandCoachImageUrl": "/public/map/KissKissMU/nx/KissKissMU_Cover_AlbumCoach.tga.ckd/3b68d394dadbc83b1d773297b0c5d064.ckd",
+      "cover_smallImageUrl": "/public/map/KissKissMU/nx/KissKissMU_Cover_Online.tga.ckd/0484805760d2438e19d55a1ab51d48e9.ckd",
+      "coverImageUrl": "/public/map/KissKissMU/nx/KissKissMU_Cover_Generic.tga.ckd/e416dce1f5268f7f9270257c81fdf442.ckd",
+      "coach1ImageUrl": "/public/map/KissKissMU/nx/KissKissMU_Coach_1.tga.ckd/1b282104a827911884dcbf1725f81d3e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/KissKissMU/pc/KissKissMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/KissKissMU/pc/KissKissMU_map_bkg.tga.ckd/e0e192264a0e5105bfc4bd37e7027483.ckd",
+      "expandCoachImageUrl": "/public/map/KissKissMU/pc/KissKissMU_Cover_AlbumCoach.tga.ckd/abad52173250873ca5ff6538901a20b7.ckd",
+      "cover_smallImageUrl": "/public/map/KissKissMU/pc/KissKissMU_Cover_Online.tga.ckd/e190bfb45a952d56c72cb8b9f9ffa1e0.ckd",
+      "coverImageUrl": "/public/map/KissKissMU/pc/KissKissMU_Cover_Generic.tga.ckd/1484b60aec9f487a909caf29e190a75a.ckd",
+      "coach1ImageUrl": "/public/map/KissKissMU/pc/KissKissMU_Coach_1.tga.ckd/c8e678ac3f4dce3de0c1aa0ad7fbdff1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/KissKissMU/orbis/KissKissMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/KissKissMU/orbis/KissKissMU_map_bkg.tga.ckd/e0e192264a0e5105bfc4bd37e7027483.ckd",
+      "expandCoachImageUrl": "/public/map/KissKissMU/orbis/KissKissMU_Cover_AlbumCoach.tga.ckd/abad52173250873ca5ff6538901a20b7.ckd",
+      "cover_smallImageUrl": "/public/map/KissKissMU/orbis/KissKissMU_Cover_Online.tga.ckd/e190bfb45a952d56c72cb8b9f9ffa1e0.ckd",
+      "coverImageUrl": "/public/map/KissKissMU/orbis/KissKissMU_Cover_Generic.tga.ckd/1484b60aec9f487a909caf29e190a75a.ckd",
+      "coach1ImageUrl": "/public/map/KissKissMU/orbis/KissKissMU_Coach_1.tga.ckd/c8e678ac3f4dce3de0c1aa0ad7fbdff1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/KissKissMU/KissKissMU_Coach_1_Phone.png/54fecbd7720ff63801bce8c8dc0ab1bf.png",
+    "phoneCoverImageUrl": "/public/map/KissKissMU/KissKissMU_Cover_Phone.jpg/80c2353bd6a5b9bc9e7a1e95bcc2b0c4.jpg",
+    "cover640ImageUrl": "/public/map/KissKissMU/KissKissMU_Cover_640.png/a18783d497a077ad25525991958bf524.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/KissKissMU/KissKissMU.ogg": "/private/map/KissKissMU/KissKissMU.ogg/5a08aa32ea98ae49ced2b37e9a68230b.ogg",
+    "jmcs://jd-contents/KissKissMU/KissKissMU_AudioPreview.ogg": "/public/map/KissKissMU/KissKissMU_AudioPreview.ogg/af003a36ad0ac4d52f35fc8180f8fc7a.ogg",
+    "jmcs://jd-contents/KissKissMU/KissKissMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/KissKissMU/KissKissMU_MapPreviewNoSoundCrop_LOW.vp8.webm/a9a5ad4e7295d69f77c7160d02f7d72c.webm",
+    "jmcs://jd-contents/KissKissMU/KissKissMU_HIGH.webm": "/private/map/KissKissMU/KissKissMU_HIGH.webm/486ec38f918d81f63b2f8facf9849776.webm",
+    "jmcs://jd-contents/KissKissMU/KissKissMU_LOW.webm": "/private/map/KissKissMU/KissKissMU_LOW.webm/0811193e8ad0c5d67fc3ddd8e7487994.webm",
+    "jmcs://jd-contents/KissKissMU/KissKissMU_MID.webm": "/private/map/KissKissMU/KissKissMU_MID.webm/1c5411dd6c78b966ce33bc708618b08f.webm",
+    "jmcs://jd-contents/KissKissMU/KissKissMU_ULTRA.hd.webm": "/private/map/KissKissMU/KissKissMU_ULTRA.hd.webm/b778d43bd5d6b23f1370913664732984.webm",
+    "jmcs://jd-contents/KissKissMU/KissKissMU_ULTRA.webm": "/private/map/KissKissMU/KissKissMU_ULTRA.webm/3243f7f9a4481701765566dc3d191b15.webm",
+    "jmcs://jd-contents/KissKissMU/KissKissMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/KissKissMU/KissKissMU_MapPreviewNoSoundCrop_MID.vp8.webm/d85c2b58bbc3aba240df93784ce9b54e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500426\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KissKissMU/KissKissMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"548-1038\">\n\t\t\t\t\t<Initialization range=\"0-548\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1476216\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KissKissMU/KissKissMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"549-1039\">\n\t\t\t\t\t<Initialization range=\"0-549\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 190.088458
+}

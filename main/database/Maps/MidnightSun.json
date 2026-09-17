@@ -1,0 +1,182 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MidnightSun/MidnightSun.ogg": "/private/map/MidnightSun/MidnightSun.ogg/569fba7b8158b5555c007e48c98d46d4.ogg",
+    "jmcs://jd-contents/MidnightSun/MidnightSun_AudioPreview.ogg": "/public/map/MidnightSun/MidnightSun_AudioPreview.ogg/80b773827612c5d679e89bde21b50916.ogg",
+    "jmcs://jd-contents/MidnightSun/MidnightSun_HIGH.hd.webm": "/private/map/MidnightSun/MidnightSun_HIGH.hd.webm/09a6f66dc53ced64abea2caa1f5b9dca.webm",
+    "jmcs://jd-contents/MidnightSun/MidnightSun_LOW.hd.webm": "/private/map/MidnightSun/MidnightSun_LOW.hd.webm/c96eabc8425f6832f97c15d62a2c4438.webm",
+    "jmcs://jd-contents/MidnightSun/MidnightSun_MID.hd.webm": "/private/map/MidnightSun/MidnightSun_MID.hd.webm/74f030dd449bbe3ddb3aa46a3737ed83.webm",
+    "jmcs://jd-contents/MidnightSun/MidnightSun_ULTRA.hd.webm": "/private/map/MidnightSun/MidnightSun_ULTRA.hd.webm/d603b1d4c2bc13e35e2948a455a58a68.webm",
+    "jmcs://jd-contents/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_LOW.vp8.webm/7b36d45eefaaca4160e5028bd66651c1.webm",
+    "jmcs://jd-contents/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_MID.vp8.webm/0446130cc8cbcdb0a5e3db2f0ca5cacc.webm",
+    "jmcs://jd-contents/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_HIGH.vp8.webm/42f69f5d2f1784095782704ef60071d4.webm",
+    "jmcs://jd-contents/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e3fd9c31f16093778d411c27cb270ba4.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        19604,
+        39208,
+        58525,
+        77842,
+        97159,
+        116476,
+        135793,
+        155110,
+        174427,
+        193744,
+        213061,
+        232378,
+        251696,
+        271013,
+        289013,
+        306535,
+        325573,
+        344612,
+        365130,
+        384447,
+        403764,
+        423081,
+        442398,
+        461715,
+        481032,
+        499537,
+        518854,
+        538171,
+        557488,
+        576805,
+        595310,
+        613815,
+        632319,
+        650824,
+        668824,
+        686824,
+        704824,
+        725342,
+        745860,
+        765177,
+        784494,
+        803811,
+        823128,
+        841633,
+        860138,
+        878642,
+        897147,
+        915652,
+        934969,
+        954286,
+        973603,
+        992371,
+        1011139,
+        1030456,
+        1049773,
+        1068811,
+        1087850,
+        1106888,
+        1125927,
+        1144965,
+        1164003,
+        1183042,
+        1202080,
+        1221119,
+        1240157,
+        1259196,
+        1278234,
+        1297273,
+        1316311,
+        1335628,
+        1354667,
+        1373705,
+        1392744,
+        1411782,
+        1430821
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 472,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 76,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MidnightSun/MidnightSun_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"646544\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"771-1261\">\n\t\t\t\t\t<Initialization range=\"0-771\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484186\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"773-1263\">\n\t\t\t\t\t<Initialization range=\"0-773\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2919553\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"773-1263\">\n\t\t\t\t\t<Initialization range=\"0-773\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"3423180\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MidnightSun/MidnightSun_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"773-1263\">\n\t\t\t\t\t<Initialization range=\"0-773\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "bb2e6678bb7cee5df6f9ecc3411a9dc0",
+      "storageType": 0,
+      "url": "/public/map/MidnightSun/nx/MidnightSun_MAIN_SCENE_NX.zip/bb2e6678bb7cee5df6f9ecc3411a9dc0.zip"
+    },
+    "pc": {
+      "md5": "dff2ef27797be2566c64236fad331c01",
+      "storageType": 0,
+      "url": "/public/map/MidnightSun/pc/MidnightSun_MAIN_SCENE_PC.zip/dff2ef27797be2566c64236fad331c01.zip"
+    },
+    "ps4": {
+      "md5": "b457b532cc24257c4c75c2f892235ea9",
+      "storageType": 0,
+      "url": "/public/map/MidnightSun/orbis/MidnightSun_MAIN_SCENE_ORBIS.zip/b457b532cc24257c4c75c2f892235ea9.zip"
+    }
+  },
+  "data": {
+    "mapName": "MidnightSun",
+    "title": "Midnight Sun",
+    "originalJDVersion": 2027,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Zara Larsson",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#777777",
+    "songColor2B": "#111111",
+    "lyricsColor": "#59E6ED",
+    "LocaleID": 4294967295,
+    "LocaleId": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MidnightSun/nx/MidnightSun_banner_bkg.tga.ckd/c1e1f9c574379ce575b3f4f0142e1fb5.ckd",
+      "map_bkgImageUrl": "/public/map/MidnightSun/nx/MidnightSun_map_bkg.tga.ckd/e951ff4922be89b54ea9fc3bc609ace2.ckd",
+      "expandCoachImageUrl": "/public/map/MidnightSun/nx/MidnightSun_Cover_AlbumCoach.tga.ckd/541436d2d539cd69c77f5a8d89f1d5f8.ckd",
+      "cover_smallImageUrl": "/public/map/MidnightSun/nx/MidnightSun_Cover_Online.tga.ckd/4c120732ced97a84710125a7911e46fb.ckd",
+      "coverImageUrl": "/public/map/MidnightSun/nx/MidnightSun_Cover_Generic.tga.ckd/4c120732ced97a84710125a7911e46fb.ckd",
+      "coach1ImageUrl": "/public/map/MidnightSun/nx/MidnightSun_Coach_1.tga.ckd/7f3089c5241eecbf065fe5164a97a50e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MidnightSun/pc/MidnightSun_banner_bkg.tga.ckd/309412ec2e6e8d9a828a89481327d8cd.ckd",
+      "map_bkgImageUrl": "/public/map/MidnightSun/pc/MidnightSun_map_bkg.tga.ckd/6e3d4b33ef0007d44be0093781ed7b2d.ckd",
+      "expandCoachImageUrl": "/public/map/MidnightSun/pc/MidnightSun_Cover_AlbumCoach.tga.ckd/1bdd93970535ef85a01132d88331e760.ckd",
+      "cover_smallImageUrl": "/public/map/MidnightSun/pc/MidnightSun_Cover_Online.tga.ckd/591fa0c3599e6154eac966338fde4f26.ckd",
+      "coverImageUrl": "/public/map/MidnightSun/pc/MidnightSun_Cover_Generic.tga.ckd/591fa0c3599e6154eac966338fde4f26.ckd",
+      "coach1ImageUrl": "/public/map/MidnightSun/pc/MidnightSun_Coach_1.tga.ckd/e56574a41fa9f9700b6aa29a78441236.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MidnightSun/orbis/MidnightSun_banner_bkg.tga.ckd/309412ec2e6e8d9a828a89481327d8cd.ckd",
+      "map_bkgImageUrl": "/public/map/MidnightSun/orbis/MidnightSun_map_bkg.tga.ckd/6e3d4b33ef0007d44be0093781ed7b2d.ckd",
+      "expandCoachImageUrl": "/public/map/MidnightSun/orbis/MidnightSun_Cover_AlbumCoach.tga.ckd/1bdd93970535ef85a01132d88331e760.ckd",
+      "cover_smallImageUrl": "/public/map/MidnightSun/orbis/MidnightSun_Cover_Online.tga.ckd/591fa0c3599e6154eac966338fde4f26.ckd",
+      "coverImageUrl": "/public/map/MidnightSun/orbis/MidnightSun_Cover_Generic.tga.ckd/591fa0c3599e6154eac966338fde4f26.ckd",
+      "coach1ImageUrl": "/public/map/MidnightSun/orbis/MidnightSun_Coach_1.tga.ckd/e56574a41fa9f9700b6aa29a78441236.ckd"
+    },
+    "cover640ImageUrl": "/public/map/MidnightSun/MidnightSun_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 189.20429166666668
+}

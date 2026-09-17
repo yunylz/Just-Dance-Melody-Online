@@ -1,0 +1,181 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3686b7ada3ed772577bf9ef22e22c725",
+      "storageType": 0,
+      "url": "/public/map/MakeItShine/nx/MakeItShine_MAIN_SCENE_NX.zip/3686b7ada3ed772577bf9ef22e22c725.zip"
+    },
+    "pc": {
+      "md5": "8d422a14b1b8d7f2784ea5c7f5ef1e32",
+      "storageType": 0,
+      "url": "/public/map/MakeItShine/pc/MakeItShine_MAIN_SCENE_PC.zip/8d422a14b1b8d7f2784ea5c7f5ef1e32.zip"
+    },
+    "ps4": {
+      "md5": "c4965a99e2a20c88337fe4a27d840dd7",
+      "storageType": 0,
+      "url": "/public/map/MakeItShine/orbis/MakeItShine_MAIN_SCENE_ORBIS.zip/c4965a99e2a20c88337fe4a27d840dd7.zip"
+    }
+  },
+  "data": {
+    "mapName": "MakeItShine",
+    "title": "Make It Shine",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main_Disney",
+      "subscribedSong",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Victoria Justice",
+    "credits": "Credits to Elliot",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#0a5381",
+    "songColor2A": "#f2d3ff",
+    "songColor1B": "#100034",
+    "songColor2B": "#fb002f",
+    "lyricsColor": "#65ff08"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        35808,
+        57792,
+        79776,
+        101760,
+        123744,
+        145728,
+        167712,
+        189696,
+        211680,
+        233664,
+        255648,
+        277632,
+        299616,
+        321600,
+        343584,
+        365568,
+        387552,
+        408576,
+        429552,
+        448512,
+        471024,
+        492528,
+        514032,
+        532992,
+        553440,
+        573936,
+        594912,
+        617952,
+        639456,
+        660480,
+        681984,
+        702960,
+        723456,
+        745440,
+        765936,
+        785376,
+        806400,
+        827376,
+        848352,
+        869376,
+        887280,
+        908256,
+        932832,
+        953856,
+        974832,
+        996336,
+        1016304,
+        1037808,
+        1058304,
+        1079808,
+        1100256,
+        1117680,
+        1135104,
+        1153536,
+        1174512,
+        1195488,
+        1216512,
+        1237488,
+        1257984,
+        1279488,
+        1300464,
+        1321440,
+        1342464,
+        1363440,
+        1385472,
+        1407456,
+        1426944,
+        1447920,
+        1468416,
+        1489920
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 279,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 68,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MakeItShine/MakeItShine_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MakeItShine/nx/MakeItShine_banner_bkg.tga.ckd/a79d99ceabf21693fa7cbf9964195e1c.ckd",
+      "map_bkgImageUrl": "/public/map/MakeItShine/nx/MakeItShine_map_bkg.tga.ckd/a36a274b4c2b9aec40afac4259ea93d1.ckd",
+      "expandCoachImageUrl": "/public/map/MakeItShine/nx/MakeItShine_Cover_AlbumCoach.tga.ckd/3b61019c42b9edfeb409b970b8e483c6.ckd",
+      "cover_smallImageUrl": "/public/map/MakeItShine/nx/MakeItShine_Cover_Online.tga.ckd/d8c5f00cb1948e9cf7bc7c44fdb15d51.ckd",
+      "coach1ImageUrl": "/public/map/MakeItShine/nx/MakeItShine_Coach_1.tga.ckd/aae80bc952a3ad9ef3ba2f0e405a2839.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MakeItShine/pc/MakeItShine_banner_bkg.tga.ckd/ec7cb0241e24115c731851074c9c3a70.ckd",
+      "map_bkgImageUrl": "/public/map/MakeItShine/pc/MakeItShine_map_bkg.tga.ckd/4efe75bca8845542416185669e7f8a7c.ckd",
+      "expandCoachImageUrl": "/public/map/MakeItShine/pc/MakeItShine_Cover_AlbumCoach.tga.ckd/bf406ec3b220374a1b1c8707601a2ccb.ckd",
+      "cover_smallImageUrl": "/public/map/MakeItShine/pc/MakeItShine_Cover_Online.tga.ckd/7a2d23d2f7a0d6ae71053f745e789669.ckd",
+      "coach1ImageUrl": "/public/map/MakeItShine/pc/MakeItShine_Coach_1.tga.ckd/4a949838885fb6033df98c196274745f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MakeItShine/orbis/MakeItShine_banner_bkg.tga.ckd/ec7cb0241e24115c731851074c9c3a70.ckd",
+      "map_bkgImageUrl": "/public/map/MakeItShine/orbis/MakeItShine_map_bkg.tga.ckd/4efe75bca8845542416185669e7f8a7c.ckd",
+      "expandCoachImageUrl": "/public/map/MakeItShine/orbis/MakeItShine_Cover_AlbumCoach.tga.ckd/bf406ec3b220374a1b1c8707601a2ccb.ckd",
+      "cover_smallImageUrl": "/public/map/MakeItShine/orbis/MakeItShine_Cover_Online.tga.ckd/7a2d23d2f7a0d6ae71053f745e789669.ckd",
+      "coach1ImageUrl": "/public/map/MakeItShine/orbis/MakeItShine_Coach_1.tga.ckd/4a949838885fb6033df98c196274745f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MakeItShine/MakeItShine_Coach_1_Phone.png/e8bbf17fc6e10e8107eb1731a321520b.png",
+    "phoneCoverImageUrl": "/public/map/MakeItShine/MakeItShine_Cover_Phone.jpg/ef1c83d6b566474a56c6b806b0cd8cf4.jpg",
+    "cover640ImageUrl": "/public/map/MakeItShine/MakeItShine_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MakeItShine/MakeItShine.ogg": "/private/map/MakeItShine/MakeItShine.ogg/ac71048983933f78d8802f7c27c193d3.ogg",
+    "jmcs://jd-contents/MakeItShine/MakeItShine_AudioPreview.ogg": "/public/map/MakeItShine/MakeItShine_AudioPreview.ogg/2ba8b78e8b007a30ebf29caeb2096044.ogg",
+    "jmcs://jd-contents/MakeItShine/MakeItShine_HIGH.webm": "/private/map/MakeItShine/MakeItShine_HIGH.webm/51d0a4b2bf453956ba058714a1856c74.webm",
+    "jmcs://jd-contents/MakeItShine/MakeItShine_LOW.webm": "/private/map/MakeItShine/MakeItShine_LOW.webm/ef9e0e870a9287c311d4998f69d3a445.webm",
+    "jmcs://jd-contents/MakeItShine/MakeItShine_MID.webm": "/private/map/MakeItShine/MakeItShine_MID.webm/5f7a39a38cc287f3a3d00b964935bad3.webm",
+    "jmcs://jd-contents/MakeItShine/MakeItShine_ULTRA.webm": "/private/map/MakeItShine/MakeItShine_ULTRA.webm/faca6f02b6a06036b37633a3ec8a5846.webm",
+    "jmcs://jd-contents/MakeItShine/MakeItShine_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MakeItShine/MakeItShine_MapPreviewNoSoundCrop_LOW.vp8.webm/c5a43bd7a0e9a3404fdbb0b84b07ce3f.webm",
+    "jmcs://jd-contents/MakeItShine/MakeItShine_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MakeItShine/MakeItShine_MapPreviewNoSoundCrop_MID.vp8.webm/4ab685a2829e05f2a92a2960a01556eb.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"494890\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MakeItShine/MakeItShine_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1469042\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MakeItShine/MakeItShine_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 122.146063
+}

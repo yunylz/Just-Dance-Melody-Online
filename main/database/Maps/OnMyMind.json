@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "164d96bb4d54834528073dc211b4dc94",
+      "storageType": 0,
+      "url": "/public/map/OnMyMind/nx/OnMyMind_MAIN_SCENE_NX.zip/164d96bb4d54834528073dc211b4dc94.zip"
+    },
+    "pc": {
+      "md5": "a657743917c581846d8b0eb364095586",
+      "storageType": 0,
+      "url": "/public/map/OnMyMind/pc/OnMyMind_MAIN_SCENE_PC.zip/a657743917c581846d8b0eb364095586.zip"
+    },
+    "ps4": {
+      "md5": "fccdfbfdc79d0f8cf9909b6f22aabbaf",
+      "storageType": 0,
+      "url": "/public/map/OnMyMind/orbis/OnMyMind_MAIN_SCENE_ORBIS.zip/fccdfbfdc79d0f8cf9909b6f22aabbaf.zip"
+    }
+  },
+  "data": {
+    "mapName": "OnMyMind",
+    "title": "You're On My Mind",
+    "originalJDVersion": 2015,
+    "tags": [
+      "nosweat",
+      "main",
+      "uplay2016"
+    ],
+    "artist": "Imposs Ft. J. Perry",
+    "credits": "Written by Louis XIII, John Johnathan Manuel Perry and Rimsky. Published by Louis XIII Publishing / Ubisoft Music Publishing. Courtesy of Ubisoft Music Inc. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 4,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#edc202",
+    "songColor2A": "#22d2f9",
+    "songColor1B": "#5e2001",
+    "songColor2B": "#023c7f",
+    "lyricsColor": "#fd28f9"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27407,
+        54863,
+        82271,
+        109727,
+        137135,
+        164591,
+        191999,
+        219407,
+        246863,
+        274271,
+        301727,
+        329135,
+        356591,
+        383999,
+        411407,
+        438863,
+        466271,
+        493727,
+        521135,
+        548591,
+        575999,
+        603407,
+        630863,
+        658271,
+        685727,
+        713135,
+        740591,
+        767999,
+        795407,
+        822863,
+        850271,
+        877727,
+        905135,
+        932591,
+        959999,
+        987407,
+        1014863,
+        1042271,
+        1069727,
+        1097135,
+        1124591,
+        1151999,
+        1179407,
+        1206863,
+        1234271,
+        1261727,
+        1289135,
+        1316591,
+        1343999,
+        1371407,
+        1398863,
+        1426271,
+        1453727,
+        1481135,
+        1508591
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 363,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/OnMyMind/OnMyMind_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/OnMyMind/nx/OnMyMind_banner_bkg.tga.ckd/a5a85fd0681da8d03f1c00baba56f57c.ckd",
+      "map_bkgImageUrl": "/public/map/OnMyMind/nx/OnMyMind_map_bkg.tga.ckd/0a85c84540da6f2a56e5d6cfc8a43d99.ckd",
+      "expandCoachImageUrl": "/public/map/OnMyMind/nx/OnMyMind_Cover_AlbumCoach.tga.ckd/749be84d193dda876b0df3e4a72e85a8.ckd",
+      "cover_smallImageUrl": "/public/map/OnMyMind/nx/OnMyMind_Cover_Online.tga.ckd/491a5cc74a801ff973855206dc97b836.ckd",
+      "coach1ImageUrl": "/public/map/OnMyMind/nx/OnMyMind_Coach_1.tga.ckd/21094f04cf943b495be08bdac3fe88b6.ckd",
+      "coach2ImageUrl": "/public/map/OnMyMind/nx/OnMyMind_Coach_2.tga.ckd/c9de4f099859d281aa7b0f332049451b.ckd",
+      "coach3ImageUrl": "/public/map/OnMyMind/nx/OnMyMind_Coach_3.tga.ckd/cc6ece03bc506763f3d02f3cb543de9b.ckd",
+      "coach4ImageUrl": "/public/map/OnMyMind/nx/OnMyMind_Coach_4.tga.ckd/c18c5a054de9734906979dfa190cae7d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/OnMyMind/pc/OnMyMind_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/OnMyMind/pc/OnMyMind_map_bkg.tga.ckd/1e3bbf59382dd1ed48d89b2de4d9957f.ckd",
+      "expandCoachImageUrl": "/public/map/OnMyMind/pc/OnMyMind_Cover_AlbumCoach.tga.ckd/55feaea8af0c4b829e4f230d489fb3c2.ckd",
+      "cover_smallImageUrl": "/public/map/OnMyMind/pc/OnMyMind_Cover_Online.tga.ckd/fd01c91ed39f86fb05cca2647c80b6e0.ckd",
+      "coach1ImageUrl": "/public/map/OnMyMind/pc/OnMyMind_Coach_1.tga.ckd/961740f6e2228059236e3a5f09fe123a.ckd",
+      "coach2ImageUrl": "/public/map/OnMyMind/pc/OnMyMind_Coach_2.tga.ckd/d156b892d44d6a6f78a98d15d23bdd4a.ckd",
+      "coach3ImageUrl": "/public/map/OnMyMind/pc/OnMyMind_Coach_3.tga.ckd/99b8085e5695bc06bc06c4a8b010930f.ckd",
+      "coach4ImageUrl": "/public/map/OnMyMind/pc/OnMyMind_Coach_4.tga.ckd/bd715e974a652915e91842a410be7829.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/OnMyMind/orbis/OnMyMind_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/OnMyMind/orbis/OnMyMind_map_bkg.tga.ckd/1e3bbf59382dd1ed48d89b2de4d9957f.ckd",
+      "expandCoachImageUrl": "/public/map/OnMyMind/orbis/OnMyMind_Cover_AlbumCoach.tga.ckd/55feaea8af0c4b829e4f230d489fb3c2.ckd",
+      "cover_smallImageUrl": "/public/map/OnMyMind/orbis/OnMyMind_Cover_Online.tga.ckd/fd01c91ed39f86fb05cca2647c80b6e0.ckd",
+      "coach1ImageUrl": "/public/map/OnMyMind/orbis/OnMyMind_Coach_1.tga.ckd/961740f6e2228059236e3a5f09fe123a.ckd",
+      "coach2ImageUrl": "/public/map/OnMyMind/orbis/OnMyMind_Coach_2.tga.ckd/d156b892d44d6a6f78a98d15d23bdd4a.ckd",
+      "coach3ImageUrl": "/public/map/OnMyMind/orbis/OnMyMind_Coach_3.tga.ckd/99b8085e5695bc06bc06c4a8b010930f.ckd",
+      "coach4ImageUrl": "/public/map/OnMyMind/orbis/OnMyMind_Coach_4.tga.ckd/bd715e974a652915e91842a410be7829.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/OnMyMind/OnMyMind_Coach_1_Phone.png/d3de4c6a1979a8fe662d8a06aacccc01.png",
+    "phoneCoach2ImageUrl": "/public/map/OnMyMind/OnMyMind_Coach_2_Phone.png/593a4113abdfb943619644d846cc7ead.png",
+    "phoneCoach3ImageUrl": "/public/map/OnMyMind/OnMyMind_Coach_3_Phone.png/ecd54145b83a0f5f677c5dc3f70b0a78.png",
+    "phoneCoach4ImageUrl": "/public/map/OnMyMind/OnMyMind_Coach_4_Phone.png/d88e243f8f263dc840f06db805ced366.png",
+    "phoneCoverImageUrl": "/public/map/OnMyMind/OnMyMind_Cover_Phone.jpg/91fb75086a0ef6190ca87206d3db2dd4.jpg",
+    "cover640ImageUrl": "/public/map/OnMyMind/OnMyMind_Cover_640.png/dbc94f9ec57859497b03448b222bd6fd.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/OnMyMind/OnMyMind.ogg": "/private/map/OnMyMind/OnMyMind.ogg/e64b480c7f957bbb44cac0a9825d23d0.ogg",
+    "jmcs://jd-contents/OnMyMind/OnMyMind_AudioPreview.ogg": "/public/map/OnMyMind/OnMyMind_AudioPreview.ogg/8441237ddfdee139924b451ffc8fc302.ogg",
+    "jmcs://jd-contents/OnMyMind/OnMyMind_HIGH.webm": "/private/map/OnMyMind/OnMyMind_HIGH.webm/4d9397d1f19b52c9b6c75891ea85a30d.webm",
+    "jmcs://jd-contents/OnMyMind/OnMyMind_LOW.webm": "/private/map/OnMyMind/OnMyMind_LOW.webm/e8ac134f1382df20dc7743ca2e4d87ad.webm",
+    "jmcs://jd-contents/OnMyMind/OnMyMind_MID.webm": "/private/map/OnMyMind/OnMyMind_MID.webm/acaf0fd96819cbf352384f46c9b00cbb.webm",
+    "jmcs://jd-contents/OnMyMind/OnMyMind_ULTRA.hd.webm": "/private/map/OnMyMind/OnMyMind_ULTRA.hd.webm/403ca0d114846e9d0cf69d51e464e84f.webm",
+    "jmcs://jd-contents/OnMyMind/OnMyMind_ULTRA.webm": "/private/map/OnMyMind/OnMyMind_ULTRA.webm/07de1047377303f5c1698e7e1f3c7aca.webm",
+    "jmcs://jd-contents/OnMyMind/OnMyMind_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/OnMyMind/OnMyMind_MapPreviewNoSoundCrop_LOW.vp8.webm/198dbbda602e75997d5de096e912ef28.webm",
+    "jmcs://jd-contents/OnMyMind/OnMyMind_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/OnMyMind/OnMyMind_MapPreviewNoSoundCrop_MID.vp8.webm/0c504774cd8ab42ef746751a06aaba06.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497612\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/OnMyMind/OnMyMind_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"601-1090\">\n\t\t\t\t\t<Initialization range=\"0-601\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1481279\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/OnMyMind/OnMyMind_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\n\t\t\t\t\t<Initialization range=\"0-602\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 209.713854
+}

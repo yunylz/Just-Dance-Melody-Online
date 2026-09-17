@@ -1,0 +1,167 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Manchild/Manchild.ogg": "/private/map/Manchild/Manchild.ogg/ce0a1366b2ac5592bdc27b39a50d0fd5.ogg",
+    "jmcs://jd-contents/Manchild/Manchild_AudioPreview.ogg": "/public/map/Manchild/Manchild_AudioPreview.ogg/87993c24816008236c72b20c1d834b97.ogg",
+    "jmcs://jd-contents/Manchild/Manchild_HIGH.hd.webm": "/private/map/Manchild/Manchild_HIGH.hd.webm/7f9d0a78f266ff688b753db4f7990fb1.webm",
+    "jmcs://jd-contents/Manchild/Manchild_LOW.hd.webm": "/private/map/Manchild/Manchild_LOW.hd.webm/b560a964fe3fe117bd0c01a5f1392638.webm",
+    "jmcs://jd-contents/Manchild/Manchild_MID.hd.webm": "/private/map/Manchild/Manchild_MID.hd.webm/500cb39a4346f4197c9b4e8854298272.webm",
+    "jmcs://jd-contents/Manchild/Manchild_ULTRA.hd.webm": "/private/map/Manchild/Manchild_ULTRA.hd.webm/7d81f7e626cfd635a3516321b0b51026.webm",
+    "jmcs://jd-contents/Manchild/Manchild_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Manchild/Manchild_MapPreviewNoSoundCrop_LOW.vp8.webm/3fc146f57e4c6ac4a3431f32b0f14670.webm",
+    "jmcs://jd-contents/Manchild/Manchild_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Manchild/Manchild_MapPreviewNoSoundCrop_MID.vp8.webm/664d0ff8a03f747e632ea59005177462.webm",
+    "jmcs://jd-contents/Manchild/Manchild_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/Manchild/Manchild_MapPreviewNoSoundCrop_HIGH.vp8.webm/3628201789f2f79dedc26d4d6ad3f1ba.webm",
+    "jmcs://jd-contents/Manchild/Manchild_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/Manchild/Manchild_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9366e89b7911803e70ef3360f4dd83d2.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23415,
+        46829,
+        70244,
+        93658,
+        117073,
+        140488,
+        163902,
+        187317,
+        210732,
+        234146,
+        257561,
+        280976,
+        304390,
+        327805,
+        351219,
+        374634,
+        398049,
+        421463,
+        444878,
+        468293,
+        491707,
+        515122,
+        538536,
+        561951,
+        585366,
+        608780,
+        632195,
+        655610,
+        679024,
+        702439,
+        725854,
+        749268,
+        772683,
+        796097,
+        819512,
+        842927,
+        866341,
+        889756,
+        913171,
+        936585,
+        960000,
+        983415,
+        1006829,
+        1030244,
+        1053658,
+        1077073,
+        1100488,
+        1123902,
+        1147317,
+        1170732,
+        1194146,
+        1217561,
+        1240976,
+        1264390,
+        1287805,
+        1311219,
+        1334634,
+        1358049,
+        1381463,
+        1404878,
+        1428293
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 439,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Manchild/Manchild_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"643596\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Manchild/Manchild_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483466\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Manchild/Manchild_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2944106\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Manchild/Manchild_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"4666156\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Manchild/Manchild_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1256\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "82c4948f27c7d085162ddf2d5cfde2b5",
+      "storageType": 0,
+      "url": "/public/map/Manchild/nx/Manchild_MAIN_SCENE_NX.zip/82c4948f27c7d085162ddf2d5cfde2b5.zip"
+    },
+    "pc": {
+      "md5": "edcff90c0296823738b7255639cab8cb",
+      "storageType": 0,
+      "url": "/public/map/Manchild/pc/Manchild_MAIN_SCENE_PC.zip/edcff90c0296823738b7255639cab8cb.zip"
+    },
+    "ps4": {
+      "md5": "173958a7dd83d4b42a16ddb220ec8134",
+      "storageType": 0,
+      "url": "/public/map/Manchild/orbis/Manchild_MAIN_SCENE_ORBIS.zip/173958a7dd83d4b42a16ddb220ec8134.zip"
+    }
+  },
+  "data": {
+    "mapName": "Manchild",
+    "title": "Manchild",
+    "originalJDVersion": 2027,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Sabrina Carpenter",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#F18831",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Manchild/nx/Manchild_banner_bkg.tga.ckd/c1e1f9c574379ce575b3f4f0142e1fb5.ckd",
+      "map_bkgImageUrl": "/public/map/Manchild/nx/Manchild_map_bkg.tga.ckd/e951ff4922be89b54ea9fc3bc609ace2.ckd",
+      "expandCoachImageUrl": "/public/map/Manchild/nx/Manchild_Cover_AlbumCoach.tga.ckd/541436d2d539cd69c77f5a8d89f1d5f8.ckd",
+      "cover_smallImageUrl": "/public/map/Manchild/nx/Manchild_Cover_Online.tga.ckd/4c120732ced97a84710125a7911e46fb.ckd",
+      "coverImageUrl": "/public/map/Manchild/nx/Manchild_Cover_Generic.tga.ckd/4c120732ced97a84710125a7911e46fb.ckd",
+      "coach1ImageUrl": "/public/map/Manchild/nx/Manchild_Coach_1.tga.ckd/7f3089c5241eecbf065fe5164a97a50e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Manchild/pc/Manchild_banner_bkg.tga.ckd/309412ec2e6e8d9a828a89481327d8cd.ckd",
+      "map_bkgImageUrl": "/public/map/Manchild/pc/Manchild_map_bkg.tga.ckd/6e3d4b33ef0007d44be0093781ed7b2d.ckd",
+      "expandCoachImageUrl": "/public/map/Manchild/pc/Manchild_Cover_AlbumCoach.tga.ckd/1bdd93970535ef85a01132d88331e760.ckd",
+      "cover_smallImageUrl": "/public/map/Manchild/pc/Manchild_Cover_Online.tga.ckd/591fa0c3599e6154eac966338fde4f26.ckd",
+      "coverImageUrl": "/public/map/Manchild/pc/Manchild_Cover_Generic.tga.ckd/591fa0c3599e6154eac966338fde4f26.ckd",
+      "coach1ImageUrl": "/public/map/Manchild/pc/Manchild_Coach_1.tga.ckd/e56574a41fa9f9700b6aa29a78441236.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Manchild/orbis/Manchild_banner_bkg.tga.ckd/309412ec2e6e8d9a828a89481327d8cd.ckd",
+      "map_bkgImageUrl": "/public/map/Manchild/orbis/Manchild_map_bkg.tga.ckd/6e3d4b33ef0007d44be0093781ed7b2d.ckd",
+      "expandCoachImageUrl": "/public/map/Manchild/orbis/Manchild_Cover_AlbumCoach.tga.ckd/1bdd93970535ef85a01132d88331e760.ckd",
+      "cover_smallImageUrl": "/public/map/Manchild/orbis/Manchild_Cover_Online.tga.ckd/591fa0c3599e6154eac966338fde4f26.ckd",
+      "coverImageUrl": "/public/map/Manchild/orbis/Manchild_Cover_Generic.tga.ckd/591fa0c3599e6154eac966338fde4f26.ckd",
+      "coach1ImageUrl": "/public/map/Manchild/orbis/Manchild_Coach_1.tga.ckd/e56574a41fa9f9700b6aa29a78441236.ckd"
+    },
+    "cover640ImageUrl": "/public/map/Manchild/Manchild_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 221.46340625
+}

@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7412044e69a7d7300e68edfcf842d97c",
+      "storageType": 0,
+      "url": "/public/map/MJWannaBe/nx/MJWannaBe_MAIN_SCENE_NX.zip/7412044e69a7d7300e68edfcf842d97c.zip"
+    },
+    "pc": {
+      "md5": "11ca1539955e3ce8fe5ac8eed7f8f645",
+      "storageType": 0,
+      "url": "/public/map/MJWannaBe/pc/MJWannaBe_MAIN_SCENE_PC.zip/11ca1539955e3ce8fe5ac8eed7f8f645.zip"
+    },
+    "ps4": {
+      "md5": "07c6f7e08875057fafe38e8d90cfc4fc",
+      "storageType": 0,
+      "url": "/public/map/MJWannaBe/orbis/MJWannaBe_MAIN_SCENE_ORBIS.zip/07c6f7e08875057fafe38e8d90cfc4fc.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJWannaBe",
+    "title": "Wanna Be Startin' Something",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong",
+      "mjte",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#42025b",
+    "songColor2A": "#8c1273",
+    "songColor1B": "#1c0127",
+    "songColor2B": "#290622",
+    "lyricsColor": "#ed42ea"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23568,
+        47088,
+        70656,
+        94224,
+        117744,
+        141600,
+        164880,
+        188208,
+        212400,
+        235728,
+        259536,
+        282576,
+        306720,
+        330000,
+        353856,
+        376944,
+        401088,
+        424368,
+        448224,
+        471264,
+        495360,
+        518688,
+        542544,
+        565536,
+        589296,
+        613008,
+        636624,
+        659856,
+        684000,
+        707328,
+        730992,
+        754560,
+        778464,
+        802176,
+        825984,
+        848976,
+        873168,
+        896496,
+        920304,
+        943344,
+        967488,
+        990768,
+        1014144,
+        1037664,
+        1061520,
+        1085040,
+        1108608,
+        1131840,
+        1156080,
+        1179360,
+        1203072,
+        1226208,
+        1249968,
+        1273584,
+        1296912,
+        1320672,
+        1344480,
+        1368000,
+        1391568,
+        1414944,
+        1438992,
+        1462224,
+        1485984
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 529,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJWannaBe/MJWannaBe_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJWannaBe/nx/MJWannaBe_banner_bkg.tga.ckd/8930e9857347880063475ee98b38afa6.ckd",
+      "map_bkgImageUrl": "/public/map/MJWannaBe/nx/MJWannaBe_map_bkg.tga.ckd/fb4831504401eda429478249e5c99b41.ckd",
+      "expandCoachImageUrl": "/public/map/MJWannaBe/nx/MJWannaBe_Cover_AlbumCoach.tga.ckd/38488c01a2c99b2fb579c4f942aab521.ckd",
+      "cover_smallImageUrl": "/public/map/MJWannaBe/nx/MJWannaBe_Cover_Online.tga.ckd/7c7ce61a7a8d498af6f01b86609eb469.ckd",
+      "coach1ImageUrl": "/public/map/MJWannaBe/nx/MJWannaBe_Coach_1.tga.ckd/7ce551065f415634a148ee339f16e860.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJWannaBe/pc/MJWannaBe_banner_bkg.tga.ckd/bee7f85674864d76d9541b2a0e18b43e.ckd",
+      "map_bkgImageUrl": "/public/map/MJWannaBe/pc/MJWannaBe_map_bkg.tga.ckd/a14f7586ccd36954fb04c9e75ab31341.ckd",
+      "expandCoachImageUrl": "/public/map/MJWannaBe/pc/MJWannaBe_Cover_AlbumCoach.tga.ckd/7e27a15feae0864862e8048a9f594b24.ckd",
+      "cover_smallImageUrl": "/public/map/MJWannaBe/pc/MJWannaBe_Cover_Online.tga.ckd/ba2686880c81882cafa16b3cbe5a05ee.ckd",
+      "coach1ImageUrl": "/public/map/MJWannaBe/pc/MJWannaBe_Coach_1.tga.ckd/03ce2cc522e5ce42761a73dfa6cc91be.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJWannaBe/orbis/MJWannaBe_banner_bkg.tga.ckd/bee7f85674864d76d9541b2a0e18b43e.ckd",
+      "map_bkgImageUrl": "/public/map/MJWannaBe/orbis/MJWannaBe_map_bkg.tga.ckd/a14f7586ccd36954fb04c9e75ab31341.ckd",
+      "expandCoachImageUrl": "/public/map/MJWannaBe/orbis/MJWannaBe_Cover_AlbumCoach.tga.ckd/7e27a15feae0864862e8048a9f594b24.ckd",
+      "cover_smallImageUrl": "/public/map/MJWannaBe/orbis/MJWannaBe_Cover_Online.tga.ckd/ba2686880c81882cafa16b3cbe5a05ee.ckd",
+      "coach1ImageUrl": "/public/map/MJWannaBe/orbis/MJWannaBe_Coach_1.tga.ckd/03ce2cc522e5ce42761a73dfa6cc91be.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJWannaBe/MJWannaBe_Coach_1_Phone.png/cf5dcb09e2393759edc0c37d8a128849.png",
+    "phoneCoverImageUrl": "/public/map/MJWannaBe/MJWannaBe_Cover_Phone.jpg/260218a2d245528839e3633bf7a3b77d.jpg",
+    "cover640ImageUrl": "/public/map/MJWannaBe/MJWannaBe_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MJWannaBe/MJWannaBe.ogg": "/private/map/MJWannaBe/MJWannaBe.ogg/4dbf4d2bfa75bba12fa2a35af858668a.ogg",
+    "jmcs://jd-contents/MJWannaBe/MJWannaBe_AudioPreview.ogg": "/public/map/MJWannaBe/MJWannaBe_AudioPreview.ogg/a664f6b6177d28b94f461cb9ee7bbd45.ogg",
+    "jmcs://jd-contents/MJWannaBe/MJWannaBe_HIGH.webm": "/private/map/MJWannaBe/MJWannaBe_HIGH.webm/aa4cb032e62e4529cdba617da57581d5.webm",
+    "jmcs://jd-contents/MJWannaBe/MJWannaBe_LOW.webm": "/private/map/MJWannaBe/MJWannaBe_LOW.webm/99d8e869d2bc6d6e2adeaf410675f915.webm",
+    "jmcs://jd-contents/MJWannaBe/MJWannaBe_MID.webm": "/private/map/MJWannaBe/MJWannaBe_MID.webm/0fb871d33fcd3917bebedd7159f8a766.webm",
+    "jmcs://jd-contents/MJWannaBe/MJWannaBe_ULTRA.hd.webm": "/private/map/MJWannaBe/MJWannaBe_ULTRA.hd.webm/6ffed0dacbc7349011ca97614e4d7c34.webm",
+    "jmcs://jd-contents/MJWannaBe/MJWannaBe_ULTRA.webm": "/private/map/MJWannaBe/MJWannaBe_ULTRA.webm/f6f202a235a901f296fa7446acb25693.webm",
+    "jmcs://jd-contents/MJWannaBe/MJWannaBe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJWannaBe/MJWannaBe_MapPreviewNoSoundCrop_LOW.vp8.webm/549c7df7c1da64f29a28614c65429dce.webm",
+    "jmcs://jd-contents/MJWannaBe/MJWannaBe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJWannaBe/MJWannaBe_MapPreviewNoSoundCrop_MID.vp8.webm/5091e1d22e78841091611d4d1dc18dc9.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"511444\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJWannaBe/MJWannaBe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1493440\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJWannaBe/MJWannaBe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 263.296
+}

@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "07e47d8934ddf4deb886e92b8db4c35b",
+      "storageType": 0,
+      "url": "/public/map/MiGente/nx/MiGente_MAIN_SCENE_NX.zip/07e47d8934ddf4deb886e92b8db4c35b.zip"
+    },
+    "pc": {
+      "md5": "90a86817638bd945cd5c338a6cbb6715",
+      "storageType": 0,
+      "url": "/public/map/MiGente/pc/MiGente_MAIN_SCENE_PC.zip/90a86817638bd945cd5c338a6cbb6715.zip"
+    },
+    "ps4": {
+      "md5": "8026de1fa9a37ff4a8bd232f067b732c",
+      "storageType": 0,
+      "url": "/public/map/MiGente/orbis/MiGente_MAIN_SCENE_ORBIS.zip/8026de1fa9a37ff4a8bd232f067b732c.zip"
+    }
+  },
+  "data": {
+    "mapName": "MiGente",
+    "title": "Mi Gente",
+    "originalJDVersion": 2018,
+    "tags": [
+      "subscribedSong",
+      "JustDance2018",
+      "Trio",
+      "Medium"
+    ],
+    "artist": "J. Balvin, Willy William",
+    "credits": "Written by Jose Alvaro Osorio Balvin, Andres David Restrepo Echavarria, Ashadally Adam, Mohombi Moupondo and Willy Faude William. Published by La Clique Music International Ltd. (BMI) administered by Songs Of Kobalt Music Publishing. / Can’t Stop The Music (BMI) / Universal Music Publishing Limited. Courtesy of Universal Music Latino under license from Universal Music Enterprises. / Scorpio Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#00c5be",
+    "songColor2A": "#fffc18",
+    "songColor1B": "#00477d",
+    "songColor2B": "#974400",
+    "lyricsColor": "#00b7e7",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29423,
+        56351,
+        83423,
+        111743,
+        138767,
+        167135,
+        194303,
+        222143,
+        248543,
+        276191,
+        303263,
+        330335,
+        358271,
+        386495,
+        413039,
+        438863,
+        466271,
+        493727,
+        521135,
+        548591,
+        575999,
+        603407,
+        630863,
+        658271,
+        685726,
+        713134,
+        740590,
+        767998,
+        795406,
+        822862,
+        850270,
+        877726,
+        905134,
+        932590,
+        959998,
+        987406,
+        1014862,
+        1042270,
+        1069726,
+        1097134,
+        1124590,
+        1151998,
+        1179406,
+        1206862,
+        1234270,
+        1261726,
+        1289134,
+        1316590,
+        1343998,
+        1371405,
+        1398861,
+        1426269,
+        1453725,
+        1481133,
+        1508589
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 324,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MiGente/MiGente_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MiGente/nx/MiGente_banner_bkg.tga.ckd/0777f9b4ead60750ceccdba906f233c9.ckd",
+      "map_bkgImageUrl": "/public/map/MiGente/nx/MiGente_map_bkg.tga.ckd/23588e44c2d2a9602394dcc2c3ad6297.ckd",
+      "expandCoachImageUrl": "/public/map/MiGente/nx/MiGente_Cover_AlbumCoach.tga.ckd/9cc2aaab785a20bde6caad04317ae693.ckd",
+      "cover_smallImageUrl": "/public/map/MiGente/nx/MiGente_Cover_Online.tga.ckd/d38315525c8a6bf45aacea5619b2e220.ckd",
+      "coach1ImageUrl": "/public/map/MiGente/nx/MiGente_Coach_1.tga.ckd/87af5ed002c410d6871b6909acb750c7.ckd",
+      "coach2ImageUrl": "/public/map/MiGente/nx/MiGente_Coach_2.tga.ckd/99f5f304209567ff0c1ea264aa12d2dd.ckd",
+      "coach3ImageUrl": "/public/map/MiGente/nx/MiGente_Coach_3.tga.ckd/5fd1c78700fd285276047ded5223ad11.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MiGente/pc/MiGente_banner_bkg.tga.ckd/c5674c03d8032e8a2df794783f13f8f4.ckd",
+      "map_bkgImageUrl": "/public/map/MiGente/pc/MiGente_map_bkg.tga.ckd/9cb7e56a4dfc20d316fc5e2e063e96d1.ckd",
+      "expandCoachImageUrl": "/public/map/MiGente/pc/MiGente_Cover_AlbumCoach.tga.ckd/241269731a42fb8beef62ea450ff7d1c.ckd",
+      "cover_smallImageUrl": "/public/map/MiGente/pc/MiGente_Cover_Online.tga.ckd/02c824c74750a2bd03a872fdef515cf5.ckd",
+      "coach1ImageUrl": "/public/map/MiGente/pc/MiGente_Coach_1.tga.ckd/49069541baa811c140f9400542b38556.ckd",
+      "coach2ImageUrl": "/public/map/MiGente/pc/MiGente_Coach_2.tga.ckd/0534d4db64001a67eda224721bc9e0b7.ckd",
+      "coach3ImageUrl": "/public/map/MiGente/pc/MiGente_Coach_3.tga.ckd/d308652dfe9cfed52802a1bc33346490.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MiGente/orbis/MiGente_banner_bkg.tga.ckd/c5674c03d8032e8a2df794783f13f8f4.ckd",
+      "map_bkgImageUrl": "/public/map/MiGente/orbis/MiGente_map_bkg.tga.ckd/9cb7e56a4dfc20d316fc5e2e063e96d1.ckd",
+      "expandCoachImageUrl": "/public/map/MiGente/orbis/MiGente_Cover_AlbumCoach.tga.ckd/241269731a42fb8beef62ea450ff7d1c.ckd",
+      "cover_smallImageUrl": "/public/map/MiGente/orbis/MiGente_Cover_Online.tga.ckd/02c824c74750a2bd03a872fdef515cf5.ckd",
+      "coach1ImageUrl": "/public/map/MiGente/orbis/MiGente_Coach_1.tga.ckd/49069541baa811c140f9400542b38556.ckd",
+      "coach2ImageUrl": "/public/map/MiGente/orbis/MiGente_Coach_2.tga.ckd/0534d4db64001a67eda224721bc9e0b7.ckd",
+      "coach3ImageUrl": "/public/map/MiGente/orbis/MiGente_Coach_3.tga.ckd/d308652dfe9cfed52802a1bc33346490.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MiGente/MiGente_Coach_1_Phone.png/c8b32e81c3abed5485a808d3e3525355.png",
+    "phoneCoach2ImageUrl": "/public/map/MiGente/MiGente_Coach_2_Phone.png/c82f49e7d0fea285c36e0b00dbdd47c8.png",
+    "phoneCoach3ImageUrl": "/public/map/MiGente/MiGente_Coach_3_Phone.png/e77d3c5ff9ddcb1937a12dfd81cc55a1.png",
+    "phoneCoverImageUrl": "/public/map/MiGente/MiGente_Cover_Phone.jpg/e5e545d479e86b822e7892f4f444c4d0.jpg",
+    "cover640ImageUrl": "/public/map/MiGente/MiGente_Cover_640.png/76172ac37c7ff03c35fde320ca975c26.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MiGente/MiGente.ogg": "/private/map/MiGente/MiGente.ogg/6473e786ba1bc1b4668c5fe78663a5b8.ogg",
+    "jmcs://jd-contents/MiGente/MiGente_AudioPreview.ogg": "/public/map/MiGente/MiGente_AudioPreview.ogg/10c286fe858bf561fbd0a7fba43852dd.ogg",
+    "jmcs://jd-contents/MiGente/MiGente_HIGH.webm": "/private/map/MiGente/MiGente_HIGH.webm/bbc67997f66fa17019046c40302566fd.webm",
+    "jmcs://jd-contents/MiGente/MiGente_LOW.webm": "/private/map/MiGente/MiGente_LOW.webm/814e628bc7c85ec167122bae195183ad.webm",
+    "jmcs://jd-contents/MiGente/MiGente_MID.webm": "/private/map/MiGente/MiGente_MID.webm/d1b0eeedf5ff9ff68a4bbe39f2c523da.webm",
+    "jmcs://jd-contents/MiGente/MiGente_ULTRA.hd.webm": "/private/map/MiGente/MiGente_ULTRA.hd.webm/d51558bf945addae21d2dfb3981bd687.webm",
+    "jmcs://jd-contents/MiGente/MiGente_ULTRA.webm": "/private/map/MiGente/MiGente_ULTRA.webm/c28d0cb3c0f4cd98590dd6a3a06e2c4a.webm",
+    "jmcs://jd-contents/MiGente/MiGente_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MiGente/MiGente_MapPreviewNoSoundCrop_LOW.vp8.webm/413405e45e9510ba32a2413de2e816ca.webm",
+    "jmcs://jd-contents/MiGente/MiGente_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MiGente/MiGente_MapPreviewNoSoundCrop_MID.vp8.webm/8e75ede4d520a5f28a7766b5a790a485.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496726\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MiGente/MiGente_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1136\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483139\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MiGente/MiGente_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\n\t\t\t\t\t<Initialization range=\"0-648\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 189.179063
+}

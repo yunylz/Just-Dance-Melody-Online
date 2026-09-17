@@ -1,0 +1,162 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MisunderstoodMU/MisunderstoodMU.ogg": "/private/map/MisunderstoodMU/MisunderstoodMU.ogg/6225af2a54bebfbbda7c282370b1fd01.ogg",
+    "jmcs://jd-contents/MisunderstoodMU/MisunderstoodMU_AudioPreview.ogg": "/public/map/MisunderstoodMU/MisunderstoodMU_AudioPreview.ogg/46314e42e6aaaba32fc0ec6bc759af8b.ogg",
+    "jmcs://jd-contents/MisunderstoodMU/MisunderstoodMU_HIGH.hd.webm": "/private/map/MisunderstoodMU/MisunderstoodMU_HIGH.hd.webm/53b7cb2854fce1d6537d1498aa787524.webm",
+    "jmcs://jd-contents/MisunderstoodMU/MisunderstoodMU_LOW.hd.webm": "/private/map/MisunderstoodMU/MisunderstoodMU_LOW.hd.webm/e7306d2e523bd502ab7c320c9170dc1f.webm",
+    "jmcs://jd-contents/MisunderstoodMU/MisunderstoodMU_MID.hd.webm": "/private/map/MisunderstoodMU/MisunderstoodMU_MID.hd.webm/8b684f6bf35758dfe2c40881462bf65b.webm",
+    "jmcs://jd-contents/MisunderstoodMU/MisunderstoodMU_ULTRA.hd.webm": "/private/map/MisunderstoodMU/MisunderstoodMU_ULTRA.hd.webm/19b5ecf1c70de637ec8ef2a611a2cf31.webm",
+    "jmcs://jd-contents/MisunderstoodMU/MisunderstoodMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MisunderstoodMU/MisunderstoodMU_MapPreviewNoSoundCrop_LOW.vp8.webm/731c7cba0c65bc85ee3c6e8254019802.webm",
+    "jmcs://jd-contents/MisunderstoodMU/MisunderstoodMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MisunderstoodMU/MisunderstoodMU_MapPreviewNoSoundCrop_MID.vp8.webm/b0c7510176149dee0038f8db3d1e4d42.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29088,
+        58176,
+        87264,
+        116352,
+        145440,
+        174528,
+        203616,
+        232704,
+        261840,
+        290928,
+        320016,
+        349104,
+        378192,
+        407280,
+        436368,
+        465456,
+        494544,
+        523632,
+        552720,
+        581808,
+        610896,
+        639984,
+        669072,
+        698160,
+        727296,
+        756384,
+        785472,
+        814560,
+        843648,
+        872736,
+        901824,
+        930912,
+        960000,
+        989088,
+        1018176,
+        1047264,
+        1076352,
+        1105440,
+        1134528,
+        1163616,
+        1192704,
+        1221840,
+        1250928,
+        1280016,
+        1309104,
+        1338192,
+        1367280,
+        1396368,
+        1425456,
+        1454544,
+        1483632
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 364,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MisunderstoodMU/MisunderstoodMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MisunderstoodMU/nx/MisunderstoodMU_banner_bkg.tga.ckd/f37232aa3ac63dfdb765f984960383ba.ckd",
+      "map_bkgImageUrl": "/public/map/MisunderstoodMU/nx/MisunderstoodMU_map_bkg.tga.ckd/f9dacc08a896db2ba259a7519aee841c.ckd",
+      "expandCoachImageUrl": "/public/map/MisunderstoodMU/nx/MisunderstoodMU_Cover_AlbumCoach.tga.ckd/73d832d623995bad1c0e488df415de2c.ckd",
+      "cover_smallImageUrl": "/public/map/MisunderstoodMU/nx/MisunderstoodMU_Cover_Online.tga.ckd/930a01c89c9b9070d5cc3c4f7cffd250.ckd",
+      "coverImageUrl": "/public/map/MisunderstoodMU/nx/MisunderstoodMU_Cover_Generic.tga.ckd/7802304d50bd32a22d84ea07b16655f5.ckd",
+      "coach1ImageUrl": "/public/map/MisunderstoodMU/nx/MisunderstoodMU_Coach_1.tga.ckd/ece8cb86d9ed2437388945bc55f73f6f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MisunderstoodMU/pc/MisunderstoodMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/MisunderstoodMU/pc/MisunderstoodMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/MisunderstoodMU/pc/MisunderstoodMU_Cover_AlbumCoach.tga.ckd/eb68b0c103885cf2c667f9c449e900df.ckd",
+      "cover_smallImageUrl": "/public/map/MisunderstoodMU/pc/MisunderstoodMU_Cover_Online.tga.ckd/0eebab31bc8981034af10957bb25da39.ckd",
+      "coverImageUrl": "/public/map/MisunderstoodMU/pc/MisunderstoodMU_Cover_Generic.tga.ckd/5e2ffc4d60da614943460139a1cb5d99.ckd",
+      "coach1ImageUrl": "/public/map/MisunderstoodMU/pc/MisunderstoodMU_Coach_1.tga.ckd/60ced920b93c89151e38f98088ce84d3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MisunderstoodMU/orbis/MisunderstoodMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/MisunderstoodMU/orbis/MisunderstoodMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/MisunderstoodMU/orbis/MisunderstoodMU_Cover_AlbumCoach.tga.ckd/eb68b0c103885cf2c667f9c449e900df.ckd",
+      "cover_smallImageUrl": "/public/map/MisunderstoodMU/orbis/MisunderstoodMU_Cover_Online.tga.ckd/0eebab31bc8981034af10957bb25da39.ckd",
+      "coverImageUrl": "/public/map/MisunderstoodMU/orbis/MisunderstoodMU_Cover_Generic.tga.ckd/5e2ffc4d60da614943460139a1cb5d99.ckd",
+      "coach1ImageUrl": "/public/map/MisunderstoodMU/orbis/MisunderstoodMU_Coach_1.tga.ckd/60ced920b93c89151e38f98088ce84d3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MisunderstoodMU/MisunderstoodMU_Coach_1_Phone.png/17947ca507f6988ea21fcbcda5d72b30.png",
+    "phoneCoverImageUrl": "/public/map/MisunderstoodMU/MisunderstoodMU_Cover_Phone.jpg/5794d21c3d343e7a5afdd3dd524c1f3e.jpg",
+    "cover640ImageUrl": "/public/map/MisunderstoodMU/MisunderstoodMU_Cover_640.png/2d0704bb354103cd11275103d3f7042b.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "577b338e57354b4e7ced9c051f347d8a",
+      "storageType": 0,
+      "url": "/public/map/MisunderstoodMU/nx/MisunderstoodMU_MAIN_SCENE_NX.zip/577b338e57354b4e7ced9c051f347d8a.zip"
+    },
+    "pc": {
+      "md5": "f49cd9fdb556f00fa4d4c5f1aebb6144",
+      "storageType": 0,
+      "url": "/public/map/MisunderstoodMU/pc/MisunderstoodMU_MAIN_SCENE_PC.zip/f49cd9fdb556f00fa4d4c5f1aebb6144.zip"
+    },
+    "ps4": {
+      "md5": "424909ac71669d3e751298e6724f3662",
+      "storageType": 0,
+      "url": "/public/map/MisunderstoodMU/orbis/MisunderstoodMU_MAIN_SCENE_ORBIS.zip/424909ac71669d3e751298e6724f3662.zip"
+    }
+  },
+  "data": {
+    "mapName": "MisunderstoodMU",
+    "title": "Miss Understood",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Sammie",
+    "credits": "Courtesy of Ubiloud. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#13c2cd",
+    "songColor2A": "#ddc777",
+    "songColor1B": "#1a0066",
+    "songColor2B": "#980072",
+    "lyricsColor": "#07c6fd",
+    "LocaleID": 13572
+  },
+  "mapLength": 220.606063
+}

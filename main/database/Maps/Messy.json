@@ -1,0 +1,169 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Messy/Messy.ogg": "/private/map/Messy/Messy.ogg/7e64b83f299ecaed02412438bce3f99a.ogg",
+    "jmcs://jd-contents/Messy/Messy_AudioPreview.ogg": "/public/map/Messy/Messy_AudioPreview.ogg/99c59357dd6c6915f8f88b18d1970efd.ogg",
+    "jmcs://jd-contents/Messy/Messy_HIGH.hd.webm": "/private/map/Messy/Messy_HIGH.hd.webm/12f34750f343b65526ff97f4735b0a2a.webm",
+    "jmcs://jd-contents/Messy/Messy_LOW.hd.webm": "/private/map/Messy/Messy_LOW.hd.webm/15c1fe3f80b5bba470e4f8fcbacae15f.webm",
+    "jmcs://jd-contents/Messy/Messy_MID.hd.webm": "/private/map/Messy/Messy_MID.hd.webm/072f9d2c61e86fb49f0f9dd5d4183a5a.webm",
+    "jmcs://jd-contents/Messy/Messy_ULTRA.hd.webm": "/private/map/Messy/Messy_ULTRA.hd.webm/19cc31f56a0c92e65df0a2f92e0987a7.webm",
+    "jmcs://jd-contents/Messy/Messy_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Messy/Messy_MapPreviewNoSoundCrop_LOW.vp8.webm/0db9ed65255e46bdbbe7e55643ec90e5.webm",
+    "jmcs://jd-contents/Messy/Messy_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Messy/Messy_MapPreviewNoSoundCrop_MID.vp8.webm/8e748ce3d71603a314377291bcd7b7a7.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25946,
+        51892,
+        77838,
+        103784,
+        129730,
+        155676,
+        181622,
+        207568,
+        233514,
+        259459,
+        285405,
+        311351,
+        337297,
+        363243,
+        389189,
+        415135,
+        441081,
+        467027,
+        492973,
+        518919,
+        544865,
+        570811,
+        596757,
+        622703,
+        648649,
+        674595,
+        700541,
+        726486,
+        752432,
+        778378,
+        804324,
+        830270,
+        856216,
+        882162,
+        908108,
+        934054,
+        960000,
+        985946,
+        1011892,
+        1037838,
+        1063784,
+        1089730,
+        1115676,
+        1141622,
+        1167568,
+        1193514,
+        1219459,
+        1245405,
+        1271351,
+        1297297,
+        1323243,
+        1349189,
+        1375135,
+        1401081,
+        1427027,
+        1452973,
+        1478919
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 521,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Messy/Messy_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"528168\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Messy/Messy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2017169\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Messy/Messy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "2d0549c622937ca5815c27b8c98f05aa",
+      "storageType": 0,
+      "url": "/public/map/Messy/nx/Messy_MAIN_SCENE_NX.zip/2d0549c622937ca5815c27b8c98f05aa.zip"
+    },
+    "pc": {
+      "md5": "b31cec3ab58f21dfd8aac32459470fae",
+      "storageType": 0,
+      "url": "/public/map/Messy/pc/Messy_MAIN_SCENE_PC.zip/b31cec3ab58f21dfd8aac32459470fae.zip"
+    },
+    "ps4": {
+      "md5": "3b3351bdf7d9ef245568cb27809fbcfa",
+      "storageType": 0,
+      "url": "/public/map/Messy/orbis/Messy_MAIN_SCENE_ORBIS.zip/3b3351bdf7d9ef245568cb27809fbcfa.zip"
+    }
+  },
+  "data": {
+    "mapName": "Messy",
+    "title": "Messy",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Lola Young",
+    "credits": "“Messy” performed by Lola Young. Written by Conor Dickinson and Lola Young. Published by Day One Songs Limited (NS) / Sony/ATV Music Publishing (UK) Limited (PRS). Courtesy of Day One Music Limited under license from Universal Music Canada Inc. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f40f45",
+    "songColor2A": "#ade8f4",
+    "songColor1B": "#0c0002",
+    "songColor2B": "#0052af",
+    "lyricsColor": "#fd4d8c",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Messy/nx/Messy_banner_bkg.tga.ckd/6b8a3d10ffbec0875e1699180b4979b9.ckd",
+      "map_bkgImageUrl": "/public/map/Messy/nx/Messy_map_bkg.tga.ckd/6efe7eccf534f67a23e0b422478afe53.ckd",
+      "expandCoachImageUrl": "/public/map/Messy/nx/Messy_Cover_AlbumCoach.tga.ckd/1da856408d330b16068151990394aa85.ckd",
+      "cover_smallImageUrl": "/public/map/Messy/nx/Messy_Cover_Online.tga.ckd/ff3c31cae3b4e3112c1fad5e288b44f1.ckd",
+      "coverImageUrl": "/public/map/Messy/nx/Messy_Cover_Generic.tga.ckd/dcb966c145b8a7a5f76922519bf01297.ckd",
+      "coach1ImageUrl": "/public/map/Messy/nx/Messy_Coach_1.tga.ckd/f76c88eae65b404a9e6ef125ef56ed05.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Messy/pc/Messy_banner_bkg.tga.ckd/adab2185a8dcb1c55aebc04f7b2edccb.ckd",
+      "map_bkgImageUrl": "/public/map/Messy/pc/Messy_map_bkg.tga.ckd/eb87da42f9e4c13d99fdc5c43fe86ed9.ckd",
+      "expandCoachImageUrl": "/public/map/Messy/pc/Messy_Cover_AlbumCoach.tga.ckd/2ffc65ac59a741e7e1e8973ac44113b6.ckd",
+      "cover_smallImageUrl": "/public/map/Messy/pc/Messy_Cover_Online.tga.ckd/ad6de3845429eb81f88848dd270bf2dc.ckd",
+      "coverImageUrl": "/public/map/Messy/pc/Messy_Cover_Generic.tga.ckd/1899595d8b179557a45fecf41543b9d2.ckd",
+      "coach1ImageUrl": "/public/map/Messy/pc/Messy_Coach_1.tga.ckd/bf335c54e60bbc822d65f6260845d6b7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Messy/orbis/Messy_banner_bkg.tga.ckd/adab2185a8dcb1c55aebc04f7b2edccb.ckd",
+      "map_bkgImageUrl": "/public/map/Messy/orbis/Messy_map_bkg.tga.ckd/eb87da42f9e4c13d99fdc5c43fe86ed9.ckd",
+      "expandCoachImageUrl": "/public/map/Messy/orbis/Messy_Cover_AlbumCoach.tga.ckd/2ffc65ac59a741e7e1e8973ac44113b6.ckd",
+      "cover_smallImageUrl": "/public/map/Messy/orbis/Messy_Cover_Online.tga.ckd/ad6de3845429eb81f88848dd270bf2dc.ckd",
+      "coverImageUrl": "/public/map/Messy/orbis/Messy_Cover_Generic.tga.ckd/1899595d8b179557a45fecf41543b9d2.ckd",
+      "coach1ImageUrl": "/public/map/Messy/orbis/Messy_Coach_1.tga.ckd/bf335c54e60bbc822d65f6260845d6b7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Messy/Messy_Coach_1_Phone.png/fca58513623d01a8839952240390642e.png",
+    "phoneCoverImageUrl": "/public/map/Messy/Messy_Cover_Phone.jpg/08903ec3c8f8e1f924cac22d6cbdce12.jpg",
+    "cover640ImageUrl": "/public/map/Messy/Messy_Cover_640.png/91f2ba6a1c74fa4765c9005b57cd882b.png"
+  },
+  "mapLength": 284.864854
+}

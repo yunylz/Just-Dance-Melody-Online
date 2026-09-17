@@ -1,0 +1,166 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MJJustCantStop/MJJustCantStop.ogg": "/private/map/MJJustCantStop/MJJustCantStop.ogg/4221ddd588f20eb2811141f4305d3394.ogg",
+    "jmcs://jd-contents/MJJustCantStop/MJJustCantStop_AudioPreview.ogg": "/public/map/MJJustCantStop/MJJustCantStop_AudioPreview.ogg/5cc2e2cc5bc9f2ef47071b90a659aeb0.ogg",
+    "jmcs://jd-contents/MJJustCantStop/MJJustCantStop_HIGH.hd.webm": "/private/map/MJJustCantStop/MJJustCantStop_HIGH.hd.webm/16de6b518434be11e50b87db42fb983a.webm",
+    "jmcs://jd-contents/MJJustCantStop/MJJustCantStop_LOW.hd.webm": "/private/map/MJJustCantStop/MJJustCantStop_LOW.hd.webm/a179f3f72378be7908472c68d6caab82.webm",
+    "jmcs://jd-contents/MJJustCantStop/MJJustCantStop_MID.hd.webm": "/private/map/MJJustCantStop/MJJustCantStop_MID.hd.webm/039f68dc487c8608e3c70302be93bc41.webm",
+    "jmcs://jd-contents/MJJustCantStop/MJJustCantStop_ULTRA.hd.webm": "/private/map/MJJustCantStop/MJJustCantStop_ULTRA.hd.webm/7c897e09dca33a6259f5946935d741a8.webm",
+    "jmcs://jd-contents/MJJustCantStop/MJJustCantStop_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJJustCantStop/MJJustCantStop_MapPreviewNoSoundCrop_LOW.vp8.webm/74b43f57f97b33c8413180170399eeff.webm",
+    "jmcs://jd-contents/MJJustCantStop/MJJustCantStop_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJJustCantStop/MJJustCantStop_MapPreviewNoSoundCrop_MID.vp8.webm/e3d67b32b40c2a30169623fb26f51d78.webm"
+  },
+  "mapLength": 253.4969375,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32225,
+        60982,
+        89739,
+        118496,
+        147253,
+        176010,
+        204767,
+        233524,
+        262281,
+        291038,
+        319795,
+        348552,
+        377309,
+        406066,
+        434823,
+        463580,
+        492337,
+        521094,
+        549851,
+        578608,
+        607365,
+        636122,
+        664879,
+        693636,
+        722393,
+        751150,
+        779907,
+        808664,
+        837421,
+        866178,
+        894935,
+        923692,
+        952449,
+        981206,
+        1009963,
+        1038721,
+        1067477,
+        1096234,
+        1124990,
+        1153748,
+        1182503,
+        1211259,
+        1240015,
+        1268772,
+        1297530,
+        1326286,
+        1355041,
+        1383797,
+        1412555,
+        1441312,
+        1470068,
+        1498824
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 423,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJJustCantStop/MJJustCantStop_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"511233\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJJustCantStop/MJJustCantStop_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"799-1289\">\n\t\t\t\t\t<Initialization range=\"0-799\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1964352\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJJustCantStop/MJJustCantStop_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"800-1290\">\n\t\t\t\t\t<Initialization range=\"0-800\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "024b4aaed93db3c32e120f3708b364b2",
+      "storageType": 0,
+      "url": "/public/map/MJJustCantStop/nx/MJJustCantStop_MAIN_SCENE_NX.zip/024b4aaed93db3c32e120f3708b364b2.zip"
+    },
+    "pc": {
+      "md5": "c65ec02ab221dc306ea8ad2cb1eb7562",
+      "storageType": 0,
+      "url": "/public/map/MJJustCantStop/pc/MJJustCantStop_MAIN_SCENE_PC.zip/c65ec02ab221dc306ea8ad2cb1eb7562.zip"
+    },
+    "ps4": {
+      "md5": "58661ca43824f6e3a75ad8737a0cd9c3",
+      "storageType": 0,
+      "url": "/public/map/MJJustCantStop/orbis/MJJustCantStop_MAIN_SCENE_ORBIS.zip/58661ca43824f6e3a75ad8737a0cd9c3.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJJustCantStop",
+    "title": "I Just Can't Stop Loving You",
+    "originalJDVersion": 2009,
+    "tags": [
+      "MJTEDrop",
+      "subscribedSong"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d7c5ff",
+    "songColor2A": "#caaafd",
+    "songColor1B": "#4f2251",
+    "songColor2B": "#1b224a",
+    "lyricsColor": "#bc9eff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJJustCantStop/nx/MJJustCantStop_banner_bkg.tga.ckd/99db7c85aac646758ea2dc3a50b0ddcf.ckd",
+      "map_bkgImageUrl": "/public/map/MJJustCantStop/nx/MJJustCantStop_map_bkg.tga.ckd/98f96e5ed58052a8b97f5c430157853c.ckd",
+      "expandCoachImageUrl": "/public/map/MJJustCantStop/nx/MJJustCantStop_Cover_AlbumCoach.tga.ckd/4f6a1e18c5be7565f2c3b236a720d7f7.ckd",
+      "cover_smallImageUrl": "/public/map/MJJustCantStop/nx/MJJustCantStop_Cover_Online.tga.ckd/f4c6270e50af9747c8a2d8963a07f60f.ckd",
+      "coverImageUrl": "/public/map/MJJustCantStop/nx/MJJustCantStop_Cover_Generic.tga.ckd/91cc04c99aca50abb464231a13a53949.ckd",
+      "coach1ImageUrl": "/public/map/MJJustCantStop/nx/MJJustCantStop_Coach_1.tga.ckd/30d1680596ea2dbf85266889d14dc89e.ckd",
+      "coach2ImageUrl": "/public/map/MJJustCantStop/nx/MJJustCantStop_Coach_2.tga.ckd/8dc5b762c879922b6ab4bbb239e8fbc1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJJustCantStop/pc/MJJustCantStop_banner_bkg.tga.ckd/14e67424a7675e0d7914e04bdb09ccaa.ckd",
+      "map_bkgImageUrl": "/public/map/MJJustCantStop/pc/MJJustCantStop_map_bkg.tga.ckd/29d31ebf7d0ba425a69bc80d185b851a.ckd",
+      "expandCoachImageUrl": "/public/map/MJJustCantStop/pc/MJJustCantStop_Cover_AlbumCoach.tga.ckd/fba1e7fa9ada118cf6eccda7bfd30491.ckd",
+      "cover_smallImageUrl": "/public/map/MJJustCantStop/pc/MJJustCantStop_Cover_Online.tga.ckd/10af5b68947159290b00617e7c0462a8.ckd",
+      "coverImageUrl": "/public/map/MJJustCantStop/pc/MJJustCantStop_Cover_Generic.tga.ckd/8dacb253d881f44e5227788f9ed5254a.ckd",
+      "coach1ImageUrl": "/public/map/MJJustCantStop/pc/MJJustCantStop_Coach_1.tga.ckd/f68ec32468d55428b283733250ce6574.ckd",
+      "coach2ImageUrl": "/public/map/MJJustCantStop/pc/MJJustCantStop_Coach_2.tga.ckd/b0e82b5f949ac7b05147cb52efffaad3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJJustCantStop/orbis/MJJustCantStop_banner_bkg.tga.ckd/14e67424a7675e0d7914e04bdb09ccaa.ckd",
+      "map_bkgImageUrl": "/public/map/MJJustCantStop/orbis/MJJustCantStop_map_bkg.tga.ckd/29d31ebf7d0ba425a69bc80d185b851a.ckd",
+      "expandCoachImageUrl": "/public/map/MJJustCantStop/orbis/MJJustCantStop_Cover_AlbumCoach.tga.ckd/fba1e7fa9ada118cf6eccda7bfd30491.ckd",
+      "cover_smallImageUrl": "/public/map/MJJustCantStop/orbis/MJJustCantStop_Cover_Online.tga.ckd/10af5b68947159290b00617e7c0462a8.ckd",
+      "coverImageUrl": "/public/map/MJJustCantStop/orbis/MJJustCantStop_Cover_Generic.tga.ckd/8dacb253d881f44e5227788f9ed5254a.ckd",
+      "coach1ImageUrl": "/public/map/MJJustCantStop/orbis/MJJustCantStop_Coach_1.tga.ckd/f68ec32468d55428b283733250ce6574.ckd",
+      "coach2ImageUrl": "/public/map/MJJustCantStop/orbis/MJJustCantStop_Coach_2.tga.ckd/b0e82b5f949ac7b05147cb52efffaad3.ckd"
+    },
+    "cover640ImageUrl": "/public/map/MJJustCantStop/MJJustCantStop_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  }
+}

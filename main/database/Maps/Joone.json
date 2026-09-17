@@ -1,0 +1,177 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Joone/Joone.ogg": "/private/map/Joone/Joone.ogg/c7fd1cdbf993d3b377441c2f0db243c6.ogg",
+    "jmcs://jd-contents/Joone/Joone_AudioPreview.ogg": "/public/map/Joone/Joone_AudioPreview.ogg/41cd0e9b86fa8248a024c8e79e75a016.ogg",
+    "jmcs://jd-contents/Joone/Joone_HIGH.hd.webm": "/private/map/Joone/Joone_HIGH.hd.webm/17c8ebe4daec9457ee9655d705acdc20.webm",
+    "jmcs://jd-contents/Joone/Joone_LOW.hd.webm": "/private/map/Joone/Joone_LOW.hd.webm/e53c19a2a4ec0dfeceb8f0c0a8657b00.webm",
+    "jmcs://jd-contents/Joone/Joone_MID.hd.webm": "/private/map/Joone/Joone_MID.hd.webm/faa3378dda9477b7743cb7acfb2476cf.webm",
+    "jmcs://jd-contents/Joone/Joone_ULTRA.hd.webm": "/private/map/Joone/Joone_ULTRA.hd.webm/240177c5f1a87e28286b091b227f7569.webm",
+    "jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Joone/Joone_MapPreviewNoSoundCrop_LOW.vp8.webm/a7aa9d6505d93a5501b40d8ded392dbb.webm",
+    "jmcs://jd-contents/Joone/Joone_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Joone/Joone_MapPreviewNoSoundCrop_MID.vp8.webm/90052c02acf10753c0ee261795b7868a.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 382,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Joone/Joone_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "e01134a5e62c4143aa5e6ddf345f061e",
+      "storageType": 0,
+      "url": "/public/map/Joone/nx/Joone_MAIN_SCENE_NX.zip/e01134a5e62c4143aa5e6ddf345f061e.zip"
+    },
+    "pc": {
+      "md5": "a5d215f3335b97640631e7a0d3a67d7f",
+      "storageType": 0,
+      "url": "/public/map/Joone/pc/Joone_MAIN_SCENE_PC.zip/a5d215f3335b97640631e7a0d3a67d7f.zip"
+    },
+    "ps4": {
+      "md5": "6623dfb27b5936b2ceb3b50bb0dcffb3",
+      "storageType": 0,
+      "url": "/public/map/Joone/orbis/Joone_MAIN_SCENE_ORBIS.zip/6623dfb27b5936b2ceb3b50bb0dcffb3.zip"
+    }
+  },
+  "data": {
+    "mapName": "Joone",
+    "title": "Joone Khodet",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "Black Cats",
+    "credits": "Written by Schubert Avakian and Babak Roozbeh. Published by CTX Publishing (BMI). Courtesy of Caltex Records.",
+    "coachCount": 2,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#14ff76",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Joone/nx/Joone_banner_bkg.tga.ckd/2fd148df5415742b896c9f3cde742c6d.ckd",
+      "map_bkgImageUrl": "/public/map/Joone/nx/Joone_map_bkg.tga.ckd/acf96a9e1ee37e37c674a0bd151c7677.ckd",
+      "expandCoachImageUrl": "/public/map/Joone/nx/Joone_Cover_AlbumCoach.tga.ckd/10de476c9541d56873ac55cc1e054d62.ckd",
+      "cover_smallImageUrl": "/public/map/Joone/nx/Joone_Cover_Online.tga.ckd/58c560eac47e2c879f2934d7887d7a46.ckd",
+      "coverImageUrl": "/public/map/Joone/nx/Joone_Cover_Generic.tga.ckd/33f0fe5a9a690fba47c74f29705e82ea.ckd",
+      "coach1ImageUrl": "/public/map/Joone/nx/Joone_Coach_1.tga.ckd/1d0513aca1b07b2a52099176db4bb1b0.ckd",
+      "coach2ImageUrl": "/public/map/Joone/nx/Joone_Coach_2.tga.ckd/5393d5531b36f53a51762d2c879225db.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Joone/pc/Joone_banner_bkg.tga.ckd/610611062ade1be214c807390209b930.ckd",
+      "map_bkgImageUrl": "/public/map/Joone/pc/Joone_map_bkg.tga.ckd/793233c8e00c751b23e54efc2429652b.ckd",
+      "expandCoachImageUrl": "/public/map/Joone/pc/Joone_Cover_AlbumCoach.tga.ckd/10f1a5e24bba05b402717c9e57b17899.ckd",
+      "cover_smallImageUrl": "/public/map/Joone/pc/Joone_Cover_Online.tga.ckd/5c389339fec46ec98c85b1d87cda4244.ckd",
+      "coverImageUrl": "/public/map/Joone/pc/Joone_Cover_Generic.tga.ckd/f7e62bff4845b70893874f3077fcf149.ckd",
+      "coach1ImageUrl": "/public/map/Joone/pc/Joone_Coach_1.tga.ckd/e0a477464630e7da4f22d4c91fc6b0f4.ckd",
+      "coach2ImageUrl": "/public/map/Joone/pc/Joone_Coach_2.tga.ckd/a86e135562714ae2f0785c5341c164e8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Joone/orbis/Joone_banner_bkg.tga.ckd/610611062ade1be214c807390209b930.ckd",
+      "map_bkgImageUrl": "/public/map/Joone/orbis/Joone_map_bkg.tga.ckd/793233c8e00c751b23e54efc2429652b.ckd",
+      "expandCoachImageUrl": "/public/map/Joone/orbis/Joone_Cover_AlbumCoach.tga.ckd/10f1a5e24bba05b402717c9e57b17899.ckd",
+      "cover_smallImageUrl": "/public/map/Joone/orbis/Joone_Cover_Online.tga.ckd/5c389339fec46ec98c85b1d87cda4244.ckd",
+      "coverImageUrl": "/public/map/Joone/orbis/Joone_Cover_Generic.tga.ckd/f7e62bff4845b70893874f3077fcf149.ckd",
+      "coach1ImageUrl": "/public/map/Joone/orbis/Joone_Coach_1.tga.ckd/e0a477464630e7da4f22d4c91fc6b0f4.ckd",
+      "coach2ImageUrl": "/public/map/Joone/orbis/Joone_Coach_2.tga.ckd/a86e135562714ae2f0785c5341c164e8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Joone/Joone_Coach_1_Phone.png/7f395bb1f7e19c7adb8dcac365cf6d38.png",
+    "phoneCoach2ImageUrl": "/public/map/Joone/Joone_Coach_2_Phone.png/6a513fa5392e61e36d1524a5802a8de6.png",
+    "phoneCoverImageUrl": "/public/map/Joone/Joone_Cover_Phone.jpg/4cc2e7199c6af1e93e1575adbefde5f1.jpg",
+    "cover640ImageUrl": "/public/map/Joone/Joone_Cover_640.png/10fd841a8334756b1cc5859aafce0159.png"
+  },
+  "mapLength": 192.0
+}

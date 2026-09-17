@@ -1,0 +1,164 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "06996e5ec654eca03c9d354550a61e29",
+      "storageType": 0,
+      "url": "/public/map/EQUIS/nx/EQUIS_MAIN_SCENE_NX.zip/06996e5ec654eca03c9d354550a61e29.zip"
+    },
+    "pc": {
+      "md5": "a7a2feed0e3f9847f83d0005a2e9ae21",
+      "storageType": 0,
+      "url": "/public/map/EQUIS/pc/EQUIS_MAIN_SCENE_PC.zip/a7a2feed0e3f9847f83d0005a2e9ae21.zip"
+    },
+    "ps4": {
+      "md5": "499b615060b708e9ee604cf0c7bdc935",
+      "storageType": 0,
+      "url": "/public/map/EQUIS/orbis/EQUIS_MAIN_SCENE_ORBIS.zip/499b615060b708e9ee604cf0c7bdc935.zip"
+    }
+  },
+  "data": {
+    "mapName": "EQUIS",
+    "title": "X ",
+    "originalJDVersion": 2020,
+    "tags": [
+      "forceRumble",
+      "Duet",
+      "JustDance2020",
+      "subscribedSong"
+    ],
+    "artist": "Nicky Jam & J Balvin ",
+    "credits": "Written by Nick Rivera Caminero, Juan Diego Medina, Rashid M S Badloe, Giordano M S Dano Ashruf, Jose Alvaro Osorio Balvin, Vicente Saavedra, Jan Carlos Ozuna Rosado and Jonathan Bryan Thiel. Published by CSN Publishing (BUMA) / La Industria Music Publishing (SESAC) / Sony/ATV Sounds LLC. (SESAC) / Temazo Music (BUM/STE). All rights on behalf of Temazo Music administered by WB Music Corp. / Universal Music Publishing. / Music Good Vibes Publishing (BMI), Ozuna Worldwide (BMI). Administered by Songs of Kobalt Music Publishing (BMI). All rights reserved. Used with permission. Courtesy of Sony Music Entertainment US Latin LLC. By arrangement with Sony Music Entertainment. / J Balvin appears courtesy of Universal Music Latino. ",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#162593",
+    "songColor2A": "#00f1ee",
+    "songColor1B": "#000734",
+    "songColor2B": "#0a0018",
+    "lyricsColor": "#ea38a1",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32000,
+        64000,
+        96000,
+        128000,
+        160000,
+        192000,
+        224000,
+        256000,
+        288000,
+        320000,
+        352000,
+        384000,
+        416000,
+        448000,
+        480000,
+        512000,
+        544000,
+        576000,
+        608000,
+        640000,
+        672000,
+        704000,
+        736000,
+        768000,
+        800000,
+        832000,
+        864000,
+        896000,
+        928000,
+        960000,
+        992000,
+        1024000,
+        1056000,
+        1088000,
+        1120000,
+        1152000,
+        1184000,
+        1216000,
+        1248000,
+        1280000,
+        1312000,
+        1344000,
+        1376000,
+        1408000,
+        1440000,
+        1472000,
+        1504000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 261,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 45,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/EQUIS/EQUIS_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/EQUIS/nx/EQUIS_banner_bkg.tga.ckd/b1eec0d8bee8ac87d229aba24fc9d5b5.ckd",
+      "map_bkgImageUrl": "/public/map/EQUIS/nx/EQUIS_map_bkg.tga.ckd/e1e38ea3bbdf17434cdecc0f070dcb13.ckd",
+      "expandCoachImageUrl": "/public/map/EQUIS/nx/EQUIS_Cover_AlbumCoach.tga.ckd/f6c58ac7f8b81936e477aa7ff51dd20d.ckd",
+      "cover_smallImageUrl": "/public/map/EQUIS/nx/EQUIS_Cover_Online.tga.ckd/421dc0ae38f7b96dae17843afbf98ff2.ckd",
+      "coach1ImageUrl": "/public/map/EQUIS/nx/EQUIS_Coach_1.tga.ckd/32721911ac4a8a68ebb8ceecb4e341e5.ckd",
+      "coach2ImageUrl": "/public/map/EQUIS/nx/EQUIS_Coach_2.tga.ckd/453fa2cb12d138787b0bf50a4751c7d0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/EQUIS/pc/EQUIS_banner_bkg.tga.ckd/11a7d12f1a5a56d11c5d4af6b21c0311.ckd",
+      "map_bkgImageUrl": "/public/map/EQUIS/pc/EQUIS_map_bkg.tga.ckd/42a98ecbd2314da684bddf6da86e1514.ckd",
+      "expandCoachImageUrl": "/public/map/EQUIS/pc/EQUIS_Cover_AlbumCoach.tga.ckd/d182e31e17261da93b3e6cf2ed5f8e3d.ckd",
+      "cover_smallImageUrl": "/public/map/EQUIS/pc/EQUIS_Cover_Online.tga.ckd/c382bd35a03b847d70188ded91db09f7.ckd",
+      "coach1ImageUrl": "/public/map/EQUIS/pc/EQUIS_Coach_1.tga.ckd/8c32588d1f7f32cc5a59b3d747214bfe.ckd",
+      "coach2ImageUrl": "/public/map/EQUIS/pc/EQUIS_Coach_2.tga.ckd/b1b7a0b095939491ef33f1f043747617.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/EQUIS/orbis/EQUIS_banner_bkg.tga.ckd/11a7d12f1a5a56d11c5d4af6b21c0311.ckd",
+      "map_bkgImageUrl": "/public/map/EQUIS/orbis/EQUIS_map_bkg.tga.ckd/42a98ecbd2314da684bddf6da86e1514.ckd",
+      "expandCoachImageUrl": "/public/map/EQUIS/orbis/EQUIS_Cover_AlbumCoach.tga.ckd/d182e31e17261da93b3e6cf2ed5f8e3d.ckd",
+      "cover_smallImageUrl": "/public/map/EQUIS/orbis/EQUIS_Cover_Online.tga.ckd/c382bd35a03b847d70188ded91db09f7.ckd",
+      "coach1ImageUrl": "/public/map/EQUIS/orbis/EQUIS_Coach_1.tga.ckd/8c32588d1f7f32cc5a59b3d747214bfe.ckd",
+      "coach2ImageUrl": "/public/map/EQUIS/orbis/EQUIS_Coach_2.tga.ckd/b1b7a0b095939491ef33f1f043747617.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/EQUIS/EQUIS_Coach_1_Phone.png/74e4197f956ea22c9cc8ab46f9df9795.png",
+    "phoneCoach2ImageUrl": "/public/map/EQUIS/EQUIS_Coach_2_Phone.png/d4689b758099f38682677bb3db7bf4b3.png",
+    "phoneCoverImageUrl": "/public/map/EQUIS/EQUIS_Cover_Phone.jpg/358af4130dbcb3f83c8f51de5601f20f.jpg",
+    "cover640ImageUrl": "/public/map/EQUIS/EQUIS_Cover_640.png/168e01a0854e407604dc594666d59cc8.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/EQUIS/EQUIS.ogg": "/private/map/EQUIS/EQUIS.ogg/fcdfa10002e913a47e7f1fa2cf6366f9.ogg",
+    "jmcs://jd-contents/EQUIS/EQUIS_AudioPreview.ogg": "/public/map/EQUIS/EQUIS_AudioPreview.ogg/ec04770fef37fb50e5716a33e66b25a2.ogg",
+    "jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/EQUIS/EQUIS_MapPreviewNoSoundCrop_LOW.vp8.webm/353d51f66d0680e77b76d93f2940b485.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_HIGH.webm": "/private/map/EQUIS/EQUIS_HIGH.webm/0087193ff76d209b6667e8d65e20132e.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_LOW.webm": "/private/map/EQUIS/EQUIS_LOW.webm/703660a3a3ed4c8da68dbd08db5d95c9.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_MID.webm": "/private/map/EQUIS/EQUIS_MID.webm/94ce404c389debc528e095f9ba76282c.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_ULTRA.hd.webm": "/private/map/EQUIS/EQUIS_ULTRA.hd.webm/6e4102f45f87863cc7e6c7d2b44d4add.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_ULTRA.webm": "/private/map/EQUIS/EQUIS_ULTRA.webm/ba466faddf28a1825a13fc93ecbd3465.webm",
+    "jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/EQUIS/EQUIS_MapPreviewNoSoundCrop_MID.vp8.webm/d9daaa5b5d0a705350351430b594a276.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497236\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\n\t\t\t\t\t<Initialization range=\"0-606\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483170\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/EQUIS/EQUIS_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\n\t\t\t\t\t<Initialization range=\"0-607\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 173.999958
+}

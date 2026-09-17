@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "839b23f5f8f25f36ebf3e6453fb12afe",
+      "storageType": 0,
+      "url": "/public/map/JDCGee/nx/JDCGee_MAIN_SCENE_NX.zip/839b23f5f8f25f36ebf3e6453fb12afe.zip"
+    },
+    "pc": {
+      "md5": "fda50fce52a5440c38379a21e8ba50a9",
+      "storageType": 0,
+      "url": "/public/map/JDCGee/pc/JDCGee_MAIN_SCENE_PC.zip/fda50fce52a5440c38379a21e8ba50a9.zip"
+    },
+    "ps4": {
+      "md5": "e6e1c6707538321b649bfc4e9892b2b2",
+      "storageType": 0,
+      "url": "/public/map/JDCGee/orbis/JDCGee_MAIN_SCENE_ORBIS.zip/e6e1c6707538321b649bfc4e9892b2b2.zip"
+    }
+  },
+  "data": {
+    "mapName": "JDCGee",
+    "title": "Gee",
+    "originalJDVersion": 1100,
+    "tags": [
+      "subscribedSong",
+      "JustDanceAsia",
+      "Trio",
+      "Medium"
+    ],
+    "artist": "Girls Generation",
+    "credits": "<< to be filled >>",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#fa67e4",
+    "songColor2A": "#3cc3fd",
+    "songColor1B": "#7b3771",
+    "songColor2B": "#046791",
+    "lyricsColor": "#1584c6"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 334,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JDCGee/JDCGee_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JDCGee/nx/JDCGee_banner_bkg.tga.ckd/0966aa434e32c8170e02695c0f6ead2e.ckd",
+      "map_bkgImageUrl": "/public/map/JDCGee/nx/JDCGee_map_bkg.tga.ckd/3af9885bf9b1dee072cdfa26630b955b.ckd",
+      "expandCoachImageUrl": "/public/map/JDCGee/nx/JDCGee_Cover_AlbumCoach.tga.ckd/5d55b743cbd5d02f7aad6b29ff34ee0d.ckd",
+      "cover_smallImageUrl": "/public/map/JDCGee/nx/JDCGee_Cover_Online.tga.ckd/879daca72fb3c395078689420af6909c.ckd",
+      "coach1ImageUrl": "/public/map/JDCGee/nx/JDCGee_Coach_1.tga.ckd/10154d48403e47e1fdebb240f51d04ff.ckd",
+      "coach2ImageUrl": "/public/map/JDCGee/nx/JDCGee_Coach_2.tga.ckd/361d37aa12222b6c087a4b8e25b62645.ckd",
+      "coach3ImageUrl": "/public/map/JDCGee/nx/JDCGee_Coach_3.tga.ckd/a0ebec458f9e8ac99923f6f3179598ea.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JDCGee/pc/JDCGee_banner_bkg.tga.ckd/dbe3c7cfd1609a9328861027a6b376e2.ckd",
+      "map_bkgImageUrl": "/public/map/JDCGee/pc/JDCGee_map_bkg.tga.ckd/10175fae4809b0fcefce219e68d8b7a6.ckd",
+      "expandCoachImageUrl": "/public/map/JDCGee/pc/JDCGee_Cover_AlbumCoach.tga.ckd/88532a661c7a0a53646bc464decb1c60.ckd",
+      "cover_smallImageUrl": "/public/map/JDCGee/pc/JDCGee_Cover_Online.tga.ckd/bb262bf3ce0bce4b43a0cade4b202fec.ckd",
+      "coach1ImageUrl": "/public/map/JDCGee/pc/JDCGee_Coach_1.tga.ckd/ecb44b90e310129f072a0ca2ca8c7994.ckd",
+      "coach2ImageUrl": "/public/map/JDCGee/pc/JDCGee_Coach_2.tga.ckd/c9045a22d2fd6b0ff8479b443bfce21a.ckd",
+      "coach3ImageUrl": "/public/map/JDCGee/pc/JDCGee_Coach_3.tga.ckd/0a049076e94173c9abe31277e2d62083.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JDCGee/orbis/JDCGee_banner_bkg.tga.ckd/dbe3c7cfd1609a9328861027a6b376e2.ckd",
+      "map_bkgImageUrl": "/public/map/JDCGee/orbis/JDCGee_map_bkg.tga.ckd/10175fae4809b0fcefce219e68d8b7a6.ckd",
+      "expandCoachImageUrl": "/public/map/JDCGee/orbis/JDCGee_Cover_AlbumCoach.tga.ckd/88532a661c7a0a53646bc464decb1c60.ckd",
+      "cover_smallImageUrl": "/public/map/JDCGee/orbis/JDCGee_Cover_Online.tga.ckd/bb262bf3ce0bce4b43a0cade4b202fec.ckd",
+      "coach1ImageUrl": "/public/map/JDCGee/orbis/JDCGee_Coach_1.tga.ckd/ecb44b90e310129f072a0ca2ca8c7994.ckd",
+      "coach2ImageUrl": "/public/map/JDCGee/orbis/JDCGee_Coach_2.tga.ckd/c9045a22d2fd6b0ff8479b443bfce21a.ckd",
+      "coach3ImageUrl": "/public/map/JDCGee/orbis/JDCGee_Coach_3.tga.ckd/0a049076e94173c9abe31277e2d62083.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JDCGee/JDCGee_Coach_1_Phone.png/c27f257619b14e283c96756b9ecade88.png",
+    "phoneCoach2ImageUrl": "/public/map/JDCGee/JDCGee_Coach_2_Phone.png/764217755879fd96261a505552207104.png",
+    "phoneCoach3ImageUrl": "/public/map/JDCGee/JDCGee_Coach_3_Phone.png/5da9dd48d3c5a0eb583a12cff57cc258.png",
+    "phoneCoverImageUrl": "/public/map/JDCGee/JDCGee_Cover_Phone.jpg/231bea21de13b1d76f9d2ccb2064025b.jpg",
+    "cover640ImageUrl": "/public/map/JDCGee/JDCGee_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JDCGee/JDCGee.ogg": "/private/map/JDCGee/JDCGee.ogg/889a00826ad53dcc36a32b4917ec2800.ogg",
+    "jmcs://jd-contents/JDCGee/JDCGee_AudioPreview.ogg": "/public/map/JDCGee/JDCGee_AudioPreview.ogg/0ee26c269e8ba81186497d8ad663cb51.ogg",
+    "jmcs://jd-contents/JDCGee/JDCGee_HIGH.webm": "/private/map/JDCGee/JDCGee_HIGH.webm/4f68c15d58b1ba76a7cf0eace8c5fa50.webm",
+    "jmcs://jd-contents/JDCGee/JDCGee_LOW.webm": "/private/map/JDCGee/JDCGee_LOW.webm/dee6ba2ca57e9e5ef342beed716d356b.webm",
+    "jmcs://jd-contents/JDCGee/JDCGee_MID.webm": "/private/map/JDCGee/JDCGee_MID.webm/7fbcd2cd778a6cbc834f9a1c821a5013.webm",
+    "jmcs://jd-contents/JDCGee/JDCGee_ULTRA.hd.webm": "/private/map/JDCGee/JDCGee_ULTRA.hd.webm/ddf371e7f72a3adb557da57dc4ee3046.webm",
+    "jmcs://jd-contents/JDCGee/JDCGee_ULTRA.webm": "/private/map/JDCGee/JDCGee_ULTRA.webm/37e8f972f6e94eda00e2c7ac75a8d054.webm",
+    "jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JDCGee/JDCGee_MapPreviewNoSoundCrop_LOW.vp8.webm/9a01560af9643820bd515b1a54a20be9.webm",
+    "jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JDCGee/JDCGee_MapPreviewNoSoundCrop_MID.vp8.webm/5e96768110824b02ed8c17001643a31f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496301\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"592-1081\">\n\t\t\t\t\t<Initialization range=\"0-592\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482390\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\n\t\t\t\t\t<Initialization range=\"0-593\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 204.600021
+}

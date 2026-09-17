@@ -1,0 +1,157 @@
+{
+  "urls": {
+    "jmcs://jd-contents/GoldDust/GoldDust_HIGH.webm": "/private/map/GoldDust/GoldDust_HIGH.webm/88989a43a3e9971f5c58ca92e815126c.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_LOW.webm": "/private/map/GoldDust/GoldDust_LOW.webm/f158300377f1ef18c064403b42f9135e.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_MID.webm": "/private/map/GoldDust/GoldDust_MID.webm/643b7fadafbde8db3fb0ac906baa26c0.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_ULTRA.hd.webm": "/private/map/GoldDust/GoldDust_ULTRA.hd.webm/aef9d1a82dd9931be71a74d1f1cd2c11.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_ULTRA.webm": "/private/map/GoldDust/GoldDust_ULTRA.webm/42fd85561f6761a4ecc7321197e1563b.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust.ogg": "/private/map/GoldDust/GoldDust.ogg/7a19b88933ff5073f7d2428b364fc38f.ogg",
+    "jmcs://jd-contents/GoldDust/GoldDust_AudioPreview.ogg": "/public/map/GoldDust/GoldDust_AudioPreview.ogg/582f27059b9000219ab0a32225e71eb1.ogg",
+    "jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GoldDust/GoldDust_MapPreviewNoSoundCrop_LOW.vp8.webm/250ece07c63a63416d54783a0dd1be2d.webm",
+    "jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GoldDust/GoldDust_MapPreviewNoSoundCrop_MID.vp8.webm/83ede3e90f0e7c5eda11fa84265143f0.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        40680,
+        81360,
+        122040,
+        162720,
+        195262,
+        227804,
+        260346,
+        292888,
+        325430,
+        357972,
+        390514,
+        423056,
+        455598,
+        488140,
+        520682,
+        553224,
+        585766,
+        618308,
+        650850,
+        683392,
+        715934,
+        748476,
+        781018,
+        813560,
+        846102,
+        878644,
+        911186,
+        943728,
+        976270,
+        1008812,
+        1041354,
+        1073896,
+        1106438,
+        1138980,
+        1171522,
+        1204064,
+        1236606,
+        1269148,
+        1301690,
+        1334232,
+        1366774,
+        1399316,
+        1431858,
+        1464400,
+        1496942
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 285,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 43,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GoldDust/GoldDust_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GoldDust/nx/GoldDust_banner_bkg.tga.ckd/5a232b5ea5ee19b1faa9bf1ec17d3f15.ckd",
+      "map_bkgImageUrl": "/public/map/GoldDust/nx/GoldDust_map_bkg.tga.ckd/ad3be67bbf53b2f329e1ede4c3e18cb2.ckd",
+      "expandCoachImageUrl": "/public/map/GoldDust/nx/GoldDust_Cover_AlbumCoach.tga.ckd/38764bd65158f8c3cbd2d55bdeec2eea.ckd",
+      "cover_smallImageUrl": "/public/map/GoldDust/nx/GoldDust_Cover_Online.tga.ckd/81be16cdcc5ccda3747513824ed80e3d.ckd",
+      "coach1ImageUrl": "/public/map/GoldDust/nx/GoldDust_Coach_1.tga.ckd/71a217e476559bb916c1b008332fe51e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GoldDust/pc/GoldDust_banner_bkg.tga.ckd/0cec38786135c87c8cb44e266d219c6c.ckd",
+      "map_bkgImageUrl": "/public/map/GoldDust/pc/GoldDust_map_bkg.tga.ckd/f1ada77aef067325fc07886e325f9a17.ckd",
+      "expandCoachImageUrl": "/public/map/GoldDust/pc/GoldDust_Cover_AlbumCoach.tga.ckd/8f7770c0c61ce0655c5ede5b5390627e.ckd",
+      "cover_smallImageUrl": "/public/map/GoldDust/pc/GoldDust_Cover_Online.tga.ckd/3767a211cad10bbad944ba157f9debd7.ckd",
+      "coach1ImageUrl": "/public/map/GoldDust/pc/GoldDust_Coach_1.tga.ckd/396b39aad0f3ecd38528462c09100823.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GoldDust/orbis/GoldDust_banner_bkg.tga.ckd/0cec38786135c87c8cb44e266d219c6c.ckd",
+      "map_bkgImageUrl": "/public/map/GoldDust/orbis/GoldDust_map_bkg.tga.ckd/f1ada77aef067325fc07886e325f9a17.ckd",
+      "expandCoachImageUrl": "/public/map/GoldDust/orbis/GoldDust_Cover_AlbumCoach.tga.ckd/8f7770c0c61ce0655c5ede5b5390627e.ckd",
+      "cover_smallImageUrl": "/public/map/GoldDust/orbis/GoldDust_Cover_Online.tga.ckd/3767a211cad10bbad944ba157f9debd7.ckd",
+      "coach1ImageUrl": "/public/map/GoldDust/orbis/GoldDust_Coach_1.tga.ckd/396b39aad0f3ecd38528462c09100823.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GoldDust/GoldDust_Coach_1_Phone.png/6bfef81cd865c0a165b7d43954f7bbc7.png",
+    "phoneCoverImageUrl": "/public/map/GoldDust/GoldDust_Cover_Phone.jpg/217207ced2fe969c304612b4a78e0d42.jpg",
+    "cover640ImageUrl": "/public/map/GoldDust/GoldDust_Cover_640.png/ce3ef09236ab7467048cdf35e0bb1d3d.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "5bcc20fefa6b1fd7ed181ace8e072683",
+      "storageType": 0,
+      "url": "/public/map/GoldDust/nx/GoldDust_MAIN_SCENE_NX.zip/5bcc20fefa6b1fd7ed181ace8e072683.zip"
+    },
+    "pc": {
+      "md5": "4496ae7a6d8191cd5b9c0a38b8719b6c",
+      "storageType": 0,
+      "url": "/public/map/GoldDust/pc/GoldDust_MAIN_SCENE_PC.zip/4496ae7a6d8191cd5b9c0a38b8719b6c.zip"
+    },
+    "ps4": {
+      "md5": "b19773c1936bccc2a9bab5d5340c7d08",
+      "storageType": 0,
+      "url": "/public/map/GoldDust/orbis/GoldDust_MAIN_SCENE_ORBIS.zip/b19773c1936bccc2a9bab5d5340c7d08.zip"
+    }
+  },
+  "data": {
+    "mapName": "GoldDust",
+    "title": "Gold Dust",
+    "originalJDVersion": 4,
+    "tags": [
+      "subscribedSong",
+      "JustDance4",
+      "Solo"
+    ],
+    "artist": "DJ Fresh",
+    "credits": "Written by Niomi Daley and Daniel Edward Stein. Published by Bucks Music Group Limited / EMI Music Publishing Ltd. (PRS). Courtesy of Data Records|Ministry of Sound Recordings Limited. Data Records|Ministry of Sound Recordings Limited under exclusive licence from Breakbeat Kaos. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ffca42",
+    "LocaleID": 4294967295
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497707\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\n\t\t\t\t\t<Initialization range=\"0-604\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483882\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoldDust/GoldDust_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\n\t\t\t\t\t<Initialization range=\"0-605\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 193.896521
+}

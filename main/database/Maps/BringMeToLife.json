@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "0838da206562f7ab5ef7cdfa5e540396",
+      "storageType": 0,
+      "url": "/public/map/BringMeToLife/nx/BringMeToLife_MAIN_SCENE_NX.zip/0838da206562f7ab5ef7cdfa5e540396.zip"
+    },
+    "pc": {
+      "md5": "6c7b99eaeab57c7776a3931c9dfe8c72",
+      "storageType": 0,
+      "url": "/public/map/BringMeToLife/pc/BringMeToLife_MAIN_SCENE_PC.zip/6c7b99eaeab57c7776a3931c9dfe8c72.zip"
+    },
+    "ps4": {
+      "md5": "a13a9c4b15b8621a3cf0dc900b21b2eb",
+      "storageType": 0,
+      "url": "/public/map/BringMeToLife/orbis/BringMeToLife_MAIN_SCENE_ORBIS.zip/a13a9c4b15b8621a3cf0dc900b21b2eb.zip"
+    }
+  },
+  "data": {
+    "mapName": "BringMeToLife",
+    "title": "Bring Me to Life",
+    "originalJDVersion": 2023,
+    "tags": [
+      "subscribedSong",
+      "Duet",
+      "Hard"
+    ],
+    "artist": "Evanescence",
+    "credits": "Written by Amy Lee, Ben Moody, David Hodges. Published by Reservoir 416 o/b/o itself, Professor Screweye Publishing, Zombies at My Publishing & Forthefallen Publishing. Courtesy of Craft Recordings, a Division of Concord.",
+    "coachCount": 2,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#81cdb2",
+    "songColor2A": "#5d6897",
+    "songColor1B": "#398e6d",
+    "songColor2B": "#101824",
+    "lyricsColor": "#98e9f1",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30316,
+        60632,
+        90947,
+        121263,
+        151579,
+        181895,
+        212211,
+        242526,
+        272842,
+        303158,
+        333474,
+        363789,
+        394105,
+        424421,
+        454737,
+        485053,
+        515368,
+        545684,
+        576000,
+        606316,
+        636632,
+        666947,
+        697263,
+        727579,
+        757895,
+        788211,
+        818526,
+        848842,
+        879158,
+        909474,
+        939789,
+        970105,
+        1000421,
+        1030737,
+        1061053,
+        1091368,
+        1121684,
+        1152000,
+        1182316,
+        1212632,
+        1242947,
+        1273263,
+        1303579,
+        1333895,
+        1364211,
+        1394526,
+        1424842,
+        1455158,
+        1485474
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 374,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BringMeToLife/BringMeToLife_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BringMeToLife/nx/BringMeToLife_banner_bkg.tga.ckd/002fbbf6af4759a3352b4656ac57920e.ckd",
+      "map_bkgImageUrl": "/public/map/BringMeToLife/nx/BringMeToLife_map_bkg.tga.ckd/7f0112b9cf912cee629a6b5c21ce5f40.ckd",
+      "expandCoachImageUrl": "/public/map/BringMeToLife/nx/BringMeToLife_Cover_AlbumCoach.tga.ckd/b3aef183cf73175d4d15f5834f03af98.ckd",
+      "cover_smallImageUrl": "/public/map/BringMeToLife/nx/BringMeToLife_Cover_Online.tga.ckd/b500dcb08ffe4830976f93ddd46f6396.ckd",
+      "coverImageUrl": "/public/map/BringMeToLife/nx/BringMeToLife_Cover_Generic.tga.ckd/dbd29c959f67089dbb18d3d0b350765f.ckd",
+      "coach1ImageUrl": "/public/map/BringMeToLife/nx/BringMeToLife_Coach_1.tga.ckd/7cc65f8dcac3e73a2f71b0d45ce662be.ckd",
+      "coach2ImageUrl": "/public/map/BringMeToLife/nx/BringMeToLife_Coach_2.tga.ckd/504e95ead152a3a6712a345d72522647.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BringMeToLife/pc/BringMeToLife_banner_bkg.tga.ckd/6d92af3104e426ae739de66dcf8baf15.ckd",
+      "map_bkgImageUrl": "/public/map/BringMeToLife/pc/BringMeToLife_map_bkg.tga.ckd/669c6c6eed7e2a615cc1302e0520382c.ckd",
+      "expandCoachImageUrl": "/public/map/BringMeToLife/pc/BringMeToLife_Cover_AlbumCoach.tga.ckd/129ac5f9957e37752524a2e921771094.ckd",
+      "cover_smallImageUrl": "/public/map/BringMeToLife/pc/BringMeToLife_Cover_Online.tga.ckd/7436fc5f62d71c689647e578d518a44c.ckd",
+      "coverImageUrl": "/public/map/BringMeToLife/pc/BringMeToLife_Cover_Generic.tga.ckd/dd595ae1a0423f75dbef4bf3e64bd73a.ckd",
+      "coach1ImageUrl": "/public/map/BringMeToLife/pc/BringMeToLife_Coach_1.tga.ckd/e1b5a4c2012ba11d87683e3d0ee53693.ckd",
+      "coach2ImageUrl": "/public/map/BringMeToLife/pc/BringMeToLife_Coach_2.tga.ckd/fc505201ef80e57f044d39bc5d31d618.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BringMeToLife/orbis/BringMeToLife_banner_bkg.tga.ckd/6d92af3104e426ae739de66dcf8baf15.ckd",
+      "map_bkgImageUrl": "/public/map/BringMeToLife/orbis/BringMeToLife_map_bkg.tga.ckd/669c6c6eed7e2a615cc1302e0520382c.ckd",
+      "expandCoachImageUrl": "/public/map/BringMeToLife/orbis/BringMeToLife_Cover_AlbumCoach.tga.ckd/129ac5f9957e37752524a2e921771094.ckd",
+      "cover_smallImageUrl": "/public/map/BringMeToLife/orbis/BringMeToLife_Cover_Online.tga.ckd/7436fc5f62d71c689647e578d518a44c.ckd",
+      "coverImageUrl": "/public/map/BringMeToLife/orbis/BringMeToLife_Cover_Generic.tga.ckd/dd595ae1a0423f75dbef4bf3e64bd73a.ckd",
+      "coach1ImageUrl": "/public/map/BringMeToLife/orbis/BringMeToLife_Coach_1.tga.ckd/e1b5a4c2012ba11d87683e3d0ee53693.ckd",
+      "coach2ImageUrl": "/public/map/BringMeToLife/orbis/BringMeToLife_Coach_2.tga.ckd/fc505201ef80e57f044d39bc5d31d618.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BringMeToLife/BringMeToLife_Coach_1_Phone.png/6cb6a5121745b4c7db88034bce017582.png",
+    "phoneCoach2ImageUrl": "/public/map/BringMeToLife/BringMeToLife_Coach_2_Phone.png/18df464f6a134832ce3586d807df14fb.png",
+    "phoneCoverImageUrl": "/public/map/BringMeToLife/BringMeToLife_Cover_Phone.jpg/158c2b0d99772a0e33cbfa84844cbd02.jpg",
+    "cover640ImageUrl": "/public/map/BringMeToLife/BringMeToLife_Cover_640.png/6b507633db02cbd77acfcc48df4126f6.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BringMeToLife/BringMeToLife.ogg": "/private/map/BringMeToLife/BringMeToLife.ogg/8bc350e86c9f8f50123ecb7d1a17d494.ogg",
+    "jmcs://jd-contents/BringMeToLife/BringMeToLife_AudioPreview.ogg": "/public/map/BringMeToLife/BringMeToLife_AudioPreview.ogg/9aea79816b94c7c713c3e97488803f60.ogg",
+    "jmcs://jd-contents/BringMeToLife/BringMeToLife_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BringMeToLife/BringMeToLife_MapPreviewNoSoundCrop_LOW.vp8.webm/5cb82b0ede09401306ea0e173abcfe78.webm",
+    "jmcs://jd-contents/BringMeToLife/BringMeToLife_HIGH.webm": "/private/map/BringMeToLife/BringMeToLife_HIGH.webm/242b1fdf066f077c6a5607e2476ca3a8.webm",
+    "jmcs://jd-contents/BringMeToLife/BringMeToLife_LOW.webm": "/private/map/BringMeToLife/BringMeToLife_LOW.webm/8e52e094383819c3dc7e98a6bc37c003.webm",
+    "jmcs://jd-contents/BringMeToLife/BringMeToLife_MID.webm": "/private/map/BringMeToLife/BringMeToLife_MID.webm/ae0fb0ea44689eefdd8acae146245499.webm",
+    "jmcs://jd-contents/BringMeToLife/BringMeToLife_ULTRA.hd.webm": "/private/map/BringMeToLife/BringMeToLife_ULTRA.hd.webm/44038c3cd9f9ca7ce36286f5a50485cc.webm",
+    "jmcs://jd-contents/BringMeToLife/BringMeToLife_ULTRA.webm": "/private/map/BringMeToLife/BringMeToLife_ULTRA.webm/ecd0e0a6b97da24ada76ab572bd85259.webm",
+    "jmcs://jd-contents/BringMeToLife/BringMeToLife_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BringMeToLife/BringMeToLife_MapPreviewNoSoundCrop_MID.vp8.webm/71dc9b16893439e6fa4a1e00b396a38e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"512974\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BringMeToLife/BringMeToLife_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"671-1161\">\n\t\t\t\t\t<Initialization range=\"0-671\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1504789\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BringMeToLife/BringMeToLife_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"672-1162\">\n\t\t\t\t\t<Initialization range=\"0-672\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 239.999896
+}

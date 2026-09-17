@@ -1,0 +1,164 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "cb037ccd8a7dc118e6b7c72619c0665e",
+      "storageType": 0,
+      "url": "/public/map/Lush/nx/Lush_MAIN_SCENE_NX.zip/cb037ccd8a7dc118e6b7c72619c0665e.zip"
+    },
+    "pc": {
+      "md5": "46784934ac3a2f49cb631a6989f8f957",
+      "storageType": 0,
+      "url": "/public/map/Lush/pc/Lush_MAIN_SCENE_PC.zip/46784934ac3a2f49cb631a6989f8f957.zip"
+    },
+    "ps4": {
+      "md5": "bca54a7f5cbbebba85a60b3430f88025",
+      "storageType": 0,
+      "url": "/public/map/Lush/orbis/Lush_MAIN_SCENE_ORBIS.zip/bca54a7f5cbbebba85a60b3430f88025.zip"
+    }
+  },
+  "data": {
+    "mapName": "Lush",
+    "title": "Lush Life",
+    "originalJDVersion": 2019,
+    "tags": [
+      "subscribedSong",
+      "JustDance2019",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Zara Larsson",
+    "credits": "Written by Emmanuel Abrahamsson, Marcus Sepehrmanesh, Linnea Sodahl, Fridolin Walcher and Iman Hulten. Published by Kobalt Songs Music Publishing obo Publishing Company TEN AB (ASCAP) / IZ Publishing (ASCAP) / Because Editions. Courtesy of Epic Records. By arrangement with Sony Music Entertainment. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#003566",
+    "songColor2A": "#c0eeff",
+    "songColor1B": "#2d0038",
+    "songColor2B": "#3300f1",
+    "lyricsColor": "#e813be",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29388,
+        58776,
+        88163,
+        117551,
+        146939,
+        176327,
+        205714,
+        235102,
+        264490,
+        293878,
+        323265,
+        352653,
+        382041,
+        411429,
+        440816,
+        470204,
+        499592,
+        528980,
+        558367,
+        587755,
+        617143,
+        646531,
+        675918,
+        705306,
+        734694,
+        764082,
+        793469,
+        822857,
+        852245,
+        881633,
+        911020,
+        940408,
+        969796,
+        999184,
+        1028571,
+        1057959,
+        1087347,
+        1116735,
+        1146122,
+        1175510,
+        1204898,
+        1234286,
+        1263673,
+        1293061,
+        1322449,
+        1351837,
+        1381224,
+        1410612,
+        1440000,
+        1469388,
+        1498776
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 327,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Lush/Lush_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Lush/nx/Lush_banner_bkg.tga.ckd/8244fc0553390677ae0573a9bdceacaf.ckd",
+      "map_bkgImageUrl": "/public/map/Lush/nx/Lush_map_bkg.tga.ckd/3bb85a2f8f2e5504d8218d00426a55c2.ckd",
+      "expandCoachImageUrl": "/public/map/Lush/nx/Lush_Cover_AlbumCoach.tga.ckd/fa0c48b87b90fb6abfb62783c9aaf1fb.ckd",
+      "cover_smallImageUrl": "/public/map/Lush/nx/Lush_Cover_Online.tga.ckd/6db9c89727db11e663cecba90d695d83.ckd",
+      "coach1ImageUrl": "/public/map/Lush/nx/Lush_Coach_1.tga.ckd/b498a8e7611f5fbc9a446b9710b8c0b5.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Lush/pc/Lush_banner_bkg.tga.ckd/59458bed7a745c0028ae815461fedf23.ckd",
+      "map_bkgImageUrl": "/public/map/Lush/pc/Lush_map_bkg.tga.ckd/aeffdbe2a4dbcf19f0ec873c1a2c732e.ckd",
+      "expandCoachImageUrl": "/public/map/Lush/pc/Lush_Cover_AlbumCoach.tga.ckd/efe6dd7328a7c1304ed99bda134bca6e.ckd",
+      "cover_smallImageUrl": "/public/map/Lush/pc/Lush_Cover_Online.tga.ckd/0c936a723c51eab6d89b3958309ec988.ckd",
+      "coach1ImageUrl": "/public/map/Lush/pc/Lush_Coach_1.tga.ckd/908e3d6feeb4c5c821e01cc8c8db3435.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Lush/orbis/Lush_banner_bkg.tga.ckd/59458bed7a745c0028ae815461fedf23.ckd",
+      "map_bkgImageUrl": "/public/map/Lush/orbis/Lush_map_bkg.tga.ckd/aeffdbe2a4dbcf19f0ec873c1a2c732e.ckd",
+      "expandCoachImageUrl": "/public/map/Lush/orbis/Lush_Cover_AlbumCoach.tga.ckd/efe6dd7328a7c1304ed99bda134bca6e.ckd",
+      "cover_smallImageUrl": "/public/map/Lush/orbis/Lush_Cover_Online.tga.ckd/0c936a723c51eab6d89b3958309ec988.ckd",
+      "coach1ImageUrl": "/public/map/Lush/orbis/Lush_Coach_1.tga.ckd/908e3d6feeb4c5c821e01cc8c8db3435.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Lush/Lush_Coach_1_Phone.png/2d8c1574805c41d146967520f5cef464.png",
+    "phoneCoverImageUrl": "/public/map/Lush/Lush_Cover_Phone.jpg/6b2079d645e0d89f71d458092390dab5.jpg",
+    "cover640ImageUrl": "/public/map/Lush/Lush_Cover_640.png/4a254057524540e0d448105e95882dcd.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Lush/Lush.ogg": "/private/map/Lush/Lush.ogg/cc87b20417e64e7e456e6685990739dc.ogg",
+    "jmcs://jd-contents/Lush/Lush_AudioPreview.ogg": "/public/map/Lush/Lush_AudioPreview.ogg/9b2c6b69e3faf170a6e086738b5e01f2.ogg",
+    "jmcs://jd-contents/Lush/Lush_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Lush/Lush_MapPreviewNoSoundCrop_LOW.vp8.webm/5e2e055777bc4de545e83bf89878b538.webm",
+    "jmcs://jd-contents/Lush/Lush_HIGH.webm": "/private/map/Lush/Lush_HIGH.webm/0535ae7906a6754a418f0558609165cc.webm",
+    "jmcs://jd-contents/Lush/Lush_LOW.webm": "/private/map/Lush/Lush_LOW.webm/7d833b9a230815e92855b7e81ecbd5f0.webm",
+    "jmcs://jd-contents/Lush/Lush_MID.webm": "/private/map/Lush/Lush_MID.webm/ee7430a88d192c0787859c6bdc83d7e0.webm",
+    "jmcs://jd-contents/Lush/Lush_ULTRA.hd.webm": "/private/map/Lush/Lush_ULTRA.hd.webm/c7b107218272459a6b867c03c6a1e639.webm",
+    "jmcs://jd-contents/Lush/Lush_ULTRA.webm": "/private/map/Lush/Lush_ULTRA.webm/e08d5ef0c55020fe864c7e6a2b4adc1a.webm",
+    "jmcs://jd-contents/Lush/Lush_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Lush/Lush_MapPreviewNoSoundCrop_MID.vp8.webm/7c2f2d103736b99d76f11a020ec01a7f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496152\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lush/Lush_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"607-1096\">\n\t\t\t\t\t<Initialization range=\"0-607\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1080879\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lush/Lush_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\n\t\t\t\t\t<Initialization range=\"0-608\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 203.877438
+}

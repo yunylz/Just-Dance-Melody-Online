@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3b4597587ae7853c6f87c6427fa14cb5",
+      "storageType": 0,
+      "url": "/public/map/Problem/nx/Problem_MAIN_SCENE_NX.zip/3b4597587ae7853c6f87c6427fa14cb5.zip"
+    },
+    "pc": {
+      "md5": "1bf55951e07081c394c434943b9898ea",
+      "storageType": 0,
+      "url": "/public/map/Problem/pc/Problem_MAIN_SCENE_PC.zip/1bf55951e07081c394c434943b9898ea.zip"
+    },
+    "ps4": {
+      "md5": "53c90c48a7a202d353b8f4d93afb398a",
+      "storageType": 0,
+      "url": "/public/map/Problem/orbis/Problem_MAIN_SCENE_ORBIS.zip/53c90c48a7a202d353b8f4d93afb398a.zip"
+    }
+  },
+  "data": {
+    "mapName": "Problem",
+    "title": "Problem",
+    "originalJDVersion": 2015,
+    "tags": [
+      "subscribedSong",
+      "JustDance2015",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Ariana Grande Ft. Iggy Azalea and Big Sean",
+    "credits": "Written by By Ilya, Savan Kotecha, Max Martin, Iggy Azalea and Ariana Grande. WB Music Corp. (ASCAP) obo Warner/Chappell Music Scandinavia Ab and Wolf Cousins /  MXM Music AB .Administered by Kobalt Music Publishing America, Inc. Courtesy of Republic Records under license from Universal Music Enterprises. Iggy Azalea and Big Sean appear courtesy of Def Jam Recordings.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#fa67fa",
+    "songColor2A": "#7900b5",
+    "songColor1B": "#5a255a",
+    "songColor2B": "#35004f",
+    "lyricsColor": "#cc005b"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27984,
+        55920,
+        83904,
+        111840,
+        139824,
+        167760,
+        195744,
+        223680,
+        251664,
+        279600,
+        307584,
+        335520,
+        363504,
+        391440,
+        419424,
+        447360,
+        475344,
+        503280,
+        531264,
+        559200,
+        587184,
+        615168,
+        643104,
+        671088,
+        699024,
+        727008,
+        754944,
+        782928,
+        810864,
+        838848,
+        866784,
+        894768,
+        922704,
+        950688,
+        978624,
+        1006608,
+        1034544,
+        1062528,
+        1090464,
+        1118448,
+        1146384,
+        1174368,
+        1202352,
+        1230288,
+        1258272,
+        1286208,
+        1314192,
+        1342128,
+        1370112,
+        1398048,
+        1426032,
+        1453968,
+        1481952
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 334,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Problem/Problem_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Problem/nx/Problem_banner_bkg.tga.ckd/a9195586feb88ec58778ff95484375ba.ckd",
+      "map_bkgImageUrl": "/public/map/Problem/nx/Problem_map_bkg.tga.ckd/767ab5d9cc57f05c5d54bb0d2cf41a8a.ckd",
+      "expandCoachImageUrl": "/public/map/Problem/nx/Problem_Cover_AlbumCoach.tga.ckd/8726181b806bca522ef17aa2cc42b3a4.ckd",
+      "cover_smallImageUrl": "/public/map/Problem/nx/Problem_Cover_Online.tga.ckd/cea37de1871028aa07aca4ac843b9d0e.ckd",
+      "coach1ImageUrl": "/public/map/Problem/nx/Problem_Coach_1.tga.ckd/5a6489175dbabff494bd48745f553eb4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Problem/pc/Problem_banner_bkg.tga.ckd/73d4e7eb0ebc7661cad4386acf56d1b6.ckd",
+      "map_bkgImageUrl": "/public/map/Problem/pc/Problem_map_bkg.tga.ckd/5647cf9584cbea8e1c11629d0eb34fc2.ckd",
+      "expandCoachImageUrl": "/public/map/Problem/pc/Problem_Cover_AlbumCoach.tga.ckd/263b5f7be94831d1864e3e86245fc793.ckd",
+      "cover_smallImageUrl": "/public/map/Problem/pc/Problem_Cover_Online.tga.ckd/2c801764c5472fe5e229cccd412475ed.ckd",
+      "coach1ImageUrl": "/public/map/Problem/pc/Problem_Coach_1.tga.ckd/7d34dd5e3af7c4705c73068f9c8542bf.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Problem/orbis/Problem_banner_bkg.tga.ckd/73d4e7eb0ebc7661cad4386acf56d1b6.ckd",
+      "map_bkgImageUrl": "/public/map/Problem/orbis/Problem_map_bkg.tga.ckd/5647cf9584cbea8e1c11629d0eb34fc2.ckd",
+      "expandCoachImageUrl": "/public/map/Problem/orbis/Problem_Cover_AlbumCoach.tga.ckd/263b5f7be94831d1864e3e86245fc793.ckd",
+      "cover_smallImageUrl": "/public/map/Problem/orbis/Problem_Cover_Online.tga.ckd/2c801764c5472fe5e229cccd412475ed.ckd",
+      "coach1ImageUrl": "/public/map/Problem/orbis/Problem_Coach_1.tga.ckd/7d34dd5e3af7c4705c73068f9c8542bf.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Problem/Problem_Coach_1_Phone.png/70d6760d4e06b03fe9e6b1416826fead.png",
+    "phoneCoverImageUrl": "/public/map/Problem/Problem_Cover_Phone.jpg/eaf9306bd66f99c5eea24ae06b971e11.jpg",
+    "cover640ImageUrl": "/public/map/Problem/Problem_Cover_640.png/42be386abbf21bfd92b7768183483f2f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Problem/Problem.ogg": "/private/map/Problem/Problem.ogg/79e110c8467d1ecbce7c20ab8d9021dd.ogg",
+    "jmcs://jd-contents/Problem/Problem_AudioPreview.ogg": "/public/map/Problem/Problem_AudioPreview.ogg/17e07fb53add400fcfceeadc9e4c822e.ogg",
+    "jmcs://jd-contents/Problem/Problem_HIGH.webm": "/private/map/Problem/Problem_HIGH.webm/602311a92a3a835078c7f6f7a3cf33c2.webm",
+    "jmcs://jd-contents/Problem/Problem_LOW.webm": "/private/map/Problem/Problem_LOW.webm/bf962ecaf7f0da154e99c7dfd4344dd2.webm",
+    "jmcs://jd-contents/Problem/Problem_MID.webm": "/private/map/Problem/Problem_MID.webm/af7c08c4cf61a8433d0144c366901932.webm",
+    "jmcs://jd-contents/Problem/Problem_ULTRA.hd.webm": "/private/map/Problem/Problem_ULTRA.hd.webm/2035317649923f8ecd393b6c40050936.webm",
+    "jmcs://jd-contents/Problem/Problem_ULTRA.webm": "/private/map/Problem/Problem_ULTRA.webm/df42efb1a0c562f09f77e5934cff7f37.webm",
+    "jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Problem/Problem_MapPreviewNoSoundCrop_LOW.vp8.webm/eac0745519d0c2b2f14450077fbb0d3d.webm",
+    "jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Problem/Problem_MapPreviewNoSoundCrop_MID.vp8.webm/20415369d2d23e6049f1d67989c56d51.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496489\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\n\t\t\t\t\t<Initialization range=\"0-624\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1444295\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Problem/Problem_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\n\t\t\t\t\t<Initialization range=\"0-625\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 194.56325
+}

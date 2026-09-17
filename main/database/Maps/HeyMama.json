@@ -1,0 +1,162 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "384dda1033493f17c1675050cbbafa7d",
+      "storageType": 0,
+      "url": "/public/map/HeyMama/nx/HeyMama_MAIN_SCENE_NX.zip/384dda1033493f17c1675050cbbafa7d.zip"
+    },
+    "pc": {
+      "md5": "14e95c98a0a4a99f71124ae06fd048b8",
+      "storageType": 0,
+      "url": "/public/map/HeyMama/pc/HeyMama_MAIN_SCENE_PC.zip/14e95c98a0a4a99f71124ae06fd048b8.zip"
+    },
+    "ps4": {
+      "md5": "1ec5b2120959472719dafe4f4b24787a",
+      "storageType": 0,
+      "url": "/public/map/HeyMama/orbis/HeyMama_MAIN_SCENE_ORBIS.zip/1ec5b2120959472719dafe4f4b24787a.zip"
+    }
+  },
+  "data": {
+    "mapName": "HeyMama",
+    "title": "Hey Mama",
+    "originalJDVersion": 2016,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "David Guetta Ft. Nicki Minaj, Bebe Rexha & Afrojack",
+    "credits": "Written by Ester Dean (BMI), Onika Tanya Maraj (BMI), Sean Maxwell Douglas (BMI), David Guetta (SACEM), Alan Lomax (BMI), John A. Sr. Lomax (BMI), Bebe Rexha (BMI), Giorgio H. Tuinfort (BUMA), Nick L. Van De Wall (BUMA).Published by Universal Music Publishing, a division of Universal Music Canada Inc. (SOCAN) / TRO - Ludlow Music, Inc. (BMI) / Sony/ATV Music Publishing Canada (SOCAN) obo itself and Piano Music LLC (BMI) / \\u00a9 Warner-Tamerlane Publishing Corp. (BMI) and Eastman Pond Publishing (BMI). All rights on behalf of itself and Eastman Pond Publishing. Administered by Warner-Tamerlane Publishing Corp. / Global Jukebox Publishing (BMI) / Odyssey Productions Inc. / BMG Platinum Songs (BMI)/Kiss Me If You Can Music (BMI)/DLG Publishing (BUMA) / SACEM.All rights reserved.  Used with permission.(P) 2014 What A Music Ltd, under exclusive license to Parlophone/Warner Music France, A Warner Music Group Company. All rights reserved. Avec l\\u2019autorisation de Warner Music France, A Warner Music Group Company.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#E49800",
+    "songColor2A": "#4357C7",
+    "songColor1B": "#972500",
+    "songColor2B": "#00051E",
+    "lyricsColor": "#FFAC3A",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33504,
+        66960,
+        100464,
+        133968,
+        167424,
+        200928,
+        234432,
+        267888,
+        301392,
+        334896,
+        368400,
+        401856,
+        435360,
+        468864,
+        502320,
+        535824,
+        569329,
+        602785,
+        636289,
+        669793,
+        703249,
+        736753,
+        770257,
+        803713,
+        837217,
+        870721,
+        904177,
+        937681,
+        971185,
+        1004641,
+        1038145,
+        1071649,
+        1105105,
+        1138609,
+        1172113,
+        1205569,
+        1239073,
+        1272577,
+        1306033,
+        1339537,
+        1373041,
+        1406497
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 276,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 42,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/heymama/heymama_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HeyMama/nx/HeyMama_banner_bkg.tga.ckd/d1215b51855fdba713159d9dc06980c0.ckd",
+      "map_bkgImageUrl": "/public/map/HeyMama/nx/HeyMama_map_bkg.tga.ckd/2a430da5edc8814d572e4710db8fb87b.ckd",
+      "expandCoachImageUrl": "/public/map/HeyMama/nx/HeyMama_Cover_AlbumCoach.tga.ckd/eb4ab1105b2800114ea3898244a6e331.ckd",
+      "cover_smallImageUrl": "/public/map/HeyMama/nx/HeyMama_Cover_Online.tga.ckd/21781277e84235bc80a32cdae47f52c2.ckd",
+      "coach1ImageUrl": "/public/map/HeyMama/nx/HeyMama_Coach_1.tga.ckd/43ef7c90179597b3c02fde0ed5000995.ckd",
+      "coach2ImageUrl": "/public/map/HeyMama/nx/HeyMama_Coach_2.tga.ckd/648c02e671bcc933c3dbaef5c484fbe3.ckd",
+      "coach3ImageUrl": "/public/map/HeyMama/nx/HeyMama_Coach_3.tga.ckd/74c3b99afe27d042ed64f53cda2dd826.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HeyMama/pc/HeyMama_banner_bkg.tga.ckd/4d9bc75df5a0c2d747e88d313d0e0040.ckd",
+      "map_bkgImageUrl": "/public/map/HeyMama/pc/HeyMama_map_bkg.tga.ckd/669b7f438811f41c9ecbe6edaea93b01.ckd",
+      "expandCoachImageUrl": "/public/map/HeyMama/pc/HeyMama_Cover_AlbumCoach.tga.ckd/b342bad52f6e21838d682d049bede1e4.ckd",
+      "cover_smallImageUrl": "/public/map/HeyMama/pc/HeyMama_Cover_Online.tga.ckd/672dd68d2539e86823ea693986f22487.ckd",
+      "coach1ImageUrl": "/public/map/HeyMama/pc/HeyMama_Coach_1.tga.ckd/a361c706c7cb6d0c397aa620928394aa.ckd",
+      "coach2ImageUrl": "/public/map/HeyMama/pc/HeyMama_Coach_2.tga.ckd/659a17e10932b916e760a8fb6d2474c7.ckd",
+      "coach3ImageUrl": "/public/map/HeyMama/pc/HeyMama_Coach_3.tga.ckd/66d0ebb8b26615238ea12b5a8d147489.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HeyMama/orbis/HeyMama_banner_bkg.tga.ckd/4d9bc75df5a0c2d747e88d313d0e0040.ckd",
+      "map_bkgImageUrl": "/public/map/HeyMama/orbis/HeyMama_map_bkg.tga.ckd/669b7f438811f41c9ecbe6edaea93b01.ckd",
+      "expandCoachImageUrl": "/public/map/HeyMama/orbis/HeyMama_Cover_AlbumCoach.tga.ckd/b342bad52f6e21838d682d049bede1e4.ckd",
+      "cover_smallImageUrl": "/public/map/HeyMama/orbis/HeyMama_Cover_Online.tga.ckd/672dd68d2539e86823ea693986f22487.ckd",
+      "coach1ImageUrl": "/public/map/HeyMama/orbis/HeyMama_Coach_1.tga.ckd/a361c706c7cb6d0c397aa620928394aa.ckd",
+      "coach2ImageUrl": "/public/map/HeyMama/orbis/HeyMama_Coach_2.tga.ckd/659a17e10932b916e760a8fb6d2474c7.ckd",
+      "coach3ImageUrl": "/public/map/HeyMama/orbis/HeyMama_Coach_3.tga.ckd/66d0ebb8b26615238ea12b5a8d147489.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HeyMama/HeyMama_Coach_1_Phone.png/d0cff106bdc9c15861032bb5ebd14061.png",
+    "phoneCoach2ImageUrl": "/public/map/HeyMama/HeyMama_Coach_2_Phone.png/28585658dba89e925b5beea1b927aa0d.png",
+    "phoneCoach3ImageUrl": "/public/map/HeyMama/HeyMama_Coach_3_Phone.png/bdeaf6d4356a90aeed59b3c585841aaf.png",
+    "phoneCoverImageUrl": "/public/map/HeyMama/HeyMama_Cover_Phone.jpg/d739dabb664889bec4e4a5b0c86dc4ac.jpg",
+    "cover640ImageUrl": "/public/map/HeyMama/HeyMama_Cover_640.png/8f92c19cf38b6f35371872a6014b9319.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HeyMama/HeyMama.ogg": "/private/map/HeyMama/HeyMama.ogg/e20360d65449aa3801f0d855a2ed3783.ogg",
+    "jmcs://jd-contents/HeyMama/HeyMama_AudioPreview.ogg": "/public/map/HeyMama/HeyMama_AudioPreview.ogg/4db5edcdf0a2c913fb893cec5d770f47.ogg",
+    "jmcs://jd-contents/HeyMama/HeyMama_HIGH.webm": "/private/map/HeyMama/HeyMama_HIGH.webm/14d69abcbb0768fac7ff6319acedfa7d.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_LOW.webm": "/private/map/HeyMama/HeyMama_LOW.webm/a7544e24de5b36a0d1d5eddb9248383f.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_MID.webm": "/private/map/HeyMama/HeyMama_MID.webm/3eadd00129a40b992d25d9f01c86c842.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_ULTRA.hd.webm": "/private/map/HeyMama/HeyMama_ULTRA.hd.webm/6677183c828835744316509bc118069f.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_ULTRA.webm": "/private/map/HeyMama/HeyMama_ULTRA.webm/b060d3975baf9fc7054ab3365ce655bf.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HeyMama/HeyMama_MapPreviewNoSoundCrop_LOW.vp8.webm/28bb26ed30aa2404eace75f5523df6d4.webm",
+    "jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HeyMama/HeyMama_MapPreviewNoSoundCrop_MID.vp8.webm/3f1266aa9d4841f0db88fc5e178edb7d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495601\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\n\t\t\t\t\t<Initialization range=\"0-617\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1457556\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyMama/HeyMama_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 195.349146
+}

@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "5ef6baf0df10b4314a3e3b4932495163",
+      "storageType": 0,
+      "url": "/public/map/MJRemember/nx/MJRemember_MAIN_SCENE_NX.zip/5ef6baf0df10b4314a3e3b4932495163.zip"
+    },
+    "pc": {
+      "md5": "ddbf7987681773e3663fba3b486804e7",
+      "storageType": 0,
+      "url": "/public/map/MJRemember/pc/MJRemember_MAIN_SCENE_PC.zip/ddbf7987681773e3663fba3b486804e7.zip"
+    },
+    "ps4": {
+      "md5": "235ec0f547806f8ce2e43aef467b2643",
+      "storageType": 0,
+      "url": "/public/map/MJRemember/orbis/MJRemember_MAIN_SCENE_ORBIS.zip/235ec0f547806f8ce2e43aef467b2643.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJRemember",
+    "title": "Remember the Time",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong",
+      "mjte",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#efc619",
+    "songColor2A": "#e2884d",
+    "songColor1B": "#605009",
+    "songColor2B": "#6b3f22",
+    "lyricsColor": "#ffa500"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        133297,
+        159985,
+        186624,
+        213311,
+        239951,
+        266638,
+        293278,
+        319965,
+        346653,
+        373292,
+        399979,
+        426619,
+        453306,
+        479946,
+        506633,
+        533705,
+        559960,
+        586839,
+        613287,
+        639974,
+        666614,
+        693301,
+        719941,
+        746868,
+        773267,
+        799955,
+        826642,
+        853282,
+        880113,
+        906897,
+        933488,
+        960463,
+        986815,
+        1013502,
+        1040382,
+        1066829,
+        1093468,
+        1120156,
+        1146843,
+        1173483,
+        1200170,
+        1226810,
+        1253497,
+        1280136,
+        1306824,
+        1333463,
+        1360151,
+        1386838,
+        1413478,
+        1440165,
+        1466804,
+        1493492
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 427,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJRemember/MJRemember_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJRemember/nx/MJRemember_banner_bkg.tga.ckd/b4f92df2f21ba6782db42b9a032fda30.ckd",
+      "map_bkgImageUrl": "/public/map/MJRemember/nx/MJRemember_map_bkg.tga.ckd/25a0ff43955dc4339e00499fcf91cbba.ckd",
+      "expandCoachImageUrl": "/public/map/MJRemember/nx/MJRemember_Cover_AlbumCoach.tga.ckd/184a60f0bd3405d2f8115ae3ae47880b.ckd",
+      "cover_smallImageUrl": "/public/map/MJRemember/nx/MJRemember_Cover_Online.tga.ckd/37e839dc30b3340bb61b0f3dc6b72c98.ckd",
+      "coach1ImageUrl": "/public/map/MJRemember/nx/MJRemember_Coach_1.tga.ckd/dcae85afb50728e894c444d7f2955643.ckd",
+      "coach2ImageUrl": "/public/map/MJRemember/nx/MJRemember_Coach_2.tga.ckd/093fe60272f0da96d70fd59187c523ae.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJRemember/pc/MJRemember_banner_bkg.tga.ckd/c824bdf73c1bcd581e94346db338dfd3.ckd",
+      "map_bkgImageUrl": "/public/map/MJRemember/pc/MJRemember_map_bkg.tga.ckd/8e55a97aedc6e43b45f8b05a036a7add.ckd",
+      "expandCoachImageUrl": "/public/map/MJRemember/pc/MJRemember_Cover_AlbumCoach.tga.ckd/9e80cebe6603f780f912b2ee283562ec.ckd",
+      "cover_smallImageUrl": "/public/map/MJRemember/pc/MJRemember_Cover_Online.tga.ckd/dbb8d49b238335cb21b5545c5ff1885f.ckd",
+      "coach1ImageUrl": "/public/map/MJRemember/pc/MJRemember_Coach_1.tga.ckd/82f245c9d19fe4df874d8dca3bb65059.ckd",
+      "coach2ImageUrl": "/public/map/MJRemember/pc/MJRemember_Coach_2.tga.ckd/bfe748c731083094e94c0af4cd64fb7d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJRemember/orbis/MJRemember_banner_bkg.tga.ckd/c824bdf73c1bcd581e94346db338dfd3.ckd",
+      "map_bkgImageUrl": "/public/map/MJRemember/orbis/MJRemember_map_bkg.tga.ckd/8e55a97aedc6e43b45f8b05a036a7add.ckd",
+      "expandCoachImageUrl": "/public/map/MJRemember/orbis/MJRemember_Cover_AlbumCoach.tga.ckd/9e80cebe6603f780f912b2ee283562ec.ckd",
+      "cover_smallImageUrl": "/public/map/MJRemember/orbis/MJRemember_Cover_Online.tga.ckd/dbb8d49b238335cb21b5545c5ff1885f.ckd",
+      "coach1ImageUrl": "/public/map/MJRemember/orbis/MJRemember_Coach_1.tga.ckd/82f245c9d19fe4df874d8dca3bb65059.ckd",
+      "coach2ImageUrl": "/public/map/MJRemember/orbis/MJRemember_Coach_2.tga.ckd/bfe748c731083094e94c0af4cd64fb7d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJRemember/MJRemember_Coach_1_Phone.png/646247a389486daff6bfaf4cfe7ab0cd.png",
+    "phoneCoach2ImageUrl": "/public/map/MJRemember/MJRemember_Coach_2_Phone.png/13dc61b1070c5b3385186595ddb949b6.png",
+    "phoneCoverImageUrl": "/public/map/MJRemember/MJRemember_Cover_Phone.jpg/7528a0471f1276f9fb36fae0ec4092ed.jpg",
+    "cover640ImageUrl": "/public/map/MJRemember/MJRemember_Cover_640.png/b163e0bd527ef00b90aaf29b96a7d8c1.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MJRemember/MJRemember.ogg": "/private/map/MJRemember/MJRemember.ogg/ffc5e87f630c9b5cd5a617a703ac8ab4.ogg",
+    "jmcs://jd-contents/MJRemember/MJRemember_AudioPreview.ogg": "/public/map/MJRemember/MJRemember_AudioPreview.ogg/eaf8dbabef6a15ceb634b4a066f65f52.ogg",
+    "jmcs://jd-contents/MJRemember/MJRemember_HIGH.webm": "/private/map/MJRemember/MJRemember_HIGH.webm/07b4b97ac15d28f775a365cb6f7e7577.webm",
+    "jmcs://jd-contents/MJRemember/MJRemember_LOW.webm": "/private/map/MJRemember/MJRemember_LOW.webm/820e7f705ce73d7b76e62f5f487df58e.webm",
+    "jmcs://jd-contents/MJRemember/MJRemember_MID.webm": "/private/map/MJRemember/MJRemember_MID.webm/a97167dc1e104eb4980279de14362b74.webm",
+    "jmcs://jd-contents/MJRemember/MJRemember_ULTRA.hd.webm": "/private/map/MJRemember/MJRemember_ULTRA.hd.webm/63ede5baa9c4a3eba334317b75c11486.webm",
+    "jmcs://jd-contents/MJRemember/MJRemember_ULTRA.webm": "/private/map/MJRemember/MJRemember_ULTRA.webm/d05b0af8a27d340ba065bc7eb4ef3082.webm",
+    "jmcs://jd-contents/MJRemember/MJRemember_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJRemember/MJRemember_MapPreviewNoSoundCrop_LOW.vp8.webm/35cdfccc590715e25e2fbe5a097febf2.webm",
+    "jmcs://jd-contents/MJRemember/MJRemember_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJRemember/MJRemember_MapPreviewNoSoundCrop_MID.vp8.webm/0c2293cd27d5d3a48bdee6c367439139.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"522172\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJRemember/MJRemember_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"569-1059\">\n\t\t\t\t\t<Initialization range=\"0-569\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1502986\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJRemember/MJRemember_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"570-1060\">\n\t\t\t\t\t<Initialization range=\"0-570\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 240.454
+}

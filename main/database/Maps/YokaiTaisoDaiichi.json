@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d8d1a7e7f29dedf06cdb6035b8580a75",
+      "storageType": 0,
+      "url": "/public/map/YokaiTaisoDaiichi/nx/YokaiTaisoDaiichi_MAIN_SCENE_NX.zip/d8d1a7e7f29dedf06cdb6035b8580a75.zip"
+    },
+    "pc": {
+      "md5": "dd13618329232cba332be7fb4195ba2f",
+      "storageType": 0,
+      "url": "/public/map/YokaiTaisoDaiichi/pc/YokaiTaisoDaiichi_MAIN_SCENE_PC.zip/dd13618329232cba332be7fb4195ba2f.zip"
+    },
+    "ps4": {
+      "md5": "c51042b6355dabd13769bb157b8c7e93",
+      "storageType": 0,
+      "url": "/public/map/YokaiTaisoDaiichi/orbis/YokaiTaisoDaiichi_MAIN_SCENE_ORBIS.zip/c51042b6355dabd13769bb157b8c7e93.zip"
+    }
+  },
+  "data": {
+    "mapName": "YokaiTaisoDaiichi",
+    "title": "Yō-kai Taisō Dai-ichi",
+    "originalJDVersion": 1104,
+    "tags": [
+      "jdwiiuyk",
+      "subscribedSong",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "Dream5",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253440,
+        276480,
+        299520,
+        322560,
+        345600,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506880,
+        529920,
+        552960,
+        576000,
+        599040,
+        622080,
+        645120,
+        668160,
+        691200,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852480,
+        875520,
+        898559,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013760,
+        1036800,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198080,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382400,
+        1405440,
+        1428480,
+        1451520,
+        1474560
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 290,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/YokaiTaisoDaiichi/YokaiTaisoDaiichi_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/YokaiTaisoDaiichi/nx/YokaiTaisoDaiichi_banner_bkg.tga.ckd/fc25d6867ff6624521a6f0c00d378f20.ckd",
+      "map_bkgImageUrl": "/public/map/YokaiTaisoDaiichi/nx/YokaiTaisoDaiichi_map_bkg.tga.ckd/a9cd4a8128025767d432b5a1dee8337d.ckd",
+      "expandCoachImageUrl": "/public/map/YokaiTaisoDaiichi/nx/YokaiTaisoDaiichi_Cover_AlbumCoach.tga.ckd/f58e7b9250c1e64586bf63146dfb4014.ckd",
+      "cover_smallImageUrl": "/public/map/YokaiTaisoDaiichi/nx/YokaiTaisoDaiichi_Cover_Online.tga.ckd/5ccd95b570bfbac9feb3ec21d5409fb1.ckd",
+      "coach1ImageUrl": "/public/map/YokaiTaisoDaiichi/nx/YokaiTaisoDaiichi_Coach_1.tga.ckd/24ac5c2e2c2d916d7076b5661e1f53f5.ckd",
+      "coach2ImageUrl": "/public/map/YokaiTaisoDaiichi/nx/YokaiTaisoDaiichi_Coach_2.tga.ckd/1a733f39b3983883b9b680db9f667243.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/YokaiTaisoDaiichi/pc/YokaiTaisoDaiichi_banner_bkg.tga.ckd/b85a995fd160eba4619165dae0096473.ckd",
+      "map_bkgImageUrl": "/public/map/YokaiTaisoDaiichi/pc/YokaiTaisoDaiichi_map_bkg.tga.ckd/12e25bb29233ab2246604df636ed752a.ckd",
+      "expandCoachImageUrl": "/public/map/YokaiTaisoDaiichi/pc/YokaiTaisoDaiichi_Cover_AlbumCoach.tga.ckd/978a151c0117b0fadc5d6d11e24e89b0.ckd",
+      "cover_smallImageUrl": "/public/map/YokaiTaisoDaiichi/pc/YokaiTaisoDaiichi_Cover_Online.tga.ckd/de82218f00361c8cc6f11e06b41b90af.ckd",
+      "coach1ImageUrl": "/public/map/YokaiTaisoDaiichi/pc/YokaiTaisoDaiichi_Coach_1.tga.ckd/97cff868ee5bef66608747d229c3b57b.ckd",
+      "coach2ImageUrl": "/public/map/YokaiTaisoDaiichi/pc/YokaiTaisoDaiichi_Coach_2.tga.ckd/6cf9f98bdf7eb06af9ad093cb0646b05.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/YokaiTaisoDaiichi/orbis/YokaiTaisoDaiichi_banner_bkg.tga.ckd/b85a995fd160eba4619165dae0096473.ckd",
+      "map_bkgImageUrl": "/public/map/YokaiTaisoDaiichi/orbis/YokaiTaisoDaiichi_map_bkg.tga.ckd/12e25bb29233ab2246604df636ed752a.ckd",
+      "expandCoachImageUrl": "/public/map/YokaiTaisoDaiichi/orbis/YokaiTaisoDaiichi_Cover_AlbumCoach.tga.ckd/978a151c0117b0fadc5d6d11e24e89b0.ckd",
+      "cover_smallImageUrl": "/public/map/YokaiTaisoDaiichi/orbis/YokaiTaisoDaiichi_Cover_Online.tga.ckd/de82218f00361c8cc6f11e06b41b90af.ckd",
+      "coach1ImageUrl": "/public/map/YokaiTaisoDaiichi/orbis/YokaiTaisoDaiichi_Coach_1.tga.ckd/97cff868ee5bef66608747d229c3b57b.ckd",
+      "coach2ImageUrl": "/public/map/YokaiTaisoDaiichi/orbis/YokaiTaisoDaiichi_Coach_2.tga.ckd/6cf9f98bdf7eb06af9ad093cb0646b05.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi_Coach_1_Phone.png/19d3d87e0125dbb2ebcb0524d619d58d.png",
+    "phoneCoach2ImageUrl": "/public/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi_Coach_2_Phone.png/e59a783e2af63edb32a42e31de074547.png",
+    "phoneCoverImageUrl": "/public/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi_Cover_Phone.jpg/2d243c09dc2c0fedca6bb9b84b88d073.jpg",
+    "cover640ImageUrl": "/public/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/YokaiTaisoDaiichi/YokaiTaisoDaiichi.ogg": "/private/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi.ogg/cbebc69e406e4b47c6079ff9c6075ca7.ogg",
+    "jmcs://jd-contents/YokaiTaisoDaiichi/YokaiTaisoDaiichi_AudioPreview.ogg": "/public/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi_AudioPreview.ogg/f401e99e1d602d8a2ffa70a524b10108.ogg",
+    "jmcs://jd-contents/YokaiTaisoDaiichi/YokaiTaisoDaiichi_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi_MapPreviewNoSoundCrop_LOW.vp8.webm/a8f4bc7b1aff31191285053f80265b1c.webm",
+    "jmcs://jd-contents/YokaiTaisoDaiichi/YokaiTaisoDaiichi_HIGH.webm": "/private/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi_HIGH.webm/f63af91b157693fe5f967c15d42d1c7f.webm",
+    "jmcs://jd-contents/YokaiTaisoDaiichi/YokaiTaisoDaiichi_LOW.webm": "/private/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi_LOW.webm/8964f7e5d5ad2e791a6a9029e428b850.webm",
+    "jmcs://jd-contents/YokaiTaisoDaiichi/YokaiTaisoDaiichi_MID.webm": "/private/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi_MID.webm/7d99234469d58abcb12ce4053f838022.webm",
+    "jmcs://jd-contents/YokaiTaisoDaiichi/YokaiTaisoDaiichi_ULTRA.webm": "/private/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi_ULTRA.webm/b1ac8742b280c920461ab114752fd00f.webm",
+    "jmcs://jd-contents/YokaiTaisoDaiichi/YokaiTaisoDaiichi_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/YokaiTaisoDaiichi/YokaiTaisoDaiichi_MapPreviewNoSoundCrop_MID.vp8.webm/c79fcf195c3305eec6f0b6ac5abe56d4.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"523142\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YokaiTaisoDaiichi/YokaiTaisoDaiichi_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1490377\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YokaiTaisoDaiichi/YokaiTaisoDaiichi_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\n\t\t\t\t\t<Initialization range=\"0-619\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 141.119979
+}

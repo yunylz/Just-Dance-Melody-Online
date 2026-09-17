@@ -1,0 +1,163 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "5cfe8eda71654909ff1cca7e4f3a838c",
+      "storageType": 0,
+      "url": "/public/map/SexyGirl/nx/SexyGirl_MAIN_SCENE_NX.zip/5cfe8eda71654909ff1cca7e4f3a838c.zip"
+    },
+    "pc": {
+      "md5": "aedfaa976b26e3f7a9b8d3df4c713403",
+      "storageType": 0,
+      "url": "/public/map/SexyGirl/pc/SexyGirl_MAIN_SCENE_PC.zip/aedfaa976b26e3f7a9b8d3df4c713403.zip"
+    },
+    "ps4": {
+      "md5": "58f8fd7b1b387d64e73ea6644caad023",
+      "storageType": 0,
+      "url": "/public/map/SexyGirl/orbis/SexyGirl_MAIN_SCENE_ORBIS.zip/58f8fd7b1b387d64e73ea6644caad023.zip"
+    }
+  },
+  "data": {
+    "mapName": "SexyGirl",
+    "title": "Sexy Girl",
+    "originalJDVersion": 2,
+    "tags": [
+      "main"
+    ],
+    "artist": "Namie Amuro",
+    "credits": "Douls-KNRM",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#ff1052",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        181824,
+        206640,
+        231456,
+        256320,
+        281136,
+        305952,
+        330768,
+        355632,
+        380448,
+        405264,
+        430080,
+        454944,
+        479760,
+        504576,
+        529392,
+        554256,
+        579072,
+        603888,
+        628704,
+        653520,
+        678384,
+        703200,
+        728016,
+        752832,
+        777696,
+        802512,
+        827328,
+        852144,
+        877008,
+        901824,
+        926640,
+        951456,
+        976272,
+        1001136,
+        1025952,
+        1050768,
+        1075584,
+        1100448,
+        1125264,
+        1150080,
+        1174896,
+        1199760,
+        1224576,
+        1249392,
+        1274208,
+        1299024,
+        1323888,
+        1348704,
+        1373520,
+        1398336,
+        1423200,
+        1448016,
+        1472832,
+        1497648
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 539,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SexyGirl/SexyGirl_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SexyGirl/nx/SexyGirl_banner_bkg.tga.ckd/4424ff41308e965e07ec06534e221948.ckd",
+      "map_bkgImageUrl": "/public/map/SexyGirl/nx/SexyGirl_map_bkg.tga.ckd/de23ae5c99b2f34767f05ae3a588ba49.ckd",
+      "expandCoachImageUrl": "/public/map/SexyGirl/nx/SexyGirl_Cover_AlbumCoach.tga.ckd/1fd0593a907553f3a13539cc3a95f76b.ckd",
+      "cover_smallImageUrl": "/public/map/SexyGirl/nx/SexyGirl_Cover_Online.tga.ckd/7cc89bfa84c90a26becb953eca6da563.ckd",
+      "coach1ImageUrl": "/public/map/SexyGirl/nx/SexyGirl_Coach_1.tga.ckd/928713743725bf9676c5b2c043664958.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SexyGirl/pc/SexyGirl_banner_bkg.tga.ckd/fd856c839241e23ab6dab0c59346279e.ckd",
+      "map_bkgImageUrl": "/public/map/SexyGirl/pc/SexyGirl_map_bkg.tga.ckd/ec440d60fb44b1fd7c9dd37e5f486b60.ckd",
+      "expandCoachImageUrl": "/public/map/SexyGirl/pc/SexyGirl_Cover_AlbumCoach.tga.ckd/fe266db56e7e63ff3db40c7ce266b092.ckd",
+      "cover_smallImageUrl": "/public/map/SexyGirl/pc/SexyGirl_Cover_Online.tga.ckd/47f5ad7b79525376405dcfb0bf2ff0fa.ckd",
+      "coach1ImageUrl": "/public/map/SexyGirl/pc/SexyGirl_Coach_1.tga.ckd/25d1a9bf2f4e092d659f466bd3d480f9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SexyGirl/orbis/SexyGirl_banner_bkg.tga.ckd/fd856c839241e23ab6dab0c59346279e.ckd",
+      "map_bkgImageUrl": "/public/map/SexyGirl/orbis/SexyGirl_map_bkg.tga.ckd/ec440d60fb44b1fd7c9dd37e5f486b60.ckd",
+      "expandCoachImageUrl": "/public/map/SexyGirl/orbis/SexyGirl_Cover_AlbumCoach.tga.ckd/fe266db56e7e63ff3db40c7ce266b092.ckd",
+      "cover_smallImageUrl": "/public/map/SexyGirl/orbis/SexyGirl_Cover_Online.tga.ckd/47f5ad7b79525376405dcfb0bf2ff0fa.ckd",
+      "coach1ImageUrl": "/public/map/SexyGirl/orbis/SexyGirl_Coach_1.tga.ckd/25d1a9bf2f4e092d659f466bd3d480f9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SexyGirl/SexyGirl_Coach_1_Phone.png/f95932aa947df48a9624407ae84f4e44.png",
+    "phoneCoverImageUrl": "/public/map/SexyGirl/SexyGirl_Cover_Phone.jpg/3540fb6468a9b1762ab700d9b7faefe7.jpg",
+    "cover640ImageUrl": "/public/map/SexyGirl/SexyGirl_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SexyGirl/SexyGirl.ogg": "/private/map/SexyGirl/SexyGirl.ogg/904018c5308724320efa31212dff23d5.ogg",
+    "jmcs://jd-contents/SexyGirl/SexyGirl_AudioPreview.ogg": "/public/map/SexyGirl/SexyGirl_AudioPreview.ogg/5fe6848724050510e28f86561ea92107.ogg",
+    "jmcs://jd-contents/SexyGirl/SexyGirl_HIGH.webm": "/private/map/SexyGirl/SexyGirl_HIGH.webm/ffdde275f1d14d6d1d3a42f5d6f5bf2c.webm",
+    "jmcs://jd-contents/SexyGirl/SexyGirl_LOW.webm": "/private/map/SexyGirl/SexyGirl_LOW.webm/22eab12673851713681a325c4491e2b7.webm",
+    "jmcs://jd-contents/SexyGirl/SexyGirl_MID.webm": "/private/map/SexyGirl/SexyGirl_MID.webm/72e9d6d80b88a4c8654abb3a854d708a.webm",
+    "jmcs://jd-contents/SexyGirl/SexyGirl_ULTRA.webm": "/private/map/SexyGirl/SexyGirl_ULTRA.webm/a788a74b51c5fafbac3e576489740fbf.webm",
+    "jmcs://jd-contents/SexyGirl/SexyGirl_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SexyGirl/SexyGirl_MapPreviewNoSoundCrop_LOW.vp8.webm/21cb8a683c7052c9887e3e963fffccf6.webm",
+    "jmcs://jd-contents/SexyGirl/SexyGirl_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SexyGirl/SexyGirl_MapPreviewNoSoundCrop_MID.vp8.webm/68a6bed2f07f8e34e8b201fd3569f0bf.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"499146\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SexyGirl/SexyGirl_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"477-966\">\n\t\t\t\t\t<Initialization range=\"0-477\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1494577\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SexyGirl/SexyGirl_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"478-968\">\n\t\t\t\t\t<Initialization range=\"0-478\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 283.015021
+}

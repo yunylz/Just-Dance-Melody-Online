@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/InTheEnd/InTheEnd_AudioPreview.ogg": "/public/map/InTheEnd/InTheEnd_AudioPreview.ogg/855e6f123c3e4871031c63fb8bc059f2.ogg",
+    "jmcs://jd-contents/InTheEnd/InTheEnd.ogg": "/private/map/InTheEnd/InTheEnd.ogg/4253fcf935a3c12b362d44f01dae3efc.ogg",
+    "jmcs://jd-contents/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_LOW.vp8.webm/5198f916755d16df94d9c3af2a535501.webm",
+    "jmcs://jd-contents/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_MID.vp8.webm/ab63777c0a13404e4f93d080d924fa92.webm",
+    "jmcs://jd-contents/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_HIGH.vp8.webm/24247ded19d1bacd248dc96cc33b9534.webm",
+    "jmcs://jd-contents/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6ac57967680b143c75632bec96e4ab2b.webm",
+    "jmcs://jd-contents/InTheEnd/InTheEnd_ULTRA.hd.webm": "/private/map/InTheEnd/InTheEnd_ULTRA.hd.webm/e0325e2726ab9f742920eb5a40642312.webm",
+    "jmcs://jd-contents/InTheEnd/InTheEnd_HIGH.hd.webm": "/private/map/InTheEnd/InTheEnd_HIGH.hd.webm/818a6a24dce031143577df5865a20671.webm",
+    "jmcs://jd-contents/InTheEnd/InTheEnd_MID.hd.webm": "/private/map/InTheEnd/InTheEnd_MID.hd.webm/53aeda3d37f32f0a48f871606c50cdbf.webm",
+    "jmcs://jd-contents/InTheEnd/InTheEnd_LOW.hd.webm": "/private/map/InTheEnd/InTheEnd_LOW.hd.webm/dcc38baee67182117d569641c0309b28.webm"
+  },
+  "mapLength": 236.18895833333335,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27384,
+        54768,
+        82152,
+        109537,
+        136921,
+        164305,
+        191689,
+        219073,
+        246458,
+        273842,
+        301226,
+        328610,
+        355995,
+        383379,
+        410763,
+        438147,
+        465532,
+        492916,
+        520300,
+        547684,
+        575069,
+        602453,
+        629837,
+        657221,
+        684605,
+        711990,
+        739374,
+        766758,
+        794142,
+        821527,
+        848911,
+        876295,
+        903679,
+        931064,
+        958448,
+        985832,
+        1013216,
+        1040600,
+        1067985,
+        1095369,
+        1122753,
+        1150137,
+        1177522,
+        1204906,
+        1232290,
+        1259674,
+        1287059,
+        1314443,
+        1341827,
+        1369211,
+        1396596,
+        1423980
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -20,
+      "endBeat": 394,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "url": "jmcs://jd-contents/intheend/intheend_AudioPreview.ogg",
+    "path": ""
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"629385\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"908308\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"908308\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"908308\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/InTheEnd/InTheEnd_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "4963e0ef81555774ca9140b59e4d1f01",
+      "storageType": 0,
+      "url": "/public/map/InTheEnd/pc/InTheEnd_MAIN_SCENE_PC.zip/4963e0ef81555774ca9140b59e4d1f01.zip"
+    },
+    "ps4": {
+      "md5": "235edd161ca53bf749a14c2ff3ab7377",
+      "storageType": 0,
+      "url": "/public/map/InTheEnd/orbis/InTheEnd_MAIN_SCENE_ORBIS.zip/235edd161ca53bf749a14c2ff3ab7377.zip"
+    },
+    "nx": {
+      "md5": "a378dffd1f2e5fd8f0a18277f13dd497",
+      "storageType": 0,
+      "url": "/public/map/InTheEnd/nx/InTheEnd_MAIN_SCENE_NX.zip/a378dffd1f2e5fd8f0a18277f13dd497.zip"
+    }
+  },
+  "data": {
+    "mapName": "InTheEnd",
+    "title": "In the End",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Linkin Park",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FFF200",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/InTheEnd/pc/InTheEnd_Cover_Online.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "coverImageUrl": "/public/map/InTheEnd/pc/InTheEnd_Cover_Generic.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "expandCoachImageUrl": "/public/map/InTheEnd/pc/InTheEnd_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/InTheEnd/pc/InTheEnd_map_bkg.tga.ckd/bd967bc6be1d2b4df418bc5ab43d1a5d.ckd",
+      "banner_bkgImageUrl": "/public/map/InTheEnd/pc/InTheEnd_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/InTheEnd/pc/InTheEnd_Coach_1.tga.ckd/dbe21e0714af764b29297e9379b305fb.ckd",
+      "phoneCoverImageUrl": "/public/map/InTheEnd/InTheEnd_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/InTheEnd/InTheEnd_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/InTheEnd/InTheEnd_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/InTheEnd/orbis/InTheEnd_Cover_Online.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "coverImageUrl": "/public/map/InTheEnd/orbis/InTheEnd_Cover_Generic.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "expandCoachImageUrl": "/public/map/InTheEnd/orbis/InTheEnd_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/InTheEnd/orbis/InTheEnd_map_bkg.tga.ckd/bd967bc6be1d2b4df418bc5ab43d1a5d.ckd",
+      "banner_bkgImageUrl": "/public/map/InTheEnd/orbis/InTheEnd_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/InTheEnd/orbis/InTheEnd_Coach_1.tga.ckd/dbe21e0714af764b29297e9379b305fb.ckd",
+      "phoneCoverImageUrl": "/public/map/InTheEnd/InTheEnd_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/InTheEnd/InTheEnd_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/InTheEnd/InTheEnd_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/InTheEnd/nx/InTheEnd_Cover_Online.tga.ckd/28e19a1498984376509ca2256dccde5c.ckd",
+      "coverImageUrl": "/public/map/InTheEnd/nx/InTheEnd_Cover_Generic.tga.ckd/28e19a1498984376509ca2256dccde5c.ckd",
+      "expandCoachImageUrl": "/public/map/InTheEnd/nx/InTheEnd_Cover_AlbumCoach.tga.ckd/f2acd1f802fbc3c07f5497a0de5fc9d3.ckd",
+      "map_bkgImageUrl": "/public/map/InTheEnd/nx/InTheEnd_map_bkg.tga.ckd/e6b0dcc47e597760d13b23002e2e800b.ckd",
+      "banner_bkgImageUrl": "/public/map/InTheEnd/nx/InTheEnd_banner_bkg.tga.ckd/56a0fc93e1e0b5555651a441a9c51598.ckd",
+      "coach1ImageUrl": "/public/map/InTheEnd/nx/InTheEnd_Coach_1.tga.ckd/26a47213441a0c69ee695455123c4656.ckd",
+      "phoneCoverImageUrl": "/public/map/InTheEnd/InTheEnd_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/InTheEnd/InTheEnd_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/InTheEnd/InTheEnd_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    }
+  }
+}

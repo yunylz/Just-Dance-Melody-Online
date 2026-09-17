@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "6ea90372bec2b6234a9079aa3c389036",
+      "storageType": 0,
+      "url": "/public/map/LoveRevolution/nx/LoveRevolution_MAIN_SCENE_NX.zip/6ea90372bec2b6234a9079aa3c389036.zip"
+    },
+    "pc": {
+      "md5": "01e996585481f9c4b7b5e07daee54a8f",
+      "storageType": 0,
+      "url": "/public/map/LoveRevolution/pc/LoveRevolution_MAIN_SCENE_PC.zip/01e996585481f9c4b7b5e07daee54a8f.zip"
+    },
+    "ps4": {
+      "md5": "ccb8a2333d7f92081041c835478f600e",
+      "storageType": 0,
+      "url": "/public/map/LoveRevolution/orbis/LoveRevolution_MAIN_SCENE_ORBIS.zip/ccb8a2333d7f92081041c835478f600e.zip"
+    }
+  },
+  "data": {
+    "mapName": "LoveRevolution",
+    "title": "Ren'ai Revolution 21",
+    "originalJDVersion": 1000,
+    "tags": [
+      "subscribedSong",
+      "jdwii",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "Morning Musume",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ec2fff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        148704,
+        170400,
+        192048,
+        213216,
+        235344,
+        256992,
+        278304,
+        300336,
+        321984,
+        343632,
+        365184,
+        386976,
+        408624,
+        430272,
+        451824,
+        473616,
+        495264,
+        516912,
+        538560,
+        560256,
+        580944,
+        602880,
+        624432,
+        646368,
+        668304,
+        689568,
+        711216,
+        732912,
+        754416,
+        776064,
+        797760,
+        819936,
+        841536,
+        863232,
+        884496,
+        906432,
+        927648,
+        949488,
+        970992,
+        992976,
+        1014816,
+        1035936,
+        1057728,
+        1079760,
+        1100928,
+        1122720,
+        1144320,
+        1166208,
+        1188144,
+        1209840,
+        1231008,
+        1253040,
+        1274208,
+        1296048,
+        1318320,
+        1339008,
+        1360848,
+        1382688,
+        1404144,
+        1426272,
+        1448112,
+        1469040,
+        1491024
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 588,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LoveRevolution/LoveRevolution_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LoveRevolution/nx/LoveRevolution_banner_bkg.tga.ckd/aed1fbd326396b4cacc9169b56b14e59.ckd",
+      "map_bkgImageUrl": "/public/map/LoveRevolution/nx/LoveRevolution_map_bkg.tga.ckd/55b50c9103bb9efdf14036300e06b9cc.ckd",
+      "expandCoachImageUrl": "/public/map/LoveRevolution/nx/LoveRevolution_Cover_AlbumCoach.tga.ckd/72a860a896d0acc1762d42a3893c2028.ckd",
+      "cover_smallImageUrl": "/public/map/LoveRevolution/nx/LoveRevolution_Cover_Online.tga.ckd/47efda10ddd1ee50cd5b42cb8eef0657.ckd",
+      "coach1ImageUrl": "/public/map/LoveRevolution/nx/LoveRevolution_Coach_1.tga.ckd/a126f51959689e9f6699a43abe11274a.ckd",
+      "coach2ImageUrl": "/public/map/LoveRevolution/nx/LoveRevolution_Coach_2.tga.ckd/c64f25e292d3e4560878be1b97349bed.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LoveRevolution/pc/LoveRevolution_banner_bkg.tga.ckd/5105f831f6a3d5069b2b97f2c9bd54db.ckd",
+      "map_bkgImageUrl": "/public/map/LoveRevolution/pc/LoveRevolution_map_bkg.tga.ckd/360998957fb92e35f56ed3c306a959b2.ckd",
+      "expandCoachImageUrl": "/public/map/LoveRevolution/pc/LoveRevolution_Cover_AlbumCoach.tga.ckd/0e337a66bca8e3631eb10ea57b39942b.ckd",
+      "cover_smallImageUrl": "/public/map/LoveRevolution/pc/LoveRevolution_Cover_Online.tga.ckd/9465e0a6cf82525e1bc11502cf86443b.ckd",
+      "coach1ImageUrl": "/public/map/LoveRevolution/pc/LoveRevolution_Coach_1.tga.ckd/b84fbe8ca9294a5095654629ceba0da4.ckd",
+      "coach2ImageUrl": "/public/map/LoveRevolution/pc/LoveRevolution_Coach_2.tga.ckd/466b08dff793e9eb7283ff91018aeefd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LoveRevolution/orbis/LoveRevolution_banner_bkg.tga.ckd/5105f831f6a3d5069b2b97f2c9bd54db.ckd",
+      "map_bkgImageUrl": "/public/map/LoveRevolution/orbis/LoveRevolution_map_bkg.tga.ckd/360998957fb92e35f56ed3c306a959b2.ckd",
+      "expandCoachImageUrl": "/public/map/LoveRevolution/orbis/LoveRevolution_Cover_AlbumCoach.tga.ckd/0e337a66bca8e3631eb10ea57b39942b.ckd",
+      "cover_smallImageUrl": "/public/map/LoveRevolution/orbis/LoveRevolution_Cover_Online.tga.ckd/9465e0a6cf82525e1bc11502cf86443b.ckd",
+      "coach1ImageUrl": "/public/map/LoveRevolution/orbis/LoveRevolution_Coach_1.tga.ckd/b84fbe8ca9294a5095654629ceba0da4.ckd",
+      "coach2ImageUrl": "/public/map/LoveRevolution/orbis/LoveRevolution_Coach_2.tga.ckd/466b08dff793e9eb7283ff91018aeefd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LoveRevolution/LoveRevolution_Coach_1_Phone.png/ea77926ac258bce59725305ea0616348.png",
+    "phoneCoach2ImageUrl": "/public/map/LoveRevolution/LoveRevolution_Coach_2_Phone.png/7920f6c04c03f2a6ca43c313967d20c1.png",
+    "phoneCoverImageUrl": "/public/map/LoveRevolution/LoveRevolution_Cover_Phone.jpg/b3b492bb8a36e5758be35d30cfcdc292.jpg",
+    "cover640ImageUrl": "/public/map/LoveRevolution/LoveRevolution_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/LoveRevolution/LoveRevolution.ogg": "/private/map/LoveRevolution/LoveRevolution.ogg/a67edbfe05790b03e86c43d723b15c45.ogg",
+    "jmcs://jd-contents/LoveRevolution/LoveRevolution_AudioPreview.ogg": "/public/map/LoveRevolution/LoveRevolution_AudioPreview.ogg/3aca3d819e03d6a00de321db106c63a1.ogg",
+    "jmcs://jd-contents/LoveRevolution/LoveRevolution_HIGH.webm": "/private/map/LoveRevolution/LoveRevolution_HIGH.webm/aa143e92561dcda0b50ce3cea006881d.webm",
+    "jmcs://jd-contents/LoveRevolution/LoveRevolution_LOW.webm": "/private/map/LoveRevolution/LoveRevolution_LOW.webm/04d760ac4ffc12a1246c67eb06a006ed.webm",
+    "jmcs://jd-contents/LoveRevolution/LoveRevolution_MID.webm": "/private/map/LoveRevolution/LoveRevolution_MID.webm/a33b5ebe02e80bdad366766e0746daed.webm",
+    "jmcs://jd-contents/LoveRevolution/LoveRevolution_ULTRA.hd.webm": "/private/map/LoveRevolution/LoveRevolution_ULTRA.hd.webm/8a7e391fde1c0d066a8e4d28c3311f53.webm",
+    "jmcs://jd-contents/LoveRevolution/LoveRevolution_ULTRA.webm": "/private/map/LoveRevolution/LoveRevolution_ULTRA.webm/56348ceac75cda4c74148c9e912bd841.webm",
+    "jmcs://jd-contents/LoveRevolution/LoveRevolution_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LoveRevolution/LoveRevolution_MapPreviewNoSoundCrop_LOW.vp8.webm/506ff4dfc1291f3689be674fc49482cd.webm",
+    "jmcs://jd-contents/LoveRevolution/LoveRevolution_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LoveRevolution/LoveRevolution_MapPreviewNoSoundCrop_MID.vp8.webm/183d93fb468652ba18e1d95d1478e694.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"507740\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveRevolution/LoveRevolution_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1495318\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveRevolution/LoveRevolution_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 267.969188
+}

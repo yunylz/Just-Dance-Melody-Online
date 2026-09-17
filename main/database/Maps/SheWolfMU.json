@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SheWolfMU/SheWolfMU.ogg": "/private/map/SheWolfMU/SheWolfMU.ogg/9758726fd247b74d4f02f390cae708b3.ogg",
+    "jmcs://jd-contents/SheWolfMU/SheWolfMU_AudioPreview.ogg": "/public/map/SheWolfMU/SheWolfMU_AudioPreview.ogg/1f29a4240855412c35c3611b2131f86a.ogg",
+    "jmcs://jd-contents/SheWolfMU/SheWolfMU_HIGH.hd.webm": "/private/map/SheWolfMU/SheWolfMU_HIGH.hd.webm/4f99fc7d6e0b35489c645e2c368df001.webm",
+    "jmcs://jd-contents/SheWolfMU/SheWolfMU_LOW.hd.webm": "/private/map/SheWolfMU/SheWolfMU_LOW.hd.webm/040aa48335a283d4d8abee32e64a4f38.webm",
+    "jmcs://jd-contents/SheWolfMU/SheWolfMU_MID.hd.webm": "/private/map/SheWolfMU/SheWolfMU_MID.hd.webm/69c2cb6c69519c5300cc3999b45acb08.webm",
+    "jmcs://jd-contents/SheWolfMU/SheWolfMU_ULTRA.hd.webm": "/private/map/SheWolfMU/SheWolfMU_ULTRA.hd.webm/9a0cde2fb23c934f403bce81205e2ed2.webm",
+    "jmcs://jd-contents/SheWolfMU/SheWolfMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SheWolfMU/SheWolfMU_MapPreviewNoSoundCrop_LOW.vp8.webm/9677860338d13eb8ec5e1c4d2cb2db41.webm",
+    "jmcs://jd-contents/SheWolfMU/SheWolfMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SheWolfMU/SheWolfMU_MapPreviewNoSoundCrop_MID.vp8.webm/102e282bc6bc803d95075a0a02779446.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22320,
+        44592,
+        66912,
+        89184,
+        111504,
+        133776,
+        156096,
+        178368,
+        200688,
+        222960,
+        245280,
+        267552,
+        289872,
+        312144,
+        334464,
+        356736,
+        379056,
+        401328,
+        423648,
+        445920,
+        468240,
+        490512,
+        512832,
+        535152,
+        557424,
+        579600,
+        601728,
+        623905,
+        646033,
+        668209,
+        690337,
+        712513,
+        734641,
+        756817,
+        778945,
+        801121,
+        823249,
+        845425,
+        867553,
+        889729,
+        911857,
+        934033,
+        956161,
+        978337,
+        1000465,
+        1022641,
+        1044769,
+        1066945,
+        1089073,
+        1111249,
+        1133377,
+        1155553,
+        1177681,
+        1199857,
+        1221986,
+        1244162,
+        1266290,
+        1288466,
+        1310594,
+        1332770,
+        1354898,
+        1377074,
+        1399202,
+        1421378,
+        1443506,
+        1465682,
+        1487858
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 500,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SheWolfMU/SheWolfMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SheWolfMU/nx/SheWolfMU_banner_bkg.tga.ckd/f37232aa3ac63dfdb765f984960383ba.ckd",
+      "map_bkgImageUrl": "/public/map/SheWolfMU/nx/SheWolfMU_map_bkg.tga.ckd/8fb44c78f5c842c6dacb5233708bb4df.ckd",
+      "expandCoachImageUrl": "/public/map/SheWolfMU/nx/SheWolfMU_Cover_AlbumCoach.tga.ckd/c61f3843a3aeb74a71b3454700f97919.ckd",
+      "cover_smallImageUrl": "/public/map/SheWolfMU/nx/SheWolfMU_Cover_Online.tga.ckd/e45796fcc1aeec728ac500c097bd7cec.ckd",
+      "coverImageUrl": "/public/map/SheWolfMU/nx/SheWolfMU_Cover_Generic.tga.ckd/df46c497f3032d1351fe86fe8d694c43.ckd",
+      "coach1ImageUrl": "/public/map/SheWolfMU/nx/SheWolfMU_Coach_1.tga.ckd/0a375cf96598982381ae10edf194fea6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SheWolfMU/pc/SheWolfMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/SheWolfMU/pc/SheWolfMU_map_bkg.tga.ckd/3e523de0069a4971204c22a7220de40b.ckd",
+      "expandCoachImageUrl": "/public/map/SheWolfMU/pc/SheWolfMU_Cover_AlbumCoach.tga.ckd/6e6e5602bfd88d31a99760b391eefc69.ckd",
+      "cover_smallImageUrl": "/public/map/SheWolfMU/pc/SheWolfMU_Cover_Online.tga.ckd/6da38570c681ae9af4b6e5d15c09b14d.ckd",
+      "coverImageUrl": "/public/map/SheWolfMU/pc/SheWolfMU_Cover_Generic.tga.ckd/9f9e98f1a706a9a8038cf98262c6984d.ckd",
+      "coach1ImageUrl": "/public/map/SheWolfMU/pc/SheWolfMU_Coach_1.tga.ckd/3bc83ffd20eaccc2c91c329e658044b7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SheWolfMU/orbis/SheWolfMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/SheWolfMU/orbis/SheWolfMU_map_bkg.tga.ckd/3e523de0069a4971204c22a7220de40b.ckd",
+      "expandCoachImageUrl": "/public/map/SheWolfMU/orbis/SheWolfMU_Cover_AlbumCoach.tga.ckd/6e6e5602bfd88d31a99760b391eefc69.ckd",
+      "cover_smallImageUrl": "/public/map/SheWolfMU/orbis/SheWolfMU_Cover_Online.tga.ckd/6da38570c681ae9af4b6e5d15c09b14d.ckd",
+      "coverImageUrl": "/public/map/SheWolfMU/orbis/SheWolfMU_Cover_Generic.tga.ckd/9f9e98f1a706a9a8038cf98262c6984d.ckd",
+      "coach1ImageUrl": "/public/map/SheWolfMU/orbis/SheWolfMU_Coach_1.tga.ckd/3bc83ffd20eaccc2c91c329e658044b7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SheWolfMU/SheWolfMU_Coach_1_Phone.png/a1db0615335a0f9359f0a03a43c1df23.png",
+    "phoneCoverImageUrl": "/public/map/SheWolfMU/SheWolfMU_Cover_Phone.jpg/3dce60cdf8695e4a344087cfa154fb11.jpg",
+    "cover640ImageUrl": "/public/map/SheWolfMU/SheWolfMU_Cover_640.png/95dd291ab11024ec6ba68d111f88cedd.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "82f5ab6d4f64d91cb5fcd474dec7df44",
+      "storageType": 0,
+      "url": "/public/map/SheWolfMU/nx/SheWolfMU_MAIN_SCENE_NX.zip/82f5ab6d4f64d91cb5fcd474dec7df44.zip"
+    },
+    "pc": {
+      "md5": "cb0b1efdc01f2f6aaf8032d1c03d0ed3",
+      "storageType": 0,
+      "url": "/public/map/SheWolfMU/pc/SheWolfMU_MAIN_SCENE_PC.zip/cb0b1efdc01f2f6aaf8032d1c03d0ed3.zip"
+    },
+    "ps4": {
+      "md5": "ff1ce17acecbbc512cd102f4d79a53db",
+      "storageType": 0,
+      "url": "/public/map/SheWolfMU/orbis/SheWolfMU_MAIN_SCENE_ORBIS.zip/ff1ce17acecbbc512cd102f4d79a53db.zip"
+    }
+  },
+  "data": {
+    "mapName": "SheWolfMU",
+    "title": "She Wolf (Falling to Pieces)",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "David Guetta Ft. SIA",
+    "credits": "Written by David Guetta, Sia Furler, Giorgio Tuinfort, Christopher Braide. Published by EMI April Music Inc (APRA) / EMI Blackwood Music (Canada) Inc. (SOCAN),  Visible Music Limited (PRS) / Sony/ATV Songs LLC (BMI) /  Sony/ATV Music Publishing Canada (SOCAN) /  What A Publishing / Talpa Music, Piano Songs.  All rights reserved. Used with permission. Courtesy of EMI Music France. Sia appears courtesy of Sony Music Entertainment UK Ltd, (P) 2012. What A Music Ltd licence exclusive EMI Music France. Video footages by Artbeats Inc.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#f5b61f",
+    "LocaleID": 8605
+  },
+  "mapLength": 226.223375
+}

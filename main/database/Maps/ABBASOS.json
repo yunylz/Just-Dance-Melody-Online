@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1c4b296841bfd87136feba6a5d777e82",
+      "storageType": 0,
+      "url": "/public/map/ABBASOS/nx/ABBASOS_MAIN_SCENE_NX.zip/1c4b296841bfd87136feba6a5d777e82.zip"
+    },
+    "pc": {
+      "md5": "3f65ee26ec2beddd51ce5dc2370e0d0c",
+      "storageType": 0,
+      "url": "/public/map/ABBASOS/pc/ABBASOS_MAIN_SCENE_PC.zip/3f65ee26ec2beddd51ce5dc2370e0d0c.zip"
+    },
+    "ps4": {
+      "md5": "2f626564b362202ac5986328b279a2f1",
+      "storageType": 0,
+      "url": "/public/map/ABBASOS/orbis/ABBASOS_MAIN_SCENE_ORBIS.zip/2f626564b362202ac5986328b279a2f1.zip"
+    }
+  },
+  "data": {
+    "mapName": "ABBASOS",
+    "title": "SOS",
+    "originalJDVersion": 4884,
+    "tags": [
+      "jdabba",
+      "subscribedSong",
+      "Duet"
+    ],
+    "artist": "ABBA",
+    "credits": "Written by Ulvaeus, Bjoern K.; Andersson, Benny Goran Bror; Anderson, Stig Erik Leopold. Published by Universal Music Publishing. Courtesy of Polydor Limited under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#feb500",
+    "songColor2A": "#fec800",
+    "songColor1B": "#333333",
+    "songColor2B": "#cd4f00",
+    "lyricsColor": "#3593f9",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        18864,
+        43680,
+        68496,
+        93312,
+        118175,
+        142992,
+        167808,
+        192624,
+        217488,
+        242304,
+        267120,
+        291936,
+        316800,
+        341616,
+        366432,
+        391248,
+        416112,
+        440928,
+        465744,
+        490560,
+        515424,
+        540240,
+        565056,
+        589872,
+        614735,
+        639552,
+        664368,
+        689184,
+        714048,
+        738864,
+        763680,
+        788496,
+        813312,
+        838176,
+        862992,
+        887808,
+        912624,
+        939696,
+        966720,
+        990576,
+        1014432,
+        1038288,
+        1062192,
+        1086048,
+        1109904,
+        1133760,
+        1158048,
+        1182384,
+        1206672,
+        1230960,
+        1255248,
+        1279536,
+        1303872,
+        1328160,
+        1352448,
+        1376736,
+        1401024,
+        1425312,
+        1449360,
+        1473360,
+        1497360
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 410,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ABBASOS/ABBASOS_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ABBASOS/nx/ABBASOS_banner_bkg.tga.ckd/14b8eb1d4f4fac75fb8f22e7a0067fbd.ckd",
+      "map_bkgImageUrl": "/public/map/ABBASOS/nx/ABBASOS_map_bkg.tga.ckd/a55cf35524e6796252e8094fedfc16a2.ckd",
+      "expandCoachImageUrl": "/public/map/ABBASOS/nx/ABBASOS_Cover_AlbumCoach.tga.ckd/22523fa59a4dc6f062afcc59830fae0f.ckd",
+      "cover_smallImageUrl": "/public/map/ABBASOS/nx/ABBASOS_Cover_Online.tga.ckd/24cbeee0bc264bc7a91440c1cbb9f78f.ckd",
+      "coach1ImageUrl": "/public/map/ABBASOS/nx/ABBASOS_Coach_1.tga.ckd/4776c9a3962b7c8cf459e6a34a0c13aa.ckd",
+      "coach2ImageUrl": "/public/map/ABBASOS/nx/ABBASOS_Coach_2.tga.ckd/94adc9abf3c7f8dfbafd4d04e3e455ae.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ABBASOS/pc/ABBASOS_banner_bkg.tga.ckd/99e44bcf28091b3fb36be28bf28c4417.ckd",
+      "map_bkgImageUrl": "/public/map/ABBASOS/pc/ABBASOS_map_bkg.tga.ckd/c0c4076bd85802c16c69611358b34b65.ckd",
+      "expandCoachImageUrl": "/public/map/ABBASOS/pc/ABBASOS_Cover_AlbumCoach.tga.ckd/4997dd0cab7a8d40cfb662972e85aa2e.ckd",
+      "cover_smallImageUrl": "/public/map/ABBASOS/pc/ABBASOS_Cover_Online.tga.ckd/38745a245336c3a8b74456d61edd8391.ckd",
+      "coach1ImageUrl": "/public/map/ABBASOS/pc/ABBASOS_Coach_1.tga.ckd/712e187edf984f1025a968bdd9c1c6b1.ckd",
+      "coach2ImageUrl": "/public/map/ABBASOS/pc/ABBASOS_Coach_2.tga.ckd/e331319015ed68182ca1f5a3e2c3f252.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ABBASOS/orbis/ABBASOS_banner_bkg.tga.ckd/99e44bcf28091b3fb36be28bf28c4417.ckd",
+      "map_bkgImageUrl": "/public/map/ABBASOS/orbis/ABBASOS_map_bkg.tga.ckd/c0c4076bd85802c16c69611358b34b65.ckd",
+      "expandCoachImageUrl": "/public/map/ABBASOS/orbis/ABBASOS_Cover_AlbumCoach.tga.ckd/4997dd0cab7a8d40cfb662972e85aa2e.ckd",
+      "cover_smallImageUrl": "/public/map/ABBASOS/orbis/ABBASOS_Cover_Online.tga.ckd/38745a245336c3a8b74456d61edd8391.ckd",
+      "coach1ImageUrl": "/public/map/ABBASOS/orbis/ABBASOS_Coach_1.tga.ckd/712e187edf984f1025a968bdd9c1c6b1.ckd",
+      "coach2ImageUrl": "/public/map/ABBASOS/orbis/ABBASOS_Coach_2.tga.ckd/e331319015ed68182ca1f5a3e2c3f252.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ABBASOS/ABBASOS_Coach_1_Phone.png/",
+    "phoneCoach2ImageUrl": "/public/map/ABBASOS/ABBASOS_Coach_2_Phone.png/d31b296ecefb2ed252b1a44460062dc0.png",
+    "phoneCoverImageUrl": "/public/map/ABBASOS/ABBASOS_Cover_Phone.jpg/eed3d2b3907beb84e074aad54ba4ef2b.jpg",
+    "cover640ImageUrl": "/public/map/ABBASOS/ABBASOS_Cover_640.png/b40dedd9b273a03dc04960e1efedf271.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ABBASOS/ABBASOS.ogg": "/private/map/ABBASOS/ABBASOS.ogg/873a9f8d414fd006974e262fcc430c29.ogg",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_AudioPreview.ogg": "/public/map/ABBASOS/ABBASOS_AudioPreview.ogg/61edcf0de2b004af7b081147e9762293.ogg",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_LOW.vp8.webm/9e26a2ade45e7333c6e8be9549404162.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_HIGH.webm": "/private/map/ABBASOS/ABBASOS_HIGH.webm/9f0b31dceaf76508f965e3f6ea32b726.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_LOW.webm": "/private/map/ABBASOS/ABBASOS_LOW.webm/249dc6b3c52d705ab11100c8c923a8b1.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_MID.webm": "/private/map/ABBASOS/ABBASOS_MID.webm/9a1b93c6daa3affeb673028c8e2c061f.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_ULTRA.hd.webm": "/private/map/ABBASOS/ABBASOS_ULTRA.hd.webm/89f7483e5450e68aa746015b28af4525.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_ULTRA.webm": "/private/map/ABBASOS/ABBASOS_ULTRA.webm/f8facd21a905cb2ae92274a63642d530.webm",
+    "jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_MID.vp8.webm/5ef728e74f8814c27fe681f4b0e5eb3b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495728\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1470372\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBASOS/ABBASOS_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 202.8
+}

@@ -1,0 +1,173 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SpyKids/SpyKids.ogg": "/private/map/SpyKids/SpyKids.ogg/c7801ee7b9262547758fa08558bba574.ogg",
+    "jmcs://jd-contents/SpyKids/SpyKids_AudioPreview.ogg": "/public/map/SpyKids/SpyKids_AudioPreview.ogg/7d44985bb78ad083840f0aef15583f11.ogg",
+    "jmcs://jd-contents/SpyKids/SpyKids_HIGH.hd.webm": "/private/map/SpyKids/SpyKids_HIGH.hd.webm/e2903bfbc6293a41a48ac522af84bcd7.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_LOW.hd.webm": "/private/map/SpyKids/SpyKids_LOW.hd.webm/86ef1f69d91dc43a7a4ee327cd42949b.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_MID.hd.webm": "/private/map/SpyKids/SpyKids_MID.hd.webm/794a1710e8ad160108f4ebefea85a606.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_ULTRA.hd.webm": "/private/map/SpyKids/SpyKids_ULTRA.hd.webm/b582d9fa71ca8d0719e0379b5333862e.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SpyKids/SpyKids_MapPreviewNoSoundCrop_LOW.vp8.webm/10b2fca090b991a5b5aad832d79978a2.webm",
+    "jmcs://jd-contents/SpyKids/SpyKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SpyKids/SpyKids_MapPreviewNoSoundCrop_MID.vp8.webm/a33dcd85b9a0c69a14073fb665738154.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24407,
+        48814,
+        73220,
+        97627,
+        122034,
+        146441,
+        170847,
+        195254,
+        219661,
+        244068,
+        268475,
+        292881,
+        317288,
+        341695,
+        366102,
+        390508,
+        414915,
+        439322,
+        463729,
+        488136,
+        512542,
+        536949,
+        561356,
+        585763,
+        610169,
+        634576,
+        658983,
+        683390,
+        707797,
+        732203,
+        756610,
+        781017,
+        805424,
+        829831,
+        854237,
+        878644,
+        903051,
+        927458,
+        951864,
+        976271,
+        1000678,
+        1025085,
+        1049492,
+        1073898,
+        1098305,
+        1122712,
+        1147119,
+        1171525,
+        1195932,
+        1220339,
+        1244746,
+        1269153,
+        1293559,
+        1317966,
+        1342373,
+        1366780,
+        1391186,
+        1415593,
+        1440000,
+        1464407,
+        1488814
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 163,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SpyKids/SpyKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "bc2f35d510b00f0e382915e9012b7956",
+      "storageType": 0,
+      "url": "/public/map/SpyKids/nx/SpyKids_MAIN_SCENE_NX.zip/bc2f35d510b00f0e382915e9012b7956.zip"
+    },
+    "pc": {
+      "md5": "7109438540e9f85e7495a44065169b4b",
+      "storageType": 0,
+      "url": "/public/map/SpyKids/pc/SpyKids_MAIN_SCENE_PC.zip/7109438540e9f85e7495a44065169b4b.zip"
+    },
+    "ps4": {
+      "md5": "b9666b95d23bba4ae57bdb1641594650",
+      "storageType": 0,
+      "url": "/public/map/SpyKids/orbis/SpyKids_MAIN_SCENE_ORBIS.zip/b9666b95d23bba4ae57bdb1641594650.zip"
+    }
+  },
+  "data": {
+    "mapName": "SpyKids",
+    "title": "Here Comes The Spy",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main",
+      "kidsonly"
+    ],
+    "artist": "The Step Brigade",
+    "credits": "Written by Neil Sidwell and Keith Beauvais. Published by Audio Network Canada Inc. Courtesy of Audio Network Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#006cd0",
+    "songColor2A": "#006cd0",
+    "songColor1B": "#99b5ff",
+    "songColor2B": "#0030b3",
+    "lyricsColor": "#47feae",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SpyKids/nx/SpyKids_banner_bkg.tga.ckd/0a585136f2b781d729b0932633bfc677.ckd",
+      "map_bkgImageUrl": "/public/map/SpyKids/nx/SpyKids_map_bkg.tga.ckd/7e11b97a5dadf7e7ac9801bb0519eb18.ckd",
+      "expandCoachImageUrl": "/public/map/SpyKids/nx/SpyKids_Cover_AlbumCoach.tga.ckd/d23b80f87158666919a95922143bc00b.ckd",
+      "cover_smallImageUrl": "/public/map/SpyKids/nx/SpyKids_Cover_Online.tga.ckd/16b67c8e737e461a266ad055f1d9eb52.ckd",
+      "coverImageUrl": "/public/map/SpyKids/nx/SpyKids_Cover_Generic.tga.ckd/12c888cc2c8e5f472a3589ba3436dec5.ckd",
+      "coach1ImageUrl": "/public/map/SpyKids/nx/SpyKids_Coach_1.tga.ckd/2074684d8ca0ea39ee1a358ebed015b1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SpyKids/pc/SpyKids_banner_bkg.tga.ckd/abd237c44634408b8bb0e8a24d731904.ckd",
+      "map_bkgImageUrl": "/public/map/SpyKids/pc/SpyKids_map_bkg.tga.ckd/2ae9a7be401538d625b1e21ce5174837.ckd",
+      "expandCoachImageUrl": "/public/map/SpyKids/pc/SpyKids_Cover_AlbumCoach.tga.ckd/4eda05c56d69e66cb400daf402bf363f.ckd",
+      "cover_smallImageUrl": "/public/map/SpyKids/pc/SpyKids_Cover_Online.tga.ckd/496b253493ee9534cfe5d346b6d2d550.ckd",
+      "coverImageUrl": "/public/map/SpyKids/pc/SpyKids_Cover_Generic.tga.ckd/b46170157a5f0fa19cb9a9c81868d1ce.ckd",
+      "coach1ImageUrl": "/public/map/SpyKids/pc/SpyKids_Coach_1.tga.ckd/246b8a3f0edd7d5811d14e8f6b5372e7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SpyKids/orbis/SpyKids_banner_bkg.tga.ckd/abd237c44634408b8bb0e8a24d731904.ckd",
+      "map_bkgImageUrl": "/public/map/SpyKids/orbis/SpyKids_map_bkg.tga.ckd/2ae9a7be401538d625b1e21ce5174837.ckd",
+      "expandCoachImageUrl": "/public/map/SpyKids/orbis/SpyKids_Cover_AlbumCoach.tga.ckd/4eda05c56d69e66cb400daf402bf363f.ckd",
+      "cover_smallImageUrl": "/public/map/SpyKids/orbis/SpyKids_Cover_Online.tga.ckd/496b253493ee9534cfe5d346b6d2d550.ckd",
+      "coverImageUrl": "/public/map/SpyKids/orbis/SpyKids_Cover_Generic.tga.ckd/b46170157a5f0fa19cb9a9c81868d1ce.ckd",
+      "coach1ImageUrl": "/public/map/SpyKids/orbis/SpyKids_Coach_1.tga.ckd/246b8a3f0edd7d5811d14e8f6b5372e7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SpyKids/SpyKids_Coach_1_Phone.png/d6bed72cf9fcb0c502a3968399304aed.png",
+    "phoneCoverImageUrl": "/public/map/SpyKids/SpyKids_Cover_Phone.jpg/8dcaded4580e729005817eabd0450d0b.jpg",
+    "cover640ImageUrl": "/public/map/SpyKids/SpyKids_Cover_640.png/99e0202494a09f46640d710453517ff0.png"
+  },
+  "mapLength": 86.949
+}

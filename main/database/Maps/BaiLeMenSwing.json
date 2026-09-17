@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "bebc97fcde836c3534fa697b958e348d",
+      "storageType": 0,
+      "url": "/public/map/BaiLeMenSwing/nx/BaiLeMenSwing_MAIN_SCENE_NX.zip/bebc97fcde836c3534fa697b958e348d.zip"
+    },
+    "pc": {
+      "md5": "aae70914f3cb134fe737f32446c8eb6c",
+      "storageType": 0,
+      "url": "/public/map/BaiLeMenSwing/pc/BaiLeMenSwing_MAIN_SCENE_PC.zip/aae70914f3cb134fe737f32446c8eb6c.zip"
+    },
+    "ps4": {
+      "md5": "08518d1122d33a3830cb5e234c11c698",
+      "storageType": 0,
+      "url": "/public/map/BaiLeMenSwing/orbis/BaiLeMenSwing_MAIN_SCENE_ORBIS.zip/08518d1122d33a3830cb5e234c11c698.zip"
+    }
+  },
+  "data": {
+    "mapName": "BaiLeMenSwing",
+    "title": "Bailemen Swing (百乐门Swing feat. 张乐)",
+    "originalJDVersion": 1103,
+    "tags": [
+      "subscribedSong",
+      "JustDanceAsia"
+    ],
+    "artist": "上海复兴方案",
+    "credits": "David Wen Wei Liang创作,上海复兴方案feat. 张乐演唱,Undercover Culture Publishing (BMI)出版发行,承蒙Undercover Culture Music提供.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#e4cc9c",
+    "songColor2A": "#a538f3",
+    "songColor1B": "#554c3a",
+    "songColor2B": "#481a86",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24001,
+        48002,
+        72004,
+        96005,
+        120006,
+        144007,
+        168008,
+        192010,
+        216011,
+        240012,
+        264013,
+        288014,
+        312016,
+        336017,
+        360018,
+        384019,
+        408020,
+        432022,
+        456023,
+        480024,
+        504025,
+        528026,
+        552028,
+        576029,
+        600030,
+        624031,
+        648032,
+        672034,
+        696035,
+        720036,
+        744037,
+        768038,
+        792040,
+        816041,
+        840042,
+        864043,
+        888044,
+        912046,
+        936047,
+        960048,
+        984049,
+        1008050,
+        1032052,
+        1056053,
+        1080054,
+        1104055,
+        1128056,
+        1152058,
+        1176059,
+        1200060,
+        1224061,
+        1248062,
+        1272064,
+        1296065,
+        1320066,
+        1344067,
+        1368068,
+        1392070,
+        1416071,
+        1440072,
+        1464073,
+        1488074
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 405,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BaiLeMenSwing/nx/BaiLeMenSwing_banner_bkg.tga.ckd/dbdf9dbee0751755566e642491d24355.ckd",
+      "map_bkgImageUrl": "/public/map/BaiLeMenSwing/nx/BaiLeMenSwing_map_bkg.tga.ckd/b74ebe5a1a119bae4733efc000bee9b5.ckd",
+      "expandCoachImageUrl": "/public/map/BaiLeMenSwing/nx/BaiLeMenSwing_Cover_AlbumCoach.tga.ckd/6d9a5f14ecc22f5520a0cb2d32ca3435.ckd",
+      "cover_smallImageUrl": "/public/map/BaiLeMenSwing/nx/BaiLeMenSwing_Cover_Online.tga.ckd/49d31dc040eeae01722cf18b3c313edc.ckd",
+      "coach1ImageUrl": "/public/map/BaiLeMenSwing/nx/BaiLeMenSwing_Coach_1.tga.ckd/a402389d40a269cede98af7a837a2fef.ckd",
+      "coach2ImageUrl": "/public/map/BaiLeMenSwing/nx/BaiLeMenSwing_Coach_2.tga.ckd/10c38ec9449ff08d4a23615b636bd667.ckd",
+      "coach3ImageUrl": "/public/map/BaiLeMenSwing/nx/BaiLeMenSwing_Coach_3.tga.ckd/f4c7ddc3e866d8cf969b16773b412c4e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BaiLeMenSwing/pc/BaiLeMenSwing_banner_bkg.tga.ckd/14a14bca7e75deef7643954d20de512f.ckd",
+      "map_bkgImageUrl": "/public/map/BaiLeMenSwing/pc/BaiLeMenSwing_map_bkg.tga.ckd/60a7a162a9dcbc047e4f53c2e08a9f24.ckd",
+      "expandCoachImageUrl": "/public/map/BaiLeMenSwing/pc/BaiLeMenSwing_Cover_AlbumCoach.tga.ckd/7b719c9876a816d5dd5ff50a625cf741.ckd",
+      "cover_smallImageUrl": "/public/map/BaiLeMenSwing/pc/BaiLeMenSwing_Cover_Online.tga.ckd/659888fcb768d24e944477f235e89a97.ckd",
+      "coach1ImageUrl": "/public/map/BaiLeMenSwing/pc/BaiLeMenSwing_Coach_1.tga.ckd/aac3e19153f80abaa5ee681ef51eae64.ckd",
+      "coach2ImageUrl": "/public/map/BaiLeMenSwing/pc/BaiLeMenSwing_Coach_2.tga.ckd/9b5b0cbda0c751ad57f0fd8de0efa117.ckd",
+      "coach3ImageUrl": "/public/map/BaiLeMenSwing/pc/BaiLeMenSwing_Coach_3.tga.ckd/41691391cc54c7d15e5a49207bd66e39.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BaiLeMenSwing/orbis/BaiLeMenSwing_banner_bkg.tga.ckd/14a14bca7e75deef7643954d20de512f.ckd",
+      "map_bkgImageUrl": "/public/map/BaiLeMenSwing/orbis/BaiLeMenSwing_map_bkg.tga.ckd/60a7a162a9dcbc047e4f53c2e08a9f24.ckd",
+      "expandCoachImageUrl": "/public/map/BaiLeMenSwing/orbis/BaiLeMenSwing_Cover_AlbumCoach.tga.ckd/7b719c9876a816d5dd5ff50a625cf741.ckd",
+      "cover_smallImageUrl": "/public/map/BaiLeMenSwing/orbis/BaiLeMenSwing_Cover_Online.tga.ckd/659888fcb768d24e944477f235e89a97.ckd",
+      "coach1ImageUrl": "/public/map/BaiLeMenSwing/orbis/BaiLeMenSwing_Coach_1.tga.ckd/aac3e19153f80abaa5ee681ef51eae64.ckd",
+      "coach2ImageUrl": "/public/map/BaiLeMenSwing/orbis/BaiLeMenSwing_Coach_2.tga.ckd/9b5b0cbda0c751ad57f0fd8de0efa117.ckd",
+      "coach3ImageUrl": "/public/map/BaiLeMenSwing/orbis/BaiLeMenSwing_Coach_3.tga.ckd/41691391cc54c7d15e5a49207bd66e39.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BaiLeMenSwing/BaiLeMenSwing_Coach_1_Phone.png/8c996f538342c89c7bccc700e84ff4d8.png",
+    "phoneCoach2ImageUrl": "/public/map/BaiLeMenSwing/BaiLeMenSwing_Coach_2_Phone.png/861759ba4fd6d44a66633896a4014291.png",
+    "phoneCoach3ImageUrl": "/public/map/BaiLeMenSwing/BaiLeMenSwing_Coach_3_Phone.png/4979fe413c8b278cca2af84b7856af53.png",
+    "phoneCoverImageUrl": "/public/map/BaiLeMenSwing/BaiLeMenSwing_Cover_Phone.jpg/47766cf637ac1184e5d663bfd13f01ae.jpg",
+    "cover640ImageUrl": "/public/map/BaiLeMenSwing/BaiLeMenSwing_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing.ogg": "/private/map/BaiLeMenSwing/BaiLeMenSwing.ogg/8314ca7b792833e2269edb82eec04eab.ogg",
+    "jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing_AudioPreview.ogg": "/public/map/BaiLeMenSwing/BaiLeMenSwing_AudioPreview.ogg/9f4bce811a1bce4b4f445b661764c3bb.ogg",
+    "jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing_HIGH.webm": "/private/map/BaiLeMenSwing/BaiLeMenSwing_HIGH.webm/0d5d9af26a02e7f9c2b272534ab052c0.webm",
+    "jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing_LOW.webm": "/private/map/BaiLeMenSwing/BaiLeMenSwing_LOW.webm/f2ecde67162de37d1058be03e4e08612.webm",
+    "jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing_MID.webm": "/private/map/BaiLeMenSwing/BaiLeMenSwing_MID.webm/7ea43618726bf7860d82e0e6264044dc.webm",
+    "jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing_ULTRA.hd.webm": "/private/map/BaiLeMenSwing/BaiLeMenSwing_ULTRA.hd.webm/d9f04c9ba2c46b4932445be8602b4e08.webm",
+    "jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing_ULTRA.webm": "/private/map/BaiLeMenSwing/BaiLeMenSwing_ULTRA.webm/a94cfec4b342098d6693ead1bcd25915.webm",
+    "jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BaiLeMenSwing/BaiLeMenSwing_MapPreviewNoSoundCrop_LOW.vp8.webm/b4e5bda6d1376358ff7bd2a4a4e1154b.webm",
+    "jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BaiLeMenSwing/BaiLeMenSwing_MapPreviewNoSoundCrop_MID.vp8.webm/6947f67d6edca07d56be43c30a2349ff.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"493552\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"657-1146\">\n\t\t\t\t\t<Initialization range=\"0-657\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1481121\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BaiLeMenSwing/BaiLeMenSwing_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"658-1148\">\n\t\t\t\t\t<Initialization range=\"0-658\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 204.510208
+}

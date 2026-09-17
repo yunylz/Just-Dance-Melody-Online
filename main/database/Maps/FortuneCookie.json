@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "33d95d4a2ed01ce463e4c0e50acfa41c",
+      "storageType": 0,
+      "url": "/public/map/FortuneCookie/nx/FortuneCookie_MAIN_SCENE_NX.zip/33d95d4a2ed01ce463e4c0e50acfa41c.zip"
+    },
+    "pc": {
+      "md5": "a2dadb5ae7d9a5d2491b1419d6e44910",
+      "storageType": 0,
+      "url": "/public/map/FortuneCookie/pc/FortuneCookie_MAIN_SCENE_PC.zip/a2dadb5ae7d9a5d2491b1419d6e44910.zip"
+    },
+    "ps4": {
+      "md5": "658d7b3e7164f20c543814b6ed321a85",
+      "storageType": 0,
+      "url": "/public/map/FortuneCookie/orbis/FortuneCookie_MAIN_SCENE_ORBIS.zip/658d7b3e7164f20c543814b6ed321a85.zip"
+    }
+  },
+  "data": {
+    "mapName": "FortuneCookie",
+    "title": "Koi Suru Fortune Cookie",
+    "originalJDVersion": 1003,
+    "tags": [
+      "subscribedSong",
+      "jdwiiu",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "AKB48",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#79039e",
+    "songColor2A": "#bf0a80",
+    "songColor1B": "#3b014c",
+    "songColor2B": "#5a003b",
+    "lyricsColor": "#1d8cd9",
+    "credits": "CREDITS STRING TO BE FILLED"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23615,
+        47231,
+        70799,
+        94415,
+        118031,
+        141647,
+        165263,
+        188831,
+        212447,
+        236063,
+        259679,
+        283295,
+        306863,
+        330479,
+        354095,
+        377711,
+        401327,
+        424895,
+        448511,
+        472127,
+        495743,
+        519359,
+        542927,
+        566543,
+        590159,
+        613775,
+        637391,
+        660959,
+        684575,
+        708191,
+        731807,
+        755423,
+        779039,
+        802607,
+        826223,
+        849839,
+        873455,
+        897071,
+        920639,
+        944255,
+        967871,
+        991486,
+        1015102,
+        1038670,
+        1062286,
+        1085902,
+        1109518,
+        1133134,
+        1156702,
+        1180318,
+        1203934,
+        1227550,
+        1251166,
+        1274734,
+        1298350,
+        1321966,
+        1345582,
+        1369198,
+        1392766,
+        1416382,
+        1439998,
+        1463614,
+        1487230
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 576,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/FortuneCookie/FortuneCookie_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/FortuneCookie/nx/FortuneCookie_banner_bkg.tga.ckd/82cd53ae079686b896197c0000f99a52.ckd",
+      "map_bkgImageUrl": "/public/map/FortuneCookie/nx/FortuneCookie_map_bkg.tga.ckd/ece80badb19fe7aa04ada6f8d36f8abd.ckd",
+      "expandCoachImageUrl": "/public/map/FortuneCookie/nx/FortuneCookie_Cover_AlbumCoach.tga.ckd/c3437fe928a5d9c73cc1d2ffe561d33d.ckd",
+      "cover_smallImageUrl": "/public/map/FortuneCookie/nx/FortuneCookie_Cover_Online.tga.ckd/f2f32dfc720f3bde15087d0964402752.ckd",
+      "coach1ImageUrl": "/public/map/FortuneCookie/nx/FortuneCookie_Coach_1.tga.ckd/bd2dcd92873bd32c4a3298fcec5e3534.ckd",
+      "coach2ImageUrl": "/public/map/FortuneCookie/nx/FortuneCookie_Coach_2.tga.ckd/b6712866af793ac5753d63f0f50fba5b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/FortuneCookie/pc/FortuneCookie_banner_bkg.tga.ckd/e9863d976412652dc92d5f9e91d618bc.ckd",
+      "map_bkgImageUrl": "/public/map/FortuneCookie/pc/FortuneCookie_map_bkg.tga.ckd/be81977224641b2712a82d2d4d67f489.ckd",
+      "expandCoachImageUrl": "/public/map/FortuneCookie/pc/FortuneCookie_Cover_AlbumCoach.tga.ckd/ebc9237fe8770b27753e5520ec3ad6dd.ckd",
+      "cover_smallImageUrl": "/public/map/FortuneCookie/pc/FortuneCookie_Cover_Online.tga.ckd/f197b6f9d21c417c2db63f160d9ba5f9.ckd",
+      "coach1ImageUrl": "/public/map/FortuneCookie/pc/FortuneCookie_Coach_1.tga.ckd/e7b8a3b29f08edf6b196a6f61dca6118.ckd",
+      "coach2ImageUrl": "/public/map/FortuneCookie/pc/FortuneCookie_Coach_2.tga.ckd/9eae8a35a0c533066f2b3b24dbc08faf.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/FortuneCookie/orbis/FortuneCookie_banner_bkg.tga.ckd/e9863d976412652dc92d5f9e91d618bc.ckd",
+      "map_bkgImageUrl": "/public/map/FortuneCookie/orbis/FortuneCookie_map_bkg.tga.ckd/be81977224641b2712a82d2d4d67f489.ckd",
+      "expandCoachImageUrl": "/public/map/FortuneCookie/orbis/FortuneCookie_Cover_AlbumCoach.tga.ckd/ebc9237fe8770b27753e5520ec3ad6dd.ckd",
+      "cover_smallImageUrl": "/public/map/FortuneCookie/orbis/FortuneCookie_Cover_Online.tga.ckd/f197b6f9d21c417c2db63f160d9ba5f9.ckd",
+      "coach1ImageUrl": "/public/map/FortuneCookie/orbis/FortuneCookie_Coach_1.tga.ckd/e7b8a3b29f08edf6b196a6f61dca6118.ckd",
+      "coach2ImageUrl": "/public/map/FortuneCookie/orbis/FortuneCookie_Coach_2.tga.ckd/9eae8a35a0c533066f2b3b24dbc08faf.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/FortuneCookie/FortuneCookie_Coach_1_Phone.png/17d9cfeb4c3a18ebf1b2230653e49aed.png",
+    "phoneCoach2ImageUrl": "/public/map/FortuneCookie/FortuneCookie_Coach_2_Phone.png/eca7b90efa0615495bcf0721a85267f1.png",
+    "phoneCoverImageUrl": "/public/map/FortuneCookie/FortuneCookie_Cover_Phone.jpg/0440db9c7620f76043fe78002ce8c018.jpg",
+    "cover640ImageUrl": "/public/map/FortuneCookie/FortuneCookie_Cover_640.png/3685ef776684c912c65a008f5d3b72f3.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie.ogg": "/private/map/FortuneCookie/FortuneCookie.ogg/7c7d83ac35853ee6158b5a3c854ce87f.ogg",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_AudioPreview.ogg": "/public/map/FortuneCookie/FortuneCookie_AudioPreview.ogg/ca9dc3eb6b265139ed9ae08096122d0d.ogg",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_HIGH.webm": "/private/map/FortuneCookie/FortuneCookie_HIGH.webm/9e4388ab22a4a5bf9509d8be889e83f6.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_LOW.webm": "/private/map/FortuneCookie/FortuneCookie_LOW.webm/931059e53ad0b0993aed86b8aa7bdefb.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_MID.webm": "/private/map/FortuneCookie/FortuneCookie_MID.webm/01ad2573bde0d4c413a0a81d524e6120.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_ULTRA.webm": "/private/map/FortuneCookie/FortuneCookie_ULTRA.webm/34291c0f2fe5a9bda2f6f0912b630ffb.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_LOW.vp8.webm/8cec0cb8cef586c1879655bf265a0bc0.webm",
+    "jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_MID.vp8.webm/5066a4c1feac5db67e01a28557caf8fd.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500089\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"562-1052\">\n\t\t\t\t\t<Initialization range=\"0-562\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484073\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FortuneCookie/FortuneCookie_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"563-1053\">\n\t\t\t\t\t<Initialization range=\"0-563\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 285.262
+}

@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "05d3b3f088f62f5475391689a3498453",
+      "storageType": 0,
+      "url": "/public/map/MJThriller/nx/MJThriller_MAIN_SCENE_NX.zip/05d3b3f088f62f5475391689a3498453.zip"
+    },
+    "pc": {
+      "md5": "c21c96cf56b568af0f7abc52c1893267",
+      "storageType": 0,
+      "url": "/public/map/MJThriller/pc/MJThriller_MAIN_SCENE_PC.zip/c21c96cf56b568af0f7abc52c1893267.zip"
+    },
+    "ps4": {
+      "md5": "71899104c3f150cfa7f8ee6cc11cb62a",
+      "storageType": 0,
+      "url": "/public/map/MJThriller/orbis/MJThriller_MAIN_SCENE_ORBIS.zip/71899104c3f150cfa7f8ee6cc11cb62a.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJThriller",
+    "title": "Thriller",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#2b5e19",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23904,
+        48336,
+        72720,
+        97104,
+        121488,
+        145728,
+        169968,
+        194256,
+        218496,
+        242736,
+        266976,
+        291216,
+        315456,
+        339696,
+        363936,
+        388128,
+        412416,
+        436656,
+        460896,
+        485184,
+        509424,
+        533712,
+        558048,
+        582240,
+        606432,
+        630720,
+        655008,
+        679296,
+        703536,
+        727776,
+        752016,
+        776256,
+        800496,
+        824784,
+        849072,
+        873264,
+        897696,
+        922128,
+        946704,
+        971088,
+        995520,
+        1020000,
+        1044288,
+        1068624,
+        1092816,
+        1117248,
+        1141728,
+        1165920,
+        1190400,
+        1214592,
+        1238880,
+        1263408,
+        1287888,
+        1312032,
+        1336272,
+        1360752,
+        1385280,
+        1409424,
+        1433520,
+        1457664,
+        1481808
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 709,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJThriller/MJThriller_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJThriller/nx/MJThriller_banner_bkg.tga.ckd/7d7909d16d4850270f0260f58c62dcea.ckd",
+      "map_bkgImageUrl": "/public/map/MJThriller/nx/MJThriller_map_bkg.tga.ckd/2a0c3250b037185cd6e832e4cbc479df.ckd",
+      "expandCoachImageUrl": "/public/map/MJThriller/nx/MJThriller_Cover_AlbumCoach.tga.ckd/dc8b7c34a3a15ee128383f9c08c0b3f4.ckd",
+      "cover_smallImageUrl": "/public/map/MJThriller/nx/MJThriller_Cover_Online.tga.ckd/c0d6263a4f49f0bfc84862ef672964e3.ckd",
+      "coach1ImageUrl": "/public/map/MJThriller/nx/MJThriller_Coach_1.tga.ckd/b20a0da869748efbe4331de09d337792.ckd",
+      "coach2ImageUrl": "/public/map/MJThriller/nx/MJThriller_Coach_2.tga.ckd/bbfec3728b94386c67386401d3233c8f.ckd",
+      "coach3ImageUrl": "/public/map/MJThriller/nx/MJThriller_Coach_3.tga.ckd/b20a0da869748efbe4331de09d337792.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJThriller/pc/MJThriller_banner_bkg.tga.ckd/3fa7b79d5bed2347a77679fae4d42777.ckd",
+      "map_bkgImageUrl": "/public/map/MJThriller/pc/MJThriller_map_bkg.tga.ckd/9761029928825df43cc879636933e050.ckd",
+      "expandCoachImageUrl": "/public/map/MJThriller/pc/MJThriller_Cover_AlbumCoach.tga.ckd/0cda16db47a54601b5a20860b3a20d70.ckd",
+      "cover_smallImageUrl": "/public/map/MJThriller/pc/MJThriller_Cover_Online.tga.ckd/e863372ebb096b711c51b1e23a8965a8.ckd",
+      "coach1ImageUrl": "/public/map/MJThriller/pc/MJThriller_Coach_1.tga.ckd/94617b1ec97bdc43d4ee06cb043d591e.ckd",
+      "coach2ImageUrl": "/public/map/MJThriller/pc/MJThriller_Coach_2.tga.ckd/ae1edd46427594c67693fa1a56d97b08.ckd",
+      "coach3ImageUrl": "/public/map/MJThriller/pc/MJThriller_Coach_3.tga.ckd/94617b1ec97bdc43d4ee06cb043d591e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJThriller/orbis/MJThriller_banner_bkg.tga.ckd/3fa7b79d5bed2347a77679fae4d42777.ckd",
+      "map_bkgImageUrl": "/public/map/MJThriller/orbis/MJThriller_map_bkg.tga.ckd/9761029928825df43cc879636933e050.ckd",
+      "expandCoachImageUrl": "/public/map/MJThriller/orbis/MJThriller_Cover_AlbumCoach.tga.ckd/0cda16db47a54601b5a20860b3a20d70.ckd",
+      "cover_smallImageUrl": "/public/map/MJThriller/orbis/MJThriller_Cover_Online.tga.ckd/e863372ebb096b711c51b1e23a8965a8.ckd",
+      "coach1ImageUrl": "/public/map/MJThriller/orbis/MJThriller_Coach_1.tga.ckd/94617b1ec97bdc43d4ee06cb043d591e.ckd",
+      "coach2ImageUrl": "/public/map/MJThriller/orbis/MJThriller_Coach_2.tga.ckd/ae1edd46427594c67693fa1a56d97b08.ckd",
+      "coach3ImageUrl": "/public/map/MJThriller/orbis/MJThriller_Coach_3.tga.ckd/94617b1ec97bdc43d4ee06cb043d591e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJThriller/MJThriller_Coach_1_Phone.png/10bbf67f7878fd14276b24cc234a3847.png",
+    "phoneCoach2ImageUrl": "/public/map/MJThriller/MJThriller_Coach_2_Phone.png/56b1fa88d6ce61b134c47f183458b0c1.png",
+    "phoneCoach3ImageUrl": "/public/map/MJThriller/MJThriller_Coach_3_Phone.png/10bbf67f7878fd14276b24cc234a3847.png",
+    "phoneCoverImageUrl": "/public/map/MJThriller/MJThriller_Cover_Phone.jpg/d5ad239014798536600d38251339df77.jpg"
+  },
+  "urls": {
+    "jmcs://jd-contents/MJThriller/MJThriller.ogg": "/private/map/MJThriller/MJThriller.ogg/38c86957e64163cf73f7092a7d1146a3.ogg",
+    "jmcs://jd-contents/MJThriller/MJThriller_AudioPreview.ogg": "/public/map/MJThriller/MJThriller_AudioPreview.ogg/dad53f461d910023fe052eef894a429a.ogg",
+    "jmcs://jd-contents/MJThriller/MJThriller_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJThriller/MJThriller_MapPreviewNoSoundCrop_LOW.vp8.webm/3eb41d9155667cd0768783dcdc441911.webm",
+    "jmcs://jd-contents/MJThriller/MJThriller_HIGH.webm": "/private/map/MJThriller/MJThriller_HIGH.webm/b28f76ffcdd2c1d96cf0cbbbd2f5a646.webm",
+    "jmcs://jd-contents/MJThriller/MJThriller_LOW.webm": "/private/map/MJThriller/MJThriller_LOW.webm/339fa3b3baeed4d7bda60eab2e5945b5.webm",
+    "jmcs://jd-contents/MJThriller/MJThriller_MID.webm": "/private/map/MJThriller/MJThriller_MID.webm/a3af491fe68d32d7e9d8cb32b995a9e9.webm",
+    "jmcs://jd-contents/MJThriller/MJThriller_ULTRA.hd.webm": "/private/map/MJThriller/MJThriller_ULTRA.hd.webm/19d0405a7cbc0daf1f4c95b55336b065.webm",
+    "jmcs://jd-contents/MJThriller/MJThriller_ULTRA.webm": "/private/map/MJThriller/MJThriller_ULTRA.webm/57b8b7a010b4d100a7820a8754e7ac4c.webm",
+    "jmcs://jd-contents/MJThriller/MJThriller_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJThriller/MJThriller_MapPreviewNoSoundCrop_MID.vp8.webm/f56c0088e1254ac1f22976511adf280c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"405857\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJThriller/MJThriller_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1150561\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJThriller/MJThriller_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 363.311021
+}

@@ -1,0 +1,164 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "345f6ba2ae8ae98926318ec01b25b735",
+      "storageType": 0,
+      "url": "/public/map/DjaDja/nx/DjaDja_MAIN_SCENE_NX.zip/345f6ba2ae8ae98926318ec01b25b735.zip"
+    },
+    "pc": {
+      "md5": "49f0d55a75e6f84c4b9c6a68a05a161c",
+      "storageType": 0,
+      "url": "/public/map/DjaDja/pc/DjaDja_MAIN_SCENE_PC.zip/49f0d55a75e6f84c4b9c6a68a05a161c.zip"
+    },
+    "ps4": {
+      "md5": "0125bfdeef85943414c0db07464db2da",
+      "storageType": 0,
+      "url": "/public/map/DjaDja/orbis/DjaDja_MAIN_SCENE_ORBIS.zip/0125bfdeef85943414c0db07464db2da.zip"
+    }
+  },
+  "data": {
+    "mapName": "DjaDja",
+    "title": "Djadja",
+    "originalJDVersion": 2020,
+    "tags": [
+      "subscribedSong",
+      "JustDance2020",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Aya Nakamura",
+    "credits": " All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f573fd",
+    "songColor2A": "#fbea58",
+    "songColor1B": "#0838c1",
+    "songColor2B": "#fb44f5",
+    "lyricsColor": "#3afe9c",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29388,
+        58776,
+        88163,
+        117551,
+        146939,
+        176327,
+        205714,
+        235102,
+        264490,
+        293878,
+        323265,
+        352653,
+        382041,
+        411429,
+        440816,
+        470204,
+        499592,
+        528980,
+        558367,
+        587755,
+        617143,
+        646531,
+        675918,
+        705306,
+        734694,
+        764082,
+        793469,
+        822857,
+        852245,
+        881633,
+        911020,
+        940408,
+        969796,
+        999184,
+        1028571,
+        1057959,
+        1087347,
+        1116735,
+        1146122,
+        1175510,
+        1204898,
+        1234286,
+        1263673,
+        1293061,
+        1322449,
+        1351837,
+        1381224,
+        1410612,
+        1440000,
+        1469388,
+        1498776
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 277,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DjaDja/DjaDja_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DjaDja/nx/DjaDja_banner_bkg.tga.ckd/14b2040f79083fc4a1a391a8f742db58.ckd",
+      "map_bkgImageUrl": "/public/map/DjaDja/nx/DjaDja_map_bkg.tga.ckd/868d12e7321374ba41316005193a38d3.ckd",
+      "expandCoachImageUrl": "/public/map/DjaDja/nx/DjaDja_Cover_AlbumCoach.tga.ckd/fbc44e180988734912fcd13e621a8ac5.ckd",
+      "cover_smallImageUrl": "/public/map/DjaDja/nx/DjaDja_Cover_Online.tga.ckd/86dea5a111372a47a9c88643e240408d.ckd",
+      "coach1ImageUrl": "/public/map/DjaDja/nx/DjaDja_Coach_1.tga.ckd/0330274e8b798319bc25fa1dbcc3503f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DjaDja/pc/DjaDja_banner_bkg.tga.ckd/666f971b2939d4db63424eb9badde1ff.ckd",
+      "map_bkgImageUrl": "/public/map/DjaDja/pc/DjaDja_map_bkg.tga.ckd/96344359c3ac45a5b054c4586ba0df94.ckd",
+      "expandCoachImageUrl": "/public/map/DjaDja/pc/DjaDja_Cover_AlbumCoach.tga.ckd/e5f111c049575c3989dfe6d26226fd19.ckd",
+      "cover_smallImageUrl": "/public/map/DjaDja/pc/DjaDja_Cover_Online.tga.ckd/cee9140f715b3607a3a697d6e8053af5.ckd",
+      "coach1ImageUrl": "/public/map/DjaDja/pc/DjaDja_Coach_1.tga.ckd/8aecb6f426f43500bd7d9ecb2fe69717.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DjaDja/orbis/DjaDja_banner_bkg.tga.ckd/666f971b2939d4db63424eb9badde1ff.ckd",
+      "map_bkgImageUrl": "/public/map/DjaDja/orbis/DjaDja_map_bkg.tga.ckd/96344359c3ac45a5b054c4586ba0df94.ckd",
+      "expandCoachImageUrl": "/public/map/DjaDja/orbis/DjaDja_Cover_AlbumCoach.tga.ckd/e5f111c049575c3989dfe6d26226fd19.ckd",
+      "cover_smallImageUrl": "/public/map/DjaDja/orbis/DjaDja_Cover_Online.tga.ckd/cee9140f715b3607a3a697d6e8053af5.ckd",
+      "coach1ImageUrl": "/public/map/DjaDja/orbis/DjaDja_Coach_1.tga.ckd/8aecb6f426f43500bd7d9ecb2fe69717.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DjaDja/DjaDja_Coach_1_Phone.png/0a3123c7f7362c34cac33525ad251a16.png",
+    "phoneCoverImageUrl": "/public/map/DjaDja/DjaDja_Cover_Phone.jpg/56779b832eb52bf50c92aba3083e05be.jpg",
+    "cover640ImageUrl": "/public/map/DjaDja/DjaDja_Cover_640.png/c34a7c1bcb68329657c4d119573bd731.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DjaDja/DjaDja.ogg": "/private/map/DjaDja/DjaDja.ogg/4d113e2480a6f5c6404ab04ad08e1490.ogg",
+    "jmcs://jd-contents/DjaDja/DjaDja_AudioPreview.ogg": "/public/map/DjaDja/DjaDja_AudioPreview.ogg/1f0f855e29a9469f511e8813aed32e23.ogg",
+    "jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DjaDja/DjaDja_MapPreviewNoSoundCrop_LOW.vp8.webm/09ea0b771ded08d712b1fa3ef4e948e4.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_HIGH.webm": "/private/map/DjaDja/DjaDja_HIGH.webm/77ed302fabd3c3569e9bc0e005aa6a2a.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_LOW.webm": "/private/map/DjaDja/DjaDja_LOW.webm/8f32cb3b73f6e2600839a23e24279e07.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_MID.webm": "/private/map/DjaDja/DjaDja_MID.webm/e92d871121041c11bff75e50faef4f64.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_ULTRA.hd.webm": "/private/map/DjaDja/DjaDja_ULTRA.hd.webm/483db2630aadf17c242e2418528e324c.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_ULTRA.webm": "/private/map/DjaDja/DjaDja_ULTRA.webm/0d5d907ecec529f107e84308a83c9b20.webm",
+    "jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DjaDja/DjaDja_MapPreviewNoSoundCrop_MID.vp8.webm/176a54a7911d3afdee3f64ce353f146a.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497340\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"607-1096\">\n\t\t\t\t\t<Initialization range=\"0-607\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480229\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DjaDja/DjaDja_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\n\t\t\t\t\t<Initialization range=\"0-608\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 175.101875
+}

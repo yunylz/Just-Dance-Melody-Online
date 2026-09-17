@@ -1,0 +1,179 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MoskauMU/MoskauMU.ogg": "/private/map/MoskauMU/MoskauMU.ogg/68abd772a370339b77611d30b7c44278.ogg",
+    "jmcs://jd-contents/MoskauMU/MoskauMU_AudioPreview.ogg": "/public/map/MoskauMU/MoskauMU_AudioPreview.ogg/f77499cc1600d2c2f3b8986046d4ed9c.ogg",
+    "jmcs://jd-contents/MoskauMU/MoskauMU_HIGH.hd.webm": "/private/map/MoskauMU/MoskauMU_HIGH.hd.webm/535d24e7b6ab8a246c5dabc1045df684.webm",
+    "jmcs://jd-contents/MoskauMU/MoskauMU_LOW.hd.webm": "/private/map/MoskauMU/MoskauMU_LOW.hd.webm/98cca4196652c3efccdc7e99ef42379d.webm",
+    "jmcs://jd-contents/MoskauMU/MoskauMU_MID.hd.webm": "/private/map/MoskauMU/MoskauMU_MID.hd.webm/3d5d1afeb57622dade8d5948fb9eafe6.webm",
+    "jmcs://jd-contents/MoskauMU/MoskauMU_ULTRA.hd.webm": "/private/map/MoskauMU/MoskauMU_ULTRA.hd.webm/99e0435a35837b1e8b1a9e975a69e8f9.webm",
+    "jmcs://jd-contents/MoskauMU/MoskauMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MoskauMU/MoskauMU_MapPreviewNoSoundCrop_LOW.vp8.webm/00982709cb86405b93f43a9ae731558b.webm",
+    "jmcs://jd-contents/MoskauMU/MoskauMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MoskauMU/MoskauMU_MapPreviewNoSoundCrop_MID.vp8.webm/34eddcb7a6d5719d800312982c85e9c4.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21887,
+        43823,
+        65711,
+        87599,
+        109487,
+        131423,
+        153311,
+        175199,
+        197087,
+        219023,
+        240911,
+        262799,
+        284687,
+        306623,
+        328511,
+        350399,
+        372335,
+        394223,
+        416111,
+        437999,
+        459934,
+        481822,
+        503710,
+        525598,
+        547534,
+        569422,
+        591310,
+        613198,
+        635134,
+        657022,
+        678910,
+        700846,
+        722734,
+        744622,
+        766510,
+        788446,
+        810334,
+        832222,
+        854110,
+        876046,
+        897933,
+        919821,
+        941709,
+        963645,
+        985533,
+        1007421,
+        1029357,
+        1051245,
+        1073133,
+        1095021,
+        1116957,
+        1138845,
+        1160733,
+        1182621,
+        1204557,
+        1226445,
+        1248333,
+        1270221,
+        1292157,
+        1314045,
+        1335933,
+        1357868,
+        1379756,
+        1401644,
+        1423532,
+        1445468,
+        1467356,
+        1489244
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 448,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MoskauMU/MoskauMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MoskauMU/nx/MoskauMU_banner_bkg.tga.ckd/f37232aa3ac63dfdb765f984960383ba.ckd",
+      "map_bkgImageUrl": "/public/map/MoskauMU/nx/MoskauMU_map_bkg.tga.ckd/debfe02c05d517366c9112a128f05e63.ckd",
+      "expandCoachImageUrl": "/public/map/MoskauMU/nx/MoskauMU_Cover_AlbumCoach.tga.ckd/790d8dcd8674fc6197ee483c6284678e.ckd",
+      "cover_smallImageUrl": "/public/map/MoskauMU/nx/MoskauMU_Cover_Online.tga.ckd/0ff00f8a7a9666b0bc0b268a3e84189e.ckd",
+      "coverImageUrl": "/public/map/MoskauMU/nx/MoskauMU_Cover_Generic.tga.ckd/975bb68015c785f5dd068880e7e6099c.ckd",
+      "coach1ImageUrl": "/public/map/MoskauMU/nx/MoskauMU_Coach_1.tga.ckd/58645e810ec2ff69ddd1a251a5a4069f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MoskauMU/pc/MoskauMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/MoskauMU/pc/MoskauMU_map_bkg.tga.ckd/93eb864640c7d5966859c65966d2af9c.ckd",
+      "expandCoachImageUrl": "/public/map/MoskauMU/pc/MoskauMU_Cover_AlbumCoach.tga.ckd/38beaa46d34e5d4fb24931943a3e810a.ckd",
+      "cover_smallImageUrl": "/public/map/MoskauMU/pc/MoskauMU_Cover_Online.tga.ckd/630f29c74546b1ac6ccc1b6aabbb88c0.ckd",
+      "coverImageUrl": "/public/map/MoskauMU/pc/MoskauMU_Cover_Generic.tga.ckd/090fb4ab5a4b1aaa181c49aac1f4af99.ckd",
+      "coach1ImageUrl": "/public/map/MoskauMU/pc/MoskauMU_Coach_1.tga.ckd/7a3aeb00d679a7ffbcc4009ed00d40a2.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MoskauMU/orbis/MoskauMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/MoskauMU/orbis/MoskauMU_map_bkg.tga.ckd/93eb864640c7d5966859c65966d2af9c.ckd",
+      "expandCoachImageUrl": "/public/map/MoskauMU/orbis/MoskauMU_Cover_AlbumCoach.tga.ckd/38beaa46d34e5d4fb24931943a3e810a.ckd",
+      "cover_smallImageUrl": "/public/map/MoskauMU/orbis/MoskauMU_Cover_Online.tga.ckd/630f29c74546b1ac6ccc1b6aabbb88c0.ckd",
+      "coverImageUrl": "/public/map/MoskauMU/orbis/MoskauMU_Cover_Generic.tga.ckd/090fb4ab5a4b1aaa181c49aac1f4af99.ckd",
+      "coach1ImageUrl": "/public/map/MoskauMU/orbis/MoskauMU_Coach_1.tga.ckd/7a3aeb00d679a7ffbcc4009ed00d40a2.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MoskauMU/MoskauMU_Coach_1_Phone.png/c9eda600351560e64362ee787019f2a6.png",
+    "phoneCoverImageUrl": "/public/map/MoskauMU/MoskauMU_Cover_Phone.jpg/fe22149fe326ce618a0e3505f6cd5743.jpg",
+    "cover640ImageUrl": "/public/map/MoskauMU/MoskauMU_Cover_640.png/d7f550cdec226b6806beaad1f6060e89.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "3bb3e4a760d4e668d71c3b38de013b01",
+      "storageType": 0,
+      "url": "/public/map/MoskauMU/nx/MoskauMU_MAIN_SCENE_NX.zip/3bb3e4a760d4e668d71c3b38de013b01.zip"
+    },
+    "pc": {
+      "md5": "6415392e02c9a54429d65faa3c296d23",
+      "storageType": 0,
+      "url": "/public/map/MoskauMU/pc/MoskauMU_MAIN_SCENE_PC.zip/6415392e02c9a54429d65faa3c296d23.zip"
+    },
+    "ps4": {
+      "md5": "1efe7820811f77658d7e48806e65278c",
+      "storageType": 0,
+      "url": "/public/map/MoskauMU/orbis/MoskauMU_MAIN_SCENE_ORBIS.zip/1efe7820811f77658d7e48806e65278c.zip"
+    }
+  },
+  "data": {
+    "mapName": "MoskauMU",
+    "title": "Moskau",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Dancing Bros.",
+    "credits": "Written by Ralph Siegel (Jun.) and Bernd Meinunger. Published by Chappell & Co. Gmbh & Co. Kg (GEMA). ©1979. All Rights Reserved.  Courtesy of Ubisoft Music, Inc.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00919a",
+    "songColor2A": "#7ce5ff",
+    "songColor1B": "#000d21",
+    "songColor2B": "#010042",
+    "lyricsColor": "#0babf6",
+    "LocaleID": 8605
+  },
+  "mapLength": 204.407542
+}

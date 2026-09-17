@@ -1,0 +1,158 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "872e63a538602476978a16a56387df93",
+      "storageType": 0,
+      "url": "/public/map/MONTERO/nx/MONTERO_MAIN_SCENE_NX.zip/872e63a538602476978a16a56387df93.zip"
+    },
+    "pc": {
+      "md5": "f2a43957dc1946de4fcd11fe1c593174",
+      "storageType": 0,
+      "url": "/public/map/MONTERO/pc/MONTERO_MAIN_SCENE_PC.zip/f2a43957dc1946de4fcd11fe1c593174.zip"
+    },
+    "ps4": {
+      "md5": "f90df25e50169fc7d09dd053db50327a",
+      "storageType": 0,
+      "url": "/public/map/MONTERO/orbis/MONTERO_MAIN_SCENE_ORBIS.zip/f90df25e50169fc7d09dd053db50327a.zip"
+    }
+  },
+  "data": {
+    "mapName": "MONTERO",
+    "title": "MONTERO (Call Me By Your Name)",
+    "originalJDVersion": 9999,
+    "tags": [
+      "main"
+    ],
+    "artist": "Lil Nas X",
+    "credits": "Written by Denzel Michael-Akil Baptiste, David Biral, Omer Fedi, Montero Lamar Hill and Rosario Peter Lenzo IV. Published by Universal/MCA Music Ltd. / Sony/ATV Songs LLC (BMI). All rights reserved. Used with permission. Courtesy of Columbia Records, a Division of Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#e500e5",
+    "songColor2A": "#2ce9a8",
+    "songColor1B": "#130039",
+    "songColor2B": "#250129",
+    "lyricsColor": "#1cece0"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        34909,
+        69818,
+        104727,
+        139636,
+        173800,
+        207964,
+        241143,
+        272516,
+        303889,
+        335261,
+        366805,
+        398350,
+        431077,
+        463804,
+        494973,
+        526142,
+        560024,
+        593907,
+        625279,
+        656652,
+        688024,
+        719397,
+        752885,
+        786374,
+        818022,
+        849670,
+        882213,
+        914755,
+        947298,
+        979840,
+        1011840,
+        1043840,
+        1075840,
+        1107840,
+        1139983,
+        1172126,
+        1204268,
+        1236411,
+        1268590,
+        1300769,
+        1332948,
+        1365126,
+        1397305,
+        1429484,
+        1461663,
+        1493841
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 257,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 44,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MONTERO/MONTERO_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MONTERO/nx/MONTERO_banner_bkg.tga.ckd/619e9e235ba809d11fb348f2b0dd2d80.ckd",
+      "map_bkgImageUrl": "/public/map/MONTERO/nx/MONTERO_map_bkg.tga.ckd/91426bf8579f6f33a3863c81ea4ea820.ckd",
+      "expandCoachImageUrl": "/public/map/MONTERO/nx/MONTERO_Cover_AlbumCoach.tga.ckd/9b6b4c4c7b8358c208adf66edd59c8bf.ckd",
+      "cover_smallImageUrl": "/public/map/MONTERO/nx/MONTERO_Cover_Online.tga.ckd/ae68b463066f285dd3c7095c7a7cb8c8.ckd",
+      "coverImageUrl": "/public/map/MONTERO/nx/MONTERO_Cover_Generic.tga.ckd/9c10c58d809d3da2c7a43b5d956a0ea6.ckd",
+      "coach1ImageUrl": "/public/map/MONTERO/nx/MONTERO_Coach_1.tga.ckd/839935beeb2ab8dbe9ebeda363724601.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MONTERO/pc/MONTERO_banner_bkg.tga.ckd/a117fe6f00885077ea930cec7d0db062.ckd",
+      "map_bkgImageUrl": "/public/map/MONTERO/pc/MONTERO_map_bkg.tga.ckd/ed3015718fe15347a350428bb0f68a56.ckd",
+      "expandCoachImageUrl": "/public/map/MONTERO/pc/MONTERO_Cover_AlbumCoach.tga.ckd/629c7225a83c5d190c16cffc47344899.ckd",
+      "cover_smallImageUrl": "/public/map/MONTERO/pc/MONTERO_Cover_Online.tga.ckd/0a0604a3837e72823d6e4514746da930.ckd",
+      "coverImageUrl": "/public/map/MONTERO/pc/MONTERO_Cover_Generic.tga.ckd/c50b0825a76b4c3d9e04d7267ab096aa.ckd",
+      "coach1ImageUrl": "/public/map/MONTERO/pc/MONTERO_Coach_1.tga.ckd/83c3a53e2e0545626ddbaa79894532a6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MONTERO/orbis/MONTERO_banner_bkg.tga.ckd/a117fe6f00885077ea930cec7d0db062.ckd",
+      "map_bkgImageUrl": "/public/map/MONTERO/orbis/MONTERO_map_bkg.tga.ckd/ed3015718fe15347a350428bb0f68a56.ckd",
+      "expandCoachImageUrl": "/public/map/MONTERO/orbis/MONTERO_Cover_AlbumCoach.tga.ckd/629c7225a83c5d190c16cffc47344899.ckd",
+      "cover_smallImageUrl": "/public/map/MONTERO/orbis/MONTERO_Cover_Online.tga.ckd/0a0604a3837e72823d6e4514746da930.ckd",
+      "coverImageUrl": "/public/map/MONTERO/orbis/MONTERO_Cover_Generic.tga.ckd/c50b0825a76b4c3d9e04d7267ab096aa.ckd",
+      "coach1ImageUrl": "/public/map/MONTERO/orbis/MONTERO_Coach_1.tga.ckd/83c3a53e2e0545626ddbaa79894532a6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MONTERO/MONTERO_Coach_1_Phone.png/3fb9b2a4e2af5c07f855962e90f1676b.png",
+    "phoneCoverImageUrl": "/public/map/MONTERO/MONTERO_Cover_Phone.jpg/6256ef862b45b1038f5a6d229017027e.jpg",
+    "cover640ImageUrl": "/public/map/MONTERO/MONTERO_Cover_640.png/dfa85aed23dfad79b0767cec908a94a2.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MONTERO/MONTERO.ogg": "/private/map/MONTERO/MONTERO.ogg/bd347212b8d2b761120dac823598a86f.ogg",
+    "jmcs://jd-contents/MONTERO/MONTERO_AudioPreview.ogg": "/public/map/MONTERO/MONTERO_AudioPreview.ogg/20785c6885a3c3fb74b62e4cbe970fc7.ogg",
+    "jmcs://jd-contents/MONTERO/MONTERO_HIGH.webm": "/private/map/MONTERO/MONTERO_HIGH.webm/d2ea711a4bc22e01f98ec1666561d81d.webm",
+    "jmcs://jd-contents/MONTERO/MONTERO_LOW.webm": "/private/map/MONTERO/MONTERO_LOW.webm/cc9b50c6c1c42280f1720cf8eba45037.webm",
+    "jmcs://jd-contents/MONTERO/MONTERO_MID.webm": "/private/map/MONTERO/MONTERO_MID.webm/606143e881d4a13bb4963b72e1eec39b.webm",
+    "jmcs://jd-contents/MONTERO/MONTERO_ULTRA.hd.webm": "/private/map/MONTERO/MONTERO_ULTRA.hd.webm/eb672860463672e2a24476f38d6e85b5.webm",
+    "jmcs://jd-contents/MONTERO/MONTERO_ULTRA.webm": "/private/map/MONTERO/MONTERO_ULTRA.webm/cb12f03f7ccca1191aa2e7f5e8948527.webm",
+    "jmcs://jd-contents/MONTERO/MONTERO_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MONTERO/MONTERO_MapPreviewNoSoundCrop_LOW.vp8.webm/9d81423e6d1cb71bf09ad148e6543d73.webm",
+    "jmcs://jd-contents/MONTERO/MONTERO_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MONTERO/MONTERO_MapPreviewNoSoundCrop_MID.vp8.webm/44fdd06d6af6fd45383e065d3cea2348.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"494254\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MONTERO/MONTERO_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"654-1143\">\n\t\t\t\t\t<Initialization range=\"0-654\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1459371\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MONTERO/MONTERO_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\n\t\t\t\t\t<Initialization range=\"0-655\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 183.483271
+}

@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9f71cd6f9065b45319875e510929a9e2",
+      "storageType": 0,
+      "url": "/public/map/Finesse/nx/Finesse_MAIN_SCENE_NX.zip/9f71cd6f9065b45319875e510929a9e2.zip"
+    },
+    "pc": {
+      "md5": "63a4c4629a250aac5a4daab5e682adc9",
+      "storageType": 0,
+      "url": "/public/map/Finesse/pc/Finesse_MAIN_SCENE_PC.zip/63a4c4629a250aac5a4daab5e682adc9.zip"
+    },
+    "ps4": {
+      "md5": "3ea17fdaff3a2d75f85617a0ea39e7fd",
+      "storageType": 0,
+      "url": "/public/map/Finesse/orbis/Finesse_MAIN_SCENE_ORBIS.zip/3ea17fdaff3a2d75f85617a0ea39e7fd.zip"
+    }
+  },
+  "data": {
+    "mapName": "Finesse",
+    "title": "Finesse (Remix)",
+    "originalJDVersion": 2019,
+    "tags": [
+      "subscribedSong",
+      "JustDance2019",
+      "Quartet",
+      "Easy"
+    ],
+    "artist": "Bruno Mars Ft. Cardi B",
+    "credits": "Written by Chris “Brody” Brown, Bruno Mars, Jeremy Reeves, Jonathan Yip, James Edward Fauntleroy II, Philip Martin Lawrence II, Ray Charles II McCullough, Ray Romulus and Belcalis Almanzar. Published by Please Enjoy The Music (BMI), Washpoppin Inc (ASCAP) c/o Sony/ATV Music Publishing Canada (SOCAN) / Almo Music Corp. on behalf of itself, Fauntleroy Music, and Underdog West Songs, Universal Music Works on behalf of ZZR Music LLC., Universal Music Corp. on behalf of itself, and Ra Charm Music. / WB Music Corp. (ASCAP) on behalf of Shaftizm (ASCAP) and Sumphu (ASCAP) / Westside Independent Music Publishing LLC (ASCAP) on behalf of itself and Late 80's Music (ASCAP) and Thou Art The Hunger (ASCAP) / Warner-Tamerlane Publishing Corp. (BMI) on behalf of itself and Music For Milo (BMI) / BMG Onyx Songs on behalf of itself and Mars Force Music. All rights administered by BMG Rights Management (US) LLC. All rights reserved. Used with permission. (P) Line: 2018 Atlantic Recording Corporation. All rights of the producer and other right holders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 4,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#030182",
+    "songColor2A": "#f9f225",
+    "songColor1B": "#a84bd1",
+    "songColor2B": "#ef79fc",
+    "lyricsColor": "#62ebff",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27408,
+        54864,
+        82272,
+        109728,
+        137136,
+        164592,
+        192000,
+        219408,
+        246864,
+        274272,
+        301728,
+        329136,
+        356592,
+        384000,
+        411408,
+        438864,
+        466272,
+        493728,
+        521136,
+        548592,
+        576000,
+        603408,
+        630864,
+        658272,
+        685728,
+        713136,
+        740592,
+        768000,
+        795408,
+        822864,
+        850272,
+        877728,
+        905136,
+        932592,
+        960000,
+        987408,
+        1014864,
+        1042272,
+        1069728,
+        1097136,
+        1124592,
+        1152000,
+        1179408,
+        1206864,
+        1234272,
+        1261728,
+        1289136,
+        1316592,
+        1344000,
+        1371408,
+        1398864,
+        1426272,
+        1453728,
+        1481136
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 380,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Finesse/Finesse_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Finesse/nx/Finesse_banner_bkg.tga.ckd/b3d41a97017e561122afdf931e40a37f.ckd",
+      "map_bkgImageUrl": "/public/map/Finesse/nx/Finesse_map_bkg.tga.ckd/b87dc806f414ecca5c47fec45863dc85.ckd",
+      "expandCoachImageUrl": "/public/map/Finesse/nx/Finesse_Cover_AlbumCoach.tga.ckd/33f776d769ce783e329d9aa6d6b02709.ckd",
+      "cover_smallImageUrl": "/public/map/Finesse/nx/Finesse_Cover_Online.tga.ckd/c5f44cb7263f877c336b925cc35e809d.ckd",
+      "coverImageUrl": "/public/map/Finesse/nx/Finesse_Cover_Generic.tga.ckd/911d283b5c386a94af6379635617ce85.ckd",
+      "coach1ImageUrl": "/public/map/Finesse/nx/Finesse_Coach_1.tga.ckd/4d635827d8db1bb3261464e74fc78b97.ckd",
+      "coach2ImageUrl": "/public/map/Finesse/nx/Finesse_Coach_2.tga.ckd/4396cde8ad51c6f9168bc6283af52d38.ckd",
+      "coach3ImageUrl": "/public/map/Finesse/nx/Finesse_Coach_3.tga.ckd/67ff3b30a10f21ba99a24bf14258239a.ckd",
+      "coach4ImageUrl": "/public/map/Finesse/nx/Finesse_Coach_4.tga.ckd/1210a3c66f47993c6ce647bdc26e7e06.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Finesse/pc/Finesse_banner_bkg.tga.ckd/71d311e1407a6280b036f57e928dee03.ckd",
+      "map_bkgImageUrl": "/public/map/Finesse/pc/Finesse_map_bkg.tga.ckd/a0c75fe3dfc93423b21c52951da3d7f5.ckd",
+      "expandCoachImageUrl": "/public/map/Finesse/pc/Finesse_Cover_AlbumCoach.tga.ckd/5428949f88405004a3330d9c00149682.ckd",
+      "cover_smallImageUrl": "/public/map/Finesse/pc/Finesse_Cover_Online.tga.ckd/6e40cbef71d6dc35559f8b3c97112ecf.ckd",
+      "coverImageUrl": "/public/map/Finesse/pc/Finesse_Cover_Generic.tga.ckd/9db57aff87b1066259188101ac3e543c.ckd",
+      "coach1ImageUrl": "/public/map/Finesse/pc/Finesse_Coach_1.tga.ckd/d75f556f8efa304d218d7b7c0aa147f3.ckd",
+      "coach2ImageUrl": "/public/map/Finesse/pc/Finesse_Coach_2.tga.ckd/1f41bd9801071069869ca9efe3bd3498.ckd",
+      "coach3ImageUrl": "/public/map/Finesse/pc/Finesse_Coach_3.tga.ckd/858d4dc0ec336603ce43f0f7a1fe33fe.ckd",
+      "coach4ImageUrl": "/public/map/Finesse/pc/Finesse_Coach_4.tga.ckd/5429cec23f8cfcbc65936bf41cee6180.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Finesse/orbis/Finesse_banner_bkg.tga.ckd/71d311e1407a6280b036f57e928dee03.ckd",
+      "map_bkgImageUrl": "/public/map/Finesse/orbis/Finesse_map_bkg.tga.ckd/a0c75fe3dfc93423b21c52951da3d7f5.ckd",
+      "expandCoachImageUrl": "/public/map/Finesse/orbis/Finesse_Cover_AlbumCoach.tga.ckd/5428949f88405004a3330d9c00149682.ckd",
+      "cover_smallImageUrl": "/public/map/Finesse/orbis/Finesse_Cover_Online.tga.ckd/6e40cbef71d6dc35559f8b3c97112ecf.ckd",
+      "coverImageUrl": "/public/map/Finesse/orbis/Finesse_Cover_Generic.tga.ckd/9db57aff87b1066259188101ac3e543c.ckd",
+      "coach1ImageUrl": "/public/map/Finesse/orbis/Finesse_Coach_1.tga.ckd/d75f556f8efa304d218d7b7c0aa147f3.ckd",
+      "coach2ImageUrl": "/public/map/Finesse/orbis/Finesse_Coach_2.tga.ckd/1f41bd9801071069869ca9efe3bd3498.ckd",
+      "coach3ImageUrl": "/public/map/Finesse/orbis/Finesse_Coach_3.tga.ckd/858d4dc0ec336603ce43f0f7a1fe33fe.ckd",
+      "coach4ImageUrl": "/public/map/Finesse/orbis/Finesse_Coach_4.tga.ckd/5429cec23f8cfcbc65936bf41cee6180.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Finesse/Finesse_Coach_1_Phone.png/fdd692ea4ebcc28795c44837e0a51bfd.png",
+    "phoneCoach2ImageUrl": "/public/map/Finesse/Finesse_Coach_2_Phone.png/7c71c3640aa3e7b11b69cb35d607d8b1.png",
+    "phoneCoach3ImageUrl": "/public/map/Finesse/Finesse_Coach_3_Phone.png/634bdfdf27eca894533640762c2e4b88.png",
+    "phoneCoach4ImageUrl": "/public/map/Finesse/Finesse_Coach_4_Phone.png/472afa2068ffacf7f1d8b3681b29dc08.png",
+    "phoneCoverImageUrl": "/public/map/Finesse/Finesse_Cover_Phone.jpg/9a2c52c1bf5ff61d2d8d1921556c28c6.jpg",
+    "cover640ImageUrl": "/public/map/Finesse/Finesse_Cover_640.png/b284cf1c0a7bb5818d0e926eb98de724.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Finesse/Finesse.ogg": "/private/map/Finesse/Finesse.ogg/57378a63ba9691bf6f102eb22e80c435.ogg",
+    "jmcs://jd-contents/Finesse/Finesse_AudioPreview.ogg": "/public/map/Finesse/Finesse_AudioPreview.ogg/3a40aac342649fb7e904ae454df13fc4.ogg",
+    "jmcs://jd-contents/Finesse/Finesse_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Finesse/Finesse_MapPreviewNoSoundCrop_LOW.vp8.webm/963d9ec777c08f20386ac824dc4107ee.webm",
+    "jmcs://jd-contents/Finesse/Finesse_HIGH.webm": "/private/map/Finesse/Finesse_HIGH.webm/1c60ead967711e825513b12504854b84.webm",
+    "jmcs://jd-contents/Finesse/Finesse_LOW.webm": "/private/map/Finesse/Finesse_LOW.webm/035a07bfc4ada4b2249488dcbc620d0b.webm",
+    "jmcs://jd-contents/Finesse/Finesse_MID.webm": "/private/map/Finesse/Finesse_MID.webm/9ca5f84d33dfae75fa51ce11e1368654.webm",
+    "jmcs://jd-contents/Finesse/Finesse_ULTRA.hd.webm": "/private/map/Finesse/Finesse_ULTRA.hd.webm/fae930baab76bb04610f6e4986b30d17.webm",
+    "jmcs://jd-contents/Finesse/Finesse_ULTRA.webm": "/private/map/Finesse/Finesse_ULTRA.webm/3426edb1121b761fd030fba9993078cf.webm",
+    "jmcs://jd-contents/Finesse/Finesse_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Finesse/Finesse_MapPreviewNoSoundCrop_MID.vp8.webm/f5dc42a17554a7c89e32ebdf0fa7cea8.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496327\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Finesse/Finesse_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\n\t\t\t\t\t<Initialization range=\"0-619\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480304\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Finesse/Finesse_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\n\t\t\t\t\t<Initialization range=\"0-620\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 218.286021
+}

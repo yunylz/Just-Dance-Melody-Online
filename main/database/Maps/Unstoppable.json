@@ -1,0 +1,157 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Unstoppable/Unstoppable.ogg": "/private/map/Unstoppable/Unstoppable.ogg/8723dd38e40824699f7cbfc83cf705ff.ogg",
+    "jmcs://jd-contents/Unstoppable/Unstoppable_AudioPreview.ogg": "/public/map/Unstoppable/Unstoppable_AudioPreview.ogg/07b105124b72e124cd642c37b9e0464f.ogg",
+    "jmcs://jd-contents/Unstoppable/Unstoppable_HIGH.hd.webm": "/private/map/Unstoppable/Unstoppable_HIGH.hd.webm/de1faa864ac9f95ecf594768c0795847.webm",
+    "jmcs://jd-contents/Unstoppable/Unstoppable_LOW.hd.webm": "/private/map/Unstoppable/Unstoppable_LOW.hd.webm/bff65872207be6c266925cf94bfb150a.webm",
+    "jmcs://jd-contents/Unstoppable/Unstoppable_MID.hd.webm": "/private/map/Unstoppable/Unstoppable_MID.hd.webm/82bc0a535e597b2a76873992c9f77e1c.webm",
+    "jmcs://jd-contents/Unstoppable/Unstoppable_ULTRA.hd.webm": "/private/map/Unstoppable/Unstoppable_ULTRA.hd.webm/d2fd30ed086871a962f0e98523af3acc.webm",
+    "jmcs://jd-contents/Unstoppable/Unstoppable_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Unstoppable/Unstoppable_MapPreviewNoSoundCrop_LOW.vp8.webm/794acf3dd150a900d6495768d1c435b8.webm",
+    "jmcs://jd-contents/Unstoppable/Unstoppable_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Unstoppable/Unstoppable_MapPreviewNoSoundCrop_MID.vp8.webm/4536accfb3ba169b6979dd619b47d35a.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33103,
+        66207,
+        99310,
+        132414,
+        165517,
+        198621,
+        231724,
+        264828,
+        297931,
+        331034,
+        364138,
+        397241,
+        430345,
+        463448,
+        496552,
+        529655,
+        562759,
+        595862,
+        628966,
+        662069,
+        695172,
+        728276,
+        761379,
+        794483,
+        827586,
+        860690,
+        893793,
+        926897,
+        960000,
+        993103,
+        1026207,
+        1059310,
+        1092414,
+        1125517,
+        1158621,
+        1191724,
+        1224828,
+        1257931,
+        1291034,
+        1324138,
+        1357241,
+        1390345,
+        1423448,
+        1456552,
+        1489655
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 318,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 43,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Unstoppable/Unstoppable_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"553645\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Unstoppable/Unstoppable_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2006610\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Unstoppable/Unstoppable_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "f195a37f58ca4fc40b69cf29236fe942",
+      "storageType": 0,
+      "url": "/public/map/Unstoppable/nx/Unstoppable_MAIN_SCENE_NX.zip/f195a37f58ca4fc40b69cf29236fe942.zip"
+    },
+    "pc": {
+      "md5": "bd9974167a66c1a3c1a3c3dd8590c6eb",
+      "storageType": 0,
+      "url": "/public/map/Unstoppable/pc/Unstoppable_MAIN_SCENE_PC.zip/bd9974167a66c1a3c1a3c3dd8590c6eb.zip"
+    },
+    "ps4": {
+      "md5": "78226b47e31fc66cac64c4025f02556a",
+      "storageType": 0,
+      "url": "/public/map/Unstoppable/orbis/Unstoppable_MAIN_SCENE_ORBIS.zip/78226b47e31fc66cac64c4025f02556a.zip"
+    }
+  },
+  "data": {
+    "mapName": "Unstoppable",
+    "title": "Unstoppable ",
+    "originalJDVersion": 2025,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "Sia",
+    "credits": "Written by Christopher Braide, Sia Furler. Published by Concord Road / EMI Music Publishing Ltd. Courtesy of RCA Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#ffca0f",
+    "LocaleID": 20003368
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Unstoppable/nx/Unstoppable_banner_bkg.tga.ckd/d1e64ea43f3666a01b7737edb98bb3f7.ckd",
+      "map_bkgImageUrl": "/public/map/Unstoppable/nx/Unstoppable_map_bkg.tga.ckd/c088ed6d601c0a56bafa1e0b33674629.ckd",
+      "expandCoachImageUrl": "/public/map/Unstoppable/nx/Unstoppable_Cover_AlbumCoach.tga.ckd/51fe3d9ccfaa4e33e3bd2ceb727c18cd.ckd",
+      "cover_smallImageUrl": "/public/map/Unstoppable/nx/Unstoppable_Cover_Online.tga.ckd/0ef945cb9860827376274f5c063c6e1a.ckd",
+      "coverImageUrl": "/public/map/Unstoppable/nx/Unstoppable_Cover_Generic.tga.ckd/cdb62e5cd8b250fa0946cd863a86ac34.ckd",
+      "coach1ImageUrl": "/public/map/Unstoppable/nx/Unstoppable_Coach_1.tga.ckd/9889b76057fe17aee944704430e8455a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Unstoppable/pc/Unstoppable_banner_bkg.tga.ckd/9f7ddb97ad7316b265b373236881f530.ckd",
+      "map_bkgImageUrl": "/public/map/Unstoppable/pc/Unstoppable_map_bkg.tga.ckd/61fba03f86ef8043681e28cc3cae2fba.ckd",
+      "expandCoachImageUrl": "/public/map/Unstoppable/pc/Unstoppable_Cover_AlbumCoach.tga.ckd/0bfaedf92e55ef8bca46bbfc5f1c92d5.ckd",
+      "cover_smallImageUrl": "/public/map/Unstoppable/pc/Unstoppable_Cover_Online.tga.ckd/db626e3ec904fe317eb9accfc00c4df7.ckd",
+      "coverImageUrl": "/public/map/Unstoppable/pc/Unstoppable_Cover_Generic.tga.ckd/b54ef08b4025805b6d8c73b8751ed4a2.ckd",
+      "coach1ImageUrl": "/public/map/Unstoppable/pc/Unstoppable_Coach_1.tga.ckd/5a5b1e321d867e44c8256735da0fff53.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Unstoppable/orbis/Unstoppable_banner_bkg.tga.ckd/9f7ddb97ad7316b265b373236881f530.ckd",
+      "map_bkgImageUrl": "/public/map/Unstoppable/orbis/Unstoppable_map_bkg.tga.ckd/61fba03f86ef8043681e28cc3cae2fba.ckd",
+      "expandCoachImageUrl": "/public/map/Unstoppable/orbis/Unstoppable_Cover_AlbumCoach.tga.ckd/0bfaedf92e55ef8bca46bbfc5f1c92d5.ckd",
+      "cover_smallImageUrl": "/public/map/Unstoppable/orbis/Unstoppable_Cover_Online.tga.ckd/db626e3ec904fe317eb9accfc00c4df7.ckd",
+      "coverImageUrl": "/public/map/Unstoppable/orbis/Unstoppable_Cover_Generic.tga.ckd/b54ef08b4025805b6d8c73b8751ed4a2.ckd",
+      "coach1ImageUrl": "/public/map/Unstoppable/orbis/Unstoppable_Coach_1.tga.ckd/5a5b1e321d867e44c8256735da0fff53.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Unstoppable/Unstoppable_Coach_1_Phone.png/81598e30618415ea82adbcb0a9f06ba1.png",
+    "phoneCoverImageUrl": "/public/map/Unstoppable/Unstoppable_Cover_Phone.jpg/d9245ef5ac82e753e9701ad636c77232.jpg",
+    "cover640ImageUrl": "/public/map/Unstoppable/Unstoppable_Cover_640.png/ccdc8d7f172e2e911af7635741525bc7.png"
+  },
+  "mapLength": 218.620688
+}

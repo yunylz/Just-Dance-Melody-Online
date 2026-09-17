@@ -1,0 +1,157 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "0238789aabfe8e188e8fff4fd9e5746f",
+      "storageType": 0,
+      "url": "/public/map/RockNRollDLC/nx/RockNRollDLC_MAIN_SCENE_NX.zip/0238789aabfe8e188e8fff4fd9e5746f.zip"
+    },
+    "pc": {
+      "md5": "147bc2be8f2e1d6fd8c37d94bf147a7a",
+      "storageType": 0,
+      "url": "/public/map/RockNRollDLC/pc/RockNRollDLC_MAIN_SCENE_PC.zip/147bc2be8f2e1d6fd8c37d94bf147a7a.zip"
+    },
+    "ps4": {
+      "md5": "b67b7bed30a85f49f60788b8ca558173",
+      "storageType": 0,
+      "url": "/public/map/RockNRollDLC/orbis/RockNRollDLC_MAIN_SCENE_ORBIS.zip/b67b7bed30a85f49f60788b8ca558173.zip"
+    }
+  },
+  "data": {
+    "mapName": "RockNRollDLC",
+    "title": "Rock N Roll",
+    "originalJDVersion": 2014,
+    "tags": [
+      "main"
+    ],
+    "artist": "Avril Lavigne",
+    "credits": "Written By C. Kroeger, A. Lavigne, D. Hodges, J. Hindlin, P. Svensson & R. Goransson. Published by MXM Music AB, 3 Weddings Music, Prescription Songs LLC. Admin by Kobalt Music Pub. America, Inc. / © Warner-Tamerlane Pub. Corp. (BMI), Anaesthetic Pub. (SOCAN). All rights reserved. Courtesy of Epic Records. By arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ad004f",
+    "songColor2A": "#38fffd",
+    "songColor1B": "#000000",
+    "songColor2B": "#004651",
+    "lyricsColor": "#172237"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31296,
+        62592,
+        93936,
+        125232,
+        156528,
+        187824,
+        219120,
+        250416,
+        281760,
+        313056,
+        344352,
+        375648,
+        406944,
+        438240,
+        469584,
+        500880,
+        532176,
+        563472,
+        594768,
+        626064,
+        657408,
+        688704,
+        720000,
+        751296,
+        782592,
+        813936,
+        845232,
+        876528,
+        907824,
+        939120,
+        970416,
+        1001760,
+        1033056,
+        1064352,
+        1095648,
+        1126944,
+        1158240,
+        1189584,
+        1220880,
+        1252176,
+        1283472,
+        1314768,
+        1346064,
+        1377408,
+        1408704,
+        1440000,
+        1471296,
+        1502592
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 321,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RockNRollDLC/RockNRollDLC_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RockNRollDLC/nx/RockNRollDLC_banner_bkg.tga.ckd/7f426d70939931175e9acb39ae23711a.ckd",
+      "map_bkgImageUrl": "/public/map/RockNRollDLC/nx/RockNRollDLC_map_bkg.tga.ckd/4e4ce011d9d9e2067a6682ac4dfab38a.ckd",
+      "expandCoachImageUrl": "/public/map/RockNRollDLC/nx/RockNRollDLC_Cover_AlbumCoach.tga.ckd/19bde1721a41b77f74190de5a332fea1.ckd",
+      "cover_smallImageUrl": "/public/map/RockNRollDLC/nx/RockNRollDLC_Cover_Online.tga.ckd/d5a14094b8bd1256daace49d551d7f3c.ckd",
+      "coach1ImageUrl": "/public/map/RockNRollDLC/nx/RockNRollDLC_Coach_1.tga.ckd/a1915a07b2b77049e87b5645192d7419.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RockNRollDLC/pc/RockNRollDLC_banner_bkg.tga.ckd/f857b7e484c52dbd996d1055e9a5e20c.ckd",
+      "map_bkgImageUrl": "/public/map/RockNRollDLC/pc/RockNRollDLC_map_bkg.tga.ckd/706e63cd86b02b14caa5195a8a92321a.ckd",
+      "expandCoachImageUrl": "/public/map/RockNRollDLC/pc/RockNRollDLC_Cover_AlbumCoach.tga.ckd/adb1d9a3428a0fc0367004445cd91673.ckd",
+      "cover_smallImageUrl": "/public/map/RockNRollDLC/pc/RockNRollDLC_Cover_Online.tga.ckd/dc13f4cf6bec979446abee089007f720.ckd",
+      "coach1ImageUrl": "/public/map/RockNRollDLC/pc/RockNRollDLC_Coach_1.tga.ckd/108cffbc663d286b1388ba49e8de6163.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RockNRollDLC/orbis/RockNRollDLC_banner_bkg.tga.ckd/f857b7e484c52dbd996d1055e9a5e20c.ckd",
+      "map_bkgImageUrl": "/public/map/RockNRollDLC/orbis/RockNRollDLC_map_bkg.tga.ckd/706e63cd86b02b14caa5195a8a92321a.ckd",
+      "expandCoachImageUrl": "/public/map/RockNRollDLC/orbis/RockNRollDLC_Cover_AlbumCoach.tga.ckd/adb1d9a3428a0fc0367004445cd91673.ckd",
+      "cover_smallImageUrl": "/public/map/RockNRollDLC/orbis/RockNRollDLC_Cover_Online.tga.ckd/dc13f4cf6bec979446abee089007f720.ckd",
+      "coach1ImageUrl": "/public/map/RockNRollDLC/orbis/RockNRollDLC_Coach_1.tga.ckd/108cffbc663d286b1388ba49e8de6163.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RockNRollDLC/RockNRollDLC_Coach_1_Phone.png/db1a7f6c4cc75586b25271eae8bc7d54.png",
+    "phoneCoverImageUrl": "/public/map/RockNRollDLC/RockNRollDLC_Cover_Phone.jpg/045c3a307100a75c94d9de7c101bbe89.jpg",
+    "cover640ImageUrl": "/public/map/RockNRollDLC/RockNRollDLC_Cover_640.png/f5f0e613d27225e8ec20933a8183f8cd.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/RockNRollDLC/RockNRollDLC.ogg": "/private/map/RockNRollDLC/RockNRollDLC.ogg/8e220b08af28fe86ce8f078ad73fa18a.ogg",
+    "jmcs://jd-contents/RockNRollDLC/RockNRollDLC_AudioPreview.ogg": "/public/map/RockNRollDLC/RockNRollDLC_AudioPreview.ogg/57d357e3826b5f0ff27dd3477a8b37b2.ogg",
+    "jmcs://jd-contents/RockNRollDLC/RockNRollDLC_HIGH.webm": "/private/map/RockNRollDLC/RockNRollDLC_HIGH.webm/07eb6d67b14e7e831210c67382dd7d19.webm",
+    "jmcs://jd-contents/RockNRollDLC/RockNRollDLC_LOW.webm": "/private/map/RockNRollDLC/RockNRollDLC_LOW.webm/4e0bb1a93af304ff23fb96e65f516d86.webm",
+    "jmcs://jd-contents/RockNRollDLC/RockNRollDLC_MID.webm": "/private/map/RockNRollDLC/RockNRollDLC_MID.webm/62f37a7a6d7a53b424aa9f6f54bc8d44.webm",
+    "jmcs://jd-contents/RockNRollDLC/RockNRollDLC_ULTRA.hd.webm": "/private/map/RockNRollDLC/RockNRollDLC_ULTRA.hd.webm/2ff5427f1204b60dbfebf0357343f3cc.webm",
+    "jmcs://jd-contents/RockNRollDLC/RockNRollDLC_ULTRA.webm": "/private/map/RockNRollDLC/RockNRollDLC_ULTRA.webm/7103f10c7ff37064df5977cbc3630ee2.webm",
+    "jmcs://jd-contents/RockNRollDLC/RockNRollDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RockNRollDLC/RockNRollDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/1951c584f31af613e685d39c1bf2fab3.webm",
+    "jmcs://jd-contents/RockNRollDLC/RockNRollDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RockNRollDLC/RockNRollDLC_MapPreviewNoSoundCrop_MID.vp8.webm/83c935f62d645224c6bb1af7637fd8cd.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497817\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RockNRollDLC/RockNRollDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1475146\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RockNRollDLC/RockNRollDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\n\t\t\t\t\t<Initialization range=\"0-637\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 208.532354
+}

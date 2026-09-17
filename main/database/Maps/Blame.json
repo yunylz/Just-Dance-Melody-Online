@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7401b720009023b9253bd805f05713b2",
+      "storageType": 0,
+      "url": "/public/map/Blame/nx/Blame_MAIN_SCENE_NX.zip/7401b720009023b9253bd805f05713b2.zip"
+    },
+    "pc": {
+      "md5": "c727095bfb102f681ae126cea37d7e3a",
+      "storageType": 0,
+      "url": "/public/map/Blame/pc/Blame_MAIN_SCENE_PC.zip/c727095bfb102f681ae126cea37d7e3a.zip"
+    },
+    "ps4": {
+      "md5": "a7184b5e53fb570fce68f1e03810b7fd",
+      "storageType": 0,
+      "url": "/public/map/Blame/orbis/Blame_MAIN_SCENE_ORBIS.zip/a7184b5e53fb570fce68f1e03810b7fd.zip"
+    }
+  },
+  "data": {
+    "mapName": "Blame",
+    "title": "Blame",
+    "originalJDVersion": 2016,
+    "tags": [
+      "subscribedSong",
+      "JustDance2016",
+      "forceRumble",
+      "Medium",
+      "Solo"
+    ],
+    "artist": "Calvin Harris Ft. John Newman",
+    "credits": "Written by Newman James Richard, Newman John William Peter, Wiles Adam Richard. Published by B-Unique Music Limited. Administered by Kobalt Music Publishing America, Inc., Sony/ATV Music Publishing Canada (SOCAN). All rights reserved. Used with permission / BMG. Courtesy of Epic Records by arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff2b12",
+    "songColor2A": "#5db5fe",
+    "songColor1B": "#3f0100",
+    "songColor2B": "#000535",
+    "lyricsColor": "#8c9bff",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67487,
+        89999,
+        112511,
+        135023,
+        157487,
+        179999,
+        202511,
+        225023,
+        247487,
+        269999,
+        292511,
+        315023,
+        337487,
+        359999,
+        382511,
+        405023,
+        427487,
+        449999,
+        472511,
+        495023,
+        517487,
+        539999,
+        562511,
+        585023,
+        607487,
+        629999,
+        652511,
+        675023,
+        697487,
+        719999,
+        742511,
+        765023,
+        787487,
+        809999,
+        832510,
+        855022,
+        877486,
+        899998,
+        922510,
+        945022,
+        967486,
+        989998,
+        1012510,
+        1035022,
+        1057486,
+        1079998,
+        1102510,
+        1125022,
+        1147486,
+        1169998,
+        1192510,
+        1215022,
+        1237486,
+        1259998,
+        1282510,
+        1305022,
+        1327486,
+        1349998,
+        1372510,
+        1395022,
+        1417486,
+        1439998,
+        1462510,
+        1485022
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 441,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Blame/Blame_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Blame/nx/Blame_banner_bkg.tga.ckd/1d3df8266fbb3fe8d4c7071a0f835b25.ckd",
+      "map_bkgImageUrl": "/public/map/Blame/nx/Blame_map_bkg.tga.ckd/fa203cf00ae156d3aefa08db8b509b97.ckd",
+      "expandCoachImageUrl": "/public/map/Blame/nx/Blame_Cover_AlbumCoach.tga.ckd/2b8aeec52fe10152bbded039dac4f2cd.ckd",
+      "cover_smallImageUrl": "/public/map/Blame/nx/Blame_Cover_Online.tga.ckd/38630b8275ddc110280929f23708ef7c.ckd",
+      "coverImageUrl": "/public/map/Blame/nx/Blame_Cover_Generic.tga.ckd/958dd311ca5b2f997a3ca1c500787156.ckd",
+      "coach1ImageUrl": "/public/map/Blame/nx/Blame_Coach_1.tga.ckd/5731f42f4fcebc80b5bba9e390a72461.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Blame/pc/Blame_banner_bkg.tga.ckd/418cfd8fc496f8dbeb064681b0033b76.ckd",
+      "map_bkgImageUrl": "/public/map/Blame/pc/Blame_map_bkg.tga.ckd/c2e2b1c7bae0d8e4f6d9cb3ba3c747d2.ckd",
+      "expandCoachImageUrl": "/public/map/Blame/pc/Blame_Cover_AlbumCoach.tga.ckd/16fea6fa50034b1d7fddb6e769462e76.ckd",
+      "cover_smallImageUrl": "/public/map/Blame/pc/Blame_Cover_Online.tga.ckd/3170a4e54001cedeada36b76f103443d.ckd",
+      "coverImageUrl": "/public/map/Blame/pc/Blame_Cover_Generic.tga.ckd/601c85703362b20badae373e2f0d7d1a.ckd",
+      "coach1ImageUrl": "/public/map/Blame/pc/Blame_Coach_1.tga.ckd/5ed97dd6049a135209592bc68f5c697e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Blame/orbis/Blame_banner_bkg.tga.ckd/418cfd8fc496f8dbeb064681b0033b76.ckd",
+      "map_bkgImageUrl": "/public/map/Blame/orbis/Blame_map_bkg.tga.ckd/c2e2b1c7bae0d8e4f6d9cb3ba3c747d2.ckd",
+      "expandCoachImageUrl": "/public/map/Blame/orbis/Blame_Cover_AlbumCoach.tga.ckd/16fea6fa50034b1d7fddb6e769462e76.ckd",
+      "cover_smallImageUrl": "/public/map/Blame/orbis/Blame_Cover_Online.tga.ckd/3170a4e54001cedeada36b76f103443d.ckd",
+      "coverImageUrl": "/public/map/Blame/orbis/Blame_Cover_Generic.tga.ckd/601c85703362b20badae373e2f0d7d1a.ckd",
+      "coach1ImageUrl": "/public/map/Blame/orbis/Blame_Coach_1.tga.ckd/5ed97dd6049a135209592bc68f5c697e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Blame/Blame_Coach_1_Phone.png/18ed43307639e63101cfd45ea0999cb2.png",
+    "phoneCoverImageUrl": "/public/map/Blame/Blame_Cover_Phone.jpg/bb6a362ae03b1370a5a61194f19be6f1.jpg",
+    "cover640ImageUrl": "/public/map/Blame/Blame_Cover_640.png/1c2e1a48451e1e643f788b5da4e2c87d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Blame/Blame.ogg": "/private/map/Blame/Blame.ogg/2c88e2219f22bcb0e4374402a22317e4.ogg",
+    "jmcs://jd-contents/Blame/Blame_AudioPreview.ogg": "/public/map/Blame/Blame_AudioPreview.ogg/5fe6229212ff9f51d3e1a22a05adf199.ogg",
+    "jmcs://jd-contents/Blame/Blame_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Blame/Blame_MapPreviewNoSoundCrop_LOW.vp8.webm/2381b08143805524cb85d4b8d6d755a2.webm",
+    "jmcs://jd-contents/Blame/Blame_HIGH.webm": "/private/map/Blame/Blame_HIGH.webm/9a0392a6c578b63daf07e427de6e2672.webm",
+    "jmcs://jd-contents/Blame/Blame_LOW.webm": "/private/map/Blame/Blame_LOW.webm/16e38093417a798654fd3681426896eb.webm",
+    "jmcs://jd-contents/Blame/Blame_MID.webm": "/private/map/Blame/Blame_MID.webm/4978aa2fda4b575f09b74825e8c420f3.webm",
+    "jmcs://jd-contents/Blame/Blame_ULTRA.hd.webm": "/private/map/Blame/Blame_ULTRA.hd.webm/c54bb921e6675f1b42c78a9daa9f0ed0.webm",
+    "jmcs://jd-contents/Blame/Blame_ULTRA.webm": "/private/map/Blame/Blame_ULTRA.webm/5d0771578693c1a023bdb51b22a22c03.webm",
+    "jmcs://jd-contents/Blame/Blame_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Blame/Blame_MapPreviewNoSoundCrop_MID.vp8.webm/9568ecb0aecfa9d647f91aea0b2f295f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497697\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Blame/Blame_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"613-1102\">\n\t\t\t\t\t<Initialization range=\"0-613\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1468391\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Blame/Blame_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\n\t\t\t\t\t<Initialization range=\"0-614\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 209.531125
+}

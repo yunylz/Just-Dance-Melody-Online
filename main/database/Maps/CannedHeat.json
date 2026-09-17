@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/CannedHeat/CannedHeat.ogg": "/private/map/CannedHeat/CannedHeat.ogg/1f7666f42fc8961e0789e93f6cb375ef.ogg",
+    "jmcs://jd-contents/CannedHeat/CannedHeat_AudioPreview.ogg": "/public/map/CannedHeat/CannedHeat_AudioPreview.ogg/685befa9913d18842718c7b5a299c7d1.ogg",
+    "jmcs://jd-contents/CannedHeat/CannedHeat_HIGH.hd.webm": "/private/map/CannedHeat/CannedHeat_HIGH.hd.webm/e954645a527af9081a5c3f504e69d12d.webm",
+    "jmcs://jd-contents/CannedHeat/CannedHeat_LOW.hd.webm": "/private/map/CannedHeat/CannedHeat_LOW.hd.webm/654f6ee835db92aa19e5b992d7ad35eb.webm",
+    "jmcs://jd-contents/CannedHeat/CannedHeat_MID.hd.webm": "/private/map/CannedHeat/CannedHeat_MID.hd.webm/9bdd61348651e99130b942f353a63b70.webm",
+    "jmcs://jd-contents/CannedHeat/CannedHeat_ULTRA.hd.webm": "/private/map/CannedHeat/CannedHeat_ULTRA.hd.webm/bd53a232dc5684d3caf58bfe8f9512ce.webm",
+    "jmcs://jd-contents/CannedHeat/CannedHeat_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CannedHeat/CannedHeat_MapPreviewNoSoundCrop_LOW.vp8.webm/787f70315a4e4a851ba8ba674425324c.webm",
+    "jmcs://jd-contents/CannedHeat/CannedHeat_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CannedHeat/CannedHeat_MapPreviewNoSoundCrop_MID.vp8.webm/cafb05221adba3eca1f9972f907cc365.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202500,
+        225000,
+        247500,
+        270000,
+        292500,
+        315000,
+        337500,
+        360000,
+        382500,
+        405000,
+        427500,
+        450000,
+        472500,
+        495000,
+        517500,
+        540000,
+        561801,
+        583602,
+        605403,
+        628278,
+        651152,
+        673554,
+        695956,
+        718358,
+        740760,
+        763162,
+        785563,
+        807965,
+        830523,
+        853080,
+        875637,
+        898194,
+        920751,
+        943309,
+        965866,
+        988423,
+        1011138,
+        1033853,
+        1056567,
+        1079282,
+        1101531,
+        1123779,
+        1146028,
+        1168277,
+        1190991,
+        1213706,
+        1236421,
+        1258670,
+        1280918,
+        1303167,
+        1325415,
+        1347664,
+        1370865,
+        1393267,
+        1415668,
+        1438070,
+        1460472,
+        1482874
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -11,
+      "endBeat": 496,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CannedHeat/CannedHeat_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"553587\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CannedHeat/CannedHeat_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2014857\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CannedHeat/CannedHeat_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "22ec3e44f80024ecab8feb76f5a3f4b3",
+      "storageType": 0,
+      "url": "/public/map/CannedHeat/nx/CannedHeat_MAIN_SCENE_NX.zip/22ec3e44f80024ecab8feb76f5a3f4b3.zip"
+    },
+    "pc": {
+      "md5": "a4f6ba2f9062cdd34ef00e3bbbc48df1",
+      "storageType": 0,
+      "url": "/public/map/CannedHeat/pc/CannedHeat_MAIN_SCENE_PC.zip/a4f6ba2f9062cdd34ef00e3bbbc48df1.zip"
+    },
+    "ps4": {
+      "md5": "9f6d7e2addaf16bdd81dbe75aa46e20c",
+      "storageType": 0,
+      "url": "/public/map/CannedHeat/orbis/CannedHeat_MAIN_SCENE_ORBIS.zip/9f6d7e2addaf16bdd81dbe75aa46e20c.zip"
+    }
+  },
+  "data": {
+    "mapName": "CannedHeat",
+    "title": "Canned Heat",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Jamiroquai",
+    "credits": "Written by Sola Akingbola, Wallis Buchanan, Simon Katz, Jason Kay, Derrick McKenzie, Toby Smith. Published by Sony/ATV Music Publishing (UK) Limited / EMI Music Publishing Ltd. Courtesy of Sony Music Entertainment UK Limited. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#9512ff",
+    "songColor2A": "#57a2f7",
+    "songColor1B": "#0e0555",
+    "songColor2B": "#050c94",
+    "lyricsColor": "#f3dd18",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CannedHeat/nx/CannedHeat_banner_bkg.tga.ckd/6baa34e8a032068a6bff425f2e72d67c.ckd",
+      "map_bkgImageUrl": "/public/map/CannedHeat/nx/CannedHeat_map_bkg.tga.ckd/61d7a43caa0a258ef6de826152904abf.ckd",
+      "expandCoachImageUrl": "/public/map/CannedHeat/nx/CannedHeat_Cover_AlbumCoach.tga.ckd/0cabe65471dfe209f6ca117af6cf5c23.ckd",
+      "cover_smallImageUrl": "/public/map/CannedHeat/nx/CannedHeat_Cover_Online.tga.ckd/a6884554636584f50aacd64b18c41842.ckd",
+      "coverImageUrl": "/public/map/CannedHeat/nx/CannedHeat_Cover_Generic.tga.ckd/5d25e54eccbf9f57518f444c024d3aa3.ckd",
+      "coach1ImageUrl": "/public/map/CannedHeat/nx/CannedHeat_Coach_1.tga.ckd/12b450d9194348305295e9bca66c8190.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CannedHeat/pc/CannedHeat_banner_bkg.tga.ckd/fc3681524f1885a01d4a89dcd741f132.ckd",
+      "map_bkgImageUrl": "/public/map/CannedHeat/pc/CannedHeat_map_bkg.tga.ckd/3492dd73d620fbbb6ea1a1a539039ab4.ckd",
+      "expandCoachImageUrl": "/public/map/CannedHeat/pc/CannedHeat_Cover_AlbumCoach.tga.ckd/51af95d12c54adab3013f234b87c96f7.ckd",
+      "cover_smallImageUrl": "/public/map/CannedHeat/pc/CannedHeat_Cover_Online.tga.ckd/cf051ed1eb94f05a5894656653cdec08.ckd",
+      "coverImageUrl": "/public/map/CannedHeat/pc/CannedHeat_Cover_Generic.tga.ckd/7b272712e4b8b3696eb2cf9c298760bf.ckd",
+      "coach1ImageUrl": "/public/map/CannedHeat/pc/CannedHeat_Coach_1.tga.ckd/48b24433c90130493e98d8ce796a6343.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CannedHeat/orbis/CannedHeat_banner_bkg.tga.ckd/fc3681524f1885a01d4a89dcd741f132.ckd",
+      "map_bkgImageUrl": "/public/map/CannedHeat/orbis/CannedHeat_map_bkg.tga.ckd/3492dd73d620fbbb6ea1a1a539039ab4.ckd",
+      "expandCoachImageUrl": "/public/map/CannedHeat/orbis/CannedHeat_Cover_AlbumCoach.tga.ckd/51af95d12c54adab3013f234b87c96f7.ckd",
+      "cover_smallImageUrl": "/public/map/CannedHeat/orbis/CannedHeat_Cover_Online.tga.ckd/cf051ed1eb94f05a5894656653cdec08.ckd",
+      "coverImageUrl": "/public/map/CannedHeat/orbis/CannedHeat_Cover_Generic.tga.ckd/7b272712e4b8b3696eb2cf9c298760bf.ckd",
+      "coach1ImageUrl": "/public/map/CannedHeat/orbis/CannedHeat_Coach_1.tga.ckd/48b24433c90130493e98d8ce796a6343.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CannedHeat/CannedHeat_Coach_1_Phone.png/38c5a81605fc7831b5442b315413e8c4.png",
+    "phoneCoverImageUrl": "/public/map/CannedHeat/CannedHeat_Cover_Phone.jpg/7de82a44e60398580438fec73842bf42.jpg",
+    "cover640ImageUrl": "/public/map/CannedHeat/CannedHeat_Cover_640.png/32022f8723a1579dc4c97c9f8f8fb8c7.png"
+  },
+  "mapLength": 237.445604
+}

@@ -1,0 +1,155 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8337cfb29817b0a1203029edc461c814",
+      "storageType": 0,
+      "url": "/public/map/CarelessWhisper/nx/CarelessWhisper_MAIN_SCENE_NX.zip/8337cfb29817b0a1203029edc461c814.zip"
+    },
+    "pc": {
+      "md5": "99c091a0e172808b80d331dcbe8862a5",
+      "storageType": 0,
+      "url": "/public/map/CarelessWhisper/pc/CarelessWhisper_MAIN_SCENE_PC.zip/99c091a0e172808b80d331dcbe8862a5.zip"
+    },
+    "ps4": {
+      "md5": "04cf9b2012e2053f3a2397d588ecc9de",
+      "storageType": 0,
+      "url": "/public/map/CarelessWhisper/orbis/CarelessWhisper_MAIN_SCENE_ORBIS.zip/04cf9b2012e2053f3a2397d588ecc9de.zip"
+    }
+  },
+  "data": {
+    "mapName": "CarelessWhisper",
+    "title": "Careless Whisper",
+    "originalJDVersion": 2014,
+    "tags": [
+      "JustDance2014",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "George Michael",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#6166ff",
+    "songColor2A": "#e45353",
+    "songColor1B": "#4145b4",
+    "songColor2B": "#7f2f2f",
+    "lyricsColor": "#0099ff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        37151,
+        74255,
+        111407,
+        148559,
+        185663,
+        222815,
+        259967,
+        297071,
+        334223,
+        371375,
+        408527,
+        445679,
+        482831,
+        520079,
+        557279,
+        594527,
+        631775,
+        668975,
+        706223,
+        743471,
+        780719,
+        818543,
+        856366,
+        894190,
+        932014,
+        969310,
+        1006654,
+        1043950,
+        1081294,
+        1119166,
+        1157038,
+        1194862,
+        1232734,
+        1270702,
+        1308670,
+        1346590,
+        1384558,
+        1422142,
+        1459678,
+        1497262
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 309,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 38,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CarelessWhisper/nx/CarelessWhisper_banner_bkg.tga.ckd/0ef12e8f5d57b0907a70fe59625bbd02.ckd",
+      "map_bkgImageUrl": "/public/map/CarelessWhisper/nx/CarelessWhisper_map_bkg.tga.ckd/a111c387f863233567902d5ea6316e6f.ckd",
+      "expandCoachImageUrl": "/public/map/CarelessWhisper/nx/CarelessWhisper_Cover_AlbumCoach.tga.ckd/f6c906210d26619401a6f47965203162.ckd",
+      "cover_smallImageUrl": "/public/map/CarelessWhisper/nx/CarelessWhisper_Cover_Online.tga.ckd/d6f223ffec438b2b991bbf973cb6a940.ckd",
+      "coach1ImageUrl": "/public/map/CarelessWhisper/nx/CarelessWhisper_Coach_1.tga.ckd/e1a6b31a75ed15ab3e9f36a53dede812.ckd",
+      "coach2ImageUrl": "/public/map/CarelessWhisper/nx/CarelessWhisper_Coach_2.tga.ckd/0d0442bb23082bd9dfa29a502f7892bb.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CarelessWhisper/pc/CarelessWhisper_banner_bkg.tga.ckd/1575ec5d57c7c42f1b883eaef73c95a8.ckd",
+      "map_bkgImageUrl": "/public/map/CarelessWhisper/pc/CarelessWhisper_map_bkg.tga.ckd/c474e919ac4a8d674647bd9f5602ef9f.ckd",
+      "expandCoachImageUrl": "/public/map/CarelessWhisper/pc/CarelessWhisper_Cover_AlbumCoach.tga.ckd/641a3c100e903cd0693ff9a2720c0bca.ckd",
+      "cover_smallImageUrl": "/public/map/CarelessWhisper/pc/CarelessWhisper_Cover_Online.tga.ckd/e1a9a82145e0d7af0e9602904941e876.ckd",
+      "coach1ImageUrl": "/public/map/CarelessWhisper/pc/CarelessWhisper_Coach_1.tga.ckd/58fd7c01c82b20c4d09a452f50b3e44e.ckd",
+      "coach2ImageUrl": "/public/map/CarelessWhisper/pc/CarelessWhisper_Coach_2.tga.ckd/230acd5fd486bfd4c923b81b178a3b36.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CarelessWhisper/orbis/CarelessWhisper_banner_bkg.tga.ckd/1575ec5d57c7c42f1b883eaef73c95a8.ckd",
+      "map_bkgImageUrl": "/public/map/CarelessWhisper/orbis/CarelessWhisper_map_bkg.tga.ckd/c474e919ac4a8d674647bd9f5602ef9f.ckd",
+      "expandCoachImageUrl": "/public/map/CarelessWhisper/orbis/CarelessWhisper_Cover_AlbumCoach.tga.ckd/641a3c100e903cd0693ff9a2720c0bca.ckd",
+      "cover_smallImageUrl": "/public/map/CarelessWhisper/orbis/CarelessWhisper_Cover_Online.tga.ckd/e1a9a82145e0d7af0e9602904941e876.ckd",
+      "coach1ImageUrl": "/public/map/CarelessWhisper/orbis/CarelessWhisper_Coach_1.tga.ckd/58fd7c01c82b20c4d09a452f50b3e44e.ckd",
+      "coach2ImageUrl": "/public/map/CarelessWhisper/orbis/CarelessWhisper_Coach_2.tga.ckd/230acd5fd486bfd4c923b81b178a3b36.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CarelessWhisper/CarelessWhisper_Coach_1_Phone.png/46d3361b40b5acb0e4444d426bf8a215.png",
+    "phoneCoach2ImageUrl": "/public/map/CarelessWhisper/CarelessWhisper_Coach_2_Phone.png/7fcdf9362e17472d3b69b9b677b38635.png",
+    "phoneCoverImageUrl": "/public/map/CarelessWhisper/CarelessWhisper_Cover_Phone.jpg/f12040fcdb4c0ab7813b9fa31eee788c.jpg",
+    "cover640ImageUrl": "/public/map/CarelessWhisper/CarelessWhisper_Cover_640.png/4af8caebb939431b95bc994fb6ff0933.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper.ogg": "/private/map/CarelessWhisper/CarelessWhisper.ogg/a9d0ec6aa7b18ae38fedd05109109d93.ogg",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_AudioPreview.ogg": "/public/map/CarelessWhisper/CarelessWhisper_AudioPreview.ogg/d7ea92b99ab7cfedc9c15f1c7f106146.ogg",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_HIGH.webm": "/private/map/CarelessWhisper/CarelessWhisper_HIGH.webm/da612cddc46aa72377b3f9c2ee5980b5.webm",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_LOW.webm": "/private/map/CarelessWhisper/CarelessWhisper_LOW.webm/30dbd6ce2efd2a5e1d33e1cefd29e03b.webm",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_MID.webm": "/private/map/CarelessWhisper/CarelessWhisper_MID.webm/78efbefded8b5b82bc9673b0ddc0b381.webm",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_ULTRA.hd.webm": "/private/map/CarelessWhisper/CarelessWhisper_ULTRA.hd.webm/e84b379eb946772662c592009ddeb1c6.webm",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_ULTRA.webm": "/private/map/CarelessWhisper/CarelessWhisper_ULTRA.webm/67b1e7dc19912427bbe4543178758c6c.webm",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CarelessWhisper/CarelessWhisper_MapPreviewNoSoundCrop_LOW.vp8.webm/0beacd217e435d0c7f3a9926157fb84e.webm",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CarelessWhisper/CarelessWhisper_MapPreviewNoSoundCrop_MID.vp8.webm/b307836f553043303e298532942b691b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496294\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CarelessWhisper/CarelessWhisper_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1479920\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CarelessWhisper/CarelessWhisper_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 245.448979
+}

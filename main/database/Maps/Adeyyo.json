@@ -1,0 +1,166 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f45dd87f6efecdfb2dce57dbd483fd18",
+      "storageType": 0,
+      "url": "/public/map/Adeyyo/nx/Adeyyo_MAIN_SCENE_NX.zip/f45dd87f6efecdfb2dce57dbd483fd18.zip"
+    },
+    "pc": {
+      "md5": "202513208a57a6e4dd1d6b9006b59d33",
+      "storageType": 0,
+      "url": "/public/map/Adeyyo/pc/Adeyyo_MAIN_SCENE_PC.zip/202513208a57a6e4dd1d6b9006b59d33.zip"
+    },
+    "ps4": {
+      "md5": "82f0b838aad6c103723733ac14777b81",
+      "storageType": 0,
+      "url": "/public/map/Adeyyo/orbis/Adeyyo_MAIN_SCENE_ORBIS.zip/82f0b838aad6c103723733ac14777b81.zip"
+    }
+  },
+  "data": {
+    "mapName": "Adeyyo",
+    "title": "Adeyyo",
+    "originalJDVersion": 2019,
+    "tags": [
+      "subscribedSong",
+      "JustDance2019",
+      "forceRumble",
+      "Easy",
+      "Solo"
+    ],
+    "artist": "Ece Seçkin",
+    "credits": "Written by Aysen Şimşekyay, Kemal Şimşekyay and arranged by Ozan Doğulu. Published by DMC & PRM. Courtesy of DGL. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#010342",
+    "songColor2A": "#97fafc",
+    "songColor1B": "#411554",
+    "songColor2B": "#11b7c6",
+    "lyricsColor": "#6fffb6",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30336,
+        60624,
+        90960,
+        121248,
+        151584,
+        181872,
+        212208,
+        242544,
+        272832,
+        303168,
+        333456,
+        363792,
+        394128,
+        424416,
+        454752,
+        485040,
+        515376,
+        545664,
+        576001,
+        606337,
+        636625,
+        666961,
+        697249,
+        727585,
+        757873,
+        788209,
+        818545,
+        848833,
+        879169,
+        909457,
+        939793,
+        970129,
+        1000417,
+        1030753,
+        1061041,
+        1091378,
+        1121666,
+        1152002,
+        1182338,
+        1212626,
+        1242962,
+        1273250,
+        1303586,
+        1333874,
+        1364210,
+        1394546,
+        1424834,
+        1455170,
+        1485458
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 363,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Adeyyo/Adeyyo_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Adeyyo/nx/Adeyyo_banner_bkg.tga.ckd/eb25fb5f52cb811c5e3d2569ff0a2689.ckd",
+      "map_bkgImageUrl": "/public/map/Adeyyo/nx/Adeyyo_map_bkg.tga.ckd/8978235a598d72c0d3ac9a60a95a03dc.ckd",
+      "expandCoachImageUrl": "/public/map/Adeyyo/nx/Adeyyo_Cover_AlbumCoach.tga.ckd/b30d45c9c7e2b2d2efca4187f109a353.ckd",
+      "cover_smallImageUrl": "/public/map/Adeyyo/nx/Adeyyo_Cover_Online.tga.ckd/6b189bd2d9e0c0a22011dcf33b85cc93.ckd",
+      "coverImageUrl": "/public/map/Adeyyo/nx/Adeyyo_Cover_Generic.tga.ckd/60747b82df4b233e91301173e05e165f.ckd",
+      "coach1ImageUrl": "/public/map/Adeyyo/nx/Adeyyo_Coach_1.tga.ckd/152c6101ef838894989551a833588cfc.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Adeyyo/pc/Adeyyo_banner_bkg.tga.ckd/432e561096a997d7d7655ab334dd475e.ckd",
+      "map_bkgImageUrl": "/public/map/Adeyyo/pc/Adeyyo_map_bkg.tga.ckd/0386592ca8f82ed079e19572b19d53f6.ckd",
+      "expandCoachImageUrl": "/public/map/Adeyyo/pc/Adeyyo_Cover_AlbumCoach.tga.ckd/a067549e2270b928b4f6e6e498991e1d.ckd",
+      "cover_smallImageUrl": "/public/map/Adeyyo/pc/Adeyyo_Cover_Online.tga.ckd/55808ae8f9e0379c4da19c828d516f70.ckd",
+      "coverImageUrl": "/public/map/Adeyyo/pc/Adeyyo_Cover_Generic.tga.ckd/86e4574b330f51891b9faed0c03b2f0f.ckd",
+      "coach1ImageUrl": "/public/map/Adeyyo/pc/Adeyyo_Coach_1.tga.ckd/05e442221e366bce7521e50dcdbae0fc.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Adeyyo/orbis/Adeyyo_banner_bkg.tga.ckd/432e561096a997d7d7655ab334dd475e.ckd",
+      "map_bkgImageUrl": "/public/map/Adeyyo/orbis/Adeyyo_map_bkg.tga.ckd/0386592ca8f82ed079e19572b19d53f6.ckd",
+      "expandCoachImageUrl": "/public/map/Adeyyo/orbis/Adeyyo_Cover_AlbumCoach.tga.ckd/a067549e2270b928b4f6e6e498991e1d.ckd",
+      "cover_smallImageUrl": "/public/map/Adeyyo/orbis/Adeyyo_Cover_Online.tga.ckd/55808ae8f9e0379c4da19c828d516f70.ckd",
+      "coverImageUrl": "/public/map/Adeyyo/orbis/Adeyyo_Cover_Generic.tga.ckd/86e4574b330f51891b9faed0c03b2f0f.ckd",
+      "coach1ImageUrl": "/public/map/Adeyyo/orbis/Adeyyo_Coach_1.tga.ckd/05e442221e366bce7521e50dcdbae0fc.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Adeyyo/Adeyyo_Coach_1_Phone.png/c4db3458ab51b0ce00d6ccda587b7fd0.png",
+    "phoneCoverImageUrl": "/public/map/Adeyyo/Adeyyo_Cover_Phone.jpg/1c6b711d6e9ccea97bb9caf371e66bbd.jpg",
+    "cover640ImageUrl": "/public/map/Adeyyo/Adeyyo_Cover_640.png/fd48698b1cd48d11eeafeb136c232c2f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Adeyyo/Adeyyo.ogg": "/private/map/Adeyyo/Adeyyo.ogg/bd1e0bddb526c9a4a0a130b924869659.ogg",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_AudioPreview.ogg": "/public/map/Adeyyo/Adeyyo_AudioPreview.ogg/02f14559419c919b5045e67afe886bbb.ogg",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_LOW.vp8.webm/26926b2960299c40c8215868089a5b55.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_HIGH.webm": "/private/map/Adeyyo/Adeyyo_HIGH.webm/575ae4663d914aadb175ff6d32b3475e.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_LOW.webm": "/private/map/Adeyyo/Adeyyo_LOW.webm/811d17f0915f96a189de1b0a1cfcc9e6.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_MID.webm": "/private/map/Adeyyo/Adeyyo_MID.webm/c4282aeb5e23206896e4559312434695.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_ULTRA.hd.webm": "/private/map/Adeyyo/Adeyyo_ULTRA.hd.webm/fb9c9833af78724229d3607975363800.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_ULTRA.webm": "/private/map/Adeyyo/Adeyyo_ULTRA.webm/a88c7e99ff1d9e0692ce9586d518d2bf.webm",
+    "jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_MID.vp8.webm/45dbf07161ea6463297bb717c7fc2672.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"494515\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"616-1105\">\n\t\t\t\t\t<Initialization range=\"0-616\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1479108\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Adeyyo/Adeyyo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\n\t\t\t\t\t<Initialization range=\"0-617\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 231.788917
+}

@@ -1,0 +1,157 @@
+{
+  "urls": {
+    "jmcs://jd-contents/UnstoppableALT/UnstoppableALT.ogg": "/private/map/UnstoppableALT/UnstoppableALT.ogg/f51f7c7a2e6f65bf23861d67be8012c0.ogg",
+    "jmcs://jd-contents/UnstoppableALT/UnstoppableALT_AudioPreview.ogg": "/public/map/UnstoppableALT/UnstoppableALT_AudioPreview.ogg/a67eb91cf40475845045c343cbffd0c8.ogg",
+    "jmcs://jd-contents/UnstoppableALT/UnstoppableALT_HIGH.hd.webm": "/private/map/UnstoppableALT/UnstoppableALT_HIGH.hd.webm/a1a97351ccdab51ea6227feaaf4b8902.webm",
+    "jmcs://jd-contents/UnstoppableALT/UnstoppableALT_LOW.hd.webm": "/private/map/UnstoppableALT/UnstoppableALT_LOW.hd.webm/5adf458a48010003eaaac34b146314a3.webm",
+    "jmcs://jd-contents/UnstoppableALT/UnstoppableALT_MID.hd.webm": "/private/map/UnstoppableALT/UnstoppableALT_MID.hd.webm/6d16071a17928fa4bfdd846145f89ad8.webm",
+    "jmcs://jd-contents/UnstoppableALT/UnstoppableALT_ULTRA.hd.webm": "/private/map/UnstoppableALT/UnstoppableALT_ULTRA.hd.webm/156eded14a2e2f39fb9dbb9db08b7b7b.webm",
+    "jmcs://jd-contents/UnstoppableALT/UnstoppableALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/UnstoppableALT/UnstoppableALT_MapPreviewNoSoundCrop_LOW.vp8.webm/4ffa40f72888b4c2f960713cecedb406.webm",
+    "jmcs://jd-contents/UnstoppableALT/UnstoppableALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/UnstoppableALT/UnstoppableALT_MapPreviewNoSoundCrop_MID.vp8.webm/90207e946653f2cae55464a0b5a700c9.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33103,
+        66207,
+        99310,
+        132414,
+        165517,
+        198621,
+        231724,
+        264828,
+        297931,
+        331034,
+        364138,
+        397241,
+        430345,
+        463448,
+        496552,
+        529655,
+        562759,
+        595862,
+        628966,
+        662069,
+        695172,
+        728276,
+        761379,
+        794483,
+        827586,
+        860690,
+        893793,
+        926897,
+        960000,
+        993103,
+        1026207,
+        1059310,
+        1092414,
+        1125517,
+        1158621,
+        1191724,
+        1224828,
+        1257931,
+        1291034,
+        1324138,
+        1357241,
+        1390345,
+        1423448,
+        1456552,
+        1489655
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 317,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 43,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/UnstoppableALT/UnstoppableALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"572793\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/UnstoppableALT/UnstoppableALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2039479\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/UnstoppableALT/UnstoppableALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "753efc1b85a5aad4a670a1040707396a",
+      "storageType": 0,
+      "url": "/public/map/UnstoppableALT/nx/UnstoppableALT_MAIN_SCENE_NX.zip/753efc1b85a5aad4a670a1040707396a.zip"
+    },
+    "pc": {
+      "md5": "980b9923b453e0a1ff7ebf72bf07ae7d",
+      "storageType": 0,
+      "url": "/public/map/UnstoppableALT/pc/UnstoppableALT_MAIN_SCENE_PC.zip/980b9923b453e0a1ff7ebf72bf07ae7d.zip"
+    },
+    "ps4": {
+      "md5": "0cde31aa193c158ac399eccd28810c69",
+      "storageType": 0,
+      "url": "/public/map/UnstoppableALT/orbis/UnstoppableALT_MAIN_SCENE_ORBIS.zip/0cde31aa193c158ac399eccd28810c69.zip"
+    }
+  },
+  "data": {
+    "mapName": "UnstoppableALT",
+    "title": "Unstoppable ",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sia",
+    "credits": "Written by Christopher Braide, Sia Furler. Published by Concord Road / EMI Music Publishing Ltd. Courtesy of RCA Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#fc40d0",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/UnstoppableALT/nx/UnstoppableALT_banner_bkg.tga.ckd/04f826a5d8643871cdc3a6221b711cfd.ckd",
+      "map_bkgImageUrl": "/public/map/UnstoppableALT/nx/UnstoppableALT_map_bkg.tga.ckd/e01f00709dd1307bdc32bbee725c6016.ckd",
+      "expandCoachImageUrl": "/public/map/UnstoppableALT/nx/UnstoppableALT_Cover_AlbumCoach.tga.ckd/8d9c45a799b8dd0927bea3fdac20f272.ckd",
+      "cover_smallImageUrl": "/public/map/UnstoppableALT/nx/UnstoppableALT_Cover_Online.tga.ckd/11481515baedfb1f9c4655457cb73060.ckd",
+      "coverImageUrl": "/public/map/UnstoppableALT/nx/UnstoppableALT_Cover_Generic.tga.ckd/e179afbc0066c77807628da7f6770525.ckd",
+      "coach1ImageUrl": "/public/map/UnstoppableALT/nx/UnstoppableALT_Coach_1.tga.ckd/4eec4a609795592895bc34e794ca8f56.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/UnstoppableALT/pc/UnstoppableALT_banner_bkg.tga.ckd/f2fbf6f0552228eb21f8f51a604fd46d.ckd",
+      "map_bkgImageUrl": "/public/map/UnstoppableALT/pc/UnstoppableALT_map_bkg.tga.ckd/b8832e28620e2bbaceb0c2b844440fdb.ckd",
+      "expandCoachImageUrl": "/public/map/UnstoppableALT/pc/UnstoppableALT_Cover_AlbumCoach.tga.ckd/83a82033f83258a8308de909d26489f2.ckd",
+      "cover_smallImageUrl": "/public/map/UnstoppableALT/pc/UnstoppableALT_Cover_Online.tga.ckd/0ddfeb97d64df668d3d7e5d47f2b13a0.ckd",
+      "coverImageUrl": "/public/map/UnstoppableALT/pc/UnstoppableALT_Cover_Generic.tga.ckd/efc31f382e0ca51fec18ae234ba38446.ckd",
+      "coach1ImageUrl": "/public/map/UnstoppableALT/pc/UnstoppableALT_Coach_1.tga.ckd/d17464f84bbf2b32d6a8cdaad6daa7f2.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/UnstoppableALT/orbis/UnstoppableALT_banner_bkg.tga.ckd/f2fbf6f0552228eb21f8f51a604fd46d.ckd",
+      "map_bkgImageUrl": "/public/map/UnstoppableALT/orbis/UnstoppableALT_map_bkg.tga.ckd/b8832e28620e2bbaceb0c2b844440fdb.ckd",
+      "expandCoachImageUrl": "/public/map/UnstoppableALT/orbis/UnstoppableALT_Cover_AlbumCoach.tga.ckd/83a82033f83258a8308de909d26489f2.ckd",
+      "cover_smallImageUrl": "/public/map/UnstoppableALT/orbis/UnstoppableALT_Cover_Online.tga.ckd/0ddfeb97d64df668d3d7e5d47f2b13a0.ckd",
+      "coverImageUrl": "/public/map/UnstoppableALT/orbis/UnstoppableALT_Cover_Generic.tga.ckd/efc31f382e0ca51fec18ae234ba38446.ckd",
+      "coach1ImageUrl": "/public/map/UnstoppableALT/orbis/UnstoppableALT_Coach_1.tga.ckd/d17464f84bbf2b32d6a8cdaad6daa7f2.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/UnstoppableALT/UnstoppableALT_Coach_1_Phone.png/4ec8b276f7ff0c60302c6ee6e1b4bc60.png",
+    "phoneCoverImageUrl": "/public/map/UnstoppableALT/UnstoppableALT_Cover_Phone.jpg/fa1d5c1e1ec38d45472b5225ad4af7a2.jpg",
+    "cover640ImageUrl": "/public/map/UnstoppableALT/UnstoppableALT_Cover_640.png/93ee7be4b34a06f23cd25d72d1223fb2.png"
+  },
+  "mapLength": 222.068938
+}

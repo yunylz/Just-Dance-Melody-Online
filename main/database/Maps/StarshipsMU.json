@@ -1,0 +1,175 @@
+{
+  "urls": {
+    "jmcs://jd-contents/StarshipsMU/StarshipsMU.ogg": "/private/map/StarshipsMU/StarshipsMU.ogg/08d8e3a73a4387cd56e3857a1425307e.ogg",
+    "jmcs://jd-contents/StarshipsMU/StarshipsMU_AudioPreview.ogg": "/public/map/StarshipsMU/StarshipsMU_AudioPreview.ogg/6e8878345a6e9407cec69c3a449bf686.ogg",
+    "jmcs://jd-contents/StarshipsMU/StarshipsMU_HIGH.hd.webm": "/private/map/StarshipsMU/StarshipsMU_HIGH.hd.webm/cc966b789d2e23bb73bbb0f2409ca96c.webm",
+    "jmcs://jd-contents/StarshipsMU/StarshipsMU_LOW.hd.webm": "/private/map/StarshipsMU/StarshipsMU_LOW.hd.webm/0915db6af3c36d5b60a07fdaa3f35afe.webm",
+    "jmcs://jd-contents/StarshipsMU/StarshipsMU_MID.hd.webm": "/private/map/StarshipsMU/StarshipsMU_MID.hd.webm/6954a0636cf9b35acec144d19fc4c0ab.webm",
+    "jmcs://jd-contents/StarshipsMU/StarshipsMU_ULTRA.hd.webm": "/private/map/StarshipsMU/StarshipsMU_ULTRA.hd.webm/4d466198f4e864607fefe8c020325477.webm",
+    "jmcs://jd-contents/StarshipsMU/StarshipsMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/StarshipsMU/StarshipsMU_MapPreviewNoSoundCrop_LOW.vp8.webm/0d683e76dfd2e36aa48988f57f8bd45f.webm",
+    "jmcs://jd-contents/StarshipsMU/StarshipsMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/StarshipsMU/StarshipsMU_MapPreviewNoSoundCrop_MID.vp8.webm/a59e3686c39d24e057966c24c7f3a6b2.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253439,
+        276480,
+        299519,
+        322560,
+        345599,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506879,
+        529920,
+        552960,
+        576000,
+        599039,
+        622080,
+        645120,
+        668160,
+        691199,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852479,
+        875520,
+        898560,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013759,
+        1036800,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198079,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382399,
+        1405440,
+        1428480,
+        1451520,
+        1474560
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 449,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/StarshipsMU/StarshipsMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/StarshipsMU/nx/StarshipsMU_banner_bkg.tga.ckd/f37232aa3ac63dfdb765f984960383ba.ckd",
+      "map_bkgImageUrl": "/public/map/StarshipsMU/nx/StarshipsMU_map_bkg.tga.ckd/f9dacc08a896db2ba259a7519aee841c.ckd",
+      "expandCoachImageUrl": "/public/map/StarshipsMU/nx/StarshipsMU_Cover_AlbumCoach.tga.ckd/ac8f123946e9d9ce156802efd61552ed.ckd",
+      "cover_smallImageUrl": "/public/map/StarshipsMU/nx/StarshipsMU_Cover_Online.tga.ckd/8f5b8c586d4c079dcaddc5a51fe65b40.ckd",
+      "coverImageUrl": "/public/map/StarshipsMU/nx/StarshipsMU_Cover_Generic.tga.ckd/8a9207244caa8f206d69ed763a1a78ba.ckd",
+      "coach1ImageUrl": "/public/map/StarshipsMU/nx/StarshipsMU_Coach_1.tga.ckd/06ecaa2ef23ff41306f4bd2c3ba4f7a1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/StarshipsMU/pc/StarshipsMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/StarshipsMU/pc/StarshipsMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/StarshipsMU/pc/StarshipsMU_Cover_AlbumCoach.tga.ckd/c103c5b65787d0df99a0281b985e579d.ckd",
+      "cover_smallImageUrl": "/public/map/StarshipsMU/pc/StarshipsMU_Cover_Online.tga.ckd/4a59ca6355e17a26401a4a0b517e4861.ckd",
+      "coverImageUrl": "/public/map/StarshipsMU/pc/StarshipsMU_Cover_Generic.tga.ckd/0b68d91c9d2b249714cdd8c3a3aacdb1.ckd",
+      "coach1ImageUrl": "/public/map/StarshipsMU/pc/StarshipsMU_Coach_1.tga.ckd/597122c800be8b4828ab899a817df610.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/StarshipsMU/orbis/StarshipsMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/StarshipsMU/orbis/StarshipsMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/StarshipsMU/orbis/StarshipsMU_Cover_AlbumCoach.tga.ckd/c103c5b65787d0df99a0281b985e579d.ckd",
+      "cover_smallImageUrl": "/public/map/StarshipsMU/orbis/StarshipsMU_Cover_Online.tga.ckd/4a59ca6355e17a26401a4a0b517e4861.ckd",
+      "coverImageUrl": "/public/map/StarshipsMU/orbis/StarshipsMU_Cover_Generic.tga.ckd/0b68d91c9d2b249714cdd8c3a3aacdb1.ckd",
+      "coach1ImageUrl": "/public/map/StarshipsMU/orbis/StarshipsMU_Coach_1.tga.ckd/597122c800be8b4828ab899a817df610.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/StarshipsMU/StarshipsMU_Coach_1_Phone.png/b3d06a4697e65a764ae8393c32cd3aa8.png",
+    "phoneCoverImageUrl": "/public/map/StarshipsMU/StarshipsMU_Cover_Phone.jpg/e22fb0fbd2ceb031295ee5f77497e63f.jpg",
+    "cover640ImageUrl": "/public/map/StarshipsMU/StarshipsMU_Cover_640.png/805c611dd34cafee856f52bdcfe14fa0.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "b5a75816bde9d702e69856df287d0ea5",
+      "storageType": 0,
+      "url": "/public/map/StarshipsMU/nx/StarshipsMU_MAIN_SCENE_NX.zip/b5a75816bde9d702e69856df287d0ea5.zip"
+    },
+    "pc": {
+      "md5": "ad62f7feece1ff41e4ed6e68d0567fa6",
+      "storageType": 0,
+      "url": "/public/map/StarshipsMU/pc/StarshipsMU_MAIN_SCENE_PC.zip/ad62f7feece1ff41e4ed6e68d0567fa6.zip"
+    },
+    "ps4": {
+      "md5": "5b0ab8cf860166e12c2f2fe21a275033",
+      "storageType": 0,
+      "url": "/public/map/StarshipsMU/orbis/StarshipsMU_MAIN_SCENE_ORBIS.zip/5b0ab8cf860166e12c2f2fe21a275033.zip"
+    }
+  },
+  "data": {
+    "mapName": "StarshipsMU",
+    "title": "Starships",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Nicki Minaj",
+    "credits": "Written by Nadir Khayat, Rami Yacoub, Carl Anthony Falk, Wayne Anthony Hector and Onika Tanya Maraj. Published by Songs of Redone (BMI) / Team 2101 Songs (STIM) c/o Sony/ATV Music Publishing Canada (SOCAN) / Rami Productions AB / � 2012 Warner/Chappell Music Publishing LTD (PRS) All rights on behalf of Warner/Chappell Music Publishing LTD administered by Warner-Tamerlane Publishing Corp. / Universal Music Publishing Group a division of Universal Music Canada Inc. / BMG Chrysalis Scandinavia AB (STIM) c/o BMG Rights Management (US) LLC. All Rights Reserved. Used With Permission. Courtesy of Cash Money Records / Universal Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#2ebffe",
+    "songColor2A": "#ffa6f6",
+    "songColor1B": "#1386ff",
+    "songColor2B": "#1a95ff",
+    "lyricsColor": "#663399",
+    "LocaleID": 13572
+  },
+  "mapLength": 212.64
+}

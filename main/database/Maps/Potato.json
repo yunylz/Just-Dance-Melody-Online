@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "36326317d656abdada3c8cd3d0b7d87f",
+      "storageType": 0,
+      "url": "/public/map/Potato/nx/Potato_MAIN_SCENE_NX.zip/36326317d656abdada3c8cd3d0b7d87f.zip"
+    },
+    "pc": {
+      "md5": "018c2a3918a0479359bc53b556bec7ae",
+      "storageType": 0,
+      "url": "/public/map/Potato/pc/Potato_MAIN_SCENE_PC.zip/018c2a3918a0479359bc53b556bec7ae.zip"
+    },
+    "ps4": {
+      "md5": "773acd8790fde747414fe546c6b43fdd",
+      "storageType": 0,
+      "url": "/public/map/Potato/orbis/Potato_MAIN_SCENE_ORBIS.zip/773acd8790fde747414fe546c6b43fdd.zip"
+    }
+  },
+  "data": {
+    "mapName": "Potato",
+    "title": "Mashed Potato Time",
+    "originalJDVersion": 1,
+    "tags": [
+      "NoSweat",
+      "Main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Dee Dee Sharp",
+    "credits": "Dee Dee Sharp – ''Mashed Potato Time'' Written by Robert Bateman, Kalman Cohen, William Garrett, Brian Holland, Freddie Gorman and Georgia Dobbins. Published by EMI Blackwood Music Inc. (BMI), Jobete Music Co., Inc. (ASCAP) and Stone Agate Music (A Division of Jobete Music Co., Inc.) (BMI). All Rights Reserved. Used by Permission.Courtesy of ABCKO Music & Records, Inc. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#0db2ff",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202122,
+        224352,
+        246852,
+        269352,
+        291852,
+        314352,
+        336852,
+        359352,
+        381852,
+        404352,
+        426852,
+        449352,
+        471852,
+        494352,
+        516852,
+        539352,
+        561852,
+        585504,
+        608004,
+        630504,
+        653004,
+        674352,
+        696852,
+        718560,
+        739692,
+        762192,
+        784692,
+        807192,
+        829692,
+        852192,
+        875652,
+        898152,
+        920652,
+        943152,
+        965652,
+        988152,
+        1010652,
+        1033152,
+        1055652,
+        1078152,
+        1100652,
+        1123152,
+        1145652,
+        1168782,
+        1192092,
+        1214592,
+        1237092,
+        1259592,
+        1282092,
+        1304592,
+        1327092,
+        1349592,
+        1372092,
+        1394592,
+        1415292,
+        1436424
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 322,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Potato/Potato_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Potato/nx/Potato_banner_bkg.tga.ckd/dc4f362e40149257f366c48d42f72a27.ckd",
+      "map_bkgImageUrl": "/public/map/Potato/nx/Potato_map_bkg.tga.ckd/e3fb83c7f3b1d43a5ff0f8048dca32d1.ckd",
+      "expandCoachImageUrl": "/public/map/Potato/nx/Potato_Cover_AlbumCoach.tga.ckd/fdc68078095a471cccca6bcfc357ee3d.ckd",
+      "cover_smallImageUrl": "/public/map/Potato/nx/Potato_Cover_Online.tga.ckd/4ee575cd39c0b33d59d685ffbb0e99c1.ckd",
+      "coach1ImageUrl": "/public/map/Potato/nx/Potato_Coach_1.tga.ckd/9280eb691a701c6b44b45e0e84e69261.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Potato/pc/Potato_banner_bkg.tga.ckd/c73f924f6fb0b56c7ba814d5718557fb.ckd",
+      "map_bkgImageUrl": "/public/map/Potato/pc/Potato_map_bkg.tga.ckd/e1614fc989f5d38e542107d12ca4f723.ckd",
+      "expandCoachImageUrl": "/public/map/Potato/pc/Potato_Cover_AlbumCoach.tga.ckd/662119bdfa53e85dbb9a6702defbf3e5.ckd",
+      "cover_smallImageUrl": "/public/map/Potato/pc/Potato_Cover_Online.tga.ckd/6bb38d916306045ee0a77ba6692069a1.ckd",
+      "coach1ImageUrl": "/public/map/Potato/pc/Potato_Coach_1.tga.ckd/dc3e4b67e19709dc30d00914a6c1c1da.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Potato/orbis/Potato_banner_bkg.tga.ckd/c73f924f6fb0b56c7ba814d5718557fb.ckd",
+      "map_bkgImageUrl": "/public/map/Potato/orbis/Potato_map_bkg.tga.ckd/e1614fc989f5d38e542107d12ca4f723.ckd",
+      "expandCoachImageUrl": "/public/map/Potato/orbis/Potato_Cover_AlbumCoach.tga.ckd/662119bdfa53e85dbb9a6702defbf3e5.ckd",
+      "cover_smallImageUrl": "/public/map/Potato/orbis/Potato_Cover_Online.tga.ckd/6bb38d916306045ee0a77ba6692069a1.ckd",
+      "coach1ImageUrl": "/public/map/Potato/orbis/Potato_Coach_1.tga.ckd/dc3e4b67e19709dc30d00914a6c1c1da.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Potato/Potato_Coach_1_Phone.png/dd966d75143e31e4f63e5ed8324e9702.png",
+    "phoneCoverImageUrl": "/public/map/Potato/Potato_Cover_Phone.jpg/e8da7cad3208f8d2417a4658b247eccf.jpg",
+    "cover640ImageUrl": "/public/map/Potato/Potato_Cover_640.png/566b5fd54d0796110d698dbff1f5d31f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Potato/Potato.ogg": "/private/map/Potato/Potato.ogg/cd0acbeec00cd6fe44645512b563dbaf.ogg",
+    "jmcs://jd-contents/Potato/Potato_AudioPreview.ogg": "/public/map/Potato/Potato_AudioPreview.ogg/4f0d054d5c9d8eb31ed417f9cb567a75.ogg",
+    "jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Potato/Potato_MapPreviewNoSoundCrop_LOW.vp8.webm/99833b8ecf5763f556937e46db185064.webm",
+    "jmcs://jd-contents/Potato/Potato_HIGH.webm": "/private/map/Potato/Potato_HIGH.webm/da531adba1ab0ed4de8c64b490c98772.webm",
+    "jmcs://jd-contents/Potato/Potato_LOW.webm": "/private/map/Potato/Potato_LOW.webm/a5f26b1bcd83fa5caf3865c287fc4c8c.webm",
+    "jmcs://jd-contents/Potato/Potato_MID.webm": "/private/map/Potato/Potato_MID.webm/4851d8bbc5df07274e205c0670a6f153.webm",
+    "jmcs://jd-contents/Potato/Potato_ULTRA.hd.webm": "/private/map/Potato/Potato_ULTRA.hd.webm/ef0c8849d99eb5100b7e7f20f09a08b9.webm",
+    "jmcs://jd-contents/Potato/Potato_ULTRA.webm": "/private/map/Potato/Potato_ULTRA.webm/3c6e862287b6e4498e1b677276a5b5bc.webm",
+    "jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Potato/Potato_MapPreviewNoSoundCrop_MID.vp8.webm/34e11532a7d1ec5b0cc8feb11087696d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496009\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\n\t\t\t\t\t<Initialization range=\"0-628\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1166818\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Potato/Potato_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\n\t\t\t\t\t<Initialization range=\"0-629\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 150.926813
+}

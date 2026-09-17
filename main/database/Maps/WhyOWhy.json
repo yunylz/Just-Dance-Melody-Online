@@ -1,0 +1,158 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "b3b0e9fb0384cde84aef4ca9e4313f00",
+      "storageType": 0,
+      "url": "/public/map/WhyOWhy/nx/WhyOWhy_MAIN_SCENE_NX.zip/b3b0e9fb0384cde84aef4ca9e4313f00.zip"
+    },
+    "pc": {
+      "md5": "8a477fa90bb44628d78bcbb766294d60",
+      "storageType": 0,
+      "url": "/public/map/WhyOWhy/pc/WhyOWhy_MAIN_SCENE_PC.zip/8a477fa90bb44628d78bcbb766294d60.zip"
+    },
+    "ps4": {
+      "md5": "14e9c62419a774b0eeafa82b6b9c4799",
+      "storageType": 0,
+      "url": "/public/map/WhyOWhy/orbis/WhyOWhy_MAIN_SCENE_ORBIS.zip/14e9c62419a774b0eeafa82b6b9c4799.zip"
+    }
+  },
+  "data": {
+    "mapName": "WhyOWhy",
+    "title": "Why Oh Why",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Love Letter",
+    "credits": "Love Letter \\u2013 ''Why Oh Why'' Written by S. Huguenin, C. Padovan and Y. Sanna. Published by Kosinus APM (ASCAP). Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#C61FFF",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        37366,
+        71937,
+        109120,
+        144274,
+        181044,
+        215811,
+        252667,
+        289184,
+        324604,
+        360572,
+        397481,
+        433189,
+        469122,
+        505034,
+        540702,
+        576161,
+        613292,
+        649260,
+        685399,
+        721197,
+        757662,
+        793134,
+        829351,
+        865663,
+        901039,
+        937739,
+        973185,
+        1009084,
+        1045547,
+        1080882,
+        1117355,
+        1152035,
+        1188787,
+        1224755,
+        1261473,
+        1297064,
+        1333083,
+        1368629,
+        1404597
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 2
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 222,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 39,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/whyowhy/whyowhy_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WhyOWhy/nx/WhyOWhy_banner_bkg.tga.ckd/bea95e16a8acd8f1468eec14403019bd.ckd",
+      "map_bkgImageUrl": "/public/map/WhyOWhy/nx/WhyOWhy_map_bkg.tga.ckd/801bff2704a41fe38d1962e5f2036969.ckd",
+      "expandCoachImageUrl": "/public/map/WhyOWhy/nx/WhyOWhy_Cover_AlbumCoach.tga.ckd/c3969fc025c8ee1b6835f3f5784e4f3a.ckd",
+      "cover_smallImageUrl": "/public/map/WhyOWhy/nx/WhyOWhy_Cover_Online.tga.ckd/92db9542c84073debcca1140ab3efaf1.ckd",
+      "coverImageUrl": "/public/map/WhyOWhy/nx/WhyOWhy_Cover_Generic.tga.ckd/4a8f37c38adc31ba00afe9f9ee191080.ckd",
+      "coach1ImageUrl": "/public/map/WhyOWhy/nx/WhyOWhy_Coach_1.tga.ckd/0ec5de9ca8fc52c2ae3af614d21b4f0c.ckd",
+      "coach2ImageUrl": "/public/map/WhyOWhy/nx/WhyOWhy_Coach_2.tga.ckd/008369504d8049675b38b4af8f0e519e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WhyOWhy/pc/WhyOWhy_banner_bkg.tga.ckd/9d2f62dea64dcdba875185c615dc1959.ckd",
+      "map_bkgImageUrl": "/public/map/WhyOWhy/pc/WhyOWhy_map_bkg.tga.ckd/239751e72f16ffa0a29aceadbb632659.ckd",
+      "expandCoachImageUrl": "/public/map/WhyOWhy/pc/WhyOWhy_Cover_AlbumCoach.tga.ckd/f1b3e0d636cd1e5b1e31424fb9ea5d8a.ckd",
+      "cover_smallImageUrl": "/public/map/WhyOWhy/pc/WhyOWhy_Cover_Online.tga.ckd/202307cf3555a287c01310a3164da7e3.ckd",
+      "coverImageUrl": "/public/map/WhyOWhy/pc/WhyOWhy_Cover_Generic.tga.ckd/a0c94f2977e6a7a54e4f786ce39ca478.ckd",
+      "coach1ImageUrl": "/public/map/WhyOWhy/pc/WhyOWhy_Coach_1.tga.ckd/9f9d47dba3e49ac9cc3507398f5acf14.ckd",
+      "coach2ImageUrl": "/public/map/WhyOWhy/pc/WhyOWhy_Coach_2.tga.ckd/19559ba21728de96e27adb8cc619821a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WhyOWhy/orbis/WhyOWhy_banner_bkg.tga.ckd/9d2f62dea64dcdba875185c615dc1959.ckd",
+      "map_bkgImageUrl": "/public/map/WhyOWhy/orbis/WhyOWhy_map_bkg.tga.ckd/239751e72f16ffa0a29aceadbb632659.ckd",
+      "expandCoachImageUrl": "/public/map/WhyOWhy/orbis/WhyOWhy_Cover_AlbumCoach.tga.ckd/f1b3e0d636cd1e5b1e31424fb9ea5d8a.ckd",
+      "cover_smallImageUrl": "/public/map/WhyOWhy/orbis/WhyOWhy_Cover_Online.tga.ckd/202307cf3555a287c01310a3164da7e3.ckd",
+      "coverImageUrl": "/public/map/WhyOWhy/orbis/WhyOWhy_Cover_Generic.tga.ckd/a0c94f2977e6a7a54e4f786ce39ca478.ckd",
+      "coach1ImageUrl": "/public/map/WhyOWhy/orbis/WhyOWhy_Coach_1.tga.ckd/9f9d47dba3e49ac9cc3507398f5acf14.ckd",
+      "coach2ImageUrl": "/public/map/WhyOWhy/orbis/WhyOWhy_Coach_2.tga.ckd/19559ba21728de96e27adb8cc619821a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WhyOWhy/WhyOWhy_Coach_1_Phone.png/f3c1337e2e6e43ed9b519fc6fd118c33.png",
+    "phoneCoach2ImageUrl": "/public/map/WhyOWhy/WhyOWhy_Coach_2_Phone.png/8a86266a7f83c8ed56d34df6ffce7f61.png",
+    "phoneCoverImageUrl": "/public/map/WhyOWhy/WhyOWhy_Cover_Phone.jpg/72b56e8cfb0620618a9390d5479f2f52.jpg",
+    "cover640ImageUrl": "/public/map/WhyOWhy/WhyOWhy_Cover_640.png/0f9ae1a4ddbb683f0e9fb2dbb44bb36d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/WhyOWhy/WhyOWhy.ogg": "/private/map/WhyOWhy/WhyOWhy.ogg/f240d2e3fe7f9282e68c69b4206ca858.ogg",
+    "jmcs://jd-contents/WhyOWhy/WhyOWhy_AudioPreview.ogg": "/public/map/WhyOWhy/WhyOWhy_AudioPreview.ogg/e4fb411578d4e7639f91290dd78db9e5.ogg",
+    "jmcs://jd-contents/WhyOWhy/WhyOWhy_HIGH.webm": "/private/map/WhyOWhy/WhyOWhy_HIGH.webm/0485934aa52314f04fea62fdcaad3b83.webm",
+    "jmcs://jd-contents/WhyOWhy/WhyOWhy_LOW.webm": "/private/map/WhyOWhy/WhyOWhy_LOW.webm/9182ede23a370366c850497eab16b7d5.webm",
+    "jmcs://jd-contents/WhyOWhy/WhyOWhy_MID.webm": "/private/map/WhyOWhy/WhyOWhy_MID.webm/db0593e657582e3c26e91eb738b9fd65.webm",
+    "jmcs://jd-contents/WhyOWhy/WhyOWhy_ULTRA.hd.webm": "/private/map/WhyOWhy/WhyOWhy_ULTRA.hd.webm/b8fd0e18a622744e1f65082de365373e.webm",
+    "jmcs://jd-contents/WhyOWhy/WhyOWhy_ULTRA.webm": "/private/map/WhyOWhy/WhyOWhy_ULTRA.webm/c382c423632005930563f020142e3683.webm",
+    "jmcs://jd-contents/WhyOWhy/WhyOWhy_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WhyOWhy/WhyOWhy_MapPreviewNoSoundCrop_LOW.vp8.webm/f2ac7c599f0f685b2946e1abbab7edf7.webm",
+    "jmcs://jd-contents/WhyOWhy/WhyOWhy_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WhyOWhy/WhyOWhy_MapPreviewNoSoundCrop_MID.vp8.webm/a8121c6ff43c2925b9c7a167bbb08c8c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"506155\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhyOWhy/WhyOWhy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"660-1150\">\n\t\t\t\t\t<Initialization range=\"0-660\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1489938\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhyOWhy/WhyOWhy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\n\t\t\t\t\t<Initialization range=\"0-661\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 167.135313
+}

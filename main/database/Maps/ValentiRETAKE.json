@@ -1,0 +1,169 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ValentiRETAKE/ValentiRETAKE.ogg": "/private/map/ValentiRETAKE/ValentiRETAKE.ogg/f30bf0d3918825c2a6d98714fceaf75c.ogg",
+    "jmcs://jd-contents/ValentiRETAKE/ValentiRETAKE_AudioPreview.ogg": "/public/map/ValentiRETAKE/ValentiRETAKE_AudioPreview.ogg/1f9c5bd6debefce11dfd826e522d0ea3.ogg",
+    "jmcs://jd-contents/ValentiRETAKE/ValentiRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ValentiRETAKE/ValentiRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm/187e9ac300f76ea5322e8b15deb0ad62.webm",
+    "jmcs://jd-contents/ValentiRETAKE/ValentiRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ValentiRETAKE/ValentiRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm/facbe0ce547c0f0a61cf2d77dedb51d3.webm",
+    "jmcs://jd-contents/ValentiRETAKE/ValentiRETAKE_HIGH.hd.webm": "/private/map/ValentiRETAKE/ValentiRETAKE_HIGH.hd.webm/b21b6e583e94fc02e6a422e38eb528e4.webm",
+    "jmcs://jd-contents/ValentiRETAKE/ValentiRETAKE_LOW.hd.webm": "/private/map/ValentiRETAKE/ValentiRETAKE_LOW.hd.webm/bd260f2e14d2fe6b02565cb49e5f8392.webm",
+    "jmcs://jd-contents/ValentiRETAKE/ValentiRETAKE_MID.hd.webm": "/private/map/ValentiRETAKE/ValentiRETAKE_MID.hd.webm/f95eeaad16cd910d0406863f482cf134.webm",
+    "jmcs://jd-contents/ValentiRETAKE/ValentiRETAKE_ULTRA.hd.webm": "/private/map/ValentiRETAKE/ValentiRETAKE_ULTRA.hd.webm/8bb138d2592bf6eec88c4dcfb7d1018d.webm"
+  },
+  "mapLength": 259.5417708333333,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27687,
+        55373,
+        83058,
+        110743,
+        138428,
+        166114,
+        193798,
+        221484,
+        249171,
+        276857,
+        304541,
+        332227,
+        359912,
+        387598,
+        415282,
+        442968,
+        470655,
+        498338,
+        526025,
+        553711,
+        581396,
+        609081,
+        636766,
+        664452,
+        692136,
+        719822,
+        747509,
+        775195,
+        802879,
+        830565,
+        858250,
+        885936,
+        913620,
+        941306,
+        968993,
+        996676,
+        1024363,
+        1052049,
+        1079735,
+        1107418,
+        1135104,
+        1162791,
+        1190475,
+        1218160,
+        1245847,
+        1273532,
+        1301216,
+        1328903,
+        1356589,
+        1384272,
+        1411958,
+        1439645
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 449,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/valentiretake/valentiretake_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "0171d5dacbbd02caad06942621cf8d6b",
+      "storageType": 0,
+      "url": "/public/map/ValentiRETAKE/nx/ValentiRETAKE_MAIN_SCENE_NX.zip/0171d5dacbbd02caad06942621cf8d6b.zip"
+    },
+    "pc": {
+      "md5": "e0a1e50a4f0dd7c673ea44e27b5a8152",
+      "storageType": 0,
+      "url": "/public/map/ValentiRETAKE/pc/ValentiRETAKE_MAIN_SCENE_PC.zip/e0a1e50a4f0dd7c673ea44e27b5a8152.zip"
+    },
+    "ps4": {
+      "md5": "650ab67657c65b9e40b333f70a03f7aa",
+      "storageType": 0,
+      "url": "/public/map/ValentiRETAKE/orbis/ValentiRETAKE_MAIN_SCENE_ORBIS.zip/650ab67657c65b9e40b333f70a03f7aa.zip"
+    },
+    "wiiu": {
+      "md5": "3ef08c060e5ddd328d2fca1f661cd0f6",
+      "storageType": 0,
+      "url": "/public/map/ValentiRETAKE/wiiu/ValentiRETAKE_MAIN_SCENE_WIIU.zip/3ef08c060e5ddd328d2fca1f661cd0f6.zip"
+    }
+  },
+  "data": {
+    "mapName": "ValentiRETAKE",
+    "title": "Valenti",
+    "originalJDVersion": 1000,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "BoA",
+    "credits": "Planedec50 Pictos.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#FEB500",
+    "songColor2A": "#FEC800",
+    "songColor1B": "#333333",
+    "songColor2B": "#CD4F00",
+    "lyricsColor": "#10FFD6",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ValentiRETAKE/nx/ValentiRETAKE_banner_bkg.tga.ckd/d32c1d64e1d63c5103cec4b439ec1ccf.ckd",
+      "map_bkgImageUrl": "/public/map/ValentiRETAKE/nx/ValentiRETAKE_map_bkg.tga.ckd/d40aa1bc1bbbc9afd9b04f2e749ad4c2.ckd",
+      "expandCoachImageUrl": "/public/map/ValentiRETAKE/nx/ValentiRETAKE_Cover_AlbumCoach.tga.ckd/48f846f9977965d5ebb50d5d17b830d0.ckd",
+      "cover_smallImageUrl": "/public/map/ValentiRETAKE/nx/ValentiRETAKE_Cover_Online.tga.ckd/49676418eb70af42fbaddf182569f785.ckd",
+      "coverImageUrl": "/public/map/ValentiRETAKE/nx/ValentiRETAKE_Cover_Generic.tga.ckd/49676418eb70af42fbaddf182569f785.ckd",
+      "coach1ImageUrl": "/public/map/ValentiRETAKE/nx/ValentiRETAKE_Coach_1.tga.ckd/2fd62286b38e16f45798d774ad89bce0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ValentiRETAKE/pc/ValentiRETAKE_banner_bkg.tga.ckd/c677d2914a4149d3288698d211c6adfc.ckd",
+      "map_bkgImageUrl": "/public/map/ValentiRETAKE/pc/ValentiRETAKE_map_bkg.tga.ckd/d15b59c7a6274691ffcc360324bb5ea2.ckd",
+      "expandCoachImageUrl": "/public/map/ValentiRETAKE/pc/ValentiRETAKE_Cover_AlbumCoach.tga.ckd/67bb354e2dc85b59efba5f43eaa5bd80.ckd",
+      "cover_smallImageUrl": "/public/map/ValentiRETAKE/pc/ValentiRETAKE_Cover_Online.tga.ckd/3c54f93de8675db4561cf8592fa7d499.ckd",
+      "coverImageUrl": "/public/map/ValentiRETAKE/pc/ValentiRETAKE_Cover_Generic.tga.ckd/3c54f93de8675db4561cf8592fa7d499.ckd",
+      "coach1ImageUrl": "/public/map/ValentiRETAKE/pc/ValentiRETAKE_Coach_1.tga.ckd/145da8df41fcb7ff3d1821d9142b2761.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ValentiRETAKE/orbis/ValentiRETAKE_banner_bkg.tga.ckd/c677d2914a4149d3288698d211c6adfc.ckd",
+      "map_bkgImageUrl": "/public/map/ValentiRETAKE/orbis/ValentiRETAKE_map_bkg.tga.ckd/d15b59c7a6274691ffcc360324bb5ea2.ckd",
+      "expandCoachImageUrl": "/public/map/ValentiRETAKE/orbis/ValentiRETAKE_Cover_AlbumCoach.tga.ckd/67bb354e2dc85b59efba5f43eaa5bd80.ckd",
+      "cover_smallImageUrl": "/public/map/ValentiRETAKE/orbis/ValentiRETAKE_Cover_Online.tga.ckd/3c54f93de8675db4561cf8592fa7d499.ckd",
+      "coverImageUrl": "/public/map/ValentiRETAKE/orbis/ValentiRETAKE_Cover_Generic.tga.ckd/3c54f93de8675db4561cf8592fa7d499.ckd",
+      "coach1ImageUrl": "/public/map/ValentiRETAKE/orbis/ValentiRETAKE_Coach_1.tga.ckd/145da8df41fcb7ff3d1821d9142b2761.ckd"
+    },
+    "cover640ImageUrl": "/public/map/ValentiRETAKE/ValentiRETAKE_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"522547\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ValentiRETAKE/ValentiRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"713-1203\">\n\t\t\t\t\t<Initialization range=\"0-713\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2014983\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ValentiRETAKE/ValentiRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"714-1204\">\n\t\t\t\t\t<Initialization range=\"0-714\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n"
+}

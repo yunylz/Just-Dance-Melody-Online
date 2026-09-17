@@ -1,0 +1,155 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "5b1e4f236cde60c0568accb6ed951776",
+      "storageType": 0,
+      "url": "/public/map/TheLazySong/nx/TheLazySong_MAIN_SCENE_NX.zip/5b1e4f236cde60c0568accb6ed951776.zip"
+    },
+    "pc": {
+      "md5": "e4b746f2ea0dc8cc8d64946f783a195d",
+      "storageType": 0,
+      "url": "/public/map/TheLazySong/pc/TheLazySong_MAIN_SCENE_PC.zip/e4b746f2ea0dc8cc8d64946f783a195d.zip"
+    },
+    "ps4": {
+      "md5": "a86312599e4295c762ff3abd6c21a531",
+      "storageType": 0,
+      "url": "/public/map/TheLazySong/orbis/TheLazySong_MAIN_SCENE_ORBIS.zip/a86312599e4295c762ff3abd6c21a531.zip"
+    }
+  },
+  "data": {
+    "mapName": "TheLazySong",
+    "title": "The Lazy Song",
+    "originalJDVersion": 4,
+    "tags": [
+      "main"
+    ],
+    "artist": "Bruno Mars",
+    "credits": "Written by Keinan Warsame, Philip Lawrence, Bruno Mars and Ari Levine. Published by Sony/ATV Music Publishing Canada (SOCAN) / EMI April Music Inc. (ASCAP) / WB Music Corp. (ASCAP), Northside Independent Music Publishing, LLC (ASCAP), Roc Nation Music (ASCAP), Music Famamanem (ASCAP). All rights on behalf of itself, Roc Nation Music and Music Famamanem administered by WB Music Corp. / Bughouse, BMG Gold Songs, Mars Force Music, Toy Plane Music. All Rights Administered by BMG Rights Management (US) LLC. All Rights Reserved. Used by permission. Courtesy of Atlantic Recording Corp. By arrangement with Warner Music Group Video Games Licensing.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#f8f840",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        48431,
+        81345,
+        114259,
+        147173,
+        180088,
+        213002,
+        245916,
+        278831,
+        311745,
+        344659,
+        377573,
+        410488,
+        443402,
+        476316,
+        509231,
+        542145,
+        575059,
+        607973,
+        640888,
+        673802,
+        706716,
+        739631,
+        772545,
+        805459,
+        838373,
+        871288,
+        904202,
+        937116,
+        970031,
+        1002945,
+        1035859,
+        1068773,
+        1101688,
+        1134602,
+        1167516,
+        1200431,
+        1233345,
+        1266259,
+        1299173,
+        1332088,
+        1365002,
+        1397916,
+        1430831,
+        1463745,
+        1496659
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 292,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 43,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TheLazySong/TheLazySong_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TheLazySong/nx/TheLazySong_banner_bkg.tga.ckd/2f185cab2f639b010938f1b34338ae9a.ckd",
+      "map_bkgImageUrl": "/public/map/TheLazySong/nx/TheLazySong_map_bkg.tga.ckd/56636a195f152a802f5a84ae4f4a3951.ckd",
+      "expandCoachImageUrl": "/public/map/TheLazySong/nx/TheLazySong_Cover_AlbumCoach.tga.ckd/9fe31f16661ef952052542dd9972e20b.ckd",
+      "cover_smallImageUrl": "/public/map/TheLazySong/nx/TheLazySong_Cover_Online.tga.ckd/d0d7988be48f524557fc64efb17693f2.ckd",
+      "coach1ImageUrl": "/public/map/TheLazySong/nx/TheLazySong_Coach_1.tga.ckd/1760aeb4868d9abb3e5b82d2054a3d03.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TheLazySong/pc/TheLazySong_banner_bkg.tga.ckd/0c263c3753ee9bab91293da0ca1e1767.ckd",
+      "map_bkgImageUrl": "/public/map/TheLazySong/pc/TheLazySong_map_bkg.tga.ckd/852784f7f0e6dab744d723dcb7b467a2.ckd",
+      "expandCoachImageUrl": "/public/map/TheLazySong/pc/TheLazySong_Cover_AlbumCoach.tga.ckd/edc51b24ba63af11018a82026065a638.ckd",
+      "cover_smallImageUrl": "/public/map/TheLazySong/pc/TheLazySong_Cover_Online.tga.ckd/bc04d55f68fdeeeac320a927608c1106.ckd",
+      "coach1ImageUrl": "/public/map/TheLazySong/pc/TheLazySong_Coach_1.tga.ckd/68466abc137f79d182b719530800b66e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TheLazySong/orbis/TheLazySong_banner_bkg.tga.ckd/0c263c3753ee9bab91293da0ca1e1767.ckd",
+      "map_bkgImageUrl": "/public/map/TheLazySong/orbis/TheLazySong_map_bkg.tga.ckd/852784f7f0e6dab744d723dcb7b467a2.ckd",
+      "expandCoachImageUrl": "/public/map/TheLazySong/orbis/TheLazySong_Cover_AlbumCoach.tga.ckd/edc51b24ba63af11018a82026065a638.ckd",
+      "cover_smallImageUrl": "/public/map/TheLazySong/orbis/TheLazySong_Cover_Online.tga.ckd/bc04d55f68fdeeeac320a927608c1106.ckd",
+      "coach1ImageUrl": "/public/map/TheLazySong/orbis/TheLazySong_Coach_1.tga.ckd/68466abc137f79d182b719530800b66e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TheLazySong/TheLazySong_Coach_1_Phone.png/d5201e19a3bc79fe31108f4c17bb5b26.png",
+    "phoneCoverImageUrl": "/public/map/TheLazySong/TheLazySong_Cover_Phone.jpg/e560fa7b68516d102dd7f7c63ddf1d4f.jpg",
+    "cover640ImageUrl": "/public/map/TheLazySong/TheLazySong_Cover_640.png/6f3b3e4e08e21424e60e0fa39c71f47d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/TheLazySong/TheLazySong.ogg": "/private/map/TheLazySong/TheLazySong.ogg/f4085356d537f4a145c324a5a2947e72.ogg",
+    "jmcs://jd-contents/TheLazySong/TheLazySong_AudioPreview.ogg": "/public/map/TheLazySong/TheLazySong_AudioPreview.ogg/5320abee6378305d5ee79a19d478a567.ogg",
+    "jmcs://jd-contents/TheLazySong/TheLazySong_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TheLazySong/TheLazySong_MapPreviewNoSoundCrop_LOW.vp8.webm/5050138e95952b5e305aba51abffc59d.webm",
+    "jmcs://jd-contents/TheLazySong/TheLazySong_HIGH.webm": "/private/map/TheLazySong/TheLazySong_HIGH.webm/f17b242ff39c7b2c63116b9b2150f5fb.webm",
+    "jmcs://jd-contents/TheLazySong/TheLazySong_LOW.webm": "/private/map/TheLazySong/TheLazySong_LOW.webm/2d7bc37a9824ccbcfe5add62acede4a0.webm",
+    "jmcs://jd-contents/TheLazySong/TheLazySong_MID.webm": "/private/map/TheLazySong/TheLazySong_MID.webm/d8c522df21ca92328d54b84a78ce9d13.webm",
+    "jmcs://jd-contents/TheLazySong/TheLazySong_ULTRA.hd.webm": "/private/map/TheLazySong/TheLazySong_ULTRA.hd.webm/614fedd86fce58dcaf641f65ce201c47.webm",
+    "jmcs://jd-contents/TheLazySong/TheLazySong_ULTRA.webm": "/private/map/TheLazySong/TheLazySong_ULTRA.webm/d0a69004813d5711a4cb08ee83e1adc3.webm",
+    "jmcs://jd-contents/TheLazySong/TheLazySong_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TheLazySong/TheLazySong_MapPreviewNoSoundCrop_MID.vp8.webm/384f72154779da4bf56d15fc0e10102a.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497202\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheLazySong/TheLazySong_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"670-1160\">\n\t\t\t\t\t<Initialization range=\"0-670\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482501\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheLazySong/TheLazySong_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"671-1161\">\n\t\t\t\t\t<Initialization range=\"0-671\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 201.166854
+}

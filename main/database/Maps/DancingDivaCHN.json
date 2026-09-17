@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8a7a81c70a62ebbbbeeefa5582b4dbf9",
+      "storageType": 0,
+      "url": "/public/map/DancingDivaCHN/nx/DancingDivaCHN_MAIN_SCENE_NX.zip/8a7a81c70a62ebbbbeeefa5582b4dbf9.zip"
+    },
+    "pc": {
+      "md5": "4f33e3ad4c36979a4dff78e91cdc3d1c",
+      "storageType": 0,
+      "url": "/public/map/DancingDivaCHN/pc/DancingDivaCHN_MAIN_SCENE_PC.zip/4f33e3ad4c36979a4dff78e91cdc3d1c.zip"
+    },
+    "ps4": {
+      "md5": "9892cbf4c1fb7703d65d14a8cc694626",
+      "storageType": 0,
+      "url": "/public/map/DancingDivaCHN/orbis/DancingDivaCHN_MAIN_SCENE_ORBIS.zip/9892cbf4c1fb7703d65d14a8cc694626.zip"
+    }
+  },
+  "data": {
+    "mapName": "DancingDivaCHN",
+    "title": "Dancing Diva (舞娘)",
+    "originalJDVersion": 1101,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Jolin Tsai (蔡依林)",
+    "credits": "Written by Greg Kurstin, Miriam Nervo, Olivia Nervo Published by Tucano Music c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) and Sony/ATV Music Publishing Canada (SOCAN) All rights reserved. Used with permission. Produced and mixed by Tom Salta. Vocals by Haoyue Kuang. Music supervision Alkis Argyriadis & Manu Bachet.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#478AE3",
+    "songColor2A": "#D15EDF",
+    "songColor1B": "#002352",
+    "songColor2B": "#210042",
+    "lyricsColor": "#38FFD9",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23184,
+        46416,
+        69648,
+        92880,
+        116112,
+        139344,
+        162576,
+        185808,
+        208992,
+        232224,
+        255456,
+        278688,
+        301920,
+        325152,
+        348383,
+        371567,
+        394799,
+        418031,
+        441263,
+        464495,
+        487727,
+        510959,
+        534191,
+        557375,
+        580607,
+        603839,
+        627071,
+        650303,
+        673535,
+        696767,
+        719999,
+        743183,
+        766415,
+        789647,
+        812879,
+        836111,
+        859343,
+        882575,
+        905807,
+        928991,
+        952223,
+        975455,
+        998687,
+        1021919,
+        1045151,
+        1068383,
+        1091567,
+        1114799,
+        1138031,
+        1161263,
+        1184495,
+        1207727,
+        1230959,
+        1254191,
+        1277375,
+        1300607,
+        1323839,
+        1347071,
+        1370303,
+        1393535,
+        1416767,
+        1439998
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 382,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/dancingdivachn/dancingdivachn_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DancingDivaCHN/nx/DancingDivaCHN_banner_bkg.tga.ckd/cdae327d61981287f8bfc1d70719e102.ckd",
+      "map_bkgImageUrl": "/public/map/DancingDivaCHN/nx/DancingDivaCHN_map_bkg.tga.ckd/e2e04604b7915586f06e15d7058685e5.ckd",
+      "expandCoachImageUrl": "/public/map/DancingDivaCHN/nx/DancingDivaCHN_Cover_AlbumCoach.tga.ckd/bda1398a03961cbd74cc093d036bc74c.ckd",
+      "cover_smallImageUrl": "/public/map/DancingDivaCHN/nx/DancingDivaCHN_Cover_Online.tga.ckd/9471ce3ae251bd7c95561023bbf75a0b.ckd",
+      "coach1ImageUrl": "/public/map/DancingDivaCHN/nx/DancingDivaCHN_Coach_1.tga.ckd/5794cdba15910ddfac7b6bbfa4548771.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DancingDivaCHN/pc/DancingDivaCHN_banner_bkg.tga.ckd/2bc091fa8f3108679494ceb6cce8a4dc.ckd",
+      "map_bkgImageUrl": "/public/map/DancingDivaCHN/pc/DancingDivaCHN_map_bkg.tga.ckd/988191cd5c3a2a45db508435701d2534.ckd",
+      "expandCoachImageUrl": "/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_AlbumCoach.tga.ckd/eeacded3e44ba776b7d9b7be7c9db71d.ckd",
+      "cover_smallImageUrl": "/public/map/DancingDivaCHN/pc/DancingDivaCHN_Cover_Online.tga.ckd/eae8d69c883137896f2ead681c2c460e.ckd",
+      "coach1ImageUrl": "/public/map/DancingDivaCHN/pc/DancingDivaCHN_Coach_1.tga.ckd/8b66306acf13809ef283fe8719dc1121.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DancingDivaCHN/orbis/DancingDivaCHN_banner_bkg.tga.ckd/2bc091fa8f3108679494ceb6cce8a4dc.ckd",
+      "map_bkgImageUrl": "/public/map/DancingDivaCHN/orbis/DancingDivaCHN_map_bkg.tga.ckd/988191cd5c3a2a45db508435701d2534.ckd",
+      "expandCoachImageUrl": "/public/map/DancingDivaCHN/orbis/DancingDivaCHN_Cover_AlbumCoach.tga.ckd/eeacded3e44ba776b7d9b7be7c9db71d.ckd",
+      "cover_smallImageUrl": "/public/map/DancingDivaCHN/orbis/DancingDivaCHN_Cover_Online.tga.ckd/eae8d69c883137896f2ead681c2c460e.ckd",
+      "coach1ImageUrl": "/public/map/DancingDivaCHN/orbis/DancingDivaCHN_Coach_1.tga.ckd/8b66306acf13809ef283fe8719dc1121.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DancingDivaCHN/DancingDivaCHN_Coach_1_Phone.png/d6009080e94e19e7a81d97664f3eec42.png",
+    "phoneCoverImageUrl": "/public/map/DancingDivaCHN/DancingDivaCHN_Cover_Phone.jpg/104752149ff315a4a9413a9b67ebb5e8.jpg",
+    "cover640ImageUrl": "/public/map/DancingDivaCHN/DancingDivaCHN_Cover_640.png/10a2d461de23732b3cc30cd8d661c3aa.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN.ogg": "/private/map/DancingDivaCHN/DancingDivaCHN.ogg/980ad90ddfc546e5050be8e99542f1ce.ogg",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_AudioPreview.ogg": "/public/map/DancingDivaCHN/DancingDivaCHN_AudioPreview.ogg/796ffe1d25ad54a148adf13bcfe3f3d8.ogg",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_HIGH.webm": "/private/map/DancingDivaCHN/DancingDivaCHN_HIGH.webm/79aa802e44e2e0299b62814209a539f1.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_LOW.webm": "/private/map/DancingDivaCHN/DancingDivaCHN_LOW.webm/39367d0d8f801c6b59d41d25591d10b8.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MID.webm": "/private/map/DancingDivaCHN/DancingDivaCHN_MID.webm/0e512fb6dff6ae53523a4c14726a1e17.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_ULTRA.hd.webm": "/private/map/DancingDivaCHN/DancingDivaCHN_ULTRA.hd.webm/be4fab05d51088849eea574380ea8aad.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_ULTRA.webm": "/private/map/DancingDivaCHN/DancingDivaCHN_ULTRA.webm/ce8243fb5709115c29f0d032c37b6d02.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_LOW.vp8.webm/d324a5d9d7f3a2226a59d85c8aa9acdb.webm",
+    "jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_MID.vp8.webm/d802b0222c58838e3013d357c3ced918.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495336\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1318793\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingDivaCHN/DancingDivaCHN_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\n\t\t\t\t\t<Initialization range=\"0-637\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 187.253729
+}

@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "81de6c13efd03b0d4ecd0d376069f963",
+      "storageType": 0,
+      "url": "/public/map/PrimaDonna/nx/PrimaDonna_MAIN_SCENE_NX.zip/81de6c13efd03b0d4ecd0d376069f963.zip"
+    },
+    "pc": {
+      "md5": "c5b885e698f05b54a80f736d277c46c9",
+      "storageType": 0,
+      "url": "/public/map/PrimaDonna/pc/PrimaDonna_MAIN_SCENE_PC.zip/c5b885e698f05b54a80f736d277c46c9.zip"
+    },
+    "ps4": {
+      "md5": "a5e51d1177ee34c407637a94fd4c80d7",
+      "storageType": 0,
+      "url": "/public/map/PrimaDonna/orbis/PrimaDonna_MAIN_SCENE_ORBIS.zip/a5e51d1177ee34c407637a94fd4c80d7.zip"
+    }
+  },
+  "data": {
+    "mapName": "PrimaDonna",
+    "title": "Primadonna",
+    "originalJDVersion": 4,
+    "tags": [
+      "subscribedSong",
+      "JustDance4",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Marina and The Diamonds",
+    "credits": "Written by M. Diamandis, J. Frost, H. Walter and L. Gottwald. Published by Totally Famous Music (ASCAP) / EMI April Music Inc. (ASCAP) / Prescription Songs, LLC, Dream Machine Corporation, and Kasz Money Publishing. Administered by Kobalt Music Publishing America, Inc. / Primadonna Girl Limited (NS). Administered by Warner-Tamerlane Publishing Corp. All Rights Reserved. Used by permission. Courtesy of 679 Recordings Ltd. By arrangement with Warner Music Group Video Games Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ea3bab",
+    "songColor2A": "#ffab53",
+    "songColor1B": "#7e004c",
+    "songColor2B": "#540037",
+    "lyricsColor": "#d100de",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        118500,
+        141000,
+        163500,
+        186000,
+        208500,
+        231000,
+        253500,
+        276000,
+        298500,
+        321000,
+        343500,
+        366000,
+        388500,
+        411000,
+        433500,
+        456000,
+        478500,
+        501000,
+        523500,
+        546000,
+        568500,
+        591000,
+        613500,
+        636000,
+        658500,
+        681000,
+        703500,
+        726000,
+        748500,
+        771000,
+        793500,
+        816000,
+        838500,
+        861000,
+        883500,
+        906000,
+        928500,
+        951000,
+        973500,
+        996000,
+        1018500,
+        1041000,
+        1063500,
+        1086000,
+        1108500,
+        1131000,
+        1153500,
+        1176000,
+        1198500,
+        1221000,
+        1243500,
+        1266000,
+        1288500,
+        1311000,
+        1333500,
+        1356000,
+        1378500,
+        1401000,
+        1423500,
+        1446000,
+        1468500,
+        1491000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 478,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PrimaDonna/PrimaDonna_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PrimaDonna/nx/PrimaDonna_banner_bkg.tga.ckd/2a50f99557c035264758d1f77c29093c.ckd",
+      "map_bkgImageUrl": "/public/map/PrimaDonna/nx/PrimaDonna_map_bkg.tga.ckd/df7ed9d870e7b677e18646f804eba8b0.ckd",
+      "expandCoachImageUrl": "/public/map/PrimaDonna/nx/PrimaDonna_Cover_AlbumCoach.tga.ckd/d8910d31cdadb60fbc0a825a610a0064.ckd",
+      "cover_smallImageUrl": "/public/map/PrimaDonna/nx/PrimaDonna_Cover_Online.tga.ckd/e065a98b138202b04e693659eb018ea0.ckd",
+      "coach1ImageUrl": "/public/map/PrimaDonna/nx/PrimaDonna_Coach_1.tga.ckd/e44a74784137b7f971983f7b570b42f5.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PrimaDonna/pc/PrimaDonna_banner_bkg.tga.ckd/6e0d135af799e12eac733a895a76049f.ckd",
+      "map_bkgImageUrl": "/public/map/PrimaDonna/pc/PrimaDonna_map_bkg.tga.ckd/d09174cb29662f6bac640b55d96bb973.ckd",
+      "expandCoachImageUrl": "/public/map/PrimaDonna/pc/PrimaDonna_Cover_AlbumCoach.tga.ckd/5bf14314dc207507a2f62a198331e380.ckd",
+      "cover_smallImageUrl": "/public/map/PrimaDonna/pc/PrimaDonna_Cover_Online.tga.ckd/91e2b67f73c24374087ddb44fb6cd95b.ckd",
+      "coach1ImageUrl": "/public/map/PrimaDonna/pc/PrimaDonna_Coach_1.tga.ckd/e13d76a95ffc14201fe77af772d09d92.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PrimaDonna/orbis/PrimaDonna_banner_bkg.tga.ckd/6e0d135af799e12eac733a895a76049f.ckd",
+      "map_bkgImageUrl": "/public/map/PrimaDonna/orbis/PrimaDonna_map_bkg.tga.ckd/d09174cb29662f6bac640b55d96bb973.ckd",
+      "expandCoachImageUrl": "/public/map/PrimaDonna/orbis/PrimaDonna_Cover_AlbumCoach.tga.ckd/5bf14314dc207507a2f62a198331e380.ckd",
+      "cover_smallImageUrl": "/public/map/PrimaDonna/orbis/PrimaDonna_Cover_Online.tga.ckd/91e2b67f73c24374087ddb44fb6cd95b.ckd",
+      "coach1ImageUrl": "/public/map/PrimaDonna/orbis/PrimaDonna_Coach_1.tga.ckd/e13d76a95ffc14201fe77af772d09d92.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PrimaDonna/PrimaDonna_Coach_1_Phone.png/b5d28a762b4018501563e5e726796f39.png",
+    "phoneCoverImageUrl": "/public/map/PrimaDonna/PrimaDonna_Cover_Phone.jpg/fbb833085154a80acbce53ae54926fc5.jpg",
+    "cover640ImageUrl": "/public/map/PrimaDonna/PrimaDonna_Cover_640.png/453817f0afdca520c3cfd26a50d6fc05.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna.ogg": "/private/map/PrimaDonna/PrimaDonna.ogg/af8107cc479ca8b924e3829459269551.ogg",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_AudioPreview.ogg": "/public/map/PrimaDonna/PrimaDonna_AudioPreview.ogg/e0b2eea79e1fbb72194fff1db443e1f4.ogg",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_HIGH.webm": "/private/map/PrimaDonna/PrimaDonna_HIGH.webm/f9330349da3a66f7c83955010324340d.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_LOW.webm": "/private/map/PrimaDonna/PrimaDonna_LOW.webm/0d4e42aa30dafee85ba3c11b68176f0f.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MID.webm": "/private/map/PrimaDonna/PrimaDonna_MID.webm/553e79bf628e6ddc31ccb5f999e97a78.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_ULTRA.hd.webm": "/private/map/PrimaDonna/PrimaDonna_ULTRA.hd.webm/fe19d600edaf3c5af8e6c1c390037fd2.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_ULTRA.webm": "/private/map/PrimaDonna/PrimaDonna_ULTRA.webm/3808034bb8797101402cb122c2a1c1e5.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_LOW.vp8.webm/7a977d63fba9eb9c0c744c1ae2d113fc.webm",
+    "jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_MID.vp8.webm/ae71f81a66992f79c8d766b5c254e035.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497295\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1122\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1477717\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PrimaDonna/PrimaDonna_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 224.278938
+}

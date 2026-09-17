@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids.ogg": "/private/map/TheExplorerKids/TheExplorerKids.ogg/04a5c148d6128abbddaa98788fb89e74.ogg",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_AudioPreview.ogg": "/public/map/TheExplorerKids/TheExplorerKids_AudioPreview.ogg/b3403a740d1124c87bf727627acb5a8b.ogg",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_HIGH.hd.webm": "/private/map/TheExplorerKids/TheExplorerKids_HIGH.hd.webm/6bb1d937e5dc56d6aa2fcf8cb274101e.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_LOW.hd.webm": "/private/map/TheExplorerKids/TheExplorerKids_LOW.hd.webm/e6be9b4663941433230e6bedc9718287.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MID.hd.webm": "/private/map/TheExplorerKids/TheExplorerKids_MID.hd.webm/c2b3c2460799824bd782c9f418f75582.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_ULTRA.hd.webm": "/private/map/TheExplorerKids/TheExplorerKids_ULTRA.hd.webm/2bccad52219bedcf99d874629297de54.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_LOW.vp8.webm/76b25694ad4da2d0b5b35d9366c3d028.webm",
+    "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TheExplorerKids/TheExplorerKids_MapPreviewNoSoundCrop_MID.vp8.webm/2831368a08a95a5063280065406bd928.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547201,
+        576001,
+        604801,
+        633601,
+        662401,
+        691201,
+        720001,
+        748801,
+        777601,
+        806401,
+        835201,
+        864001,
+        892801,
+        921601,
+        950401,
+        979201,
+        1008001,
+        1036801,
+        1065601,
+        1094402,
+        1123202,
+        1152002,
+        1180802,
+        1209602,
+        1238402,
+        1267202,
+        1296002,
+        1324802,
+        1353602,
+        1382402,
+        1411202,
+        1440002,
+        1468802,
+        1497602
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 198,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TheExplorerKids/TheExplorerKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "d51e0ab040987fc01c3bb84e5a5e6cd4",
+      "storageType": 0,
+      "url": "/public/map/TheExplorerKids/nx/TheExplorerKids_MAIN_SCENE_NX.zip/d51e0ab040987fc01c3bb84e5a5e6cd4.zip"
+    },
+    "pc": {
+      "md5": "9c0d00084cc5a0ad33b67cdf42e3ea72",
+      "storageType": 0,
+      "url": "/public/map/TheExplorerKids/pc/TheExplorerKids_MAIN_SCENE_PC.zip/9c0d00084cc5a0ad33b67cdf42e3ea72.zip"
+    },
+    "ps4": {
+      "md5": "e3dfd2cb81f4d3dc9a97e43d17e7f2c1",
+      "storageType": 0,
+      "url": "/public/map/TheExplorerKids/orbis/TheExplorerKids_MAIN_SCENE_ORBIS.zip/e3dfd2cb81f4d3dc9a97e43d17e7f2c1.zip"
+    }
+  },
+  "data": {
+    "mapName": "TheExplorerKids",
+    "title": "Tales Of The Desert",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main",
+      "kidsonly"
+    ],
+    "artist": "Persian Nights",
+    "credits": "Composed by Ian Livingstone (PRS). Published by KPM APM (ASCAP). Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f9de45",
+    "songColor2A": "#f99932",
+    "songColor1B": "#9e4501",
+    "songColor2B": "#5f2c82",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TheExplorerKids/nx/TheExplorerKids_banner_bkg.tga.ckd/8c5f13f0f3aabc54178c2bf91304456f.ckd",
+      "map_bkgImageUrl": "/public/map/TheExplorerKids/nx/TheExplorerKids_map_bkg.tga.ckd/257f76d586ba6e297a5116f35dd3455a.ckd",
+      "expandCoachImageUrl": "/public/map/TheExplorerKids/nx/TheExplorerKids_Cover_AlbumCoach.tga.ckd/11d02190f2ba38016a76eb88e1d33cad.ckd",
+      "cover_smallImageUrl": "/public/map/TheExplorerKids/nx/TheExplorerKids_Cover_Online.tga.ckd/89a9445cb9ae735299eb7e431054fb4f.ckd",
+      "coverImageUrl": "/public/map/TheExplorerKids/nx/TheExplorerKids_Cover_Generic.tga.ckd/854391acff798642647c81b4ad4943a6.ckd",
+      "coach1ImageUrl": "/public/map/TheExplorerKids/nx/TheExplorerKids_Coach_1.tga.ckd/8455a604c816495c2895f019e93c4df0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TheExplorerKids/pc/TheExplorerKids_banner_bkg.tga.ckd/052c9af07dd9f4dc6cee61e5675e8aff.ckd",
+      "map_bkgImageUrl": "/public/map/TheExplorerKids/pc/TheExplorerKids_map_bkg.tga.ckd/be7a267065ad346c2ea38d69a0eecd4e.ckd",
+      "expandCoachImageUrl": "/public/map/TheExplorerKids/pc/TheExplorerKids_Cover_AlbumCoach.tga.ckd/d66bc928dd53b7667640670812c19149.ckd",
+      "cover_smallImageUrl": "/public/map/TheExplorerKids/pc/TheExplorerKids_Cover_Online.tga.ckd/bf5770ad10565fabcba0593979bece39.ckd",
+      "coverImageUrl": "/public/map/TheExplorerKids/pc/TheExplorerKids_Cover_Generic.tga.ckd/97148148b9ad4d9d2a80cc42dd3a8b3f.ckd",
+      "coach1ImageUrl": "/public/map/TheExplorerKids/pc/TheExplorerKids_Coach_1.tga.ckd/14411e895b441885a4c64e3626fae620.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TheExplorerKids/orbis/TheExplorerKids_banner_bkg.tga.ckd/052c9af07dd9f4dc6cee61e5675e8aff.ckd",
+      "map_bkgImageUrl": "/public/map/TheExplorerKids/orbis/TheExplorerKids_map_bkg.tga.ckd/be7a267065ad346c2ea38d69a0eecd4e.ckd",
+      "expandCoachImageUrl": "/public/map/TheExplorerKids/orbis/TheExplorerKids_Cover_AlbumCoach.tga.ckd/d66bc928dd53b7667640670812c19149.ckd",
+      "cover_smallImageUrl": "/public/map/TheExplorerKids/orbis/TheExplorerKids_Cover_Online.tga.ckd/bf5770ad10565fabcba0593979bece39.ckd",
+      "coverImageUrl": "/public/map/TheExplorerKids/orbis/TheExplorerKids_Cover_Generic.tga.ckd/97148148b9ad4d9d2a80cc42dd3a8b3f.ckd",
+      "coach1ImageUrl": "/public/map/TheExplorerKids/orbis/TheExplorerKids_Coach_1.tga.ckd/14411e895b441885a4c64e3626fae620.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TheExplorerKids/TheExplorerKids_Coach_1_Phone.png/89d18d098082d070f59fb4cee4903d17.png",
+    "phoneCoverImageUrl": "/public/map/TheExplorerKids/TheExplorerKids_Cover_Phone.jpg/b557ad0ec51aee008a0783438b0fc8b7.jpg",
+    "cover640ImageUrl": "/public/map/TheExplorerKids/TheExplorerKids_Cover_640.png/f02b354b237c7d3ceb6e0aa6be14e083.png"
+  },
+  "mapLength": 122.454
+}

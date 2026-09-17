@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/LoveIsAllMU/LoveIsAllMU.ogg": "/private/map/LoveIsAllMU/LoveIsAllMU.ogg/a1e064322785bfeb316f0707d9534740.ogg",
+    "jmcs://jd-contents/LoveIsAllMU/LoveIsAllMU_AudioPreview.ogg": "/public/map/LoveIsAllMU/LoveIsAllMU_AudioPreview.ogg/e3484288d5bafab98f795082654c79a2.ogg",
+    "jmcs://jd-contents/LoveIsAllMU/LoveIsAllMU_HIGH.hd.webm": "/private/map/LoveIsAllMU/LoveIsAllMU_HIGH.hd.webm/0f5ceef2bfbb7449ba123c9d92b2a194.webm",
+    "jmcs://jd-contents/LoveIsAllMU/LoveIsAllMU_LOW.hd.webm": "/private/map/LoveIsAllMU/LoveIsAllMU_LOW.hd.webm/c90135c2440d0fb2cd77433ef51d8ea2.webm",
+    "jmcs://jd-contents/LoveIsAllMU/LoveIsAllMU_MID.hd.webm": "/private/map/LoveIsAllMU/LoveIsAllMU_MID.hd.webm/3a271f5c04ab89334926d0b88c0a833d.webm",
+    "jmcs://jd-contents/LoveIsAllMU/LoveIsAllMU_ULTRA.hd.webm": "/private/map/LoveIsAllMU/LoveIsAllMU_ULTRA.hd.webm/eb073fbde327c8435ab3addaddafc64e.webm",
+    "jmcs://jd-contents/LoveIsAllMU/LoveIsAllMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LoveIsAllMU/LoveIsAllMU_MapPreviewNoSoundCrop_LOW.vp8.webm/3a5f2071b8fddc111f416de32037d45e.webm",
+    "jmcs://jd-contents/LoveIsAllMU/LoveIsAllMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LoveIsAllMU/LoveIsAllMU_MapPreviewNoSoundCrop_MID.vp8.webm/117e0f3dc0741e4a7131969181c7ca88.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25248,
+        50544,
+        75792,
+        101040,
+        126336,
+        151584,
+        176832,
+        202128,
+        227376,
+        252624,
+        277872,
+        303168,
+        328608,
+        354096,
+        379536,
+        405024,
+        431328,
+        457680,
+        484032,
+        510384,
+        536208,
+        562080,
+        587952,
+        613776,
+        639648,
+        665520,
+        691344,
+        717216,
+        743088,
+        768912,
+        794784,
+        820656,
+        846288,
+        871920,
+        897552,
+        923184,
+        948864,
+        974496,
+        1000128,
+        1025760,
+        1051392,
+        1077072,
+        1102704,
+        1128336,
+        1153920,
+        1179504,
+        1205088,
+        1230672,
+        1255392,
+        1280065,
+        1304785,
+        1329457,
+        1355281,
+        1381153,
+        1406977,
+        1432801,
+        1458625,
+        1484401
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 384,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LoveIsAllMU/LoveIsAllMU_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"629962\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveIsAllMU/LoveIsAllMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"768-1258\">\n\t\t\t\t\t<Initialization range=\"0-768\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2022140\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveIsAllMU/LoveIsAllMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"768-1258\">\n\t\t\t\t\t<Initialization range=\"0-768\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "7873d24bffc7e1ab30cbe402d99a1e95",
+      "storageType": 0,
+      "url": "/public/map/LoveIsAllMU/nx/LoveIsAllMU_MAIN_SCENE_NX.zip/7873d24bffc7e1ab30cbe402d99a1e95.zip"
+    },
+    "pc": {
+      "md5": "c01fa190f0c19408c9084731199432dc",
+      "storageType": 0,
+      "url": "/public/map/LoveIsAllMU/pc/LoveIsAllMU_MAIN_SCENE_PC.zip/c01fa190f0c19408c9084731199432dc.zip"
+    },
+    "ps4": {
+      "md5": "9c45761829d6966062e8cd8eb1bd932b",
+      "storageType": 0,
+      "url": "/public/map/LoveIsAllMU/orbis/LoveIsAllMU_MAIN_SCENE_ORBIS.zip/9c45761829d6966062e8cd8eb1bd932b.zip"
+    }
+  },
+  "data": {
+    "mapName": "LoveIsAllMU",
+    "title": "Love Is All",
+    "originalJDVersion": 2015,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "The Sunlight Shakers",
+    "credits": "Written by Roger Glover and Eddie Hardin. (P) 1974 British Lion Music Ltd License courtesy of Spark Music obo British Lion Music Ltd. Produced - Steve Ouimette Engineering - Steve Ouimette, Cat Gray Mix - Cat Gray, Steve Ouimette Additional engineering - Pete Whitfield, Paul Horabin Lead Vocal - Kyle Spicer Drums and Keys - Cat Gray Guitar and Bass - Steve Ouimette Violin - Sarah Brandwood-Spencer Background vocals - Sweeny Sisters Brass - Marching frog brass band Orchestrated by Willie Murillo Recorded at East West Studio by Jeremy Miller Music supervision: Franck Chapelat, Manu Bachet All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff6698",
+    "songColor2A": "#f89052",
+    "songColor1B": "#a91d33",
+    "songColor2B": "#a84d2a",
+    "lyricsColor": "#f7593c",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LoveIsAllMU/nx/LoveIsAllMU_banner_bkg.tga.ckd/3fe33e389313ed04b89a8a112138449c.ckd",
+      "map_bkgImageUrl": "/public/map/LoveIsAllMU/nx/LoveIsAllMU_map_bkg.tga.ckd/3ff176a96274d533fc48ed5f34383ad9.ckd",
+      "expandCoachImageUrl": "/public/map/LoveIsAllMU/nx/LoveIsAllMU_Cover_AlbumCoach.tga.ckd/6f7f3e473d059f923ac5b7f4135ac7d1.ckd",
+      "cover_smallImageUrl": "/public/map/LoveIsAllMU/nx/LoveIsAllMU_Cover_Online.tga.ckd/13a0c6be2c3357689b626639168fd3fc.ckd",
+      "coverImageUrl": "/public/map/LoveIsAllMU/nx/LoveIsAllMU_Cover_Generic.tga.ckd/3f0c08b5553b239527c28617c5395016.ckd",
+      "coach1ImageUrl": "/public/map/LoveIsAllMU/nx/LoveIsAllMU_Coach_1.tga.ckd/adef5b4bf5e58d303acd2865058a21b2.ckd",
+      "coach2ImageUrl": "/public/map/LoveIsAllMU/nx/LoveIsAllMU_Coach_2.tga.ckd/1ebce016eeb0e66101f827a540431f93.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LoveIsAllMU/pc/LoveIsAllMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/LoveIsAllMU/pc/LoveIsAllMU_map_bkg.tga.ckd/49f3010cec026ac268a71708d8d058e4.ckd",
+      "expandCoachImageUrl": "/public/map/LoveIsAllMU/pc/LoveIsAllMU_Cover_AlbumCoach.tga.ckd/8d8a208c45f6fde50d1d8e76bdddc85d.ckd",
+      "cover_smallImageUrl": "/public/map/LoveIsAllMU/pc/LoveIsAllMU_Cover_Online.tga.ckd/c99fb44464253e95cf3e7fe695dbd149.ckd",
+      "coverImageUrl": "/public/map/LoveIsAllMU/pc/LoveIsAllMU_Cover_Generic.tga.ckd/26dc7f2d731413ca25aae76ee95b0ff2.ckd",
+      "coach1ImageUrl": "/public/map/LoveIsAllMU/pc/LoveIsAllMU_Coach_1.tga.ckd/0809e48ed9142b8ab07fa3d77fd5f4da.ckd",
+      "coach2ImageUrl": "/public/map/LoveIsAllMU/pc/LoveIsAllMU_Coach_2.tga.ckd/ebf35eb57aade971386e3087194c4801.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LoveIsAllMU/orbis/LoveIsAllMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/LoveIsAllMU/orbis/LoveIsAllMU_map_bkg.tga.ckd/49f3010cec026ac268a71708d8d058e4.ckd",
+      "expandCoachImageUrl": "/public/map/LoveIsAllMU/orbis/LoveIsAllMU_Cover_AlbumCoach.tga.ckd/8d8a208c45f6fde50d1d8e76bdddc85d.ckd",
+      "cover_smallImageUrl": "/public/map/LoveIsAllMU/orbis/LoveIsAllMU_Cover_Online.tga.ckd/c99fb44464253e95cf3e7fe695dbd149.ckd",
+      "coverImageUrl": "/public/map/LoveIsAllMU/orbis/LoveIsAllMU_Cover_Generic.tga.ckd/26dc7f2d731413ca25aae76ee95b0ff2.ckd",
+      "coach1ImageUrl": "/public/map/LoveIsAllMU/orbis/LoveIsAllMU_Coach_1.tga.ckd/0809e48ed9142b8ab07fa3d77fd5f4da.ckd",
+      "coach2ImageUrl": "/public/map/LoveIsAllMU/orbis/LoveIsAllMU_Coach_2.tga.ckd/ebf35eb57aade971386e3087194c4801.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LoveIsAllMU/LoveIsAllMU_Coach_1_Phone.png/682853881f236bf17231b6a2ac42f2cb.png",
+    "phoneCoach2ImageUrl": "/public/map/LoveIsAllMU/LoveIsAllMU_Coach_2_Phone.png/b8e2c012dc2c2ed9e5435f2ee52d1155.png",
+    "phoneCoverImageUrl": "/public/map/LoveIsAllMU/LoveIsAllMU_Cover_Phone.jpg/73570fd0015fee217df054bcde6360f2.jpg",
+    "cover640ImageUrl": "/public/map/LoveIsAllMU/LoveIsAllMU_Cover_640.png/7bba44d79d4b84776fbfd8bf184423e9.png"
+  },
+  "mapLength": 185.876146
+}

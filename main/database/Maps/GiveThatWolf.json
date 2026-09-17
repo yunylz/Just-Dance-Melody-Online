@@ -1,0 +1,180 @@
+{
+  "urls": {
+    "jmcs://jd-contents/GiveThatWolf/GiveThatWolf.ogg": "/private/map/GiveThatWolf/GiveThatWolf.ogg/4a2350306b9b0cb9cfaf5b959d3be08e.ogg",
+    "jmcs://jd-contents/GiveThatWolf/GiveThatWolf_AudioPreview.ogg": "/public/map/GiveThatWolf/GiveThatWolf_AudioPreview.ogg/0666219a3ea05ef8f67b961358e51d46.ogg",
+    "jmcs://jd-contents/GiveThatWolf/GiveThatWolf_HIGH.hd.webm": "/private/map/GiveThatWolf/GiveThatWolf_HIGH.hd.webm/4fcf1b3470ffafb2385108ad8b13244d.webm",
+    "jmcs://jd-contents/GiveThatWolf/GiveThatWolf_LOW.hd.webm": "/private/map/GiveThatWolf/GiveThatWolf_LOW.hd.webm/abefefd5d8a53c8bb8760c2f512adbc6.webm",
+    "jmcs://jd-contents/GiveThatWolf/GiveThatWolf_MID.hd.webm": "/private/map/GiveThatWolf/GiveThatWolf_MID.hd.webm/98ef70affd0cfb40336266a7e9c2fa3a.webm",
+    "jmcs://jd-contents/GiveThatWolf/GiveThatWolf_ULTRA.hd.webm": "/private/map/GiveThatWolf/GiveThatWolf_ULTRA.hd.webm/d9d70b4bf4cce0587e4f85e794552415.webm",
+    "jmcs://jd-contents/GiveThatWolf/GiveThatWolf_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GiveThatWolf/GiveThatWolf_MapPreviewNoSoundCrop_LOW.vp8.webm/0f47dbd829a5560da3457f61c50bb05f.webm",
+    "jmcs://jd-contents/GiveThatWolf/GiveThatWolf_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GiveThatWolf/GiveThatWolf_MapPreviewNoSoundCrop_MID.vp8.webm/6efe358a100278d4773124e6d975000e.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23226,
+        46452,
+        69677,
+        92903,
+        116129,
+        139355,
+        162581,
+        185806,
+        209032,
+        232258,
+        255484,
+        278710,
+        301935,
+        325161,
+        348387,
+        371613,
+        394839,
+        418065,
+        441290,
+        464516,
+        487742,
+        510968,
+        534194,
+        557419,
+        580645,
+        603871,
+        627097,
+        650323,
+        673548,
+        696774,
+        720000,
+        743226,
+        766452,
+        789677,
+        812903,
+        836129,
+        859355,
+        882581,
+        905806,
+        929032,
+        952258,
+        975484,
+        998710,
+        1021935,
+        1045161,
+        1068387,
+        1091613,
+        1114839,
+        1138065,
+        1161290,
+        1184516,
+        1207742,
+        1230968,
+        1254194,
+        1277419,
+        1300645,
+        1323871,
+        1347097,
+        1370323,
+        1393548,
+        1416774,
+        1440000,
+        1463226,
+        1486452
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -25,
+      "endBeat": 365,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GiveThatWolf/GiveThatWolf_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"599466\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiveThatWolf/GiveThatWolf_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2033294\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiveThatWolf/GiveThatWolf_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "936c724253dc5e799106984c6931dfdf",
+      "storageType": 0,
+      "url": "/public/map/GiveThatWolf/nx/GiveThatWolf_MAIN_SCENE_NX.zip/936c724253dc5e799106984c6931dfdf.zip"
+    },
+    "pc": {
+      "md5": "4d54469b2f03b326cb77a9dcce1f86c6",
+      "storageType": 0,
+      "url": "/public/map/GiveThatWolf/pc/GiveThatWolf_MAIN_SCENE_PC.zip/4d54469b2f03b326cb77a9dcce1f86c6.zip"
+    },
+    "ps4": {
+      "md5": "18d7a0061038aab679bf5d5852d117e0",
+      "storageType": 0,
+      "url": "/public/map/GiveThatWolf/orbis/GiveThatWolf_MAIN_SCENE_ORBIS.zip/18d7a0061038aab679bf5d5852d117e0.zip"
+    }
+  },
+  "data": {
+    "mapName": "GiveThatWolf",
+    "title": "Give That Wolf A Banana",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Subwoolfer",
+    "credits": "Written by Keith, Ben Adams, Gaute Ormåsen, Carl Henrik Wahl. Published by BMG Platinum Songs US (BMI) / Artic Rights Norway, TONO, The Woods.  Courtesy of Universal Music Norway under license from Universal Music Enterprises.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#1a11df",
+    "songColor2A": "#e7930e",
+    "songColor1B": "#120944",
+    "songColor2B": "#6e300a",
+    "lyricsColor": "#d84eb2",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GiveThatWolf/nx/GiveThatWolf_banner_bkg.tga.ckd/d56b19f0a8cb5395cceccf6f55ba6f0f.ckd",
+      "map_bkgImageUrl": "/public/map/GiveThatWolf/nx/GiveThatWolf_map_bkg.tga.ckd/0ca74d4a7c811d1292c55b56a42a6def.ckd",
+      "expandCoachImageUrl": "/public/map/GiveThatWolf/nx/GiveThatWolf_Cover_AlbumCoach.tga.ckd/e376fcc880033c9245da74f4448ca615.ckd",
+      "cover_smallImageUrl": "/public/map/GiveThatWolf/nx/GiveThatWolf_Cover_Online.tga.ckd/84cadcf09fc2191ee614aef43b35bb3c.ckd",
+      "coverImageUrl": "/public/map/GiveThatWolf/nx/GiveThatWolf_Cover_Generic.tga.ckd/d14675cebf23279ea37cb0cf477841ec.ckd",
+      "coach1ImageUrl": "/public/map/GiveThatWolf/nx/GiveThatWolf_Coach_1.tga.ckd/217337ad15d37c89e754e300183ea9c9.ckd",
+      "coach2ImageUrl": "/public/map/GiveThatWolf/nx/GiveThatWolf_Coach_2.tga.ckd/7e7f62e0f813b4a768ac16cfec6187f3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GiveThatWolf/pc/GiveThatWolf_banner_bkg.tga.ckd/3a4f2dcfa5c5e97f224b69de43671beb.ckd",
+      "map_bkgImageUrl": "/public/map/GiveThatWolf/pc/GiveThatWolf_map_bkg.tga.ckd/40697c7773bdec3813f3c3c813b37050.ckd",
+      "expandCoachImageUrl": "/public/map/GiveThatWolf/pc/GiveThatWolf_Cover_AlbumCoach.tga.ckd/5f0aa78a43ff1a976db32c203597ade5.ckd",
+      "cover_smallImageUrl": "/public/map/GiveThatWolf/pc/GiveThatWolf_Cover_Online.tga.ckd/598b3c3b0fe19276264095485ed14df2.ckd",
+      "coverImageUrl": "/public/map/GiveThatWolf/pc/GiveThatWolf_Cover_Generic.tga.ckd/e764d96048ac56d2e084edeb2b028764.ckd",
+      "coach1ImageUrl": "/public/map/GiveThatWolf/pc/GiveThatWolf_Coach_1.tga.ckd/ceb7a4f7dd80b9f620cb9759f4e1d981.ckd",
+      "coach2ImageUrl": "/public/map/GiveThatWolf/pc/GiveThatWolf_Coach_2.tga.ckd/363ee81728bd2ed64cd962f2b2186448.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GiveThatWolf/orbis/GiveThatWolf_banner_bkg.tga.ckd/3a4f2dcfa5c5e97f224b69de43671beb.ckd",
+      "map_bkgImageUrl": "/public/map/GiveThatWolf/orbis/GiveThatWolf_map_bkg.tga.ckd/40697c7773bdec3813f3c3c813b37050.ckd",
+      "expandCoachImageUrl": "/public/map/GiveThatWolf/orbis/GiveThatWolf_Cover_AlbumCoach.tga.ckd/5f0aa78a43ff1a976db32c203597ade5.ckd",
+      "cover_smallImageUrl": "/public/map/GiveThatWolf/orbis/GiveThatWolf_Cover_Online.tga.ckd/598b3c3b0fe19276264095485ed14df2.ckd",
+      "coverImageUrl": "/public/map/GiveThatWolf/orbis/GiveThatWolf_Cover_Generic.tga.ckd/e764d96048ac56d2e084edeb2b028764.ckd",
+      "coach1ImageUrl": "/public/map/GiveThatWolf/orbis/GiveThatWolf_Coach_1.tga.ckd/ceb7a4f7dd80b9f620cb9759f4e1d981.ckd",
+      "coach2ImageUrl": "/public/map/GiveThatWolf/orbis/GiveThatWolf_Coach_2.tga.ckd/363ee81728bd2ed64cd962f2b2186448.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GiveThatWolf/GiveThatWolf_Coach_1_Phone.png/2b4cdfd85d6243ecd1dddf1a543264c2.png",
+    "phoneCoach2ImageUrl": "/public/map/GiveThatWolf/GiveThatWolf_Coach_2_Phone.png/15f1e18961fded747e349a6aa45bcdb2.png",
+    "phoneCoverImageUrl": "/public/map/GiveThatWolf/GiveThatWolf_Cover_Phone.jpg/b939bf946fc0c734739c2604cfe319da.jpg",
+    "cover640ImageUrl": "/public/map/GiveThatWolf/GiveThatWolf_Cover_640.png/374561353d48da80f47045ddcc3b800b.png"
+  },
+  "mapLength": 188.705
+}

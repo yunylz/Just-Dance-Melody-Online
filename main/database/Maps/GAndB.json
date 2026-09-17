@@ -1,0 +1,166 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e6f7cab3062fe60ff9ccea859dc7c6e9",
+      "storageType": 0,
+      "url": "/public/map/GAndB/nx/GAndB_MAIN_SCENE_NX.zip/e6f7cab3062fe60ff9ccea859dc7c6e9.zip"
+    },
+    "pc": {
+      "md5": "82463be6fb623e3ca7a39f25bc3662ef",
+      "storageType": 0,
+      "url": "/public/map/GAndB/pc/GAndB_MAIN_SCENE_PC.zip/82463be6fb623e3ca7a39f25bc3662ef.zip"
+    },
+    "ps4": {
+      "md5": "da55e794ed3e8332d641e186f49229b0",
+      "storageType": 0,
+      "url": "/public/map/GAndB/orbis/GAndB_MAIN_SCENE_ORBIS.zip/da55e794ed3e8332d641e186f49229b0.zip"
+    }
+  },
+  "data": {
+    "mapName": "GAndB",
+    "title": "Girls And Boys",
+    "originalJDVersion": 1,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Blur",
+    "credits": "Written by Damon Albarn, Graham Coxon, Steven James and David Rowntree. Published by EMI Blackwood Music Inc. (BMI). All Rights Reserved. Used by Permission. Courtesy of EMI Records Ltd. Under license from EMI & Television Music.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#46e092",
+    "songColor2A": "#f9c33f",
+    "songColor1B": "#013635",
+    "songColor2B": "#d96824",
+    "lyricsColor": "#ff56eb"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        431712,
+        455712,
+        479712,
+        503712,
+        527712,
+        551712,
+        575712,
+        599712,
+        623712,
+        647712,
+        671712,
+        695712,
+        719712,
+        743712,
+        767712,
+        791712,
+        815712,
+        839712,
+        863712,
+        887712,
+        911712,
+        935712,
+        959712,
+        983712,
+        1007712,
+        1031712,
+        1055712,
+        1079712,
+        1103712,
+        1127712,
+        1151712,
+        1175712,
+        1199712,
+        1223424,
+        1247424,
+        1271424,
+        1295424,
+        1319424,
+        1343424,
+        1367424,
+        1391424,
+        1415424,
+        1439424
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 504,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GAndB/GAndB_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GAndB/nx/GAndB_banner_bkg.tga.ckd/85e57f53dfba966256e46939c2708046.ckd",
+      "map_bkgImageUrl": "/public/map/GAndB/nx/GAndB_map_bkg.tga.ckd/23ea58ecff6071ae5a6d7a5ca6adf9c1.ckd",
+      "expandCoachImageUrl": "/public/map/GAndB/nx/GAndB_Cover_AlbumCoach.tga.ckd/67f932f54487c54daaa5e2bec6835ecd.ckd",
+      "cover_smallImageUrl": "/public/map/GAndB/nx/GAndB_Cover_Online.tga.ckd/ac62d77584364804abe5b596de04da9a.ckd",
+      "coverImageUrl": "/public/map/GAndB/nx/GAndB_Cover_Generic.tga.ckd/cb9074b341d7415f139c386e5e6d828f.ckd",
+      "coach1ImageUrl": "/public/map/GAndB/nx/GAndB_Coach_1.tga.ckd/698e92b47921a52f61ea478e0e10b7ba.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GAndB/pc/GAndB_banner_bkg.tga.ckd/9443a17d2ede070524f868a5fdf6ee95.ckd",
+      "map_bkgImageUrl": "/public/map/GAndB/pc/GAndB_map_bkg.tga.ckd/fe87acdab68a1cb06decd34ff5fb2824.ckd",
+      "expandCoachImageUrl": "/public/map/GAndB/pc/GAndB_Cover_AlbumCoach.tga.ckd/e9d67426bc864158845d16c99d761148.ckd",
+      "cover_smallImageUrl": "/public/map/GAndB/pc/GAndB_Cover_Online.tga.ckd/c23d21f52a3a1d1c3a505ed3e1771d20.ckd",
+      "coverImageUrl": "/public/map/GAndB/pc/GAndB_Cover_Generic.tga.ckd/1fe48f594d8eb38e528a4e93b48e3ecb.ckd",
+      "coach1ImageUrl": "/public/map/GAndB/pc/GAndB_Coach_1.tga.ckd/11976e373f03006b1e7a6b532c2fb62d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GAndB/orbis/GAndB_banner_bkg.tga.ckd/9443a17d2ede070524f868a5fdf6ee95.ckd",
+      "map_bkgImageUrl": "/public/map/GAndB/orbis/GAndB_map_bkg.tga.ckd/fe87acdab68a1cb06decd34ff5fb2824.ckd",
+      "expandCoachImageUrl": "/public/map/GAndB/orbis/GAndB_Cover_AlbumCoach.tga.ckd/e9d67426bc864158845d16c99d761148.ckd",
+      "cover_smallImageUrl": "/public/map/GAndB/orbis/GAndB_Cover_Online.tga.ckd/c23d21f52a3a1d1c3a505ed3e1771d20.ckd",
+      "coverImageUrl": "/public/map/GAndB/orbis/GAndB_Cover_Generic.tga.ckd/1fe48f594d8eb38e528a4e93b48e3ecb.ckd",
+      "coach1ImageUrl": "/public/map/GAndB/orbis/GAndB_Coach_1.tga.ckd/11976e373f03006b1e7a6b532c2fb62d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GAndB/GAndB_Coach_1_Phone.png/85a8516a122c606c02ff24db022d3e14.png",
+    "phoneCoverImageUrl": "/public/map/GAndB/GAndB_Cover_Phone.jpg/bc2ea70dafa7dc09b8c1dc11ee24090f.jpg",
+    "cover640ImageUrl": "/public/map/GAndB/GAndB_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GAndB/GAndB.ogg": "/private/map/GAndB/GAndB.ogg/293ddafaaddef6c8d89ad97766cc66fb.ogg",
+    "jmcs://jd-contents/GAndB/GAndB_AudioPreview.ogg": "/public/map/GAndB/GAndB_AudioPreview.ogg/b0090b6296b506ac64b1077602827b58.ogg",
+    "jmcs://jd-contents/GAndB/GAndB_HIGH.webm": "/private/map/GAndB/GAndB_HIGH.webm/5db7f72af78e26e518c2af5f21e7e3cb.webm",
+    "jmcs://jd-contents/GAndB/GAndB_LOW.webm": "/private/map/GAndB/GAndB_LOW.webm/d2749a8cc142e634ac5957a2b410f2d1.webm",
+    "jmcs://jd-contents/GAndB/GAndB_MID.webm": "/private/map/GAndB/GAndB_MID.webm/8d9a2945e372f59833b68d503b3465fd.webm",
+    "jmcs://jd-contents/GAndB/GAndB_ULTRA.hd.webm": "/private/map/GAndB/GAndB_ULTRA.hd.webm/c476077cff4734229750dcf7cef5968d.webm",
+    "jmcs://jd-contents/GAndB/GAndB_ULTRA.webm": "/private/map/GAndB/GAndB_ULTRA.webm/3a72803b35af458d2788c077a5cc448d.webm",
+    "jmcs://jd-contents/GAndB/GAndB_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GAndB/GAndB_MapPreviewNoSoundCrop_LOW.vp8.webm/8e2ba0225747e42dce2f77d515901d5a.webm",
+    "jmcs://jd-contents/GAndB/GAndB_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GAndB/GAndB_MapPreviewNoSoundCrop_MID.vp8.webm/7c537ab844a4e162b9f0286eee8c27d7.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"522387\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GAndB/GAndB_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"592-1082\">\n\t\t\t\t\t<Initialization range=\"0-592\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1498142\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GAndB/GAndB_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\n\t\t\t\t\t<Initialization range=\"0-593\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 252.04
+}

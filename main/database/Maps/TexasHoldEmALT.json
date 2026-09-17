@@ -1,0 +1,169 @@
+{
+  "urls": {
+    "jmcs://jd-contents/TexasHoldEmALT/TexasHoldEmALT.ogg": "/private/map/TexasHoldEmALT/TexasHoldEmALT.ogg/82b9f3fb82a1c674df342831ddabd73a.ogg",
+    "jmcs://jd-contents/TexasHoldEmALT/TexasHoldEmALT_AudioPreview.ogg": "/public/map/TexasHoldEmALT/TexasHoldEmALT_AudioPreview.ogg/ba153124204a2ace2cfd8875e2c0c86b.ogg",
+    "jmcs://jd-contents/TexasHoldEmALT/TexasHoldEmALT_HIGH.hd.webm": "/private/map/TexasHoldEmALT/TexasHoldEmALT_HIGH.hd.webm/c9963e95c72a0fa6891755913f391072.webm",
+    "jmcs://jd-contents/TexasHoldEmALT/TexasHoldEmALT_LOW.hd.webm": "/private/map/TexasHoldEmALT/TexasHoldEmALT_LOW.hd.webm/c42e0ece42660d03110747bf0d520f8c.webm",
+    "jmcs://jd-contents/TexasHoldEmALT/TexasHoldEmALT_MID.hd.webm": "/private/map/TexasHoldEmALT/TexasHoldEmALT_MID.hd.webm/57527425f70a5707fa0db82ebc77ce2c.webm",
+    "jmcs://jd-contents/TexasHoldEmALT/TexasHoldEmALT_ULTRA.hd.webm": "/private/map/TexasHoldEmALT/TexasHoldEmALT_ULTRA.hd.webm/5ae40523038ed6f365889b4c617a89e6.webm",
+    "jmcs://jd-contents/TexasHoldEmALT/TexasHoldEmALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TexasHoldEmALT/TexasHoldEmALT_MapPreviewNoSoundCrop_LOW.vp8.webm/9e9bf97ec238aa91ff1adaf1b3952b52.webm",
+    "jmcs://jd-contents/TexasHoldEmALT/TexasHoldEmALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TexasHoldEmALT/TexasHoldEmALT_MapPreviewNoSoundCrop_MID.vp8.webm/58ceea096b7f072c0e48ea1fd4a85052.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26182,
+        52364,
+        78545,
+        104727,
+        130909,
+        157091,
+        183273,
+        209455,
+        235636,
+        261818,
+        288000,
+        314182,
+        340364,
+        366545,
+        392727,
+        418909,
+        445091,
+        471273,
+        497455,
+        523636,
+        549818,
+        576000,
+        602182,
+        628364,
+        654545,
+        680727,
+        706909,
+        733091,
+        759273,
+        785455,
+        811636,
+        837818,
+        864000,
+        890182,
+        916364,
+        942545,
+        968727,
+        994909,
+        1021091,
+        1047273,
+        1073455,
+        1099636,
+        1125818,
+        1152000,
+        1178182,
+        1204364,
+        1230545,
+        1256727,
+        1282909,
+        1309091,
+        1335273,
+        1361455,
+        1387636,
+        1413818,
+        1440000,
+        1466182,
+        1492364
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -14,
+      "endBeat": 432,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TexasHoldEmALT/TexasHoldEmALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"580180\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TexasHoldEmALT/TexasHoldEmALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1990222\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TexasHoldEmALT/TexasHoldEmALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "23704dbb0e76a7db9e3a4820b282ec6e",
+      "storageType": 0,
+      "url": "/public/map/TexasHoldEmALT/nx/TexasHoldEmALT_MAIN_SCENE_NX.zip/23704dbb0e76a7db9e3a4820b282ec6e.zip"
+    },
+    "pc": {
+      "md5": "c3c95af47e3ed3f16742a394468250db",
+      "storageType": 0,
+      "url": "/public/map/TexasHoldEmALT/pc/TexasHoldEmALT_MAIN_SCENE_PC.zip/c3c95af47e3ed3f16742a394468250db.zip"
+    },
+    "ps4": {
+      "md5": "f6ef431de538f4a66598e064d060907c",
+      "storageType": 0,
+      "url": "/public/map/TexasHoldEmALT/orbis/TexasHoldEmALT_MAIN_SCENE_ORBIS.zip/f6ef431de538f4a66598e064d060907c.zip"
+    }
+  },
+  "data": {
+    "mapName": "TexasHoldEmALT",
+    "title": "TEXAS HOLD 'EM",
+    "originalJDVersion": 2026,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "Beyoncé",
+    "credits": "EMPTY",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#ffff00",
+    "LocaleID": 20003382
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TexasHoldEmALT/nx/TexasHoldEmALT_banner_bkg.tga.ckd/b4842516141acbfe22f994fa690c12d6.ckd",
+      "map_bkgImageUrl": "/public/map/TexasHoldEmALT/nx/TexasHoldEmALT_map_bkg.tga.ckd/f6a8e4428d1161089cfbe605ea665b8e.ckd",
+      "expandCoachImageUrl": "/public/map/TexasHoldEmALT/nx/TexasHoldEmALT_Cover_AlbumCoach.tga.ckd/2303e634c13c5f90286fc63dc91ba92c.ckd",
+      "cover_smallImageUrl": "/public/map/TexasHoldEmALT/nx/TexasHoldEmALT_Cover_Online.tga.ckd/b6c3c1a4d729fa874062482d2fc2b378.ckd",
+      "coverImageUrl": "/public/map/TexasHoldEmALT/nx/TexasHoldEmALT_Cover_Generic.tga.ckd/78bb8f66cbbafae4bab12e1f79a876ce.ckd",
+      "coach1ImageUrl": "/public/map/TexasHoldEmALT/nx/TexasHoldEmALT_Coach_1.tga.ckd/d45bf7a0744cce3e02497f1339850a5c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TexasHoldEmALT/pc/TexasHoldEmALT_banner_bkg.tga.ckd/efbb4f5d226efff208dc1ac650b2eccc.ckd",
+      "map_bkgImageUrl": "/public/map/TexasHoldEmALT/pc/TexasHoldEmALT_map_bkg.tga.ckd/5f6cf9b7ed02fd83a079d5196ef93418.ckd",
+      "expandCoachImageUrl": "/public/map/TexasHoldEmALT/pc/TexasHoldEmALT_Cover_AlbumCoach.tga.ckd/b8c649e18ed6bb41c028cbe80efb7ca9.ckd",
+      "cover_smallImageUrl": "/public/map/TexasHoldEmALT/pc/TexasHoldEmALT_Cover_Online.tga.ckd/cdfa31ec9bb4a90e38bf9641dc38c08f.ckd",
+      "coverImageUrl": "/public/map/TexasHoldEmALT/pc/TexasHoldEmALT_Cover_Generic.tga.ckd/8b65e4fb6452f74add45bf8a956b9bb7.ckd",
+      "coach1ImageUrl": "/public/map/TexasHoldEmALT/pc/TexasHoldEmALT_Coach_1.tga.ckd/0623baeef03a676220e2a9ba8a52791f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TexasHoldEmALT/orbis/TexasHoldEmALT_banner_bkg.tga.ckd/efbb4f5d226efff208dc1ac650b2eccc.ckd",
+      "map_bkgImageUrl": "/public/map/TexasHoldEmALT/orbis/TexasHoldEmALT_map_bkg.tga.ckd/5f6cf9b7ed02fd83a079d5196ef93418.ckd",
+      "expandCoachImageUrl": "/public/map/TexasHoldEmALT/orbis/TexasHoldEmALT_Cover_AlbumCoach.tga.ckd/b8c649e18ed6bb41c028cbe80efb7ca9.ckd",
+      "cover_smallImageUrl": "/public/map/TexasHoldEmALT/orbis/TexasHoldEmALT_Cover_Online.tga.ckd/cdfa31ec9bb4a90e38bf9641dc38c08f.ckd",
+      "coverImageUrl": "/public/map/TexasHoldEmALT/orbis/TexasHoldEmALT_Cover_Generic.tga.ckd/8b65e4fb6452f74add45bf8a956b9bb7.ckd",
+      "coach1ImageUrl": "/public/map/TexasHoldEmALT/orbis/TexasHoldEmALT_Coach_1.tga.ckd/0623baeef03a676220e2a9ba8a52791f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TexasHoldEmALT/TexasHoldEmALT_Coach_1_Phone.png/0809a2c97f88251387982ca390877034.png",
+    "phoneCoverImageUrl": "/public/map/TexasHoldEmALT/TexasHoldEmALT_Cover_Phone.jpg/7b62c76324bed2618d5fdb84dd142c5d.jpg",
+    "cover640ImageUrl": "/public/map/TexasHoldEmALT/TexasHoldEmALT_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 241.098042
+}

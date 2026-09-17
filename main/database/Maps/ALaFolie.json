@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "44357c485707a6220641f1cfeb1f08e9",
+      "storageType": 0,
+      "url": "/public/map/ALaFolie/nx/ALaFolie_MAIN_SCENE_NX.zip/44357c485707a6220641f1cfeb1f08e9.zip"
+    },
+    "pc": {
+      "md5": "b1cec21655bf3efa4b00445917afa306",
+      "storageType": 0,
+      "url": "/public/map/ALaFolie/pc/ALaFolie_MAIN_SCENE_PC.zip/b1cec21655bf3efa4b00445917afa306.zip"
+    },
+    "ps4": {
+      "md5": "7b7a6c6e8f185f0fb57d29a6530b44ec",
+      "storageType": 0,
+      "url": "/public/map/ALaFolie/orbis/ALaFolie_MAIN_SCENE_ORBIS.zip/7b7a6c6e8f185f0fb57d29a6530b44ec.zip"
+    }
+  },
+  "data": {
+    "mapName": "ALaFolie",
+    "title": "A La Folie",
+    "originalJDVersion": 9999,
+    "tags": [
+      "main"
+    ],
+    "artist": "Julien Granel & Lena Situations",
+    "credits": "Written by Julien Granel. Published by Wagram Publishing / Miura Publishing. Courtesy of Cinq7/Wagram Music.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#53f5ef",
+    "songColor2A": "#ecd274",
+    "songColor1B": "#0d4d9b",
+    "songColor2B": "#e45f7b",
+    "lyricsColor": "#e6429b"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23415,
+        46829,
+        70244,
+        93659,
+        117073,
+        140488,
+        163902,
+        187317,
+        210732,
+        234146,
+        257561,
+        280976,
+        304390,
+        327805,
+        351220,
+        374634,
+        398049,
+        421463,
+        444878,
+        468293,
+        491707,
+        515122,
+        538537,
+        561951,
+        585366,
+        608780,
+        632195,
+        655610,
+        679024,
+        702439,
+        725854,
+        749268,
+        772683,
+        796098,
+        819512,
+        842927,
+        866341,
+        889756,
+        913171,
+        936585,
+        960000,
+        983415,
+        1006829,
+        1030244,
+        1053659,
+        1077073,
+        1100488,
+        1123902,
+        1147317,
+        1170732,
+        1194146,
+        1217561,
+        1240976,
+        1264390,
+        1287805,
+        1311220,
+        1334634,
+        1358049,
+        1381463,
+        1404878,
+        1428293,
+        1451707,
+        1475122
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 429,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ALaFolie/ALaFolie_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ALaFolie/nx/ALaFolie_banner_bkg.tga.ckd/a78e9a1cd1f74cf6e47d8daff75cdd34.ckd",
+      "map_bkgImageUrl": "/public/map/ALaFolie/nx/ALaFolie_map_bkg.tga.ckd/e840b6d22057a5f33a69715b5b54f423.ckd",
+      "expandCoachImageUrl": "/public/map/ALaFolie/nx/ALaFolie_Cover_AlbumCoach.tga.ckd/724cf9c934c4ba824f6459e37621234e.ckd",
+      "cover_smallImageUrl": "/public/map/ALaFolie/nx/ALaFolie_Cover_Online.tga.ckd/78009362869e6d1e51e11ca7dfbabf05.ckd",
+      "coverImageUrl": "/public/map/ALaFolie/nx/ALaFolie_Cover_Generic.tga.ckd/6f2d6bd334cc59a2fbba7a49284d9c5c.ckd",
+      "coach1ImageUrl": "/public/map/ALaFolie/nx/ALaFolie_Coach_1.tga.ckd/1b7a8cadea20b6077ed88b55d55f0659.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ALaFolie/pc/ALaFolie_banner_bkg.tga.ckd/078f61321561b76c881cf074ecfb0e6e.ckd",
+      "map_bkgImageUrl": "/public/map/ALaFolie/pc/ALaFolie_map_bkg.tga.ckd/7b9d8d7804c493417aef36a878598fb9.ckd",
+      "expandCoachImageUrl": "/public/map/ALaFolie/pc/ALaFolie_Cover_AlbumCoach.tga.ckd/77a1f95adbc1a106047bcd6a4ef21eba.ckd",
+      "cover_smallImageUrl": "/public/map/ALaFolie/pc/ALaFolie_Cover_Online.tga.ckd/c80c60e9110f2ec17611712082b7f66d.ckd",
+      "coverImageUrl": "/public/map/ALaFolie/pc/ALaFolie_Cover_Generic.tga.ckd/e3595929da0ac27f3ad132627479c009.ckd",
+      "coach1ImageUrl": "/public/map/ALaFolie/pc/ALaFolie_Coach_1.tga.ckd/9ab88558d8c282567e0095beea3f58de.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ALaFolie/orbis/ALaFolie_banner_bkg.tga.ckd/078f61321561b76c881cf074ecfb0e6e.ckd",
+      "map_bkgImageUrl": "/public/map/ALaFolie/orbis/ALaFolie_map_bkg.tga.ckd/7b9d8d7804c493417aef36a878598fb9.ckd",
+      "expandCoachImageUrl": "/public/map/ALaFolie/orbis/ALaFolie_Cover_AlbumCoach.tga.ckd/77a1f95adbc1a106047bcd6a4ef21eba.ckd",
+      "cover_smallImageUrl": "/public/map/ALaFolie/orbis/ALaFolie_Cover_Online.tga.ckd/c80c60e9110f2ec17611712082b7f66d.ckd",
+      "coverImageUrl": "/public/map/ALaFolie/orbis/ALaFolie_Cover_Generic.tga.ckd/e3595929da0ac27f3ad132627479c009.ckd",
+      "coach1ImageUrl": "/public/map/ALaFolie/orbis/ALaFolie_Coach_1.tga.ckd/9ab88558d8c282567e0095beea3f58de.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ALaFolie/ALaFolie_Coach_1_Phone.png/f15fefc513e615cb248e703a59b69951.png",
+    "phoneCoverImageUrl": "/public/map/ALaFolie/ALaFolie_Cover_Phone.jpg/cd4126505592f5adb07d0d4240ab03f4.jpg",
+    "cover640ImageUrl": "/public/map/ALaFolie/ALaFolie_Cover_640.png/f510a53b8ebf74564a8c54e11369d4ac.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ALaFolie/ALaFolie_HIGH.webm": "/private/map/ALaFolie/ALaFolie_HIGH.webm/5d4192dce74648910e9c793a17bd3bda.webm",
+    "jmcs://jd-contents/ALaFolie/ALaFolie_LOW.webm": "/private/map/ALaFolie/ALaFolie_LOW.webm/a7ec3a12ef39344b3b740548b84fa6c8.webm",
+    "jmcs://jd-contents/ALaFolie/ALaFolie_MID.webm": "/private/map/ALaFolie/ALaFolie_MID.webm/bac2160e50dbecbde8f20ecc546e7149.webm",
+    "jmcs://jd-contents/ALaFolie/ALaFolie_ULTRA.hd.webm": "/private/map/ALaFolie/ALaFolie_ULTRA.hd.webm/1eac763305a1bfa20e217d1f63fedd3c.webm",
+    "jmcs://jd-contents/ALaFolie/ALaFolie_ULTRA.webm": "/private/map/ALaFolie/ALaFolie_ULTRA.webm/c2f5872e717e5342fdb9e055ab65920b.webm",
+    "jmcs://jd-contents/ALaFolie/ALaFolie_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ALaFolie/ALaFolie_MapPreviewNoSoundCrop_LOW.vp8.webm/39cca8c27b7776cc30734f9306534fd6.webm",
+    "jmcs://jd-contents/ALaFolie/ALaFolie.ogg": "/private/map/ALaFolie/ALaFolie.ogg/763f540583470ae168b4d2a211576094.ogg",
+    "jmcs://jd-contents/ALaFolie/ALaFolie_AudioPreview.ogg": "/public/map/ALaFolie/ALaFolie_AudioPreview.ogg/f994adc11472cd0d7c6d852f182f6d4e.ogg",
+    "jmcs://jd-contents/ALaFolie/ALaFolie_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ALaFolie/ALaFolie_MapPreviewNoSoundCrop_MID.vp8.webm/9b2062e86a33feeea1b008097573d155.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497237\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ALaFolie/ALaFolie_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"638-1127\">\n\t\t\t\t\t<Initialization range=\"0-638\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1486848\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ALaFolie/ALaFolie_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\n\t\t\t\t\t<Initialization range=\"0-639\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 225.470167
+}

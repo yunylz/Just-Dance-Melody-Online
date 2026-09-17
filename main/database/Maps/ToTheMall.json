@@ -1,0 +1,171 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "25265256a87a3735887f2fa3b3b4c53c",
+      "storageType": 0,
+      "url": "/public/map/ToTheMall/nx/ToTheMall_MAIN_SCENE_NX.zip/25265256a87a3735887f2fa3b3b4c53c.zip"
+    },
+    "pc": {
+      "md5": "4f2b8cf8b81f6ee24f485a2dc24f68e1",
+      "storageType": 0,
+      "url": "/public/map/ToTheMall/pc/ToTheMall_MAIN_SCENE_PC.zip/4f2b8cf8b81f6ee24f485a2dc24f68e1.zip"
+    },
+    "ps4": {
+      "md5": "788fc3ba308ec18fccf34354feaacbba",
+      "storageType": 0,
+      "url": "/public/map/ToTheMall/orbis/ToTheMall_MAIN_SCENE_ORBIS.zip/788fc3ba308ec18fccf34354feaacbba.zip"
+    }
+  },
+  "data": {
+    "mapName": "ToTheMall",
+    "title": "Let's Go To The Mall",
+    "originalJDVersion": 3,
+    "tags": [
+      "subscribedSong",
+      "JustDance3",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Robin Sparkles",
+    "credits": "Written by Carter Bays and Craig Thomas. Published by Fox Film Music Corp. (BMI). Courtesy of Twentieth Century Fox Film Corporation  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#750ea5",
+    "songColor2A": "#b91823",
+    "songColor1B": "#210349",
+    "songColor2B": "#35070a",
+    "lyricsColor": "#20f2af"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        99216,
+        123216,
+        147216,
+        171216,
+        195216,
+        219216,
+        243216,
+        267216,
+        291216,
+        315216,
+        339216,
+        363216,
+        387216,
+        411216,
+        435216,
+        459216,
+        483216,
+        507216,
+        531216,
+        555216,
+        579216,
+        603216,
+        627216,
+        651216,
+        675216,
+        699216,
+        723216,
+        747216,
+        771216,
+        795216,
+        819216,
+        843216,
+        867216,
+        891216,
+        915216,
+        939216,
+        963216,
+        987216,
+        1011216,
+        1035216,
+        1059216,
+        1083216,
+        1107216,
+        1131216,
+        1155216,
+        1179216,
+        1203216,
+        1227216,
+        1251216,
+        1275216,
+        1299216,
+        1323216,
+        1347216,
+        1371216,
+        1395216,
+        1419216,
+        1443216,
+        1467216,
+        1491216
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 390,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ToTheMall/ToTheMall_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ToTheMall/nx/ToTheMall_banner_bkg.tga.ckd/024255d78ca87b6ab32021dd07aa0755.ckd",
+      "map_bkgImageUrl": "/public/map/ToTheMall/nx/ToTheMall_map_bkg.tga.ckd/06c2d96394f572eb70e972dac89169a2.ckd",
+      "expandCoachImageUrl": "/public/map/ToTheMall/nx/ToTheMall_Cover_AlbumCoach.tga.ckd/e41a91986fa0a64e243fac2e02d8efef.ckd",
+      "cover_smallImageUrl": "/public/map/ToTheMall/nx/ToTheMall_Cover_Online.tga.ckd/8f3cebdcd2fdb6af03166c5fad1d4cec.ckd",
+      "coach1ImageUrl": "/public/map/ToTheMall/nx/ToTheMall_Coach_1.tga.ckd/04855bd259555dd3ca78894e0fbef83e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ToTheMall/pc/ToTheMall_banner_bkg.tga.ckd/36c7426328a1bd7f36cd086985a0db13.ckd",
+      "map_bkgImageUrl": "/public/map/ToTheMall/pc/ToTheMall_map_bkg.tga.ckd/b8d71390dd96fd111be7a789a81d95fd.ckd",
+      "expandCoachImageUrl": "/public/map/ToTheMall/pc/ToTheMall_Cover_AlbumCoach.tga.ckd/14160e443488abf641a122a690e04371.ckd",
+      "cover_smallImageUrl": "/public/map/ToTheMall/pc/ToTheMall_Cover_Online.tga.ckd/22461878659e84966884487a80a011dd.ckd",
+      "coach1ImageUrl": "/public/map/ToTheMall/pc/ToTheMall_Coach_1.tga.ckd/f805b4737f0ecea00113af99c0d8358c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ToTheMall/orbis/ToTheMall_banner_bkg.tga.ckd/36c7426328a1bd7f36cd086985a0db13.ckd",
+      "map_bkgImageUrl": "/public/map/ToTheMall/orbis/ToTheMall_map_bkg.tga.ckd/b8d71390dd96fd111be7a789a81d95fd.ckd",
+      "expandCoachImageUrl": "/public/map/ToTheMall/orbis/ToTheMall_Cover_AlbumCoach.tga.ckd/14160e443488abf641a122a690e04371.ckd",
+      "cover_smallImageUrl": "/public/map/ToTheMall/orbis/ToTheMall_Cover_Online.tga.ckd/22461878659e84966884487a80a011dd.ckd",
+      "coach1ImageUrl": "/public/map/ToTheMall/orbis/ToTheMall_Coach_1.tga.ckd/f805b4737f0ecea00113af99c0d8358c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ToTheMall/ToTheMall_Coach_1_Phone.png/d0cd8492b2e399c4b9a7015099458331.png",
+    "phoneCoverImageUrl": "/public/map/ToTheMall/ToTheMall_Cover_Phone.jpg/0f0f43461ee1aaf836ab877dd299353d.jpg",
+    "cover640ImageUrl": "/public/map/ToTheMall/ToTheMall_Cover_640.png/72a73f332e45857ce3755eabf661a0fb.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ToTheMall/ToTheMall.ogg": "/private/map/ToTheMall/ToTheMall.ogg/e67ce663985c7e2848af428161e32125.ogg",
+    "jmcs://jd-contents/ToTheMall/ToTheMall_AudioPreview.ogg": "/public/map/ToTheMall/ToTheMall_AudioPreview.ogg/b1bbd122c9d8fcc011369e28450900cd.ogg",
+    "jmcs://jd-contents/ToTheMall/ToTheMall_HIGH.webm": "/private/map/ToTheMall/ToTheMall_HIGH.webm/8d5ca64cc8df759ee10b07ece1d8fdb4.webm",
+    "jmcs://jd-contents/ToTheMall/ToTheMall_LOW.webm": "/private/map/ToTheMall/ToTheMall_LOW.webm/5e791c9f269de9d711d192b450b14e3d.webm",
+    "jmcs://jd-contents/ToTheMall/ToTheMall_MID.webm": "/private/map/ToTheMall/ToTheMall_MID.webm/4230f5d0471c2e1a5081cec9e3e2c98d.webm",
+    "jmcs://jd-contents/ToTheMall/ToTheMall_ULTRA.hd.webm": "/private/map/ToTheMall/ToTheMall_ULTRA.hd.webm/c5980334a02e90d78e554b26185f2963.webm",
+    "jmcs://jd-contents/ToTheMall/ToTheMall_ULTRA.webm": "/private/map/ToTheMall/ToTheMall_ULTRA.webm/1bb15e0bdfe96d1c344282f785611351.webm",
+    "jmcs://jd-contents/ToTheMall/ToTheMall_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ToTheMall/ToTheMall_MapPreviewNoSoundCrop_LOW.vp8.webm/bae0cb28e03853a7240004ea764ddf66.webm",
+    "jmcs://jd-contents/ToTheMall/ToTheMall_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ToTheMall/ToTheMall_MapPreviewNoSoundCrop_MID.vp8.webm/8de8462ceb6d6d5b417848ccfd2d0ca1.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500005\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ToTheMall/ToTheMall_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1495821\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ToTheMall/ToTheMall_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 197.376
+}

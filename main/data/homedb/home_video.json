@@ -1,0 +1,104 @@
+{
+	"__class" : "HomeService::HomeData",
+	"tileList" : [
+		{
+			"class" : "HomeService::HomeTile",
+			"type" : 3,
+			"creationTime" : 1613578222360,
+			"locked" : false,
+			"new" : true,
+			"lockDuration" : 0,
+			"contentExpiry" : 0,
+			"uuid" : "00000000-0000-0000-0000-000000000000",
+			"videoTileInfo" : {
+				"__class" : "HomeService::VideoTileInfo",
+				"type" : 1,
+				"streaming" : true,
+				"description" : "JDMO Release Trailer",
+				"videoDataUrl" : "https://jdmo-cdn.c0llydoll.com/public/streamed-videos/JDMO_Trailer_Release/metadata/29402e1cb2419c9c03ca030812c414f3.json",
+				"thumbnailUrl" : "https://jdmo-cdn.c0llydoll.com/public/streamed-videos/JDMO_Trailer_Release/cover/0a30b26a25db0b4590585290f1300eca.png",
+				"dancerPid" : "",
+				"dancerPlatform" : "",
+				"dancerName" : "",
+				"dancerNameSuffix" : 0,
+				"dancerCountry" : 4294967295,
+				"dancerAlias" : 4294967295,
+				"dancerAvatar" : 4294967295,
+				"dancerPortraitBorder" : 4294967295,
+				"dancerJDPoints" : 4294967295
+			}
+		},
+		{
+			"__class" : "HomeService::HomeTile",
+			"type" : 2,
+			"creationTime" : 1613578222360,
+			"locked" : false,
+			"new" : true,
+			"lockDuration" : 0,
+			"contentExpiry" : 0,
+			"uuid" : "00000000-0000-0000-0000-000000000000",
+			"newsTileInfo" : {
+				"__class" : "HomeService::NewsTileInfo",
+				"type" : 0,
+				"title" : "Join Mitchy's Discord Server!",
+				"text" : "Join to Mitchy's Discord Server to check latest updates - https://discord.gg/FBZB7g5gDH",
+				"imageUrl" : "",
+				"winnerPid" : "00000000-0000-0000-0000-000000000000",
+				"winnerPlatform" : "",
+				"winnerName" : "",
+				"winnerNameSuffix" : 0,
+				"winnerCountry" : 4294967295,
+				"winnerAvatar" : 4294967295,
+				"winnerAlias" : 4294967295,
+				"offlineNewID" : ""
+			}
+		},
+		{
+			"__class" : "HomeService::HomeTile",
+			"type" : 1,
+			"playlistTileInfo" : {
+				"__class" : "HomeService::PlaylistTileInfo",
+				"type" : 0,
+				"playlistID" : "DoulsFavorite"
+			},
+			"creationTime" : 1721881010619,
+			"new" : 1
+		},
+		{
+			"__class" : "HomeService::HomeTile",
+			"type" : 0,
+			"creationTime" : 1590943627,
+			"locked" : false,
+			"new" : true,
+			"lockDuration" : 0,
+			"contentExpiry" : 0,
+			"uuid" : "00000000-0000-0000-0000-000000000000",
+			"mapTileInfo" : {
+				"__class" : "HomeService::MapTileInfo",
+				"type" : 6,
+				"mapName" : "YesAndMU"
+			}
+		},
+		{
+			"__class" : "HomeService::HomeTile",
+			"type" : 0,
+			"creationTime" : 1590943627,
+			"locked" : false,
+			"new" : true,
+			"lockDuration" : 0,
+			"contentExpiry" : 0,
+			"uuid" : "00000000-0000-0000-0000-000000000000",
+			"mapTileInfo" : {
+				"__class" : "HomeService::MapTileInfo",
+				"type" : 6,
+				"mapName" : "AllIWant"
+			}
+		}
+	],
+	"timestampLastRequest" : 1613578407,
+	"timestampLastManualContent" : 1612964700,
+	"timestampLastMapContent" : 0,
+	"timestampLastVideoContent" : 0,
+	"timestampLastPlaylistContent" : 0,
+	"timestampLastLocalTrack" : 1540857600
+}

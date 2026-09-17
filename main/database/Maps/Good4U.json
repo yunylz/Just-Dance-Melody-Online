@@ -1,0 +1,160 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e6bfcf9fc40187b9cf36e3516c582061",
+      "storageType": 0,
+      "url": "/public/map/Good4U/nx/Good4U_MAIN_SCENE_NX.zip/e6bfcf9fc40187b9cf36e3516c582061.zip"
+    },
+    "pc": {
+      "md5": "d5541b5aa348a1d1c40349f24219cedd",
+      "storageType": 0,
+      "url": "/public/map/Good4U/pc/Good4U_MAIN_SCENE_PC.zip/d5541b5aa348a1d1c40349f24219cedd.zip"
+    },
+    "ps4": {
+      "md5": "64450e152b1b46c9795c2f33b95deddc",
+      "storageType": 0,
+      "url": "/public/map/Good4U/orbis/Good4U_MAIN_SCENE_ORBIS.zip/64450e152b1b46c9795c2f33b95deddc.zip"
+    }
+  },
+  "data": {
+    "mapName": "Good4U",
+    "title": "good 4 u",
+    "originalJDVersion": 9999,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium",
+      "forceRumble"
+    ],
+    "artist": "Olivia Rodrigo",
+    "credits": "Written by Daniel Nigro and Olivia Rodrigo. Published by Daniel Leonard Nigro Music (ASCAP) / Sony/ATV Allegro (ASCAP) / Liv Laf Luv (ASCAP) / Sony/ATV Tunes LLC (ASCAP). All rights reserved. Used with permission. Courtesy of Olivia Rodrigo/Geffen Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#8045e3",
+    "songColor2A": "#e05bec",
+    "songColor1B": "#140e4c",
+    "songColor2B": "#3d0a6d",
+    "lyricsColor": "#f1096e"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        34083,
+        68166,
+        102249,
+        136331,
+        170414,
+        204497,
+        238580,
+        272663,
+        306746,
+        340828,
+        374911,
+        408994,
+        443077,
+        477160,
+        511243,
+        545325,
+        579408,
+        613491,
+        647574,
+        681657,
+        715740,
+        749822,
+        783905,
+        817988,
+        852071,
+        886154,
+        920237,
+        954320,
+        988402,
+        1022485,
+        1056568,
+        1090651,
+        1124734,
+        1158817,
+        1192899,
+        1226982,
+        1261065,
+        1295148,
+        1329231,
+        1363314,
+        1397396,
+        1414746,
+        1432095,
+        1449445,
+        1466794
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 425,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 43,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Good4U/Good4U_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Good4U/nx/Good4U_banner_bkg.tga.ckd/c7ffbafa8c3245dc7bb106ab2c7a62a1.ckd",
+      "map_bkgImageUrl": "/public/map/Good4U/nx/Good4U_map_bkg.tga.ckd/1ef9efdfa8d26d769c1167f2e2ff51e8.ckd",
+      "expandCoachImageUrl": "/public/map/Good4U/nx/Good4U_Cover_AlbumCoach.tga.ckd/1fc07ccf31bbb4c9f90fd02bd561e8dc.ckd",
+      "cover_smallImageUrl": "/public/map/Good4U/nx/Good4U_Cover_Online.tga.ckd/11ef4ec2b883518315cd44eba5a07003.ckd",
+      "coverImageUrl": "/public/map/Good4U/nx/Good4U_Cover_Generic.tga.ckd/bcff0552e52ea6ae37f3ae2e6f674940.ckd",
+      "coach1ImageUrl": "/public/map/Good4U/nx/Good4U_Coach_1.tga.ckd/8a7a790c79830f60885195fef678e3a8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Good4U/pc/Good4U_banner_bkg.tga.ckd/fed8d46691c59beb81ac5bf61d0e9bea.ckd",
+      "map_bkgImageUrl": "/public/map/Good4U/pc/Good4U_map_bkg.tga.ckd/15330c7ecb358d92a5cf6290887bdfab.ckd",
+      "expandCoachImageUrl": "/public/map/Good4U/pc/Good4U_Cover_AlbumCoach.tga.ckd/147133bd48bd73b8dd1910cfe28b8090.ckd",
+      "cover_smallImageUrl": "/public/map/Good4U/pc/Good4U_Cover_Online.tga.ckd/ccd4a0749d8b36540114a606ccdde378.ckd",
+      "coverImageUrl": "/public/map/Good4U/pc/Good4U_Cover_Generic.tga.ckd/0fc5042864e1d5e4469b36e8b16c0d00.ckd",
+      "coach1ImageUrl": "/public/map/Good4U/pc/Good4U_Coach_1.tga.ckd/f2d0617d74bc3af727118bbe8b379990.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Good4U/orbis/Good4U_banner_bkg.tga.ckd/fed8d46691c59beb81ac5bf61d0e9bea.ckd",
+      "map_bkgImageUrl": "/public/map/Good4U/orbis/Good4U_map_bkg.tga.ckd/15330c7ecb358d92a5cf6290887bdfab.ckd",
+      "expandCoachImageUrl": "/public/map/Good4U/orbis/Good4U_Cover_AlbumCoach.tga.ckd/147133bd48bd73b8dd1910cfe28b8090.ckd",
+      "cover_smallImageUrl": "/public/map/Good4U/orbis/Good4U_Cover_Online.tga.ckd/ccd4a0749d8b36540114a606ccdde378.ckd",
+      "coverImageUrl": "/public/map/Good4U/orbis/Good4U_Cover_Generic.tga.ckd/0fc5042864e1d5e4469b36e8b16c0d00.ckd",
+      "coach1ImageUrl": "/public/map/Good4U/orbis/Good4U_Coach_1.tga.ckd/f2d0617d74bc3af727118bbe8b379990.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Good4U/Good4U_Coach_1_Phone.png/65c5d0ca7979ad1ade47ed7eadca3df4.png",
+    "phoneCoverImageUrl": "/public/map/Good4U/Good4U_Cover_Phone.jpg/91896879e1d9ee4f856ed38108f8a74c.jpg",
+    "cover640ImageUrl": "/public/map/Good4U/Good4U_Cover_640.png/0b916b2e10584601fff34ae49995cdba.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Good4U/Good4U.ogg": "/private/map/Good4U/Good4U.ogg/b5d3a4f2e66397759801469559f99bf4.ogg",
+    "jmcs://jd-contents/Good4U/Good4U_AudioPreview.ogg": "/public/map/Good4U/Good4U_AudioPreview.ogg/ce20710be2a3ce43b8a4d3987e997bc5.ogg",
+    "jmcs://jd-contents/Good4U/Good4U_HIGH.webm": "/private/map/Good4U/Good4U_HIGH.webm/2dba7ea4e2cb22f48d1b5e7066c05c4c.webm",
+    "jmcs://jd-contents/Good4U/Good4U_LOW.webm": "/private/map/Good4U/Good4U_LOW.webm/a27d1290d9883c282d3e57907f9c2b1b.webm",
+    "jmcs://jd-contents/Good4U/Good4U_MID.webm": "/private/map/Good4U/Good4U_MID.webm/3cf342ec5923eff9f4b55f69618fa428.webm",
+    "jmcs://jd-contents/Good4U/Good4U_ULTRA.hd.webm": "/private/map/Good4U/Good4U_ULTRA.hd.webm/7b94d46c80018be98eccf6c270d246a9.webm",
+    "jmcs://jd-contents/Good4U/Good4U_ULTRA.webm": "/private/map/Good4U/Good4U_ULTRA.webm/1a229449ea3c555b1188d77d42547cf4.webm",
+    "jmcs://jd-contents/Good4U/Good4U_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Good4U/Good4U_MapPreviewNoSoundCrop_LOW.vp8.webm/1543a3336161e0fa5e3ffb788151ffaf.webm",
+    "jmcs://jd-contents/Good4U/Good4U_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Good4U/Good4U_MapPreviewNoSoundCrop_MID.vp8.webm/5ce1a00fd7e709e7dcb49116dc35866e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"493516\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Good4U/Good4U_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\n\t\t\t\t\t<Initialization range=\"0-637\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1475743\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Good4U/Good4U_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\n\t\t\t\t\t<Initialization range=\"0-638\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 184.020667
+}

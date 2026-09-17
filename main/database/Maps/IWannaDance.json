@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c2fcfde5d3ede4590a43bbd11ab984fc",
+      "storageType": 0,
+      "url": "/public/map/IWannaDance/nx/IWannaDance_MAIN_SCENE_NX.zip/c2fcfde5d3ede4590a43bbd11ab984fc.zip"
+    },
+    "pc": {
+      "md5": "898bbf6815263291f8fe7fcb9108a3f7",
+      "storageType": 0,
+      "url": "/public/map/IWannaDance/pc/IWannaDance_MAIN_SCENE_PC.zip/898bbf6815263291f8fe7fcb9108a3f7.zip"
+    },
+    "ps4": {
+      "md5": "7a27b0f135264e77bbd6b0cda8b2b7d0",
+      "storageType": 0,
+      "url": "/public/map/IWannaDance/orbis/IWannaDance_MAIN_SCENE_ORBIS.zip/7a27b0f135264e77bbd6b0cda8b2b7d0.zip"
+    }
+  },
+  "data": {
+    "mapName": "IWannaDance",
+    "title": "I Wanna Dance With Somebody",
+    "originalJDVersion": 2024,
+    "tags": [
+      "subscribedSong",
+      "Easy",
+      "Medium"
+    ],
+    "artist": "Whitney Houston",
+    "credits": "Written by Shannon Rubicam, George Robert Merrill. Published by Universal Music Publishing Canada on behalf of Irving Music, Inc., and Boy Meets Girl Music. Courtesy of RCA Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#963cd3",
+    "songColor2A": "#f868ca",
+    "songColor1B": "#00035c",
+    "songColor2B": "#030f68",
+    "lyricsColor": "#ff009f"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24226,
+        48452,
+        72678,
+        96904,
+        121131,
+        145357,
+        169583,
+        193809,
+        218035,
+        242261,
+        266487,
+        290713,
+        314939,
+        339166,
+        363392,
+        387618,
+        411844,
+        436070,
+        460296,
+        484522,
+        508748,
+        532974,
+        557201,
+        581427,
+        605653,
+        629879,
+        654105,
+        678331,
+        702557,
+        726783,
+        751009,
+        775236,
+        799462,
+        823688,
+        847914,
+        872140,
+        896366,
+        920592,
+        944818,
+        969044,
+        993271,
+        1017497,
+        1041723,
+        1065949,
+        1090175,
+        1114401,
+        1138627,
+        1162853,
+        1187079,
+        1211306,
+        1235532,
+        1259758,
+        1283984,
+        1308210,
+        1332436,
+        1356662,
+        1380888,
+        1405114,
+        1429341,
+        1453567,
+        1477793
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -27,
+      "endBeat": 581,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/IWannaDance/IWannaDance_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/IWannaDance/nx/IWannaDance_banner_bkg.tga.ckd/40ba7dc5b5988d540e2dcba2a00f0b17.ckd",
+      "map_bkgImageUrl": "/public/map/IWannaDance/nx/IWannaDance_map_bkg.tga.ckd/45be5db3a72115064db0b68bc71f5fc2.ckd",
+      "expandCoachImageUrl": "/public/map/IWannaDance/nx/IWannaDance_Cover_AlbumCoach.tga.ckd/80ca0812d2f6e5f23a0f38a1e00365d1.ckd",
+      "cover_smallImageUrl": "/public/map/IWannaDance/nx/IWannaDance_Cover_Online.tga.ckd/959f0f41a8652830c08809074d4e0f74.ckd",
+      "coach1ImageUrl": "/public/map/IWannaDance/nx/IWannaDance_Coach_1.tga.ckd/ba2270687a89eef03e2f7bb27995e77c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/IWannaDance/pc/IWannaDance_banner_bkg.tga.ckd/ca8dbbc4e9a479cb7655b0421ca673e2.ckd",
+      "map_bkgImageUrl": "/public/map/IWannaDance/pc/IWannaDance_map_bkg.tga.ckd/ab28cbf293360e7d477d36f4b2647700.ckd",
+      "expandCoachImageUrl": "/public/map/IWannaDance/pc/IWannaDance_Cover_AlbumCoach.tga.ckd/bf6a38bfab3e8c556f00d5758d1db3d9.ckd",
+      "cover_smallImageUrl": "/public/map/IWannaDance/pc/IWannaDance_Cover_Online.tga.ckd/2a6ca27a385a9b62d0ef6373e962435d.ckd",
+      "coach1ImageUrl": "/public/map/IWannaDance/pc/IWannaDance_Coach_1.tga.ckd/985d7b2cb88ac74b519f727a93f2fd97.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/IWannaDance/orbis/IWannaDance_banner_bkg.tga.ckd/ca8dbbc4e9a479cb7655b0421ca673e2.ckd",
+      "map_bkgImageUrl": "/public/map/IWannaDance/orbis/IWannaDance_map_bkg.tga.ckd/ab28cbf293360e7d477d36f4b2647700.ckd",
+      "expandCoachImageUrl": "/public/map/IWannaDance/orbis/IWannaDance_Cover_AlbumCoach.tga.ckd/bf6a38bfab3e8c556f00d5758d1db3d9.ckd",
+      "cover_smallImageUrl": "/public/map/IWannaDance/orbis/IWannaDance_Cover_Online.tga.ckd/2a6ca27a385a9b62d0ef6373e962435d.ckd",
+      "coach1ImageUrl": "/public/map/IWannaDance/orbis/IWannaDance_Coach_1.tga.ckd/985d7b2cb88ac74b519f727a93f2fd97.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/IWannaDance/IWannaDance_Coach_1_Phone.png/317ac819d6d99d4e8e21484cb3c49167.png",
+    "phoneCoverImageUrl": "/public/map/IWannaDance/IWannaDance_Cover_Phone.jpg/7a65924717609c1e49e1e1e923aefa1a.jpg",
+    "cover640ImageUrl": "/public/map/IWannaDance/IWannaDance_Cover_640.png/febfd39752f775cbc98a4bff44f37dd1.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/IWannaDance/IWannaDance.ogg": "/private/map/IWannaDance/IWannaDance.ogg/f2a123685c139f1eb1c4d7cb5b3c655b.ogg",
+    "jmcs://jd-contents/IWannaDance/IWannaDance_AudioPreview.ogg": "/public/map/IWannaDance/IWannaDance_AudioPreview.ogg/8e1414e08b449f107f9ecb412877bb6c.ogg",
+    "jmcs://jd-contents/IWannaDance/IWannaDance_HIGH.webm": "/private/map/IWannaDance/IWannaDance_HIGH.webm/bd36873deb3d414fc8e71cf05d746e37.webm",
+    "jmcs://jd-contents/IWannaDance/IWannaDance_LOW.webm": "/private/map/IWannaDance/IWannaDance_LOW.webm/775cde186dc563a91f769bc098f84739.webm",
+    "jmcs://jd-contents/IWannaDance/IWannaDance_MID.webm": "/private/map/IWannaDance/IWannaDance_MID.webm/b46349dc24807a0d62555bbda2b2069c.webm",
+    "jmcs://jd-contents/IWannaDance/IWannaDance_ULTRA.hd.webm": "/private/map/IWannaDance/IWannaDance_ULTRA.hd.webm/6682887d0db688abe6ee4d7b4bc142ef.webm",
+    "jmcs://jd-contents/IWannaDance/IWannaDance_ULTRA.webm": "/private/map/IWannaDance/IWannaDance_ULTRA.webm/561a43897188619ac14529fe3325f956.webm",
+    "jmcs://jd-contents/IWannaDance/IWannaDance_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/IWannaDance/IWannaDance_MapPreviewNoSoundCrop_LOW.vp8.webm/ed86d2eb3b594420199e60fb12b75d18.webm",
+    "jmcs://jd-contents/IWannaDance/IWannaDance_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/IWannaDance/IWannaDance_MapPreviewNoSoundCrop_MID.vp8.webm/7fc89429703d8daa508d0382e0105c6b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"517336\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWannaDance/IWannaDance_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"663-1153\">\n\t\t\t\t\t<Initialization range=\"0-663\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1492376\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWannaDance/IWannaDance_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"664-1154\">\n\t\t\t\t\t<Initialization range=\"0-664\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 306.871375
+}

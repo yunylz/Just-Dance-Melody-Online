@@ -1,0 +1,167 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "a8311ad7faa58bcb2c7eb52e5d7d1104",
+      "storageType": 0,
+      "url": "/public/map/RunTheShow/nx/RunTheShow_MAIN_SCENE_NX.zip/a8311ad7faa58bcb2c7eb52e5d7d1104.zip"
+    },
+    "pc": {
+      "md5": "89ffd0dd80b8114525c7ec344e7bf9bb",
+      "storageType": 0,
+      "url": "/public/map/RunTheShow/pc/RunTheShow_MAIN_SCENE_PC.zip/89ffd0dd80b8114525c7ec344e7bf9bb.zip"
+    },
+    "ps4": {
+      "md5": "e0aff7b5c24eb166339f4b051022ce9c",
+      "storageType": 0,
+      "url": "/public/map/RunTheShow/orbis/RunTheShow_MAIN_SCENE_ORBIS.zip/e0aff7b5c24eb166339f4b051022ce9c.zip"
+    }
+  },
+  "data": {
+    "mapName": "RunTheShow",
+    "title": "Run The Show",
+    "originalJDVersion": 4,
+    "tags": [
+      "main"
+    ],
+    "artist": "Kat DeLuna Ft. Busta Rhymes",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#00ffcf"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33360,
+        66719,
+        100079,
+        127486,
+        154941,
+        182349,
+        209804,
+        237212,
+        264619,
+        292075,
+        319482,
+        346938,
+        374345,
+        401800,
+        429208,
+        456615,
+        484071,
+        511478,
+        538934,
+        566341,
+        593797,
+        621204,
+        648611,
+        676067,
+        703474,
+        730930,
+        758337,
+        785793,
+        813200,
+        840607,
+        868063,
+        895470,
+        922926,
+        950333,
+        977789,
+        1005196,
+        1032604,
+        1060059,
+        1087466,
+        1114922,
+        1142329,
+        1169785,
+        1197192,
+        1224600,
+        1252055,
+        1279462,
+        1306918,
+        1334325,
+        1361781,
+        1389188,
+        1416596,
+        1444051,
+        1471459,
+        1498914
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 383,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RunTheShow/RunTheShow_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RunTheShow/nx/RunTheShow_banner_bkg.tga.ckd/8d6c31e20653d178a8e34a655899dd63.ckd",
+      "map_bkgImageUrl": "/public/map/RunTheShow/nx/RunTheShow_map_bkg.tga.ckd/3e3c3042fb953e85ec0dee5ffd1e5f59.ckd",
+      "expandCoachImageUrl": "/public/map/RunTheShow/nx/RunTheShow_Cover_AlbumCoach.tga.ckd/4a03ffdb4839d80d290a8ef3a854e6a9.ckd",
+      "cover_smallImageUrl": "/public/map/RunTheShow/nx/RunTheShow_Cover_Online.tga.ckd/45424e0fe2f94f08aa3dec760a0d909c.ckd",
+      "coach1ImageUrl": "/public/map/RunTheShow/nx/RunTheShow_Coach_1.tga.ckd/ef9719c2d599c929ef4163ac6a8404d1.ckd",
+      "coach2ImageUrl": "/public/map/RunTheShow/nx/RunTheShow_Coach_2.tga.ckd/badcdb87665f14aace7d1c6f3c7b8cc6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RunTheShow/pc/RunTheShow_banner_bkg.tga.ckd/ca318d4c09fae6db7a42603f51d67c9e.ckd",
+      "map_bkgImageUrl": "/public/map/RunTheShow/pc/RunTheShow_map_bkg.tga.ckd/c68ec475fc4ed029c57ae0e83e40edf8.ckd",
+      "expandCoachImageUrl": "/public/map/RunTheShow/pc/RunTheShow_Cover_AlbumCoach.tga.ckd/fec713ea6a944de70eb85875300cf159.ckd",
+      "cover_smallImageUrl": "/public/map/RunTheShow/pc/RunTheShow_Cover_Online.tga.ckd/1486b4577fce1b6a50d82d9f41b66eb1.ckd",
+      "coach1ImageUrl": "/public/map/RunTheShow/pc/RunTheShow_Coach_1.tga.ckd/0e263d5a0ef62b44eb850045fbb21406.ckd",
+      "coach2ImageUrl": "/public/map/RunTheShow/pc/RunTheShow_Coach_2.tga.ckd/91f804232203a07eb48b47e1a5d0e5d3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RunTheShow/orbis/RunTheShow_banner_bkg.tga.ckd/ca318d4c09fae6db7a42603f51d67c9e.ckd",
+      "map_bkgImageUrl": "/public/map/RunTheShow/orbis/RunTheShow_map_bkg.tga.ckd/c68ec475fc4ed029c57ae0e83e40edf8.ckd",
+      "expandCoachImageUrl": "/public/map/RunTheShow/orbis/RunTheShow_Cover_AlbumCoach.tga.ckd/fec713ea6a944de70eb85875300cf159.ckd",
+      "cover_smallImageUrl": "/public/map/RunTheShow/orbis/RunTheShow_Cover_Online.tga.ckd/1486b4577fce1b6a50d82d9f41b66eb1.ckd",
+      "coach1ImageUrl": "/public/map/RunTheShow/orbis/RunTheShow_Coach_1.tga.ckd/0e263d5a0ef62b44eb850045fbb21406.ckd",
+      "coach2ImageUrl": "/public/map/RunTheShow/orbis/RunTheShow_Coach_2.tga.ckd/91f804232203a07eb48b47e1a5d0e5d3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RunTheShow/RunTheShow_Coach_1_Phone.png/06d817cf859c5da21e3007bb10f4350e.png",
+    "phoneCoach2ImageUrl": "/public/map/RunTheShow/RunTheShow_Coach_2_Phone.png/0f59b08e7026c84e7d89b933f8309b54.png",
+    "phoneCoverImageUrl": "/public/map/RunTheShow/RunTheShow_Cover_Phone.jpg/93546ccf3407a990ffa7a7c7a3fc4287.jpg",
+    "cover640ImageUrl": "/public/map/RunTheShow/RunTheShow_Cover_640.png/4a9696fd3db5cc6c0e10ff32031f8108.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/RunTheShow/RunTheShow.ogg": "/private/map/RunTheShow/RunTheShow.ogg/06b43023482302c881aa2a88bd9a7c42.ogg",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_AudioPreview.ogg": "/public/map/RunTheShow/RunTheShow_AudioPreview.ogg/4df6441d7ffab7fd45e392515f85a40c.ogg",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_HIGH.webm": "/private/map/RunTheShow/RunTheShow_HIGH.webm/48ea10004b57d3c29a02ffd8aad7bbcb.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_LOW.webm": "/private/map/RunTheShow/RunTheShow_LOW.webm/923108d65f564470c3e0a0942a30ff55.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_MID.webm": "/private/map/RunTheShow/RunTheShow_MID.webm/7fc66441cc27d6e177294923a113cb59.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_ULTRA.hd.webm": "/private/map/RunTheShow/RunTheShow_ULTRA.hd.webm/01e8d53147abe19cacc6d71516cfc54a.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_ULTRA.webm": "/private/map/RunTheShow/RunTheShow_ULTRA.webm/842fbb29520d3433a803462ead5ee6e7.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_LOW.vp8.webm/5a3df22b8cb9357906a257ab07c7e9d3.webm",
+    "jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_MID.vp8.webm/7961ba2b4deabde9166cfc000a23505d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"503949\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1362507\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 218.933333
+}

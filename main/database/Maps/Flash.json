@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "85d18d890cbb2c372b5e0145f12a55dd",
+      "storageType": 0,
+      "url": "/public/map/Flash/nx/Flash_MAIN_SCENE_NX.zip/85d18d890cbb2c372b5e0145f12a55dd.zip"
+    },
+    "pc": {
+      "md5": "42121f8c2c351e29dd7c5e5f952386a5",
+      "storageType": 0,
+      "url": "/public/map/Flash/pc/Flash_MAIN_SCENE_PC.zip/42121f8c2c351e29dd7c5e5f952386a5.zip"
+    },
+    "ps4": {
+      "md5": "e0e319a1eafb360d1f8673b3257f2f5c",
+      "storageType": 0,
+      "url": "/public/map/Flash/orbis/Flash_MAIN_SCENE_ORBIS.zip/e0e319a1eafb360d1f8673b3257f2f5c.zip"
+    }
+  },
+  "data": {
+    "mapName": "Flash",
+    "title": "Flash (Just Dance Version) ",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "Bilal Hassani, avec Sulivan Gwed, Paola Locatelli et Sundy Jules",
+    "credits": "Written by Bilal Hassani and Matthieu Mendès. Adaptation by Sulivan Guedouar. Published by House of Hassani – The Dude and the Music admin by Peermusic France. Courtesy of House of Hassani. ",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#9aec0f"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23226,
+        46452,
+        69677,
+        92903,
+        116129,
+        139355,
+        162581,
+        185806,
+        209032,
+        232258,
+        255484,
+        278710,
+        301935,
+        325161,
+        348387,
+        371613,
+        394839,
+        418065,
+        441290,
+        464516,
+        487742,
+        510968,
+        534194,
+        557419,
+        580645,
+        603871,
+        627097,
+        650323,
+        673548,
+        696774,
+        720000,
+        743226,
+        766452,
+        789677,
+        812903,
+        836129,
+        859355,
+        882581,
+        905806,
+        929032,
+        952258,
+        975484,
+        998710,
+        1021935,
+        1045161,
+        1068387,
+        1091613,
+        1114839,
+        1138065,
+        1161290,
+        1184516,
+        1207742,
+        1230968,
+        1254194,
+        1277419,
+        1300645,
+        1323871,
+        1347097,
+        1370323,
+        1393548,
+        1416774,
+        1440000,
+        1463226,
+        1486452
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 310,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Flash/Flash_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Flash/nx/Flash_banner_bkg.tga.ckd/a4768811f0410a6dbb9fef0dc2db760f.ckd",
+      "map_bkgImageUrl": "/public/map/Flash/nx/Flash_map_bkg.tga.ckd/dbf50b29cbf70485a4843c4c906ca231.ckd",
+      "expandCoachImageUrl": "/public/map/Flash/nx/Flash_Cover_AlbumCoach.tga.ckd/7d2ce27f25b8878a68cb1297af6d4dd9.ckd",
+      "cover_smallImageUrl": "/public/map/Flash/nx/Flash_Cover_Online.tga.ckd/c6a7db358ce12f2a2a3e6784a042c6ee.ckd",
+      "coach1ImageUrl": "/public/map/Flash/nx/Flash_Coach_1.tga.ckd/c8b5958a5eb0286fec2c962130cc422e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Flash/pc/Flash_banner_bkg.tga.ckd/088d17adff94a7f10a65a561c3c7357e.ckd",
+      "map_bkgImageUrl": "/public/map/Flash/pc/Flash_map_bkg.tga.ckd/04b4ad5b55c5477c121042d595496783.ckd",
+      "expandCoachImageUrl": "/public/map/Flash/pc/Flash_Cover_AlbumCoach.tga.ckd/b8416097741171684f7065742e93edc6.ckd",
+      "cover_smallImageUrl": "/public/map/Flash/pc/Flash_Cover_Online.tga.ckd/7e6ce1cd67fd763d139930c18e5a04c0.ckd",
+      "coach1ImageUrl": "/public/map/Flash/pc/Flash_Coach_1.tga.ckd/8d6994b8573f718aaa5e3fd6155a4ce0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Flash/orbis/Flash_banner_bkg.tga.ckd/088d17adff94a7f10a65a561c3c7357e.ckd",
+      "map_bkgImageUrl": "/public/map/Flash/orbis/Flash_map_bkg.tga.ckd/04b4ad5b55c5477c121042d595496783.ckd",
+      "expandCoachImageUrl": "/public/map/Flash/orbis/Flash_Cover_AlbumCoach.tga.ckd/b8416097741171684f7065742e93edc6.ckd",
+      "cover_smallImageUrl": "/public/map/Flash/orbis/Flash_Cover_Online.tga.ckd/7e6ce1cd67fd763d139930c18e5a04c0.ckd",
+      "coach1ImageUrl": "/public/map/Flash/orbis/Flash_Coach_1.tga.ckd/8d6994b8573f718aaa5e3fd6155a4ce0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Flash/Flash_Coach_1_Phone.png/3688ad81b9ceb3fd0f8880a4eafa7437.png",
+    "phoneCoverImageUrl": "/public/map/Flash/Flash_Cover_Phone.jpg/b7503a453bfce10983848c4f0b184860.jpg",
+    "cover640ImageUrl": "/public/map/Flash/Flash_Cover_640.png/5ed2082802fba6157a9504f31492123a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Flash/Flash.ogg": "/private/map/Flash/Flash.ogg/83f349e2ccd48edf6ef7cfa929de02cc.ogg",
+    "jmcs://jd-contents/Flash/Flash_AudioPreview.ogg": "/public/map/Flash/Flash_AudioPreview.ogg/f0040227613d746f66ae32d1defdb814.ogg",
+    "jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Flash/Flash_MapPreviewNoSoundCrop_LOW.vp8.webm/41d9cceef01839cf2994741212cf0bdb.webm",
+    "jmcs://jd-contents/Flash/Flash_HIGH.webm": "/private/map/Flash/Flash_HIGH.webm/3b54440457b65c30903596b3f3701654.webm",
+    "jmcs://jd-contents/Flash/Flash_LOW.webm": "/private/map/Flash/Flash_LOW.webm/1413bd3f52c3a90c03c03e2e95f11b25.webm",
+    "jmcs://jd-contents/Flash/Flash_MID.webm": "/private/map/Flash/Flash_MID.webm/e460922c4bf1da377f43fd61c81d9fb6.webm",
+    "jmcs://jd-contents/Flash/Flash_ULTRA.hd.webm": "/private/map/Flash/Flash_ULTRA.hd.webm/6e31080302dff0fd99b1498ddb5f425d.webm",
+    "jmcs://jd-contents/Flash/Flash_ULTRA.webm": "/private/map/Flash/Flash_ULTRA.webm/ef60c5bca7cf06e2b109437eb82eb378.webm",
+    "jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Flash/Flash_MapPreviewNoSoundCrop_MID.vp8.webm/290d59e7472ac39d6032b0849cf32da0.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496301\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1136\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1477361\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Flash/Flash_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\n\t\t\t\t\t<Initialization range=\"0-648\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 150.967667
+}

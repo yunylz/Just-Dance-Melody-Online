@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "2bbba103169266bc1ff2b9bb46aa923d",
+      "storageType": 0,
+      "url": "/public/map/CantStopTheFeeling/nx/CantStopTheFeeling_MAIN_SCENE_NX.zip/2bbba103169266bc1ff2b9bb46aa923d.zip"
+    },
+    "pc": {
+      "md5": "1e26dcc907dd5d42b626bca3356897c1",
+      "storageType": 0,
+      "url": "/public/map/CantStopTheFeeling/pc/CantStopTheFeeling_MAIN_SCENE_PC.zip/1e26dcc907dd5d42b626bca3356897c1.zip"
+    },
+    "ps4": {
+      "md5": "1b480bec436fa88d26dc4a00f6a5041e",
+      "storageType": 0,
+      "url": "/public/map/CantStopTheFeeling/orbis/CantStopTheFeeling_MAIN_SCENE_ORBIS.zip/1b480bec436fa88d26dc4a00f6a5041e.zip"
+    }
+  },
+  "data": {
+    "mapName": "CantStopTheFeeling",
+    "title": "CAN'T STOP THE FEELING!",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Justin Timberlake",
+    "credits": "Written by Justin R. Timberlake, Martin Karl Sandberg, Max Martin, Johan Karl Schuster. Published by Universal Music Publishing Canada on behalf of Universal Music - Z Tunes LLC, DWA Songs and Tennman Tunes / MXM, Kobalt Songs Music Publishing. Admin by Kobalt Songs Music Publishing. Courtesy of RCA Records and DreamWorks Animation LLC. By arrangement with Sony Music Entertainment.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#f020f8",
+    "songColor2A": "#54f9ff",
+    "songColor1B": "#131360",
+    "songColor2B": "#322589",
+    "lyricsColor": "#f73368",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25487,
+        50973,
+        76460,
+        101947,
+        127434,
+        152920,
+        178407,
+        203894,
+        229381,
+        254867,
+        280354,
+        305841,
+        331327,
+        356814,
+        382301,
+        407788,
+        433274,
+        458761,
+        484248,
+        509735,
+        535221,
+        560708,
+        586195,
+        611681,
+        637168,
+        662655,
+        688142,
+        713628,
+        739115,
+        764602,
+        790088,
+        815575,
+        841062,
+        866549,
+        892035,
+        917522,
+        943009,
+        968496,
+        993982,
+        1019469,
+        1044956,
+        1070442,
+        1095929,
+        1121416,
+        1146903,
+        1172389,
+        1197876,
+        1223363,
+        1248850,
+        1274336,
+        1299823,
+        1325310,
+        1350796,
+        1376283,
+        1401770,
+        1427257,
+        1452743,
+        1478230
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -84,
+      "endBeat": 469,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CantStopTheFeeling/nx/CantStopTheFeeling_banner_bkg.tga.ckd/d6040ffc9c8dff32762af92eb7d6a1cb.ckd",
+      "map_bkgImageUrl": "/public/map/CantStopTheFeeling/nx/CantStopTheFeeling_map_bkg.tga.ckd/eef6b7bc827083b57517aae63c3ef838.ckd",
+      "expandCoachImageUrl": "/public/map/CantStopTheFeeling/nx/CantStopTheFeeling_Cover_AlbumCoach.tga.ckd/4533f581a209c79fb6fe8bd48e50a905.ckd",
+      "cover_smallImageUrl": "/public/map/CantStopTheFeeling/nx/CantStopTheFeeling_Cover_Online.tga.ckd/3b0daa40001ed19bc719681dfab17131.ckd",
+      "coverImageUrl": "/public/map/CantStopTheFeeling/nx/CantStopTheFeeling_Cover_Generic.tga.ckd/8cd8aa65153b6aaf0f625ed3756d3584.ckd",
+      "coach1ImageUrl": "/public/map/CantStopTheFeeling/nx/CantStopTheFeeling_Coach_1.tga.ckd/d0d7b32135c7ee66b064ecb32377bf1a.ckd",
+      "coach2ImageUrl": "/public/map/CantStopTheFeeling/nx/CantStopTheFeeling_Coach_2.tga.ckd/f276324574209ea0066596664631dd41.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CantStopTheFeeling/pc/CantStopTheFeeling_banner_bkg.tga.ckd/d765f9740e6c7f7148f3b75d42b0cacb.ckd",
+      "map_bkgImageUrl": "/public/map/CantStopTheFeeling/pc/CantStopTheFeeling_map_bkg.tga.ckd/21faa422f1d39066a92fee2497e8274e.ckd",
+      "expandCoachImageUrl": "/public/map/CantStopTheFeeling/pc/CantStopTheFeeling_Cover_AlbumCoach.tga.ckd/0794a71bbdc5ff59cec67b90e979dd0e.ckd",
+      "cover_smallImageUrl": "/public/map/CantStopTheFeeling/pc/CantStopTheFeeling_Cover_Online.tga.ckd/eb5592f591558ecf09d54155fa167450.ckd",
+      "coverImageUrl": "/public/map/CantStopTheFeeling/pc/CantStopTheFeeling_Cover_Generic.tga.ckd/cc68efc4bed310518a1b6d4f15f66576.ckd",
+      "coach1ImageUrl": "/public/map/CantStopTheFeeling/pc/CantStopTheFeeling_Coach_1.tga.ckd/919203eadd4bbbfcf8cbd17df51978e6.ckd",
+      "coach2ImageUrl": "/public/map/CantStopTheFeeling/pc/CantStopTheFeeling_Coach_2.tga.ckd/9dfa6b174d5938128c493b5b25bbf229.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CantStopTheFeeling/orbis/CantStopTheFeeling_banner_bkg.tga.ckd/d765f9740e6c7f7148f3b75d42b0cacb.ckd",
+      "map_bkgImageUrl": "/public/map/CantStopTheFeeling/orbis/CantStopTheFeeling_map_bkg.tga.ckd/21faa422f1d39066a92fee2497e8274e.ckd",
+      "expandCoachImageUrl": "/public/map/CantStopTheFeeling/orbis/CantStopTheFeeling_Cover_AlbumCoach.tga.ckd/0794a71bbdc5ff59cec67b90e979dd0e.ckd",
+      "cover_smallImageUrl": "/public/map/CantStopTheFeeling/orbis/CantStopTheFeeling_Cover_Online.tga.ckd/eb5592f591558ecf09d54155fa167450.ckd",
+      "coverImageUrl": "/public/map/CantStopTheFeeling/orbis/CantStopTheFeeling_Cover_Generic.tga.ckd/cc68efc4bed310518a1b6d4f15f66576.ckd",
+      "coach1ImageUrl": "/public/map/CantStopTheFeeling/orbis/CantStopTheFeeling_Coach_1.tga.ckd/919203eadd4bbbfcf8cbd17df51978e6.ckd",
+      "coach2ImageUrl": "/public/map/CantStopTheFeeling/orbis/CantStopTheFeeling_Coach_2.tga.ckd/9dfa6b174d5938128c493b5b25bbf229.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CantStopTheFeeling/CantStopTheFeeling_Coach_1_Phone.png/4bb6bbf4e2d53fe8ba009d237084b021.png",
+    "phoneCoach2ImageUrl": "/public/map/CantStopTheFeeling/CantStopTheFeeling_Coach_2_Phone.png/f777d759c82a53706ff7234799760338.png",
+    "phoneCoverImageUrl": "/public/map/CantStopTheFeeling/CantStopTheFeeling_Cover_Phone.jpg/0b3cd8203b43fc22a166b5cd008353f4.jpg",
+    "cover640ImageUrl": "/public/map/CantStopTheFeeling/CantStopTheFeeling_Cover_640.png/0e2a71c49578c0bee78e03316b4ff38c.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling.ogg": "/private/map/CantStopTheFeeling/CantStopTheFeeling.ogg/1059d562f16410d4011fbf49c91e03c5.ogg",
+    "jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling_AudioPreview.ogg": "/public/map/CantStopTheFeeling/CantStopTheFeeling_AudioPreview.ogg/3dd86bb10e7d7652420751810c2ec581.ogg",
+    "jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CantStopTheFeeling/CantStopTheFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm/0cb05c9e2cf1237db920081e353a7a3f.webm",
+    "jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling_HIGH.webm": "/private/map/CantStopTheFeeling/CantStopTheFeeling_HIGH.webm/c00687dd9eaf3340891a9d6c461e57bd.webm",
+    "jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling_LOW.webm": "/private/map/CantStopTheFeeling/CantStopTheFeeling_LOW.webm/bd7f95455384e0177d74c75a886bcd83.webm",
+    "jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling_MID.webm": "/private/map/CantStopTheFeeling/CantStopTheFeeling_MID.webm/b48e3f784f46aafc0b670da1b26ebcb5.webm",
+    "jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling_ULTRA.hd.webm": "/private/map/CantStopTheFeeling/CantStopTheFeeling_ULTRA.hd.webm/36f8b9eb9c2a4d5d725a4d9032094f48.webm",
+    "jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling_ULTRA.webm": "/private/map/CantStopTheFeeling/CantStopTheFeeling_ULTRA.webm/51b1ea78ed1fec68e203b677d995087f.webm",
+    "jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CantStopTheFeeling/CantStopTheFeeling_MapPreviewNoSoundCrop_MID.vp8.webm/545f4be90f8fd80c8af29ec9439054fd.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"545094\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"681-1171\">\n\t\t\t\t\t<Initialization range=\"0-681\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1520917\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantStopTheFeeling/CantStopTheFeeling_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"682-1172\">\n\t\t\t\t\t<Initialization range=\"0-682\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 293.637479
+}

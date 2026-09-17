@@ -1,0 +1,190 @@
+{
+  "urls": {
+    "jmcs://jd-contents/PartyVIP/PartyVIP_AudioPreview.ogg": "/public/map/PartyVIP/PartyVIP_AudioPreview.ogg/f0c7545f1e8e35954f3bddfed2418a17.ogg",
+    "jmcs://jd-contents/PartyVIP/PartyVIP.ogg": "/private/map/PartyVIP/PartyVIP.ogg/8e5324a55d1925cb25a29f4a2371ff29.ogg",
+    "jmcs://jd-contents/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_LOW.vp8.webm/a3af2ec60162baeff468015834a0edcc.webm",
+    "jmcs://jd-contents/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_MID.vp8.webm/5dbaeec1cee4e9fd7bdad24638f68f35.webm",
+    "jmcs://jd-contents/PartyVIP/PartyVIP_ULTRA.hd.webm": "/private/map/PartyVIP/PartyVIP_ULTRA.hd.webm/925da37ce19d6237514ef17a68b8e1b3.webm",
+    "jmcs://jd-contents/PartyVIP/PartyVIP_HIGH.hd.webm": "/private/map/PartyVIP/PartyVIP_HIGH.hd.webm/da30a83fe5a7e6f76ffd9ced5d7ca4a7.webm",
+    "jmcs://jd-contents/PartyVIP/PartyVIP_MID.hd.webm": "/private/map/PartyVIP/PartyVIP_MID.hd.webm/df6d56d5b966554e6c65b82d4b507af7.webm",
+    "jmcs://jd-contents/PartyVIP/PartyVIP_LOW.hd.webm": "/private/map/PartyVIP/PartyVIP_LOW.hd.webm/47d7f22e9ba116bef8197d39778293ef.webm",
+    "jmcs://jd-contents/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_HIGH.vp8.webm/174f89e0e13f9173a074aeebd67c7150.webm",
+    "jmcs://jd-contents/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4e7d3625124d561e472b1d1c2cf4a556.webm"
+  },
+  "mapLength": 193.80949479166668,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22857,
+        45714,
+        68571,
+        91428,
+        114285,
+        137142,
+        160000,
+        182857,
+        205714,
+        228571,
+        251428,
+        274285,
+        297142,
+        320000,
+        342857,
+        365714,
+        388571,
+        411428,
+        434285,
+        457142,
+        480000,
+        502857,
+        525714,
+        548571,
+        571428,
+        594285,
+        617142,
+        640000,
+        662857,
+        685714,
+        708571,
+        731428,
+        754285,
+        777142,
+        800000,
+        822857,
+        845714,
+        868571,
+        891428,
+        914285,
+        937142,
+        960000,
+        982857,
+        1005714,
+        1028571,
+        1051428,
+        1074285,
+        1097142,
+        1120000,
+        1142857,
+        1165714,
+        1188571,
+        1211428,
+        1234285,
+        1257142,
+        1280000,
+        1302857,
+        1325714,
+        1348571,
+        1371428,
+        1394285,
+        1417142,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 402,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/PartyVIP/PartyVIP_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"637723\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"768-1257\">\n\t\t\t\t\t<Initialization range=\"0-768\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1465853\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"768-1258\">\n\t\t\t\t\t<Initialization range=\"0-768\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2127560\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"768-1258\">\n\t\t\t\t\t<Initialization range=\"0-768\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"2129744\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PartyVIP/PartyVIP_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"768-1258\">\n\t\t\t\t\t<Initialization range=\"0-768\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "2553dfe505ca53e4e3d8f9c830a898e0",
+      "storageType": 0,
+      "url": "/public/map/PartyVIP/pc/PartyVIP_MAIN_SCENE_PC.zip/2553dfe505ca53e4e3d8f9c830a898e0.zip"
+    },
+    "ps4": {
+      "md5": "d8e7f8808826b331afc5a7385456daff",
+      "storageType": 0,
+      "url": "/public/map/PartyVIP/orbis/PartyVIP_MAIN_SCENE_ORBIS.zip/d8e7f8808826b331afc5a7385456daff.zip"
+    },
+    "wiiu": {
+      "md5": "6384c119c8fe77c3ccb23388fc4fbaf0",
+      "storageType": 0,
+      "url": "/public/map/PartyVIP/wiiu/PartyVIP_MAIN_SCENE_WIIU.zip/6384c119c8fe77c3ccb23388fc4fbaf0.zip"
+    },
+    "nx": {
+      "md5": "21b477be86fcf6c056de8004308f56f6",
+      "storageType": 0,
+      "url": "/public/map/PartyVIP/nx/PartyVIP_MAIN_SCENE_NX.zip/21b477be86fcf6c056de8004308f56f6.zip"
+    }
+  },
+  "data": {
+    "mapName": "PartyVIP",
+    "title": "If You Wanna Party",
+    "originalJDVersion": 2024,
+    "tags": [
+      "alternate",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "The Just Dancers",
+    "credits": "Composed by Pablo San Martin, Tammy Infusino and Robert Bryan Lualhati. Produced by Pablo San Martin. Artists (singers): Jessica Morale as Brezziana, Red Robyn as Sara, Terrell Mackey as Jack Rose, Jon Paul Wallace as Wanderlust, Julia Zivic as Mihaly. All rights reserved. Used with permission. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ACF9DD",
+    "songColor2A": "#F5F4B8",
+    "songColor1B": "#07195B",
+    "songColor2B": "#1E0962",
+    "lyricsColor": "#9021AF",
+    "LocaleId": 20003359,
+    "LocaleID": 20003359
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/PartyVIP/pc/PartyVIP_Cover_Online.tga.ckd/9ac239f2e718ba105032591955f48fb8.ckd",
+      "coverImageUrl": "/public/map/PartyVIP/pc/PartyVIP_Cover_Generic.tga.ckd/1382fe7ee9e0ce5209cfbf819e34180e.ckd",
+      "expandCoachImageUrl": "/public/map/PartyVIP/pc/PartyVIP_Cover_AlbumCoach.tga.ckd/aafbc9dee1fe83e36089beece5fc79af.ckd",
+      "map_bkgImageUrl": "/public/map/PartyVIP/pc/PartyVIP_map_bkg.tga.ckd/c58e3d65ffb0a4f5bb75d39e46ea0c7f.ckd",
+      "banner_bkgImageUrl": "/public/map/PartyVIP/pc/PartyVIP_banner_bkg.tga.ckd/060c5d69255be4700adb64b89f737ede.ckd",
+      "coach1ImageUrl": "/public/map/PartyVIP/pc/PartyVIP_Coach_1.tga.ckd/21d5565c382871327b7cff38a2720f82.ckd",
+      "phoneCoverImageUrl": "/public/map/PartyVIP/PartyVIP_Cover_Phone.jpg/20007564c714bf8a5f3be45d48563ca7.jpg",
+      "phoneCoach1ImageUrl": "/public/map/PartyVIP/PartyVIP_Coach_1_Phone.png/e653c79dcb2a11b1a85b8f05c69e4c8a.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/PartyVIP/orbis/PartyVIP_Cover_Online.tga.ckd/9ac239f2e718ba105032591955f48fb8.ckd",
+      "coverImageUrl": "/public/map/PartyVIP/orbis/PartyVIP_Cover_Generic.tga.ckd/1382fe7ee9e0ce5209cfbf819e34180e.ckd",
+      "expandCoachImageUrl": "/public/map/PartyVIP/orbis/PartyVIP_Cover_AlbumCoach.tga.ckd/aafbc9dee1fe83e36089beece5fc79af.ckd",
+      "map_bkgImageUrl": "/public/map/PartyVIP/orbis/PartyVIP_map_bkg.tga.ckd/c58e3d65ffb0a4f5bb75d39e46ea0c7f.ckd",
+      "banner_bkgImageUrl": "/public/map/PartyVIP/orbis/PartyVIP_banner_bkg.tga.ckd/060c5d69255be4700adb64b89f737ede.ckd",
+      "coach1ImageUrl": "/public/map/PartyVIP/orbis/PartyVIP_Coach_1.tga.ckd/21d5565c382871327b7cff38a2720f82.ckd",
+      "phoneCoverImageUrl": "/public/map/PartyVIP/PartyVIP_Cover_Phone.jpg/20007564c714bf8a5f3be45d48563ca7.jpg",
+      "phoneCoach1ImageUrl": "/public/map/PartyVIP/PartyVIP_Coach_1_Phone.png/e653c79dcb2a11b1a85b8f05c69e4c8a.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/PartyVIP/wiiu/PartyVIP_Cover_Online.tga.ckd/72bec35500f6c4ba64085d737ca773f0.ckd",
+      "coverImageUrl": "/public/map/PartyVIP/wiiu/PartyVIP_Cover_Generic.tga.ckd/6790932c71015ccae4eab1e65e90feb3.ckd",
+      "expandCoachImageUrl": "/public/map/PartyVIP/wiiu/PartyVIP_Cover_AlbumCoach.tga.ckd/a65cb213da60a8254c0a326755dea14e.ckd",
+      "map_bkgImageUrl": "/public/map/PartyVIP/wiiu/PartyVIP_map_bkg.tga.ckd/d9e9ad84b4e8180b5ffe373891b69767.ckd",
+      "banner_bkgImageUrl": "/public/map/PartyVIP/wiiu/PartyVIP_banner_bkg.tga.ckd/f68a5437bc4e8c46716f75bf767a2efd.ckd",
+      "coach1ImageUrl": "/public/map/PartyVIP/wiiu/PartyVIP_Coach_1.tga.ckd/c15b87182dce698d0eea40f478fa812f.ckd",
+      "phoneCoverImageUrl": "/public/map/PartyVIP/PartyVIP_Cover_Phone.jpg/20007564c714bf8a5f3be45d48563ca7.jpg",
+      "phoneCoach1ImageUrl": "/public/map/PartyVIP/PartyVIP_Coach_1_Phone.png/e653c79dcb2a11b1a85b8f05c69e4c8a.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/PartyVIP/nx/PartyVIP_Cover_Online.tga.ckd/6054b2fb4306ded534abe2770e0256cf.ckd",
+      "coverImageUrl": "/public/map/PartyVIP/nx/PartyVIP_Cover_Generic.tga.ckd/04a40a91d17ad7936d0773ad137cd79a.ckd",
+      "expandCoachImageUrl": "/public/map/PartyVIP/nx/PartyVIP_Cover_AlbumCoach.tga.ckd/ff601d108c610b8dd332e9c488f9b077.ckd",
+      "map_bkgImageUrl": "/public/map/PartyVIP/nx/PartyVIP_map_bkg.tga.ckd/e7c9ca2126ab83a87f1a939b43c91d81.ckd",
+      "banner_bkgImageUrl": "/public/map/PartyVIP/nx/PartyVIP_banner_bkg.tga.ckd/f45e7a8c19fb6989ddf23df015f3d23a.ckd",
+      "coach1ImageUrl": "/public/map/PartyVIP/nx/PartyVIP_Coach_1.tga.ckd/676278a251279313020359378ca5df4e.ckd",
+      "phoneCoverImageUrl": "/public/map/PartyVIP/PartyVIP_Cover_Phone.jpg/20007564c714bf8a5f3be45d48563ca7.jpg",
+      "phoneCoach1ImageUrl": "/public/map/PartyVIP/PartyVIP_Coach_1_Phone.png/e653c79dcb2a11b1a85b8f05c69e4c8a.png"
+    },
+    "cover640ImageUrl": "/public/map/PartyVIP/PartyVIP_Cover_640.png/a765952a944bb466a59f070f574f740b.png"
+  }
+}

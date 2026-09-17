@@ -1,0 +1,172 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Houdini/Houdini.ogg": "/private/map/Houdini/Houdini.ogg/ebe98fa6d0b386ae0aee350d59fed17d.ogg",
+    "jmcs://jd-contents/Houdini/Houdini_AudioPreview.ogg": "/public/map/Houdini/Houdini_AudioPreview.ogg/c5f73ac7bdb98ee6e7f6fcb63363c06e.ogg",
+    "jmcs://jd-contents/Houdini/Houdini_HIGH.hd.webm": "/private/map/Houdini/Houdini_HIGH.hd.webm/f0c5c0e0fc19b4b493ffb5f985df37c4.webm",
+    "jmcs://jd-contents/Houdini/Houdini_LOW.hd.webm": "/private/map/Houdini/Houdini_LOW.hd.webm/cea8498125dfe39daa9947538cce23e5.webm",
+    "jmcs://jd-contents/Houdini/Houdini_MID.hd.webm": "/private/map/Houdini/Houdini_MID.hd.webm/32ff082e4d0227d074eb72d4620b47b0.webm",
+    "jmcs://jd-contents/Houdini/Houdini_ULTRA.hd.webm": "/private/map/Houdini/Houdini_ULTRA.hd.webm/b05de580bdf405d29eb3f0c64e4f2f2b.webm",
+    "jmcs://jd-contents/Houdini/Houdini_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Houdini/Houdini_MapPreviewNoSoundCrop_LOW.vp8.webm/da67e576ef061032303bb80493764a07.webm",
+    "jmcs://jd-contents/Houdini/Houdini_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Houdini/Houdini_MapPreviewNoSoundCrop_MID.vp8.webm/fea9a0c2149a355cbad194d333dd4e84.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24615,
+        49231,
+        73846,
+        98462,
+        123077,
+        147692,
+        172308,
+        196923,
+        221538,
+        246154,
+        270769,
+        295385,
+        320000,
+        344615,
+        369231,
+        393846,
+        418462,
+        443077,
+        467692,
+        492308,
+        516923,
+        541538,
+        566154,
+        590769,
+        615385,
+        640000,
+        664615,
+        689231,
+        713846,
+        738462,
+        763077,
+        787692,
+        812308,
+        836923,
+        861538,
+        886154,
+        910769,
+        935385,
+        960000,
+        984615,
+        1009231,
+        1033846,
+        1058462,
+        1083077,
+        1107692,
+        1132308,
+        1156923,
+        1181538,
+        1206154,
+        1230769,
+        1255385,
+        1280000,
+        1304615,
+        1329231,
+        1353846,
+        1378462,
+        1403077,
+        1427692,
+        1452308,
+        1476923
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 367,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Houdini/Houdini_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"549348\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Houdini/Houdini_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2000233\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Houdini/Houdini_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "fb1de646ddb5832dc4c3aabc9af9f235",
+      "storageType": 0,
+      "url": "/public/map/Houdini/nx/Houdini_MAIN_SCENE_NX.zip/fb1de646ddb5832dc4c3aabc9af9f235.zip"
+    },
+    "pc": {
+      "md5": "c2de8260a633d832637719f4eb0d294e",
+      "storageType": 0,
+      "url": "/public/map/Houdini/pc/Houdini_MAIN_SCENE_PC.zip/c2de8260a633d832637719f4eb0d294e.zip"
+    },
+    "ps4": {
+      "md5": "d3a4569a1be4b5b9415f01b8a395ee55",
+      "storageType": 0,
+      "url": "/public/map/Houdini/orbis/Houdini_MAIN_SCENE_ORBIS.zip/d3a4569a1be4b5b9415f01b8a395ee55.zip"
+    }
+  },
+  "data": {
+    "mapName": "Houdini",
+    "title": "Houdini",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Dua Lipa",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#c00600",
+    "songColor2A": "#8686fb",
+    "songColor1B": "#02010c",
+    "songColor2B": "#0d0043",
+    "lyricsColor": "#832daa",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Houdini/nx/Houdini_banner_bkg.tga.ckd/eb215be403cd2d39a86c7bb63e745949.ckd",
+      "map_bkgImageUrl": "/public/map/Houdini/nx/Houdini_map_bkg.tga.ckd/2af1db2c6db2f83416710227083785f4.ckd",
+      "expandCoachImageUrl": "/public/map/Houdini/nx/Houdini_Cover_AlbumCoach.tga.ckd/b4c479fab2e2e99bbff0c2d38577e625.ckd",
+      "cover_smallImageUrl": "/public/map/Houdini/nx/Houdini_Cover_Online.tga.ckd/22b8c1afc851e2198e3520c54820235d.ckd",
+      "coverImageUrl": "/public/map/Houdini/nx/Houdini_Cover_Generic.tga.ckd/49318364844b1470eb4614bafeba7aa7.ckd",
+      "coach1ImageUrl": "/public/map/Houdini/nx/Houdini_Coach_1.tga.ckd/23d9a2d070985bfe6f27224795c4a49a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Houdini/pc/Houdini_banner_bkg.tga.ckd/fa969eaff08b089b69f000207a58cf15.ckd",
+      "map_bkgImageUrl": "/public/map/Houdini/pc/Houdini_map_bkg.tga.ckd/0afadcd1d45a9f7294f38e58746b887f.ckd",
+      "expandCoachImageUrl": "/public/map/Houdini/pc/Houdini_Cover_AlbumCoach.tga.ckd/4c7f0551af867dc27b67afa8457193fb.ckd",
+      "cover_smallImageUrl": "/public/map/Houdini/pc/Houdini_Cover_Online.tga.ckd/ea451a21116caa7c41dbd48b32b032de.ckd",
+      "coverImageUrl": "/public/map/Houdini/pc/Houdini_Cover_Generic.tga.ckd/a63ef522a731ff15420552a576b9d570.ckd",
+      "coach1ImageUrl": "/public/map/Houdini/pc/Houdini_Coach_1.tga.ckd/2fad86de95794bbb35b36097de57c4f9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Houdini/orbis/Houdini_banner_bkg.tga.ckd/fa969eaff08b089b69f000207a58cf15.ckd",
+      "map_bkgImageUrl": "/public/map/Houdini/orbis/Houdini_map_bkg.tga.ckd/0afadcd1d45a9f7294f38e58746b887f.ckd",
+      "expandCoachImageUrl": "/public/map/Houdini/orbis/Houdini_Cover_AlbumCoach.tga.ckd/4c7f0551af867dc27b67afa8457193fb.ckd",
+      "cover_smallImageUrl": "/public/map/Houdini/orbis/Houdini_Cover_Online.tga.ckd/ea451a21116caa7c41dbd48b32b032de.ckd",
+      "coverImageUrl": "/public/map/Houdini/orbis/Houdini_Cover_Generic.tga.ckd/a63ef522a731ff15420552a576b9d570.ckd",
+      "coach1ImageUrl": "/public/map/Houdini/orbis/Houdini_Coach_1.tga.ckd/2fad86de95794bbb35b36097de57c4f9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Houdini/Houdini_Coach_1_Phone.png/d1cc9e4200ddee1e11f74a5870047f89.png",
+    "phoneCoverImageUrl": "/public/map/Houdini/Houdini_Cover_Phone.jpg/a8b91011acee2bfb3736fc76a51049b1.jpg",
+    "cover640ImageUrl": "/public/map/Houdini/Houdini_Cover_640.png/2f01da262cda31ccbe7fefb9654330c0.png"
+  },
+  "mapLength": 187.185979
+}

@@ -1,0 +1,159 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1a43de0cc63538483786c1210f7b88d4",
+      "storageType": 0,
+      "url": "/public/map/LetsMove/nx/LetsMove_MAIN_SCENE_NX.zip/1a43de0cc63538483786c1210f7b88d4.zip"
+    },
+    "pc": {
+      "md5": "5effa29a79138821ddd373bf54766ff7",
+      "storageType": 0,
+      "url": "/public/map/LetsMove/pc/LetsMove_MAIN_SCENE_PC.zip/5effa29a79138821ddd373bf54766ff7.zip"
+    },
+    "ps4": {
+      "md5": "03b2f9d4792ec43a9bb25d550eeffa70",
+      "storageType": 0,
+      "url": "/public/map/LetsMove/orbis/LetsMove_MAIN_SCENE_ORBIS.zip/03b2f9d4792ec43a9bb25d550eeffa70.zip"
+    }
+  },
+  "data": {
+    "mapName": "LetsMove",
+    "title": "Move Your Body",
+    "originalJDVersion": 4,
+    "tags": [
+      "main"
+    ],
+    "artist": "Beyoncé",
+    "credits": "EMPTY",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#003cff",
+    "songColor2A": "#cd0087",
+    "songColor1B": "#00095f",
+    "songColor2B": "#560059",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32977,
+        65954,
+        98931,
+        131910,
+        161748,
+        191586,
+        221424,
+        251262,
+        281100,
+        310938,
+        340776,
+        370614,
+        400452,
+        430290,
+        460128,
+        489966,
+        519804,
+        549642,
+        579480,
+        609318,
+        639156,
+        668994,
+        698832,
+        728670,
+        758508,
+        788346,
+        818184,
+        848022,
+        877860,
+        907698,
+        937536,
+        967374,
+        997212,
+        1027050,
+        1056888,
+        1086726,
+        1116564,
+        1146402,
+        1176240,
+        1206078,
+        1235916,
+        1265754,
+        1295592,
+        1325430,
+        1355268,
+        1385106,
+        1414944,
+        1444782,
+        1474620,
+        1504458
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 391,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 48,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LetsMove/LetsMove_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LetsMove/nx/LetsMove_banner_bkg.tga.ckd/aa5ae74e81c14b27cee86f83685e9d84.ckd",
+      "map_bkgImageUrl": "/public/map/LetsMove/nx/LetsMove_map_bkg.tga.ckd/5b55165e381b25d527d6d614d246d6f3.ckd",
+      "expandCoachImageUrl": "/public/map/LetsMove/nx/LetsMove_Cover_AlbumCoach.tga.ckd/e203b9f30fdc5e23c037cdbed2782cfd.ckd",
+      "cover_smallImageUrl": "/public/map/LetsMove/nx/LetsMove_Cover_Online.tga.ckd/2d4bfc62a94a4b637fa654a3aaea60d2.ckd",
+      "coach1ImageUrl": "/public/map/LetsMove/nx/LetsMove_Coach_1.tga.ckd/81b40376ed3454b0c45c4354fc6ad082.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LetsMove/pc/LetsMove_banner_bkg.tga.ckd/fde4d1c4111d224f31e4ee0807679078.ckd",
+      "map_bkgImageUrl": "/public/map/LetsMove/pc/LetsMove_map_bkg.tga.ckd/a28f2f4f02946bfc6b2467d4fb6136a5.ckd",
+      "expandCoachImageUrl": "/public/map/LetsMove/pc/LetsMove_Cover_AlbumCoach.tga.ckd/2146bbe5dd2efded26453261f94627f1.ckd",
+      "cover_smallImageUrl": "/public/map/LetsMove/pc/LetsMove_Cover_Online.tga.ckd/91f3fbbc62124bc708d379ffb8585431.ckd",
+      "coach1ImageUrl": "/public/map/LetsMove/pc/LetsMove_Coach_1.tga.ckd/8b147d19058b7d8444440dc637e1e022.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LetsMove/orbis/LetsMove_banner_bkg.tga.ckd/fde4d1c4111d224f31e4ee0807679078.ckd",
+      "map_bkgImageUrl": "/public/map/LetsMove/orbis/LetsMove_map_bkg.tga.ckd/a28f2f4f02946bfc6b2467d4fb6136a5.ckd",
+      "expandCoachImageUrl": "/public/map/LetsMove/orbis/LetsMove_Cover_AlbumCoach.tga.ckd/2146bbe5dd2efded26453261f94627f1.ckd",
+      "cover_smallImageUrl": "/public/map/LetsMove/orbis/LetsMove_Cover_Online.tga.ckd/91f3fbbc62124bc708d379ffb8585431.ckd",
+      "coach1ImageUrl": "/public/map/LetsMove/orbis/LetsMove_Coach_1.tga.ckd/8b147d19058b7d8444440dc637e1e022.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LetsMove/LetsMove_Coach_1_Phone.png/6ccdf78f1247a6b37b3439a8313a5ba3.png",
+    "phoneCoverImageUrl": "/public/map/LetsMove/LetsMove_Cover_Phone.jpg/b06475f552f5b2b08444c86fc2cdacbc.jpg",
+    "cover640ImageUrl": "/public/map/LetsMove/LetsMove_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/LetsMove/LetsMove.ogg": "/private/map/LetsMove/LetsMove.ogg/47db0c0d41bd418bc6086c6c5f723da6.ogg",
+    "jmcs://jd-contents/LetsMove/LetsMove_AudioPreview.ogg": "/public/map/LetsMove/LetsMove_AudioPreview.ogg/13d852f347fb1c88eedc0025898ff9be.ogg",
+    "jmcs://jd-contents/LetsMove/LetsMove_HIGH.webm": "/private/map/LetsMove/LetsMove_HIGH.webm/c2743c3bd1363f225b2ee7737b749c2a.webm",
+    "jmcs://jd-contents/LetsMove/LetsMove_LOW.webm": "/private/map/LetsMove/LetsMove_LOW.webm/9072f9e84866000a3522a1e7f29ef6e5.webm",
+    "jmcs://jd-contents/LetsMove/LetsMove_MID.webm": "/private/map/LetsMove/LetsMove_MID.webm/402e2269e8dd83c992225fc1665e0929.webm",
+    "jmcs://jd-contents/LetsMove/LetsMove_ULTRA.hd.webm": "/private/map/LetsMove/LetsMove_ULTRA.hd.webm/b449a9e5abafe32e220fe3d0671683cd.webm",
+    "jmcs://jd-contents/LetsMove/LetsMove_ULTRA.webm": "/private/map/LetsMove/LetsMove_ULTRA.webm/e3ceec2738292418279714b9ad5131ec.webm",
+    "jmcs://jd-contents/LetsMove/LetsMove_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LetsMove/LetsMove_MapPreviewNoSoundCrop_LOW.vp8.webm/bf8db4a650919abca2710947e5e472ab.webm",
+    "jmcs://jd-contents/LetsMove/LetsMove_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LetsMove/LetsMove_MapPreviewNoSoundCrop_MID.vp8.webm/af524901b18d380e37698dcea3dbaabe.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"492011\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetsMove/LetsMove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"579-1069\">\n\t\t\t\t\t<Initialization range=\"0-579\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1469536\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetsMove/LetsMove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"580-1070\">\n\t\t\t\t\t<Initialization range=\"0-580\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 246.44
+}

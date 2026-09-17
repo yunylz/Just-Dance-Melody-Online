@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/GigoloMU/GigoloMU.ogg": "/private/map/GigoloMU/GigoloMU.ogg/7e62b901a784ce14ebb8b03d115c4cf0.ogg",
+    "jmcs://jd-contents/GigoloMU/GigoloMU_AudioPreview.ogg": "/public/map/GigoloMU/GigoloMU_AudioPreview.ogg/7d51b052af0660a03f75c809028eceea.ogg",
+    "jmcs://jd-contents/GigoloMU/GigoloMU_HIGH.hd.webm": "/private/map/GigoloMU/GigoloMU_HIGH.hd.webm/2c0fdd357ee32b4fe5427092c71fa60a.webm",
+    "jmcs://jd-contents/GigoloMU/GigoloMU_LOW.hd.webm": "/private/map/GigoloMU/GigoloMU_LOW.hd.webm/ab64cdee728cdadff26c3eb340ddd8c6.webm",
+    "jmcs://jd-contents/GigoloMU/GigoloMU_MID.hd.webm": "/private/map/GigoloMU/GigoloMU_MID.hd.webm/0a4d6b8ad12a6d3f3613de2dc11350d4.webm",
+    "jmcs://jd-contents/GigoloMU/GigoloMU_ULTRA.hd.webm": "/private/map/GigoloMU/GigoloMU_ULTRA.hd.webm/d970f73db611bcf5caf1fc3629639a31.webm",
+    "jmcs://jd-contents/GigoloMU/GigoloMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GigoloMU/GigoloMU_MapPreviewNoSoundCrop_LOW.vp8.webm/6f00ea1624aa1fe52101b1e1641045b1.webm",
+    "jmcs://jd-contents/GigoloMU/GigoloMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GigoloMU/GigoloMU_MapPreviewNoSoundCrop_MID.vp8.webm/c66ac3aa320ae0d6495f14f0f6fb7877.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23231,
+        46463,
+        69695,
+        92879,
+        116399,
+        139919,
+        163391,
+        186911,
+        210911,
+        234911,
+        258911,
+        282911,
+        305903,
+        328895,
+        351839,
+        374831,
+        398735,
+        422639,
+        446495,
+        470399,
+        494207,
+        517967,
+        541775,
+        565535,
+        589295,
+        613055,
+        636815,
+        660623,
+        683951,
+        707279,
+        730607,
+        753983,
+        777455,
+        800927,
+        824399,
+        847871,
+        871439,
+        895007,
+        918575,
+        942143,
+        965519,
+        988847,
+        1012223,
+        1035599,
+        1058927,
+        1082303,
+        1105679,
+        1129007,
+        1152383,
+        1175711,
+        1199087,
+        1222415,
+        1246223,
+        1270031,
+        1293839,
+        1317647,
+        1341119,
+        1364639,
+        1388111,
+        1411583,
+        1434863,
+        1458143,
+        1481423
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 531,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GigoloMU/GigoloMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GigoloMU/nx/GigoloMU_banner_bkg.tga.ckd/7759734595b32f0e032b12f6ed7edf63.ckd",
+      "map_bkgImageUrl": "/public/map/GigoloMU/nx/GigoloMU_map_bkg.tga.ckd/debfe02c05d517366c9112a128f05e63.ckd",
+      "expandCoachImageUrl": "/public/map/GigoloMU/nx/GigoloMU_Cover_AlbumCoach.tga.ckd/683fa61a892b5f226fbd13af45ecef1b.ckd",
+      "cover_smallImageUrl": "/public/map/GigoloMU/nx/GigoloMU_Cover_Online.tga.ckd/b8b292b7cbd9b601b535e5132e43c859.ckd",
+      "coverImageUrl": "/public/map/GigoloMU/nx/GigoloMU_Cover_Generic.tga.ckd/8a5afd757ec6d647c871c5ff8259af2d.ckd",
+      "coach1ImageUrl": "/public/map/GigoloMU/nx/GigoloMU_Coach_1.tga.ckd/f8c4c8832128577a097d4341fb525acf.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GigoloMU/pc/GigoloMU_banner_bkg.tga.ckd/2dd02575f0597beff7fe007d0f22a5a1.ckd",
+      "map_bkgImageUrl": "/public/map/GigoloMU/pc/GigoloMU_map_bkg.tga.ckd/93eb864640c7d5966859c65966d2af9c.ckd",
+      "expandCoachImageUrl": "/public/map/GigoloMU/pc/GigoloMU_Cover_AlbumCoach.tga.ckd/29f9fb73c24e48603cc61f8db13eb373.ckd",
+      "cover_smallImageUrl": "/public/map/GigoloMU/pc/GigoloMU_Cover_Online.tga.ckd/7220f51291533715141ee7cab485a25e.ckd",
+      "coverImageUrl": "/public/map/GigoloMU/pc/GigoloMU_Cover_Generic.tga.ckd/be74d4301714f22be94049a042d1da03.ckd",
+      "coach1ImageUrl": "/public/map/GigoloMU/pc/GigoloMU_Coach_1.tga.ckd/2a2b4bedea4d21895d4cc29c2302abcc.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GigoloMU/orbis/GigoloMU_banner_bkg.tga.ckd/2dd02575f0597beff7fe007d0f22a5a1.ckd",
+      "map_bkgImageUrl": "/public/map/GigoloMU/orbis/GigoloMU_map_bkg.tga.ckd/93eb864640c7d5966859c65966d2af9c.ckd",
+      "expandCoachImageUrl": "/public/map/GigoloMU/orbis/GigoloMU_Cover_AlbumCoach.tga.ckd/29f9fb73c24e48603cc61f8db13eb373.ckd",
+      "cover_smallImageUrl": "/public/map/GigoloMU/orbis/GigoloMU_Cover_Online.tga.ckd/7220f51291533715141ee7cab485a25e.ckd",
+      "coverImageUrl": "/public/map/GigoloMU/orbis/GigoloMU_Cover_Generic.tga.ckd/be74d4301714f22be94049a042d1da03.ckd",
+      "coach1ImageUrl": "/public/map/GigoloMU/orbis/GigoloMU_Coach_1.tga.ckd/2a2b4bedea4d21895d4cc29c2302abcc.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GigoloMU/GigoloMU_Coach_1_Phone.png/ca59fe9e6bc707941c7c54c58d5f9d64.png",
+    "phoneCoverImageUrl": "/public/map/GigoloMU/GigoloMU_Cover_Phone.jpg/a8940514a4e8b04e1494efb8f15fe2fc.jpg",
+    "cover640ImageUrl": "/public/map/GigoloMU/GigoloMU_Cover_640.png/a746cbac401966f5e246a9a4f815d449.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "94c5d36a4982348954eb038d16ea673c",
+      "storageType": 0,
+      "url": "/public/map/GigoloMU/nx/GigoloMU_MAIN_SCENE_NX.zip/94c5d36a4982348954eb038d16ea673c.zip"
+    },
+    "pc": {
+      "md5": "9a3761c7e40a0a7a0cd4f7eaed710fe9",
+      "storageType": 0,
+      "url": "/public/map/GigoloMU/pc/GigoloMU_MAIN_SCENE_PC.zip/9a3761c7e40a0a7a0cd4f7eaed710fe9.zip"
+    },
+    "ps4": {
+      "md5": "b39ba49f086fd3b7db47fa3c9d9f6796",
+      "storageType": 0,
+      "url": "/public/map/GigoloMU/orbis/GigoloMU_MAIN_SCENE_ORBIS.zip/b39ba49f086fd3b7db47fa3c9d9f6796.zip"
+    }
+  },
+  "data": {
+    "mapName": "GigoloMU",
+    "title": "Just A Gigolo",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Louis Prima",
+    "credits": "Written by Irving Caesar, Julius Brammer, Leonello Casucci.  Published by Irving Caesar Music Corp. (ASCAP) and Chappell & Co., Inc. (ASCAP). All rights on behalf of Irving Caesar Music Corp. administered by WB Music Corp. © 1930 (Renewed). All Rights Reserved. Courtesy of Capitol Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#c6001f",
+    "songColor2A": "#f39210",
+    "songColor1B": "#6c0034",
+    "songColor2B": "#56007a",
+    "lyricsColor": "#00cccc",
+    "LocaleID": 13572
+  },
+  "mapLength": 252.535979
+}

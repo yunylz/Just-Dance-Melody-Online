@@ -1,0 +1,172 @@
+{
+  "urls": {
+    "jmcs://jd-contents/GoodLuckBabe/GoodLuckBabe.ogg": "/private/map/GoodLuckBabe/GoodLuckBabe.ogg/f1ec58bcc07f1b9aa1c36a43fd51e1d5.ogg",
+    "jmcs://jd-contents/GoodLuckBabe/GoodLuckBabe_AudioPreview.ogg": "/public/map/GoodLuckBabe/GoodLuckBabe_AudioPreview.ogg/12e0251a0387333d6472c54c06a96fb7.ogg",
+    "jmcs://jd-contents/GoodLuckBabe/GoodLuckBabe_HIGH.hd.webm": "/private/map/GoodLuckBabe/GoodLuckBabe_HIGH.hd.webm/3fd1d37d0e36cc9cf6b348ddf2700d53.webm",
+    "jmcs://jd-contents/GoodLuckBabe/GoodLuckBabe_LOW.hd.webm": "/private/map/GoodLuckBabe/GoodLuckBabe_LOW.hd.webm/16815434fd0700cb3258ef573b126ac6.webm",
+    "jmcs://jd-contents/GoodLuckBabe/GoodLuckBabe_MID.hd.webm": "/private/map/GoodLuckBabe/GoodLuckBabe_MID.hd.webm/f13bdc42bbce45a7c796355be8ff9a23.webm",
+    "jmcs://jd-contents/GoodLuckBabe/GoodLuckBabe_ULTRA.hd.webm": "/private/map/GoodLuckBabe/GoodLuckBabe_ULTRA.hd.webm/b2750c5e8846c885cf2eb54a00a43f2e.webm",
+    "jmcs://jd-contents/GoodLuckBabe/GoodLuckBabe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GoodLuckBabe/GoodLuckBabe_MapPreviewNoSoundCrop_LOW.vp8.webm/494f2cee1d10b42b879fc8baca0496dd.webm",
+    "jmcs://jd-contents/GoodLuckBabe/GoodLuckBabe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GoodLuckBabe/GoodLuckBabe_MapPreviewNoSoundCrop_MID.vp8.webm/682ce627504b77d97e0327b7a6aaeb46.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24615,
+        49231,
+        73846,
+        98462,
+        123077,
+        147692,
+        172308,
+        196923,
+        221538,
+        246154,
+        270769,
+        295385,
+        320000,
+        344615,
+        369231,
+        393846,
+        418462,
+        443077,
+        467692,
+        492308,
+        516923,
+        541538,
+        566154,
+        590769,
+        615385,
+        640000,
+        664615,
+        689231,
+        713846,
+        738462,
+        763077,
+        787692,
+        812308,
+        836923,
+        861538,
+        886154,
+        910769,
+        935385,
+        960000,
+        984615,
+        1009231,
+        1033846,
+        1058462,
+        1083077,
+        1107692,
+        1132308,
+        1156923,
+        1181538,
+        1206154,
+        1230769,
+        1255385,
+        1280000,
+        1304615,
+        1329231,
+        1353846,
+        1378462,
+        1403077,
+        1427692,
+        1452308,
+        1476923
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 420,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GoodLuckBabe/GoodLuckBabe_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"584690\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodLuckBabe/GoodLuckBabe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2034533\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodLuckBabe/GoodLuckBabe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "82061e77726e990b3829b2de0f08cc2f",
+      "storageType": 0,
+      "url": "/public/map/GoodLuckBabe/nx/GoodLuckBabe_MAIN_SCENE_NX.zip/82061e77726e990b3829b2de0f08cc2f.zip"
+    },
+    "pc": {
+      "md5": "f1e627f84a4261562cadc07f559e2fc9",
+      "storageType": 0,
+      "url": "/public/map/GoodLuckBabe/pc/GoodLuckBabe_MAIN_SCENE_PC.zip/f1e627f84a4261562cadc07f559e2fc9.zip"
+    },
+    "ps4": {
+      "md5": "6d94ab07d1e745ba0626a215fbb5ae9d",
+      "storageType": 0,
+      "url": "/public/map/GoodLuckBabe/orbis/GoodLuckBabe_MAIN_SCENE_ORBIS.zip/6d94ab07d1e745ba0626a215fbb5ae9d.zip"
+    }
+  },
+  "data": {
+    "mapName": "GoodLuckBabe",
+    "title": "Good Luck, Babe!",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Chappell Roan",
+    "credits": "\"Good Luck, Babe!\" performed by Chappell Roan. Written by Justin Tranter, Daniel Nigro, and Kayleigh Amstutz. Published by Old Mine Cut Publishing administered by Warner-Tamerlane Publishing Corp. / Sony/ATV Tunes LLC (ASCAP) / Daniel Leonard Nigro Music (ASCAP) / Sony/ATV Allegro (ASCAP). Courtesy of Island Records under license from Universal Music Canada Inc. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#7d8e99",
+    "songColor2A": "#c0d9eb",
+    "songColor1B": "#000004",
+    "songColor2B": "#101133",
+    "lyricsColor": "#f78a16",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GoodLuckBabe/nx/GoodLuckBabe_banner_bkg.tga.ckd/138b1f8b5bef629065a29363d8e4656e.ckd",
+      "map_bkgImageUrl": "/public/map/GoodLuckBabe/nx/GoodLuckBabe_map_bkg.tga.ckd/1de677a124cc09959816bd7c0d559285.ckd",
+      "expandCoachImageUrl": "/public/map/GoodLuckBabe/nx/GoodLuckBabe_Cover_AlbumCoach.tga.ckd/ed28f1cd3b2cfa5b0a5960e4dd0e5fbe.ckd",
+      "cover_smallImageUrl": "/public/map/GoodLuckBabe/nx/GoodLuckBabe_Cover_Online.tga.ckd/30d9658a5f2699f8d199d95ef845f860.ckd",
+      "coverImageUrl": "/public/map/GoodLuckBabe/nx/GoodLuckBabe_Cover_Generic.tga.ckd/2686b460cf4d702944a7039ace474a02.ckd",
+      "coach1ImageUrl": "/public/map/GoodLuckBabe/nx/GoodLuckBabe_Coach_1.tga.ckd/3c7ded647db121a7eb7de791f91ff3f6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GoodLuckBabe/pc/GoodLuckBabe_banner_bkg.tga.ckd/7350e337c38b0f602b8db3d32554c67c.ckd",
+      "map_bkgImageUrl": "/public/map/GoodLuckBabe/pc/GoodLuckBabe_map_bkg.tga.ckd/e901b24c98c6a1370456946eb4f0a863.ckd",
+      "expandCoachImageUrl": "/public/map/GoodLuckBabe/pc/GoodLuckBabe_Cover_AlbumCoach.tga.ckd/6bc5842cb430e76af1a3590ca8ee6236.ckd",
+      "cover_smallImageUrl": "/public/map/GoodLuckBabe/pc/GoodLuckBabe_Cover_Online.tga.ckd/66866f099cbfbc1426d53539891bd5f0.ckd",
+      "coverImageUrl": "/public/map/GoodLuckBabe/pc/GoodLuckBabe_Cover_Generic.tga.ckd/db60b7be4ec563fb6acd47d65b00b66d.ckd",
+      "coach1ImageUrl": "/public/map/GoodLuckBabe/pc/GoodLuckBabe_Coach_1.tga.ckd/cedd273ea300a6c54e3b2ff9ee08f6dc.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GoodLuckBabe/orbis/GoodLuckBabe_banner_bkg.tga.ckd/7350e337c38b0f602b8db3d32554c67c.ckd",
+      "map_bkgImageUrl": "/public/map/GoodLuckBabe/orbis/GoodLuckBabe_map_bkg.tga.ckd/e901b24c98c6a1370456946eb4f0a863.ckd",
+      "expandCoachImageUrl": "/public/map/GoodLuckBabe/orbis/GoodLuckBabe_Cover_AlbumCoach.tga.ckd/6bc5842cb430e76af1a3590ca8ee6236.ckd",
+      "cover_smallImageUrl": "/public/map/GoodLuckBabe/orbis/GoodLuckBabe_Cover_Online.tga.ckd/66866f099cbfbc1426d53539891bd5f0.ckd",
+      "coverImageUrl": "/public/map/GoodLuckBabe/orbis/GoodLuckBabe_Cover_Generic.tga.ckd/db60b7be4ec563fb6acd47d65b00b66d.ckd",
+      "coach1ImageUrl": "/public/map/GoodLuckBabe/orbis/GoodLuckBabe_Coach_1.tga.ckd/cedd273ea300a6c54e3b2ff9ee08f6dc.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GoodLuckBabe/GoodLuckBabe_Coach_1_Phone.png/9662d6fba005b7ffaf133406ca60e52e.png",
+    "phoneCoverImageUrl": "/public/map/GoodLuckBabe/GoodLuckBabe_Cover_Phone.jpg/3a4941edc23b7727a879e8cf048af7e9.jpg",
+    "cover640ImageUrl": "/public/map/GoodLuckBabe/GoodLuckBabe_Cover_640.png/fe50f75222b61a08ac4ec7120d311781.png"
+  },
+  "mapLength": 217.607479
+}

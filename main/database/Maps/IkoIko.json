@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "352b13cd3390cf3cdff51a88d3942f91",
+      "storageType": 0,
+      "url": "/public/map/IkoIko/nx/IkoIko_MAIN_SCENE_NX.zip/352b13cd3390cf3cdff51a88d3942f91.zip"
+    },
+    "pc": {
+      "md5": "2b947aa7fda401c222ed9df857e73197",
+      "storageType": 0,
+      "url": "/public/map/IkoIko/pc/IkoIko_MAIN_SCENE_PC.zip/2b947aa7fda401c222ed9df857e73197.zip"
+    },
+    "ps4": {
+      "md5": "86c43b6d0530f712bccce13de288dcfb",
+      "storageType": 0,
+      "url": "/public/map/IkoIko/orbis/IkoIko_MAIN_SCENE_ORBIS.zip/86c43b6d0530f712bccce13de288dcfb.zip"
+    }
+  },
+  "data": {
+    "mapName": "IkoIko",
+    "title": "Iko Iko",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Mardi Gras",
+    "credits": "Written by James Crawford, Barbara Hawkins, Rosa Hawkins and Joan Johnson. Published by EMI Virgin Songs, Inc d\\/b\\/a EMI Longitude Music (BMI) Songs Of Windswept Pacific. All rights reserved. Used by permission. Courtesy of Music Factory Entertainment Group Ltd.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#3D98FF",
+    "songColor2A": "#F072FF",
+    "songColor1B": "#000B51",
+    "songColor2B": "#170061",
+    "lyricsColor": "#DA2AD3",
+    "LocaleID": 4294967295,
+    "LocaleId": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25043,
+        50086,
+        75129,
+        100171,
+        125214,
+        150257,
+        175300,
+        200342,
+        225385,
+        250428,
+        275470,
+        300513,
+        325556,
+        350599,
+        375641,
+        400684,
+        425727,
+        450769,
+        475812,
+        500855,
+        525898,
+        550940,
+        575983,
+        601026,
+        626069,
+        651111,
+        676154,
+        701197,
+        726239,
+        751282,
+        776325,
+        801368,
+        826410,
+        851453,
+        876496,
+        901538,
+        926581,
+        951624,
+        976667,
+        1001709,
+        1026752,
+        1051795,
+        1076837,
+        1101880,
+        1126923,
+        1151966,
+        1177008,
+        1202051,
+        1227094,
+        1252137,
+        1277179,
+        1302222,
+        1327265,
+        1352307,
+        1377350,
+        1402393,
+        1427436
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 2
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 296,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ikoiko/ikoiko_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/IkoIko/nx/IkoIko_banner_bkg.tga.ckd/06e5a3e0530832b00e0773d723e3bbef.ckd",
+      "map_bkgImageUrl": "/public/map/IkoIko/nx/IkoIko_map_bkg.tga.ckd/55e94e4c2f1d4ab56453907483b277ba.ckd",
+      "expandCoachImageUrl": "/public/map/IkoIko/nx/IkoIko_Cover_AlbumCoach.tga.ckd/55328b572fd30e4a21fb097ff9744952.ckd",
+      "cover_smallImageUrl": "/public/map/IkoIko/nx/IkoIko_Cover_Online.tga.ckd/51e0db7b30bc82a72eadde6d5a72e288.ckd",
+      "coach1ImageUrl": "/public/map/IkoIko/nx/IkoIko_Coach_1.tga.ckd/41beeb66a5dd3b123ef53bdf4a4c3a64.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/IkoIko/pc/IkoIko_banner_bkg.tga.ckd/b612f47b0097ad4ad8e227c0505474d0.ckd",
+      "map_bkgImageUrl": "/public/map/IkoIko/pc/IkoIko_map_bkg.tga.ckd/ead217be3bf426b11b2ba9b23799cb5f.ckd",
+      "expandCoachImageUrl": "/public/map/IkoIko/pc/IkoIko_Cover_AlbumCoach.tga.ckd/6aa0622b7dfa642d32c3a1cc3f3e374a.ckd",
+      "cover_smallImageUrl": "/public/map/IkoIko/pc/IkoIko_Cover_Online.tga.ckd/4c39346f3b4d86fc6796b8c13ad5aadc.ckd",
+      "coach1ImageUrl": "/public/map/IkoIko/pc/IkoIko_Coach_1.tga.ckd/d59c81d7b707494230e290a2473551fb.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/IkoIko/orbis/IkoIko_banner_bkg.tga.ckd/b612f47b0097ad4ad8e227c0505474d0.ckd",
+      "map_bkgImageUrl": "/public/map/IkoIko/orbis/IkoIko_map_bkg.tga.ckd/ead217be3bf426b11b2ba9b23799cb5f.ckd",
+      "expandCoachImageUrl": "/public/map/IkoIko/orbis/IkoIko_Cover_AlbumCoach.tga.ckd/6aa0622b7dfa642d32c3a1cc3f3e374a.ckd",
+      "cover_smallImageUrl": "/public/map/IkoIko/orbis/IkoIko_Cover_Online.tga.ckd/4c39346f3b4d86fc6796b8c13ad5aadc.ckd",
+      "coach1ImageUrl": "/public/map/IkoIko/orbis/IkoIko_Coach_1.tga.ckd/d59c81d7b707494230e290a2473551fb.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/IkoIko/IkoIko_Coach_1_Phone.png/3408e0be175ea7dc9c2aefb08f97fb55.png",
+    "phoneCoverImageUrl": "/public/map/IkoIko/IkoIko_Cover_Phone.jpg/623c1c832f088ff76bb5d1aa1d3ddc62.jpg",
+    "cover640ImageUrl": "/public/map/IkoIko/IkoIko_Cover_640.png/190c31155acfedc552ef5df770dbd191.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/IkoIko/IkoIko.ogg": "/private/map/IkoIko/IkoIko.ogg/05272ffd72628e063f9b31265d6ab73b.ogg",
+    "jmcs://jd-contents/IkoIko/IkoIko_AudioPreview.ogg": "/public/map/IkoIko/IkoIko_AudioPreview.ogg/cd408c35c0184ca2cebdec3aa14ca1bb.ogg",
+    "jmcs://jd-contents/IkoIko/IkoIko_HIGH.webm": "/private/map/IkoIko/IkoIko_HIGH.webm/6791d98befc8016bc332622d0580ba57.webm",
+    "jmcs://jd-contents/IkoIko/IkoIko_LOW.webm": "/private/map/IkoIko/IkoIko_LOW.webm/9a77c2821a72bbb3f111e0a27b806396.webm",
+    "jmcs://jd-contents/IkoIko/IkoIko_MID.webm": "/private/map/IkoIko/IkoIko_MID.webm/5f6710db9e1ca2c4ab4ec0ecbfd668ac.webm",
+    "jmcs://jd-contents/IkoIko/IkoIko_ULTRA.hd.webm": "/private/map/IkoIko/IkoIko_ULTRA.hd.webm/3144dddec7cfc9d257a574869df2e260.webm",
+    "jmcs://jd-contents/IkoIko/IkoIko_ULTRA.webm": "/private/map/IkoIko/IkoIko_ULTRA.webm/aaebe7ef929e9e9836042262d06c6295.webm",
+    "jmcs://jd-contents/IkoIko/IkoIko_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/IkoIko/IkoIko_MapPreviewNoSoundCrop_LOW.vp8.webm/8a725fb790066bbcb9ec0be5674d7f7f.webm",
+    "jmcs://jd-contents/IkoIko/IkoIko_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/IkoIko/IkoIko_MapPreviewNoSoundCrop_MID.vp8.webm/36aa58b475dad6f8836d54696a194efb.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"512708\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IkoIko/IkoIko_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1510738\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IkoIko/IkoIko_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 155.520979
+}

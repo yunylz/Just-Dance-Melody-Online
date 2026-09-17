@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "pc": {
+      "md5": "4ebf2ad76ff254afc502061ad2ea4aa4",
+      "storageType": 0,
+      "url": "/public/map/BeautifulLiar/pc/BeautifulLiar_MAIN_SCENE_PC.zip/4ebf2ad76ff254afc502061ad2ea4aa4.zip"
+    },
+    "nx": {
+      "md5": "3fd72f413344ced82298c8f04e2fb7cc",
+      "storageType": 0,
+      "url": "/public/map/BeautifulLiar/nx/BeautifulLiar_MAIN_SCENE_NX.zip/3fd72f413344ced82298c8f04e2fb7cc.zip"
+    },
+    "ps4": {
+      "md5": "0c1010e5a8f5fddf16341538eef8ed0e",
+      "storageType": 0,
+      "url": "/public/map/BeautifulLiar/orbis/BeautifulLiar_MAIN_SCENE_ORBIS.zip/0c1010e5a8f5fddf16341538eef8ed0e.zip"
+    }
+  },
+  "data": {
+    "mapName": "BeautifulLiar",
+    "title": "Beautiful Liar",
+    "originalJDVersion": 3,
+    "tags": [
+      "main"
+    ],
+    "artist": "Beyoncé and Shakira",
+    "credits": "Written by Amanda Ghost, Ian Alec Dench, Tor Erik Hermansen, Mikkel Storleer Eriksen, Beyonce Gisselle Knowles, Published by Sony/ATV Music Publishing (UK) Ltd (PRS), Sony/ATV Music Publishing Canada (SOCAN), EMI April Music Inc. (ASCAP) and EMI Blackwood Music Inc. (BMI), Kobalt Music Services Ltd and David Platz Music (BMI) administered by The Royalty Network, Inc. All rights reserved.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#fe00b7",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33456,
+        66912,
+        98208,
+        129504,
+        160800,
+        192096,
+        223392,
+        254736,
+        286032,
+        317328,
+        348624,
+        379920,
+        411216,
+        442560,
+        473856,
+        505152,
+        536448,
+        567744,
+        599040,
+        630336,
+        661680,
+        692976,
+        724272,
+        755568,
+        786864,
+        818160,
+        849504,
+        880800,
+        912096,
+        943392,
+        974688,
+        1005984,
+        1037280,
+        1068624,
+        1099920,
+        1131216,
+        1162512,
+        1193808,
+        1225104,
+        1256448,
+        1287744,
+        1319040,
+        1350336,
+        1381632,
+        1412928,
+        1444224,
+        1475568,
+        1506864
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 314,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BeautifulLiar/nx/BeautifulLiar_banner_bkg.tga.ckd/3a774050f23ca562757bfe11aceadf56.ckd",
+      "map_bkgImageUrl": "/public/map/BeautifulLiar/nx/BeautifulLiar_map_bkg.tga.ckd/89007a0cf5aaf059c19f01be544d97ca.ckd",
+      "expandCoachImageUrl": "/public/map/BeautifulLiar/nx/BeautifulLiar_Cover_AlbumCoach.tga.ckd/f4acc2931717aa9d9a60ec9fc7969a62.ckd",
+      "cover_smallImageUrl": "/public/map/BeautifulLiar/nx/BeautifulLiar_Cover_Online.tga.ckd/06f45d56af035d94715286eb59d7b8c4.ckd",
+      "coach1ImageUrl": "/public/map/BeautifulLiar/nx/BeautifulLiar_Coach_1.tga.ckd/f3ffa7b73ba8bdef86ff589d96334c7c.ckd",
+      "coach2ImageUrl": "/public/map/BeautifulLiar/nx/BeautifulLiar_Coach_2.tga.ckd/878c16fbcdbdd2216fd784b3dfd29845.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BeautifulLiar/pc/BeautifulLiar_banner_bkg.tga.ckd/c7913fbe52c00137d6426182f90e19f4.ckd",
+      "map_bkgImageUrl": "/public/map/BeautifulLiar/pc/BeautifulLiar_map_bkg.tga.ckd/ac7f8a562a5018f4197d92bf97508dd0.ckd",
+      "expandCoachImageUrl": "/public/map/BeautifulLiar/pc/BeautifulLiar_Cover_AlbumCoach.tga.ckd/7a38e5ef9f646b40878b307f980f8bb4.ckd",
+      "cover_smallImageUrl": "/public/map/BeautifulLiar/pc/BeautifulLiar_Cover_Online.tga.ckd/22a40b7f4ec2ff65b61758ac62fdda05.ckd",
+      "coach1ImageUrl": "/public/map/BeautifulLiar/pc/BeautifulLiar_Coach_1.tga.ckd/8a3a97acdd091a8358b71bf2b5e85d15.ckd",
+      "coach2ImageUrl": "/public/map/BeautifulLiar/pc/BeautifulLiar_Coach_2.tga.ckd/4bfdd0ae7f73486e9e917ccbea0cb0ff.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BeautifulLiar/orbis/BeautifulLiar_banner_bkg.tga.ckd/c7913fbe52c00137d6426182f90e19f4.ckd",
+      "map_bkgImageUrl": "/public/map/BeautifulLiar/orbis/BeautifulLiar_map_bkg.tga.ckd/ac7f8a562a5018f4197d92bf97508dd0.ckd",
+      "expandCoachImageUrl": "/public/map/BeautifulLiar/orbis/BeautifulLiar_Cover_AlbumCoach.tga.ckd/7a38e5ef9f646b40878b307f980f8bb4.ckd",
+      "cover_smallImageUrl": "/public/map/BeautifulLiar/orbis/BeautifulLiar_Cover_Online.tga.ckd/22a40b7f4ec2ff65b61758ac62fdda05.ckd",
+      "coach1ImageUrl": "/public/map/BeautifulLiar/orbis/BeautifulLiar_Coach_1.tga.ckd/8a3a97acdd091a8358b71bf2b5e85d15.ckd",
+      "coach2ImageUrl": "/public/map/BeautifulLiar/orbis/BeautifulLiar_Coach_2.tga.ckd/4bfdd0ae7f73486e9e917ccbea0cb0ff.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BeautifulLiar/BeautifulLiar_Coach_1_Phone.png/654e26f452dd986220eaa13264d62136.png",
+    "phoneCoach2ImageUrl": "/public/map/BeautifulLiar/BeautifulLiar_Coach_2_Phone.png/add5be9d00c3bc260cf2f5ec6c2f7399.png",
+    "phoneCoverImageUrl": "/public/map/BeautifulLiar/BeautifulLiar_Cover_Phone.jpg/43569729fb539a31bf2c814309d5dcdc.jpg",
+    "cover640ImageUrl": "/public/map/BeautifulLiar/BeautifulLiar_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar.ogg": "/private/map/BeautifulLiar/BeautifulLiar.ogg/16ff935d0afb56523e9adc0c85fc0abc.ogg",
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_AudioPreview.ogg": "/public/map/BeautifulLiar/BeautifulLiar_AudioPreview.ogg/45282f3a39fb0332fc26767b815612fa.ogg",
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BeautifulLiar/BeautifulLiar_MapPreviewNoSoundCrop_LOW.vp8.webm/8634327aac5b6eaec2a9aea078629ae9.webm",
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_HIGH.webm": "/private/map/BeautifulLiar/BeautifulLiar_HIGH.webm/8766c5e5d46a0ffb5381067250c50c4c.webm",
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_LOW.webm": "/private/map/BeautifulLiar/BeautifulLiar_LOW.webm/ffee62651b7025653fb4e28fe87ce9b7.webm",
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_MID.webm": "/private/map/BeautifulLiar/BeautifulLiar_MID.webm/dba0b2006cb6a39f90587a158eb222d1.webm",
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_ULTRA.webm": "/private/map/BeautifulLiar/BeautifulLiar_ULTRA.webm/ec4928d73759f05f1d9c4c3c5af0539b.webm",
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_ULTRA.hd.webm": "/private/map/BeautifulLiar/BeautifulLiar_ULTRA.hd.webm/50d40f5c42ee94aecb8ccefc6ed7575e.webm",
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BeautifulLiar/BeautifulLiar_MapPreviewNoSoundCrop_MID.vp8.webm/a0ac748d8191c469eb9913aa4da44851.webm",
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_HIGH.hd.webm": "/private/map/BeautifulLiar/BeautifulLiar_HIGH.hd.webm/e83540998d8174e4f9b246edb4ca5d6f.webm",
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_LOW.hd.webm": "/private/map/BeautifulLiar/BeautifulLiar_LOW.hd.webm/634e9b0a4452b333b93b08f91c58f43b.webm",
+    "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_MID.hd.webm": "/private/map/BeautifulLiar/BeautifulLiar_MID.hd.webm/aed4d56dd844fc19d3d526b53abba0e7.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"514774\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BeautifulLiar/BeautifulLiar_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1505718\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BeautifulLiar/BeautifulLiar_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 204.92
+}

@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8dad0494aeafb9784a6181969ad74858",
+      "storageType": 0,
+      "url": "/public/map/MugsyBaloney/nx/MugsyBaloney_MAIN_SCENE_NX.zip/8dad0494aeafb9784a6181969ad74858.zip"
+    },
+    "pc": {
+      "md5": "4e7d1111e612acd830409522f72d03e9",
+      "storageType": 0,
+      "url": "/public/map/MugsyBaloney/pc/MugsyBaloney_MAIN_SCENE_PC.zip/4e7d1111e612acd830409522f72d03e9.zip"
+    },
+    "ps4": {
+      "md5": "2d745f9c9a8d90c2dae2c58bacb083d3",
+      "storageType": 0,
+      "url": "/public/map/MugsyBaloney/orbis/MugsyBaloney_MAIN_SCENE_ORBIS.zip/2d745f9c9a8d90c2dae2c58bacb083d3.zip"
+    }
+  },
+  "data": {
+    "mapName": "MugsyBaloney",
+    "title": "Mugsy Baloney",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Charleston",
+    "credits": "Written by Gert Wilden. Published by Extreme Production Music USA (ASCAP) and Brilliant-Musik Switzerland Joachim Tautz (SUISA) Courtesy of Extreme Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#8E21D8",
+    "songColor2A": "#FFC65F",
+    "songColor1B": "#36009E",
+    "songColor2B": "#9D001A",
+    "lyricsColor": "#7300FF",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24320,
+        49504,
+        72960,
+        97280,
+        121600,
+        145296,
+        168416,
+        190656,
+        214941,
+        239534,
+        262327,
+        284928,
+        305920,
+        330240,
+        354560,
+        378880,
+        403200,
+        426334,
+        446260,
+        471380,
+        495700,
+        520020,
+        542301,
+        565949,
+        589765,
+        613438,
+        636798,
+        660413,
+        686398,
+        710718,
+        735038,
+        754248,
+        778568,
+        802888,
+        827208,
+        852152,
+        875848,
+        901241,
+        924976,
+        949512,
+        973832,
+        999280,
+        1022472,
+        1047416,
+        1071112,
+        1095432,
+        1119752,
+        1145212,
+        1170536,
+        1194920,
+        1217032,
+        1243720,
+        1268040,
+        1292360,
+        1316680,
+        1341000,
+        1365320,
+        1390824,
+        1413960,
+        1439656
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 2
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 266,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/mugsybaloney/mugsybaloney_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MugsyBaloney/nx/MugsyBaloney_banner_bkg.tga.ckd/89f162d98946bc171559c6a5cf7bf7a0.ckd",
+      "map_bkgImageUrl": "/public/map/MugsyBaloney/nx/MugsyBaloney_map_bkg.tga.ckd/7bb26f9870ef689562a625187c7efe89.ckd",
+      "expandCoachImageUrl": "/public/map/MugsyBaloney/nx/MugsyBaloney_Cover_AlbumCoach.tga.ckd/df663af5853cb4dcab2cf119fb1df1a8.ckd",
+      "cover_smallImageUrl": "/public/map/MugsyBaloney/nx/MugsyBaloney_Cover_Online.tga.ckd/ca7d1fe4a405cfb4a445c8232dcc449b.ckd",
+      "coverImageUrl": "/public/map/MugsyBaloney/nx/MugsyBaloney_Cover_Generic.tga.ckd/9edfa4ebead5a99aac0829e834e815de.ckd",
+      "coach1ImageUrl": "/public/map/MugsyBaloney/nx/MugsyBaloney_Coach_1.tga.ckd/9c6be70355e42e875a98ec4426197ed1.ckd",
+      "coach2ImageUrl": "/public/map/MugsyBaloney/nx/MugsyBaloney_Coach_2.tga.ckd/0156f442fa5fa06f0b7f98c2201c0097.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MugsyBaloney/pc/MugsyBaloney_banner_bkg.tga.ckd/d154288d54138e323688582078e6f73c.ckd",
+      "map_bkgImageUrl": "/public/map/MugsyBaloney/pc/MugsyBaloney_map_bkg.tga.ckd/7f9839196cacf75ba9e7bf996692f326.ckd",
+      "expandCoachImageUrl": "/public/map/MugsyBaloney/pc/MugsyBaloney_Cover_AlbumCoach.tga.ckd/0a0e45e4d29165b15323c72baa0d134f.ckd",
+      "cover_smallImageUrl": "/public/map/MugsyBaloney/pc/MugsyBaloney_Cover_Online.tga.ckd/c9d79df0351075bef7c17dd560a67d17.ckd",
+      "coverImageUrl": "/public/map/MugsyBaloney/pc/MugsyBaloney_Cover_Generic.tga.ckd/c1cf992b932cdedcb211c3ceb397a56b.ckd",
+      "coach1ImageUrl": "/public/map/MugsyBaloney/pc/MugsyBaloney_Coach_1.tga.ckd/f1ebeeb21c924965ef745cedfbc4c29f.ckd",
+      "coach2ImageUrl": "/public/map/MugsyBaloney/pc/MugsyBaloney_Coach_2.tga.ckd/07bc4ca8308a8768cc06c7591c47f1b9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MugsyBaloney/orbis/MugsyBaloney_banner_bkg.tga.ckd/d154288d54138e323688582078e6f73c.ckd",
+      "map_bkgImageUrl": "/public/map/MugsyBaloney/orbis/MugsyBaloney_map_bkg.tga.ckd/7f9839196cacf75ba9e7bf996692f326.ckd",
+      "expandCoachImageUrl": "/public/map/MugsyBaloney/orbis/MugsyBaloney_Cover_AlbumCoach.tga.ckd/0a0e45e4d29165b15323c72baa0d134f.ckd",
+      "cover_smallImageUrl": "/public/map/MugsyBaloney/orbis/MugsyBaloney_Cover_Online.tga.ckd/c9d79df0351075bef7c17dd560a67d17.ckd",
+      "coverImageUrl": "/public/map/MugsyBaloney/orbis/MugsyBaloney_Cover_Generic.tga.ckd/c1cf992b932cdedcb211c3ceb397a56b.ckd",
+      "coach1ImageUrl": "/public/map/MugsyBaloney/orbis/MugsyBaloney_Coach_1.tga.ckd/f1ebeeb21c924965ef745cedfbc4c29f.ckd",
+      "coach2ImageUrl": "/public/map/MugsyBaloney/orbis/MugsyBaloney_Coach_2.tga.ckd/07bc4ca8308a8768cc06c7591c47f1b9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MugsyBaloney/MugsyBaloney_Coach_1_Phone.png/16574114ffa8a7e1f9485e45ecc622e6.png",
+    "phoneCoach2ImageUrl": "/public/map/MugsyBaloney/MugsyBaloney_Coach_2_Phone.png/be88de61d833a6091452981df94ecb6b.png",
+    "phoneCoverImageUrl": "/public/map/MugsyBaloney/MugsyBaloney_Cover_Phone.jpg/0ce47a9f9a5778986936603be3c6785a.jpg",
+    "cover640ImageUrl": "/public/map/MugsyBaloney/MugsyBaloney_Cover_640.png/54233600b31eb9492315c142d92af72a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney.ogg": "/private/map/MugsyBaloney/MugsyBaloney.ogg/4b962acce14fd9bb7e4715150e869758.ogg",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_AudioPreview.ogg": "/public/map/MugsyBaloney/MugsyBaloney_AudioPreview.ogg/1073edc8510c46a9addf87fee7f2cf9b.ogg",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_LOW.vp8.webm/4f59c2421d18a9b5cc95898fa5884074.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_HIGH.webm": "/private/map/MugsyBaloney/MugsyBaloney_HIGH.webm/c5373bd6a46ce58d9a8388cd7c5194f8.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_LOW.webm": "/private/map/MugsyBaloney/MugsyBaloney_LOW.webm/2d0d02d2875b05f005c5ebcaa9a0bac3.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MID.webm": "/private/map/MugsyBaloney/MugsyBaloney_MID.webm/713b94d0410f5b0b1606dc56ed0cbb66.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_ULTRA.hd.webm": "/private/map/MugsyBaloney/MugsyBaloney_ULTRA.hd.webm/9702bc35a686fa2c0f6feb594e010389.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_ULTRA.webm": "/private/map/MugsyBaloney/MugsyBaloney_ULTRA.webm/51ef8cbc62e3dce6061f9fbdf761a1da.webm",
+    "jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_MID.vp8.webm/a82e757bc9d7afd5e9539d80ad7e0c8c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496801\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1446685\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MugsyBaloney/MugsyBaloney_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\n\t\t\t\t\t<Initialization range=\"0-637\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 132.878979
+}

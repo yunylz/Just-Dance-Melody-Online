@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d43336ff225397bd7bdd7c1eb1cc9fde",
+      "storageType": 0,
+      "url": "/public/map/OneThingDLC/nx/OneThingDLC_MAIN_SCENE_NX.zip/d43336ff225397bd7bdd7c1eb1cc9fde.zip"
+    },
+    "pc": {
+      "md5": "ea9f7823e34d789b52aba6c888cd9cbb",
+      "storageType": 0,
+      "url": "/public/map/OneThingDLC/pc/OneThingDLC_MAIN_SCENE_PC.zip/ea9f7823e34d789b52aba6c888cd9cbb.zip"
+    },
+    "ps4": {
+      "md5": "d4de827a5290c7dc140f9f9da7d82a4b",
+      "storageType": 0,
+      "url": "/public/map/OneThingDLC/orbis/OneThingDLC_MAIN_SCENE_ORBIS.zip/d4de827a5290c7dc140f9f9da7d82a4b.zip"
+    }
+  },
+  "data": {
+    "mapName": "OneThingDLC",
+    "title": "One Thing",
+    "originalJDVersion": 4,
+    "tags": [
+      "subscribedSong",
+      "JustDance4",
+      "Duet"
+    ],
+    "artist": "One Direction",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ee40bc"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22656,
+        45360,
+        68016,
+        90720,
+        113376,
+        136080,
+        158736,
+        181440,
+        204096,
+        226752,
+        249456,
+        272112,
+        294816,
+        317472,
+        340176,
+        362832,
+        385488,
+        408192,
+        430848,
+        453552,
+        476208,
+        498912,
+        521568,
+        544272,
+        566928,
+        589584,
+        612289,
+        634945,
+        657649,
+        680305,
+        703009,
+        725665,
+        748369,
+        771025,
+        793681,
+        816385,
+        839041,
+        861745,
+        884401,
+        907105,
+        929761,
+        952465,
+        975121,
+        997777,
+        1020481,
+        1043137,
+        1065841,
+        1088497,
+        1111201,
+        1133857,
+        1156513,
+        1179217,
+        1201874,
+        1224578,
+        1247234,
+        1269938,
+        1292594,
+        1315298,
+        1337954,
+        1360610,
+        1383314,
+        1405970,
+        1428674,
+        1451330,
+        1474034
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 418,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/OneThingDLC/OneThingDLC_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/OneThingDLC/nx/OneThingDLC_banner_bkg.tga.ckd/12396cac0cb2a202d57786461491f32d.ckd",
+      "map_bkgImageUrl": "/public/map/OneThingDLC/nx/OneThingDLC_map_bkg.tga.ckd/eb0ca2e9257093b4e592a4dbe40d2143.ckd",
+      "expandCoachImageUrl": "/public/map/OneThingDLC/nx/OneThingDLC_Cover_AlbumCoach.tga.ckd/3765887c3cf246d77343471d94a057dd.ckd",
+      "cover_smallImageUrl": "/public/map/OneThingDLC/nx/OneThingDLC_Cover_Online.tga.ckd/7a7ed51e26609ae6b06c12af6202d8c4.ckd",
+      "coach1ImageUrl": "/public/map/OneThingDLC/nx/OneThingDLC_Coach_1.tga.ckd/4f83ec852796846a604bf587278db2d2.ckd",
+      "coach2ImageUrl": "/public/map/OneThingDLC/nx/OneThingDLC_Coach_2.tga.ckd/8b37147201bfb446fdc7b68c2190900e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/OneThingDLC/pc/OneThingDLC_banner_bkg.tga.ckd/3e09948de4bf48e1980dd36032c54985.ckd",
+      "map_bkgImageUrl": "/public/map/OneThingDLC/pc/OneThingDLC_map_bkg.tga.ckd/83ac5d7cf68660d6f3ae3a2026b4130d.ckd",
+      "expandCoachImageUrl": "/public/map/OneThingDLC/pc/OneThingDLC_Cover_AlbumCoach.tga.ckd/9dd120dd7dbe9e480bcce6339aa57691.ckd",
+      "cover_smallImageUrl": "/public/map/OneThingDLC/pc/OneThingDLC_Cover_Online.tga.ckd/39e0b3981d3033cdb20c7ea71fd23ff6.ckd",
+      "coach1ImageUrl": "/public/map/OneThingDLC/pc/OneThingDLC_Coach_1.tga.ckd/57603540db14d4ba279a0276e43b4250.ckd",
+      "coach2ImageUrl": "/public/map/OneThingDLC/pc/OneThingDLC_Coach_2.tga.ckd/e93ecb383b22ccc29cd2f8f127142d65.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/OneThingDLC/orbis/OneThingDLC_banner_bkg.tga.ckd/3e09948de4bf48e1980dd36032c54985.ckd",
+      "map_bkgImageUrl": "/public/map/OneThingDLC/orbis/OneThingDLC_map_bkg.tga.ckd/83ac5d7cf68660d6f3ae3a2026b4130d.ckd",
+      "expandCoachImageUrl": "/public/map/OneThingDLC/orbis/OneThingDLC_Cover_AlbumCoach.tga.ckd/9dd120dd7dbe9e480bcce6339aa57691.ckd",
+      "cover_smallImageUrl": "/public/map/OneThingDLC/orbis/OneThingDLC_Cover_Online.tga.ckd/39e0b3981d3033cdb20c7ea71fd23ff6.ckd",
+      "coach1ImageUrl": "/public/map/OneThingDLC/orbis/OneThingDLC_Coach_1.tga.ckd/57603540db14d4ba279a0276e43b4250.ckd",
+      "coach2ImageUrl": "/public/map/OneThingDLC/orbis/OneThingDLC_Coach_2.tga.ckd/e93ecb383b22ccc29cd2f8f127142d65.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/OneThingDLC/OneThingDLC_Coach_1_Phone.png/f0524e0a3bd2e966e9e96aac843bf660.png",
+    "phoneCoach2ImageUrl": "/public/map/OneThingDLC/OneThingDLC_Coach_2_Phone.png/e2ac19bf9e71bad9a1a5825881a9131e.png",
+    "phoneCoverImageUrl": "/public/map/OneThingDLC/OneThingDLC_Cover_Phone.jpg/9f35a556f6f8cdddcb142a44dc449178.jpg",
+    "cover640ImageUrl": "/public/map/OneThingDLC/OneThingDLC_Cover_640.png/7539fb174cc37a8e292407e6a501baef.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC.ogg": "/private/map/OneThingDLC/OneThingDLC.ogg/618e61e641c8d5c7c7583cdfeaf40549.ogg",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_AudioPreview.ogg": "/public/map/OneThingDLC/OneThingDLC_AudioPreview.ogg/888b2da1887e1c2d90f8b2029ca56c20.ogg",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_HIGH.webm": "/private/map/OneThingDLC/OneThingDLC_HIGH.webm/6426223369df8b2a0390b4b0776d3fad.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_LOW.webm": "/private/map/OneThingDLC/OneThingDLC_LOW.webm/fa697621837e6e092a770d4942ef0f8f.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_MID.webm": "/private/map/OneThingDLC/OneThingDLC_MID.webm/2965f0e190f45a108a44be61691d1446.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_ULTRA.hd.webm": "/private/map/OneThingDLC/OneThingDLC_ULTRA.hd.webm/c9e7d876b8b4208d27b225f76f7a17ba.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_ULTRA.webm": "/private/map/OneThingDLC/OneThingDLC_ULTRA.webm/7fc30d6e8335ae9f8221ac0cb8abdbd5.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/e9cf8af6a37a53e35f9d2ef8854167ef.webm",
+    "jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_MID.vp8.webm/5fe1ea73ebe8f48102a910bc69f87bb1.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"509742\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"670-1160\">\n\t\t\t\t\t<Initialization range=\"0-670\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1494027\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/OneThingDLC/OneThingDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"671-1161\">\n\t\t\t\t\t<Initialization range=\"0-671\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 197.486813
+}

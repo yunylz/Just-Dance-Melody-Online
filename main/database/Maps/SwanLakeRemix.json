@@ -1,0 +1,152 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SwanLakeRemix/SwanLakeRemix.ogg": "/private/map/SwanLakeRemix/SwanLakeRemix.ogg/b325d767d6d8ad3e1d75364dcea6af3a.ogg",
+    "jmcs://jd-contents/SwanLakeRemix/SwanLakeRemix_AudioPreview.ogg": "/public/map/SwanLakeRemix/SwanLakeRemix_AudioPreview.ogg/9d625f7a6750266ad3b1bc02c7f272c9.ogg",
+    "jmcs://jd-contents/SwanLakeRemix/SwanLakeRemix_HIGH.hd.webm": "/private/map/SwanLakeRemix/SwanLakeRemix_HIGH.hd.webm/64c77ac8dd4a2b088d54b8ca26feb0bf.webm",
+    "jmcs://jd-contents/SwanLakeRemix/SwanLakeRemix_LOW.hd.webm": "/private/map/SwanLakeRemix/SwanLakeRemix_LOW.hd.webm/04e959a9fab5be767a956ac88b8eaef1.webm",
+    "jmcs://jd-contents/SwanLakeRemix/SwanLakeRemix_MID.hd.webm": "/private/map/SwanLakeRemix/SwanLakeRemix_MID.hd.webm/8bcb41a2cac0e8b9394086185f30a307.webm",
+    "jmcs://jd-contents/SwanLakeRemix/SwanLakeRemix_ULTRA.hd.webm": "/private/map/SwanLakeRemix/SwanLakeRemix_ULTRA.hd.webm/34c4994e0cb610e087ec288386e2cc76.webm",
+    "jmcs://jd-contents/SwanLakeRemix/SwanLakeRemix_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SwanLakeRemix/SwanLakeRemix_MapPreviewNoSoundCrop_LOW.vp8.webm/f73d25e7d71a968ed061b5561cca1718.webm",
+    "jmcs://jd-contents/SwanLakeRemix/SwanLakeRemix_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SwanLakeRemix/SwanLakeRemix_MapPreviewNoSoundCrop_MID.vp8.webm/2ac13aae7332d12bf0c9f692350f703f.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        41143,
+        82286,
+        124842,
+        166353,
+        207864,
+        249376,
+        290887,
+        332399,
+        373910,
+        415421,
+        456933,
+        498444,
+        539956,
+        580413,
+        620870,
+        661327,
+        702838,
+        744350,
+        785861,
+        827373,
+        868884,
+        910395,
+        951907,
+        993418,
+        1034930,
+        1076441,
+        1117952,
+        1159464,
+        1200180,
+        1240895,
+        1281611,
+        1316696,
+        1337268,
+        1357839,
+        1378411,
+        1398982,
+        1419553,
+        1440125,
+        1460696,
+        1481268
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -17,
+      "endBeat": 453,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 38,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SwanLakeRemix/SwanLakeRemix_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"580349\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SwanLakeRemix/SwanLakeRemix_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2034002\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SwanLakeRemix/SwanLakeRemix_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "e608898616b5ca953966ca8f519c84d3",
+      "storageType": 0,
+      "url": "/public/map/SwanLakeRemix/nx/SwanLakeRemix_MAIN_SCENE_NX.zip/e608898616b5ca953966ca8f519c84d3.zip"
+    },
+    "pc": {
+      "md5": "c7d429a5859c150accb319fece510915",
+      "storageType": 0,
+      "url": "/public/map/SwanLakeRemix/pc/SwanLakeRemix_MAIN_SCENE_PC.zip/c7d429a5859c150accb319fece510915.zip"
+    },
+    "ps4": {
+      "md5": "c6b423c1ba87020e1b5a096a9a0bf3ba",
+      "storageType": 0,
+      "url": "/public/map/SwanLakeRemix/orbis/SwanLakeRemix_MAIN_SCENE_ORBIS.zip/c6b423c1ba87020e1b5a096a9a0bf3ba.zip"
+    }
+  },
+  "data": {
+    "mapName": "SwanLakeRemix",
+    "title": "Swan Lake",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Just Dance Orchestra",
+    "credits": "Written by Piotr Ilitch Tchaïkovski. Published by Ubisoft Music. Produced, recorded and mixed by Steve Ouimette. Strings by Pete Whitfield.  Brass by Meredith Moore.  All rights reserved. Used with permission. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#cb25bb",
+    "songColor2A": "#9b44fe",
+    "songColor1B": "#480b78",
+    "songColor2B": "#3b0c9b",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SwanLakeRemix/nx/SwanLakeRemix_banner_bkg.tga.ckd/aabf4e88601f5bc00a774dcbef4a74eb.ckd",
+      "map_bkgImageUrl": "/public/map/SwanLakeRemix/nx/SwanLakeRemix_map_bkg.tga.ckd/f758dc91afbd150ee9ecc3e600bdd4ec.ckd",
+      "expandCoachImageUrl": "/public/map/SwanLakeRemix/nx/SwanLakeRemix_Cover_AlbumCoach.tga.ckd/7f54c9cf2a4afb0fdbb905b96f8833c6.ckd",
+      "cover_smallImageUrl": "/public/map/SwanLakeRemix/nx/SwanLakeRemix_Cover_Online.tga.ckd/85919784c5fb6939583b84dbd2378c28.ckd",
+      "coverImageUrl": "/public/map/SwanLakeRemix/nx/SwanLakeRemix_Cover_Generic.tga.ckd/d7e7ba8e1fa3300a7c8e092118b1c082.ckd",
+      "coach1ImageUrl": "/public/map/SwanLakeRemix/nx/SwanLakeRemix_Coach_1.tga.ckd/1ae3b71adf1f33f9c7c288306ef655d4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SwanLakeRemix/pc/SwanLakeRemix_banner_bkg.tga.ckd/14b1c7c1737e9a1702b48ee4924a9362.ckd",
+      "map_bkgImageUrl": "/public/map/SwanLakeRemix/pc/SwanLakeRemix_map_bkg.tga.ckd/65c94153dcb1c7e91795f81dc8ec6d6a.ckd",
+      "expandCoachImageUrl": "/public/map/SwanLakeRemix/pc/SwanLakeRemix_Cover_AlbumCoach.tga.ckd/130c209bfff10ec081515570c0752ceb.ckd",
+      "cover_smallImageUrl": "/public/map/SwanLakeRemix/pc/SwanLakeRemix_Cover_Online.tga.ckd/e99e4022a32b89297915101c49be3102.ckd",
+      "coverImageUrl": "/public/map/SwanLakeRemix/pc/SwanLakeRemix_Cover_Generic.tga.ckd/ce7f43bde2b2fe141e642a5adc84d067.ckd",
+      "coach1ImageUrl": "/public/map/SwanLakeRemix/pc/SwanLakeRemix_Coach_1.tga.ckd/c634d2eaf89de33f71e585e86f8eb423.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SwanLakeRemix/orbis/SwanLakeRemix_banner_bkg.tga.ckd/14b1c7c1737e9a1702b48ee4924a9362.ckd",
+      "map_bkgImageUrl": "/public/map/SwanLakeRemix/orbis/SwanLakeRemix_map_bkg.tga.ckd/65c94153dcb1c7e91795f81dc8ec6d6a.ckd",
+      "expandCoachImageUrl": "/public/map/SwanLakeRemix/orbis/SwanLakeRemix_Cover_AlbumCoach.tga.ckd/130c209bfff10ec081515570c0752ceb.ckd",
+      "cover_smallImageUrl": "/public/map/SwanLakeRemix/orbis/SwanLakeRemix_Cover_Online.tga.ckd/e99e4022a32b89297915101c49be3102.ckd",
+      "coverImageUrl": "/public/map/SwanLakeRemix/orbis/SwanLakeRemix_Cover_Generic.tga.ckd/ce7f43bde2b2fe141e642a5adc84d067.ckd",
+      "coach1ImageUrl": "/public/map/SwanLakeRemix/orbis/SwanLakeRemix_Coach_1.tga.ckd/c634d2eaf89de33f71e585e86f8eb423.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SwanLakeRemix/SwanLakeRemix_Coach_1_Phone.png/f04637308a136a67665b8d05aa9363f0.png",
+    "phoneCoverImageUrl": "/public/map/SwanLakeRemix/SwanLakeRemix_Cover_Phone.jpg/2ae3534a474540a181dd86a578bdbf1c.jpg",
+    "cover640ImageUrl": "/public/map/SwanLakeRemix/SwanLakeRemix_Cover_640.png/7cab6bbd18a9bf25074481e875d5b5c7.png"
+  },
+  "mapLength": 225.527542
+}

@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Funk/Funk.ogg": "/private/map/Funk/Funk.ogg/8645aad01325518dc41e1c43a29f01e8.ogg",
+    "jmcs://jd-contents/Funk/Funk_AudioPreview.ogg": "/public/map/Funk/Funk_AudioPreview.ogg/fc585b9372bbd55db57d127c7a3f30e8.ogg",
+    "jmcs://jd-contents/Funk/Funk_HIGH.hd.webm": "/private/map/Funk/Funk_HIGH.hd.webm/788388af3a74f8d444f0661fb35621d6.webm",
+    "jmcs://jd-contents/Funk/Funk_LOW.hd.webm": "/private/map/Funk/Funk_LOW.hd.webm/418fe997db2435a1dc6b9acdfa1e7b34.webm",
+    "jmcs://jd-contents/Funk/Funk_MID.hd.webm": "/private/map/Funk/Funk_MID.hd.webm/c8e1ebde86e9532a14fc0d8f5a0ee04c.webm",
+    "jmcs://jd-contents/Funk/Funk_ULTRA.hd.webm": "/private/map/Funk/Funk_ULTRA.hd.webm/3110b0ef31e7b89db13be778232a6053.webm",
+    "jmcs://jd-contents/Funk/Funk_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Funk/Funk_MapPreviewNoSoundCrop_LOW.vp8.webm/b4cc2dbd64fa19fa4967c6968c74f837.webm",
+    "jmcs://jd-contents/Funk/Funk_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Funk/Funk_MapPreviewNoSoundCrop_MID.vp8.webm/cc9e676456f9cc015b8255a45c2995b0.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26667,
+        53333,
+        80000,
+        106667,
+        133333,
+        160000,
+        186667,
+        213333,
+        240000,
+        266667,
+        293333,
+        320000,
+        346667,
+        373333,
+        400000,
+        426667,
+        453333,
+        480000,
+        506667,
+        533333,
+        560000,
+        586667,
+        613333,
+        640000,
+        666667,
+        693333,
+        720000,
+        746667,
+        773333,
+        800000,
+        826667,
+        853333,
+        880000,
+        906667,
+        933333,
+        960000,
+        986667,
+        1013333,
+        1040000,
+        1066667,
+        1093333,
+        1120000,
+        1146667,
+        1173333,
+        1200000,
+        1226667,
+        1253333,
+        1280000,
+        1306667,
+        1333333,
+        1360000,
+        1386667,
+        1413333,
+        1440000,
+        1466667,
+        1493333
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 341,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Funk/Funk_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "8de0b98c3ca534638b73865a933cfa63",
+      "storageType": 0,
+      "url": "/public/map/Funk/nx/Funk_MAIN_SCENE_NX.zip/8de0b98c3ca534638b73865a933cfa63.zip"
+    },
+    "pc": {
+      "md5": "c4833d689a9a14c8abe1280ccb404d62",
+      "storageType": 0,
+      "url": "/public/map/Funk/pc/Funk_MAIN_SCENE_PC.zip/c4833d689a9a14c8abe1280ccb404d62.zip"
+    },
+    "ps4": {
+      "md5": "60456ab39d1085207e76532cfeb26178",
+      "storageType": 0,
+      "url": "/public/map/Funk/orbis/Funk_MAIN_SCENE_ORBIS.zip/60456ab39d1085207e76532cfeb26178.zip"
+    }
+  },
+  "data": {
+    "mapName": "Funk",
+    "title": "Funk",
+    "originalJDVersion": 2022,
+    "tags": [
+      "main"
+    ],
+    "artist": "Meghan Trainor",
+    "credits": " Written by Ryan Trainor, Eddie Benjamin, Michael Sabath and Meghan Elizabeth Trainor. Published by Year of the Dog Music, MTrain Music. / Sony/ATV Songs LLC (BMI) / Sony/ATV Ballad (BMI). / Copyright Control. All rights reserved. Used with permission. Courtesy of Epic Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#ff9f23",
+    "songColor2A": "#120094",
+    "songColor1B": "#a72eff",
+    "songColor2B": "#bc99ff",
+    "lyricsColor": "#06e6ff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Funk/nx/Funk_banner_bkg.tga.ckd/85ae8b583a845c92c0db6ba7bfa6b540.ckd",
+      "map_bkgImageUrl": "/public/map/Funk/nx/Funk_map_bkg.tga.ckd/5c41b8f4c20558a5934acaae2867cfab.ckd",
+      "expandCoachImageUrl": "/public/map/Funk/nx/Funk_Cover_AlbumCoach.tga.ckd/2bc56732b103840968a75548b8b2b51a.ckd",
+      "cover_smallImageUrl": "/public/map/Funk/nx/Funk_Cover_Online.tga.ckd/32cd22c9eb3ec54e4cff3021fce78388.ckd",
+      "coverImageUrl": "/public/map/Funk/nx/Funk_Cover_Generic.tga.ckd/3eb8b14c166688a744192f53ac61f0a5.ckd",
+      "coach1ImageUrl": "/public/map/Funk/nx/Funk_Coach_1.tga.ckd/cf8a0796843709ca2aad3d7270c0e02c.ckd",
+      "coach2ImageUrl": "/public/map/Funk/nx/Funk_Coach_2.tga.ckd/98d09771e0207582c9e44e38818c6dc2.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Funk/pc/Funk_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/Funk/pc/Funk_map_bkg.tga.ckd/979cfc831cad5b27c08f068a1cea6f7d.ckd",
+      "expandCoachImageUrl": "/public/map/Funk/pc/Funk_Cover_AlbumCoach.tga.ckd/eeebfb2430a844e21d23e0044025d279.ckd",
+      "cover_smallImageUrl": "/public/map/Funk/pc/Funk_Cover_Online.tga.ckd/b38fac9279fc82c82084f2d940d2d9e1.ckd",
+      "coverImageUrl": "/public/map/Funk/pc/Funk_Cover_Generic.tga.ckd/67202d566dadf3adb682a3fcc0767693.ckd",
+      "coach1ImageUrl": "/public/map/Funk/pc/Funk_Coach_1.tga.ckd/ca3bdb441f44cd94aa02299cfc6fc272.ckd",
+      "coach2ImageUrl": "/public/map/Funk/pc/Funk_Coach_2.tga.ckd/d648e8351eb0df7641008ded6025e886.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Funk/orbis/Funk_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/Funk/orbis/Funk_map_bkg.tga.ckd/979cfc831cad5b27c08f068a1cea6f7d.ckd",
+      "expandCoachImageUrl": "/public/map/Funk/orbis/Funk_Cover_AlbumCoach.tga.ckd/eeebfb2430a844e21d23e0044025d279.ckd",
+      "cover_smallImageUrl": "/public/map/Funk/orbis/Funk_Cover_Online.tga.ckd/b38fac9279fc82c82084f2d940d2d9e1.ckd",
+      "coverImageUrl": "/public/map/Funk/orbis/Funk_Cover_Generic.tga.ckd/67202d566dadf3adb682a3fcc0767693.ckd",
+      "coach1ImageUrl": "/public/map/Funk/orbis/Funk_Coach_1.tga.ckd/ca3bdb441f44cd94aa02299cfc6fc272.ckd",
+      "coach2ImageUrl": "/public/map/Funk/orbis/Funk_Coach_2.tga.ckd/d648e8351eb0df7641008ded6025e886.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Funk/Funk_Coach_1_Phone.png/19e761e7d599e1e0b10067da9c2f182b.png",
+    "phoneCoach2ImageUrl": "/public/map/Funk/Funk_Coach_2_Phone.png/dd42db2cef33d9d2bb9966558180b6c3.png",
+    "phoneCoverImageUrl": "/public/map/Funk/Funk_Cover_Phone.jpg/2af806e59b9e01d8d0d4b45ba75a6537.jpg",
+    "cover640ImageUrl": "/public/map/Funk/Funk_Cover_640.png/537bda35a8c416f78ce9edd1bb950eaf.png"
+  },
+  "mapLength": 191.666646
+}

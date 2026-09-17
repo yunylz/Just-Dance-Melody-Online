@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "0cc8cad029df7811124f9be5b9b7b8b0",
+      "storageType": 0,
+      "url": "/public/map/StopThisFire/nx/StopThisFire_MAIN_SCENE_NX.zip/0cc8cad029df7811124f9be5b9b7b8b0.zip"
+    },
+    "pc": {
+      "md5": "225dd7e9b092993f74cfe79b5b6b6993",
+      "storageType": 0,
+      "url": "/public/map/StopThisFire/pc/StopThisFire_MAIN_SCENE_PC.zip/225dd7e9b092993f74cfe79b5b6b6993.zip"
+    },
+    "ps4": {
+      "md5": "e3a09484c96780cd50bd6188ebf31286",
+      "storageType": 0,
+      "url": "/public/map/StopThisFire/orbis/StopThisFire_MAIN_SCENE_ORBIS.zip/e3a09484c96780cd50bd6188ebf31286.zip"
+    }
+  },
+  "data": {
+    "mapName": "StopThisFire",
+    "title": "Stop This Fire",
+    "originalJDVersion": 2025,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Nius",
+    "credits": "Written by Yoshi Breen, Tiina Vainikainen, Teemu Brunila.\r\nPublished by Kobalt Music Publishing / Nordic Partners.\r\nCourtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ffbb79",
+    "songColor2A": "#25bfff",
+    "songColor1B": "#724b26",
+    "songColor2B": "#117697",
+    "lyricsColor": "#30a5f1"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24202,
+        48403,
+        72605,
+        96807,
+        121008,
+        145210,
+        169412,
+        193613,
+        217815,
+        242017,
+        266218,
+        290420,
+        314622,
+        338824,
+        363025,
+        387597,
+        412168,
+        436168,
+        460168,
+        484168,
+        508739,
+        532927,
+        557114,
+        580393,
+        604208,
+        629176,
+        653363,
+        677935,
+        702506,
+        727078,
+        750711,
+        774345,
+        798532,
+        822720,
+        846907,
+        871095,
+        895282,
+        919470,
+        943657,
+        968229,
+        992416,
+        1016604,
+        1040791,
+        1064979,
+        1089166,
+        1113354,
+        1137541,
+        1161729,
+        1185916,
+        1210104,
+        1234291,
+        1258479,
+        1282666,
+        1306854,
+        1331041,
+        1355229,
+        1379416,
+        1403604,
+        1427791,
+        1451979,
+        1476166,
+        1500354
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -21,
+      "endBeat": 412,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/StopThisFire/StopThisFire_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/StopThisFire/nx/StopThisFire_banner_bkg.tga.ckd/7db971a236bd45fc16c3cb43536aefc8.ckd",
+      "map_bkgImageUrl": "/public/map/StopThisFire/nx/StopThisFire_map_bkg.tga.ckd/0e6a08007a4ed6bffca4e25d4d3fe555.ckd",
+      "expandCoachImageUrl": "/public/map/StopThisFire/nx/StopThisFire_Cover_AlbumCoach.tga.ckd/b6743caff5b9c598bfc58abb53805e4e.ckd",
+      "cover_smallImageUrl": "/public/map/StopThisFire/nx/StopThisFire_Cover_Online.tga.ckd/8fa3c3c6ff4db1cdf9ad501a3ae226ce.ckd",
+      "coverImageUrl": "/public/map/StopThisFire/nx/StopThisFire_Cover_Generic.tga.ckd/62009721e802ab5d7b6cf764330008ad.ckd",
+      "coach1ImageUrl": "/public/map/StopThisFire/nx/StopThisFire_Coach_1.tga.ckd/74f69d924e573da8846a6c1114ed8f57.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/StopThisFire/pc/StopThisFire_banner_bkg.tga.ckd/eaec7af7a52d07313511f7dbcbd91640.ckd",
+      "map_bkgImageUrl": "/public/map/StopThisFire/pc/StopThisFire_map_bkg.tga.ckd/21e5fc8aea1a5e115abe00ac6b507aca.ckd",
+      "expandCoachImageUrl": "/public/map/StopThisFire/pc/StopThisFire_Cover_AlbumCoach.tga.ckd/ebf2401384b05481f6932ff7291d6af4.ckd",
+      "cover_smallImageUrl": "/public/map/StopThisFire/pc/StopThisFire_Cover_Online.tga.ckd/b6e6e34d398176a7c019f4e6980c79da.ckd",
+      "coverImageUrl": "/public/map/StopThisFire/pc/StopThisFire_Cover_Generic.tga.ckd/afd93478efd84301298c691ecc70a21a.ckd",
+      "coach1ImageUrl": "/public/map/StopThisFire/pc/StopThisFire_Coach_1.tga.ckd/55b26e46e623a77fac10164768e88211.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/StopThisFire/orbis/StopThisFire_banner_bkg.tga.ckd/eaec7af7a52d07313511f7dbcbd91640.ckd",
+      "map_bkgImageUrl": "/public/map/StopThisFire/orbis/StopThisFire_map_bkg.tga.ckd/21e5fc8aea1a5e115abe00ac6b507aca.ckd",
+      "expandCoachImageUrl": "/public/map/StopThisFire/orbis/StopThisFire_Cover_AlbumCoach.tga.ckd/ebf2401384b05481f6932ff7291d6af4.ckd",
+      "cover_smallImageUrl": "/public/map/StopThisFire/orbis/StopThisFire_Cover_Online.tga.ckd/b6e6e34d398176a7c019f4e6980c79da.ckd",
+      "coverImageUrl": "/public/map/StopThisFire/orbis/StopThisFire_Cover_Generic.tga.ckd/afd93478efd84301298c691ecc70a21a.ckd",
+      "coach1ImageUrl": "/public/map/StopThisFire/orbis/StopThisFire_Coach_1.tga.ckd/55b26e46e623a77fac10164768e88211.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/StopThisFire/StopThisFire_Coach_1_Phone.png/af947ae33c4b63ed6e795059c2d78aeb.png",
+    "phoneCoverImageUrl": "/public/map/StopThisFire/StopThisFire_Cover_Phone.jpg/8f0b2260f6a893a5e044ac6a513f3b6e.jpg",
+    "cover640ImageUrl": "/public/map/StopThisFire/StopThisFire_Cover_640.png/39244f18f435f9e5e2c74b52afee3302.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/StopThisFire/StopThisFire.ogg": "/private/map/StopThisFire/StopThisFire.ogg/b2dd0ed2696f19f9e405f6ebcedd0c59.ogg",
+    "jmcs://jd-contents/StopThisFire/StopThisFire_AudioPreview.ogg": "/public/map/StopThisFire/StopThisFire_AudioPreview.ogg/4b185764d6cfd7557437a2bff8d7cc7a.ogg",
+    "jmcs://jd-contents/StopThisFire/StopThisFire_HIGH.webm": "/private/map/StopThisFire/StopThisFire_HIGH.webm/b7fd6c62614f1b6085582f0a393f0c5f.webm",
+    "jmcs://jd-contents/StopThisFire/StopThisFire_LOW.webm": "/private/map/StopThisFire/StopThisFire_LOW.webm/d1e0d28842f789f2d7cae6516babee81.webm",
+    "jmcs://jd-contents/StopThisFire/StopThisFire_MID.webm": "/private/map/StopThisFire/StopThisFire_MID.webm/9313df58dce834b486c1805a61a1c94f.webm",
+    "jmcs://jd-contents/StopThisFire/StopThisFire_ULTRA.webm": "/private/map/StopThisFire/StopThisFire_ULTRA.webm/df0a5b54d5b40f8f8d5af86f98fa7881.webm",
+    "jmcs://jd-contents/StopThisFire/StopThisFire_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/StopThisFire/StopThisFire_MapPreviewNoSoundCrop_LOW.vp8.webm/1e4516959666ee687c532e95bd254fc9.webm",
+    "jmcs://jd-contents/StopThisFire/StopThisFire_ULTRA.hd.webm": "/private/map/StopThisFire/StopThisFire_ULTRA.hd.webm/9f5bac30c37aed520bc31c06d8986b53.webm",
+    "jmcs://jd-contents/StopThisFire/StopThisFire_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/StopThisFire/StopThisFire_MapPreviewNoSoundCrop_MID.vp8.webm/df7525267cff2432e62ddb26e7bacca6.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"513588\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StopThisFire/StopThisFire_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"664-1154\">\n\t\t\t\t\t<Initialization range=\"0-664\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1504103\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StopThisFire/StopThisFire_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"665-1155\">\n\t\t\t\t\t<Initialization range=\"0-665\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 218.332188
+}

@@ -1,0 +1,164 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c5f8a35ac5d18ced605f67d11ab12d2c",
+      "storageType": 0,
+      "url": "/public/map/MadLove/nx/MadLove_MAIN_SCENE_NX.zip/c5f8a35ac5d18ced605f67d11ab12d2c.zip"
+    },
+    "pc": {
+      "md5": "e1c8bcfafb7446956bb7d17495b2e7c1",
+      "storageType": 0,
+      "url": "/public/map/MadLove/pc/MadLove_MAIN_SCENE_PC.zip/e1c8bcfafb7446956bb7d17495b2e7c1.zip"
+    },
+    "ps4": {
+      "md5": "21fc01173fc81dd4b223b29a26ea0a51",
+      "storageType": 0,
+      "url": "/public/map/MadLove/orbis/MadLove_MAIN_SCENE_ORBIS.zip/21fc01173fc81dd4b223b29a26ea0a51.zip"
+    }
+  },
+  "data": {
+    "mapName": "MadLove",
+    "title": "Mad Love",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sean Paul, David Guetta Ft. Becky G",
+    "credits": "Written by Jack Patterson, Shakira Mebarak, Sean Paul Henriques, David Guetta, Giorgio Tuinfort, Ina Wroldsen, Diztortion, Emily Schwartz and Soaky Siren. Published by EMI Music Publishing Ltd. (PRS) c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) and MyMPM Music / Sony/ATV Melody c/o Sony/ATV Music Publishing Canada (SOCAN)/ Reservoir 416 (BMI) / Jackback Publishing Ltd. / Piano Songs / BMG Talpa Music B.V. (BUMA) / Kobalt Music Services America Inc (KMSA) obo Circa 242 (ASCAP) / Prescription Songs (ASCAP) / Havenwood House (ASCAP) / Warner/Chappell Music Ltd (PRS). All rights on behalf of Warner/Chappell Music Ltd administered by WB Music Corp. All rights reserved. Used with permission. Courtesy of Island Records Ltd./Island Records under license from Universal Music Enterprises. / Becky G. appears courtesy of Kemosabe Records/RCA Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#023144",
+    "songColor2A": "#fc7be0",
+    "songColor1B": "#015b6b",
+    "songColor2B": "#9f20bf",
+    "lyricsColor": "#9ce63c"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29375,
+        58751,
+        88175,
+        117551,
+        146927,
+        176303,
+        205727,
+        235103,
+        264479,
+        293855,
+        323279,
+        352655,
+        382031,
+        411407,
+        440831,
+        470207,
+        499583,
+        528959,
+        558383,
+        587759,
+        617135,
+        646511,
+        675935,
+        705311,
+        734687,
+        764063,
+        793487,
+        822863,
+        852239,
+        881615,
+        911039,
+        940415,
+        969791,
+        999167,
+        1028591,
+        1057967,
+        1087343,
+        1116719,
+        1146143,
+        1175519,
+        1204895,
+        1234271,
+        1263695,
+        1293071,
+        1322447,
+        1351823,
+        1381198,
+        1410622,
+        1439998,
+        1469374,
+        1498750
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 326,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MadLove/MadLove_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MadLove/nx/MadLove_banner_bkg.tga.ckd/f1e1c831588e69ae5dc1ec362c96d269.ckd",
+      "map_bkgImageUrl": "/public/map/MadLove/nx/MadLove_map_bkg.tga.ckd/13a727ed0424eb0279d611a94e412252.ckd",
+      "expandCoachImageUrl": "/public/map/MadLove/nx/MadLove_Cover_AlbumCoach.tga.ckd/0e9932adc4e623e294bb5884a9ef1218.ckd",
+      "cover_smallImageUrl": "/public/map/MadLove/nx/MadLove_Cover_Online.tga.ckd/45372cc48af5937e58aa7889673abcd9.ckd",
+      "coach1ImageUrl": "/public/map/MadLove/nx/MadLove_Coach_1.tga.ckd/c3e06b1ab2e9a254de8cca233e6f5c9f.ckd",
+      "coach2ImageUrl": "/public/map/MadLove/nx/MadLove_Coach_2.tga.ckd/b494e5fbf19d03f6b0f35f9c1d99c3ff.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MadLove/pc/MadLove_banner_bkg.tga.ckd/1e170e68317126f590a134350274ea0d.ckd",
+      "map_bkgImageUrl": "/public/map/MadLove/pc/MadLove_map_bkg.tga.ckd/7def6f103860bb8aa8b650696c085781.ckd",
+      "expandCoachImageUrl": "/public/map/MadLove/pc/MadLove_Cover_AlbumCoach.tga.ckd/f834f0d5c00a953c2c67918343573d6e.ckd",
+      "cover_smallImageUrl": "/public/map/MadLove/pc/MadLove_Cover_Online.tga.ckd/8e40f7b147e51a68607c4fe465db6e04.ckd",
+      "coach1ImageUrl": "/public/map/MadLove/pc/MadLove_Coach_1.tga.ckd/5a061f20d49c48dbf2ba3ba9c8ac4c2b.ckd",
+      "coach2ImageUrl": "/public/map/MadLove/pc/MadLove_Coach_2.tga.ckd/c81cd0df2dc99ac6967b10cc37ccfb7b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MadLove/orbis/MadLove_banner_bkg.tga.ckd/1e170e68317126f590a134350274ea0d.ckd",
+      "map_bkgImageUrl": "/public/map/MadLove/orbis/MadLove_map_bkg.tga.ckd/7def6f103860bb8aa8b650696c085781.ckd",
+      "expandCoachImageUrl": "/public/map/MadLove/orbis/MadLove_Cover_AlbumCoach.tga.ckd/f834f0d5c00a953c2c67918343573d6e.ckd",
+      "cover_smallImageUrl": "/public/map/MadLove/orbis/MadLove_Cover_Online.tga.ckd/8e40f7b147e51a68607c4fe465db6e04.ckd",
+      "coach1ImageUrl": "/public/map/MadLove/orbis/MadLove_Coach_1.tga.ckd/5a061f20d49c48dbf2ba3ba9c8ac4c2b.ckd",
+      "coach2ImageUrl": "/public/map/MadLove/orbis/MadLove_Coach_2.tga.ckd/c81cd0df2dc99ac6967b10cc37ccfb7b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MadLove/MadLove_Coach_1_Phone.png/c51d5de25e8245cd9c97042f8efd1850.png",
+    "phoneCoach2ImageUrl": "/public/map/MadLove/MadLove_Coach_2_Phone.png/1d9f006ecf7527655c38b29d9ac6fe93.png",
+    "phoneCoverImageUrl": "/public/map/MadLove/MadLove_Cover_Phone.jpg/c10daa40b049abc7112a2aed85b8ac01.jpg",
+    "cover640ImageUrl": "/public/map/MadLove/MadLove_Cover_640.png/eb75cb6e746ab5bcf6d945052492446a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MadLove/MadLove.ogg": "/private/map/MadLove/MadLove.ogg/268d8f1f349be3eb89df687d794167de.ogg",
+    "jmcs://jd-contents/MadLove/MadLove_AudioPreview.ogg": "/public/map/MadLove/MadLove_AudioPreview.ogg/6543129c0bc5bd1ee90e27c5fe9651bc.ogg",
+    "jmcs://jd-contents/MadLove/MadLove_HIGH.webm": "/private/map/MadLove/MadLove_HIGH.webm/c6d20b6ee20821a7c22f20c4e3645224.webm",
+    "jmcs://jd-contents/MadLove/MadLove_LOW.webm": "/private/map/MadLove/MadLove_LOW.webm/303a43e0ec297078046758c62387a403.webm",
+    "jmcs://jd-contents/MadLove/MadLove_MID.webm": "/private/map/MadLove/MadLove_MID.webm/0cb18d3d468972310d98f1fa22d75c7e.webm",
+    "jmcs://jd-contents/MadLove/MadLove_ULTRA.hd.webm": "/private/map/MadLove/MadLove_ULTRA.hd.webm/80fc67986993718a70da18da7413184f.webm",
+    "jmcs://jd-contents/MadLove/MadLove_ULTRA.webm": "/private/map/MadLove/MadLove_ULTRA.webm/b10d89378ac57a6ca4bf86f9f64f61cf.webm",
+    "jmcs://jd-contents/MadLove/MadLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MadLove/MadLove_MapPreviewNoSoundCrop_LOW.vp8.webm/8e231641851ecda4ff3b90d637309c3d.webm",
+    "jmcs://jd-contents/MadLove/MadLove_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MadLove/MadLove_MapPreviewNoSoundCrop_MID.vp8.webm/24525215c6db77c556263a8890aaa097.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497423\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MadLove/MadLove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\n\t\t\t\t\t<Initialization range=\"0-619\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483540\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MadLove/MadLove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\n\t\t\t\t\t<Initialization range=\"0-620\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 202.653
+}

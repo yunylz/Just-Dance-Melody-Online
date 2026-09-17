@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7e24b9fc88cf10485cd9212e68d4a482",
+      "storageType": 0,
+      "url": "/public/map/BedtimeStoryCHN/nx/BedtimeStoryCHN_MAIN_SCENE_NX.zip/7e24b9fc88cf10485cd9212e68d4a482.zip"
+    },
+    "pc": {
+      "md5": "ee9ee1fd2f4f1266c588c7c32f501934",
+      "storageType": 0,
+      "url": "/public/map/BedtimeStoryCHN/pc/BedtimeStoryCHN_MAIN_SCENE_PC.zip/ee9ee1fd2f4f1266c588c7c32f501934.zip"
+    },
+    "ps4": {
+      "md5": "263fde9c8d73fbfbe0acd73cf22a8171",
+      "storageType": 0,
+      "url": "/public/map/BedtimeStoryCHN/orbis/BedtimeStoryCHN_MAIN_SCENE_ORBIS.zip/263fde9c8d73fbfbe0acd73cf22a8171.zip"
+    }
+  },
+  "data": {
+    "mapName": "BedtimeStoryCHN",
+    "title": "Bedtime Stories (床边故事)",
+    "originalJDVersion": 1102,
+    "tags": [
+      "subscribedSong",
+      "JustDanceAsia",
+      "Quartet",
+      "Medium"
+    ],
+    "artist": "Jay Chou (周杰伦)",
+    "credits": "EMPTY",
+    "coachCount": 4,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#003cff",
+    "songColor2A": "#cd0087",
+    "songColor1B": "#00095f",
+    "songColor2B": "#560059",
+    "lyricsColor": "#e44708"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27168,
+        54336,
+        81504,
+        108672,
+        135840,
+        163008,
+        190176,
+        217344,
+        243456,
+        269616,
+        296784,
+        323952,
+        351504,
+        379056,
+        406608,
+        434160,
+        460896,
+        487632,
+        514417,
+        541153,
+        568273,
+        595393,
+        622561,
+        649681,
+        676801,
+        703921,
+        731041,
+        758209,
+        785329,
+        812449,
+        840145,
+        867793,
+        894961,
+        922081,
+        949249,
+        976369,
+        1003297,
+        1030226,
+        1057106,
+        1083938,
+        1111250,
+        1138610,
+        1165970,
+        1193330,
+        1220498,
+        1247666,
+        1274834,
+        1302002,
+        1329074,
+        1356194,
+        1383266,
+        1410338,
+        1437506,
+        1464674,
+        1491842
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 394,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BedtimeStoryCHN/nx/BedtimeStoryCHN_banner_bkg.tga.ckd/0b07368e85523d84db4a8b0ec591cc8a.ckd",
+      "map_bkgImageUrl": "/public/map/BedtimeStoryCHN/nx/BedtimeStoryCHN_map_bkg.tga.ckd/939ebc89716c2b639c2df345a2569d16.ckd",
+      "expandCoachImageUrl": "/public/map/BedtimeStoryCHN/nx/BedtimeStoryCHN_Cover_AlbumCoach.tga.ckd/0a82f9817f94d668d76459a2998984c6.ckd",
+      "cover_smallImageUrl": "/public/map/BedtimeStoryCHN/nx/BedtimeStoryCHN_Cover_Online.tga.ckd/56d5e22b10b23202f8152bd6cc991a26.ckd",
+      "coach1ImageUrl": "/public/map/BedtimeStoryCHN/nx/BedtimeStoryCHN_Coach_1.tga.ckd/2d418ca053e825eb73ba8c3b45d82181.ckd",
+      "coach2ImageUrl": "/public/map/BedtimeStoryCHN/nx/BedtimeStoryCHN_Coach_2.tga.ckd/7aff820d6b034e6a3d3ae210e6d78328.ckd",
+      "coach3ImageUrl": "/public/map/BedtimeStoryCHN/nx/BedtimeStoryCHN_Coach_3.tga.ckd/5b8cbd271bf107e92db51996ab4083e9.ckd",
+      "coach4ImageUrl": "/public/map/BedtimeStoryCHN/nx/BedtimeStoryCHN_Coach_4.tga.ckd/e5e362b021753e3ba0f8d37df7794403.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BedtimeStoryCHN/pc/BedtimeStoryCHN_banner_bkg.tga.ckd/751ce9c1b95a948a08b4ba291e6a457c.ckd",
+      "map_bkgImageUrl": "/public/map/BedtimeStoryCHN/pc/BedtimeStoryCHN_map_bkg.tga.ckd/7ac40a88fac3aa80b871a33e4e3f808b.ckd",
+      "expandCoachImageUrl": "/public/map/BedtimeStoryCHN/pc/BedtimeStoryCHN_Cover_AlbumCoach.tga.ckd/103c436fdb463aae5e6147fd091c641f.ckd",
+      "cover_smallImageUrl": "/public/map/BedtimeStoryCHN/pc/BedtimeStoryCHN_Cover_Online.tga.ckd/737a3075729e31206ad7817d41661336.ckd",
+      "coach1ImageUrl": "/public/map/BedtimeStoryCHN/pc/BedtimeStoryCHN_Coach_1.tga.ckd/1d39e6a0be90f0ce76b03666fd86b1e7.ckd",
+      "coach2ImageUrl": "/public/map/BedtimeStoryCHN/pc/BedtimeStoryCHN_Coach_2.tga.ckd/6ef6f7287253b1104ad90b4958abc5a8.ckd",
+      "coach3ImageUrl": "/public/map/BedtimeStoryCHN/pc/BedtimeStoryCHN_Coach_3.tga.ckd/5e26056370d3282582dc9e42138d055c.ckd",
+      "coach4ImageUrl": "/public/map/BedtimeStoryCHN/pc/BedtimeStoryCHN_Coach_4.tga.ckd/1d9f470e1f57530c8c9607916695e26c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BedtimeStoryCHN/orbis/BedtimeStoryCHN_banner_bkg.tga.ckd/751ce9c1b95a948a08b4ba291e6a457c.ckd",
+      "map_bkgImageUrl": "/public/map/BedtimeStoryCHN/orbis/BedtimeStoryCHN_map_bkg.tga.ckd/7ac40a88fac3aa80b871a33e4e3f808b.ckd",
+      "expandCoachImageUrl": "/public/map/BedtimeStoryCHN/orbis/BedtimeStoryCHN_Cover_AlbumCoach.tga.ckd/103c436fdb463aae5e6147fd091c641f.ckd",
+      "cover_smallImageUrl": "/public/map/BedtimeStoryCHN/orbis/BedtimeStoryCHN_Cover_Online.tga.ckd/737a3075729e31206ad7817d41661336.ckd",
+      "coach1ImageUrl": "/public/map/BedtimeStoryCHN/orbis/BedtimeStoryCHN_Coach_1.tga.ckd/1d39e6a0be90f0ce76b03666fd86b1e7.ckd",
+      "coach2ImageUrl": "/public/map/BedtimeStoryCHN/orbis/BedtimeStoryCHN_Coach_2.tga.ckd/6ef6f7287253b1104ad90b4958abc5a8.ckd",
+      "coach3ImageUrl": "/public/map/BedtimeStoryCHN/orbis/BedtimeStoryCHN_Coach_3.tga.ckd/5e26056370d3282582dc9e42138d055c.ckd",
+      "coach4ImageUrl": "/public/map/BedtimeStoryCHN/orbis/BedtimeStoryCHN_Coach_4.tga.ckd/1d9f470e1f57530c8c9607916695e26c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BedtimeStoryCHN/BedtimeStoryCHN_Coach_1_Phone.png/019466a28f0db9cda2f2cc0d8d95fae6.png",
+    "phoneCoach2ImageUrl": "/public/map/BedtimeStoryCHN/BedtimeStoryCHN_Coach_2_Phone.png/4ac2600c747e58f5052498783da0ac3d.png",
+    "phoneCoach3ImageUrl": "/public/map/BedtimeStoryCHN/BedtimeStoryCHN_Coach_3_Phone.png/f2fa5fa217dc80037eb1bf67fa7a35bf.png",
+    "phoneCoach4ImageUrl": "/public/map/BedtimeStoryCHN/BedtimeStoryCHN_Coach_4_Phone.png/632915d0f4a8e4786e876f70f7888cbc.png",
+    "phoneCoverImageUrl": "/public/map/BedtimeStoryCHN/BedtimeStoryCHN_Cover_Phone.jpg/e4b09795b97a6925b6be310803fb38ff.jpg",
+    "cover640ImageUrl": "/public/map/BedtimeStoryCHN/BedtimeStoryCHN_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN.ogg": "/private/map/BedtimeStoryCHN/BedtimeStoryCHN.ogg/0f9ebc9426cd764f0b3a2606ff091994.ogg",
+    "jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN_AudioPreview.ogg": "/public/map/BedtimeStoryCHN/BedtimeStoryCHN_AudioPreview.ogg/29110b6bc7cf40653e615a6ac835a778.ogg",
+    "jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN_HIGH.webm": "/private/map/BedtimeStoryCHN/BedtimeStoryCHN_HIGH.webm/0177a81704976a4b720f6094fe368482.webm",
+    "jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN_LOW.webm": "/private/map/BedtimeStoryCHN/BedtimeStoryCHN_LOW.webm/79834a930ca6e10d4dbe65999a4c2a3f.webm",
+    "jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN_MID.webm": "/private/map/BedtimeStoryCHN/BedtimeStoryCHN_MID.webm/ff0260cacc44f25282a7a04bdc92f4f4.webm",
+    "jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN_ULTRA.hd.webm": "/private/map/BedtimeStoryCHN/BedtimeStoryCHN_ULTRA.hd.webm/54e2ad910633e9e0da8926fe2e0c7037.webm",
+    "jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN_ULTRA.webm": "/private/map/BedtimeStoryCHN/BedtimeStoryCHN_ULTRA.webm/47d04b89572ad22f3b9a5b514e2a7cd7.webm",
+    "jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BedtimeStoryCHN/BedtimeStoryCHN_MapPreviewNoSoundCrop_LOW.vp8.webm/93d8607cabcd1f4adac42e9b035f5203.webm",
+    "jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BedtimeStoryCHN/BedtimeStoryCHN_MapPreviewNoSoundCrop_MID.vp8.webm/58b1599ef96a3c827cad8fc8fc869be6.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"523411\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1498956\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BedtimeStoryCHN/BedtimeStoryCHN_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\n\t\t\t\t\t<Initialization range=\"0-616\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 228.432979
+}

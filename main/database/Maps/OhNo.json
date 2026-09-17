@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "43c56b5a619353dca69a7748018ef2b3",
+      "storageType": 0,
+      "url": "/public/map/OhNo/nx/OhNo_MAIN_SCENE_NX.zip/43c56b5a619353dca69a7748018ef2b3.zip"
+    },
+    "pc": {
+      "md5": "df3e400e46156db5243682d3d4694c79",
+      "storageType": 0,
+      "url": "/public/map/OhNo/pc/OhNo_MAIN_SCENE_PC.zip/df3e400e46156db5243682d3d4694c79.zip"
+    },
+    "ps4": {
+      "md5": "2fafa0efd1f5a37c2ca1b97445b7079c",
+      "storageType": 0,
+      "url": "/public/map/OhNo/orbis/OhNo_MAIN_SCENE_ORBIS.zip/2fafa0efd1f5a37c2ca1b97445b7079c.zip"
+    }
+  },
+  "data": {
+    "mapName": "OhNo",
+    "title": "Oh No!",
+    "originalJDVersion": 4,
+    "tags": [
+      "Intense",
+      "Main",
+      "subscribedSong",
+      "JustDance4",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Marina and The Diamonds",
+    "credits": "Written by Gregory Kurstin and Marina Lambrini Diamandis.Published by EMI April Music Inc. (ASCAP) / Warner/Chappell Music Publishing Ltd. (PRS). All rights on behalf of Warner/Chappell Music Publishing Ltd. administered by Warner-Tamerlane Publishing Corp. All Rights Reserved. Used by Permission.Courtesy of 679 Recordings. By arrangement with Warner Music Group Video Games Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f729ca",
+    "songColor2A": "#5dfffc",
+    "songColor1B": "#650019",
+    "songColor2B": "#12005a",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        37882,
+        60559,
+        83235,
+        105912,
+        128588,
+        151265,
+        173941,
+        196618,
+        219294,
+        241971,
+        264647,
+        287324,
+        310000,
+        332677,
+        355353,
+        378029,
+        400706,
+        423382,
+        446059,
+        468735,
+        491412,
+        514088,
+        536765,
+        559441,
+        582118,
+        604794,
+        627471,
+        650147,
+        672823,
+        695500,
+        718176,
+        740853,
+        763529,
+        786206,
+        808882,
+        831559,
+        854235,
+        876912,
+        899588,
+        922265,
+        944941,
+        967617,
+        990294,
+        1012970,
+        1035647,
+        1058323,
+        1081000,
+        1103676,
+        1126353,
+        1149029,
+        1171706,
+        1194382,
+        1217059,
+        1239735,
+        1262411,
+        1285088,
+        1307764,
+        1330441,
+        1353117,
+        1375794,
+        1398470,
+        1421147,
+        1443823,
+        1466500,
+        1489176
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 394,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/OhNo/OhNo_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/OhNo/nx/OhNo_banner_bkg.tga.ckd/e7e677341156b0ca39ee25dbd1474920.ckd",
+      "map_bkgImageUrl": "/public/map/OhNo/nx/OhNo_map_bkg.tga.ckd/4f94b18ac14cc3e0807d7dedea44c154.ckd",
+      "expandCoachImageUrl": "/public/map/OhNo/nx/OhNo_Cover_AlbumCoach.tga.ckd/d5f32d5ea13e3b62341a286e0bfd3290.ckd",
+      "cover_smallImageUrl": "/public/map/OhNo/nx/OhNo_Cover_Online.tga.ckd/d60f1b889e6be1af7f72535f9594a91e.ckd",
+      "coach1ImageUrl": "/public/map/OhNo/nx/OhNo_Coach_1.tga.ckd/b622d7383d97ceb037a66167011c9b69.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/OhNo/pc/OhNo_banner_bkg.tga.ckd/9c257a8cc52ce4ae822a64c0fcd22c25.ckd",
+      "map_bkgImageUrl": "/public/map/OhNo/pc/OhNo_map_bkg.tga.ckd/8e572ccf9c98e45a7c75f09d421e53fd.ckd",
+      "expandCoachImageUrl": "/public/map/OhNo/pc/OhNo_Cover_AlbumCoach.tga.ckd/08619b25d597b83ff7049bcd4537a4fb.ckd",
+      "cover_smallImageUrl": "/public/map/OhNo/pc/OhNo_Cover_Online.tga.ckd/2b07ff7ea16d02ad056fc38c6296ea21.ckd",
+      "coach1ImageUrl": "/public/map/OhNo/pc/OhNo_Coach_1.tga.ckd/ac1c65586b0baced06c0872ff17c32e5.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/OhNo/orbis/OhNo_banner_bkg.tga.ckd/9c257a8cc52ce4ae822a64c0fcd22c25.ckd",
+      "map_bkgImageUrl": "/public/map/OhNo/orbis/OhNo_map_bkg.tga.ckd/8e572ccf9c98e45a7c75f09d421e53fd.ckd",
+      "expandCoachImageUrl": "/public/map/OhNo/orbis/OhNo_Cover_AlbumCoach.tga.ckd/08619b25d597b83ff7049bcd4537a4fb.ckd",
+      "cover_smallImageUrl": "/public/map/OhNo/orbis/OhNo_Cover_Online.tga.ckd/2b07ff7ea16d02ad056fc38c6296ea21.ckd",
+      "coach1ImageUrl": "/public/map/OhNo/orbis/OhNo_Coach_1.tga.ckd/ac1c65586b0baced06c0872ff17c32e5.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/OhNo/OhNo_Coach_1_Phone.png/2b7e302a618f0747e25d02c168e1a4b9.png",
+    "phoneCoverImageUrl": "/public/map/OhNo/OhNo_Cover_Phone.jpg/94ac4e2a0d49ebae27208cd5c2fac21c.jpg",
+    "cover640ImageUrl": "/public/map/OhNo/OhNo_Cover_640.png/5b36993393c2ead5ac4157169370a4c4.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/OhNo/OhNo.ogg": "/private/map/OhNo/OhNo.ogg/1aa35c638db9a1c6a2d1e27dbb32187e.ogg",
+    "jmcs://jd-contents/OhNo/OhNo_AudioPreview.ogg": "/public/map/OhNo/OhNo_AudioPreview.ogg/272616697c2cd66153b6137b4ff0f11e.ogg",
+    "jmcs://jd-contents/OhNo/OhNo_HIGH.webm": "/private/map/OhNo/OhNo_HIGH.webm/1a532736a785f5af495a329ba2759d3b.webm",
+    "jmcs://jd-contents/OhNo/OhNo_LOW.webm": "/private/map/OhNo/OhNo_LOW.webm/9586032ae037f917bc8d56dfdd4c76d6.webm",
+    "jmcs://jd-contents/OhNo/OhNo_MID.webm": "/private/map/OhNo/OhNo_MID.webm/7b7b25998ebd2445485f267087d6a0cd.webm",
+    "jmcs://jd-contents/OhNo/OhNo_ULTRA.hd.webm": "/private/map/OhNo/OhNo_ULTRA.hd.webm/23cb3ef09590f5af20acbb188bd58173.webm",
+    "jmcs://jd-contents/OhNo/OhNo_ULTRA.webm": "/private/map/OhNo/OhNo_ULTRA.webm/b629937c8346320811c9683650d3089a.webm",
+    "jmcs://jd-contents/OhNo/OhNo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/OhNo/OhNo_MapPreviewNoSoundCrop_LOW.vp8.webm/1b0e8fd78b8353e03fa24b9ba2f59d4c.webm",
+    "jmcs://jd-contents/OhNo/OhNo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/OhNo/OhNo_MapPreviewNoSoundCrop_MID.vp8.webm/ebb1a88c40a22a648408908cc9486f16.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"493063\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/OhNo/OhNo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\n\t\t\t\t\t<Initialization range=\"0-624\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1440259\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/OhNo/OhNo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\n\t\t\t\t\t<Initialization range=\"0-625\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 186.586583
+}

@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "12ba38c798ef8003f26592a162bba6b3",
+      "storageType": 0,
+      "url": "/public/map/Dial6700/nx/Dial6700_MAIN_SCENE_NX.zip/12ba38c798ef8003f26592a162bba6b3.zip"
+    },
+    "pc": {
+      "md5": "db96f70e08c0767b2d975c81b7c3a3cd",
+      "storageType": 0,
+      "url": "/public/map/Dial6700/pc/Dial6700_MAIN_SCENE_PC.zip/db96f70e08c0767b2d975c81b7c3a3cd.zip"
+    },
+    "ps4": {
+      "md5": "7ae9798d6a98acb3b206142f116389a3",
+      "storageType": 0,
+      "url": "/public/map/Dial6700/orbis/Dial6700_MAIN_SCENE_ORBIS.zip/7ae9798d6a98acb3b206142f116389a3.zip"
+    }
+  },
+  "data": {
+    "mapName": "Dial6700",
+    "title": "Koi no Dial 6700 (恋のダイヤル 6700)",
+    "originalJDVersion": 1000,
+    "tags": [
+      "subscribedSong",
+      "jdwii",
+      "JustDanceAsia",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Dream5",
+    "credits": "Ninininini",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff453d",
+    "songColor2A": "#ffc19b",
+    "songColor1B": "#ff0110",
+    "songColor2B": "#ff0111",
+    "lyricsColor": "#f68c01",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        510554,
+        527494,
+        544434,
+        561374,
+        578002,
+        594942,
+        611882,
+        628822,
+        645764,
+        662704,
+        679644,
+        696584,
+        713524,
+        730466,
+        747406,
+        764346,
+        781286,
+        798226,
+        815168,
+        832108,
+        848612,
+        865988,
+        882928,
+        899870,
+        916810,
+        933750,
+        950690,
+        967632,
+        984572,
+        1001512,
+        1018452,
+        1035392,
+        1052334,
+        1069274,
+        1086214,
+        1103154,
+        1120094,
+        1136896,
+        1153844,
+        1170782,
+        1187334,
+        1203856,
+        1220500,
+        1236814,
+        1253920,
+        1271252,
+        1289498,
+        1305550,
+        1322492,
+        1338796,
+        1355736,
+        1372224,
+        1389904,
+        1406338,
+        1423340,
+        1440350,
+        1457666,
+        1474606
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 500,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Dial6700/Dial6700_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Dial6700/nx/Dial6700_banner_bkg.tga.ckd/07dea27e4368f7f859d0f59b697dec86.ckd",
+      "map_bkgImageUrl": "/public/map/Dial6700/nx/Dial6700_map_bkg.tga.ckd/959feb04a8c1aa230887ea8c53274d66.ckd",
+      "expandCoachImageUrl": "/public/map/Dial6700/nx/Dial6700_Cover_AlbumCoach.tga.ckd/98af6af05f16ce9835dd69a486da7bb2.ckd",
+      "cover_smallImageUrl": "/public/map/Dial6700/nx/Dial6700_Cover_Online.tga.ckd/79cf14daa4a500a83676fe6c9a4d365a.ckd",
+      "coach1ImageUrl": "/public/map/Dial6700/nx/Dial6700_Coach_1.tga.ckd/4a79aa800b8199a0d40e1a4e589b414e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Dial6700/pc/Dial6700_banner_bkg.tga.ckd/57fd2ece3fc9ea282c19dcb853192318.ckd",
+      "map_bkgImageUrl": "/public/map/Dial6700/pc/Dial6700_map_bkg.tga.ckd/6a2fd1ef179d8d7c7ce1fedbedaf75d9.ckd",
+      "expandCoachImageUrl": "/public/map/Dial6700/pc/Dial6700_Cover_AlbumCoach.tga.ckd/024d5ad7de82930e4d8297bad6babcf3.ckd",
+      "cover_smallImageUrl": "/public/map/Dial6700/pc/Dial6700_Cover_Online.tga.ckd/b4d436ef1c52bade70cd115395f8202a.ckd",
+      "coach1ImageUrl": "/public/map/Dial6700/pc/Dial6700_Coach_1.tga.ckd/86417cd4d57fed3ebc1f8bd9ed3e6f8e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Dial6700/orbis/Dial6700_banner_bkg.tga.ckd/57fd2ece3fc9ea282c19dcb853192318.ckd",
+      "map_bkgImageUrl": "/public/map/Dial6700/orbis/Dial6700_map_bkg.tga.ckd/6a2fd1ef179d8d7c7ce1fedbedaf75d9.ckd",
+      "expandCoachImageUrl": "/public/map/Dial6700/orbis/Dial6700_Cover_AlbumCoach.tga.ckd/024d5ad7de82930e4d8297bad6babcf3.ckd",
+      "cover_smallImageUrl": "/public/map/Dial6700/orbis/Dial6700_Cover_Online.tga.ckd/b4d436ef1c52bade70cd115395f8202a.ckd",
+      "coach1ImageUrl": "/public/map/Dial6700/orbis/Dial6700_Coach_1.tga.ckd/86417cd4d57fed3ebc1f8bd9ed3e6f8e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Dial6700/Dial6700_Coach_1_Phone.png/586be4a2598d93b847f46fad013fb9e7.png",
+    "phoneCoverImageUrl": "/public/map/Dial6700/Dial6700_Cover_Phone.jpg/3d8a3876be39604ab864925988e708d1.jpg",
+    "cover640ImageUrl": "/public/map/Dial6700/Dial6700_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Dial6700/Dial6700.ogg": "/private/map/Dial6700/Dial6700.ogg/c36804c5e8da78e9e404723c439bbf37.ogg",
+    "jmcs://jd-contents/Dial6700/Dial6700_AudioPreview.ogg": "/public/map/Dial6700/Dial6700_AudioPreview.ogg/196ed32706f65f3a721060c9d194c3f9.ogg",
+    "jmcs://jd-contents/Dial6700/Dial6700_HIGH.webm": "/private/map/Dial6700/Dial6700_HIGH.webm/df2224b72899c452649b1c6b5059c9a6.webm",
+    "jmcs://jd-contents/Dial6700/Dial6700_LOW.webm": "/private/map/Dial6700/Dial6700_LOW.webm/f8d2b7fbd0820d440d4dd0f0f138ceaa.webm",
+    "jmcs://jd-contents/Dial6700/Dial6700_MID.webm": "/private/map/Dial6700/Dial6700_MID.webm/0ad358fda95a02fd5d0fb429c73a857a.webm",
+    "jmcs://jd-contents/Dial6700/Dial6700_ULTRA.hd.webm": "/private/map/Dial6700/Dial6700_ULTRA.hd.webm/a0a1a7cea5310567be65e6a9b43c53a4.webm",
+    "jmcs://jd-contents/Dial6700/Dial6700_ULTRA.webm": "/private/map/Dial6700/Dial6700_ULTRA.webm/cd49c0c15714af0041e8418b2f561ed1.webm",
+    "jmcs://jd-contents/Dial6700/Dial6700_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Dial6700/Dial6700_MapPreviewNoSoundCrop_LOW.vp8.webm/3cfd17672ae9755fa542398b75989c37.webm",
+    "jmcs://jd-contents/Dial6700/Dial6700_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Dial6700/Dial6700_MapPreviewNoSoundCrop_MID.vp8.webm/8594571b05e719aee6083c8b2571f4be.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"513901\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dial6700/Dial6700_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1514485\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dial6700/Dial6700_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 187.178667
+}

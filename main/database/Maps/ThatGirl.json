@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "916cf802abbf37d5ab34e8d5dfe23da3",
+      "storageType": 0,
+      "url": "/public/map/ThatGirl/nx/ThatGirl_MAIN_SCENE_NX.zip/916cf802abbf37d5ab34e8d5dfe23da3.zip"
+    },
+    "pc": {
+      "md5": "4bfbea9828427475968d1dd276243fdc",
+      "storageType": 0,
+      "url": "/public/map/ThatGirl/pc/ThatGirl_MAIN_SCENE_PC.zip/4bfbea9828427475968d1dd276243fdc.zip"
+    },
+    "ps4": {
+      "md5": "574041f11267ab67ec7074299effc50b",
+      "storageType": 0,
+      "url": "/public/map/ThatGirl/orbis/ThatGirl_MAIN_SCENE_ORBIS.zip/574041f11267ab67ec7074299effc50b.zip"
+    }
+  },
+  "data": {
+    "mapName": "ThatGirl",
+    "title": "Tamta Dziewczyna",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sylwia Grzeszczak",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff663f"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22607,
+        45167,
+        67775,
+        90335,
+        112943,
+        135503,
+        158111,
+        180671,
+        203279,
+        225887,
+        248447,
+        271055,
+        293615,
+        316223,
+        338783,
+        361391,
+        383951,
+        406559,
+        429167,
+        451727,
+        474335,
+        496895,
+        519503,
+        542063,
+        564671,
+        587231,
+        609839,
+        632447,
+        655007,
+        677615,
+        700175,
+        722783,
+        745343,
+        767951,
+        790559,
+        813119,
+        835727,
+        858287,
+        880895,
+        903455,
+        926063,
+        948623,
+        971231,
+        993839,
+        1016399,
+        1039007,
+        1061567,
+        1084175,
+        1106735,
+        1129343,
+        1151903,
+        1174511,
+        1197119,
+        1219679,
+        1242287,
+        1264847,
+        1287455,
+        1310015,
+        1332623,
+        1355183,
+        1377791,
+        1400399,
+        1422958,
+        1445566,
+        1468126,
+        1490734
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 365,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ThatGirl/ThatGirl_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ThatGirl/nx/ThatGirl_banner_bkg.tga.ckd/9e75f16df99dcced8343aa42df1f915e.ckd",
+      "map_bkgImageUrl": "/public/map/ThatGirl/nx/ThatGirl_map_bkg.tga.ckd/1103dc4531e5b22ae569b3a60605c2ee.ckd",
+      "expandCoachImageUrl": "/public/map/ThatGirl/nx/ThatGirl_Cover_AlbumCoach.tga.ckd/c88bfffc5f5de93207c54f4f769f3ba2.ckd",
+      "cover_smallImageUrl": "/public/map/ThatGirl/nx/ThatGirl_Cover_Online.tga.ckd/3bee694e7ffd3068017b0dee334ef16d.ckd",
+      "coach1ImageUrl": "/public/map/ThatGirl/nx/ThatGirl_Coach_1.tga.ckd/e5d8110a122a4120e70017bd0fd4139e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ThatGirl/pc/ThatGirl_banner_bkg.tga.ckd/680737faaf198b47d0a66041caf58894.ckd",
+      "map_bkgImageUrl": "/public/map/ThatGirl/pc/ThatGirl_map_bkg.tga.ckd/685c18f923bb7d0c340b35414857e13e.ckd",
+      "expandCoachImageUrl": "/public/map/ThatGirl/pc/ThatGirl_Cover_AlbumCoach.tga.ckd/1e0375f562815d4055a7ce6096befd32.ckd",
+      "cover_smallImageUrl": "/public/map/ThatGirl/pc/ThatGirl_Cover_Online.tga.ckd/f4ac6daf1ba7af82d7884c841b30864a.ckd",
+      "coach1ImageUrl": "/public/map/ThatGirl/pc/ThatGirl_Coach_1.tga.ckd/58022559aeb443e2adeb960b255fc64b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ThatGirl/orbis/ThatGirl_banner_bkg.tga.ckd/680737faaf198b47d0a66041caf58894.ckd",
+      "map_bkgImageUrl": "/public/map/ThatGirl/orbis/ThatGirl_map_bkg.tga.ckd/685c18f923bb7d0c340b35414857e13e.ckd",
+      "expandCoachImageUrl": "/public/map/ThatGirl/orbis/ThatGirl_Cover_AlbumCoach.tga.ckd/1e0375f562815d4055a7ce6096befd32.ckd",
+      "cover_smallImageUrl": "/public/map/ThatGirl/orbis/ThatGirl_Cover_Online.tga.ckd/f4ac6daf1ba7af82d7884c841b30864a.ckd",
+      "coach1ImageUrl": "/public/map/ThatGirl/orbis/ThatGirl_Coach_1.tga.ckd/58022559aeb443e2adeb960b255fc64b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ThatGirl/ThatGirl_Coach_1_Phone.png/8d9814b05cfdee259ef2d90e87898425.png",
+    "phoneCoverImageUrl": "/public/map/ThatGirl/ThatGirl_Cover_Phone.jpg/45a3472336541baf3d7cbb6d77054288.jpg",
+    "cover640ImageUrl": "/public/map/ThatGirl/ThatGirl_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ThatGirl/ThatGirl.ogg": "/private/map/ThatGirl/ThatGirl.ogg/c4ebce2304a39c9581a8175067bea563.ogg",
+    "jmcs://jd-contents/ThatGirl/ThatGirl_AudioPreview.ogg": "/public/map/ThatGirl/ThatGirl_AudioPreview.ogg/e5ad9f9daa89f69e80af1fdeaf0afb38.ogg",
+    "jmcs://jd-contents/ThatGirl/ThatGirl_HIGH.webm": "/private/map/ThatGirl/ThatGirl_HIGH.webm/1904b5d713221397fdfb3956a8e4bf84.webm",
+    "jmcs://jd-contents/ThatGirl/ThatGirl_LOW.webm": "/private/map/ThatGirl/ThatGirl_LOW.webm/5d3c5f810d815806556ac3d6610a76fa.webm",
+    "jmcs://jd-contents/ThatGirl/ThatGirl_MID.webm": "/private/map/ThatGirl/ThatGirl_MID.webm/003ec694a6c09339600d25c1a5ec2a10.webm",
+    "jmcs://jd-contents/ThatGirl/ThatGirl_ULTRA.hd.webm": "/private/map/ThatGirl/ThatGirl_ULTRA.hd.webm/112b06b243fded662087cd8900a20407.webm",
+    "jmcs://jd-contents/ThatGirl/ThatGirl_ULTRA.webm": "/private/map/ThatGirl/ThatGirl_ULTRA.webm/a16f00e5735d9c34e7d734e0692c32a3.webm",
+    "jmcs://jd-contents/ThatGirl/ThatGirl_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ThatGirl/ThatGirl_MapPreviewNoSoundCrop_LOW.vp8.webm/4cdcdf699ad88167e2fb45b29feabf78.webm",
+    "jmcs://jd-contents/ThatGirl/ThatGirl_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ThatGirl/ThatGirl_MapPreviewNoSoundCrop_MID.vp8.webm/20f1fe398dc48a02d673fd0da50c0ed5.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"510068\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatGirl/ThatGirl_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\n\t\t\t\t\t<Initialization range=\"0-617\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1517724\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThatGirl/ThatGirl_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 175.160875
+}

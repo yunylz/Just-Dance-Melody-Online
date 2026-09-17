@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "93deb14a956f50ab08ad9717b37f569b",
+      "storageType": 0,
+      "url": "/public/map/RainbowRhythm/nx/RainbowRhythm_MAIN_SCENE_NX.zip/93deb14a956f50ab08ad9717b37f569b.zip"
+    },
+    "pc": {
+      "md5": "fa9cb27243a62673b93673ccb9e931d3",
+      "storageType": 0,
+      "url": "/public/map/RainbowRhythm/pc/RainbowRhythm_MAIN_SCENE_PC.zip/fa9cb27243a62673b93673ccb9e931d3.zip"
+    },
+    "ps4": {
+      "md5": "c7e76d392083cbd766fabd3f1555ed5d",
+      "storageType": 0,
+      "url": "/public/map/RainbowRhythm/orbis/RainbowRhythm_MAIN_SCENE_ORBIS.zip/c7e76d392083cbd766fabd3f1555ed5d.zip"
+    }
+  },
+  "data": {
+    "mapName": "RainbowRhythm",
+    "title": "Rainbow Rhythm (彩虹节拍)",
+    "originalJDVersion": 1103,
+    "tags": [
+      "main"
+    ],
+    "artist": "Yi Yan / Zhao Fang Jing / Suika Kune / feizaojun",
+    "credits": "Written by T2O and arranged by G-Tracy. Published by Bilibili Inc. All rights reserved. Courtesy of Bilibili Inc.",
+    "coachCount": 2,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#aee0ff",
+    "songColor2A": "#e7efef",
+    "songColor1B": "#0051b7",
+    "songColor2B": "#71b0f7",
+    "lyricsColor": "#bf00ff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22154,
+        44308,
+        66462,
+        88615,
+        110769,
+        132923,
+        155077,
+        177231,
+        199385,
+        221538,
+        243692,
+        265846,
+        288000,
+        310154,
+        332308,
+        354462,
+        376615,
+        398769,
+        420923,
+        443077,
+        465231,
+        487385,
+        509538,
+        531692,
+        553846,
+        576000,
+        598154,
+        620308,
+        642462,
+        664615,
+        686769,
+        708923,
+        731077,
+        753231,
+        775385,
+        797538,
+        819692,
+        841846,
+        864000,
+        886154,
+        908308,
+        930462,
+        952615,
+        974769,
+        996923,
+        1019077,
+        1041231,
+        1063385,
+        1085538,
+        1107692,
+        1129846,
+        1152000,
+        1174154,
+        1196308,
+        1218462,
+        1240615,
+        1262769,
+        1284923,
+        1307077,
+        1329231,
+        1351385,
+        1373538,
+        1395692,
+        1417846,
+        1440000,
+        1462154,
+        1484308
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 455,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RainbowRhythm/nx/RainbowRhythm_banner_bkg.tga.ckd/f97e0ac5f63276413f80578f7031a536.ckd",
+      "map_bkgImageUrl": "/public/map/RainbowRhythm/nx/RainbowRhythm_map_bkg.tga.ckd/3a929ecb38871428d3a3e816e33e510f.ckd",
+      "expandCoachImageUrl": "/public/map/RainbowRhythm/nx/RainbowRhythm_Cover_AlbumCoach.tga.ckd/f9963871f373e3ce4e6db848160301a4.ckd",
+      "cover_smallImageUrl": "/public/map/RainbowRhythm/nx/RainbowRhythm_Cover_Online.tga.ckd/b8662be11a61df3f5d1c143535cbac07.ckd",
+      "coach1ImageUrl": "/public/map/RainbowRhythm/nx/RainbowRhythm_Coach_1.tga.ckd/442aa535ad70136a2fd76817fc9f9761.ckd",
+      "coach2ImageUrl": "/public/map/RainbowRhythm/nx/RainbowRhythm_Coach_2.tga.ckd/ff4215fffc0639ff9c5485549961e933.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RainbowRhythm/pc/RainbowRhythm_banner_bkg.tga.ckd/7450dd812af95ae3e2229c01ec19755d.ckd",
+      "map_bkgImageUrl": "/public/map/RainbowRhythm/pc/RainbowRhythm_map_bkg.tga.ckd/f58d44d72a5247fab86cc2e55f84105c.ckd",
+      "expandCoachImageUrl": "/public/map/RainbowRhythm/pc/RainbowRhythm_Cover_AlbumCoach.tga.ckd/c65c45c042d585c2baf1cbea209b2898.ckd",
+      "cover_smallImageUrl": "/public/map/RainbowRhythm/pc/RainbowRhythm_Cover_Online.tga.ckd/9e130fda19d50633de67b42c54beed99.ckd",
+      "coach1ImageUrl": "/public/map/RainbowRhythm/pc/RainbowRhythm_Coach_1.tga.ckd/0eff862cc8f634533be56d4e2154e382.ckd",
+      "coach2ImageUrl": "/public/map/RainbowRhythm/pc/RainbowRhythm_Coach_2.tga.ckd/042e623b3b9e4a5179032d1657cbe2cd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RainbowRhythm/orbis/RainbowRhythm_banner_bkg.tga.ckd/7450dd812af95ae3e2229c01ec19755d.ckd",
+      "map_bkgImageUrl": "/public/map/RainbowRhythm/orbis/RainbowRhythm_map_bkg.tga.ckd/f58d44d72a5247fab86cc2e55f84105c.ckd",
+      "expandCoachImageUrl": "/public/map/RainbowRhythm/orbis/RainbowRhythm_Cover_AlbumCoach.tga.ckd/c65c45c042d585c2baf1cbea209b2898.ckd",
+      "cover_smallImageUrl": "/public/map/RainbowRhythm/orbis/RainbowRhythm_Cover_Online.tga.ckd/9e130fda19d50633de67b42c54beed99.ckd",
+      "coach1ImageUrl": "/public/map/RainbowRhythm/orbis/RainbowRhythm_Coach_1.tga.ckd/0eff862cc8f634533be56d4e2154e382.ckd",
+      "coach2ImageUrl": "/public/map/RainbowRhythm/orbis/RainbowRhythm_Coach_2.tga.ckd/042e623b3b9e4a5179032d1657cbe2cd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RainbowRhythm/RainbowRhythm_Coach_1_Phone.png/70e75a2d1454466af1becb6fdccf6430.png",
+    "phoneCoach2ImageUrl": "/public/map/RainbowRhythm/RainbowRhythm_Coach_2_Phone.png/f86e9ac46ff2d51f983e1a7055afa98b.png",
+    "phoneCoverImageUrl": "/public/map/RainbowRhythm/RainbowRhythm_Cover_Phone.jpg/5c097a434881a0e6b70c3175a61a8043.jpg",
+    "cover640ImageUrl": "/public/map/RainbowRhythm/RainbowRhythm_Cover_640.png/d5bcb6d8a025994ec93902cbf204223a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm.ogg": "/private/map/RainbowRhythm/RainbowRhythm.ogg/6de91446b365a9b4e8b1700df9ab8ae5.ogg",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_AudioPreview.ogg": "/public/map/RainbowRhythm/RainbowRhythm_AudioPreview.ogg/08f4ab500ef3726b961f76ea9804c98f.ogg",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_HIGH.webm": "/private/map/RainbowRhythm/RainbowRhythm_HIGH.webm/006b2ecac43f4837093e83243c5f05b1.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_LOW.webm": "/private/map/RainbowRhythm/RainbowRhythm_LOW.webm/8908762026383df7d60e5f8b96385018.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MID.webm": "/private/map/RainbowRhythm/RainbowRhythm_MID.webm/3b9034a192f79bf6cb428e735459ddce.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_ULTRA.hd.webm": "/private/map/RainbowRhythm/RainbowRhythm_ULTRA.hd.webm/58309fc3d4085170548b3dd7d718e306.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_ULTRA.webm": "/private/map/RainbowRhythm/RainbowRhythm_ULTRA.webm/9f5459d017dfce659a69fea6fa67e96a.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_LOW.vp8.webm/b820ae39969a7f4d23d97bce67371d3d.webm",
+    "jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_MID.vp8.webm/d9c37ac8ec79586a3540f9e9e5809098.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496710\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"657-1146\">\n\t\t\t\t\t<Initialization range=\"0-657\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483282\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RainbowRhythm/RainbowRhythm_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"658-1148\">\n\t\t\t\t\t<Initialization range=\"0-658\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 211.384563
+}

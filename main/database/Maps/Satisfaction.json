@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7f8541c88008125a6f142ba7fee8381c",
+      "storageType": 0,
+      "url": "/public/map/Satisfaction/nx/Satisfaction_MAIN_SCENE_NX.zip/7f8541c88008125a6f142ba7fee8381c.zip"
+    },
+    "pc": {
+      "md5": "cf17dbd07305f714b4a2d27937f6b72d",
+      "storageType": 0,
+      "url": "/public/map/Satisfaction/pc/Satisfaction_MAIN_SCENE_PC.zip/cf17dbd07305f714b4a2d27937f6b72d.zip"
+    },
+    "ps4": {
+      "md5": "e113a5dab8e65fb6b07203d7ba4d5503",
+      "storageType": 0,
+      "url": "/public/map/Satisfaction/orbis/Satisfaction_MAIN_SCENE_ORBIS.zip/e113a5dab8e65fb6b07203d7ba4d5503.zip"
+    }
+  },
+  "data": {
+    "mapName": "Satisfaction",
+    "title": "Satisfaction (Isak Original Extended)",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Benny Benassi presents “The Biz”",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#59CD06",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22128,
+        44304,
+        66432,
+        88608,
+        110736,
+        132912,
+        155040,
+        177216,
+        199392,
+        221520,
+        243696,
+        265824,
+        288000,
+        310128,
+        332304,
+        354432,
+        376608,
+        398736,
+        420912,
+        443040,
+        465216,
+        487344,
+        509520,
+        531648,
+        553824,
+        575952,
+        598128,
+        620256,
+        642432,
+        664560,
+        686736,
+        708864,
+        731040,
+        753168,
+        775344,
+        797520,
+        819648,
+        841824,
+        863952,
+        886128,
+        908256,
+        930432,
+        952560,
+        974736,
+        996864,
+        1019040,
+        1041168,
+        1063344,
+        1085472,
+        1107648,
+        1129776,
+        1151952,
+        1174080,
+        1196256,
+        1218384,
+        1240560,
+        1262688,
+        1284864,
+        1306992,
+        1329168,
+        1351344,
+        1373472,
+        1395648,
+        1417776,
+        1439952
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 549,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/satisfaction/satisfaction_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Satisfaction/nx/Satisfaction_banner_bkg.tga.ckd/4400278035dfc4888aabd87e0033ccff.ckd",
+      "map_bkgImageUrl": "/public/map/Satisfaction/nx/Satisfaction_map_bkg.tga.ckd/32b62cfea3e43895f274ec117b59c91a.ckd",
+      "expandCoachImageUrl": "/public/map/Satisfaction/nx/Satisfaction_Cover_AlbumCoach.tga.ckd/0c55cc008978d098763c9de8906074cb.ckd",
+      "cover_smallImageUrl": "/public/map/Satisfaction/nx/Satisfaction_Cover_Online.tga.ckd/32d4dd54a06ee9b39ea6f7f53ad357fc.ckd",
+      "coach1ImageUrl": "/public/map/Satisfaction/nx/Satisfaction_Coach_1.tga.ckd/50aa3d144004d77c0c5cc820bdf41594.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Satisfaction/pc/Satisfaction_banner_bkg.tga.ckd/9edf1745476a5c6b309cb1b6f545276f.ckd",
+      "map_bkgImageUrl": "/public/map/Satisfaction/pc/Satisfaction_map_bkg.tga.ckd/5fc1c6a464af5aeb2de30cbe19bc31d0.ckd",
+      "expandCoachImageUrl": "/public/map/Satisfaction/pc/Satisfaction_Cover_AlbumCoach.tga.ckd/af216313c0b99b9387ed79906ed9c1a5.ckd",
+      "cover_smallImageUrl": "/public/map/Satisfaction/pc/Satisfaction_Cover_Online.tga.ckd/2f2b2221cc0a10b7e220c4f466c3e1ad.ckd",
+      "coach1ImageUrl": "/public/map/Satisfaction/pc/Satisfaction_Coach_1.tga.ckd/d8dc365d60fd8571c04926d8c7efbd93.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Satisfaction/orbis/Satisfaction_banner_bkg.tga.ckd/9edf1745476a5c6b309cb1b6f545276f.ckd",
+      "map_bkgImageUrl": "/public/map/Satisfaction/orbis/Satisfaction_map_bkg.tga.ckd/5fc1c6a464af5aeb2de30cbe19bc31d0.ckd",
+      "expandCoachImageUrl": "/public/map/Satisfaction/orbis/Satisfaction_Cover_AlbumCoach.tga.ckd/af216313c0b99b9387ed79906ed9c1a5.ckd",
+      "cover_smallImageUrl": "/public/map/Satisfaction/orbis/Satisfaction_Cover_Online.tga.ckd/2f2b2221cc0a10b7e220c4f466c3e1ad.ckd",
+      "coach1ImageUrl": "/public/map/Satisfaction/orbis/Satisfaction_Coach_1.tga.ckd/d8dc365d60fd8571c04926d8c7efbd93.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Satisfaction/Satisfaction_Coach_1_Phone.png/4806740515f2d8e3458c07c0bce4eff3.png",
+    "phoneCoverImageUrl": "/public/map/Satisfaction/Satisfaction_Cover_Phone.jpg/20d1fb268eb45c8b5da2dd0f7be359c8.jpg",
+    "cover640ImageUrl": "/public/map/Satisfaction/Satisfaction_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Satisfaction/Satisfaction.ogg": "/private/map/Satisfaction/Satisfaction.ogg/be4651843af3045cf56d1bce19162cdf.ogg",
+    "jmcs://jd-contents/Satisfaction/Satisfaction_AudioPreview.ogg": "/public/map/Satisfaction/Satisfaction_AudioPreview.ogg/8ddf1528c187fc7daaaaee5f950373f6.ogg",
+    "jmcs://jd-contents/Satisfaction/Satisfaction_HIGH.webm": "/private/map/Satisfaction/Satisfaction_HIGH.webm/2d31430707290542501142b04164e908.webm",
+    "jmcs://jd-contents/Satisfaction/Satisfaction_LOW.webm": "/private/map/Satisfaction/Satisfaction_LOW.webm/257da9fcace6241ade26980fb8e6be43.webm",
+    "jmcs://jd-contents/Satisfaction/Satisfaction_MID.webm": "/private/map/Satisfaction/Satisfaction_MID.webm/705a67f024d63ac049440498f26a5f1b.webm",
+    "jmcs://jd-contents/Satisfaction/Satisfaction_ULTRA.hd.webm": "/private/map/Satisfaction/Satisfaction_ULTRA.hd.webm/d111fa5f8e8505b9f7989229bb3f1bd6.webm",
+    "jmcs://jd-contents/Satisfaction/Satisfaction_ULTRA.webm": "/private/map/Satisfaction/Satisfaction_ULTRA.webm/9fe73bd20e699e362d19252467329a65.webm",
+    "jmcs://jd-contents/Satisfaction/Satisfaction_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Satisfaction/Satisfaction_MapPreviewNoSoundCrop_LOW.vp8.webm/144984d4ff131cb86d587425a8901a48.webm",
+    "jmcs://jd-contents/Satisfaction/Satisfaction_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Satisfaction/Satisfaction_MapPreviewNoSoundCrop_MID.vp8.webm/791483c4d812c73e5cc93bff12ac16ec.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"520959\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Satisfaction/Satisfaction_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1509549\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Satisfaction/Satisfaction_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 253.272979
+}

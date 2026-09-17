@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ea51a38ddc94a4b1d8a12c93d39e46f9",
+      "storageType": 0,
+      "url": "/public/map/GoodOnesMU/nx/GoodOnesMU_MAIN_SCENE_NX.zip/ea51a38ddc94a4b1d8a12c93d39e46f9.zip"
+    },
+    "pc": {
+      "md5": "eef3bb771bcafd3ed6cd8f1e5d45a662",
+      "storageType": 0,
+      "url": "/public/map/GoodOnesMU/pc/GoodOnesMU_MAIN_SCENE_PC.zip/eef3bb771bcafd3ed6cd8f1e5d45a662.zip"
+    },
+    "ps4": {
+      "md5": "23d8e0c46f2838483e05cde2fb8b5713",
+      "storageType": 0,
+      "url": "/public/map/GoodOnesMU/orbis/GoodOnesMU_MAIN_SCENE_ORBIS.zip/23d8e0c46f2838483e05cde2fb8b5713.zip"
+    }
+  },
+  "data": {
+    "mapName": "GoodOnesMU",
+    "title": "Good Ones",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Charli XCX",
+    "credits": "EMPTY",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ffc052",
+    "songColor2A": "#8669ff",
+    "songColor1B": "#ce6f2f",
+    "songColor2B": "#30006c",
+    "lyricsColor": "#6f46f0",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22326,
+        44651,
+        66977,
+        89302,
+        111628,
+        133953,
+        156279,
+        178605,
+        200930,
+        223256,
+        245581,
+        267907,
+        290233,
+        312558,
+        334884,
+        357209,
+        379535,
+        401860,
+        424186,
+        446512,
+        468837,
+        491163,
+        513488,
+        535814,
+        558140,
+        580465,
+        602791,
+        625116,
+        647442,
+        669767,
+        692093,
+        714419,
+        736744,
+        759070,
+        781395,
+        803721,
+        826047,
+        848372,
+        870698,
+        893023,
+        915349,
+        937674,
+        960000,
+        982326,
+        1004651,
+        1026977,
+        1049302,
+        1071628,
+        1093953,
+        1116279,
+        1138605,
+        1160930,
+        1183256,
+        1205581,
+        1227907,
+        1250233,
+        1272558,
+        1294884,
+        1317209,
+        1339535,
+        1361860,
+        1384186,
+        1406512,
+        1428837,
+        1451163,
+        1473488
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 289,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GoodOnesMU/GoodOnesMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GoodOnesMU/nx/GoodOnesMU_banner_bkg.tga.ckd/a5a85fd0681da8d03f1c00baba56f57c.ckd",
+      "map_bkgImageUrl": "/public/map/GoodOnesMU/nx/GoodOnesMU_map_bkg.tga.ckd/d595b25cfd8b46bf85383bc169223cf2.ckd",
+      "expandCoachImageUrl": "/public/map/GoodOnesMU/nx/GoodOnesMU_Cover_AlbumCoach.tga.ckd/5fc56a1078a9cd78feec71a8cf7a1dbb.ckd",
+      "cover_smallImageUrl": "/public/map/GoodOnesMU/nx/GoodOnesMU_Cover_Online.tga.ckd/f3c1e2f127f387a3cad275a287b3283e.ckd",
+      "coach1ImageUrl": "/public/map/GoodOnesMU/nx/GoodOnesMU_Coach_1.tga.ckd/40dcb8fa9bb1bd3dc2754c8c90cb8509.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GoodOnesMU/pc/GoodOnesMU_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/GoodOnesMU/pc/GoodOnesMU_map_bkg.tga.ckd/72dcb281c8a5b6aa2d1168bc800fa5a4.ckd",
+      "expandCoachImageUrl": "/public/map/GoodOnesMU/pc/GoodOnesMU_Cover_AlbumCoach.tga.ckd/5360408cf075f1732c4166fe229669bb.ckd",
+      "cover_smallImageUrl": "/public/map/GoodOnesMU/pc/GoodOnesMU_Cover_Online.tga.ckd/0ab4f2a40092f719e33936c30e8b7305.ckd",
+      "coach1ImageUrl": "/public/map/GoodOnesMU/pc/GoodOnesMU_Coach_1.tga.ckd/a0158adba6a66e1d191a864950e1661b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GoodOnesMU/orbis/GoodOnesMU_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/GoodOnesMU/orbis/GoodOnesMU_map_bkg.tga.ckd/72dcb281c8a5b6aa2d1168bc800fa5a4.ckd",
+      "expandCoachImageUrl": "/public/map/GoodOnesMU/orbis/GoodOnesMU_Cover_AlbumCoach.tga.ckd/5360408cf075f1732c4166fe229669bb.ckd",
+      "cover_smallImageUrl": "/public/map/GoodOnesMU/orbis/GoodOnesMU_Cover_Online.tga.ckd/0ab4f2a40092f719e33936c30e8b7305.ckd",
+      "coach1ImageUrl": "/public/map/GoodOnesMU/orbis/GoodOnesMU_Coach_1.tga.ckd/a0158adba6a66e1d191a864950e1661b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GoodOnesMU/GoodOnesMU_Coach_1_Phone.png/73cd39cf26c8e6aac2c140907010b227.png",
+    "phoneCoverImageUrl": "/public/map/GoodOnesMU/GoodOnesMU_Cover_Phone.jpg/57d60e234ce33554c1ab2d9e124103c6.jpg",
+    "cover640ImageUrl": "/public/map/GoodOnesMU/GoodOnesMU_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GoodOnesMU/GoodOnesMU.ogg": "/private/map/GoodOnesMU/GoodOnesMU.ogg/a6849c9e7c4e956473852532daf58a98.ogg",
+    "jmcs://jd-contents/GoodOnesMU/GoodOnesMU_AudioPreview.ogg": "/public/map/GoodOnesMU/GoodOnesMU_AudioPreview.ogg/fa2e018cb22d656e30df9b97358a277b.ogg",
+    "jmcs://jd-contents/GoodOnesMU/GoodOnesMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GoodOnesMU/GoodOnesMU_MapPreviewNoSoundCrop_LOW.vp8.webm/dd8dd68f8e21f926ee002dfa780e450c.webm",
+    "jmcs://jd-contents/GoodOnesMU/GoodOnesMU_HIGH.webm": "/private/map/GoodOnesMU/GoodOnesMU_HIGH.webm/1565ef8a3f2fb8ed60c349e371ee96b6.webm",
+    "jmcs://jd-contents/GoodOnesMU/GoodOnesMU_LOW.webm": "/private/map/GoodOnesMU/GoodOnesMU_LOW.webm/64cb6c01ffde603164a851de35ec92aa.webm",
+    "jmcs://jd-contents/GoodOnesMU/GoodOnesMU_MID.webm": "/private/map/GoodOnesMU/GoodOnesMU_MID.webm/e9dd61b256988489f8377fb025e0d1f2.webm",
+    "jmcs://jd-contents/GoodOnesMU/GoodOnesMU_ULTRA.hd.webm": "/private/map/GoodOnesMU/GoodOnesMU_ULTRA.hd.webm/b36cd16a1baf4aa8d2bef58ad7b00e01.webm",
+    "jmcs://jd-contents/GoodOnesMU/GoodOnesMU_ULTRA.webm": "/private/map/GoodOnesMU/GoodOnesMU_ULTRA.webm/8c127efe6eeaf508b5f7ce0aac818c24.webm",
+    "jmcs://jd-contents/GoodOnesMU/GoodOnesMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GoodOnesMU/GoodOnesMU_MapPreviewNoSoundCrop_MID.vp8.webm/1779e5d782ff33e042b24479cd28506c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"455300\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodOnesMU/GoodOnesMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1299803\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodOnesMU/GoodOnesMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 136.866188
+}

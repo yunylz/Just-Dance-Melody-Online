@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9f36a741768ed352831e5c1b20aeb779",
+      "storageType": 0,
+      "url": "/public/map/HeyMamaALT/nx/HeyMamaALT_MAIN_SCENE_NX.zip/9f36a741768ed352831e5c1b20aeb779.zip"
+    },
+    "pc": {
+      "md5": "d0c5ccaf1d74f3a3e3b86f682c4e48b2",
+      "storageType": 0,
+      "url": "/public/map/HeyMamaALT/pc/HeyMamaALT_MAIN_SCENE_PC.zip/d0c5ccaf1d74f3a3e3b86f682c4e48b2.zip"
+    },
+    "ps4": {
+      "md5": "8ef5d77160b0d6bd97114295c8d48c41",
+      "storageType": 0,
+      "url": "/public/map/HeyMamaALT/orbis/HeyMamaALT_MAIN_SCENE_ORBIS.zip/8ef5d77160b0d6bd97114295c8d48c41.zip"
+    }
+  },
+  "data": {
+    "mapName": "HeyMamaALT",
+    "title": "Hey Mama",
+    "originalJDVersion": 2016,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "David Guetta Ft. Nicki Minaj, Bebe Rexha & Afrojack",
+    "credits": "Written by Ester Dean (BMI), Onika Tanya Maraj (BMI), Sean Maxwell Douglas (BMI), David Guetta (SACEM), Alan Lomax (BMI), John A. Sr. Lomax (BMI), Bebe Rexha (BMI), Giorgio H. Tuinfort (BUMA), Nick L. Van De Wall (BUMA). Published by Universal Music Publishing, a division of Universal Music Canada Inc. (SOCAN) / TRO - Ludlow Music, Inc. (BMI) / Sony/ATV Music Publishing Canada (SOCAN) obo itself and Piano Music LLC (BMI) / \\u00a9 Warner-Tamerlane Publishing Corp. (BMI) and Eastman Pond Publishing (BMI). All rights on behalf of itself and Eastman Pond Publishing. Administered by Warner-Tamerlane Publishing Corp. / Global Jukebox Publishing (BMI) / Odyssey Productions Inc. / BMG Platinum Songs (BMI)/Kiss Me If You Can Music (BMI)/DLG Publishing (BUMA) / SACEM. All rights reserved.  Used with permission.(P) 2014 What A Music Ltd, under exclusive license to Parlophone/Warner Music France, A Warner Music Group Company. All rights reserved. Avec l\\u2019autorisation de Warner Music France, A Warner Music Group Company.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#FF8A42",
+    "songColor2A": "#E1FCFF",
+    "songColor1B": "#3D1500",
+    "songColor2B": "#003030",
+    "lyricsColor": "#F5454A",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33504,
+        66960,
+        100464,
+        133968,
+        167424,
+        200928,
+        234432,
+        267888,
+        301392,
+        334896,
+        368400,
+        401856,
+        435360,
+        468864,
+        502320,
+        535824,
+        569329,
+        602785,
+        636289,
+        669793,
+        703249,
+        736753,
+        770257,
+        803713,
+        837217,
+        870721,
+        904177,
+        937681,
+        971185,
+        1004641,
+        1038145,
+        1071649,
+        1105105,
+        1138609,
+        1172113,
+        1205569,
+        1239073,
+        1272577,
+        1306033,
+        1339537,
+        1373041,
+        1406497
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 275,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 42,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/heymamaalt/heymamaalt_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HeyMamaALT/nx/HeyMamaALT_banner_bkg.tga.ckd/9ce846c49cf927201eadbd5a51838d7b.ckd",
+      "map_bkgImageUrl": "/public/map/HeyMamaALT/nx/HeyMamaALT_map_bkg.tga.ckd/83b01019657c220d07e8ce13cd28aff0.ckd",
+      "expandCoachImageUrl": "/public/map/HeyMamaALT/nx/HeyMamaALT_Cover_AlbumCoach.tga.ckd/9c2228a2ff0643e47e4a658ba55dd2d2.ckd",
+      "cover_smallImageUrl": "/public/map/HeyMamaALT/nx/HeyMamaALT_Cover_Online.tga.ckd/5ecfea244181d5161c33d7ed1566ecc8.ckd",
+      "coverImageUrl": "/public/map/HeyMamaALT/nx/HeyMamaALT_Cover_Generic.tga.ckd/17896e926800e9d3b21a9e69e13837a0.ckd",
+      "coach1ImageUrl": "/public/map/HeyMamaALT/nx/HeyMamaALT_Coach_1.tga.ckd/3e8bff566c4df393e69c9eb955219b56.ckd",
+      "coach2ImageUrl": "/public/map/HeyMamaALT/nx/HeyMamaALT_Coach_2.tga.ckd/623662507e33a3fbb4631580947f5af3.ckd",
+      "coach3ImageUrl": "/public/map/HeyMamaALT/nx/HeyMamaALT_Coach_3.tga.ckd/227980dc8366318f6dc2ef76cd8a437d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HeyMamaALT/pc/HeyMamaALT_banner_bkg.tga.ckd/9561ee3db64defdf7286e560a23c653e.ckd",
+      "map_bkgImageUrl": "/public/map/HeyMamaALT/pc/HeyMamaALT_map_bkg.tga.ckd/4398be165c10d0b42479caecab1cd820.ckd",
+      "expandCoachImageUrl": "/public/map/HeyMamaALT/pc/HeyMamaALT_Cover_AlbumCoach.tga.ckd/0cb3665cd2094cb588eca0ebb9689405.ckd",
+      "cover_smallImageUrl": "/public/map/HeyMamaALT/pc/HeyMamaALT_Cover_Online.tga.ckd/f89d8e77d7fc83e1571b74dabc128ec5.ckd",
+      "coverImageUrl": "/public/map/HeyMamaALT/pc/HeyMamaALT_Cover_Generic.tga.ckd/b9fb633dc1c73852a6ea34706c6ac4b5.ckd",
+      "coach1ImageUrl": "/public/map/HeyMamaALT/pc/HeyMamaALT_Coach_1.tga.ckd/314f69c9e7c3b95c63f599aad6517af6.ckd",
+      "coach2ImageUrl": "/public/map/HeyMamaALT/pc/HeyMamaALT_Coach_2.tga.ckd/fcb1465de7c571a723e6d1a007d50f5f.ckd",
+      "coach3ImageUrl": "/public/map/HeyMamaALT/pc/HeyMamaALT_Coach_3.tga.ckd/1656d54593f3878954f21e288938ab61.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HeyMamaALT/orbis/HeyMamaALT_banner_bkg.tga.ckd/9561ee3db64defdf7286e560a23c653e.ckd",
+      "map_bkgImageUrl": "/public/map/HeyMamaALT/orbis/HeyMamaALT_map_bkg.tga.ckd/4398be165c10d0b42479caecab1cd820.ckd",
+      "expandCoachImageUrl": "/public/map/HeyMamaALT/orbis/HeyMamaALT_Cover_AlbumCoach.tga.ckd/0cb3665cd2094cb588eca0ebb9689405.ckd",
+      "cover_smallImageUrl": "/public/map/HeyMamaALT/orbis/HeyMamaALT_Cover_Online.tga.ckd/f89d8e77d7fc83e1571b74dabc128ec5.ckd",
+      "coverImageUrl": "/public/map/HeyMamaALT/orbis/HeyMamaALT_Cover_Generic.tga.ckd/b9fb633dc1c73852a6ea34706c6ac4b5.ckd",
+      "coach1ImageUrl": "/public/map/HeyMamaALT/orbis/HeyMamaALT_Coach_1.tga.ckd/314f69c9e7c3b95c63f599aad6517af6.ckd",
+      "coach2ImageUrl": "/public/map/HeyMamaALT/orbis/HeyMamaALT_Coach_2.tga.ckd/fcb1465de7c571a723e6d1a007d50f5f.ckd",
+      "coach3ImageUrl": "/public/map/HeyMamaALT/orbis/HeyMamaALT_Coach_3.tga.ckd/1656d54593f3878954f21e288938ab61.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HeyMamaALT/HeyMamaALT_Coach_1_Phone.png/8b04d489e6b976f0f7f03777eeac4305.png",
+    "phoneCoach2ImageUrl": "/public/map/HeyMamaALT/HeyMamaALT_Coach_2_Phone.png/2cfa2c82af8b4f6b02eac23c0ac7269a.png",
+    "phoneCoach3ImageUrl": "/public/map/HeyMamaALT/HeyMamaALT_Coach_3_Phone.png/1e32b4f8516eda1fe8f4d0685a342e8d.png",
+    "phoneCoverImageUrl": "/public/map/HeyMamaALT/HeyMamaALT_Cover_Phone.jpg/783f17391614af4fb97402d76f0eec44.jpg",
+    "cover640ImageUrl": "/public/map/HeyMamaALT/HeyMamaALT_Cover_640.png/d2de214a9dd09fb8ac0316d5bc17caa1.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HeyMamaALT/HeyMamaALT.ogg": "/private/map/HeyMamaALT/HeyMamaALT.ogg/5e1bef641b222f47411c25d9770b170c.ogg",
+    "jmcs://jd-contents/HeyMamaALT/HeyMamaALT_AudioPreview.ogg": "/public/map/HeyMamaALT/HeyMamaALT_AudioPreview.ogg/c78366d0f293d4093978a4a848ab7c3d.ogg",
+    "jmcs://jd-contents/HeyMamaALT/HeyMamaALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HeyMamaALT/HeyMamaALT_MapPreviewNoSoundCrop_LOW.vp8.webm/141934256a76d29c5c28164450e966c5.webm",
+    "jmcs://jd-contents/HeyMamaALT/HeyMamaALT_HIGH.webm": "/private/map/HeyMamaALT/HeyMamaALT_HIGH.webm/1850a90c832612f402ee745935b65057.webm",
+    "jmcs://jd-contents/HeyMamaALT/HeyMamaALT_LOW.webm": "/private/map/HeyMamaALT/HeyMamaALT_LOW.webm/54764e9f5f9fcb35aec9ae74e1e84de5.webm",
+    "jmcs://jd-contents/HeyMamaALT/HeyMamaALT_MID.webm": "/private/map/HeyMamaALT/HeyMamaALT_MID.webm/e5be7f776bd3a1d2072b55b808ad7e3e.webm",
+    "jmcs://jd-contents/HeyMamaALT/HeyMamaALT_ULTRA.hd.webm": "/private/map/HeyMamaALT/HeyMamaALT_ULTRA.hd.webm/fe93d52f3fb0cbbfcf06d9cea61b9c95.webm",
+    "jmcs://jd-contents/HeyMamaALT/HeyMamaALT_ULTRA.webm": "/private/map/HeyMamaALT/HeyMamaALT_ULTRA.webm/69f6a7ac9033400a14e9e5fbd695c25a.webm",
+    "jmcs://jd-contents/HeyMamaALT/HeyMamaALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HeyMamaALT/HeyMamaALT_MapPreviewNoSoundCrop_MID.vp8.webm/99ff18dfe04073372d9f456a211130f9.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496167\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyMamaALT/HeyMamaALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\n\t\t\t\t\t<Initialization range=\"0-623\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1463112\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyMamaALT/HeyMamaALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\n\t\t\t\t\t<Initialization range=\"0-624\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 195.349146
+}

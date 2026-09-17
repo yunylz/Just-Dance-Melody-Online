@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BoyWithLuvNextALT/BoyWithLuvNextALT.ogg": "/private/map/BoyWithLuvNextALT/BoyWithLuvNextALT.ogg/47fb80869ed338da7d30923047bc2eef.ogg",
+    "jmcs://jd-contents/BoyWithLuvNextALT/BoyWithLuvNextALT_AudioPreview.ogg": "/public/map/BoyWithLuvNextALT/BoyWithLuvNextALT_AudioPreview.ogg/3dbb0cb1d08749f67d1447c5582107ef.ogg",
+    "jmcs://jd-contents/BoyWithLuvNextALT/BoyWithLuvNextALT_HIGH.hd.webm": "/private/map/BoyWithLuvNextALT/BoyWithLuvNextALT_HIGH.hd.webm/75a1b1b0e78c838378921aee5aff9001.webm",
+    "jmcs://jd-contents/BoyWithLuvNextALT/BoyWithLuvNextALT_LOW.hd.webm": "/private/map/BoyWithLuvNextALT/BoyWithLuvNextALT_LOW.hd.webm/1ea655f02bfa7e6aa3de36cef420ab7c.webm",
+    "jmcs://jd-contents/BoyWithLuvNextALT/BoyWithLuvNextALT_MID.hd.webm": "/private/map/BoyWithLuvNextALT/BoyWithLuvNextALT_MID.hd.webm/8e2a501f21166fbb956456d99af64f14.webm",
+    "jmcs://jd-contents/BoyWithLuvNextALT/BoyWithLuvNextALT_ULTRA.hd.webm": "/private/map/BoyWithLuvNextALT/BoyWithLuvNextALT_ULTRA.hd.webm/285afcb1b760384d8578bc32e46aeec7.webm",
+    "jmcs://jd-contents/BoyWithLuvNextALT/BoyWithLuvNextALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BoyWithLuvNextALT/BoyWithLuvNextALT_MapPreviewNoSoundCrop_LOW.vp8.webm/765cbe33130f17121799ce3f4776ff9b.webm",
+    "jmcs://jd-contents/BoyWithLuvNextALT/BoyWithLuvNextALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BoyWithLuvNextALT/BoyWithLuvNextALT_MapPreviewNoSoundCrop_MID.vp8.webm/eac5f08d20c91c5f5f9cfec37325b074.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -21,
+      "endBeat": 460,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BoyWithLuvNextALT/BoyWithLuvNextALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"548853\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoyWithLuvNextALT/BoyWithLuvNextALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2010342\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoyWithLuvNextALT/BoyWithLuvNextALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "e09e02120ba65cadd3547466bf5f94eb",
+      "storageType": 0,
+      "url": "/public/map/BoyWithLuvNextALT/nx/BoyWithLuvNextALT_MAIN_SCENE_NX.zip/e09e02120ba65cadd3547466bf5f94eb.zip"
+    },
+    "pc": {
+      "md5": "c206b566f248dbc534bc74edd3f34e12",
+      "storageType": 0,
+      "url": "/public/map/BoyWithLuvNextALT/pc/BoyWithLuvNextALT_MAIN_SCENE_PC.zip/c206b566f248dbc534bc74edd3f34e12.zip"
+    },
+    "ps4": {
+      "md5": "8675ca00e4ed7d3dc3d3f8588ccd5a0c",
+      "storageType": 0,
+      "url": "/public/map/BoyWithLuvNextALT/orbis/BoyWithLuvNextALT_MAIN_SCENE_ORBIS.zip/8675ca00e4ed7d3dc3d3f8588ccd5a0c.zip"
+    }
+  },
+  "data": {
+    "mapName": "BoyWithLuvNextALT",
+    "title": "Boy With Luv",
+    "originalJDVersion": 2023,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "BTS (방탄소년단) Ft. Halsey",
+    "credits": "Written by Kang Hyo-won, Kim Nam-joon, Melanie Joy Fontana, Ashley Frangipane, Michel Schulz, Bang Si-hyuk, Min Yoon-gi, Emily Weisband, Jung Ho-seok. Published by Hybe Co. Ltd. (KOMCA), Sony ATV Ballad (BMI), Sony ATV Cross Keys Publishing (ASCAP) / Weistribe Publishing (ASCAP) and WC Music Corp. (ASCAP) All rights on behalf of itself and Weistribe Publishing administered by WC Music Corp. / Universal Music Publishing Canada obo Tinkermel Music Creations, 51000 Feet Music, 17 Black Music, Songs of Universal, Inc. and Almo Music Corp. Courtesy of Big Hit Music Label & Capitol Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#64c719",
+    "LocaleID": 12624
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BoyWithLuvNextALT/nx/BoyWithLuvNextALT_banner_bkg.tga.ckd/767b2ad6dc7c7f561da1769e35dd4b50.ckd",
+      "map_bkgImageUrl": "/public/map/BoyWithLuvNextALT/nx/BoyWithLuvNextALT_map_bkg.tga.ckd/9bb37f0428025f11e7d49d2d09aa314b.ckd",
+      "expandCoachImageUrl": "/public/map/BoyWithLuvNextALT/nx/BoyWithLuvNextALT_Cover_AlbumCoach.tga.ckd/307512cac6294cd3064126413f3062ef.ckd",
+      "cover_smallImageUrl": "/public/map/BoyWithLuvNextALT/nx/BoyWithLuvNextALT_Cover_Online.tga.ckd/517ac9157f54e241e41420fa3b786979.ckd",
+      "coverImageUrl": "/public/map/BoyWithLuvNextALT/nx/BoyWithLuvNextALT_Cover_Generic.tga.ckd/c6f6646de713f934dca6e0933969613a.ckd",
+      "coach1ImageUrl": "/public/map/BoyWithLuvNextALT/nx/BoyWithLuvNextALT_Coach_1.tga.ckd/af918875685c7cb173f33b0df6f4fc66.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BoyWithLuvNextALT/pc/BoyWithLuvNextALT_banner_bkg.tga.ckd/a96f592900a976a61584b07a22f72f17.ckd",
+      "map_bkgImageUrl": "/public/map/BoyWithLuvNextALT/pc/BoyWithLuvNextALT_map_bkg.tga.ckd/022d7b1a4edd1a68af2c09fdb5de3ea8.ckd",
+      "expandCoachImageUrl": "/public/map/BoyWithLuvNextALT/pc/BoyWithLuvNextALT_Cover_AlbumCoach.tga.ckd/fd13601aa5b6569e5fcce4926ea68ef4.ckd",
+      "cover_smallImageUrl": "/public/map/BoyWithLuvNextALT/pc/BoyWithLuvNextALT_Cover_Online.tga.ckd/7eea3524277969ee9cebe94407c1d3c2.ckd",
+      "coverImageUrl": "/public/map/BoyWithLuvNextALT/pc/BoyWithLuvNextALT_Cover_Generic.tga.ckd/df7fa4157a82fb37915602ed66a7641c.ckd",
+      "coach1ImageUrl": "/public/map/BoyWithLuvNextALT/pc/BoyWithLuvNextALT_Coach_1.tga.ckd/3ea22d5495c6e7ebd61d61eea78618cc.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BoyWithLuvNextALT/orbis/BoyWithLuvNextALT_banner_bkg.tga.ckd/a96f592900a976a61584b07a22f72f17.ckd",
+      "map_bkgImageUrl": "/public/map/BoyWithLuvNextALT/orbis/BoyWithLuvNextALT_map_bkg.tga.ckd/022d7b1a4edd1a68af2c09fdb5de3ea8.ckd",
+      "expandCoachImageUrl": "/public/map/BoyWithLuvNextALT/orbis/BoyWithLuvNextALT_Cover_AlbumCoach.tga.ckd/fd13601aa5b6569e5fcce4926ea68ef4.ckd",
+      "cover_smallImageUrl": "/public/map/BoyWithLuvNextALT/orbis/BoyWithLuvNextALT_Cover_Online.tga.ckd/7eea3524277969ee9cebe94407c1d3c2.ckd",
+      "coverImageUrl": "/public/map/BoyWithLuvNextALT/orbis/BoyWithLuvNextALT_Cover_Generic.tga.ckd/df7fa4157a82fb37915602ed66a7641c.ckd",
+      "coach1ImageUrl": "/public/map/BoyWithLuvNextALT/orbis/BoyWithLuvNextALT_Coach_1.tga.ckd/3ea22d5495c6e7ebd61d61eea78618cc.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BoyWithLuvNextALT/BoyWithLuvNextALT_Coach_1_Phone.png/4c001c097cb7b06a2137838983d5b8d5.png",
+    "phoneCoverImageUrl": "/public/map/BoyWithLuvNextALT/BoyWithLuvNextALT_Cover_Phone.jpg/204df673eb30cf9c9e339684b3c9fe21.jpg",
+    "cover640ImageUrl": "/public/map/BoyWithLuvNextALT/BoyWithLuvNextALT_Cover_640.png/510df376400d3ba8ad7ee6b4af42499f.png"
+  },
+  "mapLength": 240.5
+}

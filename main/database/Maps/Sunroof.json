@@ -1,0 +1,180 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Sunroof/Sunroof.ogg": "/private/map/Sunroof/Sunroof.ogg/008ee5d73d2ff1a135f91a58a51044b6.ogg",
+    "jmcs://jd-contents/Sunroof/Sunroof_AudioPreview.ogg": "/public/map/Sunroof/Sunroof_AudioPreview.ogg/a2ab379bb0419f9e4f61bc61e9f127a2.ogg",
+    "jmcs://jd-contents/Sunroof/Sunroof_HIGH.hd.webm": "/private/map/Sunroof/Sunroof_HIGH.hd.webm/b8d90239eebfc73aadf6f891d4ed7d0a.webm",
+    "jmcs://jd-contents/Sunroof/Sunroof_LOW.hd.webm": "/private/map/Sunroof/Sunroof_LOW.hd.webm/2a3cb30a4b2f2ec088f2fda1db92a3a6.webm",
+    "jmcs://jd-contents/Sunroof/Sunroof_MID.hd.webm": "/private/map/Sunroof/Sunroof_MID.hd.webm/72f69cdeb19a1dc104451117bba97b7d.webm",
+    "jmcs://jd-contents/Sunroof/Sunroof_ULTRA.hd.webm": "/private/map/Sunroof/Sunroof_ULTRA.hd.webm/a66f2b0b6fc4ddf90d92d03747554a86.webm",
+    "jmcs://jd-contents/Sunroof/Sunroof_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Sunroof/Sunroof_MapPreviewNoSoundCrop_LOW.vp8.webm/5b2900659c4c6fe1b83c51b1a1927889.webm",
+    "jmcs://jd-contents/Sunroof/Sunroof_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Sunroof/Sunroof_MapPreviewNoSoundCrop_MID.vp8.webm/8b0cb95bc6419198b3eed0a95927c271.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21901,
+        43802,
+        65703,
+        87605,
+        109506,
+        131407,
+        153308,
+        175209,
+        197110,
+        219011,
+        240913,
+        262814,
+        284715,
+        306616,
+        328517,
+        350418,
+        372319,
+        394221,
+        416122,
+        438023,
+        459924,
+        481825,
+        503726,
+        525627,
+        547529,
+        569430,
+        591331,
+        613232,
+        635133,
+        657034,
+        678935,
+        700837,
+        722738,
+        744639,
+        766540,
+        788441,
+        810342,
+        832243,
+        854144,
+        876046,
+        897947,
+        919848,
+        941749,
+        963650,
+        985551,
+        1007452,
+        1029354,
+        1051255,
+        1073156,
+        1095057,
+        1116958,
+        1138859,
+        1160760,
+        1182662,
+        1204563,
+        1226464,
+        1248365,
+        1270266,
+        1292167,
+        1314068,
+        1335970,
+        1357871,
+        1379772,
+        1401673,
+        1423574,
+        1445475,
+        1467376,
+        1489278
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -24,
+      "endBeat": 352,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Sunroof/Sunroof_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"561515\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sunroof/Sunroof_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2020228\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sunroof/Sunroof_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "2c821ec19d1a62ddca6a48d1810a8e16",
+      "storageType": 0,
+      "url": "/public/map/Sunroof/nx/Sunroof_MAIN_SCENE_NX.zip/2c821ec19d1a62ddca6a48d1810a8e16.zip"
+    },
+    "pc": {
+      "md5": "73c6b79f4600cf3523b0c15cfbf5f53f",
+      "storageType": 0,
+      "url": "/public/map/Sunroof/pc/Sunroof_MAIN_SCENE_PC.zip/73c6b79f4600cf3523b0c15cfbf5f53f.zip"
+    },
+    "ps4": {
+      "md5": "24a42e53cd9875bf5dad94348a40f1d6",
+      "storageType": 0,
+      "url": "/public/map/Sunroof/orbis/Sunroof_MAIN_SCENE_ORBIS.zip/24a42e53cd9875bf5dad94348a40f1d6.zip"
+    }
+  },
+  "data": {
+    "mapName": "Sunroof",
+    "title": "Sunroof",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Nicky Youre & Dazy",
+    "credits": "Written by Nicholas Minutaglio, Aidan Garrett Rodriguez, Nicholas Scott Ure. Published by Dazy Music (BMI), Sony ATV Songs LLC (BMI) / Universal Music Publishing. Courtesy of Columbia Records by arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#9ae4b7",
+    "songColor2A": "#80dffe",
+    "songColor1B": "#0d5d53",
+    "songColor2B": "#09559c",
+    "lyricsColor": "#62d386",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Sunroof/nx/Sunroof_banner_bkg.tga.ckd/aff4bad018323dcd6e4572c9bb6bf161.ckd",
+      "map_bkgImageUrl": "/public/map/Sunroof/nx/Sunroof_map_bkg.tga.ckd/a52746a7fa8a0c7f7d49d4009e9e67f1.ckd",
+      "expandCoachImageUrl": "/public/map/Sunroof/nx/Sunroof_Cover_AlbumCoach.tga.ckd/cb9b3d102e47574e42f63443e1ea2f15.ckd",
+      "cover_smallImageUrl": "/public/map/Sunroof/nx/Sunroof_Cover_Online.tga.ckd/4d99dc27f2e56267cc359526fa04434e.ckd",
+      "coverImageUrl": "/public/map/Sunroof/nx/Sunroof_Cover_Generic.tga.ckd/a4426a35c64b8d960a91631ad12874a5.ckd",
+      "coach1ImageUrl": "/public/map/Sunroof/nx/Sunroof_Coach_1.tga.ckd/a69a20cfd8de13a1d7434d7a51b0f9b7.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Sunroof/pc/Sunroof_banner_bkg.tga.ckd/982575dbe1387a5c9f7215c2d1f818ee.ckd",
+      "map_bkgImageUrl": "/public/map/Sunroof/pc/Sunroof_map_bkg.tga.ckd/dbdd3ca27ea6c6a887324add44e68559.ckd",
+      "expandCoachImageUrl": "/public/map/Sunroof/pc/Sunroof_Cover_AlbumCoach.tga.ckd/4522c2eb03551cde8ff7d67f03f136ec.ckd",
+      "cover_smallImageUrl": "/public/map/Sunroof/pc/Sunroof_Cover_Online.tga.ckd/ce6974c94a7de21ac3ca4ca9e35ef80b.ckd",
+      "coverImageUrl": "/public/map/Sunroof/pc/Sunroof_Cover_Generic.tga.ckd/5414276146ff40cba8e7038ae0dab6f3.ckd",
+      "coach1ImageUrl": "/public/map/Sunroof/pc/Sunroof_Coach_1.tga.ckd/ded29ace78715ca974b900f8361588e9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Sunroof/orbis/Sunroof_banner_bkg.tga.ckd/982575dbe1387a5c9f7215c2d1f818ee.ckd",
+      "map_bkgImageUrl": "/public/map/Sunroof/orbis/Sunroof_map_bkg.tga.ckd/dbdd3ca27ea6c6a887324add44e68559.ckd",
+      "expandCoachImageUrl": "/public/map/Sunroof/orbis/Sunroof_Cover_AlbumCoach.tga.ckd/4522c2eb03551cde8ff7d67f03f136ec.ckd",
+      "cover_smallImageUrl": "/public/map/Sunroof/orbis/Sunroof_Cover_Online.tga.ckd/ce6974c94a7de21ac3ca4ca9e35ef80b.ckd",
+      "coverImageUrl": "/public/map/Sunroof/orbis/Sunroof_Cover_Generic.tga.ckd/5414276146ff40cba8e7038ae0dab6f3.ckd",
+      "coach1ImageUrl": "/public/map/Sunroof/orbis/Sunroof_Coach_1.tga.ckd/ded29ace78715ca974b900f8361588e9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Sunroof/Sunroof_Coach_1_Phone.png/963a95fce335e311d1b7e9684c452db8.png",
+    "phoneCoverImageUrl": "/public/map/Sunroof/Sunroof_Cover_Phone.jpg/ca0e6ae7f7e2220e4991f3795bcd4c93.jpg",
+    "cover640ImageUrl": "/public/map/Sunroof/Sunroof_Cover_640.png/2316c8984071f657e0a53edf4e43a27f.png"
+  },
+  "mapLength": 171.558979
+}

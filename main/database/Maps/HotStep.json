@@ -1,0 +1,163 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d9c54bd357fc00c59a2301b8c6c5b723",
+      "storageType": 0,
+      "url": "/public/map/HotStep/nx/HotStep_MAIN_SCENE_NX.zip/d9c54bd357fc00c59a2301b8c6c5b723.zip"
+    },
+    "pc": {
+      "md5": "84e104f9bbaf26b538b4a6389138d8d2",
+      "storageType": 0,
+      "url": "/public/map/HotStep/pc/HotStep_MAIN_SCENE_PC.zip/84e104f9bbaf26b538b4a6389138d8d2.zip"
+    },
+    "ps4": {
+      "md5": "0455886cbfa04fcfa0d3a8de2c64daa5",
+      "storageType": 0,
+      "url": "/public/map/HotStep/orbis/HotStep_MAIN_SCENE_ORBIS.zip/0455886cbfa04fcfa0d3a8de2c64daa5.zip"
+    }
+  },
+  "data": {
+    "mapName": "HotStep",
+    "title": "Here Comes The Hotstepper",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "The Hit Crew",
+    "credits": "Empty Credits",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FA9F03",
+    "LocaleID": 4294967295,
+    "LocaleId": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28383,
+        56765,
+        85147,
+        113529,
+        141911,
+        170293,
+        198675,
+        227057,
+        255439,
+        283821,
+        312203,
+        340585,
+        368967,
+        397349,
+        425731,
+        454113,
+        482495,
+        510877,
+        539259,
+        567641,
+        596023,
+        624405,
+        652787,
+        681169,
+        709551,
+        737934,
+        766316,
+        794698,
+        823080,
+        851462,
+        879844,
+        908226,
+        936608,
+        964990,
+        993372,
+        1021754,
+        1050136,
+        1078518,
+        1106900,
+        1135282,
+        1163664,
+        1192046,
+        1220428,
+        1248810,
+        1277192,
+        1305574,
+        1333956,
+        1362338,
+        1390720,
+        1419103
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 363,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/hotstep/hotstep_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HotStep/nx/HotStep_banner_bkg.tga.ckd/bda15d1abefb39f0c45d4c9c74fcce01.ckd",
+      "map_bkgImageUrl": "/public/map/HotStep/nx/HotStep_map_bkg.tga.ckd/ba87f0c05ce23fc5d2cd6d7131ca00de.ckd",
+      "expandCoachImageUrl": "/public/map/HotStep/nx/HotStep_Cover_AlbumCoach.tga.ckd/c7e53bc70a2a3d47f8c84ca133dd2e49.ckd",
+      "cover_smallImageUrl": "/public/map/HotStep/nx/HotStep_Cover_Online.tga.ckd/68ef2b10f617e9321381069946a4638f.ckd",
+      "coach1ImageUrl": "/public/map/HotStep/nx/HotStep_Coach_1.tga.ckd/8b77358e09095db40da3634768dde3c4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HotStep/pc/HotStep_banner_bkg.tga.ckd/d469a4f88724c5d15da01af5572437a9.ckd",
+      "map_bkgImageUrl": "/public/map/HotStep/pc/HotStep_map_bkg.tga.ckd/3fab1f27910007fb69deaecaa9c81f55.ckd",
+      "expandCoachImageUrl": "/public/map/HotStep/pc/HotStep_Cover_AlbumCoach.tga.ckd/0bc5ca05547966db39c22a9d086b7a8c.ckd",
+      "cover_smallImageUrl": "/public/map/HotStep/pc/HotStep_Cover_Online.tga.ckd/92245ca56157b80fc01296b9f94b7972.ckd",
+      "coach1ImageUrl": "/public/map/HotStep/pc/HotStep_Coach_1.tga.ckd/638d7b2015885075c4d9b6d6e6538a42.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HotStep/orbis/HotStep_banner_bkg.tga.ckd/d469a4f88724c5d15da01af5572437a9.ckd",
+      "map_bkgImageUrl": "/public/map/HotStep/orbis/HotStep_map_bkg.tga.ckd/3fab1f27910007fb69deaecaa9c81f55.ckd",
+      "expandCoachImageUrl": "/public/map/HotStep/orbis/HotStep_Cover_AlbumCoach.tga.ckd/0bc5ca05547966db39c22a9d086b7a8c.ckd",
+      "cover_smallImageUrl": "/public/map/HotStep/orbis/HotStep_Cover_Online.tga.ckd/92245ca56157b80fc01296b9f94b7972.ckd",
+      "coach1ImageUrl": "/public/map/HotStep/orbis/HotStep_Coach_1.tga.ckd/638d7b2015885075c4d9b6d6e6538a42.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HotStep/HotStep_Coach_1_Phone.png/9ee6082ccea25d96eb221038eac40b9a.png",
+    "phoneCoverImageUrl": "/public/map/HotStep/HotStep_Cover_Phone.jpg/5e0c23e08d680f44e65bec50d06c8376.jpg",
+    "cover640ImageUrl": "/public/map/HotStep/HotStep_Cover_640.png/351a54cf58725a8fe0d3238d4dfb1063.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HotStep/HotStep.ogg": "/private/map/HotStep/HotStep.ogg/e2c9b7f85305799e66c78036f00263d7.ogg",
+    "jmcs://jd-contents/HotStep/HotStep_AudioPreview.ogg": "/public/map/HotStep/HotStep_AudioPreview.ogg/e489b14b6e17425fc8f1ab30250743ae.ogg",
+    "jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HotStep/HotStep_MapPreviewNoSoundCrop_LOW.vp8.webm/37559d2984697704cf188952876aab07.webm",
+    "jmcs://jd-contents/HotStep/HotStep_HIGH.webm": "/private/map/HotStep/HotStep_HIGH.webm/b46262452343d110cdfa01c9338ed958.webm",
+    "jmcs://jd-contents/HotStep/HotStep_LOW.webm": "/private/map/HotStep/HotStep_LOW.webm/e3771813c469d156deddbdf4d2f6a95a.webm",
+    "jmcs://jd-contents/HotStep/HotStep_MID.webm": "/private/map/HotStep/HotStep_MID.webm/17750ec99fc457a006f30565c82e597f.webm",
+    "jmcs://jd-contents/HotStep/HotStep_ULTRA.hd.webm": "/private/map/HotStep/HotStep_ULTRA.hd.webm/4c619d81fa928bdfe324a50c7261e345.webm",
+    "jmcs://jd-contents/HotStep/HotStep_ULTRA.webm": "/private/map/HotStep/HotStep_ULTRA.webm/603a651b4146cf4790626ef3e36e7d1a.webm",
+    "jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HotStep/HotStep_MapPreviewNoSoundCrop_MID.vp8.webm/1be16e5b42705d93760ea7557994ef93.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497206\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\n\t\t\t\t\t<Initialization range=\"0-598\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1414250\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HotStep/HotStep_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\n\t\t\t\t\t<Initialization range=\"0-599\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 215.460292
+}

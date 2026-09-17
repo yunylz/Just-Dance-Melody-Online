@@ -1,0 +1,162 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "09e000fa94908a32a3043f98f9bb1071",
+      "storageType": 0,
+      "url": "/public/map/Juju/nx/Juju_MAIN_SCENE_NX.zip/09e000fa94908a32a3043f98f9bb1071.zip"
+    },
+    "pc": {
+      "md5": "f35fc5400ab9e643883d5161d8d51640",
+      "storageType": 0,
+      "url": "/public/map/Juju/pc/Juju_MAIN_SCENE_PC.zip/f35fc5400ab9e643883d5161d8d51640.zip"
+    },
+    "ps4": {
+      "md5": "88a1f1060b785b0a38ec7e1af76ed187",
+      "storageType": 0,
+      "url": "/public/map/Juju/orbis/Juju_MAIN_SCENE_ORBIS.zip/88a1f1060b785b0a38ec7e1af76ed187.zip"
+    }
+  },
+  "data": {
+    "mapName": "Juju",
+    "title": "Juju On That Beat (TZ Anthem)",
+    "originalJDVersion": 2017,
+    "tags": [
+      "subscribedSong",
+      "JustDance2017",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "Zay Hilfigerrr & Zayion McCall",
+    "credits": "Written by Jonathan Lewis, Alphonce Smith, Venetia Lewis, Jarques Usher, Christopher Henderson, Brittany Nicole Carpentero, James D. McCall and Tyjuan Peoples. Published by Jayworks (ASCAP) c/o EMI April Music (Canada) Ltd. (SOCAN). / Shapiro, Bernstein & Co., Inc. (ASCAP) obo Right Note Entertainment (ASCAP), Royal Throne (ASCAP) and Jockmigrainemusic (ASCAP); Painted Desert Music Corp (BMI) obo KC’s Crazy Masterpiece(BMI). / Tha Lights Global / Kobalt. / heiress, Lordess, and Friends d/b/a Crunk Inc. All rights reserved. Used with permission. (P) Line: 2016 Tha Lights Global, INC / Atlantic Recording Corporation. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#2bb076",
+    "songColor2A": "#29b6af",
+    "songColor1B": "#2f837d",
+    "songColor2B": "#48ff80",
+    "lyricsColor": "#9803d7",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        35855,
+        71183,
+        107135,
+        143135,
+        179087,
+        215087,
+        251039,
+        287039,
+        322991,
+        358991,
+        394943,
+        430895,
+        466895,
+        502847,
+        538847,
+        574799,
+        610799,
+        646751,
+        682703,
+        718703,
+        754655,
+        790655,
+        826607,
+        862607,
+        898559,
+        934559,
+        970511,
+        1006463,
+        1042271,
+        1078031,
+        1113791,
+        1149551,
+        1185311,
+        1221311,
+        1257263,
+        1293263,
+        1329215,
+        1365215,
+        1401214,
+        1437166,
+        1473166,
+        1509070
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 197,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 40,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Juju/Juju_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Juju/nx/Juju_banner_bkg.tga.ckd/542e7074f077d1fad37cef2e4397b225.ckd",
+      "map_bkgImageUrl": "/public/map/Juju/nx/Juju_map_bkg.tga.ckd/78af673fc09f54ab4aad26cd98470c03.ckd",
+      "expandCoachImageUrl": "/public/map/Juju/nx/Juju_Cover_AlbumCoach.tga.ckd/e834937274c34aecfb02ecd4469da3b3.ckd",
+      "cover_smallImageUrl": "/public/map/Juju/nx/Juju_Cover_Online.tga.ckd/6dcb3ecea012f9694b0a3350e48811cc.ckd",
+      "coverImageUrl": "/public/map/Juju/nx/Juju_Cover_Generic.tga.ckd/431b57b40bcae2a2946498ea59765ed3.ckd",
+      "coach1ImageUrl": "/public/map/Juju/nx/Juju_Coach_1.tga.ckd/0ee70c1aaaf3d577f28c2938be2b5136.ckd",
+      "coach2ImageUrl": "/public/map/Juju/nx/Juju_Coach_2.tga.ckd/48cd49d0345650da3ad96e72c571b304.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Juju/pc/Juju_banner_bkg.tga.ckd/72e0bb7fddae183bb60ca6774109a24a.ckd",
+      "map_bkgImageUrl": "/public/map/Juju/pc/Juju_map_bkg.tga.ckd/464375bc12b69defe1750e1f2bb82938.ckd",
+      "expandCoachImageUrl": "/public/map/Juju/pc/Juju_Cover_AlbumCoach.tga.ckd/eb5151d46c5a829d6a0a4b2322aba9f9.ckd",
+      "cover_smallImageUrl": "/public/map/Juju/pc/Juju_Cover_Online.tga.ckd/f21ca973ad543346cd6d95f8b2b8acbc.ckd",
+      "coverImageUrl": "/public/map/Juju/pc/Juju_Cover_Generic.tga.ckd/77a610a883858ebebe60a6ef31ab2586.ckd",
+      "coach1ImageUrl": "/public/map/Juju/pc/Juju_Coach_1.tga.ckd/709f4d7f8dd9385492798feaba321cb7.ckd",
+      "coach2ImageUrl": "/public/map/Juju/pc/Juju_Coach_2.tga.ckd/41355e789b7e56d5e2e8f0e4700f1606.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Juju/orbis/Juju_banner_bkg.tga.ckd/72e0bb7fddae183bb60ca6774109a24a.ckd",
+      "map_bkgImageUrl": "/public/map/Juju/orbis/Juju_map_bkg.tga.ckd/464375bc12b69defe1750e1f2bb82938.ckd",
+      "expandCoachImageUrl": "/public/map/Juju/orbis/Juju_Cover_AlbumCoach.tga.ckd/eb5151d46c5a829d6a0a4b2322aba9f9.ckd",
+      "cover_smallImageUrl": "/public/map/Juju/orbis/Juju_Cover_Online.tga.ckd/f21ca973ad543346cd6d95f8b2b8acbc.ckd",
+      "coverImageUrl": "/public/map/Juju/orbis/Juju_Cover_Generic.tga.ckd/77a610a883858ebebe60a6ef31ab2586.ckd",
+      "coach1ImageUrl": "/public/map/Juju/orbis/Juju_Coach_1.tga.ckd/709f4d7f8dd9385492798feaba321cb7.ckd",
+      "coach2ImageUrl": "/public/map/Juju/orbis/Juju_Coach_2.tga.ckd/41355e789b7e56d5e2e8f0e4700f1606.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Juju/Juju_Coach_1_Phone.png/5603bd6a452f0d025c4e7c9f4ff0b7f8.png",
+    "phoneCoach2ImageUrl": "/public/map/Juju/Juju_Coach_2_Phone.png/2192468a0098c3ba7ba786c81c5d207d.png",
+    "phoneCoverImageUrl": "/public/map/Juju/Juju_Cover_Phone.jpg/adbab9a5fa97108a638fe2d1203f7701.jpg",
+    "cover640ImageUrl": "/public/map/Juju/Juju_Cover_640.png/8d3be13e9ba24f9abf377eb6e6eb6c19.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Juju/Juju.ogg": "/private/map/Juju/Juju.ogg/c1a95b74c8d7cce0fda506abb77eb98f.ogg",
+    "jmcs://jd-contents/Juju/Juju_AudioPreview.ogg": "/public/map/Juju/Juju_AudioPreview.ogg/68666aad9bc5340b389c08a2ef016703.ogg",
+    "jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Juju/Juju_MapPreviewNoSoundCrop_LOW.vp8.webm/db7c58b1baf792bba35d9c4c43ad9365.webm",
+    "jmcs://jd-contents/Juju/Juju_HIGH.webm": "/private/map/Juju/Juju_HIGH.webm/100b3f5edef4f9393038a4a166d394cd.webm",
+    "jmcs://jd-contents/Juju/Juju_LOW.webm": "/private/map/Juju/Juju_LOW.webm/90f0f4d26e653f67a1105e75946fc8c5.webm",
+    "jmcs://jd-contents/Juju/Juju_MID.webm": "/private/map/Juju/Juju_MID.webm/cc362f6899ad4870453fab5ba5caacec.webm",
+    "jmcs://jd-contents/Juju/Juju_ULTRA.hd.webm": "/private/map/Juju/Juju_ULTRA.hd.webm/81f37a2b881641953b9a44ad714a5bf2.webm",
+    "jmcs://jd-contents/Juju/Juju_ULTRA.webm": "/private/map/Juju/Juju_ULTRA.webm/f500eb6276e9377aad0e80c92fc40dfd.webm",
+    "jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Juju/Juju_MapPreviewNoSoundCrop_MID.vp8.webm/7babf834c28bdc12457c90b9820bcd2f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495134\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"641-1130\">\n\t\t\t\t\t<Initialization range=\"0-641\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1467071\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Juju/Juju_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"642-1132\">\n\t\t\t\t\t<Initialization range=\"0-642\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 148.784771
+}

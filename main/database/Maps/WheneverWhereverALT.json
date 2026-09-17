@@ -1,0 +1,179 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_AudioPreview.ogg": "/public/map/WheneverWhereverALT/WheneverWhereverALT_AudioPreview.ogg/e56d40cf5f115dfc6be2d5d031d372d5.ogg",
+    "jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT.ogg": "/private/map/WheneverWhereverALT/WheneverWhereverALT.ogg/902371d1f73e9d94563c04aed78dea33.ogg",
+    "jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_LOW.vp8.webm/c92941a01c23202983b1815fe357f338.webm",
+    "jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_MID.vp8.webm/16033deb5375e0cdf452735f513d5c6e.webm",
+    "jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_ULTRA.hd.webm": "/private/map/WheneverWhereverALT/WheneverWhereverALT_ULTRA.hd.webm/d2b57b8e7e8139ebc44a0b7567e5aca5.webm",
+    "jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_HIGH.hd.webm": "/private/map/WheneverWhereverALT/WheneverWhereverALT_HIGH.hd.webm/b35e639b3ccab2629ae3dcface01207d.webm",
+    "jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_MID.hd.webm": "/private/map/WheneverWhereverALT/WheneverWhereverALT_MID.hd.webm/a5ba645df0d8c4cf19d0f95dec32ee41.webm",
+    "jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_LOW.hd.webm": "/private/map/WheneverWhereverALT/WheneverWhereverALT_LOW.hd.webm/4328863249b83c812393f9cf45ea8775.webm",
+    "jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/52c937b01581c0791f2c96861b1add0c.webm",
+    "jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/9b35bdead47775aca5881f86b2670beb.webm"
+  },
+  "mapLength": 212.3338125,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26735,
+        53471,
+        80206,
+        106941,
+        133677,
+        160412,
+        187147,
+        213882,
+        240618,
+        267353,
+        294088,
+        320824,
+        347559,
+        374294,
+        401030,
+        427765,
+        454500,
+        480944,
+        507387,
+        534123,
+        560858,
+        587593,
+        614329,
+        641064,
+        667799,
+        694534,
+        721270,
+        748005,
+        774740,
+        801476,
+        828211,
+        854946,
+        881681,
+        908417,
+        935152,
+        961887,
+        988623,
+        1015358,
+        1042093,
+        1068829,
+        1095564,
+        1122299,
+        1149034,
+        1175770,
+        1202505,
+        1229240,
+        1255976,
+        1282711,
+        1309446,
+        1336181,
+        1362917,
+        1389652,
+        1416387
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -23,
+      "endBeat": 354,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"642010\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"808-1298\">\n\t\t\t\t\t<Initialization range=\"0-808\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1093022\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"808-1298\">\n\t\t\t\t\t<Initialization range=\"0-808\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"1099600\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"808-1298\">\n\t\t\t\t\t<Initialization range=\"0-808\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"1099600\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WheneverWhereverALT/WheneverWhereverALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"808-1298\">\n\t\t\t\t\t<Initialization range=\"0-808\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "7d52e5d500ba46ffac20c2f669e1e995",
+      "storageType": 0,
+      "url": "/public/map/WheneverWhereverALT/pc/WheneverWhereverALT_MAIN_SCENE_PC.zip/7d52e5d500ba46ffac20c2f669e1e995.zip"
+    },
+    "ps4": {
+      "md5": "7b7b3cdc9f30cc7b1197621c88a418e0",
+      "storageType": 0,
+      "url": "/public/map/WheneverWhereverALT/orbis/WheneverWhereverALT_MAIN_SCENE_ORBIS.zip/7b7b3cdc9f30cc7b1197621c88a418e0.zip"
+    },
+    "wiiu": {
+      "md5": "dd8d9041faed62ce6c7ab1fe3394cc8d",
+      "storageType": 0,
+      "url": "/public/map/WheneverWhereverALT/wiiu/WheneverWhereverALT_MAIN_SCENE_WIIU.zip/dd8d9041faed62ce6c7ab1fe3394cc8d.zip"
+    },
+    "nx": {
+      "md5": "3784755a9467ccddd35946f2481ab47b",
+      "storageType": 0,
+      "url": "/public/map/WheneverWhereverALT/nx/WheneverWhereverALT_MAIN_SCENE_NX.zip/3784755a9467ccddd35946f2481ab47b.zip"
+    }
+  },
+  "data": {
+    "mapName": "WheneverWhereverALT",
+    "title": "Whenever, Wherever",
+    "originalJDVersion": 2025,
+    "tags": [
+      "alternate",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Shakira",
+    "credits": "Written by Gloria M. Estefan, Shakira Mebarak, Timothy C. Mitchell. Published by Universal Music Publishing Canada on behalf of Foreign Imported Prod. And Publishing / MyMPM Music, Sony ATV Melody. Courtesy of Epic Records. By arrangement with Sony Music Entertainment. ",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#E79F3E",
+    "songColor2A": "#E9BECE",
+    "songColor1B": "#602A06",
+    "songColor2B": "#580640",
+    "lyricsColor": "#66B904",
+    "LocaleID": 20003372
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/WheneverWhereverALT/pc/WheneverWhereverALT_Cover_Online.tga.ckd/603f2bd60b9f1008dd540e759b0f8889.ckd",
+      "coverImageUrl": "/public/map/WheneverWhereverALT/pc/WheneverWhereverALT_Cover_Generic.tga.ckd/c3ad7808097018cf27f27e89f798450e.ckd",
+      "expandCoachImageUrl": "/public/map/WheneverWhereverALT/pc/WheneverWhereverALT_Cover_AlbumCoach.tga.ckd/f7e4bca9399f25712fc4642475555547.ckd",
+      "map_bkgImageUrl": "/public/map/WheneverWhereverALT/pc/WheneverWhereverALT_map_bkg.tga.ckd/011bb1f4e66eefa15af22e301df5e4df.ckd",
+      "banner_bkgImageUrl": "/public/map/WheneverWhereverALT/pc/WheneverWhereverALT_banner_bkg.tga.ckd/ddee956549d0ed1e76cd62d2ec366303.ckd",
+      "coach1ImageUrl": "/public/map/WheneverWhereverALT/pc/WheneverWhereverALT_Coach_1.tga.ckd/1fff9208c79b392dd3ce8909d34c5ae6.ckd",
+      "phoneCoverImageUrl": "/public/map/WheneverWhereverALT/WheneverWhereverALT_Cover_Phone.jpg/76505898483ef68666b8a09c36f5b377.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WheneverWhereverALT/WheneverWhereverALT_Coach_1_Phone.png/02dff59b70eab6579cf54db5a4d1fd35.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/WheneverWhereverALT/orbis/WheneverWhereverALT_Cover_Online.tga.ckd/603f2bd60b9f1008dd540e759b0f8889.ckd",
+      "coverImageUrl": "/public/map/WheneverWhereverALT/orbis/WheneverWhereverALT_Cover_Generic.tga.ckd/c3ad7808097018cf27f27e89f798450e.ckd",
+      "expandCoachImageUrl": "/public/map/WheneverWhereverALT/orbis/WheneverWhereverALT_Cover_AlbumCoach.tga.ckd/f7e4bca9399f25712fc4642475555547.ckd",
+      "map_bkgImageUrl": "/public/map/WheneverWhereverALT/orbis/WheneverWhereverALT_map_bkg.tga.ckd/011bb1f4e66eefa15af22e301df5e4df.ckd",
+      "banner_bkgImageUrl": "/public/map/WheneverWhereverALT/orbis/WheneverWhereverALT_banner_bkg.tga.ckd/ddee956549d0ed1e76cd62d2ec366303.ckd",
+      "coach1ImageUrl": "/public/map/WheneverWhereverALT/orbis/WheneverWhereverALT_Coach_1.tga.ckd/1fff9208c79b392dd3ce8909d34c5ae6.ckd",
+      "phoneCoverImageUrl": "/public/map/WheneverWhereverALT/WheneverWhereverALT_Cover_Phone.jpg/76505898483ef68666b8a09c36f5b377.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WheneverWhereverALT/WheneverWhereverALT_Coach_1_Phone.png/02dff59b70eab6579cf54db5a4d1fd35.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/WheneverWhereverALT/wiiu/WheneverWhereverALT_Cover_Online.tga.ckd/4984052a1c02094b84c1ea91f87edb7c.ckd",
+      "coverImageUrl": "/public/map/WheneverWhereverALT/wiiu/WheneverWhereverALT_Cover_Generic.tga.ckd/29341a8295bf3f71c555dd32fc2e1cb8.ckd",
+      "expandCoachImageUrl": "/public/map/WheneverWhereverALT/wiiu/WheneverWhereverALT_Cover_AlbumCoach.tga.ckd/0f15fbfb322e24c16bc18c36ed9ebf64.ckd",
+      "map_bkgImageUrl": "/public/map/WheneverWhereverALT/wiiu/WheneverWhereverALT_map_bkg.tga.ckd/8796186e5ccf892c330ab16723edfb25.ckd",
+      "banner_bkgImageUrl": "/public/map/WheneverWhereverALT/wiiu/WheneverWhereverALT_banner_bkg.tga.ckd/90f1687243e248e9841013c64b7cca68.ckd",
+      "coach1ImageUrl": "/public/map/WheneverWhereverALT/wiiu/WheneverWhereverALT_Coach_1.tga.ckd/0bad8ac13632223bc7c52889cdc8be76.ckd",
+      "phoneCoverImageUrl": "/public/map/WheneverWhereverALT/WheneverWhereverALT_Cover_Phone.jpg/76505898483ef68666b8a09c36f5b377.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WheneverWhereverALT/WheneverWhereverALT_Coach_1_Phone.png/02dff59b70eab6579cf54db5a4d1fd35.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/WheneverWhereverALT/nx/WheneverWhereverALT_Cover_Online.tga.ckd/44127b2d71d40f400170f1e7e4661683.ckd",
+      "coverImageUrl": "/public/map/WheneverWhereverALT/nx/WheneverWhereverALT_Cover_Generic.tga.ckd/32388b4f9acd53d2da83c5b76dcdd167.ckd",
+      "expandCoachImageUrl": "/public/map/WheneverWhereverALT/nx/WheneverWhereverALT_Cover_AlbumCoach.tga.ckd/447f46d1a799b0c5a5d6f1d98f4ad1d3.ckd",
+      "map_bkgImageUrl": "/public/map/WheneverWhereverALT/nx/WheneverWhereverALT_map_bkg.tga.ckd/c51136ad4792d6c5b5c4855918bd8909.ckd",
+      "banner_bkgImageUrl": "/public/map/WheneverWhereverALT/nx/WheneverWhereverALT_banner_bkg.tga.ckd/ada2ccd7612e41de27d904f0f6222631.ckd",
+      "coach1ImageUrl": "/public/map/WheneverWhereverALT/nx/WheneverWhereverALT_Coach_1.tga.ckd/1ea52e14bb68a1b5ad9575b68c75953e.ckd",
+      "phoneCoverImageUrl": "/public/map/WheneverWhereverALT/WheneverWhereverALT_Cover_Phone.jpg/76505898483ef68666b8a09c36f5b377.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WheneverWhereverALT/WheneverWhereverALT_Coach_1_Phone.png/02dff59b70eab6579cf54db5a4d1fd35.png"
+    },
+    "cover640ImageUrl": "/public/map/WheneverWhereverALT/WheneverWhereverALT_Cover_640.png/733c4e41671fcb087d385cb1a90df677.png"
+  }
+}

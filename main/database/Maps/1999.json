@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3a34047b39e5f74bdf24309e65347207",
+      "storageType": 0,
+      "url": "/public/map/1999/nx/1999_MAIN_SCENE_NX.zip/3a34047b39e5f74bdf24309e65347207.zip"
+    },
+    "pc": {
+      "md5": "d0bf44a386bf4c703bb046afef631f2a",
+      "storageType": 0,
+      "url": "/public/map/1999/pc/1999_MAIN_SCENE_PC.zip/d0bf44a386bf4c703bb046afef631f2a.zip"
+    },
+    "ps4": {
+      "md5": "45eb6474c7b882ef01ffa13629d14752",
+      "storageType": 0,
+      "url": "/public/map/1999/orbis/1999_MAIN_SCENE_ORBIS.zip/45eb6474c7b882ef01ffa13629d14752.zip"
+    }
+  },
+  "data": {
+    "mapName": "1999",
+    "title": "1999",
+    "originalJDVersion": 2020,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Charli XCX & Troye Sivan",
+    "credits": "Written by Charlotte Aitchison, Troye Sivan Mellet, Oscar Thomas Holter, Brett McLaughlin and Noonie Bao. Published by Stellar Songs Ltd. (PRS), Bob Ochoa\\u2019s Homemade Salsa (ASCAP), EMI Music Publishing Scandinavia AB (STIM). \\/ Universal\\/MCA Music Ltd. \\/ Wolf Cousins (STIM) and Warner\\/Chappell Music Scandinavia AB (STIM). All rights on behalf of Wolf Cousins and Warner\\/Chappell Music Scandinavia AB administered by WB Music Corp. All rights reserved. Used with permission. Courtesy of East West Records UK Ltd. By arrangement with Warner Music Group Film & TV Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#048C57",
+    "songColor2A": "#FF8A17",
+    "songColor1B": "#005635",
+    "songColor2B": "#AC3D00",
+    "lyricsColor": "#FF78C4",
+    "LocaleId": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23226,
+        46452,
+        69678,
+        92904,
+        116129,
+        139355,
+        162581,
+        185807,
+        209033,
+        232258,
+        255484,
+        278710,
+        301936,
+        325162,
+        348388,
+        371613,
+        394839,
+        418065,
+        441291,
+        464517,
+        487742,
+        510968,
+        534194,
+        557420,
+        580646,
+        603871,
+        627097,
+        650323,
+        673549,
+        696775,
+        720000,
+        743226,
+        766452,
+        789678,
+        812904,
+        836129,
+        859355,
+        882581,
+        905807,
+        929033,
+        952258,
+        975484,
+        998710,
+        1021936,
+        1045162,
+        1068388,
+        1091613,
+        1114839,
+        1138065,
+        1161291,
+        1184517,
+        1207742,
+        1230968,
+        1254194,
+        1277420,
+        1300646,
+        1323871,
+        1347097,
+        1370323,
+        1393549,
+        1416775
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 394,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/1999/1999_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/1999/nx/1999_banner_bkg.tga.ckd/08f31e41f1e3782edc2177b397a3078d.ckd",
+      "map_bkgImageUrl": "/public/map/1999/nx/1999_map_bkg.tga.ckd/1110ccc7c21fb73f1302a4546197e91e.ckd",
+      "expandCoachImageUrl": "/public/map/1999/nx/1999_Cover_AlbumCoach.tga.ckd/8c31f37330b23642f15cb1bec8988f44.ckd",
+      "cover_smallImageUrl": "/public/map/1999/nx/1999_Cover_Online.tga.ckd/d4ed396859c9c1373314a95d60f545ed.ckd",
+      "coach1ImageUrl": "/public/map/1999/nx/1999_Coach_1.tga.ckd/013517978ec4b23d6d2ff3718650a9ae.ckd",
+      "coach2ImageUrl": "/public/map/1999/nx/1999_Coach_2.tga.ckd/b0f605f8b70537451fb4e33914c2f709.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/1999/pc/1999_banner_bkg.tga.ckd/8b6d74ff449d1a129a7aeeb91db99136.ckd",
+      "map_bkgImageUrl": "/public/map/1999/pc/1999_map_bkg.tga.ckd/405ade16f013253d77daf1a0a713e4dd.ckd",
+      "expandCoachImageUrl": "/public/map/1999/pc/1999_Cover_AlbumCoach.tga.ckd/4823f6f73409c2f9cecb68b2ef6c031f.ckd",
+      "cover_smallImageUrl": "/public/map/1999/pc/1999_Cover_Online.tga.ckd/95050ca6aeaca238594bceb75595950b.ckd",
+      "coach1ImageUrl": "/public/map/1999/pc/1999_Coach_1.tga.ckd/17ab7734d9a6d7c02a3085a05cf88d6d.ckd",
+      "coach2ImageUrl": "/public/map/1999/pc/1999_Coach_2.tga.ckd/f2109c6ce044cec57b24388b41897835.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/1999/orbis/1999_banner_bkg.tga.ckd/8b6d74ff449d1a129a7aeeb91db99136.ckd",
+      "map_bkgImageUrl": "/public/map/1999/orbis/1999_map_bkg.tga.ckd/405ade16f013253d77daf1a0a713e4dd.ckd",
+      "expandCoachImageUrl": "/public/map/1999/orbis/1999_Cover_AlbumCoach.tga.ckd/4823f6f73409c2f9cecb68b2ef6c031f.ckd",
+      "cover_smallImageUrl": "/public/map/1999/orbis/1999_Cover_Online.tga.ckd/95050ca6aeaca238594bceb75595950b.ckd",
+      "coach1ImageUrl": "/public/map/1999/orbis/1999_Coach_1.tga.ckd/17ab7734d9a6d7c02a3085a05cf88d6d.ckd",
+      "coach2ImageUrl": "/public/map/1999/orbis/1999_Coach_2.tga.ckd/f2109c6ce044cec57b24388b41897835.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/1999/1999_Coach_1_Phone.png/88a1ca8da8d8d9ac652ccb45ed4c6e8f.png",
+    "phoneCoach2ImageUrl": "/public/map/1999/1999_Coach_2_Phone.png/388f6c5493d11f816becbd1bd9172c82.png",
+    "phoneCoverImageUrl": "/public/map/1999/1999_Cover_Phone.jpg/f2780b001316b5ab1d2396d2a66b7b94.jpg",
+    "cover640ImageUrl": "/public/map/1999/1999_Cover_640.png/6d4df9420471bac139b75de96591850d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/1999/1999.ogg": "/private/map/1999/1999.ogg/917c4ed4b470c53d897d91d86c151563.ogg",
+    "jmcs://jd-contents/1999/1999_AudioPreview.ogg": "/public/map/1999/1999_AudioPreview.ogg/4fadb8cee1ca5937ce8636eafbb0beec.ogg",
+    "jmcs://jd-contents/1999/1999.webm": "/private/map/1999/1999.webm/6bc7e3bbf51f90131e9b6887c143a212.webm",
+    "jmcs://jd-contents/1999/1999_HIGH.webm": "/private/map/1999/1999_HIGH.webm/3bf389f92fd76b8dbd3f54a5ad5ca665.webm",
+    "jmcs://jd-contents/1999/1999_LOW.webm": "/private/map/1999/1999_LOW.webm/8eb39a71675a5a97bd5a7ec27810f7b0.webm",
+    "jmcs://jd-contents/1999/1999_MID.webm": "/private/map/1999/1999_MID.webm/2794892817d8b69e9144cad8bb633cd0.webm",
+    "jmcs://jd-contents/1999/1999_ULTRA.hd.webm": "/private/map/1999/1999_ULTRA.hd.webm/a5f6f2768100531929909fcc5488851b.webm",
+    "jmcs://jd-contents/1999/1999_ULTRA.webm": "/private/map/1999/1999_ULTRA.webm/47ca9dfbe22e0508adced4ea40983356.webm",
+    "jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/1999/1999_MapPreviewNoSoundCrop_LOW.vp8.webm/1a5c5337cc57c9e3a66177be844b50c2.webm",
+    "jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/1999/1999_MapPreviewNoSoundCrop_MID.vp8.webm/b247e0e3850140bcafb3d551b143a2c0.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"548439\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\n\t\t\t\t\t<Initialization range=\"0-605\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1537329\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/1999/1999_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"606-1096\">\n\t\t\t\t\t<Initialization range=\"0-606\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 194.515896
+}

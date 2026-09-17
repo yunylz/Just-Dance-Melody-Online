@@ -1,0 +1,166 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "873b431d6af27ac36e1b46f20dc12749",
+      "storageType": 0,
+      "url": "/public/map/BloodyMary/nx/BloodyMary_MAIN_SCENE_NX.zip/873b431d6af27ac36e1b46f20dc12749.zip"
+    },
+    "pc": {
+      "md5": "4f9837bd1de4d417001a32dc0e24037a",
+      "storageType": 0,
+      "url": "/public/map/BloodyMary/pc/BloodyMary_MAIN_SCENE_PC.zip/4f9837bd1de4d417001a32dc0e24037a.zip"
+    },
+    "ps4": {
+      "md5": "1e21076bf2356539345e1c8bceaca19d",
+      "storageType": 0,
+      "url": "/public/map/BloodyMary/orbis/BloodyMary_MAIN_SCENE_ORBIS.zip/1e21076bf2356539345e1c8bceaca19d.zip"
+    }
+  },
+  "data": {
+    "mapName": "BloodyMary",
+    "title": "Bloody Mary",
+    "originalJDVersion": 2023,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Lady Gaga",
+    "credits": "Written by Paul Blair, Fernando Garibay, Stefani Germanotta, William Grigahcine, Clinton Sparks. Published by House Of Gaga Publishing LLC, Sony/ATV Songs LLC, Compound Entertainment / Universal Music Publishing International / Grigahcine Edt / Garibay Music Publishing and Warner-Tamerlane Publishing Corp. All rights on behalf of itself and Garibay Music Publishing administered by Warner-Tamerlane Publishing Corp. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ea6611",
+    "songColor2A": "#ff5400",
+    "songColor1B": "#380d04",
+    "songColor2B": "#730404",
+    "lyricsColor": "#da5c08"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 411,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BloodyMary/BloodyMary_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BloodyMary/nx/BloodyMary_banner_bkg.tga.ckd/69e70bd528872683126dd2ff577f4321.ckd",
+      "map_bkgImageUrl": "/public/map/BloodyMary/nx/BloodyMary_map_bkg.tga.ckd/5d693fade3900f82337305f47bd3609e.ckd",
+      "expandCoachImageUrl": "/public/map/BloodyMary/nx/BloodyMary_Cover_AlbumCoach.tga.ckd/2d2ad24e6dcfff96cf2926acfab916d3.ckd",
+      "cover_smallImageUrl": "/public/map/BloodyMary/nx/BloodyMary_Cover_Online.tga.ckd/79584028ead359972d8a74eaec9bb597.ckd",
+      "coverImageUrl": "/public/map/BloodyMary/nx/BloodyMary_Cover_Generic.tga.ckd/28f009a01bc0e980b65e5fa618052f2b.ckd",
+      "coach1ImageUrl": "/public/map/BloodyMary/nx/BloodyMary_Coach_1.tga.ckd/b74b9d9779f329148dd01d29f7c2cd53.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BloodyMary/pc/BloodyMary_banner_bkg.tga.ckd/741af45ea67939fccfcee9289d7d176e.ckd",
+      "map_bkgImageUrl": "/public/map/BloodyMary/pc/BloodyMary_map_bkg.tga.ckd/8a835aa9c704d96a9bd399151cd2ad02.ckd",
+      "expandCoachImageUrl": "/public/map/BloodyMary/pc/BloodyMary_Cover_AlbumCoach.tga.ckd/ae2ea2324b6ceae71a0b63df29267428.ckd",
+      "cover_smallImageUrl": "/public/map/BloodyMary/pc/BloodyMary_Cover_Online.tga.ckd/eea41c2fab668541e1c27b6533da750d.ckd",
+      "coverImageUrl": "/public/map/BloodyMary/pc/BloodyMary_Cover_Generic.tga.ckd/129f1032719b859ae40ce7aa8dbfc603.ckd",
+      "coach1ImageUrl": "/public/map/BloodyMary/pc/BloodyMary_Coach_1.tga.ckd/6dc7cd6ac8b4bfad405f88287065c5a2.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BloodyMary/orbis/BloodyMary_banner_bkg.tga.ckd/741af45ea67939fccfcee9289d7d176e.ckd",
+      "map_bkgImageUrl": "/public/map/BloodyMary/orbis/BloodyMary_map_bkg.tga.ckd/8a835aa9c704d96a9bd399151cd2ad02.ckd",
+      "expandCoachImageUrl": "/public/map/BloodyMary/orbis/BloodyMary_Cover_AlbumCoach.tga.ckd/ae2ea2324b6ceae71a0b63df29267428.ckd",
+      "cover_smallImageUrl": "/public/map/BloodyMary/orbis/BloodyMary_Cover_Online.tga.ckd/eea41c2fab668541e1c27b6533da750d.ckd",
+      "coverImageUrl": "/public/map/BloodyMary/orbis/BloodyMary_Cover_Generic.tga.ckd/129f1032719b859ae40ce7aa8dbfc603.ckd",
+      "coach1ImageUrl": "/public/map/BloodyMary/orbis/BloodyMary_Coach_1.tga.ckd/6dc7cd6ac8b4bfad405f88287065c5a2.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BloodyMary/BloodyMary_Coach_1_Phone.png/4e4eb1afb0fe9f1390201ed88652c6b1.png",
+    "phoneCoverImageUrl": "/public/map/BloodyMary/BloodyMary_Cover_Phone.jpg/8f5926aeb8611eeef1f6e50e5bdfdcb0.jpg",
+    "cover640ImageUrl": "/public/map/BloodyMary/BloodyMary_Cover_640.png/759ab0022ce65b9b704527ad87f4fc37.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BloodyMary/BloodyMary.ogg": "/private/map/BloodyMary/BloodyMary.ogg/50b2d89af36de2308fd7e90f83336e88.ogg",
+    "jmcs://jd-contents/BloodyMary/BloodyMary_AudioPreview.ogg": "/public/map/BloodyMary/BloodyMary_AudioPreview.ogg/fae5a985804a8eedcd56edc0a270be8e.ogg",
+    "jmcs://jd-contents/BloodyMary/BloodyMary_HIGH.webm": "/private/map/BloodyMary/BloodyMary_HIGH.webm/ceb5ec5066c6d4039e91546e6026df9b.webm",
+    "jmcs://jd-contents/BloodyMary/BloodyMary_LOW.webm": "/private/map/BloodyMary/BloodyMary_LOW.webm/1d71934fb928de2cb799fe38a656dd9d.webm",
+    "jmcs://jd-contents/BloodyMary/BloodyMary_MID.webm": "/private/map/BloodyMary/BloodyMary_MID.webm/d1ade714f8fff9ee87e7a2958688a751.webm",
+    "jmcs://jd-contents/BloodyMary/BloodyMary_ULTRA.hd.webm": "/private/map/BloodyMary/BloodyMary_ULTRA.hd.webm/14b90ee99fe90c6bde4467e7035c00fd.webm",
+    "jmcs://jd-contents/BloodyMary/BloodyMary_ULTRA.webm": "/private/map/BloodyMary/BloodyMary_ULTRA.webm/2d35672a9496fa94e30834a3de20e61a.webm",
+    "jmcs://jd-contents/BloodyMary/BloodyMary_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BloodyMary/BloodyMary_MapPreviewNoSoundCrop_LOW.vp8.webm/130a4a3687ebf5beefbc4cc5419b4766.webm",
+    "jmcs://jd-contents/BloodyMary/BloodyMary_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BloodyMary/BloodyMary_MapPreviewNoSoundCrop_MID.vp8.webm/20a84aa84d71e1d0c136fc9ccbd92a78.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"517272\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BloodyMary/BloodyMary_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1491841\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BloodyMary/BloodyMary_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\n\t\t\t\t\t<Initialization range=\"0-637\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 250.806458
+}

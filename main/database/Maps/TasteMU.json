@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "323a0ed005a2aed62c607fcf07bf216a",
+      "storageType": 0,
+      "url": "/public/map/TasteMU/nx/TasteMU_MAIN_SCENE_NX.zip/323a0ed005a2aed62c607fcf07bf216a.zip"
+    },
+    "pc": {
+      "md5": "5a1e5495f6f28497571c7184b3547442",
+      "storageType": 0,
+      "url": "/public/map/TasteMU/pc/TasteMU_MAIN_SCENE_PC.zip/5a1e5495f6f28497571c7184b3547442.zip"
+    },
+    "ps4": {
+      "md5": "6cd3df4c739d679c9434a1c74abc97f8",
+      "storageType": 0,
+      "url": "/public/map/TasteMU/orbis/TasteMU_MAIN_SCENE_ORBIS.zip/6cd3df4c739d679c9434a1c74abc97f8.zip"
+    }
+  },
+  "data": {
+    "mapName": "TasteMU",
+    "title": "Taste",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Sabrina Carpenter",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff22da"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25487,
+        50973,
+        76460,
+        101947,
+        127434,
+        152920,
+        178407,
+        203894,
+        229381,
+        254867,
+        280354,
+        305841,
+        331327,
+        356814,
+        382301,
+        407788,
+        433274,
+        458761,
+        484248,
+        509735,
+        535221,
+        560708,
+        586195,
+        611681,
+        637168,
+        662655,
+        688142,
+        713628,
+        739115,
+        764602,
+        790088,
+        815575,
+        841062,
+        866549,
+        892035,
+        917522,
+        943009,
+        968496,
+        993982,
+        1019469,
+        1044956,
+        1070442,
+        1095929,
+        1121416,
+        1146903,
+        1172389,
+        1197876,
+        1223363,
+        1248850,
+        1274336,
+        1299823,
+        1325310,
+        1350796,
+        1376283,
+        1401770,
+        1427257,
+        1452743,
+        1478230
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 298,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TasteMU/TasteMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TasteMU/nx/TasteMU_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/TasteMU/nx/TasteMU_map_bkg.tga.ckd/cb1890e58a56922cde3444237a81f84a.ckd",
+      "expandCoachImageUrl": "/public/map/TasteMU/nx/TasteMU_Cover_AlbumCoach.tga.ckd/cea2d31c825925300a08af7d66207a0e.ckd",
+      "cover_smallImageUrl": "/public/map/TasteMU/nx/TasteMU_Cover_Online.tga.ckd/9540121da63591a5a38ef3dc545ff079.ckd",
+      "coach1ImageUrl": "/public/map/TasteMU/nx/TasteMU_Coach_1.tga.ckd/b06c21f59f99c06a07a6be3b2d610fbf.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TasteMU/pc/TasteMU_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/TasteMU/pc/TasteMU_map_bkg.tga.ckd/0a475091343c051b6afa1ac80b464946.ckd",
+      "expandCoachImageUrl": "/public/map/TasteMU/pc/TasteMU_Cover_AlbumCoach.tga.ckd/6cebc630376d8e8b90126cd099d2a5f6.ckd",
+      "cover_smallImageUrl": "/public/map/TasteMU/pc/TasteMU_Cover_Online.tga.ckd/e1d0b565d7e72729139dc382a08479b5.ckd",
+      "coach1ImageUrl": "/public/map/TasteMU/pc/TasteMU_Coach_1.tga.ckd/b63aeb0d9f9819a9566d8efdacac7216.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TasteMU/orbis/TasteMU_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/TasteMU/orbis/TasteMU_map_bkg.tga.ckd/0a475091343c051b6afa1ac80b464946.ckd",
+      "expandCoachImageUrl": "/public/map/TasteMU/orbis/TasteMU_Cover_AlbumCoach.tga.ckd/6cebc630376d8e8b90126cd099d2a5f6.ckd",
+      "cover_smallImageUrl": "/public/map/TasteMU/orbis/TasteMU_Cover_Online.tga.ckd/e1d0b565d7e72729139dc382a08479b5.ckd",
+      "coach1ImageUrl": "/public/map/TasteMU/orbis/TasteMU_Coach_1.tga.ckd/b63aeb0d9f9819a9566d8efdacac7216.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TasteMU/TasteMU_Coach_1_Phone.png/12a5eb9f9a0aa52236745e5bf36b827e.png",
+    "phoneCoverImageUrl": "/public/map/TasteMU/TasteMU_Cover_Phone.jpg/7c9b956b1df7151c60ea59b2bfcd3b2b.jpg",
+    "cover640ImageUrl": "/public/map/TasteMU/TasteMU_Cover_640.png/5cd03e8525617583779ba6a844980f29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/TasteMU/TasteMU.ogg": "/private/map/TasteMU/TasteMU.ogg/81e67c51f4d893464f9ceee09ebfaa21.ogg",
+    "jmcs://jd-contents/TasteMU/TasteMU_AudioPreview.ogg": "/public/map/TasteMU/TasteMU_AudioPreview.ogg/f71699c2a878d8126fc701139464a0a5.ogg",
+    "jmcs://jd-contents/TasteMU/TasteMU_HIGH.webm": "/private/map/TasteMU/TasteMU_HIGH.webm/bd8a648a71ce635f2017e29f6131f730.webm",
+    "jmcs://jd-contents/TasteMU/TasteMU_LOW.webm": "/private/map/TasteMU/TasteMU_LOW.webm/4d244dd74568a6517444ce58bdadd234.webm",
+    "jmcs://jd-contents/TasteMU/TasteMU_MID.webm": "/private/map/TasteMU/TasteMU_MID.webm/9bec52330420821466844f0ad199cb60.webm",
+    "jmcs://jd-contents/TasteMU/TasteMU_ULTRA.hd.webm": "/private/map/TasteMU/TasteMU_ULTRA.hd.webm/c8e6fa336008f130e412969463cd231d.webm",
+    "jmcs://jd-contents/TasteMU/TasteMU_ULTRA.webm": "/private/map/TasteMU/TasteMU_ULTRA.webm/e3c25779df38c2f671f95234ce118a0c.webm",
+    "jmcs://jd-contents/TasteMU/TasteMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TasteMU/TasteMU_MapPreviewNoSoundCrop_LOW.vp8.webm/5cb3ff5cdc401b320982609b02bf087c.webm",
+    "jmcs://jd-contents/TasteMU/TasteMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TasteMU/TasteMU_MapPreviewNoSoundCrop_MID.vp8.webm/be067e4d38b4643b8a7fb78814685f1c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"493095\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TasteMU/TasteMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1490329\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TasteMU/TasteMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 159.292042
+}

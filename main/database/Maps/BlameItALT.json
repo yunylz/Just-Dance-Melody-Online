@@ -1,0 +1,167 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3b70d800107100018a3e90e261fad608",
+      "storageType": 0,
+      "url": "/public/map/BlameItALT/nx/BlameItALT_MAIN_SCENE_NX.zip/3b70d800107100018a3e90e261fad608.zip"
+    },
+    "pc": {
+      "md5": "b68036d1f1df335404c72d5e88dfeadf",
+      "storageType": 0,
+      "url": "/public/map/BlameItALT/pc/BlameItALT_MAIN_SCENE_PC.zip/b68036d1f1df335404c72d5e88dfeadf.zip"
+    },
+    "ps4": {
+      "md5": "4ca22fb82c365d28afbfe0d90dcaf6c3",
+      "storageType": 0,
+      "url": "/public/map/BlameItALT/orbis/BlameItALT_MAIN_SCENE_ORBIS.zip/4ca22fb82c365d28afbfe0d90dcaf6c3.zip"
+    }
+  },
+  "data": {
+    "mapName": "BlameItALT",
+    "title": "Blame It On The Boogie",
+    "originalJDVersion": 2014,
+    "tags": [
+      "Main"
+    ],
+    "artist": "The Jackson 5",
+    "credits": "Written by Michael George Jackson Clark, David John Jackson Rich, Hans Kampschroer, Elmar Krohn and Thomas Mayer. Published by Chrysalis Music Holdings MGBH (GEMA) / Edition Delay (GEMA) c/o BMG Rights Management (US) LLC. Courtesy of BMG Rights Management (US) LLC obo Mick Jackson Masters.",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 3,
+    "songColor1A": "#8500d2",
+    "songColor2A": "#0054ff",
+    "songColor1B": "#2e0049",
+    "songColor2B": "#002165",
+    "lyricsColor": "#e143e5"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25056,
+        50064,
+        75120,
+        100176,
+        125232,
+        150240,
+        175296,
+        200352,
+        225408,
+        250416,
+        275472,
+        300528,
+        325584,
+        350592,
+        375648,
+        400704,
+        425760,
+        450768,
+        475824,
+        500880,
+        525936,
+        550944,
+        576000,
+        601056,
+        626064,
+        651120,
+        676176,
+        701232,
+        726240,
+        751296,
+        776352,
+        801408,
+        826416,
+        851472,
+        876528,
+        901584,
+        926592,
+        951648,
+        976704,
+        1001760,
+        1026768,
+        1051824,
+        1076880,
+        1101936,
+        1126945,
+        1152001,
+        1177057,
+        1202065,
+        1227121,
+        1252177,
+        1277233,
+        1302241,
+        1327297,
+        1352353,
+        1377409,
+        1402417,
+        1427473,
+        1452529,
+        1477585
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 398,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BlameItALT/BlameItALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BlameItALT/nx/BlameItALT_banner_bkg.tga.ckd/4d6bf63c097cce8871acfb2526c88dc8.ckd",
+      "map_bkgImageUrl": "/public/map/BlameItALT/nx/BlameItALT_map_bkg.tga.ckd/5a2206b213429ed77740a28694786877.ckd",
+      "expandCoachImageUrl": "/public/map/BlameItALT/nx/BlameItALT_Cover_AlbumCoach.tga.ckd/b287a174c185d031c6b5ce38cdf3e7dc.ckd",
+      "cover_smallImageUrl": "/public/map/BlameItALT/nx/BlameItALT_Cover_Online.tga.ckd/0d2fe04d6bb7455245ee40cb9388cbc4.ckd",
+      "coach1ImageUrl": "/public/map/BlameItALT/nx/BlameItALT_Coach_1.tga.ckd/2545165d8991eb8ffda4235ecfd223ef.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BlameItALT/pc/BlameItALT_banner_bkg.tga.ckd/1b4d5aae72a0a312b7e6af00ad6807a9.ckd",
+      "map_bkgImageUrl": "/public/map/BlameItALT/pc/BlameItALT_map_bkg.tga.ckd/d286b7843242a62eba70f611b714574a.ckd",
+      "expandCoachImageUrl": "/public/map/BlameItALT/pc/BlameItALT_Cover_AlbumCoach.tga.ckd/87615e7d62b78f68522c9b635a460877.ckd",
+      "cover_smallImageUrl": "/public/map/BlameItALT/pc/BlameItALT_Cover_Online.tga.ckd/a9b5a370acf7ac97a95509dcf9334444.ckd",
+      "coach1ImageUrl": "/public/map/BlameItALT/pc/BlameItALT_Coach_1.tga.ckd/3d7df43e02ff9b9eed0709e72aeca0c8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BlameItALT/orbis/BlameItALT_banner_bkg.tga.ckd/1b4d5aae72a0a312b7e6af00ad6807a9.ckd",
+      "map_bkgImageUrl": "/public/map/BlameItALT/orbis/BlameItALT_map_bkg.tga.ckd/d286b7843242a62eba70f611b714574a.ckd",
+      "expandCoachImageUrl": "/public/map/BlameItALT/orbis/BlameItALT_Cover_AlbumCoach.tga.ckd/87615e7d62b78f68522c9b635a460877.ckd",
+      "cover_smallImageUrl": "/public/map/BlameItALT/orbis/BlameItALT_Cover_Online.tga.ckd/a9b5a370acf7ac97a95509dcf9334444.ckd",
+      "coach1ImageUrl": "/public/map/BlameItALT/orbis/BlameItALT_Coach_1.tga.ckd/3d7df43e02ff9b9eed0709e72aeca0c8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BlameItALT/BlameItALT_Coach_1_Phone.png/fe16014ff7b52b7eeb96c1e646aa2c42.png",
+    "phoneCoverImageUrl": "/public/map/BlameItALT/BlameItALT_Cover_Phone.jpg/98db329109a14f1e4b941ea26ebe9a0b.jpg",
+    "cover640ImageUrl": "/public/map/BlameItALT/BlameItALT_Cover_640.png/7fdaf189d989cc9bb18ea863a9b605b4.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BlameItALT/BlameItALT.ogg": "/private/map/BlameItALT/BlameItALT.ogg/44b133d0e32c0ae11082f08c5731bae9.ogg",
+    "jmcs://jd-contents/BlameItALT/BlameItALT_AudioPreview.ogg": "/public/map/BlameItALT/BlameItALT_AudioPreview.ogg/e4e9da82677422964697441f799e8671.ogg",
+    "jmcs://jd-contents/BlameItALT/BlameItALT_HIGH.webm": "/private/map/BlameItALT/BlameItALT_HIGH.webm/c2dd9c575cb29acd00860ae80bdd6495.webm",
+    "jmcs://jd-contents/BlameItALT/BlameItALT_LOW.webm": "/private/map/BlameItALT/BlameItALT_LOW.webm/7cbacde0d49059307067cd61c415226c.webm",
+    "jmcs://jd-contents/BlameItALT/BlameItALT_MID.webm": "/private/map/BlameItALT/BlameItALT_MID.webm/1c5d20902ac2bb91ff718e17ffe492b6.webm",
+    "jmcs://jd-contents/BlameItALT/BlameItALT_ULTRA.webm": "/private/map/BlameItALT/BlameItALT_ULTRA.webm/92b5cfc8c709c4ecbe7b8a46ffd8d41f.webm",
+    "jmcs://jd-contents/BlameItALT/BlameItALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BlameItALT/BlameItALT_MapPreviewNoSoundCrop_LOW.vp8.webm/1610e142297a07ee20c56bd7b8dbce12.webm",
+    "jmcs://jd-contents/BlameItALT/BlameItALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BlameItALT/BlameItALT_MapPreviewNoSoundCrop_MID.vp8.webm/786299b32a3df5ec672c4ed763913531.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495294\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlameItALT/BlameItALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\n\t\t\t\t\t<Initialization range=\"0-628\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1481863\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlameItALT/BlameItALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\n\t\t\t\t\t<Initialization range=\"0-629\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 211.84
+}

@@ -1,0 +1,157 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "88e0529bb7cf40a5229c56afaafeb58f",
+      "storageType": 0,
+      "url": "/public/map/PriceTag/nx/PriceTag_MAIN_SCENE_NX.zip/88e0529bb7cf40a5229c56afaafeb58f.zip"
+    },
+    "pc": {
+      "md5": "8c85d8280b32958d5aae48ab4c33673c",
+      "storageType": 0,
+      "url": "/public/map/PriceTag/pc/PriceTag_MAIN_SCENE_PC.zip/8c85d8280b32958d5aae48ab4c33673c.zip"
+    },
+    "ps4": {
+      "md5": "1534e61e1acc47bdd157e6841b536902",
+      "storageType": 0,
+      "url": "/public/map/PriceTag/orbis/PriceTag_MAIN_SCENE_ORBIS.zip/1534e61e1acc47bdd157e6841b536902.zip"
+    }
+  },
+  "data": {
+    "mapName": "PriceTag",
+    "title": "Price Tag",
+    "originalJDVersion": 3,
+    "tags": [
+      "main",
+      "jd2022",
+      "main_2022"
+    ],
+    "artist": "Jessie J featuring B.o.B",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#05eaaa",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        60480,
+        93408,
+        126288,
+        159216,
+        192144,
+        226032,
+        258720,
+        291984,
+        323808,
+        357600,
+        390192,
+        423648,
+        455472,
+        489504,
+        522048,
+        555312,
+        587088,
+        621024,
+        653520,
+        687024,
+        718752,
+        752784,
+        785424,
+        818592,
+        850416,
+        884256,
+        918048,
+        950400,
+        982080,
+        1015968,
+        1048560,
+        1082160,
+        1113744,
+        1147632,
+        1180320,
+        1213824,
+        1245408,
+        1279296,
+        1313088,
+        1344960,
+        1377072,
+        1410960,
+        1444128,
+        1477344,
+        1508688
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 329,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 43,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PriceTag/PriceTag_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PriceTag/nx/PriceTag_banner_bkg.tga.ckd/31e1c2385ea2f658bc7d30a4738b85e7.ckd",
+      "map_bkgImageUrl": "/public/map/PriceTag/nx/PriceTag_map_bkg.tga.ckd/c138eca8e223954d9f5b2247187befc8.ckd",
+      "expandCoachImageUrl": "/public/map/PriceTag/nx/PriceTag_Cover_AlbumCoach.tga.ckd/e9ffd52b966c88c002c1a997d196843b.ckd",
+      "cover_smallImageUrl": "/public/map/PriceTag/nx/PriceTag_Cover_Online.tga.ckd/97a4043adb794f0f23145b4f6c52a96c.ckd",
+      "coach1ImageUrl": "/public/map/PriceTag/nx/PriceTag_Coach_1.tga.ckd/323154ebcf760816e1193bb77c4b7773.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PriceTag/pc/PriceTag_banner_bkg.tga.ckd/7245955fa55ac383abec358f41047405.ckd",
+      "map_bkgImageUrl": "/public/map/PriceTag/pc/PriceTag_map_bkg.tga.ckd/bf423028fff271dc6d3ba88764195a84.ckd",
+      "expandCoachImageUrl": "/public/map/PriceTag/pc/PriceTag_Cover_AlbumCoach.tga.ckd/7d22b754cece8348c60d8026a9de4b8b.ckd",
+      "cover_smallImageUrl": "/public/map/PriceTag/pc/PriceTag_Cover_Online.tga.ckd/2cf6b8c26eaf26cae364caabe2f2cc5a.ckd",
+      "coach1ImageUrl": "/public/map/PriceTag/pc/PriceTag_Coach_1.tga.ckd/506734ea40dd3f1daeff8f673faf85a1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PriceTag/orbis/PriceTag_banner_bkg.tga.ckd/7245955fa55ac383abec358f41047405.ckd",
+      "map_bkgImageUrl": "/public/map/PriceTag/orbis/PriceTag_map_bkg.tga.ckd/bf423028fff271dc6d3ba88764195a84.ckd",
+      "expandCoachImageUrl": "/public/map/PriceTag/orbis/PriceTag_Cover_AlbumCoach.tga.ckd/7d22b754cece8348c60d8026a9de4b8b.ckd",
+      "cover_smallImageUrl": "/public/map/PriceTag/orbis/PriceTag_Cover_Online.tga.ckd/2cf6b8c26eaf26cae364caabe2f2cc5a.ckd",
+      "coach1ImageUrl": "/public/map/PriceTag/orbis/PriceTag_Coach_1.tga.ckd/506734ea40dd3f1daeff8f673faf85a1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PriceTag/PriceTag_Coach_1_Phone.png/8a2d1f99d610ae99f4535d7cfd571c03.png",
+    "phoneCoverImageUrl": "/public/map/PriceTag/PriceTag_Cover_Phone.jpg/7cd78c953a6bec0259d43df695e7485b.jpg",
+    "cover640ImageUrl": "/public/map/PriceTag/PriceTag_Cover_640.png/72baefccd26757a7182ccde7631726c4.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/PriceTag/PriceTag.ogg": "/private/map/PriceTag/PriceTag.ogg/52ae503d97c7ceea26678306d1bd1f74.ogg",
+    "jmcs://jd-contents/PriceTag/PriceTag_AudioPreview.ogg": "/public/map/PriceTag/PriceTag_AudioPreview.ogg/f1e18f33fe3249d0f2270fd2d26d7a54.ogg",
+    "jmcs://jd-contents/PriceTag/PriceTag_HIGH.webm": "/private/map/PriceTag/PriceTag_HIGH.webm/297053ff370d4cc2bb9d59b8312659b3.webm",
+    "jmcs://jd-contents/PriceTag/PriceTag_LOW.webm": "/private/map/PriceTag/PriceTag_LOW.webm/70e308154183823496cb8b1eb477b524.webm",
+    "jmcs://jd-contents/PriceTag/PriceTag_MID.webm": "/private/map/PriceTag/PriceTag_MID.webm/f77bafe61fe22590caa710f98a9fe4c5.webm",
+    "jmcs://jd-contents/PriceTag/PriceTag_ULTRA.hd.webm": "/private/map/PriceTag/PriceTag_ULTRA.hd.webm/4615a620f691306bcce591df67e6eb32.webm",
+    "jmcs://jd-contents/PriceTag/PriceTag_ULTRA.webm": "/private/map/PriceTag/PriceTag_ULTRA.webm/9a93d27f624e06a482a4408c8580ac13.webm",
+    "jmcs://jd-contents/PriceTag/PriceTag_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PriceTag/PriceTag_MapPreviewNoSoundCrop_LOW.vp8.webm/cd1fb72928c8b618bb13fce0e55fdd04.webm",
+    "jmcs://jd-contents/PriceTag/PriceTag_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PriceTag/PriceTag_MapPreviewNoSoundCrop_MID.vp8.webm/04ec2aa4e0823a5564a71e14ba16e5e6.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"523114\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PriceTag/PriceTag_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1507454\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PriceTag/PriceTag_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 225.696979
+}

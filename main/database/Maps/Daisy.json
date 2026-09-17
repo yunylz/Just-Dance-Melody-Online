@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9aca9aa1b1fd243625ed5986b56b3b8f",
+      "storageType": 0,
+      "url": "/public/map/Daisy/nx/Daisy_MAIN_SCENE_NX.zip/9aca9aa1b1fd243625ed5986b56b3b8f.zip"
+    },
+    "pc": {
+      "md5": "6a9738250338fb07c86b903a5a555a45",
+      "storageType": 0,
+      "url": "/public/map/Daisy/pc/Daisy_MAIN_SCENE_PC.zip/6a9738250338fb07c86b903a5a555a45.zip"
+    },
+    "ps4": {
+      "md5": "9154f2ba41b738dd230251facf4a3968",
+      "storageType": 0,
+      "url": "/public/map/Daisy/orbis/Daisy_MAIN_SCENE_ORBIS.zip/9154f2ba41b738dd230251facf4a3968.zip"
+    }
+  },
+  "data": {
+    "mapName": "Daisy",
+    "title": "Daisy",
+    "originalJDVersion": 9999,
+    "tags": [
+      "main"
+    ],
+    "artist": "Ashnikko",
+    "credits": "Written by Thomas Edward Slinger and Ashton Nicole Casey. Published by Copyright Control / WARNER CHAPPELL MUSIC LTD (PRS). All rights on behalf of WARNER CHAPPELL MUSIC LTD administered by WC Music Corp. Courtesy of Parlophone Records Limited. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#73f0f2",
+    "songColor2A": "#cee7e9",
+    "songColor1B": "#1166b9",
+    "songColor2B": "#1067d7",
+    "lyricsColor": "#012bc6"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23607,
+        47213,
+        70820,
+        94426,
+        118033,
+        141639,
+        165246,
+        188852,
+        212459,
+        236066,
+        259672,
+        283279,
+        306885,
+        330492,
+        354098,
+        377705,
+        401311,
+        424918,
+        448525,
+        472131,
+        495738,
+        519344,
+        542951,
+        566557,
+        590164,
+        613770,
+        637377,
+        660984,
+        684590,
+        708197,
+        731803,
+        755410,
+        779016,
+        802623,
+        826230,
+        849836,
+        873443,
+        897049,
+        920656,
+        944262,
+        967869,
+        991475,
+        1015082,
+        1038689,
+        1062295,
+        1085902,
+        1109508,
+        1133115,
+        1156721,
+        1180328,
+        1203934,
+        1227541,
+        1251148,
+        1274754,
+        1298361,
+        1321967,
+        1345574,
+        1369180,
+        1392787,
+        1416393,
+        1440000,
+        1463607,
+        1487213
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -35,
+      "endBeat": 304,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Daisy/Daisy_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Daisy/nx/Daisy_banner_bkg.tga.ckd/5607cdf91229f4e45e97edfe4ae2172a.ckd",
+      "map_bkgImageUrl": "/public/map/Daisy/nx/Daisy_map_bkg.tga.ckd/454aa8473f13be3e9c49d84383b1acd5.ckd",
+      "expandCoachImageUrl": "/public/map/Daisy/nx/Daisy_Cover_AlbumCoach.tga.ckd/b976b31605e96c43a747d3cf5ac720d4.ckd",
+      "cover_smallImageUrl": "/public/map/Daisy/nx/Daisy_Cover_Online.tga.ckd/8b0e679b98cbd174473ed4cc9f55f21a.ckd",
+      "coverImageUrl": "/public/map/Daisy/nx/Daisy_Cover_Generic.tga.ckd/bb1edee591243f991e6983287e79bae7.ckd",
+      "coach1ImageUrl": "/public/map/Daisy/nx/Daisy_Coach_1.tga.ckd/fd63db4e598828baa99fc18f460dc48a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Daisy/pc/Daisy_banner_bkg.tga.ckd/b8523ab3bcbf633ad68d2ed4e93c9239.ckd",
+      "map_bkgImageUrl": "/public/map/Daisy/pc/Daisy_map_bkg.tga.ckd/dc391339087606a408794d8ab188fe33.ckd",
+      "expandCoachImageUrl": "/public/map/Daisy/pc/Daisy_Cover_AlbumCoach.tga.ckd/b2bd10bd62f29abf256a00ba865a7076.ckd",
+      "cover_smallImageUrl": "/public/map/Daisy/pc/Daisy_Cover_Online.tga.ckd/12dac1c65e565105850678992b1bcc33.ckd",
+      "coverImageUrl": "/public/map/Daisy/pc/Daisy_Cover_Generic.tga.ckd/1d18ae9efa919019592b48c5c16c8610.ckd",
+      "coach1ImageUrl": "/public/map/Daisy/pc/Daisy_Coach_1.tga.ckd/e0d22deb139b74fe5c3518c0c899295a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Daisy/orbis/Daisy_banner_bkg.tga.ckd/b8523ab3bcbf633ad68d2ed4e93c9239.ckd",
+      "map_bkgImageUrl": "/public/map/Daisy/orbis/Daisy_map_bkg.tga.ckd/dc391339087606a408794d8ab188fe33.ckd",
+      "expandCoachImageUrl": "/public/map/Daisy/orbis/Daisy_Cover_AlbumCoach.tga.ckd/b2bd10bd62f29abf256a00ba865a7076.ckd",
+      "cover_smallImageUrl": "/public/map/Daisy/orbis/Daisy_Cover_Online.tga.ckd/12dac1c65e565105850678992b1bcc33.ckd",
+      "coverImageUrl": "/public/map/Daisy/orbis/Daisy_Cover_Generic.tga.ckd/1d18ae9efa919019592b48c5c16c8610.ckd",
+      "coach1ImageUrl": "/public/map/Daisy/orbis/Daisy_Coach_1.tga.ckd/e0d22deb139b74fe5c3518c0c899295a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Daisy/Daisy_Coach_1_Phone.png/692a5b7e482b06f642a634e091ea19fe.png",
+    "phoneCoverImageUrl": "/public/map/Daisy/Daisy_Cover_Phone.jpg/4d4e607886296e574c5ae944d685a246.jpg",
+    "cover640ImageUrl": "/public/map/Daisy/Daisy_Cover_640.png/36d1e252317f2bf4166aeb6f44c4a16a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Daisy/Daisy.ogg": "/private/map/Daisy/Daisy.ogg/7f9eb827a2b0b826d025a68370b628ea.ogg",
+    "jmcs://jd-contents/Daisy/Daisy_AudioPreview.ogg": "/public/map/Daisy/Daisy_AudioPreview.ogg/583ae6981afb36442470bbd3e82eb556.ogg",
+    "jmcs://jd-contents/Daisy/Daisy_HIGH.webm": "/private/map/Daisy/Daisy_HIGH.webm/98805ad2b7c26b7ced6bde4684030152.webm",
+    "jmcs://jd-contents/Daisy/Daisy_LOW.webm": "/private/map/Daisy/Daisy_LOW.webm/bbcdc43db321a5387d9f42ae8efb755b.webm",
+    "jmcs://jd-contents/Daisy/Daisy_MID.webm": "/private/map/Daisy/Daisy_MID.webm/acfb118d317cc31063651d223ac44e22.webm",
+    "jmcs://jd-contents/Daisy/Daisy_ULTRA.hd.webm": "/private/map/Daisy/Daisy_ULTRA.hd.webm/3ea1b4d128c2b3664bc9c72e3b75ddb2.webm",
+    "jmcs://jd-contents/Daisy/Daisy_ULTRA.webm": "/private/map/Daisy/Daisy_ULTRA.webm/e2a40393a410cfd5a28659d29bfdf417.webm",
+    "jmcs://jd-contents/Daisy/Daisy_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Daisy/Daisy_MapPreviewNoSoundCrop_LOW.vp8.webm/d3f630bd9d536e41bdf7bad3a9c37784.webm",
+    "jmcs://jd-contents/Daisy/Daisy_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Daisy/Daisy_MapPreviewNoSoundCrop_MID.vp8.webm/e64dd7c90b7ffbbe0961f7b2f7d62d4c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496550\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Daisy/Daisy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"607-1096\">\n\t\t\t\t\t<Initialization range=\"0-607\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483532\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Daisy/Daisy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\n\t\t\t\t\t<Initialization range=\"0-608\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 167.212708
+}

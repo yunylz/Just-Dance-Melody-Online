@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Euphoria/Euphoria_HIGH.webm": "/private/map/Euphoria/Euphoria_HIGH.webm/485a406c324418147c2f9082a559af77.webm",
+    "jmcs://jd-contents/Euphoria/Euphoria_LOW.webm": "/private/map/Euphoria/Euphoria_LOW.webm/c435037d1fce4efd7cd78c39af7daed9.webm",
+    "jmcs://jd-contents/Euphoria/Euphoria_MID.webm": "/private/map/Euphoria/Euphoria_MID.webm/83c6de3dc8ced86d4cbfb57323349af7.webm",
+    "jmcs://jd-contents/Euphoria/Euphoria_ULTRA.hd.webm": "/private/map/Euphoria/Euphoria_ULTRA.hd.webm/e76f6d8795e243db2ba43b67452ee0fa.webm",
+    "jmcs://jd-contents/Euphoria/Euphoria_ULTRA.webm": "/private/map/Euphoria/Euphoria_ULTRA.webm/18d27752140b8e719de5cdc89871b5bd.webm",
+    "jmcs://jd-contents/Euphoria/Euphoria.ogg": "/private/map/Euphoria/Euphoria.ogg/08c6e69918399dc904f36a168b07f047.ogg",
+    "jmcs://jd-contents/Euphoria/Euphoria_AudioPreview.ogg": "/public/map/Euphoria/Euphoria_AudioPreview.ogg/94ecf1b495dbc2f06166109b4c3924b7.ogg",
+    "jmcs://jd-contents/Euphoria/Euphoria_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Euphoria/Euphoria_MapPreviewNoSoundCrop_LOW.vp8.webm/3fdefde95f0abd23bf536b9eda099c06.webm",
+    "jmcs://jd-contents/Euphoria/Euphoria_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Euphoria/Euphoria_MapPreviewNoSoundCrop_MID.vp8.webm/47141a66f04dc808dec1b3ec0646084c.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21818,
+        43636,
+        65455,
+        87273,
+        109091,
+        130909,
+        152727,
+        174545,
+        196364,
+        218182,
+        240000,
+        261818,
+        283636,
+        305455,
+        327273,
+        349091,
+        370909,
+        392727,
+        414545,
+        436364,
+        458182,
+        480000,
+        501818,
+        523636,
+        545455,
+        567273,
+        589091,
+        610909,
+        632727,
+        654545,
+        676364,
+        698182,
+        720000,
+        741818,
+        763636,
+        785455,
+        807273,
+        829091,
+        850909,
+        872727,
+        894545,
+        916364,
+        938182,
+        960000,
+        981818,
+        1003636,
+        1025455,
+        1047273,
+        1069091,
+        1090909,
+        1112727,
+        1134545,
+        1156364,
+        1178182,
+        1200000,
+        1221818,
+        1243636,
+        1265455,
+        1287273,
+        1309091,
+        1330909,
+        1352727,
+        1374545,
+        1396364,
+        1418182,
+        1440000,
+        1461818,
+        1483636
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -34,
+      "endBeat": 404,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Euphoria/Euphoria_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Euphoria/nx/Euphoria_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/Euphoria/nx/Euphoria_map_bkg.tga.ckd/d2c0c96e5d8ed18f8eff456189ac4b1b.ckd",
+      "expandCoachImageUrl": "/public/map/Euphoria/nx/Euphoria_Cover_AlbumCoach.tga.ckd/78305d83372d904354d41c03633bf5da.ckd",
+      "cover_smallImageUrl": "/public/map/Euphoria/nx/Euphoria_Cover_Online.tga.ckd/fc05bae710f15692444e654d3a577819.ckd",
+      "coach1ImageUrl": "/public/map/Euphoria/nx/Euphoria_Coach_1.tga.ckd/f501e5cf8a18fc0d0d6611961d35e71d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Euphoria/pc/Euphoria_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/Euphoria/pc/Euphoria_map_bkg.tga.ckd/9ef1dc05898bf791a8c25bbf2b68054f.ckd",
+      "expandCoachImageUrl": "/public/map/Euphoria/pc/Euphoria_Cover_AlbumCoach.tga.ckd/01a6183b82b57a31ae3d49a1adef2909.ckd",
+      "cover_smallImageUrl": "/public/map/Euphoria/pc/Euphoria_Cover_Online.tga.ckd/2af9747e86c9189c9f8e67432363cce5.ckd",
+      "coach1ImageUrl": "/public/map/Euphoria/pc/Euphoria_Coach_1.tga.ckd/2fb66bb39c86cf138f43a686b220b913.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Euphoria/orbis/Euphoria_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/Euphoria/orbis/Euphoria_map_bkg.tga.ckd/9ef1dc05898bf791a8c25bbf2b68054f.ckd",
+      "expandCoachImageUrl": "/public/map/Euphoria/orbis/Euphoria_Cover_AlbumCoach.tga.ckd/01a6183b82b57a31ae3d49a1adef2909.ckd",
+      "cover_smallImageUrl": "/public/map/Euphoria/orbis/Euphoria_Cover_Online.tga.ckd/2af9747e86c9189c9f8e67432363cce5.ckd",
+      "coach1ImageUrl": "/public/map/Euphoria/orbis/Euphoria_Coach_1.tga.ckd/2fb66bb39c86cf138f43a686b220b913.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Euphoria/Euphoria_Coach_1_Phone.png/286dc937e003540404425ee4d1e53782.png",
+    "phoneCoverImageUrl": "/public/map/Euphoria/Euphoria_Cover_Phone.jpg/dc6195c6647e565258a08ed6d76b7806.jpg",
+    "cover640ImageUrl": "/public/map/Euphoria/Euphoria_Cover_640.png/2bbb6033fa5cf89b639bbf7bfc0ed198.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "141d72bcb787d5ef9cb9e418508f8336",
+      "storageType": 0,
+      "url": "/public/map/Euphoria/nx/Euphoria_MAIN_SCENE_NX.zip/141d72bcb787d5ef9cb9e418508f8336.zip"
+    },
+    "pc": {
+      "md5": "ce92007c58b7a5e3109c4089a0bae190",
+      "storageType": 0,
+      "url": "/public/map/Euphoria/pc/Euphoria_MAIN_SCENE_PC.zip/ce92007c58b7a5e3109c4089a0bae190.zip"
+    },
+    "ps4": {
+      "md5": "050a3446fa5b95621eedd9655bb71f41",
+      "storageType": 0,
+      "url": "/public/map/Euphoria/orbis/Euphoria_MAIN_SCENE_ORBIS.zip/050a3446fa5b95621eedd9655bb71f41.zip"
+    }
+  },
+  "data": {
+    "mapName": "Euphoria",
+    "title": "Euphoria",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Loreen",
+    "credits": "Written by Thomas G-Son, Peter Lars Boström. Published by G2 PUBLISHING and WARNER CHAPPELL MUSIC SCANDINAVIA AB. All rights on behalf of G2 PUBLISHING and WARNER CHAPPELL MUSIC SCANDINAVIA AB administered by WC Music Corp. / Peermusic AB (STIM).  Courtesy of Warner Music Sweden. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#fc86df",
+    "LocaleID": 4294967295
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"542497\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Euphoria/Euphoria_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"660-1150\">\n\t\t\t\t\t<Initialization range=\"0-660\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1520049\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Euphoria/Euphoria_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"661-1151\">\n\t\t\t\t\t<Initialization range=\"0-661\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 199.078063
+}

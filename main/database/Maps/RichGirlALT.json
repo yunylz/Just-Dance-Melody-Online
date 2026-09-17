@@ -1,0 +1,160 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "78e87f7efcf7c4ba92ec5c7e8eb0da58",
+      "storageType": 0,
+      "url": "/public/map/RichGirlALT/nx/RichGirlALT_MAIN_SCENE_NX.zip/78e87f7efcf7c4ba92ec5c7e8eb0da58.zip"
+    },
+    "pc": {
+      "md5": "1465647b4dba6d25646d96cd5c0dbb86",
+      "storageType": 0,
+      "url": "/public/map/RichGirlALT/pc/RichGirlALT_MAIN_SCENE_PC.zip/1465647b4dba6d25646d96cd5c0dbb86.zip"
+    },
+    "ps4": {
+      "md5": "cf8465cf558da42eb0d49d4300aeba9f",
+      "storageType": 0,
+      "url": "/public/map/RichGirlALT/orbis/RichGirlALT_MAIN_SCENE_ORBIS.zip/cf8465cf558da42eb0d49d4300aeba9f.zip"
+    }
+  },
+  "data": {
+    "mapName": "RichGirlALT",
+    "title": "Rich Girl",
+    "originalJDVersion": 2014,
+    "tags": [
+      "Main"
+    ],
+    "artist": "Gwen Stefani",
+    "credits": "Written by Jake Hooker and Alan Merrill. Published by RAK Publishing Limited. Administered by Kobalt Music Publishing America, Inc. Re-Record Cover Master: Courtesy of Ubisoft Music. Produced, engineered and Mixed by Steve Ouimette. Vocals by Jane Child. Background vocals by Steve Ouimette and Cat Gray. Guitars, bass and claps by Steve Ouimette. Drums by Cat Gray. Music supervision - Manu Bachet.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#00afec"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29375,
+        58751,
+        88175,
+        117551,
+        146927,
+        176303,
+        205727,
+        235103,
+        264479,
+        293855,
+        323279,
+        352655,
+        382031,
+        411407,
+        440831,
+        470207,
+        499583,
+        528959,
+        558383,
+        587759,
+        617135,
+        646511,
+        675935,
+        705311,
+        734687,
+        764063,
+        793487,
+        822862,
+        852238,
+        881614,
+        911038,
+        940414,
+        969790,
+        999166,
+        1028590,
+        1057966,
+        1087342,
+        1116718,
+        1146142,
+        1175518,
+        1204894,
+        1234270,
+        1263694,
+        1293070,
+        1322446,
+        1351822,
+        1381246,
+        1410622,
+        1439998,
+        1469374,
+        1498750
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 408,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RichGirlALT/RichGirlALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RichGirlALT/nx/RichGirlALT_banner_bkg.tga.ckd/c977534ff8d06242e4393b2180eb4621.ckd",
+      "map_bkgImageUrl": "/public/map/RichGirlALT/nx/RichGirlALT_map_bkg.tga.ckd/b7d15ce94abc9e25066c678140ad12c2.ckd",
+      "expandCoachImageUrl": "/public/map/RichGirlALT/nx/RichGirlALT_Cover_AlbumCoach.tga.ckd/1cfb22aa271659b73cfadbafa5479ef8.ckd",
+      "cover_smallImageUrl": "/public/map/RichGirlALT/nx/RichGirlALT_Cover_Online.tga.ckd/0e8def7563da0fd526aaf76ecff241df.ckd",
+      "coach1ImageUrl": "/public/map/RichGirlALT/nx/RichGirlALT_Coach_1.tga.ckd/d95e0cb305da916382dbae4727436914.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RichGirlALT/pc/RichGirlALT_banner_bkg.tga.ckd/0064035eecdadd782bf1e054e1228cbe.ckd",
+      "map_bkgImageUrl": "/public/map/RichGirlALT/pc/RichGirlALT_map_bkg.tga.ckd/fe876d906d16f86888e4ac3fc59dbd21.ckd",
+      "expandCoachImageUrl": "/public/map/RichGirlALT/pc/RichGirlALT_Cover_AlbumCoach.tga.ckd/94f2ae5fd86ddb0cb290af287281a388.ckd",
+      "cover_smallImageUrl": "/public/map/RichGirlALT/pc/RichGirlALT_Cover_Online.tga.ckd/eb42d5bc9fd16d35de158a675e1c3c0c.ckd",
+      "coach1ImageUrl": "/public/map/RichGirlALT/pc/RichGirlALT_Coach_1.tga.ckd/3e59a1ac511ecfcee0fa4f0ef44ed3b0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RichGirlALT/orbis/RichGirlALT_banner_bkg.tga.ckd/0064035eecdadd782bf1e054e1228cbe.ckd",
+      "map_bkgImageUrl": "/public/map/RichGirlALT/orbis/RichGirlALT_map_bkg.tga.ckd/fe876d906d16f86888e4ac3fc59dbd21.ckd",
+      "expandCoachImageUrl": "/public/map/RichGirlALT/orbis/RichGirlALT_Cover_AlbumCoach.tga.ckd/94f2ae5fd86ddb0cb290af287281a388.ckd",
+      "cover_smallImageUrl": "/public/map/RichGirlALT/orbis/RichGirlALT_Cover_Online.tga.ckd/eb42d5bc9fd16d35de158a675e1c3c0c.ckd",
+      "coach1ImageUrl": "/public/map/RichGirlALT/orbis/RichGirlALT_Coach_1.tga.ckd/3e59a1ac511ecfcee0fa4f0ef44ed3b0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RichGirlALT/RichGirlALT_Coach_1_Phone.png/1ecb51bd87b3392b5aa57964db6119eb.png",
+    "phoneCoverImageUrl": "/public/map/RichGirlALT/RichGirlALT_Cover_Phone.jpg/be04938f86e69663495a482ab4accf15.jpg",
+    "cover640ImageUrl": "/public/map/RichGirlALT/RichGirlALT_Cover_640.png/64bebab9f06429fa947861ac99ef3a94.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/RichGirlALT/RichGirlALT.ogg": "/private/map/RichGirlALT/RichGirlALT.ogg/e406a5b3d02b90ffa4dc13eb0ac6d8f9.ogg",
+    "jmcs://jd-contents/RichGirlALT/RichGirlALT_AudioPreview.ogg": "/public/map/RichGirlALT/RichGirlALT_AudioPreview.ogg/9834d2c9c8443a4ef67fa86c0c5962ad.ogg",
+    "jmcs://jd-contents/RichGirlALT/RichGirlALT_HIGH.webm": "/private/map/RichGirlALT/RichGirlALT_HIGH.webm/3c424a9704c79bb8fc1c7228b2a25e67.webm",
+    "jmcs://jd-contents/RichGirlALT/RichGirlALT_LOW.webm": "/private/map/RichGirlALT/RichGirlALT_LOW.webm/aaa24d9314015c2820ec54ecbfa152b8.webm",
+    "jmcs://jd-contents/RichGirlALT/RichGirlALT_MID.webm": "/private/map/RichGirlALT/RichGirlALT_MID.webm/52eedb463a70be5068fa9c33012f993d.webm",
+    "jmcs://jd-contents/RichGirlALT/RichGirlALT_ULTRA.hd.webm": "/private/map/RichGirlALT/RichGirlALT_ULTRA.hd.webm/a98231882d4d7cce83a908850e02dfd6.webm",
+    "jmcs://jd-contents/RichGirlALT/RichGirlALT_ULTRA.webm": "/private/map/RichGirlALT/RichGirlALT_ULTRA.webm/4211427b541531b6e892554cce34e592.webm",
+    "jmcs://jd-contents/RichGirlALT/RichGirlALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RichGirlALT/RichGirlALT_MapPreviewNoSoundCrop_LOW.vp8.webm/0ff6684e7968499a5a4b249940d7ba28.webm",
+    "jmcs://jd-contents/RichGirlALT/RichGirlALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RichGirlALT/RichGirlALT_MapPreviewNoSoundCrop_MID.vp8.webm/3aab625ec06adf30a03c09dfed283878.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500076\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RichGirlALT/RichGirlALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"610-1099\">\n\t\t\t\t\t<Initialization range=\"0-610\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"931557\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RichGirlALT/RichGirlALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"611-1101\">\n\t\t\t\t\t<Initialization range=\"0-611\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 251.632667
+}

@@ -1,0 +1,160 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d80c70a29b524b6003491756f852cda0",
+      "storageType": 0,
+      "url": "/public/map/GhostInTheKeysMU/nx/GhostInTheKeysMU_MAIN_SCENE_NX.zip/d80c70a29b524b6003491756f852cda0.zip"
+    },
+    "pc": {
+      "md5": "d1d73f4132e7debe2934ad2dd0d94dd6",
+      "storageType": 0,
+      "url": "/public/map/GhostInTheKeysMU/pc/GhostInTheKeysMU_MAIN_SCENE_PC.zip/d1d73f4132e7debe2934ad2dd0d94dd6.zip"
+    },
+    "ps4": {
+      "md5": "7c8c70a475ca883e97bfcb5c8e4d002c",
+      "storageType": 0,
+      "url": "/public/map/GhostInTheKeysMU/orbis/GhostInTheKeysMU_MAIN_SCENE_ORBIS.zip/7c8c70a475ca883e97bfcb5c8e4d002c.zip"
+    }
+  },
+  "data": {
+    "mapName": "GhostInTheKeysMU",
+    "title": "Ghost In The Keys",
+    "originalJDVersion": 2017,
+    "tags": [
+      "subscribedSong",
+      "JustDance2017",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Halloween Thrills",
+    "credits": "Written by Steve Ouimette and Deploi. Produced, engineered and mixed by Steve Ouimette. Published by Ubisoft Music Publishing. Vocals by Deploi. Piano by Cat Gray. Music supervision - Manu Bachet. Courtesy of Ubisoft Music.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#00a7d4",
+    "songColor2A": "#ea5c14",
+    "songColor1B": "#003796",
+    "songColor2B": "#a00f0f",
+    "lyricsColor": "#ff1d53",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33888,
+        67776,
+        101664,
+        135552,
+        169392,
+        203280,
+        237168,
+        271056,
+        304944,
+        338832,
+        372720,
+        406608,
+        440448,
+        474336,
+        508224,
+        542112,
+        576000,
+        609888,
+        643776,
+        677664,
+        711552,
+        745392,
+        779280,
+        813169,
+        847057,
+        880945,
+        914833,
+        948721,
+        982609,
+        1016449,
+        1050337,
+        1084225,
+        1118113,
+        1152001,
+        1185889,
+        1219777,
+        1253665,
+        1287553,
+        1321393,
+        1355281,
+        1389169,
+        1423057,
+        1456945,
+        1490833
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 287,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 42,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GhostInTheKeysMU/nx/GhostInTheKeysMU_banner_bkg.tga.ckd/7f384a6e80990d27960aa8155c788407.ckd",
+      "map_bkgImageUrl": "/public/map/GhostInTheKeysMU/nx/GhostInTheKeysMU_map_bkg.tga.ckd/62caa21a1fb208e135ea5fd83d3705ba.ckd",
+      "expandCoachImageUrl": "/public/map/GhostInTheKeysMU/nx/GhostInTheKeysMU_Cover_AlbumCoach.tga.ckd/f3363c47b9c2c718edec0c9888bd4791.ckd",
+      "cover_smallImageUrl": "/public/map/GhostInTheKeysMU/nx/GhostInTheKeysMU_Cover_Online.tga.ckd/399c922987b11c05f71c02d982940029.ckd",
+      "coverImageUrl": "/public/map/GhostInTheKeysMU/nx/GhostInTheKeysMU_Cover_Generic.tga.ckd/f38e9395c0a86baa473b02ba19b227de.ckd",
+      "coach1ImageUrl": "/public/map/GhostInTheKeysMU/nx/GhostInTheKeysMU_Coach_1.tga.ckd/9b3ffd65cbfdf59096cc95adbf306eb1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GhostInTheKeysMU/pc/GhostInTheKeysMU_banner_bkg.tga.ckd/fccf7771bafccfbd0ac013adaae46c57.ckd",
+      "map_bkgImageUrl": "/public/map/GhostInTheKeysMU/pc/GhostInTheKeysMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/GhostInTheKeysMU/pc/GhostInTheKeysMU_Cover_AlbumCoach.tga.ckd/f87d61cb69f5fae74401cb547f64956c.ckd",
+      "cover_smallImageUrl": "/public/map/GhostInTheKeysMU/pc/GhostInTheKeysMU_Cover_Online.tga.ckd/86ae8f57b1ae5e6d7f1e25a25921e503.ckd",
+      "coverImageUrl": "/public/map/GhostInTheKeysMU/pc/GhostInTheKeysMU_Cover_Generic.tga.ckd/09e6beef01bd7d61546f7ada6dcad660.ckd",
+      "coach1ImageUrl": "/public/map/GhostInTheKeysMU/pc/GhostInTheKeysMU_Coach_1.tga.ckd/dd3c8a013b40828832002d5ef5262898.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GhostInTheKeysMU/orbis/GhostInTheKeysMU_banner_bkg.tga.ckd/fccf7771bafccfbd0ac013adaae46c57.ckd",
+      "map_bkgImageUrl": "/public/map/GhostInTheKeysMU/orbis/GhostInTheKeysMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/GhostInTheKeysMU/orbis/GhostInTheKeysMU_Cover_AlbumCoach.tga.ckd/f87d61cb69f5fae74401cb547f64956c.ckd",
+      "cover_smallImageUrl": "/public/map/GhostInTheKeysMU/orbis/GhostInTheKeysMU_Cover_Online.tga.ckd/86ae8f57b1ae5e6d7f1e25a25921e503.ckd",
+      "coverImageUrl": "/public/map/GhostInTheKeysMU/orbis/GhostInTheKeysMU_Cover_Generic.tga.ckd/09e6beef01bd7d61546f7ada6dcad660.ckd",
+      "coach1ImageUrl": "/public/map/GhostInTheKeysMU/orbis/GhostInTheKeysMU_Coach_1.tga.ckd/dd3c8a013b40828832002d5ef5262898.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GhostInTheKeysMU/GhostInTheKeysMU_Coach_1_Phone.png/3c0ab509f3ef982b9fdbce8c6788a51a.png",
+    "phoneCoverImageUrl": "/public/map/GhostInTheKeysMU/GhostInTheKeysMU_Cover_Phone.jpg/7d7be2b0f8e1c9b8285a8cb512a19984.jpg",
+    "cover640ImageUrl": "/public/map/GhostInTheKeysMU/GhostInTheKeysMU_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU.ogg": "/private/map/GhostInTheKeysMU/GhostInTheKeysMU.ogg/07d79441b2117e0e1e28f8226169b554.ogg",
+    "jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU_AudioPreview.ogg": "/public/map/GhostInTheKeysMU/GhostInTheKeysMU_AudioPreview.ogg/e52e15dc8d4c1639483534efd4c90568.ogg",
+    "jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GhostInTheKeysMU/GhostInTheKeysMU_MapPreviewNoSoundCrop_LOW.vp8.webm/0e7d8a717a1de5ede1a97edac7bd5799.webm",
+    "jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU_HIGH.webm": "/private/map/GhostInTheKeysMU/GhostInTheKeysMU_HIGH.webm/ca526d119c2127a595b7d53d6bb5d9a7.webm",
+    "jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU_LOW.webm": "/private/map/GhostInTheKeysMU/GhostInTheKeysMU_LOW.webm/50c9fc20b1064c9051a003f11151230c.webm",
+    "jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU_MID.webm": "/private/map/GhostInTheKeysMU/GhostInTheKeysMU_MID.webm/b2afd63297dea2d543084016977b9928.webm",
+    "jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU_ULTRA.hd.webm": "/private/map/GhostInTheKeysMU/GhostInTheKeysMU_ULTRA.hd.webm/ea0ce2bf99b0397c1611083fdd799fd9.webm",
+    "jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU_ULTRA.webm": "/private/map/GhostInTheKeysMU/GhostInTheKeysMU_ULTRA.webm/720013f26313bfb6ef1282357cde1e2b.webm",
+    "jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GhostInTheKeysMU/GhostInTheKeysMU_MapPreviewNoSoundCrop_MID.vp8.webm/c97323eb15d952dc1ae1e5625dc2bf19.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"514297\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"622-1112\">\n\t\t\t\t\t<Initialization range=\"0-622\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1472750\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GhostInTheKeysMU/GhostInTheKeysMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\n\t\t\t\t\t<Initialization range=\"0-623\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 204.58825
+}

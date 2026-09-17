@@ -1,0 +1,165 @@
+{
+  "urls": {
+    "jmcs://jd-contents/TheChoice/TheChoice.ogg": "/private/map/TheChoice/TheChoice.ogg/d481cbab6ccecd4b4ed6819482341cc3.ogg",
+    "jmcs://jd-contents/TheChoice/TheChoice_AudioPreview.ogg": "/public/map/TheChoice/TheChoice_AudioPreview.ogg/a9b705366e9900012564fca38f647eee.ogg",
+    "jmcs://jd-contents/TheChoice/TheChoice_HIGH.hd.webm": "/private/map/TheChoice/TheChoice_HIGH.hd.webm/93b8d065bb46a929176316020b8f411c.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_LOW.hd.webm": "/private/map/TheChoice/TheChoice_LOW.hd.webm/366a1f00810f4abd6ad7851b2d172a51.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_MID.hd.webm": "/private/map/TheChoice/TheChoice_MID.hd.webm/97fa575ee9d9bdcaa2c974558477956f.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_ULTRA.hd.webm": "/private/map/TheChoice/TheChoice_ULTRA.hd.webm/52e29b2fe45d914989362daaa14cb310.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TheChoice/TheChoice_MapPreviewNoSoundCrop_LOW.vp8.webm/e6a8e55e1e5a595823d8ba8eca27fe1a.webm",
+    "jmcs://jd-contents/TheChoice/TheChoice_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TheChoice/TheChoice_MapPreviewNoSoundCrop_MID.vp8.webm/e3afb729e8df27effca815d6bcc8d79c.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27696,
+        55392,
+        83088,
+        110784,
+        138480,
+        166176,
+        193824,
+        221520,
+        249216,
+        276912,
+        304608,
+        332304,
+        360000,
+        387696,
+        415392,
+        443088,
+        470785,
+        498481,
+        526177,
+        553825,
+        581521,
+        609217,
+        636913,
+        664609,
+        692305,
+        720001,
+        747697,
+        775393,
+        803089,
+        830785,
+        858481,
+        886177,
+        913825,
+        941522,
+        969218,
+        996914,
+        1024610,
+        1052306,
+        1080002,
+        1107698,
+        1135394,
+        1163090,
+        1190786,
+        1218482,
+        1246178,
+        1273826,
+        1301522,
+        1329218,
+        1356914,
+        1384610,
+        1412307,
+        1440003,
+        1467699,
+        1495395
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 320,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TheChoice/TheChoice_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "4e81039943f275cdc8945047b052f15e",
+      "storageType": 0,
+      "url": "/public/map/TheChoice/nx/TheChoice_MAIN_SCENE_NX.zip/4e81039943f275cdc8945047b052f15e.zip"
+    },
+    "pc": {
+      "md5": "a22f99cfc3f946404cc305f9cf1226df",
+      "storageType": 0,
+      "url": "/public/map/TheChoice/pc/TheChoice_MAIN_SCENE_PC.zip/a22f99cfc3f946404cc305f9cf1226df.zip"
+    },
+    "ps4": {
+      "md5": "c38e4aa3b7472ececde4c3320cd3d437",
+      "storageType": 0,
+      "url": "/public/map/TheChoice/orbis/TheChoice_MAIN_SCENE_ORBIS.zip/c38e4aa3b7472ececde4c3320cd3d437.zip"
+    }
+  },
+  "data": {
+    "mapName": "TheChoice",
+    "title": "The Choice Is Yours",
+    "originalJDVersion": 2016,
+    "tags": [
+      "main"
+    ],
+    "artist": "Darius Dante Van Dijk",
+    "credits": "Written by Darius Dante Van Dijk. Published by Dealers of Music Publishing on behalf of Darius Dante Productions. Courtesy of The Coca-Cola Company.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#298900",
+    "songColor2A": "#d70016",
+    "songColor1B": "#1a3d00",
+    "songColor2B": "#400000",
+    "lyricsColor": "#ecae05",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TheChoice/nx/TheChoice_banner_bkg.tga.ckd/8b24b346469efaf5acd90961d9f5838b.ckd",
+      "map_bkgImageUrl": "/public/map/TheChoice/nx/TheChoice_map_bkg.tga.ckd/58a4ad263e4e95e75b17fd5cdfd9c3b3.ckd",
+      "expandCoachImageUrl": "/public/map/TheChoice/nx/TheChoice_Cover_AlbumCoach.tga.ckd/e9700821cd4e2ab0cd3be3326bdcd893.ckd",
+      "cover_smallImageUrl": "/public/map/TheChoice/nx/TheChoice_Cover_Online.tga.ckd/4f30d3b04a3ba7ae4e3fdb2d7dfd6007.ckd",
+      "coverImageUrl": "/public/map/TheChoice/nx/TheChoice_Cover_Generic.tga.ckd/938f167f0681bc1aef8c8f3a633321db.ckd",
+      "coach1ImageUrl": "/public/map/TheChoice/nx/TheChoice_Coach_1.tga.ckd/2e7c04e973a82936c79749506e6de705.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TheChoice/pc/TheChoice_banner_bkg.tga.ckd/cf888f7f0bb4abfaec1862ea36447c00.ckd",
+      "map_bkgImageUrl": "/public/map/TheChoice/pc/TheChoice_map_bkg.tga.ckd/6e323c542bc7333bad5ffeaef8a2606c.ckd",
+      "expandCoachImageUrl": "/public/map/TheChoice/pc/TheChoice_Cover_AlbumCoach.tga.ckd/6b2cc929ca9e25b7607dd151033fce6a.ckd",
+      "cover_smallImageUrl": "/public/map/TheChoice/pc/TheChoice_Cover_Online.tga.ckd/cf9f4ed8c564e4d238dcd4d94b97b1dd.ckd",
+      "coverImageUrl": "/public/map/TheChoice/pc/TheChoice_Cover_Generic.tga.ckd/b4a978f21b839f6f093fcca03cd898e4.ckd",
+      "coach1ImageUrl": "/public/map/TheChoice/pc/TheChoice_Coach_1.tga.ckd/5847daee1335403c2b21bb5664ba98c8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TheChoice/orbis/TheChoice_banner_bkg.tga.ckd/cf888f7f0bb4abfaec1862ea36447c00.ckd",
+      "map_bkgImageUrl": "/public/map/TheChoice/orbis/TheChoice_map_bkg.tga.ckd/6e323c542bc7333bad5ffeaef8a2606c.ckd",
+      "expandCoachImageUrl": "/public/map/TheChoice/orbis/TheChoice_Cover_AlbumCoach.tga.ckd/6b2cc929ca9e25b7607dd151033fce6a.ckd",
+      "cover_smallImageUrl": "/public/map/TheChoice/orbis/TheChoice_Cover_Online.tga.ckd/cf9f4ed8c564e4d238dcd4d94b97b1dd.ckd",
+      "coverImageUrl": "/public/map/TheChoice/orbis/TheChoice_Cover_Generic.tga.ckd/b4a978f21b839f6f093fcca03cd898e4.ckd",
+      "coach1ImageUrl": "/public/map/TheChoice/orbis/TheChoice_Coach_1.tga.ckd/5847daee1335403c2b21bb5664ba98c8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TheChoice/TheChoice_Coach_1_Phone.png/731d603a246bef2e04071b6adebfccc3.png",
+    "phoneCoverImageUrl": "/public/map/TheChoice/TheChoice_Cover_Phone.jpg/8690aa917ecbc85bdbbc5f6a3c816e1b.jpg",
+    "cover640ImageUrl": "/public/map/TheChoice/TheChoice_Cover_640.png/359fb99dfdae3507f1eef7b12534107a.png"
+  },
+  "mapLength": 189.229396
+}

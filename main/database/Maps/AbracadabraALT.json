@@ -1,0 +1,177 @@
+{
+  "urls": {
+    "jmcs://jd-contents/AbracadabraALT/AbracadabraALT.ogg": "/private/map/AbracadabraALT/AbracadabraALT.ogg/beeaf6bc03b348c30cc4a4229d7e6ef5.ogg",
+    "jmcs://jd-contents/AbracadabraALT/AbracadabraALT_AudioPreview.ogg": "/public/map/AbracadabraALT/AbracadabraALT_AudioPreview.ogg/b5a1c7c1053a0dfaad20cb1f44c60038.ogg",
+    "jmcs://jd-contents/AbracadabraALT/AbracadabraALT_HIGH.hd.webm": "/private/map/AbracadabraALT/AbracadabraALT_HIGH.hd.webm/76122f00aa46375311546353f4a34476.webm",
+    "jmcs://jd-contents/AbracadabraALT/AbracadabraALT_LOW.hd.webm": "/private/map/AbracadabraALT/AbracadabraALT_LOW.hd.webm/80e3903c42d56dae86bdf8cd51f8a767.webm",
+    "jmcs://jd-contents/AbracadabraALT/AbracadabraALT_MID.hd.webm": "/private/map/AbracadabraALT/AbracadabraALT_MID.hd.webm/61634b4f289a6e93bb7d1d0ad90e2692.webm",
+    "jmcs://jd-contents/AbracadabraALT/AbracadabraALT_ULTRA.hd.webm": "/private/map/AbracadabraALT/AbracadabraALT_ULTRA.hd.webm/704030445427ffa1bc7518274e3b6cae.webm",
+    "jmcs://jd-contents/AbracadabraALT/AbracadabraALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AbracadabraALT/AbracadabraALT_MapPreviewNoSoundCrop_LOW.vp8.webm/ff37dee968496e77d24ac077d6cc58c9.webm",
+    "jmcs://jd-contents/AbracadabraALT/AbracadabraALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AbracadabraALT/AbracadabraALT_MapPreviewNoSoundCrop_MID.vp8.webm/8d5cc2433840f8b3f106f2e45c004df6.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22857,
+        45714,
+        68571,
+        91429,
+        114286,
+        137143,
+        160000,
+        182857,
+        205714,
+        228571,
+        251429,
+        274286,
+        297143,
+        320000,
+        342857,
+        365714,
+        388571,
+        411429,
+        434286,
+        457143,
+        480000,
+        502857,
+        525714,
+        548571,
+        571429,
+        594286,
+        617143,
+        640000,
+        662857,
+        685714,
+        708571,
+        731429,
+        754286,
+        777143,
+        800000,
+        822857,
+        845714,
+        868571,
+        891429,
+        914286,
+        937143,
+        960000,
+        982857,
+        1005714,
+        1028571,
+        1051429,
+        1074286,
+        1097143,
+        1120000,
+        1142857,
+        1165714,
+        1188571,
+        1211429,
+        1234286,
+        1257143,
+        1280000,
+        1302857,
+        1325714,
+        1348571,
+        1371429,
+        1394286,
+        1417143,
+        1440000,
+        1462857,
+        1485714
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 469,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AbracadabraALT/AbracadabraALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"568048\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AbracadabraALT/AbracadabraALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1986447\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AbracadabraALT/AbracadabraALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "f6187dc856416a3059c8f5d623d232ca",
+      "storageType": 0,
+      "url": "/public/map/AbracadabraALT/nx/AbracadabraALT_MAIN_SCENE_NX.zip/f6187dc856416a3059c8f5d623d232ca.zip"
+    },
+    "pc": {
+      "md5": "a73979999f2daf305a387fdff37a17b3",
+      "storageType": 0,
+      "url": "/public/map/AbracadabraALT/pc/AbracadabraALT_MAIN_SCENE_PC.zip/a73979999f2daf305a387fdff37a17b3.zip"
+    },
+    "ps4": {
+      "md5": "447fc953e31cd87e76520ea54debb8ad",
+      "storageType": 0,
+      "url": "/public/map/AbracadabraALT/orbis/AbracadabraALT_MAIN_SCENE_ORBIS.zip/447fc953e31cd87e76520ea54debb8ad.zip"
+    }
+  },
+  "data": {
+    "mapName": "AbracadabraALT",
+    "title": "Abracadabra",
+    "originalJDVersion": 2026,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "Lady Gaga",
+    "credits": "« Abracadabra » Performed by Lady Gaga Written by Andrew Watt, Henry Russell Walter, John McGeoch, Stefani Germanotta, Peter Edward Clarke, Steven Severin, Susan Janet Ballion Published by SG Songs Worldwide (BMI) / Sony/ATV Songs LLC (BMI) / Domino Publishing Company Limited (PRS) / BMG Rights Management Canada A (SOCAN) administered by BMG Rights Management (US) LLC / Andrew Watt Music (BMI) administered by Songs of Kobalt Music Publishing / Universal Music Publishing Canada on behalf of Cirkut Breaker Llc. and Universal Music Corp. Courtesy of Interscope Records under license from Universal Music Canada Inc All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e70529",
+    "songColor2A": "#f51717",
+    "songColor1B": "#000003",
+    "songColor2B": "#010124",
+    "lyricsColor": "#d22bff",
+    "LocaleID": 12624
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AbracadabraALT/nx/AbracadabraALT_banner_bkg.tga.ckd/a30d13a648b717fe9c1508f53a191ba4.ckd",
+      "map_bkgImageUrl": "/public/map/AbracadabraALT/nx/AbracadabraALT_map_bkg.tga.ckd/1143d0b289d71aa964f700fe4a71ba2a.ckd",
+      "expandCoachImageUrl": "/public/map/AbracadabraALT/nx/AbracadabraALT_Cover_AlbumCoach.tga.ckd/dbda7795e8990303a629052b97fffe6b.ckd",
+      "cover_smallImageUrl": "/public/map/AbracadabraALT/nx/AbracadabraALT_Cover_Online.tga.ckd/eff9e9a52a3622d5e8ebe8a8e570c6ae.ckd",
+      "coverImageUrl": "/public/map/AbracadabraALT/nx/AbracadabraALT_Cover_Generic.tga.ckd/c15efa9f879942d488a4743057864922.ckd",
+      "coach1ImageUrl": "/public/map/AbracadabraALT/nx/AbracadabraALT_Coach_1.tga.ckd/b23062666ec4934f59d9871500941248.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AbracadabraALT/pc/AbracadabraALT_banner_bkg.tga.ckd/21dc65d6b6b9d7c73d067c3bdb07aa2b.ckd",
+      "map_bkgImageUrl": "/public/map/AbracadabraALT/pc/AbracadabraALT_map_bkg.tga.ckd/bff159bcf06335314b100f70bb984bad.ckd",
+      "expandCoachImageUrl": "/public/map/AbracadabraALT/pc/AbracadabraALT_Cover_AlbumCoach.tga.ckd/0019b5a27a7957fc0f2c8ec759452604.ckd",
+      "cover_smallImageUrl": "/public/map/AbracadabraALT/pc/AbracadabraALT_Cover_Online.tga.ckd/cfb760e6f03587ea0a91b6429f42f8f9.ckd",
+      "coverImageUrl": "/public/map/AbracadabraALT/pc/AbracadabraALT_Cover_Generic.tga.ckd/edbadffdd0ab79229a5f71e1c47cceb4.ckd",
+      "coach1ImageUrl": "/public/map/AbracadabraALT/pc/AbracadabraALT_Coach_1.tga.ckd/e01b2034bf7741e8983fdee6b457a640.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AbracadabraALT/orbis/AbracadabraALT_banner_bkg.tga.ckd/21dc65d6b6b9d7c73d067c3bdb07aa2b.ckd",
+      "map_bkgImageUrl": "/public/map/AbracadabraALT/orbis/AbracadabraALT_map_bkg.tga.ckd/bff159bcf06335314b100f70bb984bad.ckd",
+      "expandCoachImageUrl": "/public/map/AbracadabraALT/orbis/AbracadabraALT_Cover_AlbumCoach.tga.ckd/0019b5a27a7957fc0f2c8ec759452604.ckd",
+      "cover_smallImageUrl": "/public/map/AbracadabraALT/orbis/AbracadabraALT_Cover_Online.tga.ckd/cfb760e6f03587ea0a91b6429f42f8f9.ckd",
+      "coverImageUrl": "/public/map/AbracadabraALT/orbis/AbracadabraALT_Cover_Generic.tga.ckd/edbadffdd0ab79229a5f71e1c47cceb4.ckd",
+      "coach1ImageUrl": "/public/map/AbracadabraALT/orbis/AbracadabraALT_Coach_1.tga.ckd/e01b2034bf7741e8983fdee6b457a640.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AbracadabraALT/AbracadabraALT_Coach_1_Phone.png/c0b0a0ad064bc1cbf149d9af3aff3e34.png",
+    "phoneCoverImageUrl": "/public/map/AbracadabraALT/AbracadabraALT_Cover_Phone.jpg/8645a70385e4eff99d5c4367fdee7d61.jpg",
+    "cover640ImageUrl": "/public/map/AbracadabraALT/AbracadabraALT_Cover_640.png/d79acf5e2c7cde3781e5d4c85098f6ad.png"
+  },
+  "mapLength": 224.761875
+}

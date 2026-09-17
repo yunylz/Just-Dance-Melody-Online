@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WantToWantMeMU/WantToWantMeMU.ogg": "/private/map/WantToWantMeMU/WantToWantMeMU.ogg/b19981b0dcaa83999a02d5db027daa99.ogg",
+    "jmcs://jd-contents/WantToWantMeMU/WantToWantMeMU_AudioPreview.ogg": "/public/map/WantToWantMeMU/WantToWantMeMU_AudioPreview.ogg/dbdc78f49f41b9eac57e71d5054d0a37.ogg",
+    "jmcs://jd-contents/WantToWantMeMU/WantToWantMeMU_HIGH.hd.webm": "/private/map/WantToWantMeMU/WantToWantMeMU_HIGH.hd.webm/21b014e704980210421d37274b4dc144.webm",
+    "jmcs://jd-contents/WantToWantMeMU/WantToWantMeMU_LOW.hd.webm": "/private/map/WantToWantMeMU/WantToWantMeMU_LOW.hd.webm/ac7b5ebfd85ec97570060951c93d68f3.webm",
+    "jmcs://jd-contents/WantToWantMeMU/WantToWantMeMU_MID.hd.webm": "/private/map/WantToWantMeMU/WantToWantMeMU_MID.hd.webm/f4ef52aaaac29934c115d2106348b3ba.webm",
+    "jmcs://jd-contents/WantToWantMeMU/WantToWantMeMU_ULTRA.hd.webm": "/private/map/WantToWantMeMU/WantToWantMeMU_ULTRA.hd.webm/7ecfbadea76eba9bf16b63050a5784cf.webm",
+    "jmcs://jd-contents/WantToWantMeMU/WantToWantMeMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WantToWantMeMU/WantToWantMeMU_MapPreviewNoSoundCrop_LOW.vp8.webm/b17ff21c41561d6c08e0b3f3ab5937c7.webm",
+    "jmcs://jd-contents/WantToWantMeMU/WantToWantMeMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WantToWantMeMU/WantToWantMeMU_MapPreviewNoSoundCrop_MID.vp8.webm/ada5668bfc4ee1b7e203b19697b5a218.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25247,
+        50543,
+        75791,
+        101039,
+        126335,
+        151583,
+        176831,
+        202127,
+        227375,
+        252623,
+        277871,
+        303167,
+        328415,
+        353663,
+        378959,
+        404207,
+        429455,
+        454751,
+        479999,
+        505247,
+        530543,
+        555791,
+        581039,
+        606335,
+        631583,
+        656831,
+        682127,
+        707375,
+        732623,
+        757871,
+        783167,
+        808415,
+        833663,
+        858959,
+        884207,
+        909455,
+        934751,
+        959999,
+        985247,
+        1010543,
+        1035791,
+        1061039,
+        1086335,
+        1111582,
+        1136830,
+        1162126,
+        1187374,
+        1212622,
+        1237870,
+        1263166,
+        1288414,
+        1313662,
+        1338958,
+        1364206,
+        1389454,
+        1414750,
+        1439998,
+        1465246,
+        1490542
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 391,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WantToWantMeMU/WantToWantMeMU_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"544742\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WantToWantMeMU/WantToWantMeMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"759-1249\">\n\t\t\t\t\t<Initialization range=\"0-759\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1981708\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WantToWantMeMU/WantToWantMeMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"760-1250\">\n\t\t\t\t\t<Initialization range=\"0-760\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "9017d075027b2d368fb383334475ca11",
+      "storageType": 0,
+      "url": "/public/map/WantToWantMeMU/nx/WantToWantMeMU_MAIN_SCENE_NX.zip/9017d075027b2d368fb383334475ca11.zip"
+    },
+    "pc": {
+      "md5": "1f8ab8663276da63e5d22cf20bfcc08b",
+      "storageType": 0,
+      "url": "/public/map/WantToWantMeMU/pc/WantToWantMeMU_MAIN_SCENE_PC.zip/1f8ab8663276da63e5d22cf20bfcc08b.zip"
+    },
+    "ps4": {
+      "md5": "c6097650c6258790694319f34e6956dc",
+      "storageType": 0,
+      "url": "/public/map/WantToWantMeMU/orbis/WantToWantMeMU_MAIN_SCENE_ORBIS.zip/c6097650c6258790694319f34e6956dc.zip"
+    }
+  },
+  "data": {
+    "mapName": "WantToWantMeMU",
+    "title": "Want To Want Me",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "Jason Derulo",
+    "credits": "Written by Jason Joel Desrouleaux (BMI), Mitch Allan (BMI), Ian Eric Kirkpatrick (BMI), Samuel Denison Martin (ASCAP) and Lindy Robbins (ASCAP). Published by Universal Music Publishing, a division of Universal Music Canada Inc. (SOCAN) / (C) Artist Publishing Group West (ASCAP), Sam Martin Music Publishing (ASCAP), Warner-Tamerlane Publishing Corp. (BMI) and Buckley Tenenbaum Publishing (BMI).  All rights on behalf of artist Publishing Group West and Sam Martin Music. Publishing administered by WB Music Corp. All rights on behalf of itself and Buckley Tenenbaum Publishing administered by Warner-Tamerlane Publishing Corp. / Art In The Fodder Music (BMI)/Part Of The Problem Publishing (BMI). Courtesy of Warner Bros. Records.  By arrangement with Warner Music Group Video Games Licensing.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#7f3abf",
+    "songColor2A": "#ff0c0c",
+    "songColor1B": "#00103e",
+    "songColor2B": "#1e0020",
+    "lyricsColor": "#ffc515",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WantToWantMeMU/nx/WantToWantMeMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/WantToWantMeMU/nx/WantToWantMeMU_map_bkg.tga.ckd/08e6bc21dd3d1c70a5f85155b10bfb86.ckd",
+      "expandCoachImageUrl": "/public/map/WantToWantMeMU/nx/WantToWantMeMU_Cover_AlbumCoach.tga.ckd/1253f48cc95365714ab22beff402d39b.ckd",
+      "cover_smallImageUrl": "/public/map/WantToWantMeMU/nx/WantToWantMeMU_Cover_Online.tga.ckd/9eb5ff987a8f9d5816700f972b365dc7.ckd",
+      "coverImageUrl": "/public/map/WantToWantMeMU/nx/WantToWantMeMU_Cover_Generic.tga.ckd/9eb5ff987a8f9d5816700f972b365dc7.ckd",
+      "coach1ImageUrl": "/public/map/WantToWantMeMU/nx/WantToWantMeMU_Coach_1.tga.ckd/6a20d7b90e5a71c0da04fa011938dd1d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WantToWantMeMU/pc/WantToWantMeMU_banner_bkg.tga.ckd/21a9f5c11e0239ee94166f3c8f6a8e25.ckd",
+      "map_bkgImageUrl": "/public/map/WantToWantMeMU/pc/WantToWantMeMU_map_bkg.tga.ckd/75617e12e7b494a0e48091b0cfe9224e.ckd",
+      "expandCoachImageUrl": "/public/map/WantToWantMeMU/pc/WantToWantMeMU_Cover_AlbumCoach.tga.ckd/2aa2508ee6007cd3e78c9de0b77868df.ckd",
+      "cover_smallImageUrl": "/public/map/WantToWantMeMU/pc/WantToWantMeMU_Cover_Online.tga.ckd/027cf6ccd41a3077d64d9fbd39d0e8bb.ckd",
+      "coverImageUrl": "/public/map/WantToWantMeMU/pc/WantToWantMeMU_Cover_Generic.tga.ckd/027cf6ccd41a3077d64d9fbd39d0e8bb.ckd",
+      "coach1ImageUrl": "/public/map/WantToWantMeMU/pc/WantToWantMeMU_Coach_1.tga.ckd/217f410c373e5037218c61b48a524dd1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WantToWantMeMU/orbis/WantToWantMeMU_banner_bkg.tga.ckd/21a9f5c11e0239ee94166f3c8f6a8e25.ckd",
+      "map_bkgImageUrl": "/public/map/WantToWantMeMU/orbis/WantToWantMeMU_map_bkg.tga.ckd/75617e12e7b494a0e48091b0cfe9224e.ckd",
+      "expandCoachImageUrl": "/public/map/WantToWantMeMU/orbis/WantToWantMeMU_Cover_AlbumCoach.tga.ckd/2aa2508ee6007cd3e78c9de0b77868df.ckd",
+      "cover_smallImageUrl": "/public/map/WantToWantMeMU/orbis/WantToWantMeMU_Cover_Online.tga.ckd/027cf6ccd41a3077d64d9fbd39d0e8bb.ckd",
+      "coverImageUrl": "/public/map/WantToWantMeMU/orbis/WantToWantMeMU_Cover_Generic.tga.ckd/027cf6ccd41a3077d64d9fbd39d0e8bb.ckd",
+      "coach1ImageUrl": "/public/map/WantToWantMeMU/orbis/WantToWantMeMU_Coach_1.tga.ckd/217f410c373e5037218c61b48a524dd1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WantToWantMeMU/WantToWantMeMU_Coach_1_Phone.png/76cd613adbb73cdde5bb3d3028828fb8.png",
+    "phoneCoverImageUrl": "/public/map/WantToWantMeMU/WantToWantMeMU_Cover_Phone.jpg/15824f9b59a656c4ca3d1b128c7f2103.jpg",
+    "cover640ImageUrl": "/public/map/WantToWantMeMU/WantToWantMeMU_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 206.315813
+}

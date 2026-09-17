@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "06c194628aa677cf106c51de830d657c",
+      "storageType": 0,
+      "url": "/public/map/SpongeBobBirthday/nx/SpongeBobBirthday_MAIN_SCENE_NX.zip/06c194628aa677cf106c51de830d657c.zip"
+    },
+    "pc": {
+      "md5": "68a1e7711439bd61da507867c8466472",
+      "storageType": 0,
+      "url": "/public/map/SpongeBobBirthday/pc/SpongeBobBirthday_MAIN_SCENE_PC.zip/68a1e7711439bd61da507867c8466472.zip"
+    },
+    "ps4": {
+      "md5": "8b9c02a896d1c382641f48d169f61b8e",
+      "storageType": 0,
+      "url": "/public/map/SpongeBobBirthday/orbis/SpongeBobBirthday_MAIN_SCENE_ORBIS.zip/8b9c02a896d1c382641f48d169f61b8e.zip"
+    }
+  },
+  "data": {
+    "mapName": "SpongeBobBirthday",
+    "title": "SpongeBob's Birthday",
+    "originalJDVersion": 2025,
+    "tags": [
+      "subscribedSong",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "Groove Century",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff39ff",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24407,
+        48814,
+        73220,
+        97627,
+        122034,
+        146441,
+        170847,
+        195254,
+        219661,
+        244068,
+        268475,
+        292881,
+        317288,
+        341695,
+        366102,
+        390508,
+        414915,
+        439322,
+        463729,
+        488136,
+        512542,
+        536949,
+        561356,
+        585763,
+        610169,
+        634576,
+        658983,
+        683390,
+        707797,
+        732203,
+        756610,
+        781017,
+        805424,
+        829831,
+        854237,
+        878644,
+        903051,
+        927458,
+        951864,
+        976271,
+        1000678,
+        1025085,
+        1049492,
+        1073898,
+        1098305,
+        1122712,
+        1147119,
+        1171525,
+        1195932,
+        1220339,
+        1244746,
+        1269153,
+        1293559,
+        1317966,
+        1342373,
+        1366780,
+        1391186,
+        1415593,
+        1440000,
+        1464407,
+        1488814
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 311,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SpongeBobBirthday/nx/SpongeBobBirthday_banner_bkg.tga.ckd/65ce3321071b6e84e061e5cd9724d5df.ckd",
+      "map_bkgImageUrl": "/public/map/SpongeBobBirthday/nx/SpongeBobBirthday_map_bkg.tga.ckd/c483836febb6c0173330dee2352e838c.ckd",
+      "expandCoachImageUrl": "/public/map/SpongeBobBirthday/nx/SpongeBobBirthday_Cover_AlbumCoach.tga.ckd/8f783ce1708a661315baf92bf524ec33.ckd",
+      "cover_smallImageUrl": "/public/map/SpongeBobBirthday/nx/SpongeBobBirthday_Cover_Online.tga.ckd/4c64904ea1f80d1f5bc18bbc5eee3dba.ckd",
+      "coverImageUrl": "/public/map/SpongeBobBirthday/nx/SpongeBobBirthday_Cover_Generic.tga.ckd/f1a1678b41d4ee2c518cfe7b5b904eab.ckd",
+      "coach1ImageUrl": "/public/map/SpongeBobBirthday/nx/SpongeBobBirthday_Coach_1.tga.ckd/5c678321846f7a9e7f47657c0eff5c4e.ckd",
+      "coach2ImageUrl": "/public/map/SpongeBobBirthday/nx/SpongeBobBirthday_Coach_2.tga.ckd/c89d17dfa9cd058ed2cba248bd42524b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SpongeBobBirthday/pc/SpongeBobBirthday_banner_bkg.tga.ckd/431c8801f02f948fd102522a94938f66.ckd",
+      "map_bkgImageUrl": "/public/map/SpongeBobBirthday/pc/SpongeBobBirthday_map_bkg.tga.ckd/b425cd60a17db23339e5a963021e1d62.ckd",
+      "expandCoachImageUrl": "/public/map/SpongeBobBirthday/pc/SpongeBobBirthday_Cover_AlbumCoach.tga.ckd/ab6c0e29b64ede4c32c215abaf8e8a99.ckd",
+      "cover_smallImageUrl": "/public/map/SpongeBobBirthday/pc/SpongeBobBirthday_Cover_Online.tga.ckd/694e6a42efa71dd61ea70353c99ae8f7.ckd",
+      "coverImageUrl": "/public/map/SpongeBobBirthday/pc/SpongeBobBirthday_Cover_Generic.tga.ckd/6d9a8be7b593315bc5b572a79725a9b6.ckd",
+      "coach1ImageUrl": "/public/map/SpongeBobBirthday/pc/SpongeBobBirthday_Coach_1.tga.ckd/3ce51367f856a5bac8890b42752bb62e.ckd",
+      "coach2ImageUrl": "/public/map/SpongeBobBirthday/pc/SpongeBobBirthday_Coach_2.tga.ckd/e5c6e9ed282cde224b4c05aefb39f287.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SpongeBobBirthday/orbis/SpongeBobBirthday_banner_bkg.tga.ckd/431c8801f02f948fd102522a94938f66.ckd",
+      "map_bkgImageUrl": "/public/map/SpongeBobBirthday/orbis/SpongeBobBirthday_map_bkg.tga.ckd/b425cd60a17db23339e5a963021e1d62.ckd",
+      "expandCoachImageUrl": "/public/map/SpongeBobBirthday/orbis/SpongeBobBirthday_Cover_AlbumCoach.tga.ckd/ab6c0e29b64ede4c32c215abaf8e8a99.ckd",
+      "cover_smallImageUrl": "/public/map/SpongeBobBirthday/orbis/SpongeBobBirthday_Cover_Online.tga.ckd/694e6a42efa71dd61ea70353c99ae8f7.ckd",
+      "coverImageUrl": "/public/map/SpongeBobBirthday/orbis/SpongeBobBirthday_Cover_Generic.tga.ckd/6d9a8be7b593315bc5b572a79725a9b6.ckd",
+      "coach1ImageUrl": "/public/map/SpongeBobBirthday/orbis/SpongeBobBirthday_Coach_1.tga.ckd/3ce51367f856a5bac8890b42752bb62e.ckd",
+      "coach2ImageUrl": "/public/map/SpongeBobBirthday/orbis/SpongeBobBirthday_Coach_2.tga.ckd/e5c6e9ed282cde224b4c05aefb39f287.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SpongeBobBirthday/SpongeBobBirthday_Coach_1_Phone.png/08864c1542e68c80eae6fbe4b3b261ba.png",
+    "phoneCoach2ImageUrl": "/public/map/SpongeBobBirthday/SpongeBobBirthday_Coach_2_Phone.png/f8c1bf778e7d4afa051ae63bba4d5b99.png",
+    "phoneCoverImageUrl": "/public/map/SpongeBobBirthday/SpongeBobBirthday_Cover_Phone.jpg/d62e72e7fc2d0af8904fb0c4b8cb91da.jpg",
+    "cover640ImageUrl": "/public/map/SpongeBobBirthday/SpongeBobBirthday_Cover_640.png/6f1801af9a432f3138a3257241ab6236.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday.ogg": "/private/map/SpongeBobBirthday/SpongeBobBirthday.ogg/fbb0a3850b6d3546e5c1a3d5fdf5600c.ogg",
+    "jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday_AudioPreview.ogg": "/public/map/SpongeBobBirthday/SpongeBobBirthday_AudioPreview.ogg/a8d1fb995df6f57e4589ed153fbf463f.ogg",
+    "jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SpongeBobBirthday/SpongeBobBirthday_MapPreviewNoSoundCrop_LOW.vp8.webm/e0a74a83c63effad8567b9100bb0c516.webm",
+    "jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday_HIGH.webm": "/private/map/SpongeBobBirthday/SpongeBobBirthday_HIGH.webm/3877542abfbc0392e0852b0eb4066b5c.webm",
+    "jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday_LOW.webm": "/private/map/SpongeBobBirthday/SpongeBobBirthday_LOW.webm/d98ff1947d0a1df32dc9b9c321872b30.webm",
+    "jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday_MID.webm": "/private/map/SpongeBobBirthday/SpongeBobBirthday_MID.webm/8ac2b70657ce23b9d23ce0194c49dfa1.webm",
+    "jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday_ULTRA.hd.webm": "/private/map/SpongeBobBirthday/SpongeBobBirthday_ULTRA.hd.webm/4641eaf5deac5bc04c338cda3ccf1637.webm",
+    "jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday_ULTRA.webm": "/private/map/SpongeBobBirthday/SpongeBobBirthday_ULTRA.webm/c5541487deae13143ec6eb5cf679cdcb.webm",
+    "jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SpongeBobBirthday/SpongeBobBirthday_MapPreviewNoSoundCrop_MID.vp8.webm/61fc7e9a4420020967e69d27c45d2e72.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"491966\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"671-1161\">\n\t\t\t\t\t<Initialization range=\"0-671\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1405867\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpongeBobBirthday/SpongeBobBirthday_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"672-1162\">\n\t\t\t\t\t<Initialization range=\"0-672\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 158.644042
+}

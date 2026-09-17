@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f4b5294819e3c30bef40647848de6566",
+      "storageType": 0,
+      "url": "/public/map/Alfonso/nx/Alfonso_MAIN_SCENE_NX.zip/f4b5294819e3c30bef40647848de6566.zip"
+    },
+    "pc": {
+      "md5": "d333625e867d0efde4b8321536248532",
+      "storageType": 0,
+      "url": "/public/map/Alfonso/pc/Alfonso_MAIN_SCENE_PC.zip/d333625e867d0efde4b8321536248532.zip"
+    },
+    "ps4": {
+      "md5": "b81f86f8951dd2fb6f6c05d3435d67f7",
+      "storageType": 0,
+      "url": "/public/map/Alfonso/orbis/Alfonso_MAIN_SCENE_ORBIS.zip/b81f86f8951dd2fb6f6c05d3435d67f7.zip"
+    }
+  },
+  "data": {
+    "mapName": "Alfonso",
+    "title": "Alfonso Signorini (eroe nazionale)",
+    "originalJDVersion": 2014,
+    "tags": [
+      "main"
+    ],
+    "artist": "Fedez",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#08e000",
+    "songColor2A": "#ff8888",
+    "songColor1B": "#022601",
+    "songColor2B": "#ff0000",
+    "lyricsColor": "#ffcc00"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22656,
+        45360,
+        68016,
+        90720,
+        113376,
+        136080,
+        158736,
+        181440,
+        204096,
+        226752,
+        249456,
+        272112,
+        294816,
+        317472,
+        340176,
+        362832,
+        385488,
+        408192,
+        430848,
+        453552,
+        476208,
+        498912,
+        521568,
+        544272,
+        566928,
+        589584,
+        612288,
+        634944,
+        657648,
+        680304,
+        703008,
+        725664,
+        748368,
+        771025,
+        793681,
+        816385,
+        839041,
+        861745,
+        884401,
+        907105,
+        929761,
+        952465,
+        975121,
+        997777,
+        1020481,
+        1043137,
+        1065841,
+        1088497,
+        1111201,
+        1133857,
+        1156513,
+        1179217,
+        1201873,
+        1224577,
+        1247233,
+        1269937,
+        1292593,
+        1315297,
+        1337953,
+        1360609,
+        1383313,
+        1405969,
+        1428673,
+        1451329,
+        1474033
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 444,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Alfonso/Alfonso_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Alfonso/nx/Alfonso_banner_bkg.tga.ckd/ffd3de0cfbc2d8ddd679bed2c58a674e.ckd",
+      "map_bkgImageUrl": "/public/map/Alfonso/nx/Alfonso_map_bkg.tga.ckd/b6b704f5e130a31c274c12a10a1b25ca.ckd",
+      "expandCoachImageUrl": "/public/map/Alfonso/nx/Alfonso_Cover_AlbumCoach.tga.ckd/8609e6430a80304604dd73f0a6d9d1ab.ckd",
+      "cover_smallImageUrl": "/public/map/Alfonso/nx/Alfonso_Cover_Online.tga.ckd/c552c91acd8dfa99350ba97bd63fabad.ckd",
+      "coach1ImageUrl": "/public/map/Alfonso/nx/Alfonso_Coach_1.tga.ckd/c4148a7e4a6592cba54d26bfe5fb817f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Alfonso/pc/Alfonso_banner_bkg.tga.ckd/5512b2727f7a69f51fc73db02046e773.ckd",
+      "map_bkgImageUrl": "/public/map/Alfonso/pc/Alfonso_map_bkg.tga.ckd/284b2350bfa95a1c077ad66c06683f81.ckd",
+      "expandCoachImageUrl": "/public/map/Alfonso/pc/Alfonso_Cover_AlbumCoach.tga.ckd/fec4d38872d3f67d8c38f773c1e44e75.ckd",
+      "cover_smallImageUrl": "/public/map/Alfonso/pc/Alfonso_Cover_Online.tga.ckd/3f564825b282e874bdfb53e41d61b8be.ckd",
+      "coach1ImageUrl": "/public/map/Alfonso/pc/Alfonso_Coach_1.tga.ckd/0ce94c768b27e10ef4319987d5a3e924.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Alfonso/orbis/Alfonso_banner_bkg.tga.ckd/5512b2727f7a69f51fc73db02046e773.ckd",
+      "map_bkgImageUrl": "/public/map/Alfonso/orbis/Alfonso_map_bkg.tga.ckd/284b2350bfa95a1c077ad66c06683f81.ckd",
+      "expandCoachImageUrl": "/public/map/Alfonso/orbis/Alfonso_Cover_AlbumCoach.tga.ckd/fec4d38872d3f67d8c38f773c1e44e75.ckd",
+      "cover_smallImageUrl": "/public/map/Alfonso/orbis/Alfonso_Cover_Online.tga.ckd/3f564825b282e874bdfb53e41d61b8be.ckd",
+      "coach1ImageUrl": "/public/map/Alfonso/orbis/Alfonso_Coach_1.tga.ckd/0ce94c768b27e10ef4319987d5a3e924.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Alfonso/Alfonso_Coach_1_Phone.png/74d5d84eeabdab214b6c34d3688416ad.png",
+    "phoneCoverImageUrl": "/public/map/Alfonso/Alfonso_Cover_Phone.jpg/a3ba9388f315b1a71a93f6d04c31805b.jpg",
+    "cover640ImageUrl": "/public/map/Alfonso/Alfonso_Cover_640.png/52586d0a3220dbf1cdad03e36340a64f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Alfonso/Alfonso.ogg": "/private/map/Alfonso/Alfonso.ogg/79ea4d23bf0456b684ce11c199a1a60c.ogg",
+    "jmcs://jd-contents/Alfonso/Alfonso_AudioPreview.ogg": "/public/map/Alfonso/Alfonso_AudioPreview.ogg/313b93d2bfb542fa0013a94985dec974.ogg",
+    "jmcs://jd-contents/Alfonso/Alfonso_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Alfonso/Alfonso_MapPreviewNoSoundCrop_LOW.vp8.webm/c76c5fc1f8ab0b4de2a03e1858bcd093.webm",
+    "jmcs://jd-contents/Alfonso/Alfonso_HIGH.webm": "/private/map/Alfonso/Alfonso_HIGH.webm/d2b4012a82598864f4effce6e30cf7bf.webm",
+    "jmcs://jd-contents/Alfonso/Alfonso_LOW.webm": "/private/map/Alfonso/Alfonso_LOW.webm/5f8195915edf8486f62fa5729ec7263b.webm",
+    "jmcs://jd-contents/Alfonso/Alfonso_MID.webm": "/private/map/Alfonso/Alfonso_MID.webm/a9aa70a55392281bf70b1a58804658c8.webm",
+    "jmcs://jd-contents/Alfonso/Alfonso_ULTRA.hd.webm": "/private/map/Alfonso/Alfonso_ULTRA.hd.webm/8c100997150579348d7b53342192cc1e.webm",
+    "jmcs://jd-contents/Alfonso/Alfonso_ULTRA.webm": "/private/map/Alfonso/Alfonso_ULTRA.webm/947340c886f0f5fd38b1b31d0d69817a.webm",
+    "jmcs://jd-contents/Alfonso/Alfonso_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Alfonso/Alfonso_MapPreviewNoSoundCrop_MID.vp8.webm/5817ad5c9bfd7abb080b31c944615929.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"535506\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Alfonso/Alfonso_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1530846\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Alfonso/Alfonso_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 210.314271
+}

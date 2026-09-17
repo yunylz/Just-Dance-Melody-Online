@@ -1,0 +1,179 @@
+{
+  "urls": {
+    "jmcs://jd-contents/TelephoneALT/TelephoneALT.ogg": "/private/map/TelephoneALT/TelephoneALT.ogg/4fe781d6777e66c2562546ae764c2322.ogg",
+    "jmcs://jd-contents/TelephoneALT/TelephoneALT_AudioPreview.ogg": "/public/map/TelephoneALT/TelephoneALT_AudioPreview.ogg/ed95613dcf04c5031c553a055844c7d3.ogg",
+    "jmcs://jd-contents/TelephoneALT/TelephoneALT_HIGH.hd.webm": "/private/map/TelephoneALT/TelephoneALT_HIGH.hd.webm/4c6669bd5ff1fbac25a06dacf95dcbff.webm",
+    "jmcs://jd-contents/TelephoneALT/TelephoneALT_LOW.hd.webm": "/private/map/TelephoneALT/TelephoneALT_LOW.hd.webm/baf475c1d392ddde1ee8148c173afaee.webm",
+    "jmcs://jd-contents/TelephoneALT/TelephoneALT_MID.hd.webm": "/private/map/TelephoneALT/TelephoneALT_MID.hd.webm/dda352f5632137832c0e073e2d4a114a.webm",
+    "jmcs://jd-contents/TelephoneALT/TelephoneALT_ULTRA.hd.webm": "/private/map/TelephoneALT/TelephoneALT_ULTRA.hd.webm/294c2b1c02164f7efb094f80788fd13f.webm",
+    "jmcs://jd-contents/TelephoneALT/TelephoneALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TelephoneALT/TelephoneALT_MapPreviewNoSoundCrop_LOW.vp8.webm/75b36ad6bab63192a1f05d8ac70a47eb.webm",
+    "jmcs://jd-contents/TelephoneALT/TelephoneALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TelephoneALT/TelephoneALT_MapPreviewNoSoundCrop_MID.vp8.webm/9e109c3464d1433961b575e3c4b9fbbe.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23607,
+        47213,
+        70820,
+        94426,
+        118033,
+        141639,
+        165246,
+        188852,
+        212459,
+        236066,
+        259672,
+        283279,
+        306885,
+        330492,
+        354098,
+        377705,
+        401311,
+        424918,
+        448525,
+        472131,
+        495738,
+        519344,
+        542951,
+        566557,
+        590164,
+        613770,
+        637377,
+        660984,
+        684590,
+        708197,
+        731803,
+        755410,
+        779016,
+        802623,
+        826230,
+        849836,
+        873443,
+        897049,
+        920656,
+        944262,
+        967869,
+        991475,
+        1015082,
+        1038689,
+        1062295,
+        1085902,
+        1109508,
+        1133115,
+        1156721,
+        1180328,
+        1203934,
+        1227541,
+        1251148,
+        1274754,
+        1298361,
+        1321967,
+        1345574,
+        1369180,
+        1392787,
+        1416393,
+        1440000,
+        1463607,
+        1487213
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 452,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TelephoneALT/TelephoneALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"562815\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TelephoneALT/TelephoneALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1992239\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TelephoneALT/TelephoneALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "7f78e00609741d53bacba3fc9e399f92",
+      "storageType": 0,
+      "url": "/public/map/TelephoneALT/nx/TelephoneALT_MAIN_SCENE_NX.zip/7f78e00609741d53bacba3fc9e399f92.zip"
+    },
+    "pc": {
+      "md5": "46104e360c73f286b78c2bca5b21b6dc",
+      "storageType": 0,
+      "url": "/public/map/TelephoneALT/pc/TelephoneALT_MAIN_SCENE_PC.zip/46104e360c73f286b78c2bca5b21b6dc.zip"
+    },
+    "ps4": {
+      "md5": "c557585d8784a4149248ce62bd5f513b",
+      "storageType": 0,
+      "url": "/public/map/TelephoneALT/orbis/TelephoneALT_MAIN_SCENE_ORBIS.zip/c557585d8784a4149248ce62bd5f513b.zip"
+    }
+  },
+  "data": {
+    "mapName": "TelephoneALT",
+    "title": "Telephone",
+    "originalJDVersion": 2023,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "Lady Gaga Ft. Beyoncé",
+    "credits": "Written by Stefani Germanotta, Beyoncé Knowles, LaShawn Daniels, Lazonate Franklin, Rodney Jerkins. Published by House of Gaga Publishing LLC (BMI). Sony/ATV Songs LLC (BMI). B Day Publishing (ASCAP).  EMI April Music Inc. (ASCAP). The Book Productions LLC (ASCAP). Deckchild Songs (ASCAP). U Can’t Steal It (ASCAP) / Hipgnosis Songs Fund Limited. Admin by Songs of Kobalt Music Publishing. Courtesy of Interscope Records under license from Universal Music Enterprises & Columbia Records and Parkwood Entertainment. By arrangement with Sony Music Entertainment.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#337fc5",
+    "songColor2A": "#8c6bf6",
+    "songColor1B": "#1d1b79",
+    "songColor2B": "#0b2d8f",
+    "lyricsColor": "#8055c5",
+    "LocaleID": 20003360
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TelephoneALT/nx/TelephoneALT_banner_bkg.tga.ckd/fa49cc1243439c6599ecbbf22fbf4c13.ckd",
+      "map_bkgImageUrl": "/public/map/TelephoneALT/nx/TelephoneALT_map_bkg.tga.ckd/584f13116e3b319e516319f6a1700fd3.ckd",
+      "expandCoachImageUrl": "/public/map/TelephoneALT/nx/TelephoneALT_Cover_AlbumCoach.tga.ckd/81eac79fe6a3d3112d22abd4cf216650.ckd",
+      "cover_smallImageUrl": "/public/map/TelephoneALT/nx/TelephoneALT_Cover_Online.tga.ckd/462196cf31f1fc93b7c715b25368f19c.ckd",
+      "coverImageUrl": "/public/map/TelephoneALT/nx/TelephoneALT_Cover_Generic.tga.ckd/4aecf803ba3bed99dfc263dd6ac076c0.ckd",
+      "coach1ImageUrl": "/public/map/TelephoneALT/nx/TelephoneALT_Coach_1.tga.ckd/d41b28be61139719a54e66127ce43ade.ckd",
+      "coach2ImageUrl": "/public/map/TelephoneALT/nx/TelephoneALT_Coach_2.tga.ckd/5f5304d1e82caf6ecea3563d3fdeca0c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TelephoneALT/pc/TelephoneALT_banner_bkg.tga.ckd/29f0f09e0578f4daaeff2b601024c865.ckd",
+      "map_bkgImageUrl": "/public/map/TelephoneALT/pc/TelephoneALT_map_bkg.tga.ckd/876c18cde79c1bd837e0b3bd173497ae.ckd",
+      "expandCoachImageUrl": "/public/map/TelephoneALT/pc/TelephoneALT_Cover_AlbumCoach.tga.ckd/f049b21e1ed3d6e36f7b924147d96e71.ckd",
+      "cover_smallImageUrl": "/public/map/TelephoneALT/pc/TelephoneALT_Cover_Online.tga.ckd/f6864e56042b0670553baec599eec650.ckd",
+      "coverImageUrl": "/public/map/TelephoneALT/pc/TelephoneALT_Cover_Generic.tga.ckd/34f0fd062b08fc021f14beea7f0fb91e.ckd",
+      "coach1ImageUrl": "/public/map/TelephoneALT/pc/TelephoneALT_Coach_1.tga.ckd/3df49dfbab2f7d6b6cfeeeb547a7d1e8.ckd",
+      "coach2ImageUrl": "/public/map/TelephoneALT/pc/TelephoneALT_Coach_2.tga.ckd/63dd0079751e74927a577421a2ec4511.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TelephoneALT/orbis/TelephoneALT_banner_bkg.tga.ckd/29f0f09e0578f4daaeff2b601024c865.ckd",
+      "map_bkgImageUrl": "/public/map/TelephoneALT/orbis/TelephoneALT_map_bkg.tga.ckd/876c18cde79c1bd837e0b3bd173497ae.ckd",
+      "expandCoachImageUrl": "/public/map/TelephoneALT/orbis/TelephoneALT_Cover_AlbumCoach.tga.ckd/f049b21e1ed3d6e36f7b924147d96e71.ckd",
+      "cover_smallImageUrl": "/public/map/TelephoneALT/orbis/TelephoneALT_Cover_Online.tga.ckd/f6864e56042b0670553baec599eec650.ckd",
+      "coverImageUrl": "/public/map/TelephoneALT/orbis/TelephoneALT_Cover_Generic.tga.ckd/34f0fd062b08fc021f14beea7f0fb91e.ckd",
+      "coach1ImageUrl": "/public/map/TelephoneALT/orbis/TelephoneALT_Coach_1.tga.ckd/3df49dfbab2f7d6b6cfeeeb547a7d1e8.ckd",
+      "coach2ImageUrl": "/public/map/TelephoneALT/orbis/TelephoneALT_Coach_2.tga.ckd/63dd0079751e74927a577421a2ec4511.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TelephoneALT/TelephoneALT_Coach_1_Phone.png/55a033144e17d2bab33c2481a593e4c1.png",
+    "phoneCoach2ImageUrl": "/public/map/TelephoneALT/TelephoneALT_Coach_2_Phone.png/28bd99cc74e1a259ea1280a44d175c15.png",
+    "phoneCoverImageUrl": "/public/map/TelephoneALT/TelephoneALT_Cover_Phone.jpg/e0e7a544f8fd883cbefa669145ec60dd.jpg",
+    "cover640ImageUrl": "/public/map/TelephoneALT/TelephoneALT_Cover_640.png/597e50045cb45cd99fd8d83f52150aab.png"
+  },
+  "mapLength": 227.213
+}

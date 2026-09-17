@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "6a1ea3cd4afc139508d608bd4679284f",
+      "storageType": 0,
+      "url": "/public/map/Diggin/nx/Diggin_MAIN_SCENE_NX.zip/6a1ea3cd4afc139508d608bd4679284f.zip"
+    },
+    "pc": {
+      "md5": "bf7831a8ebe6303a4213c7875aa806dd",
+      "storageType": 0,
+      "url": "/public/map/Diggin/pc/Diggin_MAIN_SCENE_PC.zip/bf7831a8ebe6303a4213c7875aa806dd.zip"
+    },
+    "ps4": {
+      "md5": "4c70fc5ac40ba82d4a7b042958f57372",
+      "storageType": 0,
+      "url": "/public/map/Diggin/orbis/Diggin_MAIN_SCENE_ORBIS.zip/4c70fc5ac40ba82d4a7b042958f57372.zip"
+    }
+  },
+  "data": {
+    "mapName": "Diggin",
+    "title": "Diggin' In The Dirt",
+    "originalJDVersion": 4,
+    "tags": [
+      "cool",
+      "main"
+    ],
+    "artist": "Stefanie Heinzmann",
+    "credits": "Written by Herbert St. Clair Crichlow, Martin Fliegenschmidt, Matthias Hass, Claudio Pagonis.Published by Universal Music Publishing GmbH /  Tinseltown Music Publishing / Dexter Music Produktions- und Verlags GmbH / Crichtan Songs AB.Courtesy of Universal Music Domestic Pop, a division of Universal Music GmbH under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#2551db",
+    "songColor2A": "#e3be3c",
+    "songColor1B": "#000277",
+    "songColor2B": "#6100bb",
+    "lyricsColor": "#ecef7b",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32821,
+        65642,
+        98465,
+        123122,
+        147779,
+        172437,
+        197094,
+        221752,
+        246409,
+        271066,
+        295724,
+        320381,
+        345039,
+        369696,
+        394354,
+        419011,
+        443668,
+        468326,
+        492983,
+        517641,
+        542298,
+        566955,
+        591613,
+        616270,
+        640928,
+        665585,
+        690242,
+        714900,
+        739557,
+        764215,
+        788872,
+        813530,
+        838187,
+        862844,
+        887502,
+        912159,
+        936817,
+        961474,
+        986131,
+        1010789,
+        1035446,
+        1060104,
+        1084761,
+        1109419,
+        1134076,
+        1158733,
+        1183391,
+        1208048,
+        1232706,
+        1257363,
+        1282020,
+        1306678,
+        1331335,
+        1355993,
+        1380650,
+        1405308,
+        1429965,
+        1454622,
+        1479280
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 422,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Diggin/Diggin_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Diggin/nx/Diggin_banner_bkg.tga.ckd/d24f490fe21aaeaed145fe031a059fcf.ckd",
+      "map_bkgImageUrl": "/public/map/Diggin/nx/Diggin_map_bkg.tga.ckd/39dcdb61bdfed8ea4159d62ac2005a55.ckd",
+      "expandCoachImageUrl": "/public/map/Diggin/nx/Diggin_Cover_AlbumCoach.tga.ckd/ae11a08a159c43e3d727d1535daf0124.ckd",
+      "cover_smallImageUrl": "/public/map/Diggin/nx/Diggin_Cover_Online.tga.ckd/94c55937cc52a1f8bc4cef856dba81a0.ckd",
+      "coach1ImageUrl": "/public/map/Diggin/nx/Diggin_Coach_1.tga.ckd/8ae647ec3ed5bd1e993c735799ee8b28.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Diggin/pc/Diggin_banner_bkg.tga.ckd/d2511f57cdc978ff8857be82744f4130.ckd",
+      "map_bkgImageUrl": "/public/map/Diggin/pc/Diggin_map_bkg.tga.ckd/11b7538d9facbf251ef643adf8f409aa.ckd",
+      "expandCoachImageUrl": "/public/map/Diggin/pc/Diggin_Cover_AlbumCoach.tga.ckd/29a4cc57e964f6c613849e198286c3f4.ckd",
+      "cover_smallImageUrl": "/public/map/Diggin/pc/Diggin_Cover_Online.tga.ckd/3c2ae24bb9dcb4ef2de5be4c9a0c21fc.ckd",
+      "coach1ImageUrl": "/public/map/Diggin/pc/Diggin_Coach_1.tga.ckd/ad61f582d0e04566992a09e67beeb1dc.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Diggin/orbis/Diggin_banner_bkg.tga.ckd/d2511f57cdc978ff8857be82744f4130.ckd",
+      "map_bkgImageUrl": "/public/map/Diggin/orbis/Diggin_map_bkg.tga.ckd/11b7538d9facbf251ef643adf8f409aa.ckd",
+      "expandCoachImageUrl": "/public/map/Diggin/orbis/Diggin_Cover_AlbumCoach.tga.ckd/29a4cc57e964f6c613849e198286c3f4.ckd",
+      "cover_smallImageUrl": "/public/map/Diggin/orbis/Diggin_Cover_Online.tga.ckd/3c2ae24bb9dcb4ef2de5be4c9a0c21fc.ckd",
+      "coach1ImageUrl": "/public/map/Diggin/orbis/Diggin_Coach_1.tga.ckd/ad61f582d0e04566992a09e67beeb1dc.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Diggin/Diggin_Coach_1_Phone.png/23f9d584f92129762891201e399433b8.png",
+    "phoneCoverImageUrl": "/public/map/Diggin/Diggin_Cover_Phone.jpg/177f0739d3a599fa4ce401548d56ccdb.jpg",
+    "cover640ImageUrl": "/public/map/Diggin/Diggin_Cover_640.png/0cd4c5c2de67a7e1e15a5a764538ace6.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Diggin/Diggin.ogg": "/private/map/Diggin/Diggin.ogg/9996e5d66a42730ee7e7637c5f16201f.ogg",
+    "jmcs://jd-contents/Diggin/Diggin_AudioPreview.ogg": "/public/map/Diggin/Diggin_AudioPreview.ogg/9e0cd56fa23babf929f19b882779ebb0.ogg",
+    "jmcs://jd-contents/Diggin/Diggin_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Diggin/Diggin_MapPreviewNoSoundCrop_LOW.vp8.webm/2e0571f9a2a0fb0d5316f40211831256.webm",
+    "jmcs://jd-contents/Diggin/Diggin_HIGH.webm": "/private/map/Diggin/Diggin_HIGH.webm/71a1679dc1a30d4a0a8ce1f538b032bb.webm",
+    "jmcs://jd-contents/Diggin/Diggin_LOW.webm": "/private/map/Diggin/Diggin_LOW.webm/83600fd351f30dfa63bccba00a7379e2.webm",
+    "jmcs://jd-contents/Diggin/Diggin_MID.webm": "/private/map/Diggin/Diggin_MID.webm/0d11d6c8a171401ed63fcc4cb5d46dbd.webm",
+    "jmcs://jd-contents/Diggin/Diggin_ULTRA.hd.webm": "/private/map/Diggin/Diggin_ULTRA.hd.webm/e2addf5abe22f69ff4c36769257f725c.webm",
+    "jmcs://jd-contents/Diggin/Diggin_ULTRA.webm": "/private/map/Diggin/Diggin_ULTRA.webm/2e40c6f693ee6f4bb2dec38967291421.webm",
+    "jmcs://jd-contents/Diggin/Diggin_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Diggin/Diggin_MapPreviewNoSoundCrop_MID.vp8.webm/86766c767be7d8a27bc62f8b0d99e4a5.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495506\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Diggin/Diggin_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\n\t\t\t\t\t<Initialization range=\"0-628\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1400703\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Diggin/Diggin_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\n\t\t\t\t\t<Initialization range=\"0-629\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 217.656563
+}

@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "b0e3d97043eece468782dbf200b942b5",
+      "storageType": 0,
+      "url": "/public/map/ABBAAsGoodAsNew/nx/ABBAAsGoodAsNew_MAIN_SCENE_NX.zip/b0e3d97043eece468782dbf200b942b5.zip"
+    },
+    "pc": {
+      "md5": "b6d1279c993447eee0283fcd52ca7c2e",
+      "storageType": 0,
+      "url": "/public/map/ABBAAsGoodAsNew/pc/ABBAAsGoodAsNew_MAIN_SCENE_PC.zip/b6d1279c993447eee0283fcd52ca7c2e.zip"
+    },
+    "ps4": {
+      "md5": "56fa2950e291ddc4621c245e15f8f2c7",
+      "storageType": 0,
+      "url": "/public/map/ABBAAsGoodAsNew/orbis/ABBAAsGoodAsNew_MAIN_SCENE_ORBIS.zip/56fa2950e291ddc4621c245e15f8f2c7.zip"
+    }
+  },
+  "data": {
+    "mapName": "ABBAAsGoodAsNew",
+    "title": "As Good as New",
+    "originalJDVersion": 4884,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "ABBA",
+    "credits": "Empty Credits",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#feb500",
+    "songColor2A": "#0401cb",
+    "songColor1B": "#333333",
+    "songColor2B": "#17008a",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28895,
+        49631,
+        70367,
+        91055,
+        111791,
+        132527,
+        153215,
+        173951,
+        194687,
+        215375,
+        236111,
+        256847,
+        277535,
+        298271,
+        319007,
+        339695,
+        360431,
+        381167,
+        401855,
+        422591,
+        443279,
+        464015,
+        484751,
+        505439,
+        526175,
+        546911,
+        567599,
+        588335,
+        609071,
+        629759,
+        650494,
+        671230,
+        691918,
+        712654,
+        733390,
+        753646,
+        773950,
+        794254,
+        814558,
+        836110,
+        857710,
+        878398,
+        899134,
+        919870,
+        940558,
+        961294,
+        982030,
+        1002718,
+        1023454,
+        1044142,
+        1064878,
+        1085614,
+        1106302,
+        1127038,
+        1147774,
+        1168462,
+        1189198,
+        1209022,
+        1228894,
+        1249438,
+        1270029,
+        1290621,
+        1311501,
+        1332381,
+        1353261,
+        1374189,
+        1395069,
+        1415949,
+        1436829,
+        1457709,
+        1478589
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 475,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 69,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ABBAAsGoodAsNew/nx/ABBAAsGoodAsNew_banner_bkg.tga.ckd/6d0420d9edb9ff15c9adb8eb84890988.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAAsGoodAsNew/nx/ABBAAsGoodAsNew_map_bkg.tga.ckd/be0b97f95a9958c51229dfee66efa7ad.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAAsGoodAsNew/nx/ABBAAsGoodAsNew_Cover_AlbumCoach.tga.ckd/390157afbec82d77f95e91092a7feeea.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAAsGoodAsNew/nx/ABBAAsGoodAsNew_Cover_Online.tga.ckd/e55ae6e23fa946ac479e495d87d76d87.ckd",
+      "coach1ImageUrl": "/public/map/ABBAAsGoodAsNew/nx/ABBAAsGoodAsNew_Coach_1.tga.ckd/c78666687f28b6336efc4c530deb1045.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ABBAAsGoodAsNew/pc/ABBAAsGoodAsNew_banner_bkg.tga.ckd/42ed81009694d28d6d6e79d8c2222394.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAAsGoodAsNew/pc/ABBAAsGoodAsNew_map_bkg.tga.ckd/1acc40ac397ab3931c23a429a7d42c00.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAAsGoodAsNew/pc/ABBAAsGoodAsNew_Cover_AlbumCoach.tga.ckd/d607df80c35a66ef4b2c453c86add006.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAAsGoodAsNew/pc/ABBAAsGoodAsNew_Cover_Online.tga.ckd/8a33b3fa3d963afbb8425340edb759f7.ckd",
+      "coach1ImageUrl": "/public/map/ABBAAsGoodAsNew/pc/ABBAAsGoodAsNew_Coach_1.tga.ckd/e41fda73fe2b0efb98df97c307ee05b4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ABBAAsGoodAsNew/orbis/ABBAAsGoodAsNew_banner_bkg.tga.ckd/42ed81009694d28d6d6e79d8c2222394.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAAsGoodAsNew/orbis/ABBAAsGoodAsNew_map_bkg.tga.ckd/1acc40ac397ab3931c23a429a7d42c00.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAAsGoodAsNew/orbis/ABBAAsGoodAsNew_Cover_AlbumCoach.tga.ckd/d607df80c35a66ef4b2c453c86add006.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAAsGoodAsNew/orbis/ABBAAsGoodAsNew_Cover_Online.tga.ckd/8a33b3fa3d963afbb8425340edb759f7.ckd",
+      "coach1ImageUrl": "/public/map/ABBAAsGoodAsNew/orbis/ABBAAsGoodAsNew_Coach_1.tga.ckd/e41fda73fe2b0efb98df97c307ee05b4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_Coach_1_Phone.png/580503f9474936701389d6732c55ad86.png",
+    "phoneCoverImageUrl": "/public/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_Cover_Phone.jpg/d9313547901ba7b18ca6d9120bcc4c87.jpg",
+    "cover640ImageUrl": "/public/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew.ogg": "/private/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew.ogg/ea609fe9e54aca26490fac8937dee3f4.ogg",
+    "jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_AudioPreview.ogg": "/public/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_AudioPreview.ogg/b37d2d75dd2b4f5d8121250a0cab6679.ogg",
+    "jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_MapPreviewNoSoundCrop_LOW.vp8.webm/be8c7c8cd6f99c00db296b25a9959d5d.webm",
+    "jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_HIGH.webm": "/private/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_HIGH.webm/ab85bf707a4f6513d8650450a5aba1ef.webm",
+    "jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_LOW.webm": "/private/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_LOW.webm/b78fdacd3ae77949f265aec9a1f2f1ab.webm",
+    "jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_MID.webm": "/private/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_MID.webm/554174084f6c4288cfe58f32905f6bc5.webm",
+    "jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_ULTRA.hd.webm": "/private/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_ULTRA.hd.webm/73835b98772218f3088b133af52d6d1f.webm",
+    "jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_ULTRA.webm": "/private/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_ULTRA.webm/9577231fa200a42a28a605fa39cef220.webm",
+    "jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_MapPreviewNoSoundCrop_MID.vp8.webm/7c9037874f52fe517b24a87cbeee01cc.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"514658\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1500947\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 210.474667
+}

@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d841c4a16c5c7004611cfcad742d06dc",
+      "storageType": 0,
+      "url": "/public/map/CakeByTheOcean/nx/CakeByTheOcean_MAIN_SCENE_NX.zip/d841c4a16c5c7004611cfcad742d06dc.zip"
+    },
+    "pc": {
+      "md5": "703848733c57943c8b912a192d9c76d3",
+      "storageType": 0,
+      "url": "/public/map/CakeByTheOcean/pc/CakeByTheOcean_MAIN_SCENE_PC.zip/703848733c57943c8b912a192d9c76d3.zip"
+    },
+    "ps4": {
+      "md5": "c15ed0ec30934bef5c9e9ecdb183aba4",
+      "storageType": 0,
+      "url": "/public/map/CakeByTheOcean/orbis/CakeByTheOcean_MAIN_SCENE_ORBIS.zip/c15ed0ec30934bef5c9e9ecdb183aba4.zip"
+    }
+  },
+  "data": {
+    "mapName": "CakeByTheOcean",
+    "title": "Cake By The Ocean",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main",
+      "extreme",
+      "kidsmode"
+    ],
+    "artist": "DNCE",
+    "credits": "Written by Justin Tranter, Robin Lennart Fredriksson, Mattias Per Larsson and Joseph Jonas. Published by Warner-Tamerlane Publishing Corp. Obo itself and Justin's School For Girls / WB Music Corp. obo Warner/Chappell Music Scandinavia Ab. / Universal Music Publishing Group, a division of Universal Music Canada Inc. Courtesy of Republic Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff9f00",
+    "songColor2A": "#3ccdff",
+    "songColor1B": "#7e0050",
+    "songColor2B": "#14125c",
+    "lyricsColor": "#ed348d",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24191,
+        48383,
+        72623,
+        96815,
+        121007,
+        145199,
+        169391,
+        193631,
+        217823,
+        242015,
+        266207,
+        290399,
+        314639,
+        338831,
+        363023,
+        387215,
+        411407,
+        435647,
+        459838,
+        484030,
+        508222,
+        532414,
+        556654,
+        580846,
+        605038,
+        629230,
+        653422,
+        677662,
+        701854,
+        726046,
+        750238,
+        774430,
+        798670,
+        822862,
+        847054,
+        871246,
+        895438,
+        919677,
+        943869,
+        968061,
+        992253,
+        1016445,
+        1040685,
+        1064877,
+        1089069,
+        1113261,
+        1137453,
+        1161693,
+        1185885,
+        1210077,
+        1234269,
+        1258461,
+        1282701,
+        1306893,
+        1331085,
+        1355276,
+        1379468,
+        1403708,
+        1427900,
+        1452092,
+        1476284,
+        1500524
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 431,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CakeByTheOcean/nx/CakeByTheOcean_banner_bkg.tga.ckd/bedea16942a85a9e495e8eaa5088ffae.ckd",
+      "map_bkgImageUrl": "/public/map/CakeByTheOcean/nx/CakeByTheOcean_map_bkg.tga.ckd/e704e181ea5b16fa156645dd2183a255.ckd",
+      "expandCoachImageUrl": "/public/map/CakeByTheOcean/nx/CakeByTheOcean_Cover_AlbumCoach.tga.ckd/cd3925981dbd56869b90965478dad3ad.ckd",
+      "cover_smallImageUrl": "/public/map/CakeByTheOcean/nx/CakeByTheOcean_Cover_Online.tga.ckd/4b2d8fee38344b82894d3c80811080e1.ckd",
+      "coverImageUrl": "/public/map/CakeByTheOcean/nx/CakeByTheOcean_Cover_Generic.tga.ckd/f9b2cdf950e1cfaa50991d85dbd85c85.ckd",
+      "coach1ImageUrl": "/public/map/CakeByTheOcean/nx/CakeByTheOcean_Coach_1.tga.ckd/316aaad2f658f0f1c544aeb2d1142086.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CakeByTheOcean/pc/CakeByTheOcean_banner_bkg.tga.ckd/d0cd982792a7a74869fb8264a211fa33.ckd",
+      "map_bkgImageUrl": "/public/map/CakeByTheOcean/pc/CakeByTheOcean_map_bkg.tga.ckd/0fd245edb24d328fd2d6a24b4ed6c0fe.ckd",
+      "expandCoachImageUrl": "/public/map/CakeByTheOcean/pc/CakeByTheOcean_Cover_AlbumCoach.tga.ckd/cdf00543e4770e3a428fd6efadf5aa3e.ckd",
+      "cover_smallImageUrl": "/public/map/CakeByTheOcean/pc/CakeByTheOcean_Cover_Online.tga.ckd/9b54103de19583d53d9704b1636e20ab.ckd",
+      "coverImageUrl": "/public/map/CakeByTheOcean/pc/CakeByTheOcean_Cover_Generic.tga.ckd/737e249df7f1d8a9cd9a81af9b612f14.ckd",
+      "coach1ImageUrl": "/public/map/CakeByTheOcean/pc/CakeByTheOcean_Coach_1.tga.ckd/75f1a85c481637f5a70baf3c8bbdb459.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CakeByTheOcean/orbis/CakeByTheOcean_banner_bkg.tga.ckd/d0cd982792a7a74869fb8264a211fa33.ckd",
+      "map_bkgImageUrl": "/public/map/CakeByTheOcean/orbis/CakeByTheOcean_map_bkg.tga.ckd/0fd245edb24d328fd2d6a24b4ed6c0fe.ckd",
+      "expandCoachImageUrl": "/public/map/CakeByTheOcean/orbis/CakeByTheOcean_Cover_AlbumCoach.tga.ckd/cdf00543e4770e3a428fd6efadf5aa3e.ckd",
+      "cover_smallImageUrl": "/public/map/CakeByTheOcean/orbis/CakeByTheOcean_Cover_Online.tga.ckd/9b54103de19583d53d9704b1636e20ab.ckd",
+      "coverImageUrl": "/public/map/CakeByTheOcean/orbis/CakeByTheOcean_Cover_Generic.tga.ckd/737e249df7f1d8a9cd9a81af9b612f14.ckd",
+      "coach1ImageUrl": "/public/map/CakeByTheOcean/orbis/CakeByTheOcean_Coach_1.tga.ckd/75f1a85c481637f5a70baf3c8bbdb459.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CakeByTheOcean/CakeByTheOcean_Coach_1_Phone.png/fe05b2864e99f57af88a0344e0701020.png",
+    "phoneCoverImageUrl": "/public/map/CakeByTheOcean/CakeByTheOcean_Cover_Phone.jpg/286bcbaf2a5d41bbe581a6a32fbe190c.jpg",
+    "cover640ImageUrl": "/public/map/CakeByTheOcean/CakeByTheOcean_Cover_640.png/09e257fe813048b5597e44d17e3bc2e0.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_LOW.vp8.webm/3b1a5ec395ff3a7a59bba04520022846.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean.ogg": "/private/map/CakeByTheOcean/CakeByTheOcean.ogg/2727e84da6913038d713740921ac09f3.ogg",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_AudioPreview.ogg": "/public/map/CakeByTheOcean/CakeByTheOcean_AudioPreview.ogg/5e054189e89eab69800b5d4a52754131.ogg",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_HIGH.webm": "/private/map/CakeByTheOcean/CakeByTheOcean_HIGH.webm/df75fbbe5b231c8004cc56b8e34be99f.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_LOW.webm": "/private/map/CakeByTheOcean/CakeByTheOcean_LOW.webm/1cad5971eb0addcce79840a5c2cff250.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MID.webm": "/private/map/CakeByTheOcean/CakeByTheOcean_MID.webm/15d781e2f7a6dd03cf1614ab4fe33689.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_ULTRA.hd.webm": "/private/map/CakeByTheOcean/CakeByTheOcean_ULTRA.hd.webm/335f76c4fdb475db345c79230154e05b.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_ULTRA.webm": "/private/map/CakeByTheOcean/CakeByTheOcean_ULTRA.webm/a8e3237537782104a63422ade5705e2e.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_MID.vp8.webm/2ec9c65a5b32994fc43d1fa1234ce1ae.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_HIGH.hd.webm": "/private/map/CakeByTheOcean/CakeByTheOcean_HIGH.hd.webm/f07618d816e99835f39118814f5dd4f1.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_LOW.hd.webm": "/private/map/CakeByTheOcean/CakeByTheOcean_LOW.hd.webm/5b0e25a912979fb43190351cbd5d3bc6.webm",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MID.hd.webm": "/private/map/CakeByTheOcean/CakeByTheOcean_MID.hd.webm/badb144c668ecc7462dbe93ad2e2c1de.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496941\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482855\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 223.338063
+}

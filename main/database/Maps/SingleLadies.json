@@ -1,0 +1,162 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3e9cde0d6642a9ec255704f0e095db19",
+      "storageType": 0,
+      "url": "/public/map/SingleLadies/nx/SingleLadies_MAIN_SCENE_NX.zip/3e9cde0d6642a9ec255704f0e095db19.zip"
+    },
+    "pc": {
+      "md5": "49404955872032be049187eb493b8445",
+      "storageType": 0,
+      "url": "/public/map/SingleLadies/pc/SingleLadies_MAIN_SCENE_PC.zip/49404955872032be049187eb493b8445.zip"
+    },
+    "ps4": {
+      "md5": "7a4706cffe1fedf6e7941ffc72d0ca19",
+      "storageType": 0,
+      "url": "/public/map/SingleLadies/orbis/SingleLadies_MAIN_SCENE_ORBIS.zip/7a4706cffe1fedf6e7941ffc72d0ca19.zip"
+    }
+  },
+  "data": {
+    "mapName": "SingleLadies",
+    "title": "Single Ladies (Put a Ring on It)",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main",
+      "extreme"
+    ],
+    "artist": "Beyoncé",
+    "credits": "Written by Christopher Stewart, Terius Nash, Thaddis Harrell and Beyoncé Knowles. Published by March Ninth Music Publishing/Songs of Peer Ltd. / WB Music Corp. Obo itself and 2082 Music Publishing / B-Day Publishing (ASCAP) c/o EMI April Music (Canada) Ltd. (SOCAN) and Sony/ATV Music Publishing Canada (SOCAN). All rights reserved. Used with permission. Courtesy of Columbia Records. By arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ce0b31",
+    "songColor2A": "#f6f6f6",
+    "songColor1B": "#1f006f",
+    "songColor2B": "#000000",
+    "lyricsColor": "#e12049",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29711,
+        59375,
+        89087,
+        118751,
+        148463,
+        178127,
+        207839,
+        237503,
+        267215,
+        296927,
+        326591,
+        356303,
+        385967,
+        415679,
+        445342,
+        475054,
+        504718,
+        534430,
+        564142,
+        593806,
+        623518,
+        653182,
+        682894,
+        712558,
+        742270,
+        771934,
+        801646,
+        831358,
+        861022,
+        890733,
+        920397,
+        950109,
+        979773,
+        1009485,
+        1039149,
+        1068861,
+        1098573,
+        1128237,
+        1157949,
+        1187613,
+        1217325,
+        1246989,
+        1276701,
+        1306365,
+        1336076,
+        1365788,
+        1395452,
+        1425164,
+        1454828,
+        1484540,
+        1514204
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 313,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SingleLadies/SingleLadies_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SingleLadies/nx/SingleLadies_banner_bkg.tga.ckd/e208ecb4a8ce0021a3ac845b67141150.ckd",
+      "map_bkgImageUrl": "/public/map/SingleLadies/nx/SingleLadies_map_bkg.tga.ckd/b6fb26e9271bc38b3486fb6393b22f53.ckd",
+      "expandCoachImageUrl": "/public/map/SingleLadies/nx/SingleLadies_Cover_AlbumCoach.tga.ckd/14ef17544d3de33e54494af000e283af.ckd",
+      "cover_smallImageUrl": "/public/map/SingleLadies/nx/SingleLadies_Cover_Online.tga.ckd/39bb3bf23731494fa03e75b1271b4e0d.ckd",
+      "coach1ImageUrl": "/public/map/SingleLadies/nx/SingleLadies_Coach_1.tga.ckd/fd4cd9c93e09db966fa66aa92e340036.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SingleLadies/pc/SingleLadies_banner_bkg.tga.ckd/8780c6d7d5f80e1f0c444a3b7cc59a1a.ckd",
+      "map_bkgImageUrl": "/public/map/SingleLadies/pc/SingleLadies_map_bkg.tga.ckd/305083d0bf0b73726b57d0a6761eb998.ckd",
+      "expandCoachImageUrl": "/public/map/SingleLadies/pc/SingleLadies_Cover_AlbumCoach.tga.ckd/d54693cd649332634506af782ee63a83.ckd",
+      "cover_smallImageUrl": "/public/map/SingleLadies/pc/SingleLadies_Cover_Online.tga.ckd/e48ce6d085e25e9f3cbed73e72554b99.ckd",
+      "coach1ImageUrl": "/public/map/SingleLadies/pc/SingleLadies_Coach_1.tga.ckd/ab369ca8934c2f0b30a25947ed061ac7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SingleLadies/orbis/SingleLadies_banner_bkg.tga.ckd/8780c6d7d5f80e1f0c444a3b7cc59a1a.ckd",
+      "map_bkgImageUrl": "/public/map/SingleLadies/orbis/SingleLadies_map_bkg.tga.ckd/305083d0bf0b73726b57d0a6761eb998.ckd",
+      "expandCoachImageUrl": "/public/map/SingleLadies/orbis/SingleLadies_Cover_AlbumCoach.tga.ckd/d54693cd649332634506af782ee63a83.ckd",
+      "cover_smallImageUrl": "/public/map/SingleLadies/orbis/SingleLadies_Cover_Online.tga.ckd/e48ce6d085e25e9f3cbed73e72554b99.ckd",
+      "coach1ImageUrl": "/public/map/SingleLadies/orbis/SingleLadies_Coach_1.tga.ckd/ab369ca8934c2f0b30a25947ed061ac7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SingleLadies/SingleLadies_Coach_1_Phone.png/48db124054fa70d1178d7096dacaa210.png",
+    "phoneCoverImageUrl": "/public/map/SingleLadies/SingleLadies_Cover_Phone.jpg/1ad2dc5eaadcba40c1d19c91dd6d6954.jpg",
+    "cover640ImageUrl": "/public/map/SingleLadies/SingleLadies_Cover_640.png/bbc70ebdcebc8b59e8e8067b2d707d26.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SingleLadies/SingleLadies.ogg": "/private/map/SingleLadies/SingleLadies.ogg/ace3350739b2e5e3f5e1f5f6ce36c590.ogg",
+    "jmcs://jd-contents/SingleLadies/SingleLadies_AudioPreview.ogg": "/public/map/SingleLadies/SingleLadies_AudioPreview.ogg/5ffb6deb6b16ca3184b3ddb0e94bcc71.ogg",
+    "jmcs://jd-contents/SingleLadies/SingleLadies_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SingleLadies/SingleLadies_MapPreviewNoSoundCrop_LOW.vp8.webm/ac0b5b13f768c808e7eabecf21ec7699.webm",
+    "jmcs://jd-contents/SingleLadies/SingleLadies_HIGH.webm": "/private/map/SingleLadies/SingleLadies_HIGH.webm/8134b524f07979fbba84680d232d0632.webm",
+    "jmcs://jd-contents/SingleLadies/SingleLadies_LOW.webm": "/private/map/SingleLadies/SingleLadies_LOW.webm/dc4e1a36fbf6fca4b4d5ed76ece22341.webm",
+    "jmcs://jd-contents/SingleLadies/SingleLadies_MID.webm": "/private/map/SingleLadies/SingleLadies_MID.webm/8e3fae6c6d5a2bffd29f6a6be8f74ddb.webm",
+    "jmcs://jd-contents/SingleLadies/SingleLadies_ULTRA.hd.webm": "/private/map/SingleLadies/SingleLadies_ULTRA.hd.webm/2688973cb1d69e3943ef29c4534276fc.webm",
+    "jmcs://jd-contents/SingleLadies/SingleLadies_ULTRA.webm": "/private/map/SingleLadies/SingleLadies_ULTRA.webm/c9f325377a399b4a083902ff76af6a7f.webm",
+    "jmcs://jd-contents/SingleLadies/SingleLadies_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SingleLadies/SingleLadies_MapPreviewNoSoundCrop_MID.vp8.webm/7fa7b8579124c3e3a1552537847abbc5.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495405\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SingleLadies/SingleLadies_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"631-1120\">\n\t\t\t\t\t<Initialization range=\"0-631\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1464820\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SingleLadies/SingleLadies_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 195.465063
+}

@@ -1,0 +1,176 @@
+{
+  "urls": {
+    "jmcs://jd-contents/CmonMU/CmonMU.ogg": "/private/map/CmonMU/CmonMU.ogg/9fa33bcd0fc470be0da135fd16027fbb.ogg",
+    "jmcs://jd-contents/CmonMU/CmonMU_AudioPreview.ogg": "/public/map/CmonMU/CmonMU_AudioPreview.ogg/af89293d0f711fc388b5c252dcb90d11.ogg",
+    "jmcs://jd-contents/CmonMU/CmonMU_HIGH.hd.webm": "/private/map/CmonMU/CmonMU_HIGH.hd.webm/5ed200ef059629481c6996bf22b513a8.webm",
+    "jmcs://jd-contents/CmonMU/CmonMU_LOW.hd.webm": "/private/map/CmonMU/CmonMU_LOW.hd.webm/59aab2f4b6ede0af36cfadba5523339b.webm",
+    "jmcs://jd-contents/CmonMU/CmonMU_MID.hd.webm": "/private/map/CmonMU/CmonMU_MID.hd.webm/e26cc5900bc8dd0865a5b9f0ec7a1789.webm",
+    "jmcs://jd-contents/CmonMU/CmonMU_ULTRA.hd.webm": "/private/map/CmonMU/CmonMU_ULTRA.hd.webm/9c73dcfc62bd91f795c79ba84bcc235c.webm",
+    "jmcs://jd-contents/CmonMU/CmonMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CmonMU/CmonMU_MapPreviewNoSoundCrop_LOW.vp8.webm/28347980aae6866a1b140be14fa1e5bd.webm",
+    "jmcs://jd-contents/CmonMU/CmonMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CmonMU/CmonMU_MapPreviewNoSoundCrop_MID.vp8.webm/e6e755edb68d5071ec9ec99822b955b5.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22848,
+        45696,
+        68592,
+        91440,
+        114288,
+        137136,
+        159984,
+        182880,
+        205728,
+        228576,
+        251424,
+        274272,
+        297120,
+        320016,
+        342864,
+        365712,
+        388560,
+        411408,
+        434304,
+        457152,
+        480000,
+        502848,
+        525696,
+        548592,
+        571440,
+        594288,
+        617136,
+        639984,
+        662880,
+        685728,
+        708576,
+        731424,
+        754272,
+        777120,
+        800016,
+        822864,
+        845712,
+        868560,
+        891408,
+        914304,
+        937152,
+        960000,
+        982848,
+        1005696,
+        1028592,
+        1051440,
+        1074288,
+        1097136,
+        1119984,
+        1142880,
+        1165728,
+        1188576,
+        1211424,
+        1234272,
+        1257120,
+        1280016,
+        1302864,
+        1325712,
+        1348560,
+        1371408,
+        1394304,
+        1417152,
+        1440000,
+        1462849,
+        1485697
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 447,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CmonMU/CmonMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CmonMU/nx/CmonMU_banner_bkg.tga.ckd/f6b2fd2b814f5656b578e2700d3aa8df.ckd",
+      "map_bkgImageUrl": "/public/map/CmonMU/nx/CmonMU_map_bkg.tga.ckd/2876c8c308dd5b7c3289fcaadcfbb746.ckd",
+      "expandCoachImageUrl": "/public/map/CmonMU/nx/CmonMU_Cover_AlbumCoach.tga.ckd/013c4c957b5554626a6b20c51d311974.ckd",
+      "cover_smallImageUrl": "/public/map/CmonMU/nx/CmonMU_Cover_Online.tga.ckd/15067ce741c6c79e27fa8378d9436ad5.ckd",
+      "coverImageUrl": "/public/map/CmonMU/nx/CmonMU_Cover_Generic.tga.ckd/61006bb195bb633791c5aa145d2988e3.ckd",
+      "coach1ImageUrl": "/public/map/CmonMU/nx/CmonMU_Coach_1.tga.ckd/52406b81da4c17d062bfca624c84b7a6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CmonMU/pc/CmonMU_banner_bkg.tga.ckd/363366d5b9a0e8809d79a3f8c97497c1.ckd",
+      "map_bkgImageUrl": "/public/map/CmonMU/pc/CmonMU_map_bkg.tga.ckd/91487f0ac9d47e70605faba8e69f998d.ckd",
+      "expandCoachImageUrl": "/public/map/CmonMU/pc/CmonMU_Cover_AlbumCoach.tga.ckd/9899de6a7dc1b0165f32acab593a4d1e.ckd",
+      "cover_smallImageUrl": "/public/map/CmonMU/pc/CmonMU_Cover_Online.tga.ckd/ca689fc89f994e3d087af58aabd2f209.ckd",
+      "coverImageUrl": "/public/map/CmonMU/pc/CmonMU_Cover_Generic.tga.ckd/2e47bcb2193f3b75cb5fdfd4c24a9541.ckd",
+      "coach1ImageUrl": "/public/map/CmonMU/pc/CmonMU_Coach_1.tga.ckd/f4fa16c1c1d6fa058db5d40e694553f0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CmonMU/orbis/CmonMU_banner_bkg.tga.ckd/363366d5b9a0e8809d79a3f8c97497c1.ckd",
+      "map_bkgImageUrl": "/public/map/CmonMU/orbis/CmonMU_map_bkg.tga.ckd/91487f0ac9d47e70605faba8e69f998d.ckd",
+      "expandCoachImageUrl": "/public/map/CmonMU/orbis/CmonMU_Cover_AlbumCoach.tga.ckd/9899de6a7dc1b0165f32acab593a4d1e.ckd",
+      "cover_smallImageUrl": "/public/map/CmonMU/orbis/CmonMU_Cover_Online.tga.ckd/ca689fc89f994e3d087af58aabd2f209.ckd",
+      "coverImageUrl": "/public/map/CmonMU/orbis/CmonMU_Cover_Generic.tga.ckd/2e47bcb2193f3b75cb5fdfd4c24a9541.ckd",
+      "coach1ImageUrl": "/public/map/CmonMU/orbis/CmonMU_Coach_1.tga.ckd/f4fa16c1c1d6fa058db5d40e694553f0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CmonMU/CmonMU_Coach_1_Phone.png/8ea9270122e25569c6f8185316f33e6f.png",
+    "phoneCoverImageUrl": "/public/map/CmonMU/CmonMU_Cover_Phone.jpg/d6b8c749f44af4396ed3604045b3d9a6.jpg",
+    "cover640ImageUrl": "/public/map/CmonMU/CmonMU_Cover_640.png/a508d5aff43699f2514f1699a25187b8.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "e4320b68bce4add75a2a67a43498e139",
+      "storageType": 0,
+      "url": "/public/map/CmonMU/nx/CmonMU_MAIN_SCENE_NX.zip/e4320b68bce4add75a2a67a43498e139.zip"
+    },
+    "pc": {
+      "md5": "bcb7a7824a511b5006edb9be1f57ffe7",
+      "storageType": 0,
+      "url": "/public/map/CmonMU/pc/CmonMU_MAIN_SCENE_PC.zip/bcb7a7824a511b5006edb9be1f57ffe7.zip"
+    },
+    "ps4": {
+      "md5": "31cd1ba509286f920af87fdbb35d7672",
+      "storageType": 0,
+      "url": "/public/map/CmonMU/orbis/CmonMU_MAIN_SCENE_ORBIS.zip/31cd1ba509286f920af87fdbb35d7672.zip"
+    }
+  },
+  "data": {
+    "mapName": "CmonMU",
+    "title": "C'mon",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Ke$ha",
+    "credits": "Written by Lukasz Gottwald, Benjamin Levin, Bonnie Leigh McKee, Henry Russell Walter, Kesha Sebert and Max Martin. Published by Kasz Money Publishing, Prescription Songs LLC, Lotzah Matzah Songs LLC, Dream Machine Corporation & MXM Music AB / Downtown DMP Songs (BMI) o/b/o Songs of Pulse Recording (BMI). Used courtesy of Kemosabe Records/RCA Records. By arrangement with Sony Music Entertainment. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#b900d8",
+    "songColor2A": "#00f3cd",
+    "songColor1B": "#380070",
+    "songColor2B": "#28005a",
+    "lyricsColor": "#fff109",
+    "LocaleID": 13572
+  },
+  "mapLength": 212.857146
+}

@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "96cb2de8a784bb720b6fb14d7be95b8d",
+      "storageType": 0,
+      "url": "/public/map/HotNCold/nx/HotNCold_MAIN_SCENE_NX.zip/96cb2de8a784bb720b6fb14d7be95b8d.zip"
+    },
+    "pc": {
+      "md5": "32f2b5824d8817c683756fb13f1d3443",
+      "storageType": 0,
+      "url": "/public/map/HotNCold/pc/HotNCold_MAIN_SCENE_PC.zip/32f2b5824d8817c683756fb13f1d3443.zip"
+    },
+    "ps4": {
+      "md5": "86a3ee911895bde3ff51ac162e280bce",
+      "storageType": 0,
+      "url": "/public/map/HotNCold/orbis/HotNCold_MAIN_SCENE_ORBIS.zip/86a3ee911895bde3ff51ac162e280bce.zip"
+    }
+  },
+  "data": {
+    "mapName": "HotNCold",
+    "title": "Hot N Cold (Chick Version)",
+    "originalJDVersion": 1,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Katy Perry",
+    "credits": "Written by Katy Perry, Max Martin and Lukasz Gottwald. © 2008 WB Music Corp. (ASCAP) / When I’m Rich You’ll Be My ***** (ASCAP) / Maratone AB and Kasz Money Publishing. Maratone AB and Kasz Money Publishing administered by Kobalt Music Publishing America, Inc. WB Music Corp. administers all rights on behalf of itself and When I’m Rich You’ll Be My *****. All rights reserved. Courtesy of Capitol Records. Under license from EMI & Television Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ec32b0",
+    "songColor2A": "#e566ff",
+    "songColor1B": "#810046",
+    "songColor2B": "#340080",
+    "lyricsColor": "#ff009a"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21818,
+        43636,
+        65453,
+        87270,
+        109088,
+        130905,
+        152724,
+        174542,
+        196359,
+        218177,
+        239995,
+        261811,
+        283629,
+        305447,
+        327266,
+        349083,
+        370901,
+        392719,
+        414536,
+        436353,
+        458171,
+        479988,
+        501807,
+        523625,
+        545442,
+        567260,
+        589078,
+        610894,
+        632712,
+        654530,
+        676349,
+        698166,
+        719984,
+        741802,
+        763618,
+        785436,
+        807254,
+        829071,
+        850890,
+        872708,
+        894525,
+        916343,
+        938160,
+        959977,
+        981795,
+        1003613,
+        1025432,
+        1047249,
+        1069067,
+        1090885,
+        1112701,
+        1134519,
+        1156337,
+        1178154,
+        1199973,
+        1221791,
+        1243608,
+        1265426,
+        1287243,
+        1309060,
+        1330878,
+        1352696,
+        1374515,
+        1396332,
+        1418150,
+        1439968
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 483,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 67,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HotNCold/HotNCold_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HotNCold/nx/HotNCold_banner_bkg.tga.ckd/e95bbf18eb93368c9d4d838fc6600e7d.ckd",
+      "map_bkgImageUrl": "/public/map/HotNCold/nx/HotNCold_map_bkg.tga.ckd/44cbda4388ee75da9d0c49798638b4a9.ckd",
+      "expandCoachImageUrl": "/public/map/HotNCold/nx/HotNCold_Cover_AlbumCoach.tga.ckd/13738d80e254f00a35818a8f935ec776.ckd",
+      "cover_smallImageUrl": "/public/map/HotNCold/nx/HotNCold_Cover_Online.tga.ckd/ae935bc2f8a9956c262f676216b9569e.ckd",
+      "coach1ImageUrl": "/public/map/HotNCold/nx/HotNCold_Coach_1.tga.ckd/cbada955b18fcfe7e7132cc1f283ba7d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HotNCold/pc/HotNCold_banner_bkg.tga.ckd/e2b70c8d290fa89b3eaaa47124eb3c28.ckd",
+      "map_bkgImageUrl": "/public/map/HotNCold/pc/HotNCold_map_bkg.tga.ckd/29ba14aa996344074270b2c6884c9350.ckd",
+      "expandCoachImageUrl": "/public/map/HotNCold/pc/HotNCold_Cover_AlbumCoach.tga.ckd/b6272966bdcf8bad63fa530ae63f53d4.ckd",
+      "cover_smallImageUrl": "/public/map/HotNCold/pc/HotNCold_Cover_Online.tga.ckd/7749357dd80c9655a6d28a8977ab8f90.ckd",
+      "coach1ImageUrl": "/public/map/HotNCold/pc/HotNCold_Coach_1.tga.ckd/ffc543bdb70d10c64150f9df4513b6fd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HotNCold/orbis/HotNCold_banner_bkg.tga.ckd/e2b70c8d290fa89b3eaaa47124eb3c28.ckd",
+      "map_bkgImageUrl": "/public/map/HotNCold/orbis/HotNCold_map_bkg.tga.ckd/29ba14aa996344074270b2c6884c9350.ckd",
+      "expandCoachImageUrl": "/public/map/HotNCold/orbis/HotNCold_Cover_AlbumCoach.tga.ckd/b6272966bdcf8bad63fa530ae63f53d4.ckd",
+      "cover_smallImageUrl": "/public/map/HotNCold/orbis/HotNCold_Cover_Online.tga.ckd/7749357dd80c9655a6d28a8977ab8f90.ckd",
+      "coach1ImageUrl": "/public/map/HotNCold/orbis/HotNCold_Coach_1.tga.ckd/ffc543bdb70d10c64150f9df4513b6fd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HotNCold/HotNCold_Coach_1_Phone.png/3e4c2108f9e4d9e8b60f32559f90a0b7.png",
+    "phoneCoverImageUrl": "/public/map/HotNCold/HotNCold_Cover_Phone.jpg/d48fddc72c33ce53af33627f3038c48b.jpg",
+    "cover640ImageUrl": "/public/map/HotNCold/HotNCold_Cover_640.png/1bf07da33898f363f800754b1d74f4a0.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HotNCold/HotNCold.ogg": "/private/map/HotNCold/HotNCold.ogg/66693914131c005855cc285f176b168a.ogg",
+    "jmcs://jd-contents/HotNCold/HotNCold_AudioPreview.ogg": "/public/map/HotNCold/HotNCold_AudioPreview.ogg/02596b33b84ef5fa8a6d9f0143fbccb6.ogg",
+    "jmcs://jd-contents/HotNCold/HotNCold_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HotNCold/HotNCold_MapPreviewNoSoundCrop_LOW.vp8.webm/e247c260bba85150a5cf15b2df90b56f.webm",
+    "jmcs://jd-contents/HotNCold/HotNCold_HIGH.webm": "/private/map/HotNCold/HotNCold_HIGH.webm/494e2d4225c9f584a32abb0b815daa90.webm",
+    "jmcs://jd-contents/HotNCold/HotNCold_LOW.webm": "/private/map/HotNCold/HotNCold_LOW.webm/635067f306b398398bffd18be1139824.webm",
+    "jmcs://jd-contents/HotNCold/HotNCold_MID.webm": "/private/map/HotNCold/HotNCold_MID.webm/f4761de575f6cdd5c498689d32d4731e.webm",
+    "jmcs://jd-contents/HotNCold/HotNCold_ULTRA.hd.webm": "/private/map/HotNCold/HotNCold_ULTRA.hd.webm/f85c0f098aa72453e9b4649b93afb08b.webm",
+    "jmcs://jd-contents/HotNCold/HotNCold_ULTRA.webm": "/private/map/HotNCold/HotNCold_ULTRA.webm/64dec5cceeec59e9643e0eeee6d831be.webm",
+    "jmcs://jd-contents/HotNCold/HotNCold_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HotNCold/HotNCold_MapPreviewNoSoundCrop_MID.vp8.webm/1bb11db2828667b642512aa617435eb0.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496120\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HotNCold/HotNCold_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"981827\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HotNCold/HotNCold_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 219.977417
+}

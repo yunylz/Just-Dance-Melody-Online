@@ -1,0 +1,164 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "392a938914dec9767998d6209544793b",
+      "storageType": 0,
+      "url": "/public/map/JDCPeiPlay/nx/JDCPeiPlay_MAIN_SCENE_NX.zip/392a938914dec9767998d6209544793b.zip"
+    },
+    "pc": {
+      "md5": "a619ce87f44b406082f344cbfb736f01",
+      "storageType": 0,
+      "url": "/public/map/JDCPeiPlay/pc/JDCPeiPlay_MAIN_SCENE_PC.zip/a619ce87f44b406082f344cbfb736f01.zip"
+    },
+    "ps4": {
+      "md5": "71e5d61fb0a2a30d43d5a6f00b09dfcf",
+      "storageType": 0,
+      "url": "/public/map/JDCPeiPlay/orbis/JDCPeiPlay_MAIN_SCENE_ORBIS.zip/71e5d61fb0a2a30d43d5a6f00b09dfcf.zip"
+    }
+  },
+  "data": {
+    "mapName": "JDCPeiPlay",
+    "title": "Play 《我呸》",
+    "originalJDVersion": 1100,
+    "tags": [
+      "subscribedSong",
+      "JustDanceAsia",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Jolin Tsai (蔡依林)",
+    "credits": "planedec50 & louis",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f020f9",
+    "songColor2A": "#ffcd51",
+    "songColor1B": "#7e1382",
+    "songColor2B": "#674617",
+    "lyricsColor": "#ffcd51"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 325,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JDCPeiPlay/nx/JDCPeiPlay_banner_bkg.tga.ckd/7012bbeb3c0c18dfa06f0be651002263.ckd",
+      "map_bkgImageUrl": "/public/map/JDCPeiPlay/nx/JDCPeiPlay_map_bkg.tga.ckd/c0198dcf76a92fde1f201dc070ebf015.ckd",
+      "expandCoachImageUrl": "/public/map/JDCPeiPlay/nx/JDCPeiPlay_Cover_AlbumCoach.tga.ckd/ff2860ff4db4942dee9aac4f7f3cfbeb.ckd",
+      "cover_smallImageUrl": "/public/map/JDCPeiPlay/nx/JDCPeiPlay_Cover_Online.tga.ckd/4bf17b2fe83212f03d4664bbe3654417.ckd",
+      "coach1ImageUrl": "/public/map/JDCPeiPlay/nx/JDCPeiPlay_Coach_1.tga.ckd/0cf884b6be8d6582e66202087c3421aa.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JDCPeiPlay/pc/JDCPeiPlay_banner_bkg.tga.ckd/2685e0f24828e8b9e5da36c405404989.ckd",
+      "map_bkgImageUrl": "/public/map/JDCPeiPlay/pc/JDCPeiPlay_map_bkg.tga.ckd/d2b697ce949c1a90c02e4aa8d5ef761f.ckd",
+      "expandCoachImageUrl": "/public/map/JDCPeiPlay/pc/JDCPeiPlay_Cover_AlbumCoach.tga.ckd/e0c18b49bcf119ae8865ebe09e825c00.ckd",
+      "cover_smallImageUrl": "/public/map/JDCPeiPlay/pc/JDCPeiPlay_Cover_Online.tga.ckd/09884471f323a582e945e173420ae8f1.ckd",
+      "coach1ImageUrl": "/public/map/JDCPeiPlay/pc/JDCPeiPlay_Coach_1.tga.ckd/8ec14632d3d6355eea35d9a20d3f4337.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JDCPeiPlay/orbis/JDCPeiPlay_banner_bkg.tga.ckd/2685e0f24828e8b9e5da36c405404989.ckd",
+      "map_bkgImageUrl": "/public/map/JDCPeiPlay/orbis/JDCPeiPlay_map_bkg.tga.ckd/d2b697ce949c1a90c02e4aa8d5ef761f.ckd",
+      "expandCoachImageUrl": "/public/map/JDCPeiPlay/orbis/JDCPeiPlay_Cover_AlbumCoach.tga.ckd/e0c18b49bcf119ae8865ebe09e825c00.ckd",
+      "cover_smallImageUrl": "/public/map/JDCPeiPlay/orbis/JDCPeiPlay_Cover_Online.tga.ckd/09884471f323a582e945e173420ae8f1.ckd",
+      "coach1ImageUrl": "/public/map/JDCPeiPlay/orbis/JDCPeiPlay_Coach_1.tga.ckd/8ec14632d3d6355eea35d9a20d3f4337.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JDCPeiPlay/JDCPeiPlay_Coach_1_Phone.png/830c25fbf34a2fda79592135e9cd262a.png",
+    "phoneCoverImageUrl": "/public/map/JDCPeiPlay/JDCPeiPlay_Cover_Phone.jpg/b1dddc992f3fc087500645c815b0f634.jpg",
+    "cover640ImageUrl": "/public/map/JDCPeiPlay/JDCPeiPlay_Cover_640.png/ef68ccdc216bf7ddb8a1b6e4cf9ed4ef.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay.ogg": "/private/map/JDCPeiPlay/JDCPeiPlay.ogg/db1ac3d41fae1d3f381bd2d5699f4209.ogg",
+    "jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay_AudioPreview.ogg": "/public/map/JDCPeiPlay/JDCPeiPlay_AudioPreview.ogg/46509253f4940bc136ac55a6e46707e2.ogg",
+    "jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay_HIGH.webm": "/private/map/JDCPeiPlay/JDCPeiPlay_HIGH.webm/3e05f4c16498df06f2d97b2c69651764.webm",
+    "jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay_LOW.webm": "/private/map/JDCPeiPlay/JDCPeiPlay_LOW.webm/270e18ad668a2548a093b2e55d825acd.webm",
+    "jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay_MID.webm": "/private/map/JDCPeiPlay/JDCPeiPlay_MID.webm/bace075bca1a4a8503c4c58efe9fd705.webm",
+    "jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay_ULTRA.hd.webm": "/private/map/JDCPeiPlay/JDCPeiPlay_ULTRA.hd.webm/44e7c4ac3147e1cf4e6114253fe9f69e.webm",
+    "jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay_ULTRA.webm": "/private/map/JDCPeiPlay/JDCPeiPlay_ULTRA.webm/e8963dd925949db86f717aca1936ffe9.webm",
+    "jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JDCPeiPlay/JDCPeiPlay_MapPreviewNoSoundCrop_LOW.vp8.webm/5aa812cb2188703c742b7cd9400935c8.webm",
+    "jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JDCPeiPlay/JDCPeiPlay_MapPreviewNoSoundCrop_MID.vp8.webm/699c94a66935a1e77dc02f43c098cbd6.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"524867\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\n\t\t\t\t\t<Initialization range=\"0-599\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1474793\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCPeiPlay/JDCPeiPlay_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"600-1090\">\n\t\t\t\t\t<Initialization range=\"0-600\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 200.875521
+}

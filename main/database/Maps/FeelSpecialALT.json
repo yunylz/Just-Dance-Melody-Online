@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e17d8b4133bf5d178e85dbb0c73fcc65",
+      "storageType": 0,
+      "url": "/public/map/FeelSpecialALT/nx/FeelSpecialALT_MAIN_SCENE_NX.zip/e17d8b4133bf5d178e85dbb0c73fcc65.zip"
+    },
+    "pc": {
+      "md5": "9f9b0fdb17dff444cb3b39b563a74054",
+      "storageType": 0,
+      "url": "/public/map/FeelSpecialALT/pc/FeelSpecialALT_MAIN_SCENE_PC.zip/9f9b0fdb17dff444cb3b39b563a74054.zip"
+    },
+    "ps4": {
+      "md5": "6cace280b47eb701add08e1d301cde1e",
+      "storageType": 0,
+      "url": "/public/map/FeelSpecialALT/orbis/FeelSpecialALT_MAIN_SCENE_ORBIS.zip/6cace280b47eb701add08e1d301cde1e.zip"
+    }
+  },
+  "data": {
+    "mapName": "FeelSpecialALT",
+    "title": "Feel Special",
+    "originalJDVersion": 2021,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "TWICE",
+    "credits": "Written by J.Y. Park “The Asian Soul”, Woo Min Lee “collapsedone”, Ollipop and Hayley Michelle Aitken. Published by Universal Music Publishing Canada on behalf of Kennel AB, The and Universal Music Publishing AB / JYP Publishing (KOMCA), The Kennel AB. / JYP Publishing (KOMCA). All rights reserved. Used with permission. Courtesy of JYP Entertainment.",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#f41978",
+    "LocaleID": 12624
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22326,
+        44651,
+        66977,
+        89302,
+        111628,
+        133953,
+        156279,
+        178605,
+        200930,
+        223256,
+        245581,
+        267907,
+        290233,
+        312558,
+        334884,
+        357209,
+        379535,
+        401860,
+        424186,
+        446512,
+        468837,
+        491163,
+        513488,
+        535814,
+        558140,
+        580465,
+        602791,
+        625116,
+        647442,
+        669767,
+        692093,
+        714419,
+        736744,
+        759070,
+        781395,
+        803721,
+        826047,
+        848372,
+        870698,
+        893023,
+        915349,
+        937674,
+        960000,
+        982326,
+        1004651,
+        1026977,
+        1049302,
+        1071628,
+        1093953,
+        1116279,
+        1138605,
+        1160930,
+        1183256,
+        1205581,
+        1227907,
+        1250233,
+        1272558,
+        1294884,
+        1317209,
+        1339535,
+        1361860,
+        1384186,
+        1406512,
+        1428837,
+        1451163,
+        1473488
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 440,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/FeelSpecialALT/nx/FeelSpecialALT_banner_bkg.tga.ckd/1f4e8304e9836964a8c7947ef70025f6.ckd",
+      "map_bkgImageUrl": "/public/map/FeelSpecialALT/nx/FeelSpecialALT_map_bkg.tga.ckd/66fa6337f3aed9a5e574a6c11af53256.ckd",
+      "expandCoachImageUrl": "/public/map/FeelSpecialALT/nx/FeelSpecialALT_Cover_AlbumCoach.tga.ckd/36e08e8b63ddd853ce02dcd74cf9359c.ckd",
+      "cover_smallImageUrl": "/public/map/FeelSpecialALT/nx/FeelSpecialALT_Cover_Online.tga.ckd/96fa49af0b337bd7f55c57bf0daaebca.ckd",
+      "coverImageUrl": "/public/map/FeelSpecialALT/nx/FeelSpecialALT_Cover_Generic.tga.ckd/63516216130ce8617f9c3bb907bf47df.ckd",
+      "coach1ImageUrl": "/public/map/FeelSpecialALT/nx/FeelSpecialALT_Coach_1.tga.ckd/1e2608cf7d5ef62094860193ed620342.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/FeelSpecialALT/pc/FeelSpecialALT_banner_bkg.tga.ckd/647f62d84ce71eacf2b183efa1ed5153.ckd",
+      "map_bkgImageUrl": "/public/map/FeelSpecialALT/pc/FeelSpecialALT_map_bkg.tga.ckd/b29501d48557d05944e8c63d7f43f153.ckd",
+      "expandCoachImageUrl": "/public/map/FeelSpecialALT/pc/FeelSpecialALT_Cover_AlbumCoach.tga.ckd/e22b9df4de1b370327a01d232d2bcec6.ckd",
+      "cover_smallImageUrl": "/public/map/FeelSpecialALT/pc/FeelSpecialALT_Cover_Online.tga.ckd/d5ae375adef47f3efe5fb545b00328df.ckd",
+      "coverImageUrl": "/public/map/FeelSpecialALT/pc/FeelSpecialALT_Cover_Generic.tga.ckd/979d3511cd8e93b3092635038e0c35ab.ckd",
+      "coach1ImageUrl": "/public/map/FeelSpecialALT/pc/FeelSpecialALT_Coach_1.tga.ckd/826d7a19517a5a01c726f65a9a630a9a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/FeelSpecialALT/orbis/FeelSpecialALT_banner_bkg.tga.ckd/647f62d84ce71eacf2b183efa1ed5153.ckd",
+      "map_bkgImageUrl": "/public/map/FeelSpecialALT/orbis/FeelSpecialALT_map_bkg.tga.ckd/b29501d48557d05944e8c63d7f43f153.ckd",
+      "expandCoachImageUrl": "/public/map/FeelSpecialALT/orbis/FeelSpecialALT_Cover_AlbumCoach.tga.ckd/e22b9df4de1b370327a01d232d2bcec6.ckd",
+      "cover_smallImageUrl": "/public/map/FeelSpecialALT/orbis/FeelSpecialALT_Cover_Online.tga.ckd/d5ae375adef47f3efe5fb545b00328df.ckd",
+      "coverImageUrl": "/public/map/FeelSpecialALT/orbis/FeelSpecialALT_Cover_Generic.tga.ckd/979d3511cd8e93b3092635038e0c35ab.ckd",
+      "coach1ImageUrl": "/public/map/FeelSpecialALT/orbis/FeelSpecialALT_Coach_1.tga.ckd/826d7a19517a5a01c726f65a9a630a9a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/FeelSpecialALT/FeelSpecialALT_Coach_1_Phone.png/eb86d0474b09e6c07418dd0705d75c98.png",
+    "phoneCoverImageUrl": "/public/map/FeelSpecialALT/FeelSpecialALT_Cover_Phone.jpg/af5d83ca95fb5027d46265fda5fca0c0.jpg",
+    "cover640ImageUrl": "/public/map/FeelSpecialALT/FeelSpecialALT_Cover_640.png/2c1b4eab204242389cf36e02761e3d6a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT.ogg": "/private/map/FeelSpecialALT/FeelSpecialALT.ogg/0942915bb6efbbf2e68d0b48edf5bfa9.ogg",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_AudioPreview.ogg": "/public/map/FeelSpecialALT/FeelSpecialALT_AudioPreview.ogg/d91bb82dd5e8723cbb0d74a9da72c520.ogg",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp8.webm/180e63e7393555f885914dce0e3353cd.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_HIGH.webm": "/private/map/FeelSpecialALT/FeelSpecialALT_HIGH.webm/777b5d897f1607cc4bfaa77c2fa2cdde.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_LOW.webm": "/private/map/FeelSpecialALT/FeelSpecialALT_LOW.webm/8579d2d32562705ce6dc93747885c3c7.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MID.webm": "/private/map/FeelSpecialALT/FeelSpecialALT_MID.webm/80ea13356a8601d89199ef08a106a469.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_ULTRA.hd.webm": "/private/map/FeelSpecialALT/FeelSpecialALT_ULTRA.hd.webm/29bfdb8477ea860187cb535398f3444e.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_ULTRA.webm": "/private/map/FeelSpecialALT/FeelSpecialALT_ULTRA.webm/f7443bb52369574756863ed0aaa78c6d.webm",
+    "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp8.webm/24618661f2232996c07c552beb20ad97.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496927\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"654-1143\">\n\t\t\t\t\t<Initialization range=\"0-654\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1479754\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\n\t\t\t\t\t<Initialization range=\"0-655\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 206.511563
+}

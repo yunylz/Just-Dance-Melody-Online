@@ -1,0 +1,167 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "b6751693ca9389b35a38093132ba4a19",
+      "storageType": 0,
+      "url": "/public/map/ElAlmaMU/nx/ElAlmaMU_MAIN_SCENE_NX.zip/b6751693ca9389b35a38093132ba4a19.zip"
+    },
+    "pc": {
+      "md5": "c9fb31a6801419f9dee94e3359d1eebc",
+      "storageType": 0,
+      "url": "/public/map/ElAlmaMU/pc/ElAlmaMU_MAIN_SCENE_PC.zip/c9fb31a6801419f9dee94e3359d1eebc.zip"
+    },
+    "ps4": {
+      "md5": "a93b6372a78fb322c5f297803bb0f500",
+      "storageType": 0,
+      "url": "/public/map/ElAlmaMU/orbis/ElAlmaMU_MAIN_SCENE_ORBIS.zip/a93b6372a78fb322c5f297803bb0f500.zip"
+    }
+  },
+  "data": {
+    "mapName": "ElAlmaMU",
+    "title": "El Alma Que Te Trajo",
+    "originalJDVersion": 3000,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Safety Trance & Arca",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#00d4df",
+    "songColor2A": "#ff47ef",
+    "songColor1B": "#001294",
+    "songColor2B": "#890046",
+    "lyricsColor": "#fe7f07",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29088,
+        58176,
+        87264,
+        116352,
+        145440,
+        174528,
+        203616,
+        232704,
+        261792,
+        290880,
+        319968,
+        349056,
+        378144,
+        407232,
+        436320,
+        465408,
+        494544,
+        523632,
+        552720,
+        581808,
+        610896,
+        639984,
+        669072,
+        698160,
+        727248,
+        756336,
+        785424,
+        814512,
+        843600,
+        872688,
+        901776,
+        930864,
+        960000,
+        989088,
+        1018176,
+        1047264,
+        1076352,
+        1105440,
+        1134528,
+        1163616,
+        1192704,
+        1221792,
+        1250880,
+        1279968,
+        1309056,
+        1338144,
+        1367232,
+        1396320,
+        1425408,
+        1454544,
+        1483632,
+        1512720
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 233,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ElAlmaMU/ElAlmaMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ElAlmaMU/nx/ElAlmaMU_banner_bkg.tga.ckd/7f384a6e80990d27960aa8155c788407.ckd",
+      "map_bkgImageUrl": "/public/map/ElAlmaMU/nx/ElAlmaMU_map_bkg.tga.ckd/073bf977da713f6606ba95c47f3030ed.ckd",
+      "expandCoachImageUrl": "/public/map/ElAlmaMU/nx/ElAlmaMU_Cover_AlbumCoach.tga.ckd/05c9f87204d42204aa0112cf478872f6.ckd",
+      "cover_smallImageUrl": "/public/map/ElAlmaMU/nx/ElAlmaMU_Cover_Online.tga.ckd/e1b75cab9021cb4a419134a8f170f4d5.ckd",
+      "coverImageUrl": "/public/map/ElAlmaMU/nx/ElAlmaMU_Cover_Generic.tga.ckd/9ec29cbde7a7b4da05e1db7b06497e56.ckd",
+      "coach1ImageUrl": "/public/map/ElAlmaMU/nx/ElAlmaMU_Coach_1.tga.ckd/c0c367c7ee472dd5120d2aef6e33b477.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ElAlmaMU/pc/ElAlmaMU_banner_bkg.tga.ckd/fccf7771bafccfbd0ac013adaae46c57.ckd",
+      "map_bkgImageUrl": "/public/map/ElAlmaMU/pc/ElAlmaMU_map_bkg.tga.ckd/0303cc9d4753ece3722ac1d61e6fdde2.ckd",
+      "expandCoachImageUrl": "/public/map/ElAlmaMU/pc/ElAlmaMU_Cover_AlbumCoach.tga.ckd/cf33db69b49b6a32ea8031b04dedf732.ckd",
+      "cover_smallImageUrl": "/public/map/ElAlmaMU/pc/ElAlmaMU_Cover_Online.tga.ckd/55d2d7a256e824c2d5e79e8055059cc0.ckd",
+      "coverImageUrl": "/public/map/ElAlmaMU/pc/ElAlmaMU_Cover_Generic.tga.ckd/606425214208fd520cf3ed77aa8026ac.ckd",
+      "coach1ImageUrl": "/public/map/ElAlmaMU/pc/ElAlmaMU_Coach_1.tga.ckd/f801dac4f76e97067b11706e5ab6673e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ElAlmaMU/orbis/ElAlmaMU_banner_bkg.tga.ckd/fccf7771bafccfbd0ac013adaae46c57.ckd",
+      "map_bkgImageUrl": "/public/map/ElAlmaMU/orbis/ElAlmaMU_map_bkg.tga.ckd/0303cc9d4753ece3722ac1d61e6fdde2.ckd",
+      "expandCoachImageUrl": "/public/map/ElAlmaMU/orbis/ElAlmaMU_Cover_AlbumCoach.tga.ckd/cf33db69b49b6a32ea8031b04dedf732.ckd",
+      "cover_smallImageUrl": "/public/map/ElAlmaMU/orbis/ElAlmaMU_Cover_Online.tga.ckd/55d2d7a256e824c2d5e79e8055059cc0.ckd",
+      "coverImageUrl": "/public/map/ElAlmaMU/orbis/ElAlmaMU_Cover_Generic.tga.ckd/606425214208fd520cf3ed77aa8026ac.ckd",
+      "coach1ImageUrl": "/public/map/ElAlmaMU/orbis/ElAlmaMU_Coach_1.tga.ckd/f801dac4f76e97067b11706e5ab6673e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ElAlmaMU/ElAlmaMU_Coach_1_Phone.png/d111ef8355d485c1f5b106eb2429eb29.png",
+    "phoneCoverImageUrl": "/public/map/ElAlmaMU/ElAlmaMU_Cover_Phone.jpg/8fe780a3f478eeaf57ea423adb3bab67.jpg",
+    "cover640ImageUrl": "/public/map/ElAlmaMU/ElAlmaMU_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ElAlmaMU/ElAlmaMU.ogg": "/private/map/ElAlmaMU/ElAlmaMU.ogg/d1e015d443a0f04dba04c9baaea93729.ogg",
+    "jmcs://jd-contents/ElAlmaMU/ElAlmaMU_AudioPreview.ogg": "/public/map/ElAlmaMU/ElAlmaMU_AudioPreview.ogg/2a13973ec56d24126f0e2aa9a11f7b0c.ogg",
+    "jmcs://jd-contents/ElAlmaMU/ElAlmaMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ElAlmaMU/ElAlmaMU_MapPreviewNoSoundCrop_LOW.vp8.webm/796b841d033f06e23c72d65b586de3fb.webm",
+    "jmcs://jd-contents/ElAlmaMU/ElAlmaMU_HIGH.webm": "/private/map/ElAlmaMU/ElAlmaMU_HIGH.webm/50870a4839d9f5daeccb4970449f32f4.webm",
+    "jmcs://jd-contents/ElAlmaMU/ElAlmaMU_LOW.webm": "/private/map/ElAlmaMU/ElAlmaMU_LOW.webm/75068d271d3b8009aad915ecc00f0c69.webm",
+    "jmcs://jd-contents/ElAlmaMU/ElAlmaMU_MID.webm": "/private/map/ElAlmaMU/ElAlmaMU_MID.webm/6b46e79d202edf74216633cbf7309bcb.webm",
+    "jmcs://jd-contents/ElAlmaMU/ElAlmaMU_ULTRA.hd.webm": "/private/map/ElAlmaMU/ElAlmaMU_ULTRA.hd.webm/b06ade1f632df2d0bfe9858660b7e0ca.webm",
+    "jmcs://jd-contents/ElAlmaMU/ElAlmaMU_ULTRA.webm": "/private/map/ElAlmaMU/ElAlmaMU_ULTRA.webm/fdeae03e5e3d89363a95863440197101.webm",
+    "jmcs://jd-contents/ElAlmaMU/ElAlmaMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ElAlmaMU/ElAlmaMU_MapPreviewNoSoundCrop_MID.vp8.webm/6932c04c539fa9696b5453f0d0a41deb.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"518186\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ElAlmaMU/ElAlmaMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1486298\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ElAlmaMU/ElAlmaMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 145.458958
+}

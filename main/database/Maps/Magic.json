@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7549b9592e173ce45bb305d79d8111f6",
+      "storageType": 0,
+      "url": "/public/map/Magic/nx/Magic_MAIN_SCENE_NX.zip/7549b9592e173ce45bb305d79d8111f6.zip"
+    },
+    "pc": {
+      "md5": "42c60e4eb8c86540423b1b52876fb32b",
+      "storageType": 0,
+      "url": "/public/map/Magic/pc/Magic_MAIN_SCENE_PC.zip/42c60e4eb8c86540423b1b52876fb32b.zip"
+    },
+    "ps4": {
+      "md5": "ddc500c736f07c0bef8667934a9de04f",
+      "storageType": 0,
+      "url": "/public/map/Magic/orbis/Magic_MAIN_SCENE_ORBIS.zip/ddc500c736f07c0bef8667934a9de04f.zip"
+    }
+  },
+  "data": {
+    "mapName": "Magic",
+    "title": "Magic",
+    "originalJDVersion": 2023,
+    "tags": [
+      "subscribedSong",
+      "Easy",
+      "Solo"
+    ],
+    "artist": "Kylie Minogue",
+    "credits": "Written by Peter Wallevik, Daniel Heloey Davidsen, Kylie Ann Minogue, Teemu William Brunila, Michelle Buzz. Published by Wallevik Music AB, Songs of Kobalt Music Publishing. Admin by Songs of Kobalt Music Publishing / WC Music Corp. and Buzz Recordings. All rights on behalf of itself and Buzz Recordings administered by WC Music Corp. / Sony/ATV Music Publishing (UK) Limited / Mushroom Music Pty Ltd. Courtesy of Kylie Minogue/Darenote Limited under exclusive license to BMG Rights Management (UK) Limited. By arrangement with BMG Rights Management (US) LLC.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#dddaff",
+    "songColor2A": "#b3ecff",
+    "songColor1B": "#423ba8",
+    "songColor2B": "#6676bd",
+    "lyricsColor": "#f9c825"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27170,
+        54340,
+        81509,
+        108679,
+        135849,
+        163019,
+        190189,
+        217358,
+        244528,
+        271698,
+        298868,
+        326038,
+        353208,
+        380377,
+        407547,
+        434717,
+        461887,
+        489057,
+        516226,
+        543396,
+        570566,
+        597736,
+        624906,
+        652075,
+        679245,
+        706415,
+        733585,
+        760755,
+        787925,
+        815094,
+        842264,
+        869434,
+        896604,
+        923774,
+        950943,
+        978113,
+        1005283,
+        1032453,
+        1059623,
+        1086792,
+        1113962,
+        1141132,
+        1168302,
+        1195472,
+        1222642,
+        1249811,
+        1276981,
+        1304151,
+        1331321,
+        1358491,
+        1385660,
+        1412830,
+        1440000,
+        1467170,
+        1494340
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -21,
+      "endBeat": 438,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Magic/Magic_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Magic/nx/Magic_banner_bkg.tga.ckd/e05d91cf89fd21d75f6e76bf341822da.ckd",
+      "map_bkgImageUrl": "/public/map/Magic/nx/Magic_map_bkg.tga.ckd/1db1032ece78525250395c61b66caaea.ckd",
+      "expandCoachImageUrl": "/public/map/Magic/nx/Magic_Cover_AlbumCoach.tga.ckd/af149afa8156154396effa5351ff8e32.ckd",
+      "cover_smallImageUrl": "/public/map/Magic/nx/Magic_Cover_Online.tga.ckd/4ce4358329225d6117d49adb6900635d.ckd",
+      "coverImageUrl": "/public/map/Magic/nx/Magic_Cover_Generic.tga.ckd/b4b2e8c82e859626dc00db09c7579c59.ckd",
+      "coach1ImageUrl": "/public/map/Magic/nx/Magic_Coach_1.tga.ckd/950a4c9972868b9cdb4264986ffdd430.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Magic/pc/Magic_banner_bkg.tga.ckd/39c4604822542af2c8f7eacbbdc0beb4.ckd",
+      "map_bkgImageUrl": "/public/map/Magic/pc/Magic_map_bkg.tga.ckd/c53969c62af658a88a8467bf05a8ffb4.ckd",
+      "expandCoachImageUrl": "/public/map/Magic/pc/Magic_Cover_AlbumCoach.tga.ckd/2effea41805a791f69828ca240e03630.ckd",
+      "cover_smallImageUrl": "/public/map/Magic/pc/Magic_Cover_Online.tga.ckd/7821b95d4bafd1bff8049c45e54c3a55.ckd",
+      "coverImageUrl": "/public/map/Magic/pc/Magic_Cover_Generic.tga.ckd/fa3ee77276b88dffc0a54f40acac3962.ckd",
+      "coach1ImageUrl": "/public/map/Magic/pc/Magic_Coach_1.tga.ckd/3df927d31ae98701c3e6bd9f9024be18.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Magic/orbis/Magic_banner_bkg.tga.ckd/39c4604822542af2c8f7eacbbdc0beb4.ckd",
+      "map_bkgImageUrl": "/public/map/Magic/orbis/Magic_map_bkg.tga.ckd/c53969c62af658a88a8467bf05a8ffb4.ckd",
+      "expandCoachImageUrl": "/public/map/Magic/orbis/Magic_Cover_AlbumCoach.tga.ckd/2effea41805a791f69828ca240e03630.ckd",
+      "cover_smallImageUrl": "/public/map/Magic/orbis/Magic_Cover_Online.tga.ckd/7821b95d4bafd1bff8049c45e54c3a55.ckd",
+      "coverImageUrl": "/public/map/Magic/orbis/Magic_Cover_Generic.tga.ckd/fa3ee77276b88dffc0a54f40acac3962.ckd",
+      "coach1ImageUrl": "/public/map/Magic/orbis/Magic_Coach_1.tga.ckd/3df927d31ae98701c3e6bd9f9024be18.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Magic/Magic_Coach_1_Phone.png/d68ae470a63db0dc37acca367f7b49b9.png",
+    "phoneCoverImageUrl": "/public/map/Magic/Magic_Cover_Phone.jpg/927c89302c34d1c69a9e24196b08b9fd.jpg",
+    "cover640ImageUrl": "/public/map/Magic/Magic_Cover_640.png/fae2706cc089dd216af1ee80d2744f14.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Magic/Magic.ogg": "/private/map/Magic/Magic.ogg/33dd0fc0713e281a4cb3768d3f611509.ogg",
+    "jmcs://jd-contents/Magic/Magic_AudioPreview.ogg": "/public/map/Magic/Magic_AudioPreview.ogg/1a20972d690e35e59fc5fea59b96fa61.ogg",
+    "jmcs://jd-contents/Magic/Magic_HIGH.webm": "/private/map/Magic/Magic_HIGH.webm/d014672de099197b21ff3cacba2a5e20.webm",
+    "jmcs://jd-contents/Magic/Magic_LOW.webm": "/private/map/Magic/Magic_LOW.webm/dcc23c025a593595e0f88cebdf8e5d6f.webm",
+    "jmcs://jd-contents/Magic/Magic_MID.webm": "/private/map/Magic/Magic_MID.webm/9346dab9ee20b6c272e7111130b434f2.webm",
+    "jmcs://jd-contents/Magic/Magic_ULTRA.hd.webm": "/private/map/Magic/Magic_ULTRA.hd.webm/c4b6f94f507e2a7d913356f6ab419bcc.webm",
+    "jmcs://jd-contents/Magic/Magic_ULTRA.webm": "/private/map/Magic/Magic_ULTRA.webm/075009de082bccdb91bdfddedb32fd29.webm",
+    "jmcs://jd-contents/Magic/Magic_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Magic/Magic_MapPreviewNoSoundCrop_LOW.vp8.webm/51f902a5058fe61e4f69dc8dcc6c0ac9.webm",
+    "jmcs://jd-contents/Magic/Magic_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Magic/Magic_MapPreviewNoSoundCrop_MID.vp8.webm/27d61d6ca2eda02a32f28a8bced20344.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"514356\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Magic/Magic_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\n\t\t\t\t\t<Initialization range=\"0-655\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1505958\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Magic/Magic_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"656-1146\">\n\t\t\t\t\t<Initialization range=\"0-656\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 259.817479
+}

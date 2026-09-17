@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "a55b18c5a3e48524d28b4624feb6f172",
+      "storageType": 0,
+      "url": "/public/map/GimmeGimme/nx/GimmeGimme_MAIN_SCENE_NX.zip/a55b18c5a3e48524d28b4624feb6f172.zip"
+    },
+    "pc": {
+      "md5": "7afc322f81d8e81777bfdbe99e49e118",
+      "storageType": 0,
+      "url": "/public/map/GimmeGimme/pc/GimmeGimme_MAIN_SCENE_PC.zip/7afc322f81d8e81777bfdbe99e49e118.zip"
+    },
+    "ps4": {
+      "md5": "99e8a44390bd021e85822b80bc8fdd96",
+      "storageType": 0,
+      "url": "/public/map/GimmeGimme/orbis/GimmeGimme_MAIN_SCENE_ORBIS.zip/99e8a44390bd021e85822b80bc8fdd96.zip"
+    }
+  },
+  "data": {
+    "mapName": "GimmeGimme",
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "originalJDVersion": 2014,
+    "tags": [
+      "intense",
+      "main",
+      "forcerumble"
+    ],
+    "artist": "ABBA",
+    "credits": "Written by Benny Goran Bror Andersson and Bjorn Ulvaeus. Published by EMI Waterford Music, Inc. (ASCAP) and Union Songs AB (STIM). All Rights for the U.S.A. and Canada Controlled and Administered by EMI. Waterford Music, Inc. c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) / Universal Music Publishing Group a division of Universal Music Canada Inc. All Rights Reserved. International Copyright Secured. Used by Permission. Courtesy of Polydor Limited under license from Universal Music Enterprises All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#6600e1",
+    "songColor2A": "#e2a011",
+    "songColor1B": "#050049",
+    "songColor2B": "#811e1e",
+    "lyricsColor": "#fcc530",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26112,
+        52224,
+        78336,
+        104448,
+        130560,
+        156672,
+        182736,
+        208176,
+        233520,
+        258672,
+        283824,
+        308784,
+        333744,
+        358656,
+        383568,
+        408432,
+        433296,
+        458016,
+        482688,
+        507744,
+        532896,
+        558000,
+        583104,
+        608208,
+        633312,
+        658080,
+        682752,
+        707472,
+        732144,
+        758352,
+        784800,
+        809568,
+        834144,
+        858672,
+        883248,
+        907824,
+        932352,
+        959232,
+        983233,
+        1007041,
+        1030897,
+        1054753,
+        1078609,
+        1103041,
+        1127617,
+        1152193,
+        1176721,
+        1200817,
+        1224865,
+        1248913,
+        1272961,
+        1297345,
+        1321729,
+        1346161,
+        1370785,
+        1395121,
+        1419313,
+        1443553,
+        1467793,
+        1492033
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 567,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GimmeGimme/GimmeGimme_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GimmeGimme/nx/GimmeGimme_banner_bkg.tga.ckd/2c3f2db992e8b1dce44052789d4b7982.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeGimme/nx/GimmeGimme_map_bkg.tga.ckd/8d9636571c30c90589b35d99232a62a8.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeGimme/nx/GimmeGimme_Cover_AlbumCoach.tga.ckd/45b9ab2e55a88d0aefd5e3d73d580962.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeGimme/nx/GimmeGimme_Cover_Online.tga.ckd/e11fb4bf0b449c0af8290e9315fbdf88.ckd",
+      "coach1ImageUrl": "/public/map/GimmeGimme/nx/GimmeGimme_Coach_1.tga.ckd/46b4b69532e8d6908208bc629b724949.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GimmeGimme/pc/GimmeGimme_banner_bkg.tga.ckd/05e7ea2115aac66e86ac642b9dae02eb.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeGimme/pc/GimmeGimme_map_bkg.tga.ckd/3de091c1bce20735e78055c3ef4e4cb2.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeGimme/pc/GimmeGimme_Cover_AlbumCoach.tga.ckd/79c46edd3c4c3c3a17e74b94e1e749d8.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeGimme/pc/GimmeGimme_Cover_Online.tga.ckd/309cffdb103861de4083da77fb1a5fa7.ckd",
+      "coach1ImageUrl": "/public/map/GimmeGimme/pc/GimmeGimme_Coach_1.tga.ckd/d0839d61c3bc6c9312a8a1ae59ea68ec.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GimmeGimme/orbis/GimmeGimme_banner_bkg.tga.ckd/05e7ea2115aac66e86ac642b9dae02eb.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeGimme/orbis/GimmeGimme_map_bkg.tga.ckd/3de091c1bce20735e78055c3ef4e4cb2.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeGimme/orbis/GimmeGimme_Cover_AlbumCoach.tga.ckd/79c46edd3c4c3c3a17e74b94e1e749d8.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeGimme/orbis/GimmeGimme_Cover_Online.tga.ckd/309cffdb103861de4083da77fb1a5fa7.ckd",
+      "coach1ImageUrl": "/public/map/GimmeGimme/orbis/GimmeGimme_Coach_1.tga.ckd/d0839d61c3bc6c9312a8a1ae59ea68ec.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GimmeGimme/GimmeGimme_Coach_1_Phone.png/d7e8cd04befd0c4f08caa72871313723.png",
+    "phoneCoverImageUrl": "/public/map/GimmeGimme/GimmeGimme_Cover_Phone.jpg/db90a65404a9d068aed11e386c317a10.jpg",
+    "cover640ImageUrl": "/public/map/GimmeGimme/GimmeGimme_Cover_640.png/0a14868de8e02fe88f8e98c4f71b87eb.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme.ogg": "/private/map/GimmeGimme/GimmeGimme.ogg/c4f96e27626679e3d725d5f8755010f4.ogg",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_AudioPreview.ogg": "/public/map/GimmeGimme/GimmeGimme_AudioPreview.ogg/9cb98ee59fea4adea2f31c325d5c89e7.ogg",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_LOW.vp8.webm/bfc7ce18efe981d136db0e9e8b7f722e.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_HIGH.webm": "/private/map/GimmeGimme/GimmeGimme_HIGH.webm/f1ded8484b2464b5f1454bd19eb33c9b.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_LOW.webm": "/private/map/GimmeGimme/GimmeGimme_LOW.webm/59084ef0a1ce56b6b90074f9203b1a02.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_MID.webm": "/private/map/GimmeGimme/GimmeGimme_MID.webm/4fc0503cd443a888e18b8ac2c73ff717.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_ULTRA.hd.webm": "/private/map/GimmeGimme/GimmeGimme_ULTRA.hd.webm/c17d41a851714bbf191dc24231dc305f.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_ULTRA.webm": "/private/map/GimmeGimme/GimmeGimme_ULTRA.webm/83692e575a063aa5b2895df7d6dfb2be.webm",
+    "jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_MID.vp8.webm/cabe8f2a236ab8226780036f637c3c81.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496599\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1473856\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GimmeGimme/GimmeGimme_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 285.761271
+}

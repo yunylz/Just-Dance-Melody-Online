@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3bc76346b912b1b27a07f9f46841bb5d",
+      "storageType": 0,
+      "url": "/public/map/JDCChickChick/nx/JDCChickChick_MAIN_SCENE_NX.zip/3bc76346b912b1b27a07f9f46841bb5d.zip"
+    },
+    "pc": {
+      "md5": "9074eccc89a4cfa3be022940f45ea26b",
+      "storageType": 0,
+      "url": "/public/map/JDCChickChick/pc/JDCChickChick_MAIN_SCENE_PC.zip/9074eccc89a4cfa3be022940f45ea26b.zip"
+    },
+    "ps4": {
+      "md5": "6e1adce3219670d2f7d89e11fa2d74f5",
+      "storageType": 0,
+      "url": "/public/map/JDCChickChick/orbis/JDCChickChick_MAIN_SCENE_ORBIS.zip/6e1adce3219670d2f7d89e11fa2d74f5.zip"
+    }
+  },
+  "data": {
+    "mapName": "JDCChickChick",
+    "title": "Chick Chick (小雞小雞)",
+    "originalJDVersion": 1100,
+    "tags": [
+      "JustDanceAsia",
+      "subscribedSong",
+      "Medium",
+      "Solo"
+    ],
+    "artist": "Rollin Wang (王蓉)",
+    "credits": "<< to be filled >>",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#00c6fa",
+    "songColor2A": "#f4d829",
+    "songColor1B": "#023644",
+    "songColor2B": "#3c360a",
+    "lyricsColor": "#02bff8",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67488,
+        90000,
+        112512,
+        135023,
+        157487,
+        180000,
+        202511,
+        225024,
+        247488,
+        270000,
+        292511,
+        315024,
+        337487,
+        360000,
+        382512,
+        405023,
+        427487,
+        450000,
+        472511,
+        495023,
+        517487,
+        540000,
+        562512,
+        585023,
+        607488,
+        630000,
+        652512,
+        675023,
+        697488,
+        720000,
+        742511,
+        765024,
+        787488,
+        810000,
+        832511,
+        855023,
+        877487,
+        900000,
+        922511,
+        945023,
+        967488,
+        990000,
+        1012511,
+        1035024,
+        1057488,
+        1080000,
+        1102511,
+        1125024,
+        1147488,
+        1170000,
+        1192512,
+        1215024,
+        1237488,
+        1260000,
+        1282511,
+        1305024,
+        1327488,
+        1350000,
+        1372511,
+        1395024,
+        1417487,
+        1440000,
+        1462512,
+        1485023
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 460,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JDCChickChick/JDCChickChick_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JDCChickChick/nx/JDCChickChick_banner_bkg.tga.ckd/b99e2debe7b8d2a34d39d2ccdad65441.ckd",
+      "map_bkgImageUrl": "/public/map/JDCChickChick/nx/JDCChickChick_map_bkg.tga.ckd/4c2b6a9e8840fd0ff72b31616f817ffc.ckd",
+      "expandCoachImageUrl": "/public/map/JDCChickChick/nx/JDCChickChick_Cover_AlbumCoach.tga.ckd/148f7077819eb5256ca750eba30ca3c6.ckd",
+      "cover_smallImageUrl": "/public/map/JDCChickChick/nx/JDCChickChick_Cover_Online.tga.ckd/ce36b5045afa77dfac577c4794feeb2a.ckd",
+      "coverImageUrl": "/public/map/JDCChickChick/nx/JDCChickChick_Cover_Generic.tga.ckd/abddc12f83bb86945a2f03ccb5705645.ckd",
+      "coach1ImageUrl": "/public/map/JDCChickChick/nx/JDCChickChick_Coach_1.tga.ckd/ea50e2ca588361e4cf730cc6f8bc44f7.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JDCChickChick/pc/JDCChickChick_banner_bkg.tga.ckd/87e7fb7140ee6dd4c2318bb1f4efdf47.ckd",
+      "map_bkgImageUrl": "/public/map/JDCChickChick/pc/JDCChickChick_map_bkg.tga.ckd/c22b0eaa22b30fd681d0e6a96d2ef209.ckd",
+      "expandCoachImageUrl": "/public/map/JDCChickChick/pc/JDCChickChick_Cover_AlbumCoach.tga.ckd/b019707f54477c5943f3cae928d76b4a.ckd",
+      "cover_smallImageUrl": "/public/map/JDCChickChick/pc/JDCChickChick_Cover_Online.tga.ckd/c2ecbde24a95f869687e60a37aad78a4.ckd",
+      "coverImageUrl": "/public/map/JDCChickChick/pc/JDCChickChick_Cover_Generic.tga.ckd/dc33978787c8741b08f0b447c45c7be6.ckd",
+      "coach1ImageUrl": "/public/map/JDCChickChick/pc/JDCChickChick_Coach_1.tga.ckd/9b6c3901bb1452cefe928d59630c6f18.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JDCChickChick/orbis/JDCChickChick_banner_bkg.tga.ckd/87e7fb7140ee6dd4c2318bb1f4efdf47.ckd",
+      "map_bkgImageUrl": "/public/map/JDCChickChick/orbis/JDCChickChick_map_bkg.tga.ckd/c22b0eaa22b30fd681d0e6a96d2ef209.ckd",
+      "expandCoachImageUrl": "/public/map/JDCChickChick/orbis/JDCChickChick_Cover_AlbumCoach.tga.ckd/b019707f54477c5943f3cae928d76b4a.ckd",
+      "cover_smallImageUrl": "/public/map/JDCChickChick/orbis/JDCChickChick_Cover_Online.tga.ckd/c2ecbde24a95f869687e60a37aad78a4.ckd",
+      "coverImageUrl": "/public/map/JDCChickChick/orbis/JDCChickChick_Cover_Generic.tga.ckd/dc33978787c8741b08f0b447c45c7be6.ckd",
+      "coach1ImageUrl": "/public/map/JDCChickChick/orbis/JDCChickChick_Coach_1.tga.ckd/9b6c3901bb1452cefe928d59630c6f18.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JDCChickChick/JDCChickChick_Coach_1_Phone.png/720572cf62514c7ba04d24fd1aae4e59.png",
+    "phoneCoverImageUrl": "/public/map/JDCChickChick/JDCChickChick_Cover_Phone.jpg/2f66edde9a11a43d85223ec8969d27e4.jpg",
+    "cover640ImageUrl": "/public/map/JDCChickChick/JDCChickChick_Cover_640.png/9610bd8e07884be5f78ebbc7f9b5ff8e.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JDCChickChick/JDCChickChick_HIGH.webm": "/private/map/JDCChickChick/JDCChickChick_HIGH.webm/70cfcaca67a8dda2dcb44bebc66d5733.webm",
+    "jmcs://jd-contents/JDCChickChick/JDCChickChick_LOW.webm": "/private/map/JDCChickChick/JDCChickChick_LOW.webm/25dda4cbb938d6907bee6fbdd62e30b9.webm",
+    "jmcs://jd-contents/JDCChickChick/JDCChickChick_MID.webm": "/private/map/JDCChickChick/JDCChickChick_MID.webm/8c944ccb1124b3ba51647d469f1dfaf9.webm",
+    "jmcs://jd-contents/JDCChickChick/JDCChickChick_ULTRA.hd.webm": "/private/map/JDCChickChick/JDCChickChick_ULTRA.hd.webm/8779626216c6d66d70c36f9258c04567.webm",
+    "jmcs://jd-contents/JDCChickChick/JDCChickChick_ULTRA.webm": "/private/map/JDCChickChick/JDCChickChick_ULTRA.webm/c045e7129f59c4e39aa5974872df009e.webm",
+    "jmcs://jd-contents/JDCChickChick/JDCChickChick.ogg": "/private/map/JDCChickChick/JDCChickChick.ogg/996d217314096019a3218e022d293c3a.ogg",
+    "jmcs://jd-contents/JDCChickChick/JDCChickChick_AudioPreview.ogg": "/public/map/JDCChickChick/JDCChickChick_AudioPreview.ogg/e5933c527d81b094658b15de802e2559.ogg",
+    "jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_LOW.vp8.webm/863eea054cbecb0aa9ccbff0229dbd04.webm",
+    "jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_LOW.vp9.webm": "/public/map/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_LOW.vp9.webm/1a7ac1a8480dc7cbae26ffcfef547eeb.webm",
+    "jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_MID.vp8.webm/bbd69764352e0461185f7edfd26361f2.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496239\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\n\t\t\t\t\t<Initialization range=\"0-606\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1476445\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\n\t\t\t\t\t<Initialization range=\"0-607\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 217.96875
+}

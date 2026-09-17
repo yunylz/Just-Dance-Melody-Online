@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4ce79c6301386af48767794554782671",
+      "storageType": 0,
+      "url": "/public/map/PadamALT/nx/PadamALT_MAIN_SCENE_NX.zip/4ce79c6301386af48767794554782671.zip"
+    },
+    "pc": {
+      "md5": "1f26d69edc0d54c32c5d57407a368203",
+      "storageType": 0,
+      "url": "/public/map/PadamALT/pc/PadamALT_MAIN_SCENE_PC.zip/1f26d69edc0d54c32c5d57407a368203.zip"
+    },
+    "ps4": {
+      "md5": "6744f2127f3776595eda67b287e70635",
+      "storageType": 0,
+      "url": "/public/map/PadamALT/orbis/PadamALT_MAIN_SCENE_ORBIS.zip/6744f2127f3776595eda67b287e70635.zip"
+    }
+  },
+  "data": {
+    "mapName": "PadamALT",
+    "title": "Padam Padam",
+    "originalJDVersion": 2025,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Hard"
+    ],
+    "artist": "Kylie Minogue",
+    "credits": "Written by Peter John Rees Rycroft, Ina Wroldsen. Published by WARNER CHAPPELL MUSIC LTD. All rights on behalf of WARNER CHAPPELL MUSIC LTD administered by WC Music Corp. All rights on behalf of WARNER CHAPPELL MUSIC LTD administered by Warner-Tamerlane Publishing Corp. Courtesy of Kylie Minogue, Darenote under exclusive license to BMG Rights Management UK Limited.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#97d6f0",
+    "songColor2A": "#f76721",
+    "songColor1B": "#170d47",
+    "songColor2B": "#060545",
+    "lyricsColor": "#fbc913"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202500,
+        225000,
+        247500,
+        270000,
+        292500,
+        315000,
+        337500,
+        360000,
+        382500,
+        405000,
+        427500,
+        450000,
+        472500,
+        495000,
+        517500,
+        540000,
+        562500,
+        585000,
+        607500,
+        630000,
+        652500,
+        675000,
+        697500,
+        720000,
+        742500,
+        765000,
+        787500,
+        810000,
+        832500,
+        855000,
+        877500,
+        900000,
+        922500,
+        945000,
+        967500,
+        990000,
+        1012500,
+        1035000,
+        1057500,
+        1080000,
+        1102500,
+        1125000,
+        1147500,
+        1170000,
+        1192500,
+        1215000,
+        1237500,
+        1260000,
+        1282500,
+        1305000,
+        1327500,
+        1350000,
+        1372500,
+        1395000,
+        1417500,
+        1440000,
+        1462500,
+        1485000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 355,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PadamALT/PadamALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PadamALT/nx/PadamALT_banner_bkg.tga.ckd/3f6556cf0fcd12673e8e0c616161dd1b.ckd",
+      "map_bkgImageUrl": "/public/map/PadamALT/nx/PadamALT_map_bkg.tga.ckd/7623a292f1365c340fc54dc0600b7272.ckd",
+      "expandCoachImageUrl": "/public/map/PadamALT/nx/PadamALT_Cover_AlbumCoach.tga.ckd/17c5a227d062c4387e251f9e659d3666.ckd",
+      "cover_smallImageUrl": "/public/map/PadamALT/nx/PadamALT_Cover_Online.tga.ckd/0a7ecf4888ab174e3e841abec6d56784.ckd",
+      "coverImageUrl": "/public/map/PadamALT/nx/PadamALT_Cover_Generic.tga.ckd/f4e185ed0fa398e21173e49198b61022.ckd",
+      "coach1ImageUrl": "/public/map/PadamALT/nx/PadamALT_Coach_1.tga.ckd/444f72dfb8766ece2f70e4430bae445e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PadamALT/pc/PadamALT_banner_bkg.tga.ckd/308d77efff78518e0c8172ab4a1ed296.ckd",
+      "map_bkgImageUrl": "/public/map/PadamALT/pc/PadamALT_map_bkg.tga.ckd/96aa81d8e4ae5778a78d1c32d1ae1247.ckd",
+      "expandCoachImageUrl": "/public/map/PadamALT/pc/PadamALT_Cover_AlbumCoach.tga.ckd/08e7cb27ae2927284dd8349314b5232a.ckd",
+      "cover_smallImageUrl": "/public/map/PadamALT/pc/PadamALT_Cover_Online.tga.ckd/757bdede861960b9452f5b8bc0ee93d3.ckd",
+      "coverImageUrl": "/public/map/PadamALT/pc/PadamALT_Cover_Generic.tga.ckd/8840ee3a401e3021976c2094466001cb.ckd",
+      "coach1ImageUrl": "/public/map/PadamALT/pc/PadamALT_Coach_1.tga.ckd/ecbb50643b99018f7f7f607d7685a29b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PadamALT/orbis/PadamALT_banner_bkg.tga.ckd/308d77efff78518e0c8172ab4a1ed296.ckd",
+      "map_bkgImageUrl": "/public/map/PadamALT/orbis/PadamALT_map_bkg.tga.ckd/96aa81d8e4ae5778a78d1c32d1ae1247.ckd",
+      "expandCoachImageUrl": "/public/map/PadamALT/orbis/PadamALT_Cover_AlbumCoach.tga.ckd/08e7cb27ae2927284dd8349314b5232a.ckd",
+      "cover_smallImageUrl": "/public/map/PadamALT/orbis/PadamALT_Cover_Online.tga.ckd/757bdede861960b9452f5b8bc0ee93d3.ckd",
+      "coverImageUrl": "/public/map/PadamALT/orbis/PadamALT_Cover_Generic.tga.ckd/8840ee3a401e3021976c2094466001cb.ckd",
+      "coach1ImageUrl": "/public/map/PadamALT/orbis/PadamALT_Coach_1.tga.ckd/ecbb50643b99018f7f7f607d7685a29b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PadamALT/PadamALT_Coach_1_Phone.png/50cbe1347c5cb4b875850d5496d6ea5a.png",
+    "phoneCoverImageUrl": "/public/map/PadamALT/PadamALT_Cover_Phone.jpg/2168979e41310e0fd4fe99f1a6287154.jpg",
+    "cover640ImageUrl": "/public/map/PadamALT/PadamALT_Cover_640.png/31d3e22602bf3d82c3071919382035e7.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/PadamALT/PadamALT.ogg": "/private/map/PadamALT/PadamALT.ogg/e1139986d4cc888a09cc86e9e5bdd8dc.ogg",
+    "jmcs://jd-contents/PadamALT/PadamALT_AudioPreview.ogg": "/public/map/PadamALT/PadamALT_AudioPreview.ogg/f95c486c83a729a3f686298735da18ff.ogg",
+    "jmcs://jd-contents/PadamALT/PadamALT_HIGH.webm": "/private/map/PadamALT/PadamALT_HIGH.webm/499c40dabc5d7311a1279b49df0a3f17.webm",
+    "jmcs://jd-contents/PadamALT/PadamALT_LOW.webm": "/private/map/PadamALT/PadamALT_LOW.webm/cfccf46a3f2c89379f57afd0b7fa2d6a.webm",
+    "jmcs://jd-contents/PadamALT/PadamALT_MID.webm": "/private/map/PadamALT/PadamALT_MID.webm/a205aab12be1ac33d6f9e07a1c079094.webm",
+    "jmcs://jd-contents/PadamALT/PadamALT_ULTRA.hd.webm": "/private/map/PadamALT/PadamALT_ULTRA.hd.webm/b27942f81aede06155cec1a060e336fe.webm",
+    "jmcs://jd-contents/PadamALT/PadamALT_ULTRA.webm": "/private/map/PadamALT/PadamALT_ULTRA.webm/0201d4cedda24c19ec3f28ff41d14a18.webm",
+    "jmcs://jd-contents/PadamALT/PadamALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PadamALT/PadamALT_MapPreviewNoSoundCrop_LOW.vp8.webm/7d43204d57471269189fb83e0c0ac65b.webm",
+    "jmcs://jd-contents/PadamALT/PadamALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PadamALT/PadamALT_MapPreviewNoSoundCrop_MID.vp8.webm/7e46c6b3882ed8667ef7f3e6319df46d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"528761\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PadamALT/PadamALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1521817\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PadamALT/PadamALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 173.443979
+}

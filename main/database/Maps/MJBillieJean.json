@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "bfc017dba35a0fd91110d87e02219934",
+      "storageType": 0,
+      "url": "/public/map/MJBillieJean/nx/MJBillieJean_MAIN_SCENE_NX.zip/bfc017dba35a0fd91110d87e02219934.zip"
+    },
+    "pc": {
+      "md5": "2f7412127fcab4042ace8b453cbc8314",
+      "storageType": 0,
+      "url": "/public/map/MJBillieJean/pc/MJBillieJean_MAIN_SCENE_PC.zip/2f7412127fcab4042ace8b453cbc8314.zip"
+    },
+    "ps4": {
+      "md5": "c8f9fe31d8369c02f563571db437d36d",
+      "storageType": 0,
+      "url": "/public/map/MJBillieJean/orbis/MJBillieJean_MAIN_SCENE_ORBIS.zip/c8f9fe31d8369c02f563571db437d36d.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJBillieJean",
+    "title": "Billie Jean",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong",
+      "mjte"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#7b356b",
+    "songColor2A": "#ceaede",
+    "songColor1B": "#2e1428",
+    "songColor2B": "#514357",
+    "lyricsColor": "#f15fff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25248,
+        49968,
+        74688,
+        99408,
+        124128,
+        148848,
+        173568,
+        198288,
+        223056,
+        247824,
+        273120,
+        297936,
+        323040,
+        347184,
+        372048,
+        396672,
+        421248,
+        445872,
+        470496,
+        495120,
+        519744,
+        544368,
+        568992,
+        593472,
+        618240,
+        642528,
+        667488,
+        692112,
+        717120,
+        741360,
+        765648,
+        789984,
+        814848,
+        839472,
+        864192,
+        889104,
+        913680,
+        938304,
+        962928,
+        988032,
+        1012944,
+        1037760,
+        1062624,
+        1087056,
+        1111872,
+        1135968,
+        1160688,
+        1185312,
+        1210320,
+        1234944,
+        1259568,
+        1284960,
+        1309152,
+        1333776,
+        1358064,
+        1383072,
+        1407936,
+        1432320,
+        1456560,
+        1481184
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 567,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJBillieJean/MJBillieJean_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJBillieJean/nx/MJBillieJean_banner_bkg.tga.ckd/90fec0b46bfe9c73165a61e7561f8871.ckd",
+      "map_bkgImageUrl": "/public/map/MJBillieJean/nx/MJBillieJean_map_bkg.tga.ckd/55dda1e9af1723af53c8936fbe14842b.ckd",
+      "expandCoachImageUrl": "/public/map/MJBillieJean/nx/MJBillieJean_Cover_AlbumCoach.tga.ckd/4cab870f9adcad3e45a40a029755bf6a.ckd",
+      "cover_smallImageUrl": "/public/map/MJBillieJean/nx/MJBillieJean_Cover_Online.tga.ckd/3e577605172244f780a12e3dc2894d81.ckd",
+      "coach1ImageUrl": "/public/map/MJBillieJean/nx/MJBillieJean_Coach_1.tga.ckd/2f9d8de9787fb221f816227871783c9d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJBillieJean/pc/MJBillieJean_banner_bkg.tga.ckd/811a616f9efde7b1fb3b5cccc3f19090.ckd",
+      "map_bkgImageUrl": "/public/map/MJBillieJean/pc/MJBillieJean_map_bkg.tga.ckd/5daf162a8929f8b6311eb82febb96551.ckd",
+      "expandCoachImageUrl": "/public/map/MJBillieJean/pc/MJBillieJean_Cover_AlbumCoach.tga.ckd/dca72f938764f2accbfc79b6d4f28b43.ckd",
+      "cover_smallImageUrl": "/public/map/MJBillieJean/pc/MJBillieJean_Cover_Online.tga.ckd/467707b5d7e561f1c00ba00f412489dc.ckd",
+      "coach1ImageUrl": "/public/map/MJBillieJean/pc/MJBillieJean_Coach_1.tga.ckd/95b4a0d2d2bb0d4af359f10f64773c82.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJBillieJean/orbis/MJBillieJean_banner_bkg.tga.ckd/811a616f9efde7b1fb3b5cccc3f19090.ckd",
+      "map_bkgImageUrl": "/public/map/MJBillieJean/orbis/MJBillieJean_map_bkg.tga.ckd/5daf162a8929f8b6311eb82febb96551.ckd",
+      "expandCoachImageUrl": "/public/map/MJBillieJean/orbis/MJBillieJean_Cover_AlbumCoach.tga.ckd/dca72f938764f2accbfc79b6d4f28b43.ckd",
+      "cover_smallImageUrl": "/public/map/MJBillieJean/orbis/MJBillieJean_Cover_Online.tga.ckd/467707b5d7e561f1c00ba00f412489dc.ckd",
+      "coach1ImageUrl": "/public/map/MJBillieJean/orbis/MJBillieJean_Coach_1.tga.ckd/95b4a0d2d2bb0d4af359f10f64773c82.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJBillieJean/MJBillieJean_Coach_1_Phone.png/e4c82c7318a53ecb2a2f5e885bee5fdd.png",
+    "phoneCoverImageUrl": "/public/map/MJBillieJean/MJBillieJean_Cover_Phone.jpg/bcbbc5e0cdaea6201f6b83124be8e336.jpg",
+    "cover640ImageUrl": "/public/map/MJBillieJean/MJBillieJean_Cover_640.png/754a50a63bc6c18e1fe77f562babbfbb.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MJBillieJean/MJBillieJean.ogg": "/private/map/MJBillieJean/MJBillieJean.ogg/f3f57eb27741c0c26e30c3deaf43f21d.ogg",
+    "jmcs://jd-contents/MJBillieJean/MJBillieJean_AudioPreview.ogg": "/public/map/MJBillieJean/MJBillieJean_AudioPreview.ogg/df334979778fbb49c40b1e1a6dc90aab.ogg",
+    "jmcs://jd-contents/MJBillieJean/MJBillieJean_HIGH.webm": "/private/map/MJBillieJean/MJBillieJean_HIGH.webm/e9de2d31ed99e893a1ee52ff7d054e2d.webm",
+    "jmcs://jd-contents/MJBillieJean/MJBillieJean_LOW.webm": "/private/map/MJBillieJean/MJBillieJean_LOW.webm/072d54bd7f0282a93ac0d69afc057382.webm",
+    "jmcs://jd-contents/MJBillieJean/MJBillieJean_MID.webm": "/private/map/MJBillieJean/MJBillieJean_MID.webm/da3ad74dce6e4005497c2107befdc910.webm",
+    "jmcs://jd-contents/MJBillieJean/MJBillieJean_ULTRA.hd.webm": "/private/map/MJBillieJean/MJBillieJean_ULTRA.hd.webm/a480dc80f331142f3cceafc68111dae7.webm",
+    "jmcs://jd-contents/MJBillieJean/MJBillieJean_ULTRA.webm": "/private/map/MJBillieJean/MJBillieJean_ULTRA.webm/8e343ecff4c7e19510ff3689a4b55479.webm",
+    "jmcs://jd-contents/MJBillieJean/MJBillieJean_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJBillieJean/MJBillieJean_MapPreviewNoSoundCrop_LOW.vp8.webm/f89cb0f6c241738bcd184aa1f348c8bb.webm",
+    "jmcs://jd-contents/MJBillieJean/MJBillieJean_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJBillieJean/MJBillieJean_MapPreviewNoSoundCrop_MID.vp8.webm/1026e5dec0788a8632063bd2e68d9b77.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"487652\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJBillieJean/MJBillieJean_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"545-1034\">\n\t\t\t\t\t<Initialization range=\"0-545\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1414574\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJBillieJean/MJBillieJean_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"546-1036\">\n\t\t\t\t\t<Initialization range=\"0-546\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 294.421
+}

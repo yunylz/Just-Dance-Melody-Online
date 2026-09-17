@@ -1,0 +1,166 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "693ac494bc5a18ab4b06359890348cd3",
+      "storageType": 0,
+      "url": "/public/map/CouldYouBeLoved/nx/CouldYouBeLoved_MAIN_SCENE_NX.zip/693ac494bc5a18ab4b06359890348cd3.zip"
+    },
+    "pc": {
+      "md5": "4020e935266e410a68ad9d5d9dbed936",
+      "storageType": 0,
+      "url": "/public/map/CouldYouBeLoved/pc/CouldYouBeLoved_MAIN_SCENE_PC.zip/4020e935266e410a68ad9d5d9dbed936.zip"
+    },
+    "ps4": {
+      "md5": "917d7621870283845a5377510e59bae7",
+      "storageType": 0,
+      "url": "/public/map/CouldYouBeLoved/orbis/CouldYouBeLoved_MAIN_SCENE_ORBIS.zip/917d7621870283845a5377510e59bae7.zip"
+    }
+  },
+  "data": {
+    "mapName": "CouldYouBeLoved",
+    "title": "Could You Be Loved",
+    "originalJDVersion": 2014,
+    "tags": [
+      "main"
+    ],
+    "artist": "Bob Marley",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff44df"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27888,
+        55776,
+        83616,
+        111504,
+        139392,
+        167280,
+        195168,
+        223056,
+        250944,
+        278832,
+        306720,
+        334608,
+        362496,
+        390336,
+        418224,
+        446112,
+        474000,
+        501888,
+        529776,
+        557664,
+        585552,
+        613440,
+        641280,
+        669168,
+        697057,
+        724945,
+        752833,
+        780721,
+        808609,
+        836449,
+        864337,
+        892225,
+        920113,
+        948001,
+        975889,
+        1003777,
+        1031617,
+        1059505,
+        1087393,
+        1115281,
+        1143169,
+        1171057,
+        1198945,
+        1226785,
+        1254673,
+        1282561,
+        1310449,
+        1338337,
+        1366225,
+        1394114,
+        1421954,
+        1449842,
+        1477730,
+        1505618
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 348,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CouldYouBeLoved/nx/CouldYouBeLoved_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/CouldYouBeLoved/nx/CouldYouBeLoved_map_bkg.tga.ckd/9d7b34397b6efc853f7229b9d96cf66c.ckd",
+      "expandCoachImageUrl": "/public/map/CouldYouBeLoved/nx/CouldYouBeLoved_Cover_AlbumCoach.tga.ckd/e08670e2584e240c8c8c4910a6bc2d91.ckd",
+      "cover_smallImageUrl": "/public/map/CouldYouBeLoved/nx/CouldYouBeLoved_Cover_Online.tga.ckd/7866fbf337d242938f8f8443baf64c2a.ckd",
+      "coach1ImageUrl": "/public/map/CouldYouBeLoved/nx/CouldYouBeLoved_Coach_1.tga.ckd/32eb22abbe0acbaac20bbe8e16239c95.ckd",
+      "coach2ImageUrl": "/public/map/CouldYouBeLoved/nx/CouldYouBeLoved_Coach_2.tga.ckd/8e1e404e4f1cd14c78ab7425039ffc97.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CouldYouBeLoved/pc/CouldYouBeLoved_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/CouldYouBeLoved/pc/CouldYouBeLoved_map_bkg.tga.ckd/0630a61f93c5070a84665f4517327cf1.ckd",
+      "expandCoachImageUrl": "/public/map/CouldYouBeLoved/pc/CouldYouBeLoved_Cover_AlbumCoach.tga.ckd/f3872ebe92058f69be62df363357c9c3.ckd",
+      "cover_smallImageUrl": "/public/map/CouldYouBeLoved/pc/CouldYouBeLoved_Cover_Online.tga.ckd/e5cb0f6416851fc63ab7c5fe56958e36.ckd",
+      "coach1ImageUrl": "/public/map/CouldYouBeLoved/pc/CouldYouBeLoved_Coach_1.tga.ckd/889a3083f6ada75760aef90d55bc4665.ckd",
+      "coach2ImageUrl": "/public/map/CouldYouBeLoved/pc/CouldYouBeLoved_Coach_2.tga.ckd/56b273746e4f851ef7affb5d0c801db1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CouldYouBeLoved/orbis/CouldYouBeLoved_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/CouldYouBeLoved/orbis/CouldYouBeLoved_map_bkg.tga.ckd/0630a61f93c5070a84665f4517327cf1.ckd",
+      "expandCoachImageUrl": "/public/map/CouldYouBeLoved/orbis/CouldYouBeLoved_Cover_AlbumCoach.tga.ckd/f3872ebe92058f69be62df363357c9c3.ckd",
+      "cover_smallImageUrl": "/public/map/CouldYouBeLoved/orbis/CouldYouBeLoved_Cover_Online.tga.ckd/e5cb0f6416851fc63ab7c5fe56958e36.ckd",
+      "coach1ImageUrl": "/public/map/CouldYouBeLoved/orbis/CouldYouBeLoved_Coach_1.tga.ckd/889a3083f6ada75760aef90d55bc4665.ckd",
+      "coach2ImageUrl": "/public/map/CouldYouBeLoved/orbis/CouldYouBeLoved_Coach_2.tga.ckd/56b273746e4f851ef7affb5d0c801db1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CouldYouBeLoved/CouldYouBeLoved_Coach_1_Phone.png/05496181e9324fc980b556e0ddad2b91.png",
+    "phoneCoach2ImageUrl": "/public/map/CouldYouBeLoved/CouldYouBeLoved_Coach_2_Phone.png/cfc681349d9013983d905ce4e15b4351.png",
+    "phoneCoverImageUrl": "/public/map/CouldYouBeLoved/CouldYouBeLoved_Cover_Phone.jpg/d9fa6579eaa2d10654e248135509df1e.jpg",
+    "cover640ImageUrl": "/public/map/CouldYouBeLoved/CouldYouBeLoved_Cover_640.png/723966bb9a258da7987dda812fd4e84d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved.ogg": "/private/map/CouldYouBeLoved/CouldYouBeLoved.ogg/9abeb76d3af3c4217626a316de9bd999.ogg",
+    "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_AudioPreview.ogg": "/public/map/CouldYouBeLoved/CouldYouBeLoved_AudioPreview.ogg/fcfb6f428f58c1ca045c8dcf020495ef.ogg",
+    "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CouldYouBeLoved/CouldYouBeLoved_MapPreviewNoSoundCrop_LOW.vp8.webm/9787cc655a9d3b97166a28d8cd170fa8.webm",
+    "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_HIGH.webm": "/private/map/CouldYouBeLoved/CouldYouBeLoved_HIGH.webm/58de990000ac2af85aaa632f6ab442db.webm",
+    "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_LOW.webm": "/private/map/CouldYouBeLoved/CouldYouBeLoved_LOW.webm/ed6f2d23294803a267a747e2a3f9810a.webm",
+    "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_MID.webm": "/private/map/CouldYouBeLoved/CouldYouBeLoved_MID.webm/6a90b1ad1ecc121a34e43433fb9c674c.webm",
+    "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_ULTRA.hd.webm": "/private/map/CouldYouBeLoved/CouldYouBeLoved_ULTRA.hd.webm/fe1cdb2c3c480bb2647ed639232346da.webm",
+    "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_ULTRA.webm": "/private/map/CouldYouBeLoved/CouldYouBeLoved_ULTRA.webm/3eaf920def8adffcb2c9ef2b8b0a993e.webm",
+    "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CouldYouBeLoved/CouldYouBeLoved_MapPreviewNoSoundCrop_MID.vp8.webm/e5a7f47710851bbdbe6c30c88836221f.webm"
+  },
+  "mapLength": 202.139938
+}

@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "baaccd601597acc4322cc03eb7354dc1",
+      "storageType": 0,
+      "url": "/public/map/PokerFace/nx/PokerFace_MAIN_SCENE_NX.zip/baaccd601597acc4322cc03eb7354dc1.zip"
+    },
+    "pc": {
+      "md5": "f10c4f7aa272f066229c83ec7c0a0551",
+      "storageType": 0,
+      "url": "/public/map/PokerFace/pc/PokerFace_MAIN_SCENE_PC.zip/f10c4f7aa272f066229c83ec7c0a0551.zip"
+    },
+    "ps4": {
+      "md5": "9cb4e77d4b27e30e226c18f5ecd6ea0c",
+      "storageType": 0,
+      "url": "/public/map/PokerFace/orbis/PokerFace_MAIN_SCENE_ORBIS.zip/9cb4e77d4b27e30e226c18f5ecd6ea0c.zip"
+    }
+  },
+  "data": {
+    "mapName": "PokerFace",
+    "title": "Poker Face",
+    "originalJDVersion": 2025,
+    "tags": [
+      "subscribedSong",
+      "Trio",
+      "Medium"
+    ],
+    "artist": "Lady Gaga",
+    "credits": "Written by Stefani Germanotta, Nadir Khayat. Published by House of Gaga Publishing LLC, Songs Of Redone, Sony/ATV Songs LLC. All rights reserved. Used with permission. Courtesy of UMG Recordings under license from Universal Music Canada Inc.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#dd1111",
+    "songColor2A": "#0f58df",
+    "songColor1B": "#2d0303",
+    "songColor2B": "#2f1354",
+    "lyricsColor": "#ffaa42"
+  },
+  "urls": {
+    "jmcs://jd-contents/PokerFace/PokerFace.ogg": "/private/map/PokerFace/PokerFace.ogg/8675446814e1de1541560698a7ec9e52.ogg",
+    "jmcs://jd-contents/PokerFace/PokerFace_AudioPreview.ogg": "/public/map/PokerFace/PokerFace_AudioPreview.ogg/9ac70f88ed53aaccf6f7c56cbce1b98d.ogg",
+    "jmcs://jd-contents/PokerFace/PokerFace_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PokerFace/PokerFace_MapPreviewNoSoundCrop_LOW.vp8.webm/93254ea5b05b5b22a598133ce39137d8.webm",
+    "jmcs://jd-contents/PokerFace/PokerFace_HIGH.webm": "/private/map/PokerFace/PokerFace_HIGH.webm/992fdcb921246c8d38d501d05f63b6ae.webm",
+    "jmcs://jd-contents/PokerFace/PokerFace_LOW.webm": "/private/map/PokerFace/PokerFace_LOW.webm/5b6a92bdb4781a08300727edc2c5a130.webm",
+    "jmcs://jd-contents/PokerFace/PokerFace_MID.webm": "/private/map/PokerFace/PokerFace_MID.webm/6f929dc48054827a840e27af2d99d1cd.webm",
+    "jmcs://jd-contents/PokerFace/PokerFace_ULTRA.hd.webm": "/private/map/PokerFace/PokerFace_ULTRA.hd.webm/09a43f7abd33a77d5efad9b1ded7dcd7.webm",
+    "jmcs://jd-contents/PokerFace/PokerFace_ULTRA.webm": "/private/map/PokerFace/PokerFace_ULTRA.webm/8d0d2da3d3343719a348658ee8e07414.webm",
+    "jmcs://jd-contents/PokerFace/PokerFace_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PokerFace/PokerFace_MapPreviewNoSoundCrop_MID.vp8.webm/3e5457b8d80eca6e6bd23475237d02e9.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24202,
+        48403,
+        72605,
+        96807,
+        121008,
+        145210,
+        169412,
+        193613,
+        217815,
+        242017,
+        266218,
+        290420,
+        314622,
+        338824,
+        363025,
+        387227,
+        411429,
+        435630,
+        459832,
+        484034,
+        508235,
+        532437,
+        556639,
+        580840,
+        605042,
+        629244,
+        653445,
+        677647,
+        701849,
+        726050,
+        750252,
+        774454,
+        798655,
+        822857,
+        847059,
+        871261,
+        895462,
+        919664,
+        943866,
+        968067,
+        992269,
+        1016471,
+        1040672,
+        1064874,
+        1089076,
+        1113277,
+        1137479,
+        1161681,
+        1185882,
+        1210084,
+        1234286,
+        1258487,
+        1282689,
+        1306891,
+        1331092,
+        1355294,
+        1379496,
+        1403697,
+        1427899,
+        1452101,
+        1476303
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 426,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PokerFace/PokerFace_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PokerFace/nx/PokerFace_banner_bkg.tga.ckd/e27fe7d1cc920adc40ca06d97c2b54bb.ckd",
+      "map_bkgImageUrl": "/public/map/PokerFace/nx/PokerFace_map_bkg.tga.ckd/e020a862aeb2b43d85c3ae24d715eb94.ckd",
+      "expandCoachImageUrl": "/public/map/PokerFace/nx/PokerFace_Cover_AlbumCoach.tga.ckd/a13e0c630d44207ce998d4f6f308e70b.ckd",
+      "cover_smallImageUrl": "/public/map/PokerFace/nx/PokerFace_Cover_Online.tga.ckd/8aebc89ec66ced1043b12db28056265b.ckd",
+      "coverImageUrl": "/public/map/PokerFace/nx/PokerFace_Cover_Generic.tga.ckd/f05eaf8cc3dfe7e4d28022f9f826461d.ckd",
+      "coach1ImageUrl": "/public/map/PokerFace/nx/PokerFace_Coach_1.tga.ckd/45505b6841acb7d54fd25278dd6c7ff0.ckd",
+      "coach2ImageUrl": "/public/map/PokerFace/nx/PokerFace_Coach_2.tga.ckd/c3fb780e83971cc32ad532c7a5fcb5be.ckd",
+      "coach3ImageUrl": "/public/map/PokerFace/nx/PokerFace_Coach_3.tga.ckd/e8b2260a3fed31d69700005610ffd8f0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PokerFace/pc/PokerFace_banner_bkg.tga.ckd/a319e2b075bfb00bf221ea045c2dd57a.ckd",
+      "map_bkgImageUrl": "/public/map/PokerFace/pc/PokerFace_map_bkg.tga.ckd/052cf09e26d3841f9edaa0efb92467f3.ckd",
+      "expandCoachImageUrl": "/public/map/PokerFace/pc/PokerFace_Cover_AlbumCoach.tga.ckd/b81bf3403ec563ee0b92e0cc9900b37d.ckd",
+      "cover_smallImageUrl": "/public/map/PokerFace/pc/PokerFace_Cover_Online.tga.ckd/264e02b53387a9dfc788e7fcf6364b4e.ckd",
+      "coverImageUrl": "/public/map/PokerFace/pc/PokerFace_Cover_Generic.tga.ckd/70fb40f30576d3ed48bec11b23283029.ckd",
+      "coach1ImageUrl": "/public/map/PokerFace/pc/PokerFace_Coach_1.tga.ckd/331700145c0767b89360a683ad69f3bf.ckd",
+      "coach2ImageUrl": "/public/map/PokerFace/pc/PokerFace_Coach_2.tga.ckd/bf407f16fab9043df42702ba3b0ff52a.ckd",
+      "coach3ImageUrl": "/public/map/PokerFace/pc/PokerFace_Coach_3.tga.ckd/07703c9f5e4094e7c6990ff3e7d54960.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PokerFace/orbis/PokerFace_banner_bkg.tga.ckd/a319e2b075bfb00bf221ea045c2dd57a.ckd",
+      "map_bkgImageUrl": "/public/map/PokerFace/orbis/PokerFace_map_bkg.tga.ckd/052cf09e26d3841f9edaa0efb92467f3.ckd",
+      "expandCoachImageUrl": "/public/map/PokerFace/orbis/PokerFace_Cover_AlbumCoach.tga.ckd/b81bf3403ec563ee0b92e0cc9900b37d.ckd",
+      "cover_smallImageUrl": "/public/map/PokerFace/orbis/PokerFace_Cover_Online.tga.ckd/264e02b53387a9dfc788e7fcf6364b4e.ckd",
+      "coverImageUrl": "/public/map/PokerFace/orbis/PokerFace_Cover_Generic.tga.ckd/70fb40f30576d3ed48bec11b23283029.ckd",
+      "coach1ImageUrl": "/public/map/PokerFace/orbis/PokerFace_Coach_1.tga.ckd/331700145c0767b89360a683ad69f3bf.ckd",
+      "coach2ImageUrl": "/public/map/PokerFace/orbis/PokerFace_Coach_2.tga.ckd/bf407f16fab9043df42702ba3b0ff52a.ckd",
+      "coach3ImageUrl": "/public/map/PokerFace/orbis/PokerFace_Coach_3.tga.ckd/07703c9f5e4094e7c6990ff3e7d54960.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PokerFace/PokerFace_Coach_1_Phone.png/c8c76853688723816cf2a6d8d9758abf.png",
+    "phoneCoach2ImageUrl": "/public/map/PokerFace/PokerFace_Coach_2_Phone.png/8ae9dc65afa26f5362e64132b56c4988.png",
+    "phoneCoach3ImageUrl": "/public/map/PokerFace/PokerFace_Coach_3_Phone.png/e04d8450498a8b34acd282b5cdd797d7.png",
+    "phoneCoverImageUrl": "/public/map/PokerFace/PokerFace_Cover_Phone.jpg/f23ca7798c32d95cdbc2e30cfa09d5a5.jpg",
+    "cover640ImageUrl": "/public/map/PokerFace/PokerFace_Cover_640.png/bddf3812443ca1af08ce3293417d14c1.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"525078\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PokerFace/PokerFace_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1476200\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PokerFace/PokerFace_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 216.309021
+}

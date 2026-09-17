@@ -1,0 +1,156 @@
+{
+  "urls": {
+    "jmcs://jd-contents/JurassicKids/JurassicKids.ogg": "/private/map/JurassicKids/JurassicKids.ogg/bdc5bdc34c9177beacf3480bb2e80f6e.ogg",
+    "jmcs://jd-contents/JurassicKids/JurassicKids_AudioPreview.ogg": "/public/map/JurassicKids/JurassicKids_AudioPreview.ogg/8d6446bec61939a18b2cbdb7192a17df.ogg",
+    "jmcs://jd-contents/JurassicKids/JurassicKids_HIGH.hd.webm": "/private/map/JurassicKids/JurassicKids_HIGH.hd.webm/306cad19396e44b80be1fac5444c9a27.webm",
+    "jmcs://jd-contents/JurassicKids/JurassicKids_LOW.hd.webm": "/private/map/JurassicKids/JurassicKids_LOW.hd.webm/48c0fb845fe4ae589a3f00954b7657e2.webm",
+    "jmcs://jd-contents/JurassicKids/JurassicKids_MID.hd.webm": "/private/map/JurassicKids/JurassicKids_MID.hd.webm/c74f57704bf9c0c0edae99da51365c49.webm",
+    "jmcs://jd-contents/JurassicKids/JurassicKids_ULTRA.hd.webm": "/private/map/JurassicKids/JurassicKids_ULTRA.hd.webm/5a64bac9cb0762ef1801c8d7593f6b0d.webm",
+    "jmcs://jd-contents/JurassicKids/JurassicKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JurassicKids/JurassicKids_MapPreviewNoSoundCrop_LOW.vp8.webm/ef4b856c77110fadb13b1e95b851ba00.webm",
+    "jmcs://jd-contents/JurassicKids/JurassicKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JurassicKids/JurassicKids_MapPreviewNoSoundCrop_MID.vp8.webm/f9bcdb88ef6cfd1f7db948f957bd0de8.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        34272,
+        68591,
+        102863,
+        137135,
+        171408,
+        205727,
+        240000,
+        274271,
+        308592,
+        342864,
+        377135,
+        411408,
+        445728,
+        480000,
+        514271,
+        548592,
+        582863,
+        617136,
+        651408,
+        685728,
+        720000,
+        754271,
+        788592,
+        822864,
+        857135,
+        891407,
+        925727,
+        960000,
+        994272,
+        1028591,
+        1062864,
+        1097136,
+        1131408,
+        1165727,
+        1200000,
+        1234272,
+        1268591,
+        1302864,
+        1337136,
+        1371407,
+        1405728,
+        1440000,
+        1474272,
+        1508591
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 170,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 42,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JurassicKids/JurassicKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "841b570dcdba7754ecaf1e431e5fe267",
+      "storageType": 0,
+      "url": "/public/map/JurassicKids/nx/JurassicKids_MAIN_SCENE_NX.zip/841b570dcdba7754ecaf1e431e5fe267.zip"
+    },
+    "pc": {
+      "md5": "c4f1fdcb7e3f14d909187c1bfe47dc46",
+      "storageType": 0,
+      "url": "/public/map/JurassicKids/pc/JurassicKids_MAIN_SCENE_PC.zip/c4f1fdcb7e3f14d909187c1bfe47dc46.zip"
+    },
+    "ps4": {
+      "md5": "68a11c77c18165fac407036aa51c4adc",
+      "storageType": 0,
+      "url": "/public/map/JurassicKids/orbis/JurassicKids_MAIN_SCENE_ORBIS.zip/68a11c77c18165fac407036aa51c4adc.zip"
+    }
+  },
+  "data": {
+    "mapName": "JurassicKids",
+    "title": "Boogiesaurus",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main",
+      "kidsonly"
+    ],
+    "artist": "A. Caveman & The Backseats",
+    "credits": "Composed by John Anthony (PRS). Published by KPM APM (ASCAP). Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff285a",
+    "songColor2A": "#76e3a4",
+    "songColor1B": "#48087f",
+    "songColor2B": "#1577b5",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JurassicKids/nx/JurassicKids_banner_bkg.tga.ckd/84a9d85dd175aed4ae143f08a6b414cc.ckd",
+      "map_bkgImageUrl": "/public/map/JurassicKids/nx/JurassicKids_map_bkg.tga.ckd/6471a05196fc76a40514c8121a099d00.ckd",
+      "expandCoachImageUrl": "/public/map/JurassicKids/nx/JurassicKids_Cover_AlbumCoach.tga.ckd/15fa0f6b139703cba588736c4ef61f64.ckd",
+      "cover_smallImageUrl": "/public/map/JurassicKids/nx/JurassicKids_Cover_Online.tga.ckd/a68f08483cfc6ff35a39604b3f70c17f.ckd",
+      "coverImageUrl": "/public/map/JurassicKids/nx/JurassicKids_Cover_Generic.tga.ckd/922037c697ccd9a2c9d365e1c4f1b0af.ckd",
+      "coach1ImageUrl": "/public/map/JurassicKids/nx/JurassicKids_Coach_1.tga.ckd/22a2b2300d9960d2fc8f8a280ad6b5ad.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JurassicKids/pc/JurassicKids_banner_bkg.tga.ckd/9df016294c80a52eae6e3874cbb165f1.ckd",
+      "map_bkgImageUrl": "/public/map/JurassicKids/pc/JurassicKids_map_bkg.tga.ckd/f7abc8db3428dcad02b72fad2e518b88.ckd",
+      "expandCoachImageUrl": "/public/map/JurassicKids/pc/JurassicKids_Cover_AlbumCoach.tga.ckd/7a2013d7142326304100e94e32af15a0.ckd",
+      "cover_smallImageUrl": "/public/map/JurassicKids/pc/JurassicKids_Cover_Online.tga.ckd/69ce939aecac65aacbb22c268a4e2727.ckd",
+      "coverImageUrl": "/public/map/JurassicKids/pc/JurassicKids_Cover_Generic.tga.ckd/87f516920868b3ee28f99fc078fe5a7d.ckd",
+      "coach1ImageUrl": "/public/map/JurassicKids/pc/JurassicKids_Coach_1.tga.ckd/9b0c7e1739f7b055749f4f3c62f34558.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JurassicKids/orbis/JurassicKids_banner_bkg.tga.ckd/9df016294c80a52eae6e3874cbb165f1.ckd",
+      "map_bkgImageUrl": "/public/map/JurassicKids/orbis/JurassicKids_map_bkg.tga.ckd/f7abc8db3428dcad02b72fad2e518b88.ckd",
+      "expandCoachImageUrl": "/public/map/JurassicKids/orbis/JurassicKids_Cover_AlbumCoach.tga.ckd/7a2013d7142326304100e94e32af15a0.ckd",
+      "cover_smallImageUrl": "/public/map/JurassicKids/orbis/JurassicKids_Cover_Online.tga.ckd/69ce939aecac65aacbb22c268a4e2727.ckd",
+      "coverImageUrl": "/public/map/JurassicKids/orbis/JurassicKids_Cover_Generic.tga.ckd/87f516920868b3ee28f99fc078fe5a7d.ckd",
+      "coach1ImageUrl": "/public/map/JurassicKids/orbis/JurassicKids_Coach_1.tga.ckd/9b0c7e1739f7b055749f4f3c62f34558.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JurassicKids/JurassicKids_Coach_1_Phone.png/fdae118a9c6d96435a73e7bed97d795e.png",
+    "phoneCoverImageUrl": "/public/map/JurassicKids/JurassicKids_Cover_Phone.jpg/9c213399984d6ebecd44d32777484ec4.jpg",
+    "cover640ImageUrl": "/public/map/JurassicKids/JurassicKids_Cover_640.png/c695e0d10a14be34a1c4c630b9eaa51b.png"
+  },
+  "mapLength": 124.999
+}

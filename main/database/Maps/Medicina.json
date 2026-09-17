@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f69dbc956a8b53a72c6468192b30347c",
+      "storageType": 0,
+      "url": "/public/map/Medicina/nx/Medicina_MAIN_SCENE_NX.zip/f69dbc956a8b53a72c6468192b30347c.zip"
+    },
+    "pc": {
+      "md5": "268a81014a2ca342d8c144a630cbc1bb",
+      "storageType": 0,
+      "url": "/public/map/Medicina/pc/Medicina_MAIN_SCENE_PC.zip/268a81014a2ca342d8c144a630cbc1bb.zip"
+    },
+    "ps4": {
+      "md5": "88173bf7a92e43a75bd3fff45d6cee8e",
+      "storageType": 0,
+      "url": "/public/map/Medicina/orbis/Medicina_MAIN_SCENE_ORBIS.zip/88173bf7a92e43a75bd3fff45d6cee8e.zip"
+    }
+  },
+  "data": {
+    "mapName": "Medicina",
+    "title": "Medicina",
+    "originalJDVersion": 2019,
+    "tags": [
+      "subscribedSong",
+      "JustDance2019",
+      "Quartet",
+      "Medium"
+    ],
+    "artist": "Anitta",
+    "credits": "Written by Larissa De Macedo Machado, Andy Clay, Mario Caceres, Jon Leone, Mauricio Alberto Reglero Rodriguez. Published by Littletown Publishing (ASCAP), Sony/ATV Latin Music Publishing LLC (BMI) both c/o Sony/ATV Music Publishing Canada (SOCAN). / EMI April Music Inc. (ASCAP) c/o EMI April Music (Canada) Ltd. / Universal Music Publishing MGB Ltd. / WB Music Corp. (ASCAP) and Trainer Red Publishing (ASCAP). All rights on behalf of itself and Trainer Red Publishing administered by WB Music Corp. All rights reserved. Used with permission. Courtesy of Warner Music Brazil. By arrangement with Warner Music Group Film & TV Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 4,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#076194",
+    "songColor2A": "#182246",
+    "songColor1B": "#182246",
+    "songColor2B": "#0e187d",
+    "lyricsColor": "#fb0746",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30624,
+        61296,
+        91920,
+        122544,
+        153168,
+        183840,
+        214464,
+        245088,
+        275760,
+        306384,
+        337008,
+        367680,
+        398304,
+        428928,
+        459552,
+        490224,
+        520848,
+        551472,
+        582145,
+        612769,
+        643393,
+        674065,
+        704689,
+        735313,
+        765937,
+        796609,
+        827233,
+        857857,
+        888529,
+        919153,
+        949777,
+        980449,
+        1011073,
+        1041697,
+        1072321,
+        1102993,
+        1133618,
+        1164242,
+        1194914,
+        1225538,
+        1256162,
+        1286834,
+        1317458,
+        1348082,
+        1378706,
+        1409378,
+        1440002,
+        1470626,
+        1501298
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 221,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Medicina/Medicina_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Medicina/nx/Medicina_banner_bkg.tga.ckd/532aba00df950794f9040e9555fbc2bc.ckd",
+      "map_bkgImageUrl": "/public/map/Medicina/nx/Medicina_map_bkg.tga.ckd/fe8f34bb201771025c4bc3c26591c880.ckd",
+      "expandCoachImageUrl": "/public/map/Medicina/nx/Medicina_Cover_AlbumCoach.tga.ckd/1e35628077982b5b423327ecc4c2f8b0.ckd",
+      "cover_smallImageUrl": "/public/map/Medicina/nx/Medicina_Cover_Online.tga.ckd/f254fa61e4ca6d2a480897e75da021b4.ckd",
+      "coach1ImageUrl": "/public/map/Medicina/nx/Medicina_Coach_1.tga.ckd/e7bf3442633afe2c20b455db708920e6.ckd",
+      "coach2ImageUrl": "/public/map/Medicina/nx/Medicina_Coach_2.tga.ckd/a039496bf813509e6bfc2605b44b59fc.ckd",
+      "coach3ImageUrl": "/public/map/Medicina/nx/Medicina_Coach_3.tga.ckd/1ff2c30c0b8ad0d67cc60e66f6794256.ckd",
+      "coach4ImageUrl": "/public/map/Medicina/nx/Medicina_Coach_4.tga.ckd/e1f1da0002e44025da9854e3b5816da9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Medicina/pc/Medicina_banner_bkg.tga.ckd/f5fbf7b3517884f4e9d71f0f1e6414b5.ckd",
+      "map_bkgImageUrl": "/public/map/Medicina/pc/Medicina_map_bkg.tga.ckd/2aaa1c3c1017ee64c8179fb88f7721ed.ckd",
+      "expandCoachImageUrl": "/public/map/Medicina/pc/Medicina_Cover_AlbumCoach.tga.ckd/9a497c6d6a707204c89ad0d4a96c220e.ckd",
+      "cover_smallImageUrl": "/public/map/Medicina/pc/Medicina_Cover_Online.tga.ckd/9f5f4e13bcdebf3cdce9798db555590b.ckd",
+      "coach1ImageUrl": "/public/map/Medicina/pc/Medicina_Coach_1.tga.ckd/c1376885cde7a3d4b72ee5201912fb37.ckd",
+      "coach2ImageUrl": "/public/map/Medicina/pc/Medicina_Coach_2.tga.ckd/3fbbc721f6d078578363a26081162090.ckd",
+      "coach3ImageUrl": "/public/map/Medicina/pc/Medicina_Coach_3.tga.ckd/b970f8ea206006313479d9403a65d5fe.ckd",
+      "coach4ImageUrl": "/public/map/Medicina/pc/Medicina_Coach_4.tga.ckd/ba4daa2ead44f8b54a41aaef4ac04033.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Medicina/orbis/Medicina_banner_bkg.tga.ckd/f5fbf7b3517884f4e9d71f0f1e6414b5.ckd",
+      "map_bkgImageUrl": "/public/map/Medicina/orbis/Medicina_map_bkg.tga.ckd/2aaa1c3c1017ee64c8179fb88f7721ed.ckd",
+      "expandCoachImageUrl": "/public/map/Medicina/orbis/Medicina_Cover_AlbumCoach.tga.ckd/9a497c6d6a707204c89ad0d4a96c220e.ckd",
+      "cover_smallImageUrl": "/public/map/Medicina/orbis/Medicina_Cover_Online.tga.ckd/9f5f4e13bcdebf3cdce9798db555590b.ckd",
+      "coach1ImageUrl": "/public/map/Medicina/orbis/Medicina_Coach_1.tga.ckd/c1376885cde7a3d4b72ee5201912fb37.ckd",
+      "coach2ImageUrl": "/public/map/Medicina/orbis/Medicina_Coach_2.tga.ckd/3fbbc721f6d078578363a26081162090.ckd",
+      "coach3ImageUrl": "/public/map/Medicina/orbis/Medicina_Coach_3.tga.ckd/b970f8ea206006313479d9403a65d5fe.ckd",
+      "coach4ImageUrl": "/public/map/Medicina/orbis/Medicina_Coach_4.tga.ckd/ba4daa2ead44f8b54a41aaef4ac04033.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Medicina/Medicina_Coach_1_Phone.png/43f20473fcea4d0cdcfc7b8c680b2078.png",
+    "phoneCoach2ImageUrl": "/public/map/Medicina/Medicina_Coach_2_Phone.png/fba62f9a02593d67856f3fd1d62e4023.png",
+    "phoneCoach3ImageUrl": "/public/map/Medicina/Medicina_Coach_3_Phone.png/d23d3ca30a08c76bb0aeb37f70c22f1e.png",
+    "phoneCoach4ImageUrl": "/public/map/Medicina/Medicina_Coach_4_Phone.png/6763556d8f84fc20c8c3ffda07844cc3.png",
+    "phoneCoverImageUrl": "/public/map/Medicina/Medicina_Cover_Phone.jpg/01abf8afaffbd0cb377f5e6d6c46befe.jpg",
+    "cover640ImageUrl": "/public/map/Medicina/Medicina_Cover_640.png/668552bbb0d800da587fceb95177d490.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Medicina/Medicina.ogg": "/private/map/Medicina/Medicina.ogg/b23010d8a19f4a210550f590d15e3866.ogg",
+    "jmcs://jd-contents/Medicina/Medicina_AudioPreview.ogg": "/public/map/Medicina/Medicina_AudioPreview.ogg/aa10c1238f1465f11a61a3bbbceb6992.ogg",
+    "jmcs://jd-contents/Medicina/Medicina_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Medicina/Medicina_MapPreviewNoSoundCrop_LOW.vp8.webm/283d7a9e7a8e6518e484fde82256df5e.webm",
+    "jmcs://jd-contents/Medicina/Medicina_HIGH.webm": "/private/map/Medicina/Medicina_HIGH.webm/52b23d50f34cf30e1eadd0b1d45827f7.webm",
+    "jmcs://jd-contents/Medicina/Medicina_LOW.webm": "/private/map/Medicina/Medicina_LOW.webm/2c08508c3f6aa7740aedc83b29d0a377.webm",
+    "jmcs://jd-contents/Medicina/Medicina_MID.webm": "/private/map/Medicina/Medicina_MID.webm/ccfb7c81bb29f1d2eeb28822bf248263.webm",
+    "jmcs://jd-contents/Medicina/Medicina_ULTRA.hd.webm": "/private/map/Medicina/Medicina_ULTRA.hd.webm/7941cc6b35239e920a05a08aac9cab3d.webm",
+    "jmcs://jd-contents/Medicina/Medicina_ULTRA.webm": "/private/map/Medicina/Medicina_ULTRA.webm/6f28a6dfb70bbd57039970da3618cefb.webm",
+    "jmcs://jd-contents/Medicina/Medicina_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Medicina/Medicina_MapPreviewNoSoundCrop_MID.vp8.webm/d641d94ddb90c99df259a4ddb75af4b0.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496750\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Medicina/Medicina_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"611-1100\">\n\t\t\t\t\t<Initialization range=\"0-611\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483424\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Medicina/Medicina_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"612-1102\">\n\t\t\t\t\t<Initialization range=\"0-612\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 146.807979
+}

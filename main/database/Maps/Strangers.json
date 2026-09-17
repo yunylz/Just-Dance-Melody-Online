@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Strangers/Strangers.ogg": "/private/map/Strangers/Strangers.ogg/48718dd8256e71c2a793e55a4f228b12.ogg",
+    "jmcs://jd-contents/Strangers/Strangers_AudioPreview.ogg": "/public/map/Strangers/Strangers_AudioPreview.ogg/33e0dbafd20c472e15468376a8e1a9d0.ogg",
+    "jmcs://jd-contents/Strangers/Strangers_HIGH.hd.webm": "/private/map/Strangers/Strangers_HIGH.hd.webm/cd188e72f3b91c20b10696d644fed41d.webm",
+    "jmcs://jd-contents/Strangers/Strangers_LOW.hd.webm": "/private/map/Strangers/Strangers_LOW.hd.webm/2ad2ec013088090fe611d7e43f6afefd.webm",
+    "jmcs://jd-contents/Strangers/Strangers_MID.hd.webm": "/private/map/Strangers/Strangers_MID.hd.webm/6fd32d514a0d5458cb058b0f3b86c9f2.webm",
+    "jmcs://jd-contents/Strangers/Strangers_ULTRA.hd.webm": "/private/map/Strangers/Strangers_ULTRA.hd.webm/83420a10afb8122997f0bdde19353fac.webm",
+    "jmcs://jd-contents/Strangers/Strangers_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Strangers/Strangers_MapPreviewNoSoundCrop_LOW.vp8.webm/4a186d18cc60540fb7cda6f920e0b09b.webm",
+    "jmcs://jd-contents/Strangers/Strangers_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Strangers/Strangers_MapPreviewNoSoundCrop_MID.vp8.webm/d5eb2fffd85d627d91b73c37cfa7de18.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25043,
+        50087,
+        75130,
+        100174,
+        125217,
+        150261,
+        175304,
+        200348,
+        225391,
+        250435,
+        275478,
+        300522,
+        325565,
+        350609,
+        375652,
+        400696,
+        425739,
+        450783,
+        475826,
+        500870,
+        525913,
+        550957,
+        576000,
+        601043,
+        626087,
+        651130,
+        676174,
+        701217,
+        726261,
+        751304,
+        776348,
+        801391,
+        826435,
+        851478,
+        876522,
+        901565,
+        926609,
+        951652,
+        976696,
+        1001739,
+        1026783,
+        1051826,
+        1076870,
+        1101913,
+        1126957,
+        1152000,
+        1177043,
+        1202087,
+        1227130,
+        1252174,
+        1277217,
+        1302261,
+        1327304,
+        1352348,
+        1377391,
+        1402435,
+        1427478,
+        1452522,
+        1477565
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -11,
+      "endBeat": 443,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Strangers/Strangers_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"556652\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Strangers/Strangers_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2061251\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Strangers/Strangers_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "8947c1bc6edd374c368baefe7108cbdf",
+      "storageType": 0,
+      "url": "/public/map/Strangers/nx/Strangers_MAIN_SCENE_NX.zip/8947c1bc6edd374c368baefe7108cbdf.zip"
+    },
+    "pc": {
+      "md5": "4cd02ec08c341a5718fa57743644de09",
+      "storageType": 0,
+      "url": "/public/map/Strangers/pc/Strangers_MAIN_SCENE_PC.zip/4cd02ec08c341a5718fa57743644de09.zip"
+    },
+    "ps4": {
+      "md5": "8e8dab49e990b96279e433f657813279",
+      "storageType": 0,
+      "url": "/public/map/Strangers/orbis/Strangers_MAIN_SCENE_ORBIS.zip/8e8dab49e990b96279e433f657813279.zip"
+    }
+  },
+  "data": {
+    "mapName": "Strangers",
+    "title": "Strangers",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sigrid",
+    "credits": "“Strangers” Performed by Sigrid Written by Martin Sjølie, Sigrid Raabe Published by Sony/ATV Music Publishing Allegro (UK) (PRS) / In The Park AS (BMI) administered by Songs of Kobalt Music Publishing Courtesy of Universal Music Operations Limited under license from Universal Music Canada Inc.  All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ef68f8",
+    "songColor2A": "#a1e4fa",
+    "songColor1B": "#03000e",
+    "songColor2B": "#05016e",
+    "lyricsColor": "#fed136",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Strangers/nx/Strangers_banner_bkg.tga.ckd/46e0d1fbbc597924fa2347931f204321.ckd",
+      "map_bkgImageUrl": "/public/map/Strangers/nx/Strangers_map_bkg.tga.ckd/b5acb0fb96e6e53e2d366b51ce2bb855.ckd",
+      "expandCoachImageUrl": "/public/map/Strangers/nx/Strangers_Cover_AlbumCoach.tga.ckd/27bd0e00732d02cbc86e36154dabee26.ckd",
+      "cover_smallImageUrl": "/public/map/Strangers/nx/Strangers_Cover_Online.tga.ckd/06c818ad2fef0309d60c72e445d21693.ckd",
+      "coverImageUrl": "/public/map/Strangers/nx/Strangers_Cover_Generic.tga.ckd/6cc892291c6d109d50d3c25b7ac39b1c.ckd",
+      "coach1ImageUrl": "/public/map/Strangers/nx/Strangers_Coach_1.tga.ckd/6ec1a3e9754a7d632168c72329c71e5e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Strangers/pc/Strangers_banner_bkg.tga.ckd/a0be62df0013c9113984b57589d13e4d.ckd",
+      "map_bkgImageUrl": "/public/map/Strangers/pc/Strangers_map_bkg.tga.ckd/61968d09a41ccdc199d01e3068ee185b.ckd",
+      "expandCoachImageUrl": "/public/map/Strangers/pc/Strangers_Cover_AlbumCoach.tga.ckd/1c4b07d6ca1297498251756f3b3d8892.ckd",
+      "cover_smallImageUrl": "/public/map/Strangers/pc/Strangers_Cover_Online.tga.ckd/fe42c41ed601d1137991b5d9db804bd9.ckd",
+      "coverImageUrl": "/public/map/Strangers/pc/Strangers_Cover_Generic.tga.ckd/ef19c62b2d0e26212423dcddf9634560.ckd",
+      "coach1ImageUrl": "/public/map/Strangers/pc/Strangers_Coach_1.tga.ckd/72342062c2513403d22e5da8ce2ae9f7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Strangers/orbis/Strangers_banner_bkg.tga.ckd/a0be62df0013c9113984b57589d13e4d.ckd",
+      "map_bkgImageUrl": "/public/map/Strangers/orbis/Strangers_map_bkg.tga.ckd/61968d09a41ccdc199d01e3068ee185b.ckd",
+      "expandCoachImageUrl": "/public/map/Strangers/orbis/Strangers_Cover_AlbumCoach.tga.ckd/1c4b07d6ca1297498251756f3b3d8892.ckd",
+      "cover_smallImageUrl": "/public/map/Strangers/orbis/Strangers_Cover_Online.tga.ckd/fe42c41ed601d1137991b5d9db804bd9.ckd",
+      "coverImageUrl": "/public/map/Strangers/orbis/Strangers_Cover_Generic.tga.ckd/ef19c62b2d0e26212423dcddf9634560.ckd",
+      "coach1ImageUrl": "/public/map/Strangers/orbis/Strangers_Coach_1.tga.ckd/72342062c2513403d22e5da8ce2ae9f7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Strangers/Strangers_Coach_1_Phone.png/71ffee61bd9ac4a30f4d3dc249aa380c.png",
+    "phoneCoverImageUrl": "/public/map/Strangers/Strangers_Cover_Phone.jpg/4110bff36741a7140723cf2bc4008173.jpg",
+    "cover640ImageUrl": "/public/map/Strangers/Strangers_Cover_640.png/173044814aa2da367b7bb286f62afc1e.png"
+  },
+  "mapLength": 236.869563
+}

@@ -1,0 +1,152 @@
+{
+  "urls": {
+    "jmcs://jd-contents/HowFar/HowFar.ogg": "/private/map/HowFar/HowFar.ogg/4985ae92118acb8c0be5bdda8e9c077c.ogg",
+    "jmcs://jd-contents/HowFar/HowFar_AudioPreview.ogg": "/public/map/HowFar/HowFar_AudioPreview.ogg/a5f1a2339c5f32d23e1d1ece99af746f.ogg",
+    "jmcs://jd-contents/HowFar/HowFar_HIGH.hd.webm": "/private/map/HowFar/HowFar_HIGH.hd.webm/9cdeb8164ff88ea6f6b1252cb472fbc9.webm",
+    "jmcs://jd-contents/HowFar/HowFar_LOW.hd.webm": "/private/map/HowFar/HowFar_LOW.hd.webm/a8cf4a499ff8a967d16f3c6fec3e2a4b.webm",
+    "jmcs://jd-contents/HowFar/HowFar_MID.hd.webm": "/private/map/HowFar/HowFar_MID.hd.webm/59945d6bc4edd9f338cc38abe3c267e8.webm",
+    "jmcs://jd-contents/HowFar/HowFar_ULTRA.hd.webm": "/private/map/HowFar/HowFar_ULTRA.hd.webm/a40e65b492be7169805c38f2a2afc633.webm",
+    "jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HowFar/HowFar_MapPreviewNoSoundCrop_LOW.vp8.webm/26662534c8cff54647ab7dfb0af759b4.webm",
+    "jmcs://jd-contents/HowFar/HowFar_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HowFar/HowFar_MapPreviewNoSoundCrop_MID.vp8.webm/be5f876ac2d3e91c3fbc886bdf8e0e5f.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        37392,
+        74784,
+        112224,
+        149616,
+        187008,
+        224400,
+        261840,
+        299232,
+        336624,
+        374016,
+        411408,
+        448848,
+        486240,
+        523632,
+        561025,
+        598465,
+        635857,
+        673249,
+        710641,
+        748033,
+        785473,
+        822865,
+        857809,
+        892705,
+        927649,
+        962593,
+        998785,
+        1034929,
+        1071121,
+        1107314,
+        1143458,
+        1179650,
+        1215842,
+        1251986,
+        1287650,
+        1323362,
+        1359026,
+        1394690,
+        1430354,
+        1466018,
+        1502546
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 226,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 39,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HowFar/HowFar_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "873817f3db006c85c324f9a2d73bc403",
+      "storageType": 0,
+      "url": "/public/map/HowFar/nx/HowFar_MAIN_SCENE_NX.zip/873817f3db006c85c324f9a2d73bc403.zip"
+    },
+    "pc": {
+      "md5": "bc63153d687097083afb0ea3bf7f4194",
+      "storageType": 0,
+      "url": "/public/map/HowFar/pc/HowFar_MAIN_SCENE_PC.zip/bc63153d687097083afb0ea3bf7f4194.zip"
+    },
+    "ps4": {
+      "md5": "4d57b2f5e064326ade10a7ca0b1c4462",
+      "storageType": 0,
+      "url": "/public/map/HowFar/orbis/HowFar_MAIN_SCENE_ORBIS.zip/4d57b2f5e064326ade10a7ca0b1c4462.zip"
+    }
+  },
+  "data": {
+    "mapName": "HowFar",
+    "title": "How Far I'll Go",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main"
+    ],
+    "artist": "Disney's Moana",
+    "credits": "Written by Lin-Manuel Miranda. Published by Walt Disney Music Company (ASCAP). Courtesy of Walt Disney Records @ 2016. Moana animation assets courtesy of Walt Disney Animation Studios. Moana logo property of The Walt Disney Company. All rights reserved. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f9a931",
+    "songColor2A": "#009dff",
+    "songColor1B": "#a0211b",
+    "songColor2B": "#0a28ad",
+    "lyricsColor": "#00c0fe",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HowFar/nx/HowFar_banner_bkg.tga.ckd/06a7e847f37f0f7f3df1724cdec7ceae.ckd",
+      "map_bkgImageUrl": "/public/map/HowFar/nx/HowFar_map_bkg.tga.ckd/761795c5569f8d9fc970bea13e550c2e.ckd",
+      "expandCoachImageUrl": "/public/map/HowFar/nx/HowFar_Cover_AlbumCoach.tga.ckd/a373faad63aac69020aa978d0276ead6.ckd",
+      "cover_smallImageUrl": "/public/map/HowFar/nx/HowFar_Cover_Online.tga.ckd/e4fc4866945516206ab38d1a0e2f8be0.ckd",
+      "coverImageUrl": "/public/map/HowFar/nx/HowFar_Cover_Generic.tga.ckd/19355ec336325a5b7beb90abbd4c5616.ckd",
+      "coach1ImageUrl": "/public/map/HowFar/nx/HowFar_Coach_1.tga.ckd/47e335e1c90fd25fafa728b6cb64b2d9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HowFar/pc/HowFar_banner_bkg.tga.ckd/1bbba92dc4f786c9589521f44fd6e4c2.ckd",
+      "map_bkgImageUrl": "/public/map/HowFar/pc/HowFar_map_bkg.tga.ckd/918135601524cb24679d4b2ea912d0bf.ckd",
+      "expandCoachImageUrl": "/public/map/HowFar/pc/HowFar_Cover_AlbumCoach.tga.ckd/9fc6c8c487c5452ac5a8b79ec4f68a16.ckd",
+      "cover_smallImageUrl": "/public/map/HowFar/pc/HowFar_Cover_Online.tga.ckd/48b3151860b0714e6bcdf4065c1edc6b.ckd",
+      "coverImageUrl": "/public/map/HowFar/pc/HowFar_Cover_Generic.tga.ckd/79f6783907aec633467999d53f6969ae.ckd",
+      "coach1ImageUrl": "/public/map/HowFar/pc/HowFar_Coach_1.tga.ckd/08992dade0d8af15766ee76bc1b18580.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HowFar/orbis/HowFar_banner_bkg.tga.ckd/1bbba92dc4f786c9589521f44fd6e4c2.ckd",
+      "map_bkgImageUrl": "/public/map/HowFar/orbis/HowFar_map_bkg.tga.ckd/918135601524cb24679d4b2ea912d0bf.ckd",
+      "expandCoachImageUrl": "/public/map/HowFar/orbis/HowFar_Cover_AlbumCoach.tga.ckd/9fc6c8c487c5452ac5a8b79ec4f68a16.ckd",
+      "cover_smallImageUrl": "/public/map/HowFar/orbis/HowFar_Cover_Online.tga.ckd/48b3151860b0714e6bcdf4065c1edc6b.ckd",
+      "coverImageUrl": "/public/map/HowFar/orbis/HowFar_Cover_Generic.tga.ckd/79f6783907aec633467999d53f6969ae.ckd",
+      "coach1ImageUrl": "/public/map/HowFar/orbis/HowFar_Coach_1.tga.ckd/08992dade0d8af15766ee76bc1b18580.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HowFar/HowFar_Coach_1_Phone.png/794467cd03b7f5b437883e7e247a63d5.png",
+    "phoneCoverImageUrl": "/public/map/HowFar/HowFar_Cover_Phone.jpg/34308ea49fc9f85db125aedafe051ee7.jpg",
+    "cover640ImageUrl": "/public/map/HowFar/HowFar_Cover_640.png/0036726a743f93356aae62bff0b75da3.png"
+  },
+  "mapLength": 166.619042
+}

@@ -1,0 +1,161 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "dfa8d1115b656ca66a9c946441aea4e1",
+      "storageType": 0,
+      "url": "/public/map/DiamondsALT/nx/DiamondsALT_MAIN_SCENE_NX.zip/dfa8d1115b656ca66a9c946441aea4e1.zip"
+    },
+    "pc": {
+      "md5": "d4616bdfb240c799318d0c7b01aaf580",
+      "storageType": 0,
+      "url": "/public/map/DiamondsALT/pc/DiamondsALT_MAIN_SCENE_PC.zip/d4616bdfb240c799318d0c7b01aaf580.zip"
+    },
+    "ps4": {
+      "md5": "d3733ed59f2d5d3cb8725580f9757aaf",
+      "storageType": 0,
+      "url": "/public/map/DiamondsALT/orbis/DiamondsALT_MAIN_SCENE_ORBIS.zip/d3733ed59f2d5d3cb8725580f9757aaf.zip"
+    }
+  },
+  "data": {
+    "mapName": "DiamondsALT",
+    "title": "Diamonds",
+    "originalJDVersion": 2015,
+    "tags": [
+      "Main"
+    ],
+    "artist": "Rihanna",
+    "credits": "Written by Benjamin Levin,  Mikkel Eriksen, Tor Hermansen and Sia Furler. Published by Lotzah Matzah Songs LLC and Prescription Songs LLC. Administered by Kobalt Music Publishing America, Inc. / EMI Music Publishing Ltd. (PRS) and EMI April Music Inc. (ASCAP) c/o EMI April Music (Canada) Ltd. (SOCAN). All rights reserved.  Used with permission. Courtesy of Def Jam Recordings under license from Universal Music Enterprises.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff5757",
+    "songColor2A": "#ffca57",
+    "songColor1B": "#1f0000",
+    "songColor2B": "#2e1f00",
+    "lyricsColor": "#da8634"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31295,
+        62591,
+        93935,
+        125231,
+        156527,
+        187823,
+        219119,
+        250415,
+        281759,
+        313055,
+        344351,
+        375647,
+        406943,
+        438239,
+        469583,
+        500878,
+        532174,
+        563470,
+        594766,
+        626062,
+        657406,
+        688702,
+        719998,
+        751294,
+        782590,
+        813934,
+        845230,
+        876526,
+        907822,
+        939118,
+        970414,
+        1001757,
+        1033053,
+        1064349,
+        1095645,
+        1126941,
+        1158237,
+        1189581,
+        1220877,
+        1252173,
+        1283469,
+        1314765,
+        1346061,
+        1377405,
+        1408701,
+        1439997,
+        1471293,
+        1502588
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 346,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DiamondsALT/DiamondsALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DiamondsALT/nx/DiamondsALT_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/DiamondsALT/nx/DiamondsALT_map_bkg.tga.ckd/ba180018ca0980565c1a42fae8b39137.ckd",
+      "expandCoachImageUrl": "/public/map/DiamondsALT/nx/DiamondsALT_Cover_AlbumCoach.tga.ckd/276a8879aa3494f2feff0987f283a498.ckd",
+      "cover_smallImageUrl": "/public/map/DiamondsALT/nx/DiamondsALT_Cover_Online.tga.ckd/06d98d843a12c61f20626a23bf6b5f4d.ckd",
+      "coach1ImageUrl": "/public/map/DiamondsALT/nx/DiamondsALT_Coach_1.tga.ckd/e48b96c9abc9185aa4aa53afaef9b03f.ckd",
+      "coach2ImageUrl": "/public/map/DiamondsALT/nx/DiamondsALT_Coach_2.tga.ckd/266fb452db1f223ccc73d428cd0715ec.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DiamondsALT/pc/DiamondsALT_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/DiamondsALT/pc/DiamondsALT_map_bkg.tga.ckd/669989501bedc4984844182656cc0202.ckd",
+      "expandCoachImageUrl": "/public/map/DiamondsALT/pc/DiamondsALT_Cover_AlbumCoach.tga.ckd/e7835493d066231a40f386e412ab342d.ckd",
+      "cover_smallImageUrl": "/public/map/DiamondsALT/pc/DiamondsALT_Cover_Online.tga.ckd/e9785a88d37c6e51c2937c26bb914073.ckd",
+      "coach1ImageUrl": "/public/map/DiamondsALT/pc/DiamondsALT_Coach_1.tga.ckd/87e37c78a10fd5b79d1048dc4cb5e0fe.ckd",
+      "coach2ImageUrl": "/public/map/DiamondsALT/pc/DiamondsALT_Coach_2.tga.ckd/f78be4820c612e5e5816200dbd1018ee.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DiamondsALT/orbis/DiamondsALT_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/DiamondsALT/orbis/DiamondsALT_map_bkg.tga.ckd/669989501bedc4984844182656cc0202.ckd",
+      "expandCoachImageUrl": "/public/map/DiamondsALT/orbis/DiamondsALT_Cover_AlbumCoach.tga.ckd/e7835493d066231a40f386e412ab342d.ckd",
+      "cover_smallImageUrl": "/public/map/DiamondsALT/orbis/DiamondsALT_Cover_Online.tga.ckd/e9785a88d37c6e51c2937c26bb914073.ckd",
+      "coach1ImageUrl": "/public/map/DiamondsALT/orbis/DiamondsALT_Coach_1.tga.ckd/87e37c78a10fd5b79d1048dc4cb5e0fe.ckd",
+      "coach2ImageUrl": "/public/map/DiamondsALT/orbis/DiamondsALT_Coach_2.tga.ckd/f78be4820c612e5e5816200dbd1018ee.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DiamondsALT/DiamondsALT_Coach_1_Phone.png/ecd3daaf384c62245213383f0f8c560a.png",
+    "phoneCoach2ImageUrl": "/public/map/DiamondsALT/DiamondsALT_Coach_2_Phone.png/e96c373ba88bcd04a83d9fbc60ac7b24.png",
+    "phoneCoverImageUrl": "/public/map/DiamondsALT/DiamondsALT_Cover_Phone.jpg/ee9dd45244a659bfea25730783946be7.jpg",
+    "cover640ImageUrl": "/public/map/DiamondsALT/DiamondsALT_Cover_640.png/c1325908048894e79991829924f6f3dc.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DiamondsALT/DiamondsALT.ogg": "/private/map/DiamondsALT/DiamondsALT.ogg/8f7cf9fc9f11a671837b360d38943996.ogg",
+    "jmcs://jd-contents/DiamondsALT/DiamondsALT_AudioPreview.ogg": "/public/map/DiamondsALT/DiamondsALT_AudioPreview.ogg/e677bcdd29f2ca4d848a3c77ea5c2d5b.ogg",
+    "jmcs://jd-contents/DiamondsALT/DiamondsALT_HIGH.webm": "/private/map/DiamondsALT/DiamondsALT_HIGH.webm/b083101e29085cdbf170046be99a313d.webm",
+    "jmcs://jd-contents/DiamondsALT/DiamondsALT_LOW.webm": "/private/map/DiamondsALT/DiamondsALT_LOW.webm/d778d4f08f5d5d9608152956758aeab9.webm",
+    "jmcs://jd-contents/DiamondsALT/DiamondsALT_MID.webm": "/private/map/DiamondsALT/DiamondsALT_MID.webm/08aadd3bb29517ca7134bc08da25d6f1.webm",
+    "jmcs://jd-contents/DiamondsALT/DiamondsALT_ULTRA.hd.webm": "/private/map/DiamondsALT/DiamondsALT_ULTRA.hd.webm/d7e83d67901154347659689ace977cc4.webm",
+    "jmcs://jd-contents/DiamondsALT/DiamondsALT_ULTRA.webm": "/private/map/DiamondsALT/DiamondsALT_ULTRA.webm/1af85b4b752789ff1dd029d76df0662c.webm",
+    "jmcs://jd-contents/DiamondsALT/DiamondsALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DiamondsALT/DiamondsALT_MapPreviewNoSoundCrop_LOW.vp8.webm/ecb810c4a1bd90043a369f99ebc36bf4.webm",
+    "jmcs://jd-contents/DiamondsALT/DiamondsALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DiamondsALT/DiamondsALT_MapPreviewNoSoundCrop_MID.vp8.webm/610e8eaf8e1d9e6245f0bfb6d974487c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"487900\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DiamondsALT/DiamondsALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"592-1081\">\n\t\t\t\t\t<Initialization range=\"0-592\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1199436\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DiamondsALT/DiamondsALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\n\t\t\t\t\t<Initialization range=\"0-593\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 225.651833
+}

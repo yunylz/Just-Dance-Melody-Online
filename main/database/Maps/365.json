@@ -1,0 +1,161 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9c1bc9ec65059ffff6dcaae92c51d964",
+      "storageType": 0,
+      "url": "/public/map/365/nx/365_MAIN_SCENE_NX.zip/9c1bc9ec65059ffff6dcaae92c51d964.zip"
+    },
+    "pc": {
+      "md5": "10d38eb22fd454bc4ebffeb837c02c0f",
+      "storageType": 0,
+      "url": "/public/map/365/pc/365_MAIN_SCENE_PC.zip/10d38eb22fd454bc4ebffeb837c02c0f.zip"
+    },
+    "ps4": {
+      "md5": "6a3be85eb0ccf18df86e0becb8d1685d",
+      "storageType": 0,
+      "url": "/public/map/365/orbis/365_MAIN_SCENE_ORBIS.zip/6a3be85eb0ccf18df86e0becb8d1685d.zip"
+    }
+  },
+  "data": {
+    "mapName": "365",
+    "title": "365",
+    "originalJDVersion": 2020,
+    "tags": [
+      "main"
+    ],
+    "artist": "Zedd & Katy Perry",
+    "credits": "Written by Anton Zaslavski, Caroline Ailin, Corey Sanders, Katy Perry, Daniel Davidsen, Peter Wallevik and Mich Hansen. Published by Universal Music Publishing Canada on behalf of Universal Music Corp. \\/ Reservoir 416 (BMI) obo Reservoir\\/Reverb Music LTD (PRS and Cutfather Publishing Limited (PRS). \\/ Spirit 2 Music Inc. \\/ Wallevik Music A \\/ When I'm Rich You'll Be My Bitch (ASCAP). All rights on behalf of When I'm Rich You'll Be My Bitch administered by WB Music Corp. \\/ BMG Platinum Songs US on behalf of Itself and Waterfall Music As. All rights administered by BMG Rights Management (US) LLC. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#92ecf7",
+    "songColor2A": "#bb76e0",
+    "songColor1B": "#2b2b84",
+    "songColor2B": "#8256c0",
+    "lyricsColor": "#ff0465",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29388,
+        58776,
+        88163,
+        117551,
+        146939,
+        176327,
+        205714,
+        235102,
+        264490,
+        293878,
+        323265,
+        352653,
+        382041,
+        411429,
+        440816,
+        470204,
+        499592,
+        528980,
+        558367,
+        587755,
+        617143,
+        646531,
+        675918,
+        705306,
+        734694,
+        764082,
+        793469,
+        822857,
+        852245,
+        881633,
+        911020,
+        940408,
+        969796,
+        999184,
+        1028571,
+        1057959,
+        1087347,
+        1116735,
+        1146122,
+        1175510,
+        1204898,
+        1234286,
+        1263673,
+        1293061,
+        1322449,
+        1351837,
+        1381224,
+        1410612,
+        1440000,
+        1469388,
+        1498776
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 300,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/365/365_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/365/nx/365_banner_bkg.tga.ckd/e36b6aa08521c435620bb6478caabe7e.ckd",
+      "map_bkgImageUrl": "/public/map/365/nx/365_map_bkg.tga.ckd/461fd9025c1cc56f38eb47242fa26988.ckd",
+      "expandCoachImageUrl": "/public/map/365/nx/365_Cover_AlbumCoach.tga.ckd/fa648a48ad40083643ed3e5988049d0a.ckd",
+      "cover_smallImageUrl": "/public/map/365/nx/365_Cover_Online.tga.ckd/247b2b6ee2d8c0e12f25c0e4f8f3b7ab.ckd",
+      "coach1ImageUrl": "/public/map/365/nx/365_Coach_1.tga.ckd/13619c608199f12bb100ca7d98189d43.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/365/pc/365_banner_bkg.tga.ckd/eda4e19b38ea764a79dde632b68caa62.ckd",
+      "map_bkgImageUrl": "/public/map/365/pc/365_map_bkg.tga.ckd/9ac8775af58b84195948ca545a02498a.ckd",
+      "expandCoachImageUrl": "/public/map/365/pc/365_Cover_AlbumCoach.tga.ckd/31b2083d5475675d8675c2307e746e28.ckd",
+      "cover_smallImageUrl": "/public/map/365/pc/365_Cover_Online.tga.ckd/324986123a4189d2593c39d036fd3931.ckd",
+      "coach1ImageUrl": "/public/map/365/pc/365_Coach_1.tga.ckd/e5a3488fb8763dc7bcf5cfb043e00b0a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/365/orbis/365_banner_bkg.tga.ckd/eda4e19b38ea764a79dde632b68caa62.ckd",
+      "map_bkgImageUrl": "/public/map/365/orbis/365_map_bkg.tga.ckd/9ac8775af58b84195948ca545a02498a.ckd",
+      "expandCoachImageUrl": "/public/map/365/orbis/365_Cover_AlbumCoach.tga.ckd/31b2083d5475675d8675c2307e746e28.ckd",
+      "cover_smallImageUrl": "/public/map/365/orbis/365_Cover_Online.tga.ckd/324986123a4189d2593c39d036fd3931.ckd",
+      "coach1ImageUrl": "/public/map/365/orbis/365_Coach_1.tga.ckd/e5a3488fb8763dc7bcf5cfb043e00b0a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/365/365_Coach_1_Phone.png/",
+    "phoneCoverImageUrl": "/public/map/365/365_Cover_Phone.jpg/",
+    "cover640ImageUrl": "/public/map/365/365_Cover_640.png/03303cdfa9cbc9aabee8e0206c80a08a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/365/365.ogg": "/private/map/365/365.ogg/32c7fc6b06a0e41a57d19c18f8827159.ogg",
+    "jmcs://jd-contents/365/365_AudioPreview.ogg": "/public/map/365/365_AudioPreview.ogg/165b388cf2400da6efa18977994f6997.ogg",
+    "jmcs://jd-contents/365/365_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/365/365_MapPreviewNoSoundCrop_LOW.vp8.webm/5f5017ed6efc1578f7a6ba7156cbb305.webm",
+    "jmcs://jd-contents/365/365_HIGH.webm": "/private/map/365/365_HIGH.webm/8b996327ec1df63cd07960ad4064727f.webm",
+    "jmcs://jd-contents/365/365_LOW.webm": "/private/map/365/365_LOW.webm/7c4ad51472c2b7b40b1a745f93911532.webm",
+    "jmcs://jd-contents/365/365_MID.webm": "/private/map/365/365_MID.webm/b1ff93c0a86b93a258c275408dc6cbe5.webm",
+    "jmcs://jd-contents/365/365_ULTRA.hd.webm": "/private/map/365/365_ULTRA.hd.webm/dc548080bedad997b0d48b84988e5462.webm",
+    "jmcs://jd-contents/365/365_ULTRA.webm": "/private/map/365/365_ULTRA.webm/2175ac73a1350c89bf4bb1350b939c48.webm",
+    "jmcs://jd-contents/365/365_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/365/365_MapPreviewNoSoundCrop_MID.vp8.webm/197ac4869e9a94c1930d787867d0102d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"536179\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/365/365_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"585-1075\">\n\t\t\t\t\t<Initialization range=\"0-585\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1498613\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/365/365_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"586-1076\">\n\t\t\t\t\t<Initialization range=\"0-586\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 184.897833
+}

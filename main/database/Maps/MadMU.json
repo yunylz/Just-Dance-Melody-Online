@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MadMU/MadMU_HIGH.hd.webm": "/private/map/MadMU/MadMU_HIGH.hd.webm/1f4e3cb761219513e7972343328d0eaf.webm",
+    "jmcs://jd-contents/MadMU/MadMU_LOW.hd.webm": "/private/map/MadMU/MadMU_LOW.hd.webm/fc92f06f5748a510534a79137250db67.webm",
+    "jmcs://jd-contents/MadMU/MadMU_MID.hd.webm": "/private/map/MadMU/MadMU_MID.hd.webm/c4c6ee935085c294b3c38b59b2d8f915.webm",
+    "jmcs://jd-contents/MadMU/MadMU_ULTRA.hd.webm": "/private/map/MadMU/MadMU_ULTRA.hd.webm/691cfeaef0fce80c6fad599fa3e475fa.webm",
+    "jmcs://jd-contents/MadMU/MadMU.ogg": "/private/map/MadMU/MadMU.ogg/6fa4fb7c2be8780e6f3ab122ea010cc4.ogg",
+    "jmcs://jd-contents/MadMU/MadMU_AudioPreview.ogg": "/public/map/MadMU/MadMU_AudioPreview.ogg/07a90b9dcde4ac916545ef7737659148.ogg",
+    "jmcs://jd-contents/MadMU/MadMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MadMU/MadMU_MapPreviewNoSoundCrop_LOW.vp8.webm/e031c221cb8638f362f77c197faea908.webm",
+    "jmcs://jd-contents/MadMU/MadMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MadMU/MadMU_MapPreviewNoSoundCrop_MID.vp8.webm/72d654bf01bb9e394bce9a12a7a14423.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        167999,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        335999,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        671999,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1343999,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 385,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MadMU/MadMU_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "405f49d51f954e677e5b8cbb143e7f5d",
+      "storageType": 0,
+      "url": "/public/map/MadMU/nx/MadMU_MAIN_SCENE_NX.zip/405f49d51f954e677e5b8cbb143e7f5d.zip"
+    },
+    "pc": {
+      "md5": "7eab6055dcb5805f2550a61ce0303b3f",
+      "storageType": 0,
+      "url": "/public/map/MadMU/pc/MadMU_MAIN_SCENE_PC.zip/7eab6055dcb5805f2550a61ce0303b3f.zip"
+    },
+    "ps4": {
+      "md5": "f35bd6afda631d6b8426de45c71714c3",
+      "storageType": 0,
+      "url": "/public/map/MadMU/orbis/MadMU_MAIN_SCENE_ORBIS.zip/f35bd6afda631d6b8426de45c71714c3.zip"
+    }
+  },
+  "data": {
+    "mapName": "MadMU",
+    "title": "Maps",
+    "originalJDVersion": 2015,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Maroon 5",
+    "credits": "Written by Adam Levine, Ryan Tedder, Benjamin Levin, Ammar Malik and Noel Zancanella. Published by Prescription Songs, Sudgee 2 Music, Lotzah Matzah Songs LLC, Write 2 Live, and Patriot Entertainment. Courtesy of Interscope Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#1bbad9",
+    "songColor2A": "#f799f2",
+    "songColor1B": "#002474",
+    "songColor2B": "#740089",
+    "lyricsColor": "#ffc72e",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MadMU/nx/MadMU_banner_bkg.tga.ckd/3fe33e389313ed04b89a8a112138449c.ckd",
+      "map_bkgImageUrl": "/public/map/MadMU/nx/MadMU_map_bkg.tga.ckd/ded2da12463803a0a9b05e81293a693e.ckd",
+      "expandCoachImageUrl": "/public/map/MadMU/nx/MadMU_Cover_AlbumCoach.tga.ckd/7e934fdfed294ed61629f66374e25f82.ckd",
+      "cover_smallImageUrl": "/public/map/MadMU/nx/MadMU_Cover_Online.tga.ckd/3d7250273d09512941241f02abe3c4fb.ckd",
+      "coverImageUrl": "/public/map/MadMU/nx/MadMU_Cover_Generic.tga.ckd/e82ded354cba8b7ec020c987370eedd2.ckd",
+      "coach1ImageUrl": "/public/map/MadMU/nx/MadMU_Coach_1.tga.ckd/1635d5028206d9d441ec209451561b22.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MadMU/pc/MadMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/MadMU/pc/MadMU_map_bkg.tga.ckd/5d18859b43d869ce8dd031fe694acda2.ckd",
+      "expandCoachImageUrl": "/public/map/MadMU/pc/MadMU_Cover_AlbumCoach.tga.ckd/da686f7373a587f75b6e2863d8a63851.ckd",
+      "cover_smallImageUrl": "/public/map/MadMU/pc/MadMU_Cover_Online.tga.ckd/e5c4da80da1050f8ca4870a02f216028.ckd",
+      "coverImageUrl": "/public/map/MadMU/pc/MadMU_Cover_Generic.tga.ckd/5c4404b49471445e47f59889915b7f0b.ckd",
+      "coach1ImageUrl": "/public/map/MadMU/pc/MadMU_Coach_1.tga.ckd/b3208f2a52a8e8dd825fda2f2bce4fc7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MadMU/orbis/MadMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/MadMU/orbis/MadMU_map_bkg.tga.ckd/5d18859b43d869ce8dd031fe694acda2.ckd",
+      "expandCoachImageUrl": "/public/map/MadMU/orbis/MadMU_Cover_AlbumCoach.tga.ckd/da686f7373a587f75b6e2863d8a63851.ckd",
+      "cover_smallImageUrl": "/public/map/MadMU/orbis/MadMU_Cover_Online.tga.ckd/e5c4da80da1050f8ca4870a02f216028.ckd",
+      "coverImageUrl": "/public/map/MadMU/orbis/MadMU_Cover_Generic.tga.ckd/5c4404b49471445e47f59889915b7f0b.ckd",
+      "coach1ImageUrl": "/public/map/MadMU/orbis/MadMU_Coach_1.tga.ckd/b3208f2a52a8e8dd825fda2f2bce4fc7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MadMU/MadMU_Coach_1_Phone.png/c3572d39119b36314ff960b70824a027.png",
+    "phoneCoverImageUrl": "/public/map/MadMU/MadMU_Cover_Phone.jpg/3273fb7338a16ea2a197d6808bc187ea.jpg",
+    "cover640ImageUrl": "/public/map/MadMU/MadMU_Cover_640.png/5f1afa0e6efc0e095158c7ea8bfe3b8e.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"570937\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MadMU/MadMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"750-1240\">\n\t\t\t\t\t<Initialization range=\"0-750\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1968434\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MadMU/MadMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"750-1240\">\n\t\t\t\t\t<Initialization range=\"0-750\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 190.0
+}

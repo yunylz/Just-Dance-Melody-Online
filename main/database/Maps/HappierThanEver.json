@@ -1,0 +1,158 @@
+{
+  "urls": {
+    "jmcs://jd-contents/HappierThanEver/HappierThanEver.ogg": "/private/map/HappierThanEver/HappierThanEver.ogg/d3246a5d804eb5efd7bd2c8f03158f45.ogg",
+    "jmcs://jd-contents/HappierThanEver/HappierThanEver_AudioPreview.ogg": "/public/map/HappierThanEver/HappierThanEver_AudioPreview.ogg/328d7310274bf0230ec5d51c2156276d.ogg",
+    "jmcs://jd-contents/HappierThanEver/HappierThanEver_HIGH.hd.webm": "/private/map/HappierThanEver/HappierThanEver_HIGH.hd.webm/bab31ebf566e923fb988e643b73e7767.webm",
+    "jmcs://jd-contents/HappierThanEver/HappierThanEver_LOW.hd.webm": "/private/map/HappierThanEver/HappierThanEver_LOW.hd.webm/0ac5286fa1e74b381af782aa73af6348.webm",
+    "jmcs://jd-contents/HappierThanEver/HappierThanEver_MID.hd.webm": "/private/map/HappierThanEver/HappierThanEver_MID.hd.webm/dacc417ba09a8564c260f8dcf24b6200.webm",
+    "jmcs://jd-contents/HappierThanEver/HappierThanEver_ULTRA.hd.webm": "/private/map/HappierThanEver/HappierThanEver_ULTRA.hd.webm/dbca49cc7993df9b7c84de6f2cf3e8b3.webm",
+    "jmcs://jd-contents/HappierThanEver/HappierThanEver_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HappierThanEver/HappierThanEver_MapPreviewNoSoundCrop_LOW.vp8.webm/b301118201fde1eedb22e0b6631af3a4.webm",
+    "jmcs://jd-contents/HappierThanEver/HappierThanEver_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HappierThanEver/HappierThanEver_MapPreviewNoSoundCrop_MID.vp8.webm/2bdeaa9f966da538b9c5cf63abeb776b.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31831,
+        63662,
+        95492,
+        127323,
+        159979,
+        192634,
+        225290,
+        257945,
+        288612,
+        319279,
+        349946,
+        380613,
+        413025,
+        445438,
+        477850,
+        510263,
+        542694,
+        575125,
+        607556,
+        639987,
+        671821,
+        703654,
+        735488,
+        767321,
+        799420,
+        831518,
+        863617,
+        895716,
+        927510,
+        959304,
+        991098,
+        1022892,
+        1056084,
+        1089275,
+        1122467,
+        1155659,
+        1188371,
+        1221084,
+        1253796,
+        1286509,
+        1318329,
+        1350150,
+        1381970,
+        1413790,
+        1444422,
+        1475053,
+        1505684
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 515,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 45,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HappierThanEver/HappierThanEver_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "f238741da3087e3f59eb8988c80681ae",
+      "storageType": 0,
+      "url": "/public/map/HappierThanEver/nx/HappierThanEver_MAIN_SCENE_NX.zip/f238741da3087e3f59eb8988c80681ae.zip"
+    },
+    "pc": {
+      "md5": "0f8e42e48b4d3543a9df1cf1539f5754",
+      "storageType": 0,
+      "url": "/public/map/HappierThanEver/pc/HappierThanEver_MAIN_SCENE_PC.zip/0f8e42e48b4d3543a9df1cf1539f5754.zip"
+    },
+    "ps4": {
+      "md5": "9f408cac71391f9593f5e27b517f29ee",
+      "storageType": 0,
+      "url": "/public/map/HappierThanEver/orbis/HappierThanEver_MAIN_SCENE_ORBIS.zip/9f408cac71391f9593f5e27b517f29ee.zip"
+    }
+  },
+  "data": {
+    "mapName": "HappierThanEver",
+    "title": "Happier Than Ever",
+    "originalJDVersion": 2022,
+    "tags": [
+      "main"
+    ],
+    "artist": "Billie Eilish",
+    "credits": "Written by Billie Eilish O’Connell and Finneas O’Connell. Published by Last Frontier (ASCAP). Administered by Kobalt Music Publishing America, Inc. / Universal Music Publishing Canada on behalf of DRUP and Universal Music Corp. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#e4605a",
+    "songColor2A": "#c3abf5",
+    "songColor1B": "#2d1966",
+    "songColor2B": "#6c1400",
+    "lyricsColor": "#ffa710",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HappierThanEver/nx/HappierThanEver_banner_bkg.tga.ckd/ed265ff7cb19560faf221528184ca0a0.ckd",
+      "map_bkgImageUrl": "/public/map/HappierThanEver/nx/HappierThanEver_map_bkg.tga.ckd/63fb66fb8613cceb3826d1673dfc6367.ckd",
+      "expandCoachImageUrl": "/public/map/HappierThanEver/nx/HappierThanEver_Cover_AlbumCoach.tga.ckd/1393a5ddef67b75922bf31767448869f.ckd",
+      "cover_smallImageUrl": "/public/map/HappierThanEver/nx/HappierThanEver_Cover_Online.tga.ckd/51bc018e55b971c6112691c0ddc28ceb.ckd",
+      "coverImageUrl": "/public/map/HappierThanEver/nx/HappierThanEver_Cover_Generic.tga.ckd/1591e5afc47201abf22d4123f30b43c7.ckd",
+      "coach1ImageUrl": "/public/map/HappierThanEver/nx/HappierThanEver_Coach_1.tga.ckd/89f1f60fc82b718d12de4aef65171505.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HappierThanEver/pc/HappierThanEver_banner_bkg.tga.ckd/7bfc5f2e0ae35cf0cd1ee27428b506dc.ckd",
+      "map_bkgImageUrl": "/public/map/HappierThanEver/pc/HappierThanEver_map_bkg.tga.ckd/5e2e5b954afcde4da88169f7de392e0a.ckd",
+      "expandCoachImageUrl": "/public/map/HappierThanEver/pc/HappierThanEver_Cover_AlbumCoach.tga.ckd/52b252a3ec11000c5be6c2dbafd6babf.ckd",
+      "cover_smallImageUrl": "/public/map/HappierThanEver/pc/HappierThanEver_Cover_Online.tga.ckd/abc62b645b92ec6381b88834b2e8bd74.ckd",
+      "coverImageUrl": "/public/map/HappierThanEver/pc/HappierThanEver_Cover_Generic.tga.ckd/4bf2a296ab38ea59744c3aad9b127a7a.ckd",
+      "coach1ImageUrl": "/public/map/HappierThanEver/pc/HappierThanEver_Coach_1.tga.ckd/b40e9e33dcc039fcded7788c32c4e826.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HappierThanEver/orbis/HappierThanEver_banner_bkg.tga.ckd/7bfc5f2e0ae35cf0cd1ee27428b506dc.ckd",
+      "map_bkgImageUrl": "/public/map/HappierThanEver/orbis/HappierThanEver_map_bkg.tga.ckd/5e2e5b954afcde4da88169f7de392e0a.ckd",
+      "expandCoachImageUrl": "/public/map/HappierThanEver/orbis/HappierThanEver_Cover_AlbumCoach.tga.ckd/52b252a3ec11000c5be6c2dbafd6babf.ckd",
+      "cover_smallImageUrl": "/public/map/HappierThanEver/orbis/HappierThanEver_Cover_Online.tga.ckd/abc62b645b92ec6381b88834b2e8bd74.ckd",
+      "coverImageUrl": "/public/map/HappierThanEver/orbis/HappierThanEver_Cover_Generic.tga.ckd/4bf2a296ab38ea59744c3aad9b127a7a.ckd",
+      "coach1ImageUrl": "/public/map/HappierThanEver/orbis/HappierThanEver_Coach_1.tga.ckd/b40e9e33dcc039fcded7788c32c4e826.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HappierThanEver/HappierThanEver_Coach_1_Phone.png/548b8f861e9064ae9a0aad43d82e39c6.png",
+    "phoneCoverImageUrl": "/public/map/HappierThanEver/HappierThanEver_Cover_Phone.jpg/58d0419d3c396aae814c5a5cbe72cc7c.jpg",
+    "cover640ImageUrl": "/public/map/HappierThanEver/HappierThanEver_Cover_640.png/f96d77019c1b01ee93816be31ff2a5d0.png"
+  },
+  "mapLength": 213.852125
+}

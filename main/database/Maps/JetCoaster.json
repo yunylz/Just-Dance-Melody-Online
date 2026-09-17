@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ca7c8d0b8ef2bd7b25b3ecb0a9d05245",
+      "storageType": 0,
+      "url": "/public/map/JetCoaster/nx/JetCoaster_MAIN_SCENE_NX.zip/ca7c8d0b8ef2bd7b25b3ecb0a9d05245.zip"
+    },
+    "pc": {
+      "md5": "ae9492290c7c8bbf6a99b84f648dbb59",
+      "storageType": 0,
+      "url": "/public/map/JetCoaster/pc/JetCoaster_MAIN_SCENE_PC.zip/ae9492290c7c8bbf6a99b84f648dbb59.zip"
+    },
+    "ps4": {
+      "md5": "5d5ab15b9e09803237f6675e1aaafab1",
+      "storageType": 0,
+      "url": "/public/map/JetCoaster/orbis/JetCoaster_MAIN_SCENE_ORBIS.zip/5d5ab15b9e09803237f6675e1aaafab1.zip"
+    }
+  },
+  "data": {
+    "mapName": "JetCoaster",
+    "title": "Jet Coaster Love",
+    "originalJDVersion": 1001,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "jdwii2",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "KARA",
+    "credits": "empty",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#02feaf",
+    "songColor2A": "#e549a1",
+    "songColor1B": "#013e2b",
+    "songColor2B": "#571b3d",
+    "lyricsColor": "#f4c2c2"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        18384,
+        41040,
+        63696,
+        86400,
+        109056,
+        131760,
+        154416,
+        177120,
+        199776,
+        222432,
+        245136,
+        267792,
+        290496,
+        313152,
+        335856,
+        358512,
+        381168,
+        403872,
+        426528,
+        449232,
+        471888,
+        494592,
+        517248,
+        539904,
+        562608,
+        585264,
+        607968,
+        630624,
+        653328,
+        675984,
+        698640,
+        721344,
+        744000,
+        766704,
+        789360,
+        812064,
+        834720,
+        857376,
+        880080,
+        902736,
+        925440,
+        948096,
+        970752,
+        993456,
+        1016112,
+        1038816,
+        1061472,
+        1084176,
+        1106832,
+        1129488,
+        1152192,
+        1174848,
+        1197552,
+        1220208,
+        1242912,
+        1265568,
+        1288224,
+        1310928,
+        1333584,
+        1356288,
+        1378944,
+        1401648,
+        1424304,
+        1446960,
+        1469664,
+        1492320
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 471,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JetCoaster/JetCoaster_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JetCoaster/nx/JetCoaster_banner_bkg.tga.ckd/baecba45e444d2d30ef1bf0a654b0566.ckd",
+      "map_bkgImageUrl": "/public/map/JetCoaster/nx/JetCoaster_map_bkg.tga.ckd/43bf0217cbb5fe48f5cf9e4c4cf8103e.ckd",
+      "expandCoachImageUrl": "/public/map/JetCoaster/nx/JetCoaster_Cover_AlbumCoach.tga.ckd/512e9795409e64e257b53e671910dde2.ckd",
+      "cover_smallImageUrl": "/public/map/JetCoaster/nx/JetCoaster_Cover_Online.tga.ckd/b11495c51519d9d239b2cfd8a7cc0c74.ckd",
+      "coach1ImageUrl": "/public/map/JetCoaster/nx/JetCoaster_Coach_1.tga.ckd/60de32cc3817b60d53217a6667c681f1.ckd",
+      "coach2ImageUrl": "/public/map/JetCoaster/nx/JetCoaster_Coach_2.tga.ckd/5d3c4623bd84a34fc7b53fa825768699.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JetCoaster/pc/JetCoaster_banner_bkg.tga.ckd/e39687408b482fead33e0cfe4acecc40.ckd",
+      "map_bkgImageUrl": "/public/map/JetCoaster/pc/JetCoaster_map_bkg.tga.ckd/3e1b20bd9f27e23526a2fd10d4a4792c.ckd",
+      "expandCoachImageUrl": "/public/map/JetCoaster/pc/JetCoaster_Cover_AlbumCoach.tga.ckd/2aade82f061cee5ec2d0df0a3433dc1a.ckd",
+      "cover_smallImageUrl": "/public/map/JetCoaster/pc/JetCoaster_Cover_Online.tga.ckd/014885588b41959fc370bf86aacc42d6.ckd",
+      "coach1ImageUrl": "/public/map/JetCoaster/pc/JetCoaster_Coach_1.tga.ckd/0021d8bdcd753e53af06890097dd2dc5.ckd",
+      "coach2ImageUrl": "/public/map/JetCoaster/pc/JetCoaster_Coach_2.tga.ckd/601a9f38f805455b7b0af31dfd9cebc6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JetCoaster/orbis/JetCoaster_banner_bkg.tga.ckd/e39687408b482fead33e0cfe4acecc40.ckd",
+      "map_bkgImageUrl": "/public/map/JetCoaster/orbis/JetCoaster_map_bkg.tga.ckd/3e1b20bd9f27e23526a2fd10d4a4792c.ckd",
+      "expandCoachImageUrl": "/public/map/JetCoaster/orbis/JetCoaster_Cover_AlbumCoach.tga.ckd/2aade82f061cee5ec2d0df0a3433dc1a.ckd",
+      "cover_smallImageUrl": "/public/map/JetCoaster/orbis/JetCoaster_Cover_Online.tga.ckd/014885588b41959fc370bf86aacc42d6.ckd",
+      "coach1ImageUrl": "/public/map/JetCoaster/orbis/JetCoaster_Coach_1.tga.ckd/0021d8bdcd753e53af06890097dd2dc5.ckd",
+      "coach2ImageUrl": "/public/map/JetCoaster/orbis/JetCoaster_Coach_2.tga.ckd/601a9f38f805455b7b0af31dfd9cebc6.ckd"
+    }
+  },
+  "urls": {
+    "jmcs://jd-contents/JetCoaster/JetCoaster.ogg": "/private/map/JetCoaster/JetCoaster.ogg/4c8a4330d29e55647a77aa5643ad2ec0.ogg",
+    "jmcs://jd-contents/JetCoaster/JetCoaster_AudioPreview.ogg": "/public/map/JetCoaster/JetCoaster_AudioPreview.ogg/8b2abf5f444c27d79f9de43297cdbbf0.ogg",
+    "jmcs://jd-contents/JetCoaster/JetCoaster_HIGH.webm": "/private/map/JetCoaster/JetCoaster_HIGH.webm/fa5eed19995966f6ad189fde71a22318.webm",
+    "jmcs://jd-contents/JetCoaster/JetCoaster_LOW.webm": "/private/map/JetCoaster/JetCoaster_LOW.webm/aae863e68e02c6b3e1503c61165f1ea8.webm",
+    "jmcs://jd-contents/JetCoaster/JetCoaster_MID.webm": "/private/map/JetCoaster/JetCoaster_MID.webm/f1a145c83b5afbb64cdab7ed1d9dee90.webm",
+    "jmcs://jd-contents/JetCoaster/JetCoaster_ULTRA.hd.webm": "/private/map/JetCoaster/JetCoaster_ULTRA.hd.webm/ea753273522101fd2c7d59f16b0bcda2.webm",
+    "jmcs://jd-contents/JetCoaster/JetCoaster_ULTRA.webm": "/private/map/JetCoaster/JetCoaster_ULTRA.webm/dae9b7b1b100fa21854ee4c635cdb9c0.webm",
+    "jmcs://jd-contents/JetCoaster/JetCoaster_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JetCoaster/JetCoaster_MapPreviewNoSoundCrop_LOW.vp8.webm/4672f9e2602c4947ec1921cd6144b91a.webm",
+    "jmcs://jd-contents/JetCoaster/JetCoaster_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JetCoaster/JetCoaster_MapPreviewNoSoundCrop_MID.vp8.webm/45ebe641676095c97ac2a8a7ecdc849b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"505031\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JetCoaster/JetCoaster_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1489969\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JetCoaster/JetCoaster_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 238.06
+}

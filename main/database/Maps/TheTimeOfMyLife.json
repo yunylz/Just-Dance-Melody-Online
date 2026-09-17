@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "6f554a9923b929c833f183553d6ae77b",
+      "storageType": 0,
+      "url": "/public/map/TheTimeOfMyLife/nx/TheTimeOfMyLife_MAIN_SCENE_NX.zip/6f554a9923b929c833f183553d6ae77b.zip"
+    },
+    "pc": {
+      "md5": "8732d8989feaa775dc978e8cf1a51d76",
+      "storageType": 0,
+      "url": "/public/map/TheTimeOfMyLife/pc/TheTimeOfMyLife_MAIN_SCENE_PC.zip/8732d8989feaa775dc978e8cf1a51d76.zip"
+    },
+    "ps4": {
+      "md5": "1d45d75917394930d22eeb73756ea3e1",
+      "storageType": 0,
+      "url": "/public/map/TheTimeOfMyLife/orbis/TheTimeOfMyLife_MAIN_SCENE_ORBIS.zip/1d45d75917394930d22eeb73756ea3e1.zip"
+    }
+  },
+  "data": {
+    "mapName": "TheTimeOfMyLife",
+    "title": "(I've Had) The Time Of My Life",
+    "originalJDVersion": 4,
+    "tags": [
+      "subscribedSong",
+      "jd4",
+      "duet"
+    ],
+    "artist": "Bill Medley & Jennifer Warnes",
+    "credits": "Written by Franke Previte, Donny Markowitz and John DeNicola.Published by EMI April Music Inc. (ASCAP) / Sony/ATV Tunes LLC (ASCAP)/ Sony/ATV Music Publishing Canada (SOCAN) / Marcu Music Company, Inc. c/o PEN Music Group, Inc. / Knockout Music, Inc. (ASCAP) and RU Cyrius Music Publishing (ASCAP) administered by WorldSong Inc. All rights reserved. Used by permission.Courtesy of The RCA Music Group, a unit of Sony Music Entertainment. By arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d7002e",
+    "songColor2A": "#f3be4a",
+    "songColor1B": "#83000b",
+    "songColor2B": "#6c2100",
+    "lyricsColor": "#edb751",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29276,
+        58552,
+        87828,
+        117104,
+        146380,
+        175660,
+        202142,
+        228624,
+        255106,
+        281588,
+        308070,
+        334552,
+        361034,
+        387516,
+        413998,
+        440480,
+        466962,
+        493444,
+        519926,
+        546408,
+        572890,
+        599372,
+        625854,
+        652336,
+        678818,
+        705300,
+        731782,
+        758264,
+        784746,
+        811228,
+        837710,
+        864192,
+        890674,
+        917156,
+        943638,
+        970120,
+        996602,
+        1023084,
+        1049566,
+        1076048,
+        1102530,
+        1129012,
+        1155494,
+        1181976,
+        1208458,
+        1234940,
+        1261422,
+        1287904,
+        1314386,
+        1340868,
+        1367350,
+        1393832,
+        1420314,
+        1446796,
+        1473278,
+        1499760
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 514,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TheTimeOfMyLife/nx/TheTimeOfMyLife_banner_bkg.tga.ckd/9c0654c237e69e1e838892501e86bd24.ckd",
+      "map_bkgImageUrl": "/public/map/TheTimeOfMyLife/nx/TheTimeOfMyLife_map_bkg.tga.ckd/d432558eb7800a9020cd37b8a00ddfce.ckd",
+      "expandCoachImageUrl": "/public/map/TheTimeOfMyLife/nx/TheTimeOfMyLife_Cover_AlbumCoach.tga.ckd/aaadbd59f0780627ffb4c2a71378e258.ckd",
+      "cover_smallImageUrl": "/public/map/TheTimeOfMyLife/nx/TheTimeOfMyLife_Cover_Online.tga.ckd/95af0fea1bfb5ac0cb291e1e6fee52ea.ckd",
+      "coach1ImageUrl": "/public/map/TheTimeOfMyLife/nx/TheTimeOfMyLife_Coach_1.tga.ckd/c0238fa1a3f0b7a9a354674ad2763150.ckd",
+      "coach2ImageUrl": "/public/map/TheTimeOfMyLife/nx/TheTimeOfMyLife_Coach_2.tga.ckd/88abb55ad8b5cc6f72559ce41db147e4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TheTimeOfMyLife/pc/TheTimeOfMyLife_banner_bkg.tga.ckd/90f4980a2404ae2c1e1eb19bea511378.ckd",
+      "map_bkgImageUrl": "/public/map/TheTimeOfMyLife/pc/TheTimeOfMyLife_map_bkg.tga.ckd/3af649091e6843de48b8810af1073ca9.ckd",
+      "expandCoachImageUrl": "/public/map/TheTimeOfMyLife/pc/TheTimeOfMyLife_Cover_AlbumCoach.tga.ckd/3ccae8be5e30edd778e57a34c859d596.ckd",
+      "cover_smallImageUrl": "/public/map/TheTimeOfMyLife/pc/TheTimeOfMyLife_Cover_Online.tga.ckd/911f54715fe641bdcd1152e9320047b7.ckd",
+      "coach1ImageUrl": "/public/map/TheTimeOfMyLife/pc/TheTimeOfMyLife_Coach_1.tga.ckd/7afda56ea7f88ca6e71d383f5db8d99f.ckd",
+      "coach2ImageUrl": "/public/map/TheTimeOfMyLife/pc/TheTimeOfMyLife_Coach_2.tga.ckd/d3eefabdb0048df59b7f7bc513417aa3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TheTimeOfMyLife/orbis/TheTimeOfMyLife_banner_bkg.tga.ckd/90f4980a2404ae2c1e1eb19bea511378.ckd",
+      "map_bkgImageUrl": "/public/map/TheTimeOfMyLife/orbis/TheTimeOfMyLife_map_bkg.tga.ckd/3af649091e6843de48b8810af1073ca9.ckd",
+      "expandCoachImageUrl": "/public/map/TheTimeOfMyLife/orbis/TheTimeOfMyLife_Cover_AlbumCoach.tga.ckd/3ccae8be5e30edd778e57a34c859d596.ckd",
+      "cover_smallImageUrl": "/public/map/TheTimeOfMyLife/orbis/TheTimeOfMyLife_Cover_Online.tga.ckd/911f54715fe641bdcd1152e9320047b7.ckd",
+      "coach1ImageUrl": "/public/map/TheTimeOfMyLife/orbis/TheTimeOfMyLife_Coach_1.tga.ckd/7afda56ea7f88ca6e71d383f5db8d99f.ckd",
+      "coach2ImageUrl": "/public/map/TheTimeOfMyLife/orbis/TheTimeOfMyLife_Coach_2.tga.ckd/d3eefabdb0048df59b7f7bc513417aa3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TheTimeOfMyLife/TheTimeOfMyLife_Coach_1_Phone.png/80742425fc84d1337c5af8737a7ce7f5.png",
+    "phoneCoach2ImageUrl": "/public/map/TheTimeOfMyLife/TheTimeOfMyLife_Coach_2_Phone.png/1e4fa4bf459fc87c19fb00486824d322.png",
+    "phoneCoverImageUrl": "/public/map/TheTimeOfMyLife/TheTimeOfMyLife_Cover_Phone.jpg/3d33320cdaa72d812870f434c813f084.jpg",
+    "cover640ImageUrl": "/public/map/TheTimeOfMyLife/TheTimeOfMyLife_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife.ogg": "/private/map/TheTimeOfMyLife/TheTimeOfMyLife.ogg/2d8485ebbe1e3bb4a334c9447145befc.ogg",
+    "jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife_AudioPreview.ogg": "/public/map/TheTimeOfMyLife/TheTimeOfMyLife_AudioPreview.ogg/322c9a6a3a0df72b1b63bf75ec049033.ogg",
+    "jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife_HIGH.webm": "/private/map/TheTimeOfMyLife/TheTimeOfMyLife_HIGH.webm/5bf1893ddac7b8bbf97c8b110775024a.webm",
+    "jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife_LOW.webm": "/private/map/TheTimeOfMyLife/TheTimeOfMyLife_LOW.webm/fc7da4433ee19d8685570a6c22fab0a7.webm",
+    "jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife_MID.webm": "/private/map/TheTimeOfMyLife/TheTimeOfMyLife_MID.webm/0f294e157e6556beea272581b913e188.webm",
+    "jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife_ULTRA.hd.webm": "/private/map/TheTimeOfMyLife/TheTimeOfMyLife_ULTRA.hd.webm/895e44e91254eee19218ae3825afb855.webm",
+    "jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife_ULTRA.webm": "/private/map/TheTimeOfMyLife/TheTimeOfMyLife_ULTRA.webm/28a97da24c6c3a45cabd137f7c6a180d.webm",
+    "jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TheTimeOfMyLife/TheTimeOfMyLife_MapPreviewNoSoundCrop_LOW.vp8.webm/84995c76f98add6c143b9eb37a55e5ec.webm",
+    "jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TheTimeOfMyLife/TheTimeOfMyLife_MapPreviewNoSoundCrop_MID.vp8.webm/1a4bbba750140256cbf7df2485bd124b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496991\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484993\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTimeOfMyLife/TheTimeOfMyLife_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\n\t\t\t\t\t<Initialization range=\"0-619\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 284.607333
+}

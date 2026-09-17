@@ -1,0 +1,181 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4c77106d1676dedd88b4c79147261437",
+      "storageType": 0,
+      "url": "/public/map/BirthdayMU/nx/BirthdayMU_MAIN_SCENE_NX.zip/4c77106d1676dedd88b4c79147261437.zip"
+    },
+    "pc": {
+      "md5": "6b4ce1993948e4b4634514770beb8ca6",
+      "storageType": 0,
+      "url": "/public/map/BirthdayMU/pc/BirthdayMU_MAIN_SCENE_PC.zip/6b4ce1993948e4b4634514770beb8ca6.zip"
+    },
+    "ps4": {
+      "md5": "91e42ad29e681918b078ed8fcb312a58",
+      "storageType": 0,
+      "url": "/public/map/BirthdayMU/orbis/BirthdayMU_MAIN_SCENE_ORBIS.zip/91e42ad29e681918b078ed8fcb312a58.zip"
+    }
+  },
+  "data": {
+    "mapName": "BirthdayMU",
+    "title": "Birthday",
+    "originalJDVersion": 2015,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Katy Perry",
+    "credits": "Written by Henry Walter, Bonnie McKee, Lukasz Gottwald, Max Martin and Katy Perry. Published by Prescription Songs LLC, Dream Machine Corporation, MXM Music AB, Kasz Money Publishing. Administered by Kobalt Music Publishing America, Inc. Songs of Pulse Recording (BMI). Administered by Downtown DMP Songs (BMI). Courtesy of Capitol Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#e59c00",
+    "songColor2A": "#cf6793",
+    "songColor1B": "#a4003c",
+    "songColor2B": "#da00c1",
+    "lyricsColor": "#1bf3ff",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22847,
+        45695,
+        68591,
+        91439,
+        114287,
+        137135,
+        159983,
+        182879,
+        205727,
+        228575,
+        251423,
+        274271,
+        297119,
+        320015,
+        342863,
+        365711,
+        388559,
+        411407,
+        434303,
+        457151,
+        479999,
+        502847,
+        525695,
+        548591,
+        571439,
+        594287,
+        617135,
+        639983,
+        662879,
+        685727,
+        708575,
+        731423,
+        754271,
+        777119,
+        800014,
+        822862,
+        845710,
+        868558,
+        891406,
+        914302,
+        937150,
+        959998,
+        982846,
+        1005694,
+        1028590,
+        1051438,
+        1074286,
+        1097134,
+        1119982,
+        1142878,
+        1165726,
+        1188574,
+        1211422,
+        1234270,
+        1257118,
+        1280014,
+        1302862,
+        1325710,
+        1348558,
+        1371406,
+        1394302,
+        1417150,
+        1439998,
+        1462846,
+        1485694
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 450,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BirthdayMU/BirthdayMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BirthdayMU/nx/BirthdayMU_banner_bkg.tga.ckd/3fe33e389313ed04b89a8a112138449c.ckd",
+      "map_bkgImageUrl": "/public/map/BirthdayMU/nx/BirthdayMU_map_bkg.tga.ckd/3ff176a96274d533fc48ed5f34383ad9.ckd",
+      "expandCoachImageUrl": "/public/map/BirthdayMU/nx/BirthdayMU_Cover_AlbumCoach.tga.ckd/207b05441ada62c7eb7d12bcfa4114a1.ckd",
+      "cover_smallImageUrl": "/public/map/BirthdayMU/nx/BirthdayMU_Cover_Online.tga.ckd/0b5dd5e7abcd890f0026f2a478b1f2b6.ckd",
+      "coverImageUrl": "/public/map/BirthdayMU/nx/BirthdayMU_Cover_Generic.tga.ckd/d997861812cde556a1200dca1ed3a857.ckd",
+      "coach1ImageUrl": "/public/map/BirthdayMU/nx/BirthdayMU_Coach_1.tga.ckd/03bf9c43d3feb614c37aeaadf9ca1511.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BirthdayMU/pc/BirthdayMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/BirthdayMU/pc/BirthdayMU_map_bkg.tga.ckd/49f3010cec026ac268a71708d8d058e4.ckd",
+      "expandCoachImageUrl": "/public/map/BirthdayMU/pc/BirthdayMU_Cover_AlbumCoach.tga.ckd/73b2819331e90ea85409e6e50b7962fe.ckd",
+      "cover_smallImageUrl": "/public/map/BirthdayMU/pc/BirthdayMU_Cover_Online.tga.ckd/b2c86ef44ab13f4c2b17038c2bf8e4bf.ckd",
+      "coverImageUrl": "/public/map/BirthdayMU/pc/BirthdayMU_Cover_Generic.tga.ckd/96508395b06c19f27835f14c70a02028.ckd",
+      "coach1ImageUrl": "/public/map/BirthdayMU/pc/BirthdayMU_Coach_1.tga.ckd/0daabb539f1efd3b4ee3442fd520725a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BirthdayMU/orbis/BirthdayMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/BirthdayMU/orbis/BirthdayMU_map_bkg.tga.ckd/49f3010cec026ac268a71708d8d058e4.ckd",
+      "expandCoachImageUrl": "/public/map/BirthdayMU/orbis/BirthdayMU_Cover_AlbumCoach.tga.ckd/73b2819331e90ea85409e6e50b7962fe.ckd",
+      "cover_smallImageUrl": "/public/map/BirthdayMU/orbis/BirthdayMU_Cover_Online.tga.ckd/b2c86ef44ab13f4c2b17038c2bf8e4bf.ckd",
+      "coverImageUrl": "/public/map/BirthdayMU/orbis/BirthdayMU_Cover_Generic.tga.ckd/96508395b06c19f27835f14c70a02028.ckd",
+      "coach1ImageUrl": "/public/map/BirthdayMU/orbis/BirthdayMU_Coach_1.tga.ckd/0daabb539f1efd3b4ee3442fd520725a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BirthdayMU/BirthdayMU_Coach_1_Phone.png/d21e00b00f0ac24c4ee66ec36cc12e39.png",
+    "phoneCoverImageUrl": "/public/map/BirthdayMU/BirthdayMU_Cover_Phone.jpg/9d3854592fafb66f9169f90967c66ece.jpg",
+    "cover640ImageUrl": "/public/map/BirthdayMU/BirthdayMU_Cover_640.png/54687ac30855ebc23be2b85ca407072b.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU.ogg": "/private/map/BirthdayMU/BirthdayMU.ogg/637b04c8299955e5880c162b57341c05.ogg",
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU_AudioPreview.ogg": "/public/map/BirthdayMU/BirthdayMU_AudioPreview.ogg/8529b11af571c739eb8103978e5cb938.ogg",
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BirthdayMU/BirthdayMU_MapPreviewNoSoundCrop_LOW.vp8.webm/7799a70c3c57d28a30caa0980ca45a42.webm",
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU_HIGH.webm": "/private/map/BirthdayMU/BirthdayMU_HIGH.webm/8205c384f53a3899316801abe7fb3167.webm",
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU_LOW.webm": "/private/map/BirthdayMU/BirthdayMU_LOW.webm/b18c24b1d2521860f467c95b0aac4196.webm",
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU_MID.webm": "/private/map/BirthdayMU/BirthdayMU_MID.webm/d2ea4a7589facad4100172b66f60f637.webm",
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU_ULTRA.hd.webm": "/private/map/BirthdayMU/BirthdayMU_ULTRA.hd.webm/d888b40ab50bf14cad1ea45ed3de696d.webm",
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU_ULTRA.webm": "/private/map/BirthdayMU/BirthdayMU_ULTRA.webm/8e5dff8acd047215739e039422e7d72d.webm",
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU_HIGH.hd.webm": "/private/map/BirthdayMU/BirthdayMU_HIGH.hd.webm/e26bcb608d39d8c4301c5ecd993e490a.webm",
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU_LOW.hd.webm": "/private/map/BirthdayMU/BirthdayMU_LOW.hd.webm/0dbc0c956f5a1f1df7a20c7b166636a2.webm",
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU_MID.hd.webm": "/private/map/BirthdayMU/BirthdayMU_MID.hd.webm/bbee6cb9b565a32897d5872d4b6b3499.webm",
+    "jmcs://jd-contents/BirthdayMU/BirthdayMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BirthdayMU/BirthdayMU_MapPreviewNoSoundCrop_MID.vp8.webm/b2e563ed42862bee69bc035778f9eb80.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495396\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BirthdayMU/BirthdayMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1474826\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BirthdayMU/BirthdayMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 214.285729
+}

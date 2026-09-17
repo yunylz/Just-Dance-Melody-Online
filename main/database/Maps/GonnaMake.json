@@ -1,0 +1,171 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "866baa242b732228ebc60bd61c74a67b",
+      "storageType": 0,
+      "url": "/public/map/GonnaMake/nx/GonnaMake_MAIN_SCENE_NX.zip/866baa242b732228ebc60bd61c74a67b.zip"
+    },
+    "pc": {
+      "md5": "d241bd85401f80a672ea8fedc3b808e3",
+      "storageType": 0,
+      "url": "/public/map/GonnaMake/pc/GonnaMake_MAIN_SCENE_PC.zip/d241bd85401f80a672ea8fedc3b808e3.zip"
+    },
+    "ps4": {
+      "md5": "ee7bdcb3fd44fe2555e2bc884e62be6f",
+      "storageType": 0,
+      "url": "/public/map/GonnaMake/orbis/GonnaMake_MAIN_SCENE_ORBIS.zip/ee7bdcb3fd44fe2555e2bc884e62be6f.zip"
+    }
+  },
+  "data": {
+    "mapName": "GonnaMake",
+    "title": "Gonna Make You Sweat (Everybody Dance Now)",
+    "originalJDVersion": 3,
+    "tags": [
+      "subscribedSong",
+      "JustDance3",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Sweat Invaders",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#5e008a",
+    "songColor2A": "#007aff",
+    "songColor1B": "#2e0044",
+    "songColor2B": "#00076e",
+    "lyricsColor": "#05dff4"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        41754,
+        66797,
+        91839,
+        116882,
+        141925,
+        166968,
+        192010,
+        217053,
+        242096,
+        267139,
+        292181,
+        317224,
+        342267,
+        367309,
+        392352,
+        417395,
+        442438,
+        467480,
+        492523,
+        517566,
+        542608,
+        567651,
+        592694,
+        617737,
+        642779,
+        667822,
+        692865,
+        717907,
+        742950,
+        767993,
+        793036,
+        818078,
+        843121,
+        868164,
+        893207,
+        918249,
+        943292,
+        968335,
+        993377,
+        1018420,
+        1043463,
+        1068506,
+        1093548,
+        1118591,
+        1143634,
+        1168676,
+        1193719,
+        1218762,
+        1243805,
+        1268847,
+        1293890,
+        1318933,
+        1343975,
+        1369018,
+        1394061,
+        1419104,
+        1444146,
+        1469189,
+        1494232
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 403,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GonnaMake/GonnaMake_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GonnaMake/nx/GonnaMake_banner_bkg.tga.ckd/09ce92ecae0df47ec218c0e0227c352a.ckd",
+      "map_bkgImageUrl": "/public/map/GonnaMake/nx/GonnaMake_map_bkg.tga.ckd/1bae0c1efcdd4697f58a9e728c203117.ckd",
+      "expandCoachImageUrl": "/public/map/GonnaMake/nx/GonnaMake_Cover_AlbumCoach.tga.ckd/ce946db545d8d96d8c65d8c16ce8afea.ckd",
+      "cover_smallImageUrl": "/public/map/GonnaMake/nx/GonnaMake_Cover_Online.tga.ckd/2099f0085b08fc532a63c0f6f4bddbcd.ckd",
+      "coach1ImageUrl": "/public/map/GonnaMake/nx/GonnaMake_Coach_1.tga.ckd/b5b4992e844784279f63b3128c622a9d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GonnaMake/pc/GonnaMake_banner_bkg.tga.ckd/2dd5617335f75b2e063044984da3866f.ckd",
+      "map_bkgImageUrl": "/public/map/GonnaMake/pc/GonnaMake_map_bkg.tga.ckd/b9d2f2e7b0dd779f6eda2f9f4d01bea8.ckd",
+      "expandCoachImageUrl": "/public/map/GonnaMake/pc/GonnaMake_Cover_AlbumCoach.tga.ckd/9427f31365eb6ceae23458ef4c29e150.ckd",
+      "cover_smallImageUrl": "/public/map/GonnaMake/pc/GonnaMake_Cover_Online.tga.ckd/d38cd118572388677aaeaca3500d2de2.ckd",
+      "coach1ImageUrl": "/public/map/GonnaMake/pc/GonnaMake_Coach_1.tga.ckd/c1cdefe9e4f156a3f1ea852da602ee34.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GonnaMake/orbis/GonnaMake_banner_bkg.tga.ckd/2dd5617335f75b2e063044984da3866f.ckd",
+      "map_bkgImageUrl": "/public/map/GonnaMake/orbis/GonnaMake_map_bkg.tga.ckd/b9d2f2e7b0dd779f6eda2f9f4d01bea8.ckd",
+      "expandCoachImageUrl": "/public/map/GonnaMake/orbis/GonnaMake_Cover_AlbumCoach.tga.ckd/9427f31365eb6ceae23458ef4c29e150.ckd",
+      "cover_smallImageUrl": "/public/map/GonnaMake/orbis/GonnaMake_Cover_Online.tga.ckd/d38cd118572388677aaeaca3500d2de2.ckd",
+      "coach1ImageUrl": "/public/map/GonnaMake/orbis/GonnaMake_Coach_1.tga.ckd/c1cdefe9e4f156a3f1ea852da602ee34.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GonnaMake/GonnaMake_Coach_1_Phone.png/3315dd076003bb74580ffff1e7beadeb.png",
+    "phoneCoverImageUrl": "/public/map/GonnaMake/GonnaMake_Cover_Phone.jpg/ed7cf00231def88df757d7a9f6d1096b.jpg",
+    "cover640ImageUrl": "/public/map/GonnaMake/GonnaMake_Cover_640.png/92f0c63d882d3ef49d15e13761039559.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GonnaMake/GonnaMake.ogg": "/private/map/GonnaMake/GonnaMake.ogg/52d5982ce12875b90619da96a1d36b95.ogg",
+    "jmcs://jd-contents/GonnaMake/GonnaMake_AudioPreview.ogg": "/public/map/GonnaMake/GonnaMake_AudioPreview.ogg/04737f435265c21242449adba3c95a83.ogg",
+    "jmcs://jd-contents/GonnaMake/GonnaMake_HIGH.webm": "/private/map/GonnaMake/GonnaMake_HIGH.webm/3987c5e29ab87d4203651c19724b562a.webm",
+    "jmcs://jd-contents/GonnaMake/GonnaMake_LOW.webm": "/private/map/GonnaMake/GonnaMake_LOW.webm/195ff5d01298732f75121233f4c64adc.webm",
+    "jmcs://jd-contents/GonnaMake/GonnaMake_MID.webm": "/private/map/GonnaMake/GonnaMake_MID.webm/817409395947663e64f3abc654d9951d.webm",
+    "jmcs://jd-contents/GonnaMake/GonnaMake_ULTRA.hd.webm": "/private/map/GonnaMake/GonnaMake_ULTRA.hd.webm/d24d046c22b1ba6d374e234f4748e7ab.webm",
+    "jmcs://jd-contents/GonnaMake/GonnaMake_ULTRA.webm": "/private/map/GonnaMake/GonnaMake_ULTRA.webm/6b76d5c8ad327029d73632fca0155f80.webm",
+    "jmcs://jd-contents/GonnaMake/GonnaMake_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GonnaMake/GonnaMake_MapPreviewNoSoundCrop_LOW.vp8.webm/568bb0bccc8d0e99980590f771c0f4f7.webm",
+    "jmcs://jd-contents/GonnaMake/GonnaMake_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GonnaMake/GonnaMake_MapPreviewNoSoundCrop_MID.vp8.webm/e0aa75742082192d63c64d56fe628fd9.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"503324\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GonnaMake/GonnaMake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1485852\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GonnaMake/GonnaMake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 210.743854
+}

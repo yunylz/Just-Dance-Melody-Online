@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "13cc86b4c1514b5e6453d1d47b2bbf08",
+      "storageType": 0,
+      "url": "/public/map/Mister/nx/Mister_MAIN_SCENE_NX.zip/13cc86b4c1514b5e6453d1d47b2bbf08.zip"
+    },
+    "pc": {
+      "md5": "f9142b42dcef51a52e230d2d9c025f38",
+      "storageType": 0,
+      "url": "/public/map/Mister/pc/Mister_MAIN_SCENE_PC.zip/f9142b42dcef51a52e230d2d9c025f38.zip"
+    },
+    "ps4": {
+      "md5": "ca513e966529052a8a2ee74575a82eab",
+      "storageType": 0,
+      "url": "/public/map/Mister/orbis/Mister_MAIN_SCENE_ORBIS.zip/ca513e966529052a8a2ee74575a82eab.zip"
+    }
+  },
+  "data": {
+    "mapName": "Mister",
+    "title": "Mister",
+    "originalJDVersion": 1000,
+    "tags": [
+      "subscribedSong",
+      "jdwii",
+      "JustDanceAsia",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "KARA",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#000000",
+    "songColor2A": "#00ffff",
+    "songColor1B": "#000000",
+    "songColor2B": "#000000",
+    "lyricsColor": "#00f091"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        155568,
+        178416,
+        201264,
+        224112,
+        246960,
+        269808,
+        292704,
+        315552,
+        338400,
+        361248,
+        384096,
+        406944,
+        429840,
+        452688,
+        475536,
+        498384,
+        521232,
+        544080,
+        566976,
+        589824,
+        612672,
+        635520,
+        658368,
+        681216,
+        704112,
+        726960,
+        749808,
+        772656,
+        795504,
+        818352,
+        841248,
+        864096,
+        886944,
+        909792,
+        932640,
+        955488,
+        978384,
+        1001232,
+        1024080,
+        1046928,
+        1069776,
+        1092672,
+        1115520,
+        1138368,
+        1161216,
+        1184064,
+        1206912,
+        1229808,
+        1252656,
+        1275504,
+        1298352,
+        1321200,
+        1344048,
+        1366944,
+        1389792,
+        1412640,
+        1435488,
+        1458336,
+        1481184
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 405,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Mister/Mister_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Mister/nx/Mister_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/Mister/nx/Mister_map_bkg.tga.ckd/23abe701dee8db5fdb306ddf9be49f26.ckd",
+      "expandCoachImageUrl": "/public/map/Mister/nx/Mister_Cover_AlbumCoach.tga.ckd/47fde57e1023ec31ada4dce935493962.ckd",
+      "cover_smallImageUrl": "/public/map/Mister/nx/Mister_Cover_Online.tga.ckd/d6f25dda39e5d3d0fcbd07b9fdc35875.ckd",
+      "coach1ImageUrl": "/public/map/Mister/nx/Mister_Coach_1.tga.ckd/8e987bd5ec35f9943ec40c71c8782792.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Mister/pc/Mister_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/Mister/pc/Mister_map_bkg.tga.ckd/8fe54f55246003f80bcaaf82c0d63c44.ckd",
+      "expandCoachImageUrl": "/public/map/Mister/pc/Mister_Cover_AlbumCoach.tga.ckd/01966e2ba7a91c8619bc7f25920ac5f6.ckd",
+      "cover_smallImageUrl": "/public/map/Mister/pc/Mister_Cover_Online.tga.ckd/e4925eeefacde8b87068b476e7104e6f.ckd",
+      "coach1ImageUrl": "/public/map/Mister/pc/Mister_Coach_1.tga.ckd/3fc48a809d17d645ba8ab6dbf9982bd6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Mister/orbis/Mister_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/Mister/orbis/Mister_map_bkg.tga.ckd/8fe54f55246003f80bcaaf82c0d63c44.ckd",
+      "expandCoachImageUrl": "/public/map/Mister/orbis/Mister_Cover_AlbumCoach.tga.ckd/01966e2ba7a91c8619bc7f25920ac5f6.ckd",
+      "cover_smallImageUrl": "/public/map/Mister/orbis/Mister_Cover_Online.tga.ckd/e4925eeefacde8b87068b476e7104e6f.ckd",
+      "coach1ImageUrl": "/public/map/Mister/orbis/Mister_Coach_1.tga.ckd/3fc48a809d17d645ba8ab6dbf9982bd6.ckd"
+    }
+  },
+  "urls": {
+    "jmcs://jd-contents/Mister/Mister.ogg": "/private/map/Mister/Mister.ogg/b450e666716d3967a793ff53ce0deba4.ogg",
+    "jmcs://jd-contents/Mister/Mister_AudioPreview.ogg": "/public/map/Mister/Mister_AudioPreview.ogg/cc5a5c8f653b34359307183c4c9304aa.ogg",
+    "jmcs://jd-contents/Mister/Mister_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Mister/Mister_MapPreviewNoSoundCrop_LOW.vp8.webm/e1e34b3e473dce8e42986dd9d5b3e8e1.webm",
+    "jmcs://jd-contents/Mister/Mister_HIGH.webm": "/private/map/Mister/Mister_HIGH.webm/a51e8fb4e6aa61b2bd31117aad2c99ec.webm",
+    "jmcs://jd-contents/Mister/Mister_LOW.webm": "/private/map/Mister/Mister_LOW.webm/f3dcdbb27aa64e7a4747f08a9128c340.webm",
+    "jmcs://jd-contents/Mister/Mister_MID.webm": "/private/map/Mister/Mister_MID.webm/a78b326856b97d3b931dd51fb8c41458.webm",
+    "jmcs://jd-contents/Mister/Mister_ULTRA.webm": "/private/map/Mister/Mister_ULTRA.webm/0fcdd5c0ae86224d86a48447d97b27f9.webm",
+    "jmcs://jd-contents/Mister/Mister_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Mister/Mister_MapPreviewNoSoundCrop_MID.vp8.webm/0149992ba9115b239129982ac244703a.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"499630\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Mister/Mister_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1496800\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Mister/Mister_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 198.46
+}

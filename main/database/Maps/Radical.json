@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "bd748506ebe458a46f4040dcda15df53",
+      "storageType": 0,
+      "url": "/public/map/Radical/nx/Radical_MAIN_SCENE_NX.zip/bd748506ebe458a46f4040dcda15df53.zip"
+    },
+    "pc": {
+      "md5": "e2835f253a30330c6508aa8ffd6dd0bc",
+      "storageType": 0,
+      "url": "/public/map/Radical/pc/Radical_MAIN_SCENE_PC.zip/e2835f253a30330c6508aa8ffd6dd0bc.zip"
+    },
+    "ps4": {
+      "md5": "7c353a84a5c87f6b1e85cc132ec544ad",
+      "storageType": 0,
+      "url": "/public/map/Radical/orbis/Radical_MAIN_SCENE_ORBIS.zip/7c353a84a5c87f6b1e85cc132ec544ad.zip"
+    }
+  },
+  "data": {
+    "mapName": "Radical",
+    "title": "RADICAL",
+    "originalJDVersion": 2017,
+    "tags": [
+      "cool",
+      "subscribedSong",
+      "JustDance2017",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Dyro & Dannic",
+    "credits": "Written by Jordy Van Egmond and Daan Romers. Published by Ultra Tunes Canada (SOCAN) a/c Cloud 9 Holland Music Publishing obo Jordy Van Egmond and Dannic Publishing/ Daan Romers. Courtesy of Revealed Recordings. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#dc6d0d",
+    "songColor2A": "#0031ee",
+    "songColor1B": "#000000",
+    "songColor2B": "#000000",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67487,
+        89999,
+        112511,
+        135023,
+        157487,
+        179999,
+        202511,
+        225023,
+        247487,
+        269999,
+        292511,
+        315023,
+        337487,
+        359999,
+        382511,
+        405023,
+        427487,
+        449999,
+        472511,
+        495023,
+        517487,
+        539999,
+        562511,
+        585023,
+        607487,
+        629999,
+        652511,
+        675023,
+        697487,
+        719999,
+        742511,
+        765022,
+        787486,
+        809998,
+        832510,
+        855022,
+        877486,
+        899998,
+        922510,
+        945022,
+        967486,
+        989998,
+        1012510,
+        1035022,
+        1057486,
+        1079998,
+        1102510,
+        1125022,
+        1147486,
+        1169998,
+        1192510,
+        1215022,
+        1237486,
+        1259998,
+        1282510,
+        1305022,
+        1327486,
+        1349998,
+        1372510,
+        1395022,
+        1417486,
+        1439998,
+        1462510,
+        1485022
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -11,
+      "endBeat": 408,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Radical/Radical_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Radical/nx/Radical_banner_bkg.tga.ckd/43c83bfc32654e9f86dd219ce357b373.ckd",
+      "map_bkgImageUrl": "/public/map/Radical/nx/Radical_map_bkg.tga.ckd/1d77a0bd06ae0bb45882313cca4d525e.ckd",
+      "expandCoachImageUrl": "/public/map/Radical/nx/Radical_Cover_AlbumCoach.tga.ckd/07a312c376f8cba50fb0f97c504672a9.ckd",
+      "cover_smallImageUrl": "/public/map/Radical/nx/Radical_Cover_Online.tga.ckd/ba2db76ef46969ee8b4c90666adcac1f.ckd",
+      "coverImageUrl": "/public/map/Radical/nx/Radical_Cover_Generic.tga.ckd/ba8ac78e5f535c5d3450b237905dc364.ckd",
+      "coach1ImageUrl": "/public/map/Radical/nx/Radical_Coach_1.tga.ckd/0df2bf99a2d19f4375137cc097b0b412.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Radical/pc/Radical_banner_bkg.tga.ckd/60c176feb97d8d718dc6a55b7ab04137.ckd",
+      "map_bkgImageUrl": "/public/map/Radical/pc/Radical_map_bkg.tga.ckd/6921ad608c694a37152bdd83f5b76e8c.ckd",
+      "expandCoachImageUrl": "/public/map/Radical/pc/Radical_Cover_AlbumCoach.tga.ckd/c406c0db8b33f6c8374311adf51b6956.ckd",
+      "cover_smallImageUrl": "/public/map/Radical/pc/Radical_Cover_Online.tga.ckd/d1b6add30ccf3c55fa2dffe1f943d670.ckd",
+      "coverImageUrl": "/public/map/Radical/pc/Radical_Cover_Generic.tga.ckd/6526293bffa128749410820150a5b9ec.ckd",
+      "coach1ImageUrl": "/public/map/Radical/pc/Radical_Coach_1.tga.ckd/b2e9168fd2d5c110a7e6d4c0a5e5d059.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Radical/orbis/Radical_banner_bkg.tga.ckd/60c176feb97d8d718dc6a55b7ab04137.ckd",
+      "map_bkgImageUrl": "/public/map/Radical/orbis/Radical_map_bkg.tga.ckd/6921ad608c694a37152bdd83f5b76e8c.ckd",
+      "expandCoachImageUrl": "/public/map/Radical/orbis/Radical_Cover_AlbumCoach.tga.ckd/c406c0db8b33f6c8374311adf51b6956.ckd",
+      "cover_smallImageUrl": "/public/map/Radical/orbis/Radical_Cover_Online.tga.ckd/d1b6add30ccf3c55fa2dffe1f943d670.ckd",
+      "coverImageUrl": "/public/map/Radical/orbis/Radical_Cover_Generic.tga.ckd/6526293bffa128749410820150a5b9ec.ckd",
+      "coach1ImageUrl": "/public/map/Radical/orbis/Radical_Coach_1.tga.ckd/b2e9168fd2d5c110a7e6d4c0a5e5d059.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Radical/Radical_Coach_1_Phone.png/79806e0521f664d3e462b04a6f085f3b.png",
+    "phoneCoverImageUrl": "/public/map/Radical/Radical_Cover_Phone.jpg/c009f21ce17403c616c8ef6fa4b9bb27.jpg",
+    "cover640ImageUrl": "/public/map/Radical/Radical_Cover_640.png/411b18ffe72f470ad6a0298b787fb3ca.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Radical/Radical.ogg": "/private/map/Radical/Radical.ogg/129deeeb0355928ca34be588064944be.ogg",
+    "jmcs://jd-contents/Radical/Radical_AudioPreview.ogg": "/public/map/Radical/Radical_AudioPreview.ogg/9adfc64bb1f7856504d59dc92114d6fd.ogg",
+    "jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Radical/Radical_MapPreviewNoSoundCrop_LOW.vp8.webm/4f60a087706c71de283e37e8d37b7a79.webm",
+    "jmcs://jd-contents/Radical/Radical_HIGH.webm": "/private/map/Radical/Radical_HIGH.webm/8343e26b5bb221e7e0705f23e616ec09.webm",
+    "jmcs://jd-contents/Radical/Radical_LOW.webm": "/private/map/Radical/Radical_LOW.webm/1ef4bc4fc52d20becfb365226c24925c.webm",
+    "jmcs://jd-contents/Radical/Radical_MID.webm": "/private/map/Radical/Radical_MID.webm/5dd7c7e386ae6e4b0bce1e1625a7a79f.webm",
+    "jmcs://jd-contents/Radical/Radical_ULTRA.hd.webm": "/private/map/Radical/Radical_ULTRA.hd.webm/a1276b77c96312e4a16defa6ed432ce4.webm",
+    "jmcs://jd-contents/Radical/Radical_ULTRA.webm": "/private/map/Radical/Radical_ULTRA.webm/d9eea79d4a6b96ae675382e79f4f005f.webm",
+    "jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Radical/Radical_MapPreviewNoSoundCrop_MID.vp8.webm/19cfd4285d106cfa151c72aee57e8813.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496010\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\n\t\t\t\t\t<Initialization range=\"0-629\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1477381\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Radical/Radical_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\n\t\t\t\t\t<Initialization range=\"0-630\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 196.40625
+}

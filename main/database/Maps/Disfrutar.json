@@ -1,0 +1,170 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Disfrutar/Disfrutar.ogg": "/private/map/Disfrutar/Disfrutar.ogg/5ef231bbfb3dc65ddeb878c5b56b47cb.ogg",
+    "jmcs://jd-contents/Disfrutar/Disfrutar_AudioPreview.ogg": "/public/map/Disfrutar/Disfrutar_AudioPreview.ogg/f97c9d3f5ef3843f9bb3b2a506733213.ogg",
+    "jmcs://jd-contents/Disfrutar/Disfrutar_HIGH.hd.webm": "/private/map/Disfrutar/Disfrutar_HIGH.hd.webm/fe1b1a764d0ab76e8be3ec4dd570a9a1.webm",
+    "jmcs://jd-contents/Disfrutar/Disfrutar_LOW.hd.webm": "/private/map/Disfrutar/Disfrutar_LOW.hd.webm/8b935beece55f1499747ac6842190f6f.webm",
+    "jmcs://jd-contents/Disfrutar/Disfrutar_MID.hd.webm": "/private/map/Disfrutar/Disfrutar_MID.hd.webm/bc7b5196194a831b58f1dd9d002235e4.webm",
+    "jmcs://jd-contents/Disfrutar/Disfrutar_ULTRA.hd.webm": "/private/map/Disfrutar/Disfrutar_ULTRA.hd.webm/31e84b48c01610cd06b36f7cb6a7702a.webm",
+    "jmcs://jd-contents/Disfrutar/Disfrutar_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Disfrutar/Disfrutar_MapPreviewNoSoundCrop_LOW.vp8.webm/00abc5e69e7aa318f96b2eecf528135e.webm",
+    "jmcs://jd-contents/Disfrutar/Disfrutar_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Disfrutar/Disfrutar_MapPreviewNoSoundCrop_MID.vp8.webm/ba936b097eac496ccb3d91561c67d6d7.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25487,
+        50973,
+        76460,
+        101947,
+        127434,
+        152920,
+        178407,
+        203894,
+        229381,
+        254867,
+        280354,
+        305841,
+        331327,
+        356814,
+        382301,
+        407788,
+        433274,
+        458761,
+        484248,
+        509735,
+        535221,
+        560708,
+        586195,
+        611681,
+        637168,
+        662655,
+        688142,
+        713628,
+        739115,
+        764602,
+        790088,
+        815575,
+        841062,
+        866549,
+        892035,
+        917522,
+        943009,
+        968496,
+        993982,
+        1019469,
+        1044956,
+        1070442,
+        1095929,
+        1121416,
+        1146903,
+        1172389,
+        1197876,
+        1223363,
+        1248850,
+        1274336,
+        1299823,
+        1325310,
+        1350796,
+        1376283,
+        1401770,
+        1427257,
+        1452743,
+        1478230
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 337,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Disfrutar/Disfrutar_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"568839\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Disfrutar/Disfrutar_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2029829\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Disfrutar/Disfrutar_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "ed383d281941e6dc5eb6439974f1a30e",
+      "storageType": 0,
+      "url": "/public/map/Disfrutar/nx/Disfrutar_MAIN_SCENE_NX.zip/ed383d281941e6dc5eb6439974f1a30e.zip"
+    },
+    "pc": {
+      "md5": "cc255da596765cc183aee61b55e00036",
+      "storageType": 0,
+      "url": "/public/map/Disfrutar/pc/Disfrutar_MAIN_SCENE_PC.zip/cc255da596765cc183aee61b55e00036.zip"
+    },
+    "ps4": {
+      "md5": "4af1d6037b1b72f747e1bb73bd971a1b",
+      "storageType": 0,
+      "url": "/public/map/Disfrutar/orbis/Disfrutar_MAIN_SCENE_ORBIS.zip/4af1d6037b1b72f747e1bb73bd971a1b.zip"
+    }
+  },
+  "data": {
+    "mapName": "Disfrutar",
+    "title": "Tiki Taka",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Golazul",
+    "credits": "Composed and produced by Pete Crow  Vocals by Macha Kiddo All rights reserved. Used with permission. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#ff9b0f",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Disfrutar/nx/Disfrutar_banner_bkg.tga.ckd/700e849932f76594dd25efd9e6d81423.ckd",
+      "map_bkgImageUrl": "/public/map/Disfrutar/nx/Disfrutar_map_bkg.tga.ckd/61b4fc4eb1d46b69df42d1b642b577ce.ckd",
+      "expandCoachImageUrl": "/public/map/Disfrutar/nx/Disfrutar_Cover_AlbumCoach.tga.ckd/cd49fab6e26896337216fd92677ce43c.ckd",
+      "cover_smallImageUrl": "/public/map/Disfrutar/nx/Disfrutar_Cover_Online.tga.ckd/a411ed48c83f3532451d01ce9032f9f4.ckd",
+      "coverImageUrl": "/public/map/Disfrutar/nx/Disfrutar_Cover_Generic.tga.ckd/59f82db6c9aa44198a0f1a6e49517118.ckd",
+      "coach1ImageUrl": "/public/map/Disfrutar/nx/Disfrutar_Coach_1.tga.ckd/57b35d235cbb5bb077cd6d358f1c8230.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Disfrutar/pc/Disfrutar_banner_bkg.tga.ckd/da19c5d17c70de0253b73a392ecd1464.ckd",
+      "map_bkgImageUrl": "/public/map/Disfrutar/pc/Disfrutar_map_bkg.tga.ckd/c8442ef72139ab793d739d671bec56a1.ckd",
+      "expandCoachImageUrl": "/public/map/Disfrutar/pc/Disfrutar_Cover_AlbumCoach.tga.ckd/5432d3c526718a9dcde40181acae7aee.ckd",
+      "cover_smallImageUrl": "/public/map/Disfrutar/pc/Disfrutar_Cover_Online.tga.ckd/0ed430f8ce5138e67d25dc096fbcaf2d.ckd",
+      "coverImageUrl": "/public/map/Disfrutar/pc/Disfrutar_Cover_Generic.tga.ckd/db3bc4ce0957adaae8a881d040dd3354.ckd",
+      "coach1ImageUrl": "/public/map/Disfrutar/pc/Disfrutar_Coach_1.tga.ckd/8d3edf2691aa635b784b86955573de07.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Disfrutar/orbis/Disfrutar_banner_bkg.tga.ckd/da19c5d17c70de0253b73a392ecd1464.ckd",
+      "map_bkgImageUrl": "/public/map/Disfrutar/orbis/Disfrutar_map_bkg.tga.ckd/c8442ef72139ab793d739d671bec56a1.ckd",
+      "expandCoachImageUrl": "/public/map/Disfrutar/orbis/Disfrutar_Cover_AlbumCoach.tga.ckd/5432d3c526718a9dcde40181acae7aee.ckd",
+      "cover_smallImageUrl": "/public/map/Disfrutar/orbis/Disfrutar_Cover_Online.tga.ckd/0ed430f8ce5138e67d25dc096fbcaf2d.ckd",
+      "coverImageUrl": "/public/map/Disfrutar/orbis/Disfrutar_Cover_Generic.tga.ckd/db3bc4ce0957adaae8a881d040dd3354.ckd",
+      "coach1ImageUrl": "/public/map/Disfrutar/orbis/Disfrutar_Coach_1.tga.ckd/8d3edf2691aa635b784b86955573de07.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Disfrutar/Disfrutar_Coach_1_Phone.png/a7e6183f27628507bb7892770fa1cc16.png",
+    "phoneCoverImageUrl": "/public/map/Disfrutar/Disfrutar_Cover_Phone.jpg/31d05d16d37f8618aaafd317f146eb57.jpg",
+    "cover640ImageUrl": "/public/map/Disfrutar/Disfrutar_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 180.006479
+}

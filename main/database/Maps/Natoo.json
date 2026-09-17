@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3e63eb04ae30c8005b71b709e8cb8584",
+      "storageType": 0,
+      "url": "/public/map/Natoo/nx/Natoo_MAIN_SCENE_NX.zip/3e63eb04ae30c8005b71b709e8cb8584.zip"
+    },
+    "pc": {
+      "md5": "cdd83594aa66c28091a45a868e834e8f",
+      "storageType": 0,
+      "url": "/public/map/Natoo/pc/Natoo_MAIN_SCENE_PC.zip/cdd83594aa66c28091a45a868e834e8f.zip"
+    },
+    "ps4": {
+      "md5": "575f3c0b8e0dd448f0843ce883e075c8",
+      "storageType": 0,
+      "url": "/public/map/Natoo/orbis/Natoo_MAIN_SCENE_ORBIS.zip/575f3c0b8e0dd448f0843ce883e075c8.zip"
+    }
+  },
+  "data": {
+    "mapName": "Natoo",
+    "title": "Je sais pas danser",
+    "originalJDVersion": 2017,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2017",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Natoo",
+    "credits": "Written by Natoo, composed by Waxx and Matthieu Joly.All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#8b04ff",
+    "songColor2A": "#ffce61",
+    "songColor1B": "#001568",
+    "songColor2B": "#ff7146",
+    "lyricsColor": "#23e3c3"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22512,
+        45024,
+        67488,
+        90000,
+        112512,
+        135024,
+        157488,
+        180000,
+        202512,
+        225024,
+        247488,
+        270000,
+        292512,
+        315024,
+        337488,
+        360000,
+        382512,
+        405024,
+        427488,
+        450000,
+        472512,
+        495024,
+        517488,
+        540000,
+        562512,
+        585024,
+        607488,
+        630000,
+        652512,
+        675024,
+        697488,
+        720000,
+        742512,
+        765024,
+        787489,
+        810001,
+        832513,
+        855025,
+        877489,
+        900001,
+        922513,
+        945025,
+        967489,
+        990001,
+        1012513,
+        1035025,
+        1057489,
+        1080001,
+        1102513,
+        1125025,
+        1147489,
+        1170001,
+        1192513,
+        1215025,
+        1237489,
+        1260001,
+        1282513,
+        1305025,
+        1327489,
+        1350001,
+        1372513,
+        1395025,
+        1417489,
+        1440001,
+        1462513,
+        1485025
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 422,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Natoo/Natoo_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Natoo/nx/Natoo_banner_bkg.tga.ckd/5e2d8b4ca68bd38863a2ba2757ef8ab1.ckd",
+      "map_bkgImageUrl": "/public/map/Natoo/nx/Natoo_map_bkg.tga.ckd/2c8cf15062b8a5608968aeaff30e725f.ckd",
+      "expandCoachImageUrl": "/public/map/Natoo/nx/Natoo_Cover_AlbumCoach.tga.ckd/cce8ae9c2b92667781de5ac5ae67d484.ckd",
+      "cover_smallImageUrl": "/public/map/Natoo/nx/Natoo_Cover_Online.tga.ckd/f9845242365f21e9ac84be73d5aaad70.ckd",
+      "coach1ImageUrl": "/public/map/Natoo/nx/Natoo_Coach_1.tga.ckd/976e86ee24961d52f2a0d3a05e6ab6f3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Natoo/pc/Natoo_banner_bkg.tga.ckd/8e6459560ea6b7f652d7143a7f43379b.ckd",
+      "map_bkgImageUrl": "/public/map/Natoo/pc/Natoo_map_bkg.tga.ckd/97566a9b64204f928d139781529f31fe.ckd",
+      "expandCoachImageUrl": "/public/map/Natoo/pc/Natoo_Cover_AlbumCoach.tga.ckd/345bf15fdd7ceec475ea513e1a0ed8ec.ckd",
+      "cover_smallImageUrl": "/public/map/Natoo/pc/Natoo_Cover_Online.tga.ckd/ca1784c31b2faaa9bb63bf0264c73610.ckd",
+      "coach1ImageUrl": "/public/map/Natoo/pc/Natoo_Coach_1.tga.ckd/e0c86b579d596aa9ae0936b3046c518c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Natoo/orbis/Natoo_banner_bkg.tga.ckd/8e6459560ea6b7f652d7143a7f43379b.ckd",
+      "map_bkgImageUrl": "/public/map/Natoo/orbis/Natoo_map_bkg.tga.ckd/97566a9b64204f928d139781529f31fe.ckd",
+      "expandCoachImageUrl": "/public/map/Natoo/orbis/Natoo_Cover_AlbumCoach.tga.ckd/345bf15fdd7ceec475ea513e1a0ed8ec.ckd",
+      "cover_smallImageUrl": "/public/map/Natoo/orbis/Natoo_Cover_Online.tga.ckd/ca1784c31b2faaa9bb63bf0264c73610.ckd",
+      "coach1ImageUrl": "/public/map/Natoo/orbis/Natoo_Coach_1.tga.ckd/e0c86b579d596aa9ae0936b3046c518c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Natoo/Natoo_Coach_1_Phone.png/cfb21ea9ba7edd8ec880acacb7d4bf24.png",
+    "phoneCoverImageUrl": "/public/map/Natoo/Natoo_Cover_Phone.jpg/3a2dbf5d28864dbe987a731b74b0763d.jpg",
+    "cover640ImageUrl": "/public/map/Natoo/Natoo_Cover_640.png/11580b207111cf0b879ca213b4463fc4.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Natoo/Natoo.ogg": "/private/map/Natoo/Natoo.ogg/e85de48e23cda21da5c3f67e663a2b0b.ogg",
+    "jmcs://jd-contents/Natoo/Natoo_AudioPreview.ogg": "/public/map/Natoo/Natoo_AudioPreview.ogg/329804c6afaa1cb7c216d1cf7a202ee4.ogg",
+    "jmcs://jd-contents/Natoo/Natoo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Natoo/Natoo_MapPreviewNoSoundCrop_LOW.vp8.webm/87039563431efad4f165d9f0752ec295.webm",
+    "jmcs://jd-contents/Natoo/Natoo_HIGH.webm": "/private/map/Natoo/Natoo_HIGH.webm/27e9155de17555353bd9bc33cccbc338.webm",
+    "jmcs://jd-contents/Natoo/Natoo_LOW.webm": "/private/map/Natoo/Natoo_LOW.webm/761b06c0f125d633f6c87aaf695800b8.webm",
+    "jmcs://jd-contents/Natoo/Natoo_MID.webm": "/private/map/Natoo/Natoo_MID.webm/bc695b728ff43a861abfdb92fba14758.webm",
+    "jmcs://jd-contents/Natoo/Natoo_ULTRA.hd.webm": "/private/map/Natoo/Natoo_ULTRA.hd.webm/92c134ce45426319f3afdbcd556932db.webm",
+    "jmcs://jd-contents/Natoo/Natoo_ULTRA.webm": "/private/map/Natoo/Natoo_ULTRA.webm/86fb5208ec9c173947133fa13722bd0b.webm",
+    "jmcs://jd-contents/Natoo/Natoo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Natoo/Natoo_MapPreviewNoSoundCrop_MID.vp8.webm/2a0527030f90aec0cbb2f33a42bc3b5f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496044\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Natoo/Natoo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"645-1134\">\n\t\t\t\t\t<Initialization range=\"0-645\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482024\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Natoo/Natoo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"646-1136\">\n\t\t\t\t\t<Initialization range=\"0-646\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 197.8125
+}

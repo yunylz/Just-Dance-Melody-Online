@@ -1,0 +1,173 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BlurredLinesMU/BlurredLinesMU.ogg": "/private/map/BlurredLinesMU/BlurredLinesMU.ogg/91ee9fd2f74bfc46e7eb3abffdf2ac65.ogg",
+    "jmcs://jd-contents/BlurredLinesMU/BlurredLinesMU_AudioPreview.ogg": "/public/map/BlurredLinesMU/BlurredLinesMU_AudioPreview.ogg/d739b3a2cb4d2745980c08f764657e7c.ogg",
+    "jmcs://jd-contents/BlurredLinesMU/BlurredLinesMU_HIGH.hd.webm": "/private/map/BlurredLinesMU/BlurredLinesMU_HIGH.hd.webm/984f3a8d96093fa29cf71ba02f770173.webm",
+    "jmcs://jd-contents/BlurredLinesMU/BlurredLinesMU_LOW.hd.webm": "/private/map/BlurredLinesMU/BlurredLinesMU_LOW.hd.webm/2e51279fd332ecb723f6d34fa78bdd5f.webm",
+    "jmcs://jd-contents/BlurredLinesMU/BlurredLinesMU_MID.hd.webm": "/private/map/BlurredLinesMU/BlurredLinesMU_MID.hd.webm/4aff02dcabdc2004e7b8c38c26af5daf.webm",
+    "jmcs://jd-contents/BlurredLinesMU/BlurredLinesMU_ULTRA.hd.webm": "/private/map/BlurredLinesMU/BlurredLinesMU_ULTRA.hd.webm/ac068654d0ca1bc83d5cdcd48225f481.webm",
+    "jmcs://jd-contents/BlurredLinesMU/BlurredLinesMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BlurredLinesMU/BlurredLinesMU_MapPreviewNoSoundCrop_LOW.vp8.webm/7547a5f30ffcb61844e06486ed8d3129.webm",
+    "jmcs://jd-contents/BlurredLinesMU/BlurredLinesMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BlurredLinesMU/BlurredLinesMU_MapPreviewNoSoundCrop_MID.vp8.webm/d43b73933dd68612748ac8b5b3053574.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        167999,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        335999,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        671999,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1343999,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 444,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BlurredLinesMU/BlurredLinesMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BlurredLinesMU/nx/BlurredLinesMU_banner_bkg.tga.ckd/f6b2fd2b814f5656b578e2700d3aa8df.ckd",
+      "map_bkgImageUrl": "/public/map/BlurredLinesMU/nx/BlurredLinesMU_map_bkg.tga.ckd/f9dacc08a896db2ba259a7519aee841c.ckd",
+      "expandCoachImageUrl": "/public/map/BlurredLinesMU/nx/BlurredLinesMU_Cover_AlbumCoach.tga.ckd/060fce6c2bc898672861cb39bb162430.ckd",
+      "cover_smallImageUrl": "/public/map/BlurredLinesMU/nx/BlurredLinesMU_Cover_Online.tga.ckd/8fbc76e265d2ea3dadd776e43314e13c.ckd",
+      "coverImageUrl": "/public/map/BlurredLinesMU/nx/BlurredLinesMU_Cover_Generic.tga.ckd/140299e20db0dc1eb2c8cfe96d39526a.ckd",
+      "coach1ImageUrl": "/public/map/BlurredLinesMU/nx/BlurredLinesMU_Coach_1.tga.ckd/e73015aa5015fc974d9ea7dba5da4eb2.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BlurredLinesMU/pc/BlurredLinesMU_banner_bkg.tga.ckd/363366d5b9a0e8809d79a3f8c97497c1.ckd",
+      "map_bkgImageUrl": "/public/map/BlurredLinesMU/pc/BlurredLinesMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/BlurredLinesMU/pc/BlurredLinesMU_Cover_AlbumCoach.tga.ckd/61d9fb714af6eed6ae4ddcf1ea41ec88.ckd",
+      "cover_smallImageUrl": "/public/map/BlurredLinesMU/pc/BlurredLinesMU_Cover_Online.tga.ckd/904ee0c8701f27944174037502cc668f.ckd",
+      "coverImageUrl": "/public/map/BlurredLinesMU/pc/BlurredLinesMU_Cover_Generic.tga.ckd/528ab38b299e8fd1704cabef16fc3ec5.ckd",
+      "coach1ImageUrl": "/public/map/BlurredLinesMU/pc/BlurredLinesMU_Coach_1.tga.ckd/0ec64a4c71bd94cbf4671cc67bad971d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BlurredLinesMU/orbis/BlurredLinesMU_banner_bkg.tga.ckd/363366d5b9a0e8809d79a3f8c97497c1.ckd",
+      "map_bkgImageUrl": "/public/map/BlurredLinesMU/orbis/BlurredLinesMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/BlurredLinesMU/orbis/BlurredLinesMU_Cover_AlbumCoach.tga.ckd/61d9fb714af6eed6ae4ddcf1ea41ec88.ckd",
+      "cover_smallImageUrl": "/public/map/BlurredLinesMU/orbis/BlurredLinesMU_Cover_Online.tga.ckd/904ee0c8701f27944174037502cc668f.ckd",
+      "coverImageUrl": "/public/map/BlurredLinesMU/orbis/BlurredLinesMU_Cover_Generic.tga.ckd/528ab38b299e8fd1704cabef16fc3ec5.ckd",
+      "coach1ImageUrl": "/public/map/BlurredLinesMU/orbis/BlurredLinesMU_Coach_1.tga.ckd/0ec64a4c71bd94cbf4671cc67bad971d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BlurredLinesMU/BlurredLinesMU_Coach_1_Phone.png/0d93c658e9ede3266afba9e72ea9f374.png",
+    "phoneCoverImageUrl": "/public/map/BlurredLinesMU/BlurredLinesMU_Cover_Phone.jpg/b1c21941454351150089f622bddfe256.jpg",
+    "cover640ImageUrl": "/public/map/BlurredLinesMU/BlurredLinesMU_Cover_640.png/c99896b028d6aaf4277ea43410e7e382.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "59466862a28aed92f5bb3aba353417a6",
+      "storageType": 0,
+      "url": "/public/map/BlurredLinesMU/nx/BlurredLinesMU_MAIN_SCENE_NX.zip/59466862a28aed92f5bb3aba353417a6.zip"
+    },
+    "pc": {
+      "md5": "c5881a6b8a4387c1126c66ed9077cdb5",
+      "storageType": 0,
+      "url": "/public/map/BlurredLinesMU/pc/BlurredLinesMU_MAIN_SCENE_PC.zip/c5881a6b8a4387c1126c66ed9077cdb5.zip"
+    },
+    "ps4": {
+      "md5": "a38efcbb270379e4e943cbc134ddb6a2",
+      "storageType": 0,
+      "url": "/public/map/BlurredLinesMU/orbis/BlurredLinesMU_MAIN_SCENE_ORBIS.zip/a38efcbb270379e4e943cbc134ddb6a2.zip"
+    }
+  },
+  "data": {
+    "mapName": "BlurredLinesMU",
+    "title": "Blurred Lines",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Robin Thicke Ft. Pharrell Williams",
+    "credits": "Written by Robin Thicke and Pharrell Williams. Published by I Like Em Thicke Music (ASCAP) / EMI April Music Inc. (ASCAP) c/o EMI April Music (Canada) Ltd. (SOCAN). All rights reserved. Used by permission. Courtesy of Star Trak/Interscope Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#18a3b6",
+    "songColor2A": "#e2bf78",
+    "songColor1B": "#0b0f60",
+    "songColor2B": "#b7007e",
+    "lyricsColor": "#ffff00",
+    "LocaleID": 8605
+  },
+  "mapLength": 222.0
+}

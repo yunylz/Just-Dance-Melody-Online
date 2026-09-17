@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "a9fb491a30715ec5ee64942283fe3515",
+      "storageType": 0,
+      "url": "/public/map/JerkItOut/nx/JerkItOut_MAIN_SCENE_NX.zip/a9fb491a30715ec5ee64942283fe3515.zip"
+    },
+    "pc": {
+      "md5": "35dcade1c0d0fe22abb03cbf4d9d40e3",
+      "storageType": 0,
+      "url": "/public/map/JerkItOut/pc/JerkItOut_MAIN_SCENE_PC.zip/35dcade1c0d0fe22abb03cbf4d9d40e3.zip"
+    },
+    "ps4": {
+      "md5": "ddcd362f5f9a7739efd2b6ea64f24ccd",
+      "storageType": 0,
+      "url": "/public/map/JerkItOut/orbis/JerkItOut_MAIN_SCENE_ORBIS.zip/ddcd362f5f9a7739efd2b6ea64f24ccd.zip"
+    }
+  },
+  "data": {
+    "mapName": "JerkItOut",
+    "title": "Jerk It Out",
+    "originalJDVersion": 1,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Caesars",
+    "credits": "Written and composed by Joakim Frans Ahlund (STIM). Published by Universal Music Publishing (SOCAN). Courtesy of Astralwerks. Under license from EMI & Television Music.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff74d1",
+    "songColor2A": "#f9cc95",
+    "songColor1B": "#0c000e",
+    "songColor2B": "#2a1d03",
+    "lyricsColor": "#01d9a8",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21492,
+        42984,
+        64477,
+        85969,
+        107461,
+        128953,
+        150445,
+        171937,
+        193431,
+        214923,
+        236415,
+        257907,
+        279399,
+        300891,
+        322384,
+        343876,
+        365368,
+        386860,
+        408352,
+        429844,
+        451338,
+        472830,
+        494322,
+        515814,
+        537306,
+        558798,
+        580290,
+        601783,
+        623275,
+        644767,
+        666259,
+        687751,
+        709243,
+        730737,
+        752229,
+        773721,
+        795213,
+        816705,
+        838197,
+        859690,
+        881182,
+        902674,
+        924166,
+        945658,
+        967150,
+        988644,
+        1010136,
+        1031628,
+        1053120,
+        1074612,
+        1096104,
+        1117597,
+        1139089,
+        1160581,
+        1182073,
+        1203565,
+        1225057,
+        1246551,
+        1268043,
+        1289535,
+        1311027,
+        1332519,
+        1354011,
+        1375504,
+        1396996,
+        1418488,
+        1439980
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 442,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 68,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JerkItOut/JerkItOut_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JerkItOut/nx/JerkItOut_banner_bkg.tga.ckd/5d29b41840999ba61cec2adcac27778d.ckd",
+      "map_bkgImageUrl": "/public/map/JerkItOut/nx/JerkItOut_map_bkg.tga.ckd/2eb660cf6892ccb3600bf74d5d41bc65.ckd",
+      "expandCoachImageUrl": "/public/map/JerkItOut/nx/JerkItOut_Cover_AlbumCoach.tga.ckd/6855e5f8cc1e5cf4d07b46d105547e98.ckd",
+      "cover_smallImageUrl": "/public/map/JerkItOut/nx/JerkItOut_Cover_Online.tga.ckd/f0d5ce448186f194cbb607d465269007.ckd",
+      "coverImageUrl": "/public/map/JerkItOut/nx/JerkItOut_Cover_Generic.tga.ckd/3075fd6bb49a34b431c79366c07ade4b.ckd",
+      "coach1ImageUrl": "/public/map/JerkItOut/nx/JerkItOut_Coach_1.tga.ckd/1dc15dad5e5fb720bca42469818611be.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JerkItOut/pc/JerkItOut_banner_bkg.tga.ckd/2d69eacab6e84b863b0ca25d41d130fd.ckd",
+      "map_bkgImageUrl": "/public/map/JerkItOut/pc/JerkItOut_map_bkg.tga.ckd/efab5893abc08a732cc61b3ffcbf84dc.ckd",
+      "expandCoachImageUrl": "/public/map/JerkItOut/pc/JerkItOut_Cover_AlbumCoach.tga.ckd/bccb689b54a809aecf3c0423fff26236.ckd",
+      "cover_smallImageUrl": "/public/map/JerkItOut/pc/JerkItOut_Cover_Online.tga.ckd/3dfe346441d663818d1002d3cd91e113.ckd",
+      "coverImageUrl": "/public/map/JerkItOut/pc/JerkItOut_Cover_Generic.tga.ckd/51b62984112999ee38e65863c9ef5fb4.ckd",
+      "coach1ImageUrl": "/public/map/JerkItOut/pc/JerkItOut_Coach_1.tga.ckd/557f708a7e92a70b04e6b83c23f3aedb.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JerkItOut/orbis/JerkItOut_banner_bkg.tga.ckd/2d69eacab6e84b863b0ca25d41d130fd.ckd",
+      "map_bkgImageUrl": "/public/map/JerkItOut/orbis/JerkItOut_map_bkg.tga.ckd/efab5893abc08a732cc61b3ffcbf84dc.ckd",
+      "expandCoachImageUrl": "/public/map/JerkItOut/orbis/JerkItOut_Cover_AlbumCoach.tga.ckd/bccb689b54a809aecf3c0423fff26236.ckd",
+      "cover_smallImageUrl": "/public/map/JerkItOut/orbis/JerkItOut_Cover_Online.tga.ckd/3dfe346441d663818d1002d3cd91e113.ckd",
+      "coverImageUrl": "/public/map/JerkItOut/orbis/JerkItOut_Cover_Generic.tga.ckd/51b62984112999ee38e65863c9ef5fb4.ckd",
+      "coach1ImageUrl": "/public/map/JerkItOut/orbis/JerkItOut_Coach_1.tga.ckd/557f708a7e92a70b04e6b83c23f3aedb.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JerkItOut/JerkItOut_Coach_1_Phone.png/8e8be3b2b82b4033af341cee4c11c036.png",
+    "phoneCoverImageUrl": "/public/map/JerkItOut/JerkItOut_Cover_Phone.jpg/5c56fc16aa74a0521edbc0b6a51b1f16.jpg",
+    "cover640ImageUrl": "/public/map/JerkItOut/JerkItOut_Cover_640.png/784c333fc5b02e6af1ffad924afb5efe.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JerkItOut/JerkItOut.ogg": "/private/map/JerkItOut/JerkItOut.ogg/6501f1b3a005d2f7b0a3c58a6a8199fb.ogg",
+    "jmcs://jd-contents/JerkItOut/JerkItOut_AudioPreview.ogg": "/public/map/JerkItOut/JerkItOut_AudioPreview.ogg/90d7e8d61c0b30753b3df0837bccfd92.ogg",
+    "jmcs://jd-contents/JerkItOut/JerkItOut_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JerkItOut/JerkItOut_MapPreviewNoSoundCrop_LOW.vp8.webm/5fb6c74be4b0531522c7d0da9a093923.webm",
+    "jmcs://jd-contents/JerkItOut/JerkItOut_HIGH.webm": "/private/map/JerkItOut/JerkItOut_HIGH.webm/9b5ad95bfdff49e20496954556232a87.webm",
+    "jmcs://jd-contents/JerkItOut/JerkItOut_LOW.webm": "/private/map/JerkItOut/JerkItOut_LOW.webm/f103de49b1949b003f19b7ddafb3ab32.webm",
+    "jmcs://jd-contents/JerkItOut/JerkItOut_MID.webm": "/private/map/JerkItOut/JerkItOut_MID.webm/0371571818742ef595c50a4524f2ae3e.webm",
+    "jmcs://jd-contents/JerkItOut/JerkItOut_ULTRA.hd.webm": "/private/map/JerkItOut/JerkItOut_ULTRA.hd.webm/ceacdf0050c51b5a72b0c3015c974403.webm",
+    "jmcs://jd-contents/JerkItOut/JerkItOut_ULTRA.webm": "/private/map/JerkItOut/JerkItOut_ULTRA.webm/aeeb1defeff524363dcc5c2ae552cfcb.webm",
+    "jmcs://jd-contents/JerkItOut/JerkItOut_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JerkItOut/JerkItOut_MapPreviewNoSoundCrop_MID.vp8.webm/9a91afd346f514b6ba2d4b973fed39c5.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"503333\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JerkItOut/JerkItOut_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"601-1090\">\n\t\t\t\t\t<Initialization range=\"0-601\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1492246\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JerkItOut/JerkItOut_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\n\t\t\t\t\t<Initialization range=\"0-602\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 201.027563
+}

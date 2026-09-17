@@ -1,0 +1,166 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Cradles/Cradles_AudioPreview.ogg": "/public/map/Cradles/Cradles_AudioPreview.ogg/6c49f4f849669880831717ea563255d4.ogg",
+    "jmcs://jd-contents/Cradles/Cradles.ogg": "/private/map/Cradles/Cradles.ogg/29b4a94170cb8fb9a548752e86098084.ogg",
+    "jmcs://jd-contents/Cradles/Cradles_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Cradles/Cradles_MapPreviewNoSoundCrop_LOW.vp8.webm/83ba3ca227ddb46c748fbb4cfb476117.webm",
+    "jmcs://jd-contents/Cradles/Cradles_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Cradles/Cradles_MapPreviewNoSoundCrop_MID.vp8.webm/08edeb0c16f8679c74cffe005a4f99ef.webm",
+    "jmcs://jd-contents/Cradles/Cradles_ULTRA.hd.webm": "/private/map/Cradles/Cradles_ULTRA.hd.webm/df5cb7366152be6c6d50ac6a64f5f8fe.webm",
+    "jmcs://jd-contents/Cradles/Cradles_HIGH.hd.webm": "/private/map/Cradles/Cradles_HIGH.hd.webm/baefbc90bc42434473041a328174300d.webm",
+    "jmcs://jd-contents/Cradles/Cradles_MID.hd.webm": "/private/map/Cradles/Cradles_MID.hd.webm/3eb4953072f6a428ac31aa4fc861ce60.webm",
+    "jmcs://jd-contents/Cradles/Cradles_LOW.hd.webm": "/private/map/Cradles/Cradles_LOW.hd.webm/4beb9fe04f80d6c8a0ca82af2feb9b10.webm",
+    "jmcs://jd-contents/Cradles/Cradles_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/Cradles/Cradles_MapPreviewNoSoundCrop_HIGH.vp8.webm/33dc2a8030578d7a46d2810bba919bf6.webm",
+    "jmcs://jd-contents/Cradles/Cradles_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/Cradles/Cradles_MapPreviewNoSoundCrop_ULTRA.vp8.webm/32341de40da47dfa109888d88513ef05.webm"
+  },
+  "mapLength": 223.79460416666666,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        36000,
+        72000,
+        108000,
+        144000,
+        180000,
+        216000,
+        252000,
+        288000,
+        324000,
+        360000,
+        396000,
+        432000,
+        468000,
+        504000,
+        540000,
+        576000,
+        612000,
+        648000,
+        684000,
+        720000,
+        756000,
+        792000,
+        828000,
+        864000,
+        900000,
+        936000,
+        972000,
+        1008000,
+        1044000,
+        1080000,
+        1116000,
+        1152000,
+        1188000,
+        1224000,
+        1260000,
+        1296000,
+        1332000,
+        1368000,
+        1404000,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -12,
+      "endBeat": 280,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 41,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/Cradles/Cradles_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"646407\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Cradles/Cradles_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"770-1260\">\n\t\t\t\t\t<Initialization range=\"0-770\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1481754\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Cradles/Cradles_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"770-1260\">\n\t\t\t\t\t<Initialization range=\"0-770\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2931512\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Cradles/Cradles_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"770-1260\">\n\t\t\t\t\t<Initialization range=\"0-770\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"4794544\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Cradles/Cradles_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"770-1262\">\n\t\t\t\t\t<Initialization range=\"0-770\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "e6f5b68a86cd2fb286a58a962843d710",
+      "storageType": 0,
+      "url": "/public/map/Cradles/pc/Cradles_MAIN_SCENE_PC.zip/e6f5b68a86cd2fb286a58a962843d710.zip"
+    },
+    "ps4": {
+      "md5": "b73c15ce5fab35052075209ed93ba102",
+      "storageType": 0,
+      "url": "/public/map/Cradles/orbis/Cradles_MAIN_SCENE_ORBIS.zip/b73c15ce5fab35052075209ed93ba102.zip"
+    },
+    "wiiu": {
+      "md5": "acc4d170685b1031eeb5d05e896e1756",
+      "storageType": 0,
+      "url": "/public/map/Cradles/wiiu/Cradles_MAIN_SCENE_WIIU.zip/acc4d170685b1031eeb5d05e896e1756.zip"
+    },
+    "nx": {
+      "md5": "1af8089638daaca7bd392697bc42b1bd",
+      "storageType": 0,
+      "url": "/public/map/Cradles/nx/Cradles_MAIN_SCENE_NX.zip/1af8089638daaca7bd392697bc42b1bd.zip"
+    }
+  },
+  "data": {
+    "mapName": "Cradles",
+    "title": "Cradles",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Sub Urban",
+    "credits": "Written by Danny Maisonneuve. Published by Featherstone Music. Courtesy of NCS Music.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#56F5E8",
+    "songColor2A": "#F9DB89",
+    "songColor1B": "#070A7F",
+    "songColor2B": "#783906",
+    "lyricsColor": "#F7D725",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/Cradles/pc/Cradles_Cover_Online.tga.ckd/c56bea0f99470fde54613eca24f62559.ckd",
+      "coverImageUrl": "/public/map/Cradles/pc/Cradles_Cover_Generic.tga.ckd/389e2b52f89601d6bbd4fa99ef421bfa.ckd",
+      "expandCoachImageUrl": "/public/map/Cradles/pc/Cradles_Cover_AlbumCoach.tga.ckd/13223ed9fbbace58f5a35d1ca984fbf6.ckd",
+      "map_bkgImageUrl": "/public/map/Cradles/pc/Cradles_map_bkg.tga.ckd/45869088b6b60462ff6917de8234e2b0.ckd",
+      "banner_bkgImageUrl": "/public/map/Cradles/pc/Cradles_banner_bkg.tga.ckd/86f33af2db90349c93897f91781b30e3.ckd",
+      "coach1ImageUrl": "/public/map/Cradles/pc/Cradles_Coach_1.tga.ckd/8687727dd5034829501518dde6d71ddb.ckd",
+      "phoneCoverImageUrl": "/public/map/Cradles/Cradles_Cover_Phone.jpg/48ea284393f66994b4ea8a0aaa5df1d5.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Cradles/Cradles_Coach_1_Phone.png/864b1801438cd4e6013b6b9c130c331b.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/Cradles/orbis/Cradles_Cover_Online.tga.ckd/c56bea0f99470fde54613eca24f62559.ckd",
+      "coverImageUrl": "/public/map/Cradles/orbis/Cradles_Cover_Generic.tga.ckd/389e2b52f89601d6bbd4fa99ef421bfa.ckd",
+      "expandCoachImageUrl": "/public/map/Cradles/orbis/Cradles_Cover_AlbumCoach.tga.ckd/13223ed9fbbace58f5a35d1ca984fbf6.ckd",
+      "map_bkgImageUrl": "/public/map/Cradles/orbis/Cradles_map_bkg.tga.ckd/45869088b6b60462ff6917de8234e2b0.ckd",
+      "banner_bkgImageUrl": "/public/map/Cradles/orbis/Cradles_banner_bkg.tga.ckd/86f33af2db90349c93897f91781b30e3.ckd",
+      "coach1ImageUrl": "/public/map/Cradles/orbis/Cradles_Coach_1.tga.ckd/8687727dd5034829501518dde6d71ddb.ckd",
+      "phoneCoverImageUrl": "/public/map/Cradles/Cradles_Cover_Phone.jpg/48ea284393f66994b4ea8a0aaa5df1d5.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Cradles/Cradles_Coach_1_Phone.png/864b1801438cd4e6013b6b9c130c331b.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/Cradles/wiiu/Cradles_Cover_Online.tga.ckd/8ea581795eeae6d893048b33ce4e6ade.ckd",
+      "coverImageUrl": "/public/map/Cradles/wiiu/Cradles_Cover_Generic.tga.ckd/77bd3479bf7619e4b03aa28b3be53184.ckd",
+      "expandCoachImageUrl": "/public/map/Cradles/wiiu/Cradles_Cover_AlbumCoach.tga.ckd/3ee0dca94f3becbbc935f9d79d43ad46.ckd",
+      "map_bkgImageUrl": "/public/map/Cradles/wiiu/Cradles_map_bkg.tga.ckd/f69464b14b03a0c0370a3d35ae896776.ckd",
+      "banner_bkgImageUrl": "/public/map/Cradles/wiiu/Cradles_banner_bkg.tga.ckd/438e563d7b74a8b49899d24c61369f9f.ckd",
+      "coach1ImageUrl": "/public/map/Cradles/wiiu/Cradles_Coach_1.tga.ckd/01c26279ed740cdacd86dbe054c45eca.ckd",
+      "phoneCoverImageUrl": "/public/map/Cradles/Cradles_Cover_Phone.jpg/48ea284393f66994b4ea8a0aaa5df1d5.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Cradles/Cradles_Coach_1_Phone.png/864b1801438cd4e6013b6b9c130c331b.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/Cradles/nx/Cradles_Cover_Online.tga.ckd/7c29b095789a6dd0124229164e27e5d2.ckd",
+      "coverImageUrl": "/public/map/Cradles/nx/Cradles_Cover_Generic.tga.ckd/f11bf87b2f1cfd46b3978cfc44b0e546.ckd",
+      "expandCoachImageUrl": "/public/map/Cradles/nx/Cradles_Cover_AlbumCoach.tga.ckd/9f8192594b0f3dbd8c43c38ea07f8976.ckd",
+      "map_bkgImageUrl": "/public/map/Cradles/nx/Cradles_map_bkg.tga.ckd/203fbf36766428942d780541b787291f.ckd",
+      "banner_bkgImageUrl": "/public/map/Cradles/nx/Cradles_banner_bkg.tga.ckd/7b5864076713f53cb15bae6c037f07a6.ckd",
+      "coach1ImageUrl": "/public/map/Cradles/nx/Cradles_Coach_1.tga.ckd/f7c1a76695df0ef5bb6c7a702df7d598.ckd",
+      "phoneCoverImageUrl": "/public/map/Cradles/Cradles_Cover_Phone.jpg/48ea284393f66994b4ea8a0aaa5df1d5.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Cradles/Cradles_Coach_1_Phone.png/864b1801438cd4e6013b6b9c130c331b.png"
+    },
+    "cover640ImageUrl": "/public/map/Cradles/Cradles_Cover_640.png/180892b147409b4d09ab6163ab5c0330.png"
+  }
+}

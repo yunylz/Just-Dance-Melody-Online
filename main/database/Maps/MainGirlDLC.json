@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "13ebc709a58ba9d0adace1df72f58e10",
+      "storageType": 0,
+      "url": "/public/map/MainGirlDLC/nx/MainGirlDLC_MAIN_SCENE_NX.zip/13ebc709a58ba9d0adace1df72f58e10.zip"
+    },
+    "pc": {
+      "md5": "754592b0e242d04f1f7f0585f000a680",
+      "storageType": 0,
+      "url": "/public/map/MainGirlDLC/pc/MainGirlDLC_MAIN_SCENE_PC.zip/754592b0e242d04f1f7f0585f000a680.zip"
+    },
+    "ps4": {
+      "md5": "e8a6bd6fa43d4c3322d6394086848932",
+      "storageType": 0,
+      "url": "/public/map/MainGirlDLC/orbis/MainGirlDLC_MAIN_SCENE_ORBIS.zip/e8a6bd6fa43d4c3322d6394086848932.zip"
+    }
+  },
+  "data": {
+    "mapName": "MainGirlDLC",
+    "title": "My Main Girl",
+    "originalJDVersion": 2014,
+    "tags": [
+      "cool",
+      "subscribedSong",
+      "JustDance2014",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "MainStreet",
+    "credits": "Written by Willem Laseroms, Maarten Ten Hove and Joachim Vermeulen Windsant. Published by Universal Music Publishing Group a division of Universal Music Canada Inc. Courtesy of Universal Music B.V., The Netherlands under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#559bcd",
+    "songColor2A": "#ff8bd8",
+    "songColor1B": "#153294",
+    "songColor2B": "#890319",
+    "lyricsColor": "#6abaf4",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28224,
+        56448,
+        84720,
+        112944,
+        141168,
+        169392,
+        197664,
+        225888,
+        254112,
+        282336,
+        310608,
+        338832,
+        367056,
+        395280,
+        423552,
+        451776,
+        480000,
+        508224,
+        536448,
+        564720,
+        592944,
+        621168,
+        649392,
+        677664,
+        705889,
+        734113,
+        762337,
+        790609,
+        818833,
+        847057,
+        875281,
+        903553,
+        931777,
+        960001,
+        988225,
+        1016449,
+        1044721,
+        1072945,
+        1101169,
+        1129393,
+        1157665,
+        1185889,
+        1214113,
+        1242337,
+        1270609,
+        1298833,
+        1327057,
+        1355281,
+        1383554,
+        1411778,
+        1440002,
+        1468226,
+        1496450
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 289,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MainGirlDLC/MainGirlDLC_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MainGirlDLC/nx/MainGirlDLC_banner_bkg.tga.ckd/d1ffe8f10c67dbee7c53e7e70a49d4ce.ckd",
+      "map_bkgImageUrl": "/public/map/MainGirlDLC/nx/MainGirlDLC_map_bkg.tga.ckd/99064771326b7fff99f56e6c2fca9b32.ckd",
+      "expandCoachImageUrl": "/public/map/MainGirlDLC/nx/MainGirlDLC_Cover_AlbumCoach.tga.ckd/96c4a550171276c0005b000f76cbe675.ckd",
+      "cover_smallImageUrl": "/public/map/MainGirlDLC/nx/MainGirlDLC_Cover_Online.tga.ckd/9157d249e387c239ef445b0e33734da2.ckd",
+      "coverImageUrl": "/public/map/MainGirlDLC/nx/MainGirlDLC_Cover_Generic.tga.ckd/c9969882746d34dcdf5eb9a9b4241587.ckd",
+      "coach1ImageUrl": "/public/map/MainGirlDLC/nx/MainGirlDLC_Coach_1.tga.ckd/e2aab8114de8d4f98d28dcb787afd18a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MainGirlDLC/pc/MainGirlDLC_banner_bkg.tga.ckd/d5c3f99bd25e119b22f94d0f109c7d3f.ckd",
+      "map_bkgImageUrl": "/public/map/MainGirlDLC/pc/MainGirlDLC_map_bkg.tga.ckd/35f8033f6550072d93099b1445426548.ckd",
+      "expandCoachImageUrl": "/public/map/MainGirlDLC/pc/MainGirlDLC_Cover_AlbumCoach.tga.ckd/90890dd6a6240be224efaf7cd5223bc7.ckd",
+      "cover_smallImageUrl": "/public/map/MainGirlDLC/pc/MainGirlDLC_Cover_Online.tga.ckd/ac1167ab123b7a88be45c3ed9de9d075.ckd",
+      "coverImageUrl": "/public/map/MainGirlDLC/pc/MainGirlDLC_Cover_Generic.tga.ckd/b2854484e3f7ea23907f55d627387a50.ckd",
+      "coach1ImageUrl": "/public/map/MainGirlDLC/pc/MainGirlDLC_Coach_1.tga.ckd/5332fa99268fdf8829209f0826232424.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MainGirlDLC/orbis/MainGirlDLC_banner_bkg.tga.ckd/d5c3f99bd25e119b22f94d0f109c7d3f.ckd",
+      "map_bkgImageUrl": "/public/map/MainGirlDLC/orbis/MainGirlDLC_map_bkg.tga.ckd/35f8033f6550072d93099b1445426548.ckd",
+      "expandCoachImageUrl": "/public/map/MainGirlDLC/orbis/MainGirlDLC_Cover_AlbumCoach.tga.ckd/90890dd6a6240be224efaf7cd5223bc7.ckd",
+      "cover_smallImageUrl": "/public/map/MainGirlDLC/orbis/MainGirlDLC_Cover_Online.tga.ckd/ac1167ab123b7a88be45c3ed9de9d075.ckd",
+      "coverImageUrl": "/public/map/MainGirlDLC/orbis/MainGirlDLC_Cover_Generic.tga.ckd/b2854484e3f7ea23907f55d627387a50.ckd",
+      "coach1ImageUrl": "/public/map/MainGirlDLC/orbis/MainGirlDLC_Coach_1.tga.ckd/5332fa99268fdf8829209f0826232424.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MainGirlDLC/MainGirlDLC_Coach_1_Phone.png/1d3579d5184d2d85687ade36ac384657.png",
+    "phoneCoverImageUrl": "/public/map/MainGirlDLC/MainGirlDLC_Cover_Phone.jpg/e813814fa30b66adb35c0060f1d7e60c.jpg",
+    "cover640ImageUrl": "/public/map/MainGirlDLC/MainGirlDLC_Cover_640.png/925940369a020b54d2b474c602c7ff50.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MainGirlDLC/MainGirlDLC.ogg": "/private/map/MainGirlDLC/MainGirlDLC.ogg/6e70ac2b86ee769a263c6a6c72141fca.ogg",
+    "jmcs://jd-contents/MainGirlDLC/MainGirlDLC_AudioPreview.ogg": "/public/map/MainGirlDLC/MainGirlDLC_AudioPreview.ogg/e088f511f95ed24a4abfcaf196db1e66.ogg",
+    "jmcs://jd-contents/MainGirlDLC/MainGirlDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MainGirlDLC/MainGirlDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/1850e180a414ffaf25c47a6ba0a1b136.webm",
+    "jmcs://jd-contents/MainGirlDLC/MainGirlDLC_HIGH.webm": "/private/map/MainGirlDLC/MainGirlDLC_HIGH.webm/9bc2419ec9f61981f8a1ddfcb2194867.webm",
+    "jmcs://jd-contents/MainGirlDLC/MainGirlDLC_LOW.webm": "/private/map/MainGirlDLC/MainGirlDLC_LOW.webm/99c35ca23ac839db9637d597c7205371.webm",
+    "jmcs://jd-contents/MainGirlDLC/MainGirlDLC_MID.webm": "/private/map/MainGirlDLC/MainGirlDLC_MID.webm/9f533b3a21c676fc70ca47701e2af601.webm",
+    "jmcs://jd-contents/MainGirlDLC/MainGirlDLC_ULTRA.hd.webm": "/private/map/MainGirlDLC/MainGirlDLC_ULTRA.hd.webm/f52a4d9df360283a0f6c6f7d848bf973.webm",
+    "jmcs://jd-contents/MainGirlDLC/MainGirlDLC_ULTRA.webm": "/private/map/MainGirlDLC/MainGirlDLC_ULTRA.webm/efd7d2ef3400f83d555b672558970f1a.webm",
+    "jmcs://jd-contents/MainGirlDLC/MainGirlDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MainGirlDLC/MainGirlDLC_MapPreviewNoSoundCrop_MID.vp8.webm/eda040ff6f509bfd1230a96640c5b88b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497290\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MainGirlDLC/MainGirlDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1450576\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MainGirlDLC/MainGirlDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 172.353
+}

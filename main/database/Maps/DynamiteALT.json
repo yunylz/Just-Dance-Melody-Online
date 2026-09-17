@@ -1,0 +1,183 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DynamiteALT/DynamiteALT.ogg": "/private/map/DynamiteALT/DynamiteALT.ogg/ae198574fe7e24a17a77dcd453616234.ogg",
+    "jmcs://jd-contents/DynamiteALT/DynamiteALT_AudioPreview.ogg": "/public/map/DynamiteALT/DynamiteALT_AudioPreview.ogg/92f0b3801b4aeee32055e76e5dd76534.ogg",
+    "jmcs://jd-contents/DynamiteALT/DynamiteALT_HIGH.hd.webm": "/private/map/DynamiteALT/DynamiteALT_HIGH.hd.webm/8f4a59552da104ab8470b977f19416be.webm",
+    "jmcs://jd-contents/DynamiteALT/DynamiteALT_LOW.hd.webm": "/private/map/DynamiteALT/DynamiteALT_LOW.hd.webm/8f1f849ceeeac59bd9d1ce92afee8300.webm",
+    "jmcs://jd-contents/DynamiteALT/DynamiteALT_MID.hd.webm": "/private/map/DynamiteALT/DynamiteALT_MID.hd.webm/91c8199597251668b0bf706088598a38.webm",
+    "jmcs://jd-contents/DynamiteALT/DynamiteALT_ULTRA.hd.webm": "/private/map/DynamiteALT/DynamiteALT_ULTRA.hd.webm/b705a1c7530695d80f6cd07d65e457cf.webm",
+    "jmcs://jd-contents/DynamiteALT/DynamiteALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DynamiteALT/DynamiteALT_MapPreviewNoSoundCrop_LOW.vp8.webm/a7a4aebb10ac37b80dd50759ed57ffe9.webm",
+    "jmcs://jd-contents/DynamiteALT/DynamiteALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DynamiteALT/DynamiteALT_MapPreviewNoSoundCrop_MID.vp8.webm/951a3cfc47acb7b554e5fbafb36f62d8.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25263,
+        50526,
+        75789,
+        101053,
+        126316,
+        151579,
+        176842,
+        202105,
+        227368,
+        252632,
+        277895,
+        303158,
+        328421,
+        353684,
+        378947,
+        404211,
+        429474,
+        454737,
+        480000,
+        505263,
+        530526,
+        555789,
+        581053,
+        606316,
+        631579,
+        656842,
+        682105,
+        707368,
+        732632,
+        757895,
+        783158,
+        808421,
+        833684,
+        858947,
+        884211,
+        909474,
+        934737,
+        960000,
+        985263,
+        1010526,
+        1035789,
+        1061053,
+        1086316,
+        1111579,
+        1136842,
+        1162105,
+        1187368,
+        1212632,
+        1237895,
+        1263158,
+        1288421,
+        1313684,
+        1338947,
+        1364211,
+        1389474,
+        1414737,
+        1440000,
+        1465263,
+        1490526
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -16,
+      "endBeat": 379,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DynamiteALT/DynamiteALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"570801\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DynamiteALT/DynamiteALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1978272\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DynamiteALT/DynamiteALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "01396eae1a426d34a2b6ee2b48aa9c02",
+      "storageType": 0,
+      "url": "/public/map/DynamiteALT/nx/DynamiteALT_MAIN_SCENE_NX.zip/01396eae1a426d34a2b6ee2b48aa9c02.zip"
+    },
+    "pc": {
+      "md5": "3ed97ac33a341b53a178e6ae6531eaf2",
+      "storageType": 0,
+      "url": "/public/map/DynamiteALT/pc/DynamiteALT_MAIN_SCENE_PC.zip/3ed97ac33a341b53a178e6ae6531eaf2.zip"
+    },
+    "ps4": {
+      "md5": "f2cb2b54b6e23e572eea4b071c9b2adc",
+      "storageType": 0,
+      "url": "/public/map/DynamiteALT/orbis/DynamiteALT_MAIN_SCENE_ORBIS.zip/f2cb2b54b6e23e572eea4b071c9b2adc.zip"
+    }
+  },
+  "data": {
+    "mapName": "DynamiteALT",
+    "title": "Dynamite",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "BTS (방탄소년단)",
+    "credits": "Written by Dave Stewart, Jessica Agombar. Published by Stellar Songs Limited (PRS). Courtesy of Big Hit Music Label. ",
+    "coachCount": 4,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#fa3998",
+    "LocaleID": 12624
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DynamiteALT/nx/DynamiteALT_banner_bkg.tga.ckd/4e7e02465563e6991c23ae7b4506a2d3.ckd",
+      "map_bkgImageUrl": "/public/map/DynamiteALT/nx/DynamiteALT_map_bkg.tga.ckd/113e4491489e097a0336f96ea879eca6.ckd",
+      "expandCoachImageUrl": "/public/map/DynamiteALT/nx/DynamiteALT_Cover_AlbumCoach.tga.ckd/10e1b2f314a86fe3897b4af337a9ff97.ckd",
+      "cover_smallImageUrl": "/public/map/DynamiteALT/nx/DynamiteALT_Cover_Online.tga.ckd/a726e330954e95c2e97002ee1f80221e.ckd",
+      "coverImageUrl": "/public/map/DynamiteALT/nx/DynamiteALT_Cover_Generic.tga.ckd/9fdf71f396535f8f24c492bf81f20a44.ckd",
+      "coach1ImageUrl": "/public/map/DynamiteALT/nx/DynamiteALT_Coach_1.tga.ckd/4b4d2a4f306edfc3e4f969325b051a8c.ckd",
+      "coach2ImageUrl": "/public/map/DynamiteALT/nx/DynamiteALT_Coach_2.tga.ckd/1e65ee77e86626d9013d5247e3412fb6.ckd",
+      "coach3ImageUrl": "/public/map/DynamiteALT/nx/DynamiteALT_Coach_3.tga.ckd/322a1fba7a25d83278a0e5cfb86d24c7.ckd",
+      "coach4ImageUrl": "/public/map/DynamiteALT/nx/DynamiteALT_Coach_4.tga.ckd/ea93c4042457df334a9ad4d77abcf3aa.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DynamiteALT/pc/DynamiteALT_banner_bkg.tga.ckd/bf27ec8fe591df5ab7281725fe846285.ckd",
+      "map_bkgImageUrl": "/public/map/DynamiteALT/pc/DynamiteALT_map_bkg.tga.ckd/b56097a505bd551cf663a45311b5f72a.ckd",
+      "expandCoachImageUrl": "/public/map/DynamiteALT/pc/DynamiteALT_Cover_AlbumCoach.tga.ckd/0c6193421715e23c39fbdcf560907cb4.ckd",
+      "cover_smallImageUrl": "/public/map/DynamiteALT/pc/DynamiteALT_Cover_Online.tga.ckd/bfd98c1e0f54efed3d9a318a5fc2441b.ckd",
+      "coverImageUrl": "/public/map/DynamiteALT/pc/DynamiteALT_Cover_Generic.tga.ckd/949af71c578eeed989f71870a86cfe10.ckd",
+      "coach1ImageUrl": "/public/map/DynamiteALT/pc/DynamiteALT_Coach_1.tga.ckd/d9121ac44eefd8e94590e207c36b3246.ckd",
+      "coach2ImageUrl": "/public/map/DynamiteALT/pc/DynamiteALT_Coach_2.tga.ckd/5d7baf614a89948bcac8e2f16d39c58f.ckd",
+      "coach3ImageUrl": "/public/map/DynamiteALT/pc/DynamiteALT_Coach_3.tga.ckd/38c67a05e90c42b809adc7bd883549d0.ckd",
+      "coach4ImageUrl": "/public/map/DynamiteALT/pc/DynamiteALT_Coach_4.tga.ckd/c3b788345aa68bd79f2d5dc3db9b4ee4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DynamiteALT/orbis/DynamiteALT_banner_bkg.tga.ckd/bf27ec8fe591df5ab7281725fe846285.ckd",
+      "map_bkgImageUrl": "/public/map/DynamiteALT/orbis/DynamiteALT_map_bkg.tga.ckd/b56097a505bd551cf663a45311b5f72a.ckd",
+      "expandCoachImageUrl": "/public/map/DynamiteALT/orbis/DynamiteALT_Cover_AlbumCoach.tga.ckd/0c6193421715e23c39fbdcf560907cb4.ckd",
+      "cover_smallImageUrl": "/public/map/DynamiteALT/orbis/DynamiteALT_Cover_Online.tga.ckd/bfd98c1e0f54efed3d9a318a5fc2441b.ckd",
+      "coverImageUrl": "/public/map/DynamiteALT/orbis/DynamiteALT_Cover_Generic.tga.ckd/949af71c578eeed989f71870a86cfe10.ckd",
+      "coach1ImageUrl": "/public/map/DynamiteALT/orbis/DynamiteALT_Coach_1.tga.ckd/d9121ac44eefd8e94590e207c36b3246.ckd",
+      "coach2ImageUrl": "/public/map/DynamiteALT/orbis/DynamiteALT_Coach_2.tga.ckd/5d7baf614a89948bcac8e2f16d39c58f.ckd",
+      "coach3ImageUrl": "/public/map/DynamiteALT/orbis/DynamiteALT_Coach_3.tga.ckd/38c67a05e90c42b809adc7bd883549d0.ckd",
+      "coach4ImageUrl": "/public/map/DynamiteALT/orbis/DynamiteALT_Coach_4.tga.ckd/c3b788345aa68bd79f2d5dc3db9b4ee4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DynamiteALT/DynamiteALT_Coach_1_Phone.png/fd3a20a1b02998c426871cdbffdc9f38.png",
+    "phoneCoach2ImageUrl": "/public/map/DynamiteALT/DynamiteALT_Coach_2_Phone.png/92fba4074a01292d011662c867296f2a.png",
+    "phoneCoach3ImageUrl": "/public/map/DynamiteALT/DynamiteALT_Coach_3_Phone.png/2192371bb7b818a753285af4e7f7401b.png",
+    "phoneCoach4ImageUrl": "/public/map/DynamiteALT/DynamiteALT_Coach_4_Phone.png/33848372e45e5521fd2133599d3dc8b5.png",
+    "phoneCoverImageUrl": "/public/map/DynamiteALT/DynamiteALT_Cover_Phone.jpg/78f44e05098e748f5e86c4cfa9dc88b0.jpg",
+    "cover640ImageUrl": "/public/map/DynamiteALT/DynamiteALT_Cover_640.png/c3add3c70b4e2848fff28850bcecb30e.png"
+  },
+  "mapLength": 207.893688
+}

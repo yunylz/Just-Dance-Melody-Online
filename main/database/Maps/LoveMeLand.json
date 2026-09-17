@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "417b2deec0b6b3c89590fe4a1ec45078",
+      "storageType": 0,
+      "url": "/public/map/LoveMeLand/nx/LoveMeLand_MAIN_SCENE_NX.zip/417b2deec0b6b3c89590fe4a1ec45078.zip"
+    },
+    "pc": {
+      "md5": "ea2f0472f037d7babd2b1d9b327ac88b",
+      "storageType": 0,
+      "url": "/public/map/LoveMeLand/pc/LoveMeLand_MAIN_SCENE_PC.zip/ea2f0472f037d7babd2b1d9b327ac88b.zip"
+    },
+    "ps4": {
+      "md5": "e4614c79f7bfe6ff74e7cf0000c58bbc",
+      "storageType": 0,
+      "url": "/public/map/LoveMeLand/orbis/LoveMeLand_MAIN_SCENE_ORBIS.zip/e4614c79f7bfe6ff74e7cf0000c58bbc.zip"
+    }
+  },
+  "data": {
+    "mapName": "LoveMeLand",
+    "title": "Love Me Land",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Zara Larsson",
+    "credits": "Written by Zara Maria Larsson, Julia Michaels, Jason Gill, and Justin Tranter. Published by Marquise Cut Publishing (BMI), I've Got Issues Music (BMI), Justin's School for Girls (BMI), Warner-Tamerlane Publishing Corp. (BMI) and WARNER CHAPPELL MUSIC SCANDINAVIA AB (STIM) All rights on behalf of itself and Marquise Cut Publishing, I've Got Issues Music, Justin's School for Girls and WARNER CHAPPELL MUSIC SCANDINAVIA AB administered by Warner-Tamerlane Publishing Corp. / Sony Music Publishing Scandinavia aB (STIM) Rights reserved. Used with permission. Courtesy of Record Company TEN & Epic Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff10ff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26667,
+        53333,
+        80000,
+        106667,
+        133333,
+        160000,
+        186667,
+        213333,
+        240000,
+        266667,
+        293333,
+        320000,
+        346667,
+        373333,
+        400000,
+        426667,
+        453333,
+        480000,
+        506667,
+        533333,
+        560000,
+        586667,
+        613333,
+        640000,
+        666667,
+        693333,
+        720000,
+        746667,
+        773333,
+        800000,
+        826667,
+        853333,
+        880000,
+        906667,
+        933333,
+        960000,
+        986667,
+        1013333,
+        1040000,
+        1066667,
+        1093333,
+        1120000,
+        1146667,
+        1173333,
+        1200000,
+        1226667,
+        1253333,
+        1280000,
+        1306667,
+        1333333,
+        1360000,
+        1386667,
+        1413333,
+        1440000,
+        1466667,
+        1493333
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -13,
+      "endBeat": 298,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LoveMeLand/LoveMeLand_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LoveMeLand/nx/LoveMeLand_banner_bkg.tga.ckd/fb5c58ebb7500654bb5118ff08f1ed32.ckd",
+      "map_bkgImageUrl": "/public/map/LoveMeLand/nx/LoveMeLand_map_bkg.tga.ckd/87e470f314e76db9c19c4eb4105ce510.ckd",
+      "expandCoachImageUrl": "/public/map/LoveMeLand/nx/LoveMeLand_Cover_AlbumCoach.tga.ckd/1f8da6349a1803535c40f04f23e70e8a.ckd",
+      "cover_smallImageUrl": "/public/map/LoveMeLand/nx/LoveMeLand_Cover_Online.tga.ckd/f110c01fa96ce2ba189beeb9ea5b5a04.ckd",
+      "coach1ImageUrl": "/public/map/LoveMeLand/nx/LoveMeLand_Coach_1.tga.ckd/a7bff4efeb4820f75c504261ccbeae27.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LoveMeLand/pc/LoveMeLand_banner_bkg.tga.ckd/1b4e15e772f5ad111a9b9091852ed228.ckd",
+      "map_bkgImageUrl": "/public/map/LoveMeLand/pc/LoveMeLand_map_bkg.tga.ckd/75232b82db28f75da5aed9ca4ec8872d.ckd",
+      "expandCoachImageUrl": "/public/map/LoveMeLand/pc/LoveMeLand_Cover_AlbumCoach.tga.ckd/6b50bdf4c7afa07becf20ee1d63fa7d8.ckd",
+      "cover_smallImageUrl": "/public/map/LoveMeLand/pc/LoveMeLand_Cover_Online.tga.ckd/17de6ab9f311c51ed040a3effc241442.ckd",
+      "coach1ImageUrl": "/public/map/LoveMeLand/pc/LoveMeLand_Coach_1.tga.ckd/41e3eedd923930668d8bd9542f7d1629.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LoveMeLand/orbis/LoveMeLand_banner_bkg.tga.ckd/1b4e15e772f5ad111a9b9091852ed228.ckd",
+      "map_bkgImageUrl": "/public/map/LoveMeLand/orbis/LoveMeLand_map_bkg.tga.ckd/75232b82db28f75da5aed9ca4ec8872d.ckd",
+      "expandCoachImageUrl": "/public/map/LoveMeLand/orbis/LoveMeLand_Cover_AlbumCoach.tga.ckd/6b50bdf4c7afa07becf20ee1d63fa7d8.ckd",
+      "cover_smallImageUrl": "/public/map/LoveMeLand/orbis/LoveMeLand_Cover_Online.tga.ckd/17de6ab9f311c51ed040a3effc241442.ckd",
+      "coach1ImageUrl": "/public/map/LoveMeLand/orbis/LoveMeLand_Coach_1.tga.ckd/41e3eedd923930668d8bd9542f7d1629.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LoveMeLand/LoveMeLand_Coach_1_Phone.png/3664ea8258b121d344aff580f8350934.png",
+    "phoneCoverImageUrl": "/public/map/LoveMeLand/LoveMeLand_Cover_Phone.jpg/64190e72709712f84c04f53afb9a267a.jpg",
+    "cover640ImageUrl": "/public/map/LoveMeLand/LoveMeLand_Cover_640.png/d8162da441677bf6007ba27291deb447.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/LoveMeLand/LoveMeLand.ogg": "/private/map/LoveMeLand/LoveMeLand.ogg/fe4865996ddc813e4ed556d6048a95e8.ogg",
+    "jmcs://jd-contents/LoveMeLand/LoveMeLand_AudioPreview.ogg": "/public/map/LoveMeLand/LoveMeLand_AudioPreview.ogg/5a34a56992e42bd4357c60150c5dc983.ogg",
+    "jmcs://jd-contents/LoveMeLand/LoveMeLand_HIGH.webm": "/private/map/LoveMeLand/LoveMeLand_HIGH.webm/19daf635b1c6c64c5aa498c8edf6f71a.webm",
+    "jmcs://jd-contents/LoveMeLand/LoveMeLand_LOW.webm": "/private/map/LoveMeLand/LoveMeLand_LOW.webm/fc4a40de63a083527fbf0baac056fed2.webm",
+    "jmcs://jd-contents/LoveMeLand/LoveMeLand_MID.webm": "/private/map/LoveMeLand/LoveMeLand_MID.webm/cc82fb3bb15c1305758215126021c415.webm",
+    "jmcs://jd-contents/LoveMeLand/LoveMeLand_ULTRA.hd.webm": "/private/map/LoveMeLand/LoveMeLand_ULTRA.hd.webm/920ff7327c0d156c0c9b31530b94fb58.webm",
+    "jmcs://jd-contents/LoveMeLand/LoveMeLand_ULTRA.webm": "/private/map/LoveMeLand/LoveMeLand_ULTRA.webm/9fec6e8543d6223e4dcd781bbe9a598e.webm",
+    "jmcs://jd-contents/LoveMeLand/LoveMeLand_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LoveMeLand/LoveMeLand_MapPreviewNoSoundCrop_LOW.vp8.webm/6e614e1efaa25f6721ddbaeb226e5b85.webm",
+    "jmcs://jd-contents/LoveMeLand/LoveMeLand_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LoveMeLand/LoveMeLand_MapPreviewNoSoundCrop_MID.vp8.webm/f24c23916d49dbcf560ecaf63caae1e9.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"509217\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveMeLand/LoveMeLand_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"665-1155\">\n\t\t\t\t\t<Initialization range=\"0-665\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1495681\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveMeLand/LoveMeLand_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"666-1156\">\n\t\t\t\t\t<Initialization range=\"0-666\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 174.588792
+}

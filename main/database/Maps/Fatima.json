@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c4f7d403a62fca43c7d94720b385a952",
+      "storageType": 0,
+      "url": "/public/map/Fatima/nx/Fatima_MAIN_SCENE_NX.zip/c4f7d403a62fca43c7d94720b385a952.zip"
+    },
+    "pc": {
+      "md5": "d7702d2903d25738528df49147489dd3",
+      "storageType": 0,
+      "url": "/public/map/Fatima/pc/Fatima_MAIN_SCENE_PC.zip/d7702d2903d25738528df49147489dd3.zip"
+    },
+    "ps4": {
+      "md5": "d9d5628953806da6883a29fcec05fc15",
+      "storageType": 0,
+      "url": "/public/map/Fatima/orbis/Fatima_MAIN_SCENE_ORBIS.zip/d9d5628953806da6883a29fcec05fc15.zip"
+    }
+  },
+  "data": {
+    "mapName": "Fatima",
+    "title": "Fatima",
+    "originalJDVersion": 2015,
+    "tags": [
+      "intense",
+      "main"
+    ],
+    "artist": "Cheb Salama",
+    "credits": "Composed by Ilan Abou (SACEM), Larbi Dida (SACEM), Sylvain Lux (SACEM) Published by Kosinus APM (ASCAP) Courtesy of APM Music  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f1a325",
+    "songColor2A": "#df501f",
+    "songColor1B": "#4a2003",
+    "songColor2B": "#5d2a07",
+    "lyricsColor": "#61dcdf",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21839,
+        43631,
+        65471,
+        87263,
+        109103,
+        130895,
+        152735,
+        174527,
+        196367,
+        218159,
+        239999,
+        261839,
+        283631,
+        305471,
+        327263,
+        349103,
+        370895,
+        392735,
+        414527,
+        436367,
+        458159,
+        479999,
+        501839,
+        523631,
+        545471,
+        567263,
+        589103,
+        610895,
+        632735,
+        654527,
+        676367,
+        698159,
+        719999,
+        741839,
+        763631,
+        785471,
+        807263,
+        829103,
+        850895,
+        872735,
+        894527,
+        916367,
+        938159,
+        959999,
+        981839,
+        1003631,
+        1025471,
+        1047263,
+        1069103,
+        1090895,
+        1112735,
+        1134527,
+        1156367,
+        1178159,
+        1199999,
+        1221839,
+        1243631,
+        1265471,
+        1287263,
+        1309103,
+        1330895,
+        1352735,
+        1374527,
+        1396367,
+        1418159,
+        1439999,
+        1461839,
+        1483631
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 243,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Fatima/Fatima_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Fatima/nx/Fatima_banner_bkg.tga.ckd/562e703ec92e41a236dc5e6730c19b12.ckd",
+      "map_bkgImageUrl": "/public/map/Fatima/nx/Fatima_map_bkg.tga.ckd/e8b6c2f3dd79c164fe9aa5dcca81b0ae.ckd",
+      "expandCoachImageUrl": "/public/map/Fatima/nx/Fatima_Cover_AlbumCoach.tga.ckd/c1dbd9f9014803aedbef434e29d13c48.ckd",
+      "cover_smallImageUrl": "/public/map/Fatima/nx/Fatima_Cover_Online.tga.ckd/b875c3005a746c3641ab2232743cf93b.ckd",
+      "coverImageUrl": "/public/map/Fatima/nx/Fatima_Cover_Generic.tga.ckd/57f16c37ee9958852ce1da0bf33a9277.ckd",
+      "coach1ImageUrl": "/public/map/Fatima/nx/Fatima_Coach_1.tga.ckd/60b99a82ed7b54d55a455da8a5cb3195.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Fatima/pc/Fatima_banner_bkg.tga.ckd/a572c15d912c92ce42b2e8e574f2547a.ckd",
+      "map_bkgImageUrl": "/public/map/Fatima/pc/Fatima_map_bkg.tga.ckd/1ce1c07b5aa85170de3fd98135c3f9a4.ckd",
+      "expandCoachImageUrl": "/public/map/Fatima/pc/Fatima_Cover_AlbumCoach.tga.ckd/20334810a236039c9800b01ae3344d82.ckd",
+      "cover_smallImageUrl": "/public/map/Fatima/pc/Fatima_Cover_Online.tga.ckd/44002b16303c1ef79243ce2130101d77.ckd",
+      "coverImageUrl": "/public/map/Fatima/pc/Fatima_Cover_Generic.tga.ckd/ffaa0e599913abf211b7224266639ddc.ckd",
+      "coach1ImageUrl": "/public/map/Fatima/pc/Fatima_Coach_1.tga.ckd/3111735decc7fc176c0028ee62c6912f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Fatima/orbis/Fatima_banner_bkg.tga.ckd/a572c15d912c92ce42b2e8e574f2547a.ckd",
+      "map_bkgImageUrl": "/public/map/Fatima/orbis/Fatima_map_bkg.tga.ckd/1ce1c07b5aa85170de3fd98135c3f9a4.ckd",
+      "expandCoachImageUrl": "/public/map/Fatima/orbis/Fatima_Cover_AlbumCoach.tga.ckd/20334810a236039c9800b01ae3344d82.ckd",
+      "cover_smallImageUrl": "/public/map/Fatima/orbis/Fatima_Cover_Online.tga.ckd/44002b16303c1ef79243ce2130101d77.ckd",
+      "coverImageUrl": "/public/map/Fatima/orbis/Fatima_Cover_Generic.tga.ckd/ffaa0e599913abf211b7224266639ddc.ckd",
+      "coach1ImageUrl": "/public/map/Fatima/orbis/Fatima_Coach_1.tga.ckd/3111735decc7fc176c0028ee62c6912f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Fatima/Fatima_Coach_1_Phone.png/03607793343e99174bc4a893011f327a.png",
+    "phoneCoverImageUrl": "/public/map/Fatima/Fatima_Cover_Phone.jpg/4d821cf550647227b60a6fa8fc700ee9.jpg",
+    "cover640ImageUrl": "/public/map/Fatima/Fatima_Cover_640.png/189be892214c177f9ce862c08c1b3ac7.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Fatima/Fatima.ogg": "/private/map/Fatima/Fatima.ogg/0606167dbda45671beeb3f15e1db5346.ogg",
+    "jmcs://jd-contents/Fatima/Fatima_AudioPreview.ogg": "/public/map/Fatima/Fatima_AudioPreview.ogg/1d4012098a86b75b07d101ef1f7d6c6e.ogg",
+    "jmcs://jd-contents/Fatima/Fatima_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Fatima/Fatima_MapPreviewNoSoundCrop_LOW.vp8.webm/c93368f04c59ade20fbead19b4d89b96.webm",
+    "jmcs://jd-contents/Fatima/Fatima_HIGH.webm": "/private/map/Fatima/Fatima_HIGH.webm/27ff2b36039d1d7c45cfaa3be7890f81.webm",
+    "jmcs://jd-contents/Fatima/Fatima_LOW.webm": "/private/map/Fatima/Fatima_LOW.webm/bb22951402141f8f0bc0d716a66764b6.webm",
+    "jmcs://jd-contents/Fatima/Fatima_MID.webm": "/private/map/Fatima/Fatima_MID.webm/d139db1335c30fd25c7ef67c2b1ee53f.webm",
+    "jmcs://jd-contents/Fatima/Fatima_ULTRA.hd.webm": "/private/map/Fatima/Fatima_ULTRA.hd.webm/7fe0abf694248845a2a3a3f90f5e2cd2.webm",
+    "jmcs://jd-contents/Fatima/Fatima_ULTRA.webm": "/private/map/Fatima/Fatima_ULTRA.webm/05def35bd9c7ba633ddc03a3be09f554.webm",
+    "jmcs://jd-contents/Fatima/Fatima_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Fatima/Fatima_MapPreviewNoSoundCrop_MID.vp8.webm/2a47c76e86599a0804f33895a1905808.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"534272\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Fatima/Fatima_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\n\t\t\t\t\t<Initialization range=\"0-598\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1508599\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Fatima/Fatima_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\n\t\t\t\t\t<Initialization range=\"0-599\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 112.272438
+}

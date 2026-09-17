@@ -1,0 +1,157 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Criminal/Criminal.ogg": "/private/map/Criminal/Criminal.ogg/c7abc7022a132295fe9cf0cf7f1da6ad.ogg",
+    "jmcs://jd-contents/Criminal/Criminal_AudioPreview.ogg": "/public/map/Criminal/Criminal_AudioPreview.ogg/621616d357e3fe917ac5e71193c83dc0.ogg",
+    "jmcs://jd-contents/Criminal/Criminal_HIGH.hd.webm": "/private/map/Criminal/Criminal_HIGH.hd.webm/a58955e58d46ea872b0ed35c88b52954.webm",
+    "jmcs://jd-contents/Criminal/Criminal_LOW.hd.webm": "/private/map/Criminal/Criminal_LOW.hd.webm/a8cc0162b2ccdfa947ec0937d4554d15.webm",
+    "jmcs://jd-contents/Criminal/Criminal_MID.hd.webm": "/private/map/Criminal/Criminal_MID.hd.webm/a137001639cb867d75afee571b1eebc0.webm",
+    "jmcs://jd-contents/Criminal/Criminal_ULTRA.hd.webm": "/private/map/Criminal/Criminal_ULTRA.hd.webm/f113985b5ebcd6e928b54133c39070cd.webm",
+    "jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Criminal/Criminal_MapPreviewNoSoundCrop_LOW.vp8.webm/a9d9cf568d33b0f7e18eec98bc4aac3d.webm",
+    "jmcs://jd-contents/Criminal/Criminal_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Criminal/Criminal_MapPreviewNoSoundCrop_MID.vp8.webm/5008245a323dc1cf30d4abb9b7b743f6.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        36000,
+        72000,
+        108000,
+        144000,
+        180000,
+        216000,
+        252000,
+        288000,
+        324000,
+        360000,
+        396000,
+        432000,
+        467999,
+        504000,
+        540000,
+        576000,
+        612000,
+        648000,
+        684000,
+        720000,
+        756000,
+        792000,
+        828000,
+        864000,
+        900000,
+        935999,
+        972000,
+        1008000,
+        1044000,
+        1080000,
+        1116000,
+        1152000,
+        1188000,
+        1224000,
+        1259999,
+        1296000,
+        1332000,
+        1368000,
+        1404000,
+        1440000,
+        1476000,
+        1512000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 272,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 40,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Criminal/Criminal_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "97a1bd118f8443527af22d65df75e46f",
+      "storageType": 0,
+      "url": "/public/map/Criminal/nx/Criminal_MAIN_SCENE_NX.zip/97a1bd118f8443527af22d65df75e46f.zip"
+    },
+    "pc": {
+      "md5": "9b03b430d1151bc244cfeb7abb21b89c",
+      "storageType": 0,
+      "url": "/public/map/Criminal/pc/Criminal_MAIN_SCENE_PC.zip/9b03b430d1151bc244cfeb7abb21b89c.zip"
+    },
+    "ps4": {
+      "md5": "88448d1fbdd0521d1b5f6f1bd1e71fd6",
+      "storageType": 0,
+      "url": "/public/map/Criminal/orbis/Criminal_MAIN_SCENE_ORBIS.zip/88448d1fbdd0521d1b5f6f1bd1e71fd6.zip"
+    }
+  },
+  "data": {
+    "mapName": "Criminal",
+    "title": "Criminal",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main"
+    ],
+    "artist": "Natti Natasha & Ozuna",
+    "credits": "Written by Natalia Gutierrez, Jhay Cortez, Rafael Pina, Egbert Rosa, Jan Carlos Rosado and Vincente Saavedra. Published by Sony/ATV Latin Music Publishing LLC. (BMI) / Los Magnifikos Music (ASCAP). / A Million Dollar Dream (ASCAP). All rights on behalf of A Million Dollar Dream administered by WB Music Corp. / Songs of Kobalt Music Publishing obo Ozuna Worldwide (BMI) / Music Good Vibes Publishing (BMI) / Music by Dreamsound Entertainment (BMI). All rights reserved. Used with permission. Courtesy of SME US Latin LLC. By arrangement with Sony Music Entertainment. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#006a7a",
+    "songColor2A": "#e50000",
+    "songColor1B": "#001727",
+    "songColor2B": "#2d0015",
+    "lyricsColor": "#ffab1e",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Criminal/nx/Criminal_banner_bkg.tga.ckd/5cb9f235751453fd51d4ad6bb14d49d6.ckd",
+      "map_bkgImageUrl": "/public/map/Criminal/nx/Criminal_map_bkg.tga.ckd/65a20802be702b033c396780b06f4485.ckd",
+      "expandCoachImageUrl": "/public/map/Criminal/nx/Criminal_Cover_AlbumCoach.tga.ckd/129af0bf01c80ecdf241861e3ccb172d.ckd",
+      "cover_smallImageUrl": "/public/map/Criminal/nx/Criminal_Cover_Online.tga.ckd/241b6f2fc3058b992fcc4db3e62b5326.ckd",
+      "coverImageUrl": "/public/map/Criminal/nx/Criminal_Cover_Generic.tga.ckd/5e523601e132d0c73c39440d0731d311.ckd",
+      "coach1ImageUrl": "/public/map/Criminal/nx/Criminal_Coach_1.tga.ckd/628520eec36923ae5c15220c9f135908.ckd",
+      "coach2ImageUrl": "/public/map/Criminal/nx/Criminal_Coach_2.tga.ckd/17bdc775d6ff8d00904a955a238c33bf.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Criminal/pc/Criminal_banner_bkg.tga.ckd/7a3caa3191986e158b481794979294dd.ckd",
+      "map_bkgImageUrl": "/public/map/Criminal/pc/Criminal_map_bkg.tga.ckd/8c74685014f7c21c1cdf57fcf73963f8.ckd",
+      "expandCoachImageUrl": "/public/map/Criminal/pc/Criminal_Cover_AlbumCoach.tga.ckd/19cd193863a076dfd793d4a38605643a.ckd",
+      "cover_smallImageUrl": "/public/map/Criminal/pc/Criminal_Cover_Online.tga.ckd/c9d453ed9eef69b2825ba2ee41f8f1cf.ckd",
+      "coverImageUrl": "/public/map/Criminal/pc/Criminal_Cover_Generic.tga.ckd/58d04261cda843458e7eac52243f172a.ckd",
+      "coach1ImageUrl": "/public/map/Criminal/pc/Criminal_Coach_1.tga.ckd/e0c6d83e38b2bcc55d5ae41df4d6d271.ckd",
+      "coach2ImageUrl": "/public/map/Criminal/pc/Criminal_Coach_2.tga.ckd/5ced341649ea835188abd08dfed90257.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Criminal/orbis/Criminal_banner_bkg.tga.ckd/7a3caa3191986e158b481794979294dd.ckd",
+      "map_bkgImageUrl": "/public/map/Criminal/orbis/Criminal_map_bkg.tga.ckd/8c74685014f7c21c1cdf57fcf73963f8.ckd",
+      "expandCoachImageUrl": "/public/map/Criminal/orbis/Criminal_Cover_AlbumCoach.tga.ckd/19cd193863a076dfd793d4a38605643a.ckd",
+      "cover_smallImageUrl": "/public/map/Criminal/orbis/Criminal_Cover_Online.tga.ckd/c9d453ed9eef69b2825ba2ee41f8f1cf.ckd",
+      "coverImageUrl": "/public/map/Criminal/orbis/Criminal_Cover_Generic.tga.ckd/58d04261cda843458e7eac52243f172a.ckd",
+      "coach1ImageUrl": "/public/map/Criminal/orbis/Criminal_Coach_1.tga.ckd/e0c6d83e38b2bcc55d5ae41df4d6d271.ckd",
+      "coach2ImageUrl": "/public/map/Criminal/orbis/Criminal_Coach_2.tga.ckd/5ced341649ea835188abd08dfed90257.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Criminal/Criminal_Coach_1_Phone.png/e506a6e09c27c35196d49b692e31ce32.png",
+    "phoneCoach2ImageUrl": "/public/map/Criminal/Criminal_Coach_2_Phone.png/2800c8ccd580e25a5c8fe159a2cbf61c.png",
+    "phoneCoverImageUrl": "/public/map/Criminal/Criminal_Cover_Phone.jpg/9731574d6f6e22a6ba1d0923ab7450da.jpg",
+    "cover640ImageUrl": "/public/map/Criminal/Criminal_Cover_640.png/c04e04dd0fbf0f339ba37fa94932e1f8.png"
+  },
+  "mapLength": 205.5
+}

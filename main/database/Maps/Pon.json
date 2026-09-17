@@ -1,0 +1,156 @@
+{
+  "packages": {
+    "pc": {
+      "md5": "cfabe8eeb62342ac4732ebd6ebc7a17b",
+      "storageType": 0,
+      "url": "/public/map/Pon/pc/Pon_MAIN_SCENE_PC.zip/cfabe8eeb62342ac4732ebd6ebc7a17b.zip"
+    },
+    "nx": {
+      "md5": "d76e27629c916e51aa6599da9e4f429d",
+      "storageType": 0,
+      "url": "/public/map/Pon/nx/Pon_MAIN_SCENE_NX.zip/d76e27629c916e51aa6599da9e4f429d.zip"
+    }
+  },
+  "data": {
+    "mapName": "Pon",
+    "title": "Pon De Replay",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Rihanna",
+    "credits": "Written by E. A. Rogers, C. A. Sturken, A. Brooks and V. J. Nobles. Published by Universal Music Publishing Group a division of Universal Music Canada Ltd, VNM Publishing (ASCAP) administered by WB Music Corp. / Below Da Belt Music (BMI) administered by Warner-Tamerlane Publishing / AMP Group Publishing, LLC (BMI). All rights reserved. Courtesy of The Island Def Jam Music Group, under license from Universal Music Canada.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#1C05F0",
+    "songColor2A": "#F100C7",
+    "songColor1B": "#0F0033",
+    "songColor2B": "#000000",
+    "lyricsColor": "#FF21A7",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29088,
+        58176,
+        87264,
+        116352,
+        145440,
+        174528,
+        203616,
+        232704,
+        261792,
+        290880,
+        319968,
+        349056,
+        378144,
+        407232,
+        436320,
+        465456,
+        494544,
+        523632,
+        552720,
+        581808,
+        610896,
+        639984,
+        669072,
+        698160,
+        727248,
+        756336,
+        785424,
+        814512,
+        843600,
+        872688,
+        901776,
+        930864,
+        959952,
+        989040,
+        1018176,
+        1047264,
+        1076352,
+        1105440,
+        1134528,
+        1163616,
+        1192704,
+        1221792,
+        1250880,
+        1279968,
+        1309056,
+        1338144,
+        1367232,
+        1396320,
+        1425408
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 354,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/pon/pon_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Pon/nx/Pon_banner_bkg.tga.ckd/64081220d6e3de73e093d10b5b76cacd.ckd",
+      "map_bkgImageUrl": "/public/map/Pon/nx/Pon_map_bkg.tga.ckd/547808fb680b5e3068b92bc0eb2517d5.ckd",
+      "expandCoachImageUrl": "/public/map/Pon/nx/Pon_Cover_AlbumCoach.tga.ckd/329ce58b574a659466475ac0c885c993.ckd",
+      "cover_smallImageUrl": "/public/map/Pon/nx/Pon_Cover_Online.tga.ckd/bd2fd2e136b2843688e1a7f834d6f4ed.ckd",
+      "coach1ImageUrl": "/public/map/Pon/nx/Pon_Coach_1.tga.ckd/fc29ad8113c788a10f23c5ad52fbca38.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Pon/pc/Pon_banner_bkg.tga.ckd/1119393448d69d394770be476aed4a0c.ckd",
+      "map_bkgImageUrl": "/public/map/Pon/pc/Pon_map_bkg.tga.ckd/5bcb9fc673584eeb26e7d6edc8c1d600.ckd",
+      "expandCoachImageUrl": "/public/map/Pon/pc/Pon_Cover_AlbumCoach.tga.ckd/90a3f662b8e97a2119683846bd518ae5.ckd",
+      "cover_smallImageUrl": "/public/map/Pon/pc/Pon_Cover_Online.tga.ckd/c138749bf224b273b18fc8d8ee272254.ckd",
+      "coach1ImageUrl": "/public/map/Pon/pc/Pon_Coach_1.tga.ckd/15f520e3c357d6181f0b4497610fa28e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Pon/orbis/Pon_banner_bkg.tga.ckd/1119393448d69d394770be476aed4a0c.ckd",
+      "map_bkgImageUrl": "/public/map/Pon/orbis/Pon_map_bkg.tga.ckd/5bcb9fc673584eeb26e7d6edc8c1d600.ckd",
+      "expandCoachImageUrl": "/public/map/Pon/orbis/Pon_Cover_AlbumCoach.tga.ckd/90a3f662b8e97a2119683846bd518ae5.ckd",
+      "cover_smallImageUrl": "/public/map/Pon/orbis/Pon_Cover_Online.tga.ckd/c138749bf224b273b18fc8d8ee272254.ckd",
+      "coach1ImageUrl": "/public/map/Pon/orbis/Pon_Coach_1.tga.ckd/15f520e3c357d6181f0b4497610fa28e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Pon/Pon_Coach_1_Phone.png/234bd9413c7e3142f8dc00b983af2d6f.png",
+    "phoneCoverImageUrl": "/public/map/Pon/Pon_Cover_Phone.jpg/2bc4447ec139ede41b1358a6e2641bc1.jpg",
+    "cover640ImageUrl": "/public/map/Pon/Pon_Cover_640.png/831a66c61bc3d63e74bf679dc9f5d1d9.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Pon/Pon.ogg": "/private/map/Pon/Pon.ogg/7c4ce31adef55d292c0d64d7fcf2b191.ogg",
+    "jmcs://jd-contents/Pon/Pon_AudioPreview.ogg": "/public/map/Pon/Pon_AudioPreview.ogg/e0c14319bb9afd7a80db52b056bae555.ogg",
+    "jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Pon/Pon_MapPreviewNoSoundCrop_LOW.vp8.webm/81feae5cda70b2e616aa76f325589082.webm",
+    "jmcs://jd-contents/Pon/Pon_HIGH.webm": "/private/map/Pon/Pon_HIGH.webm/66b50e7e9d634175c2cc98d1bb6e26eb.webm",
+    "jmcs://jd-contents/Pon/Pon_LOW.webm": "/private/map/Pon/Pon_LOW.webm/98937db42437189f1a35fe4c4b1ad758.webm",
+    "jmcs://jd-contents/Pon/Pon_MID.webm": "/private/map/Pon/Pon_MID.webm/0d7d9e0425bc263fa23b12c4ffb492f2.webm",
+    "jmcs://jd-contents/Pon/Pon_ULTRA.webm": "/private/map/Pon/Pon_ULTRA.webm/126a3fb9a5c644e916de94f30301344a.webm",
+    "jmcs://jd-contents/Pon/Pon_ULTRA.hd.webm": "/private/map/Pon/Pon_ULTRA.hd.webm/c8a0709c649f4f593ba1ee549bdb78c4.webm",
+    "jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Pon/Pon_MapPreviewNoSoundCrop_MID.vp8.webm/9b6a1f5e46836847d973897ccd38a774.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"498562\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484964\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Pon/Pon_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 214.452979
+}

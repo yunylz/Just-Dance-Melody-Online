@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "a67e3a6532fbd40206aadd1dcae1b89d",
+      "storageType": 0,
+      "url": "/public/map/4x4MU/nx/4x4MU_MAIN_SCENE_NX.zip/a67e3a6532fbd40206aadd1dcae1b89d.zip"
+    },
+    "pc": {
+      "md5": "64da8460bae16522f485d76ec06e24b4",
+      "storageType": 0,
+      "url": "/public/map/4x4MU/pc/4x4MU_MAIN_SCENE_PC.zip/64da8460bae16522f485d76ec06e24b4.zip"
+    },
+    "ps4": {
+      "md5": "47333d1b3268d93022f2aeb8ee3f52f9",
+      "storageType": 0,
+      "url": "/public/map/4x4MU/orbis/4x4MU_MAIN_SCENE_ORBIS.zip/47333d1b3268d93022f2aeb8ee3f52f9.zip"
+    }
+  },
+  "data": {
+    "mapName": "4x4MU",
+    "title": "4x4",
+    "originalJDVersion": 2015,
+    "tags": [
+      "mashup",
+      "subscribedSong",
+      "JustDance2015",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Miley Cyrus",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#0565e9",
+    "songColor2A": "#d97212",
+    "songColor1B": "#06225e",
+    "songColor2B": "#772f08",
+    "lyricsColor": "#1cedff",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        503999,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        983999,
+        1007999,
+        1031999,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 321,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/4x4MU/4x4MU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/4x4MU/nx/4x4MU_banner_bkg.tga.ckd/3fe33e389313ed04b89a8a112138449c.ckd",
+      "map_bkgImageUrl": "/public/map/4x4MU/nx/4x4MU_map_bkg.tga.ckd/ded2da12463803a0a9b05e81293a693e.ckd",
+      "expandCoachImageUrl": "/public/map/4x4MU/nx/4x4MU_Cover_AlbumCoach.tga.ckd/79a36bfa3fbf2ae8f23fc32d1f1a5515.ckd",
+      "cover_smallImageUrl": "/public/map/4x4MU/nx/4x4MU_Cover_Online.tga.ckd/0a789793cd65f8b26263ec81730d96a9.ckd",
+      "coverImageUrl": "/public/map/4x4MU/nx/4x4MU_Cover_Generic.tga.ckd/b241377908bd0b71c13635b949c928f6.ckd",
+      "coach1ImageUrl": "/public/map/4x4MU/nx/4x4MU_Coach_1.tga.ckd/574fe03eff0d0156cee58e9478058085.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/4x4MU/pc/4x4MU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/4x4MU/pc/4x4MU_map_bkg.tga.ckd/5d18859b43d869ce8dd031fe694acda2.ckd",
+      "expandCoachImageUrl": "/public/map/4x4MU/pc/4x4MU_Cover_AlbumCoach.tga.ckd/9310590256965e6fc1dac125c6fd6746.ckd",
+      "cover_smallImageUrl": "/public/map/4x4MU/pc/4x4MU_Cover_Online.tga.ckd/3d6b5e93b0ca657d0c08e3152acf0355.ckd",
+      "coverImageUrl": "/public/map/4x4MU/pc/4x4MU_Cover_Generic.tga.ckd/552bf560e90e8c4f2b7b68db482887cf.ckd",
+      "coach1ImageUrl": "/public/map/4x4MU/pc/4x4MU_Coach_1.tga.ckd/3cd14d67691e179c6aefd4ed7ed2a653.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/4x4MU/orbis/4x4MU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/4x4MU/orbis/4x4MU_map_bkg.tga.ckd/5d18859b43d869ce8dd031fe694acda2.ckd",
+      "expandCoachImageUrl": "/public/map/4x4MU/orbis/4x4MU_Cover_AlbumCoach.tga.ckd/9310590256965e6fc1dac125c6fd6746.ckd",
+      "cover_smallImageUrl": "/public/map/4x4MU/orbis/4x4MU_Cover_Online.tga.ckd/3d6b5e93b0ca657d0c08e3152acf0355.ckd",
+      "coverImageUrl": "/public/map/4x4MU/orbis/4x4MU_Cover_Generic.tga.ckd/552bf560e90e8c4f2b7b68db482887cf.ckd",
+      "coach1ImageUrl": "/public/map/4x4MU/orbis/4x4MU_Coach_1.tga.ckd/3cd14d67691e179c6aefd4ed7ed2a653.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/4x4MU/4x4MU_Coach_1_Phone.png/17b6e2b817598a721704a48ddca6be1c.png",
+    "phoneCoverImageUrl": "/public/map/4x4MU/4x4MU_Cover_Phone.jpg/5ce0b4ec9571cb4761d90e89fce98163.jpg",
+    "cover640ImageUrl": "/public/map/4x4MU/4x4MU_Cover_640.png/420da0e351996c3fb0aaa1d95df23b71.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/4x4MU/4x4MU.ogg": "/private/map/4x4MU/4x4MU.ogg/ed07d9292c5e158af0230aa4b1364267.ogg",
+    "jmcs://jd-contents/4x4MU/4x4MU_AudioPreview.ogg": "/public/map/4x4MU/4x4MU_AudioPreview.ogg/ef9bc97ea060240e3091f45c1c7dd150.ogg",
+    "jmcs://jd-contents/4x4MU/4x4MU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/4x4MU/4x4MU_MapPreviewNoSoundCrop_LOW.vp8.webm/bb05a0e85f7cad742136bbda36eb97ad.webm",
+    "jmcs://jd-contents/4x4MU/4x4MU_HIGH.webm": "/private/map/4x4MU/4x4MU_HIGH.webm/0c7a6f8103a92880d1629581f44e97e9.webm",
+    "jmcs://jd-contents/4x4MU/4x4MU_LOW.webm": "/private/map/4x4MU/4x4MU_LOW.webm/f7645581cf49f1cc824309e2cad4c19b.webm",
+    "jmcs://jd-contents/4x4MU/4x4MU_MID.webm": "/private/map/4x4MU/4x4MU_MID.webm/16454de6c5049389195d10522fabf0e7.webm",
+    "jmcs://jd-contents/4x4MU/4x4MU_ULTRA.hd.webm": "/private/map/4x4MU/4x4MU_ULTRA.hd.webm/a4b15aa650e99815e7f83fb0445dddf6.webm",
+    "jmcs://jd-contents/4x4MU/4x4MU_ULTRA.webm": "/private/map/4x4MU/4x4MU_ULTRA.webm/9198ea5df27a643b3d2d0b5036d97b4f.webm",
+    "jmcs://jd-contents/4x4MU/4x4MU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/4x4MU/4x4MU_MapPreviewNoSoundCrop_MID.vp8.webm/20015f3c6a36b61fded297e571bc0b68.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"505113\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/4x4MU/4x4MU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"545-1035\">\n\t\t\t\t\t<Initialization range=\"0-545\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1476423\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/4x4MU/4x4MU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"546-1036\">\n\t\t\t\t\t<Initialization range=\"0-546\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 160.5
+}

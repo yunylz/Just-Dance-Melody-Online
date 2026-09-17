@@ -1,0 +1,30 @@
+{
+  "name": "utils-server",
+  "version": "1.0.0",
+  "description": "An API for utility stuff for JDMO.",
+  "homepage": "https://github.com/JustDanceMelodyOnline/utils#readme",
+  "bugs": {
+    "url": "https://github.com/JustDanceMelodyOnline/utils/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustDanceMelodyOnline/utils.git"
+  },
+  "license": "UNLICENSED",
+  "author": "devvie",
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^3.2.6",
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.4",
+    "dotenv-expand": "^12.0.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.6",
+    "sharp": "^0.34.5",
+    "winston": "^3.19.0"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ba7f5be5d43957b3e3cd3a2d453f2fd8",
+      "storageType": 0,
+      "url": "/public/map/KillBill/nx/KillBill_MAIN_SCENE_NX.zip/ba7f5be5d43957b3e3cd3a2d453f2fd8.zip"
+    },
+    "pc": {
+      "md5": "4ca90b0d2d59dc41705ebfd2c2f2e78d",
+      "storageType": 0,
+      "url": "/public/map/KillBill/pc/KillBill_MAIN_SCENE_PC.zip/4ca90b0d2d59dc41705ebfd2c2f2e78d.zip"
+    },
+    "ps4": {
+      "md5": "a3aee95669e1f62595fcdf64377bc5b5",
+      "storageType": 0,
+      "url": "/public/map/KillBill/orbis/KillBill_MAIN_SCENE_ORBIS.zip/a3aee95669e1f62595fcdf64377bc5b5.zip"
+    }
+  },
+  "data": {
+    "mapName": "KillBill",
+    "title": "Kill Bill",
+    "originalJDVersion": 2024,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "SZA",
+    "credits": "Written by Robert Clark Bisel, Carter Lang, Solana Rowe. Published by Sony/ATV Songs LLC (BMI) / Songs Of Universal, Inc. / Carter Lang Pub Designee, Zuma Tuna LLC (BMI) and Warner-Tamerlane Publishing Corp. (BMI). Courtesy of Top Dawg Entertainment/RCA Records. By arrangement with Sony Music Entertainment. ",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#b90404",
+    "songColor2A": "#131adb",
+    "songColor1B": "#370600",
+    "songColor2B": "#060844",
+    "lyricsColor": "#ffe51b"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32360,
+        64719,
+        97079,
+        129438,
+        161798,
+        194157,
+        226517,
+        258876,
+        291236,
+        323596,
+        355955,
+        388315,
+        420674,
+        453034,
+        485393,
+        517753,
+        550112,
+        582472,
+        614831,
+        647191,
+        679551,
+        711910,
+        744270,
+        776629,
+        808989,
+        841348,
+        873708,
+        906067,
+        938427,
+        970787,
+        1003146,
+        1035506,
+        1067865,
+        1100225,
+        1132584,
+        1164944,
+        1197303,
+        1229663,
+        1262022,
+        1294382,
+        1326742,
+        1359101,
+        1391461,
+        1423820,
+        1456180,
+        1488539
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -16,
+      "endBeat": 232,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 44,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/KillBill/KillBill_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/KillBill/nx/KillBill_banner_bkg.tga.ckd/52e91ab90eed7b856d9ef02cc0bfeb7a.ckd",
+      "map_bkgImageUrl": "/public/map/KillBill/nx/KillBill_map_bkg.tga.ckd/9b4d04124b943c4ad64bb963ad9049e0.ckd",
+      "expandCoachImageUrl": "/public/map/KillBill/nx/KillBill_Cover_AlbumCoach.tga.ckd/1240d9b6805568e4c35367f552294cac.ckd",
+      "cover_smallImageUrl": "/public/map/KillBill/nx/KillBill_Cover_Online.tga.ckd/290240e580534982ecbeb0d752977754.ckd",
+      "coach1ImageUrl": "/public/map/KillBill/nx/KillBill_Coach_1.tga.ckd/5de0e97bb4755483b94134bcaf1dbf51.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/KillBill/pc/KillBill_banner_bkg.tga.ckd/377694a882cd547d421cd0320a83843d.ckd",
+      "map_bkgImageUrl": "/public/map/KillBill/pc/KillBill_map_bkg.tga.ckd/ab39725e73d7dbd1effe89f54323b9be.ckd",
+      "expandCoachImageUrl": "/public/map/KillBill/pc/KillBill_Cover_AlbumCoach.tga.ckd/950a1bb1cd0dc888d528023349220008.ckd",
+      "cover_smallImageUrl": "/public/map/KillBill/pc/KillBill_Cover_Online.tga.ckd/af9b53f32250433f84688e8d1ee41985.ckd",
+      "coach1ImageUrl": "/public/map/KillBill/pc/KillBill_Coach_1.tga.ckd/57b2a5fe9e5bfcfcf39641c3700cc969.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/KillBill/orbis/KillBill_banner_bkg.tga.ckd/377694a882cd547d421cd0320a83843d.ckd",
+      "map_bkgImageUrl": "/public/map/KillBill/orbis/KillBill_map_bkg.tga.ckd/ab39725e73d7dbd1effe89f54323b9be.ckd",
+      "expandCoachImageUrl": "/public/map/KillBill/orbis/KillBill_Cover_AlbumCoach.tga.ckd/950a1bb1cd0dc888d528023349220008.ckd",
+      "cover_smallImageUrl": "/public/map/KillBill/orbis/KillBill_Cover_Online.tga.ckd/af9b53f32250433f84688e8d1ee41985.ckd",
+      "coach1ImageUrl": "/public/map/KillBill/orbis/KillBill_Coach_1.tga.ckd/57b2a5fe9e5bfcfcf39641c3700cc969.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/KillBill/KillBill_Coach_1_Phone.png/3c04c9d3038226ccd5fcd73eb242ecee.png",
+    "phoneCoverImageUrl": "/public/map/KillBill/KillBill_Cover_Phone.jpg/7ac02a6e6be1a2f7df4883e2040305c5.jpg",
+    "cover640ImageUrl": "/public/map/KillBill/KillBill_Cover_640.png/026c968cd3c68261604908e32192a22d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/KillBill/KillBill.ogg": "/private/map/KillBill/KillBill.ogg/fbe1eae75b4bd87d64c5b206eb767bee.ogg",
+    "jmcs://jd-contents/KillBill/KillBill_AudioPreview.ogg": "/public/map/KillBill/KillBill_AudioPreview.ogg/77905e2991917bd4fdd2fb1c60d812ba.ogg",
+    "jmcs://jd-contents/KillBill/KillBill_HIGH.webm": "/private/map/KillBill/KillBill_HIGH.webm/a5a88fcab5fa6698262ea8a8547ddc89.webm",
+    "jmcs://jd-contents/KillBill/KillBill_LOW.webm": "/private/map/KillBill/KillBill_LOW.webm/5d91d05a8daa7fac976acc9904d52b9c.webm",
+    "jmcs://jd-contents/KillBill/KillBill_MID.webm": "/private/map/KillBill/KillBill_MID.webm/0eccbdbac994ec44bc749bb85ee0dfcf.webm",
+    "jmcs://jd-contents/KillBill/KillBill_ULTRA.hd.webm": "/private/map/KillBill/KillBill_ULTRA.hd.webm/41d2ff4d097e5d5e9c3e08c52c740ba9.webm",
+    "jmcs://jd-contents/KillBill/KillBill_ULTRA.webm": "/private/map/KillBill/KillBill_ULTRA.webm/88068b0fcd62dfe09027f45cf04c82e3.webm",
+    "jmcs://jd-contents/KillBill/KillBill_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/KillBill/KillBill_MapPreviewNoSoundCrop_LOW.vp8.webm/4e40d366cf31ada28e2df4c2d6a278c4.webm",
+    "jmcs://jd-contents/KillBill/KillBill_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/KillBill/KillBill_MapPreviewNoSoundCrop_MID.vp8.webm/a16f7b826e035247247182e461a88622.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"494728\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillBill/KillBill_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1350592\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillBill/KillBill_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 164.500875
+}

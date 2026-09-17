@@ -1,0 +1,169 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WeJustBegun/WeJustBegun.ogg": "/private/map/WeJustBegun/WeJustBegun.ogg/a6d9ce762d2550fb9b77d02a2f3e7d8b.ogg",
+    "jmcs://jd-contents/WeJustBegun/WeJustBegun_AudioPreview.ogg": "/public/map/WeJustBegun/WeJustBegun_AudioPreview.ogg/3c5982c85d61e0624ce6803c9c36eadb.ogg",
+    "jmcs://jd-contents/WeJustBegun/WeJustBegun_HIGH.hd.webm": "/private/map/WeJustBegun/WeJustBegun_HIGH.hd.webm/9958e1c01c10fac4abe3583186883f3c.webm",
+    "jmcs://jd-contents/WeJustBegun/WeJustBegun_LOW.hd.webm": "/private/map/WeJustBegun/WeJustBegun_LOW.hd.webm/ba2178e0909aa4fbc6d7da00257607b1.webm",
+    "jmcs://jd-contents/WeJustBegun/WeJustBegun_MID.hd.webm": "/private/map/WeJustBegun/WeJustBegun_MID.hd.webm/4a3c3f0711c4cfd177b7f4ebe6842f78.webm",
+    "jmcs://jd-contents/WeJustBegun/WeJustBegun_ULTRA.hd.webm": "/private/map/WeJustBegun/WeJustBegun_ULTRA.hd.webm/cabe6ea1a3b59f0262d1ace82572e876.webm",
+    "jmcs://jd-contents/WeJustBegun/WeJustBegun_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WeJustBegun/WeJustBegun_MapPreviewNoSoundCrop_LOW.vp8.webm/012ab94bdc036b13d0eafdfda58371b3.webm",
+    "jmcs://jd-contents/WeJustBegun/WeJustBegun_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WeJustBegun/WeJustBegun_MapPreviewNoSoundCrop_MID.vp8.webm/67331bdce551f952b7a2cdee91c526de.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26182,
+        52364,
+        78545,
+        104727,
+        130909,
+        157091,
+        183273,
+        209455,
+        235636,
+        261818,
+        288000,
+        314182,
+        340364,
+        366545,
+        392727,
+        418909,
+        445091,
+        471273,
+        497455,
+        523636,
+        549818,
+        576000,
+        602182,
+        628364,
+        654545,
+        680727,
+        706909,
+        733091,
+        759273,
+        785455,
+        811636,
+        837818,
+        864000,
+        890182,
+        916364,
+        942545,
+        968727,
+        994909,
+        1021091,
+        1047273,
+        1073455,
+        1099636,
+        1125818,
+        1152000,
+        1178182,
+        1204364,
+        1230545,
+        1256727,
+        1282909,
+        1309091,
+        1335273,
+        1361455,
+        1387636,
+        1413818,
+        1440000,
+        1466182,
+        1492364
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -11,
+      "endBeat": 342,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WeJustBegun/WeJustBegun_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"560331\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WeJustBegun/WeJustBegun_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2039822\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WeJustBegun/WeJustBegun_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "1552edfb68c564e7d7c7d7f0ebbb4202",
+      "storageType": 0,
+      "url": "/public/map/WeJustBegun/nx/WeJustBegun_MAIN_SCENE_NX.zip/1552edfb68c564e7d7c7d7f0ebbb4202.zip"
+    },
+    "pc": {
+      "md5": "465dec1ec7ec0405698dbe1bd4b7f383",
+      "storageType": 0,
+      "url": "/public/map/WeJustBegun/pc/WeJustBegun_MAIN_SCENE_PC.zip/465dec1ec7ec0405698dbe1bd4b7f383.zip"
+    },
+    "ps4": {
+      "md5": "a89ef484bef29ce71529e0ee6b9de9d7",
+      "storageType": 0,
+      "url": "/public/map/WeJustBegun/orbis/WeJustBegun_MAIN_SCENE_ORBIS.zip/a89ef484bef29ce71529e0ee6b9de9d7.zip"
+    }
+  },
+  "data": {
+    "mapName": "WeJustBegun",
+    "title": "We Just Begun",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Stush and WOST",
+    "credits": "“We Just Begun” Performed by Stush and WOST Written by Julie Caroline Mcalpin, Kelvin Ruiz Published by Waxploitation Music Publishing administrated by One Two Many Songs Ltd / Sony Music Publishing Courtesy of Waxploitation Records.  All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#2e0ee8",
+    "songColor2A": "#ffc705",
+    "songColor1B": "#000000",
+    "songColor2B": "#c443af",
+    "lyricsColor": "#ff5b0f",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WeJustBegun/nx/WeJustBegun_banner_bkg.tga.ckd/8ad8b70937ae9446d1049b4c18bf9cab.ckd",
+      "map_bkgImageUrl": "/public/map/WeJustBegun/nx/WeJustBegun_map_bkg.tga.ckd/879debe8ea25ebbe056884d18cb255d8.ckd",
+      "expandCoachImageUrl": "/public/map/WeJustBegun/nx/WeJustBegun_Cover_AlbumCoach.tga.ckd/ac36986c8bd7e5404d09e4229afa66be.ckd",
+      "cover_smallImageUrl": "/public/map/WeJustBegun/nx/WeJustBegun_Cover_Online.tga.ckd/2427240bd37db06e7be32a845a3cb7e6.ckd",
+      "coverImageUrl": "/public/map/WeJustBegun/nx/WeJustBegun_Cover_Generic.tga.ckd/1d93f443bde5cd8ac255e2d063d64027.ckd",
+      "coach1ImageUrl": "/public/map/WeJustBegun/nx/WeJustBegun_Coach_1.tga.ckd/304029a1f97db616014ca5ddaed81ce9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WeJustBegun/pc/WeJustBegun_banner_bkg.tga.ckd/7be82cdf2bd04d7069380d12b64fabcb.ckd",
+      "map_bkgImageUrl": "/public/map/WeJustBegun/pc/WeJustBegun_map_bkg.tga.ckd/6db2f766a4c06164d47fa967c587b07d.ckd",
+      "expandCoachImageUrl": "/public/map/WeJustBegun/pc/WeJustBegun_Cover_AlbumCoach.tga.ckd/7e873c6ddeceadfb4a4f29b1801b072c.ckd",
+      "cover_smallImageUrl": "/public/map/WeJustBegun/pc/WeJustBegun_Cover_Online.tga.ckd/2d600e83a52792da8064deef2539f346.ckd",
+      "coverImageUrl": "/public/map/WeJustBegun/pc/WeJustBegun_Cover_Generic.tga.ckd/72e7065b9eb600137ab15c84e621527d.ckd",
+      "coach1ImageUrl": "/public/map/WeJustBegun/pc/WeJustBegun_Coach_1.tga.ckd/94d95663149c604e518d8834c4145153.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WeJustBegun/orbis/WeJustBegun_banner_bkg.tga.ckd/7be82cdf2bd04d7069380d12b64fabcb.ckd",
+      "map_bkgImageUrl": "/public/map/WeJustBegun/orbis/WeJustBegun_map_bkg.tga.ckd/6db2f766a4c06164d47fa967c587b07d.ckd",
+      "expandCoachImageUrl": "/public/map/WeJustBegun/orbis/WeJustBegun_Cover_AlbumCoach.tga.ckd/7e873c6ddeceadfb4a4f29b1801b072c.ckd",
+      "cover_smallImageUrl": "/public/map/WeJustBegun/orbis/WeJustBegun_Cover_Online.tga.ckd/2d600e83a52792da8064deef2539f346.ckd",
+      "coverImageUrl": "/public/map/WeJustBegun/orbis/WeJustBegun_Cover_Generic.tga.ckd/72e7065b9eb600137ab15c84e621527d.ckd",
+      "coach1ImageUrl": "/public/map/WeJustBegun/orbis/WeJustBegun_Coach_1.tga.ckd/94d95663149c604e518d8834c4145153.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WeJustBegun/WeJustBegun_Coach_1_Phone.png/af59ffaef2d98622fe24a22d7726ee16.png",
+    "phoneCoverImageUrl": "/public/map/WeJustBegun/WeJustBegun_Cover_Phone.jpg/5af09ffd2bd1a082e501f5e08353ed6e.jpg",
+    "cover640ImageUrl": "/public/map/WeJustBegun/WeJustBegun_Cover_640.png/b5f1c4deaa571a1208af789c2901bd29.png"
+  },
+  "mapLength": 192.545438
+}

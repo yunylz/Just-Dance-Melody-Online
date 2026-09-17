@@ -1,0 +1,177 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DunNDusted/DunNDusted.ogg": "/private/map/DunNDusted/DunNDusted.ogg/5dbad3d7230ecc8772bb08e66ece5d28.ogg",
+    "jmcs://jd-contents/DunNDusted/DunNDusted_AudioPreview.ogg": "/public/map/DunNDusted/DunNDusted_AudioPreview.ogg/3eed559537f640ac30be1a164e004528.ogg",
+    "jmcs://jd-contents/DunNDusted/DunNDusted_HIGH.hd.webm": "/private/map/DunNDusted/DunNDusted_HIGH.hd.webm/c015b0d09039e3d2db5c8ef08a9c426a.webm",
+    "jmcs://jd-contents/DunNDusted/DunNDusted_LOW.hd.webm": "/private/map/DunNDusted/DunNDusted_LOW.hd.webm/2b3ed5752c3f5a305c7af9e9c0fadcd8.webm",
+    "jmcs://jd-contents/DunNDusted/DunNDusted_MID.hd.webm": "/private/map/DunNDusted/DunNDusted_MID.hd.webm/4566ef6cf37a33ace0515316877e5f09.webm",
+    "jmcs://jd-contents/DunNDusted/DunNDusted_ULTRA.hd.webm": "/private/map/DunNDusted/DunNDusted_ULTRA.hd.webm/0900e086bf5b7dad48d4eb150d8a258e.webm",
+    "jmcs://jd-contents/DunNDusted/DunNDusted_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DunNDusted/DunNDusted_MapPreviewNoSoundCrop_LOW.vp8.webm/ee607560e5ed7ee324c675389fc17c7e.webm",
+    "jmcs://jd-contents/DunNDusted/DunNDusted_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DunNDusted/DunNDusted_MapPreviewNoSoundCrop_MID.vp8.webm/43c9930b080459da209df3454ad02398.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        76061,
+        98214,
+        120367,
+        142520,
+        164673,
+        186826,
+        208979,
+        231132,
+        253285,
+        275438,
+        297591,
+        319744,
+        341897,
+        364050,
+        386203,
+        408356,
+        430509,
+        452662,
+        474815,
+        496968,
+        519121,
+        541274,
+        563427,
+        585580,
+        607733,
+        629886,
+        652039,
+        674192,
+        696345,
+        718498,
+        740651,
+        762804,
+        784957,
+        807110,
+        829263,
+        851416,
+        873569,
+        895722,
+        917875,
+        940028,
+        962181,
+        984334,
+        1006487,
+        1028640,
+        1050793,
+        1072946,
+        1095099,
+        1117252,
+        1139405,
+        1161558,
+        1183711,
+        1205864,
+        1228017,
+        1250170,
+        1272323,
+        1294476,
+        1316629,
+        1338782,
+        1360935,
+        1383088,
+        1405241,
+        1427394,
+        1449547,
+        1471700,
+        1493853
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 474,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DunNDusted/DunNDusted_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30.03S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30.03S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"457454\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DunNDusted/DunNDusted_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\n\t\t\t\t\t<Initialization range=\"0-631\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1650781\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DunNDusted/DunNDusted_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "f366f351e622347152862bc0a58ba29b",
+      "storageType": 0,
+      "url": "/public/map/DunNDusted/nx/DunNDusted_MAIN_SCENE_NX.zip/f366f351e622347152862bc0a58ba29b.zip"
+    },
+    "pc": {
+      "md5": "bb31f1f5ca46a1c2195b8edd6e8b65f7",
+      "storageType": 0,
+      "url": "/public/map/DunNDusted/pc/DunNDusted_MAIN_SCENE_PC.zip/bb31f1f5ca46a1c2195b8edd6e8b65f7.zip"
+    },
+    "ps4": {
+      "md5": "8ff71a31e7fd22dde460916a4abf8c93",
+      "storageType": 0,
+      "url": "/public/map/DunNDusted/orbis/DunNDusted_MAIN_SCENE_ORBIS.zip/8ff71a31e7fd22dde460916a4abf8c93.zip"
+    }
+  },
+  "data": {
+    "mapName": "DunNDusted",
+    "title": "Dun N Dusted",
+    "originalJDVersion": 3,
+    "tags": [
+      "Main"
+    ],
+    "artist": "Sweat Invaders",
+    "credits": "Written by Jason Creasey. Published by The Extreme Music Library Ltd.  . Courtesy of Extreme Music.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#40fe01",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DunNDusted/nx/DunNDusted_banner_bkg.tga.ckd/85e348ced61ee453bee0accbbb2a1619.ckd",
+      "map_bkgImageUrl": "/public/map/DunNDusted/nx/DunNDusted_map_bkg.tga.ckd/badf88b550e45382d9055b3a69dc0cbb.ckd",
+      "expandCoachImageUrl": "/public/map/DunNDusted/nx/DunNDusted_Cover_AlbumCoach.tga.ckd/d8ebee9321266add20f2fbdf50364f06.ckd",
+      "cover_smallImageUrl": "/public/map/DunNDusted/nx/DunNDusted_Cover_Online.tga.ckd/915876aac142fa56945a7f3c3cfbbb77.ckd",
+      "coverImageUrl": "/public/map/DunNDusted/nx/DunNDusted_Cover_Generic.tga.ckd/19a90708aeb7c43fa98376a50fbf0138.ckd",
+      "coach1ImageUrl": "/public/map/DunNDusted/nx/DunNDusted_Coach_1.tga.ckd/bb4e478ab76d246d4aa2ed61bc50cca3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DunNDusted/pc/DunNDusted_banner_bkg.tga.ckd/2128eb3d4620d2c86e04196c8c8acb09.ckd",
+      "map_bkgImageUrl": "/public/map/DunNDusted/pc/DunNDusted_map_bkg.tga.ckd/09a49044eece9de2960489f887d9a708.ckd",
+      "expandCoachImageUrl": "/public/map/DunNDusted/pc/DunNDusted_Cover_AlbumCoach.tga.ckd/522dea6713262b414feda78be3d0ea44.ckd",
+      "cover_smallImageUrl": "/public/map/DunNDusted/pc/DunNDusted_Cover_Online.tga.ckd/dd77040e3da70264ea82487e2ea3826d.ckd",
+      "coverImageUrl": "/public/map/DunNDusted/pc/DunNDusted_Cover_Generic.tga.ckd/3a211e701157306eb524935f88e7b3ba.ckd",
+      "coach1ImageUrl": "/public/map/DunNDusted/pc/DunNDusted_Coach_1.tga.ckd/d50bf97b9e63a53120c30c3ef0491c9a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DunNDusted/orbis/DunNDusted_banner_bkg.tga.ckd/2128eb3d4620d2c86e04196c8c8acb09.ckd",
+      "map_bkgImageUrl": "/public/map/DunNDusted/orbis/DunNDusted_map_bkg.tga.ckd/09a49044eece9de2960489f887d9a708.ckd",
+      "expandCoachImageUrl": "/public/map/DunNDusted/orbis/DunNDusted_Cover_AlbumCoach.tga.ckd/522dea6713262b414feda78be3d0ea44.ckd",
+      "cover_smallImageUrl": "/public/map/DunNDusted/orbis/DunNDusted_Cover_Online.tga.ckd/dd77040e3da70264ea82487e2ea3826d.ckd",
+      "coverImageUrl": "/public/map/DunNDusted/orbis/DunNDusted_Cover_Generic.tga.ckd/3a211e701157306eb524935f88e7b3ba.ckd",
+      "coach1ImageUrl": "/public/map/DunNDusted/orbis/DunNDusted_Coach_1.tga.ckd/d50bf97b9e63a53120c30c3ef0491c9a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DunNDusted/DunNDusted_Coach_1_Phone.png/78c4d218d56c6832df2c6aa281e081be.png",
+    "phoneCoverImageUrl": "/public/map/DunNDusted/DunNDusted_Cover_Phone.jpg/212b23ca79ab7b60769628c085248b35.jpg",
+    "cover640ImageUrl": "/public/map/DunNDusted/DunNDusted_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 220.345479
+}

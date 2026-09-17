@@ -1,0 +1,101 @@
+{
+    "__class": "OnlineQuestDb",
+    "quests": [
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/abba/ABBA_quest_cover_01.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/abba/quest_cover.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/abba/quest_logo.tga.ckd"
+            },
+            "id": "1",
+            "locked": 0,
+            "playlist": [
+                "ABBAAsGoodAsNew",
+                "ABBAIfItWasnt",
+                "ABBASOS"
+            ],
+            "title": "ABBA"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/ariana/ariana_quest_logo_01.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/ariana/quest_cover.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/ariana/quest_logo.tga.ckd"
+            },
+            "id": "2",
+            "locked": 0,
+            "playlist": [
+                "YesAnd",
+                "IntoYou",
+                "ThankUNext"
+            ],
+            "title": "Ariana Grande"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/douls/douls_quest_cover_01.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/douls/quest_cover_01.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/douls/quest_logo_01.tga.ckd"
+            },
+            "id": "3",
+            "locked": 0,
+            "playlist": [
+                "PadamALT",
+                "TalkTalkRemixMU",
+                "Imya505"
+            ],
+            "title": "douls favs<3"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/mashup/mashup_quest_logo.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/mashup/quest_cover.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/mashup/quest_logo.tga.ckd"
+            },
+            "id": "4",
+            "locked": 0,
+            "playlist": [
+                "JunoMU",
+                "Cum",
+                "SweetestPie"
+            ],
+            "title": "Mashup"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/pop/pop_quest_cover.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/pop/quest_cover.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/pop/quest_logo.tga.ckd"
+            },
+            "id": "5",
+            "locked": 0,
+            "playlist": [
+                "PokerFace",
+                "Toxic",
+                "VogueALT"
+            ],
+            "title": "Pop Icons"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/panda/panda_quest_cover.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/panda/quest_cover.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/panda/quest_logo.tga.ckd"
+            },
+            "id": "6",
+            "locked": 0,
+            "playlist": [
+                "JDCAdorationToHappinessDuo",
+                "TimberDLC",
+                "IGotAFeeling"
+            ],
+            "title": "Panda"
+        }
+    ]
+}

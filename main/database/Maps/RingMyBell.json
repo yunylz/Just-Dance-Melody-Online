@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9f1a814a4f617bb1c59187db0021221d",
+      "storageType": 0,
+      "url": "/public/map/RingMyBell/nx/RingMyBell_MAIN_SCENE_NX.zip/9f1a814a4f617bb1c59187db0021221d.zip"
+    },
+    "pc": {
+      "md5": "008539c561a2d0bfa3ab1d9ea123033f",
+      "storageType": 0,
+      "url": "/public/map/RingMyBell/pc/RingMyBell_MAIN_SCENE_PC.zip/008539c561a2d0bfa3ab1d9ea123033f.zip"
+    },
+    "ps4": {
+      "md5": "9c9d60b9e512257e8274dd3a27679247",
+      "storageType": 0,
+      "url": "/public/map/RingMyBell/orbis/RingMyBell_MAIN_SCENE_ORBIS.zip/9c9d60b9e512257e8274dd3a27679247.zip"
+    }
+  },
+  "data": {
+    "mapName": "RingMyBell",
+    "title": "Ring My Bell",
+    "originalJDVersion": 1,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Anita Ward",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f5b11f",
+    "songColor2A": "#edd23b",
+    "songColor1B": "#43022b",
+    "songColor2B": "#760077",
+    "lyricsColor": "#f1cb07"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        91920,
+        114816,
+        137760,
+        160848,
+        184128,
+        207216,
+        230544,
+        253440,
+        276048,
+        298944,
+        321792,
+        344928,
+        368352,
+        391440,
+        414624,
+        437376,
+        460512,
+        483408,
+        506880,
+        530352,
+        553776,
+        576480,
+        599040,
+        621840,
+        644736,
+        667968,
+        690960,
+        714096,
+        737040,
+        760080,
+        783120,
+        806160,
+        829584,
+        852912,
+        875952,
+        899280,
+        922272,
+        945504,
+        968400,
+        992016,
+        1014480,
+        1037520,
+        1060560,
+        1083600,
+        1106640,
+        1129680,
+        1152432,
+        1175040,
+        1197696,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382400,
+        1405200,
+        1427808
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 409,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RingMyBell/RingMyBell_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RingMyBell/nx/RingMyBell_banner_bkg.tga.ckd/bd5cd3cd23ad005c648268fb47c3887b.ckd",
+      "map_bkgImageUrl": "/public/map/RingMyBell/nx/RingMyBell_map_bkg.tga.ckd/45c67e68a3998f10f564f99e5d8af491.ckd",
+      "expandCoachImageUrl": "/public/map/RingMyBell/nx/RingMyBell_Cover_AlbumCoach.tga.ckd/22fca28c866787f44caa6672fc38047e.ckd",
+      "cover_smallImageUrl": "/public/map/RingMyBell/nx/RingMyBell_Cover_Online.tga.ckd/c6115018d53c3e792a0c6a03f60b5ffd.ckd",
+      "coverImageUrl": "/public/map/RingMyBell/nx/RingMyBell_Cover_Generic.tga.ckd/8562b666c962196df73a93d8d958c412.ckd",
+      "coach1ImageUrl": "/public/map/RingMyBell/nx/RingMyBell_Coach_1.tga.ckd/a30c3e71a33339e5c96e2496de9fefe4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RingMyBell/pc/RingMyBell_banner_bkg.tga.ckd/42f74d4a83477c607fe4308097eb3ad7.ckd",
+      "map_bkgImageUrl": "/public/map/RingMyBell/pc/RingMyBell_map_bkg.tga.ckd/3c6c04b4c67a584f28c6c2a9435ecf58.ckd",
+      "expandCoachImageUrl": "/public/map/RingMyBell/pc/RingMyBell_Cover_AlbumCoach.tga.ckd/a67cc63a8e1c423c04a665cb33557e35.ckd",
+      "cover_smallImageUrl": "/public/map/RingMyBell/pc/RingMyBell_Cover_Online.tga.ckd/5969a6cee0c4ba2e05d74f43bd88b748.ckd",
+      "coverImageUrl": "/public/map/RingMyBell/pc/RingMyBell_Cover_Generic.tga.ckd/c5424596edd12a89fd6c5ae186cacad9.ckd",
+      "coach1ImageUrl": "/public/map/RingMyBell/pc/RingMyBell_Coach_1.tga.ckd/0ac5ca23efde7a5955a40c6b6448838e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RingMyBell/orbis/RingMyBell_banner_bkg.tga.ckd/42f74d4a83477c607fe4308097eb3ad7.ckd",
+      "map_bkgImageUrl": "/public/map/RingMyBell/orbis/RingMyBell_map_bkg.tga.ckd/3c6c04b4c67a584f28c6c2a9435ecf58.ckd",
+      "expandCoachImageUrl": "/public/map/RingMyBell/orbis/RingMyBell_Cover_AlbumCoach.tga.ckd/a67cc63a8e1c423c04a665cb33557e35.ckd",
+      "cover_smallImageUrl": "/public/map/RingMyBell/orbis/RingMyBell_Cover_Online.tga.ckd/5969a6cee0c4ba2e05d74f43bd88b748.ckd",
+      "coverImageUrl": "/public/map/RingMyBell/orbis/RingMyBell_Cover_Generic.tga.ckd/c5424596edd12a89fd6c5ae186cacad9.ckd",
+      "coach1ImageUrl": "/public/map/RingMyBell/orbis/RingMyBell_Coach_1.tga.ckd/0ac5ca23efde7a5955a40c6b6448838e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RingMyBell/RingMyBell_Coach_1_Phone.png/e3224c517316ebcee09b20a8435ef8a8.png",
+    "phoneCoverImageUrl": "/public/map/RingMyBell/RingMyBell_Cover_Phone.jpg/2349488bd8eee0a720624daa287f00d1.jpg",
+    "cover640ImageUrl": "/public/map/RingMyBell/RingMyBell_Cover_640.png/7b84ebde3880dfbd1bbb7c305b34a30d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/RingMyBell/RingMyBell.ogg": "/private/map/RingMyBell/RingMyBell.ogg/b899bf09baf93beb533e33b2e5fcac39.ogg",
+    "jmcs://jd-contents/RingMyBell/RingMyBell_AudioPreview.ogg": "/public/map/RingMyBell/RingMyBell_AudioPreview.ogg/bac5806cb6a6a41ff253548123123630.ogg",
+    "jmcs://jd-contents/RingMyBell/RingMyBell_HIGH.webm": "/private/map/RingMyBell/RingMyBell_HIGH.webm/c085f5ab76cfe1a2eb38c6092bcc464b.webm",
+    "jmcs://jd-contents/RingMyBell/RingMyBell_LOW.webm": "/private/map/RingMyBell/RingMyBell_LOW.webm/2c94bd3c9465db58cb864d3492e61845.webm",
+    "jmcs://jd-contents/RingMyBell/RingMyBell_MID.webm": "/private/map/RingMyBell/RingMyBell_MID.webm/eaa5dd19817387b8e3550abfce64da43.webm",
+    "jmcs://jd-contents/RingMyBell/RingMyBell_ULTRA.hd.webm": "/private/map/RingMyBell/RingMyBell_ULTRA.hd.webm/487a716b377fd980c2a774cb8b60033c.webm",
+    "jmcs://jd-contents/RingMyBell/RingMyBell_ULTRA.webm": "/private/map/RingMyBell/RingMyBell_ULTRA.webm/13132925daddc6a5427a49f06f5971b3.webm",
+    "jmcs://jd-contents/RingMyBell/RingMyBell_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RingMyBell/RingMyBell_MapPreviewNoSoundCrop_LOW.vp8.webm/3d502970bed06184c865ef83fe5bc6cf.webm",
+    "jmcs://jd-contents/RingMyBell/RingMyBell_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RingMyBell/RingMyBell_MapPreviewNoSoundCrop_MID.vp8.webm/e1b2ee20287dad79202e07fbedebd7b1.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"507870\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RingMyBell/RingMyBell_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1489355\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RingMyBell/RingMyBell_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 195.792979
+}

@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BubblesKids/BubblesKids.ogg": "/private/map/BubblesKids/BubblesKids.ogg/c1c05f5c4d457681395322250d7dbdd4.ogg",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_AudioPreview.ogg": "/public/map/BubblesKids/BubblesKids_AudioPreview.ogg/e7b8b623b9da8b98783d665c95ffcaf6.ogg",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_HIGH.hd.webm": "/private/map/BubblesKids/BubblesKids_HIGH.hd.webm/aa4a2d23bffd3fb604939b084c6e56ba.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_LOW.hd.webm": "/private/map/BubblesKids/BubblesKids_LOW.hd.webm/31e6349bf295839a3ac559fb301351d0.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_MID.hd.webm": "/private/map/BubblesKids/BubblesKids_MID.hd.webm/580fbf4d9f0dc905c5d851c70f225233.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_ULTRA.hd.webm": "/private/map/BubblesKids/BubblesKids_ULTRA.hd.webm/3eb509b619d29ace1bfbc988d9d586f0.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_LOW.vp8.webm/b155dfb87133ac71aecb04f1ee67c156.webm",
+    "jmcs://jd-contents/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BubblesKids/BubblesKids_MapPreviewNoSoundCrop_MID.vp8.webm/6d461745c8a49edf22698b4f9e9aff5c.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -13,
+      "endBeat": 221,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BubblesKids/BubblesKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "014f8c228ad9b9a20d2586bdf1f5875e",
+      "storageType": 0,
+      "url": "/public/map/BubblesKids/nx/BubblesKids_MAIN_SCENE_NX.zip/014f8c228ad9b9a20d2586bdf1f5875e.zip"
+    },
+    "pc": {
+      "md5": "0ab124500edeb505ec3851e6d9ec6fc5",
+      "storageType": 0,
+      "url": "/public/map/BubblesKids/pc/BubblesKids_MAIN_SCENE_PC.zip/0ab124500edeb505ec3851e6d9ec6fc5.zip"
+    },
+    "ps4": {
+      "md5": "b82fb5b5b3a9f6d93357b94b66539fac",
+      "storageType": 0,
+      "url": "/public/map/BubblesKids/orbis/BubblesKids_MAIN_SCENE_ORBIS.zip/b82fb5b5b3a9f6d93357b94b66539fac.zip"
+    }
+  },
+  "data": {
+    "mapName": "BubblesKids",
+    "title": "The Color Lab",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main",
+      "kidsonly"
+    ],
+    "artist": "Dancing Bros.",
+    "credits": "Written by Philip Guyler. Published by Audio Network Canada Inc. Courtesy of Audio Network Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#36d9ff",
+    "songColor2A": "#2fc3b7",
+    "songColor1B": "#0195bb",
+    "songColor2B": "#73e4db",
+    "lyricsColor": "#ff670e",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BubblesKids/nx/BubblesKids_banner_bkg.tga.ckd/acd1085940c58d25dd6bb12079fba9de.ckd",
+      "map_bkgImageUrl": "/public/map/BubblesKids/nx/BubblesKids_map_bkg.tga.ckd/573bfe054dc0e6861bd61440b523df6f.ckd",
+      "expandCoachImageUrl": "/public/map/BubblesKids/nx/BubblesKids_Cover_AlbumCoach.tga.ckd/c94aafb2b609a0e550a1a168b1429760.ckd",
+      "cover_smallImageUrl": "/public/map/BubblesKids/nx/BubblesKids_Cover_Online.tga.ckd/1ddda727e2a51fda5f2ee78ebe2f1234.ckd",
+      "coverImageUrl": "/public/map/BubblesKids/nx/BubblesKids_Cover_Generic.tga.ckd/7dbc8c1256d911c8742055012638e513.ckd",
+      "coach1ImageUrl": "/public/map/BubblesKids/nx/BubblesKids_Coach_1.tga.ckd/2fc924360f65752228125a350a65010d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BubblesKids/pc/BubblesKids_banner_bkg.tga.ckd/eb828f3bca97ad807b4481c1efcd754f.ckd",
+      "map_bkgImageUrl": "/public/map/BubblesKids/pc/BubblesKids_map_bkg.tga.ckd/7283bac15d02f356f542813d3dc4438a.ckd",
+      "expandCoachImageUrl": "/public/map/BubblesKids/pc/BubblesKids_Cover_AlbumCoach.tga.ckd/3ace9c214be12c494f5224f17a5e2bca.ckd",
+      "cover_smallImageUrl": "/public/map/BubblesKids/pc/BubblesKids_Cover_Online.tga.ckd/38cd8c1e8d44f344728acc1921a684f8.ckd",
+      "coverImageUrl": "/public/map/BubblesKids/pc/BubblesKids_Cover_Generic.tga.ckd/237cf1f1d8d3c84ecb66175c45110a25.ckd",
+      "coach1ImageUrl": "/public/map/BubblesKids/pc/BubblesKids_Coach_1.tga.ckd/95366b6a6719580aa575df6af20f3ec4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BubblesKids/orbis/BubblesKids_banner_bkg.tga.ckd/eb828f3bca97ad807b4481c1efcd754f.ckd",
+      "map_bkgImageUrl": "/public/map/BubblesKids/orbis/BubblesKids_map_bkg.tga.ckd/7283bac15d02f356f542813d3dc4438a.ckd",
+      "expandCoachImageUrl": "/public/map/BubblesKids/orbis/BubblesKids_Cover_AlbumCoach.tga.ckd/3ace9c214be12c494f5224f17a5e2bca.ckd",
+      "cover_smallImageUrl": "/public/map/BubblesKids/orbis/BubblesKids_Cover_Online.tga.ckd/38cd8c1e8d44f344728acc1921a684f8.ckd",
+      "coverImageUrl": "/public/map/BubblesKids/orbis/BubblesKids_Cover_Generic.tga.ckd/237cf1f1d8d3c84ecb66175c45110a25.ckd",
+      "coach1ImageUrl": "/public/map/BubblesKids/orbis/BubblesKids_Coach_1.tga.ckd/95366b6a6719580aa575df6af20f3ec4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BubblesKids/BubblesKids_Coach_1_Phone.png/f1c5c4197009444ce06358f9656f9f85.png",
+    "phoneCoverImageUrl": "/public/map/BubblesKids/BubblesKids_Cover_Phone.jpg/c0beca4152e99ae1f30673ec36cd39e4.jpg",
+    "cover640ImageUrl": "/public/map/BubblesKids/BubblesKids_Cover_640.png/f825227749a7654db0b322fc68a6c44e.png"
+  },
+  "mapLength": 116.125
+}

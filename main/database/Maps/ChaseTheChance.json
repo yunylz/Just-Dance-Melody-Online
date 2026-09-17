@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4ce86d333080a418d5332e4c01e5ab42",
+      "storageType": 0,
+      "url": "/public/map/ChaseTheChance/nx/ChaseTheChance_MAIN_SCENE_NX.zip/4ce86d333080a418d5332e4c01e5ab42.zip"
+    },
+    "pc": {
+      "md5": "0e421772c91a221381fb79dba58462ba",
+      "storageType": 0,
+      "url": "/public/map/ChaseTheChance/pc/ChaseTheChance_MAIN_SCENE_PC.zip/0e421772c91a221381fb79dba58462ba.zip"
+    },
+    "ps4": {
+      "md5": "44544562bca115e2615c92b6f348dc60",
+      "storageType": 0,
+      "url": "/public/map/ChaseTheChance/orbis/ChaseTheChance_MAIN_SCENE_ORBIS.zip/44544562bca115e2615c92b6f348dc60.zip"
+    }
+  },
+  "data": {
+    "mapName": "ChaseTheChance",
+    "title": "Chase The Chance",
+    "originalJDVersion": 1003,
+    "tags": [
+      "subscribedSong",
+      "jdwiiu",
+      "JustDanceAsia",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Namie Amuro",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#2970ff",
+    "songColor2A": "#af15ff",
+    "songColor1B": "#072d78",
+    "songColor2B": "#5c159d",
+    "lyricsColor": "#ff3cff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23039,
+        46079,
+        69119,
+        92159,
+        115199,
+        138239,
+        161279,
+        184319,
+        207359,
+        230399,
+        253439,
+        276479,
+        299519,
+        322559,
+        345599,
+        368639,
+        391679,
+        414719,
+        437759,
+        460799,
+        483791,
+        506735,
+        529726,
+        552718,
+        575662,
+        598654,
+        621646,
+        644590,
+        667582,
+        690574,
+        713518,
+        736510,
+        759502,
+        782446,
+        805438,
+        828430,
+        851422,
+        874366,
+        897358,
+        920350,
+        943294,
+        966286,
+        989278,
+        1012222,
+        1035214,
+        1058205,
+        1081149,
+        1104141,
+        1127133,
+        1150077,
+        1173069,
+        1196061,
+        1219005,
+        1241997,
+        1264989,
+        1287933,
+        1310925,
+        1333917,
+        1356861,
+        1379853,
+        1402845,
+        1425789,
+        1448781,
+        1471773,
+        1494717
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 524,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ChaseTheChance/ChaseTheChance_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ChaseTheChance/nx/ChaseTheChance_banner_bkg.tga.ckd/9a3d6be31d3736b1999c9eac5bd34664.ckd",
+      "map_bkgImageUrl": "/public/map/ChaseTheChance/nx/ChaseTheChance_map_bkg.tga.ckd/bb02479d7c3c7ec2673e1ee2927c41ca.ckd",
+      "expandCoachImageUrl": "/public/map/ChaseTheChance/nx/ChaseTheChance_Cover_AlbumCoach.tga.ckd/0b4ca5d75a0f3ad610971c7ae36a4e86.ckd",
+      "cover_smallImageUrl": "/public/map/ChaseTheChance/nx/ChaseTheChance_Cover_Online.tga.ckd/ae0e578c0d42a886ed0c1e9b73306d29.ckd",
+      "coverImageUrl": "/public/map/ChaseTheChance/nx/ChaseTheChance_Cover_Generic.tga.ckd/255cb8eaa50a4605fa8125eb30900a10.ckd",
+      "coach1ImageUrl": "/public/map/ChaseTheChance/nx/ChaseTheChance_Coach_1.tga.ckd/bfb7efa1f9c1d8b61b3b2e4fe1b8690f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ChaseTheChance/pc/ChaseTheChance_banner_bkg.tga.ckd/2cc20361c5ae90f56dbba17f3c4960e2.ckd",
+      "map_bkgImageUrl": "/public/map/ChaseTheChance/pc/ChaseTheChance_map_bkg.tga.ckd/d81dfa6725f90f16a244017f97020304.ckd",
+      "expandCoachImageUrl": "/public/map/ChaseTheChance/pc/ChaseTheChance_Cover_AlbumCoach.tga.ckd/2863a33eafc03c15000410d8c334fadc.ckd",
+      "cover_smallImageUrl": "/public/map/ChaseTheChance/pc/ChaseTheChance_Cover_Online.tga.ckd/817fbe1d58164d7b820154f427b53f06.ckd",
+      "coverImageUrl": "/public/map/ChaseTheChance/pc/ChaseTheChance_Cover_Generic.tga.ckd/805044ed2dd3b0d6532eec6b8f416779.ckd",
+      "coach1ImageUrl": "/public/map/ChaseTheChance/pc/ChaseTheChance_Coach_1.tga.ckd/ba1d12da65b9c07216b609218f74d306.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ChaseTheChance/orbis/ChaseTheChance_banner_bkg.tga.ckd/2cc20361c5ae90f56dbba17f3c4960e2.ckd",
+      "map_bkgImageUrl": "/public/map/ChaseTheChance/orbis/ChaseTheChance_map_bkg.tga.ckd/d81dfa6725f90f16a244017f97020304.ckd",
+      "expandCoachImageUrl": "/public/map/ChaseTheChance/orbis/ChaseTheChance_Cover_AlbumCoach.tga.ckd/2863a33eafc03c15000410d8c334fadc.ckd",
+      "cover_smallImageUrl": "/public/map/ChaseTheChance/orbis/ChaseTheChance_Cover_Online.tga.ckd/817fbe1d58164d7b820154f427b53f06.ckd",
+      "coverImageUrl": "/public/map/ChaseTheChance/orbis/ChaseTheChance_Cover_Generic.tga.ckd/805044ed2dd3b0d6532eec6b8f416779.ckd",
+      "coach1ImageUrl": "/public/map/ChaseTheChance/orbis/ChaseTheChance_Coach_1.tga.ckd/ba1d12da65b9c07216b609218f74d306.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ChaseTheChance/ChaseTheChance_Coach_1_Phone.png/7b883daf449ed7723e5435b5c62c954e.png",
+    "phoneCoverImageUrl": "/public/map/ChaseTheChance/ChaseTheChance_Cover_Phone.jpg/82b388a51afb46d196b96e5d551ff32b.jpg",
+    "cover640ImageUrl": "/public/map/ChaseTheChance/ChaseTheChance_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ChaseTheChance/ChaseTheChance.ogg": "/private/map/ChaseTheChance/ChaseTheChance.ogg/dd8ef002d1c53b17b19cd8791ca9f8b3.ogg",
+    "jmcs://jd-contents/ChaseTheChance/ChaseTheChance_AudioPreview.ogg": "/public/map/ChaseTheChance/ChaseTheChance_AudioPreview.ogg/e93e7a7336b23b2fe568791934bc9571.ogg",
+    "jmcs://jd-contents/ChaseTheChance/ChaseTheChance_HIGH.webm": "/private/map/ChaseTheChance/ChaseTheChance_HIGH.webm/8b7bb2180dbb1c6c1448cedd6550e269.webm",
+    "jmcs://jd-contents/ChaseTheChance/ChaseTheChance_LOW.webm": "/private/map/ChaseTheChance/ChaseTheChance_LOW.webm/b128e634d8fdb140f7b84ce4e220a949.webm",
+    "jmcs://jd-contents/ChaseTheChance/ChaseTheChance_MID.webm": "/private/map/ChaseTheChance/ChaseTheChance_MID.webm/74291b04f45c8fb75800b7b646ab7aba.webm",
+    "jmcs://jd-contents/ChaseTheChance/ChaseTheChance_ULTRA.webm": "/private/map/ChaseTheChance/ChaseTheChance_ULTRA.webm/7788a72283a7e7159264ab0a53d84666.webm",
+    "jmcs://jd-contents/ChaseTheChance/ChaseTheChance_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ChaseTheChance/ChaseTheChance_MapPreviewNoSoundCrop_LOW.vp8.webm/6143af06f95c2604a52d4b132c0c2b43.webm",
+    "jmcs://jd-contents/ChaseTheChance/ChaseTheChance_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ChaseTheChance/ChaseTheChance_MapPreviewNoSoundCrop_MID.vp8.webm/29358c5bbf8f65d7552f9399715d8bcc.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"530397\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ChaseTheChance/ChaseTheChance_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1502951\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ChaseTheChance/ChaseTheChance_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 250.853521
+}

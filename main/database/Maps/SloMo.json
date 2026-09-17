@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "78bdbe5b3c686dadf58eccb3da12ad17",
+      "storageType": 0,
+      "url": "/public/map/SloMo/nx/SloMo_MAIN_SCENE_NX.zip/78bdbe5b3c686dadf58eccb3da12ad17.zip"
+    },
+    "pc": {
+      "md5": "378fc7985c3198b73867497ac6d9cc6d",
+      "storageType": 0,
+      "url": "/public/map/SloMo/pc/SloMo_MAIN_SCENE_PC.zip/378fc7985c3198b73867497ac6d9cc6d.zip"
+    },
+    "ps4": {
+      "md5": "76be63db59c0acec8a7287c486cd3a2e",
+      "storageType": 0,
+      "url": "/public/map/SloMo/orbis/SloMo_MAIN_SCENE_ORBIS.zip/76be63db59c0acec8a7287c486cd3a2e.zip"
+    }
+  },
+  "data": {
+    "mapName": "SloMo",
+    "title": "SloMo",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Chanel",
+    "credits": "Choregraphy by Kyle Hanagami. Written by Keith Harris, Arjen Thonen, Maggie Szabo, Leroy Sanchez, Iberê Fortes, Chris Lightbody, Robert Steinmiller, Spencer Yaras.  Published by FRESH ME FRESH U MUSIC PUBLISHING / Copyright Control / Maggie Szabo Music LLC / IBEREFORTESMUSIC, WC Music Corp. and Under The Low Light Publishing. All rights on behalf of itself and IBEREFORTESMUSIC administered by WC Music Corp. All rights on behalf of Under The Low Light Publishing administered by Warner-Tamerlane Publishing Corp. / District 78 Music Publishing.  Courtesy of BMG Rights Management and Administration (Spain) S.L.U. By arrangement with BMG Rights Management (US) LLC.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f5a313",
+    "songColor2A": "#e89428",
+    "songColor1B": "#080920",
+    "songColor2B": "#0a0a36",
+    "lyricsColor": "#52a8f2",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27429,
+        54857,
+        82286,
+        109714,
+        137143,
+        164571,
+        192000,
+        219429,
+        246857,
+        274286,
+        301714,
+        329143,
+        356571,
+        384000,
+        411429,
+        438857,
+        466286,
+        493714,
+        521143,
+        548571,
+        576000,
+        603429,
+        630857,
+        658286,
+        685714,
+        713143,
+        740571,
+        768000,
+        795429,
+        822857,
+        850286,
+        877714,
+        905143,
+        932571,
+        960000,
+        987429,
+        1014857,
+        1042286,
+        1069714,
+        1097143,
+        1124571,
+        1152000,
+        1179429,
+        1206857,
+        1234286,
+        1261714,
+        1289143,
+        1316571,
+        1344000,
+        1371429,
+        1398857,
+        1426286,
+        1453714,
+        1481143
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -21,
+      "endBeat": 323,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SloMo/SloMo_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SloMo/nx/SloMo_banner_bkg.tga.ckd/1c8dedac56862f6fcd7fcf7a9a725057.ckd",
+      "map_bkgImageUrl": "/public/map/SloMo/nx/SloMo_map_bkg.tga.ckd/391e5eb168be3606ba511a6a950f7c19.ckd",
+      "expandCoachImageUrl": "/public/map/SloMo/nx/SloMo_Cover_AlbumCoach.tga.ckd/00ec15d51e863b6d84562ee9032134c4.ckd",
+      "cover_smallImageUrl": "/public/map/SloMo/nx/SloMo_Cover_Online.tga.ckd/c13df8fbe3729483668fe2b0c8ea71e2.ckd",
+      "coverImageUrl": "/public/map/SloMo/nx/SloMo_Cover_Generic.tga.ckd/a4ccc28f6163da34bbdbf79122a4e8ed.ckd",
+      "coach1ImageUrl": "/public/map/SloMo/nx/SloMo_Coach_1.tga.ckd/97d85e20c8c21565dc5890b3a1bcfd06.ckd",
+      "coach2ImageUrl": "/public/map/SloMo/nx/SloMo_Coach_2.tga.ckd/8297fd7ee902f49f2e158d5a789a7104.ckd",
+      "coach3ImageUrl": "/public/map/SloMo/nx/SloMo_Coach_3.tga.ckd/87081cb17be90078c1b07c317e5b1a40.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SloMo/pc/SloMo_banner_bkg.tga.ckd/c70a643a0a8768a707dfb87c193ec672.ckd",
+      "map_bkgImageUrl": "/public/map/SloMo/pc/SloMo_map_bkg.tga.ckd/71269f92f4cb083cbf451d9008a01bae.ckd",
+      "expandCoachImageUrl": "/public/map/SloMo/pc/SloMo_Cover_AlbumCoach.tga.ckd/14a4e1066cbc7bba9e525ec17cd24261.ckd",
+      "cover_smallImageUrl": "/public/map/SloMo/pc/SloMo_Cover_Online.tga.ckd/c33e37c5b0197abc557b421a887c696d.ckd",
+      "coverImageUrl": "/public/map/SloMo/pc/SloMo_Cover_Generic.tga.ckd/ff21df787131a3d8d83828dba9333a1f.ckd",
+      "coach1ImageUrl": "/public/map/SloMo/pc/SloMo_Coach_1.tga.ckd/ab45da94ce429993eee73c59c0448ae8.ckd",
+      "coach2ImageUrl": "/public/map/SloMo/pc/SloMo_Coach_2.tga.ckd/6246df2238ab7ea77627446f21737a34.ckd",
+      "coach3ImageUrl": "/public/map/SloMo/pc/SloMo_Coach_3.tga.ckd/f26abb36ca6b43f19b6d40cc36512946.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SloMo/orbis/SloMo_banner_bkg.tga.ckd/c70a643a0a8768a707dfb87c193ec672.ckd",
+      "map_bkgImageUrl": "/public/map/SloMo/orbis/SloMo_map_bkg.tga.ckd/71269f92f4cb083cbf451d9008a01bae.ckd",
+      "expandCoachImageUrl": "/public/map/SloMo/orbis/SloMo_Cover_AlbumCoach.tga.ckd/14a4e1066cbc7bba9e525ec17cd24261.ckd",
+      "cover_smallImageUrl": "/public/map/SloMo/orbis/SloMo_Cover_Online.tga.ckd/c33e37c5b0197abc557b421a887c696d.ckd",
+      "coverImageUrl": "/public/map/SloMo/orbis/SloMo_Cover_Generic.tga.ckd/ff21df787131a3d8d83828dba9333a1f.ckd",
+      "coach1ImageUrl": "/public/map/SloMo/orbis/SloMo_Coach_1.tga.ckd/ab45da94ce429993eee73c59c0448ae8.ckd",
+      "coach2ImageUrl": "/public/map/SloMo/orbis/SloMo_Coach_2.tga.ckd/6246df2238ab7ea77627446f21737a34.ckd",
+      "coach3ImageUrl": "/public/map/SloMo/orbis/SloMo_Coach_3.tga.ckd/f26abb36ca6b43f19b6d40cc36512946.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SloMo/SloMo_Coach_1_Phone.png/88d7b05b6e0da33b685c2ca93db3377b.png",
+    "phoneCoach2ImageUrl": "/public/map/SloMo/SloMo_Coach_2_Phone.png/b090194b08bb782ec9adcc2f73e0fec2.png",
+    "phoneCoach3ImageUrl": "/public/map/SloMo/SloMo_Coach_3_Phone.png/3cdc68d32c7e876fabfb2f2a17ed0629.png",
+    "phoneCoverImageUrl": "/public/map/SloMo/SloMo_Cover_Phone.jpg/f612e13944d7b86426aca5e0fff3c639.jpg",
+    "cover640ImageUrl": "/public/map/SloMo/SloMo_Cover_640.png/cc52bde22e050479090907f9044de012.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SloMo/SloMo.ogg": "/private/map/SloMo/SloMo.ogg/92c87eb8a247a43c5ed2f3001b12ef1d.ogg",
+    "jmcs://jd-contents/SloMo/SloMo_AudioPreview.ogg": "/public/map/SloMo/SloMo_AudioPreview.ogg/d8e6917c00748c8907ed74d9a8658d5b.ogg",
+    "jmcs://jd-contents/SloMo/SloMo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SloMo/SloMo_MapPreviewNoSoundCrop_LOW.vp8.webm/0aaea8fb4e0fb7f8fa87144b5d32b23a.webm",
+    "jmcs://jd-contents/SloMo/SloMo_HIGH.webm": "/private/map/SloMo/SloMo_HIGH.webm/543adac7aff8dd121761be7918cb92f1.webm",
+    "jmcs://jd-contents/SloMo/SloMo_LOW.webm": "/private/map/SloMo/SloMo_LOW.webm/089c5423cc0fd93947944a52edd15d7d.webm",
+    "jmcs://jd-contents/SloMo/SloMo_MID.webm": "/private/map/SloMo/SloMo_MID.webm/cff2d2c3df2045daeaea94fae58383d9.webm",
+    "jmcs://jd-contents/SloMo/SloMo_ULTRA.hd.webm": "/private/map/SloMo/SloMo_ULTRA.hd.webm/a2a639a705415c3a711061646f6a2120.webm",
+    "jmcs://jd-contents/SloMo/SloMo_ULTRA.webm": "/private/map/SloMo/SloMo_ULTRA.webm/0010404e4d0549f40e00526edb2dfa26.webm",
+    "jmcs://jd-contents/SloMo/SloMo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SloMo/SloMo_MapPreviewNoSoundCrop_MID.vp8.webm/e63fff3bc1f5950fc3fce31416a232dc.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"524674\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SloMo/SloMo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"654-1144\">\n\t\t\t\t\t<Initialization range=\"0-654\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1489312\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SloMo/SloMo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\n\t\t\t\t\t<Initialization range=\"0-655\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 196.514229
+}

@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "44014aa2187ec7c76d34da881b9e9c70",
+      "storageType": 0,
+      "url": "/public/map/GoodGirl/nx/GoodGirl_MAIN_SCENE_NX.zip/44014aa2187ec7c76d34da881b9e9c70.zip"
+    },
+    "pc": {
+      "md5": "d1bd00fe97ea60c8f81ff9c08cf04700",
+      "storageType": 0,
+      "url": "/public/map/GoodGirl/pc/GoodGirl_MAIN_SCENE_PC.zip/d1bd00fe97ea60c8f81ff9c08cf04700.zip"
+    },
+    "ps4": {
+      "md5": "729fd642d7d77031d80a8d8cd0e8453b",
+      "storageType": 0,
+      "url": "/public/map/GoodGirl/orbis/GoodGirl_MAIN_SCENE_ORBIS.zip/729fd642d7d77031d80a8d8cd0e8453b.zip"
+    }
+  },
+  "data": {
+    "mapName": "GoodGirl",
+    "title": "Good Girl",
+    "originalJDVersion": 4,
+    "tags": [
+      "subscribedSong",
+      "JustDance4",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Carrie Underwood",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#9d0a0a",
+    "songColor2A": "#151a91",
+    "songColor1B": "#2b0202",
+    "songColor2B": "#070935",
+    "lyricsColor": "#d8a504"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22800,
+        45648,
+        68496,
+        91344,
+        114192,
+        136512,
+        158832,
+        181152,
+        203472,
+        225792,
+        248112,
+        270432,
+        292752,
+        315072,
+        337440,
+        359760,
+        382080,
+        404400,
+        426720,
+        449040,
+        471360,
+        493680,
+        516000,
+        538320,
+        560688,
+        583008,
+        605328,
+        627648,
+        649968,
+        672288,
+        694608,
+        716928,
+        739248,
+        761568,
+        783936,
+        806256,
+        828576,
+        850896,
+        873216,
+        895536,
+        917856,
+        940176,
+        962496,
+        984816,
+        1007184,
+        1029504,
+        1051824,
+        1074144,
+        1096464,
+        1118784,
+        1141104,
+        1163424,
+        1185744,
+        1208112,
+        1230432,
+        1252752,
+        1275072,
+        1297392,
+        1319712,
+        1342032,
+        1364352,
+        1386672,
+        1408992,
+        1431360,
+        1453680,
+        1476000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 453,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GoodGirl/GoodGirl_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GoodGirl/nx/GoodGirl_banner_bkg.tga.ckd/0374a782cf29dc2961a254fcdb9a9bce.ckd",
+      "map_bkgImageUrl": "/public/map/GoodGirl/nx/GoodGirl_map_bkg.tga.ckd/6ad587d65fffaebc8d6076e876758d77.ckd",
+      "expandCoachImageUrl": "/public/map/GoodGirl/nx/GoodGirl_Cover_AlbumCoach.tga.ckd/b0a13d8da3a7d00a3eb6957511fd692c.ckd",
+      "cover_smallImageUrl": "/public/map/GoodGirl/nx/GoodGirl_Cover_Online.tga.ckd/4b5efe7fee83490dadf5db2cb9c8315e.ckd",
+      "coach1ImageUrl": "/public/map/GoodGirl/nx/GoodGirl_Coach_1.tga.ckd/77e3c1069c45212c42e3793feb158395.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GoodGirl/pc/GoodGirl_banner_bkg.tga.ckd/716017246ff238288e666938919f33ed.ckd",
+      "map_bkgImageUrl": "/public/map/GoodGirl/pc/GoodGirl_map_bkg.tga.ckd/6ac5caa181dad304d7f78b10e7f6274f.ckd",
+      "expandCoachImageUrl": "/public/map/GoodGirl/pc/GoodGirl_Cover_AlbumCoach.tga.ckd/80e4c1f96c76f6c2327d227f8988473b.ckd",
+      "cover_smallImageUrl": "/public/map/GoodGirl/pc/GoodGirl_Cover_Online.tga.ckd/5f2fc567a5de1d830f18bd417114e81b.ckd",
+      "coach1ImageUrl": "/public/map/GoodGirl/pc/GoodGirl_Coach_1.tga.ckd/a7fb01d61da59128031304c4b8db7ab3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GoodGirl/orbis/GoodGirl_banner_bkg.tga.ckd/716017246ff238288e666938919f33ed.ckd",
+      "map_bkgImageUrl": "/public/map/GoodGirl/orbis/GoodGirl_map_bkg.tga.ckd/6ac5caa181dad304d7f78b10e7f6274f.ckd",
+      "expandCoachImageUrl": "/public/map/GoodGirl/orbis/GoodGirl_Cover_AlbumCoach.tga.ckd/80e4c1f96c76f6c2327d227f8988473b.ckd",
+      "cover_smallImageUrl": "/public/map/GoodGirl/orbis/GoodGirl_Cover_Online.tga.ckd/5f2fc567a5de1d830f18bd417114e81b.ckd",
+      "coach1ImageUrl": "/public/map/GoodGirl/orbis/GoodGirl_Coach_1.tga.ckd/a7fb01d61da59128031304c4b8db7ab3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GoodGirl/GoodGirl_Coach_1_Phone.png/d2314cc271f7868556ab3af8487842e8.png",
+    "phoneCoverImageUrl": "/public/map/GoodGirl/GoodGirl_Cover_Phone.jpg/157259e5881a99ca107bda6a476d1cbb.jpg",
+    "cover640ImageUrl": "/public/map/GoodGirl/GoodGirl_Cover_640.png/c60280176a6cf3e4d21a137d609f47ac.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GoodGirl/GoodGirl.ogg": "/private/map/GoodGirl/GoodGirl.ogg/a6eba7a6d20f73d1198f6251e05db8d7.ogg",
+    "jmcs://jd-contents/GoodGirl/GoodGirl_AudioPreview.ogg": "/public/map/GoodGirl/GoodGirl_AudioPreview.ogg/1a0b542554c3f8ea4c93686ae5976b19.ogg",
+    "jmcs://jd-contents/GoodGirl/GoodGirl_HIGH.webm": "/private/map/GoodGirl/GoodGirl_HIGH.webm/d1dc343d91110df2417eeaab82be635c.webm",
+    "jmcs://jd-contents/GoodGirl/GoodGirl_LOW.webm": "/private/map/GoodGirl/GoodGirl_LOW.webm/b43577a11295669a82c981d419eec056.webm",
+    "jmcs://jd-contents/GoodGirl/GoodGirl_MID.webm": "/private/map/GoodGirl/GoodGirl_MID.webm/c15b1e8ff6324881fbbb3c26bf06a711.webm",
+    "jmcs://jd-contents/GoodGirl/GoodGirl_ULTRA.hd.webm": "/private/map/GoodGirl/GoodGirl_ULTRA.hd.webm/06ee2c8ca0bbefab4222b82d6eef95fe.webm",
+    "jmcs://jd-contents/GoodGirl/GoodGirl_ULTRA.webm": "/private/map/GoodGirl/GoodGirl_ULTRA.webm/e7b46f1f18c979d746c64b965b41a2ba.webm",
+    "jmcs://jd-contents/GoodGirl/GoodGirl_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GoodGirl/GoodGirl_MapPreviewNoSoundCrop_LOW.vp8.webm/c024fadf2628010cf3baeeb553b551c6.webm",
+    "jmcs://jd-contents/GoodGirl/GoodGirl_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GoodGirl/GoodGirl_MapPreviewNoSoundCrop_MID.vp8.webm/252dd4475f1324b7c5678df4050a8f12.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"516928\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodGirl/GoodGirl_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1504453\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoodGirl/GoodGirl_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 210.4
+}

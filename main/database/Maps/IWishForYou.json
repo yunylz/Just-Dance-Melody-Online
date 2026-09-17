@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "cb014fd7da62a2221403c167703a09af",
+      "storageType": 0,
+      "url": "/public/map/IWishForYou/nx/IWishForYou_MAIN_SCENE_NX.zip/cb014fd7da62a2221403c167703a09af.zip"
+    },
+    "pc": {
+      "md5": "e68a8e479e88af0f92f4ef765d177689",
+      "storageType": 0,
+      "url": "/public/map/IWishForYou/pc/IWishForYou_MAIN_SCENE_PC.zip/e68a8e479e88af0f92f4ef765d177689.zip"
+    },
+    "ps4": {
+      "md5": "aa8f117ffe4d12ec23b5b773d9b185f4",
+      "storageType": 0,
+      "url": "/public/map/IWishForYou/orbis/IWishForYou_MAIN_SCENE_ORBIS.zip/aa8f117ffe4d12ec23b5b773d9b185f4.zip"
+    }
+  },
+  "data": {
+    "mapName": "IWishForYou",
+    "title": "I Wish For You",
+    "originalJDVersion": 1003,
+    "tags": [
+      "subscribedSong",
+      "jdwiiu",
+      "JustDanceAsia",
+      "Duet",
+      "Hard"
+    ],
+    "artist": "EXILE",
+    "coachCount": 2,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ca1b1d",
+    "credits": "CREDITS STRING TO BE FILLED"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24191,
+        48383,
+        72623,
+        96815,
+        121007,
+        145199,
+        169391,
+        193631,
+        217823,
+        242015,
+        266207,
+        290399,
+        314639,
+        338831,
+        363023,
+        387215,
+        411407,
+        435647,
+        459839,
+        484031,
+        508223,
+        532415,
+        556654,
+        580846,
+        605038,
+        629230,
+        653422,
+        677662,
+        701854,
+        726046,
+        750238,
+        774430,
+        798670,
+        822862,
+        847054,
+        871246,
+        895438,
+        919678,
+        943870,
+        968062,
+        992254,
+        1016446,
+        1040686,
+        1064878,
+        1089070,
+        1113261,
+        1137453,
+        1161693,
+        1185885,
+        1210077,
+        1234269,
+        1258461,
+        1282701,
+        1306893,
+        1331085,
+        1355277,
+        1379469,
+        1403709,
+        1427901,
+        1452093,
+        1476285,
+        1500525
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 523,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/IWishForYou/IWishForYou_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/IWishForYou/nx/IWishForYou_banner_bkg.tga.ckd/82731d03dfb83054270e3244551c66a8.ckd",
+      "map_bkgImageUrl": "/public/map/IWishForYou/nx/IWishForYou_map_bkg.tga.ckd/981f4e136280f9cd7b55586c903d11a4.ckd",
+      "expandCoachImageUrl": "/public/map/IWishForYou/nx/IWishForYou_Cover_AlbumCoach.tga.ckd/83c51dca06f955ef91bcda218240eded.ckd",
+      "cover_smallImageUrl": "/public/map/IWishForYou/nx/IWishForYou_Cover_Online.tga.ckd/0fe163ca206c3fdc254a4282c1517a68.ckd",
+      "coach1ImageUrl": "/public/map/IWishForYou/nx/IWishForYou_Coach_1.tga.ckd/9edbbfc480676da6b28aca00afc52f37.ckd",
+      "coach2ImageUrl": "/public/map/IWishForYou/nx/IWishForYou_Coach_2.tga.ckd/a033699a96027af7d5db7d9bc9b22735.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/IWishForYou/pc/IWishForYou_banner_bkg.tga.ckd/4c0effc1c1f02dbce2bdd3967a62b7d8.ckd",
+      "map_bkgImageUrl": "/public/map/IWishForYou/pc/IWishForYou_map_bkg.tga.ckd/f530f0f8a35274cd20e1dd4207493453.ckd",
+      "expandCoachImageUrl": "/public/map/IWishForYou/pc/IWishForYou_Cover_AlbumCoach.tga.ckd/39769e365094fd9fa22e3e51d91b01aa.ckd",
+      "cover_smallImageUrl": "/public/map/IWishForYou/pc/IWishForYou_Cover_Online.tga.ckd/6c8cc0df123c4860bc504968a697bb4a.ckd",
+      "coach1ImageUrl": "/public/map/IWishForYou/pc/IWishForYou_Coach_1.tga.ckd/7f7fb2d7b033a18bcf76ff66fcdef12c.ckd",
+      "coach2ImageUrl": "/public/map/IWishForYou/pc/IWishForYou_Coach_2.tga.ckd/f5d3b728f342382ff0bd8d67a50334b3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/IWishForYou/orbis/IWishForYou_banner_bkg.tga.ckd/4c0effc1c1f02dbce2bdd3967a62b7d8.ckd",
+      "map_bkgImageUrl": "/public/map/IWishForYou/orbis/IWishForYou_map_bkg.tga.ckd/f530f0f8a35274cd20e1dd4207493453.ckd",
+      "expandCoachImageUrl": "/public/map/IWishForYou/orbis/IWishForYou_Cover_AlbumCoach.tga.ckd/39769e365094fd9fa22e3e51d91b01aa.ckd",
+      "cover_smallImageUrl": "/public/map/IWishForYou/orbis/IWishForYou_Cover_Online.tga.ckd/6c8cc0df123c4860bc504968a697bb4a.ckd",
+      "coach1ImageUrl": "/public/map/IWishForYou/orbis/IWishForYou_Coach_1.tga.ckd/7f7fb2d7b033a18bcf76ff66fcdef12c.ckd",
+      "coach2ImageUrl": "/public/map/IWishForYou/orbis/IWishForYou_Coach_2.tga.ckd/f5d3b728f342382ff0bd8d67a50334b3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/IWishForYou/IWishForYou_Coach_1_Phone.png/1526d8e811313cc90978afc3ca126de5.png",
+    "phoneCoach2ImageUrl": "/public/map/IWishForYou/IWishForYou_Coach_2_Phone.png/d98cbfe6bb7ce511b3089ec8215667dc.png",
+    "phoneCoverImageUrl": "/public/map/IWishForYou/IWishForYou_Cover_Phone.jpg/f0b7b477b0a517f116aa4648422296b0.jpg",
+    "cover640ImageUrl": "/public/map/IWishForYou/IWishForYou_Cover_640.png/a0836835519b19fc62dc02248fe07510.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/IWishForYou/IWishForYou.ogg": "/private/map/IWishForYou/IWishForYou.ogg/601649556480cde6d18b93bc783fefa8.ogg",
+    "jmcs://jd-contents/IWishForYou/IWishForYou_AudioPreview.ogg": "/public/map/IWishForYou/IWishForYou_AudioPreview.ogg/d37991b1d109242411492072b9a4c9b9.ogg",
+    "jmcs://jd-contents/IWishForYou/IWishForYou_HIGH.webm": "/private/map/IWishForYou/IWishForYou_HIGH.webm/62524c767b1469d5b90840df4e68f296.webm",
+    "jmcs://jd-contents/IWishForYou/IWishForYou_LOW.webm": "/private/map/IWishForYou/IWishForYou_LOW.webm/d8afdf550f0223bab6028f95fcbf2cae.webm",
+    "jmcs://jd-contents/IWishForYou/IWishForYou_MID.webm": "/private/map/IWishForYou/IWishForYou_MID.webm/1ab9f10e43e90db8ac44d9ce0e042465.webm",
+    "jmcs://jd-contents/IWishForYou/IWishForYou_ULTRA.webm": "/private/map/IWishForYou/IWishForYou_ULTRA.webm/e1c8f0fb327881bb92e5eb71d78b4c05.webm",
+    "jmcs://jd-contents/IWishForYou/IWishForYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/IWishForYou/IWishForYou_MapPreviewNoSoundCrop_LOW.vp8.webm/61c49491e128709e3ba21d002d735ce8.webm",
+    "jmcs://jd-contents/IWishForYou/IWishForYou_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/IWishForYou/IWishForYou_MapPreviewNoSoundCrop_MID.vp8.webm/816764b0e6a4e532d5e365fa667ed0a0.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"549738\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWishForYou/IWishForYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"558-1048\">\n\t\t\t\t\t<Initialization range=\"0-558\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1541098\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWishForYou/IWishForYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"559-1049\">\n\t\t\t\t\t<Initialization range=\"0-559\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 265.706
+}

@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MotiveMU/MotiveMU_HIGH.webm": "/private/map/MotiveMU/MotiveMU_HIGH.webm/8b899692cc21e7f7bded831421987ff4.webm",
+    "jmcs://jd-contents/MotiveMU/MotiveMU_LOW.webm": "/private/map/MotiveMU/MotiveMU_LOW.webm/0962fdcca1695a224b5bb7724fe3281f.webm",
+    "jmcs://jd-contents/MotiveMU/MotiveMU_MID.webm": "/private/map/MotiveMU/MotiveMU_MID.webm/b1477c499eda157fc0d73de93b7758eb.webm",
+    "jmcs://jd-contents/MotiveMU/MotiveMU_ULTRA.hd.webm": "/private/map/MotiveMU/MotiveMU_ULTRA.hd.webm/3c652904cdc4fe4df08fd42a4c81d403.webm",
+    "jmcs://jd-contents/MotiveMU/MotiveMU_ULTRA.webm": "/private/map/MotiveMU/MotiveMU_ULTRA.webm/18164c53d1ff1ecf1487134a7c91b9ff.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24615,
+        49231,
+        73846,
+        98462,
+        123077,
+        147692,
+        172308,
+        196923,
+        221538,
+        246154,
+        270769,
+        295385,
+        320000,
+        344615,
+        369231,
+        393846,
+        418462,
+        443077,
+        467692,
+        492308,
+        516923,
+        541538,
+        566154,
+        590769,
+        615385,
+        640000,
+        664615,
+        689231,
+        713846,
+        738462,
+        763077,
+        787692,
+        812308,
+        836923,
+        861538,
+        886154,
+        910769,
+        935385,
+        960000,
+        984615,
+        1009231,
+        1033846,
+        1058462,
+        1083077,
+        1107692,
+        1132308,
+        1156923,
+        1181539,
+        1206154,
+        1230769,
+        1255385,
+        1280000,
+        1304615,
+        1329231,
+        1353846,
+        1378462,
+        1403077,
+        1427692,
+        1452308,
+        1476923
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 0,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MotiveMU/MotiveMU_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "0352a0ffe9acef94490c3f50e9d02026",
+      "storageType": 0,
+      "url": "/public/map/MotiveMU/nx/MotiveMU_MAIN_SCENE_NX.zip/0352a0ffe9acef94490c3f50e9d02026.zip"
+    },
+    "pc": {
+      "md5": "e3001fc1e68363492d162c59a286d009",
+      "storageType": 0,
+      "url": "/public/map/MotiveMU/pc/MotiveMU_MAIN_SCENE_PC.zip/e3001fc1e68363492d162c59a286d009.zip"
+    },
+    "ps4": {
+      "md5": "ab69b30a703da552d788114f0a6a04eb",
+      "storageType": 0,
+      "url": "/public/map/MotiveMU/orbis/MotiveMU_MAIN_SCENE_ORBIS.zip/ab69b30a703da552d788114f0a6a04eb.zip"
+    }
+  },
+  "data": {
+    "mapName": "MotiveMU",
+    "title": "Motive",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main"
+    ],
+    "artist": "Ariana Grande & Doja Cat",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#990994",
+    "songColor2A": "#00ffd4",
+    "songColor1B": "#27013d",
+    "songColor2B": "#2a7f6e",
+    "lyricsColor": "#ff23ad",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MotiveMU/nx/MotiveMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/MotiveMU/nx/MotiveMU_map_bkg.tga.ckd/0486465d7844a2c1f0b04ebc3d46ba03.ckd",
+      "expandCoachImageUrl": "/public/map/MotiveMU/nx/MotiveMU_Cover_AlbumCoach.tga.ckd/ff291f4cbe9d7e2a78c9a5df738fbb83.ckd",
+      "cover_smallImageUrl": "/public/map/MotiveMU/nx/MotiveMU_Cover_Online.tga.ckd/34b9ab627a4257362c27f5744c68e620.ckd",
+      "coverImageUrl": "/public/map/MotiveMU/nx/MotiveMU_Cover_Generic.tga.ckd/90a88d734ea81728a2d6af041e74b018.ckd",
+      "coach1ImageUrl": "/public/map/MotiveMU/nx/MotiveMU_Coach_1.tga.ckd/17497c370f2b4d634d13e49133aee41b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MotiveMU/pc/MotiveMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/MotiveMU/pc/MotiveMU_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/MotiveMU/pc/MotiveMU_Cover_AlbumCoach.tga.ckd/a60f523eea8f74ad860bb214c607f1f1.ckd",
+      "cover_smallImageUrl": "/public/map/MotiveMU/pc/MotiveMU_Cover_Online.tga.ckd/5b170225b5bacce05922dd59e1e5ab2e.ckd",
+      "coverImageUrl": "/public/map/MotiveMU/pc/MotiveMU_Cover_Generic.tga.ckd/661c0b20546164297ef8e3d30f01f80d.ckd",
+      "coach1ImageUrl": "/public/map/MotiveMU/pc/MotiveMU_Coach_1.tga.ckd/4720d6d7bd5d29ed94a6194f6ad7d832.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MotiveMU/orbis/MotiveMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/MotiveMU/orbis/MotiveMU_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/MotiveMU/orbis/MotiveMU_Cover_AlbumCoach.tga.ckd/a60f523eea8f74ad860bb214c607f1f1.ckd",
+      "cover_smallImageUrl": "/public/map/MotiveMU/orbis/MotiveMU_Cover_Online.tga.ckd/5b170225b5bacce05922dd59e1e5ab2e.ckd",
+      "coverImageUrl": "/public/map/MotiveMU/orbis/MotiveMU_Cover_Generic.tga.ckd/661c0b20546164297ef8e3d30f01f80d.ckd",
+      "coach1ImageUrl": "/public/map/MotiveMU/orbis/MotiveMU_Coach_1.tga.ckd/4720d6d7bd5d29ed94a6194f6ad7d832.ckd"
+    }
+  }
+}

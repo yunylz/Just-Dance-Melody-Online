@@ -1,0 +1,170 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BlameItMU/BlameItMU.ogg": "/private/map/BlameItMU/BlameItMU.ogg/819af2018310925b1123c516d5d00512.ogg",
+    "jmcs://jd-contents/BlameItMU/BlameItMU_AudioPreview.ogg": "/public/map/BlameItMU/BlameItMU_AudioPreview.ogg/2fcc25b942bd2aa8c5a803b3fa813ff8.ogg",
+    "jmcs://jd-contents/BlameItMU/BlameItMU_HIGH.hd.webm": "/private/map/BlameItMU/BlameItMU_HIGH.hd.webm/824719984744eff8b14795c3d5dc29ff.webm",
+    "jmcs://jd-contents/BlameItMU/BlameItMU_LOW.hd.webm": "/private/map/BlameItMU/BlameItMU_LOW.hd.webm/d4325ce09a2f9e65399872cca4c66508.webm",
+    "jmcs://jd-contents/BlameItMU/BlameItMU_MID.hd.webm": "/private/map/BlameItMU/BlameItMU_MID.hd.webm/3c17a9f44b389e2ec0f3428d4b30e81a.webm",
+    "jmcs://jd-contents/BlameItMU/BlameItMU_ULTRA.hd.webm": "/private/map/BlameItMU/BlameItMU_ULTRA.hd.webm/6741787a17c7a54fc487ccd4c5d083e5.webm",
+    "jmcs://jd-contents/BlameItMU/BlameItMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BlameItMU/BlameItMU_MapPreviewNoSoundCrop_LOW.vp8.webm/a553722ef9e5586a4dafd46791874866.webm",
+    "jmcs://jd-contents/BlameItMU/BlameItMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BlameItMU/BlameItMU_MapPreviewNoSoundCrop_MID.vp8.webm/b91286715cd293950bc65aee1f04d680.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25056,
+        50064,
+        75120,
+        100176,
+        125232,
+        150240,
+        175296,
+        200352,
+        225408,
+        250416,
+        275472,
+        300528,
+        325584,
+        350592,
+        375648,
+        400704,
+        425760,
+        450768,
+        475824,
+        500880,
+        525936,
+        550944,
+        576000,
+        601056,
+        626064,
+        651120,
+        676176,
+        701232,
+        726240,
+        751296,
+        776352,
+        801408,
+        826416,
+        851472,
+        876528,
+        901584,
+        926592,
+        951648,
+        976704,
+        1001760,
+        1026768,
+        1051824,
+        1076880,
+        1101936,
+        1126945,
+        1152001,
+        1177057,
+        1202065,
+        1227121,
+        1252177,
+        1277233,
+        1302241,
+        1327297,
+        1352353,
+        1377409,
+        1402417,
+        1427473,
+        1452529,
+        1477585
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 397,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BlameItMU/BlameItMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BlameItMU/nx/BlameItMU_banner_bkg.tga.ckd/f6b2fd2b814f5656b578e2700d3aa8df.ckd",
+      "map_bkgImageUrl": "/public/map/BlameItMU/nx/BlameItMU_map_bkg.tga.ckd/debfe02c05d517366c9112a128f05e63.ckd",
+      "expandCoachImageUrl": "/public/map/BlameItMU/nx/BlameItMU_Cover_AlbumCoach.tga.ckd/bfb9f86d36f946d890f1ee79e0351409.ckd",
+      "cover_smallImageUrl": "/public/map/BlameItMU/nx/BlameItMU_Cover_Online.tga.ckd/8e710e410e6710c3438c59ba456da51e.ckd",
+      "coverImageUrl": "/public/map/BlameItMU/nx/BlameItMU_Cover_Generic.tga.ckd/bcc1876af511e1eb00511ad76a388a67.ckd",
+      "coach1ImageUrl": "/public/map/BlameItMU/nx/BlameItMU_Coach_1.tga.ckd/cdc6715b6040a865fc665e98b203c323.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BlameItMU/pc/BlameItMU_banner_bkg.tga.ckd/363366d5b9a0e8809d79a3f8c97497c1.ckd",
+      "map_bkgImageUrl": "/public/map/BlameItMU/pc/BlameItMU_map_bkg.tga.ckd/93eb864640c7d5966859c65966d2af9c.ckd",
+      "expandCoachImageUrl": "/public/map/BlameItMU/pc/BlameItMU_Cover_AlbumCoach.tga.ckd/d133f58b6dfbebd2d41e9d0875532e48.ckd",
+      "cover_smallImageUrl": "/public/map/BlameItMU/pc/BlameItMU_Cover_Online.tga.ckd/10479134ac11f2d1fa77304405999095.ckd",
+      "coverImageUrl": "/public/map/BlameItMU/pc/BlameItMU_Cover_Generic.tga.ckd/db8338ddc2cbc097c9d9353bfe5b3d15.ckd",
+      "coach1ImageUrl": "/public/map/BlameItMU/pc/BlameItMU_Coach_1.tga.ckd/ac413598878a43a47fd560029f09ea06.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BlameItMU/orbis/BlameItMU_banner_bkg.tga.ckd/363366d5b9a0e8809d79a3f8c97497c1.ckd",
+      "map_bkgImageUrl": "/public/map/BlameItMU/orbis/BlameItMU_map_bkg.tga.ckd/93eb864640c7d5966859c65966d2af9c.ckd",
+      "expandCoachImageUrl": "/public/map/BlameItMU/orbis/BlameItMU_Cover_AlbumCoach.tga.ckd/d133f58b6dfbebd2d41e9d0875532e48.ckd",
+      "cover_smallImageUrl": "/public/map/BlameItMU/orbis/BlameItMU_Cover_Online.tga.ckd/10479134ac11f2d1fa77304405999095.ckd",
+      "coverImageUrl": "/public/map/BlameItMU/orbis/BlameItMU_Cover_Generic.tga.ckd/db8338ddc2cbc097c9d9353bfe5b3d15.ckd",
+      "coach1ImageUrl": "/public/map/BlameItMU/orbis/BlameItMU_Coach_1.tga.ckd/ac413598878a43a47fd560029f09ea06.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BlameItMU/BlameItMU_Coach_1_Phone.png/fd47d8530a909acffa0ddae4bc72ce0e.png",
+    "phoneCoverImageUrl": "/public/map/BlameItMU/BlameItMU_Cover_Phone.jpg/40671f4d22a722a625e4f956b2cd1259.jpg",
+    "cover640ImageUrl": "/public/map/BlameItMU/BlameItMU_Cover_640.png/fdf2e9faf9e5b1ac6371fda565ac724c.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "83c2bdeb7181dc107ca0dfeaffd2635a",
+      "storageType": 0,
+      "url": "/public/map/BlameItMU/nx/BlameItMU_MAIN_SCENE_NX.zip/83c2bdeb7181dc107ca0dfeaffd2635a.zip"
+    },
+    "pc": {
+      "md5": "6547b05a5fda910719de586b59a627d7",
+      "storageType": 0,
+      "url": "/public/map/BlameItMU/pc/BlameItMU_MAIN_SCENE_PC.zip/6547b05a5fda910719de586b59a627d7.zip"
+    },
+    "ps4": {
+      "md5": "ebf5ca29ae69f534affcc4e558ece4d7",
+      "storageType": 0,
+      "url": "/public/map/BlameItMU/orbis/BlameItMU_MAIN_SCENE_ORBIS.zip/ebf5ca29ae69f534affcc4e558ece4d7.zip"
+    }
+  },
+  "data": {
+    "mapName": "BlameItMU",
+    "title": "Blame It On The Boogie",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Mick Jackson",
+    "credits": "Empty Credits",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#0099ff",
+    "LocaleID": 13572
+  },
+  "mapLength": 207.130167
+}

@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "04ebb6dba37bf9b161c9907100baf9e0",
+      "storageType": 0,
+      "url": "/public/map/HeyBoy/nx/HeyBoy_MAIN_SCENE_NX.zip/04ebb6dba37bf9b161c9907100baf9e0.zip"
+    },
+    "pc": {
+      "md5": "0c9a0575fbf14169395ed19a63249ba6",
+      "storageType": 0,
+      "url": "/public/map/HeyBoy/pc/HeyBoy_MAIN_SCENE_PC.zip/0c9a0575fbf14169395ed19a63249ba6.zip"
+    },
+    "ps4": {
+      "md5": "915a6be332dda599ce6d7307eab83939",
+      "storageType": 0,
+      "url": "/public/map/HeyBoy/orbis/HeyBoy_MAIN_SCENE_ORBIS.zip/915a6be332dda599ce6d7307eab83939.zip"
+    }
+  },
+  "data": {
+    "mapName": "HeyBoy",
+    "title": "Hey Boy Hey Girl",
+    "originalJDVersion": 3,
+    "tags": [
+      "main",
+      "jd3",
+      "main_3"
+    ],
+    "artist": "The Chemical Brothers",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0083"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23248,
+        46496,
+        69744,
+        92992,
+        116240,
+        139488,
+        162736,
+        185984,
+        209232,
+        232480,
+        255728,
+        278976,
+        301656,
+        324336,
+        347016,
+        369695,
+        392375,
+        415055,
+        437734,
+        460508,
+        483094,
+        505774,
+        528453,
+        551418,
+        576112,
+        596493,
+        619172,
+        641852,
+        664532,
+        687212,
+        709891,
+        732610,
+        755251,
+        777930,
+        800610,
+        823429,
+        846126,
+        869355,
+        891329,
+        914335,
+        936689,
+        959368,
+        982048,
+        1005215,
+        1027407,
+        1050087,
+        1074508,
+        1095734,
+        1118361,
+        1140806,
+        1163486,
+        1186584,
+        1208845,
+        1231865,
+        1254205,
+        1277424,
+        1299747,
+        1322244,
+        1345899,
+        1367656,
+        1390422,
+        1413198,
+        1435643,
+        1458322,
+        1481002
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 534,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HeyBoy/HeyBoy_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HeyBoy/nx/HeyBoy_banner_bkg.tga.ckd/143dcc660acefdc15a698c9f12ccf37a.ckd",
+      "map_bkgImageUrl": "/public/map/HeyBoy/nx/HeyBoy_map_bkg.tga.ckd/575d56913fe2acb81ef3a9956fdeb1e8.ckd",
+      "expandCoachImageUrl": "/public/map/HeyBoy/nx/HeyBoy_Cover_AlbumCoach.tga.ckd/38a625f6310596d9edfef6cb33f570de.ckd",
+      "cover_smallImageUrl": "/public/map/HeyBoy/nx/HeyBoy_Cover_Online.tga.ckd/5d58901e87301e818563d5e6c0eab18f.ckd",
+      "coach1ImageUrl": "/public/map/HeyBoy/nx/HeyBoy_Coach_1.tga.ckd/5f8d2a6011696defd4d0381c28fb1b9b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HeyBoy/pc/HeyBoy_banner_bkg.tga.ckd/bd8d544a9a40afc8f09b9a582a243bb0.ckd",
+      "map_bkgImageUrl": "/public/map/HeyBoy/pc/HeyBoy_map_bkg.tga.ckd/fbbf50bb80fce96914804cfe7b911e51.ckd",
+      "expandCoachImageUrl": "/public/map/HeyBoy/pc/HeyBoy_Cover_AlbumCoach.tga.ckd/559f86d91521625597f4017d0d2e537c.ckd",
+      "cover_smallImageUrl": "/public/map/HeyBoy/pc/HeyBoy_Cover_Online.tga.ckd/424c1c1ab99af873cf5b58a973255839.ckd",
+      "coach1ImageUrl": "/public/map/HeyBoy/pc/HeyBoy_Coach_1.tga.ckd/b987405e0cde369e8ef550743eb42eef.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HeyBoy/orbis/HeyBoy_banner_bkg.tga.ckd/bd8d544a9a40afc8f09b9a582a243bb0.ckd",
+      "map_bkgImageUrl": "/public/map/HeyBoy/orbis/HeyBoy_map_bkg.tga.ckd/fbbf50bb80fce96914804cfe7b911e51.ckd",
+      "expandCoachImageUrl": "/public/map/HeyBoy/orbis/HeyBoy_Cover_AlbumCoach.tga.ckd/559f86d91521625597f4017d0d2e537c.ckd",
+      "cover_smallImageUrl": "/public/map/HeyBoy/orbis/HeyBoy_Cover_Online.tga.ckd/424c1c1ab99af873cf5b58a973255839.ckd",
+      "coach1ImageUrl": "/public/map/HeyBoy/orbis/HeyBoy_Coach_1.tga.ckd/b987405e0cde369e8ef550743eb42eef.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HeyBoy/HeyBoy_Coach_1_Phone.png/543014dce2a4cd458d917406a66a593e.png",
+    "phoneCoverImageUrl": "/public/map/HeyBoy/HeyBoy_Cover_Phone.jpg/02e949f8b6da8318d94a63effc42efbd.jpg",
+    "cover640ImageUrl": "/public/map/HeyBoy/HeyBoy_Cover_640.png/f609504381c082aa2fc7f295502a5f50.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HeyBoy/HeyBoy.ogg": "/private/map/HeyBoy/HeyBoy.ogg/ca405057c956e2738eb358b3b6df339c.ogg",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_AudioPreview.ogg": "/public/map/HeyBoy/HeyBoy_AudioPreview.ogg/db1cd6f361e31773365844802909b18a.ogg",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_HIGH.webm": "/private/map/HeyBoy/HeyBoy_HIGH.webm/88d2cd11e283ab14207ebfb1a2f31f6b.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_LOW.webm": "/private/map/HeyBoy/HeyBoy_LOW.webm/87b0a40b59a5115a37136831c4d6236d.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_MID.webm": "/private/map/HeyBoy/HeyBoy_MID.webm/8a2934746959cc35a0bd19b69a59931e.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_ULTRA.hd.webm": "/private/map/HeyBoy/HeyBoy_ULTRA.hd.webm/c167cbe3eadf739b188ae80df83e80de.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_ULTRA.webm": "/private/map/HeyBoy/HeyBoy_ULTRA.webm/b51ab4ca1069189ca70f96619eecd0ff.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_LOW.vp8.webm/e904a6150e371b116cd6089c7c44abd4.webm",
+    "jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_MID.vp8.webm/e9ecc3ca7f37577ea81fa64c4bfd16ce.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"540671\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1543433\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeyBoy/HeyBoy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 253.368979
+}

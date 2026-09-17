@@ -1,0 +1,176 @@
+{
+  "urls": {
+    "jmcs://jd-contents/GentlemanMU/GentlemanMU.ogg": "/private/map/GentlemanMU/GentlemanMU.ogg/f4f1f63bf19c326bc4a04173bc6126ff.ogg",
+    "jmcs://jd-contents/GentlemanMU/GentlemanMU_AudioPreview.ogg": "/public/map/GentlemanMU/GentlemanMU_AudioPreview.ogg/0cc6cd2d827662c92864076c37b89256.ogg",
+    "jmcs://jd-contents/GentlemanMU/GentlemanMU_HIGH.hd.webm": "/private/map/GentlemanMU/GentlemanMU_HIGH.hd.webm/e14848806bde76d874ff68e6d37ccc94.webm",
+    "jmcs://jd-contents/GentlemanMU/GentlemanMU_LOW.hd.webm": "/private/map/GentlemanMU/GentlemanMU_LOW.hd.webm/7f0104603deee3e42cc5d8bdbc10a01f.webm",
+    "jmcs://jd-contents/GentlemanMU/GentlemanMU_MID.hd.webm": "/private/map/GentlemanMU/GentlemanMU_MID.hd.webm/f76cdf5929e65c61f1c05d8b7208965e.webm",
+    "jmcs://jd-contents/GentlemanMU/GentlemanMU_ULTRA.hd.webm": "/private/map/GentlemanMU/GentlemanMU_ULTRA.hd.webm/c011667c2f838a97d939e35d879de955.webm",
+    "jmcs://jd-contents/GentlemanMU/GentlemanMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GentlemanMU/GentlemanMU_MapPreviewNoSoundCrop_LOW.vp8.webm/d827c3d78331d87c1c979e9a51892035.webm",
+    "jmcs://jd-contents/GentlemanMU/GentlemanMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GentlemanMU/GentlemanMU_MapPreviewNoSoundCrop_MID.vp8.webm/cbb32d9d17ddc078bfb0d351485ca8bf.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22848,
+        45696,
+        68592,
+        91440,
+        114288,
+        137136,
+        159984,
+        182880,
+        205728,
+        228576,
+        251424,
+        274272,
+        297120,
+        320016,
+        342864,
+        365712,
+        388560,
+        411408,
+        434304,
+        457152,
+        480000,
+        502848,
+        525696,
+        548592,
+        571440,
+        594289,
+        617137,
+        639985,
+        662881,
+        685729,
+        708577,
+        731425,
+        754273,
+        777121,
+        800017,
+        822865,
+        845713,
+        868561,
+        891409,
+        914305,
+        937153,
+        960001,
+        982849,
+        1005697,
+        1028593,
+        1051441,
+        1074289,
+        1097137,
+        1119985,
+        1142881,
+        1165729,
+        1188578,
+        1211426,
+        1234274,
+        1257122,
+        1280018,
+        1302866,
+        1325714,
+        1348562,
+        1371410,
+        1394306,
+        1417154,
+        1440002,
+        1462850,
+        1485698
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 412,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GentlemanMU/GentlemanMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GentlemanMU/nx/GentlemanMU_banner_bkg.tga.ckd/f6b2fd2b814f5656b578e2700d3aa8df.ckd",
+      "map_bkgImageUrl": "/public/map/GentlemanMU/nx/GentlemanMU_map_bkg.tga.ckd/f9dacc08a896db2ba259a7519aee841c.ckd",
+      "expandCoachImageUrl": "/public/map/GentlemanMU/nx/GentlemanMU_Cover_AlbumCoach.tga.ckd/6dd0bb76dbda26b83bb5645726dfee7f.ckd",
+      "cover_smallImageUrl": "/public/map/GentlemanMU/nx/GentlemanMU_Cover_Online.tga.ckd/bbecde1a207399a9a1a86fd42446dd8f.ckd",
+      "coverImageUrl": "/public/map/GentlemanMU/nx/GentlemanMU_Cover_Generic.tga.ckd/cbc70ab180eb9f1edefdfbe9d24b3a02.ckd",
+      "coach1ImageUrl": "/public/map/GentlemanMU/nx/GentlemanMU_Coach_1.tga.ckd/f8f55790d10367a2ab2107ced24b6688.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GentlemanMU/pc/GentlemanMU_banner_bkg.tga.ckd/363366d5b9a0e8809d79a3f8c97497c1.ckd",
+      "map_bkgImageUrl": "/public/map/GentlemanMU/pc/GentlemanMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/GentlemanMU/pc/GentlemanMU_Cover_AlbumCoach.tga.ckd/8c10ed2ecff61f7a45c9eb5fa2daa08e.ckd",
+      "cover_smallImageUrl": "/public/map/GentlemanMU/pc/GentlemanMU_Cover_Online.tga.ckd/855542f9a57ac45fd51e4866398ea0a6.ckd",
+      "coverImageUrl": "/public/map/GentlemanMU/pc/GentlemanMU_Cover_Generic.tga.ckd/7f8b7abd14766b4b89c412b7bcc27a02.ckd",
+      "coach1ImageUrl": "/public/map/GentlemanMU/pc/GentlemanMU_Coach_1.tga.ckd/e30cb6847eab28ae7d3baa54fc6c1815.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GentlemanMU/orbis/GentlemanMU_banner_bkg.tga.ckd/363366d5b9a0e8809d79a3f8c97497c1.ckd",
+      "map_bkgImageUrl": "/public/map/GentlemanMU/orbis/GentlemanMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/GentlemanMU/orbis/GentlemanMU_Cover_AlbumCoach.tga.ckd/8c10ed2ecff61f7a45c9eb5fa2daa08e.ckd",
+      "cover_smallImageUrl": "/public/map/GentlemanMU/orbis/GentlemanMU_Cover_Online.tga.ckd/855542f9a57ac45fd51e4866398ea0a6.ckd",
+      "coverImageUrl": "/public/map/GentlemanMU/orbis/GentlemanMU_Cover_Generic.tga.ckd/7f8b7abd14766b4b89c412b7bcc27a02.ckd",
+      "coach1ImageUrl": "/public/map/GentlemanMU/orbis/GentlemanMU_Coach_1.tga.ckd/e30cb6847eab28ae7d3baa54fc6c1815.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GentlemanMU/GentlemanMU_Coach_1_Phone.png/18542409dc15e5180aae7036b6f74049.png",
+    "phoneCoverImageUrl": "/public/map/GentlemanMU/GentlemanMU_Cover_Phone.jpg/0ef7ecf87cfd3d0b44f903e22c206ab6.jpg",
+    "cover640ImageUrl": "/public/map/GentlemanMU/GentlemanMU_Cover_640.png/dbf74b9c9ee4b3ccb22c3b24f1153cef.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "8aca579a89af7e5f485fd4002b440608",
+      "storageType": 0,
+      "url": "/public/map/GentlemanMU/nx/GentlemanMU_MAIN_SCENE_NX.zip/8aca579a89af7e5f485fd4002b440608.zip"
+    },
+    "pc": {
+      "md5": "537aecfdb6be006e0fff9538d313a91e",
+      "storageType": 0,
+      "url": "/public/map/GentlemanMU/pc/GentlemanMU_MAIN_SCENE_PC.zip/537aecfdb6be006e0fff9538d313a91e.zip"
+    },
+    "ps4": {
+      "md5": "3f3726c437bb01fcdeccb80ef7036cc4",
+      "storageType": 0,
+      "url": "/public/map/GentlemanMU/orbis/GentlemanMU_MAIN_SCENE_ORBIS.zip/3f3726c437bb01fcdeccb80ef7036cc4.zip"
+    }
+  },
+  "data": {
+    "mapName": "GentlemanMU",
+    "title": "Gentleman",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "PSY",
+    "credits": "Written by Jai Sang Park and Gun Hyung Yoo. Published by Sony/ATV Music Publishing Canada (SOCAN) / Universal Music Publishing Group a division of Universal Music Canada Inc. All Rights Reserved. Used With Permission. Courtesy of Universal Records under license from Universal Music Enterprises All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f9643d",
+    "songColor2A": "#00b29d",
+    "songColor1B": "#430024",
+    "songColor2B": "#00013c",
+    "lyricsColor": "#0099cc",
+    "LocaleID": 8605
+  },
+  "mapLength": 195.714333
+}

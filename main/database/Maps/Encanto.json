@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Encanto/Encanto.ogg": "/private/map/Encanto/Encanto.ogg/54e451d3998b9469b415a30dfc58efbc.ogg",
+    "jmcs://jd-contents/Encanto/Encanto_AudioPreview.ogg": "/public/map/Encanto/Encanto_AudioPreview.ogg/91c954f28a98c2141ab9d49d52646472.ogg",
+    "jmcs://jd-contents/Encanto/Encanto_HIGH.hd.webm": "/private/map/Encanto/Encanto_HIGH.hd.webm/0398981c9609340e8159f18b897f8921.webm",
+    "jmcs://jd-contents/Encanto/Encanto_LOW.hd.webm": "/private/map/Encanto/Encanto_LOW.hd.webm/66477ef467525d063105a7b3df3dd0b3.webm",
+    "jmcs://jd-contents/Encanto/Encanto_MID.hd.webm": "/private/map/Encanto/Encanto_MID.hd.webm/905765b9192c561538cb3bc133afffd8.webm",
+    "jmcs://jd-contents/Encanto/Encanto_ULTRA.hd.webm": "/private/map/Encanto/Encanto_ULTRA.hd.webm/3358b636407b18cec787e80e66cfd032.webm",
+    "jmcs://jd-contents/Encanto/Encanto_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Encanto/Encanto_MapPreviewNoSoundCrop_LOW.vp8.webm/001534d63338db7db6e588ee6dc02fe4.webm",
+    "jmcs://jd-contents/Encanto/Encanto_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Encanto/Encanto_MapPreviewNoSoundCrop_MID.vp8.webm/5745d47df05e2e3bffb71404819d5404.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27961,
+        55922,
+        83883,
+        111845,
+        139806,
+        167767,
+        195728,
+        223689,
+        251650,
+        279612,
+        307573,
+        335534,
+        363495,
+        391456,
+        419417,
+        447379,
+        475340,
+        503301,
+        531262,
+        559223,
+        587184,
+        615146,
+        643107,
+        671068,
+        699029,
+        726990,
+        754951,
+        782913,
+        810874,
+        838835,
+        866796,
+        894757,
+        922718,
+        950680,
+        978641,
+        1006602,
+        1034563,
+        1062524,
+        1090485,
+        1118447,
+        1146408,
+        1174369,
+        1202330,
+        1230291,
+        1258252,
+        1286214,
+        1314175,
+        1342136,
+        1370097,
+        1398058,
+        1426019,
+        1453981,
+        1481942
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 365,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Encanto/Encanto_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "8581b0b8c36f07766492159267e823a1",
+      "storageType": 0,
+      "url": "/public/map/Encanto/nx/Encanto_MAIN_SCENE_NX.zip/8581b0b8c36f07766492159267e823a1.zip"
+    },
+    "pc": {
+      "md5": "b0fffce4a84063136c616a5dcd3341eb",
+      "storageType": 0,
+      "url": "/public/map/Encanto/pc/Encanto_MAIN_SCENE_PC.zip/b0fffce4a84063136c616a5dcd3341eb.zip"
+    },
+    "ps4": {
+      "md5": "8afd24c3bf2f85924fd9565bfc33e5c4",
+      "storageType": 0,
+      "url": "/public/map/Encanto/orbis/Encanto_MAIN_SCENE_ORBIS.zip/8afd24c3bf2f85924fd9565bfc33e5c4.zip"
+    }
+  },
+  "data": {
+    "mapName": "Encanto",
+    "title": "We Don't Talk About Bruno",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Cast from Encanto",
+    "credits": "Written by Lin-Manuel Miranda. Published by Walt Disney Music Company (ASCAP) © YEAR 2021. Courtesy of Walt Disney Records.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff22da",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Encanto/nx/Encanto_banner_bkg.tga.ckd/3948b09680e7429f8ac20b7ee814b7cf.ckd",
+      "map_bkgImageUrl": "/public/map/Encanto/nx/Encanto_map_bkg.tga.ckd/2bc583391d71dd3d66b68cfbd687249e.ckd",
+      "expandCoachImageUrl": "/public/map/Encanto/nx/Encanto_Cover_AlbumCoach.tga.ckd/032464ee32babd61bae09edc5160f121.ckd",
+      "cover_smallImageUrl": "/public/map/Encanto/nx/Encanto_Cover_Online.tga.ckd/7f284ece06e50964b625be49e0cbfc35.ckd",
+      "coverImageUrl": "/public/map/Encanto/nx/Encanto_Cover_Generic.tga.ckd/331327bcefe38f24b6a610759c3f1e12.ckd",
+      "coach1ImageUrl": "/public/map/Encanto/nx/Encanto_Coach_1.tga.ckd/689d21284372bfaaa86456fcd906739a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Encanto/pc/Encanto_banner_bkg.tga.ckd/b3d8e262b60058b518ae8f40dc8a8844.ckd",
+      "map_bkgImageUrl": "/public/map/Encanto/pc/Encanto_map_bkg.tga.ckd/65b17b179199c7e141b20bb1ea5c41ab.ckd",
+      "expandCoachImageUrl": "/public/map/Encanto/pc/Encanto_Cover_AlbumCoach.tga.ckd/4a3ee8473263d9be6f306af932720874.ckd",
+      "cover_smallImageUrl": "/public/map/Encanto/pc/Encanto_Cover_Online.tga.ckd/b9ca1821cfc0b965c96784559cc79e0d.ckd",
+      "coverImageUrl": "/public/map/Encanto/pc/Encanto_Cover_Generic.tga.ckd/ffbd6ec09d1ec8b1525d30cf4f295d87.ckd",
+      "coach1ImageUrl": "/public/map/Encanto/pc/Encanto_Coach_1.tga.ckd/1e1a46837f3d65c648ef2d97c15f5a1b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Encanto/orbis/Encanto_banner_bkg.tga.ckd/b3d8e262b60058b518ae8f40dc8a8844.ckd",
+      "map_bkgImageUrl": "/public/map/Encanto/orbis/Encanto_map_bkg.tga.ckd/65b17b179199c7e141b20bb1ea5c41ab.ckd",
+      "expandCoachImageUrl": "/public/map/Encanto/orbis/Encanto_Cover_AlbumCoach.tga.ckd/4a3ee8473263d9be6f306af932720874.ckd",
+      "cover_smallImageUrl": "/public/map/Encanto/orbis/Encanto_Cover_Online.tga.ckd/b9ca1821cfc0b965c96784559cc79e0d.ckd",
+      "coverImageUrl": "/public/map/Encanto/orbis/Encanto_Cover_Generic.tga.ckd/ffbd6ec09d1ec8b1525d30cf4f295d87.ckd",
+      "coach1ImageUrl": "/public/map/Encanto/orbis/Encanto_Coach_1.tga.ckd/1e1a46837f3d65c648ef2d97c15f5a1b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Encanto/Encanto_Coach_1_Phone.png/c06959d76b36ad0dee9c8cb9e7f21701.png",
+    "phoneCoverImageUrl": "/public/map/Encanto/Encanto_Cover_Phone.jpg/47a2b840e6310b6668a91e34674cdaf9.jpg",
+    "cover640ImageUrl": "/public/map/Encanto/Encanto_Cover_640.png/75b3b27f9414872053e82b68ca9f8610.png"
+  },
+  "mapLength": 214.368917
+}

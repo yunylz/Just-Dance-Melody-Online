@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/AngryBirdsMU/AngryBirdsMU.ogg": "/private/map/AngryBirdsMU/AngryBirdsMU.ogg/e1b31eb3f1f4b002380fb2262120dde5.ogg",
+    "jmcs://jd-contents/AngryBirdsMU/AngryBirdsMU_AudioPreview.ogg": "/public/map/AngryBirdsMU/AngryBirdsMU_AudioPreview.ogg/1b8a031c99e6e36a33cfdd4111842407.ogg",
+    "jmcs://jd-contents/AngryBirdsMU/AngryBirdsMU_HIGH.hd.webm": "/private/map/AngryBirdsMU/AngryBirdsMU_HIGH.hd.webm/bba93d9f7a653286db37cdedcb9ca82d.webm",
+    "jmcs://jd-contents/AngryBirdsMU/AngryBirdsMU_LOW.hd.webm": "/private/map/AngryBirdsMU/AngryBirdsMU_LOW.hd.webm/50b28f2da5137e4e58d58a7f2840fcbb.webm",
+    "jmcs://jd-contents/AngryBirdsMU/AngryBirdsMU_MID.hd.webm": "/private/map/AngryBirdsMU/AngryBirdsMU_MID.hd.webm/08911ae60f0752031c1d4f33baacf812.webm",
+    "jmcs://jd-contents/AngryBirdsMU/AngryBirdsMU_ULTRA.hd.webm": "/private/map/AngryBirdsMU/AngryBirdsMU_ULTRA.hd.webm/7508b306720f829898467ef7779a8b40.webm",
+    "jmcs://jd-contents/AngryBirdsMU/AngryBirdsMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AngryBirdsMU/AngryBirdsMU_MapPreviewNoSoundCrop_LOW.vp8.webm/b648fddf5e1cde3861c8f89ba388e191.webm",
+    "jmcs://jd-contents/AngryBirdsMU/AngryBirdsMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AngryBirdsMU/AngryBirdsMU_MapPreviewNoSoundCrop_MID.vp8.webm/2677e410b7c69bea08ffd6480ef8ac12.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23999,
+        47999,
+        71999,
+        95999,
+        119999,
+        143999,
+        167999,
+        191999,
+        215999,
+        239999,
+        263999,
+        287999,
+        311999,
+        335999,
+        359999,
+        383999,
+        407998,
+        431998,
+        455998,
+        479998,
+        503998,
+        527998,
+        551998,
+        575998,
+        599998,
+        623998,
+        647998,
+        671998,
+        695998,
+        719998,
+        743998,
+        767998,
+        791997,
+        815997,
+        839997,
+        863997,
+        887997,
+        911997,
+        935997,
+        959997,
+        983997,
+        1007997,
+        1031997,
+        1055997,
+        1079997,
+        1103997,
+        1127997,
+        1151997,
+        1175997,
+        1199996,
+        1223996,
+        1247996,
+        1271996,
+        1295996,
+        1319996,
+        1343996,
+        1367996,
+        1391996,
+        1415996,
+        1439996,
+        1463996,
+        1487996
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 297,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AngryBirdsMU/AngryBirdsMU_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"630506\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AngryBirdsMU/AngryBirdsMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"732-1222\">\n\t\t\t\t\t<Initialization range=\"0-732\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1970631\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AngryBirdsMU/AngryBirdsMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"732-1222\">\n\t\t\t\t\t<Initialization range=\"0-732\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "d1de0f4cb0ccbf6ab020bfa2b01668d7",
+      "storageType": 0,
+      "url": "/public/map/AngryBirdsMU/nx/AngryBirdsMU_MAIN_SCENE_NX.zip/d1de0f4cb0ccbf6ab020bfa2b01668d7.zip"
+    },
+    "pc": {
+      "md5": "8ba330d127fd543fa284ae19d65b7f3f",
+      "storageType": 0,
+      "url": "/public/map/AngryBirdsMU/pc/AngryBirdsMU_MAIN_SCENE_PC.zip/8ba330d127fd543fa284ae19d65b7f3f.zip"
+    },
+    "ps4": {
+      "md5": "06e83f04f8d0f8648e7192aae77ceb93",
+      "storageType": 0,
+      "url": "/public/map/AngryBirdsMU/orbis/AngryBirdsMU_MAIN_SCENE_ORBIS.zip/06e83f04f8d0f8648e7192aae77ceb93.zip"
+    }
+  },
+  "data": {
+    "mapName": "AngryBirdsMU",
+    "title": "Balkan Blast Remix",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "Angry Birds",
+    "credits": "Angry Birds - Original Theme by Ari Pulkkinen. Balkan Blast remix produced by Ville Riippa and Jari Salo. Performed by Angry Birds. Published by Rovio Entertainment Ltd. Musicians: Jukka Eskola (trumpets), Mikko Mustonen (tuba, trombone, baritone horn), Miikka Paatelainen (balalaika, electric guitar), Kimmo Pohjonen (accordion). © 2015 Rovio Entertainment Ltd. All rights reserved.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00a8dd",
+    "songColor2A": "#89d105",
+    "songColor1B": "#004e5a",
+    "songColor2B": "#2fa20c",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AngryBirdsMU/nx/AngryBirdsMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/AngryBirdsMU/nx/AngryBirdsMU_map_bkg.tga.ckd/08e6bc21dd3d1c70a5f85155b10bfb86.ckd",
+      "expandCoachImageUrl": "/public/map/AngryBirdsMU/nx/AngryBirdsMU_Cover_AlbumCoach.tga.ckd/e404c7d5b8fc351ce1f572b3c513a752.ckd",
+      "cover_smallImageUrl": "/public/map/AngryBirdsMU/nx/AngryBirdsMU_Cover_Online.tga.ckd/d47df733c54f231925a0ae0db144da1f.ckd",
+      "coverImageUrl": "/public/map/AngryBirdsMU/nx/AngryBirdsMU_Cover_Generic.tga.ckd/d47df733c54f231925a0ae0db144da1f.ckd",
+      "coach1ImageUrl": "/public/map/AngryBirdsMU/nx/AngryBirdsMU_Coach_1.tga.ckd/8bcf568399d30c338a4c1a3c90d2e694.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AngryBirdsMU/pc/AngryBirdsMU_banner_bkg.tga.ckd/21a9f5c11e0239ee94166f3c8f6a8e25.ckd",
+      "map_bkgImageUrl": "/public/map/AngryBirdsMU/pc/AngryBirdsMU_map_bkg.tga.ckd/75617e12e7b494a0e48091b0cfe9224e.ckd",
+      "expandCoachImageUrl": "/public/map/AngryBirdsMU/pc/AngryBirdsMU_Cover_AlbumCoach.tga.ckd/ab4c2d02633f425b51a271834e71e5f7.ckd",
+      "cover_smallImageUrl": "/public/map/AngryBirdsMU/pc/AngryBirdsMU_Cover_Online.tga.ckd/9ad689ee799ad2c819154d07b0b5748c.ckd",
+      "coverImageUrl": "/public/map/AngryBirdsMU/pc/AngryBirdsMU_Cover_Generic.tga.ckd/9ad689ee799ad2c819154d07b0b5748c.ckd",
+      "coach1ImageUrl": "/public/map/AngryBirdsMU/pc/AngryBirdsMU_Coach_1.tga.ckd/7dc596431dc56ba5bbef365d93914d95.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AngryBirdsMU/orbis/AngryBirdsMU_banner_bkg.tga.ckd/21a9f5c11e0239ee94166f3c8f6a8e25.ckd",
+      "map_bkgImageUrl": "/public/map/AngryBirdsMU/orbis/AngryBirdsMU_map_bkg.tga.ckd/75617e12e7b494a0e48091b0cfe9224e.ckd",
+      "expandCoachImageUrl": "/public/map/AngryBirdsMU/orbis/AngryBirdsMU_Cover_AlbumCoach.tga.ckd/ab4c2d02633f425b51a271834e71e5f7.ckd",
+      "cover_smallImageUrl": "/public/map/AngryBirdsMU/orbis/AngryBirdsMU_Cover_Online.tga.ckd/9ad689ee799ad2c819154d07b0b5748c.ckd",
+      "coverImageUrl": "/public/map/AngryBirdsMU/orbis/AngryBirdsMU_Cover_Generic.tga.ckd/9ad689ee799ad2c819154d07b0b5748c.ckd",
+      "coach1ImageUrl": "/public/map/AngryBirdsMU/orbis/AngryBirdsMU_Coach_1.tga.ckd/7dc596431dc56ba5bbef365d93914d95.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AngryBirdsMU/AngryBirdsMU_Coach_1_Phone.png/73c6cdb4d36b06ad8bae3d1ef31bbb6c.png",
+    "phoneCoverImageUrl": "/public/map/AngryBirdsMU/AngryBirdsMU_Cover_Phone.jpg/03a4791e3e721a3f574a89889716801b.jpg",
+    "cover640ImageUrl": "/public/map/AngryBirdsMU/AngryBirdsMU_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 147.283229
+}

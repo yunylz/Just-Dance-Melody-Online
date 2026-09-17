@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "jmcs://jd-contents/RappersDelight/RappersDelight_AudioPreview.ogg": "/public/map/RappersDelight/RappersDelight_AudioPreview.ogg/0d47f170142a6b0aab539e9b1aa86ecd.ogg",
+    "jmcs://jd-contents/RappersDelight/RappersDelight.ogg": "/private/map/RappersDelight/RappersDelight.ogg/3f715a5255675d67647cd540bf523814.ogg",
+    "jmcs://jd-contents/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_LOW.vp8.webm/40498506fdbe26047b3ef9872fc9b8a9.webm",
+    "jmcs://jd-contents/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_MID.vp8.webm/8ae59cdb4136577147b077203b8251e8.webm",
+    "jmcs://jd-contents/RappersDelight/RappersDelight_ULTRA.hd.webm": "/private/map/RappersDelight/RappersDelight_ULTRA.hd.webm/5a75307c23971aca939c4d5f5dcfb0de.webm",
+    "jmcs://jd-contents/RappersDelight/RappersDelight_HIGH.hd.webm": "/private/map/RappersDelight/RappersDelight_HIGH.hd.webm/63ed5bf6cd3f6fd59e2049a625cd39c6.webm",
+    "jmcs://jd-contents/RappersDelight/RappersDelight_MID.hd.webm": "/private/map/RappersDelight/RappersDelight_MID.hd.webm/fa16fbef6ef54496944fad774c341c1d.webm",
+    "jmcs://jd-contents/RappersDelight/RappersDelight_LOW.hd.webm": "/private/map/RappersDelight/RappersDelight_LOW.hd.webm/82fa4d8ef5640ba4499867de37190272.webm",
+    "jmcs://jd-contents/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_HIGH.vp8.webm/d0b555b89124a61ac372ae4b492a21fa.webm",
+    "jmcs://jd-contents/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d2ae9f285a1e40b31ff28ecd53611dd3.webm"
+  },
+  "mapLength": 181.72724479166666,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25477,
+        51710,
+        77944,
+        104178,
+        130411,
+        156337,
+        182263,
+        208188,
+        234114,
+        259888,
+        285662,
+        311437,
+        337211,
+        363133,
+        389059,
+        414984,
+        440910,
+        464610,
+        492622,
+        518548,
+        544473,
+        569522,
+        596164,
+        621789,
+        647413,
+        673475,
+        699536,
+        725597,
+        751188,
+        776778,
+        802368,
+        827959,
+        853549,
+        879771,
+        905994,
+        932216,
+        958118,
+        984021,
+        1009923,
+        1035826,
+        1061728,
+        1087630,
+        1113533,
+        1139435,
+        1165820,
+        1192205,
+        1217796,
+        1243386,
+        1269448,
+        1295509,
+        1321570,
+        1347632,
+        1374017,
+        1400402,
+        1426787
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 337,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/RappersDelight/RappersDelight_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"628758\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"772-1262\">\n\t\t\t\t\t<Initialization range=\"0-772\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1467263\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"772-1262\">\n\t\t\t\t\t<Initialization range=\"0-772\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2555601\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"772-1262\">\n\t\t\t\t\t<Initialization range=\"0-772\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"2558302\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RappersDelight/RappersDelight_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"772-1262\">\n\t\t\t\t\t<Initialization range=\"0-772\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "60c5483c332b917e956819dcf50219f8",
+      "storageType": 0,
+      "url": "/public/map/RappersDelight/pc/RappersDelight_MAIN_SCENE_PC.zip/60c5483c332b917e956819dcf50219f8.zip"
+    },
+    "ps4": {
+      "md5": "b0e059d1765e42e15b0dc36a8e4276f0",
+      "storageType": 0,
+      "url": "/public/map/RappersDelight/orbis/RappersDelight_MAIN_SCENE_ORBIS.zip/b0e059d1765e42e15b0dc36a8e4276f0.zip"
+    },
+    "wiiu": {
+      "md5": "447887c9ab0e4db7beb68dd636b45a73",
+      "storageType": 0,
+      "url": "/public/map/RappersDelight/wiiu/RappersDelight_MAIN_SCENE_WIIU.zip/447887c9ab0e4db7beb68dd636b45a73.zip"
+    },
+    "nx": {
+      "md5": "05cfdbd60d08554eaf1c6c6365ca7d45",
+      "storageType": 0,
+      "url": "/public/map/RappersDelight/nx/RappersDelight_MAIN_SCENE_NX.zip/05cfdbd60d08554eaf1c6c6365ca7d45.zip"
+    }
+  },
+  "data": {
+    "mapName": "RappersDelight",
+    "title": "Rapper's Delight",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Groove Century",
+    "credits": "Written by Bernard Edwards, Nile Rodgers. Published by Bernard's Other Music. All rights on behalf of Bernard's Other Music administered by Warner-Tamerlane Publishing Corp. / Sony/ATV Songs LLC. Vocals by Louis King, Lonnie Counts, Tyriq Johnson.  Produced, recorded and mixed by Steve Ouimette. All rights reserved. Used with permission. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#99F9F8",
+    "songColor2A": "#FF837D",
+    "songColor1B": "#35056B",
+    "songColor2B": "#470417",
+    "lyricsColor": "#C18930",
+    "LocaleId": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/RappersDelight/pc/RappersDelight_Cover_Online.tga.ckd/7361a97483d070d56416dc9490e52844.ckd",
+      "coverImageUrl": "/public/map/RappersDelight/pc/RappersDelight_Cover_Generic.tga.ckd/83af207547996d1863665918a13fdfb4.ckd",
+      "expandCoachImageUrl": "/public/map/RappersDelight/pc/RappersDelight_Cover_AlbumCoach.tga.ckd/30f6ecf5d640315dda62c7a639acb799.ckd",
+      "map_bkgImageUrl": "/public/map/RappersDelight/pc/RappersDelight_map_bkg.tga.ckd/4b99acf51a8d42e422ea0352bf4e5250.ckd",
+      "banner_bkgImageUrl": "/public/map/RappersDelight/pc/RappersDelight_banner_bkg.tga.ckd/f9b20a01ac96bf0e7993f2204267a761.ckd",
+      "coach1ImageUrl": "/public/map/RappersDelight/pc/RappersDelight_Coach_1.tga.ckd/adf5747972bdd3b0ef9e96c1d257d982.ckd",
+      "phoneCoverImageUrl": "/public/map/RappersDelight/RappersDelight_Cover_Phone.jpg/20a8b00ee47a7d1346fc66e474fde7da.jpg",
+      "phoneCoach1ImageUrl": "/public/map/RappersDelight/RappersDelight_Coach_1_Phone.png/63b004c6a92f0c746c6ae391f12c45f4.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/RappersDelight/orbis/RappersDelight_Cover_Online.tga.ckd/7361a97483d070d56416dc9490e52844.ckd",
+      "coverImageUrl": "/public/map/RappersDelight/orbis/RappersDelight_Cover_Generic.tga.ckd/83af207547996d1863665918a13fdfb4.ckd",
+      "expandCoachImageUrl": "/public/map/RappersDelight/orbis/RappersDelight_Cover_AlbumCoach.tga.ckd/30f6ecf5d640315dda62c7a639acb799.ckd",
+      "map_bkgImageUrl": "/public/map/RappersDelight/orbis/RappersDelight_map_bkg.tga.ckd/4b99acf51a8d42e422ea0352bf4e5250.ckd",
+      "banner_bkgImageUrl": "/public/map/RappersDelight/orbis/RappersDelight_banner_bkg.tga.ckd/f9b20a01ac96bf0e7993f2204267a761.ckd",
+      "coach1ImageUrl": "/public/map/RappersDelight/orbis/RappersDelight_Coach_1.tga.ckd/adf5747972bdd3b0ef9e96c1d257d982.ckd",
+      "phoneCoverImageUrl": "/public/map/RappersDelight/RappersDelight_Cover_Phone.jpg/20a8b00ee47a7d1346fc66e474fde7da.jpg",
+      "phoneCoach1ImageUrl": "/public/map/RappersDelight/RappersDelight_Coach_1_Phone.png/63b004c6a92f0c746c6ae391f12c45f4.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/RappersDelight/wiiu/RappersDelight_Cover_Online.tga.ckd/a7b2fd25545fb53b19b0d24d3de406fc.ckd",
+      "coverImageUrl": "/public/map/RappersDelight/wiiu/RappersDelight_Cover_Generic.tga.ckd/2ba852dabaaae0c33e568a133c014b6b.ckd",
+      "expandCoachImageUrl": "/public/map/RappersDelight/wiiu/RappersDelight_Cover_AlbumCoach.tga.ckd/08aac05943c9f6f53256a26b391fcd76.ckd",
+      "map_bkgImageUrl": "/public/map/RappersDelight/wiiu/RappersDelight_map_bkg.tga.ckd/17f78cecf599d44ea9891d4bf478db21.ckd",
+      "banner_bkgImageUrl": "/public/map/RappersDelight/wiiu/RappersDelight_banner_bkg.tga.ckd/8671febdb55d3ab3af60c2d0ac860967.ckd",
+      "coach1ImageUrl": "/public/map/RappersDelight/wiiu/RappersDelight_Coach_1.tga.ckd/40bb08e777df8a55761a05a21b1123cd.ckd",
+      "phoneCoverImageUrl": "/public/map/RappersDelight/RappersDelight_Cover_Phone.jpg/20a8b00ee47a7d1346fc66e474fde7da.jpg",
+      "phoneCoach1ImageUrl": "/public/map/RappersDelight/RappersDelight_Coach_1_Phone.png/63b004c6a92f0c746c6ae391f12c45f4.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/RappersDelight/nx/RappersDelight_Cover_Online.tga.ckd/9637adbd6ecda4748f1ed7681feaa769.ckd",
+      "coverImageUrl": "/public/map/RappersDelight/nx/RappersDelight_Cover_Generic.tga.ckd/294a1e7cc942a2d849ab407671c6cc21.ckd",
+      "expandCoachImageUrl": "/public/map/RappersDelight/nx/RappersDelight_Cover_AlbumCoach.tga.ckd/9bfe4db6ff73ec27086228c6bc7b9d71.ckd",
+      "map_bkgImageUrl": "/public/map/RappersDelight/nx/RappersDelight_map_bkg.tga.ckd/846a08ae5c5dbe0291aec5bfac8a7d69.ckd",
+      "banner_bkgImageUrl": "/public/map/RappersDelight/nx/RappersDelight_banner_bkg.tga.ckd/3ea90d89f98c2ac7dbd8a56200b86e16.ckd",
+      "coach1ImageUrl": "/public/map/RappersDelight/nx/RappersDelight_Coach_1.tga.ckd/a28ed6e80c38ff4eac4c754adb867bbb.ckd",
+      "phoneCoverImageUrl": "/public/map/RappersDelight/RappersDelight_Cover_Phone.jpg/20a8b00ee47a7d1346fc66e474fde7da.jpg",
+      "phoneCoach1ImageUrl": "/public/map/RappersDelight/RappersDelight_Coach_1_Phone.png/63b004c6a92f0c746c6ae391f12c45f4.png"
+    },
+    "cover640ImageUrl": "/public/map/RappersDelight/RappersDelight_Cover_640.png/b60618796f37c686ce56c9c46dc7d94a.png"
+  }
+}

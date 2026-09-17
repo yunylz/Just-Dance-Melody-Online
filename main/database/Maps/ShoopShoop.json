@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "5d54826e4db752da651aea493bb58eea",
+      "storageType": 0,
+      "url": "/public/map/ShoopShoop/nx/ShoopShoop_MAIN_SCENE_NX.zip/5d54826e4db752da651aea493bb58eea.zip"
+    },
+    "pc": {
+      "md5": "8adc38187a96edc6f1bc457287ba462c",
+      "storageType": 0,
+      "url": "/public/map/ShoopShoop/pc/ShoopShoop_MAIN_SCENE_PC.zip/8adc38187a96edc6f1bc457287ba462c.zip"
+    },
+    "ps4": {
+      "md5": "d18f35c1e9be338dfe9ee23b307a6e7f",
+      "storageType": 0,
+      "url": "/public/map/ShoopShoop/orbis/ShoopShoop_MAIN_SCENE_ORBIS.zip/d18f35c1e9be338dfe9ee23b307a6e7f.zip"
+    }
+  },
+  "data": {
+    "mapName": "ShoopShoop",
+    "title": "The Shoop Shoop Song (It's In His Kiss)",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Cher",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#04A1D5",
+    "songColor2A": "#F23C3C",
+    "songColor1B": "#013C4F",
+    "songColor2B": "#3C1515",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24624,
+        49247,
+        73871,
+        98494,
+        123069,
+        147693,
+        172316,
+        196940,
+        221563,
+        246138,
+        270762,
+        295385,
+        320009,
+        344632,
+        369255,
+        393831,
+        418454,
+        443077,
+        467701,
+        492324,
+        516900,
+        541523,
+        566146,
+        590770,
+        615393,
+        639969,
+        664592,
+        689215,
+        713839,
+        738462,
+        763086,
+        787661,
+        812284,
+        836908,
+        861531,
+        886155,
+        910730,
+        935353,
+        959977,
+        984600,
+        1009224,
+        1033799,
+        1058422,
+        1083046,
+        1107669,
+        1132293,
+        1156916,
+        1181491,
+        1206115,
+        1230738,
+        1255361,
+        1279793,
+        1304416,
+        1329040,
+        1353615,
+        1378238,
+        1402862,
+        1427485
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 307,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/shoopshoop/shoopshoop_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ShoopShoop/nx/ShoopShoop_banner_bkg.tga.ckd/7e1572c4fc6eadbc4b1395c2786e5be4.ckd",
+      "map_bkgImageUrl": "/public/map/ShoopShoop/nx/ShoopShoop_map_bkg.tga.ckd/4aba0206059dd89d557f6bb25768c7af.ckd",
+      "expandCoachImageUrl": "/public/map/ShoopShoop/nx/ShoopShoop_Cover_AlbumCoach.tga.ckd/4915bf5dc3f5f61f74a234d59c4422da.ckd",
+      "cover_smallImageUrl": "/public/map/ShoopShoop/nx/ShoopShoop_Cover_Online.tga.ckd/25a936a8ce0b99f015ffc50b5cd94fd1.ckd",
+      "coach1ImageUrl": "/public/map/ShoopShoop/nx/ShoopShoop_Coach_1.tga.ckd/16d1ca55c489a76de63985f2c5346f04.ckd",
+      "coach2ImageUrl": "/public/map/ShoopShoop/nx/ShoopShoop_Coach_2.tga.ckd/f3ce08fbe31139c87e5d19e8c2cdddf6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ShoopShoop/pc/ShoopShoop_banner_bkg.tga.ckd/bd4df9a1720f9c97a91ad3236de33926.ckd",
+      "map_bkgImageUrl": "/public/map/ShoopShoop/pc/ShoopShoop_map_bkg.tga.ckd/cad015f394b48b494e8828035942fa75.ckd",
+      "expandCoachImageUrl": "/public/map/ShoopShoop/pc/ShoopShoop_Cover_AlbumCoach.tga.ckd/3b7b4a92274fc963824b5530eb0990b6.ckd",
+      "cover_smallImageUrl": "/public/map/ShoopShoop/pc/ShoopShoop_Cover_Online.tga.ckd/ac0d16f6340260b51598cc9437549254.ckd",
+      "coach1ImageUrl": "/public/map/ShoopShoop/pc/ShoopShoop_Coach_1.tga.ckd/156beb81c4aca03812f321fd7928d308.ckd",
+      "coach2ImageUrl": "/public/map/ShoopShoop/pc/ShoopShoop_Coach_2.tga.ckd/9cc45f3fa8783d963e782e4e634199e6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ShoopShoop/orbis/ShoopShoop_banner_bkg.tga.ckd/bd4df9a1720f9c97a91ad3236de33926.ckd",
+      "map_bkgImageUrl": "/public/map/ShoopShoop/orbis/ShoopShoop_map_bkg.tga.ckd/cad015f394b48b494e8828035942fa75.ckd",
+      "expandCoachImageUrl": "/public/map/ShoopShoop/orbis/ShoopShoop_Cover_AlbumCoach.tga.ckd/3b7b4a92274fc963824b5530eb0990b6.ckd",
+      "cover_smallImageUrl": "/public/map/ShoopShoop/orbis/ShoopShoop_Cover_Online.tga.ckd/ac0d16f6340260b51598cc9437549254.ckd",
+      "coach1ImageUrl": "/public/map/ShoopShoop/orbis/ShoopShoop_Coach_1.tga.ckd/156beb81c4aca03812f321fd7928d308.ckd",
+      "coach2ImageUrl": "/public/map/ShoopShoop/orbis/ShoopShoop_Coach_2.tga.ckd/9cc45f3fa8783d963e782e4e634199e6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ShoopShoop/ShoopShoop_Coach_1_Phone.png/ae81b4108cf607fecce9f9fcafee6702.png",
+    "phoneCoach2ImageUrl": "/public/map/ShoopShoop/ShoopShoop_Coach_2_Phone.png/0aba3897d9f0cf985593ad4e1cf0cb44.png",
+    "phoneCoverImageUrl": "/public/map/ShoopShoop/ShoopShoop_Cover_Phone.jpg/bd38e81874c568bdb485b831b6708cea.jpg"
+  },
+  "urls": {
+    "jmcs://jd-contents/ShoopShoop/ShoopShoop.ogg": "/private/map/ShoopShoop/ShoopShoop.ogg/fab6126ed143967a3153c1aa125430fa.ogg",
+    "jmcs://jd-contents/ShoopShoop/ShoopShoop_AudioPreview.ogg": "/public/map/ShoopShoop/ShoopShoop_AudioPreview.ogg/6e9ad6c9118e54908366894af1a1280f.ogg",
+    "jmcs://jd-contents/ShoopShoop/ShoopShoop_HIGH.webm": "/private/map/ShoopShoop/ShoopShoop_HIGH.webm/a8c59a095a8dc521c39518e2c11fca5b.webm",
+    "jmcs://jd-contents/ShoopShoop/ShoopShoop_LOW.webm": "/private/map/ShoopShoop/ShoopShoop_LOW.webm/2dce0a994046238d82e4f80d45b1cbad.webm",
+    "jmcs://jd-contents/ShoopShoop/ShoopShoop_MID.webm": "/private/map/ShoopShoop/ShoopShoop_MID.webm/814c5071d30f0a2c7f54e316b8fb82b6.webm",
+    "jmcs://jd-contents/ShoopShoop/ShoopShoop_ULTRA.hd.webm": "/private/map/ShoopShoop/ShoopShoop_ULTRA.hd.webm/4312c1a7a2d890d6a60b87978e1cf4b5.webm",
+    "jmcs://jd-contents/ShoopShoop/ShoopShoop_ULTRA.webm": "/private/map/ShoopShoop/ShoopShoop_ULTRA.webm/4062870c88174c6f6fa766f1fcca11af.webm",
+    "jmcs://jd-contents/ShoopShoop/ShoopShoop_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ShoopShoop/ShoopShoop_MapPreviewNoSoundCrop_LOW.vp8.webm/6d3ea974dd45e23e5fd0460d2acd0657.webm",
+    "jmcs://jd-contents/ShoopShoop/ShoopShoop_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ShoopShoop/ShoopShoop_MapPreviewNoSoundCrop_MID.vp8.webm/7ea6f3c479f2670d6ad81a0fa9303c17.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"510265\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ShoopShoop/ShoopShoop_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1500077\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ShoopShoop/ShoopShoop_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 157.04
+}

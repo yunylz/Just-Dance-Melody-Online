@@ -1,0 +1,175 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SwitchMariachi/SwitchMariachi_AudioPreview.ogg": "/public/map/SwitchMariachi/SwitchMariachi_AudioPreview.ogg/aacba84946e1f1b360bff94dae036880.ogg",
+    "jmcs://jd-contents/SwitchMariachi/SwitchMariachi.ogg": "/private/map/SwitchMariachi/SwitchMariachi.ogg/8db5d7a78678f8dac9b360174ec39091.ogg",
+    "jmcs://jd-contents/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_LOW.vp8.webm/7f0eb903511ca610d1eaa15c35fb4dd8.webm",
+    "jmcs://jd-contents/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_MID.vp8.webm/9c2e851d4ed0158c77df43854b9fb8ff.webm",
+    "jmcs://jd-contents/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_HIGH.vp8.webm/362bd7bc5a3b11c180754c3662d910d9.webm",
+    "jmcs://jd-contents/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d06f5181ef4e92d83f4a20c45f7d6989.webm",
+    "jmcs://jd-contents/SwitchMariachi/SwitchMariachi_ULTRA.hd.webm": "/private/map/SwitchMariachi/SwitchMariachi_ULTRA.hd.webm/eb6a229b6c5f4705b32aaa40003ddac8.webm",
+    "jmcs://jd-contents/SwitchMariachi/SwitchMariachi_HIGH.hd.webm": "/private/map/SwitchMariachi/SwitchMariachi_HIGH.hd.webm/94675a56317580db21948e2075b04075.webm",
+    "jmcs://jd-contents/SwitchMariachi/SwitchMariachi_MID.hd.webm": "/private/map/SwitchMariachi/SwitchMariachi_MID.hd.webm/3dfd5069ffc3aa4099dc59a8d231e1ef.webm",
+    "jmcs://jd-contents/SwitchMariachi/SwitchMariachi_LOW.hd.webm": "/private/map/SwitchMariachi/SwitchMariachi_LOW.hd.webm/9ba7b27901a2ccb115cd346c39f60c99.webm"
+  },
+  "mapLength": 168.5714375,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22848,
+        45744,
+        68592,
+        91440,
+        114288,
+        137136,
+        160032,
+        182880,
+        205728,
+        228576,
+        251424,
+        274320,
+        297169,
+        320017,
+        342865,
+        365713,
+        388561,
+        411457,
+        434305,
+        457153,
+        480001,
+        502849,
+        525745,
+        548593,
+        571441,
+        594289,
+        617137,
+        640033,
+        662881,
+        685730,
+        708578,
+        731426,
+        754322,
+        777170,
+        800018,
+        822866,
+        845714,
+        868562,
+        891458,
+        914306,
+        937154,
+        960002,
+        982850,
+        1005746,
+        1028594,
+        1051442,
+        1074291,
+        1097139,
+        1120035,
+        1142883,
+        1165731,
+        1188579,
+        1211427,
+        1234323,
+        1257171,
+        1280019,
+        1302867,
+        1325715,
+        1348563,
+        1371459,
+        1394307,
+        1417155
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 354,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/SwitchMariachi/SwitchMariachi_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"647282\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"780-1270\">\n\t\t\t\t\t<Initialization range=\"0-780\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482501\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"780-1270\">\n\t\t\t\t\t<Initialization range=\"0-780\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"1893262\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"780-1270\">\n\t\t\t\t\t<Initialization range=\"0-780\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"1893262\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SwitchMariachi/SwitchMariachi_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"780-1270\">\n\t\t\t\t\t<Initialization range=\"0-780\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "a8275bf4552662d46983072ecfb9c014",
+      "storageType": 0,
+      "url": "/public/map/SwitchMariachi/pc/SwitchMariachi_MAIN_SCENE_PC.zip/a8275bf4552662d46983072ecfb9c014.zip"
+    },
+    "ps4": {
+      "md5": "61f5758b4b20c260b855b1bd56eb7ede",
+      "storageType": 0,
+      "url": "/public/map/SwitchMariachi/orbis/SwitchMariachi_MAIN_SCENE_ORBIS.zip/61f5758b4b20c260b855b1bd56eb7ede.zip"
+    },
+    "nx": {
+      "md5": "02b767f140f5be4b9153defbe0b4e447",
+      "storageType": 0,
+      "url": "/public/map/SwitchMariachi/nx/SwitchMariachi_MAIN_SCENE_NX.zip/02b767f140f5be4b9153defbe0b4e447.zip"
+    }
+  },
+  "data": {
+    "mapName": "SwitchMariachi",
+    "title": "El Sabor Del Ritmo",
+    "originalJDVersion": 2018,
+    "tags": [
+      "doublescoring",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Just Vibes",
+    "credits": "Composed, Performed and Produced by Steve Ouimette. Published by Ubisoft Music Publishing. Vocals: Juan Cosme. Lyrics: Steve Ouimette and Mario Tapia. Music Supervision – Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#FF9E00",
+    "songColor2A": "#FFAA00",
+    "songColor1B": "#8A1A00",
+    "songColor2B": "#FC8A00",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 30000252
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/SwitchMariachi/pc/SwitchMariachi_Cover_Online.tga.ckd/3dd7ddf6bfa3e50f4da84d0d0ecb954e.ckd",
+      "coverImageUrl": "/public/map/SwitchMariachi/pc/SwitchMariachi_Cover_Generic.tga.ckd/3cfec2adb45161a1dcb25dff66beab46.ckd",
+      "expandCoachImageUrl": "/public/map/SwitchMariachi/pc/SwitchMariachi_Cover_AlbumCoach.tga.ckd/212f350517e659233bae3d11225e5c80.ckd",
+      "map_bkgImageUrl": "/public/map/SwitchMariachi/pc/SwitchMariachi_map_bkg.tga.ckd/e5b16ed143017f45ece3d9e0bb3de46f.ckd",
+      "banner_bkgImageUrl": "/public/map/SwitchMariachi/pc/SwitchMariachi_banner_bkg.tga.ckd/d1cbe8acb3572c91d9873daf2cd62e57.ckd",
+      "coach1ImageUrl": "/public/map/SwitchMariachi/pc/SwitchMariachi_Coach_1.tga.ckd/f46321d42a769b2c351f3010031fedd6.ckd",
+      "phoneCoverImageUrl": "/public/map/SwitchMariachi/SwitchMariachi_Cover_Phone.jpg/9fc1e074e3a970fc3c4999daba385ded.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SwitchMariachi/SwitchMariachi_Coach_1_Phone.png/a659e08f32db2be1ac55d448f8e5468d.png",
+      "cover640ImageUrl": "/public/map/SwitchMariachi/SwitchMariachi_Cover_640.png/98658f3d221abb029fa2f24c769ecc2d.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/SwitchMariachi/orbis/SwitchMariachi_Cover_Online.tga.ckd/3dd7ddf6bfa3e50f4da84d0d0ecb954e.ckd",
+      "coverImageUrl": "/public/map/SwitchMariachi/orbis/SwitchMariachi_Cover_Generic.tga.ckd/3cfec2adb45161a1dcb25dff66beab46.ckd",
+      "expandCoachImageUrl": "/public/map/SwitchMariachi/orbis/SwitchMariachi_Cover_AlbumCoach.tga.ckd/212f350517e659233bae3d11225e5c80.ckd",
+      "map_bkgImageUrl": "/public/map/SwitchMariachi/orbis/SwitchMariachi_map_bkg.tga.ckd/e5b16ed143017f45ece3d9e0bb3de46f.ckd",
+      "banner_bkgImageUrl": "/public/map/SwitchMariachi/orbis/SwitchMariachi_banner_bkg.tga.ckd/d1cbe8acb3572c91d9873daf2cd62e57.ckd",
+      "coach1ImageUrl": "/public/map/SwitchMariachi/orbis/SwitchMariachi_Coach_1.tga.ckd/f46321d42a769b2c351f3010031fedd6.ckd",
+      "phoneCoverImageUrl": "/public/map/SwitchMariachi/SwitchMariachi_Cover_Phone.jpg/9fc1e074e3a970fc3c4999daba385ded.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SwitchMariachi/SwitchMariachi_Coach_1_Phone.png/a659e08f32db2be1ac55d448f8e5468d.png",
+      "cover640ImageUrl": "/public/map/SwitchMariachi/SwitchMariachi_Cover_640.png/98658f3d221abb029fa2f24c769ecc2d.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/SwitchMariachi/nx/SwitchMariachi_Cover_Online.tga.ckd/ea63850a7f7d83905e2325aa260dba94.ckd",
+      "coverImageUrl": "/public/map/SwitchMariachi/nx/SwitchMariachi_Cover_Generic.tga.ckd/5c4fc5395b5473017be543c9c90dacef.ckd",
+      "expandCoachImageUrl": "/public/map/SwitchMariachi/nx/SwitchMariachi_Cover_AlbumCoach.tga.ckd/ca0f852f8df98ca6cc1cb076abcfc535.ckd",
+      "map_bkgImageUrl": "/public/map/SwitchMariachi/nx/SwitchMariachi_map_bkg.tga.ckd/2d1a5e14fe9840854a8534391c173739.ckd",
+      "banner_bkgImageUrl": "/public/map/SwitchMariachi/nx/SwitchMariachi_banner_bkg.tga.ckd/81edec8cc0f4098e37745cc1484965d0.ckd",
+      "coach1ImageUrl": "/public/map/SwitchMariachi/nx/SwitchMariachi_Coach_1.tga.ckd/b82d2fab75d866737523b6ad73451fc7.ckd",
+      "phoneCoverImageUrl": "/public/map/SwitchMariachi/SwitchMariachi_Cover_Phone.jpg/9fc1e074e3a970fc3c4999daba385ded.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SwitchMariachi/SwitchMariachi_Coach_1_Phone.png/a659e08f32db2be1ac55d448f8e5468d.png",
+      "cover640ImageUrl": "/public/map/SwitchMariachi/SwitchMariachi_Cover_640.png/98658f3d221abb029fa2f24c769ecc2d.png"
+    }
+  }
+}

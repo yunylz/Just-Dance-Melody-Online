@@ -1,0 +1,185 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Sail/Sail_AudioPreview.ogg": "/public/map/Sail/Sail_AudioPreview.ogg/19d71793f3c32e8c29dac7f98cae6634.ogg",
+    "jmcs://jd-contents/Sail/Sail.ogg": "/private/map/Sail/Sail.ogg/ab359bacf8cf4b3d9cafec72bbe2e1dd.ogg",
+    "jmcs://jd-contents/Sail/Sail_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Sail/Sail_MapPreviewNoSoundCrop_LOW.vp8.webm/7df84bbe1308c6bc1941ffb8cafabe64.webm",
+    "jmcs://jd-contents/Sail/Sail_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Sail/Sail_MapPreviewNoSoundCrop_MID.vp8.webm/675e0e9039ac26c5e5b6ed3e0c2e8682.webm",
+    "jmcs://jd-contents/Sail/Sail_ULTRA.hd.webm": "/private/map/Sail/Sail_ULTRA.hd.webm/91ca17b310a24edd2c39a36e818e25da.webm",
+    "jmcs://jd-contents/Sail/Sail_HIGH.hd.webm": "/private/map/Sail/Sail_HIGH.hd.webm/87d74abcd15f6796138502ec596c39d3.webm",
+    "jmcs://jd-contents/Sail/Sail_MID.hd.webm": "/private/map/Sail/Sail_MID.hd.webm/07ae02a1126d8be842440c023b9d376a.webm",
+    "jmcs://jd-contents/Sail/Sail_LOW.hd.webm": "/private/map/Sail/Sail_LOW.hd.webm/6e03f10d5df2b1bce1240d01fa9020f5.webm",
+    "jmcs://jd-contents/Sail/Sail_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/Sail/Sail_MapPreviewNoSoundCrop_HIGH.vp8.webm/a7694b19595268555fcbff27a4ab5a1b.webm",
+    "jmcs://jd-contents/Sail/Sail_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/Sail/Sail_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ae912a21590e69bf6fd4f4f93acd0522.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"643390\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sail/Sail_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"783-1273\">\n\t\t\t\t\t<Initialization range=\"0-783\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478430\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sail/Sail_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"783-1273\">\n\t\t\t\t\t<Initialization range=\"0-783\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2934159\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sail/Sail_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"783-1273\">\n\t\t\t\t\t<Initialization range=\"0-783\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"4984955\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sail/Sail_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"783-1276\">\n\t\t\t\t\t<Initialization range=\"0-783\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 225.37811458333334,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24202,
+        48404,
+        72605,
+        96807,
+        121009,
+        145210,
+        169412,
+        193614,
+        217815,
+        242017,
+        266219,
+        290420,
+        314622,
+        338824,
+        363025,
+        387227,
+        411429,
+        435630,
+        459832,
+        484034,
+        508235,
+        532437,
+        556639,
+        580841,
+        605042,
+        629244,
+        653446,
+        677647,
+        701849,
+        726051,
+        750252,
+        774454,
+        798656,
+        822857,
+        847059,
+        871261,
+        895462,
+        919664,
+        943866,
+        968067,
+        992269,
+        1016471,
+        1040672,
+        1064874,
+        1089076,
+        1113277,
+        1137479,
+        1161681,
+        1185883,
+        1210084,
+        1234286,
+        1258488,
+        1282689,
+        1306891,
+        1331093,
+        1355294,
+        1379496,
+        1403698,
+        1427899
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 1,
+      "endBeat": 448,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/Sail/Sail_AudioPreview.ogg"
+  },
+  "packages": {
+    "pc": {
+      "md5": "a95d5455e263a079aa3bb5bef1b562d4",
+      "storageType": 0,
+      "url": "/public/map/Sail/pc/Sail_MAIN_SCENE_PC.zip/a95d5455e263a079aa3bb5bef1b562d4.zip"
+    },
+    "ps4": {
+      "md5": "2c98ca9ebca0f99c3b916ea0d7e25b85",
+      "storageType": 0,
+      "url": "/public/map/Sail/orbis/Sail_MAIN_SCENE_ORBIS.zip/2c98ca9ebca0f99c3b916ea0d7e25b85.zip"
+    },
+    "wiiu": {
+      "md5": "c94daa417625761272024f0d7de88b00",
+      "storageType": 0,
+      "url": "/public/map/Sail/wiiu/Sail_MAIN_SCENE_WIIU.zip/c94daa417625761272024f0d7de88b00.zip"
+    },
+    "nx": {
+      "md5": "808611c8fc10216644a1a3d32237ab27",
+      "storageType": 0,
+      "url": "/public/map/Sail/nx/Sail_MAIN_SCENE_NX.zip/808611c8fc10216644a1a3d32237ab27.zip"
+    }
+  },
+  "data": {
+    "mapName": "Sail",
+    "title": "Sail",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "AWOLNATION",
+    "credits": "Written by Aaron Bruno. Published by Red Bull Media House GmbH. Courtesy of Red Bull Records.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#20A2B7",
+    "songColor2A": "#2BA5A8",
+    "songColor1B": "#040437",
+    "songColor2B": "#070972",
+    "lyricsColor": "#E507FF",
+    "LocaleId": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/Sail/pc/Sail_Cover_Online.tga.ckd/576f37bad64700893ac1445ff9fda4da.ckd",
+      "coverImageUrl": "/public/map/Sail/pc/Sail_Cover_Generic.tga.ckd/f8bbd49b0cdf8a9185dad055ff7f790e.ckd",
+      "expandCoachImageUrl": "/public/map/Sail/pc/Sail_Cover_AlbumCoach.tga.ckd/599694c19ab03e59b127c878966d314c.ckd",
+      "map_bkgImageUrl": "/public/map/Sail/pc/Sail_map_bkg.tga.ckd/9c149f9f28378e279df9ce3d43c47992.ckd",
+      "banner_bkgImageUrl": "/public/map/Sail/pc/Sail_banner_bkg.tga.ckd/8e3ae5c9a8d15ce8f8b8264d5d8e3a03.ckd",
+      "coach1ImageUrl": "/public/map/Sail/pc/Sail_Coach_1.tga.ckd/f279223da2def878787f27ab67a9590c.ckd",
+      "phoneCoverImageUrl": "/public/map/Sail/Sail_Cover_Phone.jpg/7a0c2a75dbf5ce7a25d9c6e2546666fc.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Sail/Sail_Coach_1_Phone.png/1bac0a1a8cf42baf148e9d7449b25c17.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/Sail/orbis/Sail_Cover_Online.tga.ckd/576f37bad64700893ac1445ff9fda4da.ckd",
+      "coverImageUrl": "/public/map/Sail/orbis/Sail_Cover_Generic.tga.ckd/f8bbd49b0cdf8a9185dad055ff7f790e.ckd",
+      "expandCoachImageUrl": "/public/map/Sail/orbis/Sail_Cover_AlbumCoach.tga.ckd/599694c19ab03e59b127c878966d314c.ckd",
+      "map_bkgImageUrl": "/public/map/Sail/orbis/Sail_map_bkg.tga.ckd/9c149f9f28378e279df9ce3d43c47992.ckd",
+      "banner_bkgImageUrl": "/public/map/Sail/orbis/Sail_banner_bkg.tga.ckd/8e3ae5c9a8d15ce8f8b8264d5d8e3a03.ckd",
+      "coach1ImageUrl": "/public/map/Sail/orbis/Sail_Coach_1.tga.ckd/f279223da2def878787f27ab67a9590c.ckd",
+      "phoneCoverImageUrl": "/public/map/Sail/Sail_Cover_Phone.jpg/7a0c2a75dbf5ce7a25d9c6e2546666fc.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Sail/Sail_Coach_1_Phone.png/1bac0a1a8cf42baf148e9d7449b25c17.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/Sail/nx/Sail_Cover_Online.tga.ckd/eb1464c99262d37b307e301d9d314dae.ckd",
+      "coverImageUrl": "/public/map/Sail/nx/Sail_Cover_Generic.tga.ckd/fef8b08adc1ceed7c7ebc501359cb2fa.ckd",
+      "expandCoachImageUrl": "/public/map/Sail/nx/Sail_Cover_AlbumCoach.tga.ckd/d9197851f5c4b94d25e40a0bf057f492.ckd",
+      "map_bkgImageUrl": "/public/map/Sail/nx/Sail_map_bkg.tga.ckd/3e818702dcf1520bd1c6969c14add7b0.ckd",
+      "banner_bkgImageUrl": "/public/map/Sail/nx/Sail_banner_bkg.tga.ckd/2b75ad974fed86e4f3c449f51266f701.ckd",
+      "coach1ImageUrl": "/public/map/Sail/nx/Sail_Coach_1.tga.ckd/973224a585453f7d2b61740fb4dd5a7b.ckd",
+      "phoneCoverImageUrl": "/public/map/Sail/Sail_Cover_Phone.jpg/7a0c2a75dbf5ce7a25d9c6e2546666fc.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Sail/Sail_Coach_1_Phone.png/1bac0a1a8cf42baf148e9d7449b25c17.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/Sail/wiiu/Sail_Cover_Online.tga.ckd/5ccf70291e75b6fa9080bdb6e9ce358f.ckd",
+      "coverImageUrl": "/public/map/Sail/wiiu/Sail_Cover_Generic.tga.ckd/d8fb89bb0f8e3a93ebe3f47147ada840.ckd",
+      "expandCoachImageUrl": "/public/map/Sail/wiiu/Sail_Cover_AlbumCoach.tga.ckd/26051d5e2ddbf1ab4cad709b30726a40.ckd",
+      "map_bkgImageUrl": "/public/map/Sail/wiiu/Sail_map_bkg.tga.ckd/cfe9e2741fbb015ceb2b173bda3172f9.ckd",
+      "banner_bkgImageUrl": "/public/map/Sail/wiiu/Sail_banner_bkg.tga.ckd/9c0bb099a2fd8d946349cbbf7548842e.ckd",
+      "coach1ImageUrl": "/public/map/Sail/wiiu/Sail_Coach_1.tga.ckd/f31e81c0ccf2df612492b9be042ee64a.ckd",
+      "phoneCoverImageUrl": "/public/map/Sail/Sail_Cover_Phone.jpg/7a0c2a75dbf5ce7a25d9c6e2546666fc.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Sail/Sail_Coach_1_Phone.png/1bac0a1a8cf42baf148e9d7449b25c17.png"
+    },
+    "cover640ImageUrl": "/public/map/Sail/Sail_Cover_640.png/fd69ebef8ea8d046937a34fafb70717e.png"
+  }
+}

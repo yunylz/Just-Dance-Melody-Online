@@ -1,0 +1,166 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids.ogg": "/private/map/BandmasterKids/BandmasterKids.ogg/d79202c11e67cd3e09cd3743c3012c05.ogg",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_AudioPreview.ogg": "/public/map/BandmasterKids/BandmasterKids_AudioPreview.ogg/e33d223091d6194ca06fad351ed05cea.ogg",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_HIGH.hd.webm": "/private/map/BandmasterKids/BandmasterKids_HIGH.hd.webm/15817ef21b05b437d51cf0a6ca91e870.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_LOW.hd.webm": "/private/map/BandmasterKids/BandmasterKids_LOW.hd.webm/5b1bffc440b14918e983d76845829aea.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_MID.hd.webm": "/private/map/BandmasterKids/BandmasterKids_MID.hd.webm/16cc850f12e224e681a6577919115fe2.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_ULTRA.hd.webm": "/private/map/BandmasterKids/BandmasterKids_ULTRA.hd.webm/399cb056e9fec9821d6c265a3c526b50.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_LOW.vp8.webm/12ee0979b08aad1d021b7072bd4d8520.webm",
+    "jmcs://jd-contents/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BandmasterKids/BandmasterKids_MapPreviewNoSoundCrop_MID.vp8.webm/fb447df8dccbfd645b7495e00bdc1d29.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27696,
+        55392,
+        83088,
+        110784,
+        138480,
+        166176,
+        193824,
+        221520,
+        249216,
+        276913,
+        304609,
+        332305,
+        360001,
+        387697,
+        415393,
+        443089,
+        470785,
+        498481,
+        526178,
+        553826,
+        581522,
+        609218,
+        636914,
+        664610,
+        692306,
+        720002,
+        747698,
+        775395,
+        803091,
+        830787,
+        858483,
+        886179,
+        913827,
+        941523,
+        969219,
+        996915,
+        1024612,
+        1052308,
+        1080004,
+        1107700,
+        1135396,
+        1163092,
+        1190788,
+        1218484,
+        1246180,
+        1273829,
+        1301525,
+        1329221,
+        1356917,
+        1384613,
+        1412309,
+        1440005,
+        1467701,
+        1495397
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 214,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BandmasterKids/BandmasterKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "48417034c5ea0daa0a0c126460cdc803",
+      "storageType": 0,
+      "url": "/public/map/BandmasterKids/nx/BandmasterKids_MAIN_SCENE_NX.zip/48417034c5ea0daa0a0c126460cdc803.zip"
+    },
+    "pc": {
+      "md5": "f2662e965c231018743f9b481b760de1",
+      "storageType": 0,
+      "url": "/public/map/BandmasterKids/pc/BandmasterKids_MAIN_SCENE_PC.zip/f2662e965c231018743f9b481b760de1.zip"
+    },
+    "ps4": {
+      "md5": "ab08c2368a862e189807fb27422b7cda",
+      "storageType": 0,
+      "url": "/public/map/BandmasterKids/orbis/BandmasterKids_MAIN_SCENE_ORBIS.zip/ab08c2368a862e189807fb27422b7cda.zip"
+    }
+  },
+  "data": {
+    "mapName": "BandmasterKids",
+    "title": "The Frog Concert",
+    "originalJDVersion": 2020,
+    "tags": [
+      "main",
+      "kidsonly"
+    ],
+    "artist": "Groove Century",
+    "credits": "Composed by Steve Ouimette. Published by Ubisoft Music. Performed by Steve Ouimette and Cat Gray. Vocals by Becky Martin (Opera Singer), Steve Ouimette, Rick Allen and Tim Davis (frogs). Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#1c0675",
+    "songColor2A": "#38c648",
+    "songColor1B": "#631aa9",
+    "songColor2B": "#820248",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BandmasterKids/nx/BandmasterKids_banner_bkg.tga.ckd/831e72d85bc97cfdb5667d99f3c1a93c.ckd",
+      "map_bkgImageUrl": "/public/map/BandmasterKids/nx/BandmasterKids_map_bkg.tga.ckd/08b00250f09b31731e828a6688f75b82.ckd",
+      "expandCoachImageUrl": "/public/map/BandmasterKids/nx/BandmasterKids_Cover_AlbumCoach.tga.ckd/e4672b9ced449ad12607f7f924e19526.ckd",
+      "cover_smallImageUrl": "/public/map/BandmasterKids/nx/BandmasterKids_Cover_Online.tga.ckd/cca0738fc311b92c1ed795c5e196e54a.ckd",
+      "coverImageUrl": "/public/map/BandmasterKids/nx/BandmasterKids_Cover_Generic.tga.ckd/c68b9f9a39cb636b4ada6bf9df7ef19d.ckd",
+      "coach1ImageUrl": "/public/map/BandmasterKids/nx/BandmasterKids_Coach_1.tga.ckd/9331cec1dfb038988296dc20c83e8343.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BandmasterKids/pc/BandmasterKids_banner_bkg.tga.ckd/16f7cd01be2561ead437a90e2a9b6e71.ckd",
+      "map_bkgImageUrl": "/public/map/BandmasterKids/pc/BandmasterKids_map_bkg.tga.ckd/6f9c700a9db3d46161e41b23fea747ec.ckd",
+      "expandCoachImageUrl": "/public/map/BandmasterKids/pc/BandmasterKids_Cover_AlbumCoach.tga.ckd/ee8d585b86015c3a889d603b1a292cfa.ckd",
+      "cover_smallImageUrl": "/public/map/BandmasterKids/pc/BandmasterKids_Cover_Online.tga.ckd/0f9b71850d9f2b9cfde7e0f0b58a61b2.ckd",
+      "coverImageUrl": "/public/map/BandmasterKids/pc/BandmasterKids_Cover_Generic.tga.ckd/b16919efe5932ab78925222a31742cb2.ckd",
+      "coach1ImageUrl": "/public/map/BandmasterKids/pc/BandmasterKids_Coach_1.tga.ckd/5e998c4e261434afafe3685a20e2dba8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BandmasterKids/orbis/BandmasterKids_banner_bkg.tga.ckd/16f7cd01be2561ead437a90e2a9b6e71.ckd",
+      "map_bkgImageUrl": "/public/map/BandmasterKids/orbis/BandmasterKids_map_bkg.tga.ckd/6f9c700a9db3d46161e41b23fea747ec.ckd",
+      "expandCoachImageUrl": "/public/map/BandmasterKids/orbis/BandmasterKids_Cover_AlbumCoach.tga.ckd/ee8d585b86015c3a889d603b1a292cfa.ckd",
+      "cover_smallImageUrl": "/public/map/BandmasterKids/orbis/BandmasterKids_Cover_Online.tga.ckd/0f9b71850d9f2b9cfde7e0f0b58a61b2.ckd",
+      "coverImageUrl": "/public/map/BandmasterKids/orbis/BandmasterKids_Cover_Generic.tga.ckd/b16919efe5932ab78925222a31742cb2.ckd",
+      "coach1ImageUrl": "/public/map/BandmasterKids/orbis/BandmasterKids_Coach_1.tga.ckd/5e998c4e261434afafe3685a20e2dba8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BandmasterKids/BandmasterKids_Coach_1_Phone.png/df184cbba51167a402684e3af18b0594.png",
+    "phoneCoverImageUrl": "/public/map/BandmasterKids/BandmasterKids_Cover_Phone.jpg/2425ad01b7d146c09e3f62842348c3e8.jpg",
+    "cover640ImageUrl": "/public/map/BandmasterKids/BandmasterKids_Cover_640.png/1b7c8c3a9924c128487ec30022222192.png"
+  },
+  "mapLength": 127.501
+}

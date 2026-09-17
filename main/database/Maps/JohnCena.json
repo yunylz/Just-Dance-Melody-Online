@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e56f7287f4765dd633cbebb135280895",
+      "storageType": 0,
+      "url": "/public/map/JohnCena/nx/JohnCena_MAIN_SCENE_NX.zip/e56f7287f4765dd633cbebb135280895.zip"
+    },
+    "pc": {
+      "md5": "b7632a3c1998bd32a07955f59afc93c7",
+      "storageType": 0,
+      "url": "/public/map/JohnCena/pc/JohnCena_MAIN_SCENE_PC.zip/b7632a3c1998bd32a07955f59afc93c7.zip"
+    },
+    "ps4": {
+      "md5": "8fba856a9ad59c9a548473f2ab5a8942",
+      "storageType": 0,
+      "url": "/public/map/JohnCena/orbis/JohnCena_MAIN_SCENE_ORBIS.zip/8fba856a9ad59c9a548473f2ab5a8942.zip"
+    }
+  },
+  "data": {
+    "mapName": "JohnCena",
+    "title": "John Cena",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sho Madjozi",
+    "credits": "Written by Maya Wegerif and Thabo Moagi. Published by Black Cinderella Publishing/SonyATV. Courtesy of Black Cinderella Records.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#f602fc"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22677,
+        45354,
+        68031,
+        90709,
+        113386,
+        136063,
+        158740,
+        181417,
+        204094,
+        226772,
+        249449,
+        272126,
+        294803,
+        317480,
+        340157,
+        362835,
+        385512,
+        408189,
+        430866,
+        453543,
+        476220,
+        498898,
+        521575,
+        544252,
+        566929,
+        589606,
+        612283,
+        634961,
+        657638,
+        680315,
+        702992,
+        725669,
+        748346,
+        771024,
+        793701,
+        816378,
+        839055,
+        861732,
+        884409,
+        907087,
+        929764,
+        952441,
+        975118,
+        997795,
+        1020472,
+        1043150,
+        1065827,
+        1088504,
+        1111181,
+        1133858,
+        1156535,
+        1179213,
+        1201890,
+        1224567,
+        1247244,
+        1269921,
+        1292598,
+        1315276,
+        1337953,
+        1360630,
+        1383307,
+        1405984,
+        1428661,
+        1451339,
+        1474016
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 385,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JohnCena/JohnCena_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JohnCena/nx/JohnCena_banner_bkg.tga.ckd/c9ac9a35f45f09331438cbe8fb271e4d.ckd",
+      "map_bkgImageUrl": "/public/map/JohnCena/nx/JohnCena_map_bkg.tga.ckd/d6859296960758604d0a1d2ad0a9c807.ckd",
+      "expandCoachImageUrl": "/public/map/JohnCena/nx/JohnCena_Cover_AlbumCoach.tga.ckd/d466572f7511870da08083ccc8426ba3.ckd",
+      "cover_smallImageUrl": "/public/map/JohnCena/nx/JohnCena_Cover_Online.tga.ckd/ad78d37f0219e6b5d3b2a4edb87e9fbe.ckd",
+      "coach1ImageUrl": "/public/map/JohnCena/nx/JohnCena_Coach_1.tga.ckd/967cc5fbe4f4fff6742465083c3d511e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JohnCena/pc/JohnCena_banner_bkg.tga.ckd/eb08abcb13cdaae34c09c6d432fd3771.ckd",
+      "map_bkgImageUrl": "/public/map/JohnCena/pc/JohnCena_map_bkg.tga.ckd/1a1725e37f91eabb1a9828e07c7efc6f.ckd",
+      "expandCoachImageUrl": "/public/map/JohnCena/pc/JohnCena_Cover_AlbumCoach.tga.ckd/4a7b2879389d32a48b84f438efca700e.ckd",
+      "cover_smallImageUrl": "/public/map/JohnCena/pc/JohnCena_Cover_Online.tga.ckd/6c28134064e4da05d5b9142d37762751.ckd",
+      "coach1ImageUrl": "/public/map/JohnCena/pc/JohnCena_Coach_1.tga.ckd/91a06d53756c98b429304bef56a3d0d3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JohnCena/orbis/JohnCena_banner_bkg.tga.ckd/eb08abcb13cdaae34c09c6d432fd3771.ckd",
+      "map_bkgImageUrl": "/public/map/JohnCena/orbis/JohnCena_map_bkg.tga.ckd/1a1725e37f91eabb1a9828e07c7efc6f.ckd",
+      "expandCoachImageUrl": "/public/map/JohnCena/orbis/JohnCena_Cover_AlbumCoach.tga.ckd/4a7b2879389d32a48b84f438efca700e.ckd",
+      "cover_smallImageUrl": "/public/map/JohnCena/orbis/JohnCena_Cover_Online.tga.ckd/6c28134064e4da05d5b9142d37762751.ckd",
+      "coach1ImageUrl": "/public/map/JohnCena/orbis/JohnCena_Coach_1.tga.ckd/91a06d53756c98b429304bef56a3d0d3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JohnCena/JohnCena_Coach_1_Phone.png/de1cc464c3394024ae938d9832408b6b.png",
+    "phoneCoverImageUrl": "/public/map/JohnCena/JohnCena_Cover_Phone.jpg/2f78d69afb59c98b22c2940da6f008e3.jpg",
+    "cover640ImageUrl": "/public/map/JohnCena/JohnCena_Cover_640.png/1cfec5a2e2ddf477224fcdfa1740f220.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JohnCena/JohnCena.ogg": "/private/map/JohnCena/JohnCena.ogg/3efa76e4d66e87d1c359154bd014c66f.ogg",
+    "jmcs://jd-contents/JohnCena/JohnCena_AudioPreview.ogg": "/public/map/JohnCena/JohnCena_AudioPreview.ogg/78d0ccc0849ee66a9c978e00446c91b4.ogg",
+    "jmcs://jd-contents/JohnCena/JohnCena_HIGH.webm": "/private/map/JohnCena/JohnCena_HIGH.webm/8ae506c6788f6f1f48235eda20e027e5.webm",
+    "jmcs://jd-contents/JohnCena/JohnCena_LOW.webm": "/private/map/JohnCena/JohnCena_LOW.webm/94f059e07fd1d79d30c60872842d35d3.webm",
+    "jmcs://jd-contents/JohnCena/JohnCena_MID.webm": "/private/map/JohnCena/JohnCena_MID.webm/f78ac354a98cf5d8529f50a5ed278400.webm",
+    "jmcs://jd-contents/JohnCena/JohnCena_ULTRA.hd.webm": "/private/map/JohnCena/JohnCena_ULTRA.hd.webm/ec2adc62c7695e6779a4669ac081411f.webm",
+    "jmcs://jd-contents/JohnCena/JohnCena_ULTRA.webm": "/private/map/JohnCena/JohnCena_ULTRA.webm/0ebc875ad95e9e1585c461bc41a03cad.webm",
+    "jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JohnCena/JohnCena_MapPreviewNoSoundCrop_LOW.vp8.webm/575568f1acec76e5b1902456df750328.webm",
+    "jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JohnCena/JohnCena_MapPreviewNoSoundCrop_MID.vp8.webm/b1dd18985e9391f4d07bcf140ba8fe7b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"498325\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"612-1101\">\n\t\t\t\t\t<Initialization range=\"0-612\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483762\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JohnCena/JohnCena_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\n\t\t\t\t\t<Initialization range=\"0-613\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 184.251958
+}

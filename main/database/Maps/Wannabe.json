@@ -1,0 +1,162 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f4c8c66d6247d094eb689407bac35585",
+      "storageType": 0,
+      "url": "/public/map/Wannabe/nx/Wannabe_MAIN_SCENE_NX.zip/f4c8c66d6247d094eb689407bac35585.zip"
+    },
+    "pc": {
+      "md5": "184086864ba0ef041601fc1a4e6e927d",
+      "storageType": 0,
+      "url": "/public/map/Wannabe/pc/Wannabe_MAIN_SCENE_PC.zip/184086864ba0ef041601fc1a4e6e927d.zip"
+    },
+    "ps4": {
+      "md5": "24e3ebf98cffeeb125690363bc180ef1",
+      "storageType": 0,
+      "url": "/public/map/Wannabe/orbis/Wannabe_MAIN_SCENE_ORBIS.zip/24e3ebf98cffeeb125690363bc180ef1.zip"
+    }
+  },
+  "data": {
+    "mapName": "Wannabe",
+    "title": "Wannabe",
+    "originalJDVersion": 1,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Spice Girls",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#3F04FF",
+    "songColor2A": "#18C48E",
+    "songColor1B": "#010005",
+    "songColor2B": "#020921",
+    "lyricsColor": "#6DCBD3",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26160,
+        52320,
+        78528,
+        104688,
+        130896,
+        157056,
+        183264,
+        209424,
+        235584,
+        261792,
+        287952,
+        314160,
+        340320,
+        366528,
+        392688,
+        418896,
+        445056,
+        471216,
+        497424,
+        523584,
+        549792,
+        575952,
+        602160,
+        628320,
+        654480,
+        680688,
+        706848,
+        733056,
+        759216,
+        785424,
+        811584,
+        837792,
+        863952,
+        890112,
+        916320,
+        942480,
+        968688,
+        994848,
+        1021056,
+        1047216,
+        1073376,
+        1099584,
+        1125744,
+        1151952,
+        1178112,
+        1204320,
+        1230480,
+        1256688,
+        1282848,
+        1309008,
+        1335216,
+        1361376,
+        1387584,
+        1413744,
+        1439952
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 317,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Wannabe/Wannabe_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Wannabe/nx/Wannabe_banner_bkg.tga.ckd/a470a420c854be2148cc9a49b3031425.ckd",
+      "map_bkgImageUrl": "/public/map/Wannabe/nx/Wannabe_map_bkg.tga.ckd/4048c599c5d7dfe566f6386190bfd3fb.ckd",
+      "expandCoachImageUrl": "/public/map/Wannabe/nx/Wannabe_Cover_AlbumCoach.tga.ckd/b3ccecb802d16ee2ac493940c57b205d.ckd",
+      "cover_smallImageUrl": "/public/map/Wannabe/nx/Wannabe_Cover_Online.tga.ckd/d7a25fc91cef5e677b61b88bad9e599b.ckd",
+      "coverImageUrl": "/public/map/Wannabe/nx/Wannabe_Cover_Generic.tga.ckd/2d2414aef49104f8a12f95d609bd1a30.ckd",
+      "coach1ImageUrl": "/public/map/Wannabe/nx/Wannabe_Coach_1.tga.ckd/6cabfd888d1f3c7fb1ee174939e63909.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Wannabe/pc/Wannabe_banner_bkg.tga.ckd/5cc82f36f27b191453263da04361b5e6.ckd",
+      "map_bkgImageUrl": "/public/map/Wannabe/pc/Wannabe_map_bkg.tga.ckd/777174ba74bf35baf3f2a1d182b294c3.ckd",
+      "expandCoachImageUrl": "/public/map/Wannabe/pc/Wannabe_Cover_AlbumCoach.tga.ckd/761558afede18248501a961415956828.ckd",
+      "cover_smallImageUrl": "/public/map/Wannabe/pc/Wannabe_Cover_Online.tga.ckd/253aa53977608466c090d7f31db19445.ckd",
+      "coverImageUrl": "/public/map/Wannabe/pc/Wannabe_Cover_Generic.tga.ckd/9111d2db011d96b5743285647a82e4a8.ckd",
+      "coach1ImageUrl": "/public/map/Wannabe/pc/Wannabe_Coach_1.tga.ckd/4e7031e78509d5db1082bd8d0310e782.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Wannabe/orbis/Wannabe_banner_bkg.tga.ckd/5cc82f36f27b191453263da04361b5e6.ckd",
+      "map_bkgImageUrl": "/public/map/Wannabe/orbis/Wannabe_map_bkg.tga.ckd/777174ba74bf35baf3f2a1d182b294c3.ckd",
+      "expandCoachImageUrl": "/public/map/Wannabe/orbis/Wannabe_Cover_AlbumCoach.tga.ckd/761558afede18248501a961415956828.ckd",
+      "cover_smallImageUrl": "/public/map/Wannabe/orbis/Wannabe_Cover_Online.tga.ckd/253aa53977608466c090d7f31db19445.ckd",
+      "coverImageUrl": "/public/map/Wannabe/orbis/Wannabe_Cover_Generic.tga.ckd/9111d2db011d96b5743285647a82e4a8.ckd",
+      "coach1ImageUrl": "/public/map/Wannabe/orbis/Wannabe_Coach_1.tga.ckd/4e7031e78509d5db1082bd8d0310e782.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Wannabe/Wannabe_Coach_1_Phone.png/18e4a05c69a97a62967af4412e81eeb6.png",
+    "phoneCoverImageUrl": "/public/map/Wannabe/Wannabe_Cover_Phone.jpg/48c147c62204d160d913e81c01bdf779.jpg",
+    "cover640ImageUrl": "/public/map/Wannabe/Wannabe_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Wannabe/Wannabe.ogg": "/private/map/Wannabe/Wannabe.ogg/1525fc51ce293132693220864bdfeddc.ogg",
+    "jmcs://jd-contents/Wannabe/Wannabe_AudioPreview.ogg": "/public/map/Wannabe/Wannabe_AudioPreview.ogg/49e6be52b770c150e0af3e151dcd7757.ogg",
+    "jmcs://jd-contents/Wannabe/Wannabe_HIGH.webm": "/private/map/Wannabe/Wannabe_HIGH.webm/705f7d8937c839046de9c616941022ad.webm",
+    "jmcs://jd-contents/Wannabe/Wannabe_LOW.webm": "/private/map/Wannabe/Wannabe_LOW.webm/181ceac5f5735c5f2414bdfcde99425b.webm",
+    "jmcs://jd-contents/Wannabe/Wannabe_MID.webm": "/private/map/Wannabe/Wannabe_MID.webm/e9f6db3613a8dc01cfcf52670b4a0c51.webm",
+    "jmcs://jd-contents/Wannabe/Wannabe_ULTRA.hd.webm": "/private/map/Wannabe/Wannabe_ULTRA.hd.webm/dfab911d89e14846fe56f89a5edf285b.webm",
+    "jmcs://jd-contents/Wannabe/Wannabe_ULTRA.webm": "/private/map/Wannabe/Wannabe_ULTRA.webm/9859db425fa84e0ab8dfe34389e7210c.webm",
+    "jmcs://jd-contents/Wannabe/Wannabe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Wannabe/Wannabe_MapPreviewNoSoundCrop_LOW.vp8.webm/f613d58478b4aa33124dc6e12443346c.webm",
+    "jmcs://jd-contents/Wannabe/Wannabe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Wannabe/Wannabe_MapPreviewNoSoundCrop_MID.vp8.webm/16db716f85cb4ca0c4d49a101f97d74a.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500881\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Wannabe/Wannabe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\n\t\t\t\t\t<Initialization range=\"0-599\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484172\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Wannabe/Wannabe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"600-1090\">\n\t\t\t\t\t<Initialization range=\"0-600\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 172.486854
+}

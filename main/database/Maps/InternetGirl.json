@@ -1,0 +1,163 @@
+{
+  "urls": {
+    "jmcs://jd-contents/InternetGirl/InternetGirl.ogg": "/private/map/InternetGirl/InternetGirl.ogg/72037d8f8179158e1013edcb956745e6.ogg",
+    "jmcs://jd-contents/InternetGirl/InternetGirl_AudioPreview.ogg": "/public/map/InternetGirl/InternetGirl_AudioPreview.ogg/669b4b9185e21b8d51a82bf5b2a342a5.ogg",
+    "jmcs://jd-contents/InternetGirl/InternetGirl_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/InternetGirl/InternetGirl_MapPreviewNoSoundCrop_LOW.vp8.webm/e7313b84e0bf926feed589745127b59b.webm",
+    "jmcs://jd-contents/InternetGirl/InternetGirl_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/InternetGirl/InternetGirl_MapPreviewNoSoundCrop_MID.vp8.webm/d9cc783017f6a52549501cbb5c3fc46f.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        503999,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        983999,
+        1007999,
+        1031999,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 25,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/InternetGirl/InternetGirl_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "2d39d28f7e0d1b0aa847ae771a6ccc95",
+      "storageType": 0,
+      "url": "/public/map/InternetGirl/nx/InternetGirl_MAIN_SCENE_NX.zip/2d39d28f7e0d1b0aa847ae771a6ccc95.zip"
+    },
+    "ps4": {
+      "md5": "be0aaf14f87ce35ef68ac73d76c361b3",
+      "storageType": 0,
+      "url": "/public/map/InternetGirl/orbis/InternetGirl_MAIN_SCENE_ORBIS.zip/be0aaf14f87ce35ef68ac73d76c361b3.zip"
+    },
+    "pc": {
+      "md5": "cfcc105e4ee6ee81512b3e6a9406cd7f",
+      "storageType": 0,
+      "url": "/public/map/InternetGirl/pc/InternetGirl_MAIN_SCENE_PC.zip/cfcc105e4ee6ee81512b3e6a9406cd7f.zip"
+    }
+  },
+  "data": {
+    "mapName": "InternetGirl",
+    "title": "Gnarly",
+    "originalJDVersion": 3000,
+    "tags": [
+      "main"
+    ],
+    "artist": "KATSEYE",
+    "credits": "happy april fools :D",
+    "coachCount": 4,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/InternetGirl/nx/InternetGirl_banner_bkg.tga.ckd/9d2f6ee4a0257863582b2d794688316b.ckd",
+      "map_bkgImageUrl": "/public/map/InternetGirl/nx/InternetGirl_map_bkg.tga.ckd/3a4c50029e0932ed0e9c6a7b7055049e.ckd",
+      "expandCoachImageUrl": "/public/map/InternetGirl/nx/InternetGirl_Cover_AlbumCoach.tga.ckd/57e3689cac4bf5d157286c635f3975ec.ckd",
+      "cover_smallImageUrl": "/public/map/InternetGirl/nx/InternetGirl_Cover_Online.tga.ckd/ac27f6e0304ff0b001ffc6773788fbfd.ckd",
+      "coverImageUrl": "/public/map/InternetGirl/nx/InternetGirl_Cover_Generic.tga.ckd/ac27f6e0304ff0b001ffc6773788fbfd.ckd",
+      "coach1ImageUrl": "/public/map/InternetGirl/nx/InternetGirl_Coach_1.tga.ckd/39a1ac19e99c17f701320ff89d556db3.ckd",
+      "coach2ImageUrl": "/public/map/InternetGirl/nx/InternetGirl_Coach_2.tga.ckd/39a1ac19e99c17f701320ff89d556db3.ckd",
+      "coach3ImageUrl": "/public/map/InternetGirl/nx/InternetGirl_Coach_3.tga.ckd/39a1ac19e99c17f701320ff89d556db3.ckd",
+      "coach4ImageUrl": "/public/map/InternetGirl/nx/InternetGirl_Coach_4.tga.ckd/39a1ac19e99c17f701320ff89d556db3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/InternetGirl/orbis/InternetGirl_banner_bkg.tga.ckd/d05d15fe7779144024b10df632e9414b.ckd",
+      "map_bkgImageUrl": "/public/map/InternetGirl/orbis/InternetGirl_map_bkg.tga.ckd/49c9ab047e53db3973c9444cabd4acdd.ckd",
+      "expandCoachImageUrl": "/public/map/InternetGirl/orbis/InternetGirl_Cover_AlbumCoach.tga.ckd/f2da194485fd8bada8559d3b3cc1483c.ckd",
+      "cover_smallImageUrl": "/public/map/InternetGirl/orbis/InternetGirl_Cover_Online.tga.ckd/647bf89b958c600c47a1e0c163c23b24.ckd",
+      "coverImageUrl": "/public/map/InternetGirl/orbis/InternetGirl_Cover_Generic.tga.ckd/647bf89b958c600c47a1e0c163c23b24.ckd",
+      "coach1ImageUrl": "/public/map/InternetGirl/orbis/InternetGirl_Coach_1.tga.ckd/5dadb88a0f4478ed0df21ba77749dd6a.ckd",
+      "coach2ImageUrl": "/public/map/InternetGirl/orbis/InternetGirl_Coach_2.tga.ckd/5dadb88a0f4478ed0df21ba77749dd6a.ckd",
+      "coach3ImageUrl": "/public/map/InternetGirl/orbis/InternetGirl_Coach_3.tga.ckd/5dadb88a0f4478ed0df21ba77749dd6a.ckd",
+      "coach4ImageUrl": "/public/map/InternetGirl/orbis/InternetGirl_Coach_4.tga.ckd/5dadb88a0f4478ed0df21ba77749dd6a.ckd"
+    }
+  }
+}

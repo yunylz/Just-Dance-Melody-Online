@@ -1,0 +1,160 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9dc76a7fd4da4676cfc986f90fe86149",
+      "storageType": 0,
+      "url": "/public/map/ABBAPromNight/nx/ABBAPromNight_MAIN_SCENE_NX.zip/9dc76a7fd4da4676cfc986f90fe86149.zip"
+    },
+    "pc": {
+      "md5": "fc2ee00fd0d906657af70e41df2a9478",
+      "storageType": 0,
+      "url": "/public/map/ABBAPromNight/pc/ABBAPromNight_MAIN_SCENE_PC.zip/fc2ee00fd0d906657af70e41df2a9478.zip"
+    },
+    "ps4": {
+      "md5": "8dee2e03805883e48c98fa6474a7a3b7",
+      "storageType": 0,
+      "url": "/public/map/ABBAPromNight/orbis/ABBAPromNight_MAIN_SCENE_ORBIS.zip/8dee2e03805883e48c98fa6474a7a3b7.zip"
+    }
+  },
+  "data": {
+    "mapName": "ABBAPromNight",
+    "title": "Dancing Queen",
+    "originalJDVersion": 4884,
+    "tags": [
+      "subscribedSong",
+      "Solo"
+    ],
+    "artist": "ABBA",
+    "credits": "Empty Credits",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#feb500",
+    "songColor2A": "#fec800",
+    "songColor1B": "#333333",
+    "songColor2B": "#cd4f00",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 20003377
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        110688,
+        139296,
+        167904,
+        196560,
+        224640,
+        253824,
+        283248,
+        311856,
+        340944,
+        369984,
+        399168,
+        428064,
+        455904,
+        485136,
+        513024,
+        542064,
+        570576,
+        599328,
+        628080,
+        656976,
+        685200,
+        714144,
+        742368,
+        770928,
+        799632,
+        828240,
+        857664,
+        886272,
+        914208,
+        942816,
+        971280,
+        1000800,
+        1028880,
+        1057488,
+        1086624,
+        1115568,
+        1143360,
+        1172352,
+        1200240,
+        1229568,
+        1257600,
+        1286928,
+        1315248,
+        1343952,
+        1372416,
+        1400736,
+        1429200,
+        1458624,
+        1486224
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 388,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ABBAPromNight/ABBAPromNight_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ABBAPromNight/nx/ABBAPromNight_banner_bkg.tga.ckd/7a90926e2b8b71e3cb41249822b2bff3.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAPromNight/nx/ABBAPromNight_map_bkg.tga.ckd/eb1f2838f8f18028b2efcb3e34f8a44a.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAPromNight/nx/ABBAPromNight_Cover_AlbumCoach.tga.ckd/2bec764176f9dc315e8d7de80e7f6f8b.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAPromNight/nx/ABBAPromNight_Cover_Online.tga.ckd/41af104fc3aa84d45d92a4e44c9a1a50.ckd",
+      "coach1ImageUrl": "/public/map/ABBAPromNight/nx/ABBAPromNight_Coach_1.tga.ckd/1e6c66d9735b34eda7ed2bca6d5b23e8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ABBAPromNight/pc/ABBAPromNight_banner_bkg.tga.ckd/853073a8a5c38c201081f2f0881e36b6.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAPromNight/pc/ABBAPromNight_map_bkg.tga.ckd/c5a6dbdd20adc3fd8d0e59c05e20f80f.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAPromNight/pc/ABBAPromNight_Cover_AlbumCoach.tga.ckd/4439e8ae3fdfd03eaa2214ae43674c4d.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAPromNight/pc/ABBAPromNight_Cover_Online.tga.ckd/e9b43844c0576c24f999495c506ff95e.ckd",
+      "coach1ImageUrl": "/public/map/ABBAPromNight/pc/ABBAPromNight_Coach_1.tga.ckd/45b1a8a557bd8ed2335be62568608909.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ABBAPromNight/orbis/ABBAPromNight_banner_bkg.tga.ckd/853073a8a5c38c201081f2f0881e36b6.ckd",
+      "map_bkgImageUrl": "/public/map/ABBAPromNight/orbis/ABBAPromNight_map_bkg.tga.ckd/c5a6dbdd20adc3fd8d0e59c05e20f80f.ckd",
+      "expandCoachImageUrl": "/public/map/ABBAPromNight/orbis/ABBAPromNight_Cover_AlbumCoach.tga.ckd/4439e8ae3fdfd03eaa2214ae43674c4d.ckd",
+      "cover_smallImageUrl": "/public/map/ABBAPromNight/orbis/ABBAPromNight_Cover_Online.tga.ckd/e9b43844c0576c24f999495c506ff95e.ckd",
+      "coach1ImageUrl": "/public/map/ABBAPromNight/orbis/ABBAPromNight_Coach_1.tga.ckd/45b1a8a557bd8ed2335be62568608909.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ABBAPromNight/ABBAPromNight_Coach_1_Phone.png/fd032b00651fe8cdab12a1028d221cdc.png",
+    "phoneCoverImageUrl": "/public/map/ABBAPromNight/ABBAPromNight_Cover_Phone.jpg/a5b047ea5a475a5ec817d6ba6a00593d.jpg",
+    "cover640ImageUrl": "/public/map/ABBAPromNight/ABBAPromNight_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ABBAPromNight/ABBAPromNight.ogg": "/private/map/ABBAPromNight/ABBAPromNight.ogg/8b54a496cff244d3d829db2a183ee433.ogg",
+    "jmcs://jd-contents/ABBAPromNight/ABBAPromNight_AudioPreview.ogg": "/public/map/ABBAPromNight/ABBAPromNight_AudioPreview.ogg/de8a802985c292b9b03c668d773d0767.ogg",
+    "jmcs://jd-contents/ABBAPromNight/ABBAPromNight_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ABBAPromNight/ABBAPromNight_MapPreviewNoSoundCrop_LOW.vp8.webm/a0f49b1a86a7e5009d6e758a7f3bb2b6.webm",
+    "jmcs://jd-contents/ABBAPromNight/ABBAPromNight_HIGH.webm": "/private/map/ABBAPromNight/ABBAPromNight_HIGH.webm/f5669fe62797f3c344f583acc968672d.webm",
+    "jmcs://jd-contents/ABBAPromNight/ABBAPromNight_LOW.webm": "/private/map/ABBAPromNight/ABBAPromNight_LOW.webm/aa673e27cb8ed236c58d6263412b2221.webm",
+    "jmcs://jd-contents/ABBAPromNight/ABBAPromNight_MID.webm": "/private/map/ABBAPromNight/ABBAPromNight_MID.webm/c619cc5c4397013a2e3e247cd387c48c.webm",
+    "jmcs://jd-contents/ABBAPromNight/ABBAPromNight_ULTRA.hd.webm": "/private/map/ABBAPromNight/ABBAPromNight_ULTRA.hd.webm/0b99d2262923b873104555dcb04b6c93.webm",
+    "jmcs://jd-contents/ABBAPromNight/ABBAPromNight_ULTRA.webm": "/private/map/ABBAPromNight/ABBAPromNight_ULTRA.webm/e6509d51d88f3b0ddc6e2f4c782bac58.webm",
+    "jmcs://jd-contents/ABBAPromNight/ABBAPromNight_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ABBAPromNight/ABBAPromNight_MapPreviewNoSoundCrop_MID.vp8.webm/3bb7b608526fe31b60765b61a081bffc.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"773463\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAPromNight/ABBAPromNight_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-836\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2318388\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBAPromNight/ABBAPromNight_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-836\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 233.429333
+}

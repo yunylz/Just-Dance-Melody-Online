@@ -1,0 +1,156 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ChandelierALT/ChandelierALT.ogg": "/private/map/ChandelierALT/ChandelierALT.ogg/761b92d5ccb274f72a9d9be7accdf97f.ogg",
+    "jmcs://jd-contents/ChandelierALT/ChandelierALT_AudioPreview.ogg": "/public/map/ChandelierALT/ChandelierALT_AudioPreview.ogg/cd1297234e43beda97fc078ff83c2e19.ogg",
+    "jmcs://jd-contents/ChandelierALT/ChandelierALT_HIGH.hd.webm": "/private/map/ChandelierALT/ChandelierALT_HIGH.hd.webm/51d2f87c5d7a1840dfe8e34ad722b240.webm",
+    "jmcs://jd-contents/ChandelierALT/ChandelierALT_LOW.hd.webm": "/private/map/ChandelierALT/ChandelierALT_LOW.hd.webm/2a2ebe67a54cdd859bed29c8079afaea.webm",
+    "jmcs://jd-contents/ChandelierALT/ChandelierALT_MID.hd.webm": "/private/map/ChandelierALT/ChandelierALT_MID.hd.webm/7827341bf41d84082d11549986cddd9e.webm",
+    "jmcs://jd-contents/ChandelierALT/ChandelierALT_ULTRA.hd.webm": "/private/map/ChandelierALT/ChandelierALT_ULTRA.hd.webm/13194051698df98a93b96f849886e381.webm",
+    "jmcs://jd-contents/ChandelierALT/ChandelierALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ChandelierALT/ChandelierALT_MapPreviewNoSoundCrop_LOW.vp8.webm/fb51c7148e7c34a5ef3c31ebc5f38f0e.webm",
+    "jmcs://jd-contents/ChandelierALT/ChandelierALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ChandelierALT/ChandelierALT_MapPreviewNoSoundCrop_MID.vp8.webm/1e9e3546a654192a4f2452c7f75a1d28.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33103,
+        66207,
+        99310,
+        132414,
+        165517,
+        198621,
+        231724,
+        264828,
+        297931,
+        331034,
+        364138,
+        397241,
+        430345,
+        463448,
+        496552,
+        529655,
+        562759,
+        595862,
+        628966,
+        662069,
+        695172,
+        728276,
+        761379,
+        794483,
+        827586,
+        860690,
+        893793,
+        926897,
+        960000,
+        993103,
+        1026207,
+        1059310,
+        1092414,
+        1125517,
+        1158621,
+        1191724,
+        1224828,
+        1257931,
+        1291034,
+        1324138,
+        1357241,
+        1390345,
+        1423448,
+        1456552,
+        1489655
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 309,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 43,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ChandelierALT/ChandelierALT_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "f40df1c70fa2fbb32a4d19127c6634a7",
+      "storageType": 0,
+      "url": "/public/map/ChandelierALT/nx/ChandelierALT_MAIN_SCENE_NX.zip/f40df1c70fa2fbb32a4d19127c6634a7.zip"
+    },
+    "pc": {
+      "md5": "e06ce74616f77ffe5732edddb29d960e",
+      "storageType": 0,
+      "url": "/public/map/ChandelierALT/pc/ChandelierALT_MAIN_SCENE_PC.zip/e06ce74616f77ffe5732edddb29d960e.zip"
+    },
+    "ps4": {
+      "md5": "2db373b3b02a92b13098b2e228e633bd",
+      "storageType": 0,
+      "url": "/public/map/ChandelierALT/orbis/ChandelierALT_MAIN_SCENE_ORBIS.zip/2db373b3b02a92b13098b2e228e633bd.zip"
+    }
+  },
+  "data": {
+    "mapName": "ChandelierALT",
+    "title": "Chandelier",
+    "originalJDVersion": 2022,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "Sia",
+    "credits": "Written by Sia Furler and Jesse Shatkin. Published by EMI Music Publishing Ltd. (PRS) / Aidenjulius Music (ASCAP) / EMI April Music Inc. (ASCAP). All rights reserved. Used with permission. Courtesy of RCA Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#f5e10d",
+    "LocaleID": 20003352
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ChandelierALT/nx/ChandelierALT_banner_bkg.tga.ckd/85ae8b583a845c92c0db6ba7bfa6b540.ckd",
+      "map_bkgImageUrl": "/public/map/ChandelierALT/nx/ChandelierALT_map_bkg.tga.ckd/8c7036f4aba9fb72c2d4c0afc9198702.ckd",
+      "expandCoachImageUrl": "/public/map/ChandelierALT/nx/ChandelierALT_Cover_AlbumCoach.tga.ckd/548ae32e2a490408fa7c4c3fde9dab6c.ckd",
+      "cover_smallImageUrl": "/public/map/ChandelierALT/nx/ChandelierALT_Cover_Online.tga.ckd/96bebc6e3020f39837927973fd5f459b.ckd",
+      "coverImageUrl": "/public/map/ChandelierALT/nx/ChandelierALT_Cover_Generic.tga.ckd/b2046f55a077422c2081b3fb791f7aee.ckd",
+      "coach1ImageUrl": "/public/map/ChandelierALT/nx/ChandelierALT_Coach_1.tga.ckd/5f0f0d52563c82fca9752d6b6bccc47a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ChandelierALT/pc/ChandelierALT_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/ChandelierALT/pc/ChandelierALT_map_bkg.tga.ckd/b8083a260d115d8bf71e4d7c8de1a96f.ckd",
+      "expandCoachImageUrl": "/public/map/ChandelierALT/pc/ChandelierALT_Cover_AlbumCoach.tga.ckd/7f78eef1d1ce72f16e993fa05c3c77b0.ckd",
+      "cover_smallImageUrl": "/public/map/ChandelierALT/pc/ChandelierALT_Cover_Online.tga.ckd/d4e61466c1cda8415851260de7fd5836.ckd",
+      "coverImageUrl": "/public/map/ChandelierALT/pc/ChandelierALT_Cover_Generic.tga.ckd/29feec4dbbccded97249d70471455f58.ckd",
+      "coach1ImageUrl": "/public/map/ChandelierALT/pc/ChandelierALT_Coach_1.tga.ckd/5840e5a7b1e6b0ee200cfcc2b6d19110.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ChandelierALT/orbis/ChandelierALT_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/ChandelierALT/orbis/ChandelierALT_map_bkg.tga.ckd/b8083a260d115d8bf71e4d7c8de1a96f.ckd",
+      "expandCoachImageUrl": "/public/map/ChandelierALT/orbis/ChandelierALT_Cover_AlbumCoach.tga.ckd/7f78eef1d1ce72f16e993fa05c3c77b0.ckd",
+      "cover_smallImageUrl": "/public/map/ChandelierALT/orbis/ChandelierALT_Cover_Online.tga.ckd/d4e61466c1cda8415851260de7fd5836.ckd",
+      "coverImageUrl": "/public/map/ChandelierALT/orbis/ChandelierALT_Cover_Generic.tga.ckd/29feec4dbbccded97249d70471455f58.ckd",
+      "coach1ImageUrl": "/public/map/ChandelierALT/orbis/ChandelierALT_Coach_1.tga.ckd/5840e5a7b1e6b0ee200cfcc2b6d19110.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ChandelierALT/ChandelierALT_Coach_1_Phone.png/67bfebe718f6768d33d6ab037b3a09a5.png",
+    "phoneCoverImageUrl": "/public/map/ChandelierALT/ChandelierALT_Cover_Phone.jpg/069457acf9448cf220b68760a1118a13.jpg",
+    "cover640ImageUrl": "/public/map/ChandelierALT/ChandelierALT_Cover_640.png/8e4e992ee4475cb4223c5e1780ee8898.png"
+  },
+  "mapLength": 214.48275
+}

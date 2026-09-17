@@ -1,0 +1,177 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WildMU/WildMU.ogg": "/private/map/WildMU/WildMU.ogg/5050563e83d21f0f898eafe54f80036a.ogg",
+    "jmcs://jd-contents/WildMU/WildMU_AudioPreview.ogg": "/public/map/WildMU/WildMU_AudioPreview.ogg/96adaf1235d44c860fce78c6b42bed9a.ogg",
+    "jmcs://jd-contents/WildMU/WildMU_HIGH.hd.webm": "/private/map/WildMU/WildMU_HIGH.hd.webm/2811d8bd0a6be0cc6c7db216fbb4be34.webm",
+    "jmcs://jd-contents/WildMU/WildMU_LOW.hd.webm": "/private/map/WildMU/WildMU_LOW.hd.webm/2b48cea17e449239d9708078538cd6c6.webm",
+    "jmcs://jd-contents/WildMU/WildMU_MID.hd.webm": "/private/map/WildMU/WildMU_MID.hd.webm/c5e4b53520e9c95856d7eb39543cf3ac.webm",
+    "jmcs://jd-contents/WildMU/WildMU_ULTRA.hd.webm": "/private/map/WildMU/WildMU_ULTRA.hd.webm/5ff99553772362b1033bed7347005060.webm",
+    "jmcs://jd-contents/WildMU/WildMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WildMU/WildMU_MapPreviewNoSoundCrop_LOW.vp8.webm/d41fab001728f449c84c2c4cfdca17db.webm",
+    "jmcs://jd-contents/WildMU/WildMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WildMU/WildMU_MapPreviewNoSoundCrop_MID.vp8.webm/013ec01d18bd3e30bb088a01aa63c1cb.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22320,
+        44640,
+        66960,
+        89280,
+        111648,
+        133968,
+        156288,
+        178608,
+        200928,
+        223248,
+        245568,
+        267888,
+        290256,
+        312576,
+        334896,
+        357216,
+        379536,
+        401856,
+        424176,
+        446496,
+        468816,
+        491184,
+        513504,
+        535824,
+        558144,
+        580464,
+        602785,
+        625105,
+        647425,
+        669745,
+        692113,
+        714433,
+        736753,
+        759073,
+        781393,
+        803713,
+        826033,
+        848353,
+        870721,
+        893041,
+        915361,
+        937681,
+        960001,
+        982321,
+        1004641,
+        1026961,
+        1049281,
+        1071649,
+        1093969,
+        1116289,
+        1138609,
+        1160929,
+        1183250,
+        1205570,
+        1227890,
+        1250258,
+        1272578,
+        1294898,
+        1317218,
+        1339538,
+        1361858,
+        1384178,
+        1406498,
+        1428818,
+        1451186,
+        1473506
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 476,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WildMU/WildMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WildMU/nx/WildMU_banner_bkg.tga.ckd/f37232aa3ac63dfdb765f984960383ba.ckd",
+      "map_bkgImageUrl": "/public/map/WildMU/nx/WildMU_map_bkg.tga.ckd/f9dacc08a896db2ba259a7519aee841c.ckd",
+      "expandCoachImageUrl": "/public/map/WildMU/nx/WildMU_Cover_AlbumCoach.tga.ckd/b416134ae30369e7059787b520d212a8.ckd",
+      "cover_smallImageUrl": "/public/map/WildMU/nx/WildMU_Cover_Online.tga.ckd/d13a750a7591aaf0449e634d7a984629.ckd",
+      "coverImageUrl": "/public/map/WildMU/nx/WildMU_Cover_Generic.tga.ckd/7a9d5df2ed64dd5045a4c871c0d1cda8.ckd",
+      "coach1ImageUrl": "/public/map/WildMU/nx/WildMU_Coach_1.tga.ckd/b98a4eebe99f69e558077e8249cc4d2f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WildMU/pc/WildMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/WildMU/pc/WildMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/WildMU/pc/WildMU_Cover_AlbumCoach.tga.ckd/f333430e9b04ad1d9654d3e89d5878a7.ckd",
+      "cover_smallImageUrl": "/public/map/WildMU/pc/WildMU_Cover_Online.tga.ckd/6857838b5671165b33bbbd8da18d4183.ckd",
+      "coverImageUrl": "/public/map/WildMU/pc/WildMU_Cover_Generic.tga.ckd/82a999d686ccbca4c62c5138721994f6.ckd",
+      "coach1ImageUrl": "/public/map/WildMU/pc/WildMU_Coach_1.tga.ckd/4c5cab943a3a5e3112dbd4309f87e6bf.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WildMU/orbis/WildMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/WildMU/orbis/WildMU_map_bkg.tga.ckd/7054aaa8539eaade183ac91bc9cdb52e.ckd",
+      "expandCoachImageUrl": "/public/map/WildMU/orbis/WildMU_Cover_AlbumCoach.tga.ckd/f333430e9b04ad1d9654d3e89d5878a7.ckd",
+      "cover_smallImageUrl": "/public/map/WildMU/orbis/WildMU_Cover_Online.tga.ckd/6857838b5671165b33bbbd8da18d4183.ckd",
+      "coverImageUrl": "/public/map/WildMU/orbis/WildMU_Cover_Generic.tga.ckd/82a999d686ccbca4c62c5138721994f6.ckd",
+      "coach1ImageUrl": "/public/map/WildMU/orbis/WildMU_Coach_1.tga.ckd/4c5cab943a3a5e3112dbd4309f87e6bf.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WildMU/WildMU_Coach_1_Phone.png/aa271051140dda3a9c98bf7f08e5adc9.png",
+    "phoneCoverImageUrl": "/public/map/WildMU/WildMU_Cover_Phone.jpg/c6b559aff153be595b929296fcf3a7bd.jpg",
+    "cover640ImageUrl": "/public/map/WildMU/WildMU_Cover_640.png/b4b96fc440df4a0e17ce0a649cecdcb3.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "a47d5c264c58e2c1fcb47e4a3011822d",
+      "storageType": 0,
+      "url": "/public/map/WildMU/nx/WildMU_MAIN_SCENE_NX.zip/a47d5c264c58e2c1fcb47e4a3011822d.zip"
+    },
+    "pc": {
+      "md5": "8a0f2e2af857cee338356a04d1f7f619",
+      "storageType": 0,
+      "url": "/public/map/WildMU/pc/WildMU_MAIN_SCENE_PC.zip/8a0f2e2af857cee338356a04d1f7f619.zip"
+    },
+    "ps4": {
+      "md5": "d10c07bad19b074a99f73d1c50e5417a",
+      "storageType": 0,
+      "url": "/public/map/WildMU/orbis/WildMU_MAIN_SCENE_ORBIS.zip/d10c07bad19b074a99f73d1c50e5417a.zip"
+    }
+  },
+  "data": {
+    "mapName": "WildMU",
+    "title": "Wild",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Jessie J Ft. Big Sean",
+    "credits": "Written by Claude Kelly, Jessica Cornish, Joshua Emanuel Coleman, Dylan Kwabena Mills and Sean Anderson. Published by Prescription Songs LLC / Sony/ATV Music Publishing (UK) Ltd. c/o Sony/ATV Music Publishing Canada (SOCAN)/ ©2013 Warner-Tamerlane Publishing Corp. (BMI), Studio Beast Music (BMI). All rights on behalf of itself and Studio Beast Music administered by Warner-Tamerlane Publishing Corp. All rights reserved. Used With Permission. Courtesy of Universal Records/Lava Music under license from Universal Music Enterprises. Big Sean appears courtesy of The Island Def Jam Music Group. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#de396e",
+    "songColor2A": "#ff4981",
+    "songColor1B": "#3d0030",
+    "songColor2B": "#2f004f",
+    "lyricsColor": "#ff9504",
+    "LocaleID": 8605
+  },
+  "mapLength": 221.395375
+}

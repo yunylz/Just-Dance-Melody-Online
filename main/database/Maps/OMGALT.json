@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "82ae340c5f5b6fc13bb8cf8621a924cf",
+      "storageType": 0,
+      "url": "/public/map/OMGALT/nx/OMGALT_MAIN_SCENE_NX.zip/82ae340c5f5b6fc13bb8cf8621a924cf.zip"
+    },
+    "pc": {
+      "md5": "26cca5f56412aa9a1bb474c948321fbe",
+      "storageType": 0,
+      "url": "/public/map/OMGALT/pc/OMGALT_MAIN_SCENE_PC.zip/26cca5f56412aa9a1bb474c948321fbe.zip"
+    },
+    "ps4": {
+      "md5": "7ed0ee768b43990c3586a9395c807446",
+      "storageType": 0,
+      "url": "/public/map/OMGALT/orbis/OMGALT_MAIN_SCENE_ORBIS.zip/7ed0ee768b43990c3586a9395c807446.zip"
+    }
+  },
+  "data": {
+    "mapName": "OMGALT",
+    "title": "OMG",
+    "originalJDVersion": 2019,
+    "tags": [
+      "alternate",
+      "subscribedSong",
+      "JustDance2019",
+      "Solo",
+      "Extreme",
+      "forceRumble",
+      "main"
+    ],
+    "artist": "Arash Ft. Snoop Dogg",
+    "credits": "Written by Calvin Broadus, Alex Labaf, Robert Uhlmann, Avihai Naftali, Ben Maor and Amir Sade. Published by My Own Chit Music (BMI) c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) / Ultra Music Publishing Europe AG (SUISA) obo Teta Making Music Ltd (ACUM) / Kobalt Music Services Ltd (KMS) obo Extensive Music DMCC (BMI) / Alex Papaconstantinou & Viktor Svensson. All rights reserved. Used with permission. Courtesy of Universal Music Germany under license from Universal Music Enterprises. / Extensive Music DMCC. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 3,
+    "songColor1A": "#f9d657",
+    "songColor2A": "#6ccbf7",
+    "songColor1B": "#994403",
+    "songColor2B": "#56aff7",
+    "lyricsColor": "#e800b5",
+    "LocaleID": 13763
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25247,
+        50543,
+        75791,
+        101039,
+        126335,
+        151583,
+        176831,
+        202127,
+        227375,
+        252623,
+        277871,
+        303167,
+        328415,
+        353663,
+        378959,
+        404207,
+        429455,
+        454751,
+        479999,
+        505246,
+        530542,
+        555790,
+        581038,
+        606334,
+        631582,
+        656830,
+        682126,
+        707374,
+        732622,
+        757870,
+        783166,
+        808414,
+        833662,
+        858958,
+        884206,
+        909454,
+        934750,
+        959998,
+        985245,
+        1010541,
+        1035789,
+        1061037,
+        1086333,
+        1111581,
+        1136829,
+        1162125,
+        1187373,
+        1212621,
+        1237869,
+        1263165,
+        1288413,
+        1313661,
+        1338957,
+        1364205,
+        1389453,
+        1414749,
+        1439997,
+        1465244,
+        1490540
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 347,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/OMGALT/OMGALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/OMGALT/nx/OMGALT_banner_bkg.tga.ckd/3ac2578d271e760d248e6d0a2a292826.ckd",
+      "map_bkgImageUrl": "/public/map/OMGALT/nx/OMGALT_map_bkg.tga.ckd/f14ec70bc52999b4fb9e3ff025ad54bf.ckd",
+      "expandCoachImageUrl": "/public/map/OMGALT/nx/OMGALT_Cover_AlbumCoach.tga.ckd/31d601229716eb8539a3e8918bb858cb.ckd",
+      "cover_smallImageUrl": "/public/map/OMGALT/nx/OMGALT_Cover_Online.tga.ckd/937338612c46094131b5b747cba5ee6d.ckd",
+      "coverImageUrl": "/public/map/OMGALT/nx/OMGALT_Cover_Generic.tga.ckd/04302e372dedfffc4b1e2e2e40f0e685.ckd",
+      "coach1ImageUrl": "/public/map/OMGALT/nx/OMGALT_Coach_1.tga.ckd/332ffe09f9eb41ad27b64575f7c431fc.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/OMGALT/pc/OMGALT_banner_bkg.tga.ckd/2a35ef71f838110e61c478c349aa990f.ckd",
+      "map_bkgImageUrl": "/public/map/OMGALT/pc/OMGALT_map_bkg.tga.ckd/3cc38084ace16771963943fcde05ce96.ckd",
+      "expandCoachImageUrl": "/public/map/OMGALT/pc/OMGALT_Cover_AlbumCoach.tga.ckd/9e18fcc1a00c11a10fb5adaf414222d4.ckd",
+      "cover_smallImageUrl": "/public/map/OMGALT/pc/OMGALT_Cover_Online.tga.ckd/b1ab396a6066c09fa0947522ed053be5.ckd",
+      "coverImageUrl": "/public/map/OMGALT/pc/OMGALT_Cover_Generic.tga.ckd/c66c48e433e466f4dcbc3e632587ed0a.ckd",
+      "coach1ImageUrl": "/public/map/OMGALT/pc/OMGALT_Coach_1.tga.ckd/5444f6e63211f43990b583d4d2789e42.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/OMGALT/orbis/OMGALT_banner_bkg.tga.ckd/2a35ef71f838110e61c478c349aa990f.ckd",
+      "map_bkgImageUrl": "/public/map/OMGALT/orbis/OMGALT_map_bkg.tga.ckd/3cc38084ace16771963943fcde05ce96.ckd",
+      "expandCoachImageUrl": "/public/map/OMGALT/orbis/OMGALT_Cover_AlbumCoach.tga.ckd/9e18fcc1a00c11a10fb5adaf414222d4.ckd",
+      "cover_smallImageUrl": "/public/map/OMGALT/orbis/OMGALT_Cover_Online.tga.ckd/b1ab396a6066c09fa0947522ed053be5.ckd",
+      "coverImageUrl": "/public/map/OMGALT/orbis/OMGALT_Cover_Generic.tga.ckd/c66c48e433e466f4dcbc3e632587ed0a.ckd",
+      "coach1ImageUrl": "/public/map/OMGALT/orbis/OMGALT_Coach_1.tga.ckd/5444f6e63211f43990b583d4d2789e42.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/OMGALT/OMGALT_Coach_1_Phone.png/33b972ffb272a85897036b8402abce30.png",
+    "phoneCoverImageUrl": "/public/map/OMGALT/OMGALT_Cover_Phone.jpg/662f151712fddd6be809440279998293.jpg",
+    "cover640ImageUrl": "/public/map/OMGALT/OMGALT_Cover_640.png/537dd9c6027cbb668fb25c1afe178148.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/OMGALT/OMGALT.ogg": "/private/map/OMGALT/OMGALT.ogg/cfd41c69ab5e1c7e735677a9a2ccac17.ogg",
+    "jmcs://jd-contents/OMGALT/OMGALT_AudioPreview.ogg": "/public/map/OMGALT/OMGALT_AudioPreview.ogg/9d48373b832a87781abcc7bfb852ff51.ogg",
+    "jmcs://jd-contents/OMGALT/OMGALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/OMGALT/OMGALT_MapPreviewNoSoundCrop_LOW.vp8.webm/950a8dca8e1e36937f717b15b7877f7a.webm",
+    "jmcs://jd-contents/OMGALT/OMGALT_HIGH.webm": "/private/map/OMGALT/OMGALT_HIGH.webm/fc5d4117750d00f19334c7654f31cf12.webm",
+    "jmcs://jd-contents/OMGALT/OMGALT_LOW.webm": "/private/map/OMGALT/OMGALT_LOW.webm/877af9c0fc1153703a739a4affbc7cc2.webm",
+    "jmcs://jd-contents/OMGALT/OMGALT_MID.webm": "/private/map/OMGALT/OMGALT_MID.webm/a2e671369dfc52fa4f943523e797e1d9.webm",
+    "jmcs://jd-contents/OMGALT/OMGALT_ULTRA.hd.webm": "/private/map/OMGALT/OMGALT_ULTRA.hd.webm/624a864be16b4098e301224a41709c22.webm",
+    "jmcs://jd-contents/OMGALT/OMGALT_ULTRA.webm": "/private/map/OMGALT/OMGALT_ULTRA.webm/e636abdfa692b535782caf9dfc76bf80.webm",
+    "jmcs://jd-contents/OMGALT/OMGALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/OMGALT/OMGALT_MapPreviewNoSoundCrop_MID.vp8.webm/894d8145b8635622c12d7a9236d8c7fa.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496727\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/OMGALT/OMGALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\n\t\t\t\t\t<Initialization range=\"0-617\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482472\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/OMGALT/OMGALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 186.317625
+}

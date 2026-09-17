@@ -1,0 +1,171 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "74781073b03e465c1122ee570c80d6a4",
+      "storageType": 0,
+      "url": "/public/map/CallMeMaybe/nx/CallMeMaybe_MAIN_SCENE_NX.zip/74781073b03e465c1122ee570c80d6a4.zip"
+    },
+    "pc": {
+      "md5": "91c89120ca81f8bef322a7fabe55085c",
+      "storageType": 0,
+      "url": "/public/map/CallMeMaybe/pc/CallMeMaybe_MAIN_SCENE_PC.zip/91c89120ca81f8bef322a7fabe55085c.zip"
+    },
+    "ps4": {
+      "md5": "edb1beb5c5d227a2abaec296b9154006",
+      "storageType": 0,
+      "url": "/public/map/CallMeMaybe/orbis/CallMeMaybe_MAIN_SCENE_ORBIS.zip/edb1beb5c5d227a2abaec296b9154006.zip"
+    }
+  },
+  "data": {
+    "mapName": "CallMeMaybe",
+    "title": "Call Me Maybe",
+    "originalJDVersion": 4,
+    "tags": [
+      "main"
+    ],
+    "artist": "Carly Rae Jepsen",
+    "credits": "Written by Carly Rae Jepsen, Josh Ramsay and Tavish Crowe. Published by Carly Rae Music Inc. d/b/a Jepsen Music Publishing (SOCAN) / Regular Monkey Productions Inc (SOCAN) / Crowe Music Inc d/b/a Crowe Music Publishing (SOCAN). Courtesy of Interscope Records under license from Universal Music Enterprises and 604 records.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff5276",
+    "songColor2A": "#ffd200",
+    "songColor1B": "#7a0000",
+    "songColor2B": "#af6700",
+    "lyricsColor": "#f3c61d"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        13055,
+        37055,
+        61054,
+        85053,
+        109053,
+        133052,
+        157052,
+        181051,
+        205050,
+        229050,
+        253049,
+        277048,
+        301048,
+        325047,
+        349047,
+        373046,
+        397045,
+        421045,
+        445044,
+        469044,
+        493043,
+        517042,
+        541042,
+        565041,
+        589040,
+        613040,
+        637039,
+        661039,
+        685038,
+        709037,
+        733037,
+        757036,
+        781035,
+        805035,
+        829034,
+        853034,
+        877033,
+        901032,
+        925032,
+        949031,
+        973031,
+        997030,
+        1021029,
+        1045029,
+        1069028,
+        1093027,
+        1117027,
+        1141026,
+        1165026,
+        1189025,
+        1213024,
+        1237024,
+        1261023,
+        1285023,
+        1309022,
+        1333021,
+        1357021,
+        1381020,
+        1405019,
+        1429019,
+        1453018,
+        1477018
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 396,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CallMeMaybe/CallMeMaybe_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CallMeMaybe/nx/CallMeMaybe_banner_bkg.tga.ckd/b0c65dba0e38892ffc4913e8ca19c395.ckd",
+      "map_bkgImageUrl": "/public/map/CallMeMaybe/nx/CallMeMaybe_map_bkg.tga.ckd/549d5dfb5131278e57d6ffd7aaff8213.ckd",
+      "expandCoachImageUrl": "/public/map/CallMeMaybe/nx/CallMeMaybe_Cover_AlbumCoach.tga.ckd/12b9e1a8d593b5eef813422fcdb199f8.ckd",
+      "cover_smallImageUrl": "/public/map/CallMeMaybe/nx/CallMeMaybe_Cover_Online.tga.ckd/f5add2e98fdd8f95783ec9d06ee3885c.ckd",
+      "coach1ImageUrl": "/public/map/CallMeMaybe/nx/CallMeMaybe_Coach_1.tga.ckd/d5fd7803c044b952b575645d255e04fc.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CallMeMaybe/pc/CallMeMaybe_banner_bkg.tga.ckd/56ea79b1ca1b78e1add0806906086720.ckd",
+      "map_bkgImageUrl": "/public/map/CallMeMaybe/pc/CallMeMaybe_map_bkg.tga.ckd/319a85b54ca19cc908034d228fcb4703.ckd",
+      "expandCoachImageUrl": "/public/map/CallMeMaybe/pc/CallMeMaybe_Cover_AlbumCoach.tga.ckd/6351118846dfc5650bd881a876e1d43f.ckd",
+      "cover_smallImageUrl": "/public/map/CallMeMaybe/pc/CallMeMaybe_Cover_Online.tga.ckd/a9a48b81c3e5080270c67f648d874c1e.ckd",
+      "coach1ImageUrl": "/public/map/CallMeMaybe/pc/CallMeMaybe_Coach_1.tga.ckd/844be4283f1e769793026ddf7ff1e90a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CallMeMaybe/orbis/CallMeMaybe_banner_bkg.tga.ckd/56ea79b1ca1b78e1add0806906086720.ckd",
+      "map_bkgImageUrl": "/public/map/CallMeMaybe/orbis/CallMeMaybe_map_bkg.tga.ckd/319a85b54ca19cc908034d228fcb4703.ckd",
+      "expandCoachImageUrl": "/public/map/CallMeMaybe/orbis/CallMeMaybe_Cover_AlbumCoach.tga.ckd/6351118846dfc5650bd881a876e1d43f.ckd",
+      "cover_smallImageUrl": "/public/map/CallMeMaybe/orbis/CallMeMaybe_Cover_Online.tga.ckd/a9a48b81c3e5080270c67f648d874c1e.ckd",
+      "coach1ImageUrl": "/public/map/CallMeMaybe/orbis/CallMeMaybe_Coach_1.tga.ckd/844be4283f1e769793026ddf7ff1e90a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CallMeMaybe/CallMeMaybe_Coach_1_Phone.png/4b4f306467f6cbde7c79bcaeaba6bbe6.png",
+    "phoneCoverImageUrl": "/public/map/CallMeMaybe/CallMeMaybe_Cover_Phone.jpg/f44da98e52edee88a324d8e9ddf4d509.jpg",
+    "cover640ImageUrl": "/public/map/CallMeMaybe/CallMeMaybe_Cover_640.png/c04087c9e917dcc1d8119355664f6476.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/CallMeMaybe/CallMeMaybe.ogg": "/private/map/CallMeMaybe/CallMeMaybe.ogg/bf14d0effba10f0797e25bbc35664ed8.ogg",
+    "jmcs://jd-contents/CallMeMaybe/CallMeMaybe_AudioPreview.ogg": "/public/map/CallMeMaybe/CallMeMaybe_AudioPreview.ogg/e3ecc21ccbf9abf58ffc9ff48eb09f48.ogg",
+    "jmcs://jd-contents/CallMeMaybe/CallMeMaybe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CallMeMaybe/CallMeMaybe_MapPreviewNoSoundCrop_LOW.vp8.webm/1ef54f031660258492cc39fa02d91be3.webm",
+    "jmcs://jd-contents/CallMeMaybe/CallMeMaybe_HIGH.webm": "/private/map/CallMeMaybe/CallMeMaybe_HIGH.webm/ea718763ad2f165f23bf563f3305efa9.webm",
+    "jmcs://jd-contents/CallMeMaybe/CallMeMaybe_LOW.webm": "/private/map/CallMeMaybe/CallMeMaybe_LOW.webm/c07d33bcf1d4c12dc6d8c5bed176eae1.webm",
+    "jmcs://jd-contents/CallMeMaybe/CallMeMaybe_MID.webm": "/private/map/CallMeMaybe/CallMeMaybe_MID.webm/45d9dc3432aca1efea692486a96617d1.webm",
+    "jmcs://jd-contents/CallMeMaybe/CallMeMaybe_ULTRA.hd.webm": "/private/map/CallMeMaybe/CallMeMaybe_ULTRA.hd.webm/c409a409dd0f5f92a6d4b150f7357bac.webm",
+    "jmcs://jd-contents/CallMeMaybe/CallMeMaybe_ULTRA.webm": "/private/map/CallMeMaybe/CallMeMaybe_ULTRA.webm/f6c1de9edee75fce971be6e14e6fd260.webm",
+    "jmcs://jd-contents/CallMeMaybe/CallMeMaybe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CallMeMaybe/CallMeMaybe_MapPreviewNoSoundCrop_MID.vp8.webm/b0c36edf7815158a8201ab3941afcede.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"505565\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CallMeMaybe/CallMeMaybe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"671-1161\">\n\t\t\t\t\t<Initialization range=\"0-671\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484450\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CallMeMaybe/CallMeMaybe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"672-1162\">\n\t\t\t\t\t<Initialization range=\"0-672\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 198.993
+}

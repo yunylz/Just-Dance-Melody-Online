@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "770cb44ddf6a0427fa836e83b4e0cf9d",
+      "storageType": 0,
+      "url": "/public/map/Starships/nx/Starships_MAIN_SCENE_NX.zip/770cb44ddf6a0427fa836e83b4e0cf9d.zip"
+    },
+    "pc": {
+      "md5": "30f793c9f56a2feebd5d03d3a3bf8efa",
+      "storageType": 0,
+      "url": "/public/map/Starships/pc/Starships_MAIN_SCENE_PC.zip/30f793c9f56a2feebd5d03d3a3bf8efa.zip"
+    },
+    "ps4": {
+      "md5": "98870ed4d46f8b03df5ad156043e3b7b",
+      "storageType": 0,
+      "url": "/public/map/Starships/orbis/Starships_MAIN_SCENE_ORBIS.zip/98870ed4d46f8b03df5ad156043e3b7b.zip"
+    }
+  },
+  "data": {
+    "mapName": "Starships",
+    "title": "Starships",
+    "originalJDVersion": 2014,
+    "tags": [
+      "main"
+    ],
+    "artist": "Nicki Minaj",
+    "credits": "Written by Nadir Khayat, Rami Yacoub, Carl Anthony Falk, Wayne Anthony Hector and Onika Tanya Maraj. Published by Songs of Redone (BMI) / Team 2101 Songs (STIM) c/o Sony/ATV Music Publishing Canada (SOCAN) / Rami Productions AB / © 2012 Warner/Chappell Music Publishing LTD (PRS) All rights on behalf of Warner/Chappell Music Publishing LTD administered by Warner-Tamerlane Publishing Corp. / Universal Music Publishing Group a division of Universal Music Canada Inc. / BMG Chrysalis Scandinavia AB (STIM) c/o BMG Rights Management (US) LLC. All Rights Reserved. Used With Permission. Courtesy of Cash Money Records / Universal Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#2ebffe",
+    "songColor2A": "#ffa6f6",
+    "songColor1B": "#1386ff",
+    "songColor2B": "#1a95ff",
+    "lyricsColor": "#663399"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253439,
+        276480,
+        299519,
+        322560,
+        345599,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506879,
+        529920,
+        552960,
+        576000,
+        599039,
+        622080,
+        645120,
+        668160,
+        691199,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852479,
+        875520,
+        898560,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013759,
+        1036800,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198079,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382399,
+        1405440,
+        1428480,
+        1451520,
+        1474560
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 449,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Starships/Starships_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Starships/nx/Starships_banner_bkg.tga.ckd/341ebd70f295c6e1c2f919980a4a3e68.ckd",
+      "map_bkgImageUrl": "/public/map/Starships/nx/Starships_map_bkg.tga.ckd/96c443c05e53725bdc5ed3f5bc140cff.ckd",
+      "expandCoachImageUrl": "/public/map/Starships/nx/Starships_Cover_AlbumCoach.tga.ckd/8783a4ef8bc0315008cd96546d6ee461.ckd",
+      "cover_smallImageUrl": "/public/map/Starships/nx/Starships_Cover_Online.tga.ckd/28f91a39b7c23d65f0546d3a89b1485b.ckd",
+      "coach1ImageUrl": "/public/map/Starships/nx/Starships_Coach_1.tga.ckd/7f993e7361d6217c8f547eff54ffd3cf.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Starships/pc/Starships_banner_bkg.tga.ckd/6222b53fb400cc9a572c39e463886a72.ckd",
+      "map_bkgImageUrl": "/public/map/Starships/pc/Starships_map_bkg.tga.ckd/1b23bc1ad13c915c56f0a0072ca15abc.ckd",
+      "expandCoachImageUrl": "/public/map/Starships/pc/Starships_Cover_AlbumCoach.tga.ckd/730f2b89c22279fd2bdbcf3bc7a90d0f.ckd",
+      "cover_smallImageUrl": "/public/map/Starships/pc/Starships_Cover_Online.tga.ckd/751a927e22e1fd3fc3b300a2ec09a403.ckd",
+      "coach1ImageUrl": "/public/map/Starships/pc/Starships_Coach_1.tga.ckd/786a072876cf8a10cb7a494bd8b8f787.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Starships/orbis/Starships_banner_bkg.tga.ckd/6222b53fb400cc9a572c39e463886a72.ckd",
+      "map_bkgImageUrl": "/public/map/Starships/orbis/Starships_map_bkg.tga.ckd/1b23bc1ad13c915c56f0a0072ca15abc.ckd",
+      "expandCoachImageUrl": "/public/map/Starships/orbis/Starships_Cover_AlbumCoach.tga.ckd/730f2b89c22279fd2bdbcf3bc7a90d0f.ckd",
+      "cover_smallImageUrl": "/public/map/Starships/orbis/Starships_Cover_Online.tga.ckd/751a927e22e1fd3fc3b300a2ec09a403.ckd",
+      "coach1ImageUrl": "/public/map/Starships/orbis/Starships_Coach_1.tga.ckd/786a072876cf8a10cb7a494bd8b8f787.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Starships/Starships_Coach_1_Phone.png/ecbadb982b4016030633634c335f54e7.png",
+    "phoneCoverImageUrl": "/public/map/Starships/Starships_Cover_Phone.jpg/704ff305890b5fa5eadc129b23bf2d50.jpg",
+    "cover640ImageUrl": "/public/map/Starships/Starships_Cover_640.png/4dcdcdd5496549da3210d6c20d582ec5.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Starships/Starships.ogg": "/private/map/Starships/Starships.ogg/27d821c1fa275f25127cc088fb99c665.ogg",
+    "jmcs://jd-contents/Starships/Starships_AudioPreview.ogg": "/public/map/Starships/Starships_AudioPreview.ogg/b6ea5be7d5e70cda982f9d35fb6bfeba.ogg",
+    "jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Starships/Starships_MapPreviewNoSoundCrop_LOW.vp8.webm/90be5802790acd8d140b600f09d42d9b.webm",
+    "jmcs://jd-contents/Starships/Starships_HIGH.webm": "/private/map/Starships/Starships_HIGH.webm/d22e2057fb6616ee9d9f0b3bfac841ec.webm",
+    "jmcs://jd-contents/Starships/Starships_LOW.webm": "/private/map/Starships/Starships_LOW.webm/7a6d90d382aee97d55b31d10322caa28.webm",
+    "jmcs://jd-contents/Starships/Starships_MID.webm": "/private/map/Starships/Starships_MID.webm/00edf41ba1ff831e0843c1476fb15b18.webm",
+    "jmcs://jd-contents/Starships/Starships_ULTRA.hd.webm": "/private/map/Starships/Starships_ULTRA.hd.webm/4ff4bb364342fbb29669568f784ec10a.webm",
+    "jmcs://jd-contents/Starships/Starships_ULTRA.webm": "/private/map/Starships/Starships_ULTRA.webm/8d6b3e1f81ddee67783cb1c1ab0f5948.webm",
+    "jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Starships/Starships_MapPreviewNoSoundCrop_MID.vp8.webm/88392c329c897319f43c88d802ba6e85.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"493347\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1389710\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Starships/Starships_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 217.08
+}

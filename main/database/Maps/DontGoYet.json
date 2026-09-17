@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ca55ecfdc5dfcfd5a34a7d40e3a8746a",
+      "storageType": 0,
+      "url": "/public/map/DontGoYet/nx/DontGoYet_MAIN_SCENE_NX.zip/ca55ecfdc5dfcfd5a34a7d40e3a8746a.zip"
+    },
+    "pc": {
+      "md5": "0288c5c1510e2613dbd79d21c87bad4a",
+      "storageType": 0,
+      "url": "/public/map/DontGoYet/pc/DontGoYet_MAIN_SCENE_PC.zip/0288c5c1510e2613dbd79d21c87bad4a.zip"
+    },
+    "ps4": {
+      "md5": "6d3c4be87c000fdbbd4513a7203aa20f",
+      "storageType": 0,
+      "url": "/public/map/DontGoYet/orbis/DontGoYet_MAIN_SCENE_ORBIS.zip/6d3c4be87c000fdbbd4513a7203aa20f.zip"
+    }
+  },
+  "data": {
+    "mapName": "DontGoYet",
+    "title": "Don't Go Yet",
+    "originalJDVersion": 9999,
+    "tags": [
+      "main"
+    ],
+    "artist": "Camila Cabello",
+    "credits": "Written by Camila Cabello, Eric Frederic, Scott Harris and Michael Sabath. Published by Milamoon Songs (BMI) / Mae Jesse And Ried Music (BMI) / Sony/ATV Ballad (BMI) / Modern Arts Melody (ASCAP) / Scottharriswritesongs (ASCAP) / Songs By Work Of Art (ASCAP) / Sony/ATV Tunes LLC (ASCAP). All rights reserved. Used with permission. Courtesy of Epic Records. By arrangement with Sony Music Entertainment. ",
+    "coachCount": 4,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d60d7b",
+    "songColor2A": "#6819e0",
+    "songColor1B": "#360520",
+    "songColor2B": "#1b0547",
+    "lyricsColor": "#ff4d88",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26182,
+        52364,
+        78545,
+        104727,
+        130909,
+        157091,
+        183273,
+        209455,
+        235636,
+        261818,
+        288000,
+        314182,
+        340364,
+        366545,
+        392727,
+        418909,
+        445091,
+        471273,
+        497455,
+        523636,
+        549818,
+        576000,
+        602182,
+        628364,
+        654545,
+        680727,
+        706909,
+        733091,
+        759273,
+        785455,
+        811636,
+        837818,
+        864000,
+        890182,
+        916364,
+        942545,
+        968727,
+        994909,
+        1021091,
+        1047273,
+        1073455,
+        1099636,
+        1125818,
+        1152000,
+        1178182,
+        1204364,
+        1230545,
+        1256727,
+        1282909,
+        1309091,
+        1335273,
+        1361455,
+        1387636,
+        1413818,
+        1440000,
+        1466182,
+        1492364
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 298,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DontGoYet/DontGoYet_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DontGoYet/nx/DontGoYet_banner_bkg.tga.ckd/534790282e480f0d3e81aba94b4149d4.ckd",
+      "map_bkgImageUrl": "/public/map/DontGoYet/nx/DontGoYet_map_bkg.tga.ckd/d735b449d090bc92eed689ca44c375c1.ckd",
+      "expandCoachImageUrl": "/public/map/DontGoYet/nx/DontGoYet_Cover_AlbumCoach.tga.ckd/a9078134fccae4c3a907920f40240f4d.ckd",
+      "cover_smallImageUrl": "/public/map/DontGoYet/nx/DontGoYet_Cover_Online.tga.ckd/33999c6e8f67d9c618495e10f5b35248.ckd",
+      "coverImageUrl": "/public/map/DontGoYet/nx/DontGoYet_Cover_Generic.tga.ckd/1a3d05a06887e3b708d9def7550368c6.ckd",
+      "coach1ImageUrl": "/public/map/DontGoYet/nx/DontGoYet_Coach_1.tga.ckd/d3aaf1520cb5d865b158c2e8364d7328.ckd",
+      "coach2ImageUrl": "/public/map/DontGoYet/nx/DontGoYet_Coach_2.tga.ckd/d85599b7ed20d4df68ad1b13bed19e9d.ckd",
+      "coach3ImageUrl": "/public/map/DontGoYet/nx/DontGoYet_Coach_3.tga.ckd/47029ab988274d3697a65bfb9bf66fad.ckd",
+      "coach4ImageUrl": "/public/map/DontGoYet/nx/DontGoYet_Coach_4.tga.ckd/395b9a6f2b6bb566cd7174bee138ef4b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DontGoYet/pc/DontGoYet_banner_bkg.tga.ckd/3aa53cbcf2ea1b8b93c4e7c05540100b.ckd",
+      "map_bkgImageUrl": "/public/map/DontGoYet/pc/DontGoYet_map_bkg.tga.ckd/de90ec05f71c8c932397355dbed8c816.ckd",
+      "expandCoachImageUrl": "/public/map/DontGoYet/pc/DontGoYet_Cover_AlbumCoach.tga.ckd/61af8f6620a75325d1c3d98997590110.ckd",
+      "cover_smallImageUrl": "/public/map/DontGoYet/pc/DontGoYet_Cover_Online.tga.ckd/7c579c9bcd65232c2a3ccfbc75041d34.ckd",
+      "coverImageUrl": "/public/map/DontGoYet/pc/DontGoYet_Cover_Generic.tga.ckd/f168339fde77c4e0c24e7e8a8104513b.ckd",
+      "coach1ImageUrl": "/public/map/DontGoYet/pc/DontGoYet_Coach_1.tga.ckd/c0eeb3497467d8c640b0e3c5af2da749.ckd",
+      "coach2ImageUrl": "/public/map/DontGoYet/pc/DontGoYet_Coach_2.tga.ckd/ae0aca4ab087afa1623b36e92bbf4195.ckd",
+      "coach3ImageUrl": "/public/map/DontGoYet/pc/DontGoYet_Coach_3.tga.ckd/a4198a2f6aed4356c8902686f926e053.ckd",
+      "coach4ImageUrl": "/public/map/DontGoYet/pc/DontGoYet_Coach_4.tga.ckd/e939f4e9c56a98aa89596c979b41a042.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DontGoYet/orbis/DontGoYet_banner_bkg.tga.ckd/3aa53cbcf2ea1b8b93c4e7c05540100b.ckd",
+      "map_bkgImageUrl": "/public/map/DontGoYet/orbis/DontGoYet_map_bkg.tga.ckd/de90ec05f71c8c932397355dbed8c816.ckd",
+      "expandCoachImageUrl": "/public/map/DontGoYet/orbis/DontGoYet_Cover_AlbumCoach.tga.ckd/61af8f6620a75325d1c3d98997590110.ckd",
+      "cover_smallImageUrl": "/public/map/DontGoYet/orbis/DontGoYet_Cover_Online.tga.ckd/7c579c9bcd65232c2a3ccfbc75041d34.ckd",
+      "coverImageUrl": "/public/map/DontGoYet/orbis/DontGoYet_Cover_Generic.tga.ckd/f168339fde77c4e0c24e7e8a8104513b.ckd",
+      "coach1ImageUrl": "/public/map/DontGoYet/orbis/DontGoYet_Coach_1.tga.ckd/c0eeb3497467d8c640b0e3c5af2da749.ckd",
+      "coach2ImageUrl": "/public/map/DontGoYet/orbis/DontGoYet_Coach_2.tga.ckd/ae0aca4ab087afa1623b36e92bbf4195.ckd",
+      "coach3ImageUrl": "/public/map/DontGoYet/orbis/DontGoYet_Coach_3.tga.ckd/a4198a2f6aed4356c8902686f926e053.ckd",
+      "coach4ImageUrl": "/public/map/DontGoYet/orbis/DontGoYet_Coach_4.tga.ckd/e939f4e9c56a98aa89596c979b41a042.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DontGoYet/DontGoYet_Coach_1_Phone.png/c0abc0e0a025d8d0de391a3933da10d1.png",
+    "phoneCoach2ImageUrl": "/public/map/DontGoYet/DontGoYet_Coach_2_Phone.png/37bd9eca8098c17f69670165774c0485.png",
+    "phoneCoach3ImageUrl": "/public/map/DontGoYet/DontGoYet_Coach_3_Phone.png/a5676c763d114666637ed1e59d46be69.png",
+    "phoneCoach4ImageUrl": "/public/map/DontGoYet/DontGoYet_Coach_4_Phone.png/7c67d4cfa34e84b3f6b63689bc4f93be.png",
+    "phoneCoverImageUrl": "/public/map/DontGoYet/DontGoYet_Cover_Phone.jpg/4788bb1d1b066d30ae0eebd82354a6d3.jpg",
+    "cover640ImageUrl": "/public/map/DontGoYet/DontGoYet_Cover_640.png/bdb7167ef758e447239c32e9c53e7ee4.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DontGoYet/DontGoYet.ogg": "/private/map/DontGoYet/DontGoYet.ogg/c1f1c31cd15b5ae91d8c86549356bfb9.ogg",
+    "jmcs://jd-contents/DontGoYet/DontGoYet_AudioPreview.ogg": "/public/map/DontGoYet/DontGoYet_AudioPreview.ogg/989254e39ea90989f5eddb45348b4ec9.ogg",
+    "jmcs://jd-contents/DontGoYet/DontGoYet_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DontGoYet/DontGoYet_MapPreviewNoSoundCrop_LOW.vp8.webm/0b427abbd0425e2ef58dff0943317263.webm",
+    "jmcs://jd-contents/DontGoYet/DontGoYet_HIGH.webm": "/private/map/DontGoYet/DontGoYet_HIGH.webm/8f7a45c76d59bc6fe265c61580ebc6f0.webm",
+    "jmcs://jd-contents/DontGoYet/DontGoYet_LOW.webm": "/private/map/DontGoYet/DontGoYet_LOW.webm/55245d768270239961e8f48d8c8af1a2.webm",
+    "jmcs://jd-contents/DontGoYet/DontGoYet_MID.webm": "/private/map/DontGoYet/DontGoYet_MID.webm/e4c2dc3ec8dc57c046a1e032021efc04.webm",
+    "jmcs://jd-contents/DontGoYet/DontGoYet_ULTRA.hd.webm": "/private/map/DontGoYet/DontGoYet_ULTRA.hd.webm/4c19e1ec1cd9732e4a56d5c142f1d5e0.webm",
+    "jmcs://jd-contents/DontGoYet/DontGoYet_ULTRA.webm": "/private/map/DontGoYet/DontGoYet_ULTRA.webm/e3e76ed85c9050f1b6bbd8c33e68f494.webm",
+    "jmcs://jd-contents/DontGoYet/DontGoYet_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DontGoYet/DontGoYet_MapPreviewNoSoundCrop_MID.vp8.webm/d18bad9a781c355ca7993499d0a345db.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495699\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontGoYet/DontGoYet_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"643-1132\">\n\t\t\t\t\t<Initialization range=\"0-643\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482442\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontGoYet/DontGoYet_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"644-1134\">\n\t\t\t\t\t<Initialization range=\"0-644\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 166.363563
+}

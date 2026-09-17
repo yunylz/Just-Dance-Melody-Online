@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "00a46650d132347378ae05369a8a30fe",
+      "storageType": 0,
+      "url": "/public/map/BadBoys/nx/BadBoys_MAIN_SCENE_NX.zip/00a46650d132347378ae05369a8a30fe.zip"
+    },
+    "pc": {
+      "md5": "4d9bdfe6ed19315f0a96faec10866fae",
+      "storageType": 0,
+      "url": "/public/map/BadBoys/pc/BadBoys_MAIN_SCENE_PC.zip/4d9bdfe6ed19315f0a96faec10866fae.zip"
+    },
+    "ps4": {
+      "md5": "7dda197f0d4f6d7304f307cad29f781a",
+      "storageType": 0,
+      "url": "/public/map/BadBoys/orbis/BadBoys_MAIN_SCENE_ORBIS.zip/7dda197f0d4f6d7304f307cad29f781a.zip"
+    }
+  },
+  "data": {
+    "mapName": "BadBoys",
+    "title": "BB",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main",
+      "main",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Shygirl",
+    "credits": "'BB (Bad Boys)' Written by Shygirl & Sega Bodega. Courtesy of NUXXE.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#002fbd",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#040274",
+    "songColor2B": "#777777",
+    "lyricsColor": "#e173a1"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22154,
+        44308,
+        66462,
+        88615,
+        110769,
+        132923,
+        155077,
+        177231,
+        199385,
+        221538,
+        243692,
+        265846,
+        288000,
+        310154,
+        332308,
+        354462,
+        376615,
+        398769,
+        420923,
+        443077,
+        465231,
+        487385,
+        509538,
+        531692,
+        553846,
+        576000,
+        598154,
+        620308,
+        642462,
+        664615,
+        686769,
+        708923,
+        731077,
+        753231,
+        775385,
+        797538,
+        819692,
+        841846,
+        864000,
+        886154,
+        908308,
+        930462,
+        952615,
+        974769,
+        996923,
+        1019077,
+        1041231,
+        1063385,
+        1085539,
+        1107692,
+        1129846,
+        1152000,
+        1174154,
+        1196308,
+        1218462,
+        1240615,
+        1262769,
+        1284923,
+        1307077,
+        1329231,
+        1351385,
+        1373539,
+        1395692,
+        1417846,
+        1440000,
+        1462154,
+        1484308
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 357,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BadBoys/BadBoys_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BadBoys/nx/BadBoys_banner_bkg.tga.ckd/0e802a286ef89e96d8cb7e63335007ea.ckd",
+      "map_bkgImageUrl": "/public/map/BadBoys/nx/BadBoys_map_bkg.tga.ckd/6853b506a380104d791fffe14745fedc.ckd",
+      "expandCoachImageUrl": "/public/map/BadBoys/nx/BadBoys_Cover_AlbumCoach.tga.ckd/bd5816b2e077246f1022e2aa26a9e6e1.ckd",
+      "cover_smallImageUrl": "/public/map/BadBoys/nx/BadBoys_Cover_Online.tga.ckd/b3784ec16a01561285a66ff07a550890.ckd",
+      "coach1ImageUrl": "/public/map/BadBoys/nx/BadBoys_Coach_1.tga.ckd/4ef166a738a3eb1d3c32f240c450da96.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BadBoys/pc/BadBoys_banner_bkg.tga.ckd/955bc6a4fa98952983e131726f6799d0.ckd",
+      "map_bkgImageUrl": "/public/map/BadBoys/pc/BadBoys_map_bkg.tga.ckd/68a5372a9580d5546c90431d3d44eaad.ckd",
+      "expandCoachImageUrl": "/public/map/BadBoys/pc/BadBoys_Cover_AlbumCoach.tga.ckd/b874f103231ff6b8051bd39769687ae7.ckd",
+      "cover_smallImageUrl": "/public/map/BadBoys/pc/BadBoys_Cover_Online.tga.ckd/1931a164dd371159fdd5ccc15816646f.ckd",
+      "coach1ImageUrl": "/public/map/BadBoys/pc/BadBoys_Coach_1.tga.ckd/570d8e0c040195bd73d83243795fe09c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BadBoys/orbis/BadBoys_banner_bkg.tga.ckd/955bc6a4fa98952983e131726f6799d0.ckd",
+      "map_bkgImageUrl": "/public/map/BadBoys/orbis/BadBoys_map_bkg.tga.ckd/68a5372a9580d5546c90431d3d44eaad.ckd",
+      "expandCoachImageUrl": "/public/map/BadBoys/orbis/BadBoys_Cover_AlbumCoach.tga.ckd/b874f103231ff6b8051bd39769687ae7.ckd",
+      "cover_smallImageUrl": "/public/map/BadBoys/orbis/BadBoys_Cover_Online.tga.ckd/1931a164dd371159fdd5ccc15816646f.ckd",
+      "coach1ImageUrl": "/public/map/BadBoys/orbis/BadBoys_Coach_1.tga.ckd/570d8e0c040195bd73d83243795fe09c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BadBoys/BadBoys_Coach_1_Phone.png/728d4a21c937ed50f835d7cae460d654.png",
+    "phoneCoverImageUrl": "/public/map/BadBoys/BadBoys_Cover_Phone.jpg/5bbd1ec6511f46ac7796f091ecf8f895.jpg",
+    "cover640ImageUrl": "/public/map/BadBoys/BadBoys_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BadBoys/BadBoys.ogg": "/private/map/BadBoys/BadBoys.ogg/f9411a9af6c9de31d86688d362c710cb.ogg",
+    "jmcs://jd-contents/BadBoys/BadBoys_AudioPreview.ogg": "/public/map/BadBoys/BadBoys_AudioPreview.ogg/f503d8794fc34855b1fdedbf399762f4.ogg",
+    "jmcs://jd-contents/BadBoys/BadBoys_HIGH.webm": "/private/map/BadBoys/BadBoys_HIGH.webm/d49985c387df42c488eb0a6273c13d24.webm",
+    "jmcs://jd-contents/BadBoys/BadBoys_LOW.webm": "/private/map/BadBoys/BadBoys_LOW.webm/856e8c461cbf9e446f26a34eb9b57e4c.webm",
+    "jmcs://jd-contents/BadBoys/BadBoys_MID.webm": "/private/map/BadBoys/BadBoys_MID.webm/64d79667c31e9687e990080193090ad8.webm",
+    "jmcs://jd-contents/BadBoys/BadBoys_ULTRA.webm": "/private/map/BadBoys/BadBoys_ULTRA.webm/349c05eea3c2f90468f1d8858145ce9a.webm",
+    "jmcs://jd-contents/BadBoys/BadBoys_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BadBoys/BadBoys_MapPreviewNoSoundCrop_LOW.vp8.webm/24130fa32baf1779cb44a89ac24c5d53.webm",
+    "jmcs://jd-contents/BadBoys/BadBoys_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BadBoys/BadBoys_MapPreviewNoSoundCrop_MID.vp8.webm/8ba691b710a5b1cc92da40349fc6bc2c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"508146\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadBoys/BadBoys_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1373330\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadBoys/BadBoys_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-915\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 166.443146
+}

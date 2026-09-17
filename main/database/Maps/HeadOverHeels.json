@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4bf572b63e756b3c947e8d05ad2bbebb",
+      "storageType": 0,
+      "url": "/public/map/HeadOverHeels/nx/HeadOverHeels_MAIN_SCENE_NX.zip/4bf572b63e756b3c947e8d05ad2bbebb.zip"
+    },
+    "pc": {
+      "md5": "f7e0f47575ca8e2c2e4b358f18334052",
+      "storageType": 0,
+      "url": "/public/map/HeadOverHeels/pc/HeadOverHeels_MAIN_SCENE_PC.zip/f7e0f47575ca8e2c2e4b358f18334052.zip"
+    },
+    "ps4": {
+      "md5": "4b36a3260b7ff9fb934994f55472fa75",
+      "storageType": 0,
+      "url": "/public/map/HeadOverHeels/orbis/HeadOverHeels_MAIN_SCENE_ORBIS.zip/4b36a3260b7ff9fb934994f55472fa75.zip"
+    }
+  },
+  "data": {
+    "mapName": "HeadOverHeels",
+    "title": "Head Over Heels",
+    "originalJDVersion": 4884,
+    "tags": [
+      "jd2022",
+      "main_2022",
+      "subscribedSong",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "ABBA",
+    "credits": "credits to LUNA for making this happen !",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#603dc2",
+    "songColor2A": "#820bb1",
+    "songColor1B": "#493066",
+    "songColor2B": "#3a034f",
+    "lyricsColor": "#722a8e"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        103104,
+        125088,
+        147408,
+        169152,
+        191904,
+        215472,
+        238656,
+        263280,
+        287328,
+        310896,
+        335136,
+        359136,
+        382368,
+        406896,
+        430608,
+        455040,
+        478464,
+        501408,
+        525648,
+        549264,
+        572352,
+        596400,
+        620448,
+        643632,
+        667152,
+        691056,
+        715296,
+        738720,
+        762096,
+        785952,
+        809184,
+        833376,
+        856992,
+        881040,
+        904656,
+        928656,
+        951744,
+        975168,
+        999168,
+        1023312,
+        1046448,
+        1070880,
+        1094112,
+        1118064,
+        1141776,
+        1165104,
+        1188576,
+        1212576,
+        1236192,
+        1259616,
+        1283712,
+        1308144,
+        1331376,
+        1355040,
+        1378944,
+        1403088,
+        1426800,
+        1450128,
+        1474224,
+        1498080
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 457,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HeadOverHeels/HeadOverHeels_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HeadOverHeels/nx/HeadOverHeels_banner_bkg.tga.ckd/3cab66cbc5c61ebf7461b80e18b47fcb.ckd",
+      "map_bkgImageUrl": "/public/map/HeadOverHeels/nx/HeadOverHeels_map_bkg.tga.ckd/b7afa1c8ada26e7ad3a0b6cecd9915eb.ckd",
+      "expandCoachImageUrl": "/public/map/HeadOverHeels/nx/HeadOverHeels_Cover_AlbumCoach.tga.ckd/fbb41d30cf4ac1e9c211d8e2d48d2492.ckd",
+      "cover_smallImageUrl": "/public/map/HeadOverHeels/nx/HeadOverHeels_Cover_Online.tga.ckd/eed71b6167887b6e31be06b15dad5a41.ckd",
+      "coach1ImageUrl": "/public/map/HeadOverHeels/nx/HeadOverHeels_Coach_1.tga.ckd/a5f75c93f3d312088d53aabdbfa12360.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HeadOverHeels/pc/HeadOverHeels_banner_bkg.tga.ckd/8b69e56da2b47d32ecefed7521e07875.ckd",
+      "map_bkgImageUrl": "/public/map/HeadOverHeels/pc/HeadOverHeels_map_bkg.tga.ckd/370c81e7967a2192eb4c03e0ad8dfc84.ckd",
+      "expandCoachImageUrl": "/public/map/HeadOverHeels/pc/HeadOverHeels_Cover_AlbumCoach.tga.ckd/ecc863432d79dcf189e4a49ad62f0358.ckd",
+      "cover_smallImageUrl": "/public/map/HeadOverHeels/pc/HeadOverHeels_Cover_Online.tga.ckd/b585ebf0e8a50cf9c6abb57b8f9f62ca.ckd",
+      "coach1ImageUrl": "/public/map/HeadOverHeels/pc/HeadOverHeels_Coach_1.tga.ckd/cd06586b00c55a238fd320dd778eeef0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HeadOverHeels/orbis/HeadOverHeels_banner_bkg.tga.ckd/8b69e56da2b47d32ecefed7521e07875.ckd",
+      "map_bkgImageUrl": "/public/map/HeadOverHeels/orbis/HeadOverHeels_map_bkg.tga.ckd/370c81e7967a2192eb4c03e0ad8dfc84.ckd",
+      "expandCoachImageUrl": "/public/map/HeadOverHeels/orbis/HeadOverHeels_Cover_AlbumCoach.tga.ckd/ecc863432d79dcf189e4a49ad62f0358.ckd",
+      "cover_smallImageUrl": "/public/map/HeadOverHeels/orbis/HeadOverHeels_Cover_Online.tga.ckd/b585ebf0e8a50cf9c6abb57b8f9f62ca.ckd",
+      "coach1ImageUrl": "/public/map/HeadOverHeels/orbis/HeadOverHeels_Coach_1.tga.ckd/cd06586b00c55a238fd320dd778eeef0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HeadOverHeels/HeadOverHeels_Coach_1_Phone.png/34457b20c7d736242dbde7fd8acb13d0.png",
+    "phoneCoverImageUrl": "/public/map/HeadOverHeels/HeadOverHeels_Cover_Phone.jpg/29eadf6b0396dcea5ed4dd21a84b34fd.jpg",
+    "cover640ImageUrl": "/public/map/HeadOverHeels/HeadOverHeels_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HeadOverHeels/HeadOverHeels.ogg": "/private/map/HeadOverHeels/HeadOverHeels.ogg/2fed2b47daf620a103e8c62fc3d9efa0.ogg",
+    "jmcs://jd-contents/HeadOverHeels/HeadOverHeels_AudioPreview.ogg": "/public/map/HeadOverHeels/HeadOverHeels_AudioPreview.ogg/4cb8a4c850771b819c31048cdfd44436.ogg",
+    "jmcs://jd-contents/HeadOverHeels/HeadOverHeels_HIGH.webm": "/private/map/HeadOverHeels/HeadOverHeels_HIGH.webm/9e6892fb17c442954279c45bbf387dd6.webm",
+    "jmcs://jd-contents/HeadOverHeels/HeadOverHeels_LOW.webm": "/private/map/HeadOverHeels/HeadOverHeels_LOW.webm/0002140ea9d984f531c0166d18dad775.webm",
+    "jmcs://jd-contents/HeadOverHeels/HeadOverHeels_MID.webm": "/private/map/HeadOverHeels/HeadOverHeels_MID.webm/fcc81be7c6de8cde4b2bf4d1a2372e22.webm",
+    "jmcs://jd-contents/HeadOverHeels/HeadOverHeels_ULTRA.webm": "/private/map/HeadOverHeels/HeadOverHeels_ULTRA.webm/12dbe059548c5a1f1929a144b2e48395.webm",
+    "jmcs://jd-contents/HeadOverHeels/HeadOverHeels_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HeadOverHeels/HeadOverHeels_MapPreviewNoSoundCrop_LOW.vp8.webm/733781ea35172d1fa9031c607d35d686.webm",
+    "jmcs://jd-contents/HeadOverHeels/HeadOverHeels_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HeadOverHeels/HeadOverHeels_MapPreviewNoSoundCrop_MID.vp8.webm/bb466353aca76cecefef9e6a39ab93f1.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"505209\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeadOverHeels/HeadOverHeels_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1495184\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeadOverHeels/HeadOverHeels_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 230.621417
+}

@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "6eeab746d4a46d8d55914675073448fa",
+      "storageType": 0,
+      "url": "/public/map/GimmeMoreALT/nx/GimmeMoreALT_MAIN_SCENE_NX.zip/6eeab746d4a46d8d55914675073448fa.zip"
+    },
+    "pc": {
+      "md5": "712b548734e52dd21ce56b1c7057defa",
+      "storageType": 0,
+      "url": "/public/map/GimmeMoreALT/pc/GimmeMoreALT_MAIN_SCENE_PC.zip/712b548734e52dd21ce56b1c7057defa.zip"
+    },
+    "ps4": {
+      "md5": "271b88e89e09b2db8fe840abddcb1ffe",
+      "storageType": 0,
+      "url": "/public/map/GimmeMoreALT/orbis/GimmeMoreALT_MAIN_SCENE_ORBIS.zip/271b88e89e09b2db8fe840abddcb1ffe.zip"
+    }
+  },
+  "data": {
+    "mapName": "GimmeMoreALT",
+    "title": "Gimme More",
+    "originalJDVersion": 2024,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Extreme"
+    ],
+    "artist": "Britney Spears",
+    "credits": "Written by Marcella Araica, Floyd Nathaniel Hills, Keri Lynn Hilson, James David Washington. Published by Reservoir Media Music, RMM 416 Publishing / Universal Music Publishing Canada on behalf of Keriokey Music and Universal Music Corp. / Hipgnosis SFH I Limited. Admin by Kobalt Songs Music Publishing.  Courtesy of RCA Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d40f0f",
+    "songColor2A": "#f63a85",
+    "songColor1B": "#220404",
+    "songColor2B": "#490781",
+    "lyricsColor": "#a64edf"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25413,
+        50826,
+        76239,
+        101652,
+        127065,
+        152478,
+        177891,
+        203304,
+        228717,
+        254130,
+        279543,
+        304956,
+        330368,
+        355781,
+        381194,
+        406607,
+        432020,
+        457433,
+        482846,
+        508259,
+        533672,
+        559085,
+        584498,
+        609911,
+        635324,
+        660737,
+        686150,
+        711563,
+        736976,
+        762389,
+        787802,
+        813215,
+        838628,
+        864041,
+        889454,
+        914867,
+        940280,
+        965693,
+        991105,
+        1016518,
+        1041931,
+        1067344,
+        1092757,
+        1118170,
+        1143583,
+        1168996,
+        1194409,
+        1219822,
+        1245235,
+        1270648,
+        1296061,
+        1321474,
+        1346887,
+        1372300,
+        1397713,
+        1423126,
+        1448539,
+        1473952,
+        1499365
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 464,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GimmeMoreALT/nx/GimmeMoreALT_banner_bkg.tga.ckd/1d29597dacaf5e154271aa9450a94659.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeMoreALT/nx/GimmeMoreALT_map_bkg.tga.ckd/4dbb09f90b8040fbb80e1d9e2db6a29f.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeMoreALT/nx/GimmeMoreALT_Cover_AlbumCoach.tga.ckd/34068d8a979bff032f8a6a52f3f298ef.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeMoreALT/nx/GimmeMoreALT_Cover_Online.tga.ckd/88a9e222a3214d8d218417e2baa134cf.ckd",
+      "coverImageUrl": "/public/map/GimmeMoreALT/nx/GimmeMoreALT_Cover_Generic.tga.ckd/a74c5120a61b410bdc706029f0d20d1b.ckd",
+      "coach1ImageUrl": "/public/map/GimmeMoreALT/nx/GimmeMoreALT_Coach_1.tga.ckd/047b54393a85a766df8b7bf6aea1f32f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GimmeMoreALT/pc/GimmeMoreALT_banner_bkg.tga.ckd/90575e96a2e0cc5cb10cd3cb98b83563.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeMoreALT/pc/GimmeMoreALT_map_bkg.tga.ckd/dacd72ffd38a509a2b8c3fe9794beeef.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeMoreALT/pc/GimmeMoreALT_Cover_AlbumCoach.tga.ckd/ca8b154f00a22a1015b50a1b9e124298.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeMoreALT/pc/GimmeMoreALT_Cover_Online.tga.ckd/79bdf40b18405381ed3616fef72143c9.ckd",
+      "coverImageUrl": "/public/map/GimmeMoreALT/pc/GimmeMoreALT_Cover_Generic.tga.ckd/dfcd764a06a023b498ba918e4aaa4092.ckd",
+      "coach1ImageUrl": "/public/map/GimmeMoreALT/pc/GimmeMoreALT_Coach_1.tga.ckd/caffa84efb95adefec8211e5bd74d67a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GimmeMoreALT/orbis/GimmeMoreALT_banner_bkg.tga.ckd/90575e96a2e0cc5cb10cd3cb98b83563.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeMoreALT/orbis/GimmeMoreALT_map_bkg.tga.ckd/dacd72ffd38a509a2b8c3fe9794beeef.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeMoreALT/orbis/GimmeMoreALT_Cover_AlbumCoach.tga.ckd/ca8b154f00a22a1015b50a1b9e124298.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeMoreALT/orbis/GimmeMoreALT_Cover_Online.tga.ckd/79bdf40b18405381ed3616fef72143c9.ckd",
+      "coverImageUrl": "/public/map/GimmeMoreALT/orbis/GimmeMoreALT_Cover_Generic.tga.ckd/dfcd764a06a023b498ba918e4aaa4092.ckd",
+      "coach1ImageUrl": "/public/map/GimmeMoreALT/orbis/GimmeMoreALT_Coach_1.tga.ckd/caffa84efb95adefec8211e5bd74d67a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GimmeMoreALT/GimmeMoreALT_Coach_1_Phone.png/e2eeb9ebf5ca15efb7922386cc2efe76.png",
+    "phoneCoverImageUrl": "/public/map/GimmeMoreALT/GimmeMoreALT_Cover_Phone.jpg/9a6bc0dbc92b4b8da6ae0d5031c24c61.jpg",
+    "cover640ImageUrl": "/public/map/GimmeMoreALT/GimmeMoreALT_Cover_640.png/d71d6770553ba9298601fd40e02e2576.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT.ogg": "/private/map/GimmeMoreALT/GimmeMoreALT.ogg/399cd51debff1d54d7cf9d9e36659d6a.ogg",
+    "jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT_AudioPreview.ogg": "/public/map/GimmeMoreALT/GimmeMoreALT_AudioPreview.ogg/47178194ea5a957afd8623d6a5cc344f.ogg",
+    "jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GimmeMoreALT/GimmeMoreALT_MapPreviewNoSoundCrop_LOW.vp8.webm/0310aac52f2df5fe7cc32aa6033174f7.webm",
+    "jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT_HIGH.webm": "/private/map/GimmeMoreALT/GimmeMoreALT_HIGH.webm/3ac0c6ab630256290f9cea513d5a352f.webm",
+    "jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT_LOW.webm": "/private/map/GimmeMoreALT/GimmeMoreALT_LOW.webm/248afd0186e43b503df684504b971b7a.webm",
+    "jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT_MID.webm": "/private/map/GimmeMoreALT/GimmeMoreALT_MID.webm/0ace82375acf1d3bee733a85e5aec1ec.webm",
+    "jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT_ULTRA.hd.webm": "/private/map/GimmeMoreALT/GimmeMoreALT_ULTRA.hd.webm/4a0a9870072e41e39920b22bee571fc0.webm",
+    "jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT_ULTRA.webm": "/private/map/GimmeMoreALT/GimmeMoreALT_ULTRA.webm/edee08407e10a7d1e2b2e98c7312a857.webm",
+    "jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GimmeMoreALT/GimmeMoreALT_MapPreviewNoSoundCrop_MID.vp8.webm/7539ea8919c33f71c537cbc86b4bfb94.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500228\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"667-1157\">\n\t\t\t\t\t<Initialization range=\"0-667\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1459164\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GimmeMoreALT/GimmeMoreALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"668-1158\">\n\t\t\t\t\t<Initialization range=\"0-668\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 249.371188
+}

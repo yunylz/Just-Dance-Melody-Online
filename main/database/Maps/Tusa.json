@@ -1,0 +1,161 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "6d48fc0babe9849e94a39834181f4440",
+      "storageType": 0,
+      "url": "/public/map/Tusa/nx/Tusa_MAIN_SCENE_NX.zip/6d48fc0babe9849e94a39834181f4440.zip"
+    },
+    "pc": {
+      "md5": "46fdeb5112a4a79eefcc17d80cc46889",
+      "storageType": 0,
+      "url": "/public/map/Tusa/pc/Tusa_MAIN_SCENE_PC.zip/46fdeb5112a4a79eefcc17d80cc46889.zip"
+    },
+    "ps4": {
+      "md5": "d7d636de600c60f389b3840f75e99f6a",
+      "storageType": 0,
+      "url": "/public/map/Tusa/orbis/Tusa_MAIN_SCENE_ORBIS.zip/d7d636de600c60f389b3840f75e99f6a.zip"
+    }
+  },
+  "data": {
+    "mapName": "Tusa",
+    "title": "Tusa",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "Karol G, Nicki Minaj",
+    "credits": "Written by Kevyn Mauricio Cruz Moreno, Juan Camilo Vargas Vasquez, Onika Tanya Maraj, Daniel Oviedo and Carolina Giraldo. Published by Girl Power Publishing (ASCAP) / On The Drums Publishing (ASCAP). Administered by Kobalt Music Publishing America, Inc. / JCVmusic (ASCAP) / Sony/ATV Discos Music Publishing LLC (ASCAP) / KCmusic (ASCAP) / Universal/MCA Music Ltd. All rights reserved. Used with permission. Courtesy of Universal/MCA Music Ltd.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#0f91ff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28515,
+        57030,
+        85545,
+        114059,
+        142574,
+        171089,
+        199604,
+        228119,
+        256634,
+        285149,
+        313663,
+        342178,
+        370693,
+        399208,
+        427723,
+        456238,
+        484752,
+        513267,
+        541782,
+        570297,
+        598812,
+        627327,
+        655842,
+        684356,
+        712871,
+        741386,
+        769901,
+        798416,
+        826931,
+        855446,
+        883960,
+        912475,
+        940990,
+        969505,
+        998020,
+        1026535,
+        1055050,
+        1083564,
+        1112079,
+        1140594,
+        1169109,
+        1197624,
+        1226139,
+        1254653,
+        1283168,
+        1311683,
+        1340198,
+        1368713,
+        1397228,
+        1425743,
+        1454257,
+        1482772
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 317,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Tusa/Tusa_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Tusa/nx/Tusa_banner_bkg.tga.ckd/aac31cf58eb0e23d3fe8f0c0595bcb2b.ckd",
+      "map_bkgImageUrl": "/public/map/Tusa/nx/Tusa_map_bkg.tga.ckd/44d4322558e472fb0f14c13cae02e796.ckd",
+      "expandCoachImageUrl": "/public/map/Tusa/nx/Tusa_Cover_AlbumCoach.tga.ckd/cd2551fc816c2a58d2f439d94591ec2f.ckd",
+      "cover_smallImageUrl": "/public/map/Tusa/nx/Tusa_Cover_Online.tga.ckd/57ed3f03c4ecd6790651083e1fe078e4.ckd",
+      "coach1ImageUrl": "/public/map/Tusa/nx/Tusa_Coach_1.tga.ckd/087d5d47c13281b2247c4fa098958942.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Tusa/pc/Tusa_banner_bkg.tga.ckd/269f6c2f6e8e13fbdda459d4742f76cc.ckd",
+      "map_bkgImageUrl": "/public/map/Tusa/pc/Tusa_map_bkg.tga.ckd/7f092960dd0575a416e4e9455e2c4731.ckd",
+      "expandCoachImageUrl": "/public/map/Tusa/pc/Tusa_Cover_AlbumCoach.tga.ckd/105dfa8a7039ba5ef3ba0243a75dcab1.ckd",
+      "cover_smallImageUrl": "/public/map/Tusa/pc/Tusa_Cover_Online.tga.ckd/3e4004f67a0cb2e2bda4c49afa04becb.ckd",
+      "coach1ImageUrl": "/public/map/Tusa/pc/Tusa_Coach_1.tga.ckd/935f27993289e5d572db871f07216d6a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Tusa/orbis/Tusa_banner_bkg.tga.ckd/269f6c2f6e8e13fbdda459d4742f76cc.ckd",
+      "map_bkgImageUrl": "/public/map/Tusa/orbis/Tusa_map_bkg.tga.ckd/7f092960dd0575a416e4e9455e2c4731.ckd",
+      "expandCoachImageUrl": "/public/map/Tusa/orbis/Tusa_Cover_AlbumCoach.tga.ckd/105dfa8a7039ba5ef3ba0243a75dcab1.ckd",
+      "cover_smallImageUrl": "/public/map/Tusa/orbis/Tusa_Cover_Online.tga.ckd/3e4004f67a0cb2e2bda4c49afa04becb.ckd",
+      "coach1ImageUrl": "/public/map/Tusa/orbis/Tusa_Coach_1.tga.ckd/935f27993289e5d572db871f07216d6a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Tusa/Tusa_Coach_1_Phone.png/d9fd7ea39818bdd98c83dbc968041cb0.png",
+    "phoneCoverImageUrl": "/public/map/Tusa/Tusa_Cover_Phone.jpg/fcaf683cdb9a7789afd667528b059aaf.jpg",
+    "cover640ImageUrl": "/public/map/Tusa/Tusa_Cover_640.png/c3b294a8a2dcfc8531dc08f98b940bee.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Tusa/Tusa.ogg": "/private/map/Tusa/Tusa.ogg/3c629e366523ba742de309236d49106f.ogg",
+    "jmcs://jd-contents/Tusa/Tusa_AudioPreview.ogg": "/public/map/Tusa/Tusa_AudioPreview.ogg/4a55d867aee82b47c2ffddfe87430b6f.ogg",
+    "jmcs://jd-contents/Tusa/Tusa_HIGH.webm": "/private/map/Tusa/Tusa_HIGH.webm/3204491eb7c612621909b47403880020.webm",
+    "jmcs://jd-contents/Tusa/Tusa_LOW.webm": "/private/map/Tusa/Tusa_LOW.webm/f01691605dc737c33af402b246262b49.webm",
+    "jmcs://jd-contents/Tusa/Tusa_MID.webm": "/private/map/Tusa/Tusa_MID.webm/842c68bc292515025e3898af5ed00df7.webm",
+    "jmcs://jd-contents/Tusa/Tusa_ULTRA.hd.webm": "/private/map/Tusa/Tusa_ULTRA.hd.webm/1507de68c78aaed65a605d3566c06545.webm",
+    "jmcs://jd-contents/Tusa/Tusa_ULTRA.webm": "/private/map/Tusa/Tusa_ULTRA.webm/799eb7be246ddcc3168fa48e81a95ce3.webm",
+    "jmcs://jd-contents/Tusa/Tusa_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Tusa/Tusa_MapPreviewNoSoundCrop_LOW.vp8.webm/654fa91452c615a369dbc1fa9faa0722.webm",
+    "jmcs://jd-contents/Tusa/Tusa_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Tusa/Tusa_MapPreviewNoSoundCrop_MID.vp8.webm/ff0eb76af0057688bec1ea78640f6065.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497636\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Tusa/Tusa_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\n\t\t\t\t\t<Initialization range=\"0-646\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1463136\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Tusa/Tusa_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 191.881083
+}

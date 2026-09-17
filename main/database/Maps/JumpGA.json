@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8edda0a31c40ea7c6d32a795cd4c81be",
+      "storageType": 0,
+      "url": "/public/map/JumpGA/nx/JumpGA_MAIN_SCENE_NX.zip/8edda0a31c40ea7c6d32a795cd4c81be.zip"
+    },
+    "pc": {
+      "md5": "24dceba8c4acf497749b2b3bfbbb361d",
+      "storageType": 0,
+      "url": "/public/map/JumpGA/pc/JumpGA_MAIN_SCENE_PC.zip/24dceba8c4acf497749b2b3bfbbb361d.zip"
+    },
+    "ps4": {
+      "md5": "6a2e4db2bf10cf6fe7a642714ab755df",
+      "storageType": 0,
+      "url": "/public/map/JumpGA/orbis/JumpGA_MAIN_SCENE_ORBIS.zip/6a2e4db2bf10cf6fe7a642714ab755df.zip"
+    }
+  },
+  "data": {
+    "mapName": "JumpGA",
+    "title": "Jump (For My Love)",
+    "originalJDVersion": 3,
+    "tags": [
+      "main"
+    ],
+    "artist": "Girls Aloud",
+    "credits": "Written by Marti Sharron, Stephen Mitchell and Gary Skardina. Published by EMI April Music Inc. (ASCAP), Sony/ATV Tunes LLC (ASCAP), Anidraks Music, Inc. and Sony/ATV Music Publishing Canada (SOCAN). All Rights Reserved. Used by Permission. Courtesy of Polydor Ltd. (UK) under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#14d4ff",
+    "songColor2A": "#ff67e9",
+    "songColor1B": "#020061",
+    "songColor2B": "#18004e",
+    "lyricsColor": "#3fc0ff",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25779,
+        51558,
+        77337,
+        103116,
+        128899,
+        150310,
+        171722,
+        193134,
+        214545,
+        235957,
+        257369,
+        278780,
+        300192,
+        321604,
+        343016,
+        364427,
+        385839,
+        407251,
+        428662,
+        450074,
+        471486,
+        492897,
+        514309,
+        535721,
+        557133,
+        578544,
+        599956,
+        621368,
+        642779,
+        664191,
+        685603,
+        707014,
+        728426,
+        749838,
+        771250,
+        792661,
+        814073,
+        835485,
+        856896,
+        878308,
+        899720,
+        921131,
+        942543,
+        963955,
+        985367,
+        1006778,
+        1028190,
+        1049602,
+        1071013,
+        1092425,
+        1113837,
+        1135248,
+        1156660,
+        1178072,
+        1199513,
+        1220925,
+        1242336,
+        1263748,
+        1285160,
+        1306571,
+        1327983,
+        1349395,
+        1370807,
+        1392218,
+        1413630,
+        1435042,
+        1456453,
+        1477865
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 496,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JumpGA/JumpGA_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JumpGA/nx/JumpGA_banner_bkg.tga.ckd/6aeb49c8dccdef806572ed34340e4236.ckd",
+      "map_bkgImageUrl": "/public/map/JumpGA/nx/JumpGA_map_bkg.tga.ckd/aac97ccaa2f235814cf96d34243de1e4.ckd",
+      "expandCoachImageUrl": "/public/map/JumpGA/nx/JumpGA_Cover_AlbumCoach.tga.ckd/e45f40c6a8d4e3917af729f8d880cf72.ckd",
+      "cover_smallImageUrl": "/public/map/JumpGA/nx/JumpGA_Cover_Online.tga.ckd/11e594e3bedf8713ef4d3a8c2821e485.ckd",
+      "coach1ImageUrl": "/public/map/JumpGA/nx/JumpGA_Coach_1.tga.ckd/8606ff44e2dd4acd52b207046121d90f.ckd",
+      "coach2ImageUrl": "/public/map/JumpGA/nx/JumpGA_Coach_2.tga.ckd/a278355c1751b325050d32d46970bca8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JumpGA/pc/JumpGA_banner_bkg.tga.ckd/dc3127b52cfe44b251ea552469a33638.ckd",
+      "map_bkgImageUrl": "/public/map/JumpGA/pc/JumpGA_map_bkg.tga.ckd/91c0bd6c5036b8208d3a9bcd41ec79ba.ckd",
+      "expandCoachImageUrl": "/public/map/JumpGA/pc/JumpGA_Cover_AlbumCoach.tga.ckd/f873f824940b38c711c97daefbb4c5cc.ckd",
+      "cover_smallImageUrl": "/public/map/JumpGA/pc/JumpGA_Cover_Online.tga.ckd/43f255027f8ce962d1f6195f440c0b72.ckd",
+      "coach1ImageUrl": "/public/map/JumpGA/pc/JumpGA_Coach_1.tga.ckd/5d2ed4fa7cce1736cc9040eac65c6a7c.ckd",
+      "coach2ImageUrl": "/public/map/JumpGA/pc/JumpGA_Coach_2.tga.ckd/a234e3a358bbd27d7dd2890b9b078261.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JumpGA/orbis/JumpGA_banner_bkg.tga.ckd/dc3127b52cfe44b251ea552469a33638.ckd",
+      "map_bkgImageUrl": "/public/map/JumpGA/orbis/JumpGA_map_bkg.tga.ckd/91c0bd6c5036b8208d3a9bcd41ec79ba.ckd",
+      "expandCoachImageUrl": "/public/map/JumpGA/orbis/JumpGA_Cover_AlbumCoach.tga.ckd/f873f824940b38c711c97daefbb4c5cc.ckd",
+      "cover_smallImageUrl": "/public/map/JumpGA/orbis/JumpGA_Cover_Online.tga.ckd/43f255027f8ce962d1f6195f440c0b72.ckd",
+      "coach1ImageUrl": "/public/map/JumpGA/orbis/JumpGA_Coach_1.tga.ckd/5d2ed4fa7cce1736cc9040eac65c6a7c.ckd",
+      "coach2ImageUrl": "/public/map/JumpGA/orbis/JumpGA_Coach_2.tga.ckd/a234e3a358bbd27d7dd2890b9b078261.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JumpGA/JumpGA_Coach_1_Phone.png/47c1193abb7b87e6a76f12f664a3e106.png",
+    "phoneCoach2ImageUrl": "/public/map/JumpGA/JumpGA_Coach_2_Phone.png/d45b4c8cb84a7e95a3149623c7e0c00d.png",
+    "phoneCoverImageUrl": "/public/map/JumpGA/JumpGA_Cover_Phone.jpg/8fbc36fdb79520a09fc87bd2dea59e1d.jpg",
+    "cover640ImageUrl": "/public/map/JumpGA/JumpGA_Cover_640.png/22b9d177eea1ae5cd537d11c30261c22.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JumpGA/JumpGA.ogg": "/private/map/JumpGA/JumpGA.ogg/d4a45aed34f4f77c808493b70b817a58.ogg",
+    "jmcs://jd-contents/JumpGA/JumpGA_AudioPreview.ogg": "/public/map/JumpGA/JumpGA_AudioPreview.ogg/48d960791787a458f221a0f5b92a4bdb.ogg",
+    "jmcs://jd-contents/JumpGA/JumpGA_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JumpGA/JumpGA_MapPreviewNoSoundCrop_LOW.vp8.webm/d15e16d3ce4bee6d7d4b8185b57d4212.webm",
+    "jmcs://jd-contents/JumpGA/JumpGA_HIGH.webm": "/private/map/JumpGA/JumpGA_HIGH.webm/7aa0651ca9b59a8328cee04e553d3393.webm",
+    "jmcs://jd-contents/JumpGA/JumpGA_LOW.webm": "/private/map/JumpGA/JumpGA_LOW.webm/0dc8403007fdf0e8372b6b2a1cd80443.webm",
+    "jmcs://jd-contents/JumpGA/JumpGA_MID.webm": "/private/map/JumpGA/JumpGA_MID.webm/06da406367405b45c40c12047b63027d.webm",
+    "jmcs://jd-contents/JumpGA/JumpGA_ULTRA.hd.webm": "/private/map/JumpGA/JumpGA_ULTRA.hd.webm/376a00bd60bc5ff90a682cc698dc6120.webm",
+    "jmcs://jd-contents/JumpGA/JumpGA_ULTRA.webm": "/private/map/JumpGA/JumpGA_ULTRA.webm/62d476a0f04c17278d0b7bf7471217d7.webm",
+    "jmcs://jd-contents/JumpGA/JumpGA_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JumpGA/JumpGA_MapPreviewNoSoundCrop_MID.vp8.webm/a2e276085a65e2e7753aa7daf704b976.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496353\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JumpGA/JumpGA_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\n\t\t\t\t\t<Initialization range=\"0-625\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1465250\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JumpGA/JumpGA_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\n\t\t\t\t\t<Initialization range=\"0-626\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 221.956167
+}

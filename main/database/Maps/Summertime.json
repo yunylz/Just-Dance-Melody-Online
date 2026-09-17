@@ -1,0 +1,164 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "de4802eabb9cf2fc3f160928e5e7b84f",
+      "storageType": 0,
+      "url": "/public/map/Summertime/nx/Summertime_MAIN_SCENE_NX.zip/de4802eabb9cf2fc3f160928e5e7b84f.zip"
+    },
+    "pc": {
+      "md5": "b10b14c82f08dd365eadc04562e1b85a",
+      "storageType": 0,
+      "url": "/public/map/Summertime/pc/Summertime_MAIN_SCENE_PC.zip/b10b14c82f08dd365eadc04562e1b85a.zip"
+    },
+    "ps4": {
+      "md5": "cde11c657fcb8f6a843db3c5c304f14a",
+      "storageType": 0,
+      "url": "/public/map/Summertime/orbis/Summertime_MAIN_SCENE_ORBIS.zip/cde11c657fcb8f6a843db3c5c304f14a.zip"
+    }
+  },
+  "data": {
+    "mapName": "Summertime",
+    "title": "In The Summertime",
+    "originalJDVersion": 2014,
+    "tags": [
+      "main"
+    ],
+    "artist": "Mungo Jerry",
+    "credits": "",
+    "coachCount": 4,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#2bf8ff",
+    "songColor2A": "#fff600",
+    "songColor1B": "#005d6e",
+    "songColor2B": "#989300",
+    "lyricsColor": "#f2bf27"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        35951,
+        71903,
+        107855,
+        143423,
+        179039,
+        214655,
+        250271,
+        285887,
+        321503,
+        357119,
+        392687,
+        427103,
+        461519,
+        495887,
+        530303,
+        564815,
+        599279,
+        633791,
+        668255,
+        703343,
+        738431,
+        773471,
+        808559,
+        843503,
+        878447,
+        913391,
+        948383,
+        983663,
+        1018991,
+        1054271,
+        1089599,
+        1123871,
+        1158191,
+        1192463,
+        1226735,
+        1261535,
+        1296334,
+        1331134,
+        1365886,
+        1401502,
+        1437070,
+        1472638,
+        1508206
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 290,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 41,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Summertime/Summertime_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Summertime/nx/Summertime_banner_bkg.tga.ckd/e33c2f38a95fbf6d59ad8c3f6c3c4df4.ckd",
+      "map_bkgImageUrl": "/public/map/Summertime/nx/Summertime_map_bkg.tga.ckd/b4d699a7721fa079addee59a868be704.ckd",
+      "expandCoachImageUrl": "/public/map/Summertime/nx/Summertime_Cover_AlbumCoach.tga.ckd/20415e3e6c7e61118d17f9e2595e4616.ckd",
+      "cover_smallImageUrl": "/public/map/Summertime/nx/Summertime_Cover_Online.tga.ckd/f4e635feb52599d8db04edb48206396b.ckd",
+      "coach1ImageUrl": "/public/map/Summertime/nx/Summertime_Coach_1.tga.ckd/8f16e2a72c4764b450900c7fcd8a6e08.ckd",
+      "coach2ImageUrl": "/public/map/Summertime/nx/Summertime_Coach_2.tga.ckd/c46f4cef7acebdcdc33484a8fadaaec9.ckd",
+      "coach3ImageUrl": "/public/map/Summertime/nx/Summertime_Coach_3.tga.ckd/458071ab3efb338280ae0222b6155ea2.ckd",
+      "coach4ImageUrl": "/public/map/Summertime/nx/Summertime_Coach_4.tga.ckd/f7c86c774aab73041a3e68f6b1337e91.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Summertime/pc/Summertime_banner_bkg.tga.ckd/5323ba56ca537f5a7423106b7fbd2292.ckd",
+      "map_bkgImageUrl": "/public/map/Summertime/pc/Summertime_map_bkg.tga.ckd/b6c1809d2ce5b80b0c96b502688f07a4.ckd",
+      "expandCoachImageUrl": "/public/map/Summertime/pc/Summertime_Cover_AlbumCoach.tga.ckd/7fa553755700bcb603115d57c9b22581.ckd",
+      "cover_smallImageUrl": "/public/map/Summertime/pc/Summertime_Cover_Online.tga.ckd/ba5fe3453505bfe1465585ea4bfa8439.ckd",
+      "coach1ImageUrl": "/public/map/Summertime/pc/Summertime_Coach_1.tga.ckd/13fe3977b4f0f27ba0c1a3cf41891c6c.ckd",
+      "coach2ImageUrl": "/public/map/Summertime/pc/Summertime_Coach_2.tga.ckd/b645bdd1cb18774ad11493961ccce8c5.ckd",
+      "coach3ImageUrl": "/public/map/Summertime/pc/Summertime_Coach_3.tga.ckd/e461dfa1cc0ce4d4db4a37b238f94ab5.ckd",
+      "coach4ImageUrl": "/public/map/Summertime/pc/Summertime_Coach_4.tga.ckd/4efd09b2eca333a6d06a82d6580acc40.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Summertime/orbis/Summertime_banner_bkg.tga.ckd/5323ba56ca537f5a7423106b7fbd2292.ckd",
+      "map_bkgImageUrl": "/public/map/Summertime/orbis/Summertime_map_bkg.tga.ckd/b6c1809d2ce5b80b0c96b502688f07a4.ckd",
+      "expandCoachImageUrl": "/public/map/Summertime/orbis/Summertime_Cover_AlbumCoach.tga.ckd/7fa553755700bcb603115d57c9b22581.ckd",
+      "cover_smallImageUrl": "/public/map/Summertime/orbis/Summertime_Cover_Online.tga.ckd/ba5fe3453505bfe1465585ea4bfa8439.ckd",
+      "coach1ImageUrl": "/public/map/Summertime/orbis/Summertime_Coach_1.tga.ckd/13fe3977b4f0f27ba0c1a3cf41891c6c.ckd",
+      "coach2ImageUrl": "/public/map/Summertime/orbis/Summertime_Coach_2.tga.ckd/b645bdd1cb18774ad11493961ccce8c5.ckd",
+      "coach3ImageUrl": "/public/map/Summertime/orbis/Summertime_Coach_3.tga.ckd/e461dfa1cc0ce4d4db4a37b238f94ab5.ckd",
+      "coach4ImageUrl": "/public/map/Summertime/orbis/Summertime_Coach_4.tga.ckd/4efd09b2eca333a6d06a82d6580acc40.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Summertime/Summertime_Coach_1_Phone.png/4ca798a09ba930c02d4b44ce3504f860.png",
+    "phoneCoach2ImageUrl": "/public/map/Summertime/Summertime_Coach_2_Phone.png/cf7d8d19c91af1d4ee6be2340044c943.png",
+    "phoneCoach3ImageUrl": "/public/map/Summertime/Summertime_Coach_3_Phone.png/bbc643bc9ef654dff02c6963a6cf1d31.png",
+    "phoneCoach4ImageUrl": "/public/map/Summertime/Summertime_Coach_4_Phone.png/7d021a574b167dbd1cf8cc1bed17a147.png",
+    "phoneCoverImageUrl": "/public/map/Summertime/Summertime_Cover_Phone.jpg/c1d461bf4b8e8fce78e3b5dbff407e61.jpg",
+    "cover640ImageUrl": "/public/map/Summertime/Summertime_Cover_640.png/90fe362da1d2b9db47c9b38fe4487dda.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Summertime/Summertime.ogg": "/private/map/Summertime/Summertime.ogg/748ce910e9519f7aa9b95dccbf0c31f1.ogg",
+    "jmcs://jd-contents/Summertime/Summertime_AudioPreview.ogg": "/public/map/Summertime/Summertime_AudioPreview.ogg/594bffc372c1ad9153f09c2d48568723.ogg",
+    "jmcs://jd-contents/Summertime/Summertime_HIGH.webm": "/private/map/Summertime/Summertime_HIGH.webm/301550cba2a03592a2c8f0a992b9d419.webm",
+    "jmcs://jd-contents/Summertime/Summertime_LOW.webm": "/private/map/Summertime/Summertime_LOW.webm/96c3e2e7244810e01d98a6f200037502.webm",
+    "jmcs://jd-contents/Summertime/Summertime_MID.webm": "/private/map/Summertime/Summertime_MID.webm/880b0c63283de3299771c24eb5a936a8.webm",
+    "jmcs://jd-contents/Summertime/Summertime_ULTRA.hd.webm": "/private/map/Summertime/Summertime_ULTRA.hd.webm/178c7f1b12f5cc4e86674166d37787df.webm",
+    "jmcs://jd-contents/Summertime/Summertime_ULTRA.webm": "/private/map/Summertime/Summertime_ULTRA.webm/76ea5917a6fb3ef6b68398240aafb08d.webm",
+    "jmcs://jd-contents/Summertime/Summertime_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Summertime/Summertime_MapPreviewNoSoundCrop_LOW.vp8.webm/1509c080713531970f6bfcf2b3ec3694.webm",
+    "jmcs://jd-contents/Summertime/Summertime_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Summertime/Summertime_MapPreviewNoSoundCrop_MID.vp8.webm/3d2489b3d48941a4574719760dec8886.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"533848\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Summertime/Summertime_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1508850\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Summertime/Summertime_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 212.568979
+}

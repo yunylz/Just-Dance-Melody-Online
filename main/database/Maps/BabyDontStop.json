@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "pc": {
+      "md5": "7cb0b083147cb4d60230d5f9cdfa4075",
+      "storageType": 0,
+      "url": "/public/map/BabyDontStop/pc/BabyDontStop_MAIN_SCENE_PC.zip/7cb0b083147cb4d60230d5f9cdfa4075.zip"
+    },
+    "nx": {
+      "md5": "42f74fe2dff414a32e82bccd265e9e43",
+      "storageType": 0,
+      "url": "/public/map/BabyDontStop/nx/BabyDontStop_MAIN_SCENE_NX.zip/42f74fe2dff414a32e82bccd265e9e43.zip"
+    },
+    "ps4": {
+      "md5": "49f5ea5a1bd6aed6f00c2761a95901b4",
+      "storageType": 0,
+      "url": "/public/map/BabyDontStop/orbis/BabyDontStop_MAIN_SCENE_ORBIS.zip/49f5ea5a1bd6aed6f00c2761a95901b4.zip"
+    }
+  },
+  "data": {
+    "mapName": "BabyDontStop",
+    "title": "Baby Don't Stop Now",
+    "originalJDVersion": 3,
+    "tags": [
+      "subscribedSong",
+      "JustDance3",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "ANJA",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#941cfa",
+    "songColor2A": "#c9cc00",
+    "songColor1B": "#060033",
+    "songColor2B": "#3e3c03",
+    "lyricsColor": "#e208ff",
+    "LocaleID": -1
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        99505,
+        122928,
+        146351,
+        169727,
+        193150,
+        216573,
+        239997,
+        263420,
+        286796,
+        310219,
+        333642,
+        357066,
+        380489,
+        403864,
+        427288,
+        450711,
+        474135,
+        497558,
+        520933,
+        544357,
+        567780,
+        591203,
+        614627,
+        638002,
+        661426,
+        684849,
+        708272,
+        731696,
+        755071,
+        778494,
+        801918,
+        825341,
+        848765,
+        872140,
+        895563,
+        918987,
+        942410,
+        965833,
+        989209,
+        1012632,
+        1036056,
+        1059479,
+        1082902,
+        1106278,
+        1129701,
+        1153124,
+        1176548,
+        1199971,
+        1223347,
+        1246770,
+        1270193,
+        1293617,
+        1317040,
+        1340415,
+        1363839,
+        1387262,
+        1410686,
+        1434109,
+        1457484,
+        1480908
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 432,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BabyDontStop/BabyDontStop_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BabyDontStop/nx/BabyDontStop_banner_bkg.tga.ckd/bc170b911dc095791f3ba2747036bc56.ckd",
+      "map_bkgImageUrl": "/public/map/BabyDontStop/nx/BabyDontStop_map_bkg.tga.ckd/10a1304bb2859fceb46759be177a93bc.ckd",
+      "expandCoachImageUrl": "/public/map/BabyDontStop/nx/BabyDontStop_Cover_AlbumCoach.tga.ckd/e7d79f7a010e71dc89b21730c1a8437f.ckd",
+      "cover_smallImageUrl": "/public/map/BabyDontStop/nx/BabyDontStop_Cover_Online.tga.ckd/899f456260d21eaf69cbeee23251479a.ckd",
+      "coach1ImageUrl": "/public/map/BabyDontStop/nx/BabyDontStop_Coach_1.tga.ckd/4f0e1c519ad821e2d17fa4228bdfd480.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BabyDontStop/pc/BabyDontStop_banner_bkg.tga.ckd/864e91d075bc7e57d9f86f77b71e5a64.ckd",
+      "map_bkgImageUrl": "/public/map/BabyDontStop/pc/BabyDontStop_map_bkg.tga.ckd/f25224c6fa6b7ce0b97f08190020bea4.ckd",
+      "expandCoachImageUrl": "/public/map/BabyDontStop/pc/BabyDontStop_Cover_AlbumCoach.tga.ckd/6f178ff3f6748fbaa0205162e913dc10.ckd",
+      "cover_smallImageUrl": "/public/map/BabyDontStop/pc/BabyDontStop_Cover_Online.tga.ckd/41fb024d49eb141b795a1fbcfec7b02f.ckd",
+      "coach1ImageUrl": "/public/map/BabyDontStop/pc/BabyDontStop_Coach_1.tga.ckd/4dbcd84a3713245188787839089d861c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BabyDontStop/orbis/BabyDontStop_banner_bkg.tga.ckd/864e91d075bc7e57d9f86f77b71e5a64.ckd",
+      "map_bkgImageUrl": "/public/map/BabyDontStop/orbis/BabyDontStop_map_bkg.tga.ckd/f25224c6fa6b7ce0b97f08190020bea4.ckd",
+      "expandCoachImageUrl": "/public/map/BabyDontStop/orbis/BabyDontStop_Cover_AlbumCoach.tga.ckd/6f178ff3f6748fbaa0205162e913dc10.ckd",
+      "cover_smallImageUrl": "/public/map/BabyDontStop/orbis/BabyDontStop_Cover_Online.tga.ckd/41fb024d49eb141b795a1fbcfec7b02f.ckd",
+      "coach1ImageUrl": "/public/map/BabyDontStop/orbis/BabyDontStop_Coach_1.tga.ckd/4dbcd84a3713245188787839089d861c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BabyDontStop/BabyDontStop_Coach_1_Phone.png/7a7a65f87ac6b36a3fa6a21fb18096ce.png",
+    "phoneCoverImageUrl": "/public/map/BabyDontStop/BabyDontStop_Cover_Phone.jpg/3431cc1f5bd8588332b773e6c99273d9.jpg",
+    "cover640ImageUrl": "/public/map/BabyDontStop/BabyDontStop_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BabyDontStop/BabyDontStop.ogg": "/private/map/BabyDontStop/BabyDontStop.ogg/395075d39de1a681cafd1e4a6ba093de.ogg",
+    "jmcs://jd-contents/BabyDontStop/BabyDontStop_AudioPreview.ogg": "/public/map/BabyDontStop/BabyDontStop_AudioPreview.ogg/5fb3b39f94e3a3212d24a2391af758dd.ogg",
+    "jmcs://jd-contents/BabyDontStop/BabyDontStop_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BabyDontStop/BabyDontStop_MapPreviewNoSoundCrop_LOW.vp8.webm/950efe8683041dd10899ca16220d4939.webm",
+    "jmcs://jd-contents/BabyDontStop/BabyDontStop_HIGH.webm": "/private/map/BabyDontStop/BabyDontStop_HIGH.webm/1b4e29a20b085423268a54a34411f4a3.webm",
+    "jmcs://jd-contents/BabyDontStop/BabyDontStop_LOW.webm": "/private/map/BabyDontStop/BabyDontStop_LOW.webm/c4d450ffcfb5244132b9909db1553e69.webm",
+    "jmcs://jd-contents/BabyDontStop/BabyDontStop_MID.webm": "/private/map/BabyDontStop/BabyDontStop_MID.webm/f36dd3469b0436b89bc9718436fe3ccd.webm",
+    "jmcs://jd-contents/BabyDontStop/BabyDontStop_ULTRA.webm": "/private/map/BabyDontStop/BabyDontStop_ULTRA.webm/be95d2393dfdccf62d8450571a78cbc9.webm",
+    "jmcs://jd-contents/BabyDontStop/BabyDontStop_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BabyDontStop/BabyDontStop_MapPreviewNoSoundCrop_MID.vp8.webm/156809d07a5794f8e78ab7f5ee8e665a.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"506149\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyDontStop/BabyDontStop_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"612-1102\">\n\t\t\t\t\t<Initialization range=\"0-612\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1494251\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyDontStop/BabyDontStop_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"613-1103\">\n\t\t\t\t\t<Initialization range=\"0-613\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 215.895667
+}

@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "425e02d19406e307f4fdc26990395a5e",
+      "storageType": 0,
+      "url": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_MAIN_SCENE_NX.zip/425e02d19406e307f4fdc26990395a5e.zip"
+    },
+    "pc": {
+      "md5": "13bcf828d969e0460a9f9495a3f936de",
+      "storageType": 0,
+      "url": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_MAIN_SCENE_PC.zip/13bcf828d969e0460a9f9495a3f936de.zip"
+    },
+    "ps4": {
+      "md5": "29bc05039b49ab2dafc8b52537310291",
+      "storageType": 0,
+      "url": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_MAIN_SCENE_ORBIS.zip/29bc05039b49ab2dafc8b52537310291.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJBlackOrWhite",
+    "title": "Black Or White",
+    "originalJDVersion": 2009,
+    "tags": [
+      "main"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#a37224"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        13727,
+        38735,
+        63694,
+        88701,
+        113709,
+        138716,
+        163724,
+        188731,
+        213738,
+        238746,
+        263753,
+        288809,
+        313816,
+        338631,
+        363831,
+        388886,
+        413894,
+        438901,
+        463956,
+        488964,
+        513971,
+        539027,
+        564034,
+        589041,
+        614097,
+        639104,
+        664112,
+        689167,
+        714174,
+        739182,
+        764237,
+        789245,
+        814252,
+        839259,
+        864315,
+        889322,
+        914330,
+        939385,
+        964392,
+        989400,
+        1014455,
+        1039751,
+        1064758,
+        1089813,
+        1114821,
+        1139828,
+        1164884,
+        1189891,
+        1214898,
+        1239954,
+        1264961,
+        1289969,
+        1315024,
+        1340031,
+        1365039,
+        1390094,
+        1415102,
+        1440109,
+        1465116,
+        1490172
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 381,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_banner_bkg.tga.ckd/48346e2ec2e600c3e79b6ac84a71c5a2.ckd",
+      "map_bkgImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_map_bkg.tga.ckd/d40cd2b86a9fd856fe8c31ace50bed8c.ckd",
+      "expandCoachImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_Cover_AlbumCoach.tga.ckd/571b32f09497f62f1c11c85aa1f988b4.ckd",
+      "cover_smallImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_Cover_Online.tga.ckd/baa74faa169a48b216e730862b48739d.ckd",
+      "coach1ImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_Coach_1.tga.ckd/9515afa3b331fb1a41401c774e90c099.ckd",
+      "coach2ImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_Coach_2.tga.ckd/8a0f00cbe992307496c07e446b3efb3c.ckd",
+      "coach3ImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_Coach_3.tga.ckd/9515afa3b331fb1a41401c774e90c099.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_banner_bkg.tga.ckd/e60819b63bb3fd187d93ab68c18ba6ed.ckd",
+      "map_bkgImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_map_bkg.tga.ckd/1cefc6111c7ba5fb0da4e80e2df0dc7d.ckd",
+      "expandCoachImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_Cover_AlbumCoach.tga.ckd/af8b35cd6346882fda6f303951e86913.ckd",
+      "cover_smallImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_Cover_Online.tga.ckd/35dbf68d154324b7a729aa4850a9eb40.ckd",
+      "coach1ImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_Coach_1.tga.ckd/c8ea50ea57b4f872335683ba22037756.ckd",
+      "coach2ImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_Coach_2.tga.ckd/cdb83a03bc3fa847b5feee07f90460fe.ckd",
+      "coach3ImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_Coach_3.tga.ckd/c8ea50ea57b4f872335683ba22037756.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_banner_bkg.tga.ckd/e60819b63bb3fd187d93ab68c18ba6ed.ckd",
+      "map_bkgImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_map_bkg.tga.ckd/1cefc6111c7ba5fb0da4e80e2df0dc7d.ckd",
+      "expandCoachImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_Cover_AlbumCoach.tga.ckd/af8b35cd6346882fda6f303951e86913.ckd",
+      "cover_smallImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_Cover_Online.tga.ckd/35dbf68d154324b7a729aa4850a9eb40.ckd",
+      "coach1ImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_Coach_1.tga.ckd/c8ea50ea57b4f872335683ba22037756.ckd",
+      "coach2ImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_Coach_2.tga.ckd/cdb83a03bc3fa847b5feee07f90460fe.ckd",
+      "coach3ImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_Coach_3.tga.ckd/c8ea50ea57b4f872335683ba22037756.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJBlackOrWhite/MJBlackOrWhite_Coach_1_Phone.png/9850deea0a4e77674fa9eba147f2fd05.png",
+    "phoneCoach2ImageUrl": "/public/map/MJBlackOrWhite/MJBlackOrWhite_Coach_2_Phone.png/083f899bd7ae7e31358d7e8d8f84a057.png",
+    "phoneCoach3ImageUrl": "/public/map/MJBlackOrWhite/MJBlackOrWhite_Coach_3_Phone.png/9850deea0a4e77674fa9eba147f2fd05.png",
+    "phoneCoverImageUrl": "/public/map/MJBlackOrWhite/MJBlackOrWhite_Cover_Phone.jpg/a594ad4e80a37d535fcccc0c87f90de5.jpg",
+    "cover640ImageUrl": "/public/map/MJBlackOrWhite/MJBlackOrWhite_Cover_640.png/78fb76c2deacc9ed51b3161f1f43378f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite.ogg": "/private/map/MJBlackOrWhite/MJBlackOrWhite.ogg/f1c1033fd3eb4253cdf4344023e638db.ogg",
+    "jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite_AudioPreview.ogg": "/public/map/MJBlackOrWhite/MJBlackOrWhite_AudioPreview.ogg/f26d58292953685af6269af929dec59f.ogg",
+    "jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite_HIGH.webm": "/private/map/MJBlackOrWhite/MJBlackOrWhite_HIGH.webm/ed8efac0bc3702b7602204bb313c2c73.webm",
+    "jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite_LOW.webm": "/private/map/MJBlackOrWhite/MJBlackOrWhite_LOW.webm/ef62f1b2df1895097b52daa57cbe9a48.webm",
+    "jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite_MID.webm": "/private/map/MJBlackOrWhite/MJBlackOrWhite_MID.webm/5e5cde598d31b98d84964fa534f18ecf.webm",
+    "jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite_ULTRA.hd.webm": "/private/map/MJBlackOrWhite/MJBlackOrWhite_ULTRA.hd.webm/752fa0abe520fda67518e7865f87f204.webm",
+    "jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite_ULTRA.webm": "/private/map/MJBlackOrWhite/MJBlackOrWhite_ULTRA.webm/e3ad376aba1aeecab571ff9e7d107fa8.webm",
+    "jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJBlackOrWhite/MJBlackOrWhite_MapPreviewNoSoundCrop_LOW.vp8.webm/ba4f05cabd645e928cc772d8a3d44953.webm",
+    "jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJBlackOrWhite/MJBlackOrWhite_MapPreviewNoSoundCrop_MID.vp8.webm/465cc0b209b567b79addb99431f4869d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"520081\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"577-1067\">\n\t\t\t\t\t<Initialization range=\"0-577\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1492449\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJBlackOrWhite/MJBlackOrWhite_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"578-1068\">\n\t\t\t\t\t<Initialization range=\"0-578\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 199.4
+}

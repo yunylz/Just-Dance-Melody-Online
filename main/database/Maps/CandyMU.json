@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/CandyMU/CandyMU.ogg": "/private/map/CandyMU/CandyMU.ogg/4c503fe6e60bbaa0389515e2ab981d72.ogg",
+    "jmcs://jd-contents/CandyMU/CandyMU_AudioPreview.ogg": "/public/map/CandyMU/CandyMU_AudioPreview.ogg/b85d929fe538da4fd42814eda60455a5.ogg",
+    "jmcs://jd-contents/CandyMU/CandyMU_HIGH.hd.webm": "/private/map/CandyMU/CandyMU_HIGH.hd.webm/3d68648a02871f1d3ca6c583b1f1100e.webm",
+    "jmcs://jd-contents/CandyMU/CandyMU_LOW.hd.webm": "/private/map/CandyMU/CandyMU_LOW.hd.webm/53ffc1049f0c9e2df2e839023c8792d5.webm",
+    "jmcs://jd-contents/CandyMU/CandyMU_MID.hd.webm": "/private/map/CandyMU/CandyMU_MID.hd.webm/0983246f33680cfc2f8957a7506905a2.webm",
+    "jmcs://jd-contents/CandyMU/CandyMU_ULTRA.hd.webm": "/private/map/CandyMU/CandyMU_ULTRA.hd.webm/0498a6f7fea8ea4b4b57f3e219cb1161.webm",
+    "jmcs://jd-contents/CandyMU/CandyMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CandyMU/CandyMU_MapPreviewNoSoundCrop_LOW.vp8.webm/e88d4f50bc2fee434040235944fc1960.webm",
+    "jmcs://jd-contents/CandyMU/CandyMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CandyMU/CandyMU_MapPreviewNoSoundCrop_MID.vp8.webm/31c0c9386f21305c413bc9ff566dee93.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24815,
+        49679,
+        74495,
+        99311,
+        124127,
+        148991,
+        173807,
+        198623,
+        223439,
+        248303,
+        273119,
+        297935,
+        322751,
+        347615,
+        372431,
+        397247,
+        422063,
+        446927,
+        471743,
+        496559,
+        521423,
+        546239,
+        571055,
+        595871,
+        620735,
+        645551,
+        670367,
+        695183,
+        720047,
+        744863,
+        769679,
+        794495,
+        819359,
+        844175,
+        868991,
+        893807,
+        918671,
+        943487,
+        968303,
+        993167,
+        1017983,
+        1042799,
+        1067615,
+        1092479,
+        1117295,
+        1142111,
+        1166927,
+        1191791,
+        1216607,
+        1241423,
+        1266239,
+        1291103,
+        1315919,
+        1340735,
+        1365551,
+        1390415,
+        1415231,
+        1440047,
+        1464911,
+        1489727
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 388,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CandyMU/CandyMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CandyMU/nx/CandyMU_banner_bkg.tga.ckd/f6b2fd2b814f5656b578e2700d3aa8df.ckd",
+      "map_bkgImageUrl": "/public/map/CandyMU/nx/CandyMU_map_bkg.tga.ckd/8fb44c78f5c842c6dacb5233708bb4df.ckd",
+      "expandCoachImageUrl": "/public/map/CandyMU/nx/CandyMU_Cover_AlbumCoach.tga.ckd/f44e2ee1b8ac048baf890edc89267273.ckd",
+      "cover_smallImageUrl": "/public/map/CandyMU/nx/CandyMU_Cover_Online.tga.ckd/441d8a1554ea118bf1b32fc5f5f55c6f.ckd",
+      "coverImageUrl": "/public/map/CandyMU/nx/CandyMU_Cover_Generic.tga.ckd/88ba5171fc4d68f4a1e666a1c4097e26.ckd",
+      "coach1ImageUrl": "/public/map/CandyMU/nx/CandyMU_Coach_1.tga.ckd/89f8ef677c9035e1bc566ff62d01fd96.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CandyMU/pc/CandyMU_banner_bkg.tga.ckd/363366d5b9a0e8809d79a3f8c97497c1.ckd",
+      "map_bkgImageUrl": "/public/map/CandyMU/pc/CandyMU_map_bkg.tga.ckd/3e523de0069a4971204c22a7220de40b.ckd",
+      "expandCoachImageUrl": "/public/map/CandyMU/pc/CandyMU_Cover_AlbumCoach.tga.ckd/21f2c0012eb210276671067dd5fd8431.ckd",
+      "cover_smallImageUrl": "/public/map/CandyMU/pc/CandyMU_Cover_Online.tga.ckd/a72323652e0adb69b65bab348d8bbc85.ckd",
+      "coverImageUrl": "/public/map/CandyMU/pc/CandyMU_Cover_Generic.tga.ckd/f3cb3ddff8e602d89503f59017d0b746.ckd",
+      "coach1ImageUrl": "/public/map/CandyMU/pc/CandyMU_Coach_1.tga.ckd/d726a23f10a9f8ef405ed0555c3d68df.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CandyMU/orbis/CandyMU_banner_bkg.tga.ckd/363366d5b9a0e8809d79a3f8c97497c1.ckd",
+      "map_bkgImageUrl": "/public/map/CandyMU/orbis/CandyMU_map_bkg.tga.ckd/3e523de0069a4971204c22a7220de40b.ckd",
+      "expandCoachImageUrl": "/public/map/CandyMU/orbis/CandyMU_Cover_AlbumCoach.tga.ckd/21f2c0012eb210276671067dd5fd8431.ckd",
+      "cover_smallImageUrl": "/public/map/CandyMU/orbis/CandyMU_Cover_Online.tga.ckd/a72323652e0adb69b65bab348d8bbc85.ckd",
+      "coverImageUrl": "/public/map/CandyMU/orbis/CandyMU_Cover_Generic.tga.ckd/f3cb3ddff8e602d89503f59017d0b746.ckd",
+      "coach1ImageUrl": "/public/map/CandyMU/orbis/CandyMU_Coach_1.tga.ckd/d726a23f10a9f8ef405ed0555c3d68df.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CandyMU/CandyMU_Coach_1_Phone.png/58a26dbfcd95d318d1703e433b5220dd.png",
+    "phoneCoverImageUrl": "/public/map/CandyMU/CandyMU_Cover_Phone.jpg/ed1d4679733fad07d6dc9a068e0b895e.jpg",
+    "cover640ImageUrl": "/public/map/CandyMU/CandyMU_Cover_640.png/8682fe6e18c8ec678eb6527c90e3c20a.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "9eaf8aa511101b38f65fe7495351ecd2",
+      "storageType": 0,
+      "url": "/public/map/CandyMU/nx/CandyMU_MAIN_SCENE_NX.zip/9eaf8aa511101b38f65fe7495351ecd2.zip"
+    },
+    "pc": {
+      "md5": "4650d58a06ed3f501f7a21a023828959",
+      "storageType": 0,
+      "url": "/public/map/CandyMU/pc/CandyMU_MAIN_SCENE_PC.zip/4650d58a06ed3f501f7a21a023828959.zip"
+    },
+    "ps4": {
+      "md5": "ade9370078e450885051901ead4abcfb",
+      "storageType": 0,
+      "url": "/public/map/CandyMU/orbis/CandyMU_MAIN_SCENE_ORBIS.zip/ade9370078e450885051901ead4abcfb.zip"
+    }
+  },
+  "data": {
+    "mapName": "CandyMU",
+    "title": "Candy",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Robbie Williams",
+    "credits": "Empty Credits",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#f65301",
+    "LocaleID": 13572
+  },
+  "mapLength": 200.697875
+}

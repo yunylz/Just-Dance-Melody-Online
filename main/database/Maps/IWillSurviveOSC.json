@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "0cf51ad0817ebc3aed6280ae0c2cd20b",
+      "storageType": 0,
+      "url": "/public/map/IWillSurviveOSC/nx/IWillSurviveOSC_MAIN_SCENE_NX.zip/0cf51ad0817ebc3aed6280ae0c2cd20b.zip"
+    },
+    "pc": {
+      "md5": "9b057ed2857348f2a077522a52f1a822",
+      "storageType": 0,
+      "url": "/public/map/IWillSurviveOSC/pc/IWillSurviveOSC_MAIN_SCENE_PC.zip/9b057ed2857348f2a077522a52f1a822.zip"
+    },
+    "ps4": {
+      "md5": "fbf013759b503df5ed4758a4ee4c7444",
+      "storageType": 0,
+      "url": "/public/map/IWillSurviveOSC/orbis/IWillSurviveOSC_MAIN_SCENE_ORBIS.zip/fbf013759b503df5ed4758a4ee4c7444.zip"
+    }
+  },
+  "data": {
+    "mapName": "IWillSurviveOSC",
+    "title": "I Will Survive",
+    "originalJDVersion": 2014,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2014",
+      "Trio",
+      "Easy"
+    ],
+    "artist": "Gloria Gaynor",
+    "credits": "Written by Dino Fekaris and Frederick J. Perren. Published by Universal Music Publishing Group a division of Universal Music Canada Inc. Courtesy of Universal Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#2d00b4",
+    "songColor2A": "#ffae57",
+    "songColor1B": "#000218",
+    "songColor2B": "#690029",
+    "lyricsColor": "#f2bf27",
+    "LocaleID": 15490
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24816,
+        49680,
+        74496,
+        99360,
+        124176,
+        149040,
+        173856,
+        198672,
+        223536,
+        248352,
+        273216,
+        298032,
+        322896,
+        347712,
+        372528,
+        397392,
+        422209,
+        447073,
+        471889,
+        496705,
+        521569,
+        546385,
+        571249,
+        596065,
+        620929,
+        645745,
+        670561,
+        695425,
+        720241,
+        745105,
+        769921,
+        794785,
+        819601,
+        844418,
+        869282,
+        894098,
+        918962,
+        943778,
+        968642,
+        993458,
+        1018274,
+        1043138,
+        1067954,
+        1092818,
+        1117634,
+        1142498,
+        1167314,
+        1192130,
+        1216946,
+        1241762,
+        1266531,
+        1291347,
+        1316115,
+        1340931,
+        1365747,
+        1390515,
+        1415331,
+        1440099,
+        1464915,
+        1489731
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 368,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/IWillSurviveOSC/nx/IWillSurviveOSC_banner_bkg.tga.ckd/f39fdeb86297ca52e5c05b1e6e0d1bbd.ckd",
+      "map_bkgImageUrl": "/public/map/IWillSurviveOSC/nx/IWillSurviveOSC_map_bkg.tga.ckd/a2d94a9208646bc336526c546779dd5a.ckd",
+      "expandCoachImageUrl": "/public/map/IWillSurviveOSC/nx/IWillSurviveOSC_Cover_AlbumCoach.tga.ckd/abd864270808740654bc4d77ad7753eb.ckd",
+      "cover_smallImageUrl": "/public/map/IWillSurviveOSC/nx/IWillSurviveOSC_Cover_Online.tga.ckd/113ac8535c639cb50fe86db393b01dca.ckd",
+      "coach1ImageUrl": "/public/map/IWillSurviveOSC/nx/IWillSurviveOSC_Coach_1.tga.ckd/e548e7533914414e02decdd5be24147e.ckd",
+      "coach2ImageUrl": "/public/map/IWillSurviveOSC/nx/IWillSurviveOSC_Coach_2.tga.ckd/16cca078181ba46dd36a5fa40a6d1c35.ckd",
+      "coach3ImageUrl": "/public/map/IWillSurviveOSC/nx/IWillSurviveOSC_Coach_3.tga.ckd/39a3b84482efe67b30b45c3e3e476431.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/IWillSurviveOSC/pc/IWillSurviveOSC_banner_bkg.tga.ckd/2435b37517b65238c223fbbd56dbaf11.ckd",
+      "map_bkgImageUrl": "/public/map/IWillSurviveOSC/pc/IWillSurviveOSC_map_bkg.tga.ckd/11e7037169ce7531500cfbc7d45f6707.ckd",
+      "expandCoachImageUrl": "/public/map/IWillSurviveOSC/pc/IWillSurviveOSC_Cover_AlbumCoach.tga.ckd/a945807b4da7c5d2716ddc9d70a6f916.ckd",
+      "cover_smallImageUrl": "/public/map/IWillSurviveOSC/pc/IWillSurviveOSC_Cover_Online.tga.ckd/c5f234494081cfff680940686d9fc506.ckd",
+      "coach1ImageUrl": "/public/map/IWillSurviveOSC/pc/IWillSurviveOSC_Coach_1.tga.ckd/a2a72f0f7c1b5883c2432f34dd7127a8.ckd",
+      "coach2ImageUrl": "/public/map/IWillSurviveOSC/pc/IWillSurviveOSC_Coach_2.tga.ckd/a1e2b806c8f6ad1904ae70f2fb9b37a8.ckd",
+      "coach3ImageUrl": "/public/map/IWillSurviveOSC/pc/IWillSurviveOSC_Coach_3.tga.ckd/6d9a144114a052b14ceaedf4a24fad8d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/IWillSurviveOSC/orbis/IWillSurviveOSC_banner_bkg.tga.ckd/2435b37517b65238c223fbbd56dbaf11.ckd",
+      "map_bkgImageUrl": "/public/map/IWillSurviveOSC/orbis/IWillSurviveOSC_map_bkg.tga.ckd/11e7037169ce7531500cfbc7d45f6707.ckd",
+      "expandCoachImageUrl": "/public/map/IWillSurviveOSC/orbis/IWillSurviveOSC_Cover_AlbumCoach.tga.ckd/a945807b4da7c5d2716ddc9d70a6f916.ckd",
+      "cover_smallImageUrl": "/public/map/IWillSurviveOSC/orbis/IWillSurviveOSC_Cover_Online.tga.ckd/c5f234494081cfff680940686d9fc506.ckd",
+      "coach1ImageUrl": "/public/map/IWillSurviveOSC/orbis/IWillSurviveOSC_Coach_1.tga.ckd/a2a72f0f7c1b5883c2432f34dd7127a8.ckd",
+      "coach2ImageUrl": "/public/map/IWillSurviveOSC/orbis/IWillSurviveOSC_Coach_2.tga.ckd/a1e2b806c8f6ad1904ae70f2fb9b37a8.ckd",
+      "coach3ImageUrl": "/public/map/IWillSurviveOSC/orbis/IWillSurviveOSC_Coach_3.tga.ckd/6d9a144114a052b14ceaedf4a24fad8d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/IWillSurviveOSC/IWillSurviveOSC_Coach_1_Phone.png/7b9550a5e1747317ea4db1867e359707.png",
+    "phoneCoach2ImageUrl": "/public/map/IWillSurviveOSC/IWillSurviveOSC_Coach_2_Phone.png/646217902327226e220c7ab3fc78ce49.png",
+    "phoneCoach3ImageUrl": "/public/map/IWillSurviveOSC/IWillSurviveOSC_Coach_3_Phone.png/2e1f2e8815174b5bca93a75b7affa990.png",
+    "phoneCoverImageUrl": "/public/map/IWillSurviveOSC/IWillSurviveOSC_Cover_Phone.jpg/3abc3bea156a70fe5eb65b8f02d78532.jpg",
+    "cover640ImageUrl": "/public/map/IWillSurviveOSC/IWillSurviveOSC_Cover_640.png/b88600b55b0a60c73f11ef28dbe71331.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC.ogg": "/private/map/IWillSurviveOSC/IWillSurviveOSC.ogg/b11235fad13ae10168cc5a23d994f205.ogg",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_AudioPreview.ogg": "/public/map/IWillSurviveOSC/IWillSurviveOSC_AudioPreview.ogg/9e8d10a2ae6d5abb6db3f656985c1c3f.ogg",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/IWillSurviveOSC/IWillSurviveOSC_MapPreviewNoSoundCrop_LOW.vp8.webm/bdb70ce316c4fbb1dc283dfece9ffe14.webm",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_HIGH.webm": "/private/map/IWillSurviveOSC/IWillSurviveOSC_HIGH.webm/21b671526fe6996525ab0e66efd93225.webm",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_LOW.webm": "/private/map/IWillSurviveOSC/IWillSurviveOSC_LOW.webm/1007ca966a1e461d2dc4bb0a88f787e7.webm",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_MID.webm": "/private/map/IWillSurviveOSC/IWillSurviveOSC_MID.webm/7ff979f05bf5ec80c5d4a95a43ead1a4.webm",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_ULTRA.hd.webm": "/private/map/IWillSurviveOSC/IWillSurviveOSC_ULTRA.hd.webm/ea585e89d928ef0d7fc412b0035cced3.webm",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_ULTRA.webm": "/private/map/IWillSurviveOSC/IWillSurviveOSC_ULTRA.webm/775a680b334cb7c487e43aad98790646.webm",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/IWillSurviveOSC/IWillSurviveOSC_MapPreviewNoSoundCrop_MID.vp8.webm/c3f1c56e4479da05722d9c2c7e436eab.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496927\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\n\t\t\t\t\t<Initialization range=\"0-646\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1430189\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 195.598458
+}

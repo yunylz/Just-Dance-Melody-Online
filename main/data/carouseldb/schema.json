@@ -1,0 +1,4673 @@
+{
+	"pages" : {
+		"party" : {
+			"isSearchEnabled" : true,
+			"categories" : [
+				"recommended_nofav",
+				"recommended_shuffle",
+				"newSongs_nofav",
+				"newSongs_shuffle",
+				"topPlayed_nofav",
+				"topPlayed_shuffle",
+				"jdmo_nofav",
+				"jdmo_shuffle",
+				"jda_nofav",
+				"jda_shuffle",
+				"abbaycd-jd17",
+				"abbaycd-jd18",
+				"abbaycd_nofav",
+				"mjte_nofav",
+				"mjte_shuffle",
+				"KP",
+				"jd1_nofav",
+				"jd1_shuffle",
+				"jd2_nofav",
+				"jd2_shuffle",
+				"jd3_nofav",
+				"jd3_shuffle",
+				"jd4_nofav",
+				"jd4_shuffle",
+				"jd5_nofav",
+				"jd5_shuffle",
+				"jd2015_nofav",
+				"jd2015_shuffle",
+				"jd2016_nofav",
+				"jd2016_shuffle",
+				"jd2017_nofav",
+				"jd2017_shuffle",
+				"jd2018_nofav",
+				"jd2018_shuffle",
+				"jd2019_nofav",
+				"jd2019_shuffle",
+				"jd2020_nofav",
+				"jd2020_shuffle",
+				"jd2021_nofav",
+				"jd2021_shuffle",
+				"jd2022_nofav",
+				"jd2022_shuffle",
+				"jd2023_nofav",
+				"jd2023_shuffle",
+				"jd2024_nofav",
+				"jd2024_shuffle",
+				"jd2025_nofav",
+				"jd2025_shuffle",
+				"jd2026_nofav",
+				"jd2026_shuffle",
+				"jd2027_nofav",
+				"jd2027_shuffle",
+				"mashup_nofav",
+				"mashup_shuffle",
+				"kids_nofav",
+				"kids_shuffle",
+				"doublescoring_jd18",
+				"labs_jd18",
+				"favorite_jd18",
+				"playlist_creation_jd18",
+				"search"
+			],
+			"actionLists" : [
+				"partyMap",
+				"partyMapDR",
+				"partyMapNoFav",
+				"NonStop",
+				"partyMapABBA2017",
+				"new-playlist",
+				"search",
+				"partyMapKP"
+			],
+			"songItemLists" : {}
+		},
+		"create-playlist" : {
+			"isSearchEnabled" : false,
+			"categories" : [
+				"recommended_playlist",
+				"newSongs_playlist",
+				"topPlayed_playlist",
+				"jdmo_playlist",
+				"jda_playlist",
+				"abbaycd_playlist",
+				"jd1_playlist",
+				"jd2_playlist",
+				"jd3_playlist",
+				"jd4_playlist",
+				"jd5_playlist",
+				"jd2015_playlist",
+				"jd2016_playlist",
+				"jd2017_playlist",
+				"jd2018_playlist",
+				"jd2019_playlist",
+				"jd2020_playlist",
+				"jd2021_playlist",
+				"jd2022_playlist",
+				"jd2023_playlist",
+				"jd2024_playlist",
+				"jd2025_playlist",
+				"jd2026_playlist",
+				"jd2027_playlist"
+			],
+			"actionLists" : [ "create-playlist" ],
+			"songItemLists" : {}
+		},
+		"sweat" : {
+			"isSearchEnabled" : false,
+			"categories" : [
+				"recommended_sweat",
+				"newSongs_sweat",
+				"topPlayed_sweat",
+				"jdmo_sweat",
+				"jda_sweat",
+				"abbaycd_sweat",
+				"jd1_sweat",
+				"jd2_sweat",
+				"jd3_sweat",
+				"jd4_sweat",
+				"jd5_sweat",
+				"jd2015_sweat",
+				"jd2016_sweat",
+				"jd2017_sweat",
+				"jd2018_sweat",
+				"jd2019_sweat",
+				"jd2020_sweat",
+				"jd2021_sweat",
+				"jd2022_sweat",
+				"jd2023_sweat",
+				"jd2024_sweat",
+				"jd2025_sweat",
+				"jd2026_sweat",
+				"jd2027_sweat"
+			],
+			"actionLists" : [ "sweatMap" ],
+			"songItemLists" : {}
+		},
+		"dancerprofile" : {
+			"isSearchEnabled" : false,
+			"categories" : [ "DancerCards-Profile" ],
+			"actionLists" : [ "main-dancer-card", "dancer-card", "create-dancer-card" ],
+			"songItemLists" : {}
+		},
+		"avatars" : {
+			"isSearchEnabled" : false,
+			"categories" : [
+				"avatars-jd22",
+				"avatars-jd21",
+				"avatars-jd20",
+				"avatars-jd19",
+				"avatars-jd18",
+				"avatars-jd17",
+				"avatars-jd16",
+				"avatars-jd15",
+				"avatars-jd14",
+				"avatars-jd4",
+				"avatars-jd3",
+				"avatars-jd2",
+				"avatars-jd1",
+				"avatars-jdkids",
+				"avatars-abba",
+				"avatars-mojo",
+				"avatars-quest",
+				"avatars-game",
+				"avatars-jdu"
+			],
+			"actionLists" : [],
+			"songItemLists" : {}
+		},
+		"kids" : {
+			"isSearchEnabled" : false,
+			"categories" : [ "kids_mode" ],
+			"actionLists" : [ "kidsMap" ]
+		},
+		"kids-extended" : {
+			"isSearchEnabled" : false,
+			"categories" : [ "kids_mode" ],
+			"actionLists" : [ "kidsMap" ]
+		},
+		"partycoop" : {
+			"isSearchEnabled" : false,
+			"categories" : [
+				"recommended_coop",
+				"newSongs_coop",
+				"topPlayed_coop",
+				"jdmo_coop",
+				"jda_coop",
+				"abbaycd_coop",
+				"jd1_coop",
+				"jd2_coop",
+				"jd3_coop",
+				"jd4_coop",
+				"jd5_coop",
+				"jd2015_coop",
+				"jd2016_coop",
+				"jd2017_coop",
+				"jd2018_coop",
+				"jd2019_coop",
+				"jd2020_coop",
+				"jd2021_coop",
+				"jd2022_coop",
+				"jd2023_coop",
+				"jd2024_coop",
+				"jd2025_coop",
+				"jd2026_coop",
+				"jd2027_coop"
+			],
+			"actionLists" : [ "partyMapCoop" ]
+		}
+	},
+	"categories" : {
+		"recommended_shuffle" : {
+			"displayName" : "Recommended for you!",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"recoMaps" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : false,
+					"isRecommendations" : true,
+					"reverseOrder" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"newSongs_shuffle" : {
+			"displayName" : "New Songs!",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"newSongs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : false,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"reverseOrder" : true,
+					"isRecentlyAdded" : true,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"topPlayed_shuffle" : {
+			"displayName" : "Top played worldwide",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"newSongs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : false,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : true,
+					"reverseOrder" : true,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jdmo_shuffle" : {
+			"displayName" : "Just Dance Melody Online",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"jd1" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : true,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd1_shuffle" : {
+			"displayName" : "Just Dance 1",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"jd1" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 1 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2_shuffle" : {
+			"displayName" : "Just Dance 2",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"jd2" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd3_shuffle" : {
+			"displayName" : "Just Dance 3",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"jd3" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 3 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd4_shuffle" : {
+			"displayName" : "Just Dance 4",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"jd4" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 4 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd5_shuffle" : {
+			"displayName" : "Just Dance 2014",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2014 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2015_shuffle" : {
+			"displayName" : "Just Dance 2015",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2015 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2016_shuffle" : {
+			"displayName" : "Just Dance 2016",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2016 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2017_shuffle" : {
+			"displayName" : "Just Dance 2017",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2017 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2018_shuffle" : {
+			"displayName" : "Just Dance 2018",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2018 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2019_shuffle" : {
+			"displayName" : "Just Dance 2019",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2019 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2020_shuffle" : {
+			"displayName" : "Just Dance 2020",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2020 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2021_shuffle" : {
+			"displayName" : "Just Dance 2021",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2021 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2022_shuffle" : {
+			"displayName" : "Just Dance 2022",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2022, 9999 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2023_shuffle" : {
+			"displayName" : "Just Dance 2023 Edition",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2023 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2024_shuffle" : {
+			"displayName" : "Just Dance 2024 Edition",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2024 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2025_shuffle" : {
+			"displayName" : "Just Dance 2025 Edition",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2025 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jd2026_shuffle" : {
+                        "displayName" : "Just Dance 2026 Edition",
+                        "allowedGames" : [ "jd2018" ],
+                        "items" : {
+                                "songs" : {
+                                        "class" : "SongItem",
+                                        "itemType" : "map-classic",
+                                        "sortNames" : true,
+                                        "isRecommendations" : false,
+                                        "isAllSongs" : false,
+                                        "isRecentlyAdded" : false,
+                                        "isTopPlayed" : false,
+                                        "tagsEnabled" : false,
+                                        "jdVersionEnabled" : true,
+                                        "coachCountEnabled" : false,
+                                        "difficultyEnabled" : false,
+                                        "customTypeEnabled" : false,
+                                        "allowedTags" : [],
+                                        "allowedJDVersions" : [ 2026 ],
+                                        "allowedDifficulty" : [],
+                                        "allowedCoachCount" : [],
+                                        "allowedCustomTypeId" : [],
+                                        "allowedCustomTypeName" : []
+                                },
+                                "shuffle" : {
+                                        "class" : "defaultItem",
+                                        "itemType" : "shuffle"
+                                }
+                        }
+                },
+				"jd2027_shuffle" : {
+                        "displayName" : "Just Dance 2027 Edition",
+                        "allowedGames" : [ "jd2018" ],
+                        "items" : {
+                                "songs" : {
+                                        "class" : "SongItem",
+                                        "itemType" : "map-classic",
+                                        "sortNames" : true,
+                                        "isRecommendations" : false,
+                                        "isAllSongs" : false,
+                                        "isRecentlyAdded" : false,
+                                        "isTopPlayed" : false,
+                                        "tagsEnabled" : false,
+                                        "jdVersionEnabled" : true,
+                                        "coachCountEnabled" : false,
+                                        "difficultyEnabled" : false,
+                                        "customTypeEnabled" : false,
+                                        "allowedTags" : [],
+                                        "allowedJDVersions" : [ 2027 ],
+                                        "allowedDifficulty" : [],
+                                        "allowedCoachCount" : [],
+                                        "allowedCustomTypeId" : [],
+                                        "allowedCustomTypeName" : []
+                                },
+                                "shuffle" : {
+                                        "class" : "defaultItem",
+                                        "itemType" : "shuffle"
+                                }
+                        }
+                },
+		"mashup_shuffle" : {
+			"displayName" : "Mashups",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : true,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [ "13572" ],
+					"allowedCustomTypeName" : [ "Mashup" ]
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"kids_shuffle" : {
+			"displayName" : "Kids",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 3000, 123 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : [],
+					"excludeMapNameEnabled" : true,
+					"excludeCustomTypeNameEnabled" : true,
+					"excludedMapNames" : [ "MU", "OSC" ],
+					"excludedCustomTypeNames" : [ "Mashup" ]
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"jda_shuffle" : {
+			"displayName" : "Just Dance Asia",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 112,1000, 1001, 1003, 1104, 1101, 1102,1103, 3001, 1100 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				},
+				"shuffle" : {
+					"class" : "defaultItem",
+					"itemType" : "shuffle"
+				}
+			}
+		},
+		"abbaycd-jd17" : {
+			"displayName" : "ABBA You Can Dance",
+			"allowedGames" : [ "jd2017" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-abba-banner",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 4884 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"abbaycd-jd18" : {
+			"displayName" : "ABBA You Can Dance",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 4884 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"abbaycd_nofav" : {
+			"displayName" : "ABBA You Can Dance",
+			"allowedGames" : [ "jdmelody", "jd2016" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 4884 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"mjte_shuffle" : {
+			"displayName" : "Michael Jackson The Experience",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2009 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"favorite_jd18" : {
+			"displayName" : "[icon:FAVORITE] Favorites",
+			"isc" : "grp_row_favorite",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"favejd18" : {
+					"class" : "defaultItem",
+					"itemType" : "jd18_favorite"
+				}
+			}
+		},
+		"search" : {
+			"displayName" : "[icon:SEARCH_FILTER] Search",
+			"isc" : "grp_row_search",
+			"allowedGames" : [ "jd2018", "jd2017" ],
+			"items" : {
+				"search" : {
+					"class" : "defaultItem",
+					"itemType" : "search"
+				}
+			}
+		},
+		"search_result" : {
+			"displayName" : "TBD",
+			"allowedGames" : [ "jd2018", "jd2017" ],
+			"items" : {
+				"search" : {
+					"class" : "searchResult",
+					"itemType" : "map-classic"
+				}
+			}
+		},
+		"playlist_creation_jd18" : {
+			"displayName" : "[icon:PLAYLIST] Playlist",
+			"isc" : "grp_row_playlist",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"playlistjd18" : {
+					"class" : "defaultItem",
+					"itemType" : "jd18_playlist"
+				}
+			}
+		},
+		"labs_jd18" : {
+			"displayName" : "[icon:JDM] Dance Lab",
+			"allowedGames" : [ "jd2018" ],
+			"items" : {
+				"labsOG" : {
+					"class" : "defaultItem",
+					"itemType" : "jd18_labs"
+				}
+			}
+		},
+		"doublescoring_jd18" : {
+			"displayName" : "[icon:hdrumble] Double Rumble",
+			"allowedGames" : [ "jd2018-nx" ],
+			"items" : {
+				"labsOG" : {
+					"class" : "defaultItem",
+					"itemType" : "jd18_doublerumble"
+				}
+			}
+		},
+		"recommended_playlist" : {
+			"displayName" : "Recommended for you!",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"recoMaps" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : false,
+					"isRecommendations" : true,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"newSongs_playlist" : {
+			"displayName" : "New Songs!",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"newSongs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : false,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"reverseOrder" : true,
+					"isRecentlyAdded" : true,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"topPlayed_playlist" : {
+			"displayName" : "Top played worldwide",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"newSongs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : false,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : true,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jdmo_playlist" : {
+			"displayName" : "Just Dance Melody Online",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd1" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : true,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd1_playlist" : {
+			"displayName" : "Just Dance 1",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd1" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 1 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2_playlist" : {
+			"displayName" : "Just Dance 2",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd2" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd3_playlist" : {
+			"displayName" : "Just Dance 3",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd3" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 3 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd4_playlist" : {
+			"displayName" : "Just Dance 4",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd4" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 4 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd5_playlist" : {
+			"displayName" : "Just Dance 2014",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2014 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2015_playlist" : {
+			"displayName" : "Just Dance 2015",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2015 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2016_playlist" : {
+			"displayName" : "Just Dance 2016",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2016 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2017_playlist" : {
+			"displayName" : "Just Dance 2017",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2017 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2018_playlist" : {
+			"displayName" : "Just Dance 2018",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2018 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2019_playlist" : {
+			"displayName" : "Just Dance 2019",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2019 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2020_playlist" : {
+			"displayName" : "Just Dance 2020",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2020 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2021_playlist" : {
+			"displayName" : "Just Dance 2021",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2021 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2022_playlist" : {
+			"displayName" : "Just Dance 2022",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2022, 9999 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2023_playlist" : {
+			"displayName" : "Just Dance 2023 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2023 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2024_playlist" : {
+			"displayName" : "Just Dance 2024 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2024 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2025_playlist" : {
+			"displayName" : "Just Dance 2025 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2025 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2026_playlist" : {
+			"displayName" : "Just Dance 2026 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2026 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2027_playlist" : {
+			"displayName" : "Just Dance 2027 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2027 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jda_playlist" : {
+			"displayName" : "Just Dance Asia",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 112, 1000, 1001, 1003, 1104, 1101, 1102,1103, 3001, 1100 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"abbaycd_playlist" : {
+			"displayName" : "ABBA You Can Dance",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-playlist-add",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 4884 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"recommended_nofav" : {
+			"displayName" : "Recommended for you!",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"recoMaps" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : false,
+					"isRecommendations" : true,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"newSongs_nofav" : {
+			"displayName" : "New Songs!",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"newSongs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : false,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"reverseOrder" : true,
+					"isRecentlyAdded" : true,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"topPlayed_nofav" : {
+			"displayName" : "Top played worldwide",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"newSongs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : false,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : true,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jdmo_nofav" : {
+			"displayName" : "Just Dance Melody Online",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"jd1" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : true,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd1_nofav" : {
+			"displayName" : "Just Dance 1",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"jd1" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 1 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2_nofav" : {
+			"displayName" : "Just Dance 2",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"jd2" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd3_nofav" : {
+			"displayName" : "Just Dance 3",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"jd3" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 3 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd4_nofav" : {
+			"displayName" : "Just Dance 4",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"jd4" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 4 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd5_nofav" : {
+			"displayName" : "Just Dance 2014",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2014 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2015_nofav" : {
+			"displayName" : "Just Dance 2015",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2015 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2016_nofav" : {
+			"displayName" : "Just Dance 2016",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2016 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2017_nofav" : {
+			"displayName" : "Just Dance 2017",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2017 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2018_nofav" : {
+			"displayName" : "Just Dance 2018",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2018 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2019_nofav" : {
+			"displayName" : "Just Dance 2019",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2019 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2020_nofav" : {
+			"displayName" : "Just Dance 2020",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2020 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2021_nofav" : {
+			"displayName" : "Just Dance 2021",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2021 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2022_nofav" : {
+			"displayName" : "Just Dance 2022",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2022, 9999 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2023_nofav" : {
+			"displayName" : "Just Dance 2023 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2023 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"KP" : {
+			"displayName" : "Katy Perry",
+			"allowedGames" : [ "jd2016", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-KP",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"artistEnabled" : true,
+					"allowedArtist" : "Katy Perry",
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2024_nofav" : {
+			"displayName" : "Just Dance 2024 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2024 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2025_nofav" : {
+			"displayName" : "Just Dance 2025 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2025 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2026_nofav" : {
+			"displayName" : "Just Dance 2026 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2026 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2027_nofav" : {
+			"displayName" : "Just Dance 2027 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2027 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"mashup_nofav" : {
+			"displayName" : "Mashups",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : true,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [ "13572" ],
+					"allowedCustomTypeName" : [ "Mashup" ]
+				}
+			}
+		},
+		"kids_nofav" : {
+			"displayName" : "Kids",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 3000, 123 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : [],
+					"excludeMapNameEnabled" : true,
+					"excludeCustomTypeNameEnabled" : true,
+					"excludedMapNames" : [ "MU", "OSC" ],
+					"excludedCustomTypeNames" : [ "Mashup" ]
+				}
+			}
+		},
+		"kids_mode" : {
+			"displayName" : "Kids",
+			"isc" : "grp_kids_row",
+			"act" : "kids_carousel",
+			"allowedGames" : [ "jd2018", "jd2019", "jd2020", "jd2021", "jd2022" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-kids",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 3000, 123 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : [],
+					"excludeMapNameEnabled" : true,
+					"excludeCustomTypeNameEnabled" : true,
+					"excludedMapNames" : [ "MU", "Mu", "OSC" ],
+					"excludedCustomTypeNames" : [ "Mashup" ]
+				}
+			}
+		},
+		"jda_nofav" : {
+			"displayName" : "Just Dance Asia",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 112,1000, 1001, 1003, 1104, 1101, 1102,1103, 3001, 1100 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"mjte_nofav" : {
+			"displayName" : "Michael Jackson The Experience",
+			"allowedGames" : [ "jd2016", "jd2017", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-nofav",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2009 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"DancerCards-Profile" : {
+			"displayName" : "Dancer Cards",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"mainDC" : {
+					"class" : "defaultItem",
+					"itemType" : "offlineProfileMDC"
+				},
+				"DC" : {
+					"class" : "defaultItem",
+					"itemType" : "offlineProfileDC"
+				},
+				"createDC" : {
+					"class" : "defaultItem",
+					"itemType" : "offlineProfileCreate"
+				}
+			}
+		},
+		"avatars-jd22" : {
+			"displayName" : "Just Dance 2022",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd22-avas"
+				}
+			}
+		},
+		"avatars-jd21" : {
+			"displayName" : "Just Dance 2021",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd21-avas"
+				}
+			}
+		},
+		"avatars-jd20" : {
+			"displayName" : "Just Dance 2020",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd20-avas"
+				}
+			}
+		},
+		"avatars-jd19" : {
+			"displayName" : "Just Dance 2019",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd19-avas"
+				}
+			}
+		},
+		"avatars-jd18" : {
+			"displayName" : "Just Dance 2018",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd18-avas"
+				}
+			}
+		},
+		"avatars-jd17" : {
+			"displayName" : "Just Dance 2017",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd17-avas"
+				}
+			}
+		},
+		"avatars-jd16" : {
+			"displayName" : "Just Dance 2016",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd16-avas"
+				}
+			}
+		},
+		"avatars-jd15" : {
+			"displayName" : "Just Dance 2015",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd15-avas"
+				}
+			}
+		},
+		"avatars-jd14" : {
+			"displayName" : "Just Dance 2014",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd5-avas"
+				},
+				"avatars1" : {
+					"class" : "defaultItem",
+					"itemType" : "jd14-avas"
+				}
+			}
+		},
+		"avatars-jd4" : {
+			"displayName" : "Just Dance 4",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd4-avas"
+				}
+			}
+		},
+		"avatars-jd3" : {
+			"displayName" : "Just Dance 3",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd3-avas"
+				}
+			}
+		},
+		"avatars-jd2" : {
+			"displayName" : "Just Dance 2",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd2-avas"
+				}
+			}
+		},
+		"avatars-jd1" : {
+			"displayName" : "Just Dance 1",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jd1-avas"
+				}
+			}
+		},
+		"avatars-jdkids" : {
+			"displayName" : "Just Dance Kids",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "kids-avas"
+				}
+			}
+		},
+		"avatars-abba" : {
+			"displayName" : "ABBA You Can Dance",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "abba-avas"
+				}
+			}
+		},
+		"avatars-mojo" : {
+			"displayName" : "[icon:MOJO] Mojo",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "mojo-avas"
+				}
+			}
+		},
+		"avatars-quest" : {
+			"displayName" : "Dance Quest",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "quest-avas"
+				}
+			}
+		},
+		"avatars-game" : {
+			"displayName" : "Game mode progression",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "game-avas"
+				}
+			}
+		},
+		"avatars-jdu" : {
+			"displayName" : "Just Dance Unlimited/China",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"avatars" : {
+					"class" : "defaultItem",
+					"itemType" : "jdu-avas"
+				}
+			}
+		},
+		"recommended_sweat" : {
+			"displayName" : "Recommended for you!",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"recoMaps" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : false,
+					"isRecommendations" : true,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"newSongs_sweat" : {
+			"displayName" : "New Songs!",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"newSongs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : false,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"reverseOrder" : true,
+					"isRecentlyAdded" : true,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"topPlayed_sweat" : {
+			"displayName" : "Top played worldwide",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"newSongs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : false,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : true,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jdmo_sweat" : {
+			"displayName" : "Just Dance Melody Online",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd1" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : true,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd1_sweat" : {
+			"displayName" : "Just Dance 1",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd1" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 1 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2_sweat" : {
+			"displayName" : "Just Dance 2",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd2" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd3_sweat" : {
+			"displayName" : "Just Dance 3",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd3" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 3 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd4_sweat" : {
+			"displayName" : "Just Dance 4",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd4" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 4 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd5_sweat" : {
+			"displayName" : "Just Dance 2014",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2014 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2015_sweat" : {
+			"displayName" : "Just Dance 2015",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2015 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2016_sweat" : {
+			"displayName" : "Just Dance 2016",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2016 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2017_sweat" : {
+			"displayName" : "Just Dance 2017",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2017 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2018_sweat" : {
+			"displayName" : "Just Dance 2018",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2018 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2019_sweat" : {
+			"displayName" : "Just Dance 2019",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2019 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2020_sweat" : {
+			"displayName" : "Just Dance 2020",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2020 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2021_sweat" : {
+			"displayName" : "Just Dance 2021",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2021 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2022_sweat" : {
+			"displayName" : "Just Dance 2022",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2022, 9999 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2023_sweat" : {
+			"displayName" : "Just Dance 2023 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2023 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2024_sweat" : {
+			"displayName" : "Just Dance 2024 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2024 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2025_sweat" : {
+			"displayName" : "Just Dance 2025 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2025 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2026_sweat" : {
+			"displayName" : "Just Dance 2026 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2026 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2027_sweat" : {
+			"displayName" : "Just Dance 2027 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2027 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jda_sweat" : {
+			"displayName" : "Just Dance Asia",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 112,1000, 1001, 1003, 1104, 1101, 1102,1103, 3001, 1100 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"abbaycd_sweat" : {
+			"displayName" : "ABBA You Can Dance",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-sweat",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 4884 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"recommended_coop" : {
+			"displayName" : "Recommended for you!",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"recoMaps" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : false,
+					"isRecommendations" : true,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"newSongs_coop" : {
+			"displayName" : "New Songs!",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"newSongs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : false,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"reverseOrder" : true,
+					"isRecentlyAdded" : true,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"topPlayed_coop" : {
+			"displayName" : "Top played worldwide",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"newSongs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : false,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : true,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jdmo_coop" : {
+			"displayName" : "Just Dance Melody Online",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd1" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : true,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : false,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd1_coop" : {
+			"displayName" : "Just Dance 1",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd1" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 1 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2_coop" : {
+			"displayName" : "Just Dance 2",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd2" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd3_coop" : {
+			"displayName" : "Just Dance 3",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd3" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 3 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd4_coop" : {
+			"displayName" : "Just Dance 4",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"jd4" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 4 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd5_coop" : {
+			"displayName" : "Just Dance 2014",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2014 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2015_coop" : {
+			"displayName" : "Just Dance 2015",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2015 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2016_coop" : {
+			"displayName" : "Just Dance 2016",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2016 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2017_coop" : {
+			"displayName" : "Just Dance 2017",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2017 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2018_coop" : {
+			"displayName" : "Just Dance 2018",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2018 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2019_coop" : {
+			"displayName" : "Just Dance 2019",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2019 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2020_coop" : {
+			"displayName" : "Just Dance 2020",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2020 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2021_coop" : {
+			"displayName" : "Just Dance 2021",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2021 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2022_coop" : {
+			"displayName" : "Just Dance 2022",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2022, 9999 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2023_coop" : {
+			"displayName" : "Just Dance 2023 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2023 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2024_coop" : {
+			"displayName" : "Just Dance 2024 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2024 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2025_coop" : {
+			"displayName" : "Just Dance 2025 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2025 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2026_coop" : {
+			"displayName" : "Just Dance 2026 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2026 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jd2027_coop" : {
+			"displayName" : "Just Dance 2025 Edition",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 2027 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"jda_coop" : {
+			"displayName" : "Just Dance Asia",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 112,1000, 1001, 1003, 1104, 1101, 1102, 3001, 1100 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		},
+		"abbaycd_coop" : {
+			"displayName" : "ABBA You Can Dance",
+			"allowedGames" : [ "jd2016", "jd2017", "jd2018", "jdmelody" ],
+			"items" : {
+				"songs" : {
+					"class" : "SongItem",
+					"itemType" : "map-classic-coop",
+					"sortNames" : true,
+					"isRecommendations" : false,
+					"isAllSongs" : false,
+					"isRecentlyAdded" : false,
+					"isTopPlayed" : false,
+					"tagsEnabled" : false,
+					"jdVersionEnabled" : true,
+					"coachCountEnabled" : false,
+					"difficultyEnabled" : false,
+					"customTypeEnabled" : false,
+					"allowedTags" : [],
+					"allowedJDVersions" : [ 4884 ],
+					"allowedDifficulty" : [],
+					"allowedCoachCount" : [],
+					"allowedCustomTypeId" : [],
+					"allowedCustomTypeName" : []
+				}
+			}
+		}
+	},
+	"itemTypes" : {
+		"map-classic" : {
+			"__class" : "Item",
+			"isc" : "grp_cover",
+			"act" : "ui_component_base",
+			"components" : [ "carouselSongComponent" ],
+			"actionList" : "partyMap"
+		},
+		"map-classic-sweat" : {
+			"__class" : "Item",
+			"isc" : "grp_cover",
+			"act" : "ui_component_base",
+			"components" : [ "carouselSongComponent" ],
+			"actionList" : "sweatMap"
+		},
+		"map-classic-coop" : {
+			"__class" : "Item",
+			"isc" : "grp_cover",
+			"act" : "ui_component_base",
+			"components" : [ "carouselSongComponent" ],
+			"actionList" : "partyMapCoop"
+		},
+		"map-classic-kids" : {
+			"__class" : "Item",
+			"isc" : "kids_grp_cover",
+			"act" : "ui_component_base",
+			"components" : [ "carouselSongComponent" ],
+			"actionList" : "kidsMap"
+		},
+		"map-classic-nofav" : {
+			"__class" : "Item",
+			"isc" : "grp_cover",
+			"act" : "ui_component_base",
+			"components" : [ "carouselSongComponent" ],
+			"actionList" : "partyMapNoFav"
+		},
+		"map-classic-playlist-add" : {
+			"__class" : "Item",
+			"isc" : "grp_cover",
+			"act" : "ui_component_base",
+			"components" : [ "carouselSongComponent" ],
+			"actionList" : "create-playlist"
+		},
+		"map-abba-banner" : {
+			"__class" : "Item",
+			"isc" : "grp_cover",
+			"act" : "ui_component_base",
+			"components" : [ "carouselSongComponent" ],
+			"actionList" : "partyMapABBA2017"
+		},
+		"map-KP" : {
+			"__class" : "Item",
+			"isc" : "grp_cover",
+			"act" : "ui_component_base",
+			"components" : [ "carouselSongComponent" ],
+			"actionList" : "partyMapKP"
+		},
+		"map-abba-banner-jd18" : {
+			"__class" : "Item",
+			"isc" : "grp_cover",
+			"act" : "ui_component_base",
+			"components" : [ "carouselSongComponent" ],
+			"actionList" : "partyMapABBA2017"
+		},
+		"shuffle" : {
+			"__class" : "Item",
+			"isc" : "grp_shuffle",
+			"act" : "ui_component_base",
+			"components" : [ "shuffleComponent" ],
+			"endPos" : 3,
+			"actionList" : "NonStop"
+		},
+		"jd18_favorite" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselMapRequest",
+				"actionListName" : "partyMap",
+				"actionListNameUpsell" : "upsell_rival",
+				"favorites" : true,
+				"offline" : true,
+				"order" : "title",
+				"uuid" : "896a05a7-7c15-421f-b0bd-46e5e5e4059c"
+			}
+		},
+		"jd18_labs" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselDMEpisodeRequest"
+			}
+		},
+		"jd18_doublerumble" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselMapRequest",
+				"actionListName" : "partyMapDR",
+				"actionListNameUpsell" : "_None",
+				"excludedTags" : [ "Main", "KIDS" ],
+				"includedTags" : [ "DOUBLESCORING" ],
+				"offline" : true,
+				"order" : "title",
+				"originalJDVersion" : 2018,
+				"uuid" : "91d72386-5dae-4d0e-8a6c-4bc91b4d64d1"
+			}
+		},
+		"jd18_playlist" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"actionListName" : "new-playlist",
+				"create" : 1,
+				"__class" : "JD_CarouselPlaylistRequest"
+			}
+		},
+		"search" : {
+			"__class" : "Item",
+			"act" : "ui_component_base",
+			"components" : [],
+			"isc" : "grp_search",
+			"actionList" : "search"
+		},
+		"offlineMapsJD2017" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselMapRequest",
+				"actionListName" : "partyMap",
+				"actionListNameUpsell" : "_None",
+				"includedTags" : [ "Main" ],
+				"offline" : true,
+				"order" : "title",
+				"originalJDVersion" : 2017,
+				"uuid" : "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+			}
+		},
+		"offlineProfileMDC" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselDancerCardRequest",
+				"actionListName" : "main-dancer-card",
+				"main" : true,
+				"uuid" : "0ff6ad3b-a0fb-4253-b12a-ef01e813874f"
+			}
+		},
+		"offlineProfileDC" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselDancerCardRequest",
+				"actionListName" : "dancer-card",
+				"uuid" : "a22c81fd-4e56-439c-a42d-74d17c55a6c0"
+			}
+		},
+		"offlineProfileCreate" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselDancerCardRequest",
+				"actionListName" : "create-dancer-card",
+				"create" : true,
+				"uuid" : "69478a6a-20ad-47ee-9cfa-c42af702984a"
+			}
+		},
+		"jd22-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 2022,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-t1f9-48a7-aff4-a5884887b23d"
+			}
+		},
+		"jd21-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 2021,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-q1f9-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd20-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 2020,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-z1f9-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd19-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 2019,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-x1f9-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd18-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 2018,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-l1f9-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd17-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 2017,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-h1f9-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd16-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 2016,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-a1f9-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd15-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 2015,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-6sf9-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd14-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 2014,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-6tf9-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd5-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 5,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-6af9-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd4-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 4,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-6cf9-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd3-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 3,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-61f1-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd2-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 2,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-61f1-48a7-aff4-a5884887b33d"
+			}
+		},
+		"jd1-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 1,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-61f2-48a7-aff4-a5884887b33d"
+			}
+		},
+		"kids-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 123,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-61f3-48a7-aff4-a5884887b33d"
+			}
+		},
+		"abba-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 4884,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "99a0e5f8-61f9-48a7-aff4-a5884887b33d"
+			}
+		},
+		"mojo-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : -1,
+				"lockType" : 1,
+				"sortBy" : 1,
+				"uuid" : "657232bf-d5f2-4553-b9d0-c1cf070c8e90"
+			}
+		},
+		"quest-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 9999,
+				"lockType" : 9,
+				"sortBy" : 0,
+				"uuid" : "9a3885fa-b5aa-4362-a6a9-3f0b5b7e9769"
+			}
+		},
+		"game-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : -1,
+				"lockType" : 10,
+				"sortBy" : 0,
+				"uuid" : "ae334024-badd-47f1-8b3d-3a2af9607eb6"
+			}
+		},
+		"jdu-avas" : {
+			"__class" : "Item",
+			"offlineRequest" : {
+				"__class" : "JD_CarouselCustomizableItemRequest",
+				"itemType" : 0,
+				"jdVersion" : 9999,
+				"lockType" : 0,
+				"sortBy" : 0,
+				"uuid" : "db38fe17-7653-4b89-8e9c-d841a48ece38"
+			}
+		}
+	},
+	"actionLists" : {
+		"partyMap" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_rival",
+					"bannerTheme" : "default",
+					"bannerType" : "song",
+					"title" : "Dance",
+					"type" : "play-song"
+				},
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_rival",
+					"bannerTheme" : "default",
+					"bannerType" : "song",
+					"title" : "Add to favorites",
+					"type" : "set-favorite"
+				},
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_rival",
+					"bannerTheme" : "default",
+					"bannerType" : "song_leaderboard",
+					"title" : "Leaderboard",
+					"type" : "leaderboard"
+				}
+			],
+			"itemType" : "map"
+		},
+		"partyMapNoFav" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_rival",
+					"bannerTheme" : "default",
+					"bannerType" : "song",
+					"title" : "Dance",
+					"type" : "play-song"
+				},
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_rival",
+					"bannerTheme" : "DEFAULT",
+					"bannerType" : "song_leaderboard",
+					"title" : "Leaderboard",
+					"type" : "leaderboard"
+				}
+			],
+			"itemType" : "map"
+		},
+		"partyMapDR" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerContext" : "DEFAULT",
+					"bannerTheme" : "default",
+					"bannerType" : "hd_rumble",
+					"title" : "Dance",
+					"type" : "play-song"
+				},
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_rival",
+					"bannerTheme" : "DEFAULT",
+					"bannerType" : "song_leaderboard",
+					"title" : "Leaderboard",
+					"type" : "leaderboard"
+				}
+			],
+			"itemType" : "map"
+		},
+		"sweatMap" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerContext" : "CONTEXT_SWEAT",
+					"bannerTheme" : "DEFAULT",
+					"bannerType" : "song",
+					"title" : "Dance",
+					"type" : "play-song"
+				},
+				{
+					"__class" : "Action",
+					"bannerContext" : "CONTEXT_SWEAT",
+					"bannerTheme" : "DEFAULT",
+					"bannerType" : "song_leaderboard",
+					"title" : "Leaderboard",
+					"type" : "leaderboard"
+				},
+				{
+					"__class" : "Action",
+					"bannerContext" : "CONTEXT_SWEAT",
+					"bannerTheme" : "DEFAULT",
+					"bannerType" : "song_licensing",
+					"title" : "Credits",
+					"type" : "credits"
+				}
+			],
+			"itemType" : "map"
+		},
+		"kidsMap" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerContext" : "kids",
+					"bannerTheme" : "DEFAULT",
+					"bannerType" : "song",
+					"title" : "Dance",
+					"type" : "play-song"
+				}
+			],
+			"itemType" : "map"
+		},
+		"partyMapCoop" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_coop",
+					"bannerTheme" : "DEFAULT",
+					"bannerType" : "song",
+					"title" : "Dance",
+					"type" : "play-song"
+				},
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_coop",
+					"bannerTheme" : "DEFAULT",
+					"bannerType" : "song_licensing",
+					"title" : "Credits",
+					"type" : "credits"
+				}
+			],
+			"itemType" : "map"
+		},
+		"partyMapABBA2017" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_rival",
+					"bannerTheme" : "abba_2017",
+					"bannerType" : "song",
+					"title" : "Dance",
+					"type" : "play-song"
+				},
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_rival",
+					"bannerTheme" : "abba_2017",
+					"bannerType" : "song_leaderboard",
+					"title" : "Leaderboard",
+					"type" : "leaderboard"
+				}
+				
+			],
+			"itemType" : "map"
+		},
+		"partyMapKP" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_rival",
+					"bannerTheme" : "KP",
+					"bannerType" : "song",
+					"title" : "Dance",
+					"type" : "play-song"
+				},
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_rival",
+					"bannerTheme" : "default",
+					"bannerType" : "song_leaderboard",
+					"title" : "Leaderboard",
+					"type" : "leaderboard"
+				},
+				{
+					"__class" : "Action",
+					"bannerContext" : "family_rival",
+					"bannerTheme" : "default",
+					"bannerType" : "song_licensing",
+					"title" : "Credits",
+					"type" : "credits"
+				}
+			],
+			"itemType" : "map"
+		},
+		"NonStop" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerType" : "SHUFFLE",
+					"title" : "Dance",
+					"type" : "start-rowPlaylist"
+				}
+			],
+			"itemType" : "map"
+		},
+		"search" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerType" : "SEARCH",
+					"title" : "New search",
+					"type" : "open-keyboard"
+				},
+				{
+					"__class" : "Action",
+					"bannerContext" : "default",
+					"bannerTheme" : "DEFAULT",
+					"bannerType" : "SEARCH",
+					"title" : "Previous search",
+					"type" : "previous-search"
+				}
+			],
+			"itemType" : "search"
+		},
+		"new-playlist" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"type" : "edit-playlist",
+					"title" : "Create Playlist",
+					"titleId" : 13999,
+					"onlineTitleId" : 4294967295,
+					"target" : "",
+					"bannerType" : "PLAYLIST_ADD",
+					"bannerTheme" : "",
+					"bannerContext" : ""
+				}
+			],
+			"itemType" : "playlist"
+		},
+		"create-playlist" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"title" : "Add Song",
+					"type" : "add-song"
+				}
+			],
+			"itemType" : "map"
+		},
+		"main-dancer-card" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerType" : "dancer",
+					"title" : "Change avatar",
+					"type" : "change-avatar"
+				},
+				{
+					"__class" : "Action",
+					"bannerType" : "dancer",
+					"title" : "Change your skin",
+					"type" : "change-skin"
+				},
+				{
+					"__class" : "Action",
+					"bannerType" : "dancer",
+					"title" : "Edit nickname",
+					"type" : "edit-nickname"
+				}
+			],
+			"itemType" : "dancer-card"
+		},
+		"dancer-card" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerType" : "dancer",
+					"title" : "Activate",
+					"type" : "set-as-main"
+				},
+				{
+					"__class" : "Action",
+					"bannerType" : "dancer",
+					"title" : "Change avatar",
+					"type" : "change-avatar"
+				},
+				{
+					"__class" : "Action",
+					"bannerType" : "dancer",
+					"title" : "Change skin",
+					"type" : "change-skin"
+				},
+				{
+					"__class" : "Action",
+					"bannerType" : "dancer",
+					"title" : "Edit nickname",
+					"type" : "edit-nickname"
+				},
+				{
+					"__class" : "Action",
+					"bannerType" : "dancer",
+					"title" : "Delete",
+					"type" : "delete-dancer-card"
+				}
+			],
+			"itemType" : "dancer-card"
+		},
+		"create-dancer-card" : {
+			"__class" : "ActionList",
+			"actions" : [
+				{
+					"__class" : "Action",
+					"bannerContext" : "CONTEXT_ADD",
+					"bannerType" : "dancer",
+					"title" : "Create Dancer Card",
+					"type" : "create-dancer-card"
+				}
+			],
+			"itemType" : "dancer-card"
+		}
+	},
+	"components" : {
+		"carouselSongComponent" : {
+			"__class" : "JD_CarouselContentComponent_Song",
+			"mapName" : "String"
+		},
+		"shuffleComponent" : {
+			"__class" : "JD_CarouselContentComponent_Shuffle"
+		}
+	}
+}

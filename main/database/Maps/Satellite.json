@@ -1,0 +1,158 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Satellite/Satellite_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Satellite/Satellite_MapPreviewNoSoundCrop_LOW.vp8.webm/e1679aed20ab12848a7cb47dd83057c4.webm",
+    "jmcs://jd-contents/Satellite/Satellite.ogg": "/private/map/Satellite/Satellite.ogg/f287c5f3adf07936c2b908e56d07a81d.ogg",
+    "jmcs://jd-contents/Satellite/Satellite_AudioPreview.ogg": "/public/map/Satellite/Satellite_AudioPreview.ogg/122444cb4b9337fe86e934de8d69f444.ogg",
+    "jmcs://jd-contents/Satellite/Satellite_HIGH.webm": "/private/map/Satellite/Satellite_HIGH.webm/16336d4001af89d2d6c6887bf67a9072.webm",
+    "jmcs://jd-contents/Satellite/Satellite_LOW.webm": "/private/map/Satellite/Satellite_LOW.webm/06eeb007529ef841517f07e9cabb764c.webm",
+    "jmcs://jd-contents/Satellite/Satellite_MID.webm": "/private/map/Satellite/Satellite_MID.webm/3a7e8d42bf953a0734205236d8b8fda8.webm",
+    "jmcs://jd-contents/Satellite/Satellite_ULTRA.hd.webm": "/private/map/Satellite/Satellite_ULTRA.hd.webm/e3f3c1165537c744e64d1ca2a961bcda.webm",
+    "jmcs://jd-contents/Satellite/Satellite_ULTRA.webm": "/private/map/Satellite/Satellite_ULTRA.webm/6eab56822e6f21b394615ff6fd5f2b13.webm",
+    "jmcs://jd-contents/Satellite/Satellite_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Satellite/Satellite_MapPreviewNoSoundCrop_MID.vp8.webm/aec923e9cb61b55c51243f5ea9ad11c2.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31516,
+        63032,
+        94548,
+        126066,
+        156382,
+        186697,
+        217012,
+        247327,
+        277642,
+        307957,
+        338272,
+        368587,
+        398902,
+        429218,
+        459533,
+        489848,
+        520163,
+        550478,
+        580793,
+        611108,
+        641423,
+        671738,
+        702053,
+        732369,
+        762684,
+        792999,
+        823314,
+        853629,
+        883944,
+        914259,
+        944574,
+        974889,
+        1005204,
+        1035520,
+        1065835,
+        1096150,
+        1126465,
+        1156780,
+        1187095,
+        1217410,
+        1247725,
+        1278040,
+        1308356,
+        1338671,
+        1368986,
+        1399301,
+        1429616,
+        1459931,
+        1490246
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 288,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Satellite/Satellite_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Satellite/nx/Satellite_banner_bkg.tga.ckd/50493af6e8328c54e71c224b7c1a349f.ckd",
+      "map_bkgImageUrl": "/public/map/Satellite/nx/Satellite_map_bkg.tga.ckd/5ffe9885886eb68c767ee904b4c6ccc0.ckd",
+      "expandCoachImageUrl": "/public/map/Satellite/nx/Satellite_Cover_AlbumCoach.tga.ckd/4cf8387e17a0e5258701d442e24e2d47.ckd",
+      "cover_smallImageUrl": "/public/map/Satellite/nx/Satellite_Cover_Online.tga.ckd/5e76b1f9f075a6c80ea8e1bbf7918c9d.ckd",
+      "coach1ImageUrl": "/public/map/Satellite/nx/Satellite_Coach_1.tga.ckd/59697bed050679b72b4a4cb581e3abbf.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Satellite/pc/Satellite_banner_bkg.tga.ckd/ca4c74080cded97b0baa865d30e4c13d.ckd",
+      "map_bkgImageUrl": "/public/map/Satellite/pc/Satellite_map_bkg.tga.ckd/0299bb2b1952e1270daef7608ca8e5c0.ckd",
+      "expandCoachImageUrl": "/public/map/Satellite/pc/Satellite_Cover_AlbumCoach.tga.ckd/42cc3858cc75c0c336bac72199ed1e83.ckd",
+      "cover_smallImageUrl": "/public/map/Satellite/pc/Satellite_Cover_Online.tga.ckd/5c35ed7690035615d82d7339eb70553e.ckd",
+      "coach1ImageUrl": "/public/map/Satellite/pc/Satellite_Coach_1.tga.ckd/29dc6e258023ae996e74570a1d760725.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Satellite/orbis/Satellite_banner_bkg.tga.ckd/ca4c74080cded97b0baa865d30e4c13d.ckd",
+      "map_bkgImageUrl": "/public/map/Satellite/orbis/Satellite_map_bkg.tga.ckd/0299bb2b1952e1270daef7608ca8e5c0.ckd",
+      "expandCoachImageUrl": "/public/map/Satellite/orbis/Satellite_Cover_AlbumCoach.tga.ckd/42cc3858cc75c0c336bac72199ed1e83.ckd",
+      "cover_smallImageUrl": "/public/map/Satellite/orbis/Satellite_Cover_Online.tga.ckd/5c35ed7690035615d82d7339eb70553e.ckd",
+      "coach1ImageUrl": "/public/map/Satellite/orbis/Satellite_Coach_1.tga.ckd/29dc6e258023ae996e74570a1d760725.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Satellite/Satellite_Coach_1_Phone.png/e99b16c3004529d14dc6d61080ed0227.png",
+    "phoneCoverImageUrl": "/public/map/Satellite/Satellite_Cover_Phone.jpg/3de901330557ec1ce5b7caf1e76960fd.jpg",
+    "cover640ImageUrl": "/public/map/Satellite/Satellite_Cover_640.png/36c8a0ed3f7e20e03aa2a063c4cb38db.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "e7276d290f9dd46ee3ed43d129246377",
+      "storageType": 0,
+      "url": "/public/map/Satellite/nx/Satellite_MAIN_SCENE_NX.zip/e7276d290f9dd46ee3ed43d129246377.zip"
+    },
+    "pc": {
+      "md5": "0577541162aa40092e6800889a2824dc",
+      "storageType": 0,
+      "url": "/public/map/Satellite/pc/Satellite_MAIN_SCENE_PC.zip/0577541162aa40092e6800889a2824dc.zip"
+    },
+    "ps4": {
+      "md5": "39849388ee4056e17434d62352ebcc2d",
+      "storageType": 0,
+      "url": "/public/map/Satellite/orbis/Satellite_MAIN_SCENE_ORBIS.zip/39849388ee4056e17434d62352ebcc2d.zip"
+    }
+  },
+  "data": {
+    "mapName": "Satellite",
+    "title": "Satellite",
+    "originalJDVersion": 3,
+    "tags": [
+      "main"
+    ],
+    "artist": "Lena Meyer-Landrut",
+    "credits": "Written by Julie Frost and John Gordon. . Published by EMI April Music Inc. (ASCAP) and EMI Blackwood Music Inc. (BMI). All Rights Reserved.  Used by Permission. Courtesy of Universal Music GmbH (Austria) under license from Universal Music Enterprises.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0080"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496429\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Satellite/Satellite_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1458896\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Satellite/Satellite_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 182.544625
+}

@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "dc103dd4964ee740d2235e99d884d110",
+      "storageType": 0,
+      "url": "/public/map/HillsideBoys/nx/HillsideBoys_MAIN_SCENE_NX.zip/dc103dd4964ee740d2235e99d884d110.zip"
+    },
+    "pc": {
+      "md5": "63f0b44659184128482f9fc9d58695b1",
+      "storageType": 0,
+      "url": "/public/map/HillsideBoys/pc/HillsideBoys_MAIN_SCENE_PC.zip/63f0b44659184128482f9fc9d58695b1.zip"
+    },
+    "ps4": {
+      "md5": "ec0a0f6c8e842e80ef71f9374a84d246",
+      "storageType": 0,
+      "url": "/public/map/HillsideBoys/orbis/HillsideBoys_MAIN_SCENE_ORBIS.zip/ec0a0f6c8e842e80ef71f9374a84d246.zip"
+    }
+  },
+  "data": {
+    "mapName": "HillsideBoys",
+    "title": "Hillside Boys",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Kim Petras",
+    "credits": "Written by Kim Petras (BMI), Aaron Aguilar Joseph (BMI) & FUCK DR. LUKE Courtesy of Bunhead. A division of Kobalt Music Publishing, administrated by AWAL Digital LTD.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#de396e",
+    "songColor2A": "#ff4981",
+    "songColor1B": "#3d0030",
+    "songColor2B": "#2f004f",
+    "lyricsColor": "#ff9504"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23226,
+        46452,
+        69677,
+        92903,
+        116129,
+        139355,
+        162581,
+        185806,
+        209032,
+        232258,
+        255484,
+        278710,
+        301935,
+        325161,
+        348387,
+        371613,
+        394839,
+        418065,
+        441290,
+        464516,
+        487742,
+        510968,
+        534194,
+        557419,
+        580645,
+        603871,
+        627097,
+        650323,
+        673548,
+        696774,
+        720000,
+        743226,
+        766452,
+        789677,
+        812903,
+        836129,
+        859355,
+        882581,
+        905806,
+        929032,
+        952258,
+        975484,
+        998710,
+        1021936,
+        1045161,
+        1068387,
+        1091613,
+        1114839,
+        1138065,
+        1161290,
+        1184516,
+        1207742,
+        1230968,
+        1254194,
+        1277419,
+        1300645,
+        1323871,
+        1347097,
+        1370323,
+        1393548,
+        1416774,
+        1440000,
+        1463226,
+        1486452
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 428,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HillsideBoys/HillsideBoys_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HillsideBoys/nx/HillsideBoys_banner_bkg.tga.ckd/b8f0714f274f7a6b49613fc1458c7081.ckd",
+      "map_bkgImageUrl": "/public/map/HillsideBoys/nx/HillsideBoys_map_bkg.tga.ckd/0486465d7844a2c1f0b04ebc3d46ba03.ckd",
+      "expandCoachImageUrl": "/public/map/HillsideBoys/nx/HillsideBoys_Cover_AlbumCoach.tga.ckd/e0e69062c53378234c664091d8c100dd.ckd",
+      "cover_smallImageUrl": "/public/map/HillsideBoys/nx/HillsideBoys_Cover_Online.tga.ckd/7080e824d8f94177932663b925c98a0e.ckd",
+      "coach1ImageUrl": "/public/map/HillsideBoys/nx/HillsideBoys_Coach_1.tga.ckd/c0bd2f05af02cc49b87e9e44b5e1f1c6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HillsideBoys/pc/HillsideBoys_banner_bkg.tga.ckd/7f616d058599a52c3a1ce49e399a6f1b.ckd",
+      "map_bkgImageUrl": "/public/map/HillsideBoys/pc/HillsideBoys_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/HillsideBoys/pc/HillsideBoys_Cover_AlbumCoach.tga.ckd/9a4eefab12b37134c4c280eba0a2f563.ckd",
+      "cover_smallImageUrl": "/public/map/HillsideBoys/pc/HillsideBoys_Cover_Online.tga.ckd/aba9d2ce9ece4cc4d67f23bd0c65b439.ckd",
+      "coach1ImageUrl": "/public/map/HillsideBoys/pc/HillsideBoys_Coach_1.tga.ckd/008f2e72443433524d6db9c9cbcc7860.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HillsideBoys/orbis/HillsideBoys_banner_bkg.tga.ckd/7f616d058599a52c3a1ce49e399a6f1b.ckd",
+      "map_bkgImageUrl": "/public/map/HillsideBoys/orbis/HillsideBoys_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/HillsideBoys/orbis/HillsideBoys_Cover_AlbumCoach.tga.ckd/9a4eefab12b37134c4c280eba0a2f563.ckd",
+      "cover_smallImageUrl": "/public/map/HillsideBoys/orbis/HillsideBoys_Cover_Online.tga.ckd/aba9d2ce9ece4cc4d67f23bd0c65b439.ckd",
+      "coach1ImageUrl": "/public/map/HillsideBoys/orbis/HillsideBoys_Coach_1.tga.ckd/008f2e72443433524d6db9c9cbcc7860.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HillsideBoys/HillsideBoys_Coach_1_Phone.png/851ab86115d63fc6dfaaf7de1742954c.png",
+    "phoneCoverImageUrl": "/public/map/HillsideBoys/HillsideBoys_Cover_Phone.jpg/6232214a72354fe461b7762258fa31e0.jpg",
+    "cover640ImageUrl": "/public/map/HillsideBoys/HillsideBoys_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HillsideBoys/HillsideBoys.ogg": "/private/map/HillsideBoys/HillsideBoys.ogg/ede564bcddf403a43414135d9823c224.ogg",
+    "jmcs://jd-contents/HillsideBoys/HillsideBoys_AudioPreview.ogg": "/public/map/HillsideBoys/HillsideBoys_AudioPreview.ogg/3976dca9d2010b461ce1bbaae07e1862.ogg",
+    "jmcs://jd-contents/HillsideBoys/HillsideBoys_HIGH.webm": "/private/map/HillsideBoys/HillsideBoys_HIGH.webm/cf65bbe7af390e006196fbb33d570efd.webm",
+    "jmcs://jd-contents/HillsideBoys/HillsideBoys_LOW.webm": "/private/map/HillsideBoys/HillsideBoys_LOW.webm/08b7a38c54113de9906ec0d6e73561af.webm",
+    "jmcs://jd-contents/HillsideBoys/HillsideBoys_MID.webm": "/private/map/HillsideBoys/HillsideBoys_MID.webm/27531ae5e71c8260a221a52a1508e6be.webm",
+    "jmcs://jd-contents/HillsideBoys/HillsideBoys_ULTRA.webm": "/private/map/HillsideBoys/HillsideBoys_ULTRA.webm/515043b4b4daf4dec90f20e6b17d9e9f.webm",
+    "jmcs://jd-contents/HillsideBoys/HillsideBoys_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HillsideBoys/HillsideBoys_MapPreviewNoSoundCrop_LOW.vp8.webm/1bf1f300f5b65c8c6a1b7411fddadf8e.webm",
+    "jmcs://jd-contents/HillsideBoys/HillsideBoys_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HillsideBoys/HillsideBoys_MapPreviewNoSoundCrop_MID.vp8.webm/77925b6c84561790df0030acd8149c54.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"523829\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HillsideBoys/HillsideBoys_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"460-950\">\n\t\t\t\t\t<Initialization range=\"0-460\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1505067\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HillsideBoys/HillsideBoys_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"461-951\">\n\t\t\t\t\t<Initialization range=\"0-461\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 210.09925
+}

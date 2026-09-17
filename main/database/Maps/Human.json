@@ -1,0 +1,162 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Human/Human.ogg": "/private/map/Human/Human.ogg/c7622ed77a0809c9aaf0738e7a70ba1a.ogg",
+    "jmcs://jd-contents/Human/Human_AudioPreview.ogg": "/public/map/Human/Human_AudioPreview.ogg/c529c11694de3815f531a3f879d58cb7.ogg",
+    "jmcs://jd-contents/Human/Human_HIGH.hd.webm": "/private/map/Human/Human_HIGH.hd.webm/06a8a0356a6eba82d01c77243ddd12db.webm",
+    "jmcs://jd-contents/Human/Human_LOW.hd.webm": "/private/map/Human/Human_LOW.hd.webm/3ac539cf85440f2770ea573f4f0623cb.webm",
+    "jmcs://jd-contents/Human/Human_MID.hd.webm": "/private/map/Human/Human_MID.hd.webm/5d392a2666df70babbb1c854ad801d5a.webm",
+    "jmcs://jd-contents/Human/Human_ULTRA.hd.webm": "/private/map/Human/Human_ULTRA.hd.webm/d70121928caa67c49bd259f8aae2f487.webm",
+    "jmcs://jd-contents/Human/Human_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Human/Human_MapPreviewNoSoundCrop_LOW.vp8.webm/673a9cf5dfb3ccb699e8b01d67d19cf6.webm",
+    "jmcs://jd-contents/Human/Human_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Human/Human_MapPreviewNoSoundCrop_MID.vp8.webm/6fccb70a97b1630f9ff80ace9cb99608.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29388,
+        58776,
+        88163,
+        117551,
+        146939,
+        176327,
+        205714,
+        235102,
+        264490,
+        293878,
+        323265,
+        352653,
+        382041,
+        411429,
+        440816,
+        470204,
+        499592,
+        528980,
+        558367,
+        587755,
+        617143,
+        646531,
+        675918,
+        705306,
+        734694,
+        764082,
+        793469,
+        822857,
+        852245,
+        881633,
+        911020,
+        940408,
+        969796,
+        999184,
+        1028571,
+        1057959,
+        1087347,
+        1116735,
+        1146122,
+        1175510,
+        1204898,
+        1234286,
+        1263673,
+        1293061,
+        1322449,
+        1351837,
+        1381224,
+        1410612,
+        1440000,
+        1469388,
+        1498776
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 317,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Human/Human_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "e471f4d5cbb64e2e478acbfd3cd796f6",
+      "storageType": 0,
+      "url": "/public/map/Human/nx/Human_MAIN_SCENE_NX.zip/e471f4d5cbb64e2e478acbfd3cd796f6.zip"
+    },
+    "pc": {
+      "md5": "b6a3c20ab4bab499ceabd4a4a04cd746",
+      "storageType": 0,
+      "url": "/public/map/Human/pc/Human_MAIN_SCENE_PC.zip/b6a3c20ab4bab499ceabd4a4a04cd746.zip"
+    },
+    "ps4": {
+      "md5": "87ab3e105c65576730d1f81457601c26",
+      "storageType": 0,
+      "url": "/public/map/Human/orbis/Human_MAIN_SCENE_ORBIS.zip/87ab3e105c65576730d1f81457601c26.zip"
+    }
+  },
+  "data": {
+    "mapName": "Human",
+    "title": "Human",
+    "originalJDVersion": 2022,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sevdaliza",
+    "credits": " Written by Sevda Alizadeh and Reynard K Bargmann. Published by BUMA & Ultra Tunes Canada (SOCAN) obo Cloud 9 Holland Music Publishing. Courtesy of Ultra Records, LLC. Obo Twisted Elegence.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#97958c",
+    "songColor2A": "#9d9d9d",
+    "songColor1B": "#030403",
+    "songColor2B": "#000303",
+    "lyricsColor": "#f7ff10",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Human/nx/Human_banner_bkg.tga.ckd/112b8878144e0be96f7429bbc9475f84.ckd",
+      "map_bkgImageUrl": "/public/map/Human/nx/Human_map_bkg.tga.ckd/3926d4cc913ca9c706e7a7b9d5800df9.ckd",
+      "expandCoachImageUrl": "/public/map/Human/nx/Human_Cover_AlbumCoach.tga.ckd/e1938ae26472f4970bcb9696c900c4a2.ckd",
+      "cover_smallImageUrl": "/public/map/Human/nx/Human_Cover_Online.tga.ckd/d30ce71b2a673a91d3688ed5984f110e.ckd",
+      "coverImageUrl": "/public/map/Human/nx/Human_Cover_Generic.tga.ckd/f999f55b7742d8b9254e6da145b86ce8.ckd",
+      "coach1ImageUrl": "/public/map/Human/nx/Human_Coach_1.tga.ckd/f93e9ebd29037ed6323167348f6f47e1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Human/pc/Human_banner_bkg.tga.ckd/c0f743396526c234b5f1c17894daffcc.ckd",
+      "map_bkgImageUrl": "/public/map/Human/pc/Human_map_bkg.tga.ckd/711e82395570c7a034150418e06c8dcb.ckd",
+      "expandCoachImageUrl": "/public/map/Human/pc/Human_Cover_AlbumCoach.tga.ckd/e7a56c454f332cb621ae14194083e5fb.ckd",
+      "cover_smallImageUrl": "/public/map/Human/pc/Human_Cover_Online.tga.ckd/bab64659a23ee3ce362dacb1f7ec65af.ckd",
+      "coverImageUrl": "/public/map/Human/pc/Human_Cover_Generic.tga.ckd/d63f60798905242eae9ebdcf0e5e81c9.ckd",
+      "coach1ImageUrl": "/public/map/Human/pc/Human_Coach_1.tga.ckd/4213e5c05acc310a2b37e2b635c131ff.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Human/orbis/Human_banner_bkg.tga.ckd/c0f743396526c234b5f1c17894daffcc.ckd",
+      "map_bkgImageUrl": "/public/map/Human/orbis/Human_map_bkg.tga.ckd/711e82395570c7a034150418e06c8dcb.ckd",
+      "expandCoachImageUrl": "/public/map/Human/orbis/Human_Cover_AlbumCoach.tga.ckd/e7a56c454f332cb621ae14194083e5fb.ckd",
+      "cover_smallImageUrl": "/public/map/Human/orbis/Human_Cover_Online.tga.ckd/bab64659a23ee3ce362dacb1f7ec65af.ckd",
+      "coverImageUrl": "/public/map/Human/orbis/Human_Cover_Generic.tga.ckd/d63f60798905242eae9ebdcf0e5e81c9.ckd",
+      "coach1ImageUrl": "/public/map/Human/orbis/Human_Coach_1.tga.ckd/4213e5c05acc310a2b37e2b635c131ff.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Human/Human_Coach_1_Phone.png/8353cb1134b4d5154b5ff02ba1c1ee1e.png",
+    "phoneCoverImageUrl": "/public/map/Human/Human_Cover_Phone.jpg/ea0904de71d0e5cecf42bc57e0d2f153.jpg",
+    "cover640ImageUrl": "/public/map/Human/Human_Cover_640.png/0de1d30300b8e082613d7058b69f6d98.png"
+  },
+  "mapLength": 189.183667
+}

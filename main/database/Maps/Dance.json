@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "5edc44e64dbb470d423c22c8b8bd55e2",
+      "storageType": 0,
+      "url": "/public/map/Dance/nx/Dance_MAIN_SCENE_NX.zip/5edc44e64dbb470d423c22c8b8bd55e2.zip"
+    },
+    "pc": {
+      "md5": "47d10a0e513cdc38ae1bb94b298507ec",
+      "storageType": 0,
+      "url": "/public/map/Dance/pc/Dance_MAIN_SCENE_PC.zip/47d10a0e513cdc38ae1bb94b298507ec.zip"
+    },
+    "ps4": {
+      "md5": "5368c4d14346fe38980fcfe81f0c1db8",
+      "storageType": 0,
+      "url": "/public/map/Dance/orbis/Dance_MAIN_SCENE_ORBIS.zip/5368c4d14346fe38980fcfe81f0c1db8.zip"
+    }
+  },
+  "data": {
+    "mapName": "Dance",
+    "title": "D.A.N.C.E.",
+    "originalJDVersion": 2,
+    "tags": [
+      "main"
+    ],
+    "artist": "Justice",
+    "credits": "Justice - \\\"D.A.N.C.E.\\\" Written by Gaspard Auge, Xavier de Rosnay and Jessie Chaton. Published by Headbangers Publishing Because Editions BMG Music Publishing Universal Music Publishing Group a division of Universal Music Canada Ltd. Courtesy of Warner Music Canada Co., Ed Banger Records and Because Music.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff44df",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        14429,
+        39915,
+        65400,
+        90886,
+        116372,
+        141857,
+        167343,
+        192829,
+        218315,
+        243800,
+        269286,
+        294772,
+        320257,
+        345743,
+        371229,
+        396715,
+        422200,
+        447686,
+        473172,
+        498657,
+        524143,
+        549629,
+        575115,
+        600600,
+        626086,
+        651572,
+        677057,
+        702543,
+        728029,
+        753515,
+        779000,
+        804486,
+        829972,
+        855457,
+        880943,
+        906429,
+        931915,
+        957400,
+        982886,
+        1008372,
+        1033857,
+        1059343,
+        1084829,
+        1110315,
+        1135800,
+        1161286,
+        1186772,
+        1212257,
+        1237743,
+        1263229,
+        1288715,
+        1314200,
+        1339686,
+        1365172,
+        1390657,
+        1416143,
+        1441629,
+        1467115,
+        1492600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 448,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Dance/Dance_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Dance/nx/Dance_banner_bkg.tga.ckd/1f146bae5ae9f501edcd03eb43b19de5.ckd",
+      "map_bkgImageUrl": "/public/map/Dance/nx/Dance_map_bkg.tga.ckd/d1f5ba180eef09fc19cabbb3821da158.ckd",
+      "expandCoachImageUrl": "/public/map/Dance/nx/Dance_Cover_AlbumCoach.tga.ckd/2e54b76d6929349148e59f0c8a8dd2f6.ckd",
+      "cover_smallImageUrl": "/public/map/Dance/nx/Dance_Cover_Online.tga.ckd/ee914e8d7c47c292a95a783383a0ece8.ckd",
+      "coach1ImageUrl": "/public/map/Dance/nx/Dance_Coach_1.tga.ckd/f3f1c241da86e824d72cc3a5c3dac62b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Dance/pc/Dance_banner_bkg.tga.ckd/4f6eb9b02459ce6fbaf69f5c4375f7df.ckd",
+      "map_bkgImageUrl": "/public/map/Dance/pc/Dance_map_bkg.tga.ckd/a09b7464d150ae8c8ad4190c09c46e27.ckd",
+      "expandCoachImageUrl": "/public/map/Dance/pc/Dance_Cover_AlbumCoach.tga.ckd/e05eb5d72e8ff52a939ffa7edbb59b75.ckd",
+      "cover_smallImageUrl": "/public/map/Dance/pc/Dance_Cover_Online.tga.ckd/2d5ae388fe7491c0109e545be1477ecc.ckd",
+      "coach1ImageUrl": "/public/map/Dance/pc/Dance_Coach_1.tga.ckd/b8d82dbb20566ae995071fbe435b4248.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Dance/orbis/Dance_banner_bkg.tga.ckd/4f6eb9b02459ce6fbaf69f5c4375f7df.ckd",
+      "map_bkgImageUrl": "/public/map/Dance/orbis/Dance_map_bkg.tga.ckd/a09b7464d150ae8c8ad4190c09c46e27.ckd",
+      "expandCoachImageUrl": "/public/map/Dance/orbis/Dance_Cover_AlbumCoach.tga.ckd/e05eb5d72e8ff52a939ffa7edbb59b75.ckd",
+      "cover_smallImageUrl": "/public/map/Dance/orbis/Dance_Cover_Online.tga.ckd/2d5ae388fe7491c0109e545be1477ecc.ckd",
+      "coach1ImageUrl": "/public/map/Dance/orbis/Dance_Coach_1.tga.ckd/b8d82dbb20566ae995071fbe435b4248.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Dance/Dance_Coach_1_Phone.png/eac52ac15e5c3ac1888620a14a1e6217.png",
+    "phoneCoverImageUrl": "/public/map/Dance/Dance_Cover_Phone.jpg/764a73dfa90254757c4fa775d1c71bfe.jpg",
+    "cover640ImageUrl": "/public/map/Dance/Dance_Cover_640.png/a530b142200d6c466a1fe4b8b005e75d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Dance/Dance.ogg": "/private/map/Dance/Dance.ogg/782b1c09cd8e9d9e423edf4574dfae91.ogg",
+    "jmcs://jd-contents/Dance/Dance_AudioPreview.ogg": "/public/map/Dance/Dance_AudioPreview.ogg/edb59955e25e624a77b48a8c408ce1b9.ogg",
+    "jmcs://jd-contents/Dance/Dance_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Dance/Dance_MapPreviewNoSoundCrop_LOW.vp8.webm/c64cd5a63aa72c7eae100749c8d727ba.webm",
+    "jmcs://jd-contents/Dance/Dance_HIGH.webm": "/private/map/Dance/Dance_HIGH.webm/b784b802b239d181525da8c181b08b06.webm",
+    "jmcs://jd-contents/Dance/Dance_LOW.webm": "/private/map/Dance/Dance_LOW.webm/7f0a17f1b75115c193ed81ca1eab3833.webm",
+    "jmcs://jd-contents/Dance/Dance_MID.webm": "/private/map/Dance/Dance_MID.webm/137bbce2b9d848868be5d560e2dbac7f.webm",
+    "jmcs://jd-contents/Dance/Dance_ULTRA.hd.webm": "/private/map/Dance/Dance_ULTRA.hd.webm/dfee3d629e3be6a97f7c740dc3812194.webm",
+    "jmcs://jd-contents/Dance/Dance_ULTRA.webm": "/private/map/Dance/Dance_ULTRA.webm/023b86ee17a77926b80fe3e626aef9b9.webm",
+    "jmcs://jd-contents/Dance/Dance_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Dance/Dance_MapPreviewNoSoundCrop_MID.vp8.webm/c4ce5ccd5666ead8497d3952d5991c22.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496029\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dance/Dance_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"592-1081\">\n\t\t\t\t\t<Initialization range=\"0-592\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1470940\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Dance/Dance_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\n\t\t\t\t\t<Initialization range=\"0-593\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 238.141771
+}

@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "51aaea6850f8f7c44fec967662dbaa26",
+      "storageType": 0,
+      "url": "/public/map/VenusB/nx/VenusB_MAIN_SCENE_NX.zip/51aaea6850f8f7c44fec967662dbaa26.zip"
+    },
+    "pc": {
+      "md5": "88dcf3ae8d500c2d8a14133256527376",
+      "storageType": 0,
+      "url": "/public/map/VenusB/pc/VenusB_MAIN_SCENE_PC.zip/88dcf3ae8d500c2d8a14133256527376.zip"
+    },
+    "ps4": {
+      "md5": "870af0f01c0ec2cc98ef0b612a30fc7e",
+      "storageType": 0,
+      "url": "/public/map/VenusB/orbis/VenusB_MAIN_SCENE_ORBIS.zip/870af0f01c0ec2cc98ef0b612a30fc7e.zip"
+    }
+  },
+  "data": {
+    "mapName": "VenusB",
+    "title": "Venus",
+    "originalJDVersion": 3,
+    "tags": [
+      "subscribedSong",
+      "JustDance3",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Bananarama",
+    "credits": "Written by Rob Van Leeuwen (CA). Published by Nanada Music, B.V. D/b/a Dayglow Music NV c/o Tier Three Music (ASCAP). Courtesy of London Records Limited. Courtesy of Warner Music Canada Co. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#efc438",
+    "songColor2A": "#1fa5ae",
+    "songColor1B": "#bd3113",
+    "songColor2B": "#8c0087",
+    "lyricsColor": "#ffd711",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25659,
+        51318,
+        76977,
+        102636,
+        128296,
+        151135,
+        173975,
+        196815,
+        219654,
+        242494,
+        265334,
+        288174,
+        311013,
+        333853,
+        356693,
+        379533,
+        401615,
+        424359,
+        447292,
+        470075,
+        492974,
+        515813,
+        538653,
+        561427,
+        584333,
+        607172,
+        630012,
+        652852,
+        675691,
+        698531,
+        721371,
+        744211,
+        767050,
+        789825,
+        812730,
+        835570,
+        858409,
+        881340,
+        904180,
+        927020,
+        949817,
+        972578,
+        995461,
+        1018259,
+        1041149,
+        1063962,
+        1086852,
+        1109681,
+        1132577,
+        1155374,
+        1178219,
+        1201003,
+        1223904,
+        1246682,
+        1269589,
+        1292361,
+        1315295,
+        1338063,
+        1360975,
+        1383800,
+        1406654,
+        1429494,
+        1452334,
+        1475173
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 448,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/VenusB/VenusB_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/VenusB/nx/VenusB_banner_bkg.tga.ckd/e7ab460e6aebff20dc6c1bd0fa610b52.ckd",
+      "map_bkgImageUrl": "/public/map/VenusB/nx/VenusB_map_bkg.tga.ckd/d9952270432e0ef8ca0df9d06ec852d3.ckd",
+      "expandCoachImageUrl": "/public/map/VenusB/nx/VenusB_Cover_AlbumCoach.tga.ckd/7c49539f28c50cf52e4d44473f767ad2.ckd",
+      "cover_smallImageUrl": "/public/map/VenusB/nx/VenusB_Cover_Online.tga.ckd/d9f38a6aa882dc7bdc40b9c4cecaf3df.ckd",
+      "coverImageUrl": "/public/map/VenusB/nx/VenusB_Cover_Generic.tga.ckd/e54ff361942a9907a02510f7e332e65b.ckd",
+      "coach1ImageUrl": "/public/map/VenusB/nx/VenusB_Coach_1.tga.ckd/f6512b7beaad61970d6e0291721f9f13.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/VenusB/pc/VenusB_banner_bkg.tga.ckd/26480cc107e3561649277dfa7cde803e.ckd",
+      "map_bkgImageUrl": "/public/map/VenusB/pc/VenusB_map_bkg.tga.ckd/3506ab07e0bfc46b7863ec9243d02d69.ckd",
+      "expandCoachImageUrl": "/public/map/VenusB/pc/VenusB_Cover_AlbumCoach.tga.ckd/6900d83af2dffd345aa3792aa4ac7660.ckd",
+      "cover_smallImageUrl": "/public/map/VenusB/pc/VenusB_Cover_Online.tga.ckd/d2628ef58aa37b5d0ce6618ec21e1dfa.ckd",
+      "coverImageUrl": "/public/map/VenusB/pc/VenusB_Cover_Generic.tga.ckd/2af56563f22a71f29f7180e5a13a9514.ckd",
+      "coach1ImageUrl": "/public/map/VenusB/pc/VenusB_Coach_1.tga.ckd/a9ae5c538d37de5c82c4456e768783d8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/VenusB/orbis/VenusB_banner_bkg.tga.ckd/26480cc107e3561649277dfa7cde803e.ckd",
+      "map_bkgImageUrl": "/public/map/VenusB/orbis/VenusB_map_bkg.tga.ckd/3506ab07e0bfc46b7863ec9243d02d69.ckd",
+      "expandCoachImageUrl": "/public/map/VenusB/orbis/VenusB_Cover_AlbumCoach.tga.ckd/6900d83af2dffd345aa3792aa4ac7660.ckd",
+      "cover_smallImageUrl": "/public/map/VenusB/orbis/VenusB_Cover_Online.tga.ckd/d2628ef58aa37b5d0ce6618ec21e1dfa.ckd",
+      "coverImageUrl": "/public/map/VenusB/orbis/VenusB_Cover_Generic.tga.ckd/2af56563f22a71f29f7180e5a13a9514.ckd",
+      "coach1ImageUrl": "/public/map/VenusB/orbis/VenusB_Coach_1.tga.ckd/a9ae5c538d37de5c82c4456e768783d8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/VenusB/VenusB_Coach_1_Phone.png/caeb30fa0b55fc6accf915363b764617.png",
+    "phoneCoverImageUrl": "/public/map/VenusB/VenusB_Cover_Phone.jpg/62b13be1c4fd5305e10769fede085541.jpg",
+    "cover640ImageUrl": "/public/map/VenusB/VenusB_Cover_640.png/a40fc324412c9b50ee07f41cbae189b4.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/VenusB/VenusB.ogg": "/private/map/VenusB/VenusB.ogg/22b107845ec2f73d2902f9b971b73797.ogg",
+    "jmcs://jd-contents/VenusB/VenusB_AudioPreview.ogg": "/public/map/VenusB/VenusB_AudioPreview.ogg/b81f6c701ad9f85fca7ded8f7b3feaab.ogg",
+    "jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/VenusB/VenusB_MapPreviewNoSoundCrop_LOW.vp8.webm/fec09fe137b55894fd9b2ab14ee41ff1.webm",
+    "jmcs://jd-contents/VenusB/VenusB_HIGH.webm": "/private/map/VenusB/VenusB_HIGH.webm/9863231329333c72fdfeb7336e053e82.webm",
+    "jmcs://jd-contents/VenusB/VenusB_LOW.webm": "/private/map/VenusB/VenusB_LOW.webm/fa3173cf7a5e27863a86a39393edb888.webm",
+    "jmcs://jd-contents/VenusB/VenusB_MID.webm": "/private/map/VenusB/VenusB_MID.webm/433923dad05e48b2f6adc8a657e14932.webm",
+    "jmcs://jd-contents/VenusB/VenusB_ULTRA.hd.webm": "/private/map/VenusB/VenusB_ULTRA.hd.webm/33519d2796a8c083933f417954b8b3cd.webm",
+    "jmcs://jd-contents/VenusB/VenusB_ULTRA.webm": "/private/map/VenusB/VenusB_ULTRA.webm/f2056bb50cd44ba6e6808bbfdb6af8a3.webm",
+    "jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/VenusB/VenusB_MapPreviewNoSoundCrop_MID.vp8.webm/d917f69a5b26ca07a641e5e148b201c2.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496669\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"627-1116\">\n\t\t\t\t\t<Initialization range=\"0-627\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1245494\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/VenusB/VenusB_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\n\t\t\t\t\t<Initialization range=\"0-628\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 213.770167
+}

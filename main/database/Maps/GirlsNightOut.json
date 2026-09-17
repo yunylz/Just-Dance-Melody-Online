@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1a01450bbe46d9dc93e8a51158122196",
+      "storageType": 0,
+      "url": "/public/map/GirlsNightOut/nx/GirlsNightOut_MAIN_SCENE_NX.zip/1a01450bbe46d9dc93e8a51158122196.zip"
+    },
+    "pc": {
+      "md5": "527be532d0d9a8615a1956bdc5a6347e",
+      "storageType": 0,
+      "url": "/public/map/GirlsNightOut/pc/GirlsNightOut_MAIN_SCENE_PC.zip/527be532d0d9a8615a1956bdc5a6347e.zip"
+    },
+    "ps4": {
+      "md5": "ad2673bb64de899dd87bce15d3a9a673",
+      "storageType": 0,
+      "url": "/public/map/GirlsNightOut/orbis/GirlsNightOut_MAIN_SCENE_ORBIS.zip/ad2673bb64de899dd87bce15d3a9a673.zip"
+    }
+  },
+  "data": {
+    "mapName": "GirlsNightOut",
+    "title": "Girls Night Out",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "Solo",
+      "Extreme"
+    ],
+    "artist": "Charli XCX Ft. Pete Tong",
+    "credits": "Written by Charlotte Emma Aitchinson (ASCAP), Mikkel Storleer Eriksen (ASCAP) and Tor Erik Hermansen (ASCAP), Samuel Long (ASCAP). Published by EMI Music Publishing, a division of Sony Music Entertainment Inc. Administered by MSMSMSM Limited © 2018 (ASCAP). All rights on behalf of itself and Atlantic Records by MSMSMSM Ltd. Courtesy of Asylum Records UK, a division of Atlantic Records UK. A Warner Music Group company.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d71ec2",
+    "songColor2A": "#f4c238",
+    "songColor1B": "#58031b",
+    "songColor2B": "#3c300d",
+    "lyricsColor": "#e173a1"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253440,
+        276480,
+        299520,
+        322560,
+        345600,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506880,
+        529920,
+        552960,
+        576000,
+        599040,
+        622080,
+        645120,
+        668160,
+        691200,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852480,
+        875520,
+        898560,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013760,
+        1036800,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198080,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382400,
+        1405440,
+        1428480,
+        1451520,
+        1474560
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 441,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GirlsNightOut/GirlsNightOut_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GirlsNightOut/nx/GirlsNightOut_banner_bkg.tga.ckd/b8f0714f274f7a6b49613fc1458c7081.ckd",
+      "map_bkgImageUrl": "/public/map/GirlsNightOut/nx/GirlsNightOut_map_bkg.tga.ckd/0486465d7844a2c1f0b04ebc3d46ba03.ckd",
+      "expandCoachImageUrl": "/public/map/GirlsNightOut/nx/GirlsNightOut_Cover_AlbumCoach.tga.ckd/580a96a0f437dda735319cfe85df91cf.ckd",
+      "cover_smallImageUrl": "/public/map/GirlsNightOut/nx/GirlsNightOut_Cover_Online.tga.ckd/7a87a0262503873bbf7f48b2cb3245c6.ckd",
+      "coach1ImageUrl": "/public/map/GirlsNightOut/nx/GirlsNightOut_Coach_1.tga.ckd/e58aafa4ecc16af485167b0c78693351.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GirlsNightOut/pc/GirlsNightOut_banner_bkg.tga.ckd/7f616d058599a52c3a1ce49e399a6f1b.ckd",
+      "map_bkgImageUrl": "/public/map/GirlsNightOut/pc/GirlsNightOut_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/GirlsNightOut/pc/GirlsNightOut_Cover_AlbumCoach.tga.ckd/33d3e1a109a9580a7e602cfd014e7d28.ckd",
+      "cover_smallImageUrl": "/public/map/GirlsNightOut/pc/GirlsNightOut_Cover_Online.tga.ckd/e59649fdf7fa0d7d9094ccbf4e843f44.ckd",
+      "coach1ImageUrl": "/public/map/GirlsNightOut/pc/GirlsNightOut_Coach_1.tga.ckd/79b7ae030bc8dd5bc820b6e867837608.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GirlsNightOut/orbis/GirlsNightOut_banner_bkg.tga.ckd/7f616d058599a52c3a1ce49e399a6f1b.ckd",
+      "map_bkgImageUrl": "/public/map/GirlsNightOut/orbis/GirlsNightOut_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/GirlsNightOut/orbis/GirlsNightOut_Cover_AlbumCoach.tga.ckd/33d3e1a109a9580a7e602cfd014e7d28.ckd",
+      "cover_smallImageUrl": "/public/map/GirlsNightOut/orbis/GirlsNightOut_Cover_Online.tga.ckd/e59649fdf7fa0d7d9094ccbf4e843f44.ckd",
+      "coach1ImageUrl": "/public/map/GirlsNightOut/orbis/GirlsNightOut_Coach_1.tga.ckd/79b7ae030bc8dd5bc820b6e867837608.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GirlsNightOut/GirlsNightOut_Coach_1_Phone.png/bb2353bc54624afea5b7c7cfa40f7faa.png",
+    "phoneCoverImageUrl": "/public/map/GirlsNightOut/GirlsNightOut_Cover_Phone.jpg/f779f7931786354ca9a8016c7b3fccb1.jpg",
+    "cover640ImageUrl": "/public/map/GirlsNightOut/GirlsNightOut_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GirlsNightOut/GirlsNightOut.ogg": "/private/map/GirlsNightOut/GirlsNightOut.ogg/89272ae2feadc2a6689ebc5def102348.ogg",
+    "jmcs://jd-contents/GirlsNightOut/GirlsNightOut_AudioPreview.ogg": "/public/map/GirlsNightOut/GirlsNightOut_AudioPreview.ogg/f7532ef9f14926e099ab1dea1980a4cf.ogg",
+    "jmcs://jd-contents/GirlsNightOut/GirlsNightOut_HIGH.webm": "/private/map/GirlsNightOut/GirlsNightOut_HIGH.webm/49ed0249c146ec81f0e69be1703db5a8.webm",
+    "jmcs://jd-contents/GirlsNightOut/GirlsNightOut_LOW.webm": "/private/map/GirlsNightOut/GirlsNightOut_LOW.webm/99a5158257fed4bce59b556759d2af18.webm",
+    "jmcs://jd-contents/GirlsNightOut/GirlsNightOut_MID.webm": "/private/map/GirlsNightOut/GirlsNightOut_MID.webm/5920befcc9bbd27f7a989b1add066cff.webm",
+    "jmcs://jd-contents/GirlsNightOut/GirlsNightOut_ULTRA.webm": "/private/map/GirlsNightOut/GirlsNightOut_ULTRA.webm/91e9b99a886cce87e29c2e6dbfdf5c58.webm",
+    "jmcs://jd-contents/GirlsNightOut/GirlsNightOut_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GirlsNightOut/GirlsNightOut_MapPreviewNoSoundCrop_LOW.vp8.webm/071561852765453b7da9af300c70215c.webm",
+    "jmcs://jd-contents/GirlsNightOut/GirlsNightOut_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GirlsNightOut/GirlsNightOut_MapPreviewNoSoundCrop_MID.vp8.webm/3fcb9bc6c49f2aaeef72a7e1ef3c0ace.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"529471\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GirlsNightOut/GirlsNightOut_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"460-950\">\n\t\t\t\t\t<Initialization range=\"0-460\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1500562\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GirlsNightOut/GirlsNightOut_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"461-951\">\n\t\t\t\t\t<Initialization range=\"0-461\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 215.504417
+}

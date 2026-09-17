@@ -1,0 +1,169 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WontBeLongRetake/WontBeLongRetake.ogg": "/private/map/WontBeLongRetake/WontBeLongRetake.ogg/315b6c30a1538b87a505640205203618.ogg",
+    "jmcs://jd-contents/WontBeLongRetake/WontBeLongRetake_AudioPreview.ogg": "/public/map/WontBeLongRetake/WontBeLongRetake_AudioPreview.ogg/988cbca68a0797ad65f64b6970a30b59.ogg",
+    "jmcs://jd-contents/WontBeLongRetake/WontBeLongRetake_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WontBeLongRetake/WontBeLongRetake_MapPreviewNoSoundCrop_LOW.vp8.webm/cf0b69982cbad37eeffddeca2e84d92d.webm",
+    "jmcs://jd-contents/WontBeLongRetake/WontBeLongRetake_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WontBeLongRetake/WontBeLongRetake_MapPreviewNoSoundCrop_MID.vp8.webm/00cde8317ec6859c0c8b9dec560d798c.webm",
+    "jmcs://jd-contents/WontBeLongRetake/WontBeLongRetake_HIGH.hd.webm": "/private/map/WontBeLongRetake/WontBeLongRetake_HIGH.hd.webm/cf486f84a63ae8af63a2dbd117a9acf0.webm",
+    "jmcs://jd-contents/WontBeLongRetake/WontBeLongRetake_LOW.hd.webm": "/private/map/WontBeLongRetake/WontBeLongRetake_LOW.hd.webm/8ef7efcd97ef67f3205c4da97e73c4cd.webm",
+    "jmcs://jd-contents/WontBeLongRetake/WontBeLongRetake_MID.hd.webm": "/private/map/WontBeLongRetake/WontBeLongRetake_MID.hd.webm/92a70391b32758022de92c7ee1bd53b9.webm",
+    "jmcs://jd-contents/WontBeLongRetake/WontBeLongRetake_ULTRA.hd.webm": "/private/map/WontBeLongRetake/WontBeLongRetake_ULTRA.hd.webm/49184f5e22e4e6453c2790906291f6d4.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        193200,
+        220896,
+        248592,
+        276240,
+        303936,
+        331632,
+        359328,
+        387024,
+        414720,
+        442416,
+        470112,
+        497808,
+        525456,
+        553152,
+        580848,
+        608544,
+        636240,
+        663936,
+        691632,
+        719328,
+        747024,
+        774672,
+        802368,
+        830064,
+        857760,
+        885456,
+        913152,
+        940848,
+        968544,
+        996240,
+        1023888,
+        1051584,
+        1079280,
+        1106976,
+        1134672,
+        1162368,
+        1190064,
+        1217760,
+        1245456,
+        1273152,
+        1300800,
+        1328496,
+        1356192,
+        1383888,
+        1411584,
+        1439280,
+        1466976,
+        1494672
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 430,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WontBeLongRetake/WontBeLongRetake_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"603976\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WontBeLongRetake/WontBeLongRetake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"652-1142\">\n\t\t\t\t\t<Initialization range=\"0-652\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1984441\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WontBeLongRetake/WontBeLongRetake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"652-1142\">\n\t\t\t\t\t<Initialization range=\"0-652\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "a98b2469f8c601fa364e9c5fd46dcaec",
+      "storageType": 0,
+      "url": "/public/map/WontBeLongRetake/nx/WontBeLongRetake_MAIN_SCENE_NX.zip/a98b2469f8c601fa364e9c5fd46dcaec.zip"
+    },
+    "pc": {
+      "md5": "7b4915c2817caae7fcd44266e5933fe0",
+      "storageType": 0,
+      "url": "/public/map/WontBeLongRetake/pc/WontBeLongRetake_MAIN_SCENE_PC.zip/7b4915c2817caae7fcd44266e5933fe0.zip"
+    },
+    "ps4": {
+      "md5": "e15b0cde6a5f0811dad3d10ef186c3a8",
+      "storageType": 0,
+      "url": "/public/map/WontBeLongRetake/orbis/WontBeLongRetake_MAIN_SCENE_ORBIS.zip/e15b0cde6a5f0811dad3d10ef186c3a8.zip"
+    }
+  },
+  "data": {
+    "mapName": "WontBeLongRetake",
+    "title": "WON'T BE LONG",
+    "originalJDVersion": 1000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "jdwii",
+      "JustDanceAsia",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "Exile & Koda Kumi",
+    "credits": "empty",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#b51d1d",
+    "songColor2A": "#0069dc",
+    "songColor1B": "#350404",
+    "songColor2B": "#012c33",
+    "lyricsColor": "#3e9dc1",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WontBeLongRetake/nx/WontBeLongRetake_banner_bkg.tga.ckd/fa97e5814a9921bc26d5f8e91226f5e1.ckd",
+      "map_bkgImageUrl": "/public/map/WontBeLongRetake/nx/WontBeLongRetake_map_bkg.tga.ckd/4942b5d2b109d877143b2d9616245eb2.ckd",
+      "expandCoachImageUrl": "/public/map/WontBeLongRetake/nx/WontBeLongRetake_Cover_AlbumCoach.tga.ckd/56332f32e1f4bb0c84395300f1d27a31.ckd",
+      "cover_smallImageUrl": "/public/map/WontBeLongRetake/nx/WontBeLongRetake_Cover_Online.tga.ckd/d9f721d1b7b9e375a7966c2f925ab48e.ckd",
+      "coverImageUrl": "/public/map/WontBeLongRetake/nx/WontBeLongRetake_Cover_Generic.tga.ckd/75b119a5b9cbb15accbda83007340408.ckd",
+      "coach1ImageUrl": "/public/map/WontBeLongRetake/nx/WontBeLongRetake_Coach_1.tga.ckd/a6567a85f8e4f4fd1604efc29add48fb.ckd",
+      "coach2ImageUrl": "/public/map/WontBeLongRetake/nx/WontBeLongRetake_Coach_2.tga.ckd/e64f841823c63fef3a65ae63f9426c23.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WontBeLongRetake/pc/WontBeLongRetake_banner_bkg.tga.ckd/b5b4329804d47de7e6fc238158992ba3.ckd",
+      "map_bkgImageUrl": "/public/map/WontBeLongRetake/pc/WontBeLongRetake_map_bkg.tga.ckd/e2e1e81a1b34fbee25ac847ddae81123.ckd",
+      "expandCoachImageUrl": "/public/map/WontBeLongRetake/pc/WontBeLongRetake_Cover_AlbumCoach.tga.ckd/bc132a064360dceeb811c7961255760d.ckd",
+      "cover_smallImageUrl": "/public/map/WontBeLongRetake/pc/WontBeLongRetake_Cover_Online.tga.ckd/a7b16ea085fba625a2c4fdffed606a9d.ckd",
+      "coverImageUrl": "/public/map/WontBeLongRetake/pc/WontBeLongRetake_Cover_Generic.tga.ckd/3537372f6450922ae3a1a98d8595eda7.ckd",
+      "coach1ImageUrl": "/public/map/WontBeLongRetake/pc/WontBeLongRetake_Coach_1.tga.ckd/0ce9e3be3677fab5b2aa8fa15bdcd3c8.ckd",
+      "coach2ImageUrl": "/public/map/WontBeLongRetake/pc/WontBeLongRetake_Coach_2.tga.ckd/94c9737df659376f7a42fd3637eb0efb.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WontBeLongRetake/orbis/WontBeLongRetake_banner_bkg.tga.ckd/b5b4329804d47de7e6fc238158992ba3.ckd",
+      "map_bkgImageUrl": "/public/map/WontBeLongRetake/orbis/WontBeLongRetake_map_bkg.tga.ckd/e2e1e81a1b34fbee25ac847ddae81123.ckd",
+      "expandCoachImageUrl": "/public/map/WontBeLongRetake/orbis/WontBeLongRetake_Cover_AlbumCoach.tga.ckd/bc132a064360dceeb811c7961255760d.ckd",
+      "cover_smallImageUrl": "/public/map/WontBeLongRetake/orbis/WontBeLongRetake_Cover_Online.tga.ckd/a7b16ea085fba625a2c4fdffed606a9d.ckd",
+      "coverImageUrl": "/public/map/WontBeLongRetake/orbis/WontBeLongRetake_Cover_Generic.tga.ckd/3537372f6450922ae3a1a98d8595eda7.ckd",
+      "coach1ImageUrl": "/public/map/WontBeLongRetake/orbis/WontBeLongRetake_Coach_1.tga.ckd/0ce9e3be3677fab5b2aa8fa15bdcd3c8.ckd",
+      "coach2ImageUrl": "/public/map/WontBeLongRetake/orbis/WontBeLongRetake_Coach_2.tga.ckd/94c9737df659376f7a42fd3637eb0efb.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WontBeLongRetake/WontBeLongRetake_Coach_1_Phone.png/bbb9c54b7c09cdf08ed899a362939851.png",
+    "phoneCoach2ImageUrl": "/public/map/WontBeLongRetake/WontBeLongRetake_Coach_2_Phone.png/0a334bab0f9927e07fe18fdb58d524ea.png",
+    "phoneCoverImageUrl": "/public/map/WontBeLongRetake/WontBeLongRetake_Cover_Phone.jpg/bb49da1d2ef970aa010b1584ad2b8fdb.jpg",
+    "cover640ImageUrl": "/public/map/WontBeLongRetake/WontBeLongRetake_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 253.888
+}

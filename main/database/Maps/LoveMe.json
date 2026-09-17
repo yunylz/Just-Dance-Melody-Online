@@ -1,0 +1,188 @@
+{
+  "urls": {
+    "jmcs://jd-contents/LoveMe/LoveMe_AudioPreview.ogg": "/public/map/LoveMe/LoveMe_AudioPreview.ogg/62e8638c58749ef861a30eac075a7d09.ogg",
+    "jmcs://jd-contents/LoveMe/LoveMe.ogg": "/private/map/LoveMe/LoveMe.ogg/9c942d1f16d8818a29e62c4829b13cc7.ogg",
+    "jmcs://jd-contents/LoveMe/LoveMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LoveMe/LoveMe_MapPreviewNoSoundCrop_LOW.vp8.webm/5ce5717975e2f605b0cfa50a9c566644.webm",
+    "jmcs://jd-contents/LoveMe/LoveMe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LoveMe/LoveMe_MapPreviewNoSoundCrop_MID.vp8.webm/3d639ce8a640fb60491489eed91931f3.webm",
+    "jmcs://jd-contents/LoveMe/LoveMe_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/LoveMe/LoveMe_MapPreviewNoSoundCrop_HIGH.vp8.webm/1f4ca5f2aa25e250242d1ca859b07560.webm",
+    "jmcs://jd-contents/LoveMe/LoveMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/LoveMe/LoveMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e518851cdd66e765be5cb1f9fdc3ede8.webm",
+    "jmcs://jd-contents/LoveMe/LoveMe_ULTRA.hd.webm": "/private/map/LoveMe/LoveMe_ULTRA.hd.webm/ed3466c2343a6de44348137981e1b9c8.webm",
+    "jmcs://jd-contents/LoveMe/LoveMe_HIGH.hd.webm": "/private/map/LoveMe/LoveMe_HIGH.hd.webm/f486bd70a7d31f46546e26f1cb3b2330.webm",
+    "jmcs://jd-contents/LoveMe/LoveMe_MID.hd.webm": "/private/map/LoveMe/LoveMe_MID.hd.webm/5d0ff40711d0a2c97aa2688234d10dab.webm",
+    "jmcs://jd-contents/LoveMe/LoveMe_LOW.hd.webm": "/private/map/LoveMe/LoveMe_LOW.hd.webm/7414f70ca200223b4563392d61aed623.webm"
+  },
+  "mapLength": 212.2985625,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23415,
+        46829,
+        70244,
+        93658,
+        117073,
+        140487,
+        163901,
+        187316,
+        210730,
+        234145,
+        257559,
+        280974,
+        304388,
+        327802,
+        351217,
+        374631,
+        398046,
+        421460,
+        444875,
+        468289,
+        491703,
+        515118,
+        538532,
+        561947,
+        585361,
+        608775,
+        632190,
+        655604,
+        679019,
+        702433,
+        725848,
+        749262,
+        772676,
+        796091,
+        819505,
+        842920,
+        866334,
+        889749,
+        913163,
+        936577,
+        959992,
+        983406,
+        1006821,
+        1030235,
+        1053649,
+        1077064,
+        1100478,
+        1123893,
+        1147307,
+        1170722,
+        1194136,
+        1217550,
+        1240965,
+        1264379,
+        1287794,
+        1311208,
+        1334623,
+        1358037,
+        1381451,
+        1404866,
+        1428280
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 434,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "url": "jmcs://jd-contents/loveme/loveme_AudioPreview.ogg",
+    "path": ""
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"646558\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveMe/LoveMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"734-1224\">\n\t\t\t\t\t<Initialization range=\"0-734\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1161197\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveMe/LoveMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"734-1224\">\n\t\t\t\t\t<Initialization range=\"0-734\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"1180489\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveMe/LoveMe_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"734-1224\">\n\t\t\t\t\t<Initialization range=\"0-734\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"1179540\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LoveMe/LoveMe_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"734-1224\">\n\t\t\t\t\t<Initialization range=\"0-734\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "08defdca807ee5f606b1e938fae34924",
+      "storageType": 0,
+      "url": "/public/map/LoveMe/pc/LoveMe_MAIN_SCENE_PC.zip/08defdca807ee5f606b1e938fae34924.zip"
+    },
+    "ps4": {
+      "md5": "c5aadaf4bd273605c00c2f1250517dbf",
+      "storageType": 0,
+      "url": "/public/map/LoveMe/orbis/LoveMe_MAIN_SCENE_ORBIS.zip/c5aadaf4bd273605c00c2f1250517dbf.zip"
+    },
+    "wiiu": {
+      "md5": "a6351554be21b6a48a9cf55e9a78a80c",
+      "storageType": 0,
+      "url": "/public/map/LoveMe/wiiu/LoveMe_MAIN_SCENE_WIIU.zip/a6351554be21b6a48a9cf55e9a78a80c.zip"
+    },
+    "nx": {
+      "md5": "b1cd35098956e4d2285201994a25f225",
+      "storageType": 0,
+      "url": "/public/map/LoveMe/nx/LoveMe_MAIN_SCENE_NX.zip/b1cd35098956e4d2285201994a25f225.zip"
+    }
+  },
+  "data": {
+    "mapName": "LoveMe",
+    "title": "Baby Don’t Stop Now",
+    "originalJDVersion": 3,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Anja",
+    "credits": "Empty Credits",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#941CFA",
+    "songColor2A": "#C9CC00",
+    "songColor1B": "#060033",
+    "songColor2B": "#3E3C03",
+    "lyricsColor": "#00DFE9",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/LoveMe/pc/LoveMe_Cover_Online.tga.ckd/cd15fea089c92dc66b5e02bc6b8bd28d.ckd",
+      "coverImageUrl": "/public/map/LoveMe/pc/LoveMe_Cover_Generic.tga.ckd/93e790be1e1eb9a0636a86e039e94f2d.ckd",
+      "expandCoachImageUrl": "/public/map/LoveMe/pc/LoveMe_Cover_AlbumCoach.tga.ckd/12858dd7d633a04c501a4ccd9612cccc.ckd",
+      "map_bkgImageUrl": "/public/map/LoveMe/pc/LoveMe_map_bkg.tga.ckd/e3e5987f605491dc1098c7ee6fcc5c8a.ckd",
+      "banner_bkgImageUrl": "/public/map/LoveMe/pc/LoveMe_banner_bkg.tga.ckd/731cb4b0c7c00be8d0d523969025289a.ckd",
+      "coach1ImageUrl": "/public/map/LoveMe/pc/LoveMe_Coach_1.tga.ckd/8b4f0558a4af2e9a014c5483b9348c7a.ckd",
+      "phoneCoverImageUrl": "/public/map/LoveMe/LoveMe_Cover_Phone.jpg/7802143c871d31666d7a4b3d0e1b94cf.jpg",
+      "phoneCoach1ImageUrl": "/public/map/LoveMe/LoveMe_Coach_1_Phone.png/d7140f0bbb1d3602a1320ba4a848c18f.png",
+      "cover640ImageUrl": "/public/map/LoveMe/LoveMe_Cover_640.png/e2f1bf1f66990c9baee127e46c665c7b.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/LoveMe/orbis/LoveMe_Cover_Online.tga.ckd/cd15fea089c92dc66b5e02bc6b8bd28d.ckd",
+      "coverImageUrl": "/public/map/LoveMe/orbis/LoveMe_Cover_Generic.tga.ckd/93e790be1e1eb9a0636a86e039e94f2d.ckd",
+      "expandCoachImageUrl": "/public/map/LoveMe/orbis/LoveMe_Cover_AlbumCoach.tga.ckd/4b0774a88fd8b0a99e0f152d68b2eebb.ckd",
+      "map_bkgImageUrl": "/public/map/LoveMe/orbis/LoveMe_map_bkg.tga.ckd/e3e5987f605491dc1098c7ee6fcc5c8a.ckd",
+      "banner_bkgImageUrl": "/public/map/LoveMe/orbis/LoveMe_banner_bkg.tga.ckd/731cb4b0c7c00be8d0d523969025289a.ckd",
+      "coach1ImageUrl": "/public/map/LoveMe/orbis/LoveMe_Coach_1.tga.ckd/c7c25f0d34610027c0c9aed8e966ea15.ckd",
+      "phoneCoverImageUrl": "/public/map/LoveMe/LoveMe_Cover_Phone.jpg/7802143c871d31666d7a4b3d0e1b94cf.jpg",
+      "phoneCoach1ImageUrl": "/public/map/LoveMe/LoveMe_Coach_1_Phone.png/d7140f0bbb1d3602a1320ba4a848c18f.png",
+      "cover640ImageUrl": "/public/map/LoveMe/LoveMe_Cover_640.png/e2f1bf1f66990c9baee127e46c665c7b.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/LoveMe/nx/LoveMe_Cover_Online.tga.ckd/563489e6a3a54ae93855d71123034265.ckd",
+      "coverImageUrl": "/public/map/LoveMe/nx/LoveMe_Cover_Generic.tga.ckd/c929e305e5097a2a3da9e2d671e7beb5.ckd",
+      "expandCoachImageUrl": "/public/map/LoveMe/nx/LoveMe_Cover_AlbumCoach.tga.ckd/8b4b3ed5065f429dda64c448978147bf.ckd",
+      "map_bkgImageUrl": "/public/map/LoveMe/nx/LoveMe_map_bkg.tga.ckd/1960f7d959ec25567ff9f92742a49fcb.ckd",
+      "banner_bkgImageUrl": "/public/map/LoveMe/nx/LoveMe_banner_bkg.tga.ckd/60ab0e51781ebbd98c621b52f9e23c93.ckd",
+      "coach1ImageUrl": "/public/map/LoveMe/nx/LoveMe_Coach_1.tga.ckd/73506d43c09d604f88cc039cdde4b0b8.ckd",
+      "phoneCoverImageUrl": "/public/map/LoveMe/LoveMe_Cover_Phone.jpg/7802143c871d31666d7a4b3d0e1b94cf.jpg",
+      "phoneCoach1ImageUrl": "/public/map/LoveMe/LoveMe_Coach_1_Phone.png/d7140f0bbb1d3602a1320ba4a848c18f.png",
+      "cover640ImageUrl": "/public/map/LoveMe/LoveMe_Cover_640.png/e2f1bf1f66990c9baee127e46c665c7b.png"
+    }
+  }
+}

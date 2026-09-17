@@ -1,0 +1,176 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Feather/Feather.ogg": "/private/map/Feather/Feather.ogg/5aa9925b716f1b40ea8bbaa7806a1211.ogg",
+    "jmcs://jd-contents/Feather/Feather_AudioPreview.ogg": "/public/map/Feather/Feather_AudioPreview.ogg/e20c4c10949166f983e985d2a0f31dae.ogg",
+    "jmcs://jd-contents/Feather/Feather_HIGH.hd.webm": "/private/map/Feather/Feather_HIGH.hd.webm/a64bc488af828091637197dd7810dd1e.webm",
+    "jmcs://jd-contents/Feather/Feather_LOW.hd.webm": "/private/map/Feather/Feather_LOW.hd.webm/b1c28753feff01f96a0f7b6f2e09a99d.webm",
+    "jmcs://jd-contents/Feather/Feather_MID.hd.webm": "/private/map/Feather/Feather_MID.hd.webm/bf8e85fef617150b2750d65077c6017f.webm",
+    "jmcs://jd-contents/Feather/Feather_ULTRA.hd.webm": "/private/map/Feather/Feather_ULTRA.hd.webm/4aead73dfd5daa0a58e98bffd3deac10.webm",
+    "jmcs://jd-contents/Feather/Feather_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Feather/Feather_MapPreviewNoSoundCrop_LOW.vp8.webm/a27d9a3552fea659aa3f655114388737.webm",
+    "jmcs://jd-contents/Feather/Feather_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Feather/Feather_MapPreviewNoSoundCrop_MID.vp8.webm/e1206750a70e0a0198032cc39020273d.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23226,
+        46452,
+        69677,
+        92903,
+        116129,
+        139355,
+        162581,
+        185806,
+        209032,
+        232258,
+        255484,
+        278710,
+        301935,
+        325161,
+        348387,
+        371613,
+        394839,
+        418065,
+        441416,
+        464980,
+        488331,
+        511682,
+        534825,
+        557968,
+        581319,
+        604883,
+        628234,
+        651377,
+        674728,
+        698080,
+        721431,
+        744574,
+        767925,
+        791277,
+        814840,
+        837983,
+        861335,
+        884686,
+        908037,
+        931389,
+        954740,
+        978091,
+        1001234,
+        1024586,
+        1047937,
+        1071288,
+        1094640,
+        1117578,
+        1141141,
+        1164493,
+        1187844,
+        1211195,
+        1234547,
+        1257898,
+        1281249,
+        1304601,
+        1327952,
+        1351303,
+        1374655,
+        1398006,
+        1421358,
+        1444296,
+        1467647,
+        1490998
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 386,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Feather/Feather_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"530987\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Feather/Feather_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1969352\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Feather/Feather_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "c8ccd83431b304e8d367a35824b0106b",
+      "storageType": 0,
+      "url": "/public/map/Feather/nx/Feather_MAIN_SCENE_NX.zip/c8ccd83431b304e8d367a35824b0106b.zip"
+    },
+    "pc": {
+      "md5": "b46c3948c793e762be0db94a285c2149",
+      "storageType": 0,
+      "url": "/public/map/Feather/pc/Feather_MAIN_SCENE_PC.zip/b46c3948c793e762be0db94a285c2149.zip"
+    },
+    "ps4": {
+      "md5": "402b35b75dbd2a98e43ab5259d7efe31",
+      "storageType": 0,
+      "url": "/public/map/Feather/orbis/Feather_MAIN_SCENE_ORBIS.zip/402b35b75dbd2a98e43ab5259d7efe31.zip"
+    }
+  },
+  "data": {
+    "mapName": "Feather",
+    "title": "Feather",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sabrina Carpenter",
+    "credits": "Performed by Sabrina Carpenter. Written by Sabrina Annlynn Carpenter, Amy Allen, John Ryan. Published by Music of Big Family (BMI) obo itself and Don Wyman Music (BMI) / Universal Music Publishing Canada on behalf of Songs Of Universal, Inc. and Sabalicious Songs / Kenny + Betty Tunes, LLC ASCAP Pub Designee administered by WC Music Corp. Courtesy of Island Records under license from Universal Music Canada Inc. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f97bf8",
+    "songColor2A": "#84efee",
+    "songColor1B": "#1c036d",
+    "songColor2B": "#4235bd",
+    "lyricsColor": "#ef5c00",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Feather/nx/Feather_banner_bkg.tga.ckd/6ac89f7c4dac877baaac3f03696dcbe0.ckd",
+      "map_bkgImageUrl": "/public/map/Feather/nx/Feather_map_bkg.tga.ckd/130fb1adf1ac139f691dff6aa3640064.ckd",
+      "expandCoachImageUrl": "/public/map/Feather/nx/Feather_Cover_AlbumCoach.tga.ckd/7e10b7d4d6617d5fb0e25871e54a6c8c.ckd",
+      "cover_smallImageUrl": "/public/map/Feather/nx/Feather_Cover_Online.tga.ckd/afeccd3d69a275f1312fd4e6f30a051f.ckd",
+      "coverImageUrl": "/public/map/Feather/nx/Feather_Cover_Generic.tga.ckd/d732cb901ae298a10edeb4d988e2dd4c.ckd",
+      "coach1ImageUrl": "/public/map/Feather/nx/Feather_Coach_1.tga.ckd/1aa2a6a1e23f065b02006d6968d17f09.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Feather/pc/Feather_banner_bkg.tga.ckd/372a0256f7ce7b4706c026796690c050.ckd",
+      "map_bkgImageUrl": "/public/map/Feather/pc/Feather_map_bkg.tga.ckd/235c5ad5150aadf2fbcd244c80a8b454.ckd",
+      "expandCoachImageUrl": "/public/map/Feather/pc/Feather_Cover_AlbumCoach.tga.ckd/1b039c618a820f7aebf27c111cb42df5.ckd",
+      "cover_smallImageUrl": "/public/map/Feather/pc/Feather_Cover_Online.tga.ckd/0f6bbbd944432c252a816a660bbf3069.ckd",
+      "coverImageUrl": "/public/map/Feather/pc/Feather_Cover_Generic.tga.ckd/42a8d2a05bf68f15018ba6c29b5b702d.ckd",
+      "coach1ImageUrl": "/public/map/Feather/pc/Feather_Coach_1.tga.ckd/63c2652367e51398aa2a44c980c934c4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Feather/orbis/Feather_banner_bkg.tga.ckd/372a0256f7ce7b4706c026796690c050.ckd",
+      "map_bkgImageUrl": "/public/map/Feather/orbis/Feather_map_bkg.tga.ckd/235c5ad5150aadf2fbcd244c80a8b454.ckd",
+      "expandCoachImageUrl": "/public/map/Feather/orbis/Feather_Cover_AlbumCoach.tga.ckd/1b039c618a820f7aebf27c111cb42df5.ckd",
+      "cover_smallImageUrl": "/public/map/Feather/orbis/Feather_Cover_Online.tga.ckd/0f6bbbd944432c252a816a660bbf3069.ckd",
+      "coverImageUrl": "/public/map/Feather/orbis/Feather_Cover_Generic.tga.ckd/42a8d2a05bf68f15018ba6c29b5b702d.ckd",
+      "coach1ImageUrl": "/public/map/Feather/orbis/Feather_Coach_1.tga.ckd/63c2652367e51398aa2a44c980c934c4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Feather/Feather_Coach_1_Phone.png/0a9ad356f2d2e9d82f609f4c21aada43.png",
+    "phoneCoverImageUrl": "/public/map/Feather/Feather_Cover_Phone.jpg/0258c972157cea38446f1fcf0665b55a.jpg",
+    "cover640ImageUrl": "/public/map/Feather/Feather_Cover_640.png/b2e619ac11240442095c016cd6c5da21.png"
+  },
+  "mapLength": 194.639625
+}

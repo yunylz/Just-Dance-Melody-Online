@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7ccbc2747d381300cb59200a0ae5dec8",
+      "storageType": 0,
+      "url": "/public/map/RobotRock/nx/RobotRock_MAIN_SCENE_NX.zip/7ccbc2747d381300cb59200a0ae5dec8.zip"
+    },
+    "pc": {
+      "md5": "9432e98957af08ede9b20759e2e670fc",
+      "storageType": 0,
+      "url": "/public/map/RobotRock/pc/RobotRock_MAIN_SCENE_PC.zip/9432e98957af08ede9b20759e2e670fc.zip"
+    },
+    "ps4": {
+      "md5": "1d48397633cbd3e33bb44151d951d769",
+      "storageType": 0,
+      "url": "/public/map/RobotRock/orbis/RobotRock_MAIN_SCENE_ORBIS.zip/1d48397633cbd3e33bb44151d951d769.zip"
+    }
+  },
+  "data": {
+    "mapName": "RobotRock",
+    "title": "Robot Rock",
+    "originalJDVersion": 2014,
+    "tags": [
+      "intense",
+      "main"
+    ],
+    "artist": "Daft Punk",
+    "credits": "Courtesy of Ubiloud. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00adb5",
+    "songColor2A": "#dabf5b",
+    "songColor1B": "#0a004b",
+    "songColor2B": "#41000b",
+    "lyricsColor": "#ffff00",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        44255,
+        70223,
+        96191,
+        122255,
+        148319,
+        174383,
+        200447,
+        226511,
+        252527,
+        278591,
+        304655,
+        329903,
+        355151,
+        380399,
+        405647,
+        430895,
+        456143,
+        481391,
+        506639,
+        531887,
+        557135,
+        582383,
+        607631,
+        632831,
+        658079,
+        683327,
+        708575,
+        733823,
+        759071,
+        784319,
+        809567,
+        834815,
+        860063,
+        885311,
+        910559,
+        935807,
+        961055,
+        986303,
+        1011503,
+        1036751,
+        1061999,
+        1087247,
+        1112495,
+        1137742,
+        1162990,
+        1188238,
+        1213486,
+        1239214,
+        1264942,
+        1290670,
+        1316398,
+        1342126,
+        1367854,
+        1393582,
+        1419310,
+        1445038,
+        1470766,
+        1496494
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 354,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RobotRock/RobotRock_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RobotRock/nx/RobotRock_banner_bkg.tga.ckd/92acc4e41a95a5746271578fe14a80da.ckd",
+      "map_bkgImageUrl": "/public/map/RobotRock/nx/RobotRock_map_bkg.tga.ckd/de64448d18df7b31d8c706aa640af4d0.ckd",
+      "expandCoachImageUrl": "/public/map/RobotRock/nx/RobotRock_Cover_AlbumCoach.tga.ckd/9853925ef30652dbc91f6b0756d24e2c.ckd",
+      "cover_smallImageUrl": "/public/map/RobotRock/nx/RobotRock_Cover_Online.tga.ckd/9a94a4a3021555a91d9b0cf8fd75efe2.ckd",
+      "coach1ImageUrl": "/public/map/RobotRock/nx/RobotRock_Coach_1.tga.ckd/2f19d266bc9039bfaad1223063dddfaf.ckd",
+      "coach2ImageUrl": "/public/map/RobotRock/nx/RobotRock_Coach_2.tga.ckd/bcc7eedd07c87b43fba307b173819791.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RobotRock/pc/RobotRock_banner_bkg.tga.ckd/4aca1aa462a28901cc94de0c8b8cb093.ckd",
+      "map_bkgImageUrl": "/public/map/RobotRock/pc/RobotRock_map_bkg.tga.ckd/06ced8a3c6c315bccdd22b65d7304491.ckd",
+      "expandCoachImageUrl": "/public/map/RobotRock/pc/RobotRock_Cover_AlbumCoach.tga.ckd/4ab8e493d49a02a78b54719584badf47.ckd",
+      "cover_smallImageUrl": "/public/map/RobotRock/pc/RobotRock_Cover_Online.tga.ckd/4700a1bef3de53c40b5939d6510da5dc.ckd",
+      "coach1ImageUrl": "/public/map/RobotRock/pc/RobotRock_Coach_1.tga.ckd/de020cd0962026129cabc6703cf2d031.ckd",
+      "coach2ImageUrl": "/public/map/RobotRock/pc/RobotRock_Coach_2.tga.ckd/56505b1cdd708df5153e6b0e3fa27c57.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RobotRock/orbis/RobotRock_banner_bkg.tga.ckd/4aca1aa462a28901cc94de0c8b8cb093.ckd",
+      "map_bkgImageUrl": "/public/map/RobotRock/orbis/RobotRock_map_bkg.tga.ckd/06ced8a3c6c315bccdd22b65d7304491.ckd",
+      "expandCoachImageUrl": "/public/map/RobotRock/orbis/RobotRock_Cover_AlbumCoach.tga.ckd/4ab8e493d49a02a78b54719584badf47.ckd",
+      "cover_smallImageUrl": "/public/map/RobotRock/orbis/RobotRock_Cover_Online.tga.ckd/4700a1bef3de53c40b5939d6510da5dc.ckd",
+      "coach1ImageUrl": "/public/map/RobotRock/orbis/RobotRock_Coach_1.tga.ckd/de020cd0962026129cabc6703cf2d031.ckd",
+      "coach2ImageUrl": "/public/map/RobotRock/orbis/RobotRock_Coach_2.tga.ckd/56505b1cdd708df5153e6b0e3fa27c57.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RobotRock/RobotRock_Coach_1_Phone.png/e117d4dcbeb13a4149a95872a8825700.png",
+    "phoneCoach2ImageUrl": "/public/map/RobotRock/RobotRock_Coach_2_Phone.png/3886d84119ea19aadedfa248091553ad.png",
+    "phoneCoverImageUrl": "/public/map/RobotRock/RobotRock_Cover_Phone.jpg/15651987046ce7ac243bc9ecdef44d7b.jpg",
+    "cover640ImageUrl": "/public/map/RobotRock/RobotRock_Cover_640.png/d3b0a13e90f35341c9d735d124926f79.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/RobotRock/RobotRock.ogg": "/private/map/RobotRock/RobotRock.ogg/42e6832a5056d214be8c601fc850f8eb.ogg",
+    "jmcs://jd-contents/RobotRock/RobotRock_AudioPreview.ogg": "/public/map/RobotRock/RobotRock_AudioPreview.ogg/e0672dd84e3543c249c1a27924f2bb40.ogg",
+    "jmcs://jd-contents/RobotRock/RobotRock_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RobotRock/RobotRock_MapPreviewNoSoundCrop_LOW.vp8.webm/a51fd95ffac0c1ea4763c0ba9fce9840.webm",
+    "jmcs://jd-contents/RobotRock/RobotRock_HIGH.webm": "/private/map/RobotRock/RobotRock_HIGH.webm/3610a24d443308ff8b977ed4bddbe8b3.webm",
+    "jmcs://jd-contents/RobotRock/RobotRock_LOW.webm": "/private/map/RobotRock/RobotRock_LOW.webm/9bb23117f77d370dfde63ec772e6fe40.webm",
+    "jmcs://jd-contents/RobotRock/RobotRock_MID.webm": "/private/map/RobotRock/RobotRock_MID.webm/5eb5e978d408cf06d5c2b7f503483053.webm",
+    "jmcs://jd-contents/RobotRock/RobotRock_ULTRA.hd.webm": "/private/map/RobotRock/RobotRock_ULTRA.hd.webm/0a4fb2bebbc041fd26b2c8e5b671e0fd.webm",
+    "jmcs://jd-contents/RobotRock/RobotRock_ULTRA.webm": "/private/map/RobotRock/RobotRock_ULTRA.webm/a8e00184648fc135ebd036850e6d1f48.webm",
+    "jmcs://jd-contents/RobotRock/RobotRock_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RobotRock/RobotRock_MapPreviewNoSoundCrop_MID.vp8.webm/355f1bd1382c5618835825959fc79889.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496629\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RobotRock/RobotRock_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"631-1120\">\n\t\t\t\t\t<Initialization range=\"0-631\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482378\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RobotRock/RobotRock_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 188.393625
+}

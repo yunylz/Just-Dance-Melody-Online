@@ -1,0 +1,145 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MJStrangerInMoscow/MJStrangerInMoscow.ogg": "/private/map/MJStrangerInMoscow/MJStrangerInMoscow.ogg/1904a19b10ced93007ad07694dcf9a1a.ogg",
+    "jmcs://jd-contents/MJStrangerInMoscow/MJStrangerInMoscow_AudioPreview.ogg": "/public/map/MJStrangerInMoscow/MJStrangerInMoscow_AudioPreview.ogg/f3be448b3fb62cc62dcfcbe60cde4999.ogg",
+    "jmcs://jd-contents/MJStrangerInMoscow/MJStrangerInMoscow_HIGH.hd.webm": "/private/map/MJStrangerInMoscow/MJStrangerInMoscow_HIGH.hd.webm/1e41ce1e6deef24a67c897948e6d577a.webm",
+    "jmcs://jd-contents/MJStrangerInMoscow/MJStrangerInMoscow_LOW.hd.webm": "/private/map/MJStrangerInMoscow/MJStrangerInMoscow_LOW.hd.webm/0f7757187addef0bcb7bb91dffee02c3.webm",
+    "jmcs://jd-contents/MJStrangerInMoscow/MJStrangerInMoscow_MID.hd.webm": "/private/map/MJStrangerInMoscow/MJStrangerInMoscow_MID.hd.webm/ba4fa0d6aafabc41901ec0ec4e4e3a48.webm",
+    "jmcs://jd-contents/MJStrangerInMoscow/MJStrangerInMoscow_ULTRA.hd.webm": "/private/map/MJStrangerInMoscow/MJStrangerInMoscow_ULTRA.hd.webm/cd83a50144cd114db82a21eaa0fa41d9.webm",
+    "jmcs://jd-contents/MJStrangerInMoscow/MJStrangerInMoscow_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJStrangerInMoscow/MJStrangerInMoscow_MapPreviewNoSoundCrop_LOW.vp8.webm/30cbcd628a12e23935c68b9bfaaa8968.webm",
+    "jmcs://jd-contents/MJStrangerInMoscow/MJStrangerInMoscow_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJStrangerInMoscow/MJStrangerInMoscow_MapPreviewNoSoundCrop_MID.vp8.webm/5a1a2c23cb8706f7a017edde93ee5787.webm"
+  },
+  "mapLength": 285.4044166666667,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        177319,
+        221649,
+        265982,
+        310311,
+        354641,
+        398973,
+        443304,
+        487636,
+        531966,
+        576298,
+        620628,
+        664960,
+        709289,
+        753619,
+        797952,
+        842282,
+        886613,
+        930944,
+        975276,
+        1019605,
+        1063935,
+        1108268,
+        1152598,
+        1196929,
+        1241259,
+        1285592,
+        1329922,
+        1374253,
+        1418583,
+        1462914,
+        1507246
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 306,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 29,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJStrangerInMoscow/MJStrangerInMoscow_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"488529\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJStrangerInMoscow/MJStrangerInMoscow_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"808-1298\">\n\t\t\t\t\t<Initialization range=\"0-808\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1983376\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJStrangerInMoscow/MJStrangerInMoscow_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"809-1299\">\n\t\t\t\t\t<Initialization range=\"0-809\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "bde8eee5d378cf37af844e84f53304ce",
+      "storageType": 0,
+      "url": "/public/map/MJStrangerInMoscow/nx/MJStrangerInMoscow_MAIN_SCENE_NX.zip/bde8eee5d378cf37af844e84f53304ce.zip"
+    },
+    "pc": {
+      "md5": "f00a588a4e58f7c109222fd570d7063b",
+      "storageType": 0,
+      "url": "/public/map/MJStrangerInMoscow/pc/MJStrangerInMoscow_MAIN_SCENE_PC.zip/f00a588a4e58f7c109222fd570d7063b.zip"
+    },
+    "ps4": {
+      "md5": "79f162ca1c3ce3436ea800a72b4fcce8",
+      "storageType": 0,
+      "url": "/public/map/MJStrangerInMoscow/orbis/MJStrangerInMoscow_MAIN_SCENE_ORBIS.zip/79f162ca1c3ce3436ea800a72b4fcce8.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJStrangerInMoscow",
+    "title": "Stranger in Moscow",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong",
+      "MJTE",
+      "MJTEDrop"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#686868",
+    "songColor2A": "#A0AFAA",
+    "songColor1B": "#101010",
+    "songColor2B": "#232623",
+    "lyricsColor": "#6B6B6B",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJStrangerInMoscow/nx/MJStrangerInMoscow_banner_bkg.tga.ckd/aec65192d141dafc8af7a5d59fe8341e.ckd",
+      "map_bkgImageUrl": "/public/map/MJStrangerInMoscow/nx/MJStrangerInMoscow_map_bkg.tga.ckd/b70ee5705d4c008eae382f6a615b83bc.ckd",
+      "expandCoachImageUrl": "/public/map/MJStrangerInMoscow/nx/MJStrangerInMoscow_Cover_AlbumCoach.tga.ckd/dedb6d18a59e0638cb870ea65626ff74.ckd",
+      "cover_smallImageUrl": "/public/map/MJStrangerInMoscow/nx/MJStrangerInMoscow_Cover_Online.tga.ckd/6051b6d417a66ff1e715c70a54b1fa80.ckd",
+      "coverImageUrl": "/public/map/MJStrangerInMoscow/nx/MJStrangerInMoscow_Cover_Generic.tga.ckd/2a789a9e3a498aa6e8325cf94c5455db.ckd",
+      "coach1ImageUrl": "/public/map/MJStrangerInMoscow/nx/MJStrangerInMoscow_Coach_1.tga.ckd/74cfa3065a7b70089a8552b8886e0c54.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJStrangerInMoscow/pc/MJStrangerInMoscow_banner_bkg.tga.ckd/a8fc4ce235a6876f062a40ad2d71d06c.ckd",
+      "map_bkgImageUrl": "/public/map/MJStrangerInMoscow/pc/MJStrangerInMoscow_map_bkg.tga.ckd/02e47e619aae49213e2e512eb03351af.ckd",
+      "expandCoachImageUrl": "/public/map/MJStrangerInMoscow/pc/MJStrangerInMoscow_Cover_AlbumCoach.tga.ckd/fe07b36a3166660e087e9ddfd25a9e1b.ckd",
+      "cover_smallImageUrl": "/public/map/MJStrangerInMoscow/pc/MJStrangerInMoscow_Cover_Online.tga.ckd/ac29abbbacb935c4a96d7e9a3d1f6d7b.ckd",
+      "coverImageUrl": "/public/map/MJStrangerInMoscow/pc/MJStrangerInMoscow_Cover_Generic.tga.ckd/625b4cb5d3a7fbd179bef66a6c58d10f.ckd",
+      "coach1ImageUrl": "/public/map/MJStrangerInMoscow/pc/MJStrangerInMoscow_Coach_1.tga.ckd/55044c29ca4ead021c04fa7f9b563e63.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJStrangerInMoscow/orbis/MJStrangerInMoscow_banner_bkg.tga.ckd/a8fc4ce235a6876f062a40ad2d71d06c.ckd",
+      "map_bkgImageUrl": "/public/map/MJStrangerInMoscow/orbis/MJStrangerInMoscow_map_bkg.tga.ckd/02e47e619aae49213e2e512eb03351af.ckd",
+      "expandCoachImageUrl": "/public/map/MJStrangerInMoscow/orbis/MJStrangerInMoscow_Cover_AlbumCoach.tga.ckd/fe07b36a3166660e087e9ddfd25a9e1b.ckd",
+      "cover_smallImageUrl": "/public/map/MJStrangerInMoscow/orbis/MJStrangerInMoscow_Cover_Online.tga.ckd/ac29abbbacb935c4a96d7e9a3d1f6d7b.ckd",
+      "coverImageUrl": "/public/map/MJStrangerInMoscow/orbis/MJStrangerInMoscow_Cover_Generic.tga.ckd/625b4cb5d3a7fbd179bef66a6c58d10f.ckd",
+      "coach1ImageUrl": "/public/map/MJStrangerInMoscow/orbis/MJStrangerInMoscow_Coach_1.tga.ckd/55044c29ca4ead021c04fa7f9b563e63.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJStrangerInMoscow/MJStrangerInMoscow_Coach_1_Phone.png/97d35e5a7f5ca4b3eac10928640f442a.png",
+    "phoneCoverImageUrl": "/public/map/MJStrangerInMoscow/MJStrangerInMoscow_Cover_Phone.jpg/d1a426ebd5308055a1757b2130244c45.jpg",
+    "cover640ImageUrl": "/public/map/MJStrangerInMoscow/MJStrangerInMoscow_Cover_640.png/8eef07a9e3bb12fa6661188324c708c2.png"
+  }
+}

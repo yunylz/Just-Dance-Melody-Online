@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c20ad9db8a2669b918da0632ed73dffe",
+      "storageType": 0,
+      "url": "/public/map/MJTheWay/nx/MJTheWay_MAIN_SCENE_NX.zip/c20ad9db8a2669b918da0632ed73dffe.zip"
+    },
+    "pc": {
+      "md5": "2c7fe15e445807214155db05806e7049",
+      "storageType": 0,
+      "url": "/public/map/MJTheWay/pc/MJTheWay_MAIN_SCENE_PC.zip/2c7fe15e445807214155db05806e7049.zip"
+    },
+    "ps4": {
+      "md5": "5a2e7be2b8516117d84527e9b46ac103",
+      "storageType": 0,
+      "url": "/public/map/MJTheWay/orbis/MJTheWay_MAIN_SCENE_ORBIS.zip/5a2e7be2b8516117d84527e9b46ac103.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJTheWay",
+    "title": "The Way You Make Me Feel",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong",
+      "mjte",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#2011a8",
+    "songColor2A": "#450580",
+    "songColor1B": "#0e045a",
+    "songColor2B": "#20023c",
+    "lyricsColor": "#476aff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25151,
+        50303,
+        75454,
+        100606,
+        125757,
+        150908,
+        176060,
+        201211,
+        226363,
+        251034,
+        276713,
+        302201,
+        326920,
+        352504,
+        377751,
+        403094,
+        427622,
+        453157,
+        477925,
+        503412,
+        528275,
+        553763,
+        578434,
+        604162,
+        629169,
+        654464,
+        679184,
+        704671,
+        729535,
+        755022,
+        779789,
+        805277,
+        829996,
+        855292,
+        880443,
+        905978,
+        930746,
+        955897,
+        981097,
+        1006248,
+        1031400,
+        1056551,
+        1081702,
+        1106854,
+        1132005,
+        1157157,
+        1182308,
+        1207507,
+        1232467,
+        1258050,
+        1282914,
+        1308209,
+        1333120,
+        1358656,
+        1383567,
+        1409151,
+        1433774,
+        1459357,
+        1484029
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 522,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJTheWay/MJTheWay_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJTheWay/nx/MJTheWay_banner_bkg.tga.ckd/e4e7a0f8d722d24caf01c890861e8066.ckd",
+      "map_bkgImageUrl": "/public/map/MJTheWay/nx/MJTheWay_map_bkg.tga.ckd/00b79d3ce30816aa283af7b63a4dd345.ckd",
+      "expandCoachImageUrl": "/public/map/MJTheWay/nx/MJTheWay_Cover_AlbumCoach.tga.ckd/de76d187aa6e088a41ba568c38c244fd.ckd",
+      "cover_smallImageUrl": "/public/map/MJTheWay/nx/MJTheWay_Cover_Online.tga.ckd/b4285d9d7b0fc9dd9190a1fc2baff0ac.ckd",
+      "coach1ImageUrl": "/public/map/MJTheWay/nx/MJTheWay_Coach_1.tga.ckd/74bff1d54f49fb483f1461e31c850062.ckd",
+      "coach2ImageUrl": "/public/map/MJTheWay/nx/MJTheWay_Coach_2.tga.ckd/e4878698ed196dcb357b3ad357d6138e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJTheWay/pc/MJTheWay_banner_bkg.tga.ckd/c5498b93e560406b751af5af2d7db67d.ckd",
+      "map_bkgImageUrl": "/public/map/MJTheWay/pc/MJTheWay_map_bkg.tga.ckd/0e72d1cff53d0af833d431b5ff36e13c.ckd",
+      "expandCoachImageUrl": "/public/map/MJTheWay/pc/MJTheWay_Cover_AlbumCoach.tga.ckd/51e96dfc5f7001c3d58189039f2dd9be.ckd",
+      "cover_smallImageUrl": "/public/map/MJTheWay/pc/MJTheWay_Cover_Online.tga.ckd/ee79c24072cc7829f1eb6fdba133661e.ckd",
+      "coach1ImageUrl": "/public/map/MJTheWay/pc/MJTheWay_Coach_1.tga.ckd/ef5f4101b86264de7acfa0a15286aba0.ckd",
+      "coach2ImageUrl": "/public/map/MJTheWay/pc/MJTheWay_Coach_2.tga.ckd/ad214dd8276d96dd65de7d0b0391349f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJTheWay/orbis/MJTheWay_banner_bkg.tga.ckd/c5498b93e560406b751af5af2d7db67d.ckd",
+      "map_bkgImageUrl": "/public/map/MJTheWay/orbis/MJTheWay_map_bkg.tga.ckd/0e72d1cff53d0af833d431b5ff36e13c.ckd",
+      "expandCoachImageUrl": "/public/map/MJTheWay/orbis/MJTheWay_Cover_AlbumCoach.tga.ckd/51e96dfc5f7001c3d58189039f2dd9be.ckd",
+      "cover_smallImageUrl": "/public/map/MJTheWay/orbis/MJTheWay_Cover_Online.tga.ckd/ee79c24072cc7829f1eb6fdba133661e.ckd",
+      "coach1ImageUrl": "/public/map/MJTheWay/orbis/MJTheWay_Coach_1.tga.ckd/ef5f4101b86264de7acfa0a15286aba0.ckd",
+      "coach2ImageUrl": "/public/map/MJTheWay/orbis/MJTheWay_Coach_2.tga.ckd/ad214dd8276d96dd65de7d0b0391349f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJTheWay/MJTheWay_Coach_1_Phone.png/d2bfef24c878b3dae8b42eeee729e7b6.png",
+    "phoneCoach2ImageUrl": "/public/map/MJTheWay/MJTheWay_Coach_2_Phone.png/d1a4fdabcdc4364d8ff39e35ba1aacf0.png",
+    "phoneCoverImageUrl": "/public/map/MJTheWay/MJTheWay_Cover_Phone.jpg/"
+  },
+  "urls": {
+    "jmcs://jd-contents/MJTheWay/MJTheWay.ogg": "/private/map/MJTheWay/MJTheWay.ogg/6b613a57deab5dfdd1a6d6469dd36298.ogg",
+    "jmcs://jd-contents/MJTheWay/MJTheWay_AudioPreview.ogg": "/public/map/MJTheWay/MJTheWay_AudioPreview.ogg/3659417be2485444af94c170fd1842e5.ogg",
+    "jmcs://jd-contents/MJTheWay/MJTheWay_HIGH.webm": "/private/map/MJTheWay/MJTheWay_HIGH.webm/e7f390a998273446bb4ef7afe41ef9cf.webm",
+    "jmcs://jd-contents/MJTheWay/MJTheWay_LOW.webm": "/private/map/MJTheWay/MJTheWay_LOW.webm/c314bc2ea7f45fde397c8622f7bdca1b.webm",
+    "jmcs://jd-contents/MJTheWay/MJTheWay_MID.webm": "/private/map/MJTheWay/MJTheWay_MID.webm/31971dbe2a74f253ff1e3ce77f93ab7f.webm",
+    "jmcs://jd-contents/MJTheWay/MJTheWay_ULTRA.webm": "/private/map/MJTheWay/MJTheWay_ULTRA.webm/3d4145b9e9bc30d19f58894e893464ce.webm",
+    "jmcs://jd-contents/MJTheWay/MJTheWay_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJTheWay/MJTheWay_MapPreviewNoSoundCrop_LOW.vp8.webm/5dda1a78a4c5e56a1c4eb417b850134e.webm",
+    "jmcs://jd-contents/MJTheWay/MJTheWay_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJTheWay/MJTheWay_MapPreviewNoSoundCrop_MID.vp8.webm/e904ba9a1078e5e6641a2850009bf45b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"508517\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJTheWay/MJTheWay_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"616-1105\">\n\t\t\t\t\t<Initialization range=\"0-616\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1485856\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJTheWay/MJTheWay_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\n\t\t\t\t\t<Initialization range=\"0-617\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 271.575521
+}

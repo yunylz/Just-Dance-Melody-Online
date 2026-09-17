@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8e4b875d7e24f9e5104604c3fdecfd23",
+      "storageType": 0,
+      "url": "/public/map/Hips/nx/Hips_MAIN_SCENE_NX.zip/8e4b875d7e24f9e5104604c3fdecfd23.zip"
+    },
+    "pc": {
+      "md5": "7af0117d17aef64c25c952ec79fc49b2",
+      "storageType": 0,
+      "url": "/public/map/Hips/pc/Hips_MAIN_SCENE_PC.zip/7af0117d17aef64c25c952ec79fc49b2.zip"
+    },
+    "ps4": {
+      "md5": "4e8d1a91f4c0236e2e061ac88b50a1e0",
+      "storageType": 0,
+      "url": "/public/map/Hips/orbis/Hips_MAIN_SCENE_ORBIS.zip/4e8d1a91f4c0236e2e061ac88b50a1e0.zip"
+    }
+  },
+  "data": {
+    "mapName": "Hips",
+    "title": "Hips Don't Lie",
+    "originalJDVersion": 2017,
+    "tags": [
+      "cool",
+      "subscribedSong",
+      "JustDance2017",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Shakira Ft. Wyclef Jean",
+    "credits": "Written by Omar Alfanno, Shakira Mebarak, Jerry Duplessis, Latavia Chufon Parker and Wyclef Jean. Published by Quisqueya Music Publishing Inc. (ASCAP) / Lanfranco Music / Aniwi Music LLC. (BMI), Huss-Zwingli Publishing Inc. (ASCAP) both c/o Sony/ATV Music Publishing Canada (SOCAN) and Te-Bass Music Inc. (BMI) c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) / JNR Platinum Publishing, Inc. c/o The Royalty Network, Inc. All rights reserved. Used with permission. Courtesy of Epic/SMI Holland. By arrangement with Sony Music Licensing. broadcasting and online distribution to the public are prohibited. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff7700",
+    "songColor2A": "#15e9d9",
+    "songColor1B": "#930031",
+    "songColor2B": "#00165b",
+    "lyricsColor": "#ffbb3d",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86399,
+        115200,
+        144000,
+        172799,
+        201600,
+        230400,
+        259199,
+        288000,
+        316800,
+        345599,
+        374400,
+        403200,
+        432000,
+        460800,
+        489599,
+        518399,
+        547200,
+        576000,
+        604800,
+        633600,
+        662399,
+        691199,
+        720000,
+        748800,
+        777600,
+        806400,
+        835199,
+        864000,
+        892799,
+        921600,
+        950400,
+        979199,
+        1008000,
+        1036799,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238399,
+        1267200,
+        1296000,
+        1324799,
+        1353600,
+        1382399,
+        1411200,
+        1440000,
+        1468799,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 361,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Hips/Hips_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Hips/nx/Hips_banner_bkg.tga.ckd/fe18f701e45d520d58d9659229d3d6a1.ckd",
+      "map_bkgImageUrl": "/public/map/Hips/nx/Hips_map_bkg.tga.ckd/7eb72e9126f9c844c9df68af98e14f87.ckd",
+      "expandCoachImageUrl": "/public/map/Hips/nx/Hips_Cover_AlbumCoach.tga.ckd/b86f6203e240b103738a05a329a3251f.ckd",
+      "cover_smallImageUrl": "/public/map/Hips/nx/Hips_Cover_Online.tga.ckd/891775823d69ac908943fb14a2c10fe1.ckd",
+      "coverImageUrl": "/public/map/Hips/nx/Hips_Cover_Generic.tga.ckd/cc98f94f8eafe7603020721384c739bb.ckd",
+      "coach1ImageUrl": "/public/map/Hips/nx/Hips_Coach_1.tga.ckd/934ea330ba65d5fc604b6bde5d931adf.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Hips/pc/Hips_banner_bkg.tga.ckd/96ae1ad72ab0efa3b92d51d46dbe1635.ckd",
+      "map_bkgImageUrl": "/public/map/Hips/pc/Hips_map_bkg.tga.ckd/7f2b27de46e788afc4a8e1be80566bac.ckd",
+      "expandCoachImageUrl": "/public/map/Hips/pc/Hips_Cover_AlbumCoach.tga.ckd/076cf20de56d0cea0f51b9ea48d5ffcc.ckd",
+      "cover_smallImageUrl": "/public/map/Hips/pc/Hips_Cover_Online.tga.ckd/4aec3add690fe2adaa3e9dc224fb072b.ckd",
+      "coverImageUrl": "/public/map/Hips/pc/Hips_Cover_Generic.tga.ckd/a832dffff206f8342a1550bdf3e71e18.ckd",
+      "coach1ImageUrl": "/public/map/Hips/pc/Hips_Coach_1.tga.ckd/a48e8f8e5b801b7b5e94834a8679142d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Hips/orbis/Hips_banner_bkg.tga.ckd/96ae1ad72ab0efa3b92d51d46dbe1635.ckd",
+      "map_bkgImageUrl": "/public/map/Hips/orbis/Hips_map_bkg.tga.ckd/7f2b27de46e788afc4a8e1be80566bac.ckd",
+      "expandCoachImageUrl": "/public/map/Hips/orbis/Hips_Cover_AlbumCoach.tga.ckd/076cf20de56d0cea0f51b9ea48d5ffcc.ckd",
+      "cover_smallImageUrl": "/public/map/Hips/orbis/Hips_Cover_Online.tga.ckd/4aec3add690fe2adaa3e9dc224fb072b.ckd",
+      "coverImageUrl": "/public/map/Hips/orbis/Hips_Cover_Generic.tga.ckd/a832dffff206f8342a1550bdf3e71e18.ckd",
+      "coach1ImageUrl": "/public/map/Hips/orbis/Hips_Coach_1.tga.ckd/a48e8f8e5b801b7b5e94834a8679142d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Hips/Hips_Coach_1_Phone.png/22e6ae42d4545c827e63d5b3c6a5e43e.png",
+    "phoneCoverImageUrl": "/public/map/Hips/Hips_Cover_Phone.jpg/52d80383c37a9587c6ee8e60e50abc2a.jpg",
+    "cover640ImageUrl": "/public/map/Hips/Hips_Cover_640.png/eff33d6eb170711f57996dc57ec84a1e.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Hips/Hips.ogg": "/private/map/Hips/Hips.ogg/62b9c37f4a21a44fcbbf67595525ead8.ogg",
+    "jmcs://jd-contents/Hips/Hips_AudioPreview.ogg": "/public/map/Hips/Hips_AudioPreview.ogg/8681c95ca49a5af7fcdcb521b26ab6b7.ogg",
+    "jmcs://jd-contents/Hips/Hips_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Hips/Hips_MapPreviewNoSoundCrop_LOW.vp8.webm/9650515b56a96dff773a43c1fece81bc.webm",
+    "jmcs://jd-contents/Hips/Hips_HIGH.webm": "/private/map/Hips/Hips_HIGH.webm/8885302f276caf8db5d3fed32a7fcd83.webm",
+    "jmcs://jd-contents/Hips/Hips_LOW.webm": "/private/map/Hips/Hips_LOW.webm/b378dc8a1948a1bd7dae754b4a0efed1.webm",
+    "jmcs://jd-contents/Hips/Hips_MID.webm": "/private/map/Hips/Hips_MID.webm/3b6320fb14532d33ec82fb067c05e9f5.webm",
+    "jmcs://jd-contents/Hips/Hips_ULTRA.hd.webm": "/private/map/Hips/Hips_ULTRA.hd.webm/ec182ce16dfbe35d5e2913ac918ef8b9.webm",
+    "jmcs://jd-contents/Hips/Hips_ULTRA.webm": "/private/map/Hips/Hips_ULTRA.webm/57ab640ccfd3ac7e64ca389279849e7d.webm",
+    "jmcs://jd-contents/Hips/Hips_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Hips/Hips_MapPreviewNoSoundCrop_MID.vp8.webm/d33553d71f795aa9e1a9000a5810eec6.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"494552\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Hips/Hips_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"621-1110\">\n\t\t\t\t\t<Initialization range=\"0-621\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1459497\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Hips/Hips_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 218.399979
+}

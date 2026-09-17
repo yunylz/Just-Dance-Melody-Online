@@ -1,0 +1,182 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MaterialGirl/MaterialGirl.ogg": "/private/map/MaterialGirl/MaterialGirl.ogg/70b30a0476e4c0443206bfc0c35be8fd.ogg",
+    "jmcs://jd-contents/MaterialGirl/MaterialGirl_AudioPreview.ogg": "/public/map/MaterialGirl/MaterialGirl_AudioPreview.ogg/f9183393c13ab8408a2490e97e233972.ogg",
+    "jmcs://jd-contents/MaterialGirl/MaterialGirl_HIGH.hd.webm": "/private/map/MaterialGirl/MaterialGirl_HIGH.hd.webm/06af236a7286bc77451e762e27f148e4.webm",
+    "jmcs://jd-contents/MaterialGirl/MaterialGirl_LOW.hd.webm": "/private/map/MaterialGirl/MaterialGirl_LOW.hd.webm/ce8ce0f9339f12e1fc4f063434893dea.webm",
+    "jmcs://jd-contents/MaterialGirl/MaterialGirl_MID.hd.webm": "/private/map/MaterialGirl/MaterialGirl_MID.hd.webm/ca634b761d9617a67c9dfcc721571cc1.webm",
+    "jmcs://jd-contents/MaterialGirl/MaterialGirl_ULTRA.hd.webm": "/private/map/MaterialGirl/MaterialGirl_ULTRA.hd.webm/5f768e3fe50c140bb80460eab17ae321.webm",
+    "jmcs://jd-contents/MaterialGirl/MaterialGirl_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MaterialGirl/MaterialGirl_MapPreviewNoSoundCrop_LOW.vp8.webm/194968c55c50e5051167eeb329860b83.webm",
+    "jmcs://jd-contents/MaterialGirl/MaterialGirl_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MaterialGirl/MaterialGirl_MapPreviewNoSoundCrop_MID.vp8.webm/4aee5435d9c58d9b95bffe46684c8e61.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21176,
+        42353,
+        64035,
+        85353,
+        106672,
+        127639,
+        148957,
+        170276,
+        191594,
+        212912,
+        234231,
+        255549,
+        276868,
+        298186,
+        319505,
+        340823,
+        361790,
+        382757,
+        403724,
+        425043,
+        446361,
+        467679,
+        488998,
+        510316,
+        531283,
+        552250,
+        573569,
+        594887,
+        616206,
+        637173,
+        658491,
+        679810,
+        700437,
+        721064,
+        742382,
+        763701,
+        784668,
+        805635,
+        826953,
+        847580,
+        868547,
+        889514,
+        910481,
+        931448,
+        952415,
+        973382,
+        994349,
+        1015668,
+        1036986,
+        1058305,
+        1078932,
+        1099899,
+        1121217,
+        1142536,
+        1163503,
+        1184470,
+        1205437,
+        1226404,
+        1247371,
+        1269052,
+        1290734,
+        1311701,
+        1332668,
+        1353635,
+        1374602,
+        1395569,
+        1416888,
+        1438206,
+        1459525,
+        1480492
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 391,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 68,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MaterialGirl/MaterialGirl_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"521034\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MaterialGirl/MaterialGirl_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\n\t\t\t\t\t<Initialization range=\"0-614\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1867390\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MaterialGirl/MaterialGirl_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "7191bdcdff5186a18a2017c34d145110",
+      "storageType": 0,
+      "url": "/public/map/MaterialGirl/nx/MaterialGirl_MAIN_SCENE_NX.zip/7191bdcdff5186a18a2017c34d145110.zip"
+    },
+    "pc": {
+      "md5": "2f4f45b11c6acf1b7693cbc876a4a5af",
+      "storageType": 0,
+      "url": "/public/map/MaterialGirl/pc/MaterialGirl_MAIN_SCENE_PC.zip/2f4f45b11c6acf1b7693cbc876a4a5af.zip"
+    },
+    "ps4": {
+      "md5": "a37ae18afb3725a099d77f14f9892b5d",
+      "storageType": 0,
+      "url": "/public/map/MaterialGirl/orbis/MaterialGirl_MAIN_SCENE_ORBIS.zip/a37ae18afb3725a099d77f14f9892b5d.zip"
+    }
+  },
+  "data": {
+    "mapName": "MaterialGirl",
+    "title": "Material Girl",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Madonna",
+    "credits": "Written by Peter Brown, Robert Rans. Published by Sony/ATV Songs LLC. Courtesy of Warner Records Inc. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#18d2f6",
+    "songColor2A": "#cb3be8",
+    "songColor1B": "#051150",
+    "songColor2B": "#810585",
+    "lyricsColor": "#f849ca",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MaterialGirl/nx/MaterialGirl_banner_bkg.tga.ckd/2f759a31e670eccea124149d28e2c8e0.ckd",
+      "map_bkgImageUrl": "/public/map/MaterialGirl/nx/MaterialGirl_map_bkg.tga.ckd/657bb695d10fc57ef6c7a305f07c6856.ckd",
+      "expandCoachImageUrl": "/public/map/MaterialGirl/nx/MaterialGirl_Cover_AlbumCoach.tga.ckd/69e218e3fb23f7ee72723ac15d4c7f8a.ckd",
+      "cover_smallImageUrl": "/public/map/MaterialGirl/nx/MaterialGirl_Cover_Online.tga.ckd/e8835edb88a57783a9c08fae0352637a.ckd",
+      "coverImageUrl": "/public/map/MaterialGirl/nx/MaterialGirl_Cover_Generic.tga.ckd/f74a8506fc53783ebcd0ad8416a239ee.ckd",
+      "coach1ImageUrl": "/public/map/MaterialGirl/nx/MaterialGirl_Coach_1.tga.ckd/ade1948f50c2641a1f70eb2b2b7ad11e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MaterialGirl/pc/MaterialGirl_banner_bkg.tga.ckd/8151c302af77215ecc558cca48d1951d.ckd",
+      "map_bkgImageUrl": "/public/map/MaterialGirl/pc/MaterialGirl_map_bkg.tga.ckd/f452bd4e316c27b63031da6e72af13aa.ckd",
+      "expandCoachImageUrl": "/public/map/MaterialGirl/pc/MaterialGirl_Cover_AlbumCoach.tga.ckd/77e4f43d19c2109f2347917b494bdb5f.ckd",
+      "cover_smallImageUrl": "/public/map/MaterialGirl/pc/MaterialGirl_Cover_Online.tga.ckd/83389e4531ec67bb71f17e3974baf086.ckd",
+      "coverImageUrl": "/public/map/MaterialGirl/pc/MaterialGirl_Cover_Generic.tga.ckd/7add5a90fd2298878987b731c82fc1c1.ckd",
+      "coach1ImageUrl": "/public/map/MaterialGirl/pc/MaterialGirl_Coach_1.tga.ckd/76f4e39ca2992a590193bc17f8538b76.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MaterialGirl/orbis/MaterialGirl_banner_bkg.tga.ckd/8151c302af77215ecc558cca48d1951d.ckd",
+      "map_bkgImageUrl": "/public/map/MaterialGirl/orbis/MaterialGirl_map_bkg.tga.ckd/f452bd4e316c27b63031da6e72af13aa.ckd",
+      "expandCoachImageUrl": "/public/map/MaterialGirl/orbis/MaterialGirl_Cover_AlbumCoach.tga.ckd/77e4f43d19c2109f2347917b494bdb5f.ckd",
+      "cover_smallImageUrl": "/public/map/MaterialGirl/orbis/MaterialGirl_Cover_Online.tga.ckd/83389e4531ec67bb71f17e3974baf086.ckd",
+      "coverImageUrl": "/public/map/MaterialGirl/orbis/MaterialGirl_Cover_Generic.tga.ckd/7add5a90fd2298878987b731c82fc1c1.ckd",
+      "coach1ImageUrl": "/public/map/MaterialGirl/orbis/MaterialGirl_Coach_1.tga.ckd/76f4e39ca2992a590193bc17f8538b76.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MaterialGirl/MaterialGirl_Coach_1_Phone.png/934aaa2b2dd8f25282b9530caa088678.png",
+    "phoneCoverImageUrl": "/public/map/MaterialGirl/MaterialGirl_Cover_Phone.jpg/7466ce2d496585992680becbe9b47e57.jpg",
+    "cover640ImageUrl": "/public/map/MaterialGirl/MaterialGirl_Cover_640.png/e8595e3581da1026988367d1abae8419.png"
+  },
+  "mapLength": 172.057125
+}

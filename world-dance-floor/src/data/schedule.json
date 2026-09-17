@@ -1,0 +1,53 @@
+{
+    "schedule": [
+        {
+            "type": "recurring",
+            "recurrence": {
+                "day": 1,
+                "hour": 17,
+                "minute": 58,
+                "type": "weekly"
+            },
+            "id": "WeeklyTournament",
+            "theme": "tournament",
+            "playlist": "weekly",
+            "rooms": ["MainJDMO", "2017JDMO"]
+        },
+        {
+            "type": "probability",
+            "theme": "vote",
+            "probability": 40,
+            "rooms": ["MainJDMO", "2017JDMO"]
+        },
+        {
+            "type": "probability",
+            "theme": "map",
+            "probability": 0,
+            "rooms": ["2017JDMO"]
+        },
+        {
+            "type": "probability",
+            "theme": "boss",
+            "probability": 20,
+            "rooms": ["MainJDMO", "2017JDMO"]
+        },
+        {
+            "type": "probability",
+            "theme": "teambattle",
+            "probability": 20,
+            "rooms": ["MainJDMO"]
+        },
+        {
+            "type": "probability",
+            "theme": "tournament",
+            "probability": 20,
+            "rooms": ["MainJDMO", "2017JDMO"]
+        },
+        {
+            "type": "probability",
+            "theme": "spotlight",
+            "probability": 0,
+            "rooms": ["2017JDMO"]
+        }
+    ]
+}

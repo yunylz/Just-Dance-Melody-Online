@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4e3404951f03db7b0c8e37302b156e1f",
+      "storageType": 0,
+      "url": "/public/map/DISNEYShakeIt/nx/DISNEYShakeIt_MAIN_SCENE_NX.zip/4e3404951f03db7b0c8e37302b156e1f.zip"
+    },
+    "pc": {
+      "md5": "a3a7c3b7cb3b6dab6d642103ab9812cd",
+      "storageType": 0,
+      "url": "/public/map/DISNEYShakeIt/pc/DISNEYShakeIt_MAIN_SCENE_PC.zip/a3a7c3b7cb3b6dab6d642103ab9812cd.zip"
+    },
+    "ps4": {
+      "md5": "a35c307e716b5a157d1eb77b7b7eb430",
+      "storageType": 0,
+      "url": "/public/map/DISNEYShakeIt/orbis/DISNEYShakeIt_MAIN_SCENE_ORBIS.zip/a35c307e716b5a157d1eb77b7b7eb430.zip"
+    }
+  },
+  "data": {
+    "mapName": "DISNEYShakeIt",
+    "title": "Shake It Up",
+    "originalJDVersion": 3000,
+    "tags": [
+      "subscribedSong",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "Selena Gomez",
+    "credits": "empty",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#fff53b",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22512,
+        45024,
+        67536,
+        90048,
+        112560,
+        135072,
+        157584,
+        180096,
+        202608,
+        225120,
+        247632,
+        270144,
+        292656,
+        315168,
+        337680,
+        360192,
+        382704,
+        405216,
+        427728,
+        450240,
+        472752,
+        495264,
+        517776,
+        540288,
+        562800,
+        585312,
+        607824,
+        630336,
+        652848,
+        675360,
+        697872,
+        720384,
+        742896,
+        765408,
+        787920,
+        810432,
+        832944,
+        855456,
+        877968,
+        900480,
+        922992,
+        945504,
+        968016,
+        990528,
+        1013040,
+        1035552,
+        1058064,
+        1080576,
+        1103088,
+        1125600,
+        1148112,
+        1170624,
+        1193136,
+        1215648,
+        1238160,
+        1260672,
+        1283184,
+        1305696,
+        1328208,
+        1350720,
+        1373232,
+        1395744,
+        1418256,
+        1440768,
+        1463280,
+        1485792
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 314,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DISNEYShakeIt/nx/DISNEYShakeIt_banner_bkg.tga.ckd/c4e90dd134a4f517407fadb28bdbdf39.ckd",
+      "map_bkgImageUrl": "/public/map/DISNEYShakeIt/nx/DISNEYShakeIt_map_bkg.tga.ckd/cf3fccd4ee177e7e07405b613a933b4b.ckd",
+      "expandCoachImageUrl": "/public/map/DISNEYShakeIt/nx/DISNEYShakeIt_Cover_AlbumCoach.tga.ckd/ab14bbb9bc8f9fb11c56d62d301d188b.ckd",
+      "cover_smallImageUrl": "/public/map/DISNEYShakeIt/nx/DISNEYShakeIt_Cover_Online.tga.ckd/18716ea5ad9186ecc1438d0e2c296989.ckd",
+      "coach1ImageUrl": "/public/map/DISNEYShakeIt/nx/DISNEYShakeIt_Coach_1.tga.ckd/79ad778a4cca13e6441e14da4263f31d.ckd",
+      "coach2ImageUrl": "/public/map/DISNEYShakeIt/nx/DISNEYShakeIt_Coach_2.tga.ckd/29dcd6688674775d1e82247c5ac2ebf2.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DISNEYShakeIt/pc/DISNEYShakeIt_banner_bkg.tga.ckd/339ced2ad760cee678811b0d8530d3f4.ckd",
+      "map_bkgImageUrl": "/public/map/DISNEYShakeIt/pc/DISNEYShakeIt_map_bkg.tga.ckd/1dde3a482fd93930506a90fb4ed9b714.ckd",
+      "expandCoachImageUrl": "/public/map/DISNEYShakeIt/pc/DISNEYShakeIt_Cover_AlbumCoach.tga.ckd/bd3a8b07564e1851f957c4a05e19d855.ckd",
+      "cover_smallImageUrl": "/public/map/DISNEYShakeIt/pc/DISNEYShakeIt_Cover_Online.tga.ckd/281082bd40e8b367c6fa55d299a03be7.ckd",
+      "coach1ImageUrl": "/public/map/DISNEYShakeIt/pc/DISNEYShakeIt_Coach_1.tga.ckd/7f469ee20d4e9cd681a4c07231d05588.ckd",
+      "coach2ImageUrl": "/public/map/DISNEYShakeIt/pc/DISNEYShakeIt_Coach_2.tga.ckd/53a1389c293bffc0cb747d431d2a495b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DISNEYShakeIt/orbis/DISNEYShakeIt_banner_bkg.tga.ckd/339ced2ad760cee678811b0d8530d3f4.ckd",
+      "map_bkgImageUrl": "/public/map/DISNEYShakeIt/orbis/DISNEYShakeIt_map_bkg.tga.ckd/1dde3a482fd93930506a90fb4ed9b714.ckd",
+      "expandCoachImageUrl": "/public/map/DISNEYShakeIt/orbis/DISNEYShakeIt_Cover_AlbumCoach.tga.ckd/bd3a8b07564e1851f957c4a05e19d855.ckd",
+      "cover_smallImageUrl": "/public/map/DISNEYShakeIt/orbis/DISNEYShakeIt_Cover_Online.tga.ckd/281082bd40e8b367c6fa55d299a03be7.ckd",
+      "coach1ImageUrl": "/public/map/DISNEYShakeIt/orbis/DISNEYShakeIt_Coach_1.tga.ckd/7f469ee20d4e9cd681a4c07231d05588.ckd",
+      "coach2ImageUrl": "/public/map/DISNEYShakeIt/orbis/DISNEYShakeIt_Coach_2.tga.ckd/53a1389c293bffc0cb747d431d2a495b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DISNEYShakeIt/DISNEYShakeIt_Coach_1_Phone.png/bbfb822e57898dfa5244eef80dcfa221.png",
+    "phoneCoach2ImageUrl": "/public/map/DISNEYShakeIt/DISNEYShakeIt_Coach_2_Phone.png/b1d27e461e1c798cd0cec72d58f19d11.png",
+    "phoneCoverImageUrl": "/public/map/DISNEYShakeIt/DISNEYShakeIt_Cover_Phone.jpg/73b46bff4db0e9a94e7701b7f458ae42.jpg",
+    "cover640ImageUrl": "/public/map/DISNEYShakeIt/DISNEYShakeIt_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt.ogg": "/private/map/DISNEYShakeIt/DISNEYShakeIt.ogg/48c24c1031ee9e725f0ef1ee3231e514.ogg",
+    "jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt_AudioPreview.ogg": "/public/map/DISNEYShakeIt/DISNEYShakeIt_AudioPreview.ogg/6f24bfda7b846c36c8ec4e2b9437f9b2.ogg",
+    "jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DISNEYShakeIt/DISNEYShakeIt_MapPreviewNoSoundCrop_LOW.vp8.webm/a6cb1ee9be328041789f9641b0fdf68c.webm",
+    "jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt_HIGH.webm": "/private/map/DISNEYShakeIt/DISNEYShakeIt_HIGH.webm/10ad85977f9148dcec4553795893b0de.webm",
+    "jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt_LOW.webm": "/private/map/DISNEYShakeIt/DISNEYShakeIt_LOW.webm/731617ac3f841bdd1a4bb096a44dc911.webm",
+    "jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt_MID.webm": "/private/map/DISNEYShakeIt/DISNEYShakeIt_MID.webm/38f8f80933fb2cf0cf2e1fc8dfacdc52.webm",
+    "jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt_ULTRA.hd.webm": "/private/map/DISNEYShakeIt/DISNEYShakeIt_ULTRA.hd.webm/6c66d84942f82497105da68b6f95d8e1.webm",
+    "jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt_ULTRA.webm": "/private/map/DISNEYShakeIt/DISNEYShakeIt_ULTRA.webm/a9bd832caff000d7a75dcf0a74c1cf97.webm",
+    "jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DISNEYShakeIt/DISNEYShakeIt_MapPreviewNoSoundCrop_MID.vp8.webm/e1d49e4f5dc86e104fac62ce7fb631cc.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"451351\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1271588\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DISNEYShakeIt/DISNEYShakeIt_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 147.03
+}

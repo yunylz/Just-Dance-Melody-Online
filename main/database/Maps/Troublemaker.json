@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9d844c81e7452db83f85d1a4266ef356",
+      "storageType": 0,
+      "url": "/public/map/Troublemaker/nx/Troublemaker_MAIN_SCENE_NX.zip/9d844c81e7452db83f85d1a4266ef356.zip"
+    },
+    "pc": {
+      "md5": "619c147dd13f15129cd70886e61257fe",
+      "storageType": 0,
+      "url": "/public/map/Troublemaker/pc/Troublemaker_MAIN_SCENE_PC.zip/619c147dd13f15129cd70886e61257fe.zip"
+    },
+    "ps4": {
+      "md5": "4be52cfca90a4aa24e4b827836788f41",
+      "storageType": 0,
+      "url": "/public/map/Troublemaker/orbis/Troublemaker_MAIN_SCENE_ORBIS.zip/4be52cfca90a4aa24e4b827836788f41.zip"
+    }
+  },
+  "data": {
+    "mapName": "Troublemaker",
+    "title": "Troublemaker",
+    "originalJDVersion": 2014,
+    "tags": [
+      "subscribedSong",
+      "JustDance2014",
+      "Solo",
+      "Hard"
+    ],
+    "artist": "Olly Murs Ft. Flo Rida",
+    "credits": "Written by Stephen Robson, Claude Kelly, Oliver Stanley Murs, Tramar Dillard (ASCAP). Published by Universal Music Publishing Group a division of Universal Music Canada Inc. / Sony/ATV Music Publishing Canada (SOCAN) / ©Warner-Tamerlane Publishing Corp. (BMI), Studio Beast Music (BMI). All rights on behalf of itself and Studio Beast Music administered by Warner-Tamerlane Publishing Corp. / Imagem Music. All Rights Reserved. Used With Permission. Courtesy of Atlantic Recording Corp. By arrangement with Warner Music Group Video Games Licensing / Columbia Records, a unit of Sony Music Entertainment. By arrangement with Sony Music Licensing.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#db5930",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27168,
+        54336,
+        81504,
+        108672,
+        135840,
+        163008,
+        190176,
+        217344,
+        244512,
+        271680,
+        298848,
+        326016,
+        353184,
+        380400,
+        407568,
+        434737,
+        461905,
+        489073,
+        516241,
+        543409,
+        570577,
+        597745,
+        624913,
+        652081,
+        679249,
+        706417,
+        733585,
+        760753,
+        787921,
+        815089,
+        842257,
+        869426,
+        896594,
+        923762,
+        950930,
+        978098,
+        1005266,
+        1032434,
+        1059602,
+        1086818,
+        1113986,
+        1141154,
+        1168322,
+        1195490,
+        1222658,
+        1249826,
+        1276995,
+        1304163,
+        1331331,
+        1358499,
+        1385667,
+        1412835,
+        1440003,
+        1467171,
+        1494339
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 2,
+      "endBeat": 329,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Troublemaker/Troublemaker_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Troublemaker/nx/Troublemaker_banner_bkg.tga.ckd/31aa4df06afaee54856e1e0f1589c3e7.ckd",
+      "map_bkgImageUrl": "/public/map/Troublemaker/nx/Troublemaker_map_bkg.tga.ckd/699d6ba6fe7e7b6917365671b1dbe441.ckd",
+      "expandCoachImageUrl": "/public/map/Troublemaker/nx/Troublemaker_Cover_AlbumCoach.tga.ckd/09106cd79720391b0a5d7b59e335efc7.ckd",
+      "cover_smallImageUrl": "/public/map/Troublemaker/nx/Troublemaker_Cover_Online.tga.ckd/9e8ccd2a5dad68b6be4c2782d698c940.ckd",
+      "coach1ImageUrl": "/public/map/Troublemaker/nx/Troublemaker_Coach_1.tga.ckd/0092ec0c1653d0fb189aa36d9322b4cb.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Troublemaker/pc/Troublemaker_banner_bkg.tga.ckd/ff41b47ab927eaf3590845fa48ecd672.ckd",
+      "map_bkgImageUrl": "/public/map/Troublemaker/pc/Troublemaker_map_bkg.tga.ckd/992158bc33f12f718eed1a242f1c096b.ckd",
+      "expandCoachImageUrl": "/public/map/Troublemaker/pc/Troublemaker_Cover_AlbumCoach.tga.ckd/eb43d64f3ddd2f4b9fdbbea753be0bc2.ckd",
+      "cover_smallImageUrl": "/public/map/Troublemaker/pc/Troublemaker_Cover_Online.tga.ckd/da87c4545c3c0da1476f76484da17728.ckd",
+      "coach1ImageUrl": "/public/map/Troublemaker/pc/Troublemaker_Coach_1.tga.ckd/c60ff765a89ad9377048b5293b86e78e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Troublemaker/orbis/Troublemaker_banner_bkg.tga.ckd/ff41b47ab927eaf3590845fa48ecd672.ckd",
+      "map_bkgImageUrl": "/public/map/Troublemaker/orbis/Troublemaker_map_bkg.tga.ckd/992158bc33f12f718eed1a242f1c096b.ckd",
+      "expandCoachImageUrl": "/public/map/Troublemaker/orbis/Troublemaker_Cover_AlbumCoach.tga.ckd/eb43d64f3ddd2f4b9fdbbea753be0bc2.ckd",
+      "cover_smallImageUrl": "/public/map/Troublemaker/orbis/Troublemaker_Cover_Online.tga.ckd/da87c4545c3c0da1476f76484da17728.ckd",
+      "coach1ImageUrl": "/public/map/Troublemaker/orbis/Troublemaker_Coach_1.tga.ckd/c60ff765a89ad9377048b5293b86e78e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Troublemaker/Troublemaker_Coach_1_Phone.png/2b3f05dddcd45bbfc3e9ae1cb55e9318.png",
+    "phoneCoverImageUrl": "/public/map/Troublemaker/Troublemaker_Cover_Phone.jpg/90f69ce4f5dadac0958c518fc539f1cb.jpg",
+    "cover640ImageUrl": "/public/map/Troublemaker/Troublemaker_Cover_640.png/904c850c86a638332056939eb341e177.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Troublemaker/Troublemaker.ogg": "/private/map/Troublemaker/Troublemaker.ogg/b25596fd71e112b6d629e9a8a49c212a.ogg",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_AudioPreview.ogg": "/public/map/Troublemaker/Troublemaker_AudioPreview.ogg/0ed477bdc992dcfdc672ff6b31eff731.ogg",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_LOW.vp8.webm/d1c4ddab7b4306e5d5078de14a6e2525.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_HIGH.webm": "/private/map/Troublemaker/Troublemaker_HIGH.webm/467a6577fd0869bfa9a8cdb693c78f26.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_LOW.webm": "/private/map/Troublemaker/Troublemaker_LOW.webm/2ff2cc9acfed97468d827d4973f41ce2.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_MID.webm": "/private/map/Troublemaker/Troublemaker_MID.webm/7b5b27a3efd1d47f677ec7db22d06f77.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_ULTRA.hd.webm": "/private/map/Troublemaker/Troublemaker_ULTRA.hd.webm/075636ea9927c458ad6afcc4e87f6fbc.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_ULTRA.webm": "/private/map/Troublemaker/Troublemaker_ULTRA.webm/bff0b055b33f549898dbb5086eca1ba1.webm",
+    "jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_MID.vp8.webm/18930e4639e9d5d34ad8fab12c07529e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496858\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"609-1098\">\n\t\t\t\t\t<Initialization range=\"0-609\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1440659\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Troublemaker/Troublemaker_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\n\t\t\t\t\t<Initialization range=\"0-610\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 185.094417
+}

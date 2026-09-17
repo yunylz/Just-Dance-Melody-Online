@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SayMyNameALT/SayMyNameALT_AudioPreview.ogg": "/public/map/SayMyNameALT/SayMyNameALT_AudioPreview.ogg/9f343e9ed25879864de7cf3386b63ff6.ogg",
+    "jmcs://jd-contents/SayMyNameALT/SayMyNameALT.ogg": "/private/map/SayMyNameALT/SayMyNameALT.ogg/9d8326440e8ecfd08716251f956bc6d3.ogg",
+    "jmcs://jd-contents/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_LOW.vp8.webm/fff06ed912a8c29e95952666d429277c.webm",
+    "jmcs://jd-contents/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_MID.vp8.webm/c86cb7858023d4fb83ca28ac344fba16.webm",
+    "jmcs://jd-contents/SayMyNameALT/SayMyNameALT_ULTRA.hd.webm": "/private/map/SayMyNameALT/SayMyNameALT_ULTRA.hd.webm/65f6c1bda1dc4eca2e1e4b384eedcfef.webm",
+    "jmcs://jd-contents/SayMyNameALT/SayMyNameALT_HIGH.hd.webm": "/private/map/SayMyNameALT/SayMyNameALT_HIGH.hd.webm/afcb29a85331b23aedb6e597baba3707.webm",
+    "jmcs://jd-contents/SayMyNameALT/SayMyNameALT_MID.hd.webm": "/private/map/SayMyNameALT/SayMyNameALT_MID.hd.webm/6c449c0f3712cde78bb659e93da63b7a.webm",
+    "jmcs://jd-contents/SayMyNameALT/SayMyNameALT_LOW.hd.webm": "/private/map/SayMyNameALT/SayMyNameALT_LOW.hd.webm/ea72d3293a19c188a32a749e4b0bed6e.webm",
+    "jmcs://jd-contents/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/42f5c473c0db292d6fd987d4179a4cb6.webm",
+    "jmcs://jd-contents/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1b40bd9cb9d61a1dcb6dc2d96a8b760a.webm"
+  },
+  "mapLength": 228.23529166666665,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        37647,
+        75294,
+        112941,
+        150588,
+        188235,
+        225882,
+        263529,
+        301176,
+        338824,
+        376471,
+        414118,
+        451765,
+        489412,
+        527059,
+        564706,
+        602353,
+        640000,
+        677647,
+        715294,
+        752941,
+        790588,
+        828235,
+        865882,
+        903529,
+        941176,
+        978824,
+        1016471,
+        1054118,
+        1091765,
+        1129412,
+        1167059,
+        1204706,
+        1242353,
+        1280000,
+        1317647,
+        1355294,
+        1392941,
+        1430588
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 283,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 39,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/SayMyNameALT/SayMyNameALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"645438\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"768-1258\">\n\t\t\t\t\t<Initialization range=\"0-768\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1472902\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"770-1260\">\n\t\t\t\t\t<Initialization range=\"0-770\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2366381\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"770-1260\">\n\t\t\t\t\t<Initialization range=\"0-770\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"2392594\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SayMyNameALT/SayMyNameALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"770-1260\">\n\t\t\t\t\t<Initialization range=\"0-770\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "49daddff99b382e9232dccaef7736ccd",
+      "storageType": 0,
+      "url": "/public/map/SayMyNameALT/pc/SayMyNameALT_MAIN_SCENE_PC.zip/49daddff99b382e9232dccaef7736ccd.zip"
+    },
+    "ps4": {
+      "md5": "f2d5c87eadb25ceb382ea97f9525897f",
+      "storageType": 0,
+      "url": "/public/map/SayMyNameALT/orbis/SayMyNameALT_MAIN_SCENE_ORBIS.zip/f2d5c87eadb25ceb382ea97f9525897f.zip"
+    },
+    "wiiu": {
+      "md5": "ea8649f8c2776d4a9fed03e1dd5ab0cd",
+      "storageType": 0,
+      "url": "/public/map/SayMyNameALT/wiiu/SayMyNameALT_MAIN_SCENE_WIIU.zip/ea8649f8c2776d4a9fed03e1dd5ab0cd.zip"
+    },
+    "nx": {
+      "md5": "d900e17a4a7e90867826b974c979d6c4",
+      "storageType": 0,
+      "url": "/public/map/SayMyNameALT/nx/SayMyNameALT_MAIN_SCENE_NX.zip/d900e17a4a7e90867826b974c979d6c4.zip"
+    }
+  },
+  "data": {
+    "mapName": "SayMyNameALT",
+    "title": "Say My Name",
+    "originalJDVersion": 2024,
+    "tags": [
+      "alternate",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "ATEEZ",
+    "credits": "Written by EDEN, BUDDY, LEEZ, HLB, Hongjoong Kim, Mingi Song. Published by Sony Music Publishing Korea. Courtesy of KQ Entertainment.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#CA34DC",
+    "songColor2A": "#EE0CEB",
+    "songColor1B": "#330481",
+    "songColor2B": "#4505A6",
+    "lyricsColor": "#4EE9E7",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/SayMyNameALT/pc/SayMyNameALT_Cover_Online.tga.ckd/017a502467f642c2f9e34e8d35139492.ckd",
+      "coverImageUrl": "/public/map/SayMyNameALT/pc/SayMyNameALT_Cover_Generic.tga.ckd/52d59ab1a627f3562c05f9c88a7a3a42.ckd",
+      "expandCoachImageUrl": "/public/map/SayMyNameALT/pc/SayMyNameALT_Cover_AlbumCoach.tga.ckd/49879ead4885aa7424ed6d22472bf71a.ckd",
+      "map_bkgImageUrl": "/public/map/SayMyNameALT/pc/SayMyNameALT_map_bkg.tga.ckd/aba123d582e6558e0e8c2632bc4b34b9.ckd",
+      "banner_bkgImageUrl": "/public/map/SayMyNameALT/pc/SayMyNameALT_banner_bkg.tga.ckd/08cd41e87425367efc983d9ed838c880.ckd",
+      "coach1ImageUrl": "/public/map/SayMyNameALT/pc/SayMyNameALT_Coach_1.tga.ckd/39575feb47cd60929f64a6b808a7d0f2.ckd",
+      "phoneCoverImageUrl": "/public/map/SayMyNameALT/SayMyNameALT_Cover_Phone.jpg/1a6a27b8cc0efd13ab94414745983e75.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SayMyNameALT/SayMyNameALT_Coach_1_Phone.png/0d8dff9b3a54561e7d703ddb040feb50.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/SayMyNameALT/orbis/SayMyNameALT_Cover_Online.tga.ckd/017a502467f642c2f9e34e8d35139492.ckd",
+      "coverImageUrl": "/public/map/SayMyNameALT/orbis/SayMyNameALT_Cover_Generic.tga.ckd/52d59ab1a627f3562c05f9c88a7a3a42.ckd",
+      "expandCoachImageUrl": "/public/map/SayMyNameALT/orbis/SayMyNameALT_Cover_AlbumCoach.tga.ckd/49879ead4885aa7424ed6d22472bf71a.ckd",
+      "map_bkgImageUrl": "/public/map/SayMyNameALT/orbis/SayMyNameALT_map_bkg.tga.ckd/aba123d582e6558e0e8c2632bc4b34b9.ckd",
+      "banner_bkgImageUrl": "/public/map/SayMyNameALT/orbis/SayMyNameALT_banner_bkg.tga.ckd/08cd41e87425367efc983d9ed838c880.ckd",
+      "coach1ImageUrl": "/public/map/SayMyNameALT/orbis/SayMyNameALT_Coach_1.tga.ckd/39575feb47cd60929f64a6b808a7d0f2.ckd",
+      "phoneCoverImageUrl": "/public/map/SayMyNameALT/SayMyNameALT_Cover_Phone.jpg/1a6a27b8cc0efd13ab94414745983e75.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SayMyNameALT/SayMyNameALT_Coach_1_Phone.png/0d8dff9b3a54561e7d703ddb040feb50.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/SayMyNameALT/wiiu/SayMyNameALT_Cover_Online.tga.ckd/b997dfccfddc8ddd04820b31ce836b7d.ckd",
+      "coverImageUrl": "/public/map/SayMyNameALT/wiiu/SayMyNameALT_Cover_Generic.tga.ckd/f4e3771004efc34af43c344cbf25c0b4.ckd",
+      "expandCoachImageUrl": "/public/map/SayMyNameALT/wiiu/SayMyNameALT_Cover_AlbumCoach.tga.ckd/8b34e0a972ec1971a1a6a762ff97d8cd.ckd",
+      "map_bkgImageUrl": "/public/map/SayMyNameALT/wiiu/SayMyNameALT_map_bkg.tga.ckd/15d457c83cadf00910df96b67e7a940b.ckd",
+      "banner_bkgImageUrl": "/public/map/SayMyNameALT/wiiu/SayMyNameALT_banner_bkg.tga.ckd/91b04ef8b1d66a1b433b8d05c0dd210d.ckd",
+      "coach1ImageUrl": "/public/map/SayMyNameALT/wiiu/SayMyNameALT_Coach_1.tga.ckd/4240148510776830ac0e684afab3e9c3.ckd",
+      "phoneCoverImageUrl": "/public/map/SayMyNameALT/SayMyNameALT_Cover_Phone.jpg/1a6a27b8cc0efd13ab94414745983e75.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SayMyNameALT/SayMyNameALT_Coach_1_Phone.png/0d8dff9b3a54561e7d703ddb040feb50.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/SayMyNameALT/nx/SayMyNameALT_Cover_Online.tga.ckd/228a0c91f162d05642065f195b8c1a95.ckd",
+      "coverImageUrl": "/public/map/SayMyNameALT/nx/SayMyNameALT_Cover_Generic.tga.ckd/0f1e27355af7c6fcfc18cb5cc19cbc2b.ckd",
+      "expandCoachImageUrl": "/public/map/SayMyNameALT/nx/SayMyNameALT_Cover_AlbumCoach.tga.ckd/795047786dbe8091b9b2c0bfecb9f229.ckd",
+      "map_bkgImageUrl": "/public/map/SayMyNameALT/nx/SayMyNameALT_map_bkg.tga.ckd/55486f555e99409dcd87f3468c2d9288.ckd",
+      "banner_bkgImageUrl": "/public/map/SayMyNameALT/nx/SayMyNameALT_banner_bkg.tga.ckd/c998e6109dc14818a9603b75b4be3e77.ckd",
+      "coach1ImageUrl": "/public/map/SayMyNameALT/nx/SayMyNameALT_Coach_1.tga.ckd/d3bdf6200c3705bd3aeb31c5cfeacd5d.ckd",
+      "phoneCoverImageUrl": "/public/map/SayMyNameALT/SayMyNameALT_Cover_Phone.jpg/1a6a27b8cc0efd13ab94414745983e75.jpg",
+      "phoneCoach1ImageUrl": "/public/map/SayMyNameALT/SayMyNameALT_Coach_1_Phone.png/0d8dff9b3a54561e7d703ddb040feb50.png"
+    },
+    "cover640ImageUrl": "/public/map/SayMyNameALT/SayMyNameALT_Cover_640.png/f62e66fa3e3bb4a6e3f3be4487fe4af8.png"
+  }
+}

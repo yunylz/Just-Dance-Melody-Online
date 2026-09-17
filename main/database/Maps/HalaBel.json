@@ -1,0 +1,159 @@
+{
+  "urls": {
+    "jmcs://jd-contents/HalaBel/HalaBel.ogg": "/private/map/HalaBel/HalaBel.ogg/a37ff52f35c50d209f638afe35568e5c.ogg",
+    "jmcs://jd-contents/HalaBel/HalaBel_AudioPreview.ogg": "/public/map/HalaBel/HalaBel_AudioPreview.ogg/aa3daeec97808cd00372334abd04e7a2.ogg",
+    "jmcs://jd-contents/HalaBel/HalaBel_HIGH.hd.webm": "/private/map/HalaBel/HalaBel_HIGH.hd.webm/0183710b5e4459caaf97a6a9bd7a68ff.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_LOW.hd.webm": "/private/map/HalaBel/HalaBel_LOW.hd.webm/b8e99f35931c0cc7d7149ff0ca291746.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_MID.hd.webm": "/private/map/HalaBel/HalaBel_MID.hd.webm/6b48380b1000399ae2bfc77f72a74aed.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_ULTRA.hd.webm": "/private/map/HalaBel/HalaBel_ULTRA.hd.webm/fedda9a71cc2be82a86296194b23e794.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HalaBel/HalaBel_MapPreviewNoSoundCrop_LOW.vp8.webm/4704d8ad9969fecd859dcb40683b0519.webm",
+    "jmcs://jd-contents/HalaBel/HalaBel_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HalaBel/HalaBel_MapPreviewNoSoundCrop_MID.vp8.webm/c1d65548c3ff2abfc578a9d578f2563b.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31296,
+        62592,
+        93936,
+        125232,
+        156528,
+        187824,
+        219120,
+        250416,
+        281760,
+        313056,
+        344352,
+        375648,
+        406944,
+        438240,
+        469584,
+        500880,
+        532176,
+        563472,
+        594768,
+        626064,
+        657408,
+        688704,
+        720000,
+        751296,
+        782592,
+        813936,
+        845232,
+        876528,
+        907824,
+        939120,
+        970416,
+        1001760,
+        1033056,
+        1064352,
+        1095648,
+        1126944,
+        1158240,
+        1189584,
+        1220880,
+        1252176,
+        1283472,
+        1314768,
+        1346064,
+        1377408,
+        1408704,
+        1440000,
+        1471296,
+        1502592
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 290,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HalaBel/HalaBel_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "b79d3337febec697dfbce9585b7ef0f7",
+      "storageType": 0,
+      "url": "/public/map/HalaBel/nx/HalaBel_MAIN_SCENE_NX.zip/b79d3337febec697dfbce9585b7ef0f7.zip"
+    },
+    "pc": {
+      "md5": "8ff5732ee541e78d52659a6233df6620",
+      "storageType": 0,
+      "url": "/public/map/HalaBel/pc/HalaBel_MAIN_SCENE_PC.zip/8ff5732ee541e78d52659a6233df6620.zip"
+    },
+    "ps4": {
+      "md5": "20e4bcab3aa084a4994e75fa48d8160a",
+      "storageType": 0,
+      "url": "/public/map/HalaBel/orbis/HalaBel_MAIN_SCENE_ORBIS.zip/20e4bcab3aa084a4994e75fa48d8160a.zip"
+    }
+  },
+  "data": {
+    "mapName": "HalaBel",
+    "title": "Hala Bel Khamis",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main"
+    ],
+    "artist": "Maan Barghouth",
+    "credits": "Written by Maan Barghouth. Published by Anghami Publishing. Courtesy of Anghami Music Unlimited. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#c5b6f9",
+    "songColor2A": "#f7d5c0",
+    "songColor1B": "#270060",
+    "songColor2B": "#f7ba51",
+    "lyricsColor": "#ffab10",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HalaBel/nx/HalaBel_banner_bkg.tga.ckd/b576c27a8dd6cda98d75e08a2751ad91.ckd",
+      "map_bkgImageUrl": "/public/map/HalaBel/nx/HalaBel_map_bkg.tga.ckd/c015df2c8706fc8ce9bf6253f89b4173.ckd",
+      "expandCoachImageUrl": "/public/map/HalaBel/nx/HalaBel_Cover_AlbumCoach.tga.ckd/784489dcd3cbb333c3fd4ff45d9ab4ea.ckd",
+      "cover_smallImageUrl": "/public/map/HalaBel/nx/HalaBel_Cover_Online.tga.ckd/8d8397f4e96b135898f80ef6d9fd3666.ckd",
+      "coverImageUrl": "/public/map/HalaBel/nx/HalaBel_Cover_Generic.tga.ckd/09780df84bbb231225dd3de957733e5f.ckd",
+      "coach1ImageUrl": "/public/map/HalaBel/nx/HalaBel_Coach_1.tga.ckd/6f188b58cbc907327e5c182b5e4ac0e1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HalaBel/pc/HalaBel_banner_bkg.tga.ckd/63d54c6c7ea8ad0983e2809ef351a5ff.ckd",
+      "map_bkgImageUrl": "/public/map/HalaBel/pc/HalaBel_map_bkg.tga.ckd/3f6966a4a6acdf2849865e239fa157f2.ckd",
+      "expandCoachImageUrl": "/public/map/HalaBel/pc/HalaBel_Cover_AlbumCoach.tga.ckd/92b90ad8cbce2c89fb860f982fc37da8.ckd",
+      "cover_smallImageUrl": "/public/map/HalaBel/pc/HalaBel_Cover_Online.tga.ckd/d2d3ed423c77f7ca99278cfbfea93870.ckd",
+      "coverImageUrl": "/public/map/HalaBel/pc/HalaBel_Cover_Generic.tga.ckd/3bebd95e9cdf9e990c7228bd72fec3a1.ckd",
+      "coach1ImageUrl": "/public/map/HalaBel/pc/HalaBel_Coach_1.tga.ckd/a69259c445a1e43c64efa22162332867.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HalaBel/orbis/HalaBel_banner_bkg.tga.ckd/63d54c6c7ea8ad0983e2809ef351a5ff.ckd",
+      "map_bkgImageUrl": "/public/map/HalaBel/orbis/HalaBel_map_bkg.tga.ckd/3f6966a4a6acdf2849865e239fa157f2.ckd",
+      "expandCoachImageUrl": "/public/map/HalaBel/orbis/HalaBel_Cover_AlbumCoach.tga.ckd/92b90ad8cbce2c89fb860f982fc37da8.ckd",
+      "cover_smallImageUrl": "/public/map/HalaBel/orbis/HalaBel_Cover_Online.tga.ckd/d2d3ed423c77f7ca99278cfbfea93870.ckd",
+      "coverImageUrl": "/public/map/HalaBel/orbis/HalaBel_Cover_Generic.tga.ckd/3bebd95e9cdf9e990c7228bd72fec3a1.ckd",
+      "coach1ImageUrl": "/public/map/HalaBel/orbis/HalaBel_Coach_1.tga.ckd/a69259c445a1e43c64efa22162332867.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HalaBel/HalaBel_Coach_1_Phone.png/6cc8d891497169e6df36fa972ce93296.png",
+    "phoneCoverImageUrl": "/public/map/HalaBel/HalaBel_Cover_Phone.jpg/d40cad225d06f7f99fc1ebcc368db73c.jpg",
+    "cover640ImageUrl": "/public/map/HalaBel/HalaBel_Cover_640.png/40f4930d20699cadd5cb198705b8fcc5.png"
+  },
+  "mapLength": 189.130604
+}

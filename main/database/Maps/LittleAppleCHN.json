@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "cf1beb574973cee42ccd8df06a397fd6",
+      "storageType": 0,
+      "url": "/public/map/LittleAppleCHN/nx/LittleAppleCHN_MAIN_SCENE_NX.zip/cf1beb574973cee42ccd8df06a397fd6.zip"
+    },
+    "pc": {
+      "md5": "ca3f15cd097dc67101692f4a440b885f",
+      "storageType": 0,
+      "url": "/public/map/LittleAppleCHN/pc/LittleAppleCHN_MAIN_SCENE_PC.zip/ca3f15cd097dc67101692f4a440b885f.zip"
+    },
+    "ps4": {
+      "md5": "32ad26ef9453b5d75cff9cba3c52346b",
+      "storageType": 0,
+      "url": "/public/map/LittleAppleCHN/orbis/LittleAppleCHN_MAIN_SCENE_ORBIS.zip/32ad26ef9453b5d75cff9cba3c52346b.zip"
+    }
+  },
+  "data": {
+    "mapName": "LittleAppleCHN",
+    "title": "小苹果 (Xiao Ping Guo)",
+    "originalJDVersion": 2015,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "筷子兄弟",
+    "credits": "\\u738b\\u592a\\u5229\\u521b\\u4f5c\\uff0c\\u7b77\\u5b50\\u5144\\u5f1f\\u6f14\\u5531\\u3002\\u7531\\u738b\\u592a\\u5229\\u51fa\\u7248\\uff0c\\u627f\\u8499\\u7b77\\u5b50\\u5144\\u5f1f\\u63d0\\u4f9b\\u3002",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#DE152A",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253440,
+        276480,
+        299520,
+        322560,
+        345600,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506880,
+        529920,
+        552960,
+        576000,
+        599040,
+        622080,
+        645120,
+        668160,
+        691200,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852480,
+        875520,
+        898560,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013760,
+        1036800,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198080,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382400,
+        1405440,
+        1428480
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 438,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/littleapplechn/littleapplechn_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LittleAppleCHN/nx/LittleAppleCHN_banner_bkg.tga.ckd/46fdd5124d12d968b6b74c8c5d2a96e2.ckd",
+      "map_bkgImageUrl": "/public/map/LittleAppleCHN/nx/LittleAppleCHN_map_bkg.tga.ckd/721fad316cd81bda585ec7844a9218b5.ckd",
+      "expandCoachImageUrl": "/public/map/LittleAppleCHN/nx/LittleAppleCHN_Cover_AlbumCoach.tga.ckd/5cb9fe486aa67d63114597cb3f7c54ab.ckd",
+      "cover_smallImageUrl": "/public/map/LittleAppleCHN/nx/LittleAppleCHN_Cover_Online.tga.ckd/9fa24415b5e2193ec15cd8f6d9dc20ff.ckd",
+      "coach1ImageUrl": "/public/map/LittleAppleCHN/nx/LittleAppleCHN_Coach_1.tga.ckd/16d48d525b8037149f4b26bb933ba08b.ckd",
+      "coach2ImageUrl": "/public/map/LittleAppleCHN/nx/LittleAppleCHN_Coach_2.tga.ckd/498883e1b42ff3107e42b7846a56c622.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LittleAppleCHN/pc/LittleAppleCHN_banner_bkg.tga.ckd/2e3a57e24466d27546d9db88a66d9c3b.ckd",
+      "map_bkgImageUrl": "/public/map/LittleAppleCHN/pc/LittleAppleCHN_map_bkg.tga.ckd/eaa82ccf3d16fdec3eefc355734f7d4d.ckd",
+      "expandCoachImageUrl": "/public/map/LittleAppleCHN/pc/LittleAppleCHN_Cover_AlbumCoach.tga.ckd/14c6956185501a3eb9ba74b80d6df633.ckd",
+      "cover_smallImageUrl": "/public/map/LittleAppleCHN/pc/LittleAppleCHN_Cover_Online.tga.ckd/2ad2cc5b8faef1b8b244407d31e5cddb.ckd",
+      "coach1ImageUrl": "/public/map/LittleAppleCHN/pc/LittleAppleCHN_Coach_1.tga.ckd/d07b402203c0db4f716001e2e5e7646f.ckd",
+      "coach2ImageUrl": "/public/map/LittleAppleCHN/pc/LittleAppleCHN_Coach_2.tga.ckd/0de209d5351706b5783e8b7a4e52d7a4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LittleAppleCHN/orbis/LittleAppleCHN_banner_bkg.tga.ckd/2e3a57e24466d27546d9db88a66d9c3b.ckd",
+      "map_bkgImageUrl": "/public/map/LittleAppleCHN/orbis/LittleAppleCHN_map_bkg.tga.ckd/eaa82ccf3d16fdec3eefc355734f7d4d.ckd",
+      "expandCoachImageUrl": "/public/map/LittleAppleCHN/orbis/LittleAppleCHN_Cover_AlbumCoach.tga.ckd/14c6956185501a3eb9ba74b80d6df633.ckd",
+      "cover_smallImageUrl": "/public/map/LittleAppleCHN/orbis/LittleAppleCHN_Cover_Online.tga.ckd/2ad2cc5b8faef1b8b244407d31e5cddb.ckd",
+      "coach1ImageUrl": "/public/map/LittleAppleCHN/orbis/LittleAppleCHN_Coach_1.tga.ckd/d07b402203c0db4f716001e2e5e7646f.ckd",
+      "coach2ImageUrl": "/public/map/LittleAppleCHN/orbis/LittleAppleCHN_Coach_2.tga.ckd/0de209d5351706b5783e8b7a4e52d7a4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LittleAppleCHN/LittleAppleCHN_Coach_1_Phone.png/439264f0427d798b4cb55e62656c2827.png",
+    "phoneCoach2ImageUrl": "/public/map/LittleAppleCHN/LittleAppleCHN_Coach_2_Phone.png/db728c4622e8c7f92a8bedfb8a70b6a4.png",
+    "phoneCoverImageUrl": "/public/map/LittleAppleCHN/LittleAppleCHN_Cover_Phone.jpg/d0efaf0115eba2be7cdc192b72e44172.jpg",
+    "cover640ImageUrl": "/public/map/LittleAppleCHN/LittleAppleCHN_Cover_640.png/3708dab9ecc7e8f2cce82f32e6bea1b0.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN.ogg": "/private/map/LittleAppleCHN/LittleAppleCHN.ogg/d7d093bf6070faddc111ba794881abda.ogg",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_AudioPreview.ogg": "/public/map/LittleAppleCHN/LittleAppleCHN_AudioPreview.ogg/c00c7246140e8e19fe03b11d55fbb39e.ogg",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_HIGH.webm": "/private/map/LittleAppleCHN/LittleAppleCHN_HIGH.webm/80ac8abcc38526a0d2eb2c4141b91b68.webm",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_LOW.webm": "/private/map/LittleAppleCHN/LittleAppleCHN_LOW.webm/7c160ec076e47f87c283e4534d10b577.webm",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_MID.webm": "/private/map/LittleAppleCHN/LittleAppleCHN_MID.webm/9a8e0fcf77ae783592964692fc1c9362.webm",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_ULTRA.hd.webm": "/private/map/LittleAppleCHN/LittleAppleCHN_ULTRA.hd.webm/fdfe72ca651749836671f6c5a325ca4e.webm",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_ULTRA.webm": "/private/map/LittleAppleCHN/LittleAppleCHN_ULTRA.webm/66bcf825d071d9413f0de55f2aaa9ea0.webm",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LittleAppleCHN/LittleAppleCHN_MapPreviewNoSoundCrop_LOW.vp8.webm/b47cdb7ede4f3af4d11c76929c2181a1.webm",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LittleAppleCHN/LittleAppleCHN_MapPreviewNoSoundCrop_MID.vp8.webm/00e0c33eaa198720caf1597b738aa786.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496228\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"638-1127\">\n\t\t\t\t\t<Initialization range=\"0-638\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1477827\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\n\t\t\t\t\t<Initialization range=\"0-639\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 211.2
+}

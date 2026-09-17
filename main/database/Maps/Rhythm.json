@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "11b8facb61497a6b77f81c30b472bef6",
+      "storageType": 0,
+      "url": "/public/map/Rhythm/nx/Rhythm_MAIN_SCENE_NX.zip/11b8facb61497a6b77f81c30b472bef6.zip"
+    },
+    "pc": {
+      "md5": "df0c9fe6e9b86b484ccea39dc77bdc62",
+      "storageType": 0,
+      "url": "/public/map/Rhythm/pc/Rhythm_MAIN_SCENE_PC.zip/df0c9fe6e9b86b484ccea39dc77bdc62.zip"
+    },
+    "ps4": {
+      "md5": "6499512b94d721b2dd4091e4ed8c118f",
+      "storageType": 0,
+      "url": "/public/map/Rhythm/orbis/Rhythm_MAIN_SCENE_ORBIS.zip/6499512b94d721b2dd4091e4ed8c118f.zip"
+    }
+  },
+  "data": {
+    "mapName": "Rhythm",
+    "title": "Rhythm Of The Night",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main"
+    ],
+    "artist": "Corona",
+    "credits": "Written by Peter Wilfred Glenister, Michael Gaffey, Giorgio Spagna, Annerley Gordon, Francesco Bontempi. Produced, Engineered and Mixed by Steve Ouimette. Additional Engineering: Paddy Hill. Published by Extravagnza Publishing SRL administered by Peermusic (UK) Ltd. / INTERSONG MUSIC LTD (PRS) and EXTRAVAGANZA PUBLISHING SRL (SIAE) / BMG Firefly. All rights administered by BMG Rights Management (US) LLC. Vocals: Jenny B. Synths, Drums and Programming: Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#7c0143",
+    "songColor2A": "#cc1e7d",
+    "songColor1B": "#3e094f",
+    "songColor2B": "#8501c6",
+    "lyricsColor": "#f90891",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22512,
+        45024,
+        67584,
+        90096,
+        112608,
+        135120,
+        157632,
+        180192,
+        202704,
+        225216,
+        247728,
+        270288,
+        292800,
+        315312,
+        337824,
+        360336,
+        382896,
+        405408,
+        427920,
+        450432,
+        472944,
+        495505,
+        518017,
+        540529,
+        563041,
+        585553,
+        608113,
+        630625,
+        653137,
+        675649,
+        698161,
+        720721,
+        743233,
+        765745,
+        788257,
+        810769,
+        833329,
+        855841,
+        878353,
+        900865,
+        923425,
+        945937,
+        968450,
+        990962,
+        1013474,
+        1036034,
+        1058546,
+        1081058,
+        1103570,
+        1126082,
+        1148642,
+        1171154,
+        1193666,
+        1216178,
+        1238690,
+        1261250,
+        1283762,
+        1306274,
+        1328786,
+        1351298,
+        1373858,
+        1396370,
+        1418882,
+        1441395,
+        1463955,
+        1486467
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 443,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Rhythm/Rhythm_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Rhythm/nx/Rhythm_banner_bkg.tga.ckd/983a7903ba379c31f956563ecaf160d7.ckd",
+      "map_bkgImageUrl": "/public/map/Rhythm/nx/Rhythm_map_bkg.tga.ckd/31657b5cd480f7eb945987a3a1ac7ca8.ckd",
+      "expandCoachImageUrl": "/public/map/Rhythm/nx/Rhythm_Cover_AlbumCoach.tga.ckd/f8b6f3a6f29d1b8f5bdd5403ec67b7af.ckd",
+      "cover_smallImageUrl": "/public/map/Rhythm/nx/Rhythm_Cover_Online.tga.ckd/352aba33e814191af668ad25c29e6bdc.ckd",
+      "coach1ImageUrl": "/public/map/Rhythm/nx/Rhythm_Coach_1.tga.ckd/f2d7bfa0e45c14fda82aaf2f2da0fd11.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Rhythm/pc/Rhythm_banner_bkg.tga.ckd/deec827c4bac6084bbd73246eebf516f.ckd",
+      "map_bkgImageUrl": "/public/map/Rhythm/pc/Rhythm_map_bkg.tga.ckd/dac78370c5df2747e49cf7afe72be9f8.ckd",
+      "expandCoachImageUrl": "/public/map/Rhythm/pc/Rhythm_Cover_AlbumCoach.tga.ckd/67141055a92210b49c0b62d180de2929.ckd",
+      "cover_smallImageUrl": "/public/map/Rhythm/pc/Rhythm_Cover_Online.tga.ckd/5fbeba153b1e75b9857a7f896c49c0a5.ckd",
+      "coach1ImageUrl": "/public/map/Rhythm/pc/Rhythm_Coach_1.tga.ckd/ab66675fd90938ab31428de447d4b990.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Rhythm/orbis/Rhythm_banner_bkg.tga.ckd/deec827c4bac6084bbd73246eebf516f.ckd",
+      "map_bkgImageUrl": "/public/map/Rhythm/orbis/Rhythm_map_bkg.tga.ckd/dac78370c5df2747e49cf7afe72be9f8.ckd",
+      "expandCoachImageUrl": "/public/map/Rhythm/orbis/Rhythm_Cover_AlbumCoach.tga.ckd/67141055a92210b49c0b62d180de2929.ckd",
+      "cover_smallImageUrl": "/public/map/Rhythm/orbis/Rhythm_Cover_Online.tga.ckd/5fbeba153b1e75b9857a7f896c49c0a5.ckd",
+      "coach1ImageUrl": "/public/map/Rhythm/orbis/Rhythm_Coach_1.tga.ckd/ab66675fd90938ab31428de447d4b990.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Rhythm/Rhythm_Coach_1_Phone.png/9e81cba256a2404781532a95dca646e1.png",
+    "phoneCoverImageUrl": "/public/map/Rhythm/Rhythm_Cover_Phone.jpg/b6dfde556a11bac916879e42e8c36dca.jpg",
+    "cover640ImageUrl": "/public/map/Rhythm/Rhythm_Cover_640.png/6591b35074332b631d21534459d3b566.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Rhythm/Rhythm.ogg": "/private/map/Rhythm/Rhythm.ogg/eb142435182903c2010a1cb04e670016.ogg",
+    "jmcs://jd-contents/Rhythm/Rhythm_AudioPreview.ogg": "/public/map/Rhythm/Rhythm_AudioPreview.ogg/8cf6f20aa9850c3849e7f66b70d751fb.ogg",
+    "jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Rhythm/Rhythm_MapPreviewNoSoundCrop_LOW.vp8.webm/d516be2f18d1d718210c68e967fc9aab.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_HIGH.webm": "/private/map/Rhythm/Rhythm_HIGH.webm/1639ab4dcc3c031a5004a1d2ecce2a5f.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_LOW.webm": "/private/map/Rhythm/Rhythm_LOW.webm/3db9bc6958d41669cc1aa216c2e37935.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_MID.webm": "/private/map/Rhythm/Rhythm_MID.webm/cf3c10dbcb5fc0cc30726b29f1dd7b6f.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_ULTRA.hd.webm": "/private/map/Rhythm/Rhythm_ULTRA.hd.webm/5bfc3469ed25270701fc14851b109e84.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_ULTRA.webm": "/private/map/Rhythm/Rhythm_ULTRA.webm/98996cb37fc75f93634c42b49490dea9.webm",
+    "jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Rhythm/Rhythm_MapPreviewNoSoundCrop_MID.vp8.webm/31ea50f1c84ea921d879852fc6a4b345.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497930\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"593-1082\">\n\t\t\t\t\t<Initialization range=\"0-593\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480913\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Rhythm/Rhythm_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\n\t\t\t\t\t<Initialization range=\"0-594\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 210.205313
+}

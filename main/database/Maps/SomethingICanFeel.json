@@ -1,0 +1,167 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SomethingICanFeel/SomethingICanFeel.ogg": "/private/map/SomethingICanFeel/SomethingICanFeel.ogg/d99289fc5007e762efba33868556a157.ogg",
+    "jmcs://jd-contents/SomethingICanFeel/SomethingICanFeel_AudioPreview.ogg": "/public/map/SomethingICanFeel/SomethingICanFeel_AudioPreview.ogg/a02ae20e5237ab64a05ab7c7ad338c6e.ogg",
+    "jmcs://jd-contents/SomethingICanFeel/SomethingICanFeel_HIGH.hd.webm": "/private/map/SomethingICanFeel/SomethingICanFeel_HIGH.hd.webm/f90974ce9040ff1487e0fe21df357101.webm",
+    "jmcs://jd-contents/SomethingICanFeel/SomethingICanFeel_LOW.hd.webm": "/private/map/SomethingICanFeel/SomethingICanFeel_LOW.hd.webm/12b62df0ccf1fb865fff196bbf9a2d87.webm",
+    "jmcs://jd-contents/SomethingICanFeel/SomethingICanFeel_MID.hd.webm": "/private/map/SomethingICanFeel/SomethingICanFeel_MID.hd.webm/34f31726641fc1068974c714430a6f8a.webm",
+    "jmcs://jd-contents/SomethingICanFeel/SomethingICanFeel_ULTRA.hd.webm": "/private/map/SomethingICanFeel/SomethingICanFeel_ULTRA.hd.webm/305c1071145bd4e0e3e2e83d0e1a18ae.webm",
+    "jmcs://jd-contents/SomethingICanFeel/SomethingICanFeel_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SomethingICanFeel/SomethingICanFeel_MapPreviewNoSoundCrop_LOW.vp8.webm/4b94ae00e3aaba8bf32822cb0fbd3e89.webm",
+    "jmcs://jd-contents/SomethingICanFeel/SomethingICanFeel_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SomethingICanFeel/SomethingICanFeel_MapPreviewNoSoundCrop_MID.vp8.webm/997932fe17ffb2d8d58b06e45b2802c4.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26916,
+        53832,
+        80748,
+        107664,
+        134579,
+        161495,
+        188411,
+        215327,
+        242243,
+        269159,
+        296075,
+        322991,
+        349907,
+        376822,
+        403738,
+        430654,
+        457570,
+        484486,
+        511402,
+        538318,
+        565234,
+        592150,
+        619065,
+        645981,
+        672897,
+        699813,
+        726729,
+        753645,
+        780561,
+        807477,
+        834393,
+        861308,
+        888224,
+        915140,
+        942056,
+        968972,
+        995888,
+        1022804,
+        1049720,
+        1076636,
+        1103551,
+        1130467,
+        1157383,
+        1184299,
+        1211215,
+        1238131,
+        1265047,
+        1291963,
+        1318879,
+        1345794,
+        1372710,
+        1399626,
+        1426542,
+        1453458,
+        1480374
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 373,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SomethingICanFeel/SomethingICanFeel_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"551365\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SomethingICanFeel/SomethingICanFeel_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2002093\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SomethingICanFeel/SomethingICanFeel_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "3646c3473e5e69f4416ffb25ca6139c9",
+      "storageType": 0,
+      "url": "/public/map/SomethingICanFeel/nx/SomethingICanFeel_MAIN_SCENE_NX.zip/3646c3473e5e69f4416ffb25ca6139c9.zip"
+    },
+    "pc": {
+      "md5": "534d14a470f5817dcc89f020f5053ee1",
+      "storageType": 0,
+      "url": "/public/map/SomethingICanFeel/pc/SomethingICanFeel_MAIN_SCENE_PC.zip/534d14a470f5817dcc89f020f5053ee1.zip"
+    },
+    "ps4": {
+      "md5": "d82bf0d2acba04a88b50a7c87f0dd167",
+      "storageType": 0,
+      "url": "/public/map/SomethingICanFeel/orbis/SomethingICanFeel_MAIN_SCENE_ORBIS.zip/d82bf0d2acba04a88b50a7c87f0dd167.zip"
+    }
+  },
+  "data": {
+    "mapName": "SomethingICanFeel",
+    "title": "Something I Can Feel",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Mandy Harvey",
+    "credits": "Written by Riley Biederer, Amanda Harvey, Robert Francis Grimaldi. Published by ThreeTwentyTwo Publishing / Mandy Harvey Music / BMG Rights Management Canada B obo BMG Platinum Songs US obo RobMadeThis. Courtesy of Mandy Harvey Music.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#53aef5",
+    "songColor2A": "#8efbf5",
+    "songColor1B": "#0e07a4",
+    "songColor2B": "#0909a6",
+    "lyricsColor": "#ff42df",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SomethingICanFeel/nx/SomethingICanFeel_banner_bkg.tga.ckd/f13651806e77963f6339b4230ce06aec.ckd",
+      "map_bkgImageUrl": "/public/map/SomethingICanFeel/nx/SomethingICanFeel_map_bkg.tga.ckd/c0ddf11eda4976bfa65124f0b16947be.ckd",
+      "expandCoachImageUrl": "/public/map/SomethingICanFeel/nx/SomethingICanFeel_Cover_AlbumCoach.tga.ckd/77b269ce551292b1de8965485d402230.ckd",
+      "cover_smallImageUrl": "/public/map/SomethingICanFeel/nx/SomethingICanFeel_Cover_Online.tga.ckd/522ce7ce4149657b07740f20d2a70425.ckd",
+      "coverImageUrl": "/public/map/SomethingICanFeel/nx/SomethingICanFeel_Cover_Generic.tga.ckd/994767d3470074fad8a39da4e7d8ddaa.ckd",
+      "coach1ImageUrl": "/public/map/SomethingICanFeel/nx/SomethingICanFeel_Coach_1.tga.ckd/8201eb5930e589b217a91db12273ed00.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SomethingICanFeel/pc/SomethingICanFeel_banner_bkg.tga.ckd/d7cd0168147f091c2ea87f65c97b1d45.ckd",
+      "map_bkgImageUrl": "/public/map/SomethingICanFeel/pc/SomethingICanFeel_map_bkg.tga.ckd/97362cf266d79d8a03a71828a7dab161.ckd",
+      "expandCoachImageUrl": "/public/map/SomethingICanFeel/pc/SomethingICanFeel_Cover_AlbumCoach.tga.ckd/d564f36341f644b493b5936f42e9c002.ckd",
+      "cover_smallImageUrl": "/public/map/SomethingICanFeel/pc/SomethingICanFeel_Cover_Online.tga.ckd/64b59b360d7bfca1b2f1382147fa3f6b.ckd",
+      "coverImageUrl": "/public/map/SomethingICanFeel/pc/SomethingICanFeel_Cover_Generic.tga.ckd/0fa407f428488b20646216232bf90dd8.ckd",
+      "coach1ImageUrl": "/public/map/SomethingICanFeel/pc/SomethingICanFeel_Coach_1.tga.ckd/75cb733f469b9b4738066881a3878c5f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SomethingICanFeel/orbis/SomethingICanFeel_banner_bkg.tga.ckd/d7cd0168147f091c2ea87f65c97b1d45.ckd",
+      "map_bkgImageUrl": "/public/map/SomethingICanFeel/orbis/SomethingICanFeel_map_bkg.tga.ckd/97362cf266d79d8a03a71828a7dab161.ckd",
+      "expandCoachImageUrl": "/public/map/SomethingICanFeel/orbis/SomethingICanFeel_Cover_AlbumCoach.tga.ckd/d564f36341f644b493b5936f42e9c002.ckd",
+      "cover_smallImageUrl": "/public/map/SomethingICanFeel/orbis/SomethingICanFeel_Cover_Online.tga.ckd/64b59b360d7bfca1b2f1382147fa3f6b.ckd",
+      "coverImageUrl": "/public/map/SomethingICanFeel/orbis/SomethingICanFeel_Cover_Generic.tga.ckd/0fa407f428488b20646216232bf90dd8.ckd",
+      "coach1ImageUrl": "/public/map/SomethingICanFeel/orbis/SomethingICanFeel_Coach_1.tga.ckd/75cb733f469b9b4738066881a3878c5f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SomethingICanFeel/SomethingICanFeel_Coach_1_Phone.png/ca97a7baf1dd9466af09f8ce6ec28665.png",
+    "phoneCoverImageUrl": "/public/map/SomethingICanFeel/SomethingICanFeel_Cover_Phone.jpg/e00c3d2798848eb85b86195061e9ac99.jpg",
+    "cover640ImageUrl": "/public/map/SomethingICanFeel/SomethingICanFeel_Cover_640.png/fb3d712a5d6e235447e2e8bc051cb438.png"
+  },
+  "mapLength": 213.082438
+}

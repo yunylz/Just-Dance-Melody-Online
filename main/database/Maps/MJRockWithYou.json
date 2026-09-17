@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4104312809ab79e108f25c825a08a7a3",
+      "storageType": 0,
+      "url": "/public/map/MJRockWithYou/nx/MJRockWithYou_MAIN_SCENE_NX.zip/4104312809ab79e108f25c825a08a7a3.zip"
+    },
+    "pc": {
+      "md5": "d69db7df744bd6d623b6e3027a310174",
+      "storageType": 0,
+      "url": "/public/map/MJRockWithYou/pc/MJRockWithYou_MAIN_SCENE_PC.zip/d69db7df744bd6d623b6e3027a310174.zip"
+    },
+    "ps4": {
+      "md5": "8d50f843ff3d7b38ac5dac1ca30f59a6",
+      "storageType": 0,
+      "url": "/public/map/MJRockWithYou/orbis/MJRockWithYou_MAIN_SCENE_ORBIS.zip/8d50f843ff3d7b38ac5dac1ca30f59a6.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJRockWithYou",
+    "title": "Rock With You",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong",
+      "mjte",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Michael Jackson",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#042e9a",
+    "songColor2A": "#00ff84",
+    "songColor1B": "#28004e",
+    "songColor2B": "#000000",
+    "lyricsColor": "#3e0de3"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25200,
+        50352,
+        75552,
+        100704,
+        125904,
+        151104,
+        176256,
+        201456,
+        226608,
+        251808,
+        277008,
+        301776,
+        327360,
+        352512,
+        377712,
+        402288,
+        427056,
+        452880,
+        477648,
+        502800,
+        528144,
+        553584,
+        578736,
+        603600,
+        628848,
+        654720,
+        679536,
+        704784,
+        729744,
+        755136,
+        779856,
+        805248,
+        830208,
+        855552,
+        880704,
+        906096,
+        930816,
+        956544,
+        980976,
+        1005936,
+        1030704,
+        1057056,
+        1082784,
+        1107984,
+        1132800,
+        1158336,
+        1183488,
+        1208688,
+        1233504,
+        1259040,
+        1284240,
+        1309392,
+        1334304,
+        1359792,
+        1384944,
+        1410144,
+        1435296,
+        1460832,
+        1485696
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 423,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJRockWithYou/MJRockWithYou_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJRockWithYou/nx/MJRockWithYou_banner_bkg.tga.ckd/cd98194cb3601aeba2569ddeda9894e0.ckd",
+      "map_bkgImageUrl": "/public/map/MJRockWithYou/nx/MJRockWithYou_map_bkg.tga.ckd/feb7b046bbd04a4cff315ad8742f2522.ckd",
+      "expandCoachImageUrl": "/public/map/MJRockWithYou/nx/MJRockWithYou_Cover_AlbumCoach.tga.ckd/df5e1f5ca18d8b7ccce1c6a752020a61.ckd",
+      "cover_smallImageUrl": "/public/map/MJRockWithYou/nx/MJRockWithYou_Cover_Online.tga.ckd/4f0144a1d0fa50720375ae8f9b17bf9d.ckd",
+      "coach1ImageUrl": "/public/map/MJRockWithYou/nx/MJRockWithYou_Coach_1.tga.ckd/1107ae43039811a6987a59cb5cb972c3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJRockWithYou/pc/MJRockWithYou_banner_bkg.tga.ckd/b26768f65c336ca7c3b9d90f93c0c2a8.ckd",
+      "map_bkgImageUrl": "/public/map/MJRockWithYou/pc/MJRockWithYou_map_bkg.tga.ckd/2fb051d21e899ecd077487c1e877084b.ckd",
+      "expandCoachImageUrl": "/public/map/MJRockWithYou/pc/MJRockWithYou_Cover_AlbumCoach.tga.ckd/66adc435134b27729a424f36e4ecab4e.ckd",
+      "cover_smallImageUrl": "/public/map/MJRockWithYou/pc/MJRockWithYou_Cover_Online.tga.ckd/8c067b1afced0eb9ee94da5ee893509d.ckd",
+      "coach1ImageUrl": "/public/map/MJRockWithYou/pc/MJRockWithYou_Coach_1.tga.ckd/6bc66bf5c83586efce3be82532851db7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJRockWithYou/orbis/MJRockWithYou_banner_bkg.tga.ckd/b26768f65c336ca7c3b9d90f93c0c2a8.ckd",
+      "map_bkgImageUrl": "/public/map/MJRockWithYou/orbis/MJRockWithYou_map_bkg.tga.ckd/2fb051d21e899ecd077487c1e877084b.ckd",
+      "expandCoachImageUrl": "/public/map/MJRockWithYou/orbis/MJRockWithYou_Cover_AlbumCoach.tga.ckd/66adc435134b27729a424f36e4ecab4e.ckd",
+      "cover_smallImageUrl": "/public/map/MJRockWithYou/orbis/MJRockWithYou_Cover_Online.tga.ckd/8c067b1afced0eb9ee94da5ee893509d.ckd",
+      "coach1ImageUrl": "/public/map/MJRockWithYou/orbis/MJRockWithYou_Coach_1.tga.ckd/6bc66bf5c83586efce3be82532851db7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJRockWithYou/MJRockWithYou_Coach_1_Phone.png/b81f8bbbe229c69f82c8090f329ce2ab.png",
+    "phoneCoverImageUrl": "/public/map/MJRockWithYou/MJRockWithYou_Cover_Phone.jpg/76a6d3fda69dbaba6e2d7c84712434e8.jpg",
+    "cover640ImageUrl": "/public/map/MJRockWithYou/MJRockWithYou_Cover_640.png/56b28735c426822eee6671ab0cfdbfb6.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MJRockWithYou/MJRockWithYou.ogg": "/private/map/MJRockWithYou/MJRockWithYou.ogg/8ce90e9060dd98dc3588b7f940082295.ogg",
+    "jmcs://jd-contents/MJRockWithYou/MJRockWithYou_AudioPreview.ogg": "/public/map/MJRockWithYou/MJRockWithYou_AudioPreview.ogg/48a20e1620b23bfd4a70ba0568a1664a.ogg",
+    "jmcs://jd-contents/MJRockWithYou/MJRockWithYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJRockWithYou/MJRockWithYou_MapPreviewNoSoundCrop_LOW.vp8.webm/6beb4489d946f1ad94968cda91e9f47d.webm",
+    "jmcs://jd-contents/MJRockWithYou/MJRockWithYou_HIGH.webm": "/private/map/MJRockWithYou/MJRockWithYou_HIGH.webm/199e528278e369580e49e099813b811d.webm",
+    "jmcs://jd-contents/MJRockWithYou/MJRockWithYou_LOW.webm": "/private/map/MJRockWithYou/MJRockWithYou_LOW.webm/725cd4d9b7f5bcab5e01cf5f8b4227c2.webm",
+    "jmcs://jd-contents/MJRockWithYou/MJRockWithYou_MID.webm": "/private/map/MJRockWithYou/MJRockWithYou_MID.webm/1efba7e82a4953eccb6d9ecced92d41e.webm",
+    "jmcs://jd-contents/MJRockWithYou/MJRockWithYou_ULTRA.hd.webm": "/private/map/MJRockWithYou/MJRockWithYou_ULTRA.hd.webm/20559bda9c2966cb8507268d23cfa37a.webm",
+    "jmcs://jd-contents/MJRockWithYou/MJRockWithYou_ULTRA.webm": "/private/map/MJRockWithYou/MJRockWithYou_ULTRA.webm/fbe106ed9fe66a0699f105aa260b2cd1.webm",
+    "jmcs://jd-contents/MJRockWithYou/MJRockWithYou_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJRockWithYou/MJRockWithYou_MapPreviewNoSoundCrop_MID.vp8.webm/ffd6b12ad520645666f934f17cb26d7d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"505239\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJRockWithYou/MJRockWithYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1504626\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJRockWithYou/MJRockWithYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 222.582104
+}

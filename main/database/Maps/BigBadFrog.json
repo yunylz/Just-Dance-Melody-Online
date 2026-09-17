@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BigBadFrog/BigBadFrog.ogg": "/private/map/BigBadFrog/BigBadFrog.ogg/bf86e9f20721eb67c151bbc4f1fd160c.ogg",
+    "jmcs://jd-contents/BigBadFrog/BigBadFrog_AudioPreview.ogg": "/public/map/BigBadFrog/BigBadFrog_AudioPreview.ogg/997f4837436d768acbc8b49c59bd2d7b.ogg",
+    "jmcs://jd-contents/BigBadFrog/BigBadFrog_HIGH.hd.webm": "/private/map/BigBadFrog/BigBadFrog_HIGH.hd.webm/5d19b3c97840c1de7ec7d4b69e3cf936.webm",
+    "jmcs://jd-contents/BigBadFrog/BigBadFrog_LOW.hd.webm": "/private/map/BigBadFrog/BigBadFrog_LOW.hd.webm/bc37bc7f5cfb0e23359ef0c0fa253fdb.webm",
+    "jmcs://jd-contents/BigBadFrog/BigBadFrog_MID.hd.webm": "/private/map/BigBadFrog/BigBadFrog_MID.hd.webm/da98393367b0c317e1a27be6e6a1baab.webm",
+    "jmcs://jd-contents/BigBadFrog/BigBadFrog_ULTRA.hd.webm": "/private/map/BigBadFrog/BigBadFrog_ULTRA.hd.webm/bb5775a812e8848cb50583e64977024d.webm",
+    "jmcs://jd-contents/BigBadFrog/BigBadFrog_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BigBadFrog/BigBadFrog_MapPreviewNoSoundCrop_LOW.vp8.webm/44a20441d775289346b1dc1066167c54.webm",
+    "jmcs://jd-contents/BigBadFrog/BigBadFrog_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BigBadFrog/BigBadFrog_MapPreviewNoSoundCrop_MID.vp8.webm/07d7cacb8292b2e4e4ecdaade8d3455b.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202500,
+        225000,
+        247500,
+        270000,
+        292500,
+        315000,
+        337500,
+        360000,
+        382500,
+        405000,
+        427500,
+        450000,
+        472500,
+        495000,
+        517500,
+        540000,
+        562500,
+        585000,
+        607500,
+        630000,
+        652500,
+        675000,
+        697500,
+        720000,
+        742500,
+        765000,
+        787500,
+        810000,
+        832500,
+        855000,
+        877500,
+        900000,
+        922500,
+        945000,
+        967500,
+        990000,
+        1012500,
+        1035000,
+        1057500,
+        1080000,
+        1102500,
+        1125000,
+        1147500,
+        1170000,
+        1192500,
+        1215000,
+        1237500,
+        1260000,
+        1282500,
+        1305000,
+        1327500,
+        1350000,
+        1372500,
+        1395000,
+        1417500,
+        1440000,
+        1462500,
+        1485000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 335,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BigBadFrog/BigBadFrog_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"548329\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBadFrog/BigBadFrog_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1968458\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BigBadFrog/BigBadFrog_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "90c5ebf1e861725a27af11a84d1a80c2",
+      "storageType": 0,
+      "url": "/public/map/BigBadFrog/nx/BigBadFrog_MAIN_SCENE_NX.zip/90c5ebf1e861725a27af11a84d1a80c2.zip"
+    },
+    "pc": {
+      "md5": "ee6532226955104d92343f62f60fa870",
+      "storageType": 0,
+      "url": "/public/map/BigBadFrog/pc/BigBadFrog_MAIN_SCENE_PC.zip/ee6532226955104d92343f62f60fa870.zip"
+    },
+    "ps4": {
+      "md5": "0295edaa79508228436de4017b3339a5",
+      "storageType": 0,
+      "url": "/public/map/BigBadFrog/orbis/BigBadFrog_MAIN_SCENE_ORBIS.zip/0295edaa79508228436de4017b3339a5.zip"
+    }
+  },
+  "data": {
+    "mapName": "BigBadFrog",
+    "title": "Big Bad Frog",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Austin & Colin",
+    "credits": "“Big Bad Frog” Performed by Austin & Colin Written by Austin Bever, Colin Cooper, Bobby Hamrick, Shane Stevens. Published by BMG Rights Management Canada B obo BMG Platinum Songs US obo itself and Cheesy Beaver Publishing and Coopdogg Publishing. All rights administered by BMG Rights Management (US) LLC / Songs of Spirit II Nashville obo itself, SpiritVault Songs II, Woah; Songs of Spirit Nashville One obo itself, Spirit Vault Music II, From My Garden Music. Courtesy of BMG Rights Management (US) LLC. By arrangement with BMG Rights Management (US) LLC. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#02c716",
+    "songColor2A": "#09f5f2",
+    "songColor1B": "#00010a",
+    "songColor2B": "#1c2eba",
+    "lyricsColor": "#00ceff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BigBadFrog/nx/BigBadFrog_banner_bkg.tga.ckd/7dbbaa3c3c05ca5b834f411a9e6c472d.ckd",
+      "map_bkgImageUrl": "/public/map/BigBadFrog/nx/BigBadFrog_map_bkg.tga.ckd/e9d532a503fc8aa50b9d75f9b8123b2c.ckd",
+      "expandCoachImageUrl": "/public/map/BigBadFrog/nx/BigBadFrog_Cover_AlbumCoach.tga.ckd/f264f4aad0e0bc9847e86b76ecbfeafe.ckd",
+      "cover_smallImageUrl": "/public/map/BigBadFrog/nx/BigBadFrog_Cover_Online.tga.ckd/cde409f24718039878e115add3f491aa.ckd",
+      "coverImageUrl": "/public/map/BigBadFrog/nx/BigBadFrog_Cover_Generic.tga.ckd/39158eb0485c3cd7cef2ba27a2a1c9a4.ckd",
+      "coach1ImageUrl": "/public/map/BigBadFrog/nx/BigBadFrog_Coach_1.tga.ckd/0645fff1aa36805145b548d58144d28b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BigBadFrog/pc/BigBadFrog_banner_bkg.tga.ckd/cdcb5cdf11d6896a2c3fe9f367911a96.ckd",
+      "map_bkgImageUrl": "/public/map/BigBadFrog/pc/BigBadFrog_map_bkg.tga.ckd/27a4640f1f94529a1d96686e0af74991.ckd",
+      "expandCoachImageUrl": "/public/map/BigBadFrog/pc/BigBadFrog_Cover_AlbumCoach.tga.ckd/8c7341b5249803fb5138e0880bef98ed.ckd",
+      "cover_smallImageUrl": "/public/map/BigBadFrog/pc/BigBadFrog_Cover_Online.tga.ckd/22226aaef630970c9071c6906db05b7d.ckd",
+      "coverImageUrl": "/public/map/BigBadFrog/pc/BigBadFrog_Cover_Generic.tga.ckd/c55f38a5d3200b0e6ec5ffe86a55782a.ckd",
+      "coach1ImageUrl": "/public/map/BigBadFrog/pc/BigBadFrog_Coach_1.tga.ckd/7322c623e446ffa27297f602283311ec.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BigBadFrog/orbis/BigBadFrog_banner_bkg.tga.ckd/cdcb5cdf11d6896a2c3fe9f367911a96.ckd",
+      "map_bkgImageUrl": "/public/map/BigBadFrog/orbis/BigBadFrog_map_bkg.tga.ckd/27a4640f1f94529a1d96686e0af74991.ckd",
+      "expandCoachImageUrl": "/public/map/BigBadFrog/orbis/BigBadFrog_Cover_AlbumCoach.tga.ckd/8c7341b5249803fb5138e0880bef98ed.ckd",
+      "cover_smallImageUrl": "/public/map/BigBadFrog/orbis/BigBadFrog_Cover_Online.tga.ckd/22226aaef630970c9071c6906db05b7d.ckd",
+      "coverImageUrl": "/public/map/BigBadFrog/orbis/BigBadFrog_Cover_Generic.tga.ckd/c55f38a5d3200b0e6ec5ffe86a55782a.ckd",
+      "coach1ImageUrl": "/public/map/BigBadFrog/orbis/BigBadFrog_Coach_1.tga.ckd/7322c623e446ffa27297f602283311ec.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BigBadFrog/BigBadFrog_Coach_1_Phone.png/d854d57dc2b5352abd2bd3141b1aed1e.png",
+    "phoneCoverImageUrl": "/public/map/BigBadFrog/BigBadFrog_Cover_Phone.jpg/e25d074d665c10e788a4817b5358aa53.jpg",
+    "cover640ImageUrl": "/public/map/BigBadFrog/BigBadFrog_Cover_640.png/315ed3444fa5e045ad49ac7f11e3f354.png"
+  },
+  "mapLength": 161.25
+}

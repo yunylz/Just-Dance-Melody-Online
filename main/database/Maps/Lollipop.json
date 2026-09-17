@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "a26442987edd0d9f985f74bd200d8415",
+      "storageType": 0,
+      "url": "/public/map/Lollipop/nx/Lollipop_MAIN_SCENE_NX.zip/a26442987edd0d9f985f74bd200d8415.zip"
+    },
+    "pc": {
+      "md5": "b7bcc5b09a12e8fdac01545f146c0fbb",
+      "storageType": 0,
+      "url": "/public/map/Lollipop/pc/Lollipop_MAIN_SCENE_PC.zip/b7bcc5b09a12e8fdac01545f146c0fbb.zip"
+    },
+    "ps4": {
+      "md5": "599bb649dd0a37a634c9a30f718eae97",
+      "storageType": 0,
+      "url": "/public/map/Lollipop/orbis/Lollipop_MAIN_SCENE_ORBIS.zip/599bb649dd0a37a634c9a30f718eae97.zip"
+    }
+  },
+  "data": {
+    "mapName": "Lollipop",
+    "title": "Lollipop",
+    "originalJDVersion": 3,
+    "tags": [
+      "subscribedSong",
+      "JustDance3",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "MIKA",
+    "credits": "Written by Michael Holbrook Penniman. Published by Universal Music Publishing Group a division of Universal Music Canada Inc. Courtesy of Universal Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#8000dc",
+    "songColor2A": "#fa8623",
+    "songColor1B": "#0a012a",
+    "songColor2B": "#4c0467",
+    "lyricsColor": "#63deb1",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        37612,
+        75224,
+        112838,
+        142837,
+        172837,
+        202836,
+        232835,
+        262835,
+        292834,
+        322834,
+        352833,
+        382833,
+        412832,
+        442832,
+        472831,
+        503248,
+        533666,
+        562829,
+        592829,
+        623246,
+        653594,
+        682827,
+        712827,
+        742826,
+        772826,
+        802825,
+        832825,
+        862824,
+        892823,
+        922823,
+        952822,
+        982822,
+        1012821,
+        1042821,
+        1072820,
+        1102820,
+        1132819,
+        1162819,
+        1192818,
+        1224034,
+        1253653,
+        1282816,
+        1312816,
+        1342815,
+        1372815,
+        1402814,
+        1432814,
+        1462813,
+        1492813
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 299,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Lollipop/Lollipop_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Lollipop/nx/Lollipop_banner_bkg.tga.ckd/2bab39a1320f69f980ab4b0164323ce6.ckd",
+      "map_bkgImageUrl": "/public/map/Lollipop/nx/Lollipop_map_bkg.tga.ckd/24014045ea01585702d5c424a7d9c55d.ckd",
+      "expandCoachImageUrl": "/public/map/Lollipop/nx/Lollipop_Cover_AlbumCoach.tga.ckd/12e6a296a11f7d1f9e2254e3948b1aa5.ckd",
+      "cover_smallImageUrl": "/public/map/Lollipop/nx/Lollipop_Cover_Online.tga.ckd/f0655030b53cb4eab88e2e06bd3f7bd0.ckd",
+      "coverImageUrl": "/public/map/Lollipop/nx/Lollipop_Cover_Generic.tga.ckd/92cebd73e8e28082f9de8b54cae7847d.ckd",
+      "coach1ImageUrl": "/public/map/Lollipop/nx/Lollipop_Coach_1.tga.ckd/37977e8ed38d4b95e164d4fd21d12e0a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Lollipop/pc/Lollipop_banner_bkg.tga.ckd/d3b735eca4f8b6389bf9f7f38ad998df.ckd",
+      "map_bkgImageUrl": "/public/map/Lollipop/pc/Lollipop_map_bkg.tga.ckd/81fb0fed0f9b4f28d4cb3c0a7ff749a5.ckd",
+      "expandCoachImageUrl": "/public/map/Lollipop/pc/Lollipop_Cover_AlbumCoach.tga.ckd/f29154a9d16ecc2658468d83c32a3003.ckd",
+      "cover_smallImageUrl": "/public/map/Lollipop/pc/Lollipop_Cover_Online.tga.ckd/0eccc8965019913df53eb485da8804c6.ckd",
+      "coverImageUrl": "/public/map/Lollipop/pc/Lollipop_Cover_Generic.tga.ckd/2819326aee133d5cd63084b264430948.ckd",
+      "coach1ImageUrl": "/public/map/Lollipop/pc/Lollipop_Coach_1.tga.ckd/18372b6f893a272b336b9a80933d1069.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Lollipop/orbis/Lollipop_banner_bkg.tga.ckd/d3b735eca4f8b6389bf9f7f38ad998df.ckd",
+      "map_bkgImageUrl": "/public/map/Lollipop/orbis/Lollipop_map_bkg.tga.ckd/81fb0fed0f9b4f28d4cb3c0a7ff749a5.ckd",
+      "expandCoachImageUrl": "/public/map/Lollipop/orbis/Lollipop_Cover_AlbumCoach.tga.ckd/f29154a9d16ecc2658468d83c32a3003.ckd",
+      "cover_smallImageUrl": "/public/map/Lollipop/orbis/Lollipop_Cover_Online.tga.ckd/0eccc8965019913df53eb485da8804c6.ckd",
+      "coverImageUrl": "/public/map/Lollipop/orbis/Lollipop_Cover_Generic.tga.ckd/2819326aee133d5cd63084b264430948.ckd",
+      "coach1ImageUrl": "/public/map/Lollipop/orbis/Lollipop_Coach_1.tga.ckd/18372b6f893a272b336b9a80933d1069.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Lollipop/Lollipop_Coach_1_Phone.png/b261936dea9f2df38e61719dd1c8458c.png",
+    "phoneCoverImageUrl": "/public/map/Lollipop/Lollipop_Cover_Phone.jpg/8fa8330eb0b4504098573836d5bc3674.jpg",
+    "cover640ImageUrl": "/public/map/Lollipop/Lollipop_Cover_640.png/726384452ac8c59c7ccb4ca34920e22c.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Lollipop/Lollipop.ogg": "/private/map/Lollipop/Lollipop.ogg/e359138a2077e922a98486b5b00234d6.ogg",
+    "jmcs://jd-contents/Lollipop/Lollipop_AudioPreview.ogg": "/public/map/Lollipop/Lollipop_AudioPreview.ogg/c7ba60b9ef66e793684c90e4c2fe96df.ogg",
+    "jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Lollipop/Lollipop_MapPreviewNoSoundCrop_LOW.vp8.webm/29fcce74852dea34119600a51bcf1764.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_HIGH.webm": "/private/map/Lollipop/Lollipop_HIGH.webm/b86539adb3e21a12d3918b29ba8c986b.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_LOW.webm": "/private/map/Lollipop/Lollipop_LOW.webm/3b3c9d1ed86489375bb4afe5120842f0.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_MID.webm": "/private/map/Lollipop/Lollipop_MID.webm/ab502c453b00f615c0ffcf79a39913c7.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_ULTRA.hd.webm": "/private/map/Lollipop/Lollipop_ULTRA.hd.webm/58670e0b59e9fa9d1f7341470b6e3171.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_ULTRA.webm": "/private/map/Lollipop/Lollipop_ULTRA.webm/817f54f6a14f0943e867d8eda09d55a7.webm",
+    "jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Lollipop/Lollipop_MapPreviewNoSoundCrop_MID.vp8.webm/33a4c102d6b266d48f7ff7e8926799a4.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497434\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\n\t\t\t\t\t<Initialization range=\"0-629\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1471458\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Lollipop/Lollipop_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\n\t\t\t\t\t<Initialization range=\"0-630\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 187.574875
+}

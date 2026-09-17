@@ -1,0 +1,161 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ea4d5d8b9d955533aeb5dae5481dc0bf",
+      "storageType": 0,
+      "url": "/public/map/ItsMyBirthdayALT/nx/ItsMyBirthdayALT_MAIN_SCENE_NX.zip/ea4d5d8b9d955533aeb5dae5481dc0bf.zip"
+    },
+    "pc": {
+      "md5": "78551476bb2114449d8b67e7aaed393d",
+      "storageType": 0,
+      "url": "/public/map/ItsMyBirthdayALT/pc/ItsMyBirthdayALT_MAIN_SCENE_PC.zip/78551476bb2114449d8b67e7aaed393d.zip"
+    },
+    "ps4": {
+      "md5": "c036413f112f0aac6a5b8c5d056fde1f",
+      "storageType": 0,
+      "url": "/public/map/ItsMyBirthdayALT/orbis/ItsMyBirthdayALT_MAIN_SCENE_ORBIS.zip/c036413f112f0aac6a5b8c5d056fde1f.zip"
+    }
+  },
+  "data": {
+    "mapName": "ItsMyBirthdayALT",
+    "title": "It's My Birthday",
+    "originalJDVersion": 2015,
+    "tags": [
+      "Main"
+    ],
+    "artist": "will.i.am Ft. Cody Wise",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#119bbe"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 344,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ItsMyBirthdayALT/nx/ItsMyBirthdayALT_banner_bkg.tga.ckd/dfb79bd79794fa3cfa3b16b74898a83f.ckd",
+      "map_bkgImageUrl": "/public/map/ItsMyBirthdayALT/nx/ItsMyBirthdayALT_map_bkg.tga.ckd/38728215b4f52f28e18052c5e6d6eaac.ckd",
+      "expandCoachImageUrl": "/public/map/ItsMyBirthdayALT/nx/ItsMyBirthdayALT_Cover_AlbumCoach.tga.ckd/1343e79185c673033ac4b47aba761b1e.ckd",
+      "cover_smallImageUrl": "/public/map/ItsMyBirthdayALT/nx/ItsMyBirthdayALT_Cover_Online.tga.ckd/b217c7cc74c8027727bfa2382fabe4e8.ckd",
+      "coach1ImageUrl": "/public/map/ItsMyBirthdayALT/nx/ItsMyBirthdayALT_Coach_1.tga.ckd/e87f41aab85f0c26250c9964e740f284.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ItsMyBirthdayALT/pc/ItsMyBirthdayALT_banner_bkg.tga.ckd/16940c91bcacf38d7f8b799766124d68.ckd",
+      "map_bkgImageUrl": "/public/map/ItsMyBirthdayALT/pc/ItsMyBirthdayALT_map_bkg.tga.ckd/f43ba546366745442b97df47c8a9ea8d.ckd",
+      "expandCoachImageUrl": "/public/map/ItsMyBirthdayALT/pc/ItsMyBirthdayALT_Cover_AlbumCoach.tga.ckd/f25678af1818c93e8a95d93f4e7ee19f.ckd",
+      "cover_smallImageUrl": "/public/map/ItsMyBirthdayALT/pc/ItsMyBirthdayALT_Cover_Online.tga.ckd/f916119bff8cf439b55d3fd93435c410.ckd",
+      "coach1ImageUrl": "/public/map/ItsMyBirthdayALT/pc/ItsMyBirthdayALT_Coach_1.tga.ckd/9fb7256e09288884dba78079f15ebc6c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ItsMyBirthdayALT/orbis/ItsMyBirthdayALT_banner_bkg.tga.ckd/16940c91bcacf38d7f8b799766124d68.ckd",
+      "map_bkgImageUrl": "/public/map/ItsMyBirthdayALT/orbis/ItsMyBirthdayALT_map_bkg.tga.ckd/f43ba546366745442b97df47c8a9ea8d.ckd",
+      "expandCoachImageUrl": "/public/map/ItsMyBirthdayALT/orbis/ItsMyBirthdayALT_Cover_AlbumCoach.tga.ckd/f25678af1818c93e8a95d93f4e7ee19f.ckd",
+      "cover_smallImageUrl": "/public/map/ItsMyBirthdayALT/orbis/ItsMyBirthdayALT_Cover_Online.tga.ckd/f916119bff8cf439b55d3fd93435c410.ckd",
+      "coach1ImageUrl": "/public/map/ItsMyBirthdayALT/orbis/ItsMyBirthdayALT_Coach_1.tga.ckd/9fb7256e09288884dba78079f15ebc6c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ItsMyBirthdayALT/ItsMyBirthdayALT_Coach_1_Phone.png/d6a71829adb9cbf8da32512b064943bf.png",
+    "phoneCoverImageUrl": "/public/map/ItsMyBirthdayALT/ItsMyBirthdayALT_Cover_Phone.jpg/eff4c5b528f6519f1e911633361914b9.jpg",
+    "cover640ImageUrl": "/public/map/ItsMyBirthdayALT/ItsMyBirthdayALT_Cover_640.png/9bf6a927ccc03f7445d44d2fc9fd0d16.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT.ogg": "/private/map/ItsMyBirthdayALT/ItsMyBirthdayALT.ogg/57cb1ece176bdc3b3566a872301dc8fb.ogg",
+    "jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT_AudioPreview.ogg": "/public/map/ItsMyBirthdayALT/ItsMyBirthdayALT_AudioPreview.ogg/eeec45f8d8e944c598efd096ce785add.ogg",
+    "jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT_HIGH.webm": "/private/map/ItsMyBirthdayALT/ItsMyBirthdayALT_HIGH.webm/e497ec714b3bb82f7bd641b1e0ac7b53.webm",
+    "jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT_LOW.webm": "/private/map/ItsMyBirthdayALT/ItsMyBirthdayALT_LOW.webm/5dbd13ca692262ec13886a53d34cd42e.webm",
+    "jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT_MID.webm": "/private/map/ItsMyBirthdayALT/ItsMyBirthdayALT_MID.webm/5f9a2267c4db458624a2b7bbbef452d9.webm",
+    "jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT_ULTRA.hd.webm": "/private/map/ItsMyBirthdayALT/ItsMyBirthdayALT_ULTRA.hd.webm/be49d79c76924663907882ccf68d17ea.webm",
+    "jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT_ULTRA.webm": "/private/map/ItsMyBirthdayALT/ItsMyBirthdayALT_ULTRA.webm/1c3d07dc24d51da7ce43b955729dac76.webm",
+    "jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ItsMyBirthdayALT/ItsMyBirthdayALT_MapPreviewNoSoundCrop_LOW.vp8.webm/ef1f81ea133c68a9c4ec9d459d92d15a.webm",
+    "jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ItsMyBirthdayALT/ItsMyBirthdayALT_MapPreviewNoSoundCrop_MID.vp8.webm/c1c076201d42e28d4226385893573384.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"506409\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"642-1132\">\n\t\t\t\t\t<Initialization range=\"0-642\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482484\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ItsMyBirthdayALT/ItsMyBirthdayALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\n\t\t\t\t\t<Initialization range=\"0-643\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 208.800042
+}

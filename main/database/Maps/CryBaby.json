@@ -1,0 +1,161 @@
+{
+  "urls": {
+    "jmcs://jd-contents/CryBaby/CryBaby.ogg": "/private/map/CryBaby/CryBaby.ogg/274c49ac3a9f36f61a0b3be4e2620730.ogg",
+    "jmcs://jd-contents/CryBaby/CryBaby_AudioPreview.ogg": "/public/map/CryBaby/CryBaby_AudioPreview.ogg/3b175cb7745f0f7a789691953c78ebff.ogg",
+    "jmcs://jd-contents/CryBaby/CryBaby_HIGH.hd.webm": "/private/map/CryBaby/CryBaby_HIGH.hd.webm/2f9b0b68a062d52b8014535f4e06249e.webm",
+    "jmcs://jd-contents/CryBaby/CryBaby_LOW.hd.webm": "/private/map/CryBaby/CryBaby_LOW.hd.webm/4d13323f62e41c04ccecd04de5519129.webm",
+    "jmcs://jd-contents/CryBaby/CryBaby_MID.hd.webm": "/private/map/CryBaby/CryBaby_MID.hd.webm/b48c824d048d8e1126cb80b498426a15.webm",
+    "jmcs://jd-contents/CryBaby/CryBaby_ULTRA.hd.webm": "/private/map/CryBaby/CryBaby_ULTRA.hd.webm/9df076d061c8cc7756e053e0aeb02640.webm",
+    "jmcs://jd-contents/CryBaby/CryBaby_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CryBaby/CryBaby_MapPreviewNoSoundCrop_LOW.vp8.webm/7bbeb6f23dfdd38697176273dfc3444d.webm",
+    "jmcs://jd-contents/CryBaby/CryBaby_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CryBaby/CryBaby_MapPreviewNoSoundCrop_MID.vp8.webm/fe18e6371c7503af076e4c2073a4ae82.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30316,
+        60632,
+        90947,
+        121263,
+        151579,
+        181895,
+        212211,
+        242526,
+        272842,
+        303158,
+        333474,
+        363789,
+        394105,
+        424421,
+        454737,
+        485053,
+        515368,
+        545684,
+        576000,
+        606316,
+        636632,
+        666947,
+        697263,
+        727579,
+        757895,
+        788211,
+        818526,
+        848842,
+        879158,
+        909474,
+        939789,
+        970105,
+        1000421,
+        1030737,
+        1061053,
+        1091368,
+        1121684,
+        1152000,
+        1182316,
+        1212632,
+        1242947,
+        1273263,
+        1303579,
+        1333895,
+        1364211,
+        1394526,
+        1424842,
+        1455158,
+        1485474
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 381,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CryBaby/CryBaby_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"491249\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CryBaby/CryBaby_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1809425\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CryBaby/CryBaby_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "e395365120a2faf3c7b882fbb1746116",
+      "storageType": 0,
+      "url": "/public/map/CryBaby/nx/CryBaby_MAIN_SCENE_NX.zip/e395365120a2faf3c7b882fbb1746116.zip"
+    },
+    "pc": {
+      "md5": "5f266b0eaa06e9d1c225ee54030100e0",
+      "storageType": 0,
+      "url": "/public/map/CryBaby/pc/CryBaby_MAIN_SCENE_PC.zip/5f266b0eaa06e9d1c225ee54030100e0.zip"
+    },
+    "ps4": {
+      "md5": "ef5c5c9fe2aa95530b67ab7b739dc51e",
+      "storageType": 0,
+      "url": "/public/map/CryBaby/orbis/CryBaby_MAIN_SCENE_ORBIS.zip/ef5c5c9fe2aa95530b67ab7b739dc51e.zip"
+    }
+  },
+  "data": {
+    "mapName": "CryBaby",
+    "title": "Cry Baby",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Melanie Martinez",
+    "credits": "Performed by Melanie Martinez \nCourtesy of Atlantic Recording Corp. By arrangement with Warner Music Group Film & TV Licensing",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#232de8",
+    "songColor2A": "#faa1f1",
+    "songColor1B": "#000003",
+    "songColor2B": "#1e1a94",
+    "lyricsColor": "#8fb3ff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CryBaby/nx/CryBaby_banner_bkg.tga.ckd/a9db6c8ddcc30cbd4ae99b1bcd1458b2.ckd",
+      "map_bkgImageUrl": "/public/map/CryBaby/nx/CryBaby_map_bkg.tga.ckd/244486ace8b7a6f9703b1cfd4f3f58ca.ckd",
+      "expandCoachImageUrl": "/public/map/CryBaby/nx/CryBaby_Cover_AlbumCoach.tga.ckd/ba2e70e590ac61e9c114e4753c90e0ac.ckd",
+      "cover_smallImageUrl": "/public/map/CryBaby/nx/CryBaby_Cover_Online.tga.ckd/c4ab1f0e71d81048f1a84d97ba03577e.ckd",
+      "coverImageUrl": "/public/map/CryBaby/nx/CryBaby_Cover_Generic.tga.ckd/5cc78708b0d8e8a4be2aae0a8565d7cd.ckd",
+      "coach1ImageUrl": "/public/map/CryBaby/nx/CryBaby_Coach_1.tga.ckd/d222d05f26f42bdef87722ba521396c1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CryBaby/pc/CryBaby_banner_bkg.tga.ckd/75dfd5034562c8ece562a18052869385.ckd",
+      "map_bkgImageUrl": "/public/map/CryBaby/pc/CryBaby_map_bkg.tga.ckd/72f6a8b12edd45268abfa01c50b2a172.ckd",
+      "expandCoachImageUrl": "/public/map/CryBaby/pc/CryBaby_Cover_AlbumCoach.tga.ckd/0db15386a47758b89fe429c0737afab7.ckd",
+      "cover_smallImageUrl": "/public/map/CryBaby/pc/CryBaby_Cover_Online.tga.ckd/2ae4c1b813840d78a053a283c873c0b8.ckd",
+      "coverImageUrl": "/public/map/CryBaby/pc/CryBaby_Cover_Generic.tga.ckd/e93e4511f28945526f39c7bb45ec7a31.ckd",
+      "coach1ImageUrl": "/public/map/CryBaby/pc/CryBaby_Coach_1.tga.ckd/a0b9d2f0f1fb31de4aa55b233b58a17a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CryBaby/orbis/CryBaby_banner_bkg.tga.ckd/75dfd5034562c8ece562a18052869385.ckd",
+      "map_bkgImageUrl": "/public/map/CryBaby/orbis/CryBaby_map_bkg.tga.ckd/72f6a8b12edd45268abfa01c50b2a172.ckd",
+      "expandCoachImageUrl": "/public/map/CryBaby/orbis/CryBaby_Cover_AlbumCoach.tga.ckd/0db15386a47758b89fe429c0737afab7.ckd",
+      "cover_smallImageUrl": "/public/map/CryBaby/orbis/CryBaby_Cover_Online.tga.ckd/2ae4c1b813840d78a053a283c873c0b8.ckd",
+      "coverImageUrl": "/public/map/CryBaby/orbis/CryBaby_Cover_Generic.tga.ckd/e93e4511f28945526f39c7bb45ec7a31.ckd",
+      "coach1ImageUrl": "/public/map/CryBaby/orbis/CryBaby_Coach_1.tga.ckd/a0b9d2f0f1fb31de4aa55b233b58a17a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CryBaby/CryBaby_Coach_1_Phone.png/2a10cc6d19a998e77fe6388903898506.png",
+    "phoneCoverImageUrl": "/public/map/CryBaby/CryBaby_Cover_Phone.jpg/1859f7da0cb63288d6b76d3abfb62d7f.jpg",
+    "cover640ImageUrl": "/public/map/CryBaby/CryBaby_Cover_640.png/e6678a65f9902e80deea34efc5057518.png"
+  },
+  "mapLength": 243.164396
+}

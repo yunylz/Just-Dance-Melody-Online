@@ -1,0 +1,175 @@
+{
+  "urls": {
+    "jmcs://jd-contents/PoundTheAlarmMU/PoundTheAlarmMU.ogg": "/private/map/PoundTheAlarmMU/PoundTheAlarmMU.ogg/99e9fd2aad850bc09b397424aa824af0.ogg",
+    "jmcs://jd-contents/PoundTheAlarmMU/PoundTheAlarmMU_AudioPreview.ogg": "/public/map/PoundTheAlarmMU/PoundTheAlarmMU_AudioPreview.ogg/f410d604fde889f016fb164847885152.ogg",
+    "jmcs://jd-contents/PoundTheAlarmMU/PoundTheAlarmMU_HIGH.hd.webm": "/private/map/PoundTheAlarmMU/PoundTheAlarmMU_HIGH.hd.webm/3137da522748aa5e97e1877562b7f2de.webm",
+    "jmcs://jd-contents/PoundTheAlarmMU/PoundTheAlarmMU_LOW.hd.webm": "/private/map/PoundTheAlarmMU/PoundTheAlarmMU_LOW.hd.webm/e5122d5d0cc9570d79dae09c72d42009.webm",
+    "jmcs://jd-contents/PoundTheAlarmMU/PoundTheAlarmMU_MID.hd.webm": "/private/map/PoundTheAlarmMU/PoundTheAlarmMU_MID.hd.webm/65687da0a36096898c1433242d9273ff.webm",
+    "jmcs://jd-contents/PoundTheAlarmMU/PoundTheAlarmMU_ULTRA.hd.webm": "/private/map/PoundTheAlarmMU/PoundTheAlarmMU_ULTRA.hd.webm/7448a1c864c33bb6b9aaf00b4d33494b.webm",
+    "jmcs://jd-contents/PoundTheAlarmMU/PoundTheAlarmMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PoundTheAlarmMU/PoundTheAlarmMU_MapPreviewNoSoundCrop_LOW.vp8.webm/40c55689d340829f998fc3523b86d615.webm",
+    "jmcs://jd-contents/PoundTheAlarmMU/PoundTheAlarmMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PoundTheAlarmMU/PoundTheAlarmMU_MapPreviewNoSoundCrop_MID.vp8.webm/37b371352f3a0a0d06bf894f4ba4ff7a.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253440,
+        276480,
+        299520,
+        322560,
+        345600,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506880,
+        529920,
+        552960,
+        576000,
+        599040,
+        622080,
+        645120,
+        668160,
+        691200,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852480,
+        875520,
+        898560,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013760,
+        1036800,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198080,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382400,
+        1405440,
+        1428480,
+        1451520,
+        1474560
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 433,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PoundTheAlarmMU/PoundTheAlarmMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PoundTheAlarmMU/nx/PoundTheAlarmMU_banner_bkg.tga.ckd/f37232aa3ac63dfdb765f984960383ba.ckd",
+      "map_bkgImageUrl": "/public/map/PoundTheAlarmMU/nx/PoundTheAlarmMU_map_bkg.tga.ckd/2876c8c308dd5b7c3289fcaadcfbb746.ckd",
+      "expandCoachImageUrl": "/public/map/PoundTheAlarmMU/nx/PoundTheAlarmMU_Cover_AlbumCoach.tga.ckd/8d8d6f6dbd1af1d3a3ffdc837c84f7ba.ckd",
+      "cover_smallImageUrl": "/public/map/PoundTheAlarmMU/nx/PoundTheAlarmMU_Cover_Online.tga.ckd/2083de51d6cd8f52dacf91ce2065f123.ckd",
+      "coverImageUrl": "/public/map/PoundTheAlarmMU/nx/PoundTheAlarmMU_Cover_Generic.tga.ckd/602e720a742c402da21f8510ad128b94.ckd",
+      "coach1ImageUrl": "/public/map/PoundTheAlarmMU/nx/PoundTheAlarmMU_Coach_1.tga.ckd/f282298638b80dda1bff58e8261f8695.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PoundTheAlarmMU/pc/PoundTheAlarmMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/PoundTheAlarmMU/pc/PoundTheAlarmMU_map_bkg.tga.ckd/91487f0ac9d47e70605faba8e69f998d.ckd",
+      "expandCoachImageUrl": "/public/map/PoundTheAlarmMU/pc/PoundTheAlarmMU_Cover_AlbumCoach.tga.ckd/933337a31dce0421391f2156288292c8.ckd",
+      "cover_smallImageUrl": "/public/map/PoundTheAlarmMU/pc/PoundTheAlarmMU_Cover_Online.tga.ckd/9a0f858f2e3b9c0b057643537c40a30e.ckd",
+      "coverImageUrl": "/public/map/PoundTheAlarmMU/pc/PoundTheAlarmMU_Cover_Generic.tga.ckd/e2688a82c40e43944d996bb6b632a7c1.ckd",
+      "coach1ImageUrl": "/public/map/PoundTheAlarmMU/pc/PoundTheAlarmMU_Coach_1.tga.ckd/392aa397d958151264bf27e0bd5d1876.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PoundTheAlarmMU/orbis/PoundTheAlarmMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/PoundTheAlarmMU/orbis/PoundTheAlarmMU_map_bkg.tga.ckd/91487f0ac9d47e70605faba8e69f998d.ckd",
+      "expandCoachImageUrl": "/public/map/PoundTheAlarmMU/orbis/PoundTheAlarmMU_Cover_AlbumCoach.tga.ckd/933337a31dce0421391f2156288292c8.ckd",
+      "cover_smallImageUrl": "/public/map/PoundTheAlarmMU/orbis/PoundTheAlarmMU_Cover_Online.tga.ckd/9a0f858f2e3b9c0b057643537c40a30e.ckd",
+      "coverImageUrl": "/public/map/PoundTheAlarmMU/orbis/PoundTheAlarmMU_Cover_Generic.tga.ckd/e2688a82c40e43944d996bb6b632a7c1.ckd",
+      "coach1ImageUrl": "/public/map/PoundTheAlarmMU/orbis/PoundTheAlarmMU_Coach_1.tga.ckd/392aa397d958151264bf27e0bd5d1876.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PoundTheAlarmMU/PoundTheAlarmMU_Coach_1_Phone.png/07ebcc76372fcf89111914afae539363.png",
+    "phoneCoverImageUrl": "/public/map/PoundTheAlarmMU/PoundTheAlarmMU_Cover_Phone.jpg/7789618f601b67f43fa6470893ccd0d3.jpg",
+    "cover640ImageUrl": "/public/map/PoundTheAlarmMU/PoundTheAlarmMU_Cover_640.png/4eb2834ad242ffb210ffc30c92dc85da.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "e12702afb18f90dc0d14985391ee223f",
+      "storageType": 0,
+      "url": "/public/map/PoundTheAlarmMU/nx/PoundTheAlarmMU_MAIN_SCENE_NX.zip/e12702afb18f90dc0d14985391ee223f.zip"
+    },
+    "pc": {
+      "md5": "9005509b7010f2deb1b7a6515ca2757a",
+      "storageType": 0,
+      "url": "/public/map/PoundTheAlarmMU/pc/PoundTheAlarmMU_MAIN_SCENE_PC.zip/9005509b7010f2deb1b7a6515ca2757a.zip"
+    },
+    "ps4": {
+      "md5": "a4ded57effc30e93054f82724960265e",
+      "storageType": 0,
+      "url": "/public/map/PoundTheAlarmMU/orbis/PoundTheAlarmMU_MAIN_SCENE_ORBIS.zip/a4ded57effc30e93054f82724960265e.zip"
+    }
+  },
+  "data": {
+    "mapName": "PoundTheAlarmMU",
+    "title": "Pound The Alarm",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Nicki Minaj",
+    "credits": "Written by Achraf Jannusi (STIM), Bilal Hajji (STIM), Nadir Khayat (BMI), Rami Yacoub (STIM), Onika Tanya Maraj, Carl Anthony Falk.  Published by 2101 Songs (BMI) / Songs of Redone (BMI) / Sony/ATV Music Publishing Canada (SOCAN) / Universal Music Publishing Group a division of Universal Music Canada Inc. / BMG Chrysalis Scandinavia AB (STIM) c/o BMG Rights Management (US) LLC. All Rights Reserved. Used With Permission. Courtesy of Cash Money Records/Universal Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#de6a00",
+    "songColor2A": "#b90038",
+    "songColor1B": "#5f003b",
+    "songColor2B": "#2a0000",
+    "lyricsColor": "#f8af1b",
+    "LocaleID": 8605
+  },
+  "mapLength": 206.4
+}

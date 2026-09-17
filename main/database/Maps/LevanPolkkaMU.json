@@ -1,0 +1,177 @@
+{
+  "urls": {
+    "jmcs://jd-contents/LevanPolkkaMU/LevanPolkkaMU_HIGH.hd.webm": "/private/map/LevanPolkkaMU/LevanPolkkaMU_HIGH.hd.webm/922509f9f91958561ad1d43975705fe1.webm",
+    "jmcs://jd-contents/LevanPolkkaMU/LevanPolkkaMU_LOW.hd.webm": "/private/map/LevanPolkkaMU/LevanPolkkaMU_LOW.hd.webm/3dd938539ab115b8fe483551b2fb23d5.webm",
+    "jmcs://jd-contents/LevanPolkkaMU/LevanPolkkaMU_MID.hd.webm": "/private/map/LevanPolkkaMU/LevanPolkkaMU_MID.hd.webm/490af41be8bbc2c133c86e3e403796c8.webm",
+    "jmcs://jd-contents/LevanPolkkaMU/LevanPolkkaMU_ULTRA.hd.webm": "/private/map/LevanPolkkaMU/LevanPolkkaMU_ULTRA.hd.webm/409883c1af0fd999d142ff21c3d4130c.webm",
+    "jmcs://jd-contents/LevanPolkkaMU/LevanPolkkaMU.ogg": "/private/map/LevanPolkkaMU/LevanPolkkaMU.ogg/48f5461647a76a7d61dc0b535a46089b.ogg",
+    "jmcs://jd-contents/LevanPolkkaMU/LevanPolkkaMU_AudioPreview.ogg": "/public/map/LevanPolkkaMU/LevanPolkkaMU_AudioPreview.ogg/a426d478b001a894687666ea00b29aca.ogg",
+    "jmcs://jd-contents/LevanPolkkaMU/LevanPolkkaMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LevanPolkkaMU/LevanPolkkaMU_MapPreviewNoSoundCrop_LOW.vp8.webm/15302b3a656703e42f669a919a31e3b7.webm",
+    "jmcs://jd-contents/LevanPolkkaMU/LevanPolkkaMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LevanPolkkaMU/LevanPolkkaMU_MapPreviewNoSoundCrop_MID.vp8.webm/e9014daff0a71109dab95f41c29d8edb.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24192,
+        48384,
+        72624,
+        96816,
+        121008,
+        145200,
+        169392,
+        193632,
+        217824,
+        242016,
+        266208,
+        290400,
+        314640,
+        338832,
+        363024,
+        387216,
+        411408,
+        435648,
+        459841,
+        484033,
+        508225,
+        532417,
+        556657,
+        580849,
+        605041,
+        629233,
+        653425,
+        677665,
+        701857,
+        726049,
+        750241,
+        774433,
+        798673,
+        822865,
+        847057,
+        871249,
+        895441,
+        919682,
+        943874,
+        968066,
+        992258,
+        1016450,
+        1040690,
+        1064882,
+        1089074,
+        1113266,
+        1137458,
+        1161698,
+        1185890,
+        1210082,
+        1234274,
+        1258466,
+        1282706,
+        1306898,
+        1331090,
+        1355282,
+        1379475,
+        1403715,
+        1427907,
+        1452099,
+        1476291
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 299,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LevanPolkkaMU/LevanPolkkaMU_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"750999\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LevanPolkkaMU/LevanPolkkaMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1984136\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LevanPolkkaMU/LevanPolkkaMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "6428f80d869101ff03b0fc24d6c5abf2",
+      "storageType": 0,
+      "url": "/public/map/LevanPolkkaMU/nx/LevanPolkkaMU_MAIN_SCENE_NX.zip/6428f80d869101ff03b0fc24d6c5abf2.zip"
+    },
+    "pc": {
+      "md5": "1b77bdab015b2343bb2d3578ae31c9dd",
+      "storageType": 0,
+      "url": "/public/map/LevanPolkkaMU/pc/LevanPolkkaMU_MAIN_SCENE_PC.zip/1b77bdab015b2343bb2d3578ae31c9dd.zip"
+    },
+    "ps4": {
+      "md5": "8a91489d7283ed8e9ff149d6e506622c",
+      "storageType": 0,
+      "url": "/public/map/LevanPolkkaMU/orbis/LevanPolkkaMU_MAIN_SCENE_ORBIS.zip/8a91489d7283ed8e9ff149d6e506622c.zip"
+    }
+  },
+  "data": {
+    "mapName": "LevanPolkkaMU",
+    "title": "Ievan Polkka",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "Hatsune Miku",
+    "credits": "Ievan Polkka Ft. Hatsune Miku, Arrangement and Lyrics by Otomania. Based on ''Ievan Polkka'' by Eino Kettunen. © Crypton Future Media, INC. www.piapro.net",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#49ff7c",
+    "songColor2A": "#f900ff",
+    "songColor1B": "#003f2a",
+    "songColor2B": "#100022",
+    "lyricsColor": "#6eeb89",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LevanPolkkaMU/nx/LevanPolkkaMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/LevanPolkkaMU/nx/LevanPolkkaMU_map_bkg.tga.ckd/62caa21a1fb208e135ea5fd83d3705ba.ckd",
+      "expandCoachImageUrl": "/public/map/LevanPolkkaMU/nx/LevanPolkkaMU_Cover_AlbumCoach.tga.ckd/940507e441e9036e1a873608c11ed1b8.ckd",
+      "cover_smallImageUrl": "/public/map/LevanPolkkaMU/nx/LevanPolkkaMU_Cover_Online.tga.ckd/3847db9ba6723f50901e2f910fdc4edf.ckd",
+      "coverImageUrl": "/public/map/LevanPolkkaMU/nx/LevanPolkkaMU_Cover_Generic.tga.ckd/98655388e8856fb6350fbad48db76be3.ckd",
+      "coach1ImageUrl": "/public/map/LevanPolkkaMU/nx/LevanPolkkaMU_Coach_1.tga.ckd/5cd284e5977a25e7994cfe5f58a0c1f9.ckd",
+      "coach2ImageUrl": "/public/map/LevanPolkkaMU/nx/LevanPolkkaMU_Coach_2.tga.ckd/4a495102353360bf06a8362e161c6452.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LevanPolkkaMU/pc/LevanPolkkaMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/LevanPolkkaMU/pc/LevanPolkkaMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/LevanPolkkaMU/pc/LevanPolkkaMU_Cover_AlbumCoach.tga.ckd/465c3d0439f09737f7ccea4d359eb701.ckd",
+      "cover_smallImageUrl": "/public/map/LevanPolkkaMU/pc/LevanPolkkaMU_Cover_Online.tga.ckd/8e5bc646b64bfcbff79366786924953a.ckd",
+      "coverImageUrl": "/public/map/LevanPolkkaMU/pc/LevanPolkkaMU_Cover_Generic.tga.ckd/66c102d7a177c3e32849c32e2bbc7cbc.ckd",
+      "coach1ImageUrl": "/public/map/LevanPolkkaMU/pc/LevanPolkkaMU_Coach_1.tga.ckd/d6b99b1f92754e8c2951c24c3319d893.ckd",
+      "coach2ImageUrl": "/public/map/LevanPolkkaMU/pc/LevanPolkkaMU_Coach_2.tga.ckd/73cf9f7325b20bf6d06c962972f77afd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LevanPolkkaMU/orbis/LevanPolkkaMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/LevanPolkkaMU/orbis/LevanPolkkaMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/LevanPolkkaMU/orbis/LevanPolkkaMU_Cover_AlbumCoach.tga.ckd/465c3d0439f09737f7ccea4d359eb701.ckd",
+      "cover_smallImageUrl": "/public/map/LevanPolkkaMU/orbis/LevanPolkkaMU_Cover_Online.tga.ckd/8e5bc646b64bfcbff79366786924953a.ckd",
+      "coverImageUrl": "/public/map/LevanPolkkaMU/orbis/LevanPolkkaMU_Cover_Generic.tga.ckd/66c102d7a177c3e32849c32e2bbc7cbc.ckd",
+      "coach1ImageUrl": "/public/map/LevanPolkkaMU/orbis/LevanPolkkaMU_Coach_1.tga.ckd/d6b99b1f92754e8c2951c24c3319d893.ckd",
+      "coach2ImageUrl": "/public/map/LevanPolkkaMU/orbis/LevanPolkkaMU_Coach_2.tga.ckd/73cf9f7325b20bf6d06c962972f77afd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LevanPolkkaMU/LevanPolkkaMU_Coach_1_Phone.png/ec6464a130125cc535704607753dfa5d.png",
+    "phoneCoach2ImageUrl": "/public/map/LevanPolkkaMU/LevanPolkkaMU_Coach_2_Phone.png/dd43f6e9ac2ee54b32ef764de91d238c.png",
+    "phoneCoverImageUrl": "/public/map/LevanPolkkaMU/LevanPolkkaMU_Cover_Phone.jpg/d986aed2838f6f21d43ca734a49ddf54.jpg",
+    "cover640ImageUrl": "/public/map/LevanPolkkaMU/LevanPolkkaMU_Cover_640.png/85f473a47d53960f89c9d44ab2420a18.png"
+  },
+  "mapLength": 150.756333
+}

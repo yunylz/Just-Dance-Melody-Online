@@ -1,0 +1,161 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8c23977ecc4aef8c2b10f0626b8eec06",
+      "storageType": 0,
+      "url": "/public/map/HeavyRotation/nx/HeavyRotation_MAIN_SCENE_NX.zip/8c23977ecc4aef8c2b10f0626b8eec06.zip"
+    },
+    "pc": {
+      "md5": "5df2b17051955b9ee9ebc2fe0f1f6c99",
+      "storageType": 0,
+      "url": "/public/map/HeavyRotation/pc/HeavyRotation_MAIN_SCENE_PC.zip/5df2b17051955b9ee9ebc2fe0f1f6c99.zip"
+    },
+    "ps4": {
+      "md5": "545f167904cd1d3fe25ddf5b3801a2c4",
+      "storageType": 0,
+      "url": "/public/map/HeavyRotation/orbis/HeavyRotation_MAIN_SCENE_ORBIS.zip/545f167904cd1d3fe25ddf5b3801a2c4.zip"
+    }
+  },
+  "data": {
+    "mapName": "HeavyRotation",
+    "title": "Heavy Rotation",
+    "originalJDVersion": 1000,
+    "tags": [
+      "subscribedSong",
+      "jdwii",
+      "JustDanceAsia",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "AKB48",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ec2fff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        104352,
+        136704,
+        169056,
+        201456,
+        233808,
+        266160,
+        298512,
+        330864,
+        363264,
+        395616,
+        427968,
+        460320,
+        492720,
+        525072,
+        557424,
+        589776,
+        622128,
+        654528,
+        686880,
+        719232,
+        751584,
+        783984,
+        816336,
+        848688,
+        881040,
+        913392,
+        945792,
+        978144,
+        1010496,
+        1042848,
+        1075200,
+        1107600,
+        1139952,
+        1172304,
+        1204656,
+        1237056,
+        1269408,
+        1301760,
+        1334112,
+        1366464,
+        1398864,
+        1431216,
+        1463568,
+        1495920
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 415,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 42,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HeavyRotation/HeavyRotation_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HeavyRotation/nx/HeavyRotation_banner_bkg.tga.ckd/3cb54105bc5b98fced7b75f56605085b.ckd",
+      "map_bkgImageUrl": "/public/map/HeavyRotation/nx/HeavyRotation_map_bkg.tga.ckd/d138ae26f99c971eed3263588355b8c7.ckd",
+      "expandCoachImageUrl": "/public/map/HeavyRotation/nx/HeavyRotation_Cover_AlbumCoach.tga.ckd/d43050db752758e28344cfbd31f43b11.ckd",
+      "cover_smallImageUrl": "/public/map/HeavyRotation/nx/HeavyRotation_Cover_Online.tga.ckd/1ce94508d91627cbe458068326052dff.ckd",
+      "coach1ImageUrl": "/public/map/HeavyRotation/nx/HeavyRotation_Coach_1.tga.ckd/e417fa1ec1373188b974b106a64a776d.ckd",
+      "coach2ImageUrl": "/public/map/HeavyRotation/nx/HeavyRotation_Coach_2.tga.ckd/fc4be34a4bebcca692db6e1c0a8e56d9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HeavyRotation/pc/HeavyRotation_banner_bkg.tga.ckd/97bc1915ca17efe1caa6f995047df164.ckd",
+      "map_bkgImageUrl": "/public/map/HeavyRotation/pc/HeavyRotation_map_bkg.tga.ckd/46e1d0b081eb4c3bf05974858884b154.ckd",
+      "expandCoachImageUrl": "/public/map/HeavyRotation/pc/HeavyRotation_Cover_AlbumCoach.tga.ckd/ead42b80cfc8aa223f1547d5e297333a.ckd",
+      "cover_smallImageUrl": "/public/map/HeavyRotation/pc/HeavyRotation_Cover_Online.tga.ckd/0701a58dc401a7dd19cad662a84fa47f.ckd",
+      "coach1ImageUrl": "/public/map/HeavyRotation/pc/HeavyRotation_Coach_1.tga.ckd/23b8f9ecdce2a919f7de38f7eb0dc87b.ckd",
+      "coach2ImageUrl": "/public/map/HeavyRotation/pc/HeavyRotation_Coach_2.tga.ckd/3fac55c5332f9eb502c1b6d39a50d5c0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HeavyRotation/orbis/HeavyRotation_banner_bkg.tga.ckd/97bc1915ca17efe1caa6f995047df164.ckd",
+      "map_bkgImageUrl": "/public/map/HeavyRotation/orbis/HeavyRotation_map_bkg.tga.ckd/46e1d0b081eb4c3bf05974858884b154.ckd",
+      "expandCoachImageUrl": "/public/map/HeavyRotation/orbis/HeavyRotation_Cover_AlbumCoach.tga.ckd/ead42b80cfc8aa223f1547d5e297333a.ckd",
+      "cover_smallImageUrl": "/public/map/HeavyRotation/orbis/HeavyRotation_Cover_Online.tga.ckd/0701a58dc401a7dd19cad662a84fa47f.ckd",
+      "coach1ImageUrl": "/public/map/HeavyRotation/orbis/HeavyRotation_Coach_1.tga.ckd/23b8f9ecdce2a919f7de38f7eb0dc87b.ckd",
+      "coach2ImageUrl": "/public/map/HeavyRotation/orbis/HeavyRotation_Coach_2.tga.ckd/3fac55c5332f9eb502c1b6d39a50d5c0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HeavyRotation/HeavyRotation_Coach_1_Phone.png/d770320be23e34e1747d35e95362d0b9.png",
+    "phoneCoach2ImageUrl": "/public/map/HeavyRotation/HeavyRotation_Coach_2_Phone.png/6264e32db27d152b0e9815a439a3ccb7.png",
+    "phoneCoverImageUrl": "/public/map/HeavyRotation/HeavyRotation_Cover_Phone.jpg/cd09035e4c24f6b5c92d55bae8eff5c4.jpg",
+    "cover640ImageUrl": "/public/map/HeavyRotation/HeavyRotation_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HeavyRotation/HeavyRotation.ogg": "/private/map/HeavyRotation/HeavyRotation.ogg/7dd67ab92b3b6957f00b06f8f6253e9e.ogg",
+    "jmcs://jd-contents/HeavyRotation/HeavyRotation_AudioPreview.ogg": "/public/map/HeavyRotation/HeavyRotation_AudioPreview.ogg/1039b3674ddb7c9bfd0d4a616f07e7da.ogg",
+    "jmcs://jd-contents/HeavyRotation/HeavyRotation_HIGH.webm": "/private/map/HeavyRotation/HeavyRotation_HIGH.webm/4c78132b92eba8bb24549885c9891d34.webm",
+    "jmcs://jd-contents/HeavyRotation/HeavyRotation_LOW.webm": "/private/map/HeavyRotation/HeavyRotation_LOW.webm/f4be9a5ef21a69be41314bdb95d00b31.webm",
+    "jmcs://jd-contents/HeavyRotation/HeavyRotation_MID.webm": "/private/map/HeavyRotation/HeavyRotation_MID.webm/32e91d76a6c91e6a5e52aa7ded5aec80.webm",
+    "jmcs://jd-contents/HeavyRotation/HeavyRotation_ULTRA.hd.webm": "/private/map/HeavyRotation/HeavyRotation_ULTRA.hd.webm/4b8259cf1a5fbf4c84fa7d401596d121.webm",
+    "jmcs://jd-contents/HeavyRotation/HeavyRotation_ULTRA.webm": "/private/map/HeavyRotation/HeavyRotation_ULTRA.webm/7854b475226bbf40b1581ebea74208d9.webm",
+    "jmcs://jd-contents/HeavyRotation/HeavyRotation_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HeavyRotation/HeavyRotation_MapPreviewNoSoundCrop_LOW.vp8.webm/dab83883ff1c819fb248ec6a08ebba5a.webm",
+    "jmcs://jd-contents/HeavyRotation/HeavyRotation_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HeavyRotation/HeavyRotation_MapPreviewNoSoundCrop_MID.vp8.webm/4c0a54848e780ab648faafdbf8c495c6.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"512946\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeavyRotation/HeavyRotation_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1501870\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeavyRotation/HeavyRotation_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 287.731125
+}

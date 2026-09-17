@@ -1,0 +1,166 @@
+{
+  "urls": {
+    "jmcs://jd-contents/GiddyOnUpHMH/GiddyOnUpHMH.ogg": "/private/map/GiddyOnUpHMH/GiddyOnUpHMH.ogg/897fa6ec63a14eae4d2f7b74c62a3535.ogg",
+    "jmcs://jd-contents/GiddyOnUpHMH/GiddyOnUpHMH_AudioPreview.ogg": "/public/map/GiddyOnUpHMH/GiddyOnUpHMH_AudioPreview.ogg/2067f4f7799d232ea784862403da3be8.ogg",
+    "jmcs://jd-contents/GiddyOnUpHMH/GiddyOnUpHMH_HIGH.hd.webm": "/private/map/GiddyOnUpHMH/GiddyOnUpHMH_HIGH.hd.webm/2e61af8dc7bbf075f05e1aa881b4308b.webm",
+    "jmcs://jd-contents/GiddyOnUpHMH/GiddyOnUpHMH_LOW.hd.webm": "/private/map/GiddyOnUpHMH/GiddyOnUpHMH_LOW.hd.webm/6c2dd03636ac46ec4d2c7a35b699aa9a.webm",
+    "jmcs://jd-contents/GiddyOnUpHMH/GiddyOnUpHMH_MID.hd.webm": "/private/map/GiddyOnUpHMH/GiddyOnUpHMH_MID.hd.webm/fab29d71869711642c0ba0385efdf326.webm",
+    "jmcs://jd-contents/GiddyOnUpHMH/GiddyOnUpHMH_ULTRA.hd.webm": "/private/map/GiddyOnUpHMH/GiddyOnUpHMH_ULTRA.hd.webm/dcff6fbc0694d2a926d01a775e6a2ce4.webm",
+    "jmcs://jd-contents/GiddyOnUpHMH/GiddyOnUpHMH_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GiddyOnUpHMH/GiddyOnUpHMH_MapPreviewNoSoundCrop_LOW.vp8.webm/58e416f18c256c43f5adfa1237ddd17c.webm",
+    "jmcs://jd-contents/GiddyOnUpHMH/GiddyOnUpHMH_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GiddyOnUpHMH/GiddyOnUpHMH_MapPreviewNoSoundCrop_MID.vp8.webm/b547ca9f9e7fe774cf09996aba04670d.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        89447,
+        116113,
+        142780,
+        169444,
+        196110,
+        222776,
+        249441,
+        276108,
+        302772,
+        329438,
+        356103,
+        382769,
+        409433,
+        436100,
+        462766,
+        489431,
+        516098,
+        542762,
+        569427,
+        596093,
+        622760,
+        649425,
+        676089,
+        702755,
+        729422,
+        756087,
+        782753,
+        809417,
+        836084,
+        862750,
+        889415,
+        916079,
+        942745,
+        969411,
+        996078,
+        1022744,
+        1049931,
+        1076595,
+        1103261,
+        1129928,
+        1156594,
+        1183260,
+        1209924,
+        1236589,
+        1263255,
+        1289921,
+        1316588,
+        1343252,
+        1369918,
+        1396584,
+        1423249,
+        1449913,
+        1476579,
+        1503246
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 376,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GiddyOnUpHMH/GiddyOnUpHMH_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"854421\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiddyOnUpHMH/GiddyOnUpHMH_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"795-1285\">\n\t\t\t\t\t<Initialization range=\"0-795\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1993827\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GiddyOnUpHMH/GiddyOnUpHMH_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"795-1285\">\n\t\t\t\t\t<Initialization range=\"0-795\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "2c533d3a33ec3b8d3d49aed032d944af",
+      "storageType": 0,
+      "url": "/public/map/GiddyOnUpHMH/nx/GiddyOnUpHMH_MAIN_SCENE_NX.zip/2c533d3a33ec3b8d3d49aed032d944af.zip"
+    },
+    "pc": {
+      "md5": "bd0016fe34116abcd1d1e67b9f1a45b9",
+      "storageType": 0,
+      "url": "/public/map/GiddyOnUpHMH/pc/GiddyOnUpHMH_MAIN_SCENE_PC.zip/bd0016fe34116abcd1d1e67b9f1a45b9.zip"
+    },
+    "ps4": {
+      "md5": "de34aec293833ebea0f46769db6d0ab6",
+      "storageType": 0,
+      "url": "/public/map/GiddyOnUpHMH/orbis/GiddyOnUpHMH_MAIN_SCENE_ORBIS.zip/de34aec293833ebea0f46769db6d0ab6.zip"
+    }
+  },
+  "data": {
+    "mapName": "GiddyOnUpHMH",
+    "title": "Giddy On Up (Giddy On Out)",
+    "originalJDVersion": 3,
+    "tags": [
+      "main"
+    ],
+    "artist": "Laura Bell Bundy",
+    "credits": "Written by Jeffrey Cohen (BMI), Laura Bell Bundy and Michael Shimshack. Published by Shimshack Songs, Music of Stage Three, EMI April Music Inc. (ASCAP), Bug Music (BMI) and As You Wish Music (BMI), licensed courtesy of Casablanca Media Publishing. All Rights Reserved. Used by Permission. Courtesy of Mercury Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#eaa942",
+    "songColor2A": "#4691e7",
+    "songColor1B": "#bd345d",
+    "songColor2B": "#2392ca",
+    "lyricsColor": "#0172f2",
+    "LocaleID": 20003378
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GiddyOnUpHMH/nx/GiddyOnUpHMH_banner_bkg.tga.ckd/c1e1f9c574379ce575b3f4f0142e1fb5.ckd",
+      "map_bkgImageUrl": "/public/map/GiddyOnUpHMH/nx/GiddyOnUpHMH_map_bkg.tga.ckd/c1e1f9c574379ce575b3f4f0142e1fb5.ckd",
+      "expandCoachImageUrl": "/public/map/GiddyOnUpHMH/nx/GiddyOnUpHMH_Cover_AlbumCoach.tga.ckd/ce395297ce336cc1fb71c0842c5d62e6.ckd",
+      "cover_smallImageUrl": "/public/map/GiddyOnUpHMH/nx/GiddyOnUpHMH_Cover_Online.tga.ckd/3a77754902aa6bbcd31a44c4d4ec7010.ckd",
+      "coverImageUrl": "/public/map/GiddyOnUpHMH/nx/GiddyOnUpHMH_Cover_Generic.tga.ckd/3a77754902aa6bbcd31a44c4d4ec7010.ckd",
+      "coach1ImageUrl": "/public/map/GiddyOnUpHMH/nx/GiddyOnUpHMH_Coach_1.tga.ckd/21c8f9db2a2655fa467bbb8ebabf2e5b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GiddyOnUpHMH/pc/GiddyOnUpHMH_banner_bkg.tga.ckd/309412ec2e6e8d9a828a89481327d8cd.ckd",
+      "map_bkgImageUrl": "/public/map/GiddyOnUpHMH/pc/GiddyOnUpHMH_map_bkg.tga.ckd/309412ec2e6e8d9a828a89481327d8cd.ckd",
+      "expandCoachImageUrl": "/public/map/GiddyOnUpHMH/pc/GiddyOnUpHMH_Cover_AlbumCoach.tga.ckd/a25f927e9734eee0e6e5fcc8c0be6efb.ckd",
+      "cover_smallImageUrl": "/public/map/GiddyOnUpHMH/pc/GiddyOnUpHMH_Cover_Online.tga.ckd/a589a6b18bd40905026b9edb18323475.ckd",
+      "coverImageUrl": "/public/map/GiddyOnUpHMH/pc/GiddyOnUpHMH_Cover_Generic.tga.ckd/a589a6b18bd40905026b9edb18323475.ckd",
+      "coach1ImageUrl": "/public/map/GiddyOnUpHMH/pc/GiddyOnUpHMH_Coach_1.tga.ckd/83f55de7206ee44b11627eb2f39a6622.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GiddyOnUpHMH/orbis/GiddyOnUpHMH_banner_bkg.tga.ckd/309412ec2e6e8d9a828a89481327d8cd.ckd",
+      "map_bkgImageUrl": "/public/map/GiddyOnUpHMH/orbis/GiddyOnUpHMH_map_bkg.tga.ckd/309412ec2e6e8d9a828a89481327d8cd.ckd",
+      "expandCoachImageUrl": "/public/map/GiddyOnUpHMH/orbis/GiddyOnUpHMH_Cover_AlbumCoach.tga.ckd/a25f927e9734eee0e6e5fcc8c0be6efb.ckd",
+      "cover_smallImageUrl": "/public/map/GiddyOnUpHMH/orbis/GiddyOnUpHMH_Cover_Online.tga.ckd/a589a6b18bd40905026b9edb18323475.ckd",
+      "coverImageUrl": "/public/map/GiddyOnUpHMH/orbis/GiddyOnUpHMH_Cover_Generic.tga.ckd/a589a6b18bd40905026b9edb18323475.ckd",
+      "coach1ImageUrl": "/public/map/GiddyOnUpHMH/orbis/GiddyOnUpHMH_Coach_1.tga.ckd/83f55de7206ee44b11627eb2f39a6622.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GiddyOnUpHMH/GiddyOnUpHMH_Coach_1_Phone.png/2dac257cdb7481c676a9bbc022242f15.png",
+    "phoneCoverImageUrl": "/public/map/GiddyOnUpHMH/GiddyOnUpHMH_Cover_Phone.jpg/feaa47b0e42dbfef5e619dbb7ec9f65a.jpg",
+    "cover640ImageUrl": "/public/map/GiddyOnUpHMH/GiddyOnUpHMH_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 213.570833
+}

@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8d82f21c53ca1bee2aa944605d01354d",
+      "storageType": 0,
+      "url": "/public/map/DancingQueen/nx/DancingQueen_MAIN_SCENE_NX.zip/8d82f21c53ca1bee2aa944605d01354d.zip"
+    },
+    "pc": {
+      "md5": "44c592fbe9ad77aece10ffafefbcb3ae",
+      "storageType": 0,
+      "url": "/public/map/DancingQueen/pc/DancingQueen_MAIN_SCENE_PC.zip/44c592fbe9ad77aece10ffafefbcb3ae.zip"
+    },
+    "ps4": {
+      "md5": "99aed0a4638d3f0644d570dd84271cd9",
+      "storageType": 0,
+      "url": "/public/map/DancingQueen/orbis/DancingQueen_MAIN_SCENE_ORBIS.zip/99aed0a4638d3f0644d570dd84271cd9.zip"
+    }
+  },
+  "data": {
+    "mapName": "DancingQueen",
+    "title": "Dancing Queen",
+    "originalJDVersion": 2015,
+    "tags": [
+      "main"
+    ],
+    "artist": "ABBA",
+    "credits": "Written by Ulvaeus, Bjoern K.; Andersson, Benny Goran Bror; Anderson, Stig Erik Leopold. Published by Universal Music Publishing. Courtesy of Polydor Limited under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#89500b",
+    "songColor2A": "#50cbfc",
+    "songColor1B": "#f9cd52",
+    "songColor2B": "#02267a",
+    "lyricsColor": "#5cf2fd"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29087,
+        58127,
+        87215,
+        116255,
+        145343,
+        174383,
+        203471,
+        232559,
+        261359,
+        290207,
+        319055,
+        347903,
+        376415,
+        404975,
+        433487,
+        462047,
+        490559,
+        519119,
+        547630,
+        576190,
+        604798,
+        633454,
+        662110,
+        690718,
+        719374,
+        748030,
+        776638,
+        805294,
+        833902,
+        862558,
+        891214,
+        919822,
+        948526,
+        977182,
+        1005838,
+        1034494,
+        1063197,
+        1091853,
+        1120509,
+        1149165,
+        1177869,
+        1206525,
+        1235181,
+        1263837,
+        1292541,
+        1321197,
+        1349853,
+        1378509,
+        1407213,
+        1435869,
+        1464525,
+        1493229
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 348,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DancingQueen/DancingQueen_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DancingQueen/nx/DancingQueen_banner_bkg.tga.ckd/0360984bed1f2f9eb26f85e22bafffcd.ckd",
+      "map_bkgImageUrl": "/public/map/DancingQueen/nx/DancingQueen_map_bkg.tga.ckd/cd26ee9e69762b3ff3979004dd6671b3.ckd",
+      "expandCoachImageUrl": "/public/map/DancingQueen/nx/DancingQueen_Cover_AlbumCoach.tga.ckd/af7ae6d0f5210435fdef26ae669f983b.ckd",
+      "cover_smallImageUrl": "/public/map/DancingQueen/nx/DancingQueen_Cover_Online.tga.ckd/909802c7f206633837177dc44ea1c418.ckd",
+      "coach1ImageUrl": "/public/map/DancingQueen/nx/DancingQueen_Coach_1.tga.ckd/d81a4889aefc6a8da952b30c042723b4.ckd",
+      "coach2ImageUrl": "/public/map/DancingQueen/nx/DancingQueen_Coach_2.tga.ckd/a0dd11d1f3b347229ffad4a2aca51a26.ckd",
+      "coach3ImageUrl": "/public/map/DancingQueen/nx/DancingQueen_Coach_3.tga.ckd/1250f6c24375f99b36821c1a6450c87c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DancingQueen/pc/DancingQueen_banner_bkg.tga.ckd/a782c8d5e41826bd3a6bc02261f9c229.ckd",
+      "map_bkgImageUrl": "/public/map/DancingQueen/pc/DancingQueen_map_bkg.tga.ckd/a2cbf27bbe2345247ac37d3f7f2515bc.ckd",
+      "expandCoachImageUrl": "/public/map/DancingQueen/pc/DancingQueen_Cover_AlbumCoach.tga.ckd/75e46b7cfa3b102212d8a5ad33cb3c6c.ckd",
+      "cover_smallImageUrl": "/public/map/DancingQueen/pc/DancingQueen_Cover_Online.tga.ckd/3512c32aa0cee03b42c52990804a133f.ckd",
+      "coach1ImageUrl": "/public/map/DancingQueen/pc/DancingQueen_Coach_1.tga.ckd/2fa39679515622c0938b22bf5a00b336.ckd",
+      "coach2ImageUrl": "/public/map/DancingQueen/pc/DancingQueen_Coach_2.tga.ckd/98958fd597d3ebe4a186d8837a81828b.ckd",
+      "coach3ImageUrl": "/public/map/DancingQueen/pc/DancingQueen_Coach_3.tga.ckd/1a6c52507b0f2b51acda566f97ccf7b0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DancingQueen/orbis/DancingQueen_banner_bkg.tga.ckd/a782c8d5e41826bd3a6bc02261f9c229.ckd",
+      "map_bkgImageUrl": "/public/map/DancingQueen/orbis/DancingQueen_map_bkg.tga.ckd/a2cbf27bbe2345247ac37d3f7f2515bc.ckd",
+      "expandCoachImageUrl": "/public/map/DancingQueen/orbis/DancingQueen_Cover_AlbumCoach.tga.ckd/75e46b7cfa3b102212d8a5ad33cb3c6c.ckd",
+      "cover_smallImageUrl": "/public/map/DancingQueen/orbis/DancingQueen_Cover_Online.tga.ckd/3512c32aa0cee03b42c52990804a133f.ckd",
+      "coach1ImageUrl": "/public/map/DancingQueen/orbis/DancingQueen_Coach_1.tga.ckd/2fa39679515622c0938b22bf5a00b336.ckd",
+      "coach2ImageUrl": "/public/map/DancingQueen/orbis/DancingQueen_Coach_2.tga.ckd/98958fd597d3ebe4a186d8837a81828b.ckd",
+      "coach3ImageUrl": "/public/map/DancingQueen/orbis/DancingQueen_Coach_3.tga.ckd/1a6c52507b0f2b51acda566f97ccf7b0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DancingQueen/DancingQueen_Coach_1_Phone.png/194f04b05c376e2f4507d496e016fe96.png",
+    "phoneCoach2ImageUrl": "/public/map/DancingQueen/DancingQueen_Coach_2_Phone.png/ef00c3b75985cbfebf2a0e5504e90a74.png",
+    "phoneCoach3ImageUrl": "/public/map/DancingQueen/DancingQueen_Coach_3_Phone.png/a0095d4bbad57a1c6a6b1708aa94c6a5.png",
+    "phoneCoverImageUrl": "/public/map/DancingQueen/DancingQueen_Cover_Phone.jpg/07266ae2da3517f4ba5891e44db84483.jpg",
+    "cover640ImageUrl": "/public/map/DancingQueen/DancingQueen_Cover_640.png/cc5a144196049a823e9a7cf54cc14927.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DancingQueen/DancingQueen.ogg": "/private/map/DancingQueen/DancingQueen.ogg/96508622a34dce847ec0d4b2be968076.ogg",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_AudioPreview.ogg": "/public/map/DancingQueen/DancingQueen_AudioPreview.ogg/7e42484a2fc1e6a2660850cab92afd0b.ogg",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_HIGH.webm": "/private/map/DancingQueen/DancingQueen_HIGH.webm/30c72f6576806459a43a15babac506b5.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_LOW.webm": "/private/map/DancingQueen/DancingQueen_LOW.webm/38571ada4b039cbfeb97ae93df37c440.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_MID.webm": "/private/map/DancingQueen/DancingQueen_MID.webm/3afc72cd3740b772f66f4182241efd1b.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_ULTRA.hd.webm": "/private/map/DancingQueen/DancingQueen_ULTRA.hd.webm/cb4824821b1ed1c64d4d617efb8c119f.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_ULTRA.webm": "/private/map/DancingQueen/DancingQueen_ULTRA.webm/3b8c53830bd4b7ee4aa786610a5a6138.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_LOW.vp8.webm/be4ebb2cc9f40d4afb8bc5958999bd62.webm",
+    "jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_MID.vp8.webm/0a582fda2e520ce6ffb1741a2318e6aa.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497961\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478596\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancingQueen/DancingQueen_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 211.991604
+}

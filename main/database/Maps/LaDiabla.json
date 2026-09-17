@@ -1,0 +1,189 @@
+{
+  "urls": {
+    "jmcs://jd-contents/LaDiabla/LaDiabla_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LaDiabla/LaDiabla_MapPreviewNoSoundCrop_LOW.vp8.webm/52798c46f91411a8bd865aed0767c101.webm",
+    "jmcs://jd-contents/LaDiabla/LaDiabla_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LaDiabla/LaDiabla_MapPreviewNoSoundCrop_MID.vp8.webm/958edd5e592cc95a98c13940ffbd7568.webm",
+    "jmcs://jd-contents/LaDiabla/LaDiabla_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/LaDiabla/LaDiabla_MapPreviewNoSoundCrop_HIGH.vp8.webm/9c9fdf47c29a5243b8730a72f52e20c9.webm",
+    "jmcs://jd-contents/LaDiabla/LaDiabla_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/LaDiabla/LaDiabla_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a543f84c2a886deae3366bc633333349.webm",
+    "jmcs://jd-contents/LaDiabla/LaDiabla_ULTRA.hd.webm": "/private/map/LaDiabla/LaDiabla_ULTRA.hd.webm/9e635744d1067148153ef2f534ef8f30.webm",
+    "jmcs://jd-contents/LaDiabla/LaDiabla_HIGH.hd.webm": "/private/map/LaDiabla/LaDiabla_HIGH.hd.webm/1c5036fa457599f125163731b99aa6e0.webm",
+    "jmcs://jd-contents/LaDiabla/LaDiabla_MID.hd.webm": "/private/map/LaDiabla/LaDiabla_MID.hd.webm/ff4fc9bf74d3589a782e8852f282aca9.webm",
+    "jmcs://jd-contents/LaDiabla/LaDiabla_LOW.hd.webm": "/private/map/LaDiabla/LaDiabla_LOW.hd.webm/7939eac936ab2583767c6390cc8145ed.webm",
+    "jmcs://jd-contents/LaDiabla/LaDiabla_AudioPreview.ogg": "/public/map/LaDiabla/LaDiabla_AudioPreview.ogg/0eda4313bb04c1b6dfffa19425e77abf.ogg",
+    "jmcs://jd-contents/LaDiabla/LaDiabla.ogg": "/private/map/LaDiabla/LaDiabla.ogg/a21fa34091f537b1cc0fd96fb6fa30c3.ogg"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21818,
+        43636,
+        65454,
+        87273,
+        109091,
+        130909,
+        152727,
+        174545,
+        196363,
+        218182,
+        240000,
+        261818,
+        283636,
+        305454,
+        327273,
+        349091,
+        370909,
+        392727,
+        414545,
+        436363,
+        458182,
+        480000,
+        501818,
+        523636,
+        545454,
+        567273,
+        589091,
+        610909,
+        632727,
+        654545,
+        676363,
+        698182,
+        720000,
+        741818,
+        763636,
+        785454,
+        807273,
+        829091,
+        850909,
+        872727,
+        894545,
+        916363,
+        938182,
+        960000,
+        981818,
+        1003636,
+        1025454,
+        1049454,
+        1073454,
+        1097454,
+        1121454,
+        1140654,
+        1162473,
+        1184291,
+        1206109,
+        1227927,
+        1249745,
+        1271563,
+        1293382,
+        1315200,
+        1337018,
+        1358836,
+        1380654,
+        1402473,
+        1424291
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 384,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LaDiabla/LaDiabla_AudioPreview.ogg"
+  },
+  "mapLength": 181.490890625,
+  "packages": {
+    "pc": {
+      "md5": "3a645209e3bc6a38d6155b0573cc0d30",
+      "storageType": 0,
+      "url": "/public/map/LaDiabla/pc/LaDiabla_MAIN_SCENE_PC.zip/3a645209e3bc6a38d6155b0573cc0d30.zip"
+    },
+    "ps4": {
+      "md5": "9daade25076c2d770f55cc59069c48fb",
+      "storageType": 0,
+      "url": "/public/map/LaDiabla/orbis/LaDiabla_MAIN_SCENE_ORBIS.zip/9daade25076c2d770f55cc59069c48fb.zip"
+    },
+    "wiiu": {
+      "md5": "3d5fc46761d9d9ef698026555b6e5e51",
+      "storageType": 0,
+      "url": "/public/map/LaDiabla/wiiu/LaDiabla_MAIN_SCENE_WIIU.zip/3d5fc46761d9d9ef698026555b6e5e51.zip"
+    },
+    "nx": {
+      "md5": "734a6dbdfb4ec34723cd084d5925a8b1",
+      "storageType": 0,
+      "url": "/public/map/LaDiabla/nx/LaDiabla_MAIN_SCENE_NX.zip/734a6dbdfb4ec34723cd084d5925a8b1.zip"
+    }
+  },
+  "data": {
+    "mapName": "LaDiabla",
+    "title": "La Diabla",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Xavi",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#777777",
+    "songColor2B": "#111111",
+    "lyricsColor": "#6FD858",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/LaDiabla/pc/LaDiabla_Cover_Online.tga.ckd/63c1a7beb86ac323dd0fed8b44a512b6.ckd",
+      "coverImageUrl": "/public/map/LaDiabla/pc/LaDiabla_Cover_Generic.tga.ckd/237ad3cbfca30f574783991760285e78.ckd",
+      "expandCoachImageUrl": "/public/map/LaDiabla/pc/LaDiabla_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/LaDiabla/pc/LaDiabla_map_bkg.tga.ckd/3843f928647bae2d471061f4289c3882.ckd",
+      "banner_bkgImageUrl": "/public/map/LaDiabla/pc/LaDiabla_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/LaDiabla/pc/LaDiabla_Coach_1.tga.ckd/2af2cb4d52c42f1affaf5a0a59e76517.ckd",
+      "coach2ImageUrl": "/public/map/LaDiabla/pc/LaDiabla_Coach_2.tga.ckd/523618e39818f4874a94a6c0544e2813.ckd",
+      "phoneCoverImageUrl": "/public/map/LaDiabla/LaDiabla_Cover_Phone.jpg/52d39074dd620afef0192c701458763b.jpg",
+      "phoneCoach1ImageUrl": "/public/map/LaDiabla/LaDiabla_Coach_1_Phone.png/1540c2bd7c9b9226d05cc1199b44ce2d.png",
+      "phoneCoach2ImageUrl": "/public/map/LaDiabla/LaDiabla_Coach_2_Phone.png/63ec44fb9b9d7ae3a92717fd8fd3d827.png",
+      "cover640ImageUrl": "/public/map/LaDiabla/LaDiabla_Cover_640.png/1996beffdbc13507818e5de10059a889.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/LaDiabla/orbis/LaDiabla_Cover_Online.tga.ckd/63c1a7beb86ac323dd0fed8b44a512b6.ckd",
+      "coverImageUrl": "/public/map/LaDiabla/orbis/LaDiabla_Cover_Generic.tga.ckd/237ad3cbfca30f574783991760285e78.ckd",
+      "expandCoachImageUrl": "/public/map/LaDiabla/orbis/LaDiabla_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/LaDiabla/orbis/LaDiabla_map_bkg.tga.ckd/3843f928647bae2d471061f4289c3882.ckd",
+      "banner_bkgImageUrl": "/public/map/LaDiabla/orbis/LaDiabla_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/LaDiabla/orbis/LaDiabla_Coach_1.tga.ckd/2af2cb4d52c42f1affaf5a0a59e76517.ckd",
+      "coach2ImageUrl": "/public/map/LaDiabla/orbis/LaDiabla_Coach_2.tga.ckd/523618e39818f4874a94a6c0544e2813.ckd",
+      "phoneCoverImageUrl": "/public/map/LaDiabla/LaDiabla_Cover_Phone.jpg/52d39074dd620afef0192c701458763b.jpg",
+      "phoneCoach1ImageUrl": "/public/map/LaDiabla/LaDiabla_Coach_1_Phone.png/1540c2bd7c9b9226d05cc1199b44ce2d.png",
+      "phoneCoach2ImageUrl": "/public/map/LaDiabla/LaDiabla_Coach_2_Phone.png/63ec44fb9b9d7ae3a92717fd8fd3d827.png",
+      "cover640ImageUrl": "/public/map/LaDiabla/LaDiabla_Cover_640.png/1996beffdbc13507818e5de10059a889.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/LaDiabla/nx/LaDiabla_Cover_Online.tga.ckd/3c64c9b44d6f7c9651e7426cfcc80a29.ckd",
+      "coverImageUrl": "/public/map/LaDiabla/nx/LaDiabla_Cover_Generic.tga.ckd/f9ec909e7b00153739393f7f53b3bcb9.ckd",
+      "expandCoachImageUrl": "/public/map/LaDiabla/nx/LaDiabla_Cover_AlbumCoach.tga.ckd/f2acd1f802fbc3c07f5497a0de5fc9d3.ckd",
+      "map_bkgImageUrl": "/public/map/LaDiabla/nx/LaDiabla_map_bkg.tga.ckd/6e524ef35bb01ff3653559d4b1b5688f.ckd",
+      "banner_bkgImageUrl": "/public/map/LaDiabla/nx/LaDiabla_banner_bkg.tga.ckd/56a0fc93e1e0b5555651a441a9c51598.ckd",
+      "coach1ImageUrl": "/public/map/LaDiabla/nx/LaDiabla_Coach_1.tga.ckd/c231673fc7871f0b817b5ecc57f3040c.ckd",
+      "coach2ImageUrl": "/public/map/LaDiabla/nx/LaDiabla_Coach_2.tga.ckd/0b0418996503c221fa9a30a03b906ff5.ckd",
+      "phoneCoverImageUrl": "/public/map/LaDiabla/LaDiabla_Cover_Phone.jpg/52d39074dd620afef0192c701458763b.jpg",
+      "phoneCoach1ImageUrl": "/public/map/LaDiabla/LaDiabla_Coach_1_Phone.png/1540c2bd7c9b9226d05cc1199b44ce2d.png",
+      "phoneCoach2ImageUrl": "/public/map/LaDiabla/LaDiabla_Coach_2_Phone.png/63ec44fb9b9d7ae3a92717fd8fd3d827.png",
+      "cover640ImageUrl": "/public/map/LaDiabla/LaDiabla_Cover_640.png/1996beffdbc13507818e5de10059a889.png"
+    }
+  }
+}

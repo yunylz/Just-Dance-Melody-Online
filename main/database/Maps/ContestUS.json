@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4e9b7f98f96fe3250797718b29d43907",
+      "storageType": 0,
+      "url": "/public/map/ContestUS/nx/ContestUS_MAIN_SCENE_NX.zip/4e9b7f98f96fe3250797718b29d43907.zip"
+    },
+    "pc": {
+      "md5": "e1428d1caccd8b52c6168eab3c24689b",
+      "storageType": 0,
+      "url": "/public/map/ContestUS/pc/ContestUS_MAIN_SCENE_PC.zip/e1428d1caccd8b52c6168eab3c24689b.zip"
+    },
+    "ps4": {
+      "md5": "190584485d500fad5354a2ed3e20c9c5",
+      "storageType": 0,
+      "url": "/public/map/ContestUS/orbis/ContestUS_MAIN_SCENE_ORBIS.zip/190584485d500fad5354a2ed3e20c9c5.zip"
+    }
+  },
+  "data": {
+    "mapName": "ContestUS",
+    "title": "When I Grow Up",
+    "originalJDVersion": 2,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Pussycat Dolls",
+    "credits": "Written by Jim McCarty, Paul Samwell-Smith, Rodney Jerkins, Theron Thomas and Timothy Thomas. Published by Universal Music Publishing Group a division of Universal Music Canada Ltd, EMI April Music Inc (ASCAP) and EMI Blackwood Music Inc (BMI). All rights reserved. Used by permission. Courtesy of Pussycat Dolls, LLC, under license from Universal Music Canada.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f41c98",
+    "songColor2A": "#bb15df",
+    "songColor1B": "#130428",
+    "songColor2B": "#520c8e",
+    "lyricsColor": "#f4fc0a",
+    "LocaleID": 20003380
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31966,
+        56269,
+        80573,
+        104877,
+        129180,
+        153484,
+        177788,
+        202091,
+        226395,
+        250699,
+        275002,
+        299306,
+        323610,
+        347914,
+        372217,
+        396521,
+        420825,
+        445128,
+        469432,
+        493736,
+        518039,
+        542343,
+        566647,
+        590950,
+        615254,
+        639558,
+        663861,
+        688165,
+        712469,
+        736772,
+        761076,
+        785380,
+        809683,
+        833987,
+        858291,
+        882594,
+        906898,
+        931202,
+        955505,
+        979809,
+        1004113,
+        1028416,
+        1052720,
+        1077024,
+        1101327,
+        1125631,
+        1149935,
+        1174238,
+        1198542,
+        1222846,
+        1247149,
+        1271453,
+        1295757,
+        1320060,
+        1344364,
+        1368668,
+        1392971,
+        1417275,
+        1441579,
+        1465882,
+        1490186
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 468,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ContestUS/ContestUS_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ContestUS/nx/ContestUS_banner_bkg.tga.ckd/e3b99df54726fef957c360fa5e10024b.ckd",
+      "map_bkgImageUrl": "/public/map/ContestUS/nx/ContestUS_map_bkg.tga.ckd/36d9d0e7541a143370cb807b80c41ba0.ckd",
+      "expandCoachImageUrl": "/public/map/ContestUS/nx/ContestUS_Cover_AlbumCoach.tga.ckd/fc22e9de225c8bf95ea0a80de4436b25.ckd",
+      "cover_smallImageUrl": "/public/map/ContestUS/nx/ContestUS_Cover_Online.tga.ckd/c1f62ab7c8af66b25e47de10a47998af.ckd",
+      "coverImageUrl": "/public/map/ContestUS/nx/ContestUS_Cover_Generic.tga.ckd/4e9816a3148cf00e1ac90fc516adbc54.ckd",
+      "coach1ImageUrl": "/public/map/ContestUS/nx/ContestUS_Coach_1.tga.ckd/fef11075fe66807280ad0664dede1699.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ContestUS/pc/ContestUS_banner_bkg.tga.ckd/f69d2e5d8da435fbda85b5f6a79a0554.ckd",
+      "map_bkgImageUrl": "/public/map/ContestUS/pc/ContestUS_map_bkg.tga.ckd/431a28f6e15715d1f40f442709a4a1fa.ckd",
+      "expandCoachImageUrl": "/public/map/ContestUS/pc/ContestUS_Cover_AlbumCoach.tga.ckd/6252e5d70d99fbc333b6e041eb03bf99.ckd",
+      "cover_smallImageUrl": "/public/map/ContestUS/pc/ContestUS_Cover_Online.tga.ckd/a91e8ff65c8879b8e41a652ef666b9a0.ckd",
+      "coverImageUrl": "/public/map/ContestUS/pc/ContestUS_Cover_Generic.tga.ckd/8098f020c6ddae4a6d67873c6c79b603.ckd",
+      "coach1ImageUrl": "/public/map/ContestUS/pc/ContestUS_Coach_1.tga.ckd/f3342fd830989930e6845ced46df3fb0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ContestUS/orbis/ContestUS_banner_bkg.tga.ckd/f69d2e5d8da435fbda85b5f6a79a0554.ckd",
+      "map_bkgImageUrl": "/public/map/ContestUS/orbis/ContestUS_map_bkg.tga.ckd/431a28f6e15715d1f40f442709a4a1fa.ckd",
+      "expandCoachImageUrl": "/public/map/ContestUS/orbis/ContestUS_Cover_AlbumCoach.tga.ckd/6252e5d70d99fbc333b6e041eb03bf99.ckd",
+      "cover_smallImageUrl": "/public/map/ContestUS/orbis/ContestUS_Cover_Online.tga.ckd/a91e8ff65c8879b8e41a652ef666b9a0.ckd",
+      "coverImageUrl": "/public/map/ContestUS/orbis/ContestUS_Cover_Generic.tga.ckd/8098f020c6ddae4a6d67873c6c79b603.ckd",
+      "coach1ImageUrl": "/public/map/ContestUS/orbis/ContestUS_Coach_1.tga.ckd/f3342fd830989930e6845ced46df3fb0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ContestUS/ContestUS_Coach_1_Phone.png/2dbbacf73a5ba8e6785e6080c83afa51.png",
+    "phoneCoverImageUrl": "/public/map/ContestUS/ContestUS_Cover_Phone.jpg/c4f759bb3e1e958e4c44eea06ebfb606.jpg",
+    "cover640ImageUrl": "/public/map/ContestUS/ContestUS_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ContestUS/ContestUS.ogg": "/private/map/ContestUS/ContestUS.ogg/2d0d4914912248829eb846ea99e1fa06.ogg",
+    "jmcs://jd-contents/ContestUS/ContestUS_AudioPreview.ogg": "/public/map/ContestUS/ContestUS_AudioPreview.ogg/d136be9efab7d093e7ac3501632ab0d5.ogg",
+    "jmcs://jd-contents/ContestUS/ContestUS_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ContestUS/ContestUS_MapPreviewNoSoundCrop_LOW.vp8.webm/f3bcb768f4294a14ede3b697d03ebf9a.webm",
+    "jmcs://jd-contents/ContestUS/ContestUS_HIGH.webm": "/private/map/ContestUS/ContestUS_HIGH.webm/2921fd08bf74ed201c33f2cda5a71fe1.webm",
+    "jmcs://jd-contents/ContestUS/ContestUS_LOW.webm": "/private/map/ContestUS/ContestUS_LOW.webm/75338b57b115391fdf57c8d49c74271c.webm",
+    "jmcs://jd-contents/ContestUS/ContestUS_MID.webm": "/private/map/ContestUS/ContestUS_MID.webm/2779c1580f6d1a041ad99d79683f82c2.webm",
+    "jmcs://jd-contents/ContestUS/ContestUS_ULTRA.hd.webm": "/private/map/ContestUS/ContestUS_ULTRA.hd.webm/291c66e46bef269aed07dbfe3bd423c2.webm",
+    "jmcs://jd-contents/ContestUS/ContestUS_ULTRA.webm": "/private/map/ContestUS/ContestUS_ULTRA.webm/ac7f74e7b3d610cd1b48c57faf04f76e.webm",
+    "jmcs://jd-contents/ContestUS/ContestUS_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ContestUS/ContestUS_MapPreviewNoSoundCrop_MID.vp8.webm/b9908a77a2edb169c8153d38c1a54d22.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497767\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ContestUS/ContestUS_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484140\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ContestUS/ContestUS_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 237.538688
+}

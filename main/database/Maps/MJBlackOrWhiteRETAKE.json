@@ -1,0 +1,167 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE.ogg": "/private/map/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE.ogg/87e654c7b7b5661a8e16a6cb402ed070.ogg",
+    "jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_AudioPreview.ogg": "/public/map/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_AudioPreview.ogg/22f256c1767747a8ef3f2d4cd3dffcd6.ogg",
+    "jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm/0bc5c82ef268ef1ad6cd555e3228ff9e.webm",
+    "jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm/13d28f578f5ec915cc12a45e38dfcca6.webm",
+    "jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_HIGH.vp8.webm/70f91c60fff5d401390312b5bad0ae16.webm",
+    "jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_ULTRA.vp8.webm/ee4b96c4573baefa4b2da165396a711e.webm",
+    "jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_ULTRA.hd.webm": "/private/map/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_ULTRA.hd.webm/b424d75e3afe4cd558fde7f4cfd3abbf.webm",
+    "jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_HIGH.hd.webm": "/private/map/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_HIGH.hd.webm/bc2db650a0577e9eb0c488d9a998282c.webm",
+    "jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MID.hd.webm": "/private/map/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MID.hd.webm/82ac8974b69eb38c3fa04fe1ba8d3e7b.webm",
+    "jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_LOW.hd.webm": "/private/map/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_LOW.hd.webm/992e30925c8f0fba90539ff3e468f47e.webm"
+  },
+  "mapLength": 198.39969791666667,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24911,
+        50207,
+        75214,
+        100221,
+        125325,
+        150332,
+        175340,
+        200491,
+        225402,
+        250554,
+        275561,
+        300617,
+        325624,
+        350631,
+        375639,
+        400694,
+        425702,
+        450709,
+        475764,
+        500772,
+        525779,
+        550835,
+        575842,
+        600849,
+        625905,
+        650912,
+        675920,
+        700975,
+        725982,
+        750990,
+        776045,
+        801053,
+        826060,
+        851067,
+        876123,
+        901130,
+        926138,
+        951193,
+        976200,
+        1001208,
+        1026263,
+        1051175,
+        1076230,
+        1101237,
+        1126245,
+        1151300,
+        1176548,
+        1201315,
+        1226322,
+        1251378,
+        1276385,
+        1301393,
+        1326448,
+        1351456,
+        1376751,
+        1401518,
+        1426526
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 381,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_AudioPreview.ogg",
+    "path": ""
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"644664\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\n\t\t\t\t\t<Initialization range=\"0-640\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1474355\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\n\t\t\t\t\t<Initialization range=\"0-640\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2458188\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\n\t\t\t\t\t<Initialization range=\"0-640\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"2459608\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJBlackOrWhiteRETAKE/MJBlackOrWhiteRETAKE_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\n\t\t\t\t\t<Initialization range=\"0-640\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "5ed1824d3c65e8bc14846834d2da757b",
+      "storageType": 0,
+      "url": "/public/map/MJBlackOrWhiteRETAKE/pc/MJBlackOrWhiteRETAKE_MAIN_SCENE_PC.zip/5ed1824d3c65e8bc14846834d2da757b.zip"
+    },
+    "ps4": {
+      "md5": "c2bdab3ede76d21651e1739838a0349b",
+      "storageType": 0,
+      "url": "/public/map/MJBlackOrWhiteRETAKE/orbis/MJBlackOrWhiteRETAKE_MAIN_SCENE_ORBIS.zip/c2bdab3ede76d21651e1739838a0349b.zip"
+    },
+    "nx": {
+      "md5": "b93b64f5125209aff1e2f72779e4a53b",
+      "storageType": 0,
+      "url": "/public/map/MJBlackOrWhiteRETAKE/nx/MJBlackOrWhiteRETAKE_MAIN_SCENE_NX.zip/b93b64f5125209aff1e2f72779e4a53b.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJBlackOrWhiteRETAKE",
+    "title": "Black Or White",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 3,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#a37224"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_banner_bkg.tga.ckd/48346e2ec2e600c3e79b6ac84a71c5a2.ckd",
+      "map_bkgImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_map_bkg.tga.ckd/d40cd2b86a9fd856fe8c31ace50bed8c.ckd",
+      "expandCoachImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_Cover_AlbumCoach.tga.ckd/571b32f09497f62f1c11c85aa1f988b4.ckd",
+      "cover_smallImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_Cover_Online.tga.ckd/baa74faa169a48b216e730862b48739d.ckd",
+      "coach1ImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_Coach_1.tga.ckd/9515afa3b331fb1a41401c774e90c099.ckd",
+      "coach2ImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_Coach_2.tga.ckd/8a0f00cbe992307496c07e446b3efb3c.ckd",
+      "coach3ImageUrl": "/public/map/MJBlackOrWhite/nx/MJBlackOrWhite_Coach_3.tga.ckd/9515afa3b331fb1a41401c774e90c099.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_banner_bkg.tga.ckd/e60819b63bb3fd187d93ab68c18ba6ed.ckd",
+      "map_bkgImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_map_bkg.tga.ckd/1cefc6111c7ba5fb0da4e80e2df0dc7d.ckd",
+      "expandCoachImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_Cover_AlbumCoach.tga.ckd/af8b35cd6346882fda6f303951e86913.ckd",
+      "cover_smallImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_Cover_Online.tga.ckd/35dbf68d154324b7a729aa4850a9eb40.ckd",
+      "coach1ImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_Coach_1.tga.ckd/c8ea50ea57b4f872335683ba22037756.ckd",
+      "coach2ImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_Coach_2.tga.ckd/cdb83a03bc3fa847b5feee07f90460fe.ckd",
+      "coach3ImageUrl": "/public/map/MJBlackOrWhite/pc/MJBlackOrWhite_Coach_3.tga.ckd/c8ea50ea57b4f872335683ba22037756.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_banner_bkg.tga.ckd/e60819b63bb3fd187d93ab68c18ba6ed.ckd",
+      "map_bkgImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_map_bkg.tga.ckd/1cefc6111c7ba5fb0da4e80e2df0dc7d.ckd",
+      "expandCoachImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_Cover_AlbumCoach.tga.ckd/af8b35cd6346882fda6f303951e86913.ckd",
+      "cover_smallImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_Cover_Online.tga.ckd/35dbf68d154324b7a729aa4850a9eb40.ckd",
+      "coach1ImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_Coach_1.tga.ckd/c8ea50ea57b4f872335683ba22037756.ckd",
+      "coach2ImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_Coach_2.tga.ckd/cdb83a03bc3fa847b5feee07f90460fe.ckd",
+      "coach3ImageUrl": "/public/map/MJBlackOrWhite/orbis/MJBlackOrWhite_Coach_3.tga.ckd/c8ea50ea57b4f872335683ba22037756.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJBlackOrWhite/MJBlackOrWhite_Coach_1_Phone.png/9850deea0a4e77674fa9eba147f2fd05.png",
+    "phoneCoach2ImageUrl": "/public/map/MJBlackOrWhite/MJBlackOrWhite_Coach_2_Phone.png/083f899bd7ae7e31358d7e8d8f84a057.png",
+    "phoneCoach3ImageUrl": "/public/map/MJBlackOrWhite/MJBlackOrWhite_Coach_3_Phone.png/9850deea0a4e77674fa9eba147f2fd05.png",
+    "phoneCoverImageUrl": "/public/map/MJBlackOrWhite/MJBlackOrWhite_Cover_Phone.jpg/a594ad4e80a37d535fcccc0c87f90de5.jpg",
+    "cover640ImageUrl": "/public/map/MJBlackOrWhite/MJBlackOrWhite_Cover_640.png/78fb76c2deacc9ed51b3161f1f43378f.png"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Jukebox/Jukebox.ogg": "/private/map/Jukebox/Jukebox.ogg/b7e765a091f3955553f304604a416667.ogg",
+    "jmcs://jd-contents/Jukebox/Jukebox_AudioPreview.ogg": "/public/map/Jukebox/Jukebox_AudioPreview.ogg/878787547496edf82a413b1b4f13cb12.ogg",
+    "jmcs://jd-contents/Jukebox/Jukebox_HIGH.hd.webm": "/private/map/Jukebox/Jukebox_HIGH.hd.webm/41960baaf922564cb6c051204aa6c126.webm",
+    "jmcs://jd-contents/Jukebox/Jukebox_LOW.hd.webm": "/private/map/Jukebox/Jukebox_LOW.hd.webm/a4822d2113e99c70b8f78ea4a96b46eb.webm",
+    "jmcs://jd-contents/Jukebox/Jukebox_MID.hd.webm": "/private/map/Jukebox/Jukebox_MID.hd.webm/a22768aaa5150f31202a969153ee41b5.webm",
+    "jmcs://jd-contents/Jukebox/Jukebox_ULTRA.hd.webm": "/private/map/Jukebox/Jukebox_ULTRA.hd.webm/a0572ec17f497f15300a6ac045d4279e.webm",
+    "jmcs://jd-contents/Jukebox/Jukebox_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Jukebox/Jukebox_MapPreviewNoSoundCrop_LOW.vp8.webm/050675d1c5a5f9742eb287c9d1a9ecf7.webm",
+    "jmcs://jd-contents/Jukebox/Jukebox_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Jukebox/Jukebox_MapPreviewNoSoundCrop_MID.vp8.webm/f788b23830f523d7eb79378f077db669.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32000,
+        64000,
+        96000,
+        128000,
+        160000,
+        192000,
+        224000,
+        256000,
+        288000,
+        320000,
+        352000,
+        384000,
+        416000,
+        448000,
+        480000,
+        512000,
+        544000,
+        576000,
+        608000,
+        640000,
+        672000,
+        704000,
+        736000,
+        768000,
+        800000,
+        832000,
+        864000,
+        896000,
+        928000,
+        960000,
+        992000,
+        1024000,
+        1056000,
+        1088000,
+        1120000,
+        1152000,
+        1184000,
+        1216000,
+        1248000,
+        1280000,
+        1312000,
+        1344000,
+        1376000,
+        1408000,
+        1440000,
+        1472000,
+        1504000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 266,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 45,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Jukebox/Jukebox_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"533940\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Jukebox/Jukebox_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1987243\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Jukebox/Jukebox_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "270d7612157fe6b3b4c9e4f6e484680a",
+      "storageType": 0,
+      "url": "/public/map/Jukebox/nx/Jukebox_MAIN_SCENE_NX.zip/270d7612157fe6b3b4c9e4f6e484680a.zip"
+    },
+    "pc": {
+      "md5": "4b38e4bbe4286d3f6bcc2039f94d86cb",
+      "storageType": 0,
+      "url": "/public/map/Jukebox/pc/Jukebox_MAIN_SCENE_PC.zip/4b38e4bbe4286d3f6bcc2039f94d86cb.zip"
+    },
+    "ps4": {
+      "md5": "e9d26277ce31df05e015c3ca388c21f2",
+      "storageType": 0,
+      "url": "/public/map/Jukebox/orbis/Jukebox_MAIN_SCENE_ORBIS.zip/e9d26277ce31df05e015c3ca388c21f2.zip"
+    }
+  },
+  "data": {
+    "mapName": "Jukebox",
+    "title": "Pigstep (Just Dance x Minecraft version)",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Lena Raine, Minecraft, Dancing Bros.",
+    "credits": "Written and composed by Lena Raine. Remixed by Pete Crow. Published by Mojang AB. Courtesy of Mojang AB. All Rights Reserved. Minecraft, the Minecraft logo, the Creeper logo and the Mojang Studios logo are trademarks of the Microsoft group of companies.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#358efc",
+    "songColor2A": "#f67658",
+    "songColor1B": "#1e0e6f",
+    "songColor2B": "#89150c",
+    "lyricsColor": "#ffe940",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Jukebox/nx/Jukebox_banner_bkg.tga.ckd/356f8ba519bba3426b4b9aa4efac4459.ckd",
+      "map_bkgImageUrl": "/public/map/Jukebox/nx/Jukebox_map_bkg.tga.ckd/e7e43dda81759a88faed4f7a9bf8f34c.ckd",
+      "expandCoachImageUrl": "/public/map/Jukebox/nx/Jukebox_Cover_AlbumCoach.tga.ckd/835802c2942cbd04e82ceba12c670dbe.ckd",
+      "cover_smallImageUrl": "/public/map/Jukebox/nx/Jukebox_Cover_Online.tga.ckd/278ec19a51f23d7fda4df6b0f4e6c08c.ckd",
+      "coverImageUrl": "/public/map/Jukebox/nx/Jukebox_Cover_Generic.tga.ckd/a5ca5076c838a0972eb894a19faee7cf.ckd",
+      "coach1ImageUrl": "/public/map/Jukebox/nx/Jukebox_Coach_1.tga.ckd/0bbb9555a3ff03a9bd5d433d981892a8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Jukebox/pc/Jukebox_banner_bkg.tga.ckd/ed9832e091c831630a21a8d3f5cad098.ckd",
+      "map_bkgImageUrl": "/public/map/Jukebox/pc/Jukebox_map_bkg.tga.ckd/571b57f9fc130877d6793f88d1e00208.ckd",
+      "expandCoachImageUrl": "/public/map/Jukebox/pc/Jukebox_Cover_AlbumCoach.tga.ckd/9233545e5ed254624d566653af009b72.ckd",
+      "cover_smallImageUrl": "/public/map/Jukebox/pc/Jukebox_Cover_Online.tga.ckd/1c9570042885be59d91b68b1f6370626.ckd",
+      "coverImageUrl": "/public/map/Jukebox/pc/Jukebox_Cover_Generic.tga.ckd/6da3107bb90b342f1af3c9e7ac9229b5.ckd",
+      "coach1ImageUrl": "/public/map/Jukebox/pc/Jukebox_Coach_1.tga.ckd/7ab648aeff6859ed0e8aff5801635a30.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Jukebox/orbis/Jukebox_banner_bkg.tga.ckd/ed9832e091c831630a21a8d3f5cad098.ckd",
+      "map_bkgImageUrl": "/public/map/Jukebox/orbis/Jukebox_map_bkg.tga.ckd/571b57f9fc130877d6793f88d1e00208.ckd",
+      "expandCoachImageUrl": "/public/map/Jukebox/orbis/Jukebox_Cover_AlbumCoach.tga.ckd/9233545e5ed254624d566653af009b72.ckd",
+      "cover_smallImageUrl": "/public/map/Jukebox/orbis/Jukebox_Cover_Online.tga.ckd/1c9570042885be59d91b68b1f6370626.ckd",
+      "coverImageUrl": "/public/map/Jukebox/orbis/Jukebox_Cover_Generic.tga.ckd/6da3107bb90b342f1af3c9e7ac9229b5.ckd",
+      "coach1ImageUrl": "/public/map/Jukebox/orbis/Jukebox_Coach_1.tga.ckd/7ab648aeff6859ed0e8aff5801635a30.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Jukebox/Jukebox_Coach_1_Phone.png/9c86d3cbc98a79a24cecf2a16abedb06.png",
+    "phoneCoverImageUrl": "/public/map/Jukebox/Jukebox_Cover_Phone.jpg/b499b496534b84df808526f821d20bc7.jpg",
+    "cover640ImageUrl": "/public/map/Jukebox/Jukebox_Cover_640.png/9aa93688be796ac38a5fe9305fb34a2a.png"
+  },
+  "mapLength": 172.967938
+}

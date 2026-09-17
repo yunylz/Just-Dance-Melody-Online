@@ -1,0 +1,181 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "873fb407df585a3bf225c986dba43e50",
+      "storageType": 0,
+      "url": "/public/map/MaruMori/nx/MaruMori_MAIN_SCENE_NX.zip/873fb407df585a3bf225c986dba43e50.zip"
+    },
+    "pc": {
+      "md5": "f4c8ecbf8268fdd8db3f65faedb4f6af",
+      "storageType": 0,
+      "url": "/public/map/MaruMori/pc/MaruMori_MAIN_SCENE_PC.zip/f4c8ecbf8268fdd8db3f65faedb4f6af.zip"
+    },
+    "ps4": {
+      "md5": "89abdc0d363fde157073c09e220bbb0f",
+      "storageType": 0,
+      "url": "/public/map/MaruMori/orbis/MaruMori_MAIN_SCENE_ORBIS.zip/89abdc0d363fde157073c09e220bbb0f.zip"
+    }
+  },
+  "data": {
+    "mapName": "MaruMori",
+    "title": "Maru Maru Mori Mori!",
+    "originalJDVersion": 1001,
+    "tags": [
+      "subscribedSong",
+      "jdwii2",
+      "JustDanceAsia",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "Kaoru to Tomoki, Tama ni Mukku",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#3f9eed"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        4512,
+        27552,
+        50592,
+        73632,
+        96672,
+        119712,
+        142752,
+        165792,
+        188832,
+        211872,
+        234912,
+        257952,
+        280992,
+        304032,
+        327072,
+        350112,
+        373152,
+        396192,
+        419232,
+        442272,
+        465312,
+        488352,
+        511392,
+        534432,
+        557472,
+        580512,
+        603552,
+        626592,
+        649632,
+        672672,
+        695712,
+        718752,
+        741792,
+        764832,
+        787872,
+        810912,
+        833952,
+        856992,
+        880032,
+        903072,
+        926112,
+        949152,
+        972192,
+        995232,
+        1018272,
+        1041312,
+        1064352,
+        1087392,
+        1110432,
+        1133472,
+        1156512,
+        1179552,
+        1202592,
+        1225632,
+        1248672,
+        1271712,
+        1294752,
+        1317792,
+        1340832,
+        1363872,
+        1386912,
+        1409952,
+        1432992,
+        1456032,
+        1479072
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 474,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MaruMori/MaruMori_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MaruMori/nx/MaruMori_banner_bkg.tga.ckd/ca8d183563987e612fda3a76e8667b3b.ckd",
+      "map_bkgImageUrl": "/public/map/MaruMori/nx/MaruMori_map_bkg.tga.ckd/c2abb1cd5d02163f57f660738f39bc82.ckd",
+      "expandCoachImageUrl": "/public/map/MaruMori/nx/MaruMori_Cover_AlbumCoach.tga.ckd/8d299a201209f5385109f275d86a1bdd.ckd",
+      "cover_smallImageUrl": "/public/map/MaruMori/nx/MaruMori_Cover_Online.tga.ckd/fb78383a6aea332afea0cacbd5a3993f.ckd",
+      "coach1ImageUrl": "/public/map/MaruMori/nx/MaruMori_Coach_1.tga.ckd/9970ab6a3c6d4e611dd69fccfc0a2814.ckd",
+      "coach2ImageUrl": "/public/map/MaruMori/nx/MaruMori_Coach_2.tga.ckd/fe29e9d296701f158fae909c5ec4e977.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MaruMori/pc/MaruMori_banner_bkg.tga.ckd/1f06aaf6fe99e1ef1e59d86589ab41a2.ckd",
+      "map_bkgImageUrl": "/public/map/MaruMori/pc/MaruMori_map_bkg.tga.ckd/666f6c4534c4b55efe512e54f7a59752.ckd",
+      "expandCoachImageUrl": "/public/map/MaruMori/pc/MaruMori_Cover_AlbumCoach.tga.ckd/b9e5e4093ce731d98b89494dbfbb9332.ckd",
+      "cover_smallImageUrl": "/public/map/MaruMori/pc/MaruMori_Cover_Online.tga.ckd/7ef970d1d80f9631a35c6d8267579ca1.ckd",
+      "coach1ImageUrl": "/public/map/MaruMori/pc/MaruMori_Coach_1.tga.ckd/28f9c07d18e098926355c9ee1ac40088.ckd",
+      "coach2ImageUrl": "/public/map/MaruMori/pc/MaruMori_Coach_2.tga.ckd/b3a43d1e81c503ebb9ed0c5d3bc1b61b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MaruMori/orbis/MaruMori_banner_bkg.tga.ckd/1f06aaf6fe99e1ef1e59d86589ab41a2.ckd",
+      "map_bkgImageUrl": "/public/map/MaruMori/orbis/MaruMori_map_bkg.tga.ckd/666f6c4534c4b55efe512e54f7a59752.ckd",
+      "expandCoachImageUrl": "/public/map/MaruMori/orbis/MaruMori_Cover_AlbumCoach.tga.ckd/b9e5e4093ce731d98b89494dbfbb9332.ckd",
+      "cover_smallImageUrl": "/public/map/MaruMori/orbis/MaruMori_Cover_Online.tga.ckd/7ef970d1d80f9631a35c6d8267579ca1.ckd",
+      "coach1ImageUrl": "/public/map/MaruMori/orbis/MaruMori_Coach_1.tga.ckd/28f9c07d18e098926355c9ee1ac40088.ckd",
+      "coach2ImageUrl": "/public/map/MaruMori/orbis/MaruMori_Coach_2.tga.ckd/b3a43d1e81c503ebb9ed0c5d3bc1b61b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MaruMori/MaruMori_Coach_1_Phone.png/dbf8062f37392cf76fe6fd5cbc7e8831.png",
+    "phoneCoach2ImageUrl": "/public/map/MaruMori/MaruMori_Coach_2_Phone.png/2277cce1e3883d42a1ebe55d0b916996.png",
+    "phoneCoverImageUrl": "/public/map/MaruMori/MaruMori_Cover_Phone.jpg/4ed8c19eef3d86d536044c7f76cd07f7.jpg",
+    "cover640ImageUrl": "/public/map/MaruMori/MaruMori_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MaruMori/MaruMori.ogg": "/private/map/MaruMori/MaruMori.ogg/538d494d7cc4e74d7101f175a03d6b51.ogg",
+    "jmcs://jd-contents/MaruMori/MaruMori_AudioPreview.ogg": "/public/map/MaruMori/MaruMori_AudioPreview.ogg/68a570968374d68517cf47af4765ad38.ogg",
+    "jmcs://jd-contents/MaruMori/MaruMori_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MaruMori/MaruMori_MapPreviewNoSoundCrop_LOW.vp8.webm/8914f55bac10dd527b9948b8d68afff8.webm",
+    "jmcs://jd-contents/MaruMori/MaruMori_HIGH.webm": "/private/map/MaruMori/MaruMori_HIGH.webm/b104906f949c06431fd5b49635ae72cf.webm",
+    "jmcs://jd-contents/MaruMori/MaruMori_LOW.webm": "/private/map/MaruMori/MaruMori_LOW.webm/49c0cee3be9fd2a2c444091903194054.webm",
+    "jmcs://jd-contents/MaruMori/MaruMori_MID.webm": "/private/map/MaruMori/MaruMori_MID.webm/f12fc4fd808f800be737e9f7fea27989.webm",
+    "jmcs://jd-contents/MaruMori/MaruMori_ULTRA.webm": "/private/map/MaruMori/MaruMori_ULTRA.webm/301243ed40c36886cf3848b252d4421c.webm",
+    "jmcs://jd-contents/MaruMori/MaruMori_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MaruMori/MaruMori_MapPreviewNoSoundCrop_MID.vp8.webm/b2a9c63dc8759aa256ac757364fe9aa7.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"527786\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MaruMori/MaruMori_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1530007\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MaruMori/MaruMori_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 228.16125
+}

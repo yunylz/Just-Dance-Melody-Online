@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "62b0123b53a8ff09f309fc8113d6dad0",
+      "storageType": 0,
+      "url": "/public/map/DontCha/nx/DontCha_MAIN_SCENE_NX.zip/62b0123b53a8ff09f309fc8113d6dad0.zip"
+    },
+    "pc": {
+      "md5": "0addd9ecd40b2d23c4f7f396179968c7",
+      "storageType": 0,
+      "url": "/public/map/DontCha/pc/DontCha_MAIN_SCENE_PC.zip/0addd9ecd40b2d23c4f7f396179968c7.zip"
+    },
+    "ps4": {
+      "md5": "ce2f33318af98512dfc9ade05f0aafb9",
+      "storageType": 0,
+      "url": "/public/map/DontCha/orbis/DontCha_MAIN_SCENE_ORBIS.zip/ce2f33318af98512dfc9ade05f0aafb9.zip"
+    }
+  },
+  "data": {
+    "mapName": "DontCha",
+    "title": "Don't Cha",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Pussycat Dolls ft. Busta Rhymes",
+    "credits": "Written by Thomas Callaway, Anthony L. Ray, Trevor Smith. Published by Notting Hill Music Inc. Admin by Songs of Kobalt Music Publishing / Universal Music Publishing Canada on behalf of Mix A Lot Publishing. Courtesy of Interscope Records under license from Universal Music Enterprises. ",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e8adf1",
+    "songColor2A": "#ffd88a",
+    "songColor1B": "#0b2f80",
+    "songColor2B": "#8a2f7a",
+    "lyricsColor": "#faaf54"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696312,
+        720623,
+        744935,
+        769231,
+        793226,
+        817221,
+        841217,
+        865212,
+        889208,
+        913203,
+        937198,
+        961194,
+        985189,
+        1009185,
+        1033180,
+        1057175,
+        1081171,
+        1105166,
+        1129162,
+        1153157,
+        1177152,
+        1201148,
+        1225143,
+        1249139,
+        1273134,
+        1297129,
+        1321125,
+        1345120,
+        1369116,
+        1393111,
+        1417106,
+        1441102,
+        1465097,
+        1489093
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 550,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DontCha/DontCha_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DontCha/nx/DontCha_banner_bkg.tga.ckd/a2ac34d34e005f84df6e1595b35dea89.ckd",
+      "map_bkgImageUrl": "/public/map/DontCha/nx/DontCha_map_bkg.tga.ckd/b865a6e6080ba79570c631b3506c9845.ckd",
+      "expandCoachImageUrl": "/public/map/DontCha/nx/DontCha_Cover_AlbumCoach.tga.ckd/83e315e1ec50d533c2377185823e2fe8.ckd",
+      "cover_smallImageUrl": "/public/map/DontCha/nx/DontCha_Cover_Online.tga.ckd/0f574c24016a3212680fc44816f40dd5.ckd",
+      "coverImageUrl": "/public/map/DontCha/nx/DontCha_Cover_Generic.tga.ckd/69258098f7bd320b85ad2204ec8fee35.ckd",
+      "coach1ImageUrl": "/public/map/DontCha/nx/DontCha_Coach_1.tga.ckd/a517a626cc7329fa4a7f5af91135207e.ckd",
+      "coach2ImageUrl": "/public/map/DontCha/nx/DontCha_Coach_2.tga.ckd/7c2e3db74d39dd82cb3cae466521bbfa.ckd",
+      "coach3ImageUrl": "/public/map/DontCha/nx/DontCha_Coach_3.tga.ckd/3800d37af5af75da4afd264355ac0764.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DontCha/pc/DontCha_banner_bkg.tga.ckd/c4ce262165659add571808b3de9bff91.ckd",
+      "map_bkgImageUrl": "/public/map/DontCha/pc/DontCha_map_bkg.tga.ckd/5e09f00227eade3be8426dd07afd6a7e.ckd",
+      "expandCoachImageUrl": "/public/map/DontCha/pc/DontCha_Cover_AlbumCoach.tga.ckd/05ab957e3c65a16bdd779495caba9a60.ckd",
+      "cover_smallImageUrl": "/public/map/DontCha/pc/DontCha_Cover_Online.tga.ckd/07ac9ba47b54b5ed64d54eebeea8b493.ckd",
+      "coverImageUrl": "/public/map/DontCha/pc/DontCha_Cover_Generic.tga.ckd/bffb615f63d177b8830d0416ea290dd0.ckd",
+      "coach1ImageUrl": "/public/map/DontCha/pc/DontCha_Coach_1.tga.ckd/daf2c8cba4ad71956848f56ee8941312.ckd",
+      "coach2ImageUrl": "/public/map/DontCha/pc/DontCha_Coach_2.tga.ckd/0728ffda1fc5e5697f39f06831dcb2d2.ckd",
+      "coach3ImageUrl": "/public/map/DontCha/pc/DontCha_Coach_3.tga.ckd/4eb51a4ede05b277ea10426a789fa4e6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DontCha/orbis/DontCha_banner_bkg.tga.ckd/c4ce262165659add571808b3de9bff91.ckd",
+      "map_bkgImageUrl": "/public/map/DontCha/orbis/DontCha_map_bkg.tga.ckd/5e09f00227eade3be8426dd07afd6a7e.ckd",
+      "expandCoachImageUrl": "/public/map/DontCha/orbis/DontCha_Cover_AlbumCoach.tga.ckd/05ab957e3c65a16bdd779495caba9a60.ckd",
+      "cover_smallImageUrl": "/public/map/DontCha/orbis/DontCha_Cover_Online.tga.ckd/07ac9ba47b54b5ed64d54eebeea8b493.ckd",
+      "coverImageUrl": "/public/map/DontCha/orbis/DontCha_Cover_Generic.tga.ckd/bffb615f63d177b8830d0416ea290dd0.ckd",
+      "coach1ImageUrl": "/public/map/DontCha/orbis/DontCha_Coach_1.tga.ckd/daf2c8cba4ad71956848f56ee8941312.ckd",
+      "coach2ImageUrl": "/public/map/DontCha/orbis/DontCha_Coach_2.tga.ckd/0728ffda1fc5e5697f39f06831dcb2d2.ckd",
+      "coach3ImageUrl": "/public/map/DontCha/orbis/DontCha_Coach_3.tga.ckd/4eb51a4ede05b277ea10426a789fa4e6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DontCha/DontCha_Coach_1_Phone.png/13754908a41a3d2e873fc418100a77aa.png",
+    "phoneCoach2ImageUrl": "/public/map/DontCha/DontCha_Coach_2_Phone.png/17c384881e7e5fa22cdc1e2e5b92468c.png",
+    "phoneCoach3ImageUrl": "/public/map/DontCha/DontCha_Coach_3_Phone.png/689a037c9b914afc667d8173f3b692b2.png",
+    "phoneCoverImageUrl": "/public/map/DontCha/DontCha_Cover_Phone.jpg/302a2057eacffe189ff329fcd9ea0065.jpg",
+    "cover640ImageUrl": "/public/map/DontCha/DontCha_Cover_640.png/4fbd8b537a7dc4679e1e070a123b7a22.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DontCha/DontCha.ogg": "/private/map/DontCha/DontCha.ogg/600b988a9cde9b3f188953e4cfd11c6b.ogg",
+    "jmcs://jd-contents/DontCha/DontCha_AudioPreview.ogg": "/public/map/DontCha/DontCha_AudioPreview.ogg/c97c244c7eaaf508a7365bf3e251adb8.ogg",
+    "jmcs://jd-contents/DontCha/DontCha_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DontCha/DontCha_MapPreviewNoSoundCrop_LOW.vp8.webm/e254a3ba363eff65f297caa71cbd5fbe.webm",
+    "jmcs://jd-contents/DontCha/DontCha_HIGH.webm": "/private/map/DontCha/DontCha_HIGH.webm/f023d4303f747ec8e40bd849010055e9.webm",
+    "jmcs://jd-contents/DontCha/DontCha_LOW.webm": "/private/map/DontCha/DontCha_LOW.webm/2f006d0eeee34902467e67e21b172a39.webm",
+    "jmcs://jd-contents/DontCha/DontCha_MID.webm": "/private/map/DontCha/DontCha_MID.webm/a6c74fecbe3cdda63b5f585a98a1cf68.webm",
+    "jmcs://jd-contents/DontCha/DontCha_ULTRA.hd.webm": "/private/map/DontCha/DontCha_ULTRA.hd.webm/620440ab36bad5c4f37c92cb4ec1aacf.webm",
+    "jmcs://jd-contents/DontCha/DontCha_ULTRA.webm": "/private/map/DontCha/DontCha_ULTRA.webm/5857ce459229eb66805d6de474149b95.webm",
+    "jmcs://jd-contents/DontCha/DontCha_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DontCha/DontCha_MapPreviewNoSoundCrop_MID.vp8.webm/718dfb2762267ef143991b42c1bdcf20.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"518412\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontCha/DontCha_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\n\t\t\t\t\t<Initialization range=\"0-657\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1511760\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DontCha/DontCha_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"658-1148\">\n\t\t\t\t\t<Initialization range=\"0-658\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 282.047896
+}

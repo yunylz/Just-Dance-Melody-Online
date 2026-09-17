@@ -1,0 +1,144 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Origin/Origin.ogg": "/private/map/Origin/Origin.ogg/d011c5937514327b608a6047a839c483.ogg",
+    "jmcs://jd-contents/Origin/Origin_AudioPreview.ogg": "/public/map/Origin/Origin_AudioPreview.ogg/239ee1f5df02245e7b829966e424ec1b.ogg",
+    "jmcs://jd-contents/Origin/Origin_HIGH.hd.webm": "/private/map/Origin/Origin_HIGH.hd.webm/67e077751a27c6b01c977ecb6cfd89bf.webm",
+    "jmcs://jd-contents/Origin/Origin_LOW.hd.webm": "/private/map/Origin/Origin_LOW.hd.webm/2f71e9050833563ca40c7e504c0cb38f.webm",
+    "jmcs://jd-contents/Origin/Origin_MID.hd.webm": "/private/map/Origin/Origin_MID.hd.webm/038562f24d52ce75b74567eda2061d8b.webm",
+    "jmcs://jd-contents/Origin/Origin_ULTRA.hd.webm": "/private/map/Origin/Origin_ULTRA.hd.webm/ed9b8b5b02c0c90e5084cc5c65463e05.webm",
+    "jmcs://jd-contents/Origin/Origin_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Origin/Origin_MapPreviewNoSoundCrop_LOW.vp8.webm/9dfff8ec940bd36eb6a611caebd016d2.webm",
+    "jmcs://jd-contents/Origin/Origin_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Origin/Origin_MapPreviewNoSoundCrop_MID.vp8.webm/770e8b0bac3eee0d90e752c06406a3c5.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        48759,
+        97517,
+        146276,
+        195035,
+        242023,
+        289072,
+        337237,
+        385403,
+        434935,
+        482445,
+        529955,
+        575602,
+        623734,
+        671900,
+        720739,
+        769578,
+        818417,
+        867257,
+        914767,
+        964299,
+        1013831,
+        1061996,
+        1107643,
+        1153290,
+        1202129,
+        1250969,
+        1297396,
+        1345545,
+        1393710,
+        1438435,
+        1487344,
+        1536252
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 216,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 30,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Origin/Origin_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"512693\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Origin/Origin_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1977501\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Origin/Origin_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "13a8b7ae75882ae3c4f3f9088579c46a",
+      "storageType": 0,
+      "url": "/public/map/Origin/nx/Origin_MAIN_SCENE_NX.zip/13a8b7ae75882ae3c4f3f9088579c46a.zip"
+    },
+    "pc": {
+      "md5": "8c46c33bbb63b3bffa95340bbdf41e8e",
+      "storageType": 0,
+      "url": "/public/map/Origin/pc/Origin_MAIN_SCENE_PC.zip/8c46c33bbb63b3bffa95340bbdf41e8e.zip"
+    },
+    "ps4": {
+      "md5": "e2f3e5e362f4ca1567e33d12990bd9ff",
+      "storageType": 0,
+      "url": "/public/map/Origin/orbis/Origin_MAIN_SCENE_ORBIS.zip/e2f3e5e362f4ca1567e33d12990bd9ff.zip"
+    }
+  },
+  "data": {
+    "mapName": "Origin",
+    "title": "This Wish",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Ariana DeBose",
+    "credits": "Performed by Ariana DeBose. Written by Julia Michaels, Benjamin Rice, JP Saxe. Published by Wonderland Music Company, Inc. (BMI) All Rights Reserved. Courtesy of Walt Disney Records.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#9178ff",
+    "songColor2A": "#357ff9",
+    "songColor1B": "#2b0768",
+    "songColor2B": "#052560",
+    "lyricsColor": "#ffd14c",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Origin/nx/Origin_banner_bkg.tga.ckd/6183bd51998329772b60fb08da359b55.ckd",
+      "map_bkgImageUrl": "/public/map/Origin/nx/Origin_map_bkg.tga.ckd/4aaa7305bd58b0f894e20ca16a9896f1.ckd",
+      "expandCoachImageUrl": "/public/map/Origin/nx/Origin_Cover_AlbumCoach.tga.ckd/af01d08fd2e49d346ca1ce94d087ce5a.ckd",
+      "cover_smallImageUrl": "/public/map/Origin/nx/Origin_Cover_Online.tga.ckd/cd9381065ee7cf813399866ae2c13890.ckd",
+      "coverImageUrl": "/public/map/Origin/nx/Origin_Cover_Generic.tga.ckd/891f8324c118cf285b8a4ab9e8aabd96.ckd",
+      "coach1ImageUrl": "/public/map/Origin/nx/Origin_Coach_1.tga.ckd/a1ef9d10389f07dbcc2ac50549b36871.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Origin/pc/Origin_banner_bkg.tga.ckd/cca9469cc1e071e99656fb1af04243ea.ckd",
+      "map_bkgImageUrl": "/public/map/Origin/pc/Origin_map_bkg.tga.ckd/b05f0c9bf769b1eaf758070d0abf2745.ckd",
+      "expandCoachImageUrl": "/public/map/Origin/pc/Origin_Cover_AlbumCoach.tga.ckd/9290f8f1e2416175e2a115cfe3337f18.ckd",
+      "cover_smallImageUrl": "/public/map/Origin/pc/Origin_Cover_Online.tga.ckd/5f1fe190faa4d73c0e793014d6f19990.ckd",
+      "coverImageUrl": "/public/map/Origin/pc/Origin_Cover_Generic.tga.ckd/649989630c726e390dc288865937c724.ckd",
+      "coach1ImageUrl": "/public/map/Origin/pc/Origin_Coach_1.tga.ckd/2df28fbd08da15954f6b8b5dc114fca0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Origin/orbis/Origin_banner_bkg.tga.ckd/cca9469cc1e071e99656fb1af04243ea.ckd",
+      "map_bkgImageUrl": "/public/map/Origin/orbis/Origin_map_bkg.tga.ckd/b05f0c9bf769b1eaf758070d0abf2745.ckd",
+      "expandCoachImageUrl": "/public/map/Origin/orbis/Origin_Cover_AlbumCoach.tga.ckd/9290f8f1e2416175e2a115cfe3337f18.ckd",
+      "cover_smallImageUrl": "/public/map/Origin/orbis/Origin_Cover_Online.tga.ckd/5f1fe190faa4d73c0e793014d6f19990.ckd",
+      "coverImageUrl": "/public/map/Origin/orbis/Origin_Cover_Generic.tga.ckd/649989630c726e390dc288865937c724.ckd",
+      "coach1ImageUrl": "/public/map/Origin/orbis/Origin_Coach_1.tga.ckd/2df28fbd08da15954f6b8b5dc114fca0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Origin/Origin_Coach_1_Phone.png/9e500c159289e2f1af3f40ed89970dde.png",
+    "phoneCoverImageUrl": "/public/map/Origin/Origin_Cover_Phone.jpg/b42e726b8e7e098b7a24eb648014724a.jpg",
+    "cover640ImageUrl": "/public/map/Origin/Origin_Cover_640.png/56be8a3c4f0fb79db09cd6cd584edb97.png"
+  },
+  "mapLength": 210.513208
+}

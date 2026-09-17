@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "28d752c110f7d60103db8af94f96b68b",
+      "storageType": 0,
+      "url": "/public/map/Woof/nx/Woof_MAIN_SCENE_NX.zip/28d752c110f7d60103db8af94f96b68b.zip"
+    },
+    "pc": {
+      "md5": "b22083d426617f3983bb1d9a6e2e3430",
+      "storageType": 0,
+      "url": "/public/map/Woof/pc/Woof_MAIN_SCENE_PC.zip/b22083d426617f3983bb1d9a6e2e3430.zip"
+    },
+    "ps4": {
+      "md5": "54d4714ecac549533a9e048653ecf00b",
+      "storageType": 0,
+      "url": "/public/map/Woof/orbis/Woof_MAIN_SCENE_ORBIS.zip/54d4714ecac549533a9e048653ecf00b.zip"
+    }
+  },
+  "data": {
+    "mapName": "Woof",
+    "title": "Woof (Feat. Kah-Lo)",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sofi Tukker",
+    "credits": "Written by Richard Beynon, Sophie Hawley-Weld, Tucker Halpern, Kah-Lo. Published by Copyright Control / Third Side Music obo Ticolini Music, and Tukker Publishing / These Are Pulse Songs obo itself and Lagos Way Music; administered by Concord Copyrights. Courtesy of Sofi Tukker, LLC.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#ff68d8"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22326,
+        44651,
+        66977,
+        89302,
+        111628,
+        133953,
+        156279,
+        178605,
+        200930,
+        223256,
+        245581,
+        267907,
+        290233,
+        312558,
+        334884,
+        357209,
+        379535,
+        401860,
+        424186,
+        446512,
+        468837,
+        491163,
+        513488,
+        535814,
+        558140,
+        580465,
+        602791,
+        625116,
+        647442,
+        669767,
+        692093,
+        714419,
+        736744,
+        759070,
+        781395,
+        803721,
+        826047,
+        848372,
+        870698,
+        893023,
+        915349,
+        937674,
+        960000,
+        982326,
+        1004651,
+        1026977,
+        1049302,
+        1071628,
+        1093953,
+        1116279,
+        1138605,
+        1160930,
+        1183256,
+        1205581,
+        1227907,
+        1250233,
+        1272558,
+        1294884,
+        1317209,
+        1339535,
+        1361860,
+        1384186,
+        1406512,
+        1428837,
+        1451163,
+        1473488
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -16,
+      "endBeat": 358,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Woof/Woof_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Woof/nx/Woof_banner_bkg.tga.ckd/4ca4113b884c1232ef4c1e7728bfdb67.ckd",
+      "map_bkgImageUrl": "/public/map/Woof/nx/Woof_map_bkg.tga.ckd/74195315f475573a87fdc331e089668a.ckd",
+      "expandCoachImageUrl": "/public/map/Woof/nx/Woof_Cover_AlbumCoach.tga.ckd/c93a674d6ea6d2676ca97fc70f7520ed.ckd",
+      "cover_smallImageUrl": "/public/map/Woof/nx/Woof_Cover_Online.tga.ckd/eee3b5512670223d014c4d6c31200246.ckd",
+      "coach1ImageUrl": "/public/map/Woof/nx/Woof_Coach_1.tga.ckd/9a37bb30b606e4f3761a4ee46c0fe7d7.ckd",
+      "coach2ImageUrl": "/public/map/Woof/nx/Woof_Coach_2.tga.ckd/a9e2d198ae9bd2ac366b523877e24786.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Woof/pc/Woof_banner_bkg.tga.ckd/6560ece5e0a76e9d1c6a6307061df7c0.ckd",
+      "map_bkgImageUrl": "/public/map/Woof/pc/Woof_map_bkg.tga.ckd/fcf39e0ea9b0c48e6311381cb1c39e3f.ckd",
+      "expandCoachImageUrl": "/public/map/Woof/pc/Woof_Cover_AlbumCoach.tga.ckd/a1a5987a07f9b34939e4e1aac598fccc.ckd",
+      "cover_smallImageUrl": "/public/map/Woof/pc/Woof_Cover_Online.tga.ckd/13ca1e3305a1344bbd7652d3ecae9199.ckd",
+      "coach1ImageUrl": "/public/map/Woof/pc/Woof_Coach_1.tga.ckd/4df0bbfc27300cdf6ca45f4e47057773.ckd",
+      "coach2ImageUrl": "/public/map/Woof/pc/Woof_Coach_2.tga.ckd/63d80e7936a589344c6f10d493a72c26.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Woof/orbis/Woof_banner_bkg.tga.ckd/6560ece5e0a76e9d1c6a6307061df7c0.ckd",
+      "map_bkgImageUrl": "/public/map/Woof/orbis/Woof_map_bkg.tga.ckd/fcf39e0ea9b0c48e6311381cb1c39e3f.ckd",
+      "expandCoachImageUrl": "/public/map/Woof/orbis/Woof_Cover_AlbumCoach.tga.ckd/a1a5987a07f9b34939e4e1aac598fccc.ckd",
+      "cover_smallImageUrl": "/public/map/Woof/orbis/Woof_Cover_Online.tga.ckd/13ca1e3305a1344bbd7652d3ecae9199.ckd",
+      "coach1ImageUrl": "/public/map/Woof/orbis/Woof_Coach_1.tga.ckd/4df0bbfc27300cdf6ca45f4e47057773.ckd",
+      "coach2ImageUrl": "/public/map/Woof/orbis/Woof_Coach_2.tga.ckd/63d80e7936a589344c6f10d493a72c26.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Woof/Woof_Coach_1_Phone.png/b96cea4021049b77906ba4c3ad64b5c4.png",
+    "phoneCoach2ImageUrl": "/public/map/Woof/Woof_Coach_2_Phone.png/e310752a9f16068db79fcc4e84eba25f.png",
+    "phoneCoverImageUrl": "/public/map/Woof/Woof_Cover_Phone.jpg/d034f8d2ba79706b8c7a8d364209bb62.jpg",
+    "cover640ImageUrl": "/public/map/Woof/Woof_Cover_640.png/fae438cb8c7d7f0cc92cc1267aaa226a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Woof/Woof.ogg": "/private/map/Woof/Woof.ogg/7de3be9fa7060d280ea5319b246b5928.ogg",
+    "jmcs://jd-contents/Woof/Woof_AudioPreview.ogg": "/public/map/Woof/Woof_AudioPreview.ogg/5ee4a94382e4629709aebfde83aa5da8.ogg",
+    "jmcs://jd-contents/Woof/Woof_HIGH.webm": "/private/map/Woof/Woof_HIGH.webm/cd9dd2dbfef854e743117711d54243c6.webm",
+    "jmcs://jd-contents/Woof/Woof_LOW.webm": "/private/map/Woof/Woof_LOW.webm/5345aab6a6475b147b323d8f02376720.webm",
+    "jmcs://jd-contents/Woof/Woof_MID.webm": "/private/map/Woof/Woof_MID.webm/dea4c4643eacafc8ceb7a7ef1144bd4f.webm",
+    "jmcs://jd-contents/Woof/Woof_ULTRA.hd.webm": "/private/map/Woof/Woof_ULTRA.hd.webm/4b5cfff6fb3bdb7d1a2f3d53886340db.webm",
+    "jmcs://jd-contents/Woof/Woof_ULTRA.webm": "/private/map/Woof/Woof_ULTRA.webm/46b48a528d298ea304470a4df1b205ca.webm",
+    "jmcs://jd-contents/Woof/Woof_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Woof/Woof_MapPreviewNoSoundCrop_LOW.vp8.webm/cda8ac32033d7d8510c50082510b92ad.webm",
+    "jmcs://jd-contents/Woof/Woof_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Woof/Woof_MapPreviewNoSoundCrop_MID.vp8.webm/38e83d0716eaba1362208474fd2470ac.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"539121\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Woof/Woof_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\n\t\t\t\t\t<Initialization range=\"0-628\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1523919\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Woof/Woof_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\n\t\t\t\t\t<Initialization range=\"0-629\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 173.959938
+}

@@ -1,0 +1,173 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MJInTheCloset/MJInTheCloset.ogg": "/private/map/MJInTheCloset/MJInTheCloset.ogg/5797ab356355dbeeaa4a9b01a264f8ac.ogg",
+    "jmcs://jd-contents/MJInTheCloset/MJInTheCloset_AudioPreview.ogg": "/public/map/MJInTheCloset/MJInTheCloset_AudioPreview.ogg/c07a5c2f520cbb868a4ee885c985d76a.ogg",
+    "jmcs://jd-contents/MJInTheCloset/MJInTheCloset_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJInTheCloset/MJInTheCloset_MapPreviewNoSoundCrop_LOW.vp8.webm/5d6a7b06a14a96008c096dd615638392.webm",
+    "jmcs://jd-contents/MJInTheCloset/MJInTheCloset_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJInTheCloset/MJInTheCloset_MapPreviewNoSoundCrop_MID.vp8.webm/da57c74970429aa07b5aa3ce33002f56.webm",
+    "jmcs://jd-contents/MJInTheCloset/MJInTheCloset_HIGH.hd.webm": "/private/map/MJInTheCloset/MJInTheCloset_HIGH.hd.webm/7f729e2a4c9f24eefcc2b2aa82f59fb7.webm",
+    "jmcs://jd-contents/MJInTheCloset/MJInTheCloset_LOW.hd.webm": "/private/map/MJInTheCloset/MJInTheCloset_LOW.hd.webm/68813e3b2b460b1fff31914ff5230d83.webm",
+    "jmcs://jd-contents/MJInTheCloset/MJInTheCloset_MID.hd.webm": "/private/map/MJInTheCloset/MJInTheCloset_MID.hd.webm/f92145404d61efcbff99080b26de9a4e.webm",
+    "jmcs://jd-contents/MJInTheCloset/MJInTheCloset_ULTRA.hd.webm": "/private/map/MJInTheCloset/MJInTheCloset_ULTRA.hd.webm/0cb63540b8dab0928e9e3b7a9e4936fc.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26355,
+        52443,
+        78531,
+        104619,
+        130707,
+        156795,
+        182854,
+        208916,
+        235086,
+        261148,
+        287207,
+        313269,
+        339328,
+        365389,
+        391449,
+        417510,
+        443570,
+        469631,
+        495690,
+        521752,
+        547811,
+        573873,
+        599971,
+        626031,
+        652092,
+        678151,
+        704213,
+        730272,
+        756334,
+        782393,
+        808454,
+        834514,
+        860575,
+        886635,
+        912696,
+        938755,
+        964817,
+        990876,
+        1016938,
+        1043128,
+        1069150,
+        1095211,
+        1121271,
+        1147332,
+        1173392,
+        1199453,
+        1225512,
+        1251574,
+        1277633,
+        1303695,
+        1329754,
+        1355816,
+        1381875,
+        1407936,
+        1433996,
+        1460057,
+        1486117
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 506,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJInTheCloset/MJInTheCloset_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"504051\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJInTheCloset/MJInTheCloset_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"799-1289\">\n\t\t\t\t\t<Initialization range=\"0-799\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1993345\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJInTheCloset/MJInTheCloset_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"800-1290\">\n\t\t\t\t\t<Initialization range=\"0-800\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "9243e4ef8af20c53f50f8fdb8a2d233e",
+      "storageType": 0,
+      "url": "/public/map/MJInTheCloset/nx/MJInTheCloset_MAIN_SCENE_NX.zip/9243e4ef8af20c53f50f8fdb8a2d233e.zip"
+    },
+    "pc": {
+      "md5": "648c6058466af5216d4473147467e315",
+      "storageType": 0,
+      "url": "/public/map/MJInTheCloset/pc/MJInTheCloset_MAIN_SCENE_PC.zip/648c6058466af5216d4473147467e315.zip"
+    },
+    "ps4": {
+      "md5": "267fff047057629848bd649c205eb4e6",
+      "storageType": 0,
+      "url": "/public/map/MJInTheCloset/orbis/MJInTheCloset_MAIN_SCENE_ORBIS.zip/267fff047057629848bd649c205eb4e6.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJInTheCloset",
+    "title": "In The Closet",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "Credits to planedec50 ",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#1c3670",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJInTheCloset/nx/MJInTheCloset_banner_bkg.tga.ckd/dbaa0c0fd5cc0dc6107a6ae2a83dd233.ckd",
+      "map_bkgImageUrl": "/public/map/MJInTheCloset/nx/MJInTheCloset_map_bkg.tga.ckd/8a6d190b1e4fd34047ff2312d9570a00.ckd",
+      "expandCoachImageUrl": "/public/map/MJInTheCloset/nx/MJInTheCloset_Cover_AlbumCoach.tga.ckd/98b0c57cd2d6ca6aec502ad9e3575910.ckd",
+      "cover_smallImageUrl": "/public/map/MJInTheCloset/nx/MJInTheCloset_Cover_Online.tga.ckd/ff15adc66f3878576507fac3481ce12e.ckd",
+      "coverImageUrl": "/public/map/MJInTheCloset/nx/MJInTheCloset_Cover_Generic.tga.ckd/a4cda54d60d75a4b7effe004de108535.ckd",
+      "coach1ImageUrl": "/public/map/MJInTheCloset/nx/MJInTheCloset_Coach_1.tga.ckd/9991f953288b45fb37753df2270c84e1.ckd",
+      "coach2ImageUrl": "/public/map/MJInTheCloset/nx/MJInTheCloset_Coach_2.tga.ckd/f83f8528a4a00dc6b0a2f96a6edd013c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJInTheCloset/pc/MJInTheCloset_banner_bkg.tga.ckd/5b098787cb8c7741c0eedea3c434c6c9.ckd",
+      "map_bkgImageUrl": "/public/map/MJInTheCloset/pc/MJInTheCloset_map_bkg.tga.ckd/51115f7dcd7737e417729b3bfbc7756f.ckd",
+      "expandCoachImageUrl": "/public/map/MJInTheCloset/pc/MJInTheCloset_Cover_AlbumCoach.tga.ckd/4e8322b75776779d81f73a62837ac93e.ckd",
+      "cover_smallImageUrl": "/public/map/MJInTheCloset/pc/MJInTheCloset_Cover_Online.tga.ckd/1501c160664428abbd8d0132afaddbe7.ckd",
+      "coverImageUrl": "/public/map/MJInTheCloset/pc/MJInTheCloset_Cover_Generic.tga.ckd/6045fa35ebb70a058656cd0fed1aba97.ckd",
+      "coach1ImageUrl": "/public/map/MJInTheCloset/pc/MJInTheCloset_Coach_1.tga.ckd/d093f9e3b95be92ff064172936b4b2e9.ckd",
+      "coach2ImageUrl": "/public/map/MJInTheCloset/pc/MJInTheCloset_Coach_2.tga.ckd/e98b9f9adf0d3bd305596b1eb21245a4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJInTheCloset/orbis/MJInTheCloset_banner_bkg.tga.ckd/5b098787cb8c7741c0eedea3c434c6c9.ckd",
+      "map_bkgImageUrl": "/public/map/MJInTheCloset/orbis/MJInTheCloset_map_bkg.tga.ckd/51115f7dcd7737e417729b3bfbc7756f.ckd",
+      "expandCoachImageUrl": "/public/map/MJInTheCloset/orbis/MJInTheCloset_Cover_AlbumCoach.tga.ckd/4e8322b75776779d81f73a62837ac93e.ckd",
+      "cover_smallImageUrl": "/public/map/MJInTheCloset/orbis/MJInTheCloset_Cover_Online.tga.ckd/1501c160664428abbd8d0132afaddbe7.ckd",
+      "coverImageUrl": "/public/map/MJInTheCloset/orbis/MJInTheCloset_Cover_Generic.tga.ckd/6045fa35ebb70a058656cd0fed1aba97.ckd",
+      "coach1ImageUrl": "/public/map/MJInTheCloset/orbis/MJInTheCloset_Coach_1.tga.ckd/d093f9e3b95be92ff064172936b4b2e9.ckd",
+      "coach2ImageUrl": "/public/map/MJInTheCloset/orbis/MJInTheCloset_Coach_2.tga.ckd/e98b9f9adf0d3bd305596b1eb21245a4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJInTheCloset/MJInTheCloset_Coach_1_Phone.png/eb4b5be4658978244cdb7852d9157cc8.png",
+    "phoneCoach2ImageUrl": "/public/map/MJInTheCloset/MJInTheCloset_Coach_2_Phone.png/4012feb9433c968aef756fddfd116f84.png",
+    "phoneCoverImageUrl": "/public/map/MJInTheCloset/MJInTheCloset_Cover_Phone.jpg/26b22ed69876f1387aa953cd6d2a3ea6.jpg",
+    "cover640ImageUrl": "/public/map/MJInTheCloset/MJInTheCloset_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 273.13275
+}

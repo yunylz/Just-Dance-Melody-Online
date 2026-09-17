@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f2412b79a9cce6bdc1537f17af8d55e3",
+      "storageType": 0,
+      "url": "/public/map/SexyLittleThing/nx/SexyLittleThing_MAIN_SCENE_NX.zip/f2412b79a9cce6bdc1537f17af8d55e3.zip"
+    },
+    "pc": {
+      "md5": "6c75048f82a5f5de11014d0f3e5edd63",
+      "storageType": 0,
+      "url": "/public/map/SexyLittleThing/pc/SexyLittleThing_MAIN_SCENE_PC.zip/6c75048f82a5f5de11014d0f3e5edd63.zip"
+    },
+    "ps4": {
+      "md5": "0359721ddf0f419c0bf8cbfbdd9f620b",
+      "storageType": 0,
+      "url": "/public/map/SexyLittleThing/orbis/SexyLittleThing_MAIN_SCENE_ORBIS.zip/0359721ddf0f419c0bf8cbfbdd9f620b.zip"
+    }
+  },
+  "data": {
+    "mapName": "SexyLittleThing",
+    "title": "Crazy Little Thing",
+    "originalJDVersion": 4,
+    "tags": [
+      "subscribedSong",
+      "JustDance4",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Anja",
+    "credits": "Written by Rick LP. Published by CircleRoad Publishing Inc. and Ubisoft Music Publishing Inc. Courtesy of CircleRoadRecords Inc. and Ubiloud. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#0501e9",
+    "songColor2A": "#d20438",
+    "songColor1B": "#05004d",
+    "songColor2B": "#6f011d",
+    "lyricsColor": "#ec1250"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        38093,
+        60418,
+        82743,
+        105068,
+        127393,
+        149718,
+        172043,
+        194368,
+        216693,
+        239018,
+        261343,
+        283668,
+        305993,
+        328318,
+        350643,
+        372968,
+        395293,
+        417618,
+        439943,
+        462268,
+        484593,
+        506918,
+        529243,
+        551568,
+        573893,
+        596218,
+        618543,
+        640868,
+        663193,
+        685518,
+        707843,
+        730168,
+        752493,
+        774818,
+        797143,
+        819468,
+        841793,
+        864118,
+        886443,
+        908768,
+        931093,
+        953418,
+        975743,
+        998068,
+        1020393,
+        1042718,
+        1065043,
+        1087368,
+        1109693,
+        1132018,
+        1154343,
+        1176668,
+        1198993,
+        1221318,
+        1243643,
+        1265968,
+        1288293,
+        1310618,
+        1332943,
+        1355268,
+        1377593,
+        1399918,
+        1422243,
+        1444568,
+        1466893,
+        1489218
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 440,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SexyLittleThing/nx/SexyLittleThing_banner_bkg.tga.ckd/de79a4172075c6fa2e182b09e84e53d9.ckd",
+      "map_bkgImageUrl": "/public/map/SexyLittleThing/nx/SexyLittleThing_map_bkg.tga.ckd/63c9c0a04df34f816cce946863cafaf0.ckd",
+      "expandCoachImageUrl": "/public/map/SexyLittleThing/nx/SexyLittleThing_Cover_AlbumCoach.tga.ckd/2162c4d0555648f5063ecb101dfd635d.ckd",
+      "cover_smallImageUrl": "/public/map/SexyLittleThing/nx/SexyLittleThing_Cover_Online.tga.ckd/a2f0fe0b0ff778bfab2c3de81a8a5a41.ckd",
+      "coach1ImageUrl": "/public/map/SexyLittleThing/nx/SexyLittleThing_Coach_1.tga.ckd/844edb357c94dfd030e54b35022110e8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SexyLittleThing/pc/SexyLittleThing_banner_bkg.tga.ckd/15647df8457c0529e1b6c85bcbe7bca5.ckd",
+      "map_bkgImageUrl": "/public/map/SexyLittleThing/pc/SexyLittleThing_map_bkg.tga.ckd/3ff68467b2843f5504c4f64ec2ae36ab.ckd",
+      "expandCoachImageUrl": "/public/map/SexyLittleThing/pc/SexyLittleThing_Cover_AlbumCoach.tga.ckd/b1e74256780409aa5bda69bbcf3208cb.ckd",
+      "cover_smallImageUrl": "/public/map/SexyLittleThing/pc/SexyLittleThing_Cover_Online.tga.ckd/07d401724777a8702319ff93303b2f7f.ckd",
+      "coach1ImageUrl": "/public/map/SexyLittleThing/pc/SexyLittleThing_Coach_1.tga.ckd/aa4927ca101a9fe806f4218a63f81af4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SexyLittleThing/orbis/SexyLittleThing_banner_bkg.tga.ckd/15647df8457c0529e1b6c85bcbe7bca5.ckd",
+      "map_bkgImageUrl": "/public/map/SexyLittleThing/orbis/SexyLittleThing_map_bkg.tga.ckd/3ff68467b2843f5504c4f64ec2ae36ab.ckd",
+      "expandCoachImageUrl": "/public/map/SexyLittleThing/orbis/SexyLittleThing_Cover_AlbumCoach.tga.ckd/b1e74256780409aa5bda69bbcf3208cb.ckd",
+      "cover_smallImageUrl": "/public/map/SexyLittleThing/orbis/SexyLittleThing_Cover_Online.tga.ckd/07d401724777a8702319ff93303b2f7f.ckd",
+      "coach1ImageUrl": "/public/map/SexyLittleThing/orbis/SexyLittleThing_Coach_1.tga.ckd/aa4927ca101a9fe806f4218a63f81af4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SexyLittleThing/SexyLittleThing_Coach_1_Phone.png/475ec92deb61acf5f848221145479b6f.png",
+    "phoneCoverImageUrl": "/public/map/SexyLittleThing/SexyLittleThing_Cover_Phone.jpg/c08df5e841f29109a15c23cf18cbcacf.jpg",
+    "cover640ImageUrl": "/public/map/SexyLittleThing/SexyLittleThing_Cover_640.png/29d652037d86b085b41c447a43fbe3de.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing.ogg": "/private/map/SexyLittleThing/SexyLittleThing.ogg/d1d6d9e507e55c5a69f4c13306bbf57b.ogg",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_AudioPreview.ogg": "/public/map/SexyLittleThing/SexyLittleThing_AudioPreview.ogg/53c214356ac9a5da18b6f4040451ae79.ogg",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SexyLittleThing/SexyLittleThing_MapPreviewNoSoundCrop_LOW.vp8.webm/9d56626a078e187d5c9fa1209ff588fb.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_HIGH.webm": "/private/map/SexyLittleThing/SexyLittleThing_HIGH.webm/0586c72e9bd9d9e9d1f8822a20f680d5.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_LOW.webm": "/private/map/SexyLittleThing/SexyLittleThing_LOW.webm/401adc7521c1fc1e769251b09eeb2e89.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_MID.webm": "/private/map/SexyLittleThing/SexyLittleThing_MID.webm/00afcaa1e7d0ea11cd9e4e69cc21abcb.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_ULTRA.hd.webm": "/private/map/SexyLittleThing/SexyLittleThing_ULTRA.hd.webm/8ec733ba3624bd1589b2aaf39ef32a90.webm",
+    "jmcs://jd-contents/SexyLittleThing/SexyLittleThing_ULTRA.webm": "/private/map/SexyLittleThing/SexyLittleThing_ULTRA.webm/15181e69009958f53bb50dad62e0e2c8.webm"
+  },
+  "mapLength": 205.0235
+}

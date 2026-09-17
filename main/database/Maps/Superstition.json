@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4e5f9ed7d714665a1ab15cdb2f175527",
+      "storageType": 0,
+      "url": "/public/map/Superstition/nx/Superstition_MAIN_SCENE_NX.zip/4e5f9ed7d714665a1ab15cdb2f175527.zip"
+    },
+    "pc": {
+      "md5": "0ab7b182d0cd10b047e8d0f668abd831",
+      "storageType": 0,
+      "url": "/public/map/Superstition/pc/Superstition_MAIN_SCENE_PC.zip/0ab7b182d0cd10b047e8d0f668abd831.zip"
+    },
+    "ps4": {
+      "md5": "8e5fcaa526c2825a9888f88d7492a381",
+      "storageType": 0,
+      "url": "/public/map/Superstition/orbis/Superstition_MAIN_SCENE_ORBIS.zip/8e5fcaa526c2825a9888f88d7492a381.zip"
+    }
+  },
+  "data": {
+    "mapName": "Superstition",
+    "title": "Superstition",
+    "originalJDVersion": 4,
+    "tags": [
+      "intense",
+      "subscribedSong",
+      "JustDance4",
+      "Easy"
+    ],
+    "artist": "Stevie Wonder",
+    "credits": "Written by Stevie Wonder.Published by Black Bull Music and Jobete Music Co., Inc. (ASCAP). All rights reserved. Used by permission.Courtesy of Motown Records under license from Universal Music Enterprises.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f46300",
+    "songColor2A": "#ff258b",
+    "songColor1B": "#670000",
+    "songColor2B": "#63003a",
+    "lyricsColor": "#e76111",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        15504,
+        45312,
+        75168,
+        104976,
+        134832,
+        164640,
+        194496,
+        224448,
+        253968,
+        283920,
+        314016,
+        343008,
+        372336,
+        402576,
+        432144,
+        461664,
+        491184,
+        520896,
+        550560,
+        579744,
+        609744,
+        639264,
+        668304,
+        696432,
+        726096,
+        754896,
+        784656,
+        813456,
+        843024,
+        871920,
+        901152,
+        930960,
+        959712,
+        989520,
+        1018800,
+        1047888,
+        1077744,
+        1107264,
+        1136016,
+        1165344,
+        1192656,
+        1221840,
+        1250880,
+        1279968,
+        1308768,
+        1337808,
+        1366416,
+        1395024,
+        1423008,
+        1453488,
+        1482096,
+        1510801
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 419,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Superstition/Superstition_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Superstition/nx/Superstition_banner_bkg.tga.ckd/94119c64ffa6c4a9dab2b3ada8605038.ckd",
+      "map_bkgImageUrl": "/public/map/Superstition/nx/Superstition_map_bkg.tga.ckd/8364dc5098885e53d9219f8909c63377.ckd",
+      "expandCoachImageUrl": "/public/map/Superstition/nx/Superstition_Cover_AlbumCoach.tga.ckd/b896b7fdc4cbc16f7f9c6eb8b72ffbe9.ckd",
+      "cover_smallImageUrl": "/public/map/Superstition/nx/Superstition_Cover_Online.tga.ckd/b1ee0218d861ef630f3c4a99a5a59fe8.ckd",
+      "coach1ImageUrl": "/public/map/Superstition/nx/Superstition_Coach_1.tga.ckd/814346ffe1c6399ca381fa68fa95f066.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Superstition/pc/Superstition_banner_bkg.tga.ckd/81a738bf231280aa6d4e1edb9cd2fc53.ckd",
+      "map_bkgImageUrl": "/public/map/Superstition/pc/Superstition_map_bkg.tga.ckd/091f377b98e5b083e0ff4772e20ff320.ckd",
+      "expandCoachImageUrl": "/public/map/Superstition/pc/Superstition_Cover_AlbumCoach.tga.ckd/23eac931f79e3a66183056aced42e6d8.ckd",
+      "cover_smallImageUrl": "/public/map/Superstition/pc/Superstition_Cover_Online.tga.ckd/ec7dbf58affc67da21c0a5b88faeeefe.ckd",
+      "coach1ImageUrl": "/public/map/Superstition/pc/Superstition_Coach_1.tga.ckd/b2ccd310339426af194e44733e16910a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Superstition/orbis/Superstition_banner_bkg.tga.ckd/81a738bf231280aa6d4e1edb9cd2fc53.ckd",
+      "map_bkgImageUrl": "/public/map/Superstition/orbis/Superstition_map_bkg.tga.ckd/091f377b98e5b083e0ff4772e20ff320.ckd",
+      "expandCoachImageUrl": "/public/map/Superstition/orbis/Superstition_Cover_AlbumCoach.tga.ckd/23eac931f79e3a66183056aced42e6d8.ckd",
+      "cover_smallImageUrl": "/public/map/Superstition/orbis/Superstition_Cover_Online.tga.ckd/ec7dbf58affc67da21c0a5b88faeeefe.ckd",
+      "coach1ImageUrl": "/public/map/Superstition/orbis/Superstition_Coach_1.tga.ckd/b2ccd310339426af194e44733e16910a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Superstition/Superstition_Coach_1_Phone.png/1322d51dade02cf9c3318aa198d1447e.png",
+    "phoneCoverImageUrl": "/public/map/Superstition/Superstition_Cover_Phone.jpg/fb5ee7a48183549a41958d6829b337e0.jpg",
+    "cover640ImageUrl": "/public/map/Superstition/Superstition_Cover_640.png/6d88e292faf1f46b4135e7a23eb58fa2.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Superstition/Superstition.ogg": "/private/map/Superstition/Superstition.ogg/6fede86b83039cda8c2bf32c460af0c1.ogg",
+    "jmcs://jd-contents/Superstition/Superstition_AudioPreview.ogg": "/public/map/Superstition/Superstition_AudioPreview.ogg/8350e4e33fe60b4b7e7b55c5f2a6384b.ogg",
+    "jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Superstition/Superstition_MapPreviewNoSoundCrop_LOW.vp8.webm/b53b4359cc3abef09051455e7e8700d5.webm",
+    "jmcs://jd-contents/Superstition/Superstition_HIGH.webm": "/private/map/Superstition/Superstition_HIGH.webm/0d16b4bd64748c8dd92c71e5f36bfce2.webm",
+    "jmcs://jd-contents/Superstition/Superstition_LOW.webm": "/private/map/Superstition/Superstition_LOW.webm/72cf60304cb0e6306d172dacd593a51c.webm",
+    "jmcs://jd-contents/Superstition/Superstition_MID.webm": "/private/map/Superstition/Superstition_MID.webm/a181a54ab372fc9f788fb9c9fcce03b9.webm",
+    "jmcs://jd-contents/Superstition/Superstition_ULTRA.hd.webm": "/private/map/Superstition/Superstition_ULTRA.hd.webm/5380b9d2587844a9ccd748afe314e009.webm",
+    "jmcs://jd-contents/Superstition/Superstition_ULTRA.webm": "/private/map/Superstition/Superstition_ULTRA.webm/9e162a6d94c75240d2469522c259b777.webm",
+    "jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Superstition/Superstition_MapPreviewNoSoundCrop_MID.vp8.webm/6db67597d20f7fc78d2a60dee8dfe850.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496256\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"640-1129\">\n\t\t\t\t\t<Initialization range=\"0-640\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1357596\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Superstition/Superstition_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\n\t\t\t\t\t<Initialization range=\"0-641\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 248.267146
+}

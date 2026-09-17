@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/TheFoxMU/TheFoxMU_HIGH.hd.webm": "/private/map/TheFoxMU/TheFoxMU_HIGH.hd.webm/ac80383398aef1a978ac0086ed7431d8.webm",
+    "jmcs://jd-contents/TheFoxMU/TheFoxMU_LOW.hd.webm": "/private/map/TheFoxMU/TheFoxMU_LOW.hd.webm/a4f1b9008db2dbe037c1b3b6c53e849e.webm",
+    "jmcs://jd-contents/TheFoxMU/TheFoxMU_MID.hd.webm": "/private/map/TheFoxMU/TheFoxMU_MID.hd.webm/d4c10cd657570bd4da8470e8ae2fb0ab.webm",
+    "jmcs://jd-contents/TheFoxMU/TheFoxMU_ULTRA.hd.webm": "/private/map/TheFoxMU/TheFoxMU_ULTRA.hd.webm/2901a17dce54672157b7aad651e54be4.webm",
+    "jmcs://jd-contents/TheFoxMU/TheFoxMU.ogg": "/private/map/TheFoxMU/TheFoxMU.ogg/000acdf6d19a7fe1f670235650da9a6b.ogg",
+    "jmcs://jd-contents/TheFoxMU/TheFoxMU_AudioPreview.ogg": "/public/map/TheFoxMU/TheFoxMU_AudioPreview.ogg/0fac0062b399da4c95eab2cfdb2ac0d6.ogg",
+    "jmcs://jd-contents/TheFoxMU/TheFoxMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TheFoxMU/TheFoxMU_MapPreviewNoSoundCrop_LOW.vp8.webm/694df371f3ec78005976c895887d74fb.webm",
+    "jmcs://jd-contents/TheFoxMU/TheFoxMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TheFoxMU/TheFoxMU_MapPreviewNoSoundCrop_MID.vp8.webm/039f92d98d1f2f22da8e4747bc1e1b45.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22512,
+        45024,
+        67488,
+        90000,
+        112512,
+        135024,
+        157488,
+        180000,
+        202512,
+        225024,
+        247488,
+        270000,
+        292512,
+        315024,
+        337488,
+        360000,
+        382512,
+        405024,
+        427488,
+        450000,
+        472512,
+        495024,
+        517488,
+        540000,
+        562512,
+        585024,
+        607488,
+        630000,
+        652512,
+        675024,
+        697488,
+        720000,
+        742512,
+        765024,
+        787488,
+        810000,
+        832512,
+        855024,
+        877488,
+        900000,
+        922512,
+        945024,
+        967488,
+        990000,
+        1012512,
+        1035024,
+        1057488,
+        1080000,
+        1102512,
+        1125024,
+        1147488,
+        1170000,
+        1192512,
+        1215024,
+        1237488,
+        1260000,
+        1282512,
+        1305024,
+        1327488,
+        1350000,
+        1372512,
+        1395024,
+        1417488,
+        1440000,
+        1462512,
+        1485024
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 452,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TheFoxMU/TheFoxMU_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "d5cdff7fcf39c349fdf587db707d28d8",
+      "storageType": 0,
+      "url": "/public/map/TheFoxMU/nx/TheFoxMU_MAIN_SCENE_NX.zip/d5cdff7fcf39c349fdf587db707d28d8.zip"
+    },
+    "pc": {
+      "md5": "0fe36a3a8ecd287555157cc1f5da62f4",
+      "storageType": 0,
+      "url": "/public/map/TheFoxMU/pc/TheFoxMU_MAIN_SCENE_PC.zip/0fe36a3a8ecd287555157cc1f5da62f4.zip"
+    },
+    "ps4": {
+      "md5": "3cabe971f80d85a4c3ed3bb09200027e",
+      "storageType": 0,
+      "url": "/public/map/TheFoxMU/orbis/TheFoxMU_MAIN_SCENE_ORBIS.zip/3cabe971f80d85a4c3ed3bb09200027e.zip"
+    }
+  },
+  "data": {
+    "mapName": "TheFoxMU",
+    "title": "The Fox (What Does the Fox Say?)",
+    "originalJDVersion": 2015,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Ylvis",
+    "credits": "Written by Nicholas Boundy, Mikkel Eriksen, Tor Hermansen, christian Lochstoer, Vegard Ylvisaaker, Baard Ylvisaaker. Published by Stellar Sun Songs (ASCAP) / EMI Music Publishing Ltd. (PRS). All rights reserved. Used with permission. Courtesy of Co I.P AS. All rights of the producer and other rightsholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#fb7906",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TheFoxMU/nx/TheFoxMU_banner_bkg.tga.ckd/3fe33e389313ed04b89a8a112138449c.ckd",
+      "map_bkgImageUrl": "/public/map/TheFoxMU/nx/TheFoxMU_map_bkg.tga.ckd/3ff176a96274d533fc48ed5f34383ad9.ckd",
+      "expandCoachImageUrl": "/public/map/TheFoxMU/nx/TheFoxMU_Cover_AlbumCoach.tga.ckd/dd18de328acae5262600f21db170777f.ckd",
+      "cover_smallImageUrl": "/public/map/TheFoxMU/nx/TheFoxMU_Cover_Online.tga.ckd/d10d6ddb4c60d5b73af25affbc00b039.ckd",
+      "coverImageUrl": "/public/map/TheFoxMU/nx/TheFoxMU_Cover_Generic.tga.ckd/0aa12153e5d5cf2582f12b03e417251b.ckd",
+      "coach1ImageUrl": "/public/map/TheFoxMU/nx/TheFoxMU_Coach_1.tga.ckd/9ec8752f4da26fa7d274097d7bae0410.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TheFoxMU/pc/TheFoxMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/TheFoxMU/pc/TheFoxMU_map_bkg.tga.ckd/49f3010cec026ac268a71708d8d058e4.ckd",
+      "expandCoachImageUrl": "/public/map/TheFoxMU/pc/TheFoxMU_Cover_AlbumCoach.tga.ckd/b52395100143a7173aedc591f598b673.ckd",
+      "cover_smallImageUrl": "/public/map/TheFoxMU/pc/TheFoxMU_Cover_Online.tga.ckd/8c3651d8639de3f20adfaf9d856ea189.ckd",
+      "coverImageUrl": "/public/map/TheFoxMU/pc/TheFoxMU_Cover_Generic.tga.ckd/037e22258bf9735ef89c5bc44df48bf4.ckd",
+      "coach1ImageUrl": "/public/map/TheFoxMU/pc/TheFoxMU_Coach_1.tga.ckd/2403c6a14966defbe0632c048933686c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TheFoxMU/orbis/TheFoxMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/TheFoxMU/orbis/TheFoxMU_map_bkg.tga.ckd/49f3010cec026ac268a71708d8d058e4.ckd",
+      "expandCoachImageUrl": "/public/map/TheFoxMU/orbis/TheFoxMU_Cover_AlbumCoach.tga.ckd/b52395100143a7173aedc591f598b673.ckd",
+      "cover_smallImageUrl": "/public/map/TheFoxMU/orbis/TheFoxMU_Cover_Online.tga.ckd/8c3651d8639de3f20adfaf9d856ea189.ckd",
+      "coverImageUrl": "/public/map/TheFoxMU/orbis/TheFoxMU_Cover_Generic.tga.ckd/037e22258bf9735ef89c5bc44df48bf4.ckd",
+      "coach1ImageUrl": "/public/map/TheFoxMU/orbis/TheFoxMU_Coach_1.tga.ckd/2403c6a14966defbe0632c048933686c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TheFoxMU/TheFoxMU_Coach_1_Phone.png/7950aad886ecf3edceef3a3275503eb8.png",
+    "phoneCoverImageUrl": "/public/map/TheFoxMU/TheFoxMU_Cover_Phone.jpg/4119fe5e59c52e9f1ce55be0409e1e4f.jpg",
+    "cover640ImageUrl": "/public/map/TheFoxMU/TheFoxMU_Cover_640.png/18d7fac525a24ac4b2bac1a519895ac5.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"651734\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheFoxMU/TheFoxMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1967821\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheFoxMU/TheFoxMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"765-1255\">\n\t\t\t\t\t<Initialization range=\"0-765\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 211.832063
+}

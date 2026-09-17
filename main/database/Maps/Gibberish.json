@@ -1,0 +1,159 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e808f32e1c968d57099ca772a3d47e2f",
+      "storageType": 0,
+      "url": "/public/map/Gibberish/nx/Gibberish_MAIN_SCENE_NX.zip/e808f32e1c968d57099ca772a3d47e2f.zip"
+    },
+    "pc": {
+      "md5": "7205a92c2944ca574bf2677bac714073",
+      "storageType": 0,
+      "url": "/public/map/Gibberish/pc/Gibberish_MAIN_SCENE_PC.zip/7205a92c2944ca574bf2677bac714073.zip"
+    },
+    "ps4": {
+      "md5": "b4eb88a80323a48aba4cb5efc31cf764",
+      "storageType": 0,
+      "url": "/public/map/Gibberish/orbis/Gibberish_MAIN_SCENE_ORBIS.zip/b4eb88a80323a48aba4cb5efc31cf764.zip"
+    }
+  },
+  "data": {
+    "mapName": "Gibberish",
+    "title": "Gibberish",
+    "originalJDVersion": 2016,
+    "tags": [
+      "intense",
+      "main"
+    ],
+    "artist": "MAX",
+    "credits": "Written by Jonas Jeberg, Sean Douglas, Morgan Taylor Reid. Published by Big Noize Productions / BMG Platinum Songs / Eastman Pond Publishing and Warner-Tamerlane Publishing Corp (BMI) / Morgan Taylor Reid / Wonder State (BMI). (p) 2015 DCD2 Records.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#5900c6",
+    "songColor2A": "#ff8200",
+    "songColor1B": "#170013",
+    "songColor2B": "#180800",
+    "lyricsColor": "#12d6ff",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        34272,
+        68592,
+        102864,
+        137136,
+        171456,
+        205728,
+        240048,
+        274320,
+        308592,
+        342912,
+        377184,
+        411457,
+        445777,
+        480049,
+        514321,
+        548641,
+        582913,
+        617233,
+        651505,
+        685777,
+        720097,
+        754369,
+        788641,
+        822962,
+        857234,
+        891554,
+        925826,
+        960098,
+        994418,
+        1028690,
+        1062962,
+        1097282,
+        1131554,
+        1165874,
+        1200147,
+        1234419,
+        1268739,
+        1303011,
+        1337283,
+        1371603,
+        1405875,
+        1440147,
+        1474467,
+        1508739
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 255,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 42,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Gibberish/Gibberish_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Gibberish/nx/Gibberish_banner_bkg.tga.ckd/f81fe2e0246546f0c81711c1fef31db6.ckd",
+      "map_bkgImageUrl": "/public/map/Gibberish/nx/Gibberish_map_bkg.tga.ckd/c9e365b5fa573d48f014f5f4e94dc30a.ckd",
+      "expandCoachImageUrl": "/public/map/Gibberish/nx/Gibberish_Cover_AlbumCoach.tga.ckd/cf0ae9550408c2c2352020713f997a45.ckd",
+      "cover_smallImageUrl": "/public/map/Gibberish/nx/Gibberish_Cover_Online.tga.ckd/f85e421d60f323824d8567f694d86ec9.ckd",
+      "coach1ImageUrl": "/public/map/Gibberish/nx/Gibberish_Coach_1.tga.ckd/a6728cdcb10904afd46d21cef2eb7ff1.ckd",
+      "coach2ImageUrl": "/public/map/Gibberish/nx/Gibberish_Coach_2.tga.ckd/fc3365a15ac8f7810a8926c9053c156d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Gibberish/pc/Gibberish_banner_bkg.tga.ckd/84cf10d50b13a862bd85f6d55f3211ab.ckd",
+      "map_bkgImageUrl": "/public/map/Gibberish/pc/Gibberish_map_bkg.tga.ckd/ebd7c0d7b959b13f3ded405f91762753.ckd",
+      "expandCoachImageUrl": "/public/map/Gibberish/pc/Gibberish_Cover_AlbumCoach.tga.ckd/c7c0eb07a73ef96dc165d567a09e38b3.ckd",
+      "cover_smallImageUrl": "/public/map/Gibberish/pc/Gibberish_Cover_Online.tga.ckd/8873f7142e11ff8d718f4f09dcec15ef.ckd",
+      "coach1ImageUrl": "/public/map/Gibberish/pc/Gibberish_Coach_1.tga.ckd/660650ca816bc6c784457613bd27b245.ckd",
+      "coach2ImageUrl": "/public/map/Gibberish/pc/Gibberish_Coach_2.tga.ckd/99a3f5d15c8f44289468677d99f502f3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Gibberish/orbis/Gibberish_banner_bkg.tga.ckd/84cf10d50b13a862bd85f6d55f3211ab.ckd",
+      "map_bkgImageUrl": "/public/map/Gibberish/orbis/Gibberish_map_bkg.tga.ckd/ebd7c0d7b959b13f3ded405f91762753.ckd",
+      "expandCoachImageUrl": "/public/map/Gibberish/orbis/Gibberish_Cover_AlbumCoach.tga.ckd/c7c0eb07a73ef96dc165d567a09e38b3.ckd",
+      "cover_smallImageUrl": "/public/map/Gibberish/orbis/Gibberish_Cover_Online.tga.ckd/8873f7142e11ff8d718f4f09dcec15ef.ckd",
+      "coach1ImageUrl": "/public/map/Gibberish/orbis/Gibberish_Coach_1.tga.ckd/660650ca816bc6c784457613bd27b245.ckd",
+      "coach2ImageUrl": "/public/map/Gibberish/orbis/Gibberish_Coach_2.tga.ckd/99a3f5d15c8f44289468677d99f502f3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Gibberish/Gibberish_Coach_1_Phone.png/4f9e86a91c9f35ba3bfe8e323007dd10.png",
+    "phoneCoach2ImageUrl": "/public/map/Gibberish/Gibberish_Coach_2_Phone.png/6f94a52ff374e5af7b782b2d8fc05218.png",
+    "phoneCoverImageUrl": "/public/map/Gibberish/Gibberish_Cover_Phone.jpg/8b5f01250cd22d34845f924d58768c67.jpg",
+    "cover640ImageUrl": "/public/map/Gibberish/Gibberish_Cover_640.png/12bb888deac1082f12d7efc44aa2be2a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Gibberish/Gibberish.ogg": "/private/map/Gibberish/Gibberish.ogg/a2d105c53efdf48e3936f7c25deb549b.ogg",
+    "jmcs://jd-contents/Gibberish/Gibberish_AudioPreview.ogg": "/public/map/Gibberish/Gibberish_AudioPreview.ogg/52350634dadc48e720a078b4d88a2182.ogg",
+    "jmcs://jd-contents/Gibberish/Gibberish_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Gibberish/Gibberish_MapPreviewNoSoundCrop_LOW.vp8.webm/cdee428b95fda4baaa33da7d87969b8b.webm",
+    "jmcs://jd-contents/Gibberish/Gibberish_HIGH.webm": "/private/map/Gibberish/Gibberish_HIGH.webm/106a8fd4b76d82889c4b91c3abab5354.webm",
+    "jmcs://jd-contents/Gibberish/Gibberish_LOW.webm": "/private/map/Gibberish/Gibberish_LOW.webm/582b97439a15c822231e0ed0cb430e37.webm",
+    "jmcs://jd-contents/Gibberish/Gibberish_MID.webm": "/private/map/Gibberish/Gibberish_MID.webm/c3fc7fe13afcd27316fd450a107655f4.webm",
+    "jmcs://jd-contents/Gibberish/Gibberish_ULTRA.hd.webm": "/private/map/Gibberish/Gibberish_ULTRA.hd.webm/e5fd78d37eceb71992312e65cac3bb8b.webm",
+    "jmcs://jd-contents/Gibberish/Gibberish_ULTRA.webm": "/private/map/Gibberish/Gibberish_ULTRA.webm/4d1d19632008ec2d64867b7f1b48043b.webm",
+    "jmcs://jd-contents/Gibberish/Gibberish_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Gibberish/Gibberish_MapPreviewNoSoundCrop_MID.vp8.webm/173d03ea6c0d1bf58feb5cf6ed1ebfdb.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496237\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Gibberish/Gibberish_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"623-1112\">\n\t\t\t\t\t<Initialization range=\"0-623\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1473172\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Gibberish/Gibberish_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\n\t\t\t\t\t<Initialization range=\"0-624\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 182.163438
+}

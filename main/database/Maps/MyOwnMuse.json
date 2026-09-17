@@ -1,0 +1,150 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MyOwnMuse/MyOwnMuse.ogg": "/private/map/MyOwnMuse/MyOwnMuse.ogg/ccddd2fe91f7c4d6fd3abe9488742f70.ogg",
+    "jmcs://jd-contents/MyOwnMuse/MyOwnMuse_AudioPreview.ogg": "/public/map/MyOwnMuse/MyOwnMuse_AudioPreview.ogg/03949617ee07980ddd87a86c18f8144d.ogg",
+    "jmcs://jd-contents/MyOwnMuse/MyOwnMuse_HIGH.hd.webm": "/private/map/MyOwnMuse/MyOwnMuse_HIGH.hd.webm/2fea8dae9b8eb4ca7594d9a437599020.webm",
+    "jmcs://jd-contents/MyOwnMuse/MyOwnMuse_LOW.hd.webm": "/private/map/MyOwnMuse/MyOwnMuse_LOW.hd.webm/335fe195d65a9e946abb0818f4c14b56.webm",
+    "jmcs://jd-contents/MyOwnMuse/MyOwnMuse_MID.hd.webm": "/private/map/MyOwnMuse/MyOwnMuse_MID.hd.webm/5542012b0bb70f5710c868e3dbddf714.webm",
+    "jmcs://jd-contents/MyOwnMuse/MyOwnMuse_ULTRA.hd.webm": "/private/map/MyOwnMuse/MyOwnMuse_ULTRA.hd.webm/9a3ca8c019c55fd3ef9176ff54cefb53.webm",
+    "jmcs://jd-contents/MyOwnMuse/MyOwnMuse_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MyOwnMuse/MyOwnMuse_MapPreviewNoSoundCrop_LOW.vp8.webm/b23e943799c9eafbcce69e403181b5ce.webm",
+    "jmcs://jd-contents/MyOwnMuse/MyOwnMuse_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MyOwnMuse/MyOwnMuse_MapPreviewNoSoundCrop_MID.vp8.webm/d70cbb3b876728c150c64e8588063668.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        39452,
+        78904,
+        118356,
+        157808,
+        197260,
+        236712,
+        276164,
+        315616,
+        355068,
+        394521,
+        433973,
+        473425,
+        512877,
+        552329,
+        591781,
+        631233,
+        670685,
+        710137,
+        749589,
+        789041,
+        828493,
+        867945,
+        907397,
+        946849,
+        986301,
+        1025753,
+        1065205,
+        1104658,
+        1144110,
+        1183562,
+        1223014,
+        1262466,
+        1301918,
+        1341370,
+        1380822,
+        1420274,
+        1459726,
+        1499178
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 275,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 36,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MyOwnMuse/MyOwnMuse_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"577294\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MyOwnMuse/MyOwnMuse_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1979658\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MyOwnMuse/MyOwnMuse_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "65b3f8cd5beb41b6ddf33c19ef8b922c",
+      "storageType": 0,
+      "url": "/public/map/MyOwnMuse/nx/MyOwnMuse_MAIN_SCENE_NX.zip/65b3f8cd5beb41b6ddf33c19ef8b922c.zip"
+    },
+    "pc": {
+      "md5": "f976724c0008d5cc333eeb1d24315c4d",
+      "storageType": 0,
+      "url": "/public/map/MyOwnMuse/pc/MyOwnMuse_MAIN_SCENE_PC.zip/f976724c0008d5cc333eeb1d24315c4d.zip"
+    },
+    "ps4": {
+      "md5": "f97bba93d3d8046c74be8ec09cc618e9",
+      "storageType": 0,
+      "url": "/public/map/MyOwnMuse/orbis/MyOwnMuse_MAIN_SCENE_ORBIS.zip/f97bba93d3d8046c74be8ec09cc618e9.zip"
+    }
+  },
+  "data": {
+    "mapName": "MyOwnMuse",
+    "title": "I Am My Own Muse",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Fall Out Boy",
+    "credits": "Written by Andrew Hurley, Patrick Stump, Joseph Trohman, Peter Wentz. Published by Chicago X Softcore Songs / Sony/ATV Songs LLC. Courtesy of Fueled By Ramen/Elektra Music Group Inc. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#1822f4",
+    "songColor2A": "#7af67f",
+    "songColor1B": "#040d3d",
+    "songColor2B": "#035624",
+    "lyricsColor": "#49b5a7",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MyOwnMuse/nx/MyOwnMuse_banner_bkg.tga.ckd/db7869ca34cdc28161b7f819529c14fe.ckd",
+      "map_bkgImageUrl": "/public/map/MyOwnMuse/nx/MyOwnMuse_map_bkg.tga.ckd/46e882b3aed8c918ebd0f603f9255b5b.ckd",
+      "expandCoachImageUrl": "/public/map/MyOwnMuse/nx/MyOwnMuse_Cover_AlbumCoach.tga.ckd/1aa960cb6a18643c2bad05b7c86fae21.ckd",
+      "cover_smallImageUrl": "/public/map/MyOwnMuse/nx/MyOwnMuse_Cover_Online.tga.ckd/7c474ee0b9ea30f5ecf0a41b6b22ab52.ckd",
+      "coverImageUrl": "/public/map/MyOwnMuse/nx/MyOwnMuse_Cover_Generic.tga.ckd/1186d33f67e4db2a5fc82002616b3e87.ckd",
+      "coach1ImageUrl": "/public/map/MyOwnMuse/nx/MyOwnMuse_Coach_1.tga.ckd/9c4efa595ac06667b8d87b5e0a4b98e2.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MyOwnMuse/pc/MyOwnMuse_banner_bkg.tga.ckd/f811281dc2ea50d7c225ea6a580fc53c.ckd",
+      "map_bkgImageUrl": "/public/map/MyOwnMuse/pc/MyOwnMuse_map_bkg.tga.ckd/a56cbd1f2faec43ecc34a541b98fecbe.ckd",
+      "expandCoachImageUrl": "/public/map/MyOwnMuse/pc/MyOwnMuse_Cover_AlbumCoach.tga.ckd/5618770e5b49818f99c6ce6f9333fd45.ckd",
+      "cover_smallImageUrl": "/public/map/MyOwnMuse/pc/MyOwnMuse_Cover_Online.tga.ckd/de8a3081940d2567b5dbf6a91f78dd16.ckd",
+      "coverImageUrl": "/public/map/MyOwnMuse/pc/MyOwnMuse_Cover_Generic.tga.ckd/ba29c723e52ea8d5c174f0078c7c5bcf.ckd",
+      "coach1ImageUrl": "/public/map/MyOwnMuse/pc/MyOwnMuse_Coach_1.tga.ckd/bbb98f8ed1c881a8b1a30f4b7c067841.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MyOwnMuse/orbis/MyOwnMuse_banner_bkg.tga.ckd/f811281dc2ea50d7c225ea6a580fc53c.ckd",
+      "map_bkgImageUrl": "/public/map/MyOwnMuse/orbis/MyOwnMuse_map_bkg.tga.ckd/a56cbd1f2faec43ecc34a541b98fecbe.ckd",
+      "expandCoachImageUrl": "/public/map/MyOwnMuse/orbis/MyOwnMuse_Cover_AlbumCoach.tga.ckd/5618770e5b49818f99c6ce6f9333fd45.ckd",
+      "cover_smallImageUrl": "/public/map/MyOwnMuse/orbis/MyOwnMuse_Cover_Online.tga.ckd/de8a3081940d2567b5dbf6a91f78dd16.ckd",
+      "coverImageUrl": "/public/map/MyOwnMuse/orbis/MyOwnMuse_Cover_Generic.tga.ckd/ba29c723e52ea8d5c174f0078c7c5bcf.ckd",
+      "coach1ImageUrl": "/public/map/MyOwnMuse/orbis/MyOwnMuse_Coach_1.tga.ckd/bbb98f8ed1c881a8b1a30f4b7c067841.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MyOwnMuse/MyOwnMuse_Coach_1_Phone.png/3b69f69493f2ccfccbca311e7120e267.png",
+    "phoneCoverImageUrl": "/public/map/MyOwnMuse/MyOwnMuse_Cover_Phone.jpg/4b89dc2765ef19680323709994335dea.jpg",
+    "cover640ImageUrl": "/public/map/MyOwnMuse/MyOwnMuse_Cover_640.png/c2858483f58a6c8f8d16759fe1d5cd66.png"
+  },
+  "mapLength": 230.958875
+}

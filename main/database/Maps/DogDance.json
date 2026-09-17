@@ -1,0 +1,162 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DogDance/DogDance.ogg": "/private/map/DogDance/DogDance.ogg/e60a1567261617eff602cb06a420c1ef.ogg",
+    "jmcs://jd-contents/DogDance/DogDance_AudioPreview.ogg": "/public/map/DogDance/DogDance_AudioPreview.ogg/2964f016e0999cf2dd539beada1308ad.ogg",
+    "jmcs://jd-contents/DogDance/DogDance_HIGH.hd.webm": "/private/map/DogDance/DogDance_HIGH.hd.webm/1ce37105a2ece01b577742a6022ee264.webm",
+    "jmcs://jd-contents/DogDance/DogDance_LOW.hd.webm": "/private/map/DogDance/DogDance_LOW.hd.webm/5012e5a64ceb83c29462482fba476e50.webm",
+    "jmcs://jd-contents/DogDance/DogDance_MID.hd.webm": "/private/map/DogDance/DogDance_MID.hd.webm/dd9d28afde9d1834e6feea1abeb300a8.webm",
+    "jmcs://jd-contents/DogDance/DogDance_ULTRA.hd.webm": "/private/map/DogDance/DogDance_ULTRA.hd.webm/f8fd7babcc4dc6d990e86fe07b4e7840.webm",
+    "jmcs://jd-contents/DogDance/DogDance_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DogDance/DogDance_MapPreviewNoSoundCrop_LOW.vp8.webm/6c17213353ea92d99b204199fc362a16.webm",
+    "jmcs://jd-contents/DogDance/DogDance_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DogDance/DogDance_MapPreviewNoSoundCrop_MID.vp8.webm/384b5e1a67a734c1804ae661fcb0a802.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33103,
+        66207,
+        99310,
+        132414,
+        165517,
+        198621,
+        231724,
+        264828,
+        297931,
+        331034,
+        364138,
+        397241,
+        430345,
+        463448,
+        496552,
+        529655,
+        562759,
+        595862,
+        628966,
+        662069,
+        695172,
+        726852,
+        759852,
+        792852,
+        825852,
+        858852,
+        891852,
+        924852,
+        957852,
+        988911,
+        1021238,
+        1053564,
+        1085891,
+        1119593,
+        1152593,
+        1185593,
+        1218593,
+        1251593,
+        1284593,
+        1317593,
+        1350593,
+        1383593,
+        1416593,
+        1449593,
+        1482593,
+        1515593
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 296,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 44,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DogDance/DogDance_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"544463\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DogDance/DogDance_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1993009\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DogDance/DogDance_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "38ed5d7f401846c5daf6e0b69fe36e95",
+      "storageType": 0,
+      "url": "/public/map/DogDance/nx/DogDance_MAIN_SCENE_NX.zip/38ed5d7f401846c5daf6e0b69fe36e95.zip"
+    },
+    "pc": {
+      "md5": "44929e816ee3c92e928ff80704201c3c",
+      "storageType": 0,
+      "url": "/public/map/DogDance/pc/DogDance_MAIN_SCENE_PC.zip/44929e816ee3c92e928ff80704201c3c.zip"
+    },
+    "ps4": {
+      "md5": "f3e2777568db95c334d5a76366f00101",
+      "storageType": 0,
+      "url": "/public/map/DogDance/orbis/DogDance_MAIN_SCENE_ORBIS.zip/f3e2777568db95c334d5a76366f00101.zip"
+    }
+  },
+  "data": {
+    "mapName": "DogDance",
+    "title": "Bluey Medley",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Bluey",
+    "credits": "\"Bluey Theme and Dance Mode Medley\" performed by Bluey. Written by Jonathan Nicholas Bush. Published by Universal Music Publishing Canada on behalf of BBCW Music Publishing. Courtesy of Ludo Studio and BBC Studios. All rights reserved. Used with permission.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#8cc5eb",
+    "songColor2A": "#f3d374",
+    "songColor1B": "#040238",
+    "songColor2B": "#e2762f",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DogDance/nx/DogDance_banner_bkg.tga.ckd/cffc9309fc84d7fc6f8343992477b7e7.ckd",
+      "map_bkgImageUrl": "/public/map/DogDance/nx/DogDance_map_bkg.tga.ckd/f1f44cf1b0dab5991766ed66ff600c80.ckd",
+      "expandCoachImageUrl": "/public/map/DogDance/nx/DogDance_Cover_AlbumCoach.tga.ckd/58dafe5dc17a07911f22d0a4fda8facb.ckd",
+      "cover_smallImageUrl": "/public/map/DogDance/nx/DogDance_Cover_Online.tga.ckd/676a5854a1b17f9de24b3e9f823a00d8.ckd",
+      "coverImageUrl": "/public/map/DogDance/nx/DogDance_Cover_Generic.tga.ckd/b5c8dd2b76a4d47de9476cd8ffd8b171.ckd",
+      "coach1ImageUrl": "/public/map/DogDance/nx/DogDance_Coach_1.tga.ckd/4fc5bb3862d245108fdbe66001866c88.ckd",
+      "coach2ImageUrl": "/public/map/DogDance/nx/DogDance_Coach_2.tga.ckd/9c03367298456ee27f7ba10f549c8980.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DogDance/pc/DogDance_banner_bkg.tga.ckd/d07537215ae1159a92fe99090f3a34d0.ckd",
+      "map_bkgImageUrl": "/public/map/DogDance/pc/DogDance_map_bkg.tga.ckd/77b82fdd25d76f85cc6454f45b76ad97.ckd",
+      "expandCoachImageUrl": "/public/map/DogDance/pc/DogDance_Cover_AlbumCoach.tga.ckd/55490dc81aa2df46867d3dc1c762d0de.ckd",
+      "cover_smallImageUrl": "/public/map/DogDance/pc/DogDance_Cover_Online.tga.ckd/28928df4f0464c0441b69cdb56c492aa.ckd",
+      "coverImageUrl": "/public/map/DogDance/pc/DogDance_Cover_Generic.tga.ckd/e7276e91005413fc8c6efba368e908e1.ckd",
+      "coach1ImageUrl": "/public/map/DogDance/pc/DogDance_Coach_1.tga.ckd/ea165a1d1d74aac9108a5af0a41136c8.ckd",
+      "coach2ImageUrl": "/public/map/DogDance/pc/DogDance_Coach_2.tga.ckd/b012474e8198550b2274ca0b2961aa5a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DogDance/orbis/DogDance_banner_bkg.tga.ckd/d07537215ae1159a92fe99090f3a34d0.ckd",
+      "map_bkgImageUrl": "/public/map/DogDance/orbis/DogDance_map_bkg.tga.ckd/77b82fdd25d76f85cc6454f45b76ad97.ckd",
+      "expandCoachImageUrl": "/public/map/DogDance/orbis/DogDance_Cover_AlbumCoach.tga.ckd/55490dc81aa2df46867d3dc1c762d0de.ckd",
+      "cover_smallImageUrl": "/public/map/DogDance/orbis/DogDance_Cover_Online.tga.ckd/28928df4f0464c0441b69cdb56c492aa.ckd",
+      "coverImageUrl": "/public/map/DogDance/orbis/DogDance_Cover_Generic.tga.ckd/e7276e91005413fc8c6efba368e908e1.ckd",
+      "coach1ImageUrl": "/public/map/DogDance/orbis/DogDance_Coach_1.tga.ckd/ea165a1d1d74aac9108a5af0a41136c8.ckd",
+      "coach2ImageUrl": "/public/map/DogDance/orbis/DogDance_Coach_2.tga.ckd/b012474e8198550b2274ca0b2961aa5a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DogDance/DogDance_Coach_1_Phone.png/c3710148c81bfff6c1afd69e0aa9c97a.png",
+    "phoneCoach2ImageUrl": "/public/map/DogDance/DogDance_Coach_2_Phone.png/10e4aa81c488b7a4e9a4b76242d1467d.png",
+    "phoneCoverImageUrl": "/public/map/DogDance/DogDance_Cover_Phone.jpg/e8684f8e09f4f37d04ef6652d0b11179.jpg",
+    "cover640ImageUrl": "/public/map/DogDance/DogDance_Cover_640.png/b235d05d51754054de75bd83502e3433.png"
+  },
+  "mapLength": 144.468333
+}

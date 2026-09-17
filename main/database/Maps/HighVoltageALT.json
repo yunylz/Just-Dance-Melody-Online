@@ -1,0 +1,195 @@
+{
+  "urls": {
+    "jmcs://jd-contents/HighVoltageALT/HighVoltageALT_AudioPreview.ogg": "/public/map/HighVoltageALT/HighVoltageALT_AudioPreview.ogg/26e16a62af16f7f0f6fc690b9c2bbd60.ogg",
+    "jmcs://jd-contents/HighVoltageALT/HighVoltageALT.ogg": "/private/map/HighVoltageALT/HighVoltageALT.ogg/91793f7aaee23a2579306e4379ba1cc5.ogg",
+    "jmcs://jd-contents/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_LOW.vp8.webm/53129f1988b6806aed5709c76ceb98d9.webm",
+    "jmcs://jd-contents/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_MID.vp8.webm/244d9191f96d3a3d7e8fd5a420615fcf.webm",
+    "jmcs://jd-contents/HighVoltageALT/HighVoltageALT_ULTRA.hd.webm": "/private/map/HighVoltageALT/HighVoltageALT_ULTRA.hd.webm/87453f008ee329e4e01a27e65602b733.webm",
+    "jmcs://jd-contents/HighVoltageALT/HighVoltageALT_HIGH.hd.webm": "/private/map/HighVoltageALT/HighVoltageALT_HIGH.hd.webm/bdbc476b384aa30d59182eeb76a46735.webm",
+    "jmcs://jd-contents/HighVoltageALT/HighVoltageALT_MID.hd.webm": "/private/map/HighVoltageALT/HighVoltageALT_MID.hd.webm/a8d6c09e637434c2e1ccea390e9db24d.webm",
+    "jmcs://jd-contents/HighVoltageALT/HighVoltageALT_LOW.hd.webm": "/private/map/HighVoltageALT/HighVoltageALT_LOW.hd.webm/0e066ddf8ce9a492ba4a201644e23bd7.webm",
+    "jmcs://jd-contents/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/b6d1d681533b2a143e4516676969f1a1.webm",
+    "jmcs://jd-contents/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/be36358bd99247be7d22727d9cdf4de3.webm"
+  },
+  "mapLength": 226.829203125,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23415,
+        46830,
+        70244,
+        93659,
+        117073,
+        140488,
+        163903,
+        187317,
+        210732,
+        234147,
+        257561,
+        280976,
+        304391,
+        327805,
+        351220,
+        374634,
+        398049,
+        421464,
+        444878,
+        468293,
+        491708,
+        515122,
+        538537,
+        561951,
+        585366,
+        608781,
+        632195,
+        655610,
+        679025,
+        702439,
+        725854,
+        749269,
+        772683,
+        796098,
+        819512,
+        842927,
+        866342,
+        889756,
+        913171,
+        936586,
+        960000,
+        983415,
+        1006830,
+        1030244,
+        1053659,
+        1077073,
+        1100488,
+        1123903,
+        1147317,
+        1170732,
+        1194147,
+        1217561,
+        1240976,
+        1264391,
+        1287805,
+        1311220,
+        1334634,
+        1358049,
+        1381464,
+        1404878,
+        1428293
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -20,
+      "endBeat": 445,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/HighVoltageALT/HighVoltageALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"646050\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"814-1304\">\n\t\t\t\t\t<Initialization range=\"0-814\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483549\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"814-1304\">\n\t\t\t\t\t<Initialization range=\"0-814\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2949020\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"814-1304\">\n\t\t\t\t\t<Initialization range=\"0-814\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"4949531\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HighVoltageALT/HighVoltageALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"814-1307\">\n\t\t\t\t\t<Initialization range=\"0-814\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "f30a9c5544bcb21c187270dd6bd56411",
+      "storageType": 0,
+      "url": "/public/map/HighVoltageALT/pc/HighVoltageALT_MAIN_SCENE_PC.zip/f30a9c5544bcb21c187270dd6bd56411.zip"
+    },
+    "ps4": {
+      "md5": "ee837c2a0d15081ea0366e12f86bbb46",
+      "storageType": 0,
+      "url": "/public/map/HighVoltageALT/orbis/HighVoltageALT_MAIN_SCENE_ORBIS.zip/ee837c2a0d15081ea0366e12f86bbb46.zip"
+    },
+    "wiiu": {
+      "md5": "d100bbaf8a8d66d80b219e229f07448a",
+      "storageType": 0,
+      "url": "/public/map/HighVoltageALT/wiiu/HighVoltageALT_MAIN_SCENE_WIIU.zip/d100bbaf8a8d66d80b219e229f07448a.zip"
+    },
+    "nx": {
+      "md5": "7e4cc2ec289c13c8a83c056285555871",
+      "storageType": 0,
+      "url": "/public/map/HighVoltageALT/nx/HighVoltageALT_MAIN_SCENE_NX.zip/7e4cc2ec289c13c8a83c056285555871.zip"
+    }
+  },
+  "data": {
+    "mapName": "HighVoltageALT",
+    "title": "Danger! High Voltage",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Electric Six",
+    "credits": "Written by Joseph Frezza, Cory Martin, Stephen Nawara, Anthony Selph, Tyler Spencer. Published by Wall of Sound Publishing (NS) / Sony/ATV Music Publishing (UK) Limited (PRS) Rights reserved.  Used with permission. Courtesy licence of XL Recordings Ltd.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#B577F5",
+    "songColor2A": "#FB82A9",
+    "songColor1B": "#060B53",
+    "songColor2B": "#592306",
+    "lyricsColor": "#FF9AD7",
+    "LocaleId": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/HighVoltageALT/pc/HighVoltageALT_Cover_Online.tga.ckd/e8cb2eee704050d4cb148d403766402b.ckd",
+      "coverImageUrl": "/public/map/HighVoltageALT/pc/HighVoltageALT_Cover_Generic.tga.ckd/376e348441d659e7f82549809ed2855b.ckd",
+      "expandCoachImageUrl": "/public/map/HighVoltageALT/pc/HighVoltageALT_Cover_AlbumCoach.tga.ckd/975b73545df97c13b5ae88f386594044.ckd",
+      "map_bkgImageUrl": "/public/map/HighVoltageALT/pc/HighVoltageALT_map_bkg.tga.ckd/18b6978a952ac4d87a900479f0e6169e.ckd",
+      "banner_bkgImageUrl": "/public/map/HighVoltageALT/pc/HighVoltageALT_banner_bkg.tga.ckd/5705112d11c64d529bdcb8b666155b29.ckd",
+      "coach1ImageUrl": "/public/map/HighVoltageALT/pc/HighVoltageALT_Coach_1.tga.ckd/a04b63368dfbf2bd1d6c753742992d15.ckd",
+      "coach2ImageUrl": "/public/map/HighVoltageALT/pc/HighVoltageALT_Coach_2.tga.ckd/21be78ef79ba7c349cca27d5e8d9fce3.ckd",
+      "phoneCoverImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Cover_Phone.jpg/a74901aed9eed4b2924615263520a0e0.jpg",
+      "phoneCoach1ImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Coach_1_Phone.png/f8afb6bb9c9054e9ee6892da38b14972.png",
+      "phoneCoach2ImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Coach_2_Phone.png/90e28af84c19c2eca915fe2887e18332.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/HighVoltageALT/orbis/HighVoltageALT_Cover_Online.tga.ckd/e8cb2eee704050d4cb148d403766402b.ckd",
+      "coverImageUrl": "/public/map/HighVoltageALT/orbis/HighVoltageALT_Cover_Generic.tga.ckd/376e348441d659e7f82549809ed2855b.ckd",
+      "expandCoachImageUrl": "/public/map/HighVoltageALT/orbis/HighVoltageALT_Cover_AlbumCoach.tga.ckd/975b73545df97c13b5ae88f386594044.ckd",
+      "map_bkgImageUrl": "/public/map/HighVoltageALT/orbis/HighVoltageALT_map_bkg.tga.ckd/18b6978a952ac4d87a900479f0e6169e.ckd",
+      "banner_bkgImageUrl": "/public/map/HighVoltageALT/orbis/HighVoltageALT_banner_bkg.tga.ckd/5705112d11c64d529bdcb8b666155b29.ckd",
+      "coach1ImageUrl": "/public/map/HighVoltageALT/orbis/HighVoltageALT_Coach_1.tga.ckd/a04b63368dfbf2bd1d6c753742992d15.ckd",
+      "coach2ImageUrl": "/public/map/HighVoltageALT/orbis/HighVoltageALT_Coach_2.tga.ckd/21be78ef79ba7c349cca27d5e8d9fce3.ckd",
+      "phoneCoverImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Cover_Phone.jpg/a74901aed9eed4b2924615263520a0e0.jpg",
+      "phoneCoach1ImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Coach_1_Phone.png/f8afb6bb9c9054e9ee6892da38b14972.png",
+      "phoneCoach2ImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Coach_2_Phone.png/90e28af84c19c2eca915fe2887e18332.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/HighVoltageALT/wiiu/HighVoltageALT_Cover_Online.tga.ckd/db828c202333da9688da1a8c9c0f0b0c.ckd",
+      "coverImageUrl": "/public/map/HighVoltageALT/wiiu/HighVoltageALT_Cover_Generic.tga.ckd/06ad072119cdd4e38452c9e1bfa6a2ff.ckd",
+      "expandCoachImageUrl": "/public/map/HighVoltageALT/wiiu/HighVoltageALT_Cover_AlbumCoach.tga.ckd/d2864ef797acd93a635e450c95b41a0c.ckd",
+      "map_bkgImageUrl": "/public/map/HighVoltageALT/wiiu/HighVoltageALT_map_bkg.tga.ckd/c403f540c3a6538e23dfcabbc246de05.ckd",
+      "banner_bkgImageUrl": "/public/map/HighVoltageALT/wiiu/HighVoltageALT_banner_bkg.tga.ckd/05531364321bbc5c6348f99ec2ec9a71.ckd",
+      "coach1ImageUrl": "/public/map/HighVoltageALT/wiiu/HighVoltageALT_Coach_1.tga.ckd/45ce4621d86801bc0bc10b687dcae8d1.ckd",
+      "coach2ImageUrl": "/public/map/HighVoltageALT/wiiu/HighVoltageALT_Coach_2.tga.ckd/0fe3ced65eb12e9ae586f8b5301e58de.ckd",
+      "phoneCoverImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Cover_Phone.jpg/a74901aed9eed4b2924615263520a0e0.jpg",
+      "phoneCoach1ImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Coach_1_Phone.png/f8afb6bb9c9054e9ee6892da38b14972.png",
+      "phoneCoach2ImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Coach_2_Phone.png/90e28af84c19c2eca915fe2887e18332.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/HighVoltageALT/nx/HighVoltageALT_Cover_Online.tga.ckd/180385dfbcce0320be20954069980dac.ckd",
+      "coverImageUrl": "/public/map/HighVoltageALT/nx/HighVoltageALT_Cover_Generic.tga.ckd/c216e7076d48e6427eaa7b70adae005c.ckd",
+      "expandCoachImageUrl": "/public/map/HighVoltageALT/nx/HighVoltageALT_Cover_AlbumCoach.tga.ckd/ee39922374e11885939f652fbacf1823.ckd",
+      "map_bkgImageUrl": "/public/map/HighVoltageALT/nx/HighVoltageALT_map_bkg.tga.ckd/b9b8e05cc89300ab840fcd78e7f75555.ckd",
+      "banner_bkgImageUrl": "/public/map/HighVoltageALT/nx/HighVoltageALT_banner_bkg.tga.ckd/c4341b19a82f6c6db1b6729e93afa04d.ckd",
+      "coach1ImageUrl": "/public/map/HighVoltageALT/nx/HighVoltageALT_Coach_1.tga.ckd/02219b80b501c3964a2bfb05b08d70ad.ckd",
+      "coach2ImageUrl": "/public/map/HighVoltageALT/nx/HighVoltageALT_Coach_2.tga.ckd/924f0a68c40c34f08a1fc42a750f64cf.ckd",
+      "phoneCoverImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Cover_Phone.jpg/a74901aed9eed4b2924615263520a0e0.jpg",
+      "phoneCoach1ImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Coach_1_Phone.png/f8afb6bb9c9054e9ee6892da38b14972.png",
+      "phoneCoach2ImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Coach_2_Phone.png/90e28af84c19c2eca915fe2887e18332.png"
+    },
+    "cover640ImageUrl": "/public/map/HighVoltageALT/HighVoltageALT_Cover_640.png/4d544d71fac09c3434d97eb94c1a5f66.png"
+  }
+}

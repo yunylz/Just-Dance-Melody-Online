@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "0970baad339336096f94ed5878ab46a2",
+      "storageType": 0,
+      "url": "/public/map/VogueALT/nx/VogueALT_MAIN_SCENE_NX.zip/0970baad339336096f94ed5878ab46a2.zip"
+    },
+    "pc": {
+      "md5": "84170c38ea1d2401df94e1d03bd642a2",
+      "storageType": 0,
+      "url": "/public/map/VogueALT/pc/VogueALT_MAIN_SCENE_PC.zip/84170c38ea1d2401df94e1d03bd642a2.zip"
+    },
+    "ps4": {
+      "md5": "957851e93b1d2beace82cdd357f468fc",
+      "storageType": 0,
+      "url": "/public/map/VogueALT/orbis/VogueALT_MAIN_SCENE_ORBIS.zip/957851e93b1d2beace82cdd357f468fc.zip"
+    }
+  },
+  "data": {
+    "mapName": "VogueALT",
+    "title": "Vogue",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Madonna",
+    "credits": "Written by Madonna, Shep Pettibone. Published by Webo Girl Publishing, Inc. All rights on behalf of Webo Girl Publishing, Inc. Administered by WC Music Corp. / Lexor Music. Administered by Kobalt Songs Music Publishing. Courtesy of Warner Records Inc. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f4d8cb",
+    "songColor2A": "#92d9e1",
+    "songColor1B": "#c343a0",
+    "songColor2B": "#3c84cd",
+    "lyricsColor": "#04e4cd"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24828,
+        49655,
+        74483,
+        99310,
+        124138,
+        148966,
+        173793,
+        198621,
+        223448,
+        248276,
+        273103,
+        297931,
+        322759,
+        347586,
+        372414,
+        397241,
+        422069,
+        446897,
+        471724,
+        496552,
+        521379,
+        546207,
+        571034,
+        595862,
+        620690,
+        645517,
+        670345,
+        695172,
+        720000,
+        744828,
+        769655,
+        794909,
+        820163,
+        845416,
+        870670,
+        894585,
+        918500,
+        943754,
+        969008,
+        994262,
+        1019515,
+        1044216,
+        1068917,
+        1093618,
+        1118318,
+        1143019,
+        1167720,
+        1192421,
+        1217121,
+        1241822,
+        1266523,
+        1291223,
+        1315924,
+        1340625,
+        1365326,
+        1390026,
+        1414727,
+        1439981,
+        1465235,
+        1489668
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 566,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/VogueALT/VogueALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/VogueALT/nx/VogueALT_banner_bkg.tga.ckd/adc696b190d6cec81dd841936772a1ac.ckd",
+      "map_bkgImageUrl": "/public/map/VogueALT/nx/VogueALT_map_bkg.tga.ckd/022ea65ea82257b70b07fa6705aea232.ckd",
+      "expandCoachImageUrl": "/public/map/VogueALT/nx/VogueALT_Cover_AlbumCoach.tga.ckd/ecac3eb80c48db9e01d2f98e14dbeac6.ckd",
+      "cover_smallImageUrl": "/public/map/VogueALT/nx/VogueALT_Cover_Online.tga.ckd/2740a7d02bb9af475babeeb1cf514692.ckd",
+      "coach1ImageUrl": "/public/map/VogueALT/nx/VogueALT_Coach_1.tga.ckd/06c8e97f29934f76e52ed90ea0084af9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/VogueALT/pc/VogueALT_banner_bkg.tga.ckd/886ed6398d606e7fd5a5f9e60ae49cd3.ckd",
+      "map_bkgImageUrl": "/public/map/VogueALT/pc/VogueALT_map_bkg.tga.ckd/84e7f89eb8721154f9a0251b414e3a51.ckd",
+      "expandCoachImageUrl": "/public/map/VogueALT/pc/VogueALT_Cover_AlbumCoach.tga.ckd/1edcc2401f093a6a641df25a5a8b573e.ckd",
+      "cover_smallImageUrl": "/public/map/VogueALT/pc/VogueALT_Cover_Online.tga.ckd/9551f72d6e9c6a1df7c551c30abeea1e.ckd",
+      "coach1ImageUrl": "/public/map/VogueALT/pc/VogueALT_Coach_1.tga.ckd/1c359ed6cc739bdcbd9a0c96e96f5c94.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/VogueALT/orbis/VogueALT_banner_bkg.tga.ckd/886ed6398d606e7fd5a5f9e60ae49cd3.ckd",
+      "map_bkgImageUrl": "/public/map/VogueALT/orbis/VogueALT_map_bkg.tga.ckd/84e7f89eb8721154f9a0251b414e3a51.ckd",
+      "expandCoachImageUrl": "/public/map/VogueALT/orbis/VogueALT_Cover_AlbumCoach.tga.ckd/1edcc2401f093a6a641df25a5a8b573e.ckd",
+      "cover_smallImageUrl": "/public/map/VogueALT/orbis/VogueALT_Cover_Online.tga.ckd/9551f72d6e9c6a1df7c551c30abeea1e.ckd",
+      "coach1ImageUrl": "/public/map/VogueALT/orbis/VogueALT_Coach_1.tga.ckd/1c359ed6cc739bdcbd9a0c96e96f5c94.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/VogueALT/VogueALT_Coach_1_Phone.png/547c159e5631e994c61c2c9e826341a8.png",
+    "phoneCoverImageUrl": "/public/map/VogueALT/VogueALT_Cover_Phone.jpg/a603720b6cd917f3ce19d4d3a256831a.jpg",
+    "cover640ImageUrl": "/public/map/VogueALT/VogueALT_Cover_640.png/ac377acb01c16425254ee67512aada41.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/VogueALT/VogueALT.ogg": "/private/map/VogueALT/VogueALT.ogg/f30d71b6717cdd9ba5edb085a76c9079.ogg",
+    "jmcs://jd-contents/VogueALT/VogueALT_AudioPreview.ogg": "/public/map/VogueALT/VogueALT_AudioPreview.ogg/4851ee09445183b6526a790e69b1eecf.ogg",
+    "jmcs://jd-contents/VogueALT/VogueALT_HIGH.webm": "/private/map/VogueALT/VogueALT_HIGH.webm/3b1ea044d428bf38b59e3882ca916b3f.webm",
+    "jmcs://jd-contents/VogueALT/VogueALT_LOW.webm": "/private/map/VogueALT/VogueALT_LOW.webm/e98f42d640b5ac7c255157835bd6c223.webm",
+    "jmcs://jd-contents/VogueALT/VogueALT_MID.webm": "/private/map/VogueALT/VogueALT_MID.webm/7e8a2ebbfb23ecea8519d14e9c0dd8c9.webm",
+    "jmcs://jd-contents/VogueALT/VogueALT_ULTRA.hd.webm": "/private/map/VogueALT/VogueALT_ULTRA.hd.webm/dba26857c7ff9ed3b390e6b4f217cb55.webm",
+    "jmcs://jd-contents/VogueALT/VogueALT_ULTRA.webm": "/private/map/VogueALT/VogueALT_ULTRA.webm/e3382dcfdca8fcaecde0e92991d9a5a8.webm",
+    "jmcs://jd-contents/VogueALT/VogueALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/VogueALT/VogueALT_MapPreviewNoSoundCrop_LOW.vp8.webm/b4c776d3ace82d297e8bcdd127b3008f.webm",
+    "jmcs://jd-contents/VogueALT/VogueALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/VogueALT/VogueALT_MapPreviewNoSoundCrop_MID.vp8.webm/ca2e9e952a658538fab44dad813cc28c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"498482\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/VogueALT/VogueALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482488\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/VogueALT/VogueALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 292.834083
+}

@@ -1,0 +1,172 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MerryChristmasKids/MerryChristmasKids.ogg": "/private/map/MerryChristmasKids/MerryChristmasKids.ogg/fd6e4b9c922ad84eed0f5e379a26db5d.ogg",
+    "jmcs://jd-contents/MerryChristmasKids/MerryChristmasKids_AudioPreview.ogg": "/public/map/MerryChristmasKids/MerryChristmasKids_AudioPreview.ogg/cc2fef195e6b008a7c04f3c3e81d3f41.ogg",
+    "jmcs://jd-contents/MerryChristmasKids/MerryChristmasKids_HIGH.hd.webm": "/private/map/MerryChristmasKids/MerryChristmasKids_HIGH.hd.webm/3489f2aef42985dd95a32fc48366fcf9.webm",
+    "jmcs://jd-contents/MerryChristmasKids/MerryChristmasKids_LOW.hd.webm": "/private/map/MerryChristmasKids/MerryChristmasKids_LOW.hd.webm/eaa6444955c68d71b6ce78723f0f349d.webm",
+    "jmcs://jd-contents/MerryChristmasKids/MerryChristmasKids_MID.hd.webm": "/private/map/MerryChristmasKids/MerryChristmasKids_MID.hd.webm/a878e3230300d5ddd9ae8c172c510857.webm",
+    "jmcs://jd-contents/MerryChristmasKids/MerryChristmasKids_ULTRA.hd.webm": "/private/map/MerryChristmasKids/MerryChristmasKids_ULTRA.hd.webm/d91e5f1eb2b978efd4c4399d8333b266.webm",
+    "jmcs://jd-contents/MerryChristmasKids/MerryChristmasKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MerryChristmasKids/MerryChristmasKids_MapPreviewNoSoundCrop_LOW.vp8.webm/ffa5d30259c1a01d40b7a127743d0271.webm",
+    "jmcs://jd-contents/MerryChristmasKids/MerryChristmasKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MerryChristmasKids/MerryChristmasKids_MapPreviewNoSoundCrop_MID.vp8.webm/fbaf3f8a324eab811d9db883d7d66fa3.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26927,
+        53855,
+        80735,
+        107663,
+        134591,
+        161471,
+        188399,
+        215327,
+        242255,
+        269135,
+        296063,
+        322991,
+        349919,
+        376799,
+        403727,
+        430655,
+        457583,
+        484463,
+        511390,
+        538318,
+        565246,
+        592126,
+        619054,
+        645982,
+        672910,
+        699790,
+        726718,
+        753646,
+        780574,
+        807454,
+        834382,
+        861310,
+        888238,
+        915118,
+        942046,
+        968974,
+        995902,
+        1022781,
+        1049709,
+        1076637,
+        1103565,
+        1130445,
+        1157373,
+        1184301,
+        1211229,
+        1238109,
+        1265037,
+        1291965,
+        1318893,
+        1345773,
+        1372701,
+        1399629,
+        1426557,
+        1453437,
+        1480365,
+        1507293
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -11,
+      "endBeat": 209,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 54,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MerryChristmasKids/MerryChristmasKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "881e0d6b5fed1d32f181856dc4218729",
+      "storageType": 0,
+      "url": "/public/map/MerryChristmasKids/nx/MerryChristmasKids_MAIN_SCENE_NX.zip/881e0d6b5fed1d32f181856dc4218729.zip"
+    },
+    "pc": {
+      "md5": "9dca6130515285fa59c0c489038c381c",
+      "storageType": 0,
+      "url": "/public/map/MerryChristmasKids/pc/MerryChristmasKids_MAIN_SCENE_PC.zip/9dca6130515285fa59c0c489038c381c.zip"
+    },
+    "ps4": {
+      "md5": "120557e2c993197a96c181aaf984d0ce",
+      "storageType": 0,
+      "url": "/public/map/MerryChristmasKids/orbis/MerryChristmasKids_MAIN_SCENE_ORBIS.zip/120557e2c993197a96c181aaf984d0ce.zip"
+    }
+  },
+  "data": {
+    "mapName": "MerryChristmasKids",
+    "title": "Jingle Bells",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main",
+      "kidsonly"
+    ],
+    "artist": "Santa Clones",
+    "credits": "Written By James Pierpont. Public Domain. Courtesy of Ubisoft Music.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#71e2fc",
+    "songColor2A": "#3dc3fb",
+    "songColor1B": "#2453c9",
+    "songColor2B": "#56a349",
+    "lyricsColor": "#ff292a",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MerryChristmasKids/nx/MerryChristmasKids_banner_bkg.tga.ckd/aa5df94347fd219500198080502630e2.ckd",
+      "map_bkgImageUrl": "/public/map/MerryChristmasKids/nx/MerryChristmasKids_map_bkg.tga.ckd/b70c34b987c6958549c30e56504bf983.ckd",
+      "expandCoachImageUrl": "/public/map/MerryChristmasKids/nx/MerryChristmasKids_Cover_AlbumCoach.tga.ckd/24e667f78b61d02d9318a136db9b97b8.ckd",
+      "cover_smallImageUrl": "/public/map/MerryChristmasKids/nx/MerryChristmasKids_Cover_Online.tga.ckd/86995d033bc1825fa7212ca958027a95.ckd",
+      "coverImageUrl": "/public/map/MerryChristmasKids/nx/MerryChristmasKids_Cover_Generic.tga.ckd/3ea3146fe4e2176cf3eca9cdd2f55090.ckd",
+      "coach1ImageUrl": "/public/map/MerryChristmasKids/nx/MerryChristmasKids_Coach_1.tga.ckd/937a9e89183ca3fd8ed1aae5d0c288c3.ckd",
+      "coach2ImageUrl": "/public/map/MerryChristmasKids/nx/MerryChristmasKids_Coach_2.tga.ckd/24350141841a23babdf942f1bdd55006.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MerryChristmasKids/pc/MerryChristmasKids_banner_bkg.tga.ckd/f197edcd5fb641a1bc111717afbab9b0.ckd",
+      "map_bkgImageUrl": "/public/map/MerryChristmasKids/pc/MerryChristmasKids_map_bkg.tga.ckd/fc1fd1733e84a66d20a95d545cff6fc1.ckd",
+      "expandCoachImageUrl": "/public/map/MerryChristmasKids/pc/MerryChristmasKids_Cover_AlbumCoach.tga.ckd/d71484c945b7b6af301528b33932cb12.ckd",
+      "cover_smallImageUrl": "/public/map/MerryChristmasKids/pc/MerryChristmasKids_Cover_Online.tga.ckd/8896862a795e75e818d43eac951f5324.ckd",
+      "coverImageUrl": "/public/map/MerryChristmasKids/pc/MerryChristmasKids_Cover_Generic.tga.ckd/44f3dfee116ca849a5f0a12225ad529f.ckd",
+      "coach1ImageUrl": "/public/map/MerryChristmasKids/pc/MerryChristmasKids_Coach_1.tga.ckd/7218b119b2206083b7ecbe15045621ea.ckd",
+      "coach2ImageUrl": "/public/map/MerryChristmasKids/pc/MerryChristmasKids_Coach_2.tga.ckd/e8af575025a9b9a774bafe097c7fdbd4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MerryChristmasKids/orbis/MerryChristmasKids_banner_bkg.tga.ckd/f197edcd5fb641a1bc111717afbab9b0.ckd",
+      "map_bkgImageUrl": "/public/map/MerryChristmasKids/orbis/MerryChristmasKids_map_bkg.tga.ckd/fc1fd1733e84a66d20a95d545cff6fc1.ckd",
+      "expandCoachImageUrl": "/public/map/MerryChristmasKids/orbis/MerryChristmasKids_Cover_AlbumCoach.tga.ckd/d71484c945b7b6af301528b33932cb12.ckd",
+      "cover_smallImageUrl": "/public/map/MerryChristmasKids/orbis/MerryChristmasKids_Cover_Online.tga.ckd/8896862a795e75e818d43eac951f5324.ckd",
+      "coverImageUrl": "/public/map/MerryChristmasKids/orbis/MerryChristmasKids_Cover_Generic.tga.ckd/44f3dfee116ca849a5f0a12225ad529f.ckd",
+      "coach1ImageUrl": "/public/map/MerryChristmasKids/orbis/MerryChristmasKids_Coach_1.tga.ckd/7218b119b2206083b7ecbe15045621ea.ckd",
+      "coach2ImageUrl": "/public/map/MerryChristmasKids/orbis/MerryChristmasKids_Coach_2.tga.ckd/e8af575025a9b9a774bafe097c7fdbd4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MerryChristmasKids/MerryChristmasKids_Coach_1_Phone.png/ff297069888a437d9cd1b17b31ef0b50.png",
+    "phoneCoach2ImageUrl": "/public/map/MerryChristmasKids/MerryChristmasKids_Coach_2_Phone.png/83a1b0103ae099f4c46a09b063f3a6bd.png",
+    "phoneCoverImageUrl": "/public/map/MerryChristmasKids/MerryChristmasKids_Cover_Phone.jpg/be924119b29e0cb09561d15f7d9f77b8.jpg",
+    "cover640ImageUrl": "/public/map/MerryChristmasKids/MerryChristmasKids_Cover_640.png/061d2d3af05addf915dc497dc6780e42.png"
+  },
+  "mapLength": 123.364521
+}

@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9e1605363bc2f962f5185520ea751b7c",
+      "storageType": 0,
+      "url": "/public/map/BossBitch/nx/BossBitch_MAIN_SCENE_NX.zip/9e1605363bc2f962f5185520ea751b7c.zip"
+    },
+    "pc": {
+      "md5": "37af3e19f03582f1de6058261aeca778",
+      "storageType": 0,
+      "url": "/public/map/BossBitch/pc/BossBitch_MAIN_SCENE_PC.zip/37af3e19f03582f1de6058261aeca778.zip"
+    },
+    "ps4": {
+      "md5": "7a71873f8f905fe4e761ca8d0a4fc3a6",
+      "storageType": 0,
+      "url": "/public/map/BossBitch/orbis/BossBitch_MAIN_SCENE_ORBIS.zip/7a71873f8f905fe4e761ca8d0a4fc3a6.zip"
+    }
+  },
+  "data": {
+    "mapName": "BossBitch",
+    "title": "Boss Bitch",
+    "originalJDVersion": 9999,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium",
+      "forceRumble"
+    ],
+    "artist": "Doja Cat",
+    "credits": " Written by Adam Sky, Ashton Nicole Casey, Imad Roy El-Amine and Amala Ratna Dlamini. Published by Where Da Kasz At (BMI) / Doja Cat Music (BMI). Administered by Kobalt Music Publishing America, Inc. / Phrased Differently (PRS) / WARNER CHAPPELL MUSIC LTD (PRS). All rights on behalf of WARNER CHAPPELL MUSIC LTD administered by WC Music Corp. / Conscious Pop (ASCAP) / Sony/ATV tunes LLC (ASCAP). Vocals: DEVMO. Produced, mixed, recorded, programmed by Steve Ouimette. All rights reserved. Used with permission. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#e62ef1",
+    "songColor2A": "#2ae8f4",
+    "songColor1B": "#060346",
+    "songColor2B": "#180e7b",
+    "lyricsColor": "#fda556"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22857,
+        45714,
+        68571,
+        91429,
+        114286,
+        137143,
+        160000,
+        182857,
+        205714,
+        228571,
+        251429,
+        274286,
+        297143,
+        320000,
+        342857,
+        365714,
+        388571,
+        411429,
+        434286,
+        457143,
+        480000,
+        502857,
+        525714,
+        548571,
+        571429,
+        594286,
+        617143,
+        640000,
+        662857,
+        685714,
+        708571,
+        731429,
+        754286,
+        777143,
+        800000,
+        822857,
+        845714,
+        868571,
+        891429,
+        914286,
+        937143,
+        960000,
+        982857,
+        1005714,
+        1028571,
+        1051429,
+        1074286,
+        1097143,
+        1120000,
+        1142857,
+        1165714,
+        1188571,
+        1211429,
+        1234286,
+        1257143,
+        1280000,
+        1302857,
+        1325714,
+        1348571,
+        1371429,
+        1394286,
+        1417143,
+        1440000,
+        1462857,
+        1485714
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -12,
+      "endBeat": 285,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BossBitch/BossBitch_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BossBitch/nx/BossBitch_banner_bkg.tga.ckd/d34ddd16648f65fbdafa762f6e99107a.ckd",
+      "map_bkgImageUrl": "/public/map/BossBitch/nx/BossBitch_map_bkg.tga.ckd/34b7bf3be2e3e7b7d50fae883f4e6745.ckd",
+      "expandCoachImageUrl": "/public/map/BossBitch/nx/BossBitch_Cover_AlbumCoach.tga.ckd/85116de5284d699af272b0ce1e4015c5.ckd",
+      "cover_smallImageUrl": "/public/map/BossBitch/nx/BossBitch_Cover_Online.tga.ckd/037f7ebd102694071f4dc5a16873d839.ckd",
+      "coverImageUrl": "/public/map/BossBitch/nx/BossBitch_Cover_Generic.tga.ckd/c97b43603b3a99eba48ee26d2f5b8f1a.ckd",
+      "coach1ImageUrl": "/public/map/BossBitch/nx/BossBitch_Coach_1.tga.ckd/b3ecf8039b25200b785a69b8560b5e52.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BossBitch/pc/BossBitch_banner_bkg.tga.ckd/6842b61e4da246738f6599373ef1c0e1.ckd",
+      "map_bkgImageUrl": "/public/map/BossBitch/pc/BossBitch_map_bkg.tga.ckd/de7a91f48958ef135287074cb2979d36.ckd",
+      "expandCoachImageUrl": "/public/map/BossBitch/pc/BossBitch_Cover_AlbumCoach.tga.ckd/efec60386c6a6ea88c38ad54c233271d.ckd",
+      "cover_smallImageUrl": "/public/map/BossBitch/pc/BossBitch_Cover_Online.tga.ckd/09601a97d79f998cb9fbb18be0e0b8f9.ckd",
+      "coverImageUrl": "/public/map/BossBitch/pc/BossBitch_Cover_Generic.tga.ckd/b61af42e95963661625577bc0e57f18e.ckd",
+      "coach1ImageUrl": "/public/map/BossBitch/pc/BossBitch_Coach_1.tga.ckd/e6f5adcf24965ae526308e35f7a957f9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BossBitch/orbis/BossBitch_banner_bkg.tga.ckd/6842b61e4da246738f6599373ef1c0e1.ckd",
+      "map_bkgImageUrl": "/public/map/BossBitch/orbis/BossBitch_map_bkg.tga.ckd/de7a91f48958ef135287074cb2979d36.ckd",
+      "expandCoachImageUrl": "/public/map/BossBitch/orbis/BossBitch_Cover_AlbumCoach.tga.ckd/efec60386c6a6ea88c38ad54c233271d.ckd",
+      "cover_smallImageUrl": "/public/map/BossBitch/orbis/BossBitch_Cover_Online.tga.ckd/09601a97d79f998cb9fbb18be0e0b8f9.ckd",
+      "coverImageUrl": "/public/map/BossBitch/orbis/BossBitch_Cover_Generic.tga.ckd/b61af42e95963661625577bc0e57f18e.ckd",
+      "coach1ImageUrl": "/public/map/BossBitch/orbis/BossBitch_Coach_1.tga.ckd/e6f5adcf24965ae526308e35f7a957f9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BossBitch/BossBitch_Coach_1_Phone.png/81771c033f6af8186eb0d7f2d9398c39.png",
+    "phoneCoverImageUrl": "/public/map/BossBitch/BossBitch_Cover_Phone.jpg/61c7200b9753f739a7b69d7f2b096618.jpg",
+    "cover640ImageUrl": "/public/map/BossBitch/BossBitch_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BossBitch/BossBitch.ogg": "/private/map/BossBitch/BossBitch.ogg/116205e433d2b666663b504d3a1b0057.ogg",
+    "jmcs://jd-contents/BossBitch/BossBitch_AudioPreview.ogg": "/public/map/BossBitch/BossBitch_AudioPreview.ogg/5f2c73ca580e9db4b83bd2257ebd8866.ogg",
+    "jmcs://jd-contents/BossBitch/BossBitch_HIGH.webm": "/private/map/BossBitch/BossBitch_HIGH.webm/754f988e40938bb98cb9f7d39669c028.webm",
+    "jmcs://jd-contents/BossBitch/BossBitch_LOW.webm": "/private/map/BossBitch/BossBitch_LOW.webm/821a7c6e68c613fb7b8282d20f60016f.webm",
+    "jmcs://jd-contents/BossBitch/BossBitch_MID.webm": "/private/map/BossBitch/BossBitch_MID.webm/a8f8bda22ac20b2e068a06ecd4dde31c.webm",
+    "jmcs://jd-contents/BossBitch/BossBitch_ULTRA.hd.webm": "/private/map/BossBitch/BossBitch_ULTRA.hd.webm/7c61040d4479334a01454fb68385e280.webm",
+    "jmcs://jd-contents/BossBitch/BossBitch_ULTRA.webm": "/private/map/BossBitch/BossBitch_ULTRA.webm/c48b6cb43a02fb6e54341380508e39a1.webm",
+    "jmcs://jd-contents/BossBitch/BossBitch_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BossBitch/BossBitch_MapPreviewNoSoundCrop_LOW.vp8.webm/0a56a34eadb867be6c62ca727dbfe21f.webm",
+    "jmcs://jd-contents/BossBitch/BossBitch_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BossBitch/BossBitch_MapPreviewNoSoundCrop_MID.vp8.webm/e13891868d6d1793d728ff02c71b122b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"508459\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BossBitch/BossBitch_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\n\t\t\t\t\t<Initialization range=\"0-643\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1472915\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BossBitch/BossBitch_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"644-1134\">\n\t\t\t\t\t<Initialization range=\"0-644\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 140.907417
+}

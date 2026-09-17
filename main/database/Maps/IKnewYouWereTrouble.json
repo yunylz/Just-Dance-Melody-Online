@@ -1,0 +1,152 @@
+{
+  "urls": {
+    "jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble.ogg": "/private/map/IKnewYouWereTrouble/IKnewYouWereTrouble.ogg/2a18ee4ecf329892afa266bb2367555c.ogg",
+    "jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_AudioPreview.ogg": "/public/map/IKnewYouWereTrouble/IKnewYouWereTrouble_AudioPreview.ogg/da3de8ed45f96d45ea03cd63f524cd69.ogg",
+    "jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_HIGH.hd.webm": "/private/map/IKnewYouWereTrouble/IKnewYouWereTrouble_HIGH.hd.webm/f8ea9a3be88eef4ea218c87bdcf7acbc.webm",
+    "jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_LOW.hd.webm": "/private/map/IKnewYouWereTrouble/IKnewYouWereTrouble_LOW.hd.webm/4158d72a8d95624fc036e8532fc1c4a0.webm",
+    "jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_MID.hd.webm": "/private/map/IKnewYouWereTrouble/IKnewYouWereTrouble_MID.hd.webm/e94e520e1f004f78be24f8bd943127f4.webm",
+    "jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_ULTRA.hd.webm": "/private/map/IKnewYouWereTrouble/IKnewYouWereTrouble_ULTRA.hd.webm/81431b922ce0a23e869f0bc191e0128b.webm",
+    "jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/IKnewYouWereTrouble/IKnewYouWereTrouble_MapPreviewNoSoundCrop_LOW.vp8.webm/2c03106683556f8bb609088ad498b20d.webm",
+    "jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/IKnewYouWereTrouble/IKnewYouWereTrouble_MapPreviewNoSoundCrop_MID.vp8.webm/56abda3fe8ea813f85c9cbb5ce14fbb1.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        37403,
+        74805,
+        112208,
+        149610,
+        187013,
+        224416,
+        261818,
+        299221,
+        336623,
+        374026,
+        411429,
+        448831,
+        486234,
+        523636,
+        561039,
+        598442,
+        635844,
+        673247,
+        710649,
+        748052,
+        785455,
+        822857,
+        860260,
+        897662,
+        935065,
+        972468,
+        1009870,
+        1047273,
+        1084675,
+        1122078,
+        1159481,
+        1196883,
+        1234286,
+        1271688,
+        1309091,
+        1346494,
+        1383896,
+        1421299,
+        1458701,
+        1496104
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -16,
+      "endBeat": 283,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 38,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"573700\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2037673\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "9f76b92e8533a3525dbe47154df10cae",
+      "storageType": 0,
+      "url": "/public/map/IKnewYouWereTrouble/nx/IKnewYouWereTrouble_MAIN_SCENE_NX.zip/9f76b92e8533a3525dbe47154df10cae.zip"
+    },
+    "pc": {
+      "md5": "4536dd60eed8a505e6ba45917bb3dcea",
+      "storageType": 0,
+      "url": "/public/map/IKnewYouWereTrouble/pc/IKnewYouWereTrouble_MAIN_SCENE_PC.zip/4536dd60eed8a505e6ba45917bb3dcea.zip"
+    },
+    "ps4": {
+      "md5": "82837b19a6982c6eb753fc411bf87987",
+      "storageType": 0,
+      "url": "/public/map/IKnewYouWereTrouble/orbis/IKnewYouWereTrouble_MAIN_SCENE_ORBIS.zip/82837b19a6982c6eb753fc411bf87987.zip"
+    }
+  },
+  "data": {
+    "mapName": "IKnewYouWereTrouble",
+    "title": "I Knew You Were Trouble",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Taylor Swift",
+    "credits": "Written by Max Martin, Johan Schuster, Taylor Swift, Shellback. Published by MXM, Kobalt Songs Music Publishing. Admin by Kobalt Songs Music Publishing / Universal Music Publishing Canada on behalf of Taylor Swift Music / Sony ATV Tree Publishing. Courtesy of Taylor Swift/Republic Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#d24649",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/IKnewYouWereTrouble/nx/IKnewYouWereTrouble_banner_bkg.tga.ckd/2eb2da6e8036913ec306c1af43c42529.ckd",
+      "map_bkgImageUrl": "/public/map/IKnewYouWereTrouble/nx/IKnewYouWereTrouble_map_bkg.tga.ckd/467c373f2492c98c39765a00a1255737.ckd",
+      "expandCoachImageUrl": "/public/map/IKnewYouWereTrouble/nx/IKnewYouWereTrouble_Cover_AlbumCoach.tga.ckd/69d3818c371a8e4b209a658b43dc1b88.ckd",
+      "cover_smallImageUrl": "/public/map/IKnewYouWereTrouble/nx/IKnewYouWereTrouble_Cover_Online.tga.ckd/4555625f1c106ddb558fd2233354c7e9.ckd",
+      "coverImageUrl": "/public/map/IKnewYouWereTrouble/nx/IKnewYouWereTrouble_Cover_Generic.tga.ckd/f5da298b85eb1444c2ed5e99291cbc8b.ckd",
+      "coach1ImageUrl": "/public/map/IKnewYouWereTrouble/nx/IKnewYouWereTrouble_Coach_1.tga.ckd/303a8049fbf29ccac76be8895912a843.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/IKnewYouWereTrouble/pc/IKnewYouWereTrouble_banner_bkg.tga.ckd/6ca0361b4bbf2fd315c9002d9d06ec9b.ckd",
+      "map_bkgImageUrl": "/public/map/IKnewYouWereTrouble/pc/IKnewYouWereTrouble_map_bkg.tga.ckd/d7f50f9902a71440a561689bddb9d8bf.ckd",
+      "expandCoachImageUrl": "/public/map/IKnewYouWereTrouble/pc/IKnewYouWereTrouble_Cover_AlbumCoach.tga.ckd/6c574c893192449ac5586aaa0e0d6aba.ckd",
+      "cover_smallImageUrl": "/public/map/IKnewYouWereTrouble/pc/IKnewYouWereTrouble_Cover_Online.tga.ckd/d062602d108008f33165b11b70f9e4a8.ckd",
+      "coverImageUrl": "/public/map/IKnewYouWereTrouble/pc/IKnewYouWereTrouble_Cover_Generic.tga.ckd/ef0ac2b508a98eefc9c182c62ec897e6.ckd",
+      "coach1ImageUrl": "/public/map/IKnewYouWereTrouble/pc/IKnewYouWereTrouble_Coach_1.tga.ckd/cf509ae62a612603fff480fdd9dcc141.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/IKnewYouWereTrouble/orbis/IKnewYouWereTrouble_banner_bkg.tga.ckd/6ca0361b4bbf2fd315c9002d9d06ec9b.ckd",
+      "map_bkgImageUrl": "/public/map/IKnewYouWereTrouble/orbis/IKnewYouWereTrouble_map_bkg.tga.ckd/d7f50f9902a71440a561689bddb9d8bf.ckd",
+      "expandCoachImageUrl": "/public/map/IKnewYouWereTrouble/orbis/IKnewYouWereTrouble_Cover_AlbumCoach.tga.ckd/6c574c893192449ac5586aaa0e0d6aba.ckd",
+      "cover_smallImageUrl": "/public/map/IKnewYouWereTrouble/orbis/IKnewYouWereTrouble_Cover_Online.tga.ckd/d062602d108008f33165b11b70f9e4a8.ckd",
+      "coverImageUrl": "/public/map/IKnewYouWereTrouble/orbis/IKnewYouWereTrouble_Cover_Generic.tga.ckd/ef0ac2b508a98eefc9c182c62ec897e6.ckd",
+      "coach1ImageUrl": "/public/map/IKnewYouWereTrouble/orbis/IKnewYouWereTrouble_Coach_1.tga.ckd/cf509ae62a612603fff480fdd9dcc141.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/IKnewYouWereTrouble/IKnewYouWereTrouble_Coach_1_Phone.png/37de0dfbfccf2109ab299a385dc648da.png",
+    "phoneCoverImageUrl": "/public/map/IKnewYouWereTrouble/IKnewYouWereTrouble_Cover_Phone.jpg/cb614e1c18e2d12d2e4107d43b9e471f.jpg",
+    "cover640ImageUrl": "/public/map/IKnewYouWereTrouble/IKnewYouWereTrouble_Cover_640.png/a969eb171e1f98dfd921431358e263f8.png"
+  },
+  "mapLength": 232.987
+}

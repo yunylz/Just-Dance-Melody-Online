@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "90ccc5383820c8d126bdd403c43ef259",
+      "storageType": 0,
+      "url": "/public/map/WildWildWest/nx/WildWildWest_MAIN_SCENE_NX.zip/90ccc5383820c8d126bdd403c43ef259.zip"
+    },
+    "pc": {
+      "md5": "40d514066004a56988c367a0a826b6f1",
+      "storageType": 0,
+      "url": "/public/map/WildWildWest/pc/WildWildWest_MAIN_SCENE_PC.zip/40d514066004a56988c367a0a826b6f1.zip"
+    },
+    "ps4": {
+      "md5": "9def552fd37e85c055d4ce003ba7c518",
+      "storageType": 0,
+      "url": "/public/map/WildWildWest/orbis/WildWildWest_MAIN_SCENE_ORBIS.zip/9def552fd37e85c055d4ce003ba7c518.zip"
+    }
+  },
+  "data": {
+    "mapName": "WildWildWest",
+    "title": "Wild Wild West",
+    "originalJDVersion": 4,
+    "tags": [
+      "main"
+    ],
+    "artist": "Will Smith",
+    "credits": "Contains elements from Let's Play House. Written by Mohandas Dewese, Gregory E. Jacobs, Stevie Wonder, Willard C. Smith, Rob Fusari, Walter Junie Morrison, George Clinton Jr. and William 'Bootsy' Collins. Published by Universal Music Publishing Group a division of Universal Music Canada Inc. Black Bull Music (ASCAP) and Jobete Music Co. Inc. (ASCAP) Bridgeport Music Inc. (BMI) and Southfield Music Inc. (ASCAP) Treyball Music (ASCAP) A Side Music obo Rubber Band Music (BMI). All rights reserved. Used by permission. Courtesy of Columbia Records. By arrangement with Sony Music Licensing Dru Hill appears courtesy of The Island Def Jam Music Group.",
+    "coachCount": 4,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff3400",
+    "songColor2A": "#ff9000",
+    "songColor1B": "#270800",
+    "songColor2B": "#170d00",
+    "lyricsColor": "#e68b3e"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27857,
+        54772,
+        81687,
+        108602,
+        135517,
+        162432,
+        189347,
+        216262,
+        243177,
+        270092,
+        297007,
+        323922,
+        350837,
+        377752,
+        404667,
+        431582,
+        458497,
+        485412,
+        512327,
+        539242,
+        566157,
+        593072,
+        619987,
+        646902,
+        673817,
+        700732,
+        727647,
+        754562,
+        781477,
+        808392,
+        835307,
+        862222,
+        889137,
+        916052,
+        942967,
+        969882,
+        996797,
+        1023712,
+        1050627,
+        1077542,
+        1104457,
+        1131372,
+        1158287,
+        1185202,
+        1212117,
+        1239032,
+        1265947,
+        1292862,
+        1319777,
+        1346692,
+        1373607,
+        1400522,
+        1427437,
+        1454352,
+        1481267
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 391,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WildWildWest/WildWildWest_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WildWildWest/nx/WildWildWest_banner_bkg.tga.ckd/6413d8099ab639ff774ae881f8eb5155.ckd",
+      "map_bkgImageUrl": "/public/map/WildWildWest/nx/WildWildWest_map_bkg.tga.ckd/a2d10cbadbef26a9490e402f7d7bdd0a.ckd",
+      "expandCoachImageUrl": "/public/map/WildWildWest/nx/WildWildWest_Cover_AlbumCoach.tga.ckd/7603fa0474a33e8c894e14abd5a92d56.ckd",
+      "cover_smallImageUrl": "/public/map/WildWildWest/nx/WildWildWest_Cover_Online.tga.ckd/0d8193501e02376a57d055e0ee260512.ckd",
+      "coach1ImageUrl": "/public/map/WildWildWest/nx/WildWildWest_Coach_1.tga.ckd/6c55faa93e4bc50e74d04e9a5e1bf94a.ckd",
+      "coach2ImageUrl": "/public/map/WildWildWest/nx/WildWildWest_Coach_2.tga.ckd/35c40655b7c52629606c5d7294a64207.ckd",
+      "coach3ImageUrl": "/public/map/WildWildWest/nx/WildWildWest_Coach_3.tga.ckd/efcc2124ea2766883faaf16be470c508.ckd",
+      "coach4ImageUrl": "/public/map/WildWildWest/nx/WildWildWest_Coach_4.tga.ckd/24ae7e1bc9bb8d5966efbf90fffa18aa.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WildWildWest/pc/WildWildWest_banner_bkg.tga.ckd/ae0152254bacbdf6ce9bd8ca0e042636.ckd",
+      "map_bkgImageUrl": "/public/map/WildWildWest/pc/WildWildWest_map_bkg.tga.ckd/497ea58ca3b571a3e81b20d9e21a998a.ckd",
+      "expandCoachImageUrl": "/public/map/WildWildWest/pc/WildWildWest_Cover_AlbumCoach.tga.ckd/6ceeb8ef22938f699fda5e0dad0a9800.ckd",
+      "cover_smallImageUrl": "/public/map/WildWildWest/pc/WildWildWest_Cover_Online.tga.ckd/f07f8ac4fe7f7837452aa1f9901c9fd0.ckd",
+      "coach1ImageUrl": "/public/map/WildWildWest/pc/WildWildWest_Coach_1.tga.ckd/ad294dc1c506faccf1f90214f21ec320.ckd",
+      "coach2ImageUrl": "/public/map/WildWildWest/pc/WildWildWest_Coach_2.tga.ckd/37d39a0b34aa89b0527b03cbcf9b9d07.ckd",
+      "coach3ImageUrl": "/public/map/WildWildWest/pc/WildWildWest_Coach_3.tga.ckd/54fe01c5d4560936b4f29dd0ffe31d4a.ckd",
+      "coach4ImageUrl": "/public/map/WildWildWest/pc/WildWildWest_Coach_4.tga.ckd/789ec1eddd05b202c7ddbc17f1c11c1c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WildWildWest/orbis/WildWildWest_banner_bkg.tga.ckd/ae0152254bacbdf6ce9bd8ca0e042636.ckd",
+      "map_bkgImageUrl": "/public/map/WildWildWest/orbis/WildWildWest_map_bkg.tga.ckd/497ea58ca3b571a3e81b20d9e21a998a.ckd",
+      "expandCoachImageUrl": "/public/map/WildWildWest/orbis/WildWildWest_Cover_AlbumCoach.tga.ckd/6ceeb8ef22938f699fda5e0dad0a9800.ckd",
+      "cover_smallImageUrl": "/public/map/WildWildWest/orbis/WildWildWest_Cover_Online.tga.ckd/f07f8ac4fe7f7837452aa1f9901c9fd0.ckd",
+      "coach1ImageUrl": "/public/map/WildWildWest/orbis/WildWildWest_Coach_1.tga.ckd/ad294dc1c506faccf1f90214f21ec320.ckd",
+      "coach2ImageUrl": "/public/map/WildWildWest/orbis/WildWildWest_Coach_2.tga.ckd/37d39a0b34aa89b0527b03cbcf9b9d07.ckd",
+      "coach3ImageUrl": "/public/map/WildWildWest/orbis/WildWildWest_Coach_3.tga.ckd/54fe01c5d4560936b4f29dd0ffe31d4a.ckd",
+      "coach4ImageUrl": "/public/map/WildWildWest/orbis/WildWildWest_Coach_4.tga.ckd/789ec1eddd05b202c7ddbc17f1c11c1c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WildWildWest/WildWildWest_Coach_1_Phone.png/4158fce7ea12fcaab5ce69abf2bc5e48.png",
+    "phoneCoach2ImageUrl": "/public/map/WildWildWest/WildWildWest_Coach_2_Phone.png/355702a4de7e866d3da533dc7c81e1e0.png",
+    "phoneCoach3ImageUrl": "/public/map/WildWildWest/WildWildWest_Coach_3_Phone.png/725a04fe8512e5b7dabb49112b6ddcca.png",
+    "phoneCoach4ImageUrl": "/public/map/WildWildWest/WildWildWest_Coach_4_Phone.png/a67e2d6aeb561b0d564ef13762b70462.png",
+    "phoneCoverImageUrl": "/public/map/WildWildWest/WildWildWest_Cover_Phone.jpg/2f8f5bd342fb1a6143492b7fa745219f.jpg",
+    "cover640ImageUrl": "/public/map/WildWildWest/WildWildWest_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/WildWildWest/WildWildWest.ogg": "/private/map/WildWildWest/WildWildWest.ogg/50eab51597e10dff355362632051deac.ogg",
+    "jmcs://jd-contents/WildWildWest/WildWildWest_AudioPreview.ogg": "/public/map/WildWildWest/WildWildWest_AudioPreview.ogg/27c44153c66e55fccd7acf927d27b5ae.ogg",
+    "jmcs://jd-contents/WildWildWest/WildWildWest_HIGH.webm": "/private/map/WildWildWest/WildWildWest_HIGH.webm/01fea76ffef36504ed28211fb575d4ca.webm",
+    "jmcs://jd-contents/WildWildWest/WildWildWest_LOW.webm": "/private/map/WildWildWest/WildWildWest_LOW.webm/dbba44513ea379c5b546086fdb44ef34.webm",
+    "jmcs://jd-contents/WildWildWest/WildWildWest_MID.webm": "/private/map/WildWildWest/WildWildWest_MID.webm/26cbde39207cf19fa39057d058ecb876.webm",
+    "jmcs://jd-contents/WildWildWest/WildWildWest_ULTRA.hd.webm": "/private/map/WildWildWest/WildWildWest_ULTRA.hd.webm/d3980d2a7d3b259deee9a2494f5ce190.webm",
+    "jmcs://jd-contents/WildWildWest/WildWildWest_ULTRA.webm": "/private/map/WildWildWest/WildWildWest_ULTRA.webm/690a2e7add4f6b564bd68a7a759f5c07.webm",
+    "jmcs://jd-contents/WildWildWest/WildWildWest_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WildWildWest/WildWildWest_MapPreviewNoSoundCrop_LOW.vp8.webm/c4c31ca85b933cf9a773110591bc4e04.webm",
+    "jmcs://jd-contents/WildWildWest/WildWildWest_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WildWildWest/WildWildWest_MapPreviewNoSoundCrop_MID.vp8.webm/11254ae0311065a5e44d09bd3e0d5e50.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"509692\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WildWildWest/WildWildWest_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1474964\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WildWildWest/WildWildWest_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 219.864979
+}

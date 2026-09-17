@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/AnimalsALT/AnimalsALT.ogg": "/private/map/AnimalsALT/AnimalsALT.ogg/3a4bdd0e32b942091912ad5c0be93ca7.ogg",
+    "jmcs://jd-contents/AnimalsALT/AnimalsALT_AudioPreview.ogg": "/public/map/AnimalsALT/AnimalsALT_AudioPreview.ogg/2053401e1e450d0aeb22b062d1c2af64.ogg",
+    "jmcs://jd-contents/AnimalsALT/AnimalsALT_HIGH.hd.webm": "/private/map/AnimalsALT/AnimalsALT_HIGH.hd.webm/274707a44beea681213730227f3a3383.webm",
+    "jmcs://jd-contents/AnimalsALT/AnimalsALT_LOW.hd.webm": "/private/map/AnimalsALT/AnimalsALT_LOW.hd.webm/7e27209c1e11aa795a32f46bfec27f48.webm",
+    "jmcs://jd-contents/AnimalsALT/AnimalsALT_MID.hd.webm": "/private/map/AnimalsALT/AnimalsALT_MID.hd.webm/5f3434ec28e48556e99a099a4abc5ad0.webm",
+    "jmcs://jd-contents/AnimalsALT/AnimalsALT_ULTRA.hd.webm": "/private/map/AnimalsALT/AnimalsALT_ULTRA.hd.webm/d0daf827c7c5aac5ad6c1b5b8bf33bfc.webm",
+    "jmcs://jd-contents/AnimalsALT/AnimalsALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AnimalsALT/AnimalsALT_MapPreviewNoSoundCrop_LOW.vp8.webm/f70432824d162fa02b61b3f15af3bf7d.webm",
+    "jmcs://jd-contents/AnimalsALT/AnimalsALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AnimalsALT/AnimalsALT_MapPreviewNoSoundCrop_MID.vp8.webm/feecf997ea01aa583cfaf56ab60dde1a.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22512,
+        45024,
+        67488,
+        90000,
+        112512,
+        135023,
+        157488,
+        180000,
+        202511,
+        225024,
+        247487,
+        270000,
+        292512,
+        315024,
+        337488,
+        360000,
+        382512,
+        405023,
+        427487,
+        450000,
+        472511,
+        495023,
+        517487,
+        540000,
+        562512,
+        585024,
+        607488,
+        630000,
+        652512,
+        675024,
+        697488,
+        720000,
+        742512,
+        765024,
+        787488,
+        810000,
+        832511,
+        855024,
+        877487,
+        900000,
+        922511,
+        945023,
+        967487,
+        990000,
+        1012511,
+        1035023,
+        1057488,
+        1080000,
+        1102512,
+        1125024,
+        1147488,
+        1170000,
+        1192511,
+        1215024,
+        1237488,
+        1260000,
+        1282512,
+        1305024,
+        1327487,
+        1350000,
+        1372511,
+        1395023,
+        1417488,
+        1440000,
+        1462512,
+        1485024
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 377,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AnimalsALT/AnimalsALT_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "f5604977351180b9d16c5b46e55c2841",
+      "storageType": 0,
+      "url": "/public/map/AnimalsALT/nx/AnimalsALT_MAIN_SCENE_NX.zip/f5604977351180b9d16c5b46e55c2841.zip"
+    },
+    "pc": {
+      "md5": "db8b06b10bc3a30b1c1c73495fd4488d",
+      "storageType": 0,
+      "url": "/public/map/AnimalsALT/pc/AnimalsALT_MAIN_SCENE_PC.zip/db8b06b10bc3a30b1c1c73495fd4488d.zip"
+    },
+    "ps4": {
+      "md5": "76b03c7c53c26ade65177cb947c75735",
+      "storageType": 0,
+      "url": "/public/map/AnimalsALT/orbis/AnimalsALT_MAIN_SCENE_ORBIS.zip/76b03c7c53c26ade65177cb947c75735.zip"
+    }
+  },
+  "data": {
+    "mapName": "AnimalsALT",
+    "title": "Animals",
+    "originalJDVersion": 2016,
+    "tags": [
+      "alternate",
+      "extreme"
+    ],
+    "artist": "Martin Garrix",
+    "credits": "Written by Martijn Garritsen. Published by Universal Music Publishing, a division of Universal Music Canada Inc. Courtesy of Universal Music Entertainment, under license from Universal Music Canada Inc.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#8c4dff",
+    "songColor2A": "#ffae75",
+    "songColor1B": "#2e005b",
+    "songColor2B": "#660000",
+    "lyricsColor": "#fe9907",
+    "LocaleID": 12624
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AnimalsALT/nx/AnimalsALT_banner_bkg.tga.ckd/3efd90ef74dd3336599a74ebf59c245b.ckd",
+      "map_bkgImageUrl": "/public/map/AnimalsALT/nx/AnimalsALT_map_bkg.tga.ckd/47488889f64e4fe97367b2e820df8e1f.ckd",
+      "expandCoachImageUrl": "/public/map/AnimalsALT/nx/AnimalsALT_Cover_AlbumCoach.tga.ckd/2ad744d13a932f79c9a67e64e4ae38df.ckd",
+      "cover_smallImageUrl": "/public/map/AnimalsALT/nx/AnimalsALT_Cover_Online.tga.ckd/5cefddf278eaebe728d71809da1f778d.ckd",
+      "coverImageUrl": "/public/map/AnimalsALT/nx/AnimalsALT_Cover_Generic.tga.ckd/29559b21271f3fd953db68ab1f59aab2.ckd",
+      "coach1ImageUrl": "/public/map/AnimalsALT/nx/AnimalsALT_Coach_1.tga.ckd/b4cddae469ca42aeb1144612a76b26ba.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AnimalsALT/pc/AnimalsALT_banner_bkg.tga.ckd/58fe3e84305d7e552e4386c36bc95155.ckd",
+      "map_bkgImageUrl": "/public/map/AnimalsALT/pc/AnimalsALT_map_bkg.tga.ckd/775373efb1b2109810822d65602353a4.ckd",
+      "expandCoachImageUrl": "/public/map/AnimalsALT/pc/AnimalsALT_Cover_AlbumCoach.tga.ckd/68918ce83cdd3da02623984af4b1d725.ckd",
+      "cover_smallImageUrl": "/public/map/AnimalsALT/pc/AnimalsALT_Cover_Online.tga.ckd/659a370e91a5dc9883569ef501513f95.ckd",
+      "coverImageUrl": "/public/map/AnimalsALT/pc/AnimalsALT_Cover_Generic.tga.ckd/06f6bbd241ebd325fe0efb1d8f7f67c6.ckd",
+      "coach1ImageUrl": "/public/map/AnimalsALT/pc/AnimalsALT_Coach_1.tga.ckd/e555bf164bdf012c454d3b48293853f1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AnimalsALT/orbis/AnimalsALT_banner_bkg.tga.ckd/58fe3e84305d7e552e4386c36bc95155.ckd",
+      "map_bkgImageUrl": "/public/map/AnimalsALT/orbis/AnimalsALT_map_bkg.tga.ckd/775373efb1b2109810822d65602353a4.ckd",
+      "expandCoachImageUrl": "/public/map/AnimalsALT/orbis/AnimalsALT_Cover_AlbumCoach.tga.ckd/68918ce83cdd3da02623984af4b1d725.ckd",
+      "cover_smallImageUrl": "/public/map/AnimalsALT/orbis/AnimalsALT_Cover_Online.tga.ckd/659a370e91a5dc9883569ef501513f95.ckd",
+      "coverImageUrl": "/public/map/AnimalsALT/orbis/AnimalsALT_Cover_Generic.tga.ckd/06f6bbd241ebd325fe0efb1d8f7f67c6.ckd",
+      "coach1ImageUrl": "/public/map/AnimalsALT/orbis/AnimalsALT_Coach_1.tga.ckd/e555bf164bdf012c454d3b48293853f1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AnimalsALT/AnimalsALT_Coach_1_Phone.png/bfdbd2fece145179c3ff4f3b2c394ceb.png",
+    "phoneCoverImageUrl": "/public/map/AnimalsALT/AnimalsALT_Cover_Phone.jpg/7bb73b448734ca28d77fa6876d335ef2.jpg",
+    "cover640ImageUrl": "/public/map/AnimalsALT/AnimalsALT_Cover_640.png/b74be1c0a16665cd00c106e261d19192.png"
+  },
+  "mapLength": 178.125
+}

@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c4b953832e509ffa1f0c4db345f46bc6",
+      "storageType": 0,
+      "url": "/public/map/KeepIt/nx/KeepIt_MAIN_SCENE_NX.zip/c4b953832e509ffa1f0c4db345f46bc6.zip"
+    },
+    "pc": {
+      "md5": "1a49554c96c840a1905c10e740433d29",
+      "storageType": 0,
+      "url": "/public/map/KeepIt/pc/KeepIt_MAIN_SCENE_PC.zip/1a49554c96c840a1905c10e740433d29.zip"
+    },
+    "ps4": {
+      "md5": "3a3bf0b16e6d96bf7ffe92bb6e0d1d18",
+      "storageType": 0,
+      "url": "/public/map/KeepIt/orbis/KeepIt_MAIN_SCENE_ORBIS.zip/3a3bf0b16e6d96bf7ffe92bb6e0d1d18.zip"
+    }
+  },
+  "data": {
+    "mapName": "KeepIt",
+    "title": "Keep It Undercover",
+    "originalJDVersion": 3000,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Zendaya",
+    "credits": "TBA",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#00b6ff",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        12768,
+        40416,
+        68064,
+        95712,
+        123360,
+        151008,
+        178656,
+        206304,
+        233952,
+        261600,
+        287712,
+        318960,
+        339456,
+        367584,
+        392688,
+        423936,
+        444384,
+        471024,
+        497136,
+        528384,
+        548832,
+        571392,
+        595440,
+        620544,
+        650208,
+        678912,
+        706032,
+        735744,
+        758256,
+        785376,
+        810480,
+        837120,
+        863712,
+        894960,
+        921072,
+        946656,
+        967680,
+        999936,
+        1025520,
+        1052160,
+        1078272,
+        1104864,
+        1130976,
+        1156608,
+        1177584,
+        1203696,
+        1230336,
+        1261056,
+        1282560,
+        1313760,
+        1340400,
+        1365984,
+        1390080,
+        1418736,
+        1443840,
+        1470960,
+        1498080
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 295,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/KeepIt/KeepIt_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/KeepIt/nx/KeepIt_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/KeepIt/nx/KeepIt_map_bkg.tga.ckd/dcb45a3ff1a8fc7aba3a78261b69c877.ckd",
+      "expandCoachImageUrl": "/public/map/KeepIt/nx/KeepIt_Cover_AlbumCoach.tga.ckd/ddb884eeaa64115a7f71be49c2167279.ckd",
+      "cover_smallImageUrl": "/public/map/KeepIt/nx/KeepIt_Cover_Online.tga.ckd/4886d930197dd646f340753afcf3b872.ckd",
+      "coach1ImageUrl": "/public/map/KeepIt/nx/KeepIt_Coach_1.tga.ckd/5f3b885808f02895f7658931a5a04a6f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/KeepIt/pc/KeepIt_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/KeepIt/pc/KeepIt_map_bkg.tga.ckd/33bfec50ecaa082c8138eeae52c8596b.ckd",
+      "expandCoachImageUrl": "/public/map/KeepIt/pc/KeepIt_Cover_AlbumCoach.tga.ckd/3ec1c712dcb2e45d0520dbfe52b7cee3.ckd",
+      "cover_smallImageUrl": "/public/map/KeepIt/pc/KeepIt_Cover_Online.tga.ckd/d4f7994b1fc5e497a3bf4ae2abd4aa9f.ckd",
+      "coach1ImageUrl": "/public/map/KeepIt/pc/KeepIt_Coach_1.tga.ckd/d2bc91e5523c7d1fd7a59c5c74bd0207.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/KeepIt/orbis/KeepIt_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/KeepIt/orbis/KeepIt_map_bkg.tga.ckd/33bfec50ecaa082c8138eeae52c8596b.ckd",
+      "expandCoachImageUrl": "/public/map/KeepIt/orbis/KeepIt_Cover_AlbumCoach.tga.ckd/3ec1c712dcb2e45d0520dbfe52b7cee3.ckd",
+      "cover_smallImageUrl": "/public/map/KeepIt/orbis/KeepIt_Cover_Online.tga.ckd/d4f7994b1fc5e497a3bf4ae2abd4aa9f.ckd",
+      "coach1ImageUrl": "/public/map/KeepIt/orbis/KeepIt_Coach_1.tga.ckd/d2bc91e5523c7d1fd7a59c5c74bd0207.ckd"
+    }
+  },
+  "urls": {
+    "jmcs://jd-contents/KeepIt/KeepIt.ogg": "/private/map/KeepIt/KeepIt.ogg/08ae8204ddb9266a2c498d6ce4a08c68.ogg",
+    "jmcs://jd-contents/KeepIt/KeepIt_AudioPreview.ogg": "/public/map/KeepIt/KeepIt_AudioPreview.ogg/90504b67038c56dc9873f15fb4f1eb9c.ogg",
+    "jmcs://jd-contents/KeepIt/KeepIt_HIGH.webm": "/private/map/KeepIt/KeepIt_HIGH.webm/e5854a3977b64da1ab80bb8476ba58d7.webm",
+    "jmcs://jd-contents/KeepIt/KeepIt_LOW.webm": "/private/map/KeepIt/KeepIt_LOW.webm/59cd01bac9b3def461d14cd18a9af2df.webm",
+    "jmcs://jd-contents/KeepIt/KeepIt_MID.webm": "/private/map/KeepIt/KeepIt_MID.webm/a1ee080d3ba9a685266a87fc71f74b5d.webm",
+    "jmcs://jd-contents/KeepIt/KeepIt_ULTRA.webm": "/private/map/KeepIt/KeepIt_ULTRA.webm/e4ce89560fc0774a9b7b188df58bc1fa.webm",
+    "jmcs://jd-contents/KeepIt/KeepIt_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/KeepIt/KeepIt_MapPreviewNoSoundCrop_LOW.vp8.webm/bf0c5723ef9660505e2c4f2427a96c06.webm",
+    "jmcs://jd-contents/KeepIt/KeepIt_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/KeepIt/KeepIt_MapPreviewNoSoundCrop_MID.vp8.webm/9b41bdc93e8c2dfa704f574359ca0511.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"542972\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepIt/KeepIt_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1524779\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepIt/KeepIt_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 161.05775
+}

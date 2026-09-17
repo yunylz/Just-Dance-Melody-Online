@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3ee9e0152a57d1983e0b3498d59e3ae8",
+      "storageType": 0,
+      "url": "/public/map/Micky/nx/Micky_MAIN_SCENE_NX.zip/3ee9e0152a57d1983e0b3498d59e3ae8.zip"
+    },
+    "pc": {
+      "md5": "c7aed341f4913886239e7c2882233340",
+      "storageType": 0,
+      "url": "/public/map/Micky/pc/Micky_MAIN_SCENE_PC.zip/c7aed341f4913886239e7c2882233340.zip"
+    },
+    "ps4": {
+      "md5": "6fd8c345aa4297ba19974076f2396e1b",
+      "storageType": 0,
+      "url": "/public/map/Micky/orbis/Micky_MAIN_SCENE_ORBIS.zip/6fd8c345aa4297ba19974076f2396e1b.zip"
+    }
+  },
+  "data": {
+    "mapName": "Micky",
+    "title": "Mickey (Hawaii Version)",
+    "originalJDVersion": 1000,
+    "tags": [
+      "subscribedSong",
+      "JustDanceAsia",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Gorie with Jasmine & Joann",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        182832,
+        202176,
+        221472,
+        240816,
+        260160,
+        279456,
+        298800,
+        318048,
+        337392,
+        356736,
+        376032,
+        395376,
+        414720,
+        434016,
+        453360,
+        472704,
+        492000,
+        511344,
+        530688,
+        549984,
+        569328,
+        588672,
+        608016,
+        627312,
+        646656,
+        666000,
+        685296,
+        704640,
+        723984,
+        743280,
+        762624,
+        781968,
+        801264,
+        820608,
+        839952,
+        859248,
+        878592,
+        897936,
+        917232,
+        936576,
+        955920,
+        975216,
+        994560,
+        1013904,
+        1033200,
+        1052544,
+        1071888,
+        1091184,
+        1110528,
+        1129872,
+        1149168,
+        1168512,
+        1187856,
+        1207152,
+        1226832,
+        1245936,
+        1265184,
+        1284480,
+        1303872,
+        1323168,
+        1342608,
+        1361856,
+        1381152,
+        1400448,
+        1419792,
+        1439184,
+        1458480,
+        1477776
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 415,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Micky/Micky_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Micky/nx/Micky_banner_bkg.tga.ckd/8c1fa15f6d54f1e54075d47a744b7214.ckd",
+      "map_bkgImageUrl": "/public/map/Micky/nx/Micky_map_bkg.tga.ckd/be2e8866e2d29b7c81a1a6aad5b28f66.ckd",
+      "expandCoachImageUrl": "/public/map/Micky/nx/Micky_Cover_AlbumCoach.tga.ckd/28a10f308910b065aaef4c5ba976a943.ckd",
+      "cover_smallImageUrl": "/public/map/Micky/nx/Micky_Cover_Online.tga.ckd/fbba8a163fdc03e88d6e6e1635c727ad.ckd",
+      "coach1ImageUrl": "/public/map/Micky/nx/Micky_Coach_1.tga.ckd/3993be168c2697e136f1ef1e37a346f7.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Micky/pc/Micky_banner_bkg.tga.ckd/93d601338f054b835a6c59a94de9397d.ckd",
+      "map_bkgImageUrl": "/public/map/Micky/pc/Micky_map_bkg.tga.ckd/cbae8f0272851a0f56f06efcb3b80649.ckd",
+      "expandCoachImageUrl": "/public/map/Micky/pc/Micky_Cover_AlbumCoach.tga.ckd/29148b88010870f6daed98ac50f71bd4.ckd",
+      "cover_smallImageUrl": "/public/map/Micky/pc/Micky_Cover_Online.tga.ckd/0fff798b6408b4deb5b1572ab98636e6.ckd",
+      "coach1ImageUrl": "/public/map/Micky/pc/Micky_Coach_1.tga.ckd/1eb938236e98eca741b6ff16106e0991.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Micky/orbis/Micky_banner_bkg.tga.ckd/93d601338f054b835a6c59a94de9397d.ckd",
+      "map_bkgImageUrl": "/public/map/Micky/orbis/Micky_map_bkg.tga.ckd/cbae8f0272851a0f56f06efcb3b80649.ckd",
+      "expandCoachImageUrl": "/public/map/Micky/orbis/Micky_Cover_AlbumCoach.tga.ckd/29148b88010870f6daed98ac50f71bd4.ckd",
+      "cover_smallImageUrl": "/public/map/Micky/orbis/Micky_Cover_Online.tga.ckd/0fff798b6408b4deb5b1572ab98636e6.ckd",
+      "coach1ImageUrl": "/public/map/Micky/orbis/Micky_Coach_1.tga.ckd/1eb938236e98eca741b6ff16106e0991.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Micky/Micky_Coach_1_Phone.png/a283e0e51972d47964ea6be0fc215af8.png",
+    "phoneCoverImageUrl": "/public/map/Micky/Micky_Cover_Phone.jpg/26de5cd46e85829caac039f92e5eae5b.jpg",
+    "cover640ImageUrl": "/public/map/Micky/Micky_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Micky/Micky.ogg": "/private/map/Micky/Micky.ogg/085df42b6f656717263230241867cc85.ogg",
+    "jmcs://jd-contents/Micky/Micky_AudioPreview.ogg": "/public/map/Micky/Micky_AudioPreview.ogg/1d080fa4071554ca18782e3db8121a80.ogg",
+    "jmcs://jd-contents/Micky/Micky_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Micky/Micky_MapPreviewNoSoundCrop_LOW.vp8.webm/aef1445126ee3de2965e871455ff301a.webm",
+    "jmcs://jd-contents/Micky/Micky_HIGH.webm": "/private/map/Micky/Micky_HIGH.webm/ebc501762801f604a54691d89e817693.webm",
+    "jmcs://jd-contents/Micky/Micky_LOW.webm": "/private/map/Micky/Micky_LOW.webm/caabc01ee8b6f7eef8e0ca4fbaecf9b6.webm",
+    "jmcs://jd-contents/Micky/Micky_MID.webm": "/private/map/Micky/Micky_MID.webm/7032133bf0bcce33019a96d432e38440.webm",
+    "jmcs://jd-contents/Micky/Micky_ULTRA.hd.webm": "/private/map/Micky/Micky_ULTRA.hd.webm/603df04f7f2974973a300a86e98fc06e.webm",
+    "jmcs://jd-contents/Micky/Micky_ULTRA.webm": "/private/map/Micky/Micky_ULTRA.webm/bd6373506f7d3633f2457463c2e76acc.webm",
+    "jmcs://jd-contents/Micky/Micky_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Micky/Micky_MapPreviewNoSoundCrop_MID.vp8.webm/08a647dcb4ccf3a526f8d4cc3da7ff16.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"499476\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Micky/Micky_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1490697\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Micky/Micky_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 186.570438
+}

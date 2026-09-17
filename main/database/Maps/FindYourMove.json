@@ -1,0 +1,171 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "799bccf3a570e7dbfcaaff846cae2826",
+      "storageType": 0,
+      "url": "/public/map/FindYourMove/nx/FindYourMove_MAIN_SCENE_NX.zip/799bccf3a570e7dbfcaaff846cae2826.zip"
+    },
+    "pc": {
+      "md5": "f5541d324e6f9a1f5099e1fcba16efe3",
+      "storageType": 0,
+      "url": "/public/map/FindYourMove/pc/FindYourMove_MAIN_SCENE_PC.zip/f5541d324e6f9a1f5099e1fcba16efe3.zip"
+    },
+    "ps4": {
+      "md5": "30205b853268a126250fe4014145cb22",
+      "storageType": 0,
+      "url": "/public/map/FindYourMove/orbis/FindYourMove_MAIN_SCENE_ORBIS.zip/30205b853268a126250fe4014145cb22.zip"
+    }
+  },
+  "data": {
+    "mapName": "FindYourMove",
+    "title": "Movement is Happiness (Find Your Thing)",
+    "originalJDVersion": 2015,
+    "tags": [
+      "extreme",
+      "main"
+    ],
+    "artist": "Avishay Goren and Yossi Cohen",
+    "credits": "By Avishay Goren and Yossi Cohen (with Coca-Cola Five Notes and interpolation by Block, Dunne and Altruda). Produced by Rock Mafia Written by Avishay Goren; Yossi Cohen; Tim James; Adam Schmalhoz;, Andrew Lawrence Bloch; and Edmond Thomas Dunne. Published by Rock Mafia Music (ASCAP); Music Dealers Publishing (ASCAP); Coca-Cola Publishing (BMI); Coca-Cola Music (ASCAP). All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#f5e044",
+    "songColor2A": "#dd4db5",
+    "songColor1B": "#b64d00",
+    "songColor2B": "#600069",
+    "lyricsColor": "#11fe9a",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26160,
+        52368,
+        78528,
+        104736,
+        130896,
+        157104,
+        183264,
+        209472,
+        235632,
+        261840,
+        288000,
+        314160,
+        340368,
+        366528,
+        392736,
+        418896,
+        445104,
+        471265,
+        497473,
+        523633,
+        549841,
+        576001,
+        602161,
+        628369,
+        654529,
+        680737,
+        706897,
+        733105,
+        759265,
+        785473,
+        811633,
+        837841,
+        864001,
+        890161,
+        916370,
+        942530,
+        968738,
+        994898,
+        1021106,
+        1047266,
+        1073474,
+        1099634,
+        1125842,
+        1152002,
+        1178162,
+        1204370,
+        1230530,
+        1256738,
+        1282898,
+        1309106,
+        1335266,
+        1361475,
+        1387635,
+        1413843,
+        1440003,
+        1466163,
+        1492371
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 395,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/FindYourMove/FindYourMove_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/FindYourMove/nx/FindYourMove_banner_bkg.tga.ckd/6e7726d8f38f03653b786f4d6be1b7c0.ckd",
+      "map_bkgImageUrl": "/public/map/FindYourMove/nx/FindYourMove_map_bkg.tga.ckd/a1a265d1ee8aa4c09f53b20e681d3a6a.ckd",
+      "expandCoachImageUrl": "/public/map/FindYourMove/nx/FindYourMove_Cover_AlbumCoach.tga.ckd/c69f74250d4a868a958910889f2264a9.ckd",
+      "cover_smallImageUrl": "/public/map/FindYourMove/nx/FindYourMove_Cover_Online.tga.ckd/d16abf22c09f7c2379f797d2d95c43ae.ckd",
+      "coverImageUrl": "/public/map/FindYourMove/nx/FindYourMove_Cover_Generic.tga.ckd/2c715247071d910bb142405512074b56.ckd",
+      "coach1ImageUrl": "/public/map/FindYourMove/nx/FindYourMove_Coach_1.tga.ckd/99570090fd2a26d3c35827681d1631bd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/FindYourMove/pc/FindYourMove_banner_bkg.tga.ckd/3a72a0c041d24ae552d59b1c02e69583.ckd",
+      "map_bkgImageUrl": "/public/map/FindYourMove/pc/FindYourMove_map_bkg.tga.ckd/3d6f42d2dd31f8fb92bc826b55fe8580.ckd",
+      "expandCoachImageUrl": "/public/map/FindYourMove/pc/FindYourMove_Cover_AlbumCoach.tga.ckd/1baea67ef3926676eae33214b531fc07.ckd",
+      "cover_smallImageUrl": "/public/map/FindYourMove/pc/FindYourMove_Cover_Online.tga.ckd/3e46006a784e3bcdc382e6e5c49a6f93.ckd",
+      "coverImageUrl": "/public/map/FindYourMove/pc/FindYourMove_Cover_Generic.tga.ckd/0a386ef946c19fefeeaad719acd36138.ckd",
+      "coach1ImageUrl": "/public/map/FindYourMove/pc/FindYourMove_Coach_1.tga.ckd/1671ee69262ccc53e8fef7f27151a346.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/FindYourMove/orbis/FindYourMove_banner_bkg.tga.ckd/3a72a0c041d24ae552d59b1c02e69583.ckd",
+      "map_bkgImageUrl": "/public/map/FindYourMove/orbis/FindYourMove_map_bkg.tga.ckd/3d6f42d2dd31f8fb92bc826b55fe8580.ckd",
+      "expandCoachImageUrl": "/public/map/FindYourMove/orbis/FindYourMove_Cover_AlbumCoach.tga.ckd/1baea67ef3926676eae33214b531fc07.ckd",
+      "cover_smallImageUrl": "/public/map/FindYourMove/orbis/FindYourMove_Cover_Online.tga.ckd/3e46006a784e3bcdc382e6e5c49a6f93.ckd",
+      "coverImageUrl": "/public/map/FindYourMove/orbis/FindYourMove_Cover_Generic.tga.ckd/0a386ef946c19fefeeaad719acd36138.ckd",
+      "coach1ImageUrl": "/public/map/FindYourMove/orbis/FindYourMove_Coach_1.tga.ckd/1671ee69262ccc53e8fef7f27151a346.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/FindYourMove/FindYourMove_Coach_1_Phone.png/a5ed20aebc1382341e357542634bbdce.png",
+    "phoneCoverImageUrl": "/public/map/FindYourMove/FindYourMove_Cover_Phone.jpg/1a03d3540cdee91b5e8c777df916880d.jpg",
+    "cover640ImageUrl": "/public/map/FindYourMove/FindYourMove_Cover_640.png/a516f2f17c7caaab047c939745351c59.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/FindYourMove/FindYourMove.ogg": "/private/map/FindYourMove/FindYourMove.ogg/a6a6366de1a9636a689a92eef652bee6.ogg",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_AudioPreview.ogg": "/public/map/FindYourMove/FindYourMove_AudioPreview.ogg/9372591621e0ed0f18f61630edf7f6af.ogg",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_LOW.vp8.webm/2122e21f87a1fc5c5a5b25c079cf5733.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_HIGH.webm": "/private/map/FindYourMove/FindYourMove_HIGH.webm/8629e9edda7b6a128d48bc1cefd6d43c.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_LOW.webm": "/private/map/FindYourMove/FindYourMove_LOW.webm/2fbfa41d5a5e29a8a083c434f2967870.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_MID.webm": "/private/map/FindYourMove/FindYourMove_MID.webm/6c9f53fc667b96d88ccbcc54764e67bf.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_ULTRA.hd.webm": "/private/map/FindYourMove/FindYourMove_ULTRA.hd.webm/32d067260d8ad36a5adbe999e716495d.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_ULTRA.webm": "/private/map/FindYourMove/FindYourMove_ULTRA.webm/4a9feaafd5aec15baed5b04ab99e75f2.webm",
+    "jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_MID.vp8.webm/6f80ce2e539ec1c92e62621f1a4ba196.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496435\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\n\t\t\t\t\t<Initialization range=\"0-637\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1464971\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FindYourMove/FindYourMove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\n\t\t\t\t\t<Initialization range=\"0-638\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 217.635979
+}

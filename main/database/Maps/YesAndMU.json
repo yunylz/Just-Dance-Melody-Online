@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "461d65c6cbfdb9772918b285849d31a4",
+      "storageType": 0,
+      "url": "/public/map/YesAndMU/nx/YesAndMU_MAIN_SCENE_NX.zip/461d65c6cbfdb9772918b285849d31a4.zip"
+    },
+    "pc": {
+      "md5": "9c847f9083e06203755f2a6670bd8187",
+      "storageType": 0,
+      "url": "/public/map/YesAndMU/pc/YesAndMU_MAIN_SCENE_PC.zip/9c847f9083e06203755f2a6670bd8187.zip"
+    },
+    "ps4": {
+      "md5": "d4a0477f179d47d400f2d2501efdfe2b",
+      "storageType": 0,
+      "url": "/public/map/YesAndMU/orbis/YesAndMU_MAIN_SCENE_ORBIS.zip/d4a0477f179d47d400f2d2501efdfe2b.zip"
+    }
+  },
+  "data": {
+    "mapName": "YesAndMU",
+    "title": "yes, and?",
+    "originalJDVersion": 3000,
+    "tags": [
+      "MAIN",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Ariana Grande",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24202,
+        48403,
+        72605,
+        96807,
+        121008,
+        145210,
+        169412,
+        193613,
+        217815,
+        242017,
+        266218,
+        290420,
+        314622,
+        338824,
+        363025,
+        387227,
+        411429,
+        435630,
+        459832,
+        484034,
+        508235,
+        532437,
+        556639,
+        580840,
+        605042,
+        629244,
+        653445,
+        677647,
+        701849,
+        726050,
+        750252,
+        774454,
+        798655,
+        822857,
+        847059,
+        871261,
+        895462,
+        919664,
+        943866,
+        968067,
+        992269,
+        1016471,
+        1040672,
+        1064874,
+        1089076,
+        1113277,
+        1137479,
+        1161681,
+        1185882,
+        1210084,
+        1234286,
+        1258487,
+        1282689,
+        1306891,
+        1331092,
+        1355294,
+        1379496,
+        1403697,
+        1427899,
+        1452101,
+        1476303
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 423,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/YesAndMU/YesAndMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/YesAndMU/nx/YesAndMU_banner_bkg.tga.ckd/a8b12cc9be43bb8bc087e68b2a02c715.ckd",
+      "map_bkgImageUrl": "/public/map/YesAndMU/nx/YesAndMU_map_bkg.tga.ckd/dd6f9bb1f863bc09e329a5a6c2e27d90.ckd",
+      "expandCoachImageUrl": "/public/map/YesAndMU/nx/YesAndMU_Cover_AlbumCoach.tga.ckd/ab21941ec295a11578b08a14e8b18a39.ckd",
+      "cover_smallImageUrl": "/public/map/YesAndMU/nx/YesAndMU_Cover_Online.tga.ckd/0dc8464193ed75d80ed497751a067fc1.ckd",
+      "coach1ImageUrl": "/public/map/YesAndMU/nx/YesAndMU_Coach_1.tga.ckd/53878268c894d89a51c21a0a8e705d0c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/YesAndMU/pc/YesAndMU_banner_bkg.tga.ckd/3a7199789b7cc614b1f3aa55e93aae07.ckd",
+      "map_bkgImageUrl": "/public/map/YesAndMU/pc/YesAndMU_map_bkg.tga.ckd/72f3f6386f5c23385700b69b77c7d0e9.ckd",
+      "expandCoachImageUrl": "/public/map/YesAndMU/pc/YesAndMU_Cover_AlbumCoach.tga.ckd/2a9e3f9f1e92fa2e9058f89df7cb2af0.ckd",
+      "cover_smallImageUrl": "/public/map/YesAndMU/pc/YesAndMU_Cover_Online.tga.ckd/dc8ed4c68504ff9141e95f0c94a0b827.ckd",
+      "coach1ImageUrl": "/public/map/YesAndMU/pc/YesAndMU_Coach_1.tga.ckd/1e924661fca59a9ec4d9944927b7927e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/YesAndMU/orbis/YesAndMU_banner_bkg.tga.ckd/3a7199789b7cc614b1f3aa55e93aae07.ckd",
+      "map_bkgImageUrl": "/public/map/YesAndMU/orbis/YesAndMU_map_bkg.tga.ckd/72f3f6386f5c23385700b69b77c7d0e9.ckd",
+      "expandCoachImageUrl": "/public/map/YesAndMU/orbis/YesAndMU_Cover_AlbumCoach.tga.ckd/2a9e3f9f1e92fa2e9058f89df7cb2af0.ckd",
+      "cover_smallImageUrl": "/public/map/YesAndMU/orbis/YesAndMU_Cover_Online.tga.ckd/dc8ed4c68504ff9141e95f0c94a0b827.ckd",
+      "coach1ImageUrl": "/public/map/YesAndMU/orbis/YesAndMU_Coach_1.tga.ckd/1e924661fca59a9ec4d9944927b7927e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/YesAndMU/YesAndMU_Coach_1_Phone.png/b08285089a1294f323333c7b34621810.png",
+    "phoneCoverImageUrl": "/public/map/YesAndMU/YesAndMU_Cover_Phone.jpg/56a81756129366f94a1949cc8bf88034.jpg",
+    "cover640ImageUrl": "/public/map/YesAndMU/YesAndMU_Cover_640.png/026a34f4b81387fb23420aa4d9ff4a8a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/YesAndMU/YesAndMU.ogg": "/private/map/YesAndMU/YesAndMU.ogg/ed3b0289a8caa8a211deab5b082693bd.ogg",
+    "jmcs://jd-contents/YesAndMU/YesAndMU_AudioPreview.ogg": "/public/map/YesAndMU/YesAndMU_AudioPreview.ogg/c11ca7451fde4eef2121d086105c7cb1.ogg",
+    "jmcs://jd-contents/YesAndMU/YesAndMU_HIGH.webm": "/private/map/YesAndMU/YesAndMU_HIGH.webm/bfd770296d18aa3d9cb05a6f88292e19.webm",
+    "jmcs://jd-contents/YesAndMU/YesAndMU_LOW.webm": "/private/map/YesAndMU/YesAndMU_LOW.webm/afb1c7d74c3b587629bfb606d872fdc8.webm",
+    "jmcs://jd-contents/YesAndMU/YesAndMU_MID.webm": "/private/map/YesAndMU/YesAndMU_MID.webm/7be351c8d9a8b1f53f926c60866de2d2.webm",
+    "jmcs://jd-contents/YesAndMU/YesAndMU_ULTRA.hd.webm": "/private/map/YesAndMU/YesAndMU_ULTRA.hd.webm/b6b3223bceb69be697ee5752be980320.webm",
+    "jmcs://jd-contents/YesAndMU/YesAndMU_ULTRA.webm": "/private/map/YesAndMU/YesAndMU_ULTRA.webm/b8c6a2731818f06844d15d1012d49ff5.webm",
+    "jmcs://jd-contents/YesAndMU/YesAndMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/YesAndMU/YesAndMU_MapPreviewNoSoundCrop_LOW.vp8.webm/3f464d99274b21f4ae311fbc1494b4a7.webm",
+    "jmcs://jd-contents/YesAndMU/YesAndMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/YesAndMU/YesAndMU_MapPreviewNoSoundCrop_MID.vp8.webm/5305fb4356c4697cac868c3285f679b1.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"462292\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YesAndMU/YesAndMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1387915\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YesAndMU/YesAndMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 216.853333
+}

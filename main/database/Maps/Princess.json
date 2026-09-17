@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e2f472367dee1bc847295f9d28fc78e0",
+      "storageType": 0,
+      "url": "/public/map/Princess/nx/Princess_MAIN_SCENE_NX.zip/e2f472367dee1bc847295f9d28fc78e0.zip"
+    },
+    "pc": {
+      "md5": "50c8f2c98afd67fc9d8cfa8cbc9e0418",
+      "storageType": 0,
+      "url": "/public/map/Princess/pc/Princess_MAIN_SCENE_PC.zip/50c8f2c98afd67fc9d8cfa8cbc9e0418.zip"
+    },
+    "ps4": {
+      "md5": "ad59e81d85ca583974a09ff88b76e404",
+      "storageType": 0,
+      "url": "/public/map/Princess/orbis/Princess_MAIN_SCENE_ORBIS.zip/ad59e81d85ca583974a09ff88b76e404.zip"
+    }
+  },
+  "data": {
+    "mapName": "Princess",
+    "title": "Princess (王妃)",
+    "originalJDVersion": 1103,
+    "tags": [
+      "main"
+    ],
+    "artist": "Jam Hsiao (萧敬腾)",
+    "credits": "Written by Shih Shiong Lee and Zhen-Chuan Chen. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing MGB Singapore. / Bao Bao Music (MUST) / Wise Entertainment Pte Ltd. (NS). Courtesy of Warner Music Taiwan. By arrangement with Warner Music Group Film & TV Licensing. ",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d3004b",
+    "songColor2A": "#ff6868",
+    "songColor1B": "#89003a",
+    "songColor2B": "#af0063",
+    "lyricsColor": "#ec3836",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22677,
+        45354,
+        68031,
+        90709,
+        113386,
+        136063,
+        158740,
+        181417,
+        204094,
+        226772,
+        249449,
+        272126,
+        294803,
+        317480,
+        340157,
+        362835,
+        385512,
+        408189,
+        430866,
+        453543,
+        476220,
+        498898,
+        521575,
+        544252,
+        566929,
+        589606,
+        612283,
+        634961,
+        657638,
+        680315,
+        702992,
+        725669,
+        748346,
+        771024,
+        793701,
+        816378,
+        839055,
+        861732,
+        884409,
+        907087,
+        929764,
+        952441,
+        975118,
+        997795,
+        1020472,
+        1043150,
+        1065827,
+        1088504,
+        1111181,
+        1133858,
+        1156535,
+        1179213,
+        1201890,
+        1224567,
+        1247244,
+        1269921,
+        1292598,
+        1315276,
+        1337953,
+        1360630,
+        1383307,
+        1405984,
+        1428661,
+        1451339,
+        1474016
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 464,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Princess/Princess_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Princess/nx/Princess_banner_bkg.tga.ckd/bf00233958f535b4f9363b933492113e.ckd",
+      "map_bkgImageUrl": "/public/map/Princess/nx/Princess_map_bkg.tga.ckd/6928177a695c725ce5f6e8d740e72559.ckd",
+      "expandCoachImageUrl": "/public/map/Princess/nx/Princess_Cover_AlbumCoach.tga.ckd/b0e5bf87e14a260660a6c4c50a958a3f.ckd",
+      "cover_smallImageUrl": "/public/map/Princess/nx/Princess_Cover_Online.tga.ckd/a959338454dd692f2cb743391c0312fc.ckd",
+      "coverImageUrl": "/public/map/Princess/nx/Princess_Cover_Generic.tga.ckd/b29d7127fe5a1da97cce840884d21305.ckd",
+      "coach1ImageUrl": "/public/map/Princess/nx/Princess_Coach_1.tga.ckd/b2eb1550252930411a9be332f928ff6c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Princess/pc/Princess_banner_bkg.tga.ckd/d0d6bdec546e9a8eccf13d41ad45972c.ckd",
+      "map_bkgImageUrl": "/public/map/Princess/pc/Princess_map_bkg.tga.ckd/26bbb5de2cfad38105c5c91bf385b1e0.ckd",
+      "expandCoachImageUrl": "/public/map/Princess/pc/Princess_Cover_AlbumCoach.tga.ckd/0d51e1d099171ddb2869bafa5663c113.ckd",
+      "cover_smallImageUrl": "/public/map/Princess/pc/Princess_Cover_Online.tga.ckd/73cd2f442557c0ccb50d8a9abc489cbe.ckd",
+      "coverImageUrl": "/public/map/Princess/pc/Princess_Cover_Generic.tga.ckd/8827bbec20f8e0b3aa5088714558028e.ckd",
+      "coach1ImageUrl": "/public/map/Princess/pc/Princess_Coach_1.tga.ckd/164fb735ab4e21790b7f4aede5db33e6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Princess/orbis/Princess_banner_bkg.tga.ckd/d0d6bdec546e9a8eccf13d41ad45972c.ckd",
+      "map_bkgImageUrl": "/public/map/Princess/orbis/Princess_map_bkg.tga.ckd/26bbb5de2cfad38105c5c91bf385b1e0.ckd",
+      "expandCoachImageUrl": "/public/map/Princess/orbis/Princess_Cover_AlbumCoach.tga.ckd/0d51e1d099171ddb2869bafa5663c113.ckd",
+      "cover_smallImageUrl": "/public/map/Princess/orbis/Princess_Cover_Online.tga.ckd/73cd2f442557c0ccb50d8a9abc489cbe.ckd",
+      "coverImageUrl": "/public/map/Princess/orbis/Princess_Cover_Generic.tga.ckd/8827bbec20f8e0b3aa5088714558028e.ckd",
+      "coach1ImageUrl": "/public/map/Princess/orbis/Princess_Coach_1.tga.ckd/164fb735ab4e21790b7f4aede5db33e6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Princess/Princess_Coach_1_Phone.png/7488a2546387d9913a68b9faeebd4f81.png",
+    "phoneCoverImageUrl": "/public/map/Princess/Princess_Cover_Phone.jpg/242e5caa3b6b23a4419588466128d7eb.jpg",
+    "cover640ImageUrl": "/public/map/Princess/Princess_Cover_640.png/2f1386b705dcacefbbaac8f3bb0c3559.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Princess/Princess.ogg": "/private/map/Princess/Princess.ogg/7cabbf6a70a7831d13d8a2eaf95b4f22.ogg",
+    "jmcs://jd-contents/Princess/Princess_AudioPreview.ogg": "/public/map/Princess/Princess_AudioPreview.ogg/7149066579088da5c738a6521b07ecd7.ogg",
+    "jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Princess/Princess_MapPreviewNoSoundCrop_LOW.vp8.webm/78e41cacd09a691dfd2b6290f8b97f2f.webm",
+    "jmcs://jd-contents/Princess/Princess_HIGH.webm": "/private/map/Princess/Princess_HIGH.webm/062afff80bc4cf29886bef3336644e44.webm",
+    "jmcs://jd-contents/Princess/Princess_LOW.webm": "/private/map/Princess/Princess_LOW.webm/5c5e5979ab7aaaaf0ef3c3b5f8ebc0c4.webm",
+    "jmcs://jd-contents/Princess/Princess_MID.webm": "/private/map/Princess/Princess_MID.webm/9c6f00fdf368adf0f526f3adbd5c23d9.webm",
+    "jmcs://jd-contents/Princess/Princess_ULTRA.hd.webm": "/private/map/Princess/Princess_ULTRA.hd.webm/9ec622db4e4de1906cad250de8b8ed66.webm",
+    "jmcs://jd-contents/Princess/Princess_ULTRA.webm": "/private/map/Princess/Princess_ULTRA.webm/efe419fbc8e59a2b1103f32bec267995.webm",
+    "jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Princess/Princess_MapPreviewNoSoundCrop_MID.vp8.webm/a11fe4dbabc31a4c1359fdc750b2704e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496037\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1124\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478663\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Princess/Princess_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1126\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 220.157458
+}

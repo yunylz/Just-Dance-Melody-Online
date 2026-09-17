@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "167a466066923584973e5a885f5b68f6",
+      "storageType": 0,
+      "url": "/public/map/JDCSoGood/nx/JDCSoGood_MAIN_SCENE_NX.zip/167a466066923584973e5a885f5b68f6.zip"
+    },
+    "pc": {
+      "md5": "9cc087c00cf69045d979e8394dee9f9f",
+      "storageType": 0,
+      "url": "/public/map/JDCSoGood/pc/JDCSoGood_MAIN_SCENE_PC.zip/9cc087c00cf69045d979e8394dee9f9f.zip"
+    },
+    "ps4": {
+      "md5": "917e40406210132ec79b9938e77e93b9",
+      "storageType": 0,
+      "url": "/public/map/JDCSoGood/orbis/JDCSoGood_MAIN_SCENE_ORBIS.zip/917e40406210132ec79b9938e77e93b9.zip"
+    }
+  },
+  "data": {
+    "mapName": "JDCSoGood",
+    "title": "Cool Times (So Good) 《倍儿爽》",
+    "originalJDVersion": 1100,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Wowkie Zhang (大张伟)",
+    "credits": "<< to be filled >>",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#FF5CB3",
+    "songColor2A": "#8CFD13",
+    "songColor1B": "#82036F",
+    "songColor2B": "#274B01",
+    "lyricsColor": "#57E807",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22320,
+        44640,
+        65232,
+        88752,
+        110688,
+        132672,
+        154848,
+        177024,
+        199200,
+        221376,
+        243552,
+        265728,
+        287904,
+        310080,
+        332256,
+        354432,
+        376608,
+        398784,
+        420960,
+        443136,
+        465312,
+        487488,
+        509664,
+        531792,
+        553920,
+        576048,
+        598224,
+        620352,
+        642480,
+        664656,
+        686688,
+        708768,
+        730800,
+        752880,
+        774912,
+        796992,
+        819312,
+        841632,
+        863952,
+        886272,
+        908592,
+        930912,
+        952704,
+        974880,
+        997008,
+        1018464,
+        1040736,
+        1063008,
+        1085280,
+        1107552,
+        1129824,
+        1151999,
+        1174223,
+        1196447,
+        1218671,
+        1240847,
+        1263071,
+        1285295,
+        1307423,
+        1329551,
+        1351679,
+        1373807,
+        1395935,
+        1418063
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 467,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/jdcsogood/jdcsogood_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JDCSoGood/nx/JDCSoGood_banner_bkg.tga.ckd/a56145c4fda3d6e32e58c4cc62acd6f8.ckd",
+      "map_bkgImageUrl": "/public/map/JDCSoGood/nx/JDCSoGood_map_bkg.tga.ckd/0cd1619eb6e8eb3dbf6db6875c3952ca.ckd",
+      "expandCoachImageUrl": "/public/map/JDCSoGood/nx/JDCSoGood_Cover_AlbumCoach.tga.ckd/f831f7c54b17d4d94cb729d742dc7e0a.ckd",
+      "cover_smallImageUrl": "/public/map/JDCSoGood/nx/JDCSoGood_Cover_Online.tga.ckd/d16dc6f37995c0de7792ffcb9f9e51e8.ckd",
+      "coverImageUrl": "/public/map/JDCSoGood/nx/JDCSoGood_Cover_Generic.tga.ckd/a85e38b8363a60bc5919c4e0f1896e68.ckd",
+      "coach1ImageUrl": "/public/map/JDCSoGood/nx/JDCSoGood_Coach_1.tga.ckd/e142465a94b5eccc6552780016d2f22d.ckd",
+      "coach2ImageUrl": "/public/map/JDCSoGood/nx/JDCSoGood_Coach_2.tga.ckd/75f2270f64cf2223ab4404e9ae57bd1c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JDCSoGood/pc/JDCSoGood_banner_bkg.tga.ckd/e1fac42e84d29c006c7629768723b122.ckd",
+      "map_bkgImageUrl": "/public/map/JDCSoGood/pc/JDCSoGood_map_bkg.tga.ckd/bfe676a28801295a74fd4fa71a32cc1d.ckd",
+      "expandCoachImageUrl": "/public/map/JDCSoGood/pc/JDCSoGood_Cover_AlbumCoach.tga.ckd/817e3754272a3493557aace494266519.ckd",
+      "cover_smallImageUrl": "/public/map/JDCSoGood/pc/JDCSoGood_Cover_Online.tga.ckd/47436be4c2861e496656ecc0ac748735.ckd",
+      "coverImageUrl": "/public/map/JDCSoGood/pc/JDCSoGood_Cover_Generic.tga.ckd/9e160cfb524d766c6d492bec5e9f0544.ckd",
+      "coach1ImageUrl": "/public/map/JDCSoGood/pc/JDCSoGood_Coach_1.tga.ckd/9185a95b029213e0696342c5205d9b9a.ckd",
+      "coach2ImageUrl": "/public/map/JDCSoGood/pc/JDCSoGood_Coach_2.tga.ckd/e553e095b09c9993a7f436a1be533847.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JDCSoGood/orbis/JDCSoGood_banner_bkg.tga.ckd/e1fac42e84d29c006c7629768723b122.ckd",
+      "map_bkgImageUrl": "/public/map/JDCSoGood/orbis/JDCSoGood_map_bkg.tga.ckd/bfe676a28801295a74fd4fa71a32cc1d.ckd",
+      "expandCoachImageUrl": "/public/map/JDCSoGood/orbis/JDCSoGood_Cover_AlbumCoach.tga.ckd/817e3754272a3493557aace494266519.ckd",
+      "cover_smallImageUrl": "/public/map/JDCSoGood/orbis/JDCSoGood_Cover_Online.tga.ckd/47436be4c2861e496656ecc0ac748735.ckd",
+      "coverImageUrl": "/public/map/JDCSoGood/orbis/JDCSoGood_Cover_Generic.tga.ckd/9e160cfb524d766c6d492bec5e9f0544.ckd",
+      "coach1ImageUrl": "/public/map/JDCSoGood/orbis/JDCSoGood_Coach_1.tga.ckd/9185a95b029213e0696342c5205d9b9a.ckd",
+      "coach2ImageUrl": "/public/map/JDCSoGood/orbis/JDCSoGood_Coach_2.tga.ckd/e553e095b09c9993a7f436a1be533847.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/JDCSoGood/JDCSoGood_Coach_1_Phone.png/edec649a04ab7dbc654a38b903dd1937.png",
+    "phoneCoach2ImageUrl": "/public/map/JDCSoGood/JDCSoGood_Coach_2_Phone.png/e3a972f1f0170ca3445f46c22068ac2c.png",
+    "phoneCoverImageUrl": "/public/map/JDCSoGood/JDCSoGood_Cover_Phone.jpg/717a0f09e3468fdcec477c817c4bfa82.jpg",
+    "cover640ImageUrl": "/public/map/JDCSoGood/JDCSoGood_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/JDCSoGood/JDCSoGood.ogg": "/private/map/JDCSoGood/JDCSoGood.ogg/1357db1f0029d3d2a7dbee0c3efe96f3.ogg",
+    "jmcs://jd-contents/JDCSoGood/JDCSoGood_AudioPreview.ogg": "/public/map/JDCSoGood/JDCSoGood_AudioPreview.ogg/a5596f693b29d8f45b500e63c3e11c50.ogg",
+    "jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_LOW.vp8.webm/df69efacbb8e820d6a15cb419443ba31.webm",
+    "jmcs://jd-contents/JDCSoGood/JDCSoGood_HIGH.webm": "/private/map/JDCSoGood/JDCSoGood_HIGH.webm/be69233f6cbbb44dd7a25642e93f73f0.webm",
+    "jmcs://jd-contents/JDCSoGood/JDCSoGood_LOW.webm": "/private/map/JDCSoGood/JDCSoGood_LOW.webm/cf034f5cfa1b8ab9a190a66646d37087.webm",
+    "jmcs://jd-contents/JDCSoGood/JDCSoGood_MID.webm": "/private/map/JDCSoGood/JDCSoGood_MID.webm/56b5ca74c670b15852aa2d3e6a0538f0.webm",
+    "jmcs://jd-contents/JDCSoGood/JDCSoGood_ULTRA.hd.webm": "/private/map/JDCSoGood/JDCSoGood_ULTRA.hd.webm/f9e873dab83a3af93f47bfb007ab36b3.webm",
+    "jmcs://jd-contents/JDCSoGood/JDCSoGood_ULTRA.webm": "/private/map/JDCSoGood/JDCSoGood_ULTRA.webm/4cee499fce762ea75ab1d7fc21996b27.webm",
+    "jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_MID.vp8.webm/a0eaccba5bb61ca3b913fc9d0b3c4373.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"524836\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\n\t\t\t\t\t<Initialization range=\"0-604\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482312\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\n\t\t\t\t\t<Initialization range=\"0-605\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 217.426271
+}

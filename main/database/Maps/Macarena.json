@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "641c0960289f89682e6e7a46eedba2aa",
+      "storageType": 0,
+      "url": "/public/map/Macarena/nx/Macarena_MAIN_SCENE_NX.zip/641c0960289f89682e6e7a46eedba2aa.zip"
+    },
+    "pc": {
+      "md5": "a3bd54d84601f5a7aa1a31e9623f22b3",
+      "storageType": 0,
+      "url": "/public/map/Macarena/pc/Macarena_MAIN_SCENE_PC.zip/a3bd54d84601f5a7aa1a31e9623f22b3.zip"
+    },
+    "ps4": {
+      "md5": "b316cfb194ad2a36e8458ec73d4d1500",
+      "storageType": 0,
+      "url": "/public/map/Macarena/orbis/Macarena_MAIN_SCENE_ORBIS.zip/b316cfb194ad2a36e8458ec73d4d1500.zip"
+    }
+  },
+  "data": {
+    "mapName": "Macarena",
+    "title": "Macarena",
+    "originalJDVersion": 2015,
+    "tags": [
+      "main"
+    ],
+    "artist": "Los del Río",
+    "credits": "Written by  Carlos Alberto De Yarza, Mike Triay, Antonio Romero and Rafael Ruiz. Published by WB Music CORP. (ASCAP) Warner-Tamerlane Publishing Corp. (BMI) obo Nova Ediciones Musicales SA, Grupo Editorial Discorama, S.L. and Canciones Del Mundo, S.A.  Produced - Steve Ouimette Engineering - Steve Ouimette, Cat Gray Mix - Cat Gray, Steve Ouimette Vocals - Willie Murillo, Becky Programming and sounds - Steve Ouimette, Cat Gray  Music Supervision: Germain Geny, Manu Bachet. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 4,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e100b3",
+    "songColor2A": "#fffc00",
+    "songColor1B": "#630082",
+    "songColor2B": "#eb2e2e",
+    "lyricsColor": "#49b7d2",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27887,
+        55823,
+        83711,
+        111647,
+        139535,
+        167471,
+        195359,
+        223295,
+        251183,
+        279119,
+        307007,
+        334895,
+        362831,
+        390719,
+        418655,
+        446543,
+        474479,
+        502367,
+        530303,
+        558191,
+        586127,
+        614015,
+        641951,
+        669839,
+        697727,
+        725663,
+        753551,
+        781487,
+        809375,
+        837311,
+        865199,
+        893135,
+        921023,
+        948959,
+        976847,
+        1004735,
+        1032671,
+        1060559,
+        1088495,
+        1116383,
+        1144319,
+        1172207,
+        1200143,
+        1228031,
+        1255967,
+        1283855,
+        1311743,
+        1339679,
+        1367567,
+        1395503,
+        1423391,
+        1451327,
+        1479215,
+        1507151
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 284,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Macarena/Macarena_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Macarena/nx/Macarena_banner_bkg.tga.ckd/21ee18b6a910b97cec5a8339504165d2.ckd",
+      "map_bkgImageUrl": "/public/map/Macarena/nx/Macarena_map_bkg.tga.ckd/bebca2e8093dbec2bb9fcc0782af5bdc.ckd",
+      "expandCoachImageUrl": "/public/map/Macarena/nx/Macarena_Cover_AlbumCoach.tga.ckd/725072607a66e1f855bcb37bdac52da6.ckd",
+      "cover_smallImageUrl": "/public/map/Macarena/nx/Macarena_Cover_Online.tga.ckd/43c6bcd713978e4d09f2713e334d4cd3.ckd",
+      "coach1ImageUrl": "/public/map/Macarena/nx/Macarena_Coach_1.tga.ckd/75aab69a6a604afde8d6061a3164c61a.ckd",
+      "coach2ImageUrl": "/public/map/Macarena/nx/Macarena_Coach_2.tga.ckd/9900cb651519d4cc64274bfae242a50a.ckd",
+      "coach3ImageUrl": "/public/map/Macarena/nx/Macarena_Coach_3.tga.ckd/e4e8f9e430bd043cd097eb8ddb80e438.ckd",
+      "coach4ImageUrl": "/public/map/Macarena/nx/Macarena_Coach_4.tga.ckd/fc9596602bdb5f2ffbabc5b6d21f1e11.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Macarena/pc/Macarena_banner_bkg.tga.ckd/9e67fc44787e303d0d9b5cce3ea0d989.ckd",
+      "map_bkgImageUrl": "/public/map/Macarena/pc/Macarena_map_bkg.tga.ckd/3871c262830dd62181a2bbdbda88b96f.ckd",
+      "expandCoachImageUrl": "/public/map/Macarena/pc/Macarena_Cover_AlbumCoach.tga.ckd/f990644e446e127df44c2cb06b85e526.ckd",
+      "cover_smallImageUrl": "/public/map/Macarena/pc/Macarena_Cover_Online.tga.ckd/76097272595a5126f3f7dec6297ed979.ckd",
+      "coach1ImageUrl": "/public/map/Macarena/pc/Macarena_Coach_1.tga.ckd/0ee026c8e3365321e8fc4e3158617520.ckd",
+      "coach2ImageUrl": "/public/map/Macarena/pc/Macarena_Coach_2.tga.ckd/1f99224f0a2aa0e686db1e5d028b37b1.ckd",
+      "coach3ImageUrl": "/public/map/Macarena/pc/Macarena_Coach_3.tga.ckd/00332813f1c613d236f032c38eaca609.ckd",
+      "coach4ImageUrl": "/public/map/Macarena/pc/Macarena_Coach_4.tga.ckd/562ef85f36f6ccf6c767937c7e6488c1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Macarena/orbis/Macarena_banner_bkg.tga.ckd/9e67fc44787e303d0d9b5cce3ea0d989.ckd",
+      "map_bkgImageUrl": "/public/map/Macarena/orbis/Macarena_map_bkg.tga.ckd/3871c262830dd62181a2bbdbda88b96f.ckd",
+      "expandCoachImageUrl": "/public/map/Macarena/orbis/Macarena_Cover_AlbumCoach.tga.ckd/f990644e446e127df44c2cb06b85e526.ckd",
+      "cover_smallImageUrl": "/public/map/Macarena/orbis/Macarena_Cover_Online.tga.ckd/76097272595a5126f3f7dec6297ed979.ckd",
+      "coach1ImageUrl": "/public/map/Macarena/orbis/Macarena_Coach_1.tga.ckd/0ee026c8e3365321e8fc4e3158617520.ckd",
+      "coach2ImageUrl": "/public/map/Macarena/orbis/Macarena_Coach_2.tga.ckd/1f99224f0a2aa0e686db1e5d028b37b1.ckd",
+      "coach3ImageUrl": "/public/map/Macarena/orbis/Macarena_Coach_3.tga.ckd/00332813f1c613d236f032c38eaca609.ckd",
+      "coach4ImageUrl": "/public/map/Macarena/orbis/Macarena_Coach_4.tga.ckd/562ef85f36f6ccf6c767937c7e6488c1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Macarena/Macarena_Coach_1_Phone.png/5852b00049d26b0d5b8b0fb4dff26cb2.png",
+    "phoneCoach2ImageUrl": "/public/map/Macarena/Macarena_Coach_2_Phone.png/c56361a374ba1cc76936e42437860bca.png",
+    "phoneCoach3ImageUrl": "/public/map/Macarena/Macarena_Coach_3_Phone.png/91c82de1532d673c32d8cc147609ed52.png",
+    "phoneCoach4ImageUrl": "/public/map/Macarena/Macarena_Coach_4_Phone.png/47512727a4b32572172d59922212ffd6.png",
+    "phoneCoverImageUrl": "/public/map/Macarena/Macarena_Cover_Phone.jpg/54febbeaebd14da77086b216430e21da.jpg",
+    "cover640ImageUrl": "/public/map/Macarena/Macarena_Cover_640.png/3d2ec434f84d9d9f73b5511a6460d0e6.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Macarena/Macarena.ogg": "/private/map/Macarena/Macarena.ogg/3213934417410f9cca8d60b89ecc500c.ogg",
+    "jmcs://jd-contents/Macarena/Macarena_AudioPreview.ogg": "/public/map/Macarena/Macarena_AudioPreview.ogg/fcaff7b29f7b47f3f768b036c83a7d98.ogg",
+    "jmcs://jd-contents/Macarena/Macarena_HIGH.webm": "/private/map/Macarena/Macarena_HIGH.webm/5c0a43528d94deabbad2af65abc62945.webm",
+    "jmcs://jd-contents/Macarena/Macarena_LOW.webm": "/private/map/Macarena/Macarena_LOW.webm/80829c5118106031d168ee36f1654ba3.webm",
+    "jmcs://jd-contents/Macarena/Macarena_MID.webm": "/private/map/Macarena/Macarena_MID.webm/f081bd9f273ac5d7e71e7676d6b13ddd.webm",
+    "jmcs://jd-contents/Macarena/Macarena_ULTRA.hd.webm": "/private/map/Macarena/Macarena_ULTRA.hd.webm/d9ea36a835b31b0d85f1f4f0c4a45b0c.webm",
+    "jmcs://jd-contents/Macarena/Macarena_ULTRA.webm": "/private/map/Macarena/Macarena_ULTRA.webm/5803819b30654817410a9778c05825b6.webm",
+    "jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Macarena/Macarena_MapPreviewNoSoundCrop_LOW.vp8.webm/9d754c6283c6192221a2416c14395b7d.webm",
+    "jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Macarena/Macarena_MapPreviewNoSoundCrop_MID.vp8.webm/3d4a70ebbd4628f0241c2d1b3c372bce.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496786\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"624-1113\">\n\t\t\t\t\t<Initialization range=\"0-624\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482233\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Macarena/Macarena_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\n\t\t\t\t\t<Initialization range=\"0-625\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 166.296917
+}

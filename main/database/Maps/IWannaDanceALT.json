@@ -1,0 +1,185 @@
+{
+  "urls": {
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_AudioPreview.ogg": "/public/map/IWannaDanceALT/IWannaDanceALT_AudioPreview.ogg/9d550fd9cac55fb608363897ad67001e.ogg",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT.ogg": "/private/map/IWannaDanceALT/IWannaDanceALT.ogg/7027f8d822d6996d64d6521ef73a3c52.ogg",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_LOW.vp8.webm/457237da87bdbc1fe329fc142de708ed.webm",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_MID.vp8.webm/d6577dd0db6519204f5519895e0e58c7.webm",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_ULTRA.hd.webm": "/private/map/IWannaDanceALT/IWannaDanceALT_ULTRA.hd.webm/2cf662d1dcc2735f0cba3fd908dcb928.webm",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_HIGH.hd.webm": "/private/map/IWannaDanceALT/IWannaDanceALT_HIGH.hd.webm/3eeaf6e8b624f562bad37506c0e954e1.webm",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_MID.hd.webm": "/private/map/IWannaDanceALT/IWannaDanceALT_MID.hd.webm/9971087218a10e65a9e5bb6c55ef63db.webm",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_LOW.hd.webm": "/private/map/IWannaDanceALT/IWannaDanceALT_LOW.hd.webm/6a793f4db4bfce1dd4a724cc384e4f42.webm",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/9286c96fc5904ea089be0a98847ca853.webm",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/b117a4fc6b3a31bf991c146e7e2aeab7.webm"
+  },
+  "mapLength": 298.7886458333333,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24226,
+        48453,
+        72679,
+        96905,
+        121131,
+        145357,
+        169583,
+        193809,
+        218035,
+        242261,
+        266488,
+        290714,
+        314940,
+        339166,
+        363392,
+        387618,
+        411844,
+        436070,
+        460296,
+        484523,
+        508749,
+        532975,
+        557201,
+        581427,
+        605653,
+        629879,
+        654105,
+        678331,
+        702558,
+        726784,
+        751010,
+        775236,
+        799462,
+        823688,
+        847914,
+        872140,
+        896366,
+        920593,
+        944819,
+        969045,
+        993271,
+        1017497,
+        1041723,
+        1065949,
+        1090175,
+        1114401,
+        1138628,
+        1162854,
+        1187080,
+        1211306,
+        1235532,
+        1259758,
+        1283984,
+        1308210,
+        1332436,
+        1356663,
+        1380889,
+        1405115,
+        1429341
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -11,
+      "endBeat": 581,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"644143\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"782-1272\">\n\t\t\t\t\t<Initialization range=\"0-782\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1462820\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"782-1272\">\n\t\t\t\t\t<Initialization range=\"0-782\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2604246\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"782-1272\">\n\t\t\t\t\t<Initialization range=\"0-782\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"3012085\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"782-1272\">\n\t\t\t\t\t<Initialization range=\"0-782\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "b5b0cc4319438f9a65fab2ed89f9aa60",
+      "storageType": 0,
+      "url": "/public/map/IWannaDanceALT/pc/IWannaDanceALT_MAIN_SCENE_PC.zip/b5b0cc4319438f9a65fab2ed89f9aa60.zip"
+    },
+    "ps4": {
+      "md5": "fd43ad0259666da544fdf1cbf493bf5f",
+      "storageType": 0,
+      "url": "/public/map/IWannaDanceALT/orbis/IWannaDanceALT_MAIN_SCENE_ORBIS.zip/fd43ad0259666da544fdf1cbf493bf5f.zip"
+    },
+    "wiiu": {
+      "md5": "90f612f8ae32f45809a5f52033940647",
+      "storageType": 0,
+      "url": "/public/map/IWannaDanceALT/wiiu/IWannaDanceALT_MAIN_SCENE_WIIU.zip/90f612f8ae32f45809a5f52033940647.zip"
+    },
+    "nx": {
+      "md5": "a2dfd2ed0b5dc522e43d79ea80a3b474",
+      "storageType": 0,
+      "url": "/public/map/IWannaDanceALT/nx/IWannaDanceALT_MAIN_SCENE_NX.zip/a2dfd2ed0b5dc522e43d79ea80a3b474.zip"
+    }
+  },
+  "data": {
+    "mapName": "IWannaDanceALT",
+    "title": "I Wanna Dance With Somebody",
+    "originalJDVersion": 2024,
+    "tags": [
+      "alternate",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Whitney Houston",
+    "credits": "Written by Shannon Rubicam, George Robert Merrill. Published by Universal Music Publishing Canada on behalf of Irving Music, Inc., and Boy Meets Girl Music. Courtesy of RCA Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#F6429C",
+    "songColor2A": "#8189FA",
+    "songColor1B": "#220655",
+    "songColor2B": "#6B0C6A",
+    "lyricsColor": "#E72673",
+    "LocaleID": 20003366
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/IWannaDanceALT/pc/IWannaDanceALT_Cover_Online.tga.ckd/4154013eb6e7b6e0f6bb540a06ee303f.ckd",
+      "coverImageUrl": "/public/map/IWannaDanceALT/pc/IWannaDanceALT_Cover_Generic.tga.ckd/80665fb3206bb7808574e0392507ddb2.ckd",
+      "expandCoachImageUrl": "/public/map/IWannaDanceALT/pc/IWannaDanceALT_Cover_AlbumCoach.tga.ckd/118e1d03b08ddc52a8e80d3a8fe6e018.ckd",
+      "map_bkgImageUrl": "/public/map/IWannaDanceALT/pc/IWannaDanceALT_map_bkg.tga.ckd/1f95a3b931cf1ba0f07fd64a097227c6.ckd",
+      "banner_bkgImageUrl": "/public/map/IWannaDanceALT/pc/IWannaDanceALT_banner_bkg.tga.ckd/b60dadcdef384bf8763ebdb050957f5d.ckd",
+      "coach1ImageUrl": "/public/map/IWannaDanceALT/pc/IWannaDanceALT_Coach_1.tga.ckd/76c307bdc48882d2a0265c8a380c59a9.ckd",
+      "phoneCoverImageUrl": "/public/map/IWannaDanceALT/IWannaDanceALT_Cover_Phone.jpg/12b104617a1788b8cc73cf68c463314e.jpg",
+      "phoneCoach1ImageUrl": "/public/map/IWannaDanceALT/IWannaDanceALT_Coach_1_Phone.png/352b3d2b55ce963b3e1b1eb700852a54.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/IWannaDanceALT/orbis/IWannaDanceALT_Cover_Online.tga.ckd/4154013eb6e7b6e0f6bb540a06ee303f.ckd",
+      "coverImageUrl": "/public/map/IWannaDanceALT/orbis/IWannaDanceALT_Cover_Generic.tga.ckd/80665fb3206bb7808574e0392507ddb2.ckd",
+      "expandCoachImageUrl": "/public/map/IWannaDanceALT/orbis/IWannaDanceALT_Cover_AlbumCoach.tga.ckd/118e1d03b08ddc52a8e80d3a8fe6e018.ckd",
+      "map_bkgImageUrl": "/public/map/IWannaDanceALT/orbis/IWannaDanceALT_map_bkg.tga.ckd/1f95a3b931cf1ba0f07fd64a097227c6.ckd",
+      "banner_bkgImageUrl": "/public/map/IWannaDanceALT/orbis/IWannaDanceALT_banner_bkg.tga.ckd/b60dadcdef384bf8763ebdb050957f5d.ckd",
+      "coach1ImageUrl": "/public/map/IWannaDanceALT/orbis/IWannaDanceALT_Coach_1.tga.ckd/76c307bdc48882d2a0265c8a380c59a9.ckd",
+      "phoneCoverImageUrl": "/public/map/IWannaDanceALT/IWannaDanceALT_Cover_Phone.jpg/12b104617a1788b8cc73cf68c463314e.jpg",
+      "phoneCoach1ImageUrl": "/public/map/IWannaDanceALT/IWannaDanceALT_Coach_1_Phone.png/352b3d2b55ce963b3e1b1eb700852a54.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/IWannaDanceALT/wiiu/IWannaDanceALT_Cover_Online.tga.ckd/453ff92bb424958541341a2a84e4cfd5.ckd",
+      "coverImageUrl": "/public/map/IWannaDanceALT/wiiu/IWannaDanceALT_Cover_Generic.tga.ckd/bc81e9d3ca59dfd61044b80380ab406f.ckd",
+      "expandCoachImageUrl": "/public/map/IWannaDanceALT/wiiu/IWannaDanceALT_Cover_AlbumCoach.tga.ckd/9068500de85fe473c399e84ff8d37f81.ckd",
+      "map_bkgImageUrl": "/public/map/IWannaDanceALT/wiiu/IWannaDanceALT_map_bkg.tga.ckd/50020f0c58bf716b0e3bdef79edc1c18.ckd",
+      "banner_bkgImageUrl": "/public/map/IWannaDanceALT/wiiu/IWannaDanceALT_banner_bkg.tga.ckd/2c8756417f1581b50ee267ffb1a69651.ckd",
+      "coach1ImageUrl": "/public/map/IWannaDanceALT/wiiu/IWannaDanceALT_Coach_1.tga.ckd/4573353bc084c16f9675c3d150534be8.ckd",
+      "phoneCoverImageUrl": "/public/map/IWannaDanceALT/IWannaDanceALT_Cover_Phone.jpg/12b104617a1788b8cc73cf68c463314e.jpg",
+      "phoneCoach1ImageUrl": "/public/map/IWannaDanceALT/IWannaDanceALT_Coach_1_Phone.png/352b3d2b55ce963b3e1b1eb700852a54.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/IWannaDanceALT/nx/IWannaDanceALT_Cover_Online.tga.ckd/44c6051d061828bbff1ac2587c7ef54f.ckd",
+      "coverImageUrl": "/public/map/IWannaDanceALT/nx/IWannaDanceALT_Cover_Generic.tga.ckd/133a8c27ebd79a64caeca6324eb24ea0.ckd",
+      "expandCoachImageUrl": "/public/map/IWannaDanceALT/nx/IWannaDanceALT_Cover_AlbumCoach.tga.ckd/11fb269faf9be19bb45e3f4c8e6fb8c6.ckd",
+      "map_bkgImageUrl": "/public/map/IWannaDanceALT/nx/IWannaDanceALT_map_bkg.tga.ckd/287d2f21afb5d1e1cb85cd26b40461f8.ckd",
+      "banner_bkgImageUrl": "/public/map/IWannaDanceALT/nx/IWannaDanceALT_banner_bkg.tga.ckd/660197cde561fcc12ce801e48ebf1d6a.ckd",
+      "coach1ImageUrl": "/public/map/IWannaDanceALT/nx/IWannaDanceALT_Coach_1.tga.ckd/2f4866de21be3173ab43f543da1844f1.ckd",
+      "phoneCoverImageUrl": "/public/map/IWannaDanceALT/IWannaDanceALT_Cover_Phone.jpg/12b104617a1788b8cc73cf68c463314e.jpg",
+      "phoneCoach1ImageUrl": "/public/map/IWannaDanceALT/IWannaDanceALT_Coach_1_Phone.png/352b3d2b55ce963b3e1b1eb700852a54.png"
+    },
+    "cover640ImageUrl": "/public/map/IWannaDanceALT/IWannaDanceALT_Cover_640.png/54d9c8d41eeba0e6f2a80ab5a3a68402.png"
+  }
+}

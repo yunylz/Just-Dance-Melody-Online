@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BuildAB/BuildAB.ogg": "/private/map/BuildAB/BuildAB.ogg/f5f7473ecc1a99f614347a2286efa2d1.ogg",
+    "jmcs://jd-contents/BuildAB/BuildAB_AudioPreview.ogg": "/public/map/BuildAB/BuildAB_AudioPreview.ogg/b208d82a033114a2e25c67e848bb3ccf.ogg",
+    "jmcs://jd-contents/BuildAB/BuildAB_HIGH.hd.webm": "/private/map/BuildAB/BuildAB_HIGH.hd.webm/bbdc2e0704ce75563e87b3c432d0c5ee.webm",
+    "jmcs://jd-contents/BuildAB/BuildAB_LOW.hd.webm": "/private/map/BuildAB/BuildAB_LOW.hd.webm/199d06db545488b3ad3c2535bdc1bb1e.webm",
+    "jmcs://jd-contents/BuildAB/BuildAB_MID.hd.webm": "/private/map/BuildAB/BuildAB_MID.hd.webm/474eb6f2618f4966a2595dacd628cbe7.webm",
+    "jmcs://jd-contents/BuildAB/BuildAB_ULTRA.hd.webm": "/private/map/BuildAB/BuildAB_ULTRA.hd.webm/fe7563cc961d8fa70c661156f958c9b0.webm",
+    "jmcs://jd-contents/BuildAB/BuildAB_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BuildAB/BuildAB_MapPreviewNoSoundCrop_LOW.vp8.webm/702cb34ff25ec0a28b34351054dc5bb0.webm",
+    "jmcs://jd-contents/BuildAB/BuildAB_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BuildAB/BuildAB_MapPreviewNoSoundCrop_MID.vp8.webm/182d82504f5bc7d98f9c925995e213e4.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27961,
+        55922,
+        83883,
+        111845,
+        139806,
+        167767,
+        195728,
+        223689,
+        251650,
+        279612,
+        307573,
+        335534,
+        363495,
+        391456,
+        419417,
+        447379,
+        475340,
+        503301,
+        531262,
+        559223,
+        587184,
+        615146,
+        643107,
+        671068,
+        699029,
+        726990,
+        754951,
+        782913,
+        810874,
+        838835,
+        866796,
+        894757,
+        922718,
+        950680,
+        978641,
+        1006602,
+        1034563,
+        1062524,
+        1090485,
+        1118447,
+        1146408,
+        1174369,
+        1202330,
+        1230291,
+        1258252,
+        1286214,
+        1314175,
+        1342136,
+        1370097,
+        1398058,
+        1426019,
+        1453981,
+        1481942
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 214,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BuildAB/BuildAB_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "2d7c2f4634a7f4cb58b727adde991660",
+      "storageType": 0,
+      "url": "/public/map/BuildAB/nx/BuildAB_MAIN_SCENE_NX.zip/2d7c2f4634a7f4cb58b727adde991660.zip"
+    },
+    "pc": {
+      "md5": "f23f3ec015f16c7850d7909698ee792f",
+      "storageType": 0,
+      "url": "/public/map/BuildAB/pc/BuildAB_MAIN_SCENE_PC.zip/f23f3ec015f16c7850d7909698ee792f.zip"
+    },
+    "ps4": {
+      "md5": "2d5d82a9e3555f05cd12922f7ed61078",
+      "storageType": 0,
+      "url": "/public/map/BuildAB/orbis/BuildAB_MAIN_SCENE_ORBIS.zip/2d5d82a9e3555f05cd12922f7ed61078.zip"
+    }
+  },
+  "data": {
+    "mapName": "BuildAB",
+    "title": "Build A Bitch",
+    "originalJDVersion": 2022,
+    "tags": [
+      "main"
+    ],
+    "artist": "Bella Poarch",
+    "credits": " Written by David Arkwright, Justin Gamella, Salem Ilese, Danny Maisonneuve, Denarie Poarch and Elie Jay Rizk. Published by Sony/ATV Songs LLC (BMI) / Where Am I Productions (BMI) / Sony/ATV Tunes LLC (ASCAP). / Copyright Control. All rights reserved. Used with permission. Courtesy of Warner Records Inc. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#ffdb6c",
+    "songColor2A": "#1af6e3",
+    "songColor1B": "#ff8492",
+    "songColor2B": "#0043b9",
+    "lyricsColor": "#ff3a86",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BuildAB/nx/BuildAB_banner_bkg.tga.ckd/26c62a2af7841510ee06b4272cb5420c.ckd",
+      "map_bkgImageUrl": "/public/map/BuildAB/nx/BuildAB_map_bkg.tga.ckd/c29cfdc1e0c2f0d3c1d0972a494629ed.ckd",
+      "expandCoachImageUrl": "/public/map/BuildAB/nx/BuildAB_Cover_AlbumCoach.tga.ckd/ee0d637f237804054c8188f2b4e4e321.ckd",
+      "cover_smallImageUrl": "/public/map/BuildAB/nx/BuildAB_Cover_Online.tga.ckd/9659050a89c3e71ac04c9896741f948f.ckd",
+      "coverImageUrl": "/public/map/BuildAB/nx/BuildAB_Cover_Generic.tga.ckd/6749fff9b2d3e5b256f515458f880d47.ckd",
+      "coach1ImageUrl": "/public/map/BuildAB/nx/BuildAB_Coach_1.tga.ckd/00158ba091ed36f558c53926d8fcb253.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BuildAB/pc/BuildAB_banner_bkg.tga.ckd/7128f52ecb94746f8b2c31e71199706d.ckd",
+      "map_bkgImageUrl": "/public/map/BuildAB/pc/BuildAB_map_bkg.tga.ckd/a7e82bfa07ed994c42bbcbac5e902bb3.ckd",
+      "expandCoachImageUrl": "/public/map/BuildAB/pc/BuildAB_Cover_AlbumCoach.tga.ckd/078ebe3f09d51a74bc5496a371abc30e.ckd",
+      "cover_smallImageUrl": "/public/map/BuildAB/pc/BuildAB_Cover_Online.tga.ckd/6be0a715801bfdde1c794d3f71ccc405.ckd",
+      "coverImageUrl": "/public/map/BuildAB/pc/BuildAB_Cover_Generic.tga.ckd/f8f7238e9d5184e19ae53339fe0ba0af.ckd",
+      "coach1ImageUrl": "/public/map/BuildAB/pc/BuildAB_Coach_1.tga.ckd/292b0ec0dbfc82c4994cc6028ce01714.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BuildAB/orbis/BuildAB_banner_bkg.tga.ckd/7128f52ecb94746f8b2c31e71199706d.ckd",
+      "map_bkgImageUrl": "/public/map/BuildAB/orbis/BuildAB_map_bkg.tga.ckd/a7e82bfa07ed994c42bbcbac5e902bb3.ckd",
+      "expandCoachImageUrl": "/public/map/BuildAB/orbis/BuildAB_Cover_AlbumCoach.tga.ckd/078ebe3f09d51a74bc5496a371abc30e.ckd",
+      "cover_smallImageUrl": "/public/map/BuildAB/orbis/BuildAB_Cover_Online.tga.ckd/6be0a715801bfdde1c794d3f71ccc405.ckd",
+      "coverImageUrl": "/public/map/BuildAB/orbis/BuildAB_Cover_Generic.tga.ckd/f8f7238e9d5184e19ae53339fe0ba0af.ckd",
+      "coach1ImageUrl": "/public/map/BuildAB/orbis/BuildAB_Coach_1.tga.ckd/292b0ec0dbfc82c4994cc6028ce01714.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BuildAB/BuildAB_Coach_1_Phone.png/a9a4716048a859c966ad0fb220b841d1.png",
+    "phoneCoverImageUrl": "/public/map/BuildAB/BuildAB_Cover_Phone.jpg/b36d8bc4752ed9aac74ed6db190b49c8.jpg",
+    "cover640ImageUrl": "/public/map/BuildAB/BuildAB_Cover_640.png/447165b18891975b586189da76c4411b.png"
+  },
+  "mapLength": 128.155271
+}

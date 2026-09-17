@@ -1,0 +1,177 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ItsYouMU/ItsYouMU.ogg": "/private/map/ItsYouMU/ItsYouMU.ogg/0936c79052a0f6761ac415e44cbff9e9.ogg",
+    "jmcs://jd-contents/ItsYouMU/ItsYouMU_AudioPreview.ogg": "/public/map/ItsYouMU/ItsYouMU_AudioPreview.ogg/1f5e7cafde2c75aa51058533c7d531bd.ogg",
+    "jmcs://jd-contents/ItsYouMU/ItsYouMU_HIGH.hd.webm": "/private/map/ItsYouMU/ItsYouMU_HIGH.hd.webm/3a48d8a89f61b3db728be50401f7898b.webm",
+    "jmcs://jd-contents/ItsYouMU/ItsYouMU_LOW.hd.webm": "/private/map/ItsYouMU/ItsYouMU_LOW.hd.webm/3a652b36b0caaf4922f01dc2733f8998.webm",
+    "jmcs://jd-contents/ItsYouMU/ItsYouMU_MID.hd.webm": "/private/map/ItsYouMU/ItsYouMU_MID.hd.webm/34b261630986dd41e4d32e771030385e.webm",
+    "jmcs://jd-contents/ItsYouMU/ItsYouMU_ULTRA.hd.webm": "/private/map/ItsYouMU/ItsYouMU_ULTRA.hd.webm/f80dcf0ebced3499d8ba6b33f0f032f0.webm",
+    "jmcs://jd-contents/ItsYouMU/ItsYouMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ItsYouMU/ItsYouMU_MapPreviewNoSoundCrop_LOW.vp8.webm/2d6451d59d72723b105a607cd2c6ef1c.webm",
+    "jmcs://jd-contents/ItsYouMU/ItsYouMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ItsYouMU/ItsYouMU_MapPreviewNoSoundCrop_MID.vp8.webm/ece250ef9b19c02500d441899a266bee.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67487,
+        89999,
+        112511,
+        135023,
+        157487,
+        179999,
+        202511,
+        225023,
+        247487,
+        269999,
+        292511,
+        315023,
+        337487,
+        359999,
+        382511,
+        405023,
+        427487,
+        449999,
+        472511,
+        495023,
+        517487,
+        539999,
+        562511,
+        585023,
+        607487,
+        629999,
+        652511,
+        675022,
+        697486,
+        719998,
+        742510,
+        765022,
+        787486,
+        809998,
+        832510,
+        855022,
+        877486,
+        899998,
+        922510,
+        945022,
+        967486,
+        989998,
+        1012510,
+        1035022,
+        1057486,
+        1079998,
+        1102510,
+        1125022,
+        1147486,
+        1169998,
+        1192510,
+        1215022,
+        1237486,
+        1259998,
+        1282510,
+        1305022,
+        1327485,
+        1349997,
+        1372509,
+        1395021,
+        1417485,
+        1439997,
+        1462509,
+        1485021
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 355,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ItsYouMU/ItsYouMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ItsYouMU/nx/ItsYouMU_banner_bkg.tga.ckd/f3e001e527dfc45a73e0ce9b48721b6e.ckd",
+      "map_bkgImageUrl": "/public/map/ItsYouMU/nx/ItsYouMU_map_bkg.tga.ckd/8fb44c78f5c842c6dacb5233708bb4df.ckd",
+      "expandCoachImageUrl": "/public/map/ItsYouMU/nx/ItsYouMU_Cover_AlbumCoach.tga.ckd/0c7f04b5c3c9515106ba8ceb9768bcb3.ckd",
+      "cover_smallImageUrl": "/public/map/ItsYouMU/nx/ItsYouMU_Cover_Online.tga.ckd/6a7da6b3b5248d1ff4217ad66bb4a885.ckd",
+      "coverImageUrl": "/public/map/ItsYouMU/nx/ItsYouMU_Cover_Generic.tga.ckd/73c986c63b692ebd14f0bbc94c588f51.ckd",
+      "coach1ImageUrl": "/public/map/ItsYouMU/nx/ItsYouMU_Coach_1.tga.ckd/54af8097252154d9fb6ffe28de09da47.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ItsYouMU/pc/ItsYouMU_banner_bkg.tga.ckd/c023c49fea8ffc2472d36a5fae0955ee.ckd",
+      "map_bkgImageUrl": "/public/map/ItsYouMU/pc/ItsYouMU_map_bkg.tga.ckd/3e523de0069a4971204c22a7220de40b.ckd",
+      "expandCoachImageUrl": "/public/map/ItsYouMU/pc/ItsYouMU_Cover_AlbumCoach.tga.ckd/4453668170680a6b688c4177c273de3d.ckd",
+      "cover_smallImageUrl": "/public/map/ItsYouMU/pc/ItsYouMU_Cover_Online.tga.ckd/da3360520d149472555ccc368e9dbcfa.ckd",
+      "coverImageUrl": "/public/map/ItsYouMU/pc/ItsYouMU_Cover_Generic.tga.ckd/14ecbc23f7364770fffe5d2013ad2f96.ckd",
+      "coach1ImageUrl": "/public/map/ItsYouMU/pc/ItsYouMU_Coach_1.tga.ckd/78a82af03be536409b797619fcd2f2bb.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ItsYouMU/orbis/ItsYouMU_banner_bkg.tga.ckd/c023c49fea8ffc2472d36a5fae0955ee.ckd",
+      "map_bkgImageUrl": "/public/map/ItsYouMU/orbis/ItsYouMU_map_bkg.tga.ckd/3e523de0069a4971204c22a7220de40b.ckd",
+      "expandCoachImageUrl": "/public/map/ItsYouMU/orbis/ItsYouMU_Cover_AlbumCoach.tga.ckd/4453668170680a6b688c4177c273de3d.ckd",
+      "cover_smallImageUrl": "/public/map/ItsYouMU/orbis/ItsYouMU_Cover_Online.tga.ckd/da3360520d149472555ccc368e9dbcfa.ckd",
+      "coverImageUrl": "/public/map/ItsYouMU/orbis/ItsYouMU_Cover_Generic.tga.ckd/14ecbc23f7364770fffe5d2013ad2f96.ckd",
+      "coach1ImageUrl": "/public/map/ItsYouMU/orbis/ItsYouMU_Coach_1.tga.ckd/78a82af03be536409b797619fcd2f2bb.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ItsYouMU/ItsYouMU_Coach_1_Phone.png/fe4ab166870a61dec143b32f85f99667.png",
+    "phoneCoverImageUrl": "/public/map/ItsYouMU/ItsYouMU_Cover_Phone.jpg/b4a9693dded3a87f5df8a3b003dc170f.jpg",
+    "cover640ImageUrl": "/public/map/ItsYouMU/ItsYouMU_Cover_640.png/2f2e1bd2548a9700b1d1117401355ae9.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "2ca2423d37d62d4be150f07e9d95ac49",
+      "storageType": 0,
+      "url": "/public/map/ItsYouMU/nx/ItsYouMU_MAIN_SCENE_NX.zip/2ca2423d37d62d4be150f07e9d95ac49.zip"
+    },
+    "pc": {
+      "md5": "bce21b9e7e38d4eab18a34d4cee2caa7",
+      "storageType": 0,
+      "url": "/public/map/ItsYouMU/pc/ItsYouMU_MAIN_SCENE_PC.zip/bce21b9e7e38d4eab18a34d4cee2caa7.zip"
+    },
+    "ps4": {
+      "md5": "1f77f219b14675847b777c637d3648b1",
+      "storageType": 0,
+      "url": "/public/map/ItsYouMU/orbis/ItsYouMU_MAIN_SCENE_ORBIS.zip/1f77f219b14675847b777c637d3648b1.zip"
+    }
+  },
+  "data": {
+    "mapName": "ItsYouMU",
+    "title": "It's You",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Duck Sauce",
+    "credits": "Written by Armand Van Helden, Alain Macklovitch, Bruce Patch, Alan Sanchez. Published by Break Dancin Bob Music (BMI) / Alain Macklovitch (SOCAN/BMI) / First Digital Music (BMI), 60% o/b/o Bruce Patch & Alan Sanchez. All rights for First Digital Music administered by First Digital Music. Contains a sample of ''It's You'' recorded by Bruce Patch and Alan Sanchez courtesy of FirstCom Music / Universal Music Publishing Group a division of Universal Music Canada Inc. Courtesy of Universal Records under license from Universal Music Enterprises.Armand Van Helden appears courtesy of X-Mix Productions. (P) & © 2013 Duck Sauce LLC. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00a0d9",
+    "songColor2A": "#c7ecff",
+    "songColor1B": "#00162c",
+    "songColor2B": "#000000",
+    "lyricsColor": "#09b9fa",
+    "LocaleID": 13572
+  },
+  "mapLength": 163.59375
+}

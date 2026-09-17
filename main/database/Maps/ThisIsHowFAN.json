@@ -1,0 +1,162 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ThisIsHowFAN/ThisIsHowFAN.ogg": "/private/map/ThisIsHowFAN/ThisIsHowFAN.ogg/78e8cefd931b9cb55ce4222288ef90ee.ogg",
+    "jmcs://jd-contents/ThisIsHowFAN/ThisIsHowFAN_AudioPreview.ogg": "/public/map/ThisIsHowFAN/ThisIsHowFAN_AudioPreview.ogg/2332e746d02460234c6e5b7ab7d1c7ff.ogg",
+    "jmcs://jd-contents/ThisIsHowFAN/ThisIsHowFAN_HIGH.hd.webm": "/private/map/ThisIsHowFAN/ThisIsHowFAN_HIGH.hd.webm/70146e9c90314032afd04eed375c9ca2.webm",
+    "jmcs://jd-contents/ThisIsHowFAN/ThisIsHowFAN_LOW.hd.webm": "/private/map/ThisIsHowFAN/ThisIsHowFAN_LOW.hd.webm/d3e5a0f99326e47c2f0060b59e1b5128.webm",
+    "jmcs://jd-contents/ThisIsHowFAN/ThisIsHowFAN_MID.hd.webm": "/private/map/ThisIsHowFAN/ThisIsHowFAN_MID.hd.webm/7e90b9fe26c48144d602126f4a8fb17f.webm",
+    "jmcs://jd-contents/ThisIsHowFAN/ThisIsHowFAN_ULTRA.hd.webm": "/private/map/ThisIsHowFAN/ThisIsHowFAN_ULTRA.hd.webm/e4e9f5b3d0f776caed6e4e9e131e3de6.webm",
+    "jmcs://jd-contents/ThisIsHowFAN/ThisIsHowFAN_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ThisIsHowFAN/ThisIsHowFAN_MapPreviewNoSoundCrop_LOW.vp8.webm/c8959a125fda545bd883e6529c3e783e.webm",
+    "jmcs://jd-contents/ThisIsHowFAN/ThisIsHowFAN_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ThisIsHowFAN/ThisIsHowFAN_MapPreviewNoSoundCrop_MID.vp8.webm/0e15ec4f069b06d3e8cc1c2f7bf7d4ea.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30000,
+        60000,
+        90000,
+        120000,
+        150000,
+        180000,
+        210000,
+        240000,
+        270000,
+        300000,
+        330000,
+        360000,
+        390000,
+        420000,
+        450000,
+        480000,
+        510000,
+        540000,
+        570000,
+        600000,
+        630000,
+        660000,
+        690000,
+        720000,
+        750000,
+        780000,
+        810000,
+        840000,
+        870000,
+        900000,
+        930000,
+        960000,
+        990000,
+        1020000,
+        1050000,
+        1080000,
+        1110000,
+        1140000,
+        1170000,
+        1200000,
+        1230000,
+        1260000,
+        1290000,
+        1320000,
+        1350000,
+        1380000,
+        1410000,
+        1440000,
+        1470000,
+        1500000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 324,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 48,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ThisIsHowFAN/ThisIsHowFAN_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500572\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThisIsHowFAN/ThisIsHowFAN_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1847078\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThisIsHowFAN/ThisIsHowFAN_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "4ce57e1fae900002afd3809f074cadaf",
+      "storageType": 0,
+      "url": "/public/map/ThisIsHowFAN/nx/ThisIsHowFAN_MAIN_SCENE_NX.zip/4ce57e1fae900002afd3809f074cadaf.zip"
+    },
+    "pc": {
+      "md5": "9241a9dbc2b3c96a33952ae980f64c71",
+      "storageType": 0,
+      "url": "/public/map/ThisIsHowFAN/pc/ThisIsHowFAN_MAIN_SCENE_PC.zip/9241a9dbc2b3c96a33952ae980f64c71.zip"
+    },
+    "ps4": {
+      "md5": "73e17a0d3b0af497c4b03e0d713f25fd",
+      "storageType": 0,
+      "url": "/public/map/ThisIsHowFAN/orbis/ThisIsHowFAN_MAIN_SCENE_ORBIS.zip/73e17a0d3b0af497c4b03e0d713f25fd.zip"
+    }
+  },
+  "data": {
+    "mapName": "ThisIsHowFAN",
+    "title": "This Is How We Do",
+    "originalJDVersion": 2016,
+    "tags": [
+      "main"
+    ],
+    "artist": "Katy Perry",
+    "credits": "Written by Max Martin, Klas Ahlund, and Katy Perry. Published by MXM Music AB, Lateral Mgmt London Stockholm AB, and Prescription Songs LLC. Administered by Kobalt Music Publishing America, Inc. / WB Music Corp. (ASCAP) obo When I'm Rich You'll Be My B**ch. Courtesy of Capitol Records, LLC, under license from Universal Music Canada Inc. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#fcb28d",
+    "songColor2A": "#9e2ff9",
+    "songColor1B": "#e82417",
+    "songColor2B": "#3f0284",
+    "lyricsColor": "#912544",
+    "LocaleID": 14620
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ThisIsHowFAN/nx/ThisIsHowFAN_banner_bkg.tga.ckd/1b93aa7befcbd5f6357cb6fcf7284d89.ckd",
+      "map_bkgImageUrl": "/public/map/ThisIsHowFAN/nx/ThisIsHowFAN_map_bkg.tga.ckd/6649f5653b66cc954b77be129df0e982.ckd",
+      "expandCoachImageUrl": "/public/map/ThisIsHowFAN/nx/ThisIsHowFAN_Cover_AlbumCoach.tga.ckd/262acbf86210b810b39a0488bc17e12f.ckd",
+      "cover_smallImageUrl": "/public/map/ThisIsHowFAN/nx/ThisIsHowFAN_Cover_Online.tga.ckd/73d14b1baf01790cac0e36ae4441305c.ckd",
+      "coverImageUrl": "/public/map/ThisIsHowFAN/nx/ThisIsHowFAN_Cover_Generic.tga.ckd/696c49759cb86bd5cbbcfa9e19895812.ckd",
+      "coach1ImageUrl": "/public/map/ThisIsHowFAN/nx/ThisIsHowFAN_Coach_1.tga.ckd/fe217d7d64b4009f32c5b973d36cc524.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ThisIsHowFAN/pc/ThisIsHowFAN_banner_bkg.tga.ckd/4a31f947c0ba85b7d5f987e18c657abe.ckd",
+      "map_bkgImageUrl": "/public/map/ThisIsHowFAN/pc/ThisIsHowFAN_map_bkg.tga.ckd/ddb6ceb43d16291c475b6e86fde2e7be.ckd",
+      "expandCoachImageUrl": "/public/map/ThisIsHowFAN/pc/ThisIsHowFAN_Cover_AlbumCoach.tga.ckd/a43d1387cab1e39f2980b07ef8bd4d8c.ckd",
+      "cover_smallImageUrl": "/public/map/ThisIsHowFAN/pc/ThisIsHowFAN_Cover_Online.tga.ckd/1d0bba1286c72e0fe60794ae6a3f5146.ckd",
+      "coverImageUrl": "/public/map/ThisIsHowFAN/pc/ThisIsHowFAN_Cover_Generic.tga.ckd/eb793febbe129c6c31b6118115236c77.ckd",
+      "coach1ImageUrl": "/public/map/ThisIsHowFAN/pc/ThisIsHowFAN_Coach_1.tga.ckd/b6acb9a5468d6e83e262ab34fa1ae03d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ThisIsHowFAN/orbis/ThisIsHowFAN_banner_bkg.tga.ckd/4a31f947c0ba85b7d5f987e18c657abe.ckd",
+      "map_bkgImageUrl": "/public/map/ThisIsHowFAN/orbis/ThisIsHowFAN_map_bkg.tga.ckd/ddb6ceb43d16291c475b6e86fde2e7be.ckd",
+      "expandCoachImageUrl": "/public/map/ThisIsHowFAN/orbis/ThisIsHowFAN_Cover_AlbumCoach.tga.ckd/a43d1387cab1e39f2980b07ef8bd4d8c.ckd",
+      "cover_smallImageUrl": "/public/map/ThisIsHowFAN/orbis/ThisIsHowFAN_Cover_Online.tga.ckd/1d0bba1286c72e0fe60794ae6a3f5146.ckd",
+      "coverImageUrl": "/public/map/ThisIsHowFAN/orbis/ThisIsHowFAN_Cover_Generic.tga.ckd/eb793febbe129c6c31b6118115236c77.ckd",
+      "coach1ImageUrl": "/public/map/ThisIsHowFAN/orbis/ThisIsHowFAN_Coach_1.tga.ckd/b6acb9a5468d6e83e262ab34fa1ae03d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ThisIsHowFAN/ThisIsHowFAN_Coach_1_Phone.png/731d797e7643d2ad78fa90386fc49e78.png",
+    "phoneCoverImageUrl": "/public/map/ThisIsHowFAN/ThisIsHowFAN_Cover_Phone.jpg/5710784ba1938ad5c7755fdfc43fc366.jpg",
+    "cover640ImageUrl": "/public/map/ThisIsHowFAN/ThisIsHowFAN_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 207.5
+}

@@ -1,0 +1,156 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "0d21c0f0ff1d6d083c4b998ca28816a6",
+      "storageType": 0,
+      "url": "/public/map/Psycho/nx/Psycho_MAIN_SCENE_NX.zip/0d21c0f0ff1d6d083c4b998ca28816a6.zip"
+    },
+    "pc": {
+      "md5": "cabb2ec4e5d6b003c90b8ff18a1bbeb9",
+      "storageType": 0,
+      "url": "/public/map/Psycho/pc/Psycho_MAIN_SCENE_PC.zip/cabb2ec4e5d6b003c90b8ff18a1bbeb9.zip"
+    },
+    "ps4": {
+      "md5": "9d712e22a0d5fccf5348c59b281cdad0",
+      "storageType": 0,
+      "url": "/public/map/Psycho/orbis/Psycho_MAIN_SCENE_ORBIS.zip/9d712e22a0d5fccf5348c59b281cdad0.zip"
+    }
+  },
+  "data": {
+    "mapName": "Psycho",
+    "title": "Psycho",
+    "originalJDVersion": 2023,
+    "tags": [
+      "subscribedSong",
+      "Extreme",
+      "Trio"
+    ],
+    "artist": "Red Velvet",
+    "credits": "Written by Cazzi Opeia, Nam Yong Yoo, Kim Yeon-Jung, Kim Eun Jae, Andrew Phillip Scott. Published by EKKO Music Rights Europe [SESAC], Culture Technology Group Asia. Admin by Kobalt Songs Music Publishing / BMG Platinum Songs US (BMI) obo Cheatbreaker Music Group (BMI) All rights administered by BMG Rights Management (US) LLC. Courtesy of SM Entertainment Co., Ltd.",
+    "coachCount": 3,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d63784",
+    "songColor2A": "#ad66ff",
+    "songColor1B": "#681b41",
+    "songColor2B": "#190e4c",
+    "lyricsColor": "#d53578"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        41143,
+        82286,
+        123429,
+        164571,
+        205714,
+        246857,
+        288000,
+        329143,
+        370286,
+        411429,
+        452571,
+        493714,
+        534857,
+        576000,
+        617143,
+        658286,
+        699429,
+        740571,
+        781714,
+        822857,
+        864000,
+        905143,
+        946286,
+        987429,
+        1028571,
+        1069714,
+        1110857,
+        1152000,
+        1193143,
+        1234286,
+        1275429,
+        1316571,
+        1357714,
+        1398857,
+        1440000,
+        1481143,
+        1522286
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 245,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 35,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Psycho/Psycho_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Psycho/nx/Psycho_banner_bkg.tga.ckd/57b0b079de5fdfb0cd2cb05797b47e68.ckd",
+      "map_bkgImageUrl": "/public/map/Psycho/nx/Psycho_map_bkg.tga.ckd/de5fd4a5e6184654d66bf773d4712adc.ckd",
+      "expandCoachImageUrl": "/public/map/Psycho/nx/Psycho_Cover_AlbumCoach.tga.ckd/2fcdac14b167dfc44e67ec55281701bf.ckd",
+      "cover_smallImageUrl": "/public/map/Psycho/nx/Psycho_Cover_Online.tga.ckd/1f5d978d648e9969f612717adf45f30a.ckd",
+      "coach1ImageUrl": "/public/map/Psycho/nx/Psycho_Coach_1.tga.ckd/4cee89585a01e41d7b60075d3df26508.ckd",
+      "coach2ImageUrl": "/public/map/Psycho/nx/Psycho_Coach_2.tga.ckd/823bccd6ce1075f54f6a264156662539.ckd",
+      "coach3ImageUrl": "/public/map/Psycho/nx/Psycho_Coach_3.tga.ckd/5d36f579699bb1d492a2c3720b6898c6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Psycho/pc/Psycho_banner_bkg.tga.ckd/efb164d26c99286124a3879cbb2682e3.ckd",
+      "map_bkgImageUrl": "/public/map/Psycho/pc/Psycho_map_bkg.tga.ckd/3658dd51151e366c93a17eda5bbefb44.ckd",
+      "expandCoachImageUrl": "/public/map/Psycho/pc/Psycho_Cover_AlbumCoach.tga.ckd/76683125149e98ae50e07930e1d46726.ckd",
+      "cover_smallImageUrl": "/public/map/Psycho/pc/Psycho_Cover_Online.tga.ckd/cf25709ec2704ce335de40ee5a0a7fec.ckd",
+      "coach1ImageUrl": "/public/map/Psycho/pc/Psycho_Coach_1.tga.ckd/deaed1c926952c1b9ca568f1c7987824.ckd",
+      "coach2ImageUrl": "/public/map/Psycho/pc/Psycho_Coach_2.tga.ckd/dbd8a7ec51d9d899f5d96c96a204daa6.ckd",
+      "coach3ImageUrl": "/public/map/Psycho/pc/Psycho_Coach_3.tga.ckd/9bc7ac490d143a6ef1c49faba4131f3f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Psycho/orbis/Psycho_banner_bkg.tga.ckd/efb164d26c99286124a3879cbb2682e3.ckd",
+      "map_bkgImageUrl": "/public/map/Psycho/orbis/Psycho_map_bkg.tga.ckd/3658dd51151e366c93a17eda5bbefb44.ckd",
+      "expandCoachImageUrl": "/public/map/Psycho/orbis/Psycho_Cover_AlbumCoach.tga.ckd/76683125149e98ae50e07930e1d46726.ckd",
+      "cover_smallImageUrl": "/public/map/Psycho/orbis/Psycho_Cover_Online.tga.ckd/cf25709ec2704ce335de40ee5a0a7fec.ckd",
+      "coach1ImageUrl": "/public/map/Psycho/orbis/Psycho_Coach_1.tga.ckd/deaed1c926952c1b9ca568f1c7987824.ckd",
+      "coach2ImageUrl": "/public/map/Psycho/orbis/Psycho_Coach_2.tga.ckd/dbd8a7ec51d9d899f5d96c96a204daa6.ckd",
+      "coach3ImageUrl": "/public/map/Psycho/orbis/Psycho_Coach_3.tga.ckd/9bc7ac490d143a6ef1c49faba4131f3f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Psycho/Psycho_Coach_1_Phone.png/1a35950308be0668d04f996d85b78bd4.png",
+    "phoneCoach2ImageUrl": "/public/map/Psycho/Psycho_Coach_2_Phone.png/7ae9eb14ec8ee2e40172acb00576cb0d.png",
+    "phoneCoach3ImageUrl": "/public/map/Psycho/Psycho_Coach_3_Phone.png/135fe63641a05c7f960f2c125395be1c.png",
+    "phoneCoverImageUrl": "/public/map/Psycho/Psycho_Cover_Phone.jpg/f9a66277a79a7e5d815dc903b1943829.jpg",
+    "cover640ImageUrl": "/public/map/Psycho/Psycho_Cover_640.png/a03f91a8de111369c06f484317ff022f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Psycho/Psycho.ogg": "/private/map/Psycho/Psycho.ogg/8efaa91493f5f2e24d8d69eab11fd98c.ogg",
+    "jmcs://jd-contents/Psycho/Psycho_AudioPreview.ogg": "/public/map/Psycho/Psycho_AudioPreview.ogg/892500ae3f4bb4b2fa705f82e370c021.ogg",
+    "jmcs://jd-contents/Psycho/Psycho_HIGH.webm": "/private/map/Psycho/Psycho_HIGH.webm/a41cfed46411d727776662b4240062d3.webm",
+    "jmcs://jd-contents/Psycho/Psycho_LOW.webm": "/private/map/Psycho/Psycho_LOW.webm/3ea5fd9e8ec426029ac8a1fca7272e95.webm",
+    "jmcs://jd-contents/Psycho/Psycho_MID.webm": "/private/map/Psycho/Psycho_MID.webm/deb0892e19cfb53bc377efb6b16abffe.webm",
+    "jmcs://jd-contents/Psycho/Psycho_ULTRA.hd.webm": "/private/map/Psycho/Psycho_ULTRA.hd.webm/319263b7f45b3d1dae404c7af51a4760.webm",
+    "jmcs://jd-contents/Psycho/Psycho_ULTRA.webm": "/private/map/Psycho/Psycho_ULTRA.webm/6d199499814d38c7be0a04d446bc3d6e.webm",
+    "jmcs://jd-contents/Psycho/Psycho_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Psycho/Psycho_MapPreviewNoSoundCrop_LOW.vp8.webm/97cf4fcf77e18844d326e722c1c6a51b.webm",
+    "jmcs://jd-contents/Psycho/Psycho_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Psycho/Psycho_MapPreviewNoSoundCrop_MID.vp8.webm/294366fa2c059897a157cf8c5db23789.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"534671\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Psycho/Psycho_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\n\t\t\t\t\t<Initialization range=\"0-657\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1506081\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Psycho/Psycho_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"658-1148\">\n\t\t\t\t\t<Initialization range=\"0-658\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 215.1495
+}

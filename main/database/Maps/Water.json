@@ -1,0 +1,173 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Water/Water.ogg": "/private/map/Water/Water.ogg/9d606eecc8e304a89f16e625524a6143.ogg",
+    "jmcs://jd-contents/Water/Water_AudioPreview.ogg": "/public/map/Water/Water_AudioPreview.ogg/1f5a50c1b689d3461d4b1c96841a2f79.ogg",
+    "jmcs://jd-contents/Water/Water_HIGH.hd.webm": "/private/map/Water/Water_HIGH.hd.webm/bd13d39408baa06729182a6a191629b3.webm",
+    "jmcs://jd-contents/Water/Water_LOW.hd.webm": "/private/map/Water/Water_LOW.hd.webm/9904547a1a99f075d11757a7e2e3359b.webm",
+    "jmcs://jd-contents/Water/Water_MID.hd.webm": "/private/map/Water/Water_MID.hd.webm/7d57fc0a4bb8e91fbcb92da212604081.webm",
+    "jmcs://jd-contents/Water/Water_ULTRA.hd.webm": "/private/map/Water/Water_ULTRA.hd.webm/10a45256762daadb481e754c3c60222d.webm",
+    "jmcs://jd-contents/Water/Water_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Water/Water_MapPreviewNoSoundCrop_LOW.vp8.webm/76c1b2912c7955ec6cb641716a4556e5.webm",
+    "jmcs://jd-contents/Water/Water_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Water/Water_MapPreviewNoSoundCrop_MID.vp8.webm/85d1895de00189daccf7fe0b8945bde2.webm",
+    "jmcs://jd-contents/Water/Water_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/Water/Water_MapPreviewNoSoundCrop_HIGH.vp8.webm/f811b04e5445d6de420a76fe241c355f.webm",
+    "jmcs://jd-contents/Water/Water_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/Water/Water_MapPreviewNoSoundCrop_ULTRA.vp8.webm/665a445372c825a0cea127973c30c6e4.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24615,
+        49231,
+        73846,
+        98461,
+        123077,
+        147692,
+        172308,
+        196923,
+        221538,
+        246154,
+        270769,
+        295385,
+        320000,
+        344615,
+        369231,
+        393846,
+        418461,
+        443077,
+        467692,
+        492308,
+        516923,
+        541538,
+        566154,
+        590769,
+        615385,
+        640000,
+        664615,
+        689231,
+        713846,
+        738461,
+        763077,
+        787692,
+        812308,
+        836923,
+        861538,
+        886154,
+        910769,
+        935385,
+        960000,
+        984615,
+        1009231,
+        1033846,
+        1058461,
+        1083077,
+        1107692,
+        1132308,
+        1156923,
+        1181538,
+        1206154,
+        1230769,
+        1255385,
+        1280000,
+        1304615,
+        1329231,
+        1353846,
+        1378461,
+        1403077,
+        1427692
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -20,
+      "endBeat": 408,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Water/Water_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"644835\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Water/Water_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"759-1249\">\n\t\t\t\t\t<Initialization range=\"0-759\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480464\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Water/Water_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"759-1249\">\n\t\t\t\t\t<Initialization range=\"0-759\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2934053\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Water/Water_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"759-1249\">\n\t\t\t\t\t<Initialization range=\"0-759\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"4330065\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Water/Water_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"759-1249\">\n\t\t\t\t\t<Initialization range=\"0-759\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "fd9a0eb15fe983627e5f235e7844dbf1",
+      "storageType": 0,
+      "url": "/public/map/Water/nx/Water_MAIN_SCENE_NX.zip/fd9a0eb15fe983627e5f235e7844dbf1.zip"
+    },
+    "pc": {
+      "md5": "dd4cf3ad1dfd8158c7753dab7d2879b8",
+      "storageType": 0,
+      "url": "/public/map/Water/pc/Water_MAIN_SCENE_PC.zip/dd4cf3ad1dfd8158c7753dab7d2879b8.zip"
+    },
+    "ps4": {
+      "md5": "044230c180e34bb28a76c01e0554ded3",
+      "storageType": 0,
+      "url": "/public/map/Water/orbis/Water_MAIN_SCENE_ORBIS.zip/044230c180e34bb28a76c01e0554ded3.zip"
+    }
+  },
+  "data": {
+    "mapName": "Water",
+    "title": "Water",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Tyla",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FD53C7",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "cover_smallImageUrl": "/public/map/Water/nx/Water_Cover_Online.tga.ckd/736156357dc361b3edb47994a6bccae1.ckd",
+      "coverImageUrl": "/public/map/Water/nx/Water_Cover_Generic.tga.ckd/736156357dc361b3edb47994a6bccae1.ckd",
+      "expandCoachImageUrl": "/public/map/Water/nx/Water_Cover_AlbumCoach.tga.ckd/cdd7b5e87f97d698c421aef043d12a6a.ckd",
+      "map_bkgImageUrl": "/public/map/Water/nx/Water_map_bkg.tga.ckd/b47bc358529d0c5940cdda77da681703.ckd",
+      "banner_bkgImageUrl": "/public/map/Water/nx/Water_banner_bkg.tga.ckd/fde2403c9aaed6d68a5eaba38ef20fe1.ckd",
+      "coach1ImageUrl": "/public/map/Water/nx/Water_Coach_1.tga.ckd/1e60d140da9fe7a5b75b9154ef0c36e6.ckd",
+      "phoneCoverImageUrl": "/public/map/Water/Water_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Water/Water_Coach_1_Phone.png/b5bc5f56271031d36d5d60c8e72808bc.png",
+      "cover640ImageUrl": "/public/map/Water/Water_Cover_640.png/2ef7f7bfc95049d0fe5a8c39761ae781.png"
+    },
+    "pc": {
+      "cover_smallImageUrl": "/public/map/Water/pc/Water_Cover_Online.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "coverImageUrl": "/public/map/Water/pc/Water_Cover_Generic.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "expandCoachImageUrl": "/public/map/Water/pc/Water_Cover_AlbumCoach.tga.ckd/d61d0853e4735fa22c4335d211c92153.ckd",
+      "map_bkgImageUrl": "/public/map/Water/pc/Water_map_bkg.tga.ckd/b242c6f4efbf4d37b45c499d25eb9898.ckd",
+      "banner_bkgImageUrl": "/public/map/Water/pc/Water_banner_bkg.tga.ckd/47b143f7dbd0862e2caa5cd3c5f53313.ckd",
+      "coach1ImageUrl": "/public/map/Water/pc/Water_Coach_1.tga.ckd/7bf6dd8dca20196cc3eb07e2de90bcf1.ckd",
+      "phoneCoverImageUrl": "/public/map/Water/Water_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Water/Water_Coach_1_Phone.png/b5bc5f56271031d36d5d60c8e72808bc.png",
+      "cover640ImageUrl": "/public/map/Water/Water_Cover_640.png/2ef7f7bfc95049d0fe5a8c39761ae781.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/Water/orbis/Water_Cover_Online.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "coverImageUrl": "/public/map/Water/orbis/Water_Cover_Generic.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "expandCoachImageUrl": "/public/map/Water/orbis/Water_Cover_AlbumCoach.tga.ckd/d61d0853e4735fa22c4335d211c92153.ckd",
+      "map_bkgImageUrl": "/public/map/Water/orbis/Water_map_bkg.tga.ckd/b242c6f4efbf4d37b45c499d25eb9898.ckd",
+      "banner_bkgImageUrl": "/public/map/Water/orbis/Water_banner_bkg.tga.ckd/47b143f7dbd0862e2caa5cd3c5f53313.ckd",
+      "coach1ImageUrl": "/public/map/Water/orbis/Water_Coach_1.tga.ckd/7bf6dd8dca20196cc3eb07e2de90bcf1.ckd",
+      "phoneCoverImageUrl": "/public/map/Water/Water_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Water/Water_Coach_1_Phone.png/b5bc5f56271031d36d5d60c8e72808bc.png",
+      "cover640ImageUrl": "/public/map/Water/Water_Cover_640.png/2ef7f7bfc95049d0fe5a8c39761ae781.png"
+    },
+    "cover640ImageUrl": "/public/map/Water/Water_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 219.48716666666667
+}

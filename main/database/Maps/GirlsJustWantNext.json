@@ -1,0 +1,182 @@
+{
+  "urls": {
+    "jmcs://jd-contents/GirlsJustWantNext/GirlsJustWantNext.ogg": "/private/map/GirlsJustWantNext/GirlsJustWantNext.ogg/4b46df5cce96d2eb191b2488c7313f09.ogg",
+    "jmcs://jd-contents/GirlsJustWantNext/GirlsJustWantNext_AudioPreview.ogg": "/public/map/GirlsJustWantNext/GirlsJustWantNext_AudioPreview.ogg/7cfb0bb7e176e907fe8d812efffaa395.ogg",
+    "jmcs://jd-contents/GirlsJustWantNext/GirlsJustWantNext_HIGH.hd.webm": "/private/map/GirlsJustWantNext/GirlsJustWantNext_HIGH.hd.webm/0e3e00fd1803998c1160958d2cf060f8.webm",
+    "jmcs://jd-contents/GirlsJustWantNext/GirlsJustWantNext_LOW.hd.webm": "/private/map/GirlsJustWantNext/GirlsJustWantNext_LOW.hd.webm/3ba70356e9f0552eabdc3f60b2d2de90.webm",
+    "jmcs://jd-contents/GirlsJustWantNext/GirlsJustWantNext_MID.hd.webm": "/private/map/GirlsJustWantNext/GirlsJustWantNext_MID.hd.webm/b57d0b5204e74b06f4b46f98550fccea.webm",
+    "jmcs://jd-contents/GirlsJustWantNext/GirlsJustWantNext_ULTRA.hd.webm": "/private/map/GirlsJustWantNext/GirlsJustWantNext_ULTRA.hd.webm/f18c1ea92159d2e9fb3f5bc6b41f9b5f.webm",
+    "jmcs://jd-contents/GirlsJustWantNext/GirlsJustWantNext_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GirlsJustWantNext/GirlsJustWantNext_MapPreviewNoSoundCrop_LOW.vp8.webm/c0a7bffc7c68c071c5db5d52ba5afbeb.webm",
+    "jmcs://jd-contents/GirlsJustWantNext/GirlsJustWantNext_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GirlsJustWantNext/GirlsJustWantNext_MapPreviewNoSoundCrop_MID.vp8.webm/53c7e65edeecb80421583b9d1a628df1.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23802,
+        47603,
+        71405,
+        95296,
+        119187,
+        143078,
+        166969,
+        190860,
+        215081,
+        239302,
+        262871,
+        286441,
+        310662,
+        334883,
+        358453,
+        382674,
+        406244,
+        429813,
+        453383,
+        478652,
+        501908,
+        525478,
+        549369,
+        573260,
+        597152,
+        621045,
+        644937,
+        669847,
+        692799,
+        717360,
+        740616,
+        765177,
+        788434,
+        812325,
+        835894,
+        859785,
+        883676,
+        907567,
+        931458,
+        955349,
+        979240,
+        1003131,
+        1027022,
+        1050912,
+        1074803,
+        1098694,
+        1122585,
+        1146476,
+        1170367,
+        1194258,
+        1218149,
+        1242040,
+        1265931,
+        1289822,
+        1313712,
+        1337603,
+        1361494,
+        1385385,
+        1409276,
+        1433167,
+        1457058,
+        1480949
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 390,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GirlsJustWantNext/GirlsJustWantNext_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"537471\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GirlsJustWantNext/GirlsJustWantNext_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1967813\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GirlsJustWantNext/GirlsJustWantNext_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "22aaf9ca30c192fb8fc208bcf7fbd64e",
+      "storageType": 0,
+      "url": "/public/map/GirlsJustWantNext/nx/GirlsJustWantNext_MAIN_SCENE_NX.zip/22aaf9ca30c192fb8fc208bcf7fbd64e.zip"
+    },
+    "pc": {
+      "md5": "2162291b9c16fed322f490271f952a57",
+      "storageType": 0,
+      "url": "/public/map/GirlsJustWantNext/pc/GirlsJustWantNext_MAIN_SCENE_PC.zip/2162291b9c16fed322f490271f952a57.zip"
+    },
+    "ps4": {
+      "md5": "2db4f398570b451385e1824acc935c43",
+      "storageType": 0,
+      "url": "/public/map/GirlsJustWantNext/orbis/GirlsJustWantNext_MAIN_SCENE_ORBIS.zip/2db4f398570b451385e1824acc935c43.zip"
+    }
+  },
+  "data": {
+    "mapName": "GirlsJustWantNext",
+    "title": "Girls Just Want To Have Fun",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Cyndi Lauper",
+    "credits": "“Girls Just Want To Have Fun” Performed by Cyndi Lauper Written by Robert Hazard Published by Sony/ATV Tunes LLC (ASCAP) Courtesy of Epic Records. By arrangement with Sony Music Entertainment. All rights reserved. Used with permission.",
+    "coachCount": 3,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#fc2b97",
+    "songColor2A": "#f8ce0c",
+    "songColor1B": "#010112",
+    "songColor2B": "#c22f7b",
+    "lyricsColor": "#fd6ebb",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GirlsJustWantNext/nx/GirlsJustWantNext_banner_bkg.tga.ckd/4c6d9b1ac1de689cb8a031fa163ee588.ckd",
+      "map_bkgImageUrl": "/public/map/GirlsJustWantNext/nx/GirlsJustWantNext_map_bkg.tga.ckd/dff3d73098572beedcc81b92f3721f60.ckd",
+      "expandCoachImageUrl": "/public/map/GirlsJustWantNext/nx/GirlsJustWantNext_Cover_AlbumCoach.tga.ckd/2c92007dc7a948dc22489fbf10eb57da.ckd",
+      "cover_smallImageUrl": "/public/map/GirlsJustWantNext/nx/GirlsJustWantNext_Cover_Online.tga.ckd/7acef7ceb714c77bc4f21fe72f32d9a8.ckd",
+      "coverImageUrl": "/public/map/GirlsJustWantNext/nx/GirlsJustWantNext_Cover_Generic.tga.ckd/9103d853110d7fc37b7cebfa8fbf6270.ckd",
+      "coach1ImageUrl": "/public/map/GirlsJustWantNext/nx/GirlsJustWantNext_Coach_1.tga.ckd/7c09161dd388dbbf98ae974b7220b524.ckd",
+      "coach2ImageUrl": "/public/map/GirlsJustWantNext/nx/GirlsJustWantNext_Coach_2.tga.ckd/0d6953cb43d612609aa83fbbe0dc5cc2.ckd",
+      "coach3ImageUrl": "/public/map/GirlsJustWantNext/nx/GirlsJustWantNext_Coach_3.tga.ckd/b962944d8b7b5c7dade734f3e3062ec5.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GirlsJustWantNext/pc/GirlsJustWantNext_banner_bkg.tga.ckd/32a0377e6e3c960467707b648244abc4.ckd",
+      "map_bkgImageUrl": "/public/map/GirlsJustWantNext/pc/GirlsJustWantNext_map_bkg.tga.ckd/dde19896c8c31a0f3fe532021c7d670a.ckd",
+      "expandCoachImageUrl": "/public/map/GirlsJustWantNext/pc/GirlsJustWantNext_Cover_AlbumCoach.tga.ckd/1683eb4583f37968d6a79125ca2356e9.ckd",
+      "cover_smallImageUrl": "/public/map/GirlsJustWantNext/pc/GirlsJustWantNext_Cover_Online.tga.ckd/7268bea491ee979ac6b96b1fa2ab5134.ckd",
+      "coverImageUrl": "/public/map/GirlsJustWantNext/pc/GirlsJustWantNext_Cover_Generic.tga.ckd/47b68471bfa147b79798dd098430f885.ckd",
+      "coach1ImageUrl": "/public/map/GirlsJustWantNext/pc/GirlsJustWantNext_Coach_1.tga.ckd/be5763135dcc1534113f903d1305eaee.ckd",
+      "coach2ImageUrl": "/public/map/GirlsJustWantNext/pc/GirlsJustWantNext_Coach_2.tga.ckd/3877f5ba0af74afee665cfc8b0985f99.ckd",
+      "coach3ImageUrl": "/public/map/GirlsJustWantNext/pc/GirlsJustWantNext_Coach_3.tga.ckd/98ed9d376c93ce38e400976e063c0e43.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GirlsJustWantNext/orbis/GirlsJustWantNext_banner_bkg.tga.ckd/32a0377e6e3c960467707b648244abc4.ckd",
+      "map_bkgImageUrl": "/public/map/GirlsJustWantNext/orbis/GirlsJustWantNext_map_bkg.tga.ckd/dde19896c8c31a0f3fe532021c7d670a.ckd",
+      "expandCoachImageUrl": "/public/map/GirlsJustWantNext/orbis/GirlsJustWantNext_Cover_AlbumCoach.tga.ckd/1683eb4583f37968d6a79125ca2356e9.ckd",
+      "cover_smallImageUrl": "/public/map/GirlsJustWantNext/orbis/GirlsJustWantNext_Cover_Online.tga.ckd/7268bea491ee979ac6b96b1fa2ab5134.ckd",
+      "coverImageUrl": "/public/map/GirlsJustWantNext/orbis/GirlsJustWantNext_Cover_Generic.tga.ckd/47b68471bfa147b79798dd098430f885.ckd",
+      "coach1ImageUrl": "/public/map/GirlsJustWantNext/orbis/GirlsJustWantNext_Coach_1.tga.ckd/be5763135dcc1534113f903d1305eaee.ckd",
+      "coach2ImageUrl": "/public/map/GirlsJustWantNext/orbis/GirlsJustWantNext_Coach_2.tga.ckd/3877f5ba0af74afee665cfc8b0985f99.ckd",
+      "coach3ImageUrl": "/public/map/GirlsJustWantNext/orbis/GirlsJustWantNext_Coach_3.tga.ckd/98ed9d376c93ce38e400976e063c0e43.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GirlsJustWantNext/GirlsJustWantNext_Coach_1_Phone.png/74e41327502ffde6061fb150232aafb3.png",
+    "phoneCoach2ImageUrl": "/public/map/GirlsJustWantNext/GirlsJustWantNext_Coach_2_Phone.png/907610a0eb56ea0767b4a1e668a1f941.png",
+    "phoneCoach3ImageUrl": "/public/map/GirlsJustWantNext/GirlsJustWantNext_Coach_3_Phone.png/e5e3b40341f9942ed2f91b676dc3f115.png",
+    "phoneCoverImageUrl": "/public/map/GirlsJustWantNext/GirlsJustWantNext_Cover_Phone.jpg/c666213beb1ab42c6a7219ef7d76a001.jpg",
+    "cover640ImageUrl": "/public/map/GirlsJustWantNext/GirlsJustWantNext_Cover_640.png/3b44a5018365eabb609c40fc012efb6d.png"
+  },
+  "mapLength": 197.199979
+}

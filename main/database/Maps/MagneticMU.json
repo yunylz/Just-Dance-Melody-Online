@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "cca44af34e8e8058562cb1e32234fde9",
+      "storageType": 0,
+      "url": "/public/map/MagneticMU/nx/MagneticMU_MAIN_SCENE_NX.zip/cca44af34e8e8058562cb1e32234fde9.zip"
+    },
+    "pc": {
+      "md5": "5a3a93bf292ae42f13a0872d721716dd",
+      "storageType": 0,
+      "url": "/public/map/MagneticMU/pc/MagneticMU_MAIN_SCENE_PC.zip/5a3a93bf292ae42f13a0872d721716dd.zip"
+    },
+    "ps4": {
+      "md5": "f1655d62d191c2c1cc42894b250b0dc2",
+      "storageType": 0,
+      "url": "/public/map/MagneticMU/orbis/MagneticMU_MAIN_SCENE_ORBIS.zip/f1655d62d191c2c1cc42894b250b0dc2.zip"
+    }
+  },
+  "data": {
+    "mapName": "MagneticMU",
+    "title": "Magnetic",
+    "originalJDVersion": 3000,
+    "tags": [
+      "subscribedSong",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "ILLIT",
+    "credits": "EMPTY",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#f6648a"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21984,
+        43968,
+        65952,
+        87936,
+        109920,
+        131904,
+        153888,
+        175872,
+        197856,
+        219840,
+        241824,
+        263808,
+        285792,
+        307776,
+        329760,
+        351744,
+        373728,
+        395712,
+        417696,
+        439680,
+        461664,
+        483648,
+        505632,
+        527616,
+        549600,
+        571584,
+        593568,
+        615552,
+        637536,
+        659520,
+        681504,
+        703488,
+        725472,
+        747456,
+        769440,
+        791424,
+        813408,
+        835392,
+        857376,
+        879360,
+        901344,
+        923328,
+        945312,
+        967296,
+        989280,
+        1011264,
+        1033248,
+        1055232,
+        1077216,
+        1099200,
+        1121184,
+        1143168,
+        1165152,
+        1187136,
+        1209120,
+        1231104,
+        1253088,
+        1275072,
+        1297056,
+        1319040,
+        1341024,
+        1363008,
+        1384992,
+        1406976,
+        1428960,
+        1450992,
+        1472976,
+        1494960
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 352,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MagneticMU/MagneticMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MagneticMU/nx/MagneticMU_banner_bkg.tga.ckd/a5a85fd0681da8d03f1c00baba56f57c.ckd",
+      "map_bkgImageUrl": "/public/map/MagneticMU/nx/MagneticMU_map_bkg.tga.ckd/776f365715d699550cd2493aa15da18b.ckd",
+      "expandCoachImageUrl": "/public/map/MagneticMU/nx/MagneticMU_Cover_AlbumCoach.tga.ckd/c8a2902ece0e22ddedda6bb9d6be4a45.ckd",
+      "cover_smallImageUrl": "/public/map/MagneticMU/nx/MagneticMU_Cover_Online.tga.ckd/dd54624c10d873113fe205d4e1489807.ckd",
+      "coach1ImageUrl": "/public/map/MagneticMU/nx/MagneticMU_Coach_1.tga.ckd/4b1994ef18292d15b4b5cf9cb30fd57f.ckd",
+      "coach2ImageUrl": "/public/map/MagneticMU/nx/MagneticMU_Coach_2.tga.ckd/35bd9c18fed52b3ef6bea398312c9526.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MagneticMU/pc/MagneticMU_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/MagneticMU/pc/MagneticMU_map_bkg.tga.ckd/1ece110ba7d64f79fbd56f14340ae48d.ckd",
+      "expandCoachImageUrl": "/public/map/MagneticMU/pc/MagneticMU_Cover_AlbumCoach.tga.ckd/f2378ba4243926f356063825f92b6afb.ckd",
+      "cover_smallImageUrl": "/public/map/MagneticMU/pc/MagneticMU_Cover_Online.tga.ckd/ab092a32030691c116ae0a97b25db1e1.ckd",
+      "coach1ImageUrl": "/public/map/MagneticMU/pc/MagneticMU_Coach_1.tga.ckd/ecef47ec6e52477da53c69996bf09b1b.ckd",
+      "coach2ImageUrl": "/public/map/MagneticMU/pc/MagneticMU_Coach_2.tga.ckd/b9c31702e4f1d5e9654b05bcbd35b8c2.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MagneticMU/orbis/MagneticMU_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/MagneticMU/orbis/MagneticMU_map_bkg.tga.ckd/1ece110ba7d64f79fbd56f14340ae48d.ckd",
+      "expandCoachImageUrl": "/public/map/MagneticMU/orbis/MagneticMU_Cover_AlbumCoach.tga.ckd/f2378ba4243926f356063825f92b6afb.ckd",
+      "cover_smallImageUrl": "/public/map/MagneticMU/orbis/MagneticMU_Cover_Online.tga.ckd/ab092a32030691c116ae0a97b25db1e1.ckd",
+      "coach1ImageUrl": "/public/map/MagneticMU/orbis/MagneticMU_Coach_1.tga.ckd/ecef47ec6e52477da53c69996bf09b1b.ckd",
+      "coach2ImageUrl": "/public/map/MagneticMU/orbis/MagneticMU_Coach_2.tga.ckd/b9c31702e4f1d5e9654b05bcbd35b8c2.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MagneticMU/MagneticMU_Coach_1_Phone.png/2b0d501ffdc534e55cab095434795972.png",
+    "phoneCoach2ImageUrl": "/public/map/MagneticMU/MagneticMU_Coach_2_Phone.png/b2fbe10fbc24f9300312df900252e645.png",
+    "phoneCoverImageUrl": "/public/map/MagneticMU/MagneticMU_Cover_Phone.jpg/892a0e77f1592df03ec248baaa21cb02.jpg",
+    "cover640ImageUrl": "/public/map/MagneticMU/MagneticMU_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MagneticMU/MagneticMU.ogg": "/private/map/MagneticMU/MagneticMU.ogg/98c4f7a2f4fa8d25eee6ebaef36a5b65.ogg",
+    "jmcs://jd-contents/MagneticMU/MagneticMU_AudioPreview.ogg": "/public/map/MagneticMU/MagneticMU_AudioPreview.ogg/ab091299b0b225e86c29af527cef9644.ogg",
+    "jmcs://jd-contents/MagneticMU/MagneticMU_HIGH.webm": "/private/map/MagneticMU/MagneticMU_HIGH.webm/d77cd1140108c54099ce8a826d4c6250.webm",
+    "jmcs://jd-contents/MagneticMU/MagneticMU_LOW.webm": "/private/map/MagneticMU/MagneticMU_LOW.webm/6455e582c86331175faefa227ec1d439.webm",
+    "jmcs://jd-contents/MagneticMU/MagneticMU_MID.webm": "/private/map/MagneticMU/MagneticMU_MID.webm/bd5de727a9e3f7e5791390162bb18fdf.webm",
+    "jmcs://jd-contents/MagneticMU/MagneticMU_ULTRA.hd.webm": "/private/map/MagneticMU/MagneticMU_ULTRA.hd.webm/14a6a7d6d021062ad1117a1904b0835a.webm",
+    "jmcs://jd-contents/MagneticMU/MagneticMU_ULTRA.webm": "/private/map/MagneticMU/MagneticMU_ULTRA.webm/d78244bfc3203d80aae6795112b67162.webm",
+    "jmcs://jd-contents/MagneticMU/MagneticMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MagneticMU/MagneticMU_MapPreviewNoSoundCrop_LOW.vp8.webm/a1bd6462f2a8b91198fc0f8519ea4fdd.webm",
+    "jmcs://jd-contents/MagneticMU/MagneticMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MagneticMU/MagneticMU_MapPreviewNoSoundCrop_MID.vp8.webm/75e09df78d5d62aa1a5a12aafb6b38f9.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"526117\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MagneticMU/MagneticMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1505475\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MagneticMU/MagneticMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 161.221354
+}

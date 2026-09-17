@@ -1,0 +1,147 @@
+{
+  "urls": {
+    "jmcs://jd-contents/LoseYourself/LoseYourself_HIGH.hd.webm": "/private/map/LoseYourself/LoseYourself_HIGH.hd.webm/59e86801f128174c544bf8970233cd3b.webm",
+    "jmcs://jd-contents/LoseYourself/LoseYourself_LOW.hd.webm": "/private/map/LoseYourself/LoseYourself_LOW.hd.webm/3927c0cd005ff052e84b760bb70c07eb.webm",
+    "jmcs://jd-contents/LoseYourself/LoseYourself_MID.hd.webm": "/private/map/LoseYourself/LoseYourself_MID.hd.webm/113ff5f591633e46a37863ad9f7d107a.webm",
+    "jmcs://jd-contents/LoseYourself/LoseYourself_ULTRA.hd.webm": "/private/map/LoseYourself/LoseYourself_ULTRA.hd.webm/b1e8fad62778bba6ff33f8a5ea524be9.webm",
+    "jmcs://jd-contents/LoseYourself/LoseYourself.ogg": "/private/map/LoseYourself/LoseYourself.ogg/3c16a4637500ff2d8cf0c99a6f58b264.ogg",
+    "jmcs://jd-contents/LoseYourself/LoseYourself_AudioPreview.ogg": "/public/map/LoseYourself/LoseYourself_AudioPreview.ogg/23975c3f6997e83211a4b437b158bf26.ogg",
+    "jmcs://jd-contents/LoseYourself/LoseYourself_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LoseYourself/LoseYourself_MapPreviewNoSoundCrop_LOW.vp8.webm/64ba5934beaefe9169e91a718df19afb.webm",
+    "jmcs://jd-contents/LoseYourself/LoseYourself_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LoseYourself/LoseYourself_MapPreviewNoSoundCrop_MID.vp8.webm/db840e36b4ce8bc6328d42c027c7aa01.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33586,
+        67172,
+        100758,
+        141531,
+        185838,
+        230146,
+        274454,
+        318761,
+        363069,
+        407377,
+        451684,
+        495992,
+        540300,
+        584607,
+        628915,
+        673223,
+        717531,
+        761838,
+        806146,
+        850454,
+        894761,
+        939069,
+        983377,
+        1027684,
+        1069489,
+        1111293,
+        1153097,
+        1194901,
+        1239209,
+        1283517,
+        1327824,
+        1372132,
+        1415339,
+        1458546,
+        1501753,
+        1544959
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 435,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 34,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LoseYourself/LoseYourself_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "5099ebf7a06be3e49b678d77a7c1746e",
+      "storageType": 0,
+      "url": "/public/map/LoseYourself/nx/LoseYourself_MAIN_SCENE_NX.zip/5099ebf7a06be3e49b678d77a7c1746e.zip"
+    },
+    "pc": {
+      "md5": "322878b73d62ec1669983b3910a87a46",
+      "storageType": 0,
+      "url": "/public/map/LoseYourself/pc/LoseYourself_MAIN_SCENE_PC.zip/322878b73d62ec1669983b3910a87a46.zip"
+    },
+    "ps4": {
+      "md5": "a6f0b69282b5a9483c9b3263f3935a4d",
+      "storageType": 0,
+      "url": "/public/map/LoseYourself/orbis/LoseYourself_MAIN_SCENE_ORBIS.zip/a6f0b69282b5a9483c9b3263f3935a4d.zip"
+    }
+  },
+  "data": {
+    "mapName": "LoseYourself",
+    "title": "Lose Yourself",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Eminem",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ea0400",
+    "songColor2A": "#16d8ef",
+    "songColor1B": "#080526",
+    "songColor2B": "#170c56",
+    "lyricsColor": "#ffba10",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LoseYourself/nx/LoseYourself_banner_bkg.tga.ckd/e292dc87457c72ed9c65e31caa6b47ec.ckd",
+      "map_bkgImageUrl": "/public/map/LoseYourself/nx/LoseYourself_map_bkg.tga.ckd/98d4065d33013c5572301e426787d187.ckd",
+      "expandCoachImageUrl": "/public/map/LoseYourself/nx/LoseYourself_Cover_AlbumCoach.tga.ckd/0c2d0e04d4c820b10cfc026118a2005b.ckd",
+      "cover_smallImageUrl": "/public/map/LoseYourself/nx/LoseYourself_Cover_Online.tga.ckd/eb3ac2327496cceb6007a78f50dcc4fd.ckd",
+      "coverImageUrl": "/public/map/LoseYourself/nx/LoseYourself_Cover_Generic.tga.ckd/8822bb8776bca06e337d84e161739b9f.ckd",
+      "coach1ImageUrl": "/public/map/LoseYourself/nx/LoseYourself_Coach_1.tga.ckd/87e58628eb3d7e8033784e9ef813a2e8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LoseYourself/pc/LoseYourself_banner_bkg.tga.ckd/f8dc94594d8e9dfaa65802aba7ae8243.ckd",
+      "map_bkgImageUrl": "/public/map/LoseYourself/pc/LoseYourself_map_bkg.tga.ckd/c65a99990c730b8f7a2a768ee09186bb.ckd",
+      "expandCoachImageUrl": "/public/map/LoseYourself/pc/LoseYourself_Cover_AlbumCoach.tga.ckd/38bf555568f6b55ceb18037d482403f1.ckd",
+      "cover_smallImageUrl": "/public/map/LoseYourself/pc/LoseYourself_Cover_Online.tga.ckd/9866422e4dddd3ba648fc351c2642345.ckd",
+      "coverImageUrl": "/public/map/LoseYourself/pc/LoseYourself_Cover_Generic.tga.ckd/e77b9029bfcafaab9e61c6f1d62d18c7.ckd",
+      "coach1ImageUrl": "/public/map/LoseYourself/pc/LoseYourself_Coach_1.tga.ckd/755c2c556599b7aa637619f33e0db8cd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LoseYourself/orbis/LoseYourself_banner_bkg.tga.ckd/f8dc94594d8e9dfaa65802aba7ae8243.ckd",
+      "map_bkgImageUrl": "/public/map/LoseYourself/orbis/LoseYourself_map_bkg.tga.ckd/c65a99990c730b8f7a2a768ee09186bb.ckd",
+      "expandCoachImageUrl": "/public/map/LoseYourself/orbis/LoseYourself_Cover_AlbumCoach.tga.ckd/38bf555568f6b55ceb18037d482403f1.ckd",
+      "cover_smallImageUrl": "/public/map/LoseYourself/orbis/LoseYourself_Cover_Online.tga.ckd/9866422e4dddd3ba648fc351c2642345.ckd",
+      "coverImageUrl": "/public/map/LoseYourself/orbis/LoseYourself_Cover_Generic.tga.ckd/e77b9029bfcafaab9e61c6f1d62d18c7.ckd",
+      "coach1ImageUrl": "/public/map/LoseYourself/orbis/LoseYourself_Coach_1.tga.ckd/755c2c556599b7aa637619f33e0db8cd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LoseYourself/LoseYourself_Coach_1_Phone.png/8ebc53e7b593a58a235b7b5ea54f5f81.png",
+    "phoneCoverImageUrl": "/public/map/LoseYourself/LoseYourself_Cover_Phone.jpg/9fc942dbaf683a3830e640f6b49a61c0.jpg",
+    "cover640ImageUrl": "/public/map/LoseYourself/LoseYourself_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 311.4375
+}

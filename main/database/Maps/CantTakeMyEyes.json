@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "6ab21ff6b56fe33edce7479c9c450550",
+      "storageType": 0,
+      "url": "/public/map/CantTakeMyEyes/nx/CantTakeMyEyes_MAIN_SCENE_NX.zip/6ab21ff6b56fe33edce7479c9c450550.zip"
+    },
+    "pc": {
+      "md5": "b49d614e171588dccf83c65b3807500e",
+      "storageType": 0,
+      "url": "/public/map/CantTakeMyEyes/pc/CantTakeMyEyes_MAIN_SCENE_PC.zip/b49d614e171588dccf83c65b3807500e.zip"
+    },
+    "ps4": {
+      "md5": "086bbecf21128eb216292150ab3029b8",
+      "storageType": 0,
+      "url": "/public/map/CantTakeMyEyes/orbis/CantTakeMyEyes_MAIN_SCENE_ORBIS.zip/086bbecf21128eb216292150ab3029b8.zip"
+    }
+  },
+  "data": {
+    "mapName": "CantTakeMyEyes",
+    "title": "Can't Take My Eyes Off You",
+    "originalJDVersion": 4,
+    "tags": [
+      "subscribedSong",
+      "JustDance4",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "Boys Town Gang",
+    "credits": "Written by Bob Crewe and Bob Gaudio. Published by EMI Virgin Songs, Inc. DBA EMI Longitude Music (BMI) / Seasons Four Music. All Rights Reserved. Used by Permission. Courtesy of Steven Ames Brown / Rich & Famous Records, Ltd. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 3,
+    "songColor1A": "#4a00af",
+    "songColor2A": "#ff51ce",
+    "songColor1B": "#06002d",
+    "songColor2B": "#3a004b",
+    "lyricsColor": "#27c7b1",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23951,
+        46511,
+        69119,
+        91679,
+        114287,
+        136847,
+        159455,
+        182015,
+        204623,
+        227279,
+        249983,
+        272687,
+        295343,
+        317759,
+        340175,
+        362543,
+        384959,
+        407615,
+        430271,
+        452927,
+        475631,
+        498287,
+        520943,
+        543599,
+        566255,
+        588527,
+        611039,
+        633359,
+        655871,
+        678047,
+        701039,
+        723407,
+        745631,
+        768191,
+        790655,
+        812879,
+        835247,
+        857759,
+        880079,
+        902447,
+        925822,
+        948286,
+        970606,
+        992974,
+        1015582,
+        1037854,
+        1060654,
+        1083070,
+        1105438,
+        1127758,
+        1149982,
+        1172446,
+        1194958,
+        1217326,
+        1239646,
+        1262110,
+        1284478,
+        1306798,
+        1329166,
+        1351534,
+        1374046,
+        1396366,
+        1418734,
+        1441054,
+        1463422,
+        1485790
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 490,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/CantTakeMyEyes/nx/CantTakeMyEyes_banner_bkg.tga.ckd/5d389cbfa403dcfcc852beb2ebdcd64b.ckd",
+      "map_bkgImageUrl": "/public/map/CantTakeMyEyes/nx/CantTakeMyEyes_map_bkg.tga.ckd/32695c80765592dc856297f4188d87f4.ckd",
+      "expandCoachImageUrl": "/public/map/CantTakeMyEyes/nx/CantTakeMyEyes_Cover_AlbumCoach.tga.ckd/404949efb9f1ea4f340c59ac5044197b.ckd",
+      "cover_smallImageUrl": "/public/map/CantTakeMyEyes/nx/CantTakeMyEyes_Cover_Online.tga.ckd/c19e6aaff6f246446a48202bbffaae51.ckd",
+      "coach1ImageUrl": "/public/map/CantTakeMyEyes/nx/CantTakeMyEyes_Coach_1.tga.ckd/712d6d954aa74f0238eafba1fc0a525d.ckd",
+      "coach2ImageUrl": "/public/map/CantTakeMyEyes/nx/CantTakeMyEyes_Coach_2.tga.ckd/10abd7c69a853950c007004a7933507a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/CantTakeMyEyes/pc/CantTakeMyEyes_banner_bkg.tga.ckd/1f50ecb4ed7011ee722e9a532ba82db6.ckd",
+      "map_bkgImageUrl": "/public/map/CantTakeMyEyes/pc/CantTakeMyEyes_map_bkg.tga.ckd/e6d7a549e19439a9c676f6f68684c90a.ckd",
+      "expandCoachImageUrl": "/public/map/CantTakeMyEyes/pc/CantTakeMyEyes_Cover_AlbumCoach.tga.ckd/13c0f4a2efc78c299f932ed3f24253de.ckd",
+      "cover_smallImageUrl": "/public/map/CantTakeMyEyes/pc/CantTakeMyEyes_Cover_Online.tga.ckd/1ef94e382a6f9d50870f4c5639871cd7.ckd",
+      "coach1ImageUrl": "/public/map/CantTakeMyEyes/pc/CantTakeMyEyes_Coach_1.tga.ckd/c9caa498559c725a6d88124b472b4435.ckd",
+      "coach2ImageUrl": "/public/map/CantTakeMyEyes/pc/CantTakeMyEyes_Coach_2.tga.ckd/f5c4e73caa27fb2b5b6911a1d500c209.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/CantTakeMyEyes/orbis/CantTakeMyEyes_banner_bkg.tga.ckd/1f50ecb4ed7011ee722e9a532ba82db6.ckd",
+      "map_bkgImageUrl": "/public/map/CantTakeMyEyes/orbis/CantTakeMyEyes_map_bkg.tga.ckd/e6d7a549e19439a9c676f6f68684c90a.ckd",
+      "expandCoachImageUrl": "/public/map/CantTakeMyEyes/orbis/CantTakeMyEyes_Cover_AlbumCoach.tga.ckd/13c0f4a2efc78c299f932ed3f24253de.ckd",
+      "cover_smallImageUrl": "/public/map/CantTakeMyEyes/orbis/CantTakeMyEyes_Cover_Online.tga.ckd/1ef94e382a6f9d50870f4c5639871cd7.ckd",
+      "coach1ImageUrl": "/public/map/CantTakeMyEyes/orbis/CantTakeMyEyes_Coach_1.tga.ckd/c9caa498559c725a6d88124b472b4435.ckd",
+      "coach2ImageUrl": "/public/map/CantTakeMyEyes/orbis/CantTakeMyEyes_Coach_2.tga.ckd/f5c4e73caa27fb2b5b6911a1d500c209.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_1_Phone.png/7f563d84a8a83d28c0556588862b2122.png",
+    "phoneCoach2ImageUrl": "/public/map/CantTakeMyEyes/CantTakeMyEyes_Coach_2_Phone.png/cbade08956e7ee238ca37b017cb276b2.png",
+    "phoneCoverImageUrl": "/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_Phone.jpg/f7fd34fe5a188c5d5a788c0ec44b6173.jpg",
+    "cover640ImageUrl": "/public/map/CantTakeMyEyes/CantTakeMyEyes_Cover_640.png/0daa4a4c9b3ebf58154ca8361ad530a6.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes.ogg": "/private/map/CantTakeMyEyes/CantTakeMyEyes.ogg/2b2a2ed216faa640b2bfacef5fb37e60.ogg",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_AudioPreview.ogg": "/public/map/CantTakeMyEyes/CantTakeMyEyes_AudioPreview.ogg/8fb1d94e6ad74ffa53df3eae183faca3.ogg",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_LOW.vp8.webm/99e8966a631f19e00cdbd8de1ab94bdc.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_HIGH.webm": "/private/map/CantTakeMyEyes/CantTakeMyEyes_HIGH.webm/27e82798a131875e7bd85ee92683aee2.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_LOW.webm": "/private/map/CantTakeMyEyes/CantTakeMyEyes_LOW.webm/d8d6c1b26ca637f4db1ae787afd4ee57.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MID.webm": "/private/map/CantTakeMyEyes/CantTakeMyEyes_MID.webm/feacde297472b842be66cd7f2fb9aad1.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_ULTRA.hd.webm": "/private/map/CantTakeMyEyes/CantTakeMyEyes_ULTRA.hd.webm/69191a6468506d7e74c15e18001764d3.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_ULTRA.webm": "/private/map/CantTakeMyEyes/CantTakeMyEyes_ULTRA.webm/03fe910df287022e4559aea6e9c0385e.webm",
+    "jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_MID.vp8.webm/3e3b1925e57bd0ccdc6e562ed4b4d1de.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"494504\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"641-1130\">\n\t\t\t\t\t<Initialization range=\"0-641\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1448253\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/CantTakeMyEyes/CantTakeMyEyes_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"642-1132\">\n\t\t\t\t\t<Initialization range=\"0-642\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 230.133042
+}

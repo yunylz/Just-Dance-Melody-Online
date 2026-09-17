@@ -1,0 +1,163 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "051cac6e132ae478d6cf388968a3f6f0",
+      "storageType": 0,
+      "url": "/public/map/AllTheGoodGirls/nx/AllTheGoodGirls_MAIN_SCENE_NX.zip/051cac6e132ae478d6cf388968a3f6f0.zip"
+    },
+    "pc": {
+      "md5": "9be7f55f336bcc50614c5830a9c6e89f",
+      "storageType": 0,
+      "url": "/public/map/AllTheGoodGirls/pc/AllTheGoodGirls_MAIN_SCENE_PC.zip/9be7f55f336bcc50614c5830a9c6e89f.zip"
+    },
+    "ps4": {
+      "md5": "df48a75bf6bf2e2060e6f46a93971839",
+      "storageType": 0,
+      "url": "/public/map/AllTheGoodGirls/orbis/AllTheGoodGirls_MAIN_SCENE_ORBIS.zip/df48a75bf6bf2e2060e6f46a93971839.zip"
+    }
+  },
+  "data": {
+    "mapName": "AllTheGoodGirls",
+    "title": "all the good girls go to hell",
+    "originalJDVersion": 2021,
+    "tags": [
+      "Solo",
+      "Medium",
+      "subscribedSong"
+    ],
+    "artist": "Billie Eilish",
+    "credits": "Written by Billie Eilish O'Connell and Finneas O’Connell. Published by Last Frontier (ASCAP). Administered by Kobalt Music Publishing America, Inc. / Universal Music Publishing Canada on behalf of DRUP and Universal Music Corp. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#db1111",
+    "songColor2A": "#a6a6a6",
+    "songColor1B": "#000107",
+    "songColor2B": "#03000d",
+    "lyricsColor": "#38c4fd",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31135,
+        62270,
+        93405,
+        124541,
+        155676,
+        186811,
+        217946,
+        249081,
+        280216,
+        311351,
+        342486,
+        373622,
+        404757,
+        435892,
+        467027,
+        498162,
+        529297,
+        560432,
+        591568,
+        622703,
+        653838,
+        684973,
+        716108,
+        747243,
+        778378,
+        809514,
+        840649,
+        871784,
+        902919,
+        934054,
+        965189,
+        996324,
+        1027459,
+        1058595,
+        1089730,
+        1120865,
+        1152000,
+        1183135,
+        1214270,
+        1245405,
+        1276541,
+        1307676,
+        1338811,
+        1369946,
+        1401081,
+        1432216,
+        1463351,
+        1494486
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 255,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AllTheGoodGirls/nx/AllTheGoodGirls_banner_bkg.tga.ckd/7f51c4383fba052b1a3acc1f1a4ae7ee.ckd",
+      "map_bkgImageUrl": "/public/map/AllTheGoodGirls/nx/AllTheGoodGirls_map_bkg.tga.ckd/156b6aab54d738955499555a907eb69f.ckd",
+      "expandCoachImageUrl": "/public/map/AllTheGoodGirls/nx/AllTheGoodGirls_Cover_AlbumCoach.tga.ckd/ba4f811b5aeca747a1bacd53ed7c2603.ckd",
+      "cover_smallImageUrl": "/public/map/AllTheGoodGirls/nx/AllTheGoodGirls_Cover_Online.tga.ckd/777f077bf7f0dd2f7097f70286aeef7d.ckd",
+      "coverImageUrl": "/public/map/AllTheGoodGirls/nx/AllTheGoodGirls_Cover_Generic.tga.ckd/87d99029208193790063ecf6c15a9c46.ckd",
+      "coach1ImageUrl": "/public/map/AllTheGoodGirls/nx/AllTheGoodGirls_Coach_1.tga.ckd/9a088a458d202bb58ac68f1c7e9b522d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AllTheGoodGirls/pc/AllTheGoodGirls_banner_bkg.tga.ckd/0e3439830c38c67bf8d021964df86ea8.ckd",
+      "map_bkgImageUrl": "/public/map/AllTheGoodGirls/pc/AllTheGoodGirls_map_bkg.tga.ckd/50507f909f0f0ffee139033e9b0ce90b.ckd",
+      "expandCoachImageUrl": "/public/map/AllTheGoodGirls/pc/AllTheGoodGirls_Cover_AlbumCoach.tga.ckd/121f4a3c9838a287baa159eca887f49d.ckd",
+      "cover_smallImageUrl": "/public/map/AllTheGoodGirls/pc/AllTheGoodGirls_Cover_Online.tga.ckd/ed2557e752725b023f5c8dda761dfe25.ckd",
+      "coverImageUrl": "/public/map/AllTheGoodGirls/pc/AllTheGoodGirls_Cover_Generic.tga.ckd/5ea5113bdf3e1c600fff095b45ab6ed4.ckd",
+      "coach1ImageUrl": "/public/map/AllTheGoodGirls/pc/AllTheGoodGirls_Coach_1.tga.ckd/00b5f8cce188b877b297ea6f2390a2b7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AllTheGoodGirls/orbis/AllTheGoodGirls_banner_bkg.tga.ckd/0e3439830c38c67bf8d021964df86ea8.ckd",
+      "map_bkgImageUrl": "/public/map/AllTheGoodGirls/orbis/AllTheGoodGirls_map_bkg.tga.ckd/50507f909f0f0ffee139033e9b0ce90b.ckd",
+      "expandCoachImageUrl": "/public/map/AllTheGoodGirls/orbis/AllTheGoodGirls_Cover_AlbumCoach.tga.ckd/121f4a3c9838a287baa159eca887f49d.ckd",
+      "cover_smallImageUrl": "/public/map/AllTheGoodGirls/orbis/AllTheGoodGirls_Cover_Online.tga.ckd/ed2557e752725b023f5c8dda761dfe25.ckd",
+      "coverImageUrl": "/public/map/AllTheGoodGirls/orbis/AllTheGoodGirls_Cover_Generic.tga.ckd/5ea5113bdf3e1c600fff095b45ab6ed4.ckd",
+      "coach1ImageUrl": "/public/map/AllTheGoodGirls/orbis/AllTheGoodGirls_Coach_1.tga.ckd/00b5f8cce188b877b297ea6f2390a2b7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AllTheGoodGirls/AllTheGoodGirls_Coach_1_Phone.png/1230a8ad40ec9b0473ca0778f6da22a5.png",
+    "phoneCoverImageUrl": "/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_Phone.jpg/4d2fdf68007248fe83e6c3ae4b20d7bf.jpg",
+    "cover640ImageUrl": "/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_640.png/872469d816b62adcbdf4e9eba5d19a62.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls.ogg": "/private/map/AllTheGoodGirls/AllTheGoodGirls.ogg/80d2594dc201eb4ffb404a7ecde87e4b.ogg",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_AudioPreview.ogg": "/public/map/AllTheGoodGirls/AllTheGoodGirls_AudioPreview.ogg/a93dd6958afcbf4947becb71a6b61545.ogg",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm/2bf081b71f9390b283235b11824f765a.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_HIGH.webm": "/private/map/AllTheGoodGirls/AllTheGoodGirls_HIGH.webm/bd47bec4257f59136a49ca743ead28e0.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_LOW.webm": "/private/map/AllTheGoodGirls/AllTheGoodGirls_LOW.webm/2d429a7fff2b0fdfbfdba5ca1c235215.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MID.webm": "/private/map/AllTheGoodGirls/AllTheGoodGirls_MID.webm/537134e87ecfacf84c79b7750cb6a294.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_ULTRA.hd.webm": "/private/map/AllTheGoodGirls/AllTheGoodGirls_ULTRA.hd.webm/c5a7779b7162a078a9c8edca73b086a2.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_ULTRA.webm": "/private/map/AllTheGoodGirls/AllTheGoodGirls_ULTRA.webm/0738ba087167c86ce71ba32450065051.webm",
+    "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm/ff6d5ab603e7bad29e418a561c5d796f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"494835\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"656-1145\">\n\t\t\t\t\t<Initialization range=\"0-656\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1476192\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\n\t\t\t\t\t<Initialization range=\"0-657\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 164.108104
+}

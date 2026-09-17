@@ -1,0 +1,167 @@
+{
+  "urls": {
+    "jmcs://jd-contents/InTheShadows/InTheShadows.ogg": "/private/map/InTheShadows/InTheShadows.ogg/230ff54fcac4dba39464bf2ac9076dfc.ogg",
+    "jmcs://jd-contents/InTheShadows/InTheShadows_AudioPreview.ogg": "/public/map/InTheShadows/InTheShadows_AudioPreview.ogg/c588f2a00a2af3ca497dc71806716aeb.ogg",
+    "jmcs://jd-contents/InTheShadows/InTheShadows_HIGH.hd.webm": "/private/map/InTheShadows/InTheShadows_HIGH.hd.webm/c579f8dfb78d4f79f61d23ecb6015c71.webm",
+    "jmcs://jd-contents/InTheShadows/InTheShadows_LOW.hd.webm": "/private/map/InTheShadows/InTheShadows_LOW.hd.webm/2376efa36843adfdbcbe91eee3b46543.webm",
+    "jmcs://jd-contents/InTheShadows/InTheShadows_MID.hd.webm": "/private/map/InTheShadows/InTheShadows_MID.hd.webm/237291edcb0b2a8a73d69145acc3dfca.webm",
+    "jmcs://jd-contents/InTheShadows/InTheShadows_ULTRA.hd.webm": "/private/map/InTheShadows/InTheShadows_ULTRA.hd.webm/6ae286a2d6fdbaaa38cfddb5a9533a3c.webm",
+    "jmcs://jd-contents/InTheShadows/InTheShadows_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/InTheShadows/InTheShadows_MapPreviewNoSoundCrop_LOW.vp8.webm/386731abd0bc250f8e22d0b257bef8d4.webm",
+    "jmcs://jd-contents/InTheShadows/InTheShadows_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/InTheShadows/InTheShadows_MapPreviewNoSoundCrop_MID.vp8.webm/36c445917089f2d6f389743f19d23751.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27170,
+        54340,
+        81509,
+        108679,
+        135849,
+        163019,
+        190189,
+        217358,
+        244528,
+        271698,
+        298868,
+        326038,
+        353208,
+        380377,
+        407547,
+        434717,
+        461887,
+        489057,
+        516226,
+        543396,
+        570566,
+        597736,
+        624906,
+        652075,
+        679245,
+        706415,
+        733585,
+        760755,
+        787925,
+        815094,
+        842264,
+        869434,
+        896604,
+        923774,
+        950943,
+        978113,
+        1005283,
+        1032453,
+        1059623,
+        1086792,
+        1113962,
+        1141132,
+        1168302,
+        1195472,
+        1222642,
+        1249811,
+        1276981,
+        1304151,
+        1331321,
+        1358491,
+        1385660,
+        1412830,
+        1440000,
+        1467170,
+        1494340
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -12,
+      "endBeat": 423,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/InTheShadows/InTheShadows_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"538842\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/InTheShadows/InTheShadows_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1981360\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/InTheShadows/InTheShadows_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "989855ca2888f63de044439413902321",
+      "storageType": 0,
+      "url": "/public/map/InTheShadows/nx/InTheShadows_MAIN_SCENE_NX.zip/989855ca2888f63de044439413902321.zip"
+    },
+    "pc": {
+      "md5": "b2cb25e3390f3c3be3d70435bc784950",
+      "storageType": 0,
+      "url": "/public/map/InTheShadows/pc/InTheShadows_MAIN_SCENE_PC.zip/b2cb25e3390f3c3be3d70435bc784950.zip"
+    },
+    "ps4": {
+      "md5": "f6f42fef4c4e1598ce3b313a244d16c8",
+      "storageType": 0,
+      "url": "/public/map/InTheShadows/orbis/InTheShadows_MAIN_SCENE_ORBIS.zip/f6f42fef4c4e1598ce3b313a244d16c8.zip"
+    }
+  },
+  "data": {
+    "mapName": "InTheShadows",
+    "title": "In the Shadows",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Rasmus",
+    "credits": "Written by Aki-Markus Juhani Hakala, Eero Aleksi Heinonen, Pauli Rantasalmi, Lauri Johannes Ylönen. Published by Boneless-Skeletor Oy, Grotto Entertainment Oy. Courtesy of Playground Music Scandinavia AB.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#90f4fd",
+    "songColor2A": "#1295e0",
+    "songColor1B": "#0a545b",
+    "songColor2B": "#052560",
+    "lyricsColor": "#ff8522",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/InTheShadows/nx/InTheShadows_banner_bkg.tga.ckd/017acdd97f1b38b2057a2cb6af354218.ckd",
+      "map_bkgImageUrl": "/public/map/InTheShadows/nx/InTheShadows_map_bkg.tga.ckd/91bb5617c44cd180debe61a74fbaf9e7.ckd",
+      "expandCoachImageUrl": "/public/map/InTheShadows/nx/InTheShadows_Cover_AlbumCoach.tga.ckd/423ab99fe19dddb4773b6ff181c80363.ckd",
+      "cover_smallImageUrl": "/public/map/InTheShadows/nx/InTheShadows_Cover_Online.tga.ckd/0c924e099b9d26b013421764efe1fab4.ckd",
+      "coverImageUrl": "/public/map/InTheShadows/nx/InTheShadows_Cover_Generic.tga.ckd/960adc93b46709c5e78c7a89e4234074.ckd",
+      "coach1ImageUrl": "/public/map/InTheShadows/nx/InTheShadows_Coach_1.tga.ckd/0e664ca08200da65ff290a3213af2ed9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/InTheShadows/pc/InTheShadows_banner_bkg.tga.ckd/20eeda008fcd20596aeb460913544e03.ckd",
+      "map_bkgImageUrl": "/public/map/InTheShadows/pc/InTheShadows_map_bkg.tga.ckd/cc45b7514fd543fcd73b5e29b474a546.ckd",
+      "expandCoachImageUrl": "/public/map/InTheShadows/pc/InTheShadows_Cover_AlbumCoach.tga.ckd/02c4aade41deb5f084d036db8b7be945.ckd",
+      "cover_smallImageUrl": "/public/map/InTheShadows/pc/InTheShadows_Cover_Online.tga.ckd/286959c196d3ff8e668fadaf209941a1.ckd",
+      "coverImageUrl": "/public/map/InTheShadows/pc/InTheShadows_Cover_Generic.tga.ckd/faebe1d456c24a9c857abb6b2a025d88.ckd",
+      "coach1ImageUrl": "/public/map/InTheShadows/pc/InTheShadows_Coach_1.tga.ckd/d6c1b56b4428a3e2cd54b98e58d6e11e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/InTheShadows/orbis/InTheShadows_banner_bkg.tga.ckd/20eeda008fcd20596aeb460913544e03.ckd",
+      "map_bkgImageUrl": "/public/map/InTheShadows/orbis/InTheShadows_map_bkg.tga.ckd/cc45b7514fd543fcd73b5e29b474a546.ckd",
+      "expandCoachImageUrl": "/public/map/InTheShadows/orbis/InTheShadows_Cover_AlbumCoach.tga.ckd/02c4aade41deb5f084d036db8b7be945.ckd",
+      "cover_smallImageUrl": "/public/map/InTheShadows/orbis/InTheShadows_Cover_Online.tga.ckd/286959c196d3ff8e668fadaf209941a1.ckd",
+      "coverImageUrl": "/public/map/InTheShadows/orbis/InTheShadows_Cover_Generic.tga.ckd/faebe1d456c24a9c857abb6b2a025d88.ckd",
+      "coach1ImageUrl": "/public/map/InTheShadows/orbis/InTheShadows_Coach_1.tga.ckd/d6c1b56b4428a3e2cd54b98e58d6e11e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/InTheShadows/InTheShadows_Coach_1_Phone.png/f961c6cc12faafb9f6c7a3a32dd004c4.png",
+    "phoneCoverImageUrl": "/public/map/InTheShadows/InTheShadows_Cover_Phone.jpg/6b4e1acb6bbaf4cfe18b6f7609926d9e.jpg",
+    "cover640ImageUrl": "/public/map/InTheShadows/InTheShadows_Cover_640.png/815457e523684d6187288ae15f684f96.png"
+  },
+  "mapLength": 246.226396
+}

@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/UptownFunkMU/UptownFunkMU_HIGH.hd.webm": "/private/map/UptownFunkMU/UptownFunkMU_HIGH.hd.webm/a5aa8585f1993b52f55593a762d4ec35.webm",
+    "jmcs://jd-contents/UptownFunkMU/UptownFunkMU_LOW.hd.webm": "/private/map/UptownFunkMU/UptownFunkMU_LOW.hd.webm/e773006235661bac51022538f803ee26.webm",
+    "jmcs://jd-contents/UptownFunkMU/UptownFunkMU_MID.hd.webm": "/private/map/UptownFunkMU/UptownFunkMU_MID.hd.webm/18ec7aec3dcd764f8992cdb1b460e2e7.webm",
+    "jmcs://jd-contents/UptownFunkMU/UptownFunkMU_ULTRA.hd.webm": "/private/map/UptownFunkMU/UptownFunkMU_ULTRA.hd.webm/25ef1f87ca516854c9e4fa62a0f3c760.webm",
+    "jmcs://jd-contents/UptownFunkMU/UptownFunkMU.ogg": "/private/map/UptownFunkMU/UptownFunkMU.ogg/6db997b024bfa293998563b1b2359d02.ogg",
+    "jmcs://jd-contents/UptownFunkMU/UptownFunkMU_AudioPreview.ogg": "/public/map/UptownFunkMU/UptownFunkMU_AudioPreview.ogg/4689266ecff900146b1ae9dc4a5eef9f.ogg",
+    "jmcs://jd-contents/UptownFunkMU/UptownFunkMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/UptownFunkMU/UptownFunkMU_MapPreviewNoSoundCrop_LOW.vp8.webm/a08d029b22a4dcdcbf3dd857c5dc1965.webm",
+    "jmcs://jd-contents/UptownFunkMU/UptownFunkMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/UptownFunkMU/UptownFunkMU_MapPreviewNoSoundCrop_MID.vp8.webm/74a4700ff5b187effc6c72957410e1c8.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25056,
+        50064,
+        75120,
+        100176,
+        125232,
+        150240,
+        175296,
+        200352,
+        225408,
+        250416,
+        275472,
+        300528,
+        325584,
+        350592,
+        375648,
+        400704,
+        425760,
+        450768,
+        475824,
+        500880,
+        525936,
+        550944,
+        576000,
+        601056,
+        626064,
+        651120,
+        676176,
+        701232,
+        726240,
+        751296,
+        776353,
+        801409,
+        826417,
+        851473,
+        876529,
+        901585,
+        926593,
+        951649,
+        976705,
+        1001761,
+        1026769,
+        1051825,
+        1076881,
+        1101937,
+        1126945,
+        1152001,
+        1177057,
+        1202065,
+        1227121,
+        1252177,
+        1277233,
+        1302241,
+        1327297,
+        1352353,
+        1377409,
+        1402417,
+        1427473,
+        1452529,
+        1477585
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 452,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/UptownFunkMU/UptownFunkMU_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"628555\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/UptownFunkMU/UptownFunkMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1986553\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/UptownFunkMU/UptownFunkMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "42cf6c68f929513ecf874a8fe2a03822",
+      "storageType": 0,
+      "url": "/public/map/UptownFunkMU/nx/UptownFunkMU_MAIN_SCENE_NX.zip/42cf6c68f929513ecf874a8fe2a03822.zip"
+    },
+    "pc": {
+      "md5": "3b68b9a96d8f1d9f6c51a82d0bc20285",
+      "storageType": 0,
+      "url": "/public/map/UptownFunkMU/pc/UptownFunkMU_MAIN_SCENE_PC.zip/3b68b9a96d8f1d9f6c51a82d0bc20285.zip"
+    },
+    "ps4": {
+      "md5": "7d5e20ed5d07f12df49261d20b2ea60e",
+      "storageType": 0,
+      "url": "/public/map/UptownFunkMU/orbis/UptownFunkMU_MAIN_SCENE_ORBIS.zip/7d5e20ed5d07f12df49261d20b2ea60e.zip"
+    }
+  },
+  "data": {
+    "mapName": "UptownFunkMU",
+    "title": "Uptown Funk",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "Mark Ronson Ft. Bruno Mars",
+    "credits": "Written by Philip Martin II Lawrence (ASCAP), Jeffrey Bhasker (BMI), Devon Christopher Gallaspy (BMI), Peter Gene Hernandez (ASCAP), Mark Ronson (BMI), Lonnie Simmons (BMI), Rudolph Taylor (BMI), Nicholaus Joseph Williams (BMI), Robert Lynn Wilson (BMI), Charles K. Wilson-(BMI), Ronnie Wilson (BMI). Published by Universal Music Publishing, a division of Universal Music Canada Inc. (SOCAN) / Published by Songs of Zelig (administered by Songs of Imagem Music) BMI / © WB Music Corp. (ASCAP) and Thou Art The Hunger (ASCAP).  All rights on behalf of itself and Thou Art The Hunger. Administered by WB Music Corp. / Sony/ATV Music Publishing Canada (SOCAN) obo itself and Way Above Music (BMI). / Trinlanta Publishing (BMI) / TIG7 Publishing, LLC (BMI) / Taking Care of Business Music, Inc (BMI) for the United States / New Songs Administration Ltd. For the World / BMG Gold Songs (ASCAP)/Mars Force Music (ASCAP). All rights reserved.  Used with permission. Courtesy of Atlantic Recording Corp.  By arrangement with Warner Music Group Video Games Licensing. / Courtesy of Epic Records by arrangement with Sony Music Licensing.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#6b0e80",
+    "songColor2A": "#eee321",
+    "songColor1B": "#040011",
+    "songColor2B": "#b19700",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/UptownFunkMU/nx/UptownFunkMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/UptownFunkMU/nx/UptownFunkMU_map_bkg.tga.ckd/62caa21a1fb208e135ea5fd83d3705ba.ckd",
+      "expandCoachImageUrl": "/public/map/UptownFunkMU/nx/UptownFunkMU_Cover_AlbumCoach.tga.ckd/ff17efc1c018d8c30d21d525df23602d.ckd",
+      "cover_smallImageUrl": "/public/map/UptownFunkMU/nx/UptownFunkMU_Cover_Online.tga.ckd/5094287b142afa55e04a7c16b9093289.ckd",
+      "coverImageUrl": "/public/map/UptownFunkMU/nx/UptownFunkMU_Cover_Generic.tga.ckd/8c5b98f71f0e2c7de584e8d020db6852.ckd",
+      "coach1ImageUrl": "/public/map/UptownFunkMU/nx/UptownFunkMU_Coach_1.tga.ckd/316bc888978f5a218fed9bedc4041d13.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/UptownFunkMU/pc/UptownFunkMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/UptownFunkMU/pc/UptownFunkMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/UptownFunkMU/pc/UptownFunkMU_Cover_AlbumCoach.tga.ckd/511bd9ba445a8ded0d5b47e8db64ce71.ckd",
+      "cover_smallImageUrl": "/public/map/UptownFunkMU/pc/UptownFunkMU_Cover_Online.tga.ckd/afa6714e6c35ca0f53275626fccb3db1.ckd",
+      "coverImageUrl": "/public/map/UptownFunkMU/pc/UptownFunkMU_Cover_Generic.tga.ckd/ce6025d20251ef30ddab49e4faa13324.ckd",
+      "coach1ImageUrl": "/public/map/UptownFunkMU/pc/UptownFunkMU_Coach_1.tga.ckd/248a60ebc58b066f03d5a6385cdba981.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/UptownFunkMU/orbis/UptownFunkMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/UptownFunkMU/orbis/UptownFunkMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/UptownFunkMU/orbis/UptownFunkMU_Cover_AlbumCoach.tga.ckd/511bd9ba445a8ded0d5b47e8db64ce71.ckd",
+      "cover_smallImageUrl": "/public/map/UptownFunkMU/orbis/UptownFunkMU_Cover_Online.tga.ckd/afa6714e6c35ca0f53275626fccb3db1.ckd",
+      "coverImageUrl": "/public/map/UptownFunkMU/orbis/UptownFunkMU_Cover_Generic.tga.ckd/ce6025d20251ef30ddab49e4faa13324.ckd",
+      "coach1ImageUrl": "/public/map/UptownFunkMU/orbis/UptownFunkMU_Coach_1.tga.ckd/248a60ebc58b066f03d5a6385cdba981.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/UptownFunkMU/UptownFunkMU_Coach_1_Phone.png/26577fb2135260b20bb9d044e3d44a64.png",
+    "phoneCoverImageUrl": "/public/map/UptownFunkMU/UptownFunkMU_Cover_Phone.jpg/8c601b913f5e1091a5bd5c2a879250d6.jpg",
+    "cover640ImageUrl": "/public/map/UptownFunkMU/UptownFunkMU_Cover_640.png/35388246d07eeaddd191b1aa61dff772.png"
+  },
+  "mapLength": 238.956313
+}

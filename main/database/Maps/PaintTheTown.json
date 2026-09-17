@@ -1,0 +1,163 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e2cbafb98908b9b39f07a9590ef73090",
+      "storageType": 0,
+      "url": "/public/map/PaintTheTown/nx/PaintTheTown_MAIN_SCENE_NX.zip/e2cbafb98908b9b39f07a9590ef73090.zip"
+    },
+    "pc": {
+      "md5": "6a9c7f173702e80db268d669995b78f6",
+      "storageType": 0,
+      "url": "/public/map/PaintTheTown/pc/PaintTheTown_MAIN_SCENE_PC.zip/6a9c7f173702e80db268d669995b78f6.zip"
+    },
+    "ps4": {
+      "md5": "28ffbf4177619eb9f4e5137d1ea24a6f",
+      "storageType": 0,
+      "url": "/public/map/PaintTheTown/orbis/PaintTheTown_MAIN_SCENE_ORBIS.zip/28ffbf4177619eb9f4e5137d1ea24a6f.zip"
+    }
+  },
+  "data": {
+    "mapName": "PaintTheTown",
+    "title": "Paint The Town Red",
+    "originalJDVersion": 2025,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Doja Cat",
+    "credits": "Written by Burt F. Bacharach, Karl Brutus, Ryan Buendia, Isaac Earl Bynum, Hal David, Amala Dlamini, Jean Baptiste Kouame. Published by Universal Music Publishing Canada on behalf of PW Arrangements, Pearllproductions Publishing, Universal Music Corp., Songs Of Universal, Inc. and New Hidden Valley Music Co. / BMG Gold Songs obo itself and Songs Of Fujimusic / Where Da Kasz At, Doja Cat Music, Nibur Music Publishing, Lord Pharaoh JB Music, Ryan Buendia Music. Administered by Songs of Kobalt Music Publishing, Kobalt Songs Music Publishing. Courtesy of Kemosabe Records, RCA Records. By arrangement with Sony Music Entertainment / Rhino Entertainment Company. By arrangement with Warner Music Group Video Game Licensing.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f8d496",
+    "songColor2A": "#d9fea3",
+    "songColor1B": "#1c362b",
+    "songColor2B": "#587881",
+    "lyricsColor": "#708afb"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 396,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PaintTheTown/PaintTheTown_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PaintTheTown/nx/PaintTheTown_banner_bkg.tga.ckd/58bbfbc21a736b445a14d93980dec141.ckd",
+      "map_bkgImageUrl": "/public/map/PaintTheTown/nx/PaintTheTown_map_bkg.tga.ckd/dcd09044e11ae86acbdf29f899a5322c.ckd",
+      "expandCoachImageUrl": "/public/map/PaintTheTown/nx/PaintTheTown_Cover_AlbumCoach.tga.ckd/1a2e60ff69803ebe53b76c9a77087860.ckd",
+      "cover_smallImageUrl": "/public/map/PaintTheTown/nx/PaintTheTown_Cover_Online.tga.ckd/505f74029789d3d67e2e3ac6f2f5eee9.ckd",
+      "coach1ImageUrl": "/public/map/PaintTheTown/nx/PaintTheTown_Coach_1.tga.ckd/89253bb9ee1781a53aa669c8a4b5a9b2.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PaintTheTown/pc/PaintTheTown_banner_bkg.tga.ckd/d9ba02eddbbefb9277baa87259a0f6fd.ckd",
+      "map_bkgImageUrl": "/public/map/PaintTheTown/pc/PaintTheTown_map_bkg.tga.ckd/6ca42dc84ee796bdfeb14a4ed33527f0.ckd",
+      "expandCoachImageUrl": "/public/map/PaintTheTown/pc/PaintTheTown_Cover_AlbumCoach.tga.ckd/876b7803b1c0e1d633083776941cebfc.ckd",
+      "cover_smallImageUrl": "/public/map/PaintTheTown/pc/PaintTheTown_Cover_Online.tga.ckd/425c1efb6efc9f55f3314035afaf7648.ckd",
+      "coach1ImageUrl": "/public/map/PaintTheTown/pc/PaintTheTown_Coach_1.tga.ckd/421769cd20d8facddfc8df16f94cd056.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PaintTheTown/orbis/PaintTheTown_banner_bkg.tga.ckd/d9ba02eddbbefb9277baa87259a0f6fd.ckd",
+      "map_bkgImageUrl": "/public/map/PaintTheTown/orbis/PaintTheTown_map_bkg.tga.ckd/6ca42dc84ee796bdfeb14a4ed33527f0.ckd",
+      "expandCoachImageUrl": "/public/map/PaintTheTown/orbis/PaintTheTown_Cover_AlbumCoach.tga.ckd/876b7803b1c0e1d633083776941cebfc.ckd",
+      "cover_smallImageUrl": "/public/map/PaintTheTown/orbis/PaintTheTown_Cover_Online.tga.ckd/425c1efb6efc9f55f3314035afaf7648.ckd",
+      "coach1ImageUrl": "/public/map/PaintTheTown/orbis/PaintTheTown_Coach_1.tga.ckd/421769cd20d8facddfc8df16f94cd056.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PaintTheTown/PaintTheTown_Coach_1_Phone.png/3c46da1033f2551b9dee5fc9fe1dbc18.png",
+    "phoneCoverImageUrl": "/public/map/PaintTheTown/PaintTheTown_Cover_Phone.jpg/1818003a26e71fbc9e17b5bda053dd2d.jpg",
+    "cover640ImageUrl": "/public/map/PaintTheTown/PaintTheTown_Cover_640.png/3b04664fe41ae53f194d90f3617c3480.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/PaintTheTown/PaintTheTown.ogg": "/private/map/PaintTheTown/PaintTheTown.ogg/21e5ba80eb31941515aed5d5a88bd677.ogg",
+    "jmcs://jd-contents/PaintTheTown/PaintTheTown_AudioPreview.ogg": "/public/map/PaintTheTown/PaintTheTown_AudioPreview.ogg/5af00fbc9a23469aee743751be2d00f4.ogg",
+    "jmcs://jd-contents/PaintTheTown/PaintTheTown_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PaintTheTown/PaintTheTown_MapPreviewNoSoundCrop_LOW.vp8.webm/4c6139d12d171ca495fe565574dac96e.webm",
+    "jmcs://jd-contents/PaintTheTown/PaintTheTown_HIGH.webm": "/private/map/PaintTheTown/PaintTheTown_HIGH.webm/ef3965686077d5ce30ccd700c6a7a2bd.webm",
+    "jmcs://jd-contents/PaintTheTown/PaintTheTown_LOW.webm": "/private/map/PaintTheTown/PaintTheTown_LOW.webm/ea40623e62e1280b3252486c306815e1.webm",
+    "jmcs://jd-contents/PaintTheTown/PaintTheTown_MID.webm": "/private/map/PaintTheTown/PaintTheTown_MID.webm/f53e73860aba4c8524248de04d7244e7.webm",
+    "jmcs://jd-contents/PaintTheTown/PaintTheTown_ULTRA.hd.webm": "/private/map/PaintTheTown/PaintTheTown_ULTRA.hd.webm/465c73a92ccd48a6e8dea38f79b3630c.webm",
+    "jmcs://jd-contents/PaintTheTown/PaintTheTown_ULTRA.webm": "/private/map/PaintTheTown/PaintTheTown_ULTRA.webm/f03f519bfc4ba16be9014a76fab629bb.webm",
+    "jmcs://jd-contents/PaintTheTown/PaintTheTown_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PaintTheTown/PaintTheTown_MapPreviewNoSoundCrop_MID.vp8.webm/533c93c5d086a4699589035e5270bb62.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"513246\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PaintTheTown/PaintTheTown_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\n\t\t\t\t\t<Initialization range=\"0-639\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1527688\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PaintTheTown/PaintTheTown_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\n\t\t\t\t\t<Initialization range=\"0-640\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 240.00425
+}

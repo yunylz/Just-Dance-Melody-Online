@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "192d7334ce5e6e3ff3567389dc04715b",
+      "storageType": 0,
+      "url": "/public/map/Maneater/nx/Maneater_MAIN_SCENE_NX.zip/192d7334ce5e6e3ff3567389dc04715b.zip"
+    },
+    "pc": {
+      "md5": "570cdea0db7b2cadfb6bf0af8d95ddc8",
+      "storageType": 0,
+      "url": "/public/map/Maneater/pc/Maneater_MAIN_SCENE_PC.zip/570cdea0db7b2cadfb6bf0af8d95ddc8.zip"
+    },
+    "ps4": {
+      "md5": "8635b2a3d73388ce907a01154a393fd7",
+      "storageType": 0,
+      "url": "/public/map/Maneater/orbis/Maneater_MAIN_SCENE_ORBIS.zip/8635b2a3d73388ce907a01154a393fd7.zip"
+    }
+  },
+  "data": {
+    "mapName": "Maneater",
+    "title": "Maneater",
+    "originalJDVersion": 4,
+    "tags": [
+      "Main",
+      "jdplus",
+      "subscribedSong",
+      "JustDance4",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Nelly Furtado",
+    "credits": "Written by Tim Mosley, Nate Hills, Nelly Furtado and James Washington. Published by WB Music Corp. (ASCAP), Virginia Beach Music (ASCAP), W.B.M. Music Corp. (SESAC), Danjahandz Muzik (SESAC). All rights on behalf of itself and Virginia Beach Music administered by WB Music Corp. All rights on behalf of itself and Danjahandz Muzik administered by W.B.M. Music Corp./ Nelstar Publishing (SOCAN)/ Sony/ATV Tunes LLC (ASCAP)/ Sony/ATV Music Publishing Canada (SOCAN)/ Millenium Kid Music Publishing (ASCAP). All rights administered by BMG Rights Management (US) LLC. All rights reserved. Courtesy of Geffen Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#8f0020",
+    "songColor2A": "#be0e47",
+    "songColor1B": "#25002d",
+    "songColor2B": "#360030",
+    "lyricsColor": "#832946",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22759,
+        45518,
+        68277,
+        91036,
+        113795,
+        136554,
+        159313,
+        182072,
+        204831,
+        227590,
+        250349,
+        273108,
+        295867,
+        318626,
+        341385,
+        364144,
+        386912,
+        408598,
+        430284,
+        451970,
+        473656,
+        495342,
+        517028,
+        538714,
+        560400,
+        582086,
+        603772,
+        625458,
+        647144,
+        668830,
+        690516,
+        712202,
+        733888,
+        755574,
+        777260,
+        798946,
+        820632,
+        842318,
+        864004,
+        885690,
+        907376,
+        929062,
+        950748,
+        972434,
+        994120,
+        1015806,
+        1037492,
+        1059178,
+        1080864,
+        1102550,
+        1124236,
+        1145922,
+        1167608,
+        1189294,
+        1210980,
+        1232666,
+        1254352,
+        1276038,
+        1297724,
+        1319410,
+        1341096,
+        1362782,
+        1384468,
+        1406154,
+        1427840,
+        1449526,
+        1471212,
+        1492898
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 523,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Maneater/Maneater_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Maneater/nx/Maneater_banner_bkg.tga.ckd/519126dbc2942b0eeb2a75cc3db2768a.ckd",
+      "map_bkgImageUrl": "/public/map/Maneater/nx/Maneater_map_bkg.tga.ckd/f4132463a4819daee894a7e260d49c4b.ckd",
+      "expandCoachImageUrl": "/public/map/Maneater/nx/Maneater_Cover_AlbumCoach.tga.ckd/c03686db32e4fef8fde091b3e2797bec.ckd",
+      "cover_smallImageUrl": "/public/map/Maneater/nx/Maneater_Cover_Online.tga.ckd/8d0b9e85b10f8fec49165e6a82f93514.ckd",
+      "coach1ImageUrl": "/public/map/Maneater/nx/Maneater_Coach_1.tga.ckd/09196342b32393c59e00ff4080b7f118.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Maneater/pc/Maneater_banner_bkg.tga.ckd/ba2d34976401d2de73686a7b361d9d5d.ckd",
+      "map_bkgImageUrl": "/public/map/Maneater/pc/Maneater_map_bkg.tga.ckd/82782d99ede10cc47092c98c7a91e358.ckd",
+      "expandCoachImageUrl": "/public/map/Maneater/pc/Maneater_Cover_AlbumCoach.tga.ckd/1e6923cc461e62e41abb41e1a76466dd.ckd",
+      "cover_smallImageUrl": "/public/map/Maneater/pc/Maneater_Cover_Online.tga.ckd/dca7d6cb94efa2e8c62987a1d043914a.ckd",
+      "coach1ImageUrl": "/public/map/Maneater/pc/Maneater_Coach_1.tga.ckd/0a0a48009cb524d3f4d2c7dab6370e30.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Maneater/orbis/Maneater_banner_bkg.tga.ckd/ba2d34976401d2de73686a7b361d9d5d.ckd",
+      "map_bkgImageUrl": "/public/map/Maneater/orbis/Maneater_map_bkg.tga.ckd/82782d99ede10cc47092c98c7a91e358.ckd",
+      "expandCoachImageUrl": "/public/map/Maneater/orbis/Maneater_Cover_AlbumCoach.tga.ckd/1e6923cc461e62e41abb41e1a76466dd.ckd",
+      "cover_smallImageUrl": "/public/map/Maneater/orbis/Maneater_Cover_Online.tga.ckd/dca7d6cb94efa2e8c62987a1d043914a.ckd",
+      "coach1ImageUrl": "/public/map/Maneater/orbis/Maneater_Coach_1.tga.ckd/0a0a48009cb524d3f4d2c7dab6370e30.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Maneater/Maneater_Coach_1_Phone.png/2c84cd0e6ea70f1886629f8bfa03270b.png",
+    "phoneCoverImageUrl": "/public/map/Maneater/Maneater_Cover_Phone.jpg/6814b8fbd3e9aa3eb75b2fa685eab4c9.jpg",
+    "cover640ImageUrl": "/public/map/Maneater/Maneater_Cover_640.png/27706a13ad313112db079ef23da8ff65.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Maneater/Maneater.ogg": "/private/map/Maneater/Maneater.ogg/7145a04de35e519dfab23935708770c0.ogg",
+    "jmcs://jd-contents/Maneater/Maneater_AudioPreview.ogg": "/public/map/Maneater/Maneater_AudioPreview.ogg/a587f56139f730843612760bceb1b9c2.ogg",
+    "jmcs://jd-contents/Maneater/Maneater_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Maneater/Maneater_MapPreviewNoSoundCrop_LOW.vp8.webm/e0cfe2e6eb8af66d76e58471cee56116.webm",
+    "jmcs://jd-contents/Maneater/Maneater_HIGH.webm": "/private/map/Maneater/Maneater_HIGH.webm/949fa0ba9ca52a8e3d2b68e18ded510b.webm",
+    "jmcs://jd-contents/Maneater/Maneater_LOW.webm": "/private/map/Maneater/Maneater_LOW.webm/b4d4c4709349c1908e6da75d71565194.webm",
+    "jmcs://jd-contents/Maneater/Maneater_MID.webm": "/private/map/Maneater/Maneater_MID.webm/63fb8193cec6024c9ee656427f5dadf4.webm",
+    "jmcs://jd-contents/Maneater/Maneater_ULTRA.hd.webm": "/private/map/Maneater/Maneater_ULTRA.hd.webm/95fb95e7de3f29425dc317a707e1a8c8.webm",
+    "jmcs://jd-contents/Maneater/Maneater_ULTRA.webm": "/private/map/Maneater/Maneater_ULTRA.webm/92b1fc4a3763736893c66e63319f7d1f.webm",
+    "jmcs://jd-contents/Maneater/Maneater_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Maneater/Maneater_MapPreviewNoSoundCrop_MID.vp8.webm/c7ee22692882653d88996481198c5b08.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495378\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Maneater/Maneater_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1121\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1277221\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Maneater/Maneater_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 237.06975
+}

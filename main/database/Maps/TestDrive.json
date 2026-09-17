@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e506f33f808ca3607a007937c765ac79",
+      "storageType": 0,
+      "url": "/public/map/TestDrive/nx/TestDrive_MAIN_SCENE_NX.zip/e506f33f808ca3607a007937c765ac79.zip"
+    },
+    "pc": {
+      "md5": "d11867c7a36ca427c9351cc71de990be",
+      "storageType": 0,
+      "url": "/public/map/TestDrive/pc/TestDrive_MAIN_SCENE_PC.zip/d11867c7a36ca427c9351cc71de990be.zip"
+    },
+    "ps4": {
+      "md5": "fac8351d82d0598e346ecb1a54f12a86",
+      "storageType": 0,
+      "url": "/public/map/TestDrive/orbis/TestDrive_MAIN_SCENE_ORBIS.zip/fac8351d82d0598e346ecb1a54f12a86.zip"
+    }
+  },
+  "data": {
+    "mapName": "TestDrive",
+    "title": "test drive",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Ariana Grande",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ffc72e"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25043,
+        50087,
+        75130,
+        100174,
+        125217,
+        150261,
+        175304,
+        200348,
+        225391,
+        250435,
+        275478,
+        300522,
+        325565,
+        350609,
+        375652,
+        400696,
+        425739,
+        450783,
+        475826,
+        500870,
+        525913,
+        550957,
+        576000,
+        601043,
+        626087,
+        651130,
+        676174,
+        701217,
+        726261,
+        751304,
+        776348,
+        801391,
+        826435,
+        851478,
+        876522,
+        901565,
+        926609,
+        951652,
+        976696,
+        1001739,
+        1026783,
+        1051826,
+        1076870,
+        1101913,
+        1126957,
+        1152000,
+        1177044,
+        1202087,
+        1227130,
+        1252174,
+        1277217,
+        1302261,
+        1327304,
+        1352348,
+        1377391,
+        1402435,
+        1427478,
+        1452522,
+        1477565
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 216,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TestDrive/TestDrive_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TestDrive/nx/TestDrive_banner_bkg.tga.ckd/0c964cb784cde125e6ef31c1e6bb3336.ckd",
+      "map_bkgImageUrl": "/public/map/TestDrive/nx/TestDrive_map_bkg.tga.ckd/d03ed3252c8b84a7a1fa77fcea0e81a3.ckd",
+      "expandCoachImageUrl": "/public/map/TestDrive/nx/TestDrive_Cover_AlbumCoach.tga.ckd/68df5f53a520b5f672d0083b30b2364c.ckd",
+      "cover_smallImageUrl": "/public/map/TestDrive/nx/TestDrive_Cover_Online.tga.ckd/395398f71e4bef56bf8fa52a5bde4794.ckd",
+      "coach1ImageUrl": "/public/map/TestDrive/nx/TestDrive_Coach_1.tga.ckd/59306e125dce2eef4011993c7e5f35de.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TestDrive/pc/TestDrive_banner_bkg.tga.ckd/7a0ab440bd156ee6b9f0c5baf5f66bf2.ckd",
+      "map_bkgImageUrl": "/public/map/TestDrive/pc/TestDrive_map_bkg.tga.ckd/5e7457e0ce1f9920005e9595f6ab0f5c.ckd",
+      "expandCoachImageUrl": "/public/map/TestDrive/pc/TestDrive_Cover_AlbumCoach.tga.ckd/50dfcb9e777675157c9f3fe10e074b47.ckd",
+      "cover_smallImageUrl": "/public/map/TestDrive/pc/TestDrive_Cover_Online.tga.ckd/d0fb9e3b5ff12126c1aca9d7ebec09eb.ckd",
+      "coach1ImageUrl": "/public/map/TestDrive/pc/TestDrive_Coach_1.tga.ckd/8e5ed9750093df2cd50708b62c71859e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TestDrive/orbis/TestDrive_banner_bkg.tga.ckd/7a0ab440bd156ee6b9f0c5baf5f66bf2.ckd",
+      "map_bkgImageUrl": "/public/map/TestDrive/orbis/TestDrive_map_bkg.tga.ckd/5e7457e0ce1f9920005e9595f6ab0f5c.ckd",
+      "expandCoachImageUrl": "/public/map/TestDrive/orbis/TestDrive_Cover_AlbumCoach.tga.ckd/50dfcb9e777675157c9f3fe10e074b47.ckd",
+      "cover_smallImageUrl": "/public/map/TestDrive/orbis/TestDrive_Cover_Online.tga.ckd/d0fb9e3b5ff12126c1aca9d7ebec09eb.ckd",
+      "coach1ImageUrl": "/public/map/TestDrive/orbis/TestDrive_Coach_1.tga.ckd/8e5ed9750093df2cd50708b62c71859e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TestDrive/TestDrive_Coach_1_Phone.png/9934357815331aca9bb0709f01d2d728.png",
+    "phoneCoverImageUrl": "/public/map/TestDrive/TestDrive_Cover_Phone.jpg/2079faab593027467636ffcb0ef524bf.jpg",
+    "cover640ImageUrl": "/public/map/TestDrive/TestDrive_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/TestDrive/TestDrive.ogg": "/private/map/TestDrive/TestDrive.ogg/6484f242dcb9adfb244e4c0d621072e2.ogg",
+    "jmcs://jd-contents/TestDrive/TestDrive_AudioPreview.ogg": "/public/map/TestDrive/TestDrive_AudioPreview.ogg/4a0acf75a7aa498d28e735274705367e.ogg",
+    "jmcs://jd-contents/TestDrive/TestDrive_HIGH.webm": "/private/map/TestDrive/TestDrive_HIGH.webm/2a1627f10becfed88724ad6a8b72435f.webm",
+    "jmcs://jd-contents/TestDrive/TestDrive_LOW.webm": "/private/map/TestDrive/TestDrive_LOW.webm/5e5a57ca697915004e985631278dcac4.webm",
+    "jmcs://jd-contents/TestDrive/TestDrive_MID.webm": "/private/map/TestDrive/TestDrive_MID.webm/a2a57954f4c82d16fd42435b7f9cf1f3.webm",
+    "jmcs://jd-contents/TestDrive/TestDrive_ULTRA.webm": "/private/map/TestDrive/TestDrive_ULTRA.webm/73f31510f6b7243d7294c7b8bec06a76.webm",
+    "jmcs://jd-contents/TestDrive/TestDrive_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TestDrive/TestDrive_MapPreviewNoSoundCrop_LOW.vp8.webm/3f34d385612e36284616f48b739988de.webm",
+    "jmcs://jd-contents/TestDrive/TestDrive_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TestDrive/TestDrive_MapPreviewNoSoundCrop_MID.vp8.webm/02cc6e3070d4ec659bae5427b5f2bed3.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"522515\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TestDrive/TestDrive_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1498402\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TestDrive/TestDrive_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 112.341542
+}

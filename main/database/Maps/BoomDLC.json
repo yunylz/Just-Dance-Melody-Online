@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BoomDLC/BoomDLC_HIGH.webm": "/private/map/BoomDLC/BoomDLC_HIGH.webm/4640b777d61256515ee0a8bda8a8a25a.webm",
+    "jmcs://jd-contents/BoomDLC/BoomDLC_LOW.webm": "/private/map/BoomDLC/BoomDLC_LOW.webm/526a3b60ae940ab26c379d1d734ab98b.webm",
+    "jmcs://jd-contents/BoomDLC/BoomDLC_MID.webm": "/private/map/BoomDLC/BoomDLC_MID.webm/77c2b486fa9354ef8d427bf50544d071.webm",
+    "jmcs://jd-contents/BoomDLC/BoomDLC_ULTRA.hd.webm": "/private/map/BoomDLC/BoomDLC_ULTRA.hd.webm/734159bd572399df0a4db16d9a273171.webm",
+    "jmcs://jd-contents/BoomDLC/BoomDLC_ULTRA.webm": "/private/map/BoomDLC/BoomDLC_ULTRA.webm/cf23f7ac365915f225e08137e70e86b7.webm",
+    "jmcs://jd-contents/BoomDLC/BoomDLC.ogg": "/private/map/BoomDLC/BoomDLC.ogg/e50e617aa9a18eed859b24b9f5ee56a9.ogg",
+    "jmcs://jd-contents/BoomDLC/BoomDLC_AudioPreview.ogg": "/public/map/BoomDLC/BoomDLC_AudioPreview.ogg/b896221003ba4c2d091ed8f55cc908ca.ogg",
+    "jmcs://jd-contents/BoomDLC/BoomDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BoomDLC/BoomDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/d46bd4116a7c4bc7e556a45d167d7f3e.webm",
+    "jmcs://jd-contents/BoomDLC/BoomDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BoomDLC/BoomDLC_MapPreviewNoSoundCrop_MID.vp8.webm/1c44598ec4adc6b460754cf81f310b45.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32000,
+        64000,
+        96000,
+        128000,
+        160000,
+        192000,
+        221465,
+        250931,
+        280397,
+        309728,
+        339129,
+        368804,
+        398061,
+        427367,
+        456752,
+        486136,
+        515521,
+        544905,
+        574290,
+        603674,
+        633059,
+        662443,
+        691828,
+        721212,
+        750597,
+        779981,
+        809365,
+        838750,
+        868134,
+        897519,
+        926903,
+        956288,
+        985672,
+        1015057,
+        1044442,
+        1073826,
+        1103211,
+        1132595,
+        1161979,
+        1191364,
+        1220748,
+        1250133,
+        1279517,
+        1308902,
+        1338286,
+        1367671,
+        1397055,
+        1426440,
+        1455824,
+        1485209
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 226,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 48,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BoomDLC/BoomDLC_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BoomDLC/nx/BoomDLC_banner_bkg.tga.ckd/50cc8d60b09da1863d6ad77bee67a46b.ckd",
+      "map_bkgImageUrl": "/public/map/BoomDLC/nx/BoomDLC_map_bkg.tga.ckd/39c1ec701a3a6958f94e5f63126cdee8.ckd",
+      "expandCoachImageUrl": "/public/map/BoomDLC/nx/BoomDLC_Cover_AlbumCoach.tga.ckd/1e05ab89be6fdf57a3ca2f20f4099d7c.ckd",
+      "cover_smallImageUrl": "/public/map/BoomDLC/nx/BoomDLC_Cover_Online.tga.ckd/392ca736a4d1a0b5f06a075174792b84.ckd",
+      "coach1ImageUrl": "/public/map/BoomDLC/nx/BoomDLC_Coach_1.tga.ckd/a3f892c50d29faff57f51b7c67bcf35a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BoomDLC/pc/BoomDLC_banner_bkg.tga.ckd/4e630a7511a5e59e3645d2e88e49ffdf.ckd",
+      "map_bkgImageUrl": "/public/map/BoomDLC/pc/BoomDLC_map_bkg.tga.ckd/2e506f6d25e578cea4eac8e29d28b514.ckd",
+      "expandCoachImageUrl": "/public/map/BoomDLC/pc/BoomDLC_Cover_AlbumCoach.tga.ckd/86ee8c7e482450323579a695c7a63953.ckd",
+      "cover_smallImageUrl": "/public/map/BoomDLC/pc/BoomDLC_Cover_Online.tga.ckd/6cf139f3272f1c4dbaa55689ee885071.ckd",
+      "coach1ImageUrl": "/public/map/BoomDLC/pc/BoomDLC_Coach_1.tga.ckd/4601921d879f47dd5d4d919105c9c6a0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BoomDLC/orbis/BoomDLC_banner_bkg.tga.ckd/4e630a7511a5e59e3645d2e88e49ffdf.ckd",
+      "map_bkgImageUrl": "/public/map/BoomDLC/orbis/BoomDLC_map_bkg.tga.ckd/2e506f6d25e578cea4eac8e29d28b514.ckd",
+      "expandCoachImageUrl": "/public/map/BoomDLC/orbis/BoomDLC_Cover_AlbumCoach.tga.ckd/86ee8c7e482450323579a695c7a63953.ckd",
+      "cover_smallImageUrl": "/public/map/BoomDLC/orbis/BoomDLC_Cover_Online.tga.ckd/6cf139f3272f1c4dbaa55689ee885071.ckd",
+      "coach1ImageUrl": "/public/map/BoomDLC/orbis/BoomDLC_Coach_1.tga.ckd/4601921d879f47dd5d4d919105c9c6a0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BoomDLC/BoomDLC_Coach_1_Phone.png/50991da76d04d6d51f1048c4121b8018.png",
+    "phoneCoverImageUrl": "/public/map/BoomDLC/BoomDLC_Cover_Phone.jpg/4b117d02a2785bca4e98a98fcc5441cb.jpg",
+    "cover640ImageUrl": "/public/map/BoomDLC/BoomDLC_Cover_640.png/3abb2da50abd04a2cb0186baf21784c9.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "6e50c912792f47a1399f096b2a590aec",
+      "storageType": 0,
+      "url": "/public/map/BoomDLC/nx/BoomDLC_MAIN_SCENE_NX.zip/6e50c912792f47a1399f096b2a590aec.zip"
+    },
+    "pc": {
+      "md5": "05c5b4f50b6c56f0fbb41d60a78a2af5",
+      "storageType": 0,
+      "url": "/public/map/BoomDLC/pc/BoomDLC_MAIN_SCENE_PC.zip/05c5b4f50b6c56f0fbb41d60a78a2af5.zip"
+    },
+    "ps4": {
+      "md5": "284a43e27ad9730a5a465758bc114317",
+      "storageType": 0,
+      "url": "/public/map/BoomDLC/orbis/BoomDLC_MAIN_SCENE_ORBIS.zip/284a43e27ad9730a5a465758bc114317.zip"
+    }
+  },
+  "data": {
+    "mapName": "BoomDLC",
+    "title": "Boom",
+    "originalJDVersion": 3,
+    "tags": [
+      "Intense",
+      "Main",
+      "subscribedSong",
+      "JustDance3",
+      "Medium"
+    ],
+    "artist": "Reggaeton Storm",
+    "credits": "Written by MC Magico (PRS) (C); Alex Wilson (PRS) (C). Published by West One APM (ASCAP). Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#0d98a5",
+    "songColor2A": "#00c6e2",
+    "songColor1B": "#00332d",
+    "songColor2B": "#000000",
+    "lyricsColor": "#f5d341",
+    "LocaleID": 4294967295
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495310\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoomDLC/BoomDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"630-1119\">\n\t\t\t\t\t<Initialization range=\"0-630\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1101924\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BoomDLC/BoomDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\n\t\t\t\t\t<Initialization range=\"0-631\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 138.966667
+}

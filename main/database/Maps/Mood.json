@@ -1,0 +1,162 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Mood/Mood.ogg": "/private/map/Mood/Mood.ogg/6cb9949745b2726995489881a1c75561.ogg",
+    "jmcs://jd-contents/Mood/Mood_AudioPreview.ogg": "/public/map/Mood/Mood_AudioPreview.ogg/e4d62c75612127eb424c351712286186.ogg",
+    "jmcs://jd-contents/Mood/Mood_HIGH.hd.webm": "/private/map/Mood/Mood_HIGH.hd.webm/823cbbf1577ab2d999e88c78a7b262f4.webm",
+    "jmcs://jd-contents/Mood/Mood_LOW.hd.webm": "/private/map/Mood/Mood_LOW.hd.webm/210bf669587ba2ccad784a9f798ee4f9.webm",
+    "jmcs://jd-contents/Mood/Mood_MID.hd.webm": "/private/map/Mood/Mood_MID.hd.webm/6ad757c8a5ffc6092d912b095bcbb60c.webm",
+    "jmcs://jd-contents/Mood/Mood_ULTRA.hd.webm": "/private/map/Mood/Mood_ULTRA.hd.webm/767add4ec2356df0879f85ee4eda42fb.webm",
+    "jmcs://jd-contents/Mood/Mood_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Mood/Mood_MapPreviewNoSoundCrop_LOW.vp8.webm/1b5e97c1b6f3417b903b2a54b9df101e.webm",
+    "jmcs://jd-contents/Mood/Mood_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Mood/Mood_MapPreviewNoSoundCrop_MID.vp8.webm/fc356d85f460448f4286b76aaada189e.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31648,
+        63297,
+        94945,
+        126593,
+        158242,
+        189890,
+        221538,
+        253187,
+        284835,
+        316484,
+        348132,
+        379780,
+        411429,
+        443077,
+        474725,
+        506374,
+        538022,
+        569670,
+        601319,
+        632967,
+        664615,
+        696264,
+        727912,
+        759560,
+        791209,
+        822857,
+        854505,
+        886154,
+        917802,
+        949451,
+        981099,
+        1012747,
+        1044396,
+        1076044,
+        1107692,
+        1139341,
+        1170989,
+        1202637,
+        1234286,
+        1265934,
+        1297582,
+        1329231,
+        1360879,
+        1392527,
+        1424176,
+        1455824,
+        1487473
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 218,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 45,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Mood/Mood_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "4aad707a8d58cb4e98956fa28602cb90",
+      "storageType": 0,
+      "url": "/public/map/Mood/nx/Mood_MAIN_SCENE_NX.zip/4aad707a8d58cb4e98956fa28602cb90.zip"
+    },
+    "pc": {
+      "md5": "aaec88e7d6f2b653655abf6b3c68560a",
+      "storageType": 0,
+      "url": "/public/map/Mood/pc/Mood_MAIN_SCENE_PC.zip/aaec88e7d6f2b653655abf6b3c68560a.zip"
+    },
+    "ps4": {
+      "md5": "28d8c77f92e04f6d73dec5d35d5a1021",
+      "storageType": 0,
+      "url": "/public/map/Mood/orbis/Mood_MAIN_SCENE_ORBIS.zip/28d8c77f92e04f6d73dec5d35d5a1021.zip"
+    }
+  },
+  "data": {
+    "mapName": "Mood",
+    "title": "Mood",
+    "originalJDVersion": 2022,
+    "tags": [
+      "main"
+    ],
+    "artist": "24kGoldn Ft. iann dior",
+    "credits": "Written by Keegan Christopher Bach, Golden Landis Von Jones, Omer Fedi, Blake Slatkin and Michael Olmo. Published by Hola Amigo Songs (ASCAP) / Artist 101 Publishing Group (BMI) / 24KGoldn Publishing (BMI) / KBEAZY Ventures LLC (ASCAP). Administered by Kobalt Music Publishing America, Inc.  / Universal Music Publishing Canada on behalf of Omer Fedi Music, Electric Feel Music, Songs Of Universal, Inc., Back Hair Music Publishing, Two Hands and A Bit Publishing and Songs By 10K Music Publishing. Courtesy of RECORDS, LLC/Columbia Records. By arrangement with Sony Music Entertainment / iann dior appears courtesy TenThousand Projects/Caroline Records.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#ff69ab",
+    "songColor2A": "#77fffd",
+    "songColor1B": "#0a1c6a",
+    "songColor2B": "#133b83",
+    "lyricsColor": "#89ce30",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Mood/nx/Mood_banner_bkg.tga.ckd/d07997ab73523ff82e5025b562d65402.ckd",
+      "map_bkgImageUrl": "/public/map/Mood/nx/Mood_map_bkg.tga.ckd/e08e3b07783e85876bfe2c0150f42627.ckd",
+      "expandCoachImageUrl": "/public/map/Mood/nx/Mood_Cover_AlbumCoach.tga.ckd/930fbf69968716526ff800e7d33b3421.ckd",
+      "cover_smallImageUrl": "/public/map/Mood/nx/Mood_Cover_Online.tga.ckd/56975bfd35f218535949006a54529a64.ckd",
+      "coverImageUrl": "/public/map/Mood/nx/Mood_Cover_Generic.tga.ckd/af36f6bf9a6c2fc02a3ee199963bee8f.ckd",
+      "coach1ImageUrl": "/public/map/Mood/nx/Mood_Coach_1.tga.ckd/ccd25dd9869598f68b36f4e95fc1782b.ckd",
+      "coach2ImageUrl": "/public/map/Mood/nx/Mood_Coach_2.tga.ckd/d7d46d0b7b5ff5d8d2cdc4f005e422a5.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Mood/pc/Mood_banner_bkg.tga.ckd/4ae3415c882ebe85feb6dc4ecbed00a8.ckd",
+      "map_bkgImageUrl": "/public/map/Mood/pc/Mood_map_bkg.tga.ckd/a4aef266a48319bb56ef9ed850030e15.ckd",
+      "expandCoachImageUrl": "/public/map/Mood/pc/Mood_Cover_AlbumCoach.tga.ckd/635bff6a07ce7106ae210e0144ae1d7c.ckd",
+      "cover_smallImageUrl": "/public/map/Mood/pc/Mood_Cover_Online.tga.ckd/af0b56984a840bbaaf7e3a03963d8751.ckd",
+      "coverImageUrl": "/public/map/Mood/pc/Mood_Cover_Generic.tga.ckd/0931b32f07f1da750f74320ce33c71e0.ckd",
+      "coach1ImageUrl": "/public/map/Mood/pc/Mood_Coach_1.tga.ckd/378abdf224f5cfba8dea50c68ccae754.ckd",
+      "coach2ImageUrl": "/public/map/Mood/pc/Mood_Coach_2.tga.ckd/8a4190359bae14fa8c54a363e974c23e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Mood/orbis/Mood_banner_bkg.tga.ckd/4ae3415c882ebe85feb6dc4ecbed00a8.ckd",
+      "map_bkgImageUrl": "/public/map/Mood/orbis/Mood_map_bkg.tga.ckd/a4aef266a48319bb56ef9ed850030e15.ckd",
+      "expandCoachImageUrl": "/public/map/Mood/orbis/Mood_Cover_AlbumCoach.tga.ckd/635bff6a07ce7106ae210e0144ae1d7c.ckd",
+      "cover_smallImageUrl": "/public/map/Mood/orbis/Mood_Cover_Online.tga.ckd/af0b56984a840bbaaf7e3a03963d8751.ckd",
+      "coverImageUrl": "/public/map/Mood/orbis/Mood_Cover_Generic.tga.ckd/0931b32f07f1da750f74320ce33c71e0.ckd",
+      "coach1ImageUrl": "/public/map/Mood/orbis/Mood_Coach_1.tga.ckd/378abdf224f5cfba8dea50c68ccae754.ckd",
+      "coach2ImageUrl": "/public/map/Mood/orbis/Mood_Coach_2.tga.ckd/8a4190359bae14fa8c54a363e974c23e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Mood/Mood_Coach_1_Phone.png/f87db0f6acee62c1a3262ac19915b9b8.png",
+    "phoneCoach2ImageUrl": "/public/map/Mood/Mood_Coach_2_Phone.png/e7c891b3467dbd351fe2d635bf2628e8.png",
+    "phoneCoverImageUrl": "/public/map/Mood/Mood_Cover_Phone.jpg/9db8db7315555abce954ea7e12e4582b.jpg",
+    "cover640ImageUrl": "/public/map/Mood/Mood_Cover_640.png/103da4ce0cd86f21c95eef6399930f9e.png"
+  },
+  "mapLength": 145.377771
+}

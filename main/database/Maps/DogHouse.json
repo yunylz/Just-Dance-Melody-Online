@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e50767c8b41ec482b5cb53ba4f300035",
+      "storageType": 0,
+      "url": "/public/map/DogHouse/nx/DogHouse_MAIN_SCENE_NX.zip/e50767c8b41ec482b5cb53ba4f300035.zip"
+    },
+    "pc": {
+      "md5": "4dab80c84e07656eaf83331f50631f7f",
+      "storageType": 0,
+      "url": "/public/map/DogHouse/pc/DogHouse_MAIN_SCENE_PC.zip/4dab80c84e07656eaf83331f50631f7f.zip"
+    },
+    "ps4": {
+      "md5": "fb861810015b6aa4afc76c86235a3081",
+      "storageType": 0,
+      "url": "/public/map/DogHouse/orbis/DogHouse_MAIN_SCENE_ORBIS.zip/fb861810015b6aa4afc76c86235a3081.zip"
+    }
+  },
+  "data": {
+    "mapName": "DogHouse",
+    "title": "Dog House",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Slayyyter",
+    "credits": "Written by Catherine Slater, Ethan Budnick, John Hill and Jordan Palmer. Published by UMG on behalf of FADER Label. All rights administered by Universal Music Group (US) LLC. Administered by FADER Inc. All rights reserved. Used with permission. Courtesy of FADER Label under license from Universal Music Enterprises. By arrangement with Universal Music Group Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited. Mashup by DiiMashups. Rest In Power SOPHIE",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#0a5381",
+    "songColor2A": "#f2d3ff",
+    "songColor1B": "#100034",
+    "songColor2B": "#fb002f",
+    "lyricsColor": "#fa8628"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22154,
+        44308,
+        66462,
+        88615,
+        110769,
+        132923,
+        155077,
+        177231,
+        199385,
+        221538,
+        243692,
+        265846,
+        288000,
+        310154,
+        332308,
+        354462,
+        376615,
+        398769,
+        420923,
+        443077,
+        465231,
+        487385,
+        509538,
+        531692,
+        553846,
+        576000,
+        598154,
+        620308,
+        642462,
+        664615,
+        686769,
+        708923,
+        731077,
+        753231,
+        775385,
+        797538,
+        819692,
+        841846,
+        864000,
+        886154,
+        908308,
+        930462,
+        952615,
+        974769,
+        996923,
+        1019077,
+        1041231,
+        1063385,
+        1085539,
+        1107692,
+        1129846,
+        1152000,
+        1174154,
+        1196308,
+        1218462,
+        1240615,
+        1262769,
+        1284923,
+        1307077,
+        1329231,
+        1351385,
+        1373539,
+        1395692,
+        1417846,
+        1440000,
+        1462154,
+        1484308
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 309,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DogHouse/DogHouse_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DogHouse/nx/DogHouse_banner_bkg.tga.ckd/a5a85fd0681da8d03f1c00baba56f57c.ckd",
+      "map_bkgImageUrl": "/public/map/DogHouse/nx/DogHouse_map_bkg.tga.ckd/0a85c84540da6f2a56e5d6cfc8a43d99.ckd",
+      "expandCoachImageUrl": "/public/map/DogHouse/nx/DogHouse_Cover_AlbumCoach.tga.ckd/6b304e975a812c8e4acebffc6e7f0539.ckd",
+      "cover_smallImageUrl": "/public/map/DogHouse/nx/DogHouse_Cover_Online.tga.ckd/bb8241a6ef5407fbc743cf8db90c17b4.ckd",
+      "coach1ImageUrl": "/public/map/DogHouse/nx/DogHouse_Coach_1.tga.ckd/27e53eb6c8b0a6230bdf3e7229dd17d8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DogHouse/pc/DogHouse_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/DogHouse/pc/DogHouse_map_bkg.tga.ckd/1e3bbf59382dd1ed48d89b2de4d9957f.ckd",
+      "expandCoachImageUrl": "/public/map/DogHouse/pc/DogHouse_Cover_AlbumCoach.tga.ckd/e798968f38cb890825828885dd1d9806.ckd",
+      "cover_smallImageUrl": "/public/map/DogHouse/pc/DogHouse_Cover_Online.tga.ckd/a8060095b7ff25efdbfe7823d4bdd46f.ckd",
+      "coach1ImageUrl": "/public/map/DogHouse/pc/DogHouse_Coach_1.tga.ckd/9219cd47b0de1270a9dea4f10f01cfd6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DogHouse/orbis/DogHouse_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/DogHouse/orbis/DogHouse_map_bkg.tga.ckd/1e3bbf59382dd1ed48d89b2de4d9957f.ckd",
+      "expandCoachImageUrl": "/public/map/DogHouse/orbis/DogHouse_Cover_AlbumCoach.tga.ckd/e798968f38cb890825828885dd1d9806.ckd",
+      "cover_smallImageUrl": "/public/map/DogHouse/orbis/DogHouse_Cover_Online.tga.ckd/a8060095b7ff25efdbfe7823d4bdd46f.ckd",
+      "coach1ImageUrl": "/public/map/DogHouse/orbis/DogHouse_Coach_1.tga.ckd/9219cd47b0de1270a9dea4f10f01cfd6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DogHouse/DogHouse_Coach_1_Phone.png/08b42da1d5700480e59b69b4b86afaac.png",
+    "phoneCoverImageUrl": "/public/map/DogHouse/DogHouse_Cover_Phone.jpg/24df0c1e3678c7d55e06d075226d65fa.jpg",
+    "cover640ImageUrl": "/public/map/DogHouse/DogHouse_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DogHouse/DogHouse.ogg": "/private/map/DogHouse/DogHouse.ogg/27171ee481cd6da9caf4baa895d4847e.ogg",
+    "jmcs://jd-contents/DogHouse/DogHouse_AudioPreview.ogg": "/public/map/DogHouse/DogHouse_AudioPreview.ogg/45d2da71e15c5da962c94fb095af0de6.ogg",
+    "jmcs://jd-contents/DogHouse/DogHouse_HIGH.webm": "/private/map/DogHouse/DogHouse_HIGH.webm/090d38188c0ff47175085702bb0e070e.webm",
+    "jmcs://jd-contents/DogHouse/DogHouse_LOW.webm": "/private/map/DogHouse/DogHouse_LOW.webm/fc9885712d9a06ab5c157481f0ef9459.webm",
+    "jmcs://jd-contents/DogHouse/DogHouse_MID.webm": "/private/map/DogHouse/DogHouse_MID.webm/23fbfb7d08b2616e2c3fa807982c033a.webm",
+    "jmcs://jd-contents/DogHouse/DogHouse_ULTRA.webm": "/private/map/DogHouse/DogHouse_ULTRA.webm/e681ba272032a09e360b3cf7f1e25c3a.webm",
+    "jmcs://jd-contents/DogHouse/DogHouse_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DogHouse/DogHouse_MapPreviewNoSoundCrop_LOW.vp8.webm/982a1a490c704b20fe0947376b32a920.webm",
+    "jmcs://jd-contents/DogHouse/DogHouse_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DogHouse/DogHouse_MapPreviewNoSoundCrop_MID.vp8.webm/4d48b9e18ad41ece1a3bdcd6df17c275.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"500286\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DogHouse/DogHouse_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"460-950\">\n\t\t\t\t\t<Initialization range=\"0-460\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1474113\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DogHouse/DogHouse_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"461-951\">\n\t\t\t\t\t<Initialization range=\"0-461\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 151.934625
+}

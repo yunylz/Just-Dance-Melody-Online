@@ -1,0 +1,172 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ImOuttaLove/ImOuttaLove.ogg": "/private/map/ImOuttaLove/ImOuttaLove.ogg/06ec53592be0cccd772f346400f19b02.ogg",
+    "jmcs://jd-contents/ImOuttaLove/ImOuttaLove_AudioPreview.ogg": "/public/map/ImOuttaLove/ImOuttaLove_AudioPreview.ogg/08814e74fb97fe80cf805f768c457ac1.ogg",
+    "jmcs://jd-contents/ImOuttaLove/ImOuttaLove_HIGH.hd.webm": "/private/map/ImOuttaLove/ImOuttaLove_HIGH.hd.webm/b7c81c8986b03bb1a8ef06f0f564155e.webm",
+    "jmcs://jd-contents/ImOuttaLove/ImOuttaLove_LOW.hd.webm": "/private/map/ImOuttaLove/ImOuttaLove_LOW.hd.webm/e40330f9938772a01144eace1e778f91.webm",
+    "jmcs://jd-contents/ImOuttaLove/ImOuttaLove_MID.hd.webm": "/private/map/ImOuttaLove/ImOuttaLove_MID.hd.webm/c76e1cf71d4186bd8a98f98076143528.webm",
+    "jmcs://jd-contents/ImOuttaLove/ImOuttaLove_ULTRA.hd.webm": "/private/map/ImOuttaLove/ImOuttaLove_ULTRA.hd.webm/4020db655fae81983d7e71755bb7ac15.webm",
+    "jmcs://jd-contents/ImOuttaLove/ImOuttaLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ImOuttaLove/ImOuttaLove_MapPreviewNoSoundCrop_LOW.vp8.webm/d4f96a9cf61d9fa101725a2c83b27b58.webm",
+    "jmcs://jd-contents/ImOuttaLove/ImOuttaLove_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ImOuttaLove/ImOuttaLove_MapPreviewNoSoundCrop_MID.vp8.webm/d52f1b844119cb47c3e6d9d4404f0ffc.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24937,
+        49874,
+        74812,
+        99749,
+        124686,
+        149623,
+        174561,
+        199498,
+        224435,
+        249372,
+        274309,
+        299247,
+        324184,
+        349121,
+        374058,
+        398996,
+        423933,
+        448035,
+        472138,
+        496240,
+        520343,
+        544445,
+        568547,
+        592650,
+        616752,
+        640855,
+        664957,
+        689060,
+        713162,
+        737264,
+        761367,
+        785469,
+        809572,
+        833674,
+        857777,
+        881879,
+        905982,
+        930084,
+        954186,
+        978289,
+        1002391,
+        1026494,
+        1050596,
+        1074699,
+        1098801,
+        1122903,
+        1147006,
+        1171108,
+        1195211,
+        1219313,
+        1243416,
+        1267518,
+        1291620,
+        1315723,
+        1339825,
+        1363928,
+        1388030,
+        1412133,
+        1436235,
+        1460338,
+        1484440
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 422,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ImOuttaLove/ImOuttaLove_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "1297189f804e89c0a6aa89edc3d80f81",
+      "storageType": 0,
+      "url": "/public/map/ImOuttaLove/nx/ImOuttaLove_MAIN_SCENE_NX.zip/1297189f804e89c0a6aa89edc3d80f81.zip"
+    },
+    "pc": {
+      "md5": "6f8dfe73d78a65698a708eb1e4751726",
+      "storageType": 0,
+      "url": "/public/map/ImOuttaLove/pc/ImOuttaLove_MAIN_SCENE_PC.zip/6f8dfe73d78a65698a708eb1e4751726.zip"
+    },
+    "ps4": {
+      "md5": "2fbd05243fa099faf69432f6af6578aa",
+      "storageType": 0,
+      "url": "/public/map/ImOuttaLove/orbis/ImOuttaLove_MAIN_SCENE_ORBIS.zip/2fbd05243fa099faf69432f6af6578aa.zip"
+    }
+  },
+  "data": {
+    "mapName": "ImOuttaLove",
+    "title": "I’m Outta Love",
+    "originalJDVersion": 2022,
+    "tags": [
+      "main"
+    ],
+    "artist": "Anastacia",
+    "credits": "Written by Anastacia L. Newkirk, Louis Biancaniello and Samuel Watters. Published by S.M.Y. Publishing (ASCAP) / Sony/ATV Tunes LLC (ASCAP) / Breakthrough Creations (ASCAP) / EMI April Music Inc. (ASCAP). / Universal Music Publishing Canada on behalf of Poho Prod. and Universal Music Corp. All rights reserved. Used with permission. Courtesy of Epic Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#17e905",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ImOuttaLove/nx/ImOuttaLove_banner_bkg.tga.ckd/85ae8b583a845c92c0db6ba7bfa6b540.ckd",
+      "map_bkgImageUrl": "/public/map/ImOuttaLove/nx/ImOuttaLove_map_bkg.tga.ckd/57f5234c916e2d53f76f63a42f6e4534.ckd",
+      "expandCoachImageUrl": "/public/map/ImOuttaLove/nx/ImOuttaLove_Cover_AlbumCoach.tga.ckd/240eedac98695a0e4efc60ebef509e04.ckd",
+      "cover_smallImageUrl": "/public/map/ImOuttaLove/nx/ImOuttaLove_Cover_Online.tga.ckd/b448c4ddb65098894e43e7f1a580955c.ckd",
+      "coverImageUrl": "/public/map/ImOuttaLove/nx/ImOuttaLove_Cover_Generic.tga.ckd/523ce482be9885182df5856dcc3989c0.ckd",
+      "coach1ImageUrl": "/public/map/ImOuttaLove/nx/ImOuttaLove_Coach_1.tga.ckd/58f173d871a021197d25db528ec3946e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ImOuttaLove/pc/ImOuttaLove_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/ImOuttaLove/pc/ImOuttaLove_map_bkg.tga.ckd/945d4074953f0375849637eaae512d32.ckd",
+      "expandCoachImageUrl": "/public/map/ImOuttaLove/pc/ImOuttaLove_Cover_AlbumCoach.tga.ckd/2137713f1d3981290c74c5c2611acf8e.ckd",
+      "cover_smallImageUrl": "/public/map/ImOuttaLove/pc/ImOuttaLove_Cover_Online.tga.ckd/b84f2e1c957be1e98e7ef0f1643b640e.ckd",
+      "coverImageUrl": "/public/map/ImOuttaLove/pc/ImOuttaLove_Cover_Generic.tga.ckd/db6406d060202e7859a4c37d26fbd282.ckd",
+      "coach1ImageUrl": "/public/map/ImOuttaLove/pc/ImOuttaLove_Coach_1.tga.ckd/2367aa1ee099a74f6e0d693118111246.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ImOuttaLove/orbis/ImOuttaLove_banner_bkg.tga.ckd/ebfc76bacc543c5e6de22454e033b71c.ckd",
+      "map_bkgImageUrl": "/public/map/ImOuttaLove/orbis/ImOuttaLove_map_bkg.tga.ckd/945d4074953f0375849637eaae512d32.ckd",
+      "expandCoachImageUrl": "/public/map/ImOuttaLove/orbis/ImOuttaLove_Cover_AlbumCoach.tga.ckd/2137713f1d3981290c74c5c2611acf8e.ckd",
+      "cover_smallImageUrl": "/public/map/ImOuttaLove/orbis/ImOuttaLove_Cover_Online.tga.ckd/b84f2e1c957be1e98e7ef0f1643b640e.ckd",
+      "coverImageUrl": "/public/map/ImOuttaLove/orbis/ImOuttaLove_Cover_Generic.tga.ckd/db6406d060202e7859a4c37d26fbd282.ckd",
+      "coach1ImageUrl": "/public/map/ImOuttaLove/orbis/ImOuttaLove_Coach_1.tga.ckd/2367aa1ee099a74f6e0d693118111246.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ImOuttaLove/ImOuttaLove_Coach_1_Phone.png/381d12af62ab269e726fe1c157dbda13.png",
+    "phoneCoverImageUrl": "/public/map/ImOuttaLove/ImOuttaLove_Cover_Phone.jpg/b4f312efa7f0b1410b1047363b7ab4ae.jpg",
+    "cover640ImageUrl": "/public/map/ImOuttaLove/ImOuttaLove_Cover_640.png/6543816af6e1e9c3d6ed8fbb74303741.png"
+  },
+  "mapLength": 217.269729
+}

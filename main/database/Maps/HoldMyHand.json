@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "83a59b6d40703f013f2544650cc6569f",
+      "storageType": 0,
+      "url": "/public/map/HoldMyHand/nx/HoldMyHand_MAIN_SCENE_NX.zip/83a59b6d40703f013f2544650cc6569f.zip"
+    },
+    "pc": {
+      "md5": "8b294401fd3d92055e071d0c2137d795",
+      "storageType": 0,
+      "url": "/public/map/HoldMyHand/pc/HoldMyHand_MAIN_SCENE_PC.zip/8b294401fd3d92055e071d0c2137d795.zip"
+    },
+    "ps4": {
+      "md5": "97f14fa63ade7dffa42edac9b55fde10",
+      "storageType": 0,
+      "url": "/public/map/HoldMyHand/orbis/HoldMyHand_MAIN_SCENE_ORBIS.zip/97f14fa63ade7dffa42edac9b55fde10.zip"
+    }
+  },
+  "data": {
+    "mapName": "HoldMyHand",
+    "title": "Hold My Hand",
+    "originalJDVersion": 2016,
+    "tags": [
+      "Main",
+      "forcerumble"
+    ],
+    "artist": "Jesse Glynne",
+    "credits": "Written by Jessica A Glynne, Janee Millicent Lucy Bennett, Ina Christine Wroldsen and Jack Robert Patterson.Published by EMI Music Publishing Ltd./ © 2015 Black Butter Music Publishing Ltd. c/o BMG Rights Management (Canada) Inc. (SOCAN) / Reverb America Music. Administered by Reservoir Media Management.(P) Line: 2015 Atlantic Records UK Ltd All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e10040",
+    "songColor2A": "#00becc",
+    "songColor1B": "#72004f",
+    "songColor2B": "#004486",
+    "lyricsColor": "#e0d11c",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23423,
+        46847,
+        70223,
+        93647,
+        117071,
+        140495,
+        163919,
+        187295,
+        210719,
+        234143,
+        257567,
+        280991,
+        304367,
+        327791,
+        351215,
+        374639,
+        398063,
+        421439,
+        444863,
+        468287,
+        491711,
+        515135,
+        538559,
+        561935,
+        585359,
+        608783,
+        632207,
+        655631,
+        679007,
+        702431,
+        725855,
+        749279,
+        772703,
+        796079,
+        819503,
+        842927,
+        866351,
+        889775,
+        913151,
+        936575,
+        959999,
+        983423,
+        1006847,
+        1030223,
+        1053647,
+        1077071,
+        1100495,
+        1123919,
+        1147295,
+        1170719,
+        1194143,
+        1217567,
+        1240991,
+        1264367,
+        1287791,
+        1311215,
+        1334639,
+        1358063,
+        1381439,
+        1404863,
+        1428287,
+        1451711,
+        1475135,
+        1498559
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 466,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HoldMyHand/HoldMyHand_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HoldMyHand/nx/HoldMyHand_banner_bkg.tga.ckd/5c7dc065be33c61cf8559793590a8c28.ckd",
+      "map_bkgImageUrl": "/public/map/HoldMyHand/nx/HoldMyHand_map_bkg.tga.ckd/d1a1410ef470580752798de9484ae7fd.ckd",
+      "expandCoachImageUrl": "/public/map/HoldMyHand/nx/HoldMyHand_Cover_AlbumCoach.tga.ckd/00667008dd7f499d57e5c87ae38b77da.ckd",
+      "cover_smallImageUrl": "/public/map/HoldMyHand/nx/HoldMyHand_Cover_Online.tga.ckd/d1fde722910a5dcb2977cdd126d8de44.ckd",
+      "coach1ImageUrl": "/public/map/HoldMyHand/nx/HoldMyHand_Coach_1.tga.ckd/de3fe35443ab45d2843d0f7e448da93f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HoldMyHand/pc/HoldMyHand_banner_bkg.tga.ckd/430221c2d3b6d06fe488dbf164cb25f8.ckd",
+      "map_bkgImageUrl": "/public/map/HoldMyHand/pc/HoldMyHand_map_bkg.tga.ckd/625d7601fce0663a6828c00fcc1d91cd.ckd",
+      "expandCoachImageUrl": "/public/map/HoldMyHand/pc/HoldMyHand_Cover_AlbumCoach.tga.ckd/a2c8c7e684a245160dde6ae1b2602e6d.ckd",
+      "cover_smallImageUrl": "/public/map/HoldMyHand/pc/HoldMyHand_Cover_Online.tga.ckd/3c5b2a2d5d6a0ae756549708a916658c.ckd",
+      "coach1ImageUrl": "/public/map/HoldMyHand/pc/HoldMyHand_Coach_1.tga.ckd/4beaba17874bdb2e0589bc53a589ada8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HoldMyHand/orbis/HoldMyHand_banner_bkg.tga.ckd/430221c2d3b6d06fe488dbf164cb25f8.ckd",
+      "map_bkgImageUrl": "/public/map/HoldMyHand/orbis/HoldMyHand_map_bkg.tga.ckd/625d7601fce0663a6828c00fcc1d91cd.ckd",
+      "expandCoachImageUrl": "/public/map/HoldMyHand/orbis/HoldMyHand_Cover_AlbumCoach.tga.ckd/a2c8c7e684a245160dde6ae1b2602e6d.ckd",
+      "cover_smallImageUrl": "/public/map/HoldMyHand/orbis/HoldMyHand_Cover_Online.tga.ckd/3c5b2a2d5d6a0ae756549708a916658c.ckd",
+      "coach1ImageUrl": "/public/map/HoldMyHand/orbis/HoldMyHand_Coach_1.tga.ckd/4beaba17874bdb2e0589bc53a589ada8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HoldMyHand/HoldMyHand_Coach_1_Phone.png/af1b1447e0adf6ba20493a1a879c9921.png",
+    "phoneCoverImageUrl": "/public/map/HoldMyHand/HoldMyHand_Cover_Phone.jpg/2151eedb78a80a774592f12f57b99b9d.jpg",
+    "cover640ImageUrl": "/public/map/HoldMyHand/HoldMyHand_Cover_640.png/2180979978cd61df6a246402a7e58a9e.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HoldMyHand/HoldMyHand.ogg": "/private/map/HoldMyHand/HoldMyHand.ogg/3bde3ae910c916beeffc1d2a794ebcdb.ogg",
+    "jmcs://jd-contents/HoldMyHand/HoldMyHand_AudioPreview.ogg": "/public/map/HoldMyHand/HoldMyHand_AudioPreview.ogg/43114ac50cb68e68acb2eb1409a87cc2.ogg",
+    "jmcs://jd-contents/HoldMyHand/HoldMyHand_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HoldMyHand/HoldMyHand_MapPreviewNoSoundCrop_LOW.vp8.webm/23d601e3646625b53e5cd545c876cfe4.webm",
+    "jmcs://jd-contents/HoldMyHand/HoldMyHand_HIGH.webm": "/private/map/HoldMyHand/HoldMyHand_HIGH.webm/cead15fe6db5d8f400e457bf0f35d7fe.webm",
+    "jmcs://jd-contents/HoldMyHand/HoldMyHand_LOW.webm": "/private/map/HoldMyHand/HoldMyHand_LOW.webm/c10e8a82fbfe5e68f78b21850ef8f2b0.webm",
+    "jmcs://jd-contents/HoldMyHand/HoldMyHand_MID.webm": "/private/map/HoldMyHand/HoldMyHand_MID.webm/95370da99425b58f67b3a6730ff987b0.webm",
+    "jmcs://jd-contents/HoldMyHand/HoldMyHand_ULTRA.hd.webm": "/private/map/HoldMyHand/HoldMyHand_ULTRA.hd.webm/71feea8e59d852dcc979fb409d8a2049.webm",
+    "jmcs://jd-contents/HoldMyHand/HoldMyHand_ULTRA.webm": "/private/map/HoldMyHand/HoldMyHand_ULTRA.webm/a4db0b34f7768dfc91efb1f0f5e874a8.webm",
+    "jmcs://jd-contents/HoldMyHand/HoldMyHand_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HoldMyHand/HoldMyHand_MapPreviewNoSoundCrop_MID.vp8.webm/519bb4fa95167b40d792b66d9c92ac35.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"494400\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HoldMyHand/HoldMyHand_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1390309\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HoldMyHand/HoldMyHand_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\n\t\t\t\t\t<Initialization range=\"0-637\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 227.804896
+}

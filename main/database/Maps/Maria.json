@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "65bd7d80558128b2d92d96f7be9b477a",
+      "storageType": 0,
+      "url": "/public/map/Maria/nx/Maria_MAIN_SCENE_NX.zip/65bd7d80558128b2d92d96f7be9b477a.zip"
+    },
+    "pc": {
+      "md5": "faed50193e684f8bd174550dd3129ff0",
+      "storageType": 0,
+      "url": "/public/map/Maria/pc/Maria_MAIN_SCENE_PC.zip/faed50193e684f8bd174550dd3129ff0.zip"
+    },
+    "ps4": {
+      "md5": "b77086b8259e30f00d976d50162fd86e",
+      "storageType": 0,
+      "url": "/public/map/Maria/orbis/Maria_MAIN_SCENE_ORBIS.zip/b77086b8259e30f00d976d50162fd86e.zip"
+    }
+  },
+  "data": {
+    "mapName": "Maria",
+    "title": "Maria",
+    "originalJDVersion": 2014,
+    "tags": [
+      "main"
+    ],
+    "artist": "Ricky Martin",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#000000",
+    "songColor2A": "#000000",
+    "songColor1B": "#000000",
+    "songColor2B": "#000000",
+    "lyricsColor": "#0babf6"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22703,
+        45407,
+        68159,
+        90863,
+        113567,
+        136271,
+        158975,
+        181679,
+        204431,
+        227135,
+        249839,
+        272543,
+        295247,
+        317999,
+        340703,
+        363407,
+        386111,
+        408815,
+        431567,
+        454271,
+        476975,
+        499679,
+        522383,
+        545087,
+        567839,
+        590543,
+        613247,
+        635951,
+        658655,
+        681407,
+        704111,
+        726815,
+        749519,
+        772223,
+        794975,
+        817679,
+        840383,
+        863087,
+        885791,
+        908495,
+        931247,
+        953951,
+        976655,
+        999359,
+        1022063,
+        1044815,
+        1067519,
+        1090223,
+        1112927,
+        1135631,
+        1158383,
+        1181087,
+        1203790,
+        1226494,
+        1249198,
+        1271950,
+        1294654,
+        1317358,
+        1340062,
+        1362766,
+        1385470,
+        1408222,
+        1430926,
+        1453582,
+        1476238
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 526,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Maria/Maria_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Maria/nx/Maria_banner_bkg.tga.ckd/4627225689a54f082ba485ca929e211c.ckd",
+      "map_bkgImageUrl": "/public/map/Maria/nx/Maria_map_bkg.tga.ckd/a0a81886f495796eaa890dbc74dd7776.ckd",
+      "expandCoachImageUrl": "/public/map/Maria/nx/Maria_Cover_AlbumCoach.tga.ckd/b41b14be8f9f382eb3415bbd76a6920b.ckd",
+      "cover_smallImageUrl": "/public/map/Maria/nx/Maria_Cover_Online.tga.ckd/6567bafdfe030b6f269ff6152f845792.ckd",
+      "coach1ImageUrl": "/public/map/Maria/nx/Maria_Coach_1.tga.ckd/22d0e0737c5a2b890612b9deb8397c1d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Maria/pc/Maria_banner_bkg.tga.ckd/40970621db5e8b3b3e45d783b361730a.ckd",
+      "map_bkgImageUrl": "/public/map/Maria/pc/Maria_map_bkg.tga.ckd/43a9f89750c59d28067c94bf50837e5f.ckd",
+      "expandCoachImageUrl": "/public/map/Maria/pc/Maria_Cover_AlbumCoach.tga.ckd/6ca4bf38e48013a1d1f95a4247a2e908.ckd",
+      "cover_smallImageUrl": "/public/map/Maria/pc/Maria_Cover_Online.tga.ckd/d054edc5b8e248e56facfb2dcad2b720.ckd",
+      "coach1ImageUrl": "/public/map/Maria/pc/Maria_Coach_1.tga.ckd/5c3f11bccf663d7630a6db4f6ab8a897.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Maria/orbis/Maria_banner_bkg.tga.ckd/40970621db5e8b3b3e45d783b361730a.ckd",
+      "map_bkgImageUrl": "/public/map/Maria/orbis/Maria_map_bkg.tga.ckd/43a9f89750c59d28067c94bf50837e5f.ckd",
+      "expandCoachImageUrl": "/public/map/Maria/orbis/Maria_Cover_AlbumCoach.tga.ckd/6ca4bf38e48013a1d1f95a4247a2e908.ckd",
+      "cover_smallImageUrl": "/public/map/Maria/orbis/Maria_Cover_Online.tga.ckd/d054edc5b8e248e56facfb2dcad2b720.ckd",
+      "coach1ImageUrl": "/public/map/Maria/orbis/Maria_Coach_1.tga.ckd/5c3f11bccf663d7630a6db4f6ab8a897.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Maria/Maria_Coach_1_Phone.png/6382d53a55aad2871b32919cd01a3b66.png",
+    "phoneCoverImageUrl": "/public/map/Maria/Maria_Cover_Phone.jpg/1c83fb5eb942c5833498932239efd4a7.jpg",
+    "cover640ImageUrl": "/public/map/Maria/Maria_Cover_640.png/3801687e9220b9b83f8ca750946aaecb.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Maria/Maria.ogg": "/private/map/Maria/Maria.ogg/56340cac01bfb9b9e0dcd44a427978ef.ogg",
+    "jmcs://jd-contents/Maria/Maria_AudioPreview.ogg": "/public/map/Maria/Maria_AudioPreview.ogg/6150e2831376e738765666060fbddeb6.ogg",
+    "jmcs://jd-contents/Maria/Maria_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Maria/Maria_MapPreviewNoSoundCrop_LOW.vp8.webm/9a3ba8ed8b774f50f6a3b4a5a336f555.webm",
+    "jmcs://jd-contents/Maria/Maria_HIGH.webm": "/private/map/Maria/Maria_HIGH.webm/7bb5ea9652c90ae57b48c2273b1500aa.webm",
+    "jmcs://jd-contents/Maria/Maria_LOW.webm": "/private/map/Maria/Maria_LOW.webm/c0637d04662f4173826e92ddc29fccc5.webm",
+    "jmcs://jd-contents/Maria/Maria_MID.webm": "/private/map/Maria/Maria_MID.webm/feb66ab8be6a2f3d607ae7d8081dafce.webm",
+    "jmcs://jd-contents/Maria/Maria_ULTRA.hd.webm": "/private/map/Maria/Maria_ULTRA.hd.webm/631e99ab9b5369e6c3f9983cc39df95d.webm",
+    "jmcs://jd-contents/Maria/Maria_ULTRA.webm": "/private/map/Maria/Maria_ULTRA.webm/622fec2d60ef0d051ff1875687507d99.webm",
+    "jmcs://jd-contents/Maria/Maria_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Maria/Maria_MapPreviewNoSoundCrop_MID.vp8.webm/a14d82fbbd582cdb5c4713a4021787e6.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"516438\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Maria/Maria_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1501674\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Maria/Maria_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 248.839792
+}

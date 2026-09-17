@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "92ee36b11f8e1cca48e18c64e8f20079",
+      "storageType": 0,
+      "url": "/public/map/Instruction/nx/Instruction_MAIN_SCENE_NX.zip/92ee36b11f8e1cca48e18c64e8f20079.zip"
+    },
+    "pc": {
+      "md5": "dfbfe34b8442648e89fc8a764ad79783",
+      "storageType": 0,
+      "url": "/public/map/Instruction/pc/Instruction_MAIN_SCENE_PC.zip/dfbfe34b8442648e89fc8a764ad79783.zip"
+    },
+    "ps4": {
+      "md5": "1e87127f3f887917e57da9928712ede5",
+      "storageType": 0,
+      "url": "/public/map/Instruction/orbis/Instruction_MAIN_SCENE_ORBIS.zip/1e87127f3f887917e57da9928712ede5.zip"
+    }
+  },
+  "data": {
+    "mapName": "Instruction",
+    "title": "Instruction",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main",
+      "sweat"
+    ],
+    "artist": "Jax Jones ft. Demi Lovato & Stefflon Don",
+    "credits": "Written by Demitria Lovato, Timucin Aluo, Stephanie Allen and Uzoechi Osisioma Emenike. Published by Universal Music Corp. on behalf of DDLOVATO MUSIC. / Funky Wonton Ltd. (ASCAP). Administered by Kobalt Songs Music Publishing. / Sony/ATV Music Publishing Allegro (UK) (PRS) c/o Sony/ATV Music Publishing Canada (SOCAN). / Warner/Chappell Music LTD. (PRS). All rights reserved. Used with permission. Courtesy of Interscope Records/ Polydor Records under license from Universal Music Enterprises. / 2017 Polydor Records under exclusive license to etcetc Music Pty. Ltd. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#ffdd00",
+    "songColor2A": "#003fff",
+    "songColor1B": "#c13801",
+    "songColor2B": "#0104a3",
+    "lyricsColor": "#f81377",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23807,
+        47615,
+        71423,
+        95183,
+        118991,
+        142799,
+        166607,
+        190415,
+        214223,
+        238031,
+        261839,
+        285599,
+        309407,
+        333215,
+        357023,
+        380830,
+        404638,
+        428446,
+        452206,
+        476014,
+        499822,
+        523630,
+        547438,
+        571246,
+        595054,
+        618862,
+        642622,
+        666430,
+        690238,
+        714046,
+        737854,
+        761661,
+        785469,
+        809277,
+        833037,
+        856845,
+        880653,
+        904461,
+        928269,
+        952077,
+        975885,
+        999645,
+        1023453,
+        1047261,
+        1071069,
+        1094877,
+        1118685,
+        1142492,
+        1166300,
+        1190060,
+        1213868,
+        1237676,
+        1261484,
+        1285292,
+        1309100,
+        1332908,
+        1356668,
+        1380476,
+        1404284,
+        1428092,
+        1451900,
+        1475708,
+        1499516
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 339,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Instruction/Instruction_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Instruction/nx/Instruction_banner_bkg.tga.ckd/4fabb39bc497206c0384d55c3cb5deaf.ckd",
+      "map_bkgImageUrl": "/public/map/Instruction/nx/Instruction_map_bkg.tga.ckd/81fd8f0525e76809ad99cc7819b10aee.ckd",
+      "expandCoachImageUrl": "/public/map/Instruction/nx/Instruction_Cover_AlbumCoach.tga.ckd/e271db2a3bdb54c2593349e79ad96f75.ckd",
+      "cover_smallImageUrl": "/public/map/Instruction/nx/Instruction_Cover_Online.tga.ckd/21f489bff95ac53a3827c37b4a06a1ce.ckd",
+      "coverImageUrl": "/public/map/Instruction/nx/Instruction_Cover_Generic.tga.ckd/436f06869103392034c4b80b10ba0db7.ckd",
+      "coach1ImageUrl": "/public/map/Instruction/nx/Instruction_Coach_1.tga.ckd/33742417b2422f99379b439d3c85e0fd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Instruction/pc/Instruction_banner_bkg.tga.ckd/1da7aec7a15f906e049e28406497f27e.ckd",
+      "map_bkgImageUrl": "/public/map/Instruction/pc/Instruction_map_bkg.tga.ckd/c518d57bb3e04bdffe5f43c292f64ead.ckd",
+      "expandCoachImageUrl": "/public/map/Instruction/pc/Instruction_Cover_AlbumCoach.tga.ckd/9b471b2d357580f1bc812bc44587647b.ckd",
+      "cover_smallImageUrl": "/public/map/Instruction/pc/Instruction_Cover_Online.tga.ckd/bcbc7f94a75a56f0a92dd7b625ed29e2.ckd",
+      "coverImageUrl": "/public/map/Instruction/pc/Instruction_Cover_Generic.tga.ckd/1cb8bb836cf14ec3f50340d523037333.ckd",
+      "coach1ImageUrl": "/public/map/Instruction/pc/Instruction_Coach_1.tga.ckd/505c7ffc7238c48f043082e3397967cd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Instruction/orbis/Instruction_banner_bkg.tga.ckd/1da7aec7a15f906e049e28406497f27e.ckd",
+      "map_bkgImageUrl": "/public/map/Instruction/orbis/Instruction_map_bkg.tga.ckd/c518d57bb3e04bdffe5f43c292f64ead.ckd",
+      "expandCoachImageUrl": "/public/map/Instruction/orbis/Instruction_Cover_AlbumCoach.tga.ckd/9b471b2d357580f1bc812bc44587647b.ckd",
+      "cover_smallImageUrl": "/public/map/Instruction/orbis/Instruction_Cover_Online.tga.ckd/bcbc7f94a75a56f0a92dd7b625ed29e2.ckd",
+      "coverImageUrl": "/public/map/Instruction/orbis/Instruction_Cover_Generic.tga.ckd/1cb8bb836cf14ec3f50340d523037333.ckd",
+      "coach1ImageUrl": "/public/map/Instruction/orbis/Instruction_Coach_1.tga.ckd/505c7ffc7238c48f043082e3397967cd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Instruction/Instruction_Coach_1_Phone.png/b98c68f20549ae3f5e199d8bfaf030b7.png",
+    "phoneCoverImageUrl": "/public/map/Instruction/Instruction_Cover_Phone.jpg/df86715eaf75a7876e36c13db2413664.jpg",
+    "cover640ImageUrl": "/public/map/Instruction/Instruction_Cover_640.png/6e363a2cef446c09831e3ab164045c53.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Instruction/Instruction.ogg": "/private/map/Instruction/Instruction.ogg/4135cb0753e62366edbaef9095b843cd.ogg",
+    "jmcs://jd-contents/Instruction/Instruction_AudioPreview.ogg": "/public/map/Instruction/Instruction_AudioPreview.ogg/0baf0963e9928970305c19fdb073852a.ogg",
+    "jmcs://jd-contents/Instruction/Instruction_HIGH.webm": "/private/map/Instruction/Instruction_HIGH.webm/f39f0ba92936bc7afe9260763687012e.webm",
+    "jmcs://jd-contents/Instruction/Instruction_LOW.webm": "/private/map/Instruction/Instruction_LOW.webm/1f16e440241381bf995749e5ba6ffae3.webm",
+    "jmcs://jd-contents/Instruction/Instruction_MID.webm": "/private/map/Instruction/Instruction_MID.webm/2d4fdbc9d4709bb0afdf2d4986c55318.webm",
+    "jmcs://jd-contents/Instruction/Instruction_ULTRA.hd.webm": "/private/map/Instruction/Instruction_ULTRA.hd.webm/e1f4959f383bb6fd3ef9fa85b88257d1.webm",
+    "jmcs://jd-contents/Instruction/Instruction_ULTRA.webm": "/private/map/Instruction/Instruction_ULTRA.webm/ace8a74d8d3e14c5e769981a9013fce5.webm",
+    "jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Instruction/Instruction_MapPreviewNoSoundCrop_LOW.vp8.webm/db64572801ca7916581d8558a6ff8e9f.webm",
+    "jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Instruction/Instruction_MapPreviewNoSoundCrop_MID.vp8.webm/5f04c5dfdb96944a33fe86563aae7e17.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497281\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1123\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483334\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Instruction/Instruction_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 168.599792
+}

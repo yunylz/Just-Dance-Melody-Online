@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1943e481a456ed6111b23566df634bae",
+      "storageType": 0,
+      "url": "/public/map/Calypso/nx/Calypso_MAIN_SCENE_NX.zip/1943e481a456ed6111b23566df634bae.zip"
+    },
+    "pc": {
+      "md5": "dbc1a60099fbc827330b578af99e750d",
+      "storageType": 0,
+      "url": "/public/map/Calypso/pc/Calypso_MAIN_SCENE_PC.zip/dbc1a60099fbc827330b578af99e750d.zip"
+    },
+    "ps4": {
+      "md5": "7c578e45c4fb8747d5a95ecb3741d43a",
+      "storageType": 0,
+      "url": "/public/map/Calypso/orbis/Calypso_MAIN_SCENE_ORBIS.zip/7c578e45c4fb8747d5a95ecb3741d43a.zip"
+    }
+  },
+  "data": {
+    "mapName": "Calypso",
+    "title": "Calypso",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main"
+    ],
+    "artist": "Luis Fonsi Ft. Stefflon Don",
+    "credits": "Written by Andres Torres, Luis Fonsi, Stephanie Allen, Mauricio Rengifo, Oladayo Oyinlola Olatunji. Published by Dafons Songs/Sony/ATV Latin Music Publishing LLC (BMI) and Sony/ATV Music Publishing Allegro (UK) (PRS) both c/o Sony/ATV Music Publishing Canada (SOCAN) / Warner-Tamerlane Publishing Corp. (BMI), Sonic Panda Music (BMI), Mauricio Rengifo Pub Designee (ASCAP), WB Music Corp. (ASCAP) and WARNER/CHAPPELL MUSIC LTD (PRS). All rights on behalf of itself and Mauricio Rengifo Pub Designee administered by WB Music Corp. All rights on behalf of itself and Sonic Panda Music and WARNER/CHAPPELL MUSIC LTD administered by Warner-Tamerlane Publishing Corp. All rights reserved. Used with permission. Courtesy of Universal Music Latino under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#57f1f9",
+    "songColor2A": "#fc97c6",
+    "songColor1B": "#0132ad",
+    "songColor2B": "#f91d88",
+    "lyricsColor": "#03d09e",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26159,
+        52367,
+        78527,
+        104735,
+        130895,
+        157103,
+        183263,
+        209471,
+        235631,
+        261839,
+        287999,
+        314159,
+        340367,
+        366527,
+        392735,
+        418895,
+        445103,
+        471263,
+        497471,
+        523631,
+        549839,
+        575999,
+        602159,
+        628367,
+        654527,
+        680735,
+        706895,
+        733103,
+        759263,
+        785471,
+        811631,
+        837839,
+        863999,
+        890159,
+        916367,
+        942527,
+        968735,
+        994895,
+        1021103,
+        1047263,
+        1073471,
+        1099631,
+        1125839,
+        1151999,
+        1178159,
+        1204367,
+        1230527,
+        1256735,
+        1282895,
+        1309103,
+        1335263,
+        1361471,
+        1387631,
+        1413839,
+        1439999,
+        1466159,
+        1492367
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 370,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Calypso/Calypso_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Calypso/nx/Calypso_banner_bkg.tga.ckd/172f04d600e4e2e896173b1cd8b48ac4.ckd",
+      "map_bkgImageUrl": "/public/map/Calypso/nx/Calypso_map_bkg.tga.ckd/e338e48f2441a7fd23a8218f4db09a0a.ckd",
+      "expandCoachImageUrl": "/public/map/Calypso/nx/Calypso_Cover_AlbumCoach.tga.ckd/6616cb494e5fdaa015094e64623a4b15.ckd",
+      "cover_smallImageUrl": "/public/map/Calypso/nx/Calypso_Cover_Online.tga.ckd/bce4e1cb04dae8956f1e831d44fc5717.ckd",
+      "coverImageUrl": "/public/map/Calypso/nx/Calypso_Cover_Generic.tga.ckd/426e6ffa4928a76e208cdd802f710ec7.ckd",
+      "coach1ImageUrl": "/public/map/Calypso/nx/Calypso_Coach_1.tga.ckd/139a5b0046f6700be16a8485315f867e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Calypso/pc/Calypso_banner_bkg.tga.ckd/e1e4547b4ce19fba488c1db8979182de.ckd",
+      "map_bkgImageUrl": "/public/map/Calypso/pc/Calypso_map_bkg.tga.ckd/b0e40839b714c779729763ad14a7b547.ckd",
+      "expandCoachImageUrl": "/public/map/Calypso/pc/Calypso_Cover_AlbumCoach.tga.ckd/56c0c704636e841e08b7e07fe430c490.ckd",
+      "cover_smallImageUrl": "/public/map/Calypso/pc/Calypso_Cover_Online.tga.ckd/ae4c302aaa3e4459473a257ce1265b79.ckd",
+      "coverImageUrl": "/public/map/Calypso/pc/Calypso_Cover_Generic.tga.ckd/298a8a325479fc5bd8d61762a02e3608.ckd",
+      "coach1ImageUrl": "/public/map/Calypso/pc/Calypso_Coach_1.tga.ckd/33e46dc400cb397fafbad16f3ce3be0b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Calypso/orbis/Calypso_banner_bkg.tga.ckd/e1e4547b4ce19fba488c1db8979182de.ckd",
+      "map_bkgImageUrl": "/public/map/Calypso/orbis/Calypso_map_bkg.tga.ckd/b0e40839b714c779729763ad14a7b547.ckd",
+      "expandCoachImageUrl": "/public/map/Calypso/orbis/Calypso_Cover_AlbumCoach.tga.ckd/56c0c704636e841e08b7e07fe430c490.ckd",
+      "cover_smallImageUrl": "/public/map/Calypso/orbis/Calypso_Cover_Online.tga.ckd/ae4c302aaa3e4459473a257ce1265b79.ckd",
+      "coverImageUrl": "/public/map/Calypso/orbis/Calypso_Cover_Generic.tga.ckd/298a8a325479fc5bd8d61762a02e3608.ckd",
+      "coach1ImageUrl": "/public/map/Calypso/orbis/Calypso_Coach_1.tga.ckd/33e46dc400cb397fafbad16f3ce3be0b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Calypso/Calypso_Coach_1_Phone.png/3109de4eca130664dd5ff70378632e06.png",
+    "phoneCoverImageUrl": "/public/map/Calypso/Calypso_Cover_Phone.jpg/deeb522c1a094514d21029a3751d64df.jpg",
+    "cover640ImageUrl": "/public/map/Calypso/Calypso_Cover_640.png/c3270889a6f8ed70236835491263d7bb.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Calypso/Calypso.ogg": "/private/map/Calypso/Calypso.ogg/a1d654e5c9ebbdea44ab234bafcae866.ogg",
+    "jmcs://jd-contents/Calypso/Calypso_AudioPreview.ogg": "/public/map/Calypso/Calypso_AudioPreview.ogg/26ebc2e4fa58d58b86d7132483094ebf.ogg",
+    "jmcs://jd-contents/Calypso/Calypso_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Calypso/Calypso_MapPreviewNoSoundCrop_LOW.vp8.webm/64929f248d772b7245c21909565a8b4b.webm",
+    "jmcs://jd-contents/Calypso/Calypso_HIGH.webm": "/private/map/Calypso/Calypso_HIGH.webm/4aec1cc15da29e71ab553fff53cc940c.webm",
+    "jmcs://jd-contents/Calypso/Calypso_LOW.webm": "/private/map/Calypso/Calypso_LOW.webm/6f1f23200468d54b1165d45daef70026.webm",
+    "jmcs://jd-contents/Calypso/Calypso_MID.webm": "/private/map/Calypso/Calypso_MID.webm/6b35c2ec738348588061d88bf68dc260.webm",
+    "jmcs://jd-contents/Calypso/Calypso_ULTRA.hd.webm": "/private/map/Calypso/Calypso_ULTRA.hd.webm/22a253ad366037b4026520b71e723298.webm",
+    "jmcs://jd-contents/Calypso/Calypso_ULTRA.webm": "/private/map/Calypso/Calypso_ULTRA.webm/40c656c0917281d1874e24c2772620b3.webm",
+    "jmcs://jd-contents/Calypso/Calypso_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Calypso/Calypso_MapPreviewNoSoundCrop_MID.vp8.webm/8de173d9a951e29e6bb2c0ed412da87c.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497553\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Calypso/Calypso_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1107\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482030\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Calypso/Calypso_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"619-1109\">\n\t\t\t\t\t<Initialization range=\"0-619\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 206.182375
+}

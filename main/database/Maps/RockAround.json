@@ -1,0 +1,149 @@
+{
+  "urls": {
+    "jmcs://jd-contents/RockAround/RockAround.ogg": "/private/map/RockAround/RockAround.ogg/8dc86fa4b8efb9b296cc9a20ba1d8531.ogg",
+    "jmcs://jd-contents/RockAround/RockAround_AudioPreview.ogg": "/public/map/RockAround/RockAround_AudioPreview.ogg/e9d8b50096dfee53791b020e3fcf7043.ogg",
+    "jmcs://jd-contents/RockAround/RockAround_HIGH.hd.webm": "/private/map/RockAround/RockAround_HIGH.hd.webm/d12934abbd8a39a866fecdb1cb9eb8aa.webm",
+    "jmcs://jd-contents/RockAround/RockAround_LOW.hd.webm": "/private/map/RockAround/RockAround_LOW.hd.webm/1848ef0bb78464ef231dafb17801fee8.webm",
+    "jmcs://jd-contents/RockAround/RockAround_MID.hd.webm": "/private/map/RockAround/RockAround_MID.hd.webm/ac8032291d3bddc1f523fef920c91b0c.webm",
+    "jmcs://jd-contents/RockAround/RockAround_ULTRA.hd.webm": "/private/map/RockAround/RockAround_ULTRA.hd.webm/ace43e25fe4f30108b73bdf3e1a987a4.webm",
+    "jmcs://jd-contents/RockAround/RockAround_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RockAround/RockAround_MapPreviewNoSoundCrop_LOW.vp8.webm/64ad0318dac9ff0315708d8af99bdf4d.webm",
+    "jmcs://jd-contents/RockAround/RockAround_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RockAround/RockAround_MapPreviewNoSoundCrop_MID.vp8.webm/5264fcae87c5c2f1827f8120952aabd0.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        40563,
+        81127,
+        121690,
+        162254,
+        204288,
+        245606,
+        286232,
+        326858,
+        368176,
+        408802,
+        449427,
+        490053,
+        530679,
+        571304,
+        612623,
+        653248,
+        693874,
+        735192,
+        776510,
+        817136,
+        858454,
+        899080,
+        939706,
+        980331,
+        1021650,
+        1062968,
+        1102924,
+        1143549,
+        1184175,
+        1225493,
+        1266812,
+        1307437,
+        1348063,
+        1389381,
+        1430699,
+        1470655,
+        1511974
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 154,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 35,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RockAround/RockAround_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "1a3d4c57d9b11cc0a8e3dc9195ea12fc",
+      "storageType": 0,
+      "url": "/public/map/RockAround/nx/RockAround_MAIN_SCENE_NX.zip/1a3d4c57d9b11cc0a8e3dc9195ea12fc.zip"
+    },
+    "pc": {
+      "md5": "cb1e71b5ea760208e1dba3dc30569c74",
+      "storageType": 0,
+      "url": "/public/map/RockAround/pc/RockAround_MAIN_SCENE_PC.zip/cb1e71b5ea760208e1dba3dc30569c74.zip"
+    },
+    "ps4": {
+      "md5": "bd49b25ce0995a03344e8c319ec1c019",
+      "storageType": 0,
+      "url": "/public/map/RockAround/orbis/RockAround_MAIN_SCENE_ORBIS.zip/bd49b25ce0995a03344e8c319ec1c019.zip"
+    }
+  },
+  "data": {
+    "mapName": "RockAround",
+    "title": "Rockin’ Around the Christmas Tree",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Brenda Lee",
+    "credits": "“Rockin' Around the Christmas Tree” Written by Johnny Marks Published by ST NICHOLAS MUSIC INC (ASCAP) Steve Ouimette - Production, recording, mixing, guitar, bass, drums, BGV Elisa Zoot - Vocals Jamie Hosmer - Keys Matt Lappin - Sax Courtesy of Ubisoft Music All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#de1001",
+    "songColor2A": "#ff9f08",
+    "songColor1B": "#050000",
+    "songColor2B": "#410c02",
+    "lyricsColor": "#fdbd0f",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RockAround/nx/RockAround_banner_bkg.tga.ckd/335ef3737a8312fdd947f36921b30e16.ckd",
+      "map_bkgImageUrl": "/public/map/RockAround/nx/RockAround_map_bkg.tga.ckd/ea0408306c83f091fdebf20620e2bf83.ckd",
+      "expandCoachImageUrl": "/public/map/RockAround/nx/RockAround_Cover_AlbumCoach.tga.ckd/2613a5225dd4b4a80857b16b55342e50.ckd",
+      "cover_smallImageUrl": "/public/map/RockAround/nx/RockAround_Cover_Online.tga.ckd/f0dd2d465d5078979937138ced3b6f23.ckd",
+      "coverImageUrl": "/public/map/RockAround/nx/RockAround_Cover_Generic.tga.ckd/b26ae18a621d10fd132229d885533629.ckd",
+      "coach1ImageUrl": "/public/map/RockAround/nx/RockAround_Coach_1.tga.ckd/e89e338bda01a1b7d284a5693025a32b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RockAround/pc/RockAround_banner_bkg.tga.ckd/37af7fc336892123f30415e55579f2d1.ckd",
+      "map_bkgImageUrl": "/public/map/RockAround/pc/RockAround_map_bkg.tga.ckd/bc914b1949fa60a9b90b0346be3761af.ckd",
+      "expandCoachImageUrl": "/public/map/RockAround/pc/RockAround_Cover_AlbumCoach.tga.ckd/39dd9e80d68b200bca728797df674dff.ckd",
+      "cover_smallImageUrl": "/public/map/RockAround/pc/RockAround_Cover_Online.tga.ckd/bec8be76f14fd40e622fc6e277fb8ed5.ckd",
+      "coverImageUrl": "/public/map/RockAround/pc/RockAround_Cover_Generic.tga.ckd/2a4716e682c5df7f18677a52594f8913.ckd",
+      "coach1ImageUrl": "/public/map/RockAround/pc/RockAround_Coach_1.tga.ckd/694e147a72ade89b15698dcb3aa76654.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RockAround/orbis/RockAround_banner_bkg.tga.ckd/37af7fc336892123f30415e55579f2d1.ckd",
+      "map_bkgImageUrl": "/public/map/RockAround/orbis/RockAround_map_bkg.tga.ckd/bc914b1949fa60a9b90b0346be3761af.ckd",
+      "expandCoachImageUrl": "/public/map/RockAround/orbis/RockAround_Cover_AlbumCoach.tga.ckd/39dd9e80d68b200bca728797df674dff.ckd",
+      "cover_smallImageUrl": "/public/map/RockAround/orbis/RockAround_Cover_Online.tga.ckd/bec8be76f14fd40e622fc6e277fb8ed5.ckd",
+      "coverImageUrl": "/public/map/RockAround/orbis/RockAround_Cover_Generic.tga.ckd/2a4716e682c5df7f18677a52594f8913.ckd",
+      "coach1ImageUrl": "/public/map/RockAround/orbis/RockAround_Coach_1.tga.ckd/694e147a72ade89b15698dcb3aa76654.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RockAround/RockAround_Coach_1_Phone.png/b3d3214aebb45ad7c497ecae5148820d.png",
+    "phoneCoverImageUrl": "/public/map/RockAround/RockAround_Cover_Phone.jpg/5ca64666be934e2353629456949b9244.jpg",
+    "cover640ImageUrl": "/public/map/RockAround/RockAround_Cover_640.png/8f3ce0f9f6994f7ea89cf6b805595939.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"582848\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RockAround/RockAround_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"679-1169\">\n\t\t\t\t\t<Initialization range=\"0-679\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1995871\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RockAround/RockAround_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"679-1169\">\n\t\t\t\t\t<Initialization range=\"0-679\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 140.496438
+}

@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c064f79cef5c9fe916cb7553663db24e",
+      "storageType": 0,
+      "url": "/public/map/Candy/nx/Candy_MAIN_SCENE_NX.zip/c064f79cef5c9fe916cb7553663db24e.zip"
+    },
+    "pc": {
+      "md5": "c757dd7f1ab40aa047a26fc9cb061b82",
+      "storageType": 0,
+      "url": "/public/map/Candy/pc/Candy_MAIN_SCENE_PC.zip/c757dd7f1ab40aa047a26fc9cb061b82.zip"
+    },
+    "ps4": {
+      "md5": "627b729815de48ae371587a9f9d0a9c4",
+      "storageType": 0,
+      "url": "/public/map/Candy/orbis/Candy_MAIN_SCENE_ORBIS.zip/627b729815de48ae371587a9f9d0a9c4.zip"
+    }
+  },
+  "data": {
+    "mapName": "Candy",
+    "title": "Candy",
+    "originalJDVersion": 2014,
+    "tags": [
+      "JustDance2014",
+      "subscribedSong"
+    ],
+    "artist": "Robbie Williams",
+    "credits": "Written by Robert Williams, Gary Barlow and Terje Olsen. Published by Sony/ATV Music Publishing (UK) Ltd. (PRS) / Smalltown Supermusic (STIM) c/o Sony/ATV Music Publishing Canada (SOCAN)/ Farrell Music Limited. All Rights Reserved. Used With Permission. Courtesy of Universal-Island Records Ltd. under license from Universal Music Enterprises / Farrell Music Limited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#006dcc",
+    "songColor2A": "#e99400",
+    "songColor1B": "#00161b",
+    "songColor2B": "#994800",
+    "lyricsColor": "#f65301"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24815,
+        49679,
+        74495,
+        99311,
+        124127,
+        148991,
+        173807,
+        198623,
+        223439,
+        248303,
+        273119,
+        297935,
+        322751,
+        347615,
+        372431,
+        397247,
+        422063,
+        446927,
+        471743,
+        496559,
+        521423,
+        546239,
+        571055,
+        595871,
+        620735,
+        645551,
+        670367,
+        695183,
+        720047,
+        744863,
+        769679,
+        794495,
+        819359,
+        844175,
+        868991,
+        893807,
+        918671,
+        943487,
+        968303,
+        993167,
+        1017983,
+        1042799,
+        1067615,
+        1092479,
+        1117295,
+        1142111,
+        1166927,
+        1191791,
+        1216607,
+        1241423,
+        1266239,
+        1291103,
+        1315919,
+        1340735,
+        1365551,
+        1390415,
+        1415231,
+        1440047,
+        1464911,
+        1489727
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 388,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Candy/Candy_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Candy/nx/Candy_banner_bkg.tga.ckd/fb0445eb0aa3afe4f1e1dd24243c4f42.ckd",
+      "map_bkgImageUrl": "/public/map/Candy/nx/Candy_map_bkg.tga.ckd/cc3cb1bfdd96779195f80f5a7e992f41.ckd",
+      "expandCoachImageUrl": "/public/map/Candy/nx/Candy_Cover_AlbumCoach.tga.ckd/9e59dafefd3d53e17cb09dc23f875eba.ckd",
+      "cover_smallImageUrl": "/public/map/Candy/nx/Candy_Cover_Online.tga.ckd/5b55a23517004ef32293f8606172b7e0.ckd",
+      "coach1ImageUrl": "/public/map/Candy/nx/Candy_Coach_1.tga.ckd/b1806ab7ff7ca2244a873036f8f8a72f.ckd",
+      "coach2ImageUrl": "/public/map/Candy/nx/Candy_Coach_2.tga.ckd/4c59060f41591c544e818518a33cf4ad.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Candy/pc/Candy_banner_bkg.tga.ckd/0fd8afe51795f967f5b598f7240bfaf6.ckd",
+      "map_bkgImageUrl": "/public/map/Candy/pc/Candy_map_bkg.tga.ckd/a9727c0983c5efc87ec6aa92f0ed8ee1.ckd",
+      "expandCoachImageUrl": "/public/map/Candy/pc/Candy_Cover_AlbumCoach.tga.ckd/7aabea71e6126191303506caeafc9108.ckd",
+      "cover_smallImageUrl": "/public/map/Candy/pc/Candy_Cover_Online.tga.ckd/14000b4248103df98539b89ea331d7d1.ckd",
+      "coach1ImageUrl": "/public/map/Candy/pc/Candy_Coach_1.tga.ckd/a6bd0b334258cfdc0bf33c8e157ea193.ckd",
+      "coach2ImageUrl": "/public/map/Candy/pc/Candy_Coach_2.tga.ckd/67548fc8d7491729454921656edd64f3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Candy/orbis/Candy_banner_bkg.tga.ckd/0fd8afe51795f967f5b598f7240bfaf6.ckd",
+      "map_bkgImageUrl": "/public/map/Candy/orbis/Candy_map_bkg.tga.ckd/a9727c0983c5efc87ec6aa92f0ed8ee1.ckd",
+      "expandCoachImageUrl": "/public/map/Candy/orbis/Candy_Cover_AlbumCoach.tga.ckd/7aabea71e6126191303506caeafc9108.ckd",
+      "cover_smallImageUrl": "/public/map/Candy/orbis/Candy_Cover_Online.tga.ckd/14000b4248103df98539b89ea331d7d1.ckd",
+      "coach1ImageUrl": "/public/map/Candy/orbis/Candy_Coach_1.tga.ckd/a6bd0b334258cfdc0bf33c8e157ea193.ckd",
+      "coach2ImageUrl": "/public/map/Candy/orbis/Candy_Coach_2.tga.ckd/67548fc8d7491729454921656edd64f3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Candy/Candy_Coach_1_Phone.png/23152a313b9274ad4280d2eea9c535d9.png",
+    "phoneCoach2ImageUrl": "/public/map/Candy/Candy_Coach_2_Phone.png/8c5715fe8b55cf3515bfa6bd6c99de30.png",
+    "phoneCoverImageUrl": "/public/map/Candy/Candy_Cover_Phone.jpg/2d7e5fc01e4595afe2385faa55814b09.jpg",
+    "cover640ImageUrl": "/public/map/Candy/Candy_Cover_640.png/780d342cb2dad1929bccf1489e415c14.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Candy/Candy.ogg": "/private/map/Candy/Candy.ogg/eb98a0e73a3b0943dbfe04ed531b71d1.ogg",
+    "jmcs://jd-contents/Candy/Candy_AudioPreview.ogg": "/public/map/Candy/Candy_AudioPreview.ogg/5b6a024a2d6bfdb5f4a913d8f4560547.ogg",
+    "jmcs://jd-contents/Candy/Candy_HIGH.webm": "/private/map/Candy/Candy_HIGH.webm/118519e60b45d5134ffc1ba3dd48d7e4.webm",
+    "jmcs://jd-contents/Candy/Candy_LOW.webm": "/private/map/Candy/Candy_LOW.webm/ee6ffdd39a9464a0f4cd07d1926e83e1.webm",
+    "jmcs://jd-contents/Candy/Candy_MID.webm": "/private/map/Candy/Candy_MID.webm/296d79d0d112ba81f8d75607001997c4.webm",
+    "jmcs://jd-contents/Candy/Candy_ULTRA.hd.webm": "/private/map/Candy/Candy_ULTRA.hd.webm/6cc1c597ca3c766ec680bae952724e70.webm",
+    "jmcs://jd-contents/Candy/Candy_ULTRA.webm": "/private/map/Candy/Candy_ULTRA.webm/5ea734fd80d34960890c55a625c8ef6b.webm",
+    "jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Candy/Candy_MapPreviewNoSoundCrop_LOW.vp8.webm/1ccb5146a133acad6a074fff904d0b80.webm",
+    "jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Candy/Candy_MapPreviewNoSoundCrop_MID.vp8.webm/0939a3580557b81f23678a76bab42202.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496916\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1450142\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Candy/Candy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 201.816979
+}

@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1d2f10447782aad0aaf7b939c9e17a70",
+      "storageType": 0,
+      "url": "/public/map/Toxic/nx/Toxic_MAIN_SCENE_NX.zip/1d2f10447782aad0aaf7b939c9e17a70.zip"
+    },
+    "pc": {
+      "md5": "4c063f4d149e4208d2f1dadb919d9fa2",
+      "storageType": 0,
+      "url": "/public/map/Toxic/pc/Toxic_MAIN_SCENE_PC.zip/4c063f4d149e4208d2f1dadb919d9fa2.zip"
+    },
+    "ps4": {
+      "md5": "fc963dbb7b4afb74063849a01cb3f383",
+      "storageType": 0,
+      "url": "/public/map/Toxic/orbis/Toxic_MAIN_SCENE_ORBIS.zip/fc963dbb7b4afb74063849a01cb3f383.zip"
+    }
+  },
+  "data": {
+    "mapName": "Toxic",
+    "title": "Toxic",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Britney Spears",
+    "credits": "Written by Cathy Dennis, Henrik Nils Jonback, Christian Lars Karlsson, Pontus Winnberg. Published by Toxic Songs Ltd. (PRS) \\/ BMG Gold Songs (ASCAP) All rights administered by BMG Rights Management (US) LLC \\/ Brick Island Music Publishing [BMI] Admin by Kobalt Songs Music Publishing. Courtesy of RCA Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF10BB",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        20139,
+        40278,
+        60418,
+        80557,
+        100696,
+        120836,
+        140975,
+        161114,
+        181254,
+        201393,
+        221532,
+        241671,
+        261811,
+        281950,
+        302089,
+        322229,
+        342368,
+        362507,
+        382647,
+        402786,
+        422925,
+        443065,
+        463204,
+        483343,
+        503483,
+        523622,
+        543761,
+        563901,
+        584040,
+        604179,
+        624319,
+        644458,
+        664597,
+        684736,
+        704876,
+        725015,
+        745154,
+        765294,
+        785433,
+        805572,
+        825712,
+        845851,
+        865990,
+        886130,
+        906269,
+        926408,
+        946548,
+        966687,
+        986826,
+        1006966,
+        1027105,
+        1047244,
+        1067384,
+        1087523,
+        1107662,
+        1127802,
+        1147941,
+        1168080,
+        1188219,
+        1208359,
+        1228498,
+        1248637,
+        1268777,
+        1288916,
+        1309055,
+        1329195,
+        1349334,
+        1369473,
+        1389613,
+        1409752,
+        1429891
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 2
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 481,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 71,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/toxic/toxic_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Toxic/nx/Toxic_banner_bkg.tga.ckd/542fa94e2ca2db0796f870473346acd6.ckd",
+      "map_bkgImageUrl": "/public/map/Toxic/nx/Toxic_map_bkg.tga.ckd/de81a41f1c6105e6e9dce2e16035cd97.ckd",
+      "expandCoachImageUrl": "/public/map/Toxic/nx/Toxic_Cover_AlbumCoach.tga.ckd/c1f283f63b5bb586207e6635d238899a.ckd",
+      "cover_smallImageUrl": "/public/map/Toxic/nx/Toxic_Cover_Online.tga.ckd/7fb1d04e554bf211df4cd0bd73afdd35.ckd",
+      "coach1ImageUrl": "/public/map/Toxic/nx/Toxic_Coach_1.tga.ckd/1a8535efc16bca7bbf02ea35a95997cd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Toxic/pc/Toxic_banner_bkg.tga.ckd/8edb403c74dfc026a4e7490971b4bfff.ckd",
+      "map_bkgImageUrl": "/public/map/Toxic/pc/Toxic_map_bkg.tga.ckd/f62a9167f81ddc8fb83f1e9e97c40d3a.ckd",
+      "expandCoachImageUrl": "/public/map/Toxic/pc/Toxic_Cover_AlbumCoach.tga.ckd/682743a30c5cd049344238bb9bf3a53b.ckd",
+      "cover_smallImageUrl": "/public/map/Toxic/pc/Toxic_Cover_Online.tga.ckd/71dc8b5eb50fd663e8015c187242e96b.ckd",
+      "coach1ImageUrl": "/public/map/Toxic/pc/Toxic_Coach_1.tga.ckd/0f5c1b5a12d2e86a2d4e8ab6c2227da3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Toxic/orbis/Toxic_banner_bkg.tga.ckd/8edb403c74dfc026a4e7490971b4bfff.ckd",
+      "map_bkgImageUrl": "/public/map/Toxic/orbis/Toxic_map_bkg.tga.ckd/f62a9167f81ddc8fb83f1e9e97c40d3a.ckd",
+      "expandCoachImageUrl": "/public/map/Toxic/orbis/Toxic_Cover_AlbumCoach.tga.ckd/682743a30c5cd049344238bb9bf3a53b.ckd",
+      "cover_smallImageUrl": "/public/map/Toxic/orbis/Toxic_Cover_Online.tga.ckd/71dc8b5eb50fd663e8015c187242e96b.ckd",
+      "coach1ImageUrl": "/public/map/Toxic/orbis/Toxic_Coach_1.tga.ckd/0f5c1b5a12d2e86a2d4e8ab6c2227da3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Toxic/Toxic_Coach_1_Phone.png/037c39bf3de65ce58930d1efc566c816.png",
+    "phoneCoverImageUrl": "/public/map/Toxic/Toxic_Cover_Phone.jpg/7dda739b0b1148ca1f3602de7f9db8b0.jpg",
+    "cover640ImageUrl": "/public/map/Toxic/Toxic_Cover_640.png/4b06cc9b2de98bc3763759054c639e82.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Toxic/Toxic.ogg": "/private/map/Toxic/Toxic.ogg/26e3c66a1cdc47363ea9536810aa7028.ogg",
+    "jmcs://jd-contents/Toxic/Toxic_AudioPreview.ogg": "/public/map/Toxic/Toxic_AudioPreview.ogg/f2732110e4daf4e21572ffecff6b04a7.ogg",
+    "jmcs://jd-contents/Toxic/Toxic_HIGH.webm": "/private/map/Toxic/Toxic_HIGH.webm/6f79cf5bd1327e800e2d82c29be38535.webm",
+    "jmcs://jd-contents/Toxic/Toxic_LOW.webm": "/private/map/Toxic/Toxic_LOW.webm/2a8f399ac441781d139e5cf1184e6d5b.webm",
+    "jmcs://jd-contents/Toxic/Toxic_MID.webm": "/private/map/Toxic/Toxic_MID.webm/e2b41995e654d3c200cb074caba72497.webm",
+    "jmcs://jd-contents/Toxic/Toxic_ULTRA.hd.webm": "/private/map/Toxic/Toxic_ULTRA.hd.webm/a69fcc8a6d4a5cf92561962c6aceade4.webm",
+    "jmcs://jd-contents/Toxic/Toxic_ULTRA.webm": "/private/map/Toxic/Toxic_ULTRA.webm/d0f5b8cab5abff8796cc9f8d456f93cf.webm",
+    "jmcs://jd-contents/Toxic/Toxic_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Toxic/Toxic_MapPreviewNoSoundCrop_LOW.vp8.webm/4b69bfb9ff241cda28cf45c46aa22f6e.webm",
+    "jmcs://jd-contents/Toxic/Toxic_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Toxic/Toxic_MapPreviewNoSoundCrop_MID.vp8.webm/5b71252636dfae5ca11595159e81dff2.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495068\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Toxic/Toxic_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"593-1082\">\n\t\t\t\t\t<Initialization range=\"0-593\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1262999\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Toxic/Toxic_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"594-1084\">\n\t\t\t\t\t<Initialization range=\"0-594\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 202.377542
+}

@@ -1,0 +1,149 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4f06b57ed80e143a4651b7f7e031c52e",
+      "storageType": 0,
+      "url": "/public/map/MJEarthSong/nx/MJEarthSong_MAIN_SCENE_NX.zip/4f06b57ed80e143a4651b7f7e031c52e.zip"
+    },
+    "pc": {
+      "md5": "b0b7675f549a78608f4fa201a80dc140",
+      "storageType": 0,
+      "url": "/public/map/MJEarthSong/pc/MJEarthSong_MAIN_SCENE_PC.zip/b0b7675f549a78608f4fa201a80dc140.zip"
+    },
+    "ps4": {
+      "md5": "35954a61393e5c84cbb17cf31858527c",
+      "storageType": 0,
+      "url": "/public/map/MJEarthSong/orbis/MJEarthSong_MAIN_SCENE_ORBIS.zip/35954a61393e5c84cbb17cf31858527c.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJEarthSong",
+    "title": "Earth Song",
+    "originalJDVersion": 2009,
+    "tags": [
+      "subscribedSong",
+      "mjte",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited. Credits to Gamer2000 <3",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#eb3f00"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        41664,
+        83280,
+        124944,
+        166560,
+        208224,
+        249840,
+        291504,
+        333120,
+        374784,
+        416448,
+        458064,
+        499728,
+        541344,
+        583008,
+        624624,
+        666288,
+        707904,
+        749568,
+        791184,
+        832848,
+        874512,
+        916128,
+        957792,
+        999408,
+        1041072,
+        1082688,
+        1124352,
+        1165968,
+        1207632,
+        1249296,
+        1290912,
+        1332576,
+        1374192,
+        1415856,
+        1457472,
+        1499136,
+        1540752
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 358,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 35,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MJEarthSong/MJEarthSong_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MJEarthSong/nx/MJEarthSong_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/MJEarthSong/nx/MJEarthSong_map_bkg.tga.ckd/cda83b7e3c6c01289d55379123ebd49e.ckd",
+      "expandCoachImageUrl": "/public/map/MJEarthSong/nx/MJEarthSong_Cover_AlbumCoach.tga.ckd/058b839389e65bad43a9ede055b5f383.ckd",
+      "cover_smallImageUrl": "/public/map/MJEarthSong/nx/MJEarthSong_Cover_Online.tga.ckd/241f08c161ab371b715b639459ce6e44.ckd",
+      "coach1ImageUrl": "/public/map/MJEarthSong/nx/MJEarthSong_Coach_1.tga.ckd/3cd4f46420d9ab513c1b3deda17daca3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MJEarthSong/pc/MJEarthSong_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/MJEarthSong/pc/MJEarthSong_map_bkg.tga.ckd/f92d292b87eb7e7384a967e71df52e93.ckd",
+      "expandCoachImageUrl": "/public/map/MJEarthSong/pc/MJEarthSong_Cover_AlbumCoach.tga.ckd/2ed4b9e8d75adb86f334c97e8dfa00fe.ckd",
+      "cover_smallImageUrl": "/public/map/MJEarthSong/pc/MJEarthSong_Cover_Online.tga.ckd/3ec1064b2e01e58e74c903beabfae0e6.ckd",
+      "coach1ImageUrl": "/public/map/MJEarthSong/pc/MJEarthSong_Coach_1.tga.ckd/e7cd23452acf9cfbc20a42ec774defe8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MJEarthSong/orbis/MJEarthSong_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/MJEarthSong/orbis/MJEarthSong_map_bkg.tga.ckd/f92d292b87eb7e7384a967e71df52e93.ckd",
+      "expandCoachImageUrl": "/public/map/MJEarthSong/orbis/MJEarthSong_Cover_AlbumCoach.tga.ckd/2ed4b9e8d75adb86f334c97e8dfa00fe.ckd",
+      "cover_smallImageUrl": "/public/map/MJEarthSong/orbis/MJEarthSong_Cover_Online.tga.ckd/3ec1064b2e01e58e74c903beabfae0e6.ckd",
+      "coach1ImageUrl": "/public/map/MJEarthSong/orbis/MJEarthSong_Coach_1.tga.ckd/e7cd23452acf9cfbc20a42ec774defe8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MJEarthSong/MJEarthSong_Coach_1_Phone.png/b329ef64c1252f93ed9be8d552708c4e.png",
+    "phoneCoverImageUrl": "/public/map/MJEarthSong/MJEarthSong_Cover_Phone.jpg/156850acd3cd5d0e274ad19915e4629e.jpg",
+    "cover640ImageUrl": "/public/map/MJEarthSong/MJEarthSong_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MJEarthSong/MJEarthSong.ogg": "/private/map/MJEarthSong/MJEarthSong.ogg/5f7cf6ff65606ed95c3ebd50e2d06232.ogg",
+    "jmcs://jd-contents/MJEarthSong/MJEarthSong_AudioPreview.ogg": "/public/map/MJEarthSong/MJEarthSong_AudioPreview.ogg/99d1c148e8e4f1376c2dec205cd7712b.ogg",
+    "jmcs://jd-contents/MJEarthSong/MJEarthSong_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJEarthSong/MJEarthSong_MapPreviewNoSoundCrop_LOW.vp8.webm/8cee0e806e5078cb16dcb7f892cd557f.webm",
+    "jmcs://jd-contents/MJEarthSong/MJEarthSong_HIGH.webm": "/private/map/MJEarthSong/MJEarthSong_HIGH.webm/afe846808439357678ce9bd7dfaa555f.webm",
+    "jmcs://jd-contents/MJEarthSong/MJEarthSong_LOW.webm": "/private/map/MJEarthSong/MJEarthSong_LOW.webm/f9ac38dbc167e40de929e3f8a559560f.webm",
+    "jmcs://jd-contents/MJEarthSong/MJEarthSong_MID.webm": "/private/map/MJEarthSong/MJEarthSong_MID.webm/603b368b60d0195ff9e5b269d8a10a49.webm",
+    "jmcs://jd-contents/MJEarthSong/MJEarthSong_ULTRA.hd.webm": "/private/map/MJEarthSong/MJEarthSong_ULTRA.hd.webm/0d0b4f1854f5c4a545ed3f37a7e83e38.webm",
+    "jmcs://jd-contents/MJEarthSong/MJEarthSong_ULTRA.webm": "/private/map/MJEarthSong/MJEarthSong_ULTRA.webm/4e2ce2a1247fb93a2194c69635a7faf2.webm",
+    "jmcs://jd-contents/MJEarthSong/MJEarthSong_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJEarthSong/MJEarthSong_MapPreviewNoSoundCrop_MID.vp8.webm/07d94210db47b2c127cb86dd50e7a647.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495145\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJEarthSong/MJEarthSong_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1475449\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJEarthSong/MJEarthSong_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 317.5445
+}

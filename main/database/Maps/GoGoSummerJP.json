@@ -1,0 +1,181 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "b972cae55deeaa42c2cfdebf09eaea73",
+      "storageType": 0,
+      "url": "/public/map/GoGoSummerJP/nx/GoGoSummerJP_MAIN_SCENE_NX.zip/b972cae55deeaa42c2cfdebf09eaea73.zip"
+    },
+    "pc": {
+      "md5": "838a677123452fde92bec916696f0a68",
+      "storageType": 0,
+      "url": "/public/map/GoGoSummerJP/pc/GoGoSummerJP_MAIN_SCENE_PC.zip/838a677123452fde92bec916696f0a68.zip"
+    },
+    "ps4": {
+      "md5": "e534d6e8b660a0fe8021620ddecc0d9e",
+      "storageType": 0,
+      "url": "/public/map/GoGoSummerJP/orbis/GoGoSummerJP_MAIN_SCENE_ORBIS.zip/e534d6e8b660a0fe8021620ddecc0d9e.zip"
+    }
+  },
+  "data": {
+    "mapName": "GoGoSummerJP",
+    "title": "Go! Go! Summer!",
+    "originalJDVersion": 1001,
+    "tags": [
+      "subscribedSong",
+      "Quartet",
+      "Medium"
+    ],
+    "artist": "KARA",
+    "credits": "Eliott",
+    "coachCount": 4,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#af2879",
+    "songColor2A": "#1775d8",
+    "songColor1B": "#fc53ba",
+    "songColor2B": "#182b77",
+    "lyricsColor": "#ffbe38"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        218592,
+        238464,
+        258336,
+        278208,
+        298080,
+        317952,
+        337824,
+        357696,
+        377568,
+        397440,
+        417312,
+        437184,
+        457056,
+        476928,
+        496800,
+        516672,
+        536544,
+        556416,
+        576288,
+        596160,
+        616032,
+        635904,
+        655776,
+        675648,
+        695520,
+        715392,
+        735264,
+        755136,
+        775008,
+        794880,
+        814752,
+        834624,
+        854496,
+        874368,
+        894240,
+        914112,
+        933984,
+        953856,
+        973728,
+        993600,
+        1013472,
+        1033344,
+        1053216,
+        1073088,
+        1092960,
+        1112832,
+        1132704,
+        1152576,
+        1172448,
+        1192320,
+        1212192,
+        1232064,
+        1251936,
+        1271808,
+        1291680,
+        1311552,
+        1331424,
+        1351296,
+        1371168,
+        1391040,
+        1410912,
+        1430784,
+        1450656,
+        1470528
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 474,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GoGoSummerJP/nx/GoGoSummerJP_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/GoGoSummerJP/nx/GoGoSummerJP_map_bkg.tga.ckd/8aef897c2095fa903d0d631f1dd37fda.ckd",
+      "expandCoachImageUrl": "/public/map/GoGoSummerJP/nx/GoGoSummerJP_Cover_AlbumCoach.tga.ckd/d48b414d8bda20382955a967bcdb2248.ckd",
+      "cover_smallImageUrl": "/public/map/GoGoSummerJP/nx/GoGoSummerJP_Cover_Online.tga.ckd/5b90ed4a074fc810a1b73e3aa643612f.ckd",
+      "coach1ImageUrl": "/public/map/GoGoSummerJP/nx/GoGoSummerJP_Coach_1.tga.ckd/241f114d4609f5a0eb81f1be5ea14460.ckd",
+      "coach2ImageUrl": "/public/map/GoGoSummerJP/nx/GoGoSummerJP_Coach_2.tga.ckd/11b52655d3378d3335a4ffb412d0d91b.ckd",
+      "coach3ImageUrl": "/public/map/GoGoSummerJP/nx/GoGoSummerJP_Coach_3.tga.ckd/6470763a4845e3df263a3bf6d4a5f92d.ckd",
+      "coach4ImageUrl": "/public/map/GoGoSummerJP/nx/GoGoSummerJP_Coach_4.tga.ckd/4639d966142b5ae42e40156c85f01077.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GoGoSummerJP/pc/GoGoSummerJP_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/GoGoSummerJP/pc/GoGoSummerJP_map_bkg.tga.ckd/7941c3c5efdf8fe00cdcf9001f1ebeca.ckd",
+      "expandCoachImageUrl": "/public/map/GoGoSummerJP/pc/GoGoSummerJP_Cover_AlbumCoach.tga.ckd/65993a6787fa0aaca184dbdaddb56676.ckd",
+      "cover_smallImageUrl": "/public/map/GoGoSummerJP/pc/GoGoSummerJP_Cover_Online.tga.ckd/661561340143b43394a6e525742082ae.ckd",
+      "coach1ImageUrl": "/public/map/GoGoSummerJP/pc/GoGoSummerJP_Coach_1.tga.ckd/71f5725f150089851cfe877c8e625689.ckd",
+      "coach2ImageUrl": "/public/map/GoGoSummerJP/pc/GoGoSummerJP_Coach_2.tga.ckd/57c3b163ce702fa7af6bb368a8771243.ckd",
+      "coach3ImageUrl": "/public/map/GoGoSummerJP/pc/GoGoSummerJP_Coach_3.tga.ckd/cb55602955a2e56ecf5a46e1b9080bb8.ckd",
+      "coach4ImageUrl": "/public/map/GoGoSummerJP/pc/GoGoSummerJP_Coach_4.tga.ckd/f27b1f7e290e31f0188c725a8ef3e35a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GoGoSummerJP/orbis/GoGoSummerJP_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/GoGoSummerJP/orbis/GoGoSummerJP_map_bkg.tga.ckd/7941c3c5efdf8fe00cdcf9001f1ebeca.ckd",
+      "expandCoachImageUrl": "/public/map/GoGoSummerJP/orbis/GoGoSummerJP_Cover_AlbumCoach.tga.ckd/65993a6787fa0aaca184dbdaddb56676.ckd",
+      "cover_smallImageUrl": "/public/map/GoGoSummerJP/orbis/GoGoSummerJP_Cover_Online.tga.ckd/661561340143b43394a6e525742082ae.ckd",
+      "coach1ImageUrl": "/public/map/GoGoSummerJP/orbis/GoGoSummerJP_Coach_1.tga.ckd/71f5725f150089851cfe877c8e625689.ckd",
+      "coach2ImageUrl": "/public/map/GoGoSummerJP/orbis/GoGoSummerJP_Coach_2.tga.ckd/57c3b163ce702fa7af6bb368a8771243.ckd",
+      "coach3ImageUrl": "/public/map/GoGoSummerJP/orbis/GoGoSummerJP_Coach_3.tga.ckd/cb55602955a2e56ecf5a46e1b9080bb8.ckd",
+      "coach4ImageUrl": "/public/map/GoGoSummerJP/orbis/GoGoSummerJP_Coach_4.tga.ckd/f27b1f7e290e31f0188c725a8ef3e35a.ckd"
+    }
+  },
+  "urls": {
+    "jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP.ogg": "/private/map/GoGoSummerJP/GoGoSummerJP.ogg/08e6e48da0e97236ba70fcc5302db6d1.ogg",
+    "jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP_AudioPreview.ogg": "/public/map/GoGoSummerJP/GoGoSummerJP_AudioPreview.ogg/2ef70e5c30ee7544b6a73be5e6e5e19b.ogg",
+    "jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP_HIGH.webm": "/private/map/GoGoSummerJP/GoGoSummerJP_HIGH.webm/f2ca5ad24fae777ce90701d512dcbd39.webm",
+    "jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP_LOW.webm": "/private/map/GoGoSummerJP/GoGoSummerJP_LOW.webm/e73afd4b00d58ca98399a1307cd46e85.webm",
+    "jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP_MID.webm": "/private/map/GoGoSummerJP/GoGoSummerJP_MID.webm/d8ecbb30fd0b5b31190e7101301af034.webm",
+    "jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP_ULTRA.hd.webm": "/private/map/GoGoSummerJP/GoGoSummerJP_ULTRA.hd.webm/6a4bfe7b7ba8846ec4df687170fd9e9e.webm",
+    "jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP_ULTRA.webm": "/private/map/GoGoSummerJP/GoGoSummerJP_ULTRA.webm/cd65496eb087673657f86bc08e0eec08.webm",
+    "jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GoGoSummerJP/GoGoSummerJP_MapPreviewNoSoundCrop_LOW.vp8.webm/ee0117da1ad14081bf9e07042415f534.webm",
+    "jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GoGoSummerJP/GoGoSummerJP_MapPreviewNoSoundCrop_MID.vp8.webm/9eec1066891c5995feddb390eaca5a62.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"544878\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1519488\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GoGoSummerJP/GoGoSummerJP_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 200.284
+}

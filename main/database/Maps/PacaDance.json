@@ -1,0 +1,179 @@
+{
+  "urls": {
+    "jmcs://jd-contents/PacaDance/PacaDance.ogg": "/private/map/PacaDance/PacaDance.ogg/aa7e67c14e5ebf9b689eaa4652aa26d2.ogg",
+    "jmcs://jd-contents/PacaDance/PacaDance_AudioPreview.ogg": "/public/map/PacaDance/PacaDance_AudioPreview.ogg/2492d9bb87e2f926d615606f1f6074c7.ogg",
+    "jmcs://jd-contents/PacaDance/PacaDance_HIGH.hd.webm": "/private/map/PacaDance/PacaDance_HIGH.hd.webm/6a529d84f049b2e5d33ceba88c1566d9.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_LOW.hd.webm": "/private/map/PacaDance/PacaDance_LOW.hd.webm/8cd95bcc51be6e39cfcd009996e72187.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_MID.hd.webm": "/private/map/PacaDance/PacaDance_MID.hd.webm/34a2fb1873ccc6d751c92079acb1ea03.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_ULTRA.hd.webm": "/private/map/PacaDance/PacaDance_ULTRA.hd.webm/0229a22a817e75b0b7afd9198a79f074.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PacaDance/PacaDance_MapPreviewNoSoundCrop_LOW.vp8.webm/a1ba4c0db6312ee764e69fc6a2558c7a.webm",
+    "jmcs://jd-contents/PacaDance/PacaDance_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PacaDance/PacaDance_MapPreviewNoSoundCrop_MID.vp8.webm/3f24f4b1e7060a8a3c5bd0e0833eaf9a.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253440,
+        276480,
+        299520,
+        322560,
+        345600,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506880,
+        529920,
+        552960,
+        576000,
+        599040,
+        622080,
+        645120,
+        668160,
+        691200,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852480,
+        875520,
+        898560,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013760,
+        1036800,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198080,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382400,
+        1405440,
+        1428480,
+        1451520,
+        1474560
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 341,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PacaDance/PacaDance_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "9123852d95054089f630559a8d6e0f95",
+      "storageType": 0,
+      "url": "/public/map/PacaDance/nx/PacaDance_MAIN_SCENE_NX.zip/9123852d95054089f630559a8d6e0f95.zip"
+    },
+    "pc": {
+      "md5": "c5cf2d3e6461cf127ffb0a9f33465963",
+      "storageType": 0,
+      "url": "/public/map/PacaDance/pc/PacaDance_MAIN_SCENE_PC.zip/c5cf2d3e6461cf127ffb0a9f33465963.zip"
+    },
+    "ps4": {
+      "md5": "4828d75d2071517dff20590601b6fd24",
+      "storageType": 0,
+      "url": "/public/map/PacaDance/orbis/PacaDance_MAIN_SCENE_ORBIS.zip/4828d75d2071517dff20590601b6fd24.zip"
+    }
+  },
+  "data": {
+    "mapName": "PacaDance",
+    "title": "Paca Dance",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Just Dance Band",
+    "credits": "Written by Doron Medalie and Meytal de razon. Published by Ubisoft Music Publishing. Lyrics by Doron Medalie and Meytal de razon. Produced and mixed by Yinon Yahel. Courtesy of Ubisoft Music.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#fd33ae",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PacaDance/nx/PacaDance_banner_bkg.tga.ckd/8f4164d8b43cdc329c97575d172e6c64.ckd",
+      "map_bkgImageUrl": "/public/map/PacaDance/nx/PacaDance_map_bkg.tga.ckd/b94f9d5e8a2f3fa20b6c30208331e7f2.ckd",
+      "expandCoachImageUrl": "/public/map/PacaDance/nx/PacaDance_Cover_AlbumCoach.tga.ckd/dcc59a615d40709623361696e91c25c3.ckd",
+      "cover_smallImageUrl": "/public/map/PacaDance/nx/PacaDance_Cover_Online.tga.ckd/20da20d5de0bd8f8b96db1afc48a17eb.ckd",
+      "coverImageUrl": "/public/map/PacaDance/nx/PacaDance_Cover_Generic.tga.ckd/c8bc9e8754fa5143a30654942f700aff.ckd",
+      "coach1ImageUrl": "/public/map/PacaDance/nx/PacaDance_Coach_1.tga.ckd/a55b67e2b4db6f801a3efe3540d4b019.ckd",
+      "coach2ImageUrl": "/public/map/PacaDance/nx/PacaDance_Coach_2.tga.ckd/0b7d27978c0baa265ef73a9fdb671dcf.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PacaDance/pc/PacaDance_banner_bkg.tga.ckd/2a1f309f9b4984db216e984b37aae423.ckd",
+      "map_bkgImageUrl": "/public/map/PacaDance/pc/PacaDance_map_bkg.tga.ckd/5289bda79c9ea8250674eac79b307cae.ckd",
+      "expandCoachImageUrl": "/public/map/PacaDance/pc/PacaDance_Cover_AlbumCoach.tga.ckd/cee4a2cdcb4be856366751776b66efd7.ckd",
+      "cover_smallImageUrl": "/public/map/PacaDance/pc/PacaDance_Cover_Online.tga.ckd/d4288a5b0c3d9daf05900e78b33142bd.ckd",
+      "coverImageUrl": "/public/map/PacaDance/pc/PacaDance_Cover_Generic.tga.ckd/28fd80fd0716d9577223ee953937211b.ckd",
+      "coach1ImageUrl": "/public/map/PacaDance/pc/PacaDance_Coach_1.tga.ckd/3b2c39898934c5adc55de75d5e7a14ed.ckd",
+      "coach2ImageUrl": "/public/map/PacaDance/pc/PacaDance_Coach_2.tga.ckd/f39ae4002540cb1b6d5b5d981ceb5dcd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PacaDance/orbis/PacaDance_banner_bkg.tga.ckd/2a1f309f9b4984db216e984b37aae423.ckd",
+      "map_bkgImageUrl": "/public/map/PacaDance/orbis/PacaDance_map_bkg.tga.ckd/5289bda79c9ea8250674eac79b307cae.ckd",
+      "expandCoachImageUrl": "/public/map/PacaDance/orbis/PacaDance_Cover_AlbumCoach.tga.ckd/cee4a2cdcb4be856366751776b66efd7.ckd",
+      "cover_smallImageUrl": "/public/map/PacaDance/orbis/PacaDance_Cover_Online.tga.ckd/d4288a5b0c3d9daf05900e78b33142bd.ckd",
+      "coverImageUrl": "/public/map/PacaDance/orbis/PacaDance_Cover_Generic.tga.ckd/28fd80fd0716d9577223ee953937211b.ckd",
+      "coach1ImageUrl": "/public/map/PacaDance/orbis/PacaDance_Coach_1.tga.ckd/3b2c39898934c5adc55de75d5e7a14ed.ckd",
+      "coach2ImageUrl": "/public/map/PacaDance/orbis/PacaDance_Coach_2.tga.ckd/f39ae4002540cb1b6d5b5d981ceb5dcd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PacaDance/PacaDance_Coach_1_Phone.png/62c9a6378fd12edf79f198b4161839ea.png",
+    "phoneCoach2ImageUrl": "/public/map/PacaDance/PacaDance_Coach_2_Phone.png/6674db3c1d62f1ba7367bfaec2f16404.png",
+    "phoneCoverImageUrl": "/public/map/PacaDance/PacaDance_Cover_Phone.jpg/66c31c5eb853a6a31fd80ac2f6fe9c97.jpg",
+    "cover640ImageUrl": "/public/map/PacaDance/PacaDance_Cover_640.png/905fa44c0341c5bc1f44c6e7ed02665b.png"
+  },
+  "mapLength": 164.16
+}

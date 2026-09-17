@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Anxiety/Anxiety.ogg": "/private/map/Anxiety/Anxiety.ogg/d9b707661708c6f0e749c9556c9c51b5.ogg",
+    "jmcs://jd-contents/Anxiety/Anxiety_AudioPreview.ogg": "/public/map/Anxiety/Anxiety_AudioPreview.ogg/98e25614610155c6298f4eaff74d958b.ogg",
+    "jmcs://jd-contents/Anxiety/Anxiety_HIGH.hd.webm": "/private/map/Anxiety/Anxiety_HIGH.hd.webm/8ec6462b7f9343303f63cd4dbe1a3e28.webm",
+    "jmcs://jd-contents/Anxiety/Anxiety_LOW.hd.webm": "/private/map/Anxiety/Anxiety_LOW.hd.webm/3e434ea423205d537dd8b33ed5912c62.webm",
+    "jmcs://jd-contents/Anxiety/Anxiety_MID.hd.webm": "/private/map/Anxiety/Anxiety_MID.hd.webm/dd21d404088b3371b591fa0e4570da9e.webm",
+    "jmcs://jd-contents/Anxiety/Anxiety_ULTRA.hd.webm": "/private/map/Anxiety/Anxiety_ULTRA.hd.webm/428450e2019ed0ee572bd3e140a1a0f3.webm",
+    "jmcs://jd-contents/Anxiety/Anxiety_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Anxiety/Anxiety_MapPreviewNoSoundCrop_LOW.vp8.webm/b703e515575aabb90b87fb8504208918.webm",
+    "jmcs://jd-contents/Anxiety/Anxiety_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Anxiety/Anxiety_MapPreviewNoSoundCrop_MID.vp8.webm/19240e25a5f92727e6ee8dbb5072d272.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22326,
+        44651,
+        66977,
+        89302,
+        111628,
+        133953,
+        156279,
+        178605,
+        200930,
+        223256,
+        245581,
+        267907,
+        290233,
+        312558,
+        334884,
+        357209,
+        379535,
+        401860,
+        424186,
+        446512,
+        468837,
+        491163,
+        513488,
+        535814,
+        558140,
+        580465,
+        602791,
+        625116,
+        647442,
+        669767,
+        692093,
+        714419,
+        736744,
+        759070,
+        781395,
+        803721,
+        826047,
+        848372,
+        870698,
+        893023,
+        915349,
+        937674,
+        960000,
+        982326,
+        1004651,
+        1026977,
+        1049302,
+        1071628,
+        1093953,
+        1116279,
+        1138605,
+        1160930,
+        1183256,
+        1205581,
+        1227907,
+        1250233,
+        1272558,
+        1294884,
+        1317209,
+        1339535,
+        1361860,
+        1384186,
+        1406512,
+        1428837,
+        1451163,
+        1473488
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -14,
+      "endBeat": 531,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Anxiety/Anxiety_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"545133\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Anxiety/Anxiety_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2013057\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Anxiety/Anxiety_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "6935795582dbd1a4e3f48dfae31d3743",
+      "storageType": 0,
+      "url": "/public/map/Anxiety/nx/Anxiety_MAIN_SCENE_NX.zip/6935795582dbd1a4e3f48dfae31d3743.zip"
+    },
+    "pc": {
+      "md5": "8748b27ab2be48497c04a211c428fd2d",
+      "storageType": 0,
+      "url": "/public/map/Anxiety/pc/Anxiety_MAIN_SCENE_PC.zip/8748b27ab2be48497c04a211c428fd2d.zip"
+    },
+    "ps4": {
+      "md5": "8af5d57f75dacd0ddb0c37d41af7afad",
+      "storageType": 0,
+      "url": "/public/map/Anxiety/orbis/Anxiety_MAIN_SCENE_ORBIS.zip/8af5d57f75dacd0ddb0c37d41af7afad.zip"
+    }
+  },
+  "data": {
+    "mapName": "Anxiety",
+    "title": "Anxiety",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Doechii",
+    "credits": "“Anxiety” Performed by Doechii Written Jaylah Ji Mya Hickmon, Luiz Bonfa and Walter De Backer Published by Op Shop Songs Pty Ltd (BMI) administered by Songs of Kobalt Music Publishing / Universal Music Publishing Canada on behalf of Songs Of Universal, Inc. / Unichappell Music Inc. (BMI) Courtesy of Top Dawg Entertainment under license from Universal Music Canada Inc.  All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#c1c945",
+    "songColor2A": "#88defa",
+    "songColor1B": "#08122c",
+    "songColor2B": "#2854a5",
+    "lyricsColor": "#45c3ff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Anxiety/nx/Anxiety_banner_bkg.tga.ckd/cb3963a1c68a366f73833701a2ce2f7e.ckd",
+      "map_bkgImageUrl": "/public/map/Anxiety/nx/Anxiety_map_bkg.tga.ckd/42f7316b588a905a40278f74c6420c36.ckd",
+      "expandCoachImageUrl": "/public/map/Anxiety/nx/Anxiety_Cover_AlbumCoach.tga.ckd/497dc5fc1d61bbf34d6b20ba607fcb16.ckd",
+      "cover_smallImageUrl": "/public/map/Anxiety/nx/Anxiety_Cover_Online.tga.ckd/017f09a220117280a805c70b57d681bd.ckd",
+      "coverImageUrl": "/public/map/Anxiety/nx/Anxiety_Cover_Generic.tga.ckd/5b0a7dc6137f49a8193e61cfe1b62170.ckd",
+      "coach1ImageUrl": "/public/map/Anxiety/nx/Anxiety_Coach_1.tga.ckd/b071a19c3ad044e2e7225638a16c5744.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Anxiety/pc/Anxiety_banner_bkg.tga.ckd/8dfb0066165069ae27943f77e5eb2e34.ckd",
+      "map_bkgImageUrl": "/public/map/Anxiety/pc/Anxiety_map_bkg.tga.ckd/66741fca3f31c009df94fa2d6cce87a7.ckd",
+      "expandCoachImageUrl": "/public/map/Anxiety/pc/Anxiety_Cover_AlbumCoach.tga.ckd/1e278c858e6d7d4e61413daa06b460fc.ckd",
+      "cover_smallImageUrl": "/public/map/Anxiety/pc/Anxiety_Cover_Online.tga.ckd/1591192fb53c2655c258fdc78de4bf6c.ckd",
+      "coverImageUrl": "/public/map/Anxiety/pc/Anxiety_Cover_Generic.tga.ckd/f321eddd24558bff2f7a5cbe124b992e.ckd",
+      "coach1ImageUrl": "/public/map/Anxiety/pc/Anxiety_Coach_1.tga.ckd/8d2779913ced5cd12352d2e13b7b7a5e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Anxiety/orbis/Anxiety_banner_bkg.tga.ckd/8dfb0066165069ae27943f77e5eb2e34.ckd",
+      "map_bkgImageUrl": "/public/map/Anxiety/orbis/Anxiety_map_bkg.tga.ckd/66741fca3f31c009df94fa2d6cce87a7.ckd",
+      "expandCoachImageUrl": "/public/map/Anxiety/orbis/Anxiety_Cover_AlbumCoach.tga.ckd/1e278c858e6d7d4e61413daa06b460fc.ckd",
+      "cover_smallImageUrl": "/public/map/Anxiety/orbis/Anxiety_Cover_Online.tga.ckd/1591192fb53c2655c258fdc78de4bf6c.ckd",
+      "coverImageUrl": "/public/map/Anxiety/orbis/Anxiety_Cover_Generic.tga.ckd/f321eddd24558bff2f7a5cbe124b992e.ckd",
+      "coach1ImageUrl": "/public/map/Anxiety/orbis/Anxiety_Coach_1.tga.ckd/8d2779913ced5cd12352d2e13b7b7a5e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Anxiety/Anxiety_Coach_1_Phone.png/37de4da37463ce11740af6488a3a58e3.png",
+    "phoneCoverImageUrl": "/public/map/Anxiety/Anxiety_Cover_Phone.jpg/060dccc3264851a8017e98bef2bd8984.jpg",
+    "cover640ImageUrl": "/public/map/Anxiety/Anxiety_Cover_640.png/c2ffcce17189dc29141c1cf340f93005.png"
+  },
+  "mapLength": 253.488354
+}

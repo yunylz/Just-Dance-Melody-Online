@@ -1,0 +1,170 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "d2ae1fc6ef3a9167dd9793061c35550d",
+      "storageType": 0,
+      "url": "/public/map/Cotton/nx/Cotton_MAIN_SCENE_NX.zip/d2ae1fc6ef3a9167dd9793061c35550d.zip"
+    },
+    "pc": {
+      "md5": "a2ef816b512c34b5aef91b2c6286e29f",
+      "storageType": 0,
+      "url": "/public/map/Cotton/pc/Cotton_MAIN_SCENE_PC.zip/a2ef816b512c34b5aef91b2c6286e29f.zip"
+    },
+    "ps4": {
+      "md5": "54de2e3842fb2bbfb026be163987a886",
+      "storageType": 0,
+      "url": "/public/map/Cotton/orbis/Cotton_MAIN_SCENE_ORBIS.zip/54de2e3842fb2bbfb026be163987a886.zip"
+    }
+  },
+  "data": {
+    "mapName": "Cotton",
+    "title": "Cotton Eye Joe",
+    "originalJDVersion": 1,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Rednex",
+    "credits": "Written by Jan M. Eriksson, Orjan Kjell Anders Oberg, and Patrick Edenberg. Published by Universal Music Publishing (SOCAN). Courtesy of Sony Music Entertainment UK Limited. By arrangement with Sony Music Entertainment Canada Inc. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#0175D9",
+    "songColor2A": "#ECAC14",
+    "songColor1B": "#00095C",
+    "songColor2B": "#8D0000",
+    "lyricsColor": "#FF8500",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21817,
+        43635,
+        65452,
+        87270,
+        109087,
+        130905,
+        152722,
+        174540,
+        196357,
+        218175,
+        239992,
+        261810,
+        283627,
+        305445,
+        327262,
+        349080,
+        370897,
+        392715,
+        414532,
+        436350,
+        458167,
+        479985,
+        501802,
+        523620,
+        545437,
+        567255,
+        589072,
+        610890,
+        632707,
+        654525,
+        676342,
+        698160,
+        719977,
+        741795,
+        763612,
+        785430,
+        807247,
+        829065,
+        850882,
+        872700,
+        894517,
+        916335,
+        938152,
+        959970,
+        981787,
+        1003605,
+        1025422,
+        1047240,
+        1069057,
+        1090875,
+        1112692,
+        1134510,
+        1156327,
+        1178145,
+        1199962,
+        1221780,
+        1243597,
+        1265415,
+        1287232,
+        1309050,
+        1330867,
+        1352685,
+        1374502,
+        1396320,
+        1418137,
+        1439955
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 432,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 67,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Cotton/Cotton_AudioPreview.ogg"
+  },
+  "urls": {
+    "jmcs://jd-contents/Cotton/Cotton.ogg": "/private/map/Cotton/Cotton.ogg/e678cf9952f44a26bc74739046d2dbba.ogg",
+    "jmcs://jd-contents/Cotton/Cotton_AudioPreview.ogg": "/public/map/Cotton/Cotton_AudioPreview.ogg/82014275ec93330b1ca858ec33d7b612.ogg",
+    "jmcs://jd-contents/Cotton/Cotton_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Cotton/Cotton_MapPreviewNoSoundCrop_LOW.vp8.webm/0fab21e999c793e2d7a67f38c1aa1e41.webm",
+    "jmcs://jd-contents/Cotton/Cotton_HIGH.webm": "/private/map/Cotton/Cotton_HIGH.webm/9925e3deaa9ce803878bdc938b35ec27.webm",
+    "jmcs://jd-contents/Cotton/Cotton_LOW.webm": "/private/map/Cotton/Cotton_LOW.webm/655b143badfef702e31e26e935ed25a8.webm",
+    "jmcs://jd-contents/Cotton/Cotton_MID.webm": "/private/map/Cotton/Cotton_MID.webm/00b8e6ff7da4bd009b8918d43b23c188.webm",
+    "jmcs://jd-contents/Cotton/Cotton_ULTRA.hd.webm": "/private/map/Cotton/Cotton_ULTRA.hd.webm/ca012da85d9c5b1cc2bdb77f4059d20a.webm",
+    "jmcs://jd-contents/Cotton/Cotton_ULTRA.webm": "/private/map/Cotton/Cotton_ULTRA.webm/47a04ce166eac84bffe7ade185fbe701.webm",
+    "jmcs://jd-contents/Cotton/Cotton_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Cotton/Cotton_MapPreviewNoSoundCrop_MID.vp8.webm/36f3600e1e1bae842371c24189b9aa4c.webm"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Cotton/nx/Cotton_banner_bkg.tga.ckd/81be5a92742021483f798cf1c986cb0c.ckd",
+      "map_bkgImageUrl": "/public/map/Cotton/nx/Cotton_map_bkg.tga.ckd/dd2d516eda517b0e1e845dcb53fd0454.ckd",
+      "expandCoachImageUrl": "/public/map/Cotton/nx/Cotton_Cover_AlbumCoach.tga.ckd/5c952d25deeb8c69457880ce3d926721.ckd",
+      "cover_smallImageUrl": "/public/map/Cotton/nx/Cotton_Cover_Online.tga.ckd/95c430da38d8a12b0b293b5990c618a9.ckd",
+      "coach1ImageUrl": "/public/map/Cotton/nx/Cotton_Coach_1.tga.ckd/4cb277ba1f0327afcfd375020e78501f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Cotton/pc/Cotton_banner_bkg.tga.ckd/19e0ea354b3a7a9eaef0d3525c7cf0af.ckd",
+      "map_bkgImageUrl": "/public/map/Cotton/pc/Cotton_map_bkg.tga.ckd/41a4aab96941ce73bd7f7f3d33fe7d25.ckd",
+      "expandCoachImageUrl": "/public/map/Cotton/pc/Cotton_Cover_AlbumCoach.tga.ckd/ae380520035793fe39f02c4e9c3b6ed2.ckd",
+      "cover_smallImageUrl": "/public/map/Cotton/pc/Cotton_Cover_Online.tga.ckd/03d8c03a707851697385948621998ad0.ckd",
+      "coach1ImageUrl": "/public/map/Cotton/pc/Cotton_Coach_1.tga.ckd/bebbd30f6ef1862b3f270afff3191f8f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Cotton/orbis/Cotton_banner_bkg.tga.ckd/19e0ea354b3a7a9eaef0d3525c7cf0af.ckd",
+      "map_bkgImageUrl": "/public/map/Cotton/orbis/Cotton_map_bkg.tga.ckd/41a4aab96941ce73bd7f7f3d33fe7d25.ckd",
+      "expandCoachImageUrl": "/public/map/Cotton/orbis/Cotton_Cover_AlbumCoach.tga.ckd/ae380520035793fe39f02c4e9c3b6ed2.ckd",
+      "cover_smallImageUrl": "/public/map/Cotton/orbis/Cotton_Cover_Online.tga.ckd/03d8c03a707851697385948621998ad0.ckd",
+      "coach1ImageUrl": "/public/map/Cotton/orbis/Cotton_Coach_1.tga.ckd/bebbd30f6ef1862b3f270afff3191f8f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Cotton/Cotton_Coach_1_Phone.png/2d767982d2ebc61bab9f095f8e4f1a2c.png",
+    "phoneCoverImageUrl": "/public/map/Cotton/Cotton_Cover_Phone.jpg/64557f924e5b61c3c20344489a4e3b63.jpg",
+    "cover640ImageUrl": "/public/map/Cotton/Cotton_Cover_640.png/93679fd13073a26fc26f5e090eb44913.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"494048\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Cotton/Cotton_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"625-1114\">\n\t\t\t\t\t<Initialization range=\"0-625\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1082619\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Cotton/Cotton_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\n\t\t\t\t\t<Initialization range=\"0-626\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 196.896313
+}

@@ -1,0 +1,173 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MisterRetake/MisterRetake.ogg": "/private/map/MisterRetake/MisterRetake.ogg/f96cce64cb34448611410cf9545613d8.ogg",
+    "jmcs://jd-contents/MisterRetake/MisterRetake_AudioPreview.ogg": "/public/map/MisterRetake/MisterRetake_AudioPreview.ogg/915b15183e821092e0482f1853f4670b.ogg",
+    "jmcs://jd-contents/MisterRetake/MisterRetake_HIGH.hd.webm": "/private/map/MisterRetake/MisterRetake_HIGH.hd.webm/4083c38a33dfc684723112e51d734924.webm",
+    "jmcs://jd-contents/MisterRetake/MisterRetake_LOW.hd.webm": "/private/map/MisterRetake/MisterRetake_LOW.hd.webm/2e7aa66f2e6c6fb4be57200605790127.webm",
+    "jmcs://jd-contents/MisterRetake/MisterRetake_MID.hd.webm": "/private/map/MisterRetake/MisterRetake_MID.hd.webm/b8469c6f775d5758ea73c72c587148a5.webm",
+    "jmcs://jd-contents/MisterRetake/MisterRetake_ULTRA.hd.webm": "/private/map/MisterRetake/MisterRetake_ULTRA.hd.webm/8af88176285180e6e1b62afb53545996.webm",
+    "jmcs://jd-contents/MisterRetake/MisterRetake_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MisterRetake/MisterRetake_MapPreviewNoSoundCrop_LOW.vp8.webm/9915a71da5d78918dfbd24aad41de35d.webm",
+    "jmcs://jd-contents/MisterRetake/MisterRetake_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MisterRetake/MisterRetake_MapPreviewNoSoundCrop_MID.vp8.webm/abfe4f8030cb80d0934dc99fccf2fc95.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        155568,
+        178416,
+        201264,
+        224112,
+        246960,
+        269808,
+        292704,
+        315552,
+        338400,
+        361248,
+        384096,
+        406944,
+        429840,
+        452688,
+        475536,
+        498384,
+        521232,
+        544080,
+        566976,
+        589824,
+        612672,
+        635520,
+        658368,
+        681216,
+        704112,
+        726960,
+        749808,
+        772656,
+        795504,
+        818352,
+        841248,
+        864096,
+        886944,
+        909792,
+        932640,
+        955488,
+        978384,
+        1001232,
+        1024080,
+        1046928,
+        1069776,
+        1092672,
+        1115520,
+        1138368,
+        1161216,
+        1184064,
+        1206912,
+        1229808,
+        1252656,
+        1275504,
+        1298352,
+        1321200,
+        1344048,
+        1366944,
+        1389792,
+        1412640,
+        1435488,
+        1458336,
+        1481184
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 405,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MisterRetake/MisterRetake_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"517833\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MisterRetake/MisterRetake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"560-1050\">\n\t\t\t\t\t<Initialization range=\"0-560\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2012092\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MisterRetake/MisterRetake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"561-1051\">\n\t\t\t\t\t<Initialization range=\"0-561\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "c28af16ad0f575a78294f70f4938b6cd",
+      "storageType": 0,
+      "url": "/public/map/MisterRetake/nx/MisterRetake_MAIN_SCENE_NX.zip/c28af16ad0f575a78294f70f4938b6cd.zip"
+    },
+    "pc": {
+      "md5": "73e3e9f3b3606535a395ff421705bd2d",
+      "storageType": 0,
+      "url": "/public/map/MisterRetake/pc/MisterRetake_MAIN_SCENE_PC.zip/73e3e9f3b3606535a395ff421705bd2d.zip"
+    },
+    "ps4": {
+      "md5": "07f2c72cca90249ec11ba038dcd89c03",
+      "storageType": 0,
+      "url": "/public/map/MisterRetake/orbis/MisterRetake_MAIN_SCENE_ORBIS.zip/07f2c72cca90249ec11ba038dcd89c03.zip"
+    }
+  },
+  "data": {
+    "mapName": "MisterRetake",
+    "title": "Mister",
+    "originalJDVersion": 112,
+    "tags": [
+      "subscribedSong",
+      "jdwii",
+      "trackFix"
+    ],
+    "artist": "KARA",
+    "credits": "Gamer2000 Pictos",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#DDC70B",
+    "songColor2A": "#0A7294",
+    "songColor1B": "#1F2600",
+    "songColor2B": "#033107",
+    "lyricsColor": "#00f091",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MisterRetake/nx/MisterRetake_banner_bkg.tga.ckd/dd8755d2b486a5c692e186140efb9024.ckd",
+      "map_bkgImageUrl": "/public/map/MisterRetake/nx/MisterRetake_map_bkg.tga.ckd/23abe701dee8db5fdb306ddf9be49f26.ckd",
+      "expandCoachImageUrl": "/public/map/MisterRetake/nx/MisterRetake_Cover_AlbumCoach.tga.ckd/47fde57e1023ec31ada4dce935493962.ckd",
+      "cover_smallImageUrl": "/public/map/MisterRetake/nx/MisterRetake_Cover_Online.tga.ckd/aeae3d2e9e73d4c45a3dccb1960c534f.ckd",
+      "coverImageUrl": "/public/map/MisterRetake/nx/MisterRetake_Cover_Generic.tga.ckd/0e173bc2941d0fbc61727bcab86a3183.ckd",
+      "coach1ImageUrl": "/public/map/MisterRetake/nx/MisterRetake_Coach_1.tga.ckd/8e987bd5ec35f9943ec40c71c8782792.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MisterRetake/pc/MisterRetake_banner_bkg.tga.ckd/d30ca72c50374bbf951075ce96925880.ckd",
+      "map_bkgImageUrl": "/public/map/MisterRetake/pc/MisterRetake_map_bkg.tga.ckd/8fe54f55246003f80bcaaf82c0d63c44.ckd",
+      "expandCoachImageUrl": "/public/map/MisterRetake/pc/MisterRetake_Cover_AlbumCoach.tga.ckd/01966e2ba7a91c8619bc7f25920ac5f6.ckd",
+      "cover_smallImageUrl": "/public/map/MisterRetake/pc/MisterRetake_Cover_Online.tga.ckd/31a8e41afda6965a26def61724bbd708.ckd",
+      "coverImageUrl": "/public/map/MisterRetake/pc/MisterRetake_Cover_Generic.tga.ckd/2a019fe3593d810e037406de82d42f66.ckd",
+      "coach1ImageUrl": "/public/map/MisterRetake/pc/MisterRetake_Coach_1.tga.ckd/3fc48a809d17d645ba8ab6dbf9982bd6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MisterRetake/orbis/MisterRetake_banner_bkg.tga.ckd/d30ca72c50374bbf951075ce96925880.ckd",
+      "map_bkgImageUrl": "/public/map/MisterRetake/orbis/MisterRetake_map_bkg.tga.ckd/8fe54f55246003f80bcaaf82c0d63c44.ckd",
+      "expandCoachImageUrl": "/public/map/MisterRetake/orbis/MisterRetake_Cover_AlbumCoach.tga.ckd/01966e2ba7a91c8619bc7f25920ac5f6.ckd",
+      "cover_smallImageUrl": "/public/map/MisterRetake/orbis/MisterRetake_Cover_Online.tga.ckd/31a8e41afda6965a26def61724bbd708.ckd",
+      "coverImageUrl": "/public/map/MisterRetake/orbis/MisterRetake_Cover_Generic.tga.ckd/2a019fe3593d810e037406de82d42f66.ckd",
+      "coach1ImageUrl": "/public/map/MisterRetake/orbis/MisterRetake_Coach_1.tga.ckd/3fc48a809d17d645ba8ab6dbf9982bd6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MisterRetake/MisterRetake_Coach_1_Phone.png/9b31f375d7ab54664bf2dc3191535fd8.png",
+    "phoneCoverImageUrl": "/public/map/MisterRetake/MisterRetake_Cover_Phone.jpg/ad183b3a54796f76b59e6e0bd2c77e92.jpg",
+    "cover640ImageUrl": "/public/map/MisterRetake/MisterRetake_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 198.46
+}

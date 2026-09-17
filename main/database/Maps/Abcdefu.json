@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f24b50d8dbab7f60db01ffd9f35aa982",
+      "storageType": 0,
+      "url": "/public/map/Abcdefu/nx/Abcdefu_MAIN_SCENE_NX.zip/f24b50d8dbab7f60db01ffd9f35aa982.zip"
+    },
+    "pc": {
+      "md5": "165ccd6485351509eaefce6b78afa488",
+      "storageType": 0,
+      "url": "/public/map/Abcdefu/pc/Abcdefu_MAIN_SCENE_PC.zip/165ccd6485351509eaefce6b78afa488.zip"
+    },
+    "ps4": {
+      "md5": "0da6b05df27f162dcbf4e20b0119c9aa",
+      "storageType": 0,
+      "url": "/public/map/Abcdefu/orbis/Abcdefu_MAIN_SCENE_ORBIS.zip/0da6b05df27f162dcbf4e20b0119c9aa.zip"
+    }
+  },
+  "data": {
+    "mapName": "Abcdefu",
+    "title": "abc (nicer)",
+    "originalJDVersion": 2023,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Gayle",
+    "credits": "Written by Sara Davis, Taylor Gayle Rutherford, David Pittenger. Published by Universal Music Publishing International / Downtown Music Services / Songs by Aras, administered by Big Music Machine. Courtesy of Atlantic Recording Corp. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#d168f4",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23607,
+        47213,
+        70820,
+        94426,
+        118033,
+        141639,
+        165246,
+        188852,
+        212459,
+        236066,
+        259672,
+        283279,
+        306885,
+        330492,
+        354098,
+        377705,
+        401311,
+        424918,
+        448525,
+        472131,
+        495738,
+        519344,
+        542951,
+        566557,
+        590164,
+        613770,
+        637377,
+        660984,
+        684590,
+        708197,
+        731803,
+        755410,
+        779016,
+        802623,
+        826230,
+        849836,
+        873443,
+        897049,
+        920656,
+        944262,
+        967869,
+        991475,
+        1015082,
+        1038689,
+        1062295,
+        1085902,
+        1109508,
+        1133115,
+        1156721,
+        1180328,
+        1203934,
+        1227541,
+        1251148,
+        1274754,
+        1298361,
+        1321967,
+        1345574,
+        1369180,
+        1392787,
+        1416393,
+        1440000,
+        1463607,
+        1487213
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -28,
+      "endBeat": 347,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Abcdefu/Abcdefu_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Abcdefu/nx/Abcdefu_banner_bkg.tga.ckd/37d938458a4902e01feabccd63e66b3d.ckd",
+      "map_bkgImageUrl": "/public/map/Abcdefu/nx/Abcdefu_map_bkg.tga.ckd/7cfdfa719f8ef3316d8ec0112bcb6913.ckd",
+      "expandCoachImageUrl": "/public/map/Abcdefu/nx/Abcdefu_Cover_AlbumCoach.tga.ckd/20ad3ceb8dfabbba51ec5ffabdbdc135.ckd",
+      "cover_smallImageUrl": "/public/map/Abcdefu/nx/Abcdefu_Cover_Online.tga.ckd/955af7930ba99969e3755becd8af1e69.ckd",
+      "coverImageUrl": "/public/map/Abcdefu/nx/Abcdefu_Cover_Generic.tga.ckd/ad0463ef6edf86af0bcbf2f3f045e6d3.ckd",
+      "coach1ImageUrl": "/public/map/Abcdefu/nx/Abcdefu_Coach_1.tga.ckd/3782520978e21ecdbfc558707ae22c37.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Abcdefu/pc/Abcdefu_banner_bkg.tga.ckd/a4f71217550bf2187a2de2e2d5abecdc.ckd",
+      "map_bkgImageUrl": "/public/map/Abcdefu/pc/Abcdefu_map_bkg.tga.ckd/f42f11df90ccff3c0add78c41f82d996.ckd",
+      "expandCoachImageUrl": "/public/map/Abcdefu/pc/Abcdefu_Cover_AlbumCoach.tga.ckd/1dc4b35f2e8e0e7da9e9cc32e969044e.ckd",
+      "cover_smallImageUrl": "/public/map/Abcdefu/pc/Abcdefu_Cover_Online.tga.ckd/af44064cd24980c12c2bdf3605c0f831.ckd",
+      "coverImageUrl": "/public/map/Abcdefu/pc/Abcdefu_Cover_Generic.tga.ckd/2d110f95afb397c29e758f739a39e935.ckd",
+      "coach1ImageUrl": "/public/map/Abcdefu/pc/Abcdefu_Coach_1.tga.ckd/3a1014c708f8f9f41381ef6de6d9a02e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Abcdefu/orbis/Abcdefu_banner_bkg.tga.ckd/a4f71217550bf2187a2de2e2d5abecdc.ckd",
+      "map_bkgImageUrl": "/public/map/Abcdefu/orbis/Abcdefu_map_bkg.tga.ckd/f42f11df90ccff3c0add78c41f82d996.ckd",
+      "expandCoachImageUrl": "/public/map/Abcdefu/orbis/Abcdefu_Cover_AlbumCoach.tga.ckd/1dc4b35f2e8e0e7da9e9cc32e969044e.ckd",
+      "cover_smallImageUrl": "/public/map/Abcdefu/orbis/Abcdefu_Cover_Online.tga.ckd/af44064cd24980c12c2bdf3605c0f831.ckd",
+      "coverImageUrl": "/public/map/Abcdefu/orbis/Abcdefu_Cover_Generic.tga.ckd/2d110f95afb397c29e758f739a39e935.ckd",
+      "coach1ImageUrl": "/public/map/Abcdefu/orbis/Abcdefu_Coach_1.tga.ckd/3a1014c708f8f9f41381ef6de6d9a02e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Abcdefu/Abcdefu_Coach_1_Phone.png/f802cdd432845e48016571ad2a9839ab.png",
+    "phoneCoverImageUrl": "/public/map/Abcdefu/Abcdefu_Cover_Phone.jpg/655787bd550dd26ddcc985ab8bb70cd9.jpg",
+    "cover640ImageUrl": "/public/map/Abcdefu/Abcdefu_Cover_640.png/50e8931bb847a41d8bd53ffda3e5e806.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Abcdefu/Abcdefu.ogg": "/private/map/Abcdefu/Abcdefu.ogg/004846b53c2bd7ff5be8c9044b8d1fb2.ogg",
+    "jmcs://jd-contents/Abcdefu/Abcdefu_AudioPreview.ogg": "/public/map/Abcdefu/Abcdefu_AudioPreview.ogg/0a93356f6e26612aef328f62c1e74aef.ogg",
+    "jmcs://jd-contents/Abcdefu/Abcdefu_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Abcdefu/Abcdefu_MapPreviewNoSoundCrop_LOW.vp8.webm/016f76110badcf3074e1e753657b5f53.webm",
+    "jmcs://jd-contents/Abcdefu/Abcdefu_HIGH.webm": "/private/map/Abcdefu/Abcdefu_HIGH.webm/9bccce3883672b7668b28862c5dc1d6a.webm",
+    "jmcs://jd-contents/Abcdefu/Abcdefu_LOW.webm": "/private/map/Abcdefu/Abcdefu_LOW.webm/9b032f2019ad0930b9927f4fe8747a3b.webm",
+    "jmcs://jd-contents/Abcdefu/Abcdefu_MID.webm": "/private/map/Abcdefu/Abcdefu_MID.webm/bd1be8cc787a5b0fd0fa7a48f9e854f6.webm",
+    "jmcs://jd-contents/Abcdefu/Abcdefu_ULTRA.hd.webm": "/private/map/Abcdefu/Abcdefu_ULTRA.hd.webm/4fbd6c129970c13e12dac6f7766ba861.webm",
+    "jmcs://jd-contents/Abcdefu/Abcdefu_ULTRA.webm": "/private/map/Abcdefu/Abcdefu_ULTRA.webm/a03cdea05f78b2df12f6f570d50d6389.webm",
+    "jmcs://jd-contents/Abcdefu/Abcdefu_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Abcdefu/Abcdefu_MapPreviewNoSoundCrop_MID.vp8.webm/b7c4770601f8a84dc6c54c1387e04816.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"528584\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Abcdefu/Abcdefu_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"655-1144\">\n\t\t\t\t\t<Initialization range=\"0-655\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1499833\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Abcdefu/Abcdefu_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"656-1146\">\n\t\t\t\t\t<Initialization range=\"0-656\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 184.4315
+}

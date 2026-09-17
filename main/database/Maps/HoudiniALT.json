@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/HoudiniALT/HoudiniALT.ogg": "/private/map/HoudiniALT/HoudiniALT.ogg/37e8d2a2528860d2a7d62c028eb1b26e.ogg",
+    "jmcs://jd-contents/HoudiniALT/HoudiniALT_AudioPreview.ogg": "/public/map/HoudiniALT/HoudiniALT_AudioPreview.ogg/64c2539530126e4d2f33bdd3fe50d7bb.ogg",
+    "jmcs://jd-contents/HoudiniALT/HoudiniALT_HIGH.hd.webm": "/private/map/HoudiniALT/HoudiniALT_HIGH.hd.webm/6c0eede4914b3be4d0806b43c86f9342.webm",
+    "jmcs://jd-contents/HoudiniALT/HoudiniALT_LOW.hd.webm": "/private/map/HoudiniALT/HoudiniALT_LOW.hd.webm/ff60bc9de9da2b5049d5c8ea31c57fa5.webm",
+    "jmcs://jd-contents/HoudiniALT/HoudiniALT_MID.hd.webm": "/private/map/HoudiniALT/HoudiniALT_MID.hd.webm/d87156bdeefcb5e073210f0efe1eff10.webm",
+    "jmcs://jd-contents/HoudiniALT/HoudiniALT_ULTRA.hd.webm": "/private/map/HoudiniALT/HoudiniALT_ULTRA.hd.webm/e6ec6d48f327b9393e4bf684d03b39ad.webm",
+    "jmcs://jd-contents/HoudiniALT/HoudiniALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HoudiniALT/HoudiniALT_MapPreviewNoSoundCrop_LOW.vp8.webm/dc088cdbeea5b8e64b74d6cb34dfc9e7.webm",
+    "jmcs://jd-contents/HoudiniALT/HoudiniALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HoudiniALT/HoudiniALT_MapPreviewNoSoundCrop_MID.vp8.webm/4734c06e3a28a1bde2a1b03b695204da.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24615,
+        49231,
+        73846,
+        98462,
+        123077,
+        147692,
+        172308,
+        196923,
+        221538,
+        246154,
+        270769,
+        295385,
+        320000,
+        344615,
+        369231,
+        393846,
+        418462,
+        443077,
+        467692,
+        492308,
+        516923,
+        541538,
+        566154,
+        590769,
+        615385,
+        640000,
+        664615,
+        689231,
+        713846,
+        738462,
+        763077,
+        787692,
+        812308,
+        836923,
+        861538,
+        886154,
+        910769,
+        935385,
+        960000,
+        984615,
+        1009231,
+        1033846,
+        1058462,
+        1083077,
+        1107692,
+        1132308,
+        1156923,
+        1181538,
+        1206154,
+        1230769,
+        1255385,
+        1280000,
+        1304615,
+        1329231,
+        1353846,
+        1378462,
+        1403077,
+        1427692,
+        1452308,
+        1476923
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 365,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HoudiniALT/HoudiniALT_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "7105b27d7b3cc6e261e8c0c80d4784c1",
+      "storageType": 0,
+      "url": "/public/map/HoudiniALT/nx/HoudiniALT_MAIN_SCENE_NX.zip/7105b27d7b3cc6e261e8c0c80d4784c1.zip"
+    },
+    "pc": {
+      "md5": "ff175b1397c9cfe1972929b62cea5f37",
+      "storageType": 0,
+      "url": "/public/map/HoudiniALT/pc/HoudiniALT_MAIN_SCENE_PC.zip/ff175b1397c9cfe1972929b62cea5f37.zip"
+    },
+    "ps4": {
+      "md5": "4cb08f2267128dcc9a33f76f3a8ef28b",
+      "storageType": 0,
+      "url": "/public/map/HoudiniALT/orbis/HoudiniALT_MAIN_SCENE_ORBIS.zip/4cb08f2267128dcc9a33f76f3a8ef28b.zip"
+    }
+  },
+  "data": {
+    "mapName": "HoudiniALT",
+    "title": "Houdini",
+    "originalJDVersion": 2026,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "Dua Lipa",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f95403",
+    "songColor2A": "#0363ff",
+    "songColor1B": "#01010c",
+    "songColor2B": "#0d0340",
+    "lyricsColor": "#0357fd",
+    "LocaleID": 12624
+  },
+  "mapLength": 188.724438,
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HoudiniALT/nx/HoudiniALT_banner_bkg.tga.ckd/14605834e6631c27c7108374ca8c83f9.ckd",
+      "map_bkgImageUrl": "/public/map/HoudiniALT/nx/HoudiniALT_map_bkg.tga.ckd/8ed8536447e5306dcfa1da0c34586de0.ckd",
+      "expandCoachImageUrl": "/public/map/HoudiniALT/nx/HoudiniALT_Cover_AlbumCoach.tga.ckd/90bb1c2a366536719b20ccbc50770145.ckd",
+      "cover_smallImageUrl": "/public/map/HoudiniALT/nx/HoudiniALT_Cover_Online.tga.ckd/8b2a6817d61334dac1b587754d3da0e8.ckd",
+      "coverImageUrl": "/public/map/HoudiniALT/nx/HoudiniALT_Cover_Generic.tga.ckd/1df2fdac14d376dbc43bfc50250adbac.ckd",
+      "coach1ImageUrl": "/public/map/HoudiniALT/nx/HoudiniALT_Coach_1.tga.ckd/820a4a79ce4b20dc4caa3e2d27ea3568.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HoudiniALT/pc/HoudiniALT_banner_bkg.tga.ckd/88b3bbc23de52058955a2df9f81d9c0a.ckd",
+      "map_bkgImageUrl": "/public/map/HoudiniALT/pc/HoudiniALT_map_bkg.tga.ckd/95ee0f4d95b1375609b8bb51deeab902.ckd",
+      "expandCoachImageUrl": "/public/map/HoudiniALT/pc/HoudiniALT_Cover_AlbumCoach.tga.ckd/ac3b597abf1b49382b2b9d9c4b3d50f7.ckd",
+      "cover_smallImageUrl": "/public/map/HoudiniALT/pc/HoudiniALT_Cover_Online.tga.ckd/a1902f0ea0429055ca22d9406dbde07b.ckd",
+      "coverImageUrl": "/public/map/HoudiniALT/pc/HoudiniALT_Cover_Generic.tga.ckd/93e57dd9cb5fc0849d17120894f5a800.ckd",
+      "coach1ImageUrl": "/public/map/HoudiniALT/pc/HoudiniALT_Coach_1.tga.ckd/fee9cf72d4565cdadf2417f3743284fa.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HoudiniALT/orbis/HoudiniALT_banner_bkg.tga.ckd/88b3bbc23de52058955a2df9f81d9c0a.ckd",
+      "map_bkgImageUrl": "/public/map/HoudiniALT/orbis/HoudiniALT_map_bkg.tga.ckd/95ee0f4d95b1375609b8bb51deeab902.ckd",
+      "expandCoachImageUrl": "/public/map/HoudiniALT/orbis/HoudiniALT_Cover_AlbumCoach.tga.ckd/ac3b597abf1b49382b2b9d9c4b3d50f7.ckd",
+      "cover_smallImageUrl": "/public/map/HoudiniALT/orbis/HoudiniALT_Cover_Online.tga.ckd/a1902f0ea0429055ca22d9406dbde07b.ckd",
+      "coverImageUrl": "/public/map/HoudiniALT/orbis/HoudiniALT_Cover_Generic.tga.ckd/93e57dd9cb5fc0849d17120894f5a800.ckd",
+      "coach1ImageUrl": "/public/map/HoudiniALT/orbis/HoudiniALT_Coach_1.tga.ckd/fee9cf72d4565cdadf2417f3743284fa.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HoudiniALT/HoudiniALT_Coach_1_Phone.png/6fa408823937df4ad6f8800bda9b37cf.png",
+    "phoneCoverImageUrl": "/public/map/HoudiniALT/HoudiniALT_Cover_Phone.jpg/71d399dca40101227042f885ce3ae994.jpg",
+    "cover640ImageUrl": "/public/map/HoudiniALT/HoudiniALT_Cover_640.png/e357b9629d89a81db08454e9f4583a2b.png"
+  }
+}

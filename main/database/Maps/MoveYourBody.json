@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MoveYourBody/MoveYourBody.ogg": "/private/map/MoveYourBody/MoveYourBody.ogg/7b7e6aa2ba3ca59d95d8cf30ba336d95.ogg",
+    "jmcs://jd-contents/MoveYourBody/MoveYourBody_AudioPreview.ogg": "/public/map/MoveYourBody/MoveYourBody_AudioPreview.ogg/2a8a494bceae2ccc25bdd5e17a8a7846.ogg",
+    "jmcs://jd-contents/MoveYourBody/MoveYourBody_HIGH.hd.webm": "/private/map/MoveYourBody/MoveYourBody_HIGH.hd.webm/6eb5c81ffd35822ea768be8b46f50f62.webm",
+    "jmcs://jd-contents/MoveYourBody/MoveYourBody_LOW.hd.webm": "/private/map/MoveYourBody/MoveYourBody_LOW.hd.webm/3bcb91890dff5c1d1be37f5e4c56eef3.webm",
+    "jmcs://jd-contents/MoveYourBody/MoveYourBody_MID.hd.webm": "/private/map/MoveYourBody/MoveYourBody_MID.hd.webm/831a31bbfbd9dc0ce4be112121d22f2b.webm",
+    "jmcs://jd-contents/MoveYourBody/MoveYourBody_ULTRA.hd.webm": "/private/map/MoveYourBody/MoveYourBody_ULTRA.hd.webm/c459b1717f218bab56c644919681d6b1.webm",
+    "jmcs://jd-contents/MoveYourBody/MoveYourBody_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MoveYourBody/MoveYourBody_MapPreviewNoSoundCrop_LOW.vp8.webm/f4898c3b426f0dd1a624b3e51cff1359.webm",
+    "jmcs://jd-contents/MoveYourBody/MoveYourBody_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MoveYourBody/MoveYourBody_MapPreviewNoSoundCrop_MID.vp8.webm/9099e5119ea9e294ed175be27158741b.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21333,
+        42667,
+        64000,
+        85333,
+        106667,
+        128000,
+        149333,
+        170667,
+        192000,
+        213333,
+        234667,
+        256000,
+        277333,
+        298667,
+        320000,
+        341333,
+        362667,
+        384000,
+        405333,
+        426667,
+        448000,
+        469333,
+        490667,
+        512000,
+        533333,
+        554667,
+        576000,
+        597333,
+        618667,
+        640000,
+        661333,
+        682667,
+        704000,
+        725333,
+        746667,
+        768000,
+        789333,
+        810667,
+        832000,
+        853333,
+        874667,
+        896000,
+        917333,
+        938667,
+        960000,
+        981333,
+        1002667,
+        1024000,
+        1045333,
+        1066667,
+        1088000,
+        1109333,
+        1130667,
+        1152000,
+        1173333,
+        1194667,
+        1216000,
+        1237333,
+        1258667,
+        1280000,
+        1301333,
+        1322667,
+        1344000,
+        1365333,
+        1386667,
+        1408000,
+        1429333,
+        1450667,
+        1472000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 398,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 67,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MoveYourBody/MoveYourBody_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"527364\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MoveYourBody/MoveYourBody_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1952300\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MoveYourBody/MoveYourBody_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "604f6d27187e56b2ba9dd274b948836d",
+      "storageType": 0,
+      "url": "/public/map/MoveYourBody/nx/MoveYourBody_MAIN_SCENE_NX.zip/604f6d27187e56b2ba9dd274b948836d.zip"
+    },
+    "pc": {
+      "md5": "0d7cdb79fe1d3eabc4764c2d04810022",
+      "storageType": 0,
+      "url": "/public/map/MoveYourBody/pc/MoveYourBody_MAIN_SCENE_PC.zip/0d7cdb79fe1d3eabc4764c2d04810022.zip"
+    },
+    "ps4": {
+      "md5": "f1a00b7c030df017d5609c7eeef4898b",
+      "storageType": 0,
+      "url": "/public/map/MoveYourBody/orbis/MoveYourBody_MAIN_SCENE_ORBIS.zip/f1a00b7c030df017d5609c7eeef4898b.zip"
+    }
+  },
+  "data": {
+    "mapName": "MoveYourBody",
+    "title": "Move Your Body",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Sunlight Shakers",
+    "credits": "Written by Doron Medalie, Ran Aviv. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#070fb4",
+    "songColor2A": "#540ce8",
+    "songColor1B": "#1d084e",
+    "songColor2B": "#3e1251",
+    "lyricsColor": "#f519ed",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MoveYourBody/nx/MoveYourBody_banner_bkg.tga.ckd/23293a2c930b385a2d0bd0a2b167f9a7.ckd",
+      "map_bkgImageUrl": "/public/map/MoveYourBody/nx/MoveYourBody_map_bkg.tga.ckd/2ea5d64c106768c8c1a04121ae57ea66.ckd",
+      "expandCoachImageUrl": "/public/map/MoveYourBody/nx/MoveYourBody_Cover_AlbumCoach.tga.ckd/24856122553e8c77069629b0c9cd05a7.ckd",
+      "cover_smallImageUrl": "/public/map/MoveYourBody/nx/MoveYourBody_Cover_Online.tga.ckd/c8f13f5eb70d2bd68775fa3b1f433059.ckd",
+      "coverImageUrl": "/public/map/MoveYourBody/nx/MoveYourBody_Cover_Generic.tga.ckd/241ab84576d1589fc25fccb7b57b1a01.ckd",
+      "coach1ImageUrl": "/public/map/MoveYourBody/nx/MoveYourBody_Coach_1.tga.ckd/76a74f8333e428a2d9ad9ca42ee3782f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MoveYourBody/pc/MoveYourBody_banner_bkg.tga.ckd/6859617b48b9db8e146cb4270307b090.ckd",
+      "map_bkgImageUrl": "/public/map/MoveYourBody/pc/MoveYourBody_map_bkg.tga.ckd/027ccb73657fa5a0af5c6b1c016a0786.ckd",
+      "expandCoachImageUrl": "/public/map/MoveYourBody/pc/MoveYourBody_Cover_AlbumCoach.tga.ckd/f23fe2dd5a2874368575e1a6b990d55a.ckd",
+      "cover_smallImageUrl": "/public/map/MoveYourBody/pc/MoveYourBody_Cover_Online.tga.ckd/e85134317d8719244e04d0430c04cbc1.ckd",
+      "coverImageUrl": "/public/map/MoveYourBody/pc/MoveYourBody_Cover_Generic.tga.ckd/80474642440a854400bee255df93774c.ckd",
+      "coach1ImageUrl": "/public/map/MoveYourBody/pc/MoveYourBody_Coach_1.tga.ckd/97cbe5585e555ac166e5ee5cc304614f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MoveYourBody/orbis/MoveYourBody_banner_bkg.tga.ckd/6859617b48b9db8e146cb4270307b090.ckd",
+      "map_bkgImageUrl": "/public/map/MoveYourBody/orbis/MoveYourBody_map_bkg.tga.ckd/027ccb73657fa5a0af5c6b1c016a0786.ckd",
+      "expandCoachImageUrl": "/public/map/MoveYourBody/orbis/MoveYourBody_Cover_AlbumCoach.tga.ckd/f23fe2dd5a2874368575e1a6b990d55a.ckd",
+      "cover_smallImageUrl": "/public/map/MoveYourBody/orbis/MoveYourBody_Cover_Online.tga.ckd/e85134317d8719244e04d0430c04cbc1.ckd",
+      "coverImageUrl": "/public/map/MoveYourBody/orbis/MoveYourBody_Cover_Generic.tga.ckd/80474642440a854400bee255df93774c.ckd",
+      "coach1ImageUrl": "/public/map/MoveYourBody/orbis/MoveYourBody_Coach_1.tga.ckd/97cbe5585e555ac166e5ee5cc304614f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MoveYourBody/MoveYourBody_Coach_1_Phone.png/03cc2b7a955e15274d2ac32a8f29deab.png",
+    "phoneCoverImageUrl": "/public/map/MoveYourBody/MoveYourBody_Cover_Phone.jpg/e8e71a49a01d5348f10a6612940bd26d.jpg",
+    "cover640ImageUrl": "/public/map/MoveYourBody/MoveYourBody_Cover_640.png/8cfbff35728d5be8c1e558821ced28d4.png"
+  },
+  "mapLength": 177.77775
+}

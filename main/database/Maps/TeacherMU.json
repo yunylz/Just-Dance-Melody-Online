@@ -1,0 +1,172 @@
+{
+  "urls": {
+    "jmcs://jd-contents/TeacherMU/TeacherMU_HIGH.hd.webm": "/private/map/TeacherMU/TeacherMU_HIGH.hd.webm/a39606ba1374af7ec2e1332802982258.webm",
+    "jmcs://jd-contents/TeacherMU/TeacherMU_LOW.hd.webm": "/private/map/TeacherMU/TeacherMU_LOW.hd.webm/276397bc43c1eb3b3fc80ebd95c1af6c.webm",
+    "jmcs://jd-contents/TeacherMU/TeacherMU_MID.hd.webm": "/private/map/TeacherMU/TeacherMU_MID.hd.webm/16e07774008bc99b7db0c0f55c3f917d.webm",
+    "jmcs://jd-contents/TeacherMU/TeacherMU_ULTRA.hd.webm": "/private/map/TeacherMU/TeacherMU_ULTRA.hd.webm/161b1fe7596805f205732968360eea33.webm",
+    "jmcs://jd-contents/TeacherMU/TeacherMU.ogg": "/private/map/TeacherMU/TeacherMU.ogg/1939202a6c28d9e01af3f7a7e3b48148.ogg",
+    "jmcs://jd-contents/TeacherMU/TeacherMU_AudioPreview.ogg": "/public/map/TeacherMU/TeacherMU_AudioPreview.ogg/2eb9e4c1026eb6bf8977e39ca36ef50b.ogg",
+    "jmcs://jd-contents/TeacherMU/TeacherMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TeacherMU/TeacherMU_MapPreviewNoSoundCrop_LOW.vp8.webm/5cbe4928f6d898fdcdc760112d6e3841.webm",
+    "jmcs://jd-contents/TeacherMU/TeacherMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TeacherMU/TeacherMU_MapPreviewNoSoundCrop_MID.vp8.webm/7cc58655a48fbc9a6ceedffd0fc58926.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24624,
+        49248,
+        73824,
+        98448,
+        123072,
+        147696,
+        172320,
+        196944,
+        221520,
+        246144,
+        270768,
+        295392,
+        320016,
+        344592,
+        369216,
+        393840,
+        418464,
+        443088,
+        467712,
+        492288,
+        516912,
+        541536,
+        566160,
+        590784,
+        615408,
+        639984,
+        664608,
+        689232,
+        713856,
+        738480,
+        763056,
+        787680,
+        812304,
+        836928,
+        861552,
+        886176,
+        910752,
+        935376,
+        960000,
+        984624,
+        1009248,
+        1033824,
+        1058448,
+        1083072,
+        1107696,
+        1132320,
+        1156944,
+        1181520,
+        1206144,
+        1230768,
+        1255392,
+        1280016,
+        1304592,
+        1329216,
+        1353840,
+        1378464,
+        1403088,
+        1427712,
+        1452288,
+        1476912
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 388,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TeacherMU/TeacherMU_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"647596\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TeacherMU/TeacherMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\n\t\t\t\t\t<Initialization range=\"0-639\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1981214\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TeacherMU/TeacherMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\n\t\t\t\t\t<Initialization range=\"0-639\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "8730ef36b4061b3672c7d1dee5be0312",
+      "storageType": 0,
+      "url": "/public/map/TeacherMU/nx/TeacherMU_MAIN_SCENE_NX.zip/8730ef36b4061b3672c7d1dee5be0312.zip"
+    },
+    "pc": {
+      "md5": "a792f50d3492f58164a94b25554fa282",
+      "storageType": 0,
+      "url": "/public/map/TeacherMU/pc/TeacherMU_MAIN_SCENE_PC.zip/a792f50d3492f58164a94b25554fa282.zip"
+    },
+    "ps4": {
+      "md5": "69a5dc8082be5c0ab5bec982bd25085a",
+      "storageType": 0,
+      "url": "/public/map/TeacherMU/orbis/TeacherMU_MAIN_SCENE_ORBIS.zip/69a5dc8082be5c0ab5bec982bd25085a.zip"
+    }
+  },
+  "data": {
+    "mapName": "TeacherMU",
+    "title": "Teacher",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "Nick Jonas",
+    "credits": "Written by Ammar Malik. Published by Prescription Songs LLC. Administered by Kobalt Music Publishing America, Inc. / BMG Platinum Songs (BMI)/Bad Robot (BMI)/Music Of Big Deal (BMI)/Danny Clementine Music (BMI). Courtesy of Island Records/ Safehouse Records, under license from Universal Music Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#8a5eff",
+    "songColor2A": "#00ffff",
+    "songColor1B": "#5a0094",
+    "songColor2B": "#0a139d",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TeacherMU/nx/TeacherMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/TeacherMU/nx/TeacherMU_map_bkg.tga.ckd/58cfed51a3b189ff3b379a15d0b0ed31.ckd",
+      "expandCoachImageUrl": "/public/map/TeacherMU/nx/TeacherMU_Cover_AlbumCoach.tga.ckd/385bc8f1fbe38a340cfc22665df36117.ckd",
+      "cover_smallImageUrl": "/public/map/TeacherMU/nx/TeacherMU_Cover_Online.tga.ckd/e0ddd8b14eead21c007a2ffb521b0ba0.ckd",
+      "coverImageUrl": "/public/map/TeacherMU/nx/TeacherMU_Cover_Generic.tga.ckd/b770d7a6d077b877424578a8bd56cc2c.ckd",
+      "coach1ImageUrl": "/public/map/TeacherMU/nx/TeacherMU_Coach_1.tga.ckd/4e0a18568b822f17b7ed77eed51ea46d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TeacherMU/pc/TeacherMU_banner_bkg.tga.ckd/21a9f5c11e0239ee94166f3c8f6a8e25.ckd",
+      "map_bkgImageUrl": "/public/map/TeacherMU/pc/TeacherMU_map_bkg.tga.ckd/ce31d4661780397666339c5ed6e1ad4b.ckd",
+      "expandCoachImageUrl": "/public/map/TeacherMU/pc/TeacherMU_Cover_AlbumCoach.tga.ckd/90b11c31f568c33e9b56e8b2cf8ce317.ckd",
+      "cover_smallImageUrl": "/public/map/TeacherMU/pc/TeacherMU_Cover_Online.tga.ckd/7ffde03c456d341201e3a5888642bd10.ckd",
+      "coverImageUrl": "/public/map/TeacherMU/pc/TeacherMU_Cover_Generic.tga.ckd/1a21f7f6369cd5c28ae67696e7fd0743.ckd",
+      "coach1ImageUrl": "/public/map/TeacherMU/pc/TeacherMU_Coach_1.tga.ckd/1e76e96d1e7b66c1c0111991dcb7bd7c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TeacherMU/orbis/TeacherMU_banner_bkg.tga.ckd/21a9f5c11e0239ee94166f3c8f6a8e25.ckd",
+      "map_bkgImageUrl": "/public/map/TeacherMU/orbis/TeacherMU_map_bkg.tga.ckd/ce31d4661780397666339c5ed6e1ad4b.ckd",
+      "expandCoachImageUrl": "/public/map/TeacherMU/orbis/TeacherMU_Cover_AlbumCoach.tga.ckd/90b11c31f568c33e9b56e8b2cf8ce317.ckd",
+      "cover_smallImageUrl": "/public/map/TeacherMU/orbis/TeacherMU_Cover_Online.tga.ckd/7ffde03c456d341201e3a5888642bd10.ckd",
+      "coverImageUrl": "/public/map/TeacherMU/orbis/TeacherMU_Cover_Generic.tga.ckd/1a21f7f6369cd5c28ae67696e7fd0743.ckd",
+      "coach1ImageUrl": "/public/map/TeacherMU/orbis/TeacherMU_Coach_1.tga.ckd/1e76e96d1e7b66c1c0111991dcb7bd7c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TeacherMU/TeacherMU_Coach_1_Phone.png/bc104cdabd42dd1468ad2b7e0bb0dffb.png",
+    "phoneCoverImageUrl": "/public/map/TeacherMU/TeacherMU_Cover_Phone.jpg/1867461919363169051ff2ad52013bd7.jpg",
+    "cover640ImageUrl": "/public/map/TeacherMU/TeacherMU_Cover_640.png/eeea1e6ab1c96dbd19d5fa071457bfd5.png"
+  },
+  "mapLength": 200.000021
+}

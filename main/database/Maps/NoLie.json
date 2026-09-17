@@ -1,0 +1,167 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c330b34a5ebc52d76788747c05e341a4",
+      "storageType": 0,
+      "url": "/public/map/NoLie/nx/NoLie_MAIN_SCENE_NX.zip/c330b34a5ebc52d76788747c05e341a4.zip"
+    },
+    "pc": {
+      "md5": "7d4a110bf3167806ef4a7f6c8af4b55c",
+      "storageType": 0,
+      "url": "/public/map/NoLie/pc/NoLie_MAIN_SCENE_PC.zip/7d4a110bf3167806ef4a7f6c8af4b55c.zip"
+    },
+    "ps4": {
+      "md5": "e75c6090f1e9f86129939dcec81eed9c",
+      "storageType": 0,
+      "url": "/public/map/NoLie/orbis/NoLie_MAIN_SCENE_ORBIS.zip/e75c6090f1e9f86129939dcec81eed9c.zip"
+    }
+  },
+  "data": {
+    "mapName": "NoLie",
+    "title": "No Lie",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sean Paul Ft. Dua Lipa",
+    "credits": "Written by Sean Paul Henriques, Emily Warren Schwartz, Jamie Sanderson, Philip Kembo and Andrew Jackson. Published by Kobalt Music Services America Inc (KMSA) obo Where Da Kasz At [BMI] / Under Warrenty Publishing (BMI). Jamie Sanderson Publishing (ASCAP) / Artist Publishing Group West (ASCAP) / Made In Harare (ASCAP) / Artist Publishing Group West (ASCAP). Administered by Kobalt Songs Music Publishing (ASCAP) / EMI Music Publishing Ltd. (PRS) c/o EMI April Music (Canada) Ltd. (SOCAN) / These Are Songs Of Pulse (ASCAP) and Leonard Street Songs Limited (ASCAP). All rights Reserved. Used with permission. Courtesy of Island Records/Island Records Ltd. Under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#006d9a",
+    "songColor2A": "#00b181",
+    "songColor1B": "#081a44",
+    "songColor2B": "#050025",
+    "lyricsColor": "#f6648a",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28223,
+        56447,
+        84719,
+        112943,
+        141167,
+        169391,
+        197663,
+        225887,
+        254111,
+        282335,
+        310607,
+        338831,
+        367055,
+        395279,
+        423551,
+        451775,
+        479999,
+        508223,
+        536447,
+        564719,
+        592943,
+        621167,
+        649391,
+        677663,
+        705887,
+        734111,
+        762335,
+        790606,
+        818830,
+        847054,
+        875278,
+        903550,
+        931774,
+        959998,
+        988222,
+        1016446,
+        1044718,
+        1072942,
+        1101166,
+        1129390,
+        1157662,
+        1185886,
+        1214110,
+        1242334,
+        1270606,
+        1298830,
+        1327054,
+        1355278,
+        1383550,
+        1411774,
+        1439998,
+        1468222,
+        1496446
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 360,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/NoLie/NoLie_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/NoLie/nx/NoLie_banner_bkg.tga.ckd/6a895304b8ab8c656669afb36841c6e2.ckd",
+      "map_bkgImageUrl": "/public/map/NoLie/nx/NoLie_map_bkg.tga.ckd/218ca095b0ff7651bf6be037ccfc2074.ckd",
+      "expandCoachImageUrl": "/public/map/NoLie/nx/NoLie_Cover_AlbumCoach.tga.ckd/9d4a3fb8f7109413f3d1d8297673d0b1.ckd",
+      "cover_smallImageUrl": "/public/map/NoLie/nx/NoLie_Cover_Online.tga.ckd/de970406be7d12018f2f05c6046641fa.ckd",
+      "coach1ImageUrl": "/public/map/NoLie/nx/NoLie_Coach_1.tga.ckd/1162bdef866316bb0e93c4d9277052a4.ckd",
+      "coach2ImageUrl": "/public/map/NoLie/nx/NoLie_Coach_2.tga.ckd/ba5e614ecda30d0b69bf2cc0129e7ef1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/NoLie/pc/NoLie_banner_bkg.tga.ckd/dc95154053cf095f7e456c9a09d9ed68.ckd",
+      "map_bkgImageUrl": "/public/map/NoLie/pc/NoLie_map_bkg.tga.ckd/a1c34b3fe961427eb6beac92b02f5972.ckd",
+      "expandCoachImageUrl": "/public/map/NoLie/pc/NoLie_Cover_AlbumCoach.tga.ckd/8d3b065bf1f1212a090bd37324b502b9.ckd",
+      "cover_smallImageUrl": "/public/map/NoLie/pc/NoLie_Cover_Online.tga.ckd/7f5a99cc2d6dffe6028e9a919a3bfbf3.ckd",
+      "coach1ImageUrl": "/public/map/NoLie/pc/NoLie_Coach_1.tga.ckd/ca62bd77bd793aac391497692b8cf71c.ckd",
+      "coach2ImageUrl": "/public/map/NoLie/pc/NoLie_Coach_2.tga.ckd/134768f36f0ea16e203fe386dc79a8b0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/NoLie/orbis/NoLie_banner_bkg.tga.ckd/dc95154053cf095f7e456c9a09d9ed68.ckd",
+      "map_bkgImageUrl": "/public/map/NoLie/orbis/NoLie_map_bkg.tga.ckd/a1c34b3fe961427eb6beac92b02f5972.ckd",
+      "expandCoachImageUrl": "/public/map/NoLie/orbis/NoLie_Cover_AlbumCoach.tga.ckd/8d3b065bf1f1212a090bd37324b502b9.ckd",
+      "cover_smallImageUrl": "/public/map/NoLie/orbis/NoLie_Cover_Online.tga.ckd/7f5a99cc2d6dffe6028e9a919a3bfbf3.ckd",
+      "coach1ImageUrl": "/public/map/NoLie/orbis/NoLie_Coach_1.tga.ckd/ca62bd77bd793aac391497692b8cf71c.ckd",
+      "coach2ImageUrl": "/public/map/NoLie/orbis/NoLie_Coach_2.tga.ckd/134768f36f0ea16e203fe386dc79a8b0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/NoLie/NoLie_Coach_1_Phone.png/c2696b64eaa2c402d1506e6ccdab6ac4.png",
+    "phoneCoach2ImageUrl": "/public/map/NoLie/NoLie_Coach_2_Phone.png/39a9f9e371838b92e62b69a3c9e12662.png",
+    "phoneCoverImageUrl": "/public/map/NoLie/NoLie_Cover_Phone.jpg/6c379dd4014a9185246ebb3c5199be97.jpg",
+    "cover640ImageUrl": "/public/map/NoLie/NoLie_Cover_640.png/686ee809e6408d9c39e5feab1202acc2.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/NoLie/NoLie.ogg": "/private/map/NoLie/NoLie.ogg/5b84b9f77e97a85446471f9da2c083bb.ogg",
+    "jmcs://jd-contents/NoLie/NoLie_AudioPreview.ogg": "/public/map/NoLie/NoLie_AudioPreview.ogg/0c3ada39a8d115bea0cfa46f8c6909f9.ogg",
+    "jmcs://jd-contents/NoLie/NoLie_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/NoLie/NoLie_MapPreviewNoSoundCrop_LOW.vp8.webm/ae5a072149b80351166f98ae19289e8c.webm",
+    "jmcs://jd-contents/NoLie/NoLie_HIGH.webm": "/private/map/NoLie/NoLie_HIGH.webm/c82d9bfcfcca6fbd847d65ba8df45910.webm",
+    "jmcs://jd-contents/NoLie/NoLie_LOW.webm": "/private/map/NoLie/NoLie_LOW.webm/8f0709a44c1273947232e4a9c5283675.webm",
+    "jmcs://jd-contents/NoLie/NoLie_MID.webm": "/private/map/NoLie/NoLie_MID.webm/3d2d109e76e79486cf0355eda45a46e7.webm",
+    "jmcs://jd-contents/NoLie/NoLie_ULTRA.hd.webm": "/private/map/NoLie/NoLie_ULTRA.hd.webm/710b61933a9f3dbb7fefba4c046631e3.webm",
+    "jmcs://jd-contents/NoLie/NoLie_ULTRA.webm": "/private/map/NoLie/NoLie_ULTRA.webm/00e1c848106ec8670439e45cae015ea6.webm",
+    "jmcs://jd-contents/NoLie/NoLie_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/NoLie/NoLie_MapPreviewNoSoundCrop_MID.vp8.webm/dca19d49b1a29a3d0d1c03c69bc72cd2.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496592\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NoLie/NoLie_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1136\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1479148\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NoLie/NoLie_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\n\t\t\t\t\t<Initialization range=\"0-648\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 214.117625
+}

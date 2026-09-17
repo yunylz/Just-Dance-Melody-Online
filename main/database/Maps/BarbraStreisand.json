@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "cc6cae5f861b400a2f7cf34e95112b71",
+      "storageType": 0,
+      "url": "/public/map/BarbraStreisand/nx/BarbraStreisand_MAIN_SCENE_NX.zip/cc6cae5f861b400a2f7cf34e95112b71.zip"
+    },
+    "pc": {
+      "md5": "53dfa336138ffa1954166a21a2f16daf",
+      "storageType": 0,
+      "url": "/public/map/BarbraStreisand/pc/BarbraStreisand_MAIN_SCENE_PC.zip/53dfa336138ffa1954166a21a2f16daf.zip"
+    },
+    "ps4": {
+      "md5": "8fb81d9a973525ab6bff06cb61473883",
+      "storageType": 0,
+      "url": "/public/map/BarbraStreisand/orbis/BarbraStreisand_MAIN_SCENE_ORBIS.zip/8fb81d9a973525ab6bff06cb61473883.zip"
+    }
+  },
+  "data": {
+    "mapName": "BarbraStreisand",
+    "title": "Barbra Streisand",
+    "originalJDVersion": 3,
+    "tags": [
+      "subscribedSong",
+      "JustDance3",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Duck Sauce",
+    "credits": "Written by Frank Farian, Fred Jay, Heinz Huth, Juergen Huth, Alain Macklovitch and Armand Van Helden. Published by Edition Antenna Musik (GEMA) / Far Musikverlag Gmbh & Co. Kg (GEMA) / BMG Bumblebee (BMI) obo Breakdancin’ Bob Publishing (BMI) / Downtown DMP Songs (BMI). All rights reserved. Used with permission. Courtesy of X-Mix Productions. ",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#c000ff",
+    "songColor2A": "#ff7e00",
+    "songColor1B": "#18004d",
+    "songColor2B": "#400000",
+    "lyricsColor": "#b205ff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24121,
+        48242,
+        72363,
+        96484,
+        120605,
+        144726,
+        168847,
+        192975,
+        215474,
+        237973,
+        260472,
+        282971,
+        305470,
+        327969,
+        350468,
+        372967,
+        395466,
+        417965,
+        440464,
+        462963,
+        485462,
+        507961,
+        530460,
+        552959,
+        575459,
+        597958,
+        620457,
+        642956,
+        665455,
+        687954,
+        710453,
+        732952,
+        755451,
+        777950,
+        800449,
+        822948,
+        845447,
+        867946,
+        890445,
+        912944,
+        935443,
+        957942,
+        980441,
+        1002940,
+        1025439,
+        1047939,
+        1070438,
+        1092937,
+        1115436,
+        1137935,
+        1160434,
+        1182933,
+        1205432,
+        1227931,
+        1250430,
+        1272929,
+        1295428,
+        1317927,
+        1340426,
+        1362925,
+        1385424,
+        1407923,
+        1430422,
+        1452921,
+        1475420
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 429,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BarbraStreisand/nx/BarbraStreisand_banner_bkg.tga.ckd/4445543953d8aa2ba36bb8a988dbb764.ckd",
+      "map_bkgImageUrl": "/public/map/BarbraStreisand/nx/BarbraStreisand_map_bkg.tga.ckd/253b5e55167988dbe148103b0c5e6862.ckd",
+      "expandCoachImageUrl": "/public/map/BarbraStreisand/nx/BarbraStreisand_Cover_AlbumCoach.tga.ckd/e82372a3d405b0eb9b72764470bb4f5d.ckd",
+      "cover_smallImageUrl": "/public/map/BarbraStreisand/nx/BarbraStreisand_Cover_Online.tga.ckd/987c2fd719b7539cfa43fe1d35f8d0d6.ckd",
+      "coverImageUrl": "/public/map/BarbraStreisand/nx/BarbraStreisand_Cover_Generic.tga.ckd/7311f0002706c88f328bf9cfd1caff94.ckd",
+      "coach1ImageUrl": "/public/map/BarbraStreisand/nx/BarbraStreisand_Coach_1.tga.ckd/44a52e5cd45a16d01b14ac341c180404.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BarbraStreisand/pc/BarbraStreisand_banner_bkg.tga.ckd/00bc2c10f791b2196cc35d18847ad20f.ckd",
+      "map_bkgImageUrl": "/public/map/BarbraStreisand/pc/BarbraStreisand_map_bkg.tga.ckd/d80facea4ea95ef0bdc72bbb435171dd.ckd",
+      "expandCoachImageUrl": "/public/map/BarbraStreisand/pc/BarbraStreisand_Cover_AlbumCoach.tga.ckd/9a5d8bf179a1865ad7748e2142f2f9d7.ckd",
+      "cover_smallImageUrl": "/public/map/BarbraStreisand/pc/BarbraStreisand_Cover_Online.tga.ckd/a7fbf73eb2444e687fa1f436d2e63238.ckd",
+      "coverImageUrl": "/public/map/BarbraStreisand/pc/BarbraStreisand_Cover_Generic.tga.ckd/cbebf7fda42461a9c7e849d4216a0d06.ckd",
+      "coach1ImageUrl": "/public/map/BarbraStreisand/pc/BarbraStreisand_Coach_1.tga.ckd/780cfe44ef00e5d7fb1aae14cc1d90d0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BarbraStreisand/orbis/BarbraStreisand_banner_bkg.tga.ckd/00bc2c10f791b2196cc35d18847ad20f.ckd",
+      "map_bkgImageUrl": "/public/map/BarbraStreisand/orbis/BarbraStreisand_map_bkg.tga.ckd/d80facea4ea95ef0bdc72bbb435171dd.ckd",
+      "expandCoachImageUrl": "/public/map/BarbraStreisand/orbis/BarbraStreisand_Cover_AlbumCoach.tga.ckd/9a5d8bf179a1865ad7748e2142f2f9d7.ckd",
+      "cover_smallImageUrl": "/public/map/BarbraStreisand/orbis/BarbraStreisand_Cover_Online.tga.ckd/a7fbf73eb2444e687fa1f436d2e63238.ckd",
+      "coverImageUrl": "/public/map/BarbraStreisand/orbis/BarbraStreisand_Cover_Generic.tga.ckd/cbebf7fda42461a9c7e849d4216a0d06.ckd",
+      "coach1ImageUrl": "/public/map/BarbraStreisand/orbis/BarbraStreisand_Coach_1.tga.ckd/780cfe44ef00e5d7fb1aae14cc1d90d0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BarbraStreisand/BarbraStreisand_Coach_1_Phone.png/767e09f4a3c1161d6d3e8908b8a5a26c.png",
+    "phoneCoverImageUrl": "/public/map/BarbraStreisand/BarbraStreisand_Cover_Phone.jpg/d34b89ee0c3e9688988574f122ca7867.jpg",
+    "cover640ImageUrl": "/public/map/BarbraStreisand/BarbraStreisand_Cover_640.png/c79abe3c29b720b8097ec41b6ddcb2f1.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand.ogg": "/private/map/BarbraStreisand/BarbraStreisand.ogg/6d9703ee76022c1bf27de8dee4dfb227.ogg",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_AudioPreview.ogg": "/public/map/BarbraStreisand/BarbraStreisand_AudioPreview.ogg/b7bbba23ceb0b8d6ac6b4c5d6c3ca4ac.ogg",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_LOW.vp8.webm/ab57b6b6bafc4cd0374637684b41fac7.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_HIGH.webm": "/private/map/BarbraStreisand/BarbraStreisand_HIGH.webm/351ad2787943da536fb59de5ba8d8ec3.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_LOW.webm": "/private/map/BarbraStreisand/BarbraStreisand_LOW.webm/496d612e145c9f9e0faf7981ed0ed299.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MID.webm": "/private/map/BarbraStreisand/BarbraStreisand_MID.webm/9c6e490bae9123bf4440280b112469a6.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_ULTRA.hd.webm": "/private/map/BarbraStreisand/BarbraStreisand_ULTRA.hd.webm/150e8134bba331837303065b173ef6c1.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_ULTRA.webm": "/private/map/BarbraStreisand/BarbraStreisand_ULTRA.webm/cafc335ee18934df95be655ad696b93c.webm",
+    "jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_MID.vp8.webm/0421c0b81e9d2a9596e7d4999f863d10.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496604\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1136\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1348478\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BarbraStreisand/BarbraStreisand_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\n\t\t\t\t\t<Initialization range=\"0-648\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 202.465
+}

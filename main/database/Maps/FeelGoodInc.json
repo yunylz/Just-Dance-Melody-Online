@@ -1,0 +1,183 @@
+{
+  "urls": {
+    "jmcs://jd-contents/FeelGoodInc/FeelGoodInc_AudioPreview.ogg": "/public/map/FeelGoodInc/FeelGoodInc_AudioPreview.ogg/04bd93968548e8fd036e025ec6e15adf.ogg",
+    "jmcs://jd-contents/FeelGoodInc/FeelGoodInc.ogg": "/private/map/FeelGoodInc/FeelGoodInc.ogg/6a3b35adb7ae248de2296cd0557959d2.ogg",
+    "jmcs://jd-contents/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_LOW.vp8.webm/ca721d93c76abf78e747e2a70fcac493.webm",
+    "jmcs://jd-contents/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_MID.vp8.webm/41eafffc0465046e8ccdb75225a56278.webm",
+    "jmcs://jd-contents/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_HIGH.vp8.webm/b21d09b07f96f2d19926388c04632588.webm",
+    "jmcs://jd-contents/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bfb9e39280807e72d0637f370cb6d080.webm",
+    "jmcs://jd-contents/FeelGoodInc/FeelGoodInc_ULTRA.hd.webm": "/private/map/FeelGoodInc/FeelGoodInc_ULTRA.hd.webm/a1faacd0cb05fbb167b1e0b28cfe84e6.webm",
+    "jmcs://jd-contents/FeelGoodInc/FeelGoodInc_HIGH.hd.webm": "/private/map/FeelGoodInc/FeelGoodInc_HIGH.hd.webm/12fb4b4f2b4cc601364a4b868959f019.webm",
+    "jmcs://jd-contents/FeelGoodInc/FeelGoodInc_MID.hd.webm": "/private/map/FeelGoodInc/FeelGoodInc_MID.hd.webm/4ccacc6dffd41119a5da9a2647c05107.webm",
+    "jmcs://jd-contents/FeelGoodInc/FeelGoodInc_LOW.hd.webm": "/private/map/FeelGoodInc/FeelGoodInc_LOW.hd.webm/66493c9131ff2967493b03e31dce49a4.webm"
+  },
+  "mapLength": 242.46702083333332,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        20792,
+        41585,
+        62377,
+        83170,
+        103962,
+        124755,
+        145547,
+        166340,
+        187132,
+        207924,
+        228717,
+        249509,
+        270302,
+        291094,
+        311887,
+        332679,
+        353472,
+        374264,
+        395057,
+        415849,
+        436641,
+        457434,
+        478226,
+        499019,
+        519811,
+        540604,
+        561396,
+        582189,
+        602981,
+        623773,
+        644566,
+        665358,
+        686151,
+        706943,
+        727736,
+        748528,
+        769321,
+        790113,
+        810905,
+        831698,
+        852490,
+        873283,
+        894075,
+        914868,
+        935660,
+        956453,
+        977245,
+        998038,
+        1018830,
+        1039622,
+        1060415,
+        1081207,
+        1102000,
+        1122792,
+        1143585,
+        1164377,
+        1185170,
+        1205962,
+        1226754,
+        1247547,
+        1268339,
+        1289132,
+        1309924,
+        1330717,
+        1351509,
+        1372302,
+        1393094,
+        1413886,
+        1434679
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 546,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 70,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/FeelGoodInc/FeelGoodInc_AudioPreview.ogg",
+    "path": ""
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"634349\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"764-1254\">\n\t\t\t\t\t<Initialization range=\"0-764\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"752934\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"764-1254\">\n\t\t\t\t\t<Initialization range=\"0-764\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"752600\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"764-1254\">\n\t\t\t\t\t<Initialization range=\"0-764\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"752934\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelGoodInc/FeelGoodInc_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"764-1254\">\n\t\t\t\t\t<Initialization range=\"0-764\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "5d352d79e799eb8fcdf565266a532456",
+      "storageType": 0,
+      "url": "/public/map/FeelGoodInc/pc/FeelGoodInc_MAIN_SCENE_PC.zip/5d352d79e799eb8fcdf565266a532456.zip"
+    },
+    "ps4": {
+      "md5": "ac638f9db950bc7d21c93fe5233a51ee",
+      "storageType": 0,
+      "url": "/public/map/FeelGoodInc/orbis/FeelGoodInc_MAIN_SCENE_ORBIS.zip/ac638f9db950bc7d21c93fe5233a51ee.zip"
+    },
+    "nx": {
+      "md5": "062e95836e98939e03944fade2526d91",
+      "storageType": 0,
+      "url": "/public/map/FeelGoodInc/nx/FeelGoodInc_MAIN_SCENE_NX.zip/062e95836e98939e03944fade2526d91.zip"
+    }
+  },
+  "data": {
+    "mapName": "FeelGoodInc",
+    "title": "Feel Good Inc",
+    "originalJDVersion": 2027,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Gorillaz",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/FeelGoodInc/pc/FeelGoodInc_Cover_Online.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "coverImageUrl": "/public/map/FeelGoodInc/pc/FeelGoodInc_Cover_Generic.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "expandCoachImageUrl": "/public/map/FeelGoodInc/pc/FeelGoodInc_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/FeelGoodInc/pc/FeelGoodInc_map_bkg.tga.ckd/bd967bc6be1d2b4df418bc5ab43d1a5d.ckd",
+      "banner_bkgImageUrl": "/public/map/FeelGoodInc/pc/FeelGoodInc_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/FeelGoodInc/pc/FeelGoodInc_Coach_1.tga.ckd/dbe21e0714af764b29297e9379b305fb.ckd",
+      "phoneCoverImageUrl": "/public/map/FeelGoodInc/FeelGoodInc_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/FeelGoodInc/FeelGoodInc_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/FeelGoodInc/FeelGoodInc_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/FeelGoodInc/orbis/FeelGoodInc_Cover_Online.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "coverImageUrl": "/public/map/FeelGoodInc/orbis/FeelGoodInc_Cover_Generic.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "expandCoachImageUrl": "/public/map/FeelGoodInc/orbis/FeelGoodInc_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/FeelGoodInc/orbis/FeelGoodInc_map_bkg.tga.ckd/bd967bc6be1d2b4df418bc5ab43d1a5d.ckd",
+      "banner_bkgImageUrl": "/public/map/FeelGoodInc/orbis/FeelGoodInc_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/FeelGoodInc/orbis/FeelGoodInc_Coach_1.tga.ckd/dbe21e0714af764b29297e9379b305fb.ckd",
+      "phoneCoverImageUrl": "/public/map/FeelGoodInc/FeelGoodInc_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/FeelGoodInc/FeelGoodInc_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/FeelGoodInc/FeelGoodInc_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/FeelGoodInc/nx/FeelGoodInc_Cover_Online.tga.ckd/28e19a1498984376509ca2256dccde5c.ckd",
+      "coverImageUrl": "/public/map/FeelGoodInc/nx/FeelGoodInc_Cover_Generic.tga.ckd/28e19a1498984376509ca2256dccde5c.ckd",
+      "expandCoachImageUrl": "/public/map/FeelGoodInc/nx/FeelGoodInc_Cover_AlbumCoach.tga.ckd/f2acd1f802fbc3c07f5497a0de5fc9d3.ckd",
+      "map_bkgImageUrl": "/public/map/FeelGoodInc/nx/FeelGoodInc_map_bkg.tga.ckd/e6b0dcc47e597760d13b23002e2e800b.ckd",
+      "banner_bkgImageUrl": "/public/map/FeelGoodInc/nx/FeelGoodInc_banner_bkg.tga.ckd/56a0fc93e1e0b5555651a441a9c51598.ckd",
+      "coach1ImageUrl": "/public/map/FeelGoodInc/nx/FeelGoodInc_Coach_1.tga.ckd/26a47213441a0c69ee695455123c4656.ckd",
+      "phoneCoverImageUrl": "/public/map/FeelGoodInc/FeelGoodInc_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/FeelGoodInc/FeelGoodInc_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/FeelGoodInc/FeelGoodInc_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    }
+  }
+}

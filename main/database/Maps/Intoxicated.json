@@ -1,0 +1,173 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_LOW.vp8.webm/22b127e4046d581c90fe9594724153f0.webm",
+    "jmcs://jd-contents/Intoxicated/Intoxicated.ogg": "/private/map/Intoxicated/Intoxicated.ogg/dbc44cf3a46dd31bc755a15076f03bd5.ogg",
+    "jmcs://jd-contents/Intoxicated/Intoxicated_AudioPreview.ogg": "/public/map/Intoxicated/Intoxicated_AudioPreview.ogg/8506376c3213820aafd1278c44d17085.ogg",
+    "jmcs://jd-contents/Intoxicated/Intoxicated_HIGH.webm": "/private/map/Intoxicated/Intoxicated_HIGH.webm/c55db076ce5bde8aad3a23c85a00fc90.webm",
+    "jmcs://jd-contents/Intoxicated/Intoxicated_LOW.webm": "/private/map/Intoxicated/Intoxicated_LOW.webm/4408373adf4b5adbbd17727d671a668d.webm",
+    "jmcs://jd-contents/Intoxicated/Intoxicated_MID.webm": "/private/map/Intoxicated/Intoxicated_MID.webm/1e469b0eada99d559edad000e7c2aaeb.webm",
+    "jmcs://jd-contents/Intoxicated/Intoxicated_ULTRA.hd.webm": "/private/map/Intoxicated/Intoxicated_ULTRA.hd.webm/0af4f0360f6565f56646cd56c3e04878.webm",
+    "jmcs://jd-contents/Intoxicated/Intoxicated_ULTRA.webm": "/private/map/Intoxicated/Intoxicated_ULTRA.webm/fb1fa593891a5bb0f47080c2cf10d295.webm",
+    "jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_MID.vp8.webm/bd6ac4092ae80c774f1d76dacb13373b.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        46080,
+        69120,
+        92160,
+        115200,
+        138240,
+        161280,
+        184320,
+        207360,
+        230400,
+        253440,
+        276480,
+        299520,
+        322560,
+        345600,
+        368640,
+        391680,
+        414720,
+        437760,
+        460800,
+        483840,
+        506880,
+        529920,
+        552960,
+        576000,
+        599040,
+        622080,
+        645120,
+        668160,
+        691200,
+        714240,
+        737280,
+        760320,
+        783360,
+        806400,
+        829440,
+        852480,
+        875520,
+        898560,
+        921600,
+        944640,
+        967680,
+        990720,
+        1013760,
+        1036800,
+        1059840,
+        1082880,
+        1105920,
+        1128960,
+        1152000,
+        1175040,
+        1198080,
+        1221120,
+        1244160,
+        1267200,
+        1290240,
+        1313280,
+        1336320,
+        1359360,
+        1382400,
+        1405440,
+        1428480,
+        1451520,
+        1474560
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 413,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Intoxicated/Intoxicated_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Intoxicated/nx/Intoxicated_banner_bkg.tga.ckd/e7405f6a761f897621639dfca3734d51.ckd",
+      "map_bkgImageUrl": "/public/map/Intoxicated/nx/Intoxicated_map_bkg.tga.ckd/0b1440ed2e2b006e81ca8717136e5246.ckd",
+      "expandCoachImageUrl": "/public/map/Intoxicated/nx/Intoxicated_Cover_AlbumCoach.tga.ckd/4020b6b630fa995fd42d6bdb452cca07.ckd",
+      "cover_smallImageUrl": "/public/map/Intoxicated/nx/Intoxicated_Cover_Online.tga.ckd/903000ebcd6239d44fe4b3d599075926.ckd",
+      "coach1ImageUrl": "/public/map/Intoxicated/nx/Intoxicated_Coach_1.tga.ckd/2bda07847e633485b8b90c0d3c7ee002.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Intoxicated/pc/Intoxicated_banner_bkg.tga.ckd/24b9daec6166ab802fd42faf7c15107c.ckd",
+      "map_bkgImageUrl": "/public/map/Intoxicated/pc/Intoxicated_map_bkg.tga.ckd/df5d40ea9e15c7acf07379aaf79c3f2e.ckd",
+      "expandCoachImageUrl": "/public/map/Intoxicated/pc/Intoxicated_Cover_AlbumCoach.tga.ckd/0ec5d9d2dad085bdf6c4d01d962be4c0.ckd",
+      "cover_smallImageUrl": "/public/map/Intoxicated/pc/Intoxicated_Cover_Online.tga.ckd/9b75051f6866025016935d202f2969af.ckd",
+      "coach1ImageUrl": "/public/map/Intoxicated/pc/Intoxicated_Coach_1.tga.ckd/e1a731a1f05cedb90d293e1ca4b791b1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Intoxicated/orbis/Intoxicated_banner_bkg.tga.ckd/24b9daec6166ab802fd42faf7c15107c.ckd",
+      "map_bkgImageUrl": "/public/map/Intoxicated/orbis/Intoxicated_map_bkg.tga.ckd/df5d40ea9e15c7acf07379aaf79c3f2e.ckd",
+      "expandCoachImageUrl": "/public/map/Intoxicated/orbis/Intoxicated_Cover_AlbumCoach.tga.ckd/0ec5d9d2dad085bdf6c4d01d962be4c0.ckd",
+      "cover_smallImageUrl": "/public/map/Intoxicated/orbis/Intoxicated_Cover_Online.tga.ckd/9b75051f6866025016935d202f2969af.ckd",
+      "coach1ImageUrl": "/public/map/Intoxicated/orbis/Intoxicated_Coach_1.tga.ckd/e1a731a1f05cedb90d293e1ca4b791b1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Intoxicated/Intoxicated_Coach_1_Phone.png/df9593364f4b2ca6ff66a9ff8e286076.png",
+    "phoneCoverImageUrl": "/public/map/Intoxicated/Intoxicated_Cover_Phone.jpg/a9c023d01fcb3f9b456164dbf79fb437.jpg",
+    "cover640ImageUrl": "/public/map/Intoxicated/Intoxicated_Cover_640.png/efd0cd297879de6e95abd5309489e0b8.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "8ef4706a981a35636f618874ee90aefe",
+      "storageType": 0,
+      "url": "/public/map/Intoxicated/nx/Intoxicated_MAIN_SCENE_NX.zip/8ef4706a981a35636f618874ee90aefe.zip"
+    },
+    "pc": {
+      "md5": "8d4cb03019521315a092246aa1267cb1",
+      "storageType": 0,
+      "url": "/public/map/Intoxicated/pc/Intoxicated_MAIN_SCENE_PC.zip/8d4cb03019521315a092246aa1267cb1.zip"
+    },
+    "ps4": {
+      "md5": "d239a2e34b595c832faa7afcfaa69fa1",
+      "storageType": 0,
+      "url": "/public/map/Intoxicated/orbis/Intoxicated_MAIN_SCENE_ORBIS.zip/d239a2e34b595c832faa7afcfaa69fa1.zip"
+    }
+  },
+  "data": {
+    "mapName": "Intoxicated",
+    "title": "Intoxicated",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "Martin Solveig & GTA",
+    "credits": "Written by Julio Mejia, Martin Solveig and Matthew Toth. Published by Three Six Zero Music Publishing Limited (PRS), GTA ASCAP Pub Designee (ASCAP) and GTA BMI Pub Designee (BMI). All rights on behalf of Three Six Zero Music Publishing Limited and GTA ASCAP Pub Designee administered by WC Music Corp. All rights on behalf of Three Six Zero Music Publishing Limited and GTA BMI Pub Designee administered by Warner-Tamerlane Publishing Corp. / Seven20 Songs (ASCAP) / 720 Publishing Worldwide (BMI). Courtesy of Big Beat Records and Spinnin’ Records. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#200098",
+    "songColor2A": "#0054ff",
+    "songColor1B": "#1f0039",
+    "songColor2B": "#210000",
+    "lyricsColor": "#ff0000"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496385\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"655-1144\">\n\t\t\t\t\t<Initialization range=\"0-655\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482498\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Intoxicated/Intoxicated_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"656-1146\">\n\t\t\t\t\t<Initialization range=\"0-656\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 202.08
+}

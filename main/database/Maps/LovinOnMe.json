@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/LovinOnMe/LovinOnMe.ogg": "/private/map/LovinOnMe/LovinOnMe.ogg/391ac9f59bdbd2e5f19889b93f52e66b.ogg",
+    "jmcs://jd-contents/LovinOnMe/LovinOnMe_AudioPreview.ogg": "/public/map/LovinOnMe/LovinOnMe_AudioPreview.ogg/5d7de1f136b884c7432c3fbe320febff.ogg",
+    "jmcs://jd-contents/LovinOnMe/LovinOnMe_HIGH.hd.webm": "/private/map/LovinOnMe/LovinOnMe_HIGH.hd.webm/e87d13748d40732504e6396daeb29a0d.webm",
+    "jmcs://jd-contents/LovinOnMe/LovinOnMe_LOW.hd.webm": "/private/map/LovinOnMe/LovinOnMe_LOW.hd.webm/87646bf48385e2cad76980ab193d6339.webm",
+    "jmcs://jd-contents/LovinOnMe/LovinOnMe_MID.hd.webm": "/private/map/LovinOnMe/LovinOnMe_MID.hd.webm/929ebf3381c0e2090467163f38ff05dc.webm",
+    "jmcs://jd-contents/LovinOnMe/LovinOnMe_ULTRA.hd.webm": "/private/map/LovinOnMe/LovinOnMe_ULTRA.hd.webm/f82a5c052716acee7055823951077abe.webm",
+    "jmcs://jd-contents/LovinOnMe/LovinOnMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LovinOnMe/LovinOnMe_MapPreviewNoSoundCrop_LOW.vp8.webm/4823ed1fa063fe8bee30e07f59a5679c.webm",
+    "jmcs://jd-contents/LovinOnMe/LovinOnMe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LovinOnMe/LovinOnMe_MapPreviewNoSoundCrop_MID.vp8.webm/ced5c891d0066102ff66e294cf14f778.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27429,
+        54857,
+        82286,
+        109714,
+        137143,
+        164571,
+        192000,
+        219429,
+        246857,
+        274286,
+        301714,
+        329143,
+        356571,
+        384000,
+        411429,
+        438857,
+        466286,
+        493714,
+        521143,
+        548571,
+        576000,
+        603429,
+        630857,
+        658286,
+        685714,
+        713143,
+        740571,
+        768000,
+        795429,
+        822857,
+        850286,
+        877714,
+        905143,
+        932571,
+        960000,
+        987429,
+        1014857,
+        1042286,
+        1069714,
+        1097143,
+        1124571,
+        1152000,
+        1179429,
+        1206857,
+        1234286,
+        1261714,
+        1289143,
+        1316571,
+        1344000,
+        1371429,
+        1398857,
+        1426286,
+        1453714,
+        1481143
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -22,
+      "endBeat": 254,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LovinOnMe/LovinOnMe_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"558499\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LovinOnMe/LovinOnMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1995306\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LovinOnMe/LovinOnMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "37a5eb08ccee7c052a56cc1ff454728b",
+      "storageType": 0,
+      "url": "/public/map/LovinOnMe/nx/LovinOnMe_MAIN_SCENE_NX.zip/37a5eb08ccee7c052a56cc1ff454728b.zip"
+    },
+    "pc": {
+      "md5": "b473595aa47d9537233882c429320317",
+      "storageType": 0,
+      "url": "/public/map/LovinOnMe/pc/LovinOnMe_MAIN_SCENE_PC.zip/b473595aa47d9537233882c429320317.zip"
+    },
+    "ps4": {
+      "md5": "3c468bc5af2aaff770248fb715137b1e",
+      "storageType": 0,
+      "url": "/public/map/LovinOnMe/orbis/LovinOnMe_MAIN_SCENE_ORBIS.zip/3c468bc5af2aaff770248fb715137b1e.zip"
+    }
+  },
+  "data": {
+    "mapName": "LovinOnMe",
+    "title": "Lovin On Me",
+    "originalJDVersion": 2025,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "Jack Harlow",
+    "credits": "Written by Nik Frascona, Delbert Michael Greer, Jackman Harlow, Sean Aaron Momberger, Reginald Nelton, Nickie Jon Pabon, Ozan Yildirim. Published by Harlow Happenings, Sony Sounds, OZ Music GmbH / Universal Music Publishing Canada on behalf of Roc Nation Music and Universal Music Corp. / 300 Rainwater Music, Sean Mom Publishing, Futuristic Music Publishing Co BMI Pub Designee and The Eldalerado Music pub designee. All rights on behalf of 300 Rainwater Music, Sean Mom Publishing, Futuristic Music Publishing Co BMI Pub Designee and The Eldalerado Music pub designee administered by Warner-Tamerlane Publishing Corp. / OZ Music GmbH. Administered by Kobalt Songs Music Publishing. Courtesy of Atlantic Recording Corp. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 3,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#f7e63d",
+    "LocaleID": 20003369
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LovinOnMe/nx/LovinOnMe_banner_bkg.tga.ckd/708761d86ba8f2b94cbb14efa2e5a5ca.ckd",
+      "map_bkgImageUrl": "/public/map/LovinOnMe/nx/LovinOnMe_map_bkg.tga.ckd/73ef1cf827fca5f4604bec0913b6f044.ckd",
+      "expandCoachImageUrl": "/public/map/LovinOnMe/nx/LovinOnMe_Cover_AlbumCoach.tga.ckd/6d3db4699aad16a20ae2b67239f3b3fb.ckd",
+      "cover_smallImageUrl": "/public/map/LovinOnMe/nx/LovinOnMe_Cover_Online.tga.ckd/eca2c4fedde615a6ebc56dc40b613870.ckd",
+      "coverImageUrl": "/public/map/LovinOnMe/nx/LovinOnMe_Cover_Generic.tga.ckd/6292145d63b8d6f2374d68035177eaae.ckd",
+      "coach1ImageUrl": "/public/map/LovinOnMe/nx/LovinOnMe_Coach_1.tga.ckd/07eda092ab640f3d25319339edaf67dd.ckd",
+      "coach2ImageUrl": "/public/map/LovinOnMe/nx/LovinOnMe_Coach_2.tga.ckd/60ebc1d329d9eeb70a56469ec0d7d0eb.ckd",
+      "coach3ImageUrl": "/public/map/LovinOnMe/nx/LovinOnMe_Coach_3.tga.ckd/2214e17da8353f8ca8cee44c99153cb2.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LovinOnMe/pc/LovinOnMe_banner_bkg.tga.ckd/2af32cd08b1c7c618f30e96992587f47.ckd",
+      "map_bkgImageUrl": "/public/map/LovinOnMe/pc/LovinOnMe_map_bkg.tga.ckd/69258c5b7cf8e12994f2fcaa548118a2.ckd",
+      "expandCoachImageUrl": "/public/map/LovinOnMe/pc/LovinOnMe_Cover_AlbumCoach.tga.ckd/48a49df7b0b2a1672502b3075430e1ab.ckd",
+      "cover_smallImageUrl": "/public/map/LovinOnMe/pc/LovinOnMe_Cover_Online.tga.ckd/5243081502808a26046264c58fbea6da.ckd",
+      "coverImageUrl": "/public/map/LovinOnMe/pc/LovinOnMe_Cover_Generic.tga.ckd/688fe348331271c65534f1c0e483af6a.ckd",
+      "coach1ImageUrl": "/public/map/LovinOnMe/pc/LovinOnMe_Coach_1.tga.ckd/ad74295cda1e03ab9d11fbd3065251fa.ckd",
+      "coach2ImageUrl": "/public/map/LovinOnMe/pc/LovinOnMe_Coach_2.tga.ckd/a40298ccdfbaff3575c217fedd8355be.ckd",
+      "coach3ImageUrl": "/public/map/LovinOnMe/pc/LovinOnMe_Coach_3.tga.ckd/bba294401e93cfcfb9ba18608f13e1be.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LovinOnMe/orbis/LovinOnMe_banner_bkg.tga.ckd/2af32cd08b1c7c618f30e96992587f47.ckd",
+      "map_bkgImageUrl": "/public/map/LovinOnMe/orbis/LovinOnMe_map_bkg.tga.ckd/69258c5b7cf8e12994f2fcaa548118a2.ckd",
+      "expandCoachImageUrl": "/public/map/LovinOnMe/orbis/LovinOnMe_Cover_AlbumCoach.tga.ckd/48a49df7b0b2a1672502b3075430e1ab.ckd",
+      "cover_smallImageUrl": "/public/map/LovinOnMe/orbis/LovinOnMe_Cover_Online.tga.ckd/5243081502808a26046264c58fbea6da.ckd",
+      "coverImageUrl": "/public/map/LovinOnMe/orbis/LovinOnMe_Cover_Generic.tga.ckd/688fe348331271c65534f1c0e483af6a.ckd",
+      "coach1ImageUrl": "/public/map/LovinOnMe/orbis/LovinOnMe_Coach_1.tga.ckd/ad74295cda1e03ab9d11fbd3065251fa.ckd",
+      "coach2ImageUrl": "/public/map/LovinOnMe/orbis/LovinOnMe_Coach_2.tga.ckd/a40298ccdfbaff3575c217fedd8355be.ckd",
+      "coach3ImageUrl": "/public/map/LovinOnMe/orbis/LovinOnMe_Coach_3.tga.ckd/bba294401e93cfcfb9ba18608f13e1be.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LovinOnMe/LovinOnMe_Coach_1_Phone.png/952399860417cbeed37f4e9b1877ace9.png",
+    "phoneCoach2ImageUrl": "/public/map/LovinOnMe/LovinOnMe_Coach_2_Phone.png/cb41ebcca50ad438044a0ee4e668429b.png",
+    "phoneCoach3ImageUrl": "/public/map/LovinOnMe/LovinOnMe_Coach_3_Phone.png/8c5aa2e0b661e021e5f350f439eb51a5.png",
+    "phoneCoverImageUrl": "/public/map/LovinOnMe/LovinOnMe_Cover_Phone.jpg/3f82909a0be318018b85b0f85992cb3f.jpg",
+    "cover640ImageUrl": "/public/map/LovinOnMe/LovinOnMe_Cover_640.png/28e873b3bdd4952a8c7fb3270c44598b.png"
+  },
+  "mapLength": 157.714125
+}

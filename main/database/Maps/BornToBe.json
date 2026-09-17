@@ -1,0 +1,180 @@
+{
+  "urls": {
+    "jmcs://jd-contents/BornToBe/BornToBe.ogg": "/private/map/BornToBe/BornToBe.ogg/12e11bf854e8eed6f5435cc48e7f1055.ogg",
+    "jmcs://jd-contents/BornToBe/BornToBe_AudioPreview.ogg": "/public/map/BornToBe/BornToBe_AudioPreview.ogg/0ce0d40998f0cda9682b9be941d0bc77.ogg",
+    "jmcs://jd-contents/BornToBe/BornToBe_HIGH.hd.webm": "/private/map/BornToBe/BornToBe_HIGH.hd.webm/256c66d355984e8d08360fe147db42c1.webm",
+    "jmcs://jd-contents/BornToBe/BornToBe_LOW.hd.webm": "/private/map/BornToBe/BornToBe_LOW.hd.webm/17b87c1961ecd5fbdddef19d21b866f8.webm",
+    "jmcs://jd-contents/BornToBe/BornToBe_MID.hd.webm": "/private/map/BornToBe/BornToBe_MID.hd.webm/c7ca7328d279c55eb3b97e6891a8b53f.webm",
+    "jmcs://jd-contents/BornToBe/BornToBe_ULTRA.hd.webm": "/private/map/BornToBe/BornToBe_ULTRA.hd.webm/0f444161d6a3d90d65113dcd91f1034e.webm",
+    "jmcs://jd-contents/BornToBe/BornToBe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BornToBe/BornToBe_MapPreviewNoSoundCrop_LOW.vp8.webm/101ccb70187290a359e3f9dd82bd88d2.webm",
+    "jmcs://jd-contents/BornToBe/BornToBe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BornToBe/BornToBe_MapPreviewNoSoundCrop_MID.vp8.webm/2dcc15aea3a46aa162dfa4321b597006.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21818,
+        43636,
+        65455,
+        87273,
+        109091,
+        130909,
+        152727,
+        174545,
+        196364,
+        218182,
+        240000,
+        261818,
+        283636,
+        305455,
+        327273,
+        349091,
+        370909,
+        392727,
+        414545,
+        436364,
+        458182,
+        480000,
+        501818,
+        523636,
+        545455,
+        567273,
+        589091,
+        610909,
+        632727,
+        654545,
+        676364,
+        698182,
+        720000,
+        741818,
+        763636,
+        785455,
+        807273,
+        829091,
+        850909,
+        872727,
+        894545,
+        916364,
+        938182,
+        960000,
+        981818,
+        1003636,
+        1025455,
+        1047273,
+        1069091,
+        1090909,
+        1112727,
+        1134545,
+        1156364,
+        1178182,
+        1200000,
+        1221818,
+        1243636,
+        1265455,
+        1287273,
+        1309091,
+        1330909,
+        1352727,
+        1374545,
+        1396364,
+        1418182,
+        1440000,
+        1461818,
+        1483636
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -29,
+      "endBeat": 451,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BornToBe/BornToBe_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"504122\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornToBe/BornToBe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1976742\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BornToBe/BornToBe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "3db48955c6ed115fe5b75517f4fed026",
+      "storageType": 0,
+      "url": "/public/map/BornToBe/nx/BornToBe_MAIN_SCENE_NX.zip/3db48955c6ed115fe5b75517f4fed026.zip"
+    },
+    "pc": {
+      "md5": "4a42246cd3cee03aedc81512b73ed932",
+      "storageType": 0,
+      "url": "/public/map/BornToBe/pc/BornToBe_MAIN_SCENE_PC.zip/4a42246cd3cee03aedc81512b73ed932.zip"
+    },
+    "ps4": {
+      "md5": "24cca8ee8bbeab3bbb7f706b5629349e",
+      "storageType": 0,
+      "url": "/public/map/BornToBe/orbis/BornToBe_MAIN_SCENE_ORBIS.zip/24cca8ee8bbeab3bbb7f706b5629349e.zip"
+    }
+  },
+  "data": {
+    "mapName": "BornToBe",
+    "title": "Born to Be Alive (Reborn Version)",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Patrick Hernandez",
+    "credits": "\"Born to Be Alive (Reborn Version)\" performed by Patrick Hernandez. Written by Patrick Hernandez. Published & Produced by SATURN PHL - P 2001. Courtesy of MUSIQUES & SOLUTIONS. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#aa0cc1",
+    "songColor2A": "#f8db81",
+    "songColor1B": "#01010a",
+    "songColor2B": "#88290f",
+    "lyricsColor": "#b60445",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BornToBe/nx/BornToBe_banner_bkg.tga.ckd/27ab85e13ceb18a83ea4f6f6d65cec0b.ckd",
+      "map_bkgImageUrl": "/public/map/BornToBe/nx/BornToBe_map_bkg.tga.ckd/4d4b7ce5578273ccd22e12be8290548c.ckd",
+      "expandCoachImageUrl": "/public/map/BornToBe/nx/BornToBe_Cover_AlbumCoach.tga.ckd/6acb3e4601d7dda32e65c5a7de000db8.ckd",
+      "cover_smallImageUrl": "/public/map/BornToBe/nx/BornToBe_Cover_Online.tga.ckd/821d300361a5a1e12b88f42cfcbf8b8e.ckd",
+      "coverImageUrl": "/public/map/BornToBe/nx/BornToBe_Cover_Generic.tga.ckd/79303898f1d800f3fab9324a3289fe02.ckd",
+      "coach1ImageUrl": "/public/map/BornToBe/nx/BornToBe_Coach_1.tga.ckd/cd5765427b092bfc336caccc1a10c0ae.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BornToBe/pc/BornToBe_banner_bkg.tga.ckd/a68c0490eb849ceeb823508137b71d6c.ckd",
+      "map_bkgImageUrl": "/public/map/BornToBe/pc/BornToBe_map_bkg.tga.ckd/560e256198e057978e5d45612e94603e.ckd",
+      "expandCoachImageUrl": "/public/map/BornToBe/pc/BornToBe_Cover_AlbumCoach.tga.ckd/fd9a9e7f32e12f71469fc114725c57f9.ckd",
+      "cover_smallImageUrl": "/public/map/BornToBe/pc/BornToBe_Cover_Online.tga.ckd/8c29b7629938797569695c3433e188fd.ckd",
+      "coverImageUrl": "/public/map/BornToBe/pc/BornToBe_Cover_Generic.tga.ckd/fc19994b79e74b7cbfbad5ef5b194c77.ckd",
+      "coach1ImageUrl": "/public/map/BornToBe/pc/BornToBe_Coach_1.tga.ckd/b2cbe4d558ab61cfc2799c9104a1d304.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BornToBe/orbis/BornToBe_banner_bkg.tga.ckd/a68c0490eb849ceeb823508137b71d6c.ckd",
+      "map_bkgImageUrl": "/public/map/BornToBe/orbis/BornToBe_map_bkg.tga.ckd/560e256198e057978e5d45612e94603e.ckd",
+      "expandCoachImageUrl": "/public/map/BornToBe/orbis/BornToBe_Cover_AlbumCoach.tga.ckd/fd9a9e7f32e12f71469fc114725c57f9.ckd",
+      "cover_smallImageUrl": "/public/map/BornToBe/orbis/BornToBe_Cover_Online.tga.ckd/8c29b7629938797569695c3433e188fd.ckd",
+      "coverImageUrl": "/public/map/BornToBe/orbis/BornToBe_Cover_Generic.tga.ckd/fc19994b79e74b7cbfbad5ef5b194c77.ckd",
+      "coach1ImageUrl": "/public/map/BornToBe/orbis/BornToBe_Coach_1.tga.ckd/b2cbe4d558ab61cfc2799c9104a1d304.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BornToBe/BornToBe_Coach_1_Phone.png/63fd719d6290b2e023ee89405f8a9e4f.png",
+    "phoneCoverImageUrl": "/public/map/BornToBe/BornToBe_Cover_Phone.jpg/3421d7959cbedc5b20b7396da52ac956.jpg",
+    "cover640ImageUrl": "/public/map/BornToBe/BornToBe_Cover_640.png/1b133f3a8f2393c6d82197b9daf0641c.png"
+  },
+  "mapLength": 216.918458
+}

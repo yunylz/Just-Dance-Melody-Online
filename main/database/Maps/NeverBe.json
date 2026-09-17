@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/NeverBe/NeverBe.ogg": "/private/map/NeverBe/NeverBe.ogg/fdb1e224e2cd9fa16a7d04f902076201.ogg",
+    "jmcs://jd-contents/NeverBe/NeverBe_AudioPreview.ogg": "/public/map/NeverBe/NeverBe_AudioPreview.ogg/9047209c8cc99cdd9676b7890e1c6b0c.ogg",
+    "jmcs://jd-contents/NeverBe/NeverBe_HIGH.hd.webm": "/private/map/NeverBe/NeverBe_HIGH.hd.webm/1c010d8fb4da56af3671d37a1685d11c.webm",
+    "jmcs://jd-contents/NeverBe/NeverBe_LOW.hd.webm": "/private/map/NeverBe/NeverBe_LOW.hd.webm/64bd111a655f2f46d1abd7dfcdb39929.webm",
+    "jmcs://jd-contents/NeverBe/NeverBe_MID.hd.webm": "/private/map/NeverBe/NeverBe_MID.hd.webm/7c05513b0f6c534274e6681a49ec0607.webm",
+    "jmcs://jd-contents/NeverBe/NeverBe_ULTRA.hd.webm": "/private/map/NeverBe/NeverBe_ULTRA.hd.webm/d52f55cea3db9f56819184c95f09a703.webm",
+    "jmcs://jd-contents/NeverBe/NeverBe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/NeverBe/NeverBe_MapPreviewNoSoundCrop_LOW.vp8.webm/783cd88e707bf48d3b61a2c6d2d51112.webm",
+    "jmcs://jd-contents/NeverBe/NeverBe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/NeverBe/NeverBe_MapPreviewNoSoundCrop_MID.vp8.webm/71dae341efa2695feb2da2566d49c3aa.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -30,
+      "endBeat": 472,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/NeverBe/NeverBe_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"526767\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NeverBe/NeverBe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1869025\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NeverBe/NeverBe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "c6e540ecd6ce042d6c507d287fa34d95",
+      "storageType": 0,
+      "url": "/public/map/NeverBe/nx/NeverBe_MAIN_SCENE_NX.zip/c6e540ecd6ce042d6c507d287fa34d95.zip"
+    },
+    "pc": {
+      "md5": "9f05ae40c7d64675c954b38f1b196abb",
+      "storageType": 0,
+      "url": "/public/map/NeverBe/pc/NeverBe_MAIN_SCENE_PC.zip/9f05ae40c7d64675c954b38f1b196abb.zip"
+    },
+    "ps4": {
+      "md5": "49ad6959061c5fcc04e7f60c77f1edc6",
+      "storageType": 0,
+      "url": "/public/map/NeverBe/orbis/NeverBe_MAIN_SCENE_ORBIS.zip/49ad6959061c5fcc04e7f60c77f1edc6.zip"
+    }
+  },
+  "data": {
+    "mapName": "NeverBe",
+    "title": "Never Be Like You",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Flume Ft. Kai",
+    "credits": "Written by Alessia De Gasperis-Brigante, Geoffrey Earley, Harley Streten. Published by Future Classic Publishing Pty Ltd, Artist 101 Publishing Group, Collections Of Kai/HiFi Music IP Issuer, L.P. Admin by Kobalt Songs Music Publishing, Songs of Kobalt Music Publishing. Courtesy of Future Classic.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#5a00e2",
+    "songColor2A": "#33e8e1",
+    "songColor1B": "#10033a",
+    "songColor2B": "#0d0692",
+    "lyricsColor": "#e78a4c",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/NeverBe/nx/NeverBe_banner_bkg.tga.ckd/3217cf4354107e18b445fc30dea1e394.ckd",
+      "map_bkgImageUrl": "/public/map/NeverBe/nx/NeverBe_map_bkg.tga.ckd/8c8eae032c674a3a9f80418416d33ca4.ckd",
+      "expandCoachImageUrl": "/public/map/NeverBe/nx/NeverBe_Cover_AlbumCoach.tga.ckd/79c3b5ffc7b3f5489572283e0d9507f8.ckd",
+      "cover_smallImageUrl": "/public/map/NeverBe/nx/NeverBe_Cover_Online.tga.ckd/d822e8f24ad299b61768114bbd7629e8.ckd",
+      "coverImageUrl": "/public/map/NeverBe/nx/NeverBe_Cover_Generic.tga.ckd/92c1f0bcfbc994a2530deccc3c4c2f5c.ckd",
+      "coach1ImageUrl": "/public/map/NeverBe/nx/NeverBe_Coach_1.tga.ckd/5572309e68a9618ed88ab7b56ede577e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/NeverBe/pc/NeverBe_banner_bkg.tga.ckd/e1189dbe6bc22ea1c042a4304d51e863.ckd",
+      "map_bkgImageUrl": "/public/map/NeverBe/pc/NeverBe_map_bkg.tga.ckd/56c64643e0b81ab5f1eb719f5921e57d.ckd",
+      "expandCoachImageUrl": "/public/map/NeverBe/pc/NeverBe_Cover_AlbumCoach.tga.ckd/0ec63161a0d4af57f97f5daad6b2073d.ckd",
+      "cover_smallImageUrl": "/public/map/NeverBe/pc/NeverBe_Cover_Online.tga.ckd/554c1f7883902301a36156b59a8ceaa9.ckd",
+      "coverImageUrl": "/public/map/NeverBe/pc/NeverBe_Cover_Generic.tga.ckd/977e08ac5846d7ef0099e5db5ced6430.ckd",
+      "coach1ImageUrl": "/public/map/NeverBe/pc/NeverBe_Coach_1.tga.ckd/905b779af9ced50ab7bb594eefdba5aa.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/NeverBe/orbis/NeverBe_banner_bkg.tga.ckd/e1189dbe6bc22ea1c042a4304d51e863.ckd",
+      "map_bkgImageUrl": "/public/map/NeverBe/orbis/NeverBe_map_bkg.tga.ckd/56c64643e0b81ab5f1eb719f5921e57d.ckd",
+      "expandCoachImageUrl": "/public/map/NeverBe/orbis/NeverBe_Cover_AlbumCoach.tga.ckd/0ec63161a0d4af57f97f5daad6b2073d.ckd",
+      "cover_smallImageUrl": "/public/map/NeverBe/orbis/NeverBe_Cover_Online.tga.ckd/554c1f7883902301a36156b59a8ceaa9.ckd",
+      "coverImageUrl": "/public/map/NeverBe/orbis/NeverBe_Cover_Generic.tga.ckd/977e08ac5846d7ef0099e5db5ced6430.ckd",
+      "coach1ImageUrl": "/public/map/NeverBe/orbis/NeverBe_Coach_1.tga.ckd/905b779af9ced50ab7bb594eefdba5aa.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/NeverBe/NeverBe_Coach_1_Phone.png/616dd5bdf1d7a515002577d60afbd441.png",
+    "phoneCoverImageUrl": "/public/map/NeverBe/NeverBe_Cover_Phone.jpg/3c139453bf83049a80d797a048da2a40.jpg",
+    "cover640ImageUrl": "/public/map/NeverBe/NeverBe_Cover_640.png/8692605af27482ccf3328b76f5ad5a81.png"
+  },
+  "mapLength": 250.461375
+}

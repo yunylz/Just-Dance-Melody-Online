@@ -1,0 +1,153 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "28b38d9bda85da18dd30d48c75010cc4",
+      "storageType": 0,
+      "url": "/public/map/SoGood/nx/SoGood_MAIN_SCENE_NX.zip/28b38d9bda85da18dd30d48c75010cc4.zip"
+    },
+    "pc": {
+      "md5": "eb00cdefded0a74eb0ab8fd84043d3f8",
+      "storageType": 0,
+      "url": "/public/map/SoGood/pc/SoGood_MAIN_SCENE_PC.zip/eb00cdefded0a74eb0ab8fd84043d3f8.zip"
+    },
+    "ps4": {
+      "md5": "15b18e0c29bd381daeb536d0dac0b5ec",
+      "storageType": 0,
+      "url": "/public/map/SoGood/orbis/SoGood_MAIN_SCENE_ORBIS.zip/15b18e0c29bd381daeb536d0dac0b5ec.zip"
+    }
+  },
+  "data": {
+    "mapName": "SoGood",
+    "title": "So Good",
+    "originalJDVersion": 4,
+    "tags": [
+      "main"
+    ],
+    "artist": "B.o.B",
+    "credits": "Written by Bobby Ray Simmons, Ryan Benjamin Tedder, Brent Kutzle and Noel Zancanella. Published by Write 2 Live Publishing, Patriot Entertainment, LLC, and Acornman Music administered by Kobalt Music Publishing America, Inc. Used courtesy of Universal Music Publishing Group a division of Universal Music Canada Inc. Courtesy of Atlantic Recording Corp. By arrangement with Warner Music Group Video Games Licensing. (P) 2012 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#0086ed",
+    "songColor2A": "#f46700",
+    "songColor1B": "#002f53",
+    "songColor2B": "#5d3500",
+    "lyricsColor": "#a21010"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        48000,
+        96000,
+        129683,
+        163367,
+        197051,
+        230735,
+        264419,
+        298102,
+        331786,
+        365470,
+        399154,
+        432838,
+        466521,
+        500205,
+        533889,
+        567573,
+        601257,
+        634940,
+        668624,
+        702308,
+        735992,
+        769676,
+        803360,
+        837043,
+        870727,
+        904411,
+        938095,
+        971779,
+        1005462,
+        1039146,
+        1072830,
+        1106514,
+        1140198,
+        1173881,
+        1207565,
+        1241249,
+        1274933,
+        1308617,
+        1342300,
+        1375984,
+        1409668,
+        1443352,
+        1477036,
+        1510720
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 303,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 42,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SoGood/SoGood_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SoGood/nx/SoGood_banner_bkg.tga.ckd/35f8c8ecc695d45a5da5200616441590.ckd",
+      "map_bkgImageUrl": "/public/map/SoGood/nx/SoGood_map_bkg.tga.ckd/4f4bed9d9266f24632c8721efb56834a.ckd",
+      "expandCoachImageUrl": "/public/map/SoGood/nx/SoGood_Cover_AlbumCoach.tga.ckd/1f2fb515571678b2a6e2b616cf70fd85.ckd",
+      "cover_smallImageUrl": "/public/map/SoGood/nx/SoGood_Cover_Online.tga.ckd/f14c6ac47ebe605546c445df23557000.ckd",
+      "coach1ImageUrl": "/public/map/SoGood/nx/SoGood_Coach_1.tga.ckd/c4626954a598d402e8fa8a30ea189eb0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SoGood/pc/SoGood_banner_bkg.tga.ckd/a2e8edf49b8e7bf9a8a53b1791edfc8b.ckd",
+      "map_bkgImageUrl": "/public/map/SoGood/pc/SoGood_map_bkg.tga.ckd/66a9722a83c161dc6e01e784e4687a11.ckd",
+      "expandCoachImageUrl": "/public/map/SoGood/pc/SoGood_Cover_AlbumCoach.tga.ckd/0abc5a598224bc6bff547bb745bd3a5a.ckd",
+      "cover_smallImageUrl": "/public/map/SoGood/pc/SoGood_Cover_Online.tga.ckd/fc58e676d3adb2d8094b134b5849450f.ckd",
+      "coach1ImageUrl": "/public/map/SoGood/pc/SoGood_Coach_1.tga.ckd/e1b6506644cf64d4ac70610152ae16cf.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SoGood/orbis/SoGood_banner_bkg.tga.ckd/a2e8edf49b8e7bf9a8a53b1791edfc8b.ckd",
+      "map_bkgImageUrl": "/public/map/SoGood/orbis/SoGood_map_bkg.tga.ckd/66a9722a83c161dc6e01e784e4687a11.ckd",
+      "expandCoachImageUrl": "/public/map/SoGood/orbis/SoGood_Cover_AlbumCoach.tga.ckd/0abc5a598224bc6bff547bb745bd3a5a.ckd",
+      "cover_smallImageUrl": "/public/map/SoGood/orbis/SoGood_Cover_Online.tga.ckd/fc58e676d3adb2d8094b134b5849450f.ckd",
+      "coach1ImageUrl": "/public/map/SoGood/orbis/SoGood_Coach_1.tga.ckd/e1b6506644cf64d4ac70610152ae16cf.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SoGood/SoGood_Coach_1_Phone.png/3f9ba9268b9464b3ac82d955b7de78e3.png",
+    "phoneCoverImageUrl": "/public/map/SoGood/SoGood_Cover_Phone.jpg/42f7449a63a754b671fa45e9be613b04.jpg",
+    "cover640ImageUrl": "/public/map/SoGood/SoGood_Cover_640.png/80b4f76c8b74af4704725d633590ca01.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SoGood/SoGood.ogg": "/private/map/SoGood/SoGood.ogg/9278d2a546b67e3df020a4084b7ad289.ogg",
+    "jmcs://jd-contents/SoGood/SoGood_AudioPreview.ogg": "/public/map/SoGood/SoGood_AudioPreview.ogg/da85be63bc6c16fd19ce1618992ea3fa.ogg",
+    "jmcs://jd-contents/SoGood/SoGood_HIGH.webm": "/private/map/SoGood/SoGood_HIGH.webm/b59cfb065d82b2a37c84793416bc412b.webm",
+    "jmcs://jd-contents/SoGood/SoGood_LOW.webm": "/private/map/SoGood/SoGood_LOW.webm/b744fc93feb7169f388dcd6055938cbe.webm",
+    "jmcs://jd-contents/SoGood/SoGood_MID.webm": "/private/map/SoGood/SoGood_MID.webm/0d33a1295d5041c34d2519e41e9e7dcf.webm",
+    "jmcs://jd-contents/SoGood/SoGood_ULTRA.hd.webm": "/private/map/SoGood/SoGood_ULTRA.hd.webm/9737d2987e4ef2e3f109ef19f69ed920.webm",
+    "jmcs://jd-contents/SoGood/SoGood_ULTRA.webm": "/private/map/SoGood/SoGood_ULTRA.webm/e24405dc8871b3dc3eef9de9f8178c6e.webm",
+    "jmcs://jd-contents/SoGood/SoGood_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SoGood/SoGood_MapPreviewNoSoundCrop_LOW.vp8.webm/ebb601cb8356799022aff7417510151c.webm",
+    "jmcs://jd-contents/SoGood/SoGood_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SoGood/SoGood_MapPreviewNoSoundCrop_MID.vp8.webm/9ead14766f0c8465854993a61ef95c98.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"514865\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoGood/SoGood_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1516482\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SoGood/SoGood_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 213.679979
+}

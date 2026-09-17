@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "2e0d47941e5b8a29e7c49856b38d6479",
+      "storageType": 0,
+      "url": "/public/map/Hype/nx/Hype_MAIN_SCENE_NX.zip/2e0d47941e5b8a29e7c49856b38d6479.zip"
+    },
+    "pc": {
+      "md5": "a3916a28103e472c7bc5d50191465885",
+      "storageType": 0,
+      "url": "/public/map/Hype/pc/Hype_MAIN_SCENE_PC.zip/a3916a28103e472c7bc5d50191465885.zip"
+    },
+    "ps4": {
+      "md5": "3b28c777e09d9ab27cf6c8db61c6602f",
+      "storageType": 0,
+      "url": "/public/map/Hype/orbis/Hype_MAIN_SCENE_ORBIS.zip/3b28c777e09d9ab27cf6c8db61c6602f.zip"
+    }
+  },
+  "data": {
+    "mapName": "Hype",
+    "title": "Hype",
+    "originalJDVersion": 2020,
+    "tags": [
+      "subscribedSong",
+      "JustDance2020",
+      "Solo",
+      "Hard"
+    ],
+    "artist": "Dizzee Rascal & Calvin Harris",
+    "credits": "Written by Dylan Mills and Calvin Harris. Published by TSJ Merlyn Licensing B.V. (NS) / Copyright Control. All rights reserved. Used with permission. Courtesy of Island Records Ltd./Island Records under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 3,
+    "songColor1A": "#cf1cef",
+    "songColor2A": "#52ffe1",
+    "songColor1B": "#0000b0",
+    "songColor2B": "#081cb0",
+    "lyricsColor": "#46edd3",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23226,
+        46452,
+        69677,
+        92903,
+        116129,
+        139355,
+        162581,
+        185806,
+        209032,
+        232258,
+        255484,
+        278710,
+        301935,
+        325161,
+        348387,
+        371613,
+        394839,
+        418065,
+        441290,
+        464516,
+        487742,
+        510968,
+        534194,
+        557419,
+        580645,
+        603871,
+        627097,
+        650323,
+        673548,
+        696774,
+        720000,
+        743226,
+        766452,
+        789677,
+        812903,
+        836129,
+        859355,
+        882581,
+        905806,
+        929032,
+        952258,
+        975484,
+        998710,
+        1021935,
+        1045161,
+        1068387,
+        1091613,
+        1114839,
+        1138065,
+        1161290,
+        1184516,
+        1207742,
+        1230968,
+        1254194,
+        1277419,
+        1300645,
+        1323871,
+        1347097,
+        1370323,
+        1393548,
+        1416774,
+        1440000,
+        1463226,
+        1486452
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 428,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Hype/Hype_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Hype/nx/Hype_banner_bkg.tga.ckd/65b7cc2379721bf4abb0bde4f4dc7f25.ckd",
+      "map_bkgImageUrl": "/public/map/Hype/nx/Hype_map_bkg.tga.ckd/56846fd6be07d7d0645423f6fd9b365a.ckd",
+      "expandCoachImageUrl": "/public/map/Hype/nx/Hype_Cover_AlbumCoach.tga.ckd/250d96347d8e62ac58783c202c0d58fa.ckd",
+      "cover_smallImageUrl": "/public/map/Hype/nx/Hype_Cover_Online.tga.ckd/db4783b8328080b5af798e619849e15d.ckd",
+      "coverImageUrl": "/public/map/Hype/nx/Hype_Cover_Generic.tga.ckd/4acf439a576678160d78650637f24088.ckd",
+      "coach1ImageUrl": "/public/map/Hype/nx/Hype_Coach_1.tga.ckd/e9ebd68e339b022be415a9f5186d154b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Hype/pc/Hype_banner_bkg.tga.ckd/04a8aaf0548215756f8e9a42a65b4a96.ckd",
+      "map_bkgImageUrl": "/public/map/Hype/pc/Hype_map_bkg.tga.ckd/1d001d9a2d9805d3471906e7446d8a60.ckd",
+      "expandCoachImageUrl": "/public/map/Hype/pc/Hype_Cover_AlbumCoach.tga.ckd/2617f465d23a8187e76390ab3d8e8381.ckd",
+      "cover_smallImageUrl": "/public/map/Hype/pc/Hype_Cover_Online.tga.ckd/b0499a395101a7d5abcc7318bfc11c88.ckd",
+      "coverImageUrl": "/public/map/Hype/pc/Hype_Cover_Generic.tga.ckd/1edf315092c7ce533742eea2161a4059.ckd",
+      "coach1ImageUrl": "/public/map/Hype/pc/Hype_Coach_1.tga.ckd/784e5443fec35481aba0a834afad2a57.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Hype/orbis/Hype_banner_bkg.tga.ckd/04a8aaf0548215756f8e9a42a65b4a96.ckd",
+      "map_bkgImageUrl": "/public/map/Hype/orbis/Hype_map_bkg.tga.ckd/1d001d9a2d9805d3471906e7446d8a60.ckd",
+      "expandCoachImageUrl": "/public/map/Hype/orbis/Hype_Cover_AlbumCoach.tga.ckd/2617f465d23a8187e76390ab3d8e8381.ckd",
+      "cover_smallImageUrl": "/public/map/Hype/orbis/Hype_Cover_Online.tga.ckd/b0499a395101a7d5abcc7318bfc11c88.ckd",
+      "coverImageUrl": "/public/map/Hype/orbis/Hype_Cover_Generic.tga.ckd/1edf315092c7ce533742eea2161a4059.ckd",
+      "coach1ImageUrl": "/public/map/Hype/orbis/Hype_Coach_1.tga.ckd/784e5443fec35481aba0a834afad2a57.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Hype/Hype_Coach_1_Phone.png/dd1f8df29343b85fc6182a354caf3369.png",
+    "phoneCoverImageUrl": "/public/map/Hype/Hype_Cover_Phone.jpg/e4776d10f6fa57bee3987856b23e5ce3.jpg",
+    "cover640ImageUrl": "/public/map/Hype/Hype_Cover_640.png/ea9cb978e4c9fcd83ecd5da96d93573f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Hype/Hype.ogg": "/private/map/Hype/Hype.ogg/ce9ec13f4096c473494e81253b3c4249.ogg",
+    "jmcs://jd-contents/Hype/Hype_AudioPreview.ogg": "/public/map/Hype/Hype_AudioPreview.ogg/88eaf956021fa567521e9371ee8a8296.ogg",
+    "jmcs://jd-contents/Hype/Hype_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Hype/Hype_MapPreviewNoSoundCrop_LOW.vp8.webm/9d658afa078d8943102dddab08216b68.webm",
+    "jmcs://jd-contents/Hype/Hype_HIGH.webm": "/private/map/Hype/Hype_HIGH.webm/70a6124ed3147356ebbf3c38a9f82bb2.webm",
+    "jmcs://jd-contents/Hype/Hype_LOW.webm": "/private/map/Hype/Hype_LOW.webm/828c4e0cdab57959db5d19952536fded.webm",
+    "jmcs://jd-contents/Hype/Hype_MID.webm": "/private/map/Hype/Hype_MID.webm/9583c9a8200da8fc7e9b2fce322c1708.webm",
+    "jmcs://jd-contents/Hype/Hype_ULTRA.hd.webm": "/private/map/Hype/Hype_ULTRA.hd.webm/fa3c64dad68a20719cf963adc2fcc958.webm",
+    "jmcs://jd-contents/Hype/Hype_ULTRA.webm": "/private/map/Hype/Hype_ULTRA.webm/9fb2b5e7a90f68b687b8374603a8ddea.webm",
+    "jmcs://jd-contents/Hype/Hype_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Hype/Hype_MapPreviewNoSoundCrop_MID.vp8.webm/2677e21e06a30cf749417859e3ddaf0d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497189\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Hype/Hype_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\n\t\t\t\t\t<Initialization range=\"0-604\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1481469\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Hype/Hype_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\n\t\t\t\t\t<Initialization range=\"0-605\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 209.516063
+}

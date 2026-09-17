@@ -1,0 +1,163 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8f8e15bb1640bb42aad71cefccdd15e2",
+      "storageType": 0,
+      "url": "/public/map/LeFreak/nx/LeFreak_MAIN_SCENE_NX.zip/8f8e15bb1640bb42aad71cefccdd15e2.zip"
+    },
+    "pc": {
+      "md5": "2f167949f2b3b2a72e0d99a6fcda38a2",
+      "storageType": 0,
+      "url": "/public/map/LeFreak/pc/LeFreak_MAIN_SCENE_PC.zip/2f167949f2b3b2a72e0d99a6fcda38a2.zip"
+    },
+    "ps4": {
+      "md5": "04a36906c90ea723254360c755631d67",
+      "storageType": 0,
+      "url": "/public/map/LeFreak/orbis/LeFreak_MAIN_SCENE_ORBIS.zip/04a36906c90ea723254360c755631d67.zip"
+    }
+  },
+  "data": {
+    "mapName": "LeFreak",
+    "title": "Le Freak",
+    "originalJDVersion": 1,
+    "tags": [
+      "Main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Chic",
+    "credits": "Chic – ''Le Freak'' Written by Bernard Edwards and Nile Rogers. © 1978 Bernard’s Other Music (BMI) / Sony/ATV Songs LLC (BMI). All rights on behalf of Bernard’s Other Music administered by Warner-Tamerlane Publishing Corp. (Big Cary Music). Sony/ATV Songs LLC (BMI) administered in Canada by Sony/ATV Music Publishing Canada (SOCAN). All rights reserved. Used by permission. (P) 2006 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#fcb908",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24407,
+        48813,
+        73221,
+        97628,
+        122034,
+        146441,
+        170847,
+        195255,
+        219662,
+        244068,
+        268475,
+        292881,
+        317288,
+        341696,
+        366102,
+        390509,
+        414915,
+        437990,
+        462398,
+        486804,
+        511211,
+        535617,
+        560024,
+        584430,
+        608838,
+        633245,
+        657651,
+        682058,
+        706464,
+        730872,
+        755279,
+        779685,
+        804092,
+        828498,
+        852906,
+        877313,
+        901719,
+        925550,
+        949956,
+        974363,
+        998771,
+        1023177,
+        1047584,
+        1071990,
+        1096397,
+        1120805,
+        1145211,
+        1169618,
+        1194024,
+        1218431,
+        1242839,
+        1267245,
+        1291652,
+        1316058,
+        1341377,
+        1365783,
+        1390191,
+        1414598,
+        1439004
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 429,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LeFreak/LeFreak_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LeFreak/nx/LeFreak_banner_bkg.tga.ckd/2f9b14d4e0fdf50de2033024e8977bf3.ckd",
+      "map_bkgImageUrl": "/public/map/LeFreak/nx/LeFreak_map_bkg.tga.ckd/5bea74c8befbab9bba6e991ecc12bef9.ckd",
+      "expandCoachImageUrl": "/public/map/LeFreak/nx/LeFreak_Cover_AlbumCoach.tga.ckd/7b70aa226d640324ab7f6fddab84aee4.ckd",
+      "cover_smallImageUrl": "/public/map/LeFreak/nx/LeFreak_Cover_Online.tga.ckd/b164ac1d23ad42f010dad3403a78c8d1.ckd",
+      "coach1ImageUrl": "/public/map/LeFreak/nx/LeFreak_Coach_1.tga.ckd/bc85834450e74c1553b680d23ecefacc.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LeFreak/pc/LeFreak_banner_bkg.tga.ckd/d332d94d84919b8fdb99184de7948bfc.ckd",
+      "map_bkgImageUrl": "/public/map/LeFreak/pc/LeFreak_map_bkg.tga.ckd/f68077e3590dd85abfbfc52df1041a03.ckd",
+      "expandCoachImageUrl": "/public/map/LeFreak/pc/LeFreak_Cover_AlbumCoach.tga.ckd/353cce60140ea4a72dccc35e6b56d00b.ckd",
+      "cover_smallImageUrl": "/public/map/LeFreak/pc/LeFreak_Cover_Online.tga.ckd/6218e65ee8f7a3ed1f4b5b546122c1fd.ckd",
+      "coach1ImageUrl": "/public/map/LeFreak/pc/LeFreak_Coach_1.tga.ckd/7b6ba746a2f0e50fb61743edc94c2164.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LeFreak/orbis/LeFreak_banner_bkg.tga.ckd/d332d94d84919b8fdb99184de7948bfc.ckd",
+      "map_bkgImageUrl": "/public/map/LeFreak/orbis/LeFreak_map_bkg.tga.ckd/f68077e3590dd85abfbfc52df1041a03.ckd",
+      "expandCoachImageUrl": "/public/map/LeFreak/orbis/LeFreak_Cover_AlbumCoach.tga.ckd/353cce60140ea4a72dccc35e6b56d00b.ckd",
+      "cover_smallImageUrl": "/public/map/LeFreak/orbis/LeFreak_Cover_Online.tga.ckd/6218e65ee8f7a3ed1f4b5b546122c1fd.ckd",
+      "coach1ImageUrl": "/public/map/LeFreak/orbis/LeFreak_Coach_1.tga.ckd/7b6ba746a2f0e50fb61743edc94c2164.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LeFreak/LeFreak_Coach_1_Phone.png/35704429031f40e84aaa18fbd8308a05.png",
+    "phoneCoverImageUrl": "/public/map/LeFreak/LeFreak_Cover_Phone.jpg/f6208eb68a08ff810d1ae34d1f3c0ba5.jpg",
+    "cover640ImageUrl": "/public/map/LeFreak/LeFreak_Cover_640.png/5cb1f5f0e02441604288514fff88f893.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/LeFreak/LeFreak.ogg": "/private/map/LeFreak/LeFreak.ogg/6c6e3c6f01769263da7a104fe0e2e436.ogg",
+    "jmcs://jd-contents/LeFreak/LeFreak_AudioPreview.ogg": "/public/map/LeFreak/LeFreak_AudioPreview.ogg/dc2e96731a15566c1b9ca7d2eff6db27.ogg",
+    "jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LeFreak/LeFreak_MapPreviewNoSoundCrop_LOW.vp8.webm/ff5ccd510e6e32833c8e6b24ce7ca458.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_HIGH.webm": "/private/map/LeFreak/LeFreak_HIGH.webm/10f5a39c07cda7e5059cd36b15d97dbc.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_LOW.webm": "/private/map/LeFreak/LeFreak_LOW.webm/573eabde848edd574dc419e5ab9de9b5.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_MID.webm": "/private/map/LeFreak/LeFreak_MID.webm/1829486d72cd7316a7d54e2ccad11ca8.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_ULTRA.hd.webm": "/private/map/LeFreak/LeFreak_ULTRA.hd.webm/bb162f263f4667de39e02b30d996b0a6.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_ULTRA.webm": "/private/map/LeFreak/LeFreak_ULTRA.webm/5f686312276ccb4102f3f76883952dbe.webm",
+    "jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LeFreak/LeFreak_MapPreviewNoSoundCrop_MID.vp8.webm/f6438c1c10af458b9d210252b1b942c9.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495461\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"627-1116\">\n\t\t\t\t\t<Initialization range=\"0-627\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"798681\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LeFreak/LeFreak_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"628-1118\">\n\t\t\t\t\t<Initialization range=\"0-628\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 218.068729
+}

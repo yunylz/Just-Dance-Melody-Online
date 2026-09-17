@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7b0f17f69d1d25a2e2958e2aeee332d1",
+      "storageType": 0,
+      "url": "/public/map/BabyShark/nx/BabyShark_MAIN_SCENE_NX.zip/7b0f17f69d1d25a2e2958e2aeee332d1.zip"
+    },
+    "pc": {
+      "md5": "04abe0a45d8c1678a2c1e1dcaf527f8f",
+      "storageType": 0,
+      "url": "/public/map/BabyShark/pc/BabyShark_MAIN_SCENE_PC.zip/04abe0a45d8c1678a2c1e1dcaf527f8f.zip"
+    },
+    "ps4": {
+      "md5": "806109a9c92e8980b595602f7ef4ee71",
+      "storageType": 0,
+      "url": "/public/map/BabyShark/orbis/BabyShark_MAIN_SCENE_ORBIS.zip/806109a9c92e8980b595602f7ef4ee71.zip"
+    }
+  },
+  "data": {
+    "mapName": "BabyShark",
+    "title": "Baby Shark",
+    "originalJDVersion": 2020,
+    "tags": [
+      "JustDance2020",
+      "subscribedSong",
+      "forceRumble",
+      "Easy",
+      "Duet"
+    ],
+    "artist": "Pinkfong",
+    "credits": "Written by Kim Min Seok. Published by Smartstudy Music (BMI). Courtesy of Smartstudy Music. ",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#74f6fe",
+    "songColor2A": "#ffec42",
+    "songColor1B": "#1354ca",
+    "songColor2B": "#ffa308",
+    "lyricsColor": "#d105ff",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25043,
+        50087,
+        75130,
+        100174,
+        125217,
+        150261,
+        175304,
+        200348,
+        225391,
+        250435,
+        275478,
+        300522,
+        325565,
+        350609,
+        375652,
+        400696,
+        425739,
+        450783,
+        475826,
+        500870,
+        525913,
+        550957,
+        576000,
+        601043,
+        626087,
+        651130,
+        676174,
+        701217,
+        726261,
+        751304,
+        776348,
+        801391,
+        826435,
+        851478,
+        876522,
+        901565,
+        926609,
+        951652,
+        976696,
+        1001739,
+        1026783,
+        1051826,
+        1076870,
+        1101913,
+        1126957,
+        1152000,
+        1177043,
+        1202087,
+        1227130,
+        1252174,
+        1277217,
+        1302261,
+        1327304,
+        1352348,
+        1377391,
+        1402435,
+        1427478,
+        1452522,
+        1477565
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 174,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BabyShark/BabyShark_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BabyShark/nx/BabyShark_banner_bkg.tga.ckd/2406057d094beebb8098570ecbc51006.ckd",
+      "map_bkgImageUrl": "/public/map/BabyShark/nx/BabyShark_map_bkg.tga.ckd/2d5de771b4f886093cd68c2f886327f8.ckd",
+      "expandCoachImageUrl": "/public/map/BabyShark/nx/BabyShark_Cover_AlbumCoach.tga.ckd/eab150f7bb4d72a881b9967fa9e12d08.ckd",
+      "cover_smallImageUrl": "/public/map/BabyShark/nx/BabyShark_Cover_Online.tga.ckd/34ee4de35697b8c63368b1cc64a3f0e5.ckd",
+      "coverImageUrl": "/public/map/BabyShark/nx/BabyShark_Cover_Generic.tga.ckd/169da3bdaf2f05d019eaefe04ace0722.ckd",
+      "coach1ImageUrl": "/public/map/BabyShark/nx/BabyShark_Coach_1.tga.ckd/771ed65789f71c43f2b016d52131eb39.ckd",
+      "coach2ImageUrl": "/public/map/BabyShark/nx/BabyShark_Coach_2.tga.ckd/9daaa7830545e5d4d930a000c47f52bf.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BabyShark/pc/BabyShark_banner_bkg.tga.ckd/5c5cc03d0eb841fa39970bfc760fffcf.ckd",
+      "map_bkgImageUrl": "/public/map/BabyShark/pc/BabyShark_map_bkg.tga.ckd/4b6b67bc532f01b58aa84aa61891b8b1.ckd",
+      "expandCoachImageUrl": "/public/map/BabyShark/pc/BabyShark_Cover_AlbumCoach.tga.ckd/3331d0e99c74a52ad3f45deef2ad1f4f.ckd",
+      "cover_smallImageUrl": "/public/map/BabyShark/pc/BabyShark_Cover_Online.tga.ckd/e563a79c3a209ae679f81d2263749db4.ckd",
+      "coverImageUrl": "/public/map/BabyShark/pc/BabyShark_Cover_Generic.tga.ckd/9cba109f8294d7f6e4a7c3a16a90aab8.ckd",
+      "coach1ImageUrl": "/public/map/BabyShark/pc/BabyShark_Coach_1.tga.ckd/229afa22ac0291dea960325d033d1322.ckd",
+      "coach2ImageUrl": "/public/map/BabyShark/pc/BabyShark_Coach_2.tga.ckd/612522472167833612af4dfabb379bc8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BabyShark/orbis/BabyShark_banner_bkg.tga.ckd/5c5cc03d0eb841fa39970bfc760fffcf.ckd",
+      "map_bkgImageUrl": "/public/map/BabyShark/orbis/BabyShark_map_bkg.tga.ckd/4b6b67bc532f01b58aa84aa61891b8b1.ckd",
+      "expandCoachImageUrl": "/public/map/BabyShark/orbis/BabyShark_Cover_AlbumCoach.tga.ckd/3331d0e99c74a52ad3f45deef2ad1f4f.ckd",
+      "cover_smallImageUrl": "/public/map/BabyShark/orbis/BabyShark_Cover_Online.tga.ckd/e563a79c3a209ae679f81d2263749db4.ckd",
+      "coverImageUrl": "/public/map/BabyShark/orbis/BabyShark_Cover_Generic.tga.ckd/9cba109f8294d7f6e4a7c3a16a90aab8.ckd",
+      "coach1ImageUrl": "/public/map/BabyShark/orbis/BabyShark_Coach_1.tga.ckd/229afa22ac0291dea960325d033d1322.ckd",
+      "coach2ImageUrl": "/public/map/BabyShark/orbis/BabyShark_Coach_2.tga.ckd/612522472167833612af4dfabb379bc8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BabyShark/BabyShark_Coach_1_Phone.png/7851bf3085251e9a68ca7b739cd11c03.png",
+    "phoneCoach2ImageUrl": "/public/map/BabyShark/BabyShark_Coach_2_Phone.png/6499f7f58c61c681defc328a4c27ea93.png",
+    "phoneCoverImageUrl": "/public/map/BabyShark/BabyShark_Cover_Phone.jpg/bc3125bc04ca0c06d8bb1caa5c8827b6.jpg",
+    "cover640ImageUrl": "/public/map/BabyShark/BabyShark_Cover_640.png/8e5a82b27004af72a0487e437e20bea3.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BabyShark/BabyShark.ogg": "/private/map/BabyShark/BabyShark.ogg/8d62c73a10790e7f824e2bcb5bf88a65.ogg",
+    "jmcs://jd-contents/BabyShark/BabyShark_AudioPreview.ogg": "/public/map/BabyShark/BabyShark_AudioPreview.ogg/0f662c405800d36e52e1bfe6c8789ae2.ogg",
+    "jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BabyShark/BabyShark_MapPreviewNoSoundCrop_LOW.vp8.webm/7ce3065b4b6e7876cb3ad54f8e38c2e1.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_HIGH.webm": "/private/map/BabyShark/BabyShark_HIGH.webm/1c0cb84054ecfb27eb40135dbbb23473.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_LOW.webm": "/private/map/BabyShark/BabyShark_LOW.webm/8360664991d45f723aa8e8eb2fbf5b5c.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_MID.webm": "/private/map/BabyShark/BabyShark_MID.webm/abd24c7e77b5a67e6f9099725771482f.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_ULTRA.hd.webm": "/private/map/BabyShark/BabyShark_ULTRA.hd.webm/3e76a18e3a275f5eeb110190875a9e9e.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_ULTRA.webm": "/private/map/BabyShark/BabyShark_ULTRA.webm/ca8cc4d1cbaa330ad1e070b6421e04c1.webm",
+    "jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BabyShark/BabyShark_MapPreviewNoSoundCrop_MID.vp8.webm/7ceacf0f9dcfad4b13f34a24ab60bb37.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497590\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"596-1085\">\n\t\t\t\t\t<Initialization range=\"0-596\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1471169\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BabyShark/BabyShark_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\n\t\t\t\t\t<Initialization range=\"0-597\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 89.591667
+}

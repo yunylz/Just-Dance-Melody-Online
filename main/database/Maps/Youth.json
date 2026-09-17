@@ -1,0 +1,159 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7a0e57666a8b93ba5a5f99e2ba0c597b",
+      "storageType": 0,
+      "url": "/public/map/Youth/nx/Youth_MAIN_SCENE_NX.zip/7a0e57666a8b93ba5a5f99e2ba0c597b.zip"
+    },
+    "pc": {
+      "md5": "416652d57e0f2c0e503847d2e392f7ec",
+      "storageType": 0,
+      "url": "/public/map/Youth/pc/Youth_MAIN_SCENE_PC.zip/416652d57e0f2c0e503847d2e392f7ec.zip"
+    },
+    "ps4": {
+      "md5": "517ec34730d692cb42669bd880a1a3d5",
+      "storageType": 0,
+      "url": "/public/map/Youth/orbis/Youth_MAIN_SCENE_ORBIS.zip/517ec34730d692cb42669bd880a1a3d5.zip"
+    }
+  },
+  "data": {
+    "mapName": "Youth",
+    "title": "YOUTH",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main",
+      "exclusive"
+    ],
+    "artist": "Troye Sivan",
+    "credits": "Written by Alex Hope, Brett McLaughlin, Alexandra Hughes, Bram Inscore and Troye Sivan. Published by Sony/ATV Music Publishing Allegro (Aust) Pty Ltd. (APRA) c/o Sony/ATV Music Publishing Canada (SOCAN) / Troye Sivan Mellet Copyright control / Bob Ochoa’s Homemade Salsa (ASCAP)  c/o EMI April Music (Canada) Ltd. (SOCAN) / Brill Building Music Publishing LLC., Dream Machine Publishing, and Prescription Songs LLC. Administered by Kobalt Music Publishing America, Inc. Courtesy of Universal Music Australia/Capitol Records under license from Universal Music Enterprises.All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#63ddff",
+    "songColor2A": "#b3c1ce",
+    "songColor1B": "#220570",
+    "songColor2B": "#29005e",
+    "lyricsColor": "#ff3740",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31488,
+        62928,
+        94416,
+        125904,
+        157392,
+        188832,
+        220320,
+        251808,
+        283296,
+        314736,
+        346224,
+        377712,
+        409200,
+        440640,
+        472128,
+        503616,
+        535104,
+        566544,
+        598032,
+        629520,
+        660960,
+        692448,
+        723936,
+        755424,
+        786864,
+        818352,
+        849840,
+        881328,
+        912768,
+        944256,
+        975744,
+        1007232,
+        1038672,
+        1070160,
+        1101648,
+        1133136,
+        1164576,
+        1196064,
+        1227552,
+        1259040,
+        1290480,
+        1321968,
+        1353456,
+        1384896,
+        1416384,
+        1447872,
+        1479360,
+        1510800
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 280,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Youth/Youth_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Youth/nx/Youth_banner_bkg.tga.ckd/2106e5ea39ce70dbcc494ddadb186eef.ckd",
+      "map_bkgImageUrl": "/public/map/Youth/nx/Youth_map_bkg.tga.ckd/4a3acf22c63e74710e0b0bef75629426.ckd",
+      "expandCoachImageUrl": "/public/map/Youth/nx/Youth_Cover_AlbumCoach.tga.ckd/8dfe96fc9043ababe7cdc31c3556e3da.ckd",
+      "cover_smallImageUrl": "/public/map/Youth/nx/Youth_Cover_Online.tga.ckd/0530a547b07d00ff343b4bdec81c297b.ckd",
+      "coach1ImageUrl": "/public/map/Youth/nx/Youth_Coach_1.tga.ckd/5a470635e196db04bc4220548617cce4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Youth/pc/Youth_banner_bkg.tga.ckd/9e6c22cc6becbe6efdfdd4cff60abb9d.ckd",
+      "map_bkgImageUrl": "/public/map/Youth/pc/Youth_map_bkg.tga.ckd/0f9f4febdfb35314b3260cc058ed706e.ckd",
+      "expandCoachImageUrl": "/public/map/Youth/pc/Youth_Cover_AlbumCoach.tga.ckd/f64807b09ebd3595cbbf6b5a8e5e4612.ckd",
+      "cover_smallImageUrl": "/public/map/Youth/pc/Youth_Cover_Online.tga.ckd/4a632b5b3e4bef3cbdfae0ea239e2bc5.ckd",
+      "coach1ImageUrl": "/public/map/Youth/pc/Youth_Coach_1.tga.ckd/56535c3ff2c0d4ae15e9948067de2b19.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Youth/orbis/Youth_banner_bkg.tga.ckd/9e6c22cc6becbe6efdfdd4cff60abb9d.ckd",
+      "map_bkgImageUrl": "/public/map/Youth/orbis/Youth_map_bkg.tga.ckd/0f9f4febdfb35314b3260cc058ed706e.ckd",
+      "expandCoachImageUrl": "/public/map/Youth/orbis/Youth_Cover_AlbumCoach.tga.ckd/f64807b09ebd3595cbbf6b5a8e5e4612.ckd",
+      "cover_smallImageUrl": "/public/map/Youth/orbis/Youth_Cover_Online.tga.ckd/4a632b5b3e4bef3cbdfae0ea239e2bc5.ckd",
+      "coach1ImageUrl": "/public/map/Youth/orbis/Youth_Coach_1.tga.ckd/56535c3ff2c0d4ae15e9948067de2b19.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Youth/Youth_Coach_1_Phone.png/da401daf0f752716c5f3abeb5aac349a.png",
+    "phoneCoverImageUrl": "/public/map/Youth/Youth_Cover_Phone.jpg/575cd43ad0f6471d2fb36493043dae6e.jpg",
+    "cover640ImageUrl": "/public/map/Youth/Youth_Cover_640.png/1642bb5decf8019197c817abb46b8ebd.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Youth/Youth.ogg": "/private/map/Youth/Youth.ogg/9e0a63fe4c23cb8725962e9439f4ec44.ogg",
+    "jmcs://jd-contents/Youth/Youth_AudioPreview.ogg": "/public/map/Youth/Youth_AudioPreview.ogg/2290fc03b0b916f45ad718f3f1487617.ogg",
+    "jmcs://jd-contents/Youth/Youth_HIGH.webm": "/private/map/Youth/Youth_HIGH.webm/0b69760c8ad54e236daf11385cb9d1a5.webm",
+    "jmcs://jd-contents/Youth/Youth_LOW.webm": "/private/map/Youth/Youth_LOW.webm/059fcd8bf899d87b2a8ad97853734d17.webm",
+    "jmcs://jd-contents/Youth/Youth_MID.webm": "/private/map/Youth/Youth_MID.webm/208f2de29e60f9152f9c44555f79552c.webm",
+    "jmcs://jd-contents/Youth/Youth_ULTRA.hd.webm": "/private/map/Youth/Youth_ULTRA.hd.webm/b46eab34676e3322d287c4e2d32406c9.webm",
+    "jmcs://jd-contents/Youth/Youth_ULTRA.webm": "/private/map/Youth/Youth_ULTRA.webm/7bf788d99803ff4f33a715e35ef6f5ff.webm",
+    "jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Youth/Youth_MapPreviewNoSoundCrop_LOW.vp8.webm/78b982fce0a99417e8216147cc3a3f22.webm",
+    "jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Youth/Youth_MapPreviewNoSoundCrop_MID.vp8.webm/4506f9ab1bc3b63cb79523ad0564abbf.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495794\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\n\t\t\t\t\t<Initialization range=\"0-642\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1462224\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Youth/Youth_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\n\t\t\t\t\t<Initialization range=\"0-643\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 188.196792
+}

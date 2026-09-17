@@ -1,0 +1,164 @@
+{
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AllIWant/nx/AllIWant_banner_bkg.tga.ckd/a0f9589bb81499465e0a78b267957c05.ckd",
+      "map_bkgImageUrl": "/public/map/AllIWant/nx/AllIWant_map_bkg.tga.ckd/5d2e7a3fbb9c7ae983bc14d2c5f730e1.ckd",
+      "expandCoachImageUrl": "/public/map/AllIWant/nx/AllIWant_Cover_AlbumCoach.tga.ckd/c51fe8657d12d9f7d3dc363cb56deb1e.ckd",
+      "cover_smallImageUrl": "/public/map/AllIWant/nx/AllIWant_Cover_Online.tga.ckd/c11009f4e449fd7ee635c1776ae048a0.ckd",
+      "coach1ImageUrl": "/public/map/AllIWant/nx/AllIWant_Coach_1.tga.ckd/4a251944b09ec32997ebd42975aa1d84.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AllIWant/pc/AllIWant_banner_bkg.tga.ckd/951e89e78e44dbb5ea2ab31bda8a4304.ckd",
+      "map_bkgImageUrl": "/public/map/AllIWant/pc/AllIWant_map_bkg.tga.ckd/6c070fce767210069bc9ad311bfb43f1.ckd",
+      "expandCoachImageUrl": "/public/map/AllIWant/pc/AllIWant_Cover_AlbumCoach.tga.ckd/17e9db47324479bd032628cd1579fddf.ckd",
+      "cover_smallImageUrl": "/public/map/AllIWant/pc/AllIWant_Cover_Online.tga.ckd/c2c6eb80bfe66a6cf3c184328398b0d4.ckd",
+      "coach1ImageUrl": "/public/map/AllIWant/pc/AllIWant_Coach_1.tga.ckd/6733da7302e4741692740563668781a9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AllIWant/orbis/AllIWant_banner_bkg.tga.ckd/951e89e78e44dbb5ea2ab31bda8a4304.ckd",
+      "map_bkgImageUrl": "/public/map/AllIWant/orbis/AllIWant_map_bkg.tga.ckd/6c070fce767210069bc9ad311bfb43f1.ckd",
+      "expandCoachImageUrl": "/public/map/AllIWant/orbis/AllIWant_Cover_AlbumCoach.tga.ckd/17e9db47324479bd032628cd1579fddf.ckd",
+      "cover_smallImageUrl": "/public/map/AllIWant/orbis/AllIWant_Cover_Online.tga.ckd/c2c6eb80bfe66a6cf3c184328398b0d4.ckd",
+      "coach1ImageUrl": "/public/map/AllIWant/orbis/AllIWant_Coach_1.tga.ckd/6733da7302e4741692740563668781a9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AllIWant/AllIWant_Coach_1_Phone.png/f182eac0cf7ac55e10ac2b11ba32bad9.png",
+    "phoneCoverImageUrl": "/public/map/AllIWant/AllIWant_Cover_Phone.jpg/dc65bb6ccf197851ff9c71b1d9c8554f.jpg",
+    "cover640ImageUrl": "/public/map/AllIWant/AllIWant_Cover_640.png/3ac9685a1e4bc6aebd7186f0365f5f9a.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/AllIWant/AllIWant.ogg": "/private/map/AllIWant/AllIWant.ogg/7f891c7b9bcfd722dbec5a58bbfb011c.ogg",
+    "jmcs://jd-contents/AllIWant/AllIWant_AudioPreview.ogg": "/public/map/AllIWant/AllIWant_AudioPreview.ogg/5cee92f24097d9d6b886fe430e11877f.ogg",
+    "jmcs://jd-contents/AllIWant/AllIWant_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AllIWant/AllIWant_MapPreviewNoSoundCrop_LOW.vp8.webm/5e75ebac7c4c580dd5d5d954362e222b.webm",
+    "jmcs://jd-contents/AllIWant/AllIWant_HIGH.webm": "/private/map/AllIWant/AllIWant_HIGH.webm/d69018774a21d831b527e7d1291e50f2.webm",
+    "jmcs://jd-contents/AllIWant/AllIWant_LOW.webm": "/private/map/AllIWant/AllIWant_LOW.webm/5d70fa6b5e1d087df945b1396e37dab7.webm",
+    "jmcs://jd-contents/AllIWant/AllIWant_MID.webm": "/private/map/AllIWant/AllIWant_MID.webm/fd37083e6bb1109b86eb2fd8ed504c06.webm",
+    "jmcs://jd-contents/AllIWant/AllIWant_ULTRA.webm": "/private/map/AllIWant/AllIWant_ULTRA.webm/81bfb39be37cefe60a7476dbc7c336e3.webm",
+    "jmcs://jd-contents/AllIWant/AllIWant_ULTRA.hd.webm": "/private/map/AllIWant/AllIWant_ULTRA.hd.webm/e25248d93e1f5a170dc144244c80e12f.webm",
+    "jmcs://jd-contents/AllIWant/AllIWant_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AllIWant/AllIWant_MapPreviewNoSoundCrop_MID.vp8.webm/48d9195d95cd5207a6970fefc0ae3e37.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        19632,
+        39312,
+        58944,
+        78624,
+        98256,
+        117936,
+        137568,
+        157200,
+        176880,
+        196512,
+        216192,
+        235824,
+        255504,
+        275136,
+        294768,
+        314448,
+        334080,
+        353760,
+        373392,
+        393072,
+        412704,
+        432336,
+        454128,
+        475968,
+        497808,
+        519648,
+        541488,
+        563328,
+        585168,
+        607008,
+        628848,
+        650640,
+        672480,
+        694320,
+        729744,
+        765120,
+        800496,
+        835920,
+        871296,
+        906672,
+        935856,
+        965040,
+        994224,
+        1023408,
+        1052592,
+        1081728,
+        1113648,
+        1145520,
+        1177392,
+        1209264,
+        1241137,
+        1273009,
+        1306273,
+        1339489,
+        1372705,
+        1405921,
+        1439185,
+        1472401,
+        1507105
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 538,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AllIWant/AllIWant_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "34e8d872fde62eed69ef3c7b1012a774",
+      "storageType": 0,
+      "url": "/public/map/AllIWant/nx/AllIWant_MAIN_SCENE_NX.zip/34e8d872fde62eed69ef3c7b1012a774.zip"
+    },
+    "pc": {
+      "md5": "6e8d55237d41c996de3ab86c4eb6214a",
+      "storageType": 0,
+      "url": "/public/map/AllIWant/pc/AllIWant_MAIN_SCENE_PC.zip/6e8d55237d41c996de3ab86c4eb6214a.zip"
+    }
+  },
+  "data": {
+    "mapName": "AllIWant",
+    "title": "All I Want For Christmas Is You",
+    "originalJDVersion": 2014,
+    "tags": [
+      "JustDance2014",
+      "subscribedSong"
+    ],
+    "artist": "Mariah Carey",
+    "credits": "Walter N Afanasieff, Maria Carey.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d50011",
+    "songColor2A": "#ffa900",
+    "songColor1B": "#4b001b",
+    "songColor2B": "#880019",
+    "lyricsColor": "#fc7100"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"537895\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllIWant/AllIWant_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"608-1098\">\n\t\t\t\t\t<Initialization range=\"0-608\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1528401\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllIWant/AllIWant_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"609-1099\">\n\t\t\t\t\t<Initialization range=\"0-609\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 229.440979
+}

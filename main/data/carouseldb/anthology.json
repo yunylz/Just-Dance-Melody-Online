@@ -1,0 +1,112 @@
+{
+    "__class": "JD_CarouselContent",
+    "categories": [{
+        "__class": "Category",
+        "title": "Anthology",
+        "act": "ui_carousel",
+        "isc": "anthology_grid",
+        "items": [{
+            "__class": "Item",
+            "isc": "anthology_planet_item_0",
+            "act": "ui_component_base",
+            "components": [{
+                "__class": "JD_CarouselContentComponent_Song",
+                "mapName": "HotNCold"
+            }],
+            "actionList": "_None"
+        }, {
+            "__class": "Item",
+            "isc": "anthology_planet_item_1",
+            "act": "ui_component_base",
+            "components": [{
+                "__class": "JD_CarouselContentComponent_Song",
+                "mapName": "Rasputin"
+            }],
+            "actionList": "_None"
+        }, {
+            "__class": "Item",
+            "isc": "anthology_planet_item_2",
+            "act": "ui_component_base",
+            "components": [{
+                "__class": "JD_CarouselContentComponent_Song",
+                "mapName": "CaliforniaGurls"
+            }],
+            "actionList": "_None"
+        }, {
+            "__class": "Item",
+            "isc": "anthology_planet_item_3",
+            "act": "ui_component_base",
+            "components": [{
+                "__class": "JD_CarouselContentComponent_Song",
+                "mapName": "YouReTheFirst"
+            }],
+            "actionList": "_None"
+        }, {
+            "__class": "Item",
+            "isc": "anthology_planet_item_4",
+            "act": "ui_component_base",
+            "components": [{
+                "__class": "JD_CarouselContentComponent_Song",
+                "mapName": "Starships"
+            }],
+            "actionList": "_None"
+        }, {
+            "__class": "Item",
+            "isc": "anthology_planet_item_5",
+            "act": "ui_component_base",
+            "components": [{
+                "__class": "JD_CarouselContentComponent_Song",
+                "mapName": "BuiltForThis"
+            }],
+            "actionList": "_None"
+        }, {
+            "__class": "Item",
+            "isc": "anthology_planet_item_6",
+            "act": "ui_component_base",
+            "components": [{
+                "__class": "JD_CarouselContentComponent_Song",
+                "mapName": "Chiwawa"
+            }],
+            "actionList": "_None"
+        }, {
+            "__class": "Item",
+            "isc": "anthology_planet_item_7",
+            "act": "ui_component_base",
+            "components": [{
+                "__class": "JD_CarouselContentComponent_Song",
+                "mapName": "LeanOn"
+            }],
+            "actionList": "_None"
+        }, {
+            "__class": "Item",
+            "isc": "anthology_planet_item_8",
+            "act": "ui_component_base",
+            "components": [{
+                "__class": "JD_CarouselContentComponent_Song",
+                "mapName": "SwishSwish"
+            }],
+            "actionList": "_None"
+        }, {
+            "__class": "Item",
+            "isc": "anthology_planet_item_9",
+            "act": "ui_component_base",
+            "components": [{
+                "__class": "JD_CarouselContentComponent_Song",
+                "mapName": "Bang2019"
+            }],
+            "actionList": "_None"
+        }]
+    }],
+    "actionLists": {
+        "_None": {
+            "__class": "ActionList",
+            "actions": [{
+                "__class": "Action",
+                "title": "None",
+                "type": "do-nothing"
+            }],
+            "itemType": "map"
+        }
+    },
+    "songItemLists": {}
+}

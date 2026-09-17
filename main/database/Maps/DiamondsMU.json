@@ -1,0 +1,160 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DiamondsMU/DiamondsMU_HIGH.hd.webm": "/private/map/DiamondsMU/DiamondsMU_HIGH.hd.webm/b63d1ef6a470df7899c2683c78a08616.webm",
+    "jmcs://jd-contents/DiamondsMU/DiamondsMU_LOW.hd.webm": "/private/map/DiamondsMU/DiamondsMU_LOW.hd.webm/5eabc6e7116a04333184c62076aab52d.webm",
+    "jmcs://jd-contents/DiamondsMU/DiamondsMU_MID.hd.webm": "/private/map/DiamondsMU/DiamondsMU_MID.hd.webm/e138afecf6a7af99ded7f7042a3378d4.webm",
+    "jmcs://jd-contents/DiamondsMU/DiamondsMU_ULTRA.hd.webm": "/private/map/DiamondsMU/DiamondsMU_ULTRA.hd.webm/85bee126d9990c5975e6c60511b4751f.webm",
+    "jmcs://jd-contents/DiamondsMU/DiamondsMU.ogg": "/private/map/DiamondsMU/DiamondsMU.ogg/4932f08254c704ff1ed5acf6b363d3ae.ogg",
+    "jmcs://jd-contents/DiamondsMU/DiamondsMU_AudioPreview.ogg": "/public/map/DiamondsMU/DiamondsMU_AudioPreview.ogg/18dd400315c96e4d585152e0d6b047d0.ogg",
+    "jmcs://jd-contents/DiamondsMU/DiamondsMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DiamondsMU/DiamondsMU_MapPreviewNoSoundCrop_LOW.vp8.webm/33e3834fd544b80dc97e7f18828beebb.webm",
+    "jmcs://jd-contents/DiamondsMU/DiamondsMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DiamondsMU/DiamondsMU_MapPreviewNoSoundCrop_MID.vp8.webm/17924929187123ec5bd5a001fcf7a120.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31295,
+        62591,
+        93935,
+        125231,
+        156527,
+        187823,
+        219119,
+        250415,
+        281759,
+        313055,
+        344351,
+        375647,
+        406943,
+        438239,
+        469583,
+        500879,
+        532175,
+        563471,
+        594767,
+        626063,
+        657407,
+        688703,
+        719999,
+        751295,
+        782591,
+        813935,
+        845231,
+        876527,
+        907823,
+        939119,
+        970415,
+        1001759,
+        1033055,
+        1064351,
+        1095647,
+        1126943,
+        1158239,
+        1189583,
+        1220879,
+        1252175,
+        1283471,
+        1314767,
+        1346063,
+        1377407,
+        1408703,
+        1439999,
+        1471295,
+        1502591
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 344,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 46,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DiamondsMU/DiamondsMU_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "a976604e2be8f28ba0420f05abe6a5f0",
+      "storageType": 0,
+      "url": "/public/map/DiamondsMU/nx/DiamondsMU_MAIN_SCENE_NX.zip/a976604e2be8f28ba0420f05abe6a5f0.zip"
+    },
+    "pc": {
+      "md5": "ef2f0f148409a740a362d2ad9e34c789",
+      "storageType": 0,
+      "url": "/public/map/DiamondsMU/pc/DiamondsMU_MAIN_SCENE_PC.zip/ef2f0f148409a740a362d2ad9e34c789.zip"
+    },
+    "ps4": {
+      "md5": "3003f8b0159d403da2bc8aca5bd0573d",
+      "storageType": 0,
+      "url": "/public/map/DiamondsMU/orbis/DiamondsMU_MAIN_SCENE_ORBIS.zip/3003f8b0159d403da2bc8aca5bd0573d.zip"
+    }
+  },
+  "data": {
+    "mapName": "DiamondsMU",
+    "title": "Diamonds",
+    "originalJDVersion": 2015,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "Rihanna",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#da8634",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DiamondsMU/nx/DiamondsMU_banner_bkg.tga.ckd/3fe33e389313ed04b89a8a112138449c.ckd",
+      "map_bkgImageUrl": "/public/map/DiamondsMU/nx/DiamondsMU_map_bkg.tga.ckd/3ff176a96274d533fc48ed5f34383ad9.ckd",
+      "expandCoachImageUrl": "/public/map/DiamondsMU/nx/DiamondsMU_Cover_AlbumCoach.tga.ckd/fa483208a0903fecc47a2aaa8f210f05.ckd",
+      "cover_smallImageUrl": "/public/map/DiamondsMU/nx/DiamondsMU_Cover_Online.tga.ckd/6c781bfe82923c7c5f846b2a33c26bef.ckd",
+      "coverImageUrl": "/public/map/DiamondsMU/nx/DiamondsMU_Cover_Generic.tga.ckd/9bed2c9a48f605db1f4c9ef4ee0ec084.ckd",
+      "coach1ImageUrl": "/public/map/DiamondsMU/nx/DiamondsMU_Coach_1.tga.ckd/e77fa337a9e310574748eaffce05ed5c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DiamondsMU/pc/DiamondsMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/DiamondsMU/pc/DiamondsMU_map_bkg.tga.ckd/49f3010cec026ac268a71708d8d058e4.ckd",
+      "expandCoachImageUrl": "/public/map/DiamondsMU/pc/DiamondsMU_Cover_AlbumCoach.tga.ckd/602c77582a6ffff701c6bd05453e0f47.ckd",
+      "cover_smallImageUrl": "/public/map/DiamondsMU/pc/DiamondsMU_Cover_Online.tga.ckd/507857ad0443bc640ec79ffe946a32bf.ckd",
+      "coverImageUrl": "/public/map/DiamondsMU/pc/DiamondsMU_Cover_Generic.tga.ckd/58e50de76b8b9022bd438cb3d5b5b209.ckd",
+      "coach1ImageUrl": "/public/map/DiamondsMU/pc/DiamondsMU_Coach_1.tga.ckd/c020d8d1b93846d479e7d21f8e0ea543.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DiamondsMU/orbis/DiamondsMU_banner_bkg.tga.ckd/0e5a881ab6bf89ca1424f33c9c510d58.ckd",
+      "map_bkgImageUrl": "/public/map/DiamondsMU/orbis/DiamondsMU_map_bkg.tga.ckd/49f3010cec026ac268a71708d8d058e4.ckd",
+      "expandCoachImageUrl": "/public/map/DiamondsMU/orbis/DiamondsMU_Cover_AlbumCoach.tga.ckd/602c77582a6ffff701c6bd05453e0f47.ckd",
+      "cover_smallImageUrl": "/public/map/DiamondsMU/orbis/DiamondsMU_Cover_Online.tga.ckd/507857ad0443bc640ec79ffe946a32bf.ckd",
+      "coverImageUrl": "/public/map/DiamondsMU/orbis/DiamondsMU_Cover_Generic.tga.ckd/58e50de76b8b9022bd438cb3d5b5b209.ckd",
+      "coach1ImageUrl": "/public/map/DiamondsMU/orbis/DiamondsMU_Coach_1.tga.ckd/c020d8d1b93846d479e7d21f8e0ea543.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DiamondsMU/DiamondsMU_Coach_1_Phone.png/2c4e45b1cdb17cde849cb915fec76d2a.png",
+    "phoneCoverImageUrl": "/public/map/DiamondsMU/DiamondsMU_Cover_Phone.jpg/e59fad1f3e2116eff72b8ba1467d70fe.jpg",
+    "cover640ImageUrl": "/public/map/DiamondsMU/DiamondsMU_Cover_640.png/aabc1989a6a14e2ca60be6edd508d74a.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"555622\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DiamondsMU/DiamondsMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"754-1244\">\n\t\t\t\t\t<Initialization range=\"0-754\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1973553\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DiamondsMU/DiamondsMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"755-1245\">\n\t\t\t\t\t<Initialization range=\"0-755\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 224.347854
+}

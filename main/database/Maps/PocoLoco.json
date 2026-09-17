@@ -1,0 +1,175 @@
+{
+  "urls": {
+    "jmcs://jd-contents/PocoLoco/PocoLoco.ogg": "/private/map/PocoLoco/PocoLoco.ogg/c7fe06d793fb771599c33f5d39e5084b.ogg",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_AudioPreview.ogg": "/public/map/PocoLoco/PocoLoco_AudioPreview.ogg/df5c9bdd7b962876727c7e58f0f95520.ogg",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_HIGH.hd.webm": "/private/map/PocoLoco/PocoLoco_HIGH.hd.webm/98f1bbf7ead3f6b71f3bf60492c29c26.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_LOW.hd.webm": "/private/map/PocoLoco/PocoLoco_LOW.hd.webm/8ae54ecda89544c57731d444d610f1c4.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_MID.hd.webm": "/private/map/PocoLoco/PocoLoco_MID.hd.webm/208a4ead3b803f9ce9a163aef848377f.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_ULTRA.hd.webm": "/private/map/PocoLoco/PocoLoco_ULTRA.hd.webm/73a6de76d74e78d4c926544b18c05699.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_LOW.vp8.webm/ce99af118a00c583c38a20f9202b2711.webm",
+    "jmcs://jd-contents/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PocoLoco/PocoLoco_MapPreviewNoSoundCrop_MID.vp8.webm/c780d66f3ae9fd73f741102fcd321f3f.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23328,
+        46656,
+        69984,
+        93360,
+        116688,
+        140016,
+        163344,
+        186672,
+        210000,
+        233376,
+        256704,
+        280032,
+        303360,
+        326688,
+        350016,
+        373392,
+        396864,
+        420336,
+        443856,
+        467328,
+        490512,
+        513696,
+        536880,
+        560064,
+        583249,
+        606433,
+        629617,
+        652801,
+        675985,
+        699169,
+        722353,
+        745537,
+        768721,
+        791905,
+        814945,
+        838033,
+        861073,
+        884161,
+        907249,
+        930289,
+        953377,
+        976417,
+        999505,
+        1022593,
+        1045633,
+        1068721,
+        1091761,
+        1114849,
+        1137937,
+        1160977,
+        1185218,
+        1209410,
+        1232930,
+        1256450,
+        1279922,
+        1303442,
+        1324370,
+        1345298,
+        1372274,
+        1395266,
+        1418210,
+        1441202,
+        1464722,
+        1488242
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 245,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PocoLoco/PocoLoco_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "502cea100e016f127a34d61eec565b50",
+      "storageType": 0,
+      "url": "/public/map/PocoLoco/nx/PocoLoco_MAIN_SCENE_NX.zip/502cea100e016f127a34d61eec565b50.zip"
+    },
+    "pc": {
+      "md5": "011229b3b4188cd85914c095cbf9a9f9",
+      "storageType": 0,
+      "url": "/public/map/PocoLoco/pc/PocoLoco_MAIN_SCENE_PC.zip/011229b3b4188cd85914c095cbf9a9f9.zip"
+    },
+    "ps4": {
+      "md5": "14ff9224f160664abb67b1b538f50937",
+      "storageType": 0,
+      "url": "/public/map/PocoLoco/orbis/PocoLoco_MAIN_SCENE_ORBIS.zip/14ff9224f160664abb67b1b538f50937.zip"
+    }
+  },
+  "data": {
+    "mapName": "PocoLoco",
+    "title": "Un Poco Loco",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main"
+    ],
+    "artist": "Disney's Coco",
+    "credits": "Written by Germaine Franco and Adrian Molina. Published by Walt Disney Music Company/Pixar Talking Pictures (ASCAP). Music Produced by Germaine Franco. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#6cbefc",
+    "songColor2A": "#00a5ee",
+    "songColor1B": "#974adb",
+    "songColor2B": "#8e01a0",
+    "lyricsColor": "#0cece1",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PocoLoco/nx/PocoLoco_banner_bkg.tga.ckd/e7143fb94b0b05acc03edf37d715558f.ckd",
+      "map_bkgImageUrl": "/public/map/PocoLoco/nx/PocoLoco_map_bkg.tga.ckd/03fd508780712d8708e8b63f88c0939e.ckd",
+      "expandCoachImageUrl": "/public/map/PocoLoco/nx/PocoLoco_Cover_AlbumCoach.tga.ckd/3c3ae1dbf3d0e52a11d5986e94795ef8.ckd",
+      "cover_smallImageUrl": "/public/map/PocoLoco/nx/PocoLoco_Cover_Online.tga.ckd/dae1fbbad86f266d007217c87d96ac33.ckd",
+      "coverImageUrl": "/public/map/PocoLoco/nx/PocoLoco_Cover_Generic.tga.ckd/f42d4670f3672837e757beacfabcf8e2.ckd",
+      "coach1ImageUrl": "/public/map/PocoLoco/nx/PocoLoco_Coach_1.tga.ckd/68529eaf5a594048942711cb79936507.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PocoLoco/pc/PocoLoco_banner_bkg.tga.ckd/17d9677155d6223443801bfdec7f9245.ckd",
+      "map_bkgImageUrl": "/public/map/PocoLoco/pc/PocoLoco_map_bkg.tga.ckd/65dd449b48edfa7fa554ae3e19f5b8b8.ckd",
+      "expandCoachImageUrl": "/public/map/PocoLoco/pc/PocoLoco_Cover_AlbumCoach.tga.ckd/a31a446cbf0cd704748a4bcc7b5ca7c7.ckd",
+      "cover_smallImageUrl": "/public/map/PocoLoco/pc/PocoLoco_Cover_Online.tga.ckd/f926ba44b24b4b5bbe253398d099dfd5.ckd",
+      "coverImageUrl": "/public/map/PocoLoco/pc/PocoLoco_Cover_Generic.tga.ckd/55adc7b439abed5ca11ebbe610ec6561.ckd",
+      "coach1ImageUrl": "/public/map/PocoLoco/pc/PocoLoco_Coach_1.tga.ckd/aa3372ada6a48a46c0623813acff13e0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PocoLoco/orbis/PocoLoco_banner_bkg.tga.ckd/17d9677155d6223443801bfdec7f9245.ckd",
+      "map_bkgImageUrl": "/public/map/PocoLoco/orbis/PocoLoco_map_bkg.tga.ckd/65dd449b48edfa7fa554ae3e19f5b8b8.ckd",
+      "expandCoachImageUrl": "/public/map/PocoLoco/orbis/PocoLoco_Cover_AlbumCoach.tga.ckd/a31a446cbf0cd704748a4bcc7b5ca7c7.ckd",
+      "cover_smallImageUrl": "/public/map/PocoLoco/orbis/PocoLoco_Cover_Online.tga.ckd/f926ba44b24b4b5bbe253398d099dfd5.ckd",
+      "coverImageUrl": "/public/map/PocoLoco/orbis/PocoLoco_Cover_Generic.tga.ckd/55adc7b439abed5ca11ebbe610ec6561.ckd",
+      "coach1ImageUrl": "/public/map/PocoLoco/orbis/PocoLoco_Coach_1.tga.ckd/aa3372ada6a48a46c0623813acff13e0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PocoLoco/PocoLoco_Coach_1_Phone.png/0d5b6c198deb043e458575ef5f100997.png",
+    "phoneCoverImageUrl": "/public/map/PocoLoco/PocoLoco_Cover_Phone.jpg/0d66d05c2724077bc27f9af8a9394f22.jpg",
+    "cover640ImageUrl": "/public/map/PocoLoco/PocoLoco_Cover_640.png/4d9246f8c05120cef46a9507ae9a513f.png"
+  },
+  "mapLength": 116.345604
+}

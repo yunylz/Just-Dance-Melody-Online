@@ -1,0 +1,185 @@
+{
+  "urls": {
+    "jmcs://jd-contents/FlowersALT/FlowersALT_AudioPreview.ogg": "/public/map/FlowersALT/FlowersALT_AudioPreview.ogg/598f7318c0a0f59a7f74576d3f68aedd.ogg",
+    "jmcs://jd-contents/FlowersALT/FlowersALT.ogg": "/private/map/FlowersALT/FlowersALT.ogg/ecc2e553f61a061cb1db8afde246eaf0.ogg",
+    "jmcs://jd-contents/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_LOW.vp8.webm/cebef0a0c8a907cbd7b395a98d85256e.webm",
+    "jmcs://jd-contents/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_MID.vp8.webm/9e9a99525a6c43f6faea251b100635ad.webm",
+    "jmcs://jd-contents/FlowersALT/FlowersALT_ULTRA.hd.webm": "/private/map/FlowersALT/FlowersALT_ULTRA.hd.webm/fa8373009f2d60a08a91ac55599e56f1.webm",
+    "jmcs://jd-contents/FlowersALT/FlowersALT_HIGH.hd.webm": "/private/map/FlowersALT/FlowersALT_HIGH.hd.webm/2d53118ae481795279fd4fc655127eeb.webm",
+    "jmcs://jd-contents/FlowersALT/FlowersALT_MID.hd.webm": "/private/map/FlowersALT/FlowersALT_MID.hd.webm/37107065fdad1132089d0ce42eaf7eab.webm",
+    "jmcs://jd-contents/FlowersALT/FlowersALT_LOW.hd.webm": "/private/map/FlowersALT/FlowersALT_LOW.hd.webm/f03a803d0e3bec7276ed6dd49568c6cf.webm",
+    "jmcs://jd-contents/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/af3fd615d678d4c0b798af44c9176d9f.webm",
+    "jmcs://jd-contents/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/83267a02cbac9eccf3b2dae71e469719.webm"
+  },
+  "mapLength": 212.03378125,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24406,
+        48813,
+        73220,
+        97627,
+        122034,
+        146440,
+        170847,
+        195254,
+        219661,
+        244068,
+        268474,
+        292881,
+        317288,
+        341695,
+        366101,
+        390508,
+        414915,
+        439322,
+        463729,
+        488135,
+        512542,
+        536949,
+        561356,
+        585762,
+        610169,
+        634576,
+        658983,
+        683390,
+        707796,
+        732203,
+        756610,
+        781017,
+        805423,
+        829830,
+        854237,
+        878644,
+        903051,
+        927457,
+        951864,
+        976271,
+        1000678,
+        1025084,
+        1049491,
+        1073898,
+        1098305,
+        1122712,
+        1147118,
+        1171525,
+        1195932,
+        1220339,
+        1244745,
+        1269152,
+        1293559,
+        1317966,
+        1342373,
+        1366779,
+        1391186,
+        1415593,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 411,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/FlowersALT/FlowersALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"646364\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"797-1287\">\n\t\t\t\t\t<Initialization range=\"0-797\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482538\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"797-1287\">\n\t\t\t\t\t<Initialization range=\"0-797\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2934401\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"797-1287\">\n\t\t\t\t\t<Initialization range=\"0-797\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"3897522\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/FlowersALT/FlowersALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"797-1287\">\n\t\t\t\t\t<Initialization range=\"0-797\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "8f6b9a0a384ad59408c545eefbd85f4c",
+      "storageType": 0,
+      "url": "/public/map/FlowersALT/pc/FlowersALT_MAIN_SCENE_PC.zip/8f6b9a0a384ad59408c545eefbd85f4c.zip"
+    },
+    "ps4": {
+      "md5": "68b3609549e42b608f6ac378db063670",
+      "storageType": 0,
+      "url": "/public/map/FlowersALT/orbis/FlowersALT_MAIN_SCENE_ORBIS.zip/68b3609549e42b608f6ac378db063670.zip"
+    },
+    "wiiu": {
+      "md5": "30f2b21b4f6703abc44853593549dea9",
+      "storageType": 0,
+      "url": "/public/map/FlowersALT/wiiu/FlowersALT_MAIN_SCENE_WIIU.zip/30f2b21b4f6703abc44853593549dea9.zip"
+    },
+    "nx": {
+      "md5": "7bb8ee933d077f4894b18321d7651adb",
+      "storageType": 0,
+      "url": "/public/map/FlowersALT/nx/FlowersALT_MAIN_SCENE_NX.zip/7bb8ee933d077f4894b18321d7651adb.zip"
+    }
+  },
+  "data": {
+    "mapName": "FlowersALT",
+    "title": "Flowers",
+    "originalJDVersion": 2024,
+    "tags": [
+      "alternate",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Miley Cyrus",
+    "credits": "Written by Miley Cyrus, Gregory Hein, Michael Pollack. Published by MCEO Publishing / Songs With A Pure Tone, What Key Do You Want It In Music and Warner-Tamerlane Publishing Corp. All rights on behalf of itself and Songs With A Pure Tone and What Key Do You Want It In Music, administered by Warner-Tamerlane Publishing Corp. / These Are Pulse Songs obo itself, Wide Eyed Global and Songs by Gregory Hein; admin by Concord Copyrights. Courtesy of Columbia Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#FCA4E4",
+    "songColor2A": "#6EDDF5",
+    "songColor1B": "#6B2F55",
+    "songColor2B": "#072FA3",
+    "lyricsColor": "#FFD53A",
+    "LocaleID": 20003363
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/FlowersALT/pc/FlowersALT_Cover_Online.tga.ckd/0870b5ba8444887356bee5c0d9fa787c.ckd",
+      "coverImageUrl": "/public/map/FlowersALT/pc/FlowersALT_Cover_Generic.tga.ckd/66961ad3e7b4d55584a4f8ef32853528.ckd",
+      "expandCoachImageUrl": "/public/map/FlowersALT/pc/FlowersALT_Cover_AlbumCoach.tga.ckd/fccce9e1469c08c90e88b4413684e43a.ckd",
+      "map_bkgImageUrl": "/public/map/FlowersALT/pc/FlowersALT_map_bkg.tga.ckd/1e10b714d6ee32697d4a2272ae4415d0.ckd",
+      "banner_bkgImageUrl": "/public/map/FlowersALT/pc/FlowersALT_banner_bkg.tga.ckd/5fc0a37bca1f9c74ba81fb511abe5300.ckd",
+      "coach1ImageUrl": "/public/map/FlowersALT/pc/FlowersALT_Coach_1.tga.ckd/c3f5e43eee2a3ad682cd06d867bc5bd5.ckd",
+      "phoneCoverImageUrl": "/public/map/FlowersALT/FlowersALT_Cover_Phone.jpg/63c866d6db6b6a8be922cb5016888710.jpg",
+      "phoneCoach1ImageUrl": "/public/map/FlowersALT/FlowersALT_Coach_1_Phone.png/53f22061ca408bb63cbcc0d2f9d40572.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/FlowersALT/orbis/FlowersALT_Cover_Online.tga.ckd/0870b5ba8444887356bee5c0d9fa787c.ckd",
+      "coverImageUrl": "/public/map/FlowersALT/orbis/FlowersALT_Cover_Generic.tga.ckd/66961ad3e7b4d55584a4f8ef32853528.ckd",
+      "expandCoachImageUrl": "/public/map/FlowersALT/orbis/FlowersALT_Cover_AlbumCoach.tga.ckd/fccce9e1469c08c90e88b4413684e43a.ckd",
+      "map_bkgImageUrl": "/public/map/FlowersALT/orbis/FlowersALT_map_bkg.tga.ckd/1e10b714d6ee32697d4a2272ae4415d0.ckd",
+      "banner_bkgImageUrl": "/public/map/FlowersALT/orbis/FlowersALT_banner_bkg.tga.ckd/5fc0a37bca1f9c74ba81fb511abe5300.ckd",
+      "coach1ImageUrl": "/public/map/FlowersALT/orbis/FlowersALT_Coach_1.tga.ckd/c3f5e43eee2a3ad682cd06d867bc5bd5.ckd",
+      "phoneCoverImageUrl": "/public/map/FlowersALT/FlowersALT_Cover_Phone.jpg/63c866d6db6b6a8be922cb5016888710.jpg",
+      "phoneCoach1ImageUrl": "/public/map/FlowersALT/FlowersALT_Coach_1_Phone.png/53f22061ca408bb63cbcc0d2f9d40572.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/FlowersALT/wiiu/FlowersALT_Cover_Online.tga.ckd/f249f6537b7c959b72fa28aad97acdcb.ckd",
+      "coverImageUrl": "/public/map/FlowersALT/wiiu/FlowersALT_Cover_Generic.tga.ckd/1d864cba86e387d10f4604273398d751.ckd",
+      "expandCoachImageUrl": "/public/map/FlowersALT/wiiu/FlowersALT_Cover_AlbumCoach.tga.ckd/cd09e6f28b35e4da9d5c2e60541601f8.ckd",
+      "map_bkgImageUrl": "/public/map/FlowersALT/wiiu/FlowersALT_map_bkg.tga.ckd/a0757934c95494e967c7333104b9ca7c.ckd",
+      "banner_bkgImageUrl": "/public/map/FlowersALT/wiiu/FlowersALT_banner_bkg.tga.ckd/23a564cdf7d342c3156c530d7deddc75.ckd",
+      "coach1ImageUrl": "/public/map/FlowersALT/wiiu/FlowersALT_Coach_1.tga.ckd/ac21cc2493365724e1afb9a9a8eb6a6c.ckd",
+      "phoneCoverImageUrl": "/public/map/FlowersALT/FlowersALT_Cover_Phone.jpg/63c866d6db6b6a8be922cb5016888710.jpg",
+      "phoneCoach1ImageUrl": "/public/map/FlowersALT/FlowersALT_Coach_1_Phone.png/53f22061ca408bb63cbcc0d2f9d40572.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/FlowersALT/nx/FlowersALT_Cover_Online.tga.ckd/6be10ae384b858e95ecce059720be561.ckd",
+      "coverImageUrl": "/public/map/FlowersALT/nx/FlowersALT_Cover_Generic.tga.ckd/79502c343db17712bb7906c657a54899.ckd",
+      "expandCoachImageUrl": "/public/map/FlowersALT/nx/FlowersALT_Cover_AlbumCoach.tga.ckd/9d7a489f19389255f3cbf3ab182a4921.ckd",
+      "map_bkgImageUrl": "/public/map/FlowersALT/nx/FlowersALT_map_bkg.tga.ckd/eb239db465e0417a856f421b6934434e.ckd",
+      "banner_bkgImageUrl": "/public/map/FlowersALT/nx/FlowersALT_banner_bkg.tga.ckd/b4f716a7e8c9c969a2f89a953cc76a9d.ckd",
+      "coach1ImageUrl": "/public/map/FlowersALT/nx/FlowersALT_Coach_1.tga.ckd/4e4dd2a5a6b6f733fda159182b786ede.ckd",
+      "phoneCoverImageUrl": "/public/map/FlowersALT/FlowersALT_Cover_Phone.jpg/63c866d6db6b6a8be922cb5016888710.jpg",
+      "phoneCoach1ImageUrl": "/public/map/FlowersALT/FlowersALT_Coach_1_Phone.png/53f22061ca408bb63cbcc0d2f9d40572.png"
+    },
+    "cover640ImageUrl": "/public/map/FlowersALT/FlowersALT_Cover_640.png/59f026c4f32357d286dc104ff57d92d0.png"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "urls": {
+    "jmcs://jd-contents/AWholeNewWorld/AWholeNewWorld.ogg": "/private/map/AWholeNewWorld/AWholeNewWorld.ogg/fb28b737acda7b3cdb01cb97452549d2.ogg",
+    "jmcs://jd-contents/AWholeNewWorld/AWholeNewWorld_AudioPreview.ogg": "/public/map/AWholeNewWorld/AWholeNewWorld_AudioPreview.ogg/37d69841e2a453054373ffd9fb114af3.ogg",
+    "jmcs://jd-contents/AWholeNewWorld/AWholeNewWorld_HIGH.hd.webm": "/private/map/AWholeNewWorld/AWholeNewWorld_HIGH.hd.webm/9d05a83b6b93f6b65f1fe9f08c08ab7c.webm",
+    "jmcs://jd-contents/AWholeNewWorld/AWholeNewWorld_LOW.hd.webm": "/private/map/AWholeNewWorld/AWholeNewWorld_LOW.hd.webm/d4faa6e51321033121530a99020f9ca4.webm",
+    "jmcs://jd-contents/AWholeNewWorld/AWholeNewWorld_MID.hd.webm": "/private/map/AWholeNewWorld/AWholeNewWorld_MID.hd.webm/906762325e34d0eb0eb6cf1779110b80.webm",
+    "jmcs://jd-contents/AWholeNewWorld/AWholeNewWorld_ULTRA.hd.webm": "/private/map/AWholeNewWorld/AWholeNewWorld_ULTRA.hd.webm/9daa8f8137fc75edc9cf699823ba4c93.webm",
+    "jmcs://jd-contents/AWholeNewWorld/AWholeNewWorld_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AWholeNewWorld/AWholeNewWorld_MapPreviewNoSoundCrop_LOW.vp8.webm/f9a46eb104255222a2664bf6d1585e50.webm",
+    "jmcs://jd-contents/AWholeNewWorld/AWholeNewWorld_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AWholeNewWorld/AWholeNewWorld_MapPreviewNoSoundCrop_MID.vp8.webm/d62c4b51eefc376af3c1dec09928942b.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        45714,
+        91429,
+        137143,
+        188616,
+        234184,
+        282860,
+        331536,
+        380907,
+        430279,
+        474304,
+        520485,
+        570572,
+        617914,
+        663689,
+        707611,
+        757189,
+        801791,
+        848010,
+        894230,
+        939571,
+        984913,
+        1032045,
+        1077821,
+        1123598,
+        1171678,
+        1217897,
+        1264117,
+        1313695,
+        1357781,
+        1405382,
+        1451511,
+        1499932,
+        1545732
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -13,
+      "endBeat": 161,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 31,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AWholeNewWorld/AWholeNewWorld_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"539054\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AWholeNewWorld/AWholeNewWorld_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2013064\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AWholeNewWorld/AWholeNewWorld_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "735025850e03e21058109684bad25536",
+      "storageType": 0,
+      "url": "/public/map/AWholeNewWorld/nx/AWholeNewWorld_MAIN_SCENE_NX.zip/735025850e03e21058109684bad25536.zip"
+    },
+    "pc": {
+      "md5": "f1e8aabe2e02c4c45b01b940acbe763e",
+      "storageType": 0,
+      "url": "/public/map/AWholeNewWorld/pc/AWholeNewWorld_MAIN_SCENE_PC.zip/f1e8aabe2e02c4c45b01b940acbe763e.zip"
+    },
+    "ps4": {
+      "md5": "356880df6f21eb0262003f71ef3c8b2d",
+      "storageType": 0,
+      "url": "/public/map/AWholeNewWorld/orbis/AWholeNewWorld_MAIN_SCENE_ORBIS.zip/356880df6f21eb0262003f71ef3c8b2d.zip"
+    }
+  },
+  "data": {
+    "mapName": "AWholeNewWorld",
+    "title": "A Whole New World",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Disney's Aladdin",
+    "credits": "Performed by Brad Kane and Lea Salonga. Written by Alan Menken, Tim Rice. Published by Wonderland Music Company, Inc. (BMI) / Walt Disney Music Company (ASCAP) All Rights Reserved. Courtesy of Walt Disney Records.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#0d0de3",
+    "songColor2A": "#8a44f2",
+    "songColor1B": "#020227",
+    "songColor2B": "#14066a",
+    "lyricsColor": "#f458c3",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AWholeNewWorld/nx/AWholeNewWorld_banner_bkg.tga.ckd/de12ecd25cb0eae859a180fdf5163a08.ckd",
+      "map_bkgImageUrl": "/public/map/AWholeNewWorld/nx/AWholeNewWorld_map_bkg.tga.ckd/9bd388e41db31bf463cd00cc7727c611.ckd",
+      "expandCoachImageUrl": "/public/map/AWholeNewWorld/nx/AWholeNewWorld_Cover_AlbumCoach.tga.ckd/dc2218f296a1f4b85b6a8aab5f8a2ea7.ckd",
+      "cover_smallImageUrl": "/public/map/AWholeNewWorld/nx/AWholeNewWorld_Cover_Online.tga.ckd/d7c8a360c31b048ba341ffca7284a2d3.ckd",
+      "coverImageUrl": "/public/map/AWholeNewWorld/nx/AWholeNewWorld_Cover_Generic.tga.ckd/35204f1ea4daf0e7f67320fcc0ce22b4.ckd",
+      "coach1ImageUrl": "/public/map/AWholeNewWorld/nx/AWholeNewWorld_Coach_1.tga.ckd/d8de8ebc97309d6e595601142e77a840.ckd",
+      "coach2ImageUrl": "/public/map/AWholeNewWorld/nx/AWholeNewWorld_Coach_2.tga.ckd/e30636dc0522f26ab1476c414e6bbf7e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AWholeNewWorld/pc/AWholeNewWorld_banner_bkg.tga.ckd/dacb9ded0bf56d23d9682bd086633997.ckd",
+      "map_bkgImageUrl": "/public/map/AWholeNewWorld/pc/AWholeNewWorld_map_bkg.tga.ckd/2eb333388858ed8b75f12874daaeaddd.ckd",
+      "expandCoachImageUrl": "/public/map/AWholeNewWorld/pc/AWholeNewWorld_Cover_AlbumCoach.tga.ckd/6f947d3ea59376f9e245b9e8cd09d0a0.ckd",
+      "cover_smallImageUrl": "/public/map/AWholeNewWorld/pc/AWholeNewWorld_Cover_Online.tga.ckd/db82d95c849de58c828cde473a7153d6.ckd",
+      "coverImageUrl": "/public/map/AWholeNewWorld/pc/AWholeNewWorld_Cover_Generic.tga.ckd/8ccfa0364c4fd68852cfe006a6353255.ckd",
+      "coach1ImageUrl": "/public/map/AWholeNewWorld/pc/AWholeNewWorld_Coach_1.tga.ckd/d6d1c5642ceb00097881faf1401b9ff1.ckd",
+      "coach2ImageUrl": "/public/map/AWholeNewWorld/pc/AWholeNewWorld_Coach_2.tga.ckd/96a72931283da0a10fff8866ed0ceca3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AWholeNewWorld/orbis/AWholeNewWorld_banner_bkg.tga.ckd/dacb9ded0bf56d23d9682bd086633997.ckd",
+      "map_bkgImageUrl": "/public/map/AWholeNewWorld/orbis/AWholeNewWorld_map_bkg.tga.ckd/2eb333388858ed8b75f12874daaeaddd.ckd",
+      "expandCoachImageUrl": "/public/map/AWholeNewWorld/orbis/AWholeNewWorld_Cover_AlbumCoach.tga.ckd/6f947d3ea59376f9e245b9e8cd09d0a0.ckd",
+      "cover_smallImageUrl": "/public/map/AWholeNewWorld/orbis/AWholeNewWorld_Cover_Online.tga.ckd/db82d95c849de58c828cde473a7153d6.ckd",
+      "coverImageUrl": "/public/map/AWholeNewWorld/orbis/AWholeNewWorld_Cover_Generic.tga.ckd/8ccfa0364c4fd68852cfe006a6353255.ckd",
+      "coach1ImageUrl": "/public/map/AWholeNewWorld/orbis/AWholeNewWorld_Coach_1.tga.ckd/d6d1c5642ceb00097881faf1401b9ff1.ckd",
+      "coach2ImageUrl": "/public/map/AWholeNewWorld/orbis/AWholeNewWorld_Coach_2.tga.ckd/96a72931283da0a10fff8866ed0ceca3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AWholeNewWorld/AWholeNewWorld_Coach_1_Phone.png/f3322243582834fc4615877563c82b46.png",
+    "phoneCoach2ImageUrl": "/public/map/AWholeNewWorld/AWholeNewWorld_Coach_2_Phone.png/fca4324a676659b6e27c218d00500389.png",
+    "phoneCoverImageUrl": "/public/map/AWholeNewWorld/AWholeNewWorld_Cover_Phone.jpg/502f5765712507831f404abb592e970e.jpg",
+    "cover640ImageUrl": "/public/map/AWholeNewWorld/AWholeNewWorld_Cover_640.png/22aaa174519c380520af6efa9d5ee0b1.png"
+  },
+  "mapLength": 172.49425
+}

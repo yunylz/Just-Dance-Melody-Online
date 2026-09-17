@@ -1,0 +1,162 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "209c33160dc3bce0db9f0e04b29e768b",
+      "storageType": 0,
+      "url": "/public/map/Valenti/nx/Valenti_MAIN_SCENE_NX.zip/209c33160dc3bce0db9f0e04b29e768b.zip"
+    },
+    "pc": {
+      "md5": "fa140cf36ca49fa021f10a2b71e797f1",
+      "storageType": 0,
+      "url": "/public/map/Valenti/pc/Valenti_MAIN_SCENE_PC.zip/fa140cf36ca49fa021f10a2b71e797f1.zip"
+    },
+    "ps4": {
+      "md5": "6fedde668559578e2f5365fa4bf52729",
+      "storageType": 0,
+      "url": "/public/map/Valenti/orbis/Valenti_MAIN_SCENE_ORBIS.zip/6fedde668559578e2f5365fa4bf52729.zip"
+    }
+  },
+  "data": {
+    "mapName": "Valenti",
+    "title": "Valenti",
+    "originalJDVersion": 1000,
+    "tags": [
+      "main"
+    ],
+    "artist": "BoA",
+    "credits": "Empty Credits",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#feb500",
+    "songColor2A": "#fec800",
+    "songColor1B": "#333333",
+    "songColor2B": "#cd4f00",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31577,
+        63154,
+        94731,
+        126308,
+        157885,
+        189462,
+        221040,
+        248726,
+        276412,
+        304096,
+        331782,
+        359468,
+        387153,
+        414837,
+        442523,
+        470209,
+        497895,
+        525579,
+        553265,
+        580951,
+        608635,
+        636321,
+        664007,
+        691694,
+        719377,
+        747063,
+        774750,
+        802433,
+        830119,
+        857805,
+        885492,
+        913175,
+        940861,
+        968548,
+        996231,
+        1023917,
+        1051604,
+        1079290,
+        1106973,
+        1134660,
+        1162346,
+        1190032,
+        1217716,
+        1245402,
+        1273088,
+        1300772,
+        1328458,
+        1356144,
+        1383830,
+        1411514,
+        1439200,
+        1466886,
+        1494570
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 449,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Valenti/Valenti_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Valenti/nx/Valenti_banner_bkg.tga.ckd/85cb620adda7875742eac18dafec172a.ckd",
+      "map_bkgImageUrl": "/public/map/Valenti/nx/Valenti_map_bkg.tga.ckd/ea3ec003fc1dc41ae7a8ae934920e2dc.ckd",
+      "expandCoachImageUrl": "/public/map/Valenti/nx/Valenti_Cover_AlbumCoach.tga.ckd/6dedc49f4f819636f6116d79c0d35dd6.ckd",
+      "cover_smallImageUrl": "/public/map/Valenti/nx/Valenti_Cover_Online.tga.ckd/14c48f1d08f97db94ae89ad7392b7e6f.ckd",
+      "coach1ImageUrl": "/public/map/Valenti/nx/Valenti_Coach_1.tga.ckd/0620b188e87314a5e44682a1b21e8ad4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Valenti/pc/Valenti_banner_bkg.tga.ckd/0dea44f9c9b7974f408f2d042cb6466a.ckd",
+      "map_bkgImageUrl": "/public/map/Valenti/pc/Valenti_map_bkg.tga.ckd/c59c78f5fc799323c356811bd130b5cf.ckd",
+      "expandCoachImageUrl": "/public/map/Valenti/pc/Valenti_Cover_AlbumCoach.tga.ckd/d46dd9aea6111500ad2ee38631a509ca.ckd",
+      "cover_smallImageUrl": "/public/map/Valenti/pc/Valenti_Cover_Online.tga.ckd/05f3cd759c7b7e4276b17754c7eba748.ckd",
+      "coach1ImageUrl": "/public/map/Valenti/pc/Valenti_Coach_1.tga.ckd/cb5860e86472fb1bccdbd1700b59c402.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Valenti/orbis/Valenti_banner_bkg.tga.ckd/0dea44f9c9b7974f408f2d042cb6466a.ckd",
+      "map_bkgImageUrl": "/public/map/Valenti/orbis/Valenti_map_bkg.tga.ckd/c59c78f5fc799323c356811bd130b5cf.ckd",
+      "expandCoachImageUrl": "/public/map/Valenti/orbis/Valenti_Cover_AlbumCoach.tga.ckd/d46dd9aea6111500ad2ee38631a509ca.ckd",
+      "cover_smallImageUrl": "/public/map/Valenti/orbis/Valenti_Cover_Online.tga.ckd/05f3cd759c7b7e4276b17754c7eba748.ckd",
+      "coach1ImageUrl": "/public/map/Valenti/orbis/Valenti_Coach_1.tga.ckd/cb5860e86472fb1bccdbd1700b59c402.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Valenti/Valenti_Coach_1_Phone.png/6b7f516082d47746d02b4000a453a636.png",
+    "phoneCoverImageUrl": "/public/map/Valenti/Valenti_Cover_Phone.jpg/451458921fffb12aa9ccdb15f9be48ea.jpg"
+  },
+  "urls": {
+    "jmcs://jd-contents/Valenti/Valenti.ogg": "/private/map/Valenti/Valenti.ogg/7d6630943389ffa6faa6e5b466dd4fb6.ogg",
+    "jmcs://jd-contents/Valenti/Valenti_AudioPreview.ogg": "/public/map/Valenti/Valenti_AudioPreview.ogg/3089dda554044daad0a7883e293bf6da.ogg",
+    "jmcs://jd-contents/Valenti/Valenti_HIGH.webm": "/private/map/Valenti/Valenti_HIGH.webm/dd283100182693ac2d8943b30b40b0fe.webm",
+    "jmcs://jd-contents/Valenti/Valenti_LOW.webm": "/private/map/Valenti/Valenti_LOW.webm/be8d1bf33010445340a63627c6b5faab.webm",
+    "jmcs://jd-contents/Valenti/Valenti_MID.webm": "/private/map/Valenti/Valenti_MID.webm/366414a08bc8f575bbc71dd4d3a27a11.webm",
+    "jmcs://jd-contents/Valenti/Valenti_ULTRA.hd.webm": "/private/map/Valenti/Valenti_ULTRA.hd.webm/9656d1fb2e4b3d0e59465d374dd0b329.webm",
+    "jmcs://jd-contents/Valenti/Valenti_ULTRA.webm": "/private/map/Valenti/Valenti_ULTRA.webm/64eb2cdaaa889ce5bafcdaa3211b98c2.webm",
+    "jmcs://jd-contents/Valenti/Valenti_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Valenti/Valenti_MapPreviewNoSoundCrop_LOW.vp8.webm/395495cc23525fd85477101d1c02b2b3.webm",
+    "jmcs://jd-contents/Valenti/Valenti_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Valenti/Valenti_MapPreviewNoSoundCrop_MID.vp8.webm/76e29d08065cc0b5b4b8857fe4d93b77.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"502412\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Valenti/Valenti_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1497332\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Valenti/Valenti_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": {}
+}

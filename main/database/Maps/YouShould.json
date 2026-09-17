@@ -1,0 +1,171 @@
+{
+  "urls": {
+    "jmcs://jd-contents/YouShould/YouShould_AudioPreview.ogg": "/public/map/YouShould/YouShould_AudioPreview.ogg/aa7e103a774da5c84881695cfb23c0f8.ogg",
+    "jmcs://jd-contents/YouShould/YouShould.ogg": "/private/map/YouShould/YouShould.ogg/db60eea465e17c75c51c79dedb3862a9.ogg",
+    "jmcs://jd-contents/YouShould/YouShould_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/YouShould/YouShould_MapPreviewNoSoundCrop_LOW.vp8.webm/78da9d80fa4aa646001ae5985822e952.webm",
+    "jmcs://jd-contents/YouShould/YouShould_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/YouShould/YouShould_MapPreviewNoSoundCrop_MID.vp8.webm/1a27c6a9e79565498d3a46dcb274cb1f.webm",
+    "jmcs://jd-contents/YouShould/YouShould_ULTRA.hd.webm": "/private/map/YouShould/YouShould_ULTRA.hd.webm/5621d55850dcacc078eb4bcd3c4b055c.webm",
+    "jmcs://jd-contents/YouShould/YouShould_HIGH.hd.webm": "/private/map/YouShould/YouShould_HIGH.hd.webm/56904871b6efec3950e07b8b558e4438.webm",
+    "jmcs://jd-contents/YouShould/YouShould_MID.hd.webm": "/private/map/YouShould/YouShould_MID.hd.webm/2bce5f0fe4b81cf0e8f4a15ac023d4d7.webm",
+    "jmcs://jd-contents/YouShould/YouShould_LOW.hd.webm": "/private/map/YouShould/YouShould_LOW.hd.webm/8b9a7fb1ebbe5b8f8b655679b3762e98.webm",
+    "jmcs://jd-contents/YouShould/YouShould_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/YouShould/YouShould_MapPreviewNoSoundCrop_HIGH.vp8.webm/b05ccce0cec703a88ddc4b914f04d6db.webm",
+    "jmcs://jd-contents/YouShould/YouShould_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/YouShould/YouShould_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0da1b18d115b42bca5d68a0cb70f8a0f.webm"
+  },
+  "mapLength": 200.285171875,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        37714,
+        75429,
+        115029,
+        152743,
+        190457,
+        229091,
+        267726,
+        306360,
+        344994,
+        383628,
+        422262,
+        459099,
+        497733,
+        536368,
+        575002,
+        611839,
+        651439,
+        687439,
+        727039,
+        764753,
+        804353,
+        842068,
+        879782,
+        918416,
+        957050,
+        995684,
+        1034318,
+        1072033,
+        1109747,
+        1147461,
+        1186095,
+        1224730,
+        1263364,
+        1301078,
+        1338792,
+        1378392,
+        1417992
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -18,
+      "endBeat": 233,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 38,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/YouShould/YouShould_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"645381\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YouShould/YouShould_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"773-1263\">\n\t\t\t\t\t<Initialization range=\"0-773\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1474939\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YouShould/YouShould_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"773-1263\">\n\t\t\t\t\t<Initialization range=\"0-773\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2614350\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YouShould/YouShould_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"773-1263\">\n\t\t\t\t\t<Initialization range=\"0-773\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"2615623\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YouShould/YouShould_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"773-1263\">\n\t\t\t\t\t<Initialization range=\"0-773\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/YouShould/pc/YouShould_Cover_Online.tga.ckd/d4f3ccfa9648116f8a850bb69e10639d.ckd",
+      "coverImageUrl": "/public/map/YouShould/pc/YouShould_Cover_Generic.tga.ckd/8832031ca7d12425c9e461aba76e8e19.ckd",
+      "expandCoachImageUrl": "/public/map/YouShould/pc/YouShould_Cover_AlbumCoach.tga.ckd/c6ae5445565280c8a9b29ee2495317bd.ckd",
+      "map_bkgImageUrl": "/public/map/YouShould/pc/YouShould_map_bkg.tga.ckd/b67bb380814e6b8d6b6145eef8933c00.ckd",
+      "banner_bkgImageUrl": "/public/map/YouShould/pc/YouShould_banner_bkg.tga.ckd/9d3612c74ea06f03fe6a4900eba8a1b0.ckd",
+      "coach1ImageUrl": "/public/map/YouShould/pc/YouShould_Coach_1.tga.ckd/b18f20e855c0d2febdbeb7c9c52743bb.ckd",
+      "coach2ImageUrl": "/public/map/YouShould/pc/YouShould_Coach_2.tga.ckd/9c78426ed13de7d193a05d156569b028.ckd",
+      "phoneCoverImageUrl": "/public/map/YouShould/YouShould_Cover_Phone.jpg/d0b3fbe6511f41e2d8b8134bd7d49ade.jpg",
+      "phoneCoach1ImageUrl": "/public/map/YouShould/YouShould_Coach_1_Phone.png/d35514874e14f074162d4f7b12eabd9f.png",
+      "phoneCoach2ImageUrl": "/public/map/YouShould/YouShould_Coach_2_Phone.png/ae7fcd2f211d659f69ec736414fe47ba.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/YouShould/orbis/YouShould_Cover_Online.tga.ckd/d4f3ccfa9648116f8a850bb69e10639d.ckd",
+      "coverImageUrl": "/public/map/YouShould/orbis/YouShould_Cover_Generic.tga.ckd/8832031ca7d12425c9e461aba76e8e19.ckd",
+      "expandCoachImageUrl": "/public/map/YouShould/orbis/YouShould_Cover_AlbumCoach.tga.ckd/c6ae5445565280c8a9b29ee2495317bd.ckd",
+      "map_bkgImageUrl": "/public/map/YouShould/orbis/YouShould_map_bkg.tga.ckd/b67bb380814e6b8d6b6145eef8933c00.ckd",
+      "banner_bkgImageUrl": "/public/map/YouShould/orbis/YouShould_banner_bkg.tga.ckd/9d3612c74ea06f03fe6a4900eba8a1b0.ckd",
+      "coach1ImageUrl": "/public/map/YouShould/orbis/YouShould_Coach_1.tga.ckd/b18f20e855c0d2febdbeb7c9c52743bb.ckd",
+      "coach2ImageUrl": "/public/map/YouShould/orbis/YouShould_Coach_2.tga.ckd/9c78426ed13de7d193a05d156569b028.ckd",
+      "phoneCoverImageUrl": "/public/map/YouShould/YouShould_Cover_Phone.jpg/d0b3fbe6511f41e2d8b8134bd7d49ade.jpg",
+      "phoneCoach1ImageUrl": "/public/map/YouShould/YouShould_Coach_1_Phone.png/d35514874e14f074162d4f7b12eabd9f.png",
+      "phoneCoach2ImageUrl": "/public/map/YouShould/YouShould_Coach_2_Phone.png/ae7fcd2f211d659f69ec736414fe47ba.png"
+    },
+    "wiiu": {
+      "cover_smallImageUrl": "/public/map/YouShould/wiiu/YouShould_Cover_Online.tga.ckd/543456707d0732e8d84b9dfd66a41a35.ckd",
+      "coverImageUrl": "/public/map/YouShould/wiiu/YouShould_Cover_Generic.tga.ckd/8b615f2505176e1f0ab6450b556f25c8.ckd",
+      "expandCoachImageUrl": "/public/map/YouShould/wiiu/YouShould_Cover_AlbumCoach.tga.ckd/a8744f28620ab8d47d0bedce906e1af1.ckd",
+      "map_bkgImageUrl": "/public/map/YouShould/wiiu/YouShould_map_bkg.tga.ckd/bb5abf67320a7492d44edee0b2f2ba9c.ckd",
+      "banner_bkgImageUrl": "/public/map/YouShould/wiiu/YouShould_banner_bkg.tga.ckd/b6a71d273062f48f7f91dddc1f73ecaf.ckd",
+      "coach1ImageUrl": "/public/map/YouShould/wiiu/YouShould_Coach_1.tga.ckd/f7b49517892c346bef67b2f15913b854.ckd",
+      "coach2ImageUrl": "/public/map/YouShould/wiiu/YouShould_Coach_2.tga.ckd/5993bcb4ca135e8b739f08b3177abe45.ckd",
+      "phoneCoverImageUrl": "/public/map/YouShould/YouShould_Cover_Phone.jpg/d0b3fbe6511f41e2d8b8134bd7d49ade.jpg",
+      "phoneCoach1ImageUrl": "/public/map/YouShould/YouShould_Coach_1_Phone.png/d35514874e14f074162d4f7b12eabd9f.png",
+      "phoneCoach2ImageUrl": "/public/map/YouShould/YouShould_Coach_2_Phone.png/ae7fcd2f211d659f69ec736414fe47ba.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/YouShould/nx/YouShould_Cover_Online.tga.ckd/7fd431b780d968a3bb0a9485f7ba7b56.ckd",
+      "coverImageUrl": "/public/map/YouShould/nx/YouShould_Cover_Generic.tga.ckd/899cf7190f041adbcb22d346247f77f0.ckd",
+      "expandCoachImageUrl": "/public/map/YouShould/nx/YouShould_Cover_AlbumCoach.tga.ckd/16ab62a3dbd6fe5e87a104813dd6b5a9.ckd",
+      "map_bkgImageUrl": "/public/map/YouShould/nx/YouShould_map_bkg.tga.ckd/0ac9f43ab1e25220aaf2bde5c833b3f4.ckd",
+      "banner_bkgImageUrl": "/public/map/YouShould/nx/YouShould_banner_bkg.tga.ckd/93dd82dc229eb951718332e0d5a1de8f.ckd",
+      "coach1ImageUrl": "/public/map/YouShould/nx/YouShould_Coach_1.tga.ckd/76f44dca2e7ca239c73608cbf7f2f660.ckd",
+      "coach2ImageUrl": "/public/map/YouShould/nx/YouShould_Coach_2.tga.ckd/144efb34a90d3d53f9ecbac28cb21fb1.ckd",
+      "phoneCoverImageUrl": "/public/map/YouShould/YouShould_Cover_Phone.jpg/d0b3fbe6511f41e2d8b8134bd7d49ade.jpg",
+      "phoneCoach1ImageUrl": "/public/map/YouShould/YouShould_Coach_1_Phone.png/d35514874e14f074162d4f7b12eabd9f.png",
+      "phoneCoach2ImageUrl": "/public/map/YouShould/YouShould_Coach_2_Phone.png/ae7fcd2f211d659f69ec736414fe47ba.png"
+    },
+    "cover640ImageUrl": "/public/map/YouShould/YouShould_Cover_640.png/b04676b4ea2897c8101888321579d8ba.png"
+  },
+  "packages": {
+    "pc": {
+      "md5": "d2ecaff82756a6f95831d2810b608718",
+      "storageType": 0,
+      "url": "/public/map/YouShould/pc/YouShould_MAIN_SCENE_PC.zip/d2ecaff82756a6f95831d2810b608718.zip"
+    },
+    "ps4": {
+      "md5": "cb934852d535e30bd2ccf0567aa628a7",
+      "storageType": 0,
+      "url": "/public/map/YouShould/orbis/YouShould_MAIN_SCENE_ORBIS.zip/cb934852d535e30bd2ccf0567aa628a7.zip"
+    },
+    "wiiu": {
+      "md5": "5f5f9a196ec61945247b1100b5b5b431",
+      "storageType": 0,
+      "url": "/public/map/YouShould/wiiu/YouShould_MAIN_SCENE_WIIU.zip/5f5f9a196ec61945247b1100b5b5b431.zip"
+    },
+    "nx": {
+      "md5": "57d9ac90776e10e4e595bc6e2a53cdf0",
+      "storageType": 0,
+      "url": "/public/map/YouShould/nx/YouShould_MAIN_SCENE_NX.zip/57d9ac90776e10e4e595bc6e2a53cdf0.zip"
+    }
+  },
+  "data": {
+    "mapName": "YouShould",
+    "title": "you should see me in a crown",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Billie Eilish",
+    "credits": "Written by Billie Eilish O'Connell, Finneas O'Connell, Benoit Louis Andre Roger Bardou. Published by Last Frontier. Admin by Kobalt Songs Music Publishing / Universal Music Publishing Canada on behalf of DRUP and Universal Music Corp. / BMG Platinum Songs US obo CreativesRow, Edition. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#DC21A7",
+    "songColor2A": "#3846F7",
+    "songColor1B": "#210349",
+    "songColor2B": "#3B0667",
+    "lyricsColor": "#0CD2FA",
+    "LocaleID": 4294967295
+  }
+}

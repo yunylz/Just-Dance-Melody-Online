@@ -1,0 +1,176 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WorldEater/WorldEater.ogg": "/private/map/WorldEater/WorldEater.ogg/7eae3840b6449f3f39d32aabd20384cd.ogg",
+    "jmcs://jd-contents/WorldEater/WorldEater_AudioPreview.ogg": "/public/map/WorldEater/WorldEater_AudioPreview.ogg/094e9d20d458959574a54e0f532c7a2e.ogg",
+    "jmcs://jd-contents/WorldEater/WorldEater_HIGH.webm": "/private/map/WorldEater/WorldEater_HIGH.webm/ebe25defe19f5099d83ed5cec3f8dbab.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_LOW.webm": "/private/map/WorldEater/WorldEater_LOW.webm/55a1f85b6cd6889a619fae3ccceb4e8d.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_MID.webm": "/private/map/WorldEater/WorldEater_MID.webm/10734f7e37c5247c3f90f086d6754433.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_ULTRA.webm": "/private/map/WorldEater/WorldEater_ULTRA.webm/d549bdb67e04f04a942790aadf979cb1.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WorldEater/WorldEater_MapPreviewNoSoundCrop_LOW.vp8.webm/57bfc5fb88c339d2d8bdc0fa2f2ee242.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WorldEater/WorldEater_MapPreviewNoSoundCrop_MID.vp8.webm/9b8fe183d03dd38ca7d4d38e9f5f61f0.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/WorldEater/WorldEater_MapPreviewNoSoundCrop_HIGH.vp8.webm/51c431c9858e5639219640a1584ad243.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/WorldEater/WorldEater_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c6333afa644acef585b1d79816bae68a.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_ULTRA.hd.webm": "/private/map/WorldEater/WorldEater_ULTRA.hd.webm/bd4c41fecf12d0c523004508156b5221.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_HIGH.hd.webm": "/private/map/WorldEater/WorldEater_HIGH.hd.webm/cd940ce0feaadedcaa27d441623f8c5d.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_MID.hd.webm": "/private/map/WorldEater/WorldEater_MID.hd.webm/560dddfc1a5b7ce892e700b489f8d73f.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_LOW.hd.webm": "/private/map/WorldEater/WorldEater_LOW.hd.webm/446ada06ef3509d43712f0825de8ef38.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32727,
+        65454,
+        98182,
+        130909,
+        163636,
+        196363,
+        229091,
+        261818,
+        294545,
+        327272,
+        360000,
+        392727,
+        425454,
+        458182,
+        490909,
+        523636,
+        556363,
+        589091,
+        621818,
+        654545,
+        687272,
+        720000,
+        752727,
+        785454,
+        818182,
+        850909,
+        883636,
+        916363,
+        949091,
+        981818,
+        1014545,
+        1047272,
+        1080000,
+        1112727,
+        1145454,
+        1178182,
+        1210909,
+        1243636,
+        1276363,
+        1309091,
+        1341818,
+        1374545,
+        1407272,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 217,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 45,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WorldEater/WorldEater_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"645114\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WorldEater/WorldEater_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"771-1261\">\n\t\t\t\t\t<Initialization range=\"0-771\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484821\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WorldEater/WorldEater_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"771-1261\">\n\t\t\t\t\t<Initialization range=\"0-771\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2951843\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WorldEater/WorldEater_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"771-1261\">\n\t\t\t\t\t<Initialization range=\"0-771\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"5817760\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WorldEater/WorldEater_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"771-1268\">\n\t\t\t\t\t<Initialization range=\"0-771\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "688054b9c1590b59ecd2fef922baf499",
+      "storageType": 0,
+      "url": "/public/map/WorldEater/nx/WorldEater_MAIN_SCENE_NX.zip/688054b9c1590b59ecd2fef922baf499.zip"
+    },
+    "pc": {
+      "md5": "d2756490c8c2d9a590dd51cccd8ee95e",
+      "storageType": 0,
+      "url": "/public/map/WorldEater/pc/WorldEater_MAIN_SCENE_PC.zip/d2756490c8c2d9a590dd51cccd8ee95e.zip"
+    },
+    "ps4": {
+      "md5": "0b026f587ef62f5c417baf38033920d2",
+      "storageType": 0,
+      "url": "/public/map/WorldEater/orbis/WorldEater_MAIN_SCENE_ORBIS.zip/0b026f587ef62f5c417baf38033920d2.zip"
+    }
+  },
+  "data": {
+    "mapName": "WorldEater",
+    "title": "World Eater",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Ashnikko",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF9036",
+    "LocaleID": 4294967295,
+    "LocaleId": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "cover_smallImageUrl": "/public/map/WorldEater/nx/WorldEater_Cover_Online.tga.ckd/736156357dc361b3edb47994a6bccae1.ckd",
+      "coverImageUrl": "/public/map/WorldEater/nx/WorldEater_Cover_Generic.tga.ckd/736156357dc361b3edb47994a6bccae1.ckd",
+      "expandCoachImageUrl": "/public/map/WorldEater/nx/WorldEater_Cover_AlbumCoach.tga.ckd/cdd7b5e87f97d698c421aef043d12a6a.ckd",
+      "map_bkgImageUrl": "/public/map/WorldEater/nx/WorldEater_map_bkg.tga.ckd/a097eaaf652e1765403afa45693bffea.ckd",
+      "banner_bkgImageUrl": "/public/map/WorldEater/nx/WorldEater_banner_bkg.tga.ckd/fde2403c9aaed6d68a5eaba38ef20fe1.ckd",
+      "coach1ImageUrl": "/public/map/WorldEater/nx/WorldEater_Coach_1.tga.ckd/7a62a88812b296d12ae44b7e3971a2a5.ckd",
+      "coach2ImageUrl": "/public/map/WorldEater/nx/WorldEater_Coach_2.tga.ckd/8368e7f0cbd1796fe980623b37a53279.ckd",
+      "coach3ImageUrl": "/public/map/WorldEater/nx/WorldEater_Coach_3.tga.ckd/a9ebe8bf289ccdc660f39fefadc28f39.ckd",
+      "phoneCoverImageUrl": "/public/map/WorldEater/WorldEater_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WorldEater/WorldEater_Coach_1_Phone.png/b9a6d376e9154d80aa6397be5da47115.png",
+      "phoneCoach2ImageUrl": "/public/map/WorldEater/WorldEater_Coach_2_Phone.png/47bb5a0bbd4e708fad564fe7717c13e2.png",
+      "phoneCoach3ImageUrl": "/public/map/WorldEater/WorldEater_Coach_3_Phone.png/f7b946c3c257290ef87377fa4c6e4d2e.png",
+      "cover640ImageUrl": "/public/map/WorldEater/WorldEater_Cover_640.png/fb4391c7cf98cb71a7d67416c3a8d8ca.png"
+    },
+    "pc": {
+      "cover_smallImageUrl": "/public/map/WorldEater/pc/WorldEater_Cover_Online.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "coverImageUrl": "/public/map/WorldEater/pc/WorldEater_Cover_Generic.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "expandCoachImageUrl": "/public/map/WorldEater/pc/WorldEater_Cover_AlbumCoach.tga.ckd/d61d0853e4735fa22c4335d211c92153.ckd",
+      "map_bkgImageUrl": "/public/map/WorldEater/pc/WorldEater_map_bkg.tga.ckd/0c951b935acef889e465fa15cd978f20.ckd",
+      "banner_bkgImageUrl": "/public/map/WorldEater/pc/WorldEater_banner_bkg.tga.ckd/47b143f7dbd0862e2caa5cd3c5f53313.ckd",
+      "coach1ImageUrl": "/public/map/WorldEater/pc/WorldEater_Coach_1.tga.ckd/ca9fd350ed7ff480ad1b88da36c2cb0c.ckd",
+      "coach2ImageUrl": "/public/map/WorldEater/pc/WorldEater_Coach_2.tga.ckd/83595dc997685eb439d882917760634f.ckd",
+      "coach3ImageUrl": "/public/map/WorldEater/pc/WorldEater_Coach_3.tga.ckd/8ab5b1f6197b90997921bc1d51b72efe.ckd",
+      "phoneCoverImageUrl": "/public/map/WorldEater/WorldEater_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WorldEater/WorldEater_Coach_1_Phone.png/b9a6d376e9154d80aa6397be5da47115.png",
+      "phoneCoach2ImageUrl": "/public/map/WorldEater/WorldEater_Coach_2_Phone.png/47bb5a0bbd4e708fad564fe7717c13e2.png",
+      "phoneCoach3ImageUrl": "/public/map/WorldEater/WorldEater_Coach_3_Phone.png/f7b946c3c257290ef87377fa4c6e4d2e.png",
+      "cover640ImageUrl": "/public/map/WorldEater/WorldEater_Cover_640.png/fb4391c7cf98cb71a7d67416c3a8d8ca.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/WorldEater/orbis/WorldEater_Cover_Online.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "coverImageUrl": "/public/map/WorldEater/orbis/WorldEater_Cover_Generic.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "expandCoachImageUrl": "/public/map/WorldEater/orbis/WorldEater_Cover_AlbumCoach.tga.ckd/d61d0853e4735fa22c4335d211c92153.ckd",
+      "map_bkgImageUrl": "/public/map/WorldEater/orbis/WorldEater_map_bkg.tga.ckd/0c951b935acef889e465fa15cd978f20.ckd",
+      "banner_bkgImageUrl": "/public/map/WorldEater/orbis/WorldEater_banner_bkg.tga.ckd/47b143f7dbd0862e2caa5cd3c5f53313.ckd",
+      "coach1ImageUrl": "/public/map/WorldEater/orbis/WorldEater_Coach_1.tga.ckd/ca9fd350ed7ff480ad1b88da36c2cb0c.ckd",
+      "coach2ImageUrl": "/public/map/WorldEater/orbis/WorldEater_Coach_2.tga.ckd/83595dc997685eb439d882917760634f.ckd",
+      "coach3ImageUrl": "/public/map/WorldEater/orbis/WorldEater_Coach_3.tga.ckd/8ab5b1f6197b90997921bc1d51b72efe.ckd",
+      "phoneCoverImageUrl": "/public/map/WorldEater/WorldEater_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/WorldEater/WorldEater_Coach_1_Phone.png/b9a6d376e9154d80aa6397be5da47115.png",
+      "phoneCoach2ImageUrl": "/public/map/WorldEater/WorldEater_Coach_2_Phone.png/47bb5a0bbd4e708fad564fe7717c13e2.png",
+      "phoneCoach3ImageUrl": "/public/map/WorldEater/WorldEater_Coach_3_Phone.png/f7b946c3c257290ef87377fa4c6e4d2e.png",
+      "cover640ImageUrl": "/public/map/WorldEater/WorldEater_Cover_640.png/fb4391c7cf98cb71a7d67416c3a8d8ca.png"
+    },
+    "cover640ImageUrl": "/public/map/WorldEater/WorldEater_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 154.09088020833335
+}

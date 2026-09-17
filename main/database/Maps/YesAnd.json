@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "a560c2809f233f5740b98d91136038a5",
+      "storageType": 0,
+      "url": "/public/map/YesAnd/nx/YesAnd_MAIN_SCENE_NX.zip/a560c2809f233f5740b98d91136038a5.zip"
+    },
+    "pc": {
+      "md5": "82ca9f22939ac8af587a6bd8cc922c86",
+      "storageType": 0,
+      "url": "/public/map/YesAnd/pc/YesAnd_MAIN_SCENE_PC.zip/82ca9f22939ac8af587a6bd8cc922c86.zip"
+    },
+    "ps4": {
+      "md5": "5e70af2d2419a66e97c5a684bccc66f9",
+      "storageType": 0,
+      "url": "/public/map/YesAnd/orbis/YesAnd_MAIN_SCENE_ORBIS.zip/5e70af2d2419a66e97c5a684bccc66f9.zip"
+    }
+  },
+  "data": {
+    "mapName": "YesAnd",
+    "title": "yes, and?",
+    "originalJDVersion": 2025,
+    "tags": [
+      "subscribedSong",
+      "Trio",
+      "Easy"
+    ],
+    "artist": "Ariana Grande",
+    "credits": "Written by Ariana Grande, Max Martin, Ilya Salmanzadeh. Published by Universal Music Publishing Canada on behalf of Universal Tunes / MXM. Administered by Kobalt Songs Music Publishing / Songs of Wolf Cousins. All rights on behalf of Songs of Wolf Cousins, administered by WC Music Corp. Courtesy of Republic Records under license from Universal Music Canada Inc.",
+    "coachCount": 3,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#b8d1fc",
+    "songColor2A": "#cfb7ee",
+    "songColor1B": "#5244bd",
+    "songColor2B": "#7985d7",
+    "lyricsColor": "#cc104c"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24202,
+        48403,
+        72605,
+        96807,
+        121008,
+        145210,
+        169412,
+        193613,
+        217815,
+        242017,
+        266218,
+        290420,
+        314622,
+        338824,
+        363025,
+        387227,
+        411429,
+        435630,
+        459832,
+        484034,
+        508235,
+        532437,
+        556639,
+        580840,
+        605042,
+        629244,
+        653445,
+        677647,
+        701849,
+        726050,
+        750252,
+        774454,
+        798655,
+        822857,
+        847059,
+        871261,
+        895462,
+        919664,
+        943866,
+        968067,
+        992269,
+        1016471,
+        1040672,
+        1064874,
+        1089076,
+        1113277,
+        1137479,
+        1161681,
+        1185882,
+        1210084,
+        1234286,
+        1258487,
+        1282689,
+        1306891,
+        1331092,
+        1355294,
+        1379496,
+        1403697,
+        1427899,
+        1452101,
+        1476303
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -13,
+      "endBeat": 393,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/YesAnd/YesAnd_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/YesAnd/nx/YesAnd_banner_bkg.tga.ckd/87d0f1ebb7f916382bcc8b8986a498bd.ckd",
+      "map_bkgImageUrl": "/public/map/YesAnd/nx/YesAnd_map_bkg.tga.ckd/41c073f98ff68937169d85e0990697cf.ckd",
+      "expandCoachImageUrl": "/public/map/YesAnd/nx/YesAnd_Cover_AlbumCoach.tga.ckd/4aab4d68e080e5eba45ed7855fb6fbf2.ckd",
+      "cover_smallImageUrl": "/public/map/YesAnd/nx/YesAnd_Cover_Online.tga.ckd/67ca779b0c067e58b30085e3763f3e57.ckd",
+      "coach1ImageUrl": "/public/map/YesAnd/nx/YesAnd_Coach_1.tga.ckd/8560f8528f98827e565fe921a032508f.ckd",
+      "coach2ImageUrl": "/public/map/YesAnd/nx/YesAnd_Coach_2.tga.ckd/014ab816511e2a3611b7fd81c4b89f09.ckd",
+      "coach3ImageUrl": "/public/map/YesAnd/nx/YesAnd_Coach_3.tga.ckd/0d32584ad1d41a4329500487c6ba52de.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/YesAnd/pc/YesAnd_banner_bkg.tga.ckd/13b9ba068ab76c6083ba2380208fbe64.ckd",
+      "map_bkgImageUrl": "/public/map/YesAnd/pc/YesAnd_map_bkg.tga.ckd/c39e4568b525a83c4a9dffcff242e356.ckd",
+      "expandCoachImageUrl": "/public/map/YesAnd/pc/YesAnd_Cover_AlbumCoach.tga.ckd/8804facdbff0760a2db9505d7f8eac70.ckd",
+      "cover_smallImageUrl": "/public/map/YesAnd/pc/YesAnd_Cover_Online.tga.ckd/dd53203ec5310e0d8c29c47d9e13e2d7.ckd",
+      "coach1ImageUrl": "/public/map/YesAnd/pc/YesAnd_Coach_1.tga.ckd/43d2dbf5d611c2f8c5e92ebe7e087a25.ckd",
+      "coach2ImageUrl": "/public/map/YesAnd/pc/YesAnd_Coach_2.tga.ckd/23883b4b7df7d6e674f1d5e06e41b1ad.ckd",
+      "coach3ImageUrl": "/public/map/YesAnd/pc/YesAnd_Coach_3.tga.ckd/7a3247d08b7231f4324f0de64173c4fd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/YesAnd/orbis/YesAnd_banner_bkg.tga.ckd/13b9ba068ab76c6083ba2380208fbe64.ckd",
+      "map_bkgImageUrl": "/public/map/YesAnd/orbis/YesAnd_map_bkg.tga.ckd/c39e4568b525a83c4a9dffcff242e356.ckd",
+      "expandCoachImageUrl": "/public/map/YesAnd/orbis/YesAnd_Cover_AlbumCoach.tga.ckd/8804facdbff0760a2db9505d7f8eac70.ckd",
+      "cover_smallImageUrl": "/public/map/YesAnd/orbis/YesAnd_Cover_Online.tga.ckd/dd53203ec5310e0d8c29c47d9e13e2d7.ckd",
+      "coach1ImageUrl": "/public/map/YesAnd/orbis/YesAnd_Coach_1.tga.ckd/43d2dbf5d611c2f8c5e92ebe7e087a25.ckd",
+      "coach2ImageUrl": "/public/map/YesAnd/orbis/YesAnd_Coach_2.tga.ckd/23883b4b7df7d6e674f1d5e06e41b1ad.ckd",
+      "coach3ImageUrl": "/public/map/YesAnd/orbis/YesAnd_Coach_3.tga.ckd/7a3247d08b7231f4324f0de64173c4fd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/YesAnd/YesAnd_Coach_1_Phone.png/ddf2a0926a6bdd7c11c800ca54911b82.png",
+    "phoneCoach2ImageUrl": "/public/map/YesAnd/YesAnd_Coach_2_Phone.png/c4e92c56290fad95b3f4336614855cce.png",
+    "phoneCoach3ImageUrl": "/public/map/YesAnd/YesAnd_Coach_3_Phone.png/27bdd7986f7d497037d3d49353b8b2cf.png",
+    "phoneCoverImageUrl": "/public/map/YesAnd/YesAnd_Cover_Phone.jpg/7b9bf4576598eb39282262d2ab67cc5a.jpg",
+    "cover640ImageUrl": "/public/map/YesAnd/YesAnd_Cover_640.png/d915dd04240c0a5085568fb92aff3922.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/YesAnd/YesAnd.ogg": "/private/map/YesAnd/YesAnd.ogg/58415917ccf8658c8eec6ce877c8c7e1.ogg",
+    "jmcs://jd-contents/YesAnd/YesAnd_AudioPreview.ogg": "/public/map/YesAnd/YesAnd_AudioPreview.ogg/fa2e9ef204dca22b50a0b161c846dfa5.ogg",
+    "jmcs://jd-contents/YesAnd/YesAnd_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/YesAnd/YesAnd_MapPreviewNoSoundCrop_LOW.vp8.webm/76baca34e6b07d35f4b20917c67eb304.webm",
+    "jmcs://jd-contents/YesAnd/YesAnd_HIGH.webm": "/private/map/YesAnd/YesAnd_HIGH.webm/586c114f520e05fd8f7758c11c12d37b.webm",
+    "jmcs://jd-contents/YesAnd/YesAnd_LOW.webm": "/private/map/YesAnd/YesAnd_LOW.webm/5c6a1967df97bccc5eb109bee4f41b36.webm",
+    "jmcs://jd-contents/YesAnd/YesAnd_MID.webm": "/private/map/YesAnd/YesAnd_MID.webm/2507832bdf184b339c78a7c05aac1bab.webm",
+    "jmcs://jd-contents/YesAnd/YesAnd_ULTRA.hd.webm": "/private/map/YesAnd/YesAnd_ULTRA.hd.webm/2b418086f8d2ae4d83e54aba470b3d15.webm",
+    "jmcs://jd-contents/YesAnd/YesAnd_ULTRA.webm": "/private/map/YesAnd/YesAnd_ULTRA.webm/3f14a7d09fc873a51ba3bb7d4c4a4b2d.webm",
+    "jmcs://jd-contents/YesAnd/YesAnd_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/YesAnd/YesAnd_MapPreviewNoSoundCrop_MID.vp8.webm/270639df1494c854dd521771c590bb6d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"503873\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YesAnd/YesAnd_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"625-1115\">\n\t\t\t\t\t<Initialization range=\"0-625\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482147\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YesAnd/YesAnd_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"626-1116\">\n\t\t\t\t\t<Initialization range=\"0-626\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 204.712396
+}

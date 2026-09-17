@@ -1,0 +1,171 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9b5e1ee2c3e4e5872d3b30f8cded1049",
+      "storageType": 0,
+      "url": "/public/map/SaySo/nx/SaySo_MAIN_SCENE_NX.zip/9b5e1ee2c3e4e5872d3b30f8cded1049.zip"
+    },
+    "pc": {
+      "md5": "c7a344da1492a8427296417767e64272",
+      "storageType": 0,
+      "url": "/public/map/SaySo/pc/SaySo_MAIN_SCENE_PC.zip/c7a344da1492a8427296417767e64272.zip"
+    },
+    "ps4": {
+      "md5": "730ac90550f50868c0982515b26fa7f3",
+      "storageType": 0,
+      "url": "/public/map/SaySo/orbis/SaySo_MAIN_SCENE_ORBIS.zip/730ac90550f50868c0982515b26fa7f3.zip"
+    }
+  },
+  "data": {
+    "mapName": "SaySo",
+    "title": "Say So",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "Doja Cat",
+    "credits": "Written by Amala Ratna Dlamini, Lydia Asrat and Lukasz Gottwald. Published by Where Da Kasz At [BMI] / Kasz Money Publishing [ASCAP] / Doja Cat Music (BMI). Administered by Kobalt Music Publishing America, Inc. / Desta Melodies, Llc (BMI), Propelr Publishing (BMI) and Warner-Tamerlane Publishing Corp. (BMI). All rights on behalf of itself and Desta Melodies, Llc and Propelr Publishing administered by Warner-Tamerlane Publishing Corp. Courtesy of Kemosabe Records/RCA Records. By Arrangement of Sony Music Entertainment.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00b2d2",
+    "songColor2A": "#ff2bf3",
+    "songColor1B": "#001654",
+    "songColor2B": "#6f26dd",
+    "lyricsColor": "#ffea00",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25946,
+        51892,
+        77838,
+        103784,
+        129730,
+        155676,
+        181622,
+        207568,
+        233514,
+        259459,
+        285405,
+        311351,
+        337297,
+        363243,
+        389189,
+        415135,
+        441081,
+        467027,
+        492973,
+        518919,
+        544865,
+        570811,
+        596757,
+        622703,
+        648649,
+        674595,
+        700541,
+        726486,
+        752432,
+        778378,
+        804324,
+        830270,
+        856216,
+        882162,
+        908108,
+        934054,
+        960000,
+        985946,
+        1011892,
+        1037838,
+        1063784,
+        1089730,
+        1115676,
+        1141622,
+        1167568,
+        1193514,
+        1219459,
+        1245405,
+        1271351,
+        1297297,
+        1323243,
+        1349189,
+        1375135,
+        1401081,
+        1427027,
+        1452973,
+        1478919
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 371,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SaySo/SaySo_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SaySo/nx/SaySo_banner_bkg.tga.ckd/48c5dd9d04b1b172ce63c5132a6466f6.ckd",
+      "map_bkgImageUrl": "/public/map/SaySo/nx/SaySo_map_bkg.tga.ckd/51e940daf7798e1b768b22d901093bf7.ckd",
+      "expandCoachImageUrl": "/public/map/SaySo/nx/SaySo_Cover_AlbumCoach.tga.ckd/bcae0ae7d48eb226709fb10306b66f9f.ckd",
+      "cover_smallImageUrl": "/public/map/SaySo/nx/SaySo_Cover_Online.tga.ckd/593c37c03aa563d80802b1ba8a885485.ckd",
+      "coach1ImageUrl": "/public/map/SaySo/nx/SaySo_Coach_1.tga.ckd/cbac33519e1ac8414eb0b7a2760e17e4.ckd",
+      "coach2ImageUrl": "/public/map/SaySo/nx/SaySo_Coach_2.tga.ckd/de64ccd7e4f351c636be620644b6db67.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SaySo/pc/SaySo_banner_bkg.tga.ckd/2d6e9b4a0e5186ae8d66430ae56fb675.ckd",
+      "map_bkgImageUrl": "/public/map/SaySo/pc/SaySo_map_bkg.tga.ckd/aa3fe9d7a2007dcfc1139389ece7562c.ckd",
+      "expandCoachImageUrl": "/public/map/SaySo/pc/SaySo_Cover_AlbumCoach.tga.ckd/98d3c55cf296eb7ceef0a84e97851880.ckd",
+      "cover_smallImageUrl": "/public/map/SaySo/pc/SaySo_Cover_Online.tga.ckd/1c505878c7d2f5c5c65dd4912d602e7f.ckd",
+      "coach1ImageUrl": "/public/map/SaySo/pc/SaySo_Coach_1.tga.ckd/d99737b01d17e6cfd26c1eb87b16015a.ckd",
+      "coach2ImageUrl": "/public/map/SaySo/pc/SaySo_Coach_2.tga.ckd/b3c3160ab38f0e7a0eb30894915749bf.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SaySo/orbis/SaySo_banner_bkg.tga.ckd/2d6e9b4a0e5186ae8d66430ae56fb675.ckd",
+      "map_bkgImageUrl": "/public/map/SaySo/orbis/SaySo_map_bkg.tga.ckd/aa3fe9d7a2007dcfc1139389ece7562c.ckd",
+      "expandCoachImageUrl": "/public/map/SaySo/orbis/SaySo_Cover_AlbumCoach.tga.ckd/98d3c55cf296eb7ceef0a84e97851880.ckd",
+      "cover_smallImageUrl": "/public/map/SaySo/orbis/SaySo_Cover_Online.tga.ckd/1c505878c7d2f5c5c65dd4912d602e7f.ckd",
+      "coach1ImageUrl": "/public/map/SaySo/orbis/SaySo_Coach_1.tga.ckd/d99737b01d17e6cfd26c1eb87b16015a.ckd",
+      "coach2ImageUrl": "/public/map/SaySo/orbis/SaySo_Coach_2.tga.ckd/b3c3160ab38f0e7a0eb30894915749bf.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SaySo/SaySo_Coach_1_Phone.png/2b1dd155faa5dcbb59c9cfd2e44ab8c5.png",
+    "phoneCoach2ImageUrl": "/public/map/SaySo/SaySo_Coach_2_Phone.png/2e6cd260989e95072db424b1be422053.png",
+    "phoneCoverImageUrl": "/public/map/SaySo/SaySo_Cover_Phone.jpg/e5c4ecb1143cbbb31bfd070dd3f5fb46.jpg",
+    "cover640ImageUrl": "/public/map/SaySo/SaySo_Cover_640.png/2be687dd9256238f62eee289218c9434.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SaySo/SaySo.ogg": "/private/map/SaySo/SaySo.ogg/3a14d664d2ae016e9e39344998d08760.ogg",
+    "jmcs://jd-contents/SaySo/SaySo_AudioPreview.ogg": "/public/map/SaySo/SaySo_AudioPreview.ogg/68165db9387ba37151bc612c905e989c.ogg",
+    "jmcs://jd-contents/SaySo/SaySo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SaySo/SaySo_MapPreviewNoSoundCrop_LOW.vp8.webm/bc56fa8342ef9530656f9d954d23b3a2.webm",
+    "jmcs://jd-contents/SaySo/SaySo_HIGH.webm": "/private/map/SaySo/SaySo_HIGH.webm/1e0504ac1865e764c7d2dbf1417de5a2.webm",
+    "jmcs://jd-contents/SaySo/SaySo_LOW.webm": "/private/map/SaySo/SaySo_LOW.webm/e9695e08749c82aead23019c26681010.webm",
+    "jmcs://jd-contents/SaySo/SaySo_MID.webm": "/private/map/SaySo/SaySo_MID.webm/e776094c414669fb64cf5d585acd7d65.webm",
+    "jmcs://jd-contents/SaySo/SaySo_ULTRA.hd.webm": "/private/map/SaySo/SaySo_ULTRA.hd.webm/d6ba6043d08e4fc5ff6ef4977490aa88.webm",
+    "jmcs://jd-contents/SaySo/SaySo_ULTRA.webm": "/private/map/SaySo/SaySo_ULTRA.webm/6669404971d5a17a3fdb3fe9096537f3.webm",
+    "jmcs://jd-contents/SaySo/SaySo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SaySo/SaySo_MapPreviewNoSoundCrop_MID.vp8.webm/faaaae8288efc4796a1e1853f448cd46.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497339\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SaySo/SaySo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\n\t\t\t\t\t<Initialization range=\"0-598\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1469363\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SaySo/SaySo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\n\t\t\t\t\t<Initialization range=\"0-599\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 203.24325
+}

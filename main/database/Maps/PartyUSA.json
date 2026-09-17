@@ -1,0 +1,164 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "fd77274727f77d9134ddf6ae8d193bce",
+      "storageType": 0,
+      "url": "/public/map/PartyUSA/nx/PartyUSA_MAIN_SCENE_NX.zip/fd77274727f77d9134ddf6ae8d193bce.zip"
+    },
+    "pc": {
+      "md5": "2f46f6710e7da9a70599d058cfab1ff0",
+      "storageType": 0,
+      "url": "/public/map/PartyUSA/pc/PartyUSA_MAIN_SCENE_PC.zip/2f46f6710e7da9a70599d058cfab1ff0.zip"
+    },
+    "ps4": {
+      "md5": "9449ae96866b53bbe3597f9238af8df2",
+      "storageType": 0,
+      "url": "/public/map/PartyUSA/orbis/PartyUSA_MAIN_SCENE_ORBIS.zip/9449ae96866b53bbe3597f9238af8df2.zip"
+    }
+  },
+  "data": {
+    "mapName": "PartyUSA",
+    "title": "Party In The U.S.A.",
+    "originalJDVersion": 2025,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "Miley Cyrus",
+    "credits": "Written by Jessica Cornish, Lukasz Gottwald, Claude Kelly. Published by Sony ATV Music Publishing UK Limited. All rights reserved. Used with permission / Kasz Money Publishing. Administered by Kobalt Songs Music Publishing / Songs of Influence. All rights on behalf of Songs of Influence administered by Warner-Tamerlane Publishing Corp. Courtesy of Hollywood Records, Inc.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f996ef",
+    "songColor2A": "#0edaff",
+    "songColor1B": "#fc00ff",
+    "songColor2B": "#3b8a8b",
+    "lyricsColor": "#42d13b"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30000,
+        60000,
+        90000,
+        120000,
+        150000,
+        180000,
+        210000,
+        240000,
+        270000,
+        300000,
+        330000,
+        360000,
+        390000,
+        420000,
+        450000,
+        480000,
+        510000,
+        540000,
+        570000,
+        600000,
+        630000,
+        660000,
+        690000,
+        720000,
+        750000,
+        780000,
+        810000,
+        840000,
+        870000,
+        900000,
+        930000,
+        960000,
+        990000,
+        1020000,
+        1050000,
+        1080000,
+        1110000,
+        1140000,
+        1170000,
+        1200000,
+        1230000,
+        1260000,
+        1290000,
+        1320000,
+        1350000,
+        1380000,
+        1410000,
+        1440000,
+        1470000,
+        1500000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 327,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 48,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PartyUSA/PartyUSA_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PartyUSA/nx/PartyUSA_banner_bkg.tga.ckd/2b9cab1a154d8d29f3ad2acacc749008.ckd",
+      "map_bkgImageUrl": "/public/map/PartyUSA/nx/PartyUSA_map_bkg.tga.ckd/4b2d2838d7357ea069d439df39e56516.ckd",
+      "expandCoachImageUrl": "/public/map/PartyUSA/nx/PartyUSA_Cover_AlbumCoach.tga.ckd/8af86e5cf9dfaafe972cd9a628709a39.ckd",
+      "cover_smallImageUrl": "/public/map/PartyUSA/nx/PartyUSA_Cover_Online.tga.ckd/e301823b237641ec5d4b8ce6abf8435b.ckd",
+      "coverImageUrl": "/public/map/PartyUSA/nx/PartyUSA_Cover_Generic.tga.ckd/8bc4bb03e625f8dbd2f8828a94855343.ckd",
+      "coach1ImageUrl": "/public/map/PartyUSA/nx/PartyUSA_Coach_1.tga.ckd/509681f48d90820553547d272376f7ae.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PartyUSA/pc/PartyUSA_banner_bkg.tga.ckd/a6571326e1ed604e0a73b45c9a6e695d.ckd",
+      "map_bkgImageUrl": "/public/map/PartyUSA/pc/PartyUSA_map_bkg.tga.ckd/074ff922a2c3ca7d76e372690d8345f0.ckd",
+      "expandCoachImageUrl": "/public/map/PartyUSA/pc/PartyUSA_Cover_AlbumCoach.tga.ckd/bc986929fc25b64d89217db0d6ee51fb.ckd",
+      "cover_smallImageUrl": "/public/map/PartyUSA/pc/PartyUSA_Cover_Online.tga.ckd/5cc027a82388981a91295c83f305fe94.ckd",
+      "coverImageUrl": "/public/map/PartyUSA/pc/PartyUSA_Cover_Generic.tga.ckd/9e4d4a13beff6e15511f88fa3eb4eb1d.ckd",
+      "coach1ImageUrl": "/public/map/PartyUSA/pc/PartyUSA_Coach_1.tga.ckd/f7772a326583c9d716622a803378f72b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PartyUSA/orbis/PartyUSA_banner_bkg.tga.ckd/a6571326e1ed604e0a73b45c9a6e695d.ckd",
+      "map_bkgImageUrl": "/public/map/PartyUSA/orbis/PartyUSA_map_bkg.tga.ckd/074ff922a2c3ca7d76e372690d8345f0.ckd",
+      "expandCoachImageUrl": "/public/map/PartyUSA/orbis/PartyUSA_Cover_AlbumCoach.tga.ckd/bc986929fc25b64d89217db0d6ee51fb.ckd",
+      "cover_smallImageUrl": "/public/map/PartyUSA/orbis/PartyUSA_Cover_Online.tga.ckd/5cc027a82388981a91295c83f305fe94.ckd",
+      "coverImageUrl": "/public/map/PartyUSA/orbis/PartyUSA_Cover_Generic.tga.ckd/9e4d4a13beff6e15511f88fa3eb4eb1d.ckd",
+      "coach1ImageUrl": "/public/map/PartyUSA/orbis/PartyUSA_Coach_1.tga.ckd/f7772a326583c9d716622a803378f72b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PartyUSA/PartyUSA_Coach_1_Phone.png/d8807ebb23e7f1a8da78f3cb1ec40bec.png",
+    "phoneCoverImageUrl": "/public/map/PartyUSA/PartyUSA_Cover_Phone.jpg/6ebe849758a6579c94576e8d29263e99.jpg",
+    "cover640ImageUrl": "/public/map/PartyUSA/PartyUSA_Cover_640.png/4b4cfb327af8698e63cdacac3f80cb21.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/PartyUSA/PartyUSA.ogg": "/private/map/PartyUSA/PartyUSA.ogg/4646c8e1a214be86bedd91516493da99.ogg",
+    "jmcs://jd-contents/PartyUSA/PartyUSA_AudioPreview.ogg": "/public/map/PartyUSA/PartyUSA_AudioPreview.ogg/7735be15d69a3681158bd670730f5b95.ogg",
+    "jmcs://jd-contents/PartyUSA/PartyUSA_HIGH.webm": "/private/map/PartyUSA/PartyUSA_HIGH.webm/616ee091aae081c70d77d540b0107162.webm",
+    "jmcs://jd-contents/PartyUSA/PartyUSA_LOW.webm": "/private/map/PartyUSA/PartyUSA_LOW.webm/a8c09ce3e8b4f53b35463b863bdd2564.webm",
+    "jmcs://jd-contents/PartyUSA/PartyUSA_MID.webm": "/private/map/PartyUSA/PartyUSA_MID.webm/ef95a7382d57d811c761f390a3a6d316.webm",
+    "jmcs://jd-contents/PartyUSA/PartyUSA_ULTRA.hd.webm": "/private/map/PartyUSA/PartyUSA_ULTRA.hd.webm/0fe8a25f40df13e82f0776108c58841a.webm",
+    "jmcs://jd-contents/PartyUSA/PartyUSA_ULTRA.webm": "/private/map/PartyUSA/PartyUSA_ULTRA.webm/e75ecaf073512f2bf2753c32af53bd7e.webm",
+    "jmcs://jd-contents/PartyUSA/PartyUSA_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PartyUSA/PartyUSA_MapPreviewNoSoundCrop_LOW.vp8.webm/885feccb09b2a10509ec600bfb50f42c.webm",
+    "jmcs://jd-contents/PartyUSA/PartyUSA_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PartyUSA/PartyUSA_MapPreviewNoSoundCrop_MID.vp8.webm/7f4dc36e6cf38821ecfc494ec9a9a610.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"533318\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PartyUSA/PartyUSA_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1491897\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PartyUSA/PartyUSA_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"633-1123\">\n\t\t\t\t\t<Initialization range=\"0-633\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 208.7565
+}

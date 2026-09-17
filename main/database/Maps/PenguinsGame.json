@@ -1,0 +1,154 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4bded7c600f46e11dc083f9d4c1dd260",
+      "storageType": 0,
+      "url": "/public/map/PenguinsGame/nx/PenguinsGame_MAIN_SCENE_NX.zip/4bded7c600f46e11dc083f9d4c1dd260.zip"
+    },
+    "pc": {
+      "md5": "47ce15feac84b4367c1bc404a8f7b435",
+      "storageType": 0,
+      "url": "/public/map/PenguinsGame/pc/PenguinsGame_MAIN_SCENE_PC.zip/47ce15feac84b4367c1bc404a8f7b435.zip"
+    },
+    "ps4": {
+      "md5": "ad01ae20c1530487c6c1c0b5c0ec32eb",
+      "storageType": 0,
+      "url": "/public/map/PenguinsGame/orbis/PenguinsGame_MAIN_SCENE_ORBIS.zip/ad01ae20c1530487c6c1c0b5c0ec32eb.zip"
+    }
+  },
+  "data": {
+    "mapName": "PenguinsGame",
+    "title": "Penguin’s Game (兔子舞)",
+    "originalJDVersion": 1103,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Gelato",
+    "credits": "Paolino Nobile, Fabio Serra and Mauro Farina\\u521b\\u4f5c\\uff0cGelato\\u6f14\\u5531\\uff0cARSENIC SOUND S A S (SIAE) \\u53caTHE SAIFAM GROUP SRL (SIAE)\\u51fa\\u7248\\u53d1\\u884c\\uff0cWC Music Corp\\u4ee3\\u8868ARSENIC SOUND S A S \\u53caTHE SAIFAM GROUP SRL\\u7ba1\\u7406\\u5176\\u6240\\u6709\\u6743\\u5229\\uff0c\\u627f\\u8499THE SAIFAM GROUP SRL\\u63d0\\u4f9b",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        36000,
+        72000,
+        108000,
+        144000,
+        180000,
+        216000,
+        252000,
+        288000,
+        324000,
+        360000,
+        396000,
+        432000,
+        468000,
+        504000,
+        540000,
+        576000,
+        612000,
+        648000,
+        684000,
+        720000,
+        756000,
+        792000,
+        828000,
+        864000,
+        900000,
+        936000,
+        972000,
+        1008000,
+        1044000,
+        1080000,
+        1116000,
+        1152000,
+        1188000,
+        1224000,
+        1260000,
+        1296000,
+        1332000,
+        1368000,
+        1404000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -20,
+      "endBeat": 191,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 39,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/penguinsgame/penguinsgame_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PenguinsGame/nx/PenguinsGame_banner_bkg.tga.ckd/39e3515bbb9135d76cb1b8b0b72a7e98.ckd",
+      "map_bkgImageUrl": "/public/map/PenguinsGame/nx/PenguinsGame_map_bkg.tga.ckd/b37d3d3020ffc23d0824efbe057d8265.ckd",
+      "expandCoachImageUrl": "/public/map/PenguinsGame/nx/PenguinsGame_Cover_AlbumCoach.tga.ckd/f61e5c8e48c005ea74cd7cf6e5ecbdd5.ckd",
+      "cover_smallImageUrl": "/public/map/PenguinsGame/nx/PenguinsGame_Cover_Online.tga.ckd/b4f9b22368fd519f99a9488a32a491aa.ckd",
+      "coach1ImageUrl": "/public/map/PenguinsGame/nx/PenguinsGame_Coach_1.tga.ckd/1a89266db33bb4b33bb2dc338682fc05.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PenguinsGame/pc/PenguinsGame_banner_bkg.tga.ckd/075e1c671caf7056a7ee1e3e3499231f.ckd",
+      "map_bkgImageUrl": "/public/map/PenguinsGame/pc/PenguinsGame_map_bkg.tga.ckd/133f63123f7df3b322c2231303e4195f.ckd",
+      "expandCoachImageUrl": "/public/map/PenguinsGame/pc/PenguinsGame_Cover_AlbumCoach.tga.ckd/d7f8dd73479573b19befdace74b0c163.ckd",
+      "cover_smallImageUrl": "/public/map/PenguinsGame/pc/PenguinsGame_Cover_Online.tga.ckd/08013c68f6d37bfc68bfbf37a2f6c033.ckd",
+      "coach1ImageUrl": "/public/map/PenguinsGame/pc/PenguinsGame_Coach_1.tga.ckd/8926b2b8728c525e48214bdafb5ec7b4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PenguinsGame/orbis/PenguinsGame_banner_bkg.tga.ckd/075e1c671caf7056a7ee1e3e3499231f.ckd",
+      "map_bkgImageUrl": "/public/map/PenguinsGame/orbis/PenguinsGame_map_bkg.tga.ckd/133f63123f7df3b322c2231303e4195f.ckd",
+      "expandCoachImageUrl": "/public/map/PenguinsGame/orbis/PenguinsGame_Cover_AlbumCoach.tga.ckd/d7f8dd73479573b19befdace74b0c163.ckd",
+      "cover_smallImageUrl": "/public/map/PenguinsGame/orbis/PenguinsGame_Cover_Online.tga.ckd/08013c68f6d37bfc68bfbf37a2f6c033.ckd",
+      "coach1ImageUrl": "/public/map/PenguinsGame/orbis/PenguinsGame_Coach_1.tga.ckd/8926b2b8728c525e48214bdafb5ec7b4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PenguinsGame/PenguinsGame_Coach_1_Phone.png/22e0d969325663b0fc4c36cc14995b16.png",
+    "phoneCoverImageUrl": "/public/map/PenguinsGame/PenguinsGame_Cover_Phone.jpg/8d5b218eb65b09bc654ed66f31b7da5c.jpg",
+    "cover640ImageUrl": "/public/map/PenguinsGame/PenguinsGame_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame_HIGH.webm": "/private/map/PenguinsGame/PenguinsGame_HIGH.webm/3d9ec3a27562fb62f2797a5278fd235b.webm",
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame_LOW.webm": "/private/map/PenguinsGame/PenguinsGame_LOW.webm/df3d66b2929277bb3151679df0d650e1.webm",
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame_MID.webm": "/private/map/PenguinsGame/PenguinsGame_MID.webm/4110f47c1d453f63837d4082b3154fdd.webm",
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame_ULTRA.hd.webm": "/private/map/PenguinsGame/PenguinsGame_ULTRA.hd.webm/3238e8523540215250ae2468147f5338.webm",
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame_ULTRA.webm": "/private/map/PenguinsGame/PenguinsGame_ULTRA.webm/b4c7098be36a86b3a86b8b84385b883a.webm",
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PenguinsGame/PenguinsGame_MapPreviewNoSoundCrop_LOW.vp8.webm/ae16d36454f34acea6b3cdeedcc8aaea.webm",
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame.ogg": "/private/map/PenguinsGame/PenguinsGame.ogg/f4db6ceff922cf73c0938970df687bfa.ogg",
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame_AudioPreview.ogg": "/public/map/PenguinsGame/PenguinsGame_AudioPreview.ogg/773ad1437f9fef2f34e1c14d34339162.ogg",
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PenguinsGame/PenguinsGame_MapPreviewNoSoundCrop_MID.vp8.webm/72e441500162b3360dff952f40d5ee43.webm",
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame_HIGH.hd.webm": "/private/map/PenguinsGame/PenguinsGame_HIGH.hd.webm/3d9ec3a27562fb62f2797a5278fd235b.webm",
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame_MID.hd.webm": "/private/map/PenguinsGame/PenguinsGame_MID.hd.webm/4110f47c1d453f63837d4082b3154fdd.webm",
+    "jmcs://jd-contents/PenguinsGame/PenguinsGame_LOW.hd.webm": "/private/map/PenguinsGame/PenguinsGame_LOW.hd.webm/df3d66b2929277bb3151679df0d650e1.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"637543\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PenguinsGame/PenguinsGame_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"788-1277\">\n\t\t\t\t\t<Initialization range=\"0-788\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1473700\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PenguinsGame/PenguinsGame_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"788-1278\">\n\t\t\t\t\t<Initialization range=\"0-788\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2937852\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PenguinsGame/PenguinsGame_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"788-1278\">\n\t\t\t\t\t<Initialization range=\"0-788\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"3740331\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PenguinsGame/PenguinsGame_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"788-1278\">\n\t\t\t\t\t<Initialization range=\"0-788\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 158.25
+}

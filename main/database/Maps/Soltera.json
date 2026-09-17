@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "a92879b3e7752c14b933c2212e8534de",
+      "storageType": 0,
+      "url": "/public/map/Soltera/nx/Soltera_MAIN_SCENE_NX.zip/a92879b3e7752c14b933c2212e8534de.zip"
+    },
+    "pc": {
+      "md5": "d565e098b09336f38841dbb173a6b44d",
+      "storageType": 0,
+      "url": "/public/map/Soltera/pc/Soltera_MAIN_SCENE_PC.zip/d565e098b09336f38841dbb173a6b44d.zip"
+    },
+    "ps4": {
+      "md5": "1ae823893c965f86d2f2e98c6ee6fac8",
+      "storageType": 0,
+      "url": "/public/map/Soltera/orbis/Soltera_MAIN_SCENE_ORBIS.zip/1ae823893c965f86d2f2e98c6ee6fac8.zip"
+    }
+  },
+  "data": {
+    "mapName": "Soltera",
+    "title": "Soltera",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Shakira",
+    "credits": "Written by Edgar Barrera, Gonzalo Julian Conde, Kevyn Mauricio Cruz Moreno, Shakira Mebarak. Published by 11Once Music, dp Music SRL, Sony Music Publishing Argentina s.r.l., KCMusic, MyMPM Music. Courtesy of Sony Music Entertainment US Latin.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#fb7f38",
+    "songColor2A": "#064091",
+    "songColor1B": "#3a110c",
+    "songColor2B": "#04214a",
+    "lyricsColor": "#ea29d8",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 361,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Soltera/Soltera_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Soltera/nx/Soltera_banner_bkg.tga.ckd/a358e08e8c646458811e1dae72cbb3c5.ckd",
+      "map_bkgImageUrl": "/public/map/Soltera/nx/Soltera_map_bkg.tga.ckd/4f4e11c6658d8bdfefd733b68f728e0e.ckd",
+      "expandCoachImageUrl": "/public/map/Soltera/nx/Soltera_Cover_AlbumCoach.tga.ckd/db88812104aa917df668cc06a72e8559.ckd",
+      "cover_smallImageUrl": "/public/map/Soltera/nx/Soltera_Cover_Online.tga.ckd/68028808cc1722586d9843463a6c71ed.ckd",
+      "coverImageUrl": "/public/map/Soltera/nx/Soltera_Cover_Generic.tga.ckd/0d066a2cf6041a44decdde337a7e6b4a.ckd",
+      "coach1ImageUrl": "/public/map/Soltera/nx/Soltera_Coach_1.tga.ckd/9b26faff1502433ff6ffec8126deaa0d.ckd",
+      "coach2ImageUrl": "/public/map/Soltera/nx/Soltera_Coach_2.tga.ckd/95548da1eb8242dbef99c21c280d7d15.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Soltera/pc/Soltera_banner_bkg.tga.ckd/3af68e92d3041084d6dad33f85bf3cc6.ckd",
+      "map_bkgImageUrl": "/public/map/Soltera/pc/Soltera_map_bkg.tga.ckd/2f7d6c1e794d0412864d3f78eda90167.ckd",
+      "expandCoachImageUrl": "/public/map/Soltera/pc/Soltera_Cover_AlbumCoach.tga.ckd/18b95844f5a40c364991cd9b779cacd3.ckd",
+      "cover_smallImageUrl": "/public/map/Soltera/pc/Soltera_Cover_Online.tga.ckd/2448b13146c93461326114b307645854.ckd",
+      "coverImageUrl": "/public/map/Soltera/pc/Soltera_Cover_Generic.tga.ckd/cf6dbae87dcc1278473549789a8d9880.ckd",
+      "coach1ImageUrl": "/public/map/Soltera/pc/Soltera_Coach_1.tga.ckd/c9755155d3288f86826b2ca5210991a9.ckd",
+      "coach2ImageUrl": "/public/map/Soltera/pc/Soltera_Coach_2.tga.ckd/3af959ee7f9cd7b6b7718025f2ad26fd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Soltera/orbis/Soltera_banner_bkg.tga.ckd/3af68e92d3041084d6dad33f85bf3cc6.ckd",
+      "map_bkgImageUrl": "/public/map/Soltera/orbis/Soltera_map_bkg.tga.ckd/2f7d6c1e794d0412864d3f78eda90167.ckd",
+      "expandCoachImageUrl": "/public/map/Soltera/orbis/Soltera_Cover_AlbumCoach.tga.ckd/18b95844f5a40c364991cd9b779cacd3.ckd",
+      "cover_smallImageUrl": "/public/map/Soltera/orbis/Soltera_Cover_Online.tga.ckd/2448b13146c93461326114b307645854.ckd",
+      "coverImageUrl": "/public/map/Soltera/orbis/Soltera_Cover_Generic.tga.ckd/cf6dbae87dcc1278473549789a8d9880.ckd",
+      "coach1ImageUrl": "/public/map/Soltera/orbis/Soltera_Coach_1.tga.ckd/c9755155d3288f86826b2ca5210991a9.ckd",
+      "coach2ImageUrl": "/public/map/Soltera/orbis/Soltera_Coach_2.tga.ckd/3af959ee7f9cd7b6b7718025f2ad26fd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Soltera/Soltera_Coach_1_Phone.png/0f38c67166426d771c57fa327baa1e87.png",
+    "phoneCoach2ImageUrl": "/public/map/Soltera/Soltera_Coach_2_Phone.png/043b1f9ada4e86ff5161b538bebd9fc4.png",
+    "phoneCoverImageUrl": "/public/map/Soltera/Soltera_Cover_Phone.jpg/24c066b9ec4396b1e1cc3026e928cc8d.jpg",
+    "cover640ImageUrl": "/public/map/Soltera/Soltera_Cover_640.png/9d14ad2aa6c6ac53acb4b0b914a54065.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Soltera/Soltera.ogg": "/private/map/Soltera/Soltera.ogg/46d4e6a2e3b48262de3978dda2f0af29.ogg",
+    "jmcs://jd-contents/Soltera/Soltera_AudioPreview.ogg": "/public/map/Soltera/Soltera_AudioPreview.ogg/d0450c72f07405cf81189899f7fb7842.ogg",
+    "jmcs://jd-contents/Soltera/Soltera_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Soltera/Soltera_MapPreviewNoSoundCrop_LOW.vp8.webm/214979f9ac6ce79aad575efeef1d0c57.webm",
+    "jmcs://jd-contents/Soltera/Soltera_HIGH.webm": "/private/map/Soltera/Soltera_HIGH.webm/994c2215872e50877ffdd9848c86cc04.webm",
+    "jmcs://jd-contents/Soltera/Soltera_LOW.webm": "/private/map/Soltera/Soltera_LOW.webm/f462278a7f57e9bf9058ead293623cba.webm",
+    "jmcs://jd-contents/Soltera/Soltera_MID.webm": "/private/map/Soltera/Soltera_MID.webm/0b95a00f2d743fbb16ebb45ae4118ff1.webm",
+    "jmcs://jd-contents/Soltera/Soltera_ULTRA.hd.webm": "/private/map/Soltera/Soltera_ULTRA.hd.webm/0e80e947615c07bf848d0e5c69210c84.webm",
+    "jmcs://jd-contents/Soltera/Soltera_ULTRA.webm": "/private/map/Soltera/Soltera_ULTRA.webm/ab2b6b56ae232806e0f8a7c392d0e1db.webm",
+    "jmcs://jd-contents/Soltera/Soltera_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Soltera/Soltera_MapPreviewNoSoundCrop_MID.vp8.webm/d37a3ce67d6a7b433d215cff0c204942.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"522662\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Soltera/Soltera_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\n\t\t\t\t\t<Initialization range=\"0-629\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1501133\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Soltera/Soltera_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\n\t\t\t\t\t<Initialization range=\"0-630\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 220.206438
+}

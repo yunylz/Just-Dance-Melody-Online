@@ -1,0 +1,199 @@
+{
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"646252\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"559-1049\">\n\t\t\t\t\t<Initialization range=\"0-559\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483343\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"559-1049\">\n\t\t\t\t\t<Initialization range=\"0-559\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2329406\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"559-1049\">\n\t\t\t\t\t<Initialization range=\"0-559\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"2329135\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"559-1049\">\n\t\t\t\t\t<Initialization range=\"0-559\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "urlsDev": {
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm/b9728f655269bb94b1bc4f6529faf68c.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm/ae7559ae523d22f6e9cdecd7a7363af0.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_HIGH.vp8.webm/b1d1dc3f6ff00e6898ec3d5072205949.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4ae367e47242011a8f228d3e24d22607.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_ULTRA.hd.webm": "/private/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_ULTRA.hd.webm/4bcbf4ccdf38dac2fe9311bbdb04927b.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_HIGH.hd.webm": "/private/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_HIGH.hd.webm/557e274213528466bf8e68ac6a89a275.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MID.hd.webm": "/private/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MID.hd.webm/812aa51a2804b9209620629e586f12d5.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_LOW.hd.webm": "/private/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_LOW.hd.webm/dbb52eeb9e53eae987af6cb77ba32b24.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_AudioPreview.ogg": "/public/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_AudioPreview.ogg/292fae7aada949b2b0160ce14553325f.ogg",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE.ogg": "/private/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE.ogg/5017cf92d12f01e73ef682a851968fe1.ogg"
+  },
+  "mapLength": 106.415,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24192,
+        48336,
+        72480,
+        96240,
+        119472,
+        143808,
+        165744,
+        191760,
+        214608,
+        240192,
+        263808,
+        288528,
+        312288,
+        336432,
+        357984,
+        382512,
+        408144,
+        431904,
+        455136,
+        478944,
+        504384,
+        528144,
+        550656,
+        574032,
+        599520,
+        622704,
+        648336,
+        672480,
+        698352,
+        721728,
+        744576,
+        769680,
+        793440,
+        816288,
+        840048,
+        864192,
+        888000,
+        912528,
+        937584,
+        961008,
+        983856,
+        1008528,
+        1032720,
+        1056816,
+        1081920,
+        1105728,
+        1129872,
+        1154016,
+        1177392,
+        1201584,
+        1225728,
+        1250016,
+        1273248,
+        1297968,
+        1321200,
+        1344960,
+        1368768,
+        1392144,
+        1414992,
+        1438608
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 211,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_AudioPreview.ogg",
+    "path": ""
+  },
+  "packagesDev": {
+    "pc": {
+      "md5": "d896036494e04092e50273a2faf6ac1b",
+      "storageType": 0,
+      "url": "/public/map/DISNEYSimpRETAKE/pc/DISNEYSimpRETAKE_MAIN_SCENE_PC.zip/d896036494e04092e50273a2faf6ac1b.zip"
+    },
+    "ps4": {
+      "md5": "e51c43bcba78ca9bdf3a2731d8352621",
+      "storageType": 0,
+      "url": "/public/map/DISNEYSimpRETAKE/orbis/DISNEYSimpRETAKE_MAIN_SCENE_ORBIS.zip/e51c43bcba78ca9bdf3a2731d8352621.zip"
+    },
+    "wiiu": {
+      "md5": "ded57d12f5402e70d03f710afb64643a",
+      "storageType": 0,
+      "url": "/public/map/DISNEYSimpRETAKE/wiiu/DISNEYSimpRETAKE_MAIN_SCENE_WIIU.zip/ded57d12f5402e70d03f710afb64643a.zip"
+    },
+    "nx": {
+      "md5": "f18b2b73868fadf877fd2e6a0ef82e15",
+      "storageType": 0,
+      "url": "/public/map/DISNEYSimpRETAKE/nx/DISNEYSimpRETAKE_MAIN_SCENE_NX.zip/f18b2b73868fadf877fd2e6a0ef82e15.zip"
+    }
+  },
+  "data": {
+    "mapName": "DISNEYSimpRETAKE",
+    "title": "S.I.M.P (Squirrels In My Pants)",
+    "originalJDVersion": 3000,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Disney's Phineas & Ferb",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#38bdf6",
+    "songColor2A": "#e6c010",
+    "songColor1B": "#104d67",
+    "songColor2B": "#594904",
+    "lyricsColor": "#42bff5",
+    "LocaleID": 4294967295
+  },
+  "packages": {
+    "pc": {
+      "md5": "979dc371241c7b2acf4e3ea872612f40",
+      "storageType": 0,
+      "url": "/public/map/DISNEYSimpRETAKE/pc/DISNEYSimpRETAKE_MAIN_SCENE_PC.zip/979dc371241c7b2acf4e3ea872612f40.zip"
+    },
+    "ps4": {
+      "md5": "edf20d6d844045a2eb6a0ce92ac3d0a0",
+      "storageType": 0,
+      "url": "/public/map/DISNEYSimpRETAKE/orbis/DISNEYSimpRETAKE_MAIN_SCENE_ORBIS.zip/edf20d6d844045a2eb6a0ce92ac3d0a0.zip"
+    },
+    "nx": {
+      "md5": "9aba7029426481ac5e4d779410f04fc5",
+      "storageType": 0,
+      "url": "/public/map/DISNEYSimpRETAKE/nx/DISNEYSimpRETAKE_MAIN_SCENE_NX.zip/9aba7029426481ac5e4d779410f04fc5.zip"
+    }
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DISNEYSimp/nx/DISNEYSimp_banner_bkg.tga.ckd/5456d3c6708eccadb933330bee4ec351.ckd",
+      "map_bkgImageUrl": "/public/map/DISNEYSimp/nx/DISNEYSimp_map_bkg.tga.ckd/40ef859df24bef4de9ed050ae245c5fa.ckd",
+      "expandCoachImageUrl": "/public/map/DISNEYSimp/nx/DISNEYSimp_Cover_AlbumCoach.tga.ckd/cb716f6239683cdfa2291b9a6b97ac0b.ckd",
+      "cover_smallImageUrl": "/public/map/DISNEYSimp/nx/DISNEYSimp_Cover_Online.tga.ckd/67b0b184f98321cad26919946a5bd7f4.ckd",
+      "coach1ImageUrl": "/public/map/DISNEYSimp/nx/DISNEYSimp_Coach_1.tga.ckd/b092dd11b86aff5d44049b40a3506187.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DISNEYSimp/pc/DISNEYSimp_banner_bkg.tga.ckd/987419afc71360bf6815203166f5b8df.ckd",
+      "map_bkgImageUrl": "/public/map/DISNEYSimp/pc/DISNEYSimp_map_bkg.tga.ckd/9300bb6be2fa4d03c859cb5ec8e06800.ckd",
+      "expandCoachImageUrl": "/public/map/DISNEYSimp/pc/DISNEYSimp_Cover_AlbumCoach.tga.ckd/c14d8e5daacf1326fb9175592e699dd6.ckd",
+      "cover_smallImageUrl": "/public/map/DISNEYSimp/pc/DISNEYSimp_Cover_Online.tga.ckd/0707ca18844fe2b643c238adf9049fb0.ckd",
+      "coach1ImageUrl": "/public/map/DISNEYSimp/pc/DISNEYSimp_Coach_1.tga.ckd/5a50d259114a90e1d45e056452981cb5.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DISNEYSimp/orbis/DISNEYSimp_banner_bkg.tga.ckd/987419afc71360bf6815203166f5b8df.ckd",
+      "map_bkgImageUrl": "/public/map/DISNEYSimp/orbis/DISNEYSimp_map_bkg.tga.ckd/9300bb6be2fa4d03c859cb5ec8e06800.ckd",
+      "expandCoachImageUrl": "/public/map/DISNEYSimp/orbis/DISNEYSimp_Cover_AlbumCoach.tga.ckd/c14d8e5daacf1326fb9175592e699dd6.ckd",
+      "cover_smallImageUrl": "/public/map/DISNEYSimp/orbis/DISNEYSimp_Cover_Online.tga.ckd/0707ca18844fe2b643c238adf9049fb0.ckd",
+      "coach1ImageUrl": "/public/map/DISNEYSimp/orbis/DISNEYSimp_Coach_1.tga.ckd/5a50d259114a90e1d45e056452981cb5.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DISNEYSimp/DISNEYSimp_Coach_1_Phone.png/11736aa711510510801c88c4a695c3fe.png",
+    "phoneCoverImageUrl": "/public/map/DISNEYSimp/DISNEYSimp_Cover_Phone.jpg/df545e07cac37982b76fe0830d08e47b.jpg",
+    "cover640ImageUrl": "/public/map/DISNEYSimp/DISNEYSimp_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_AudioPreview.ogg": "/public/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_AudioPreview.ogg/d1d1110da3485630edac87c0bcee6904.ogg",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE.ogg": "/private/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE.ogg/2395ef970536237f3027b87c2173929d.ogg",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm/45702b742625cf6fbb71500e2242fbd8.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm/11d7fc08b3428e2a481892e0b8f2a4ce.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_HIGH.vp8.webm/33b35179f6c0a43e761cc307fcc6758b.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MapPreviewNoSoundCrop_ULTRA.vp8.webm/2f59695305dc77fd31516dc5f0d93982.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_ULTRA.hd.webm": "/private/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_ULTRA.hd.webm/4bcbf4ccdf38dac2fe9311bbdb04927b.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_HIGH.hd.webm": "/private/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_HIGH.hd.webm/557e274213528466bf8e68ac6a89a275.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MID.hd.webm": "/private/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_MID.hd.webm/812aa51a2804b9209620629e586f12d5.webm",
+    "jmcs://jd-contents/DISNEYSimpRETAKE/DISNEYSimpRETAKE_LOW.hd.webm": "/private/map/DISNEYSimpRETAKE/DISNEYSimpRETAKE_LOW.hd.webm/dbb52eeb9e53eae987af6cb77ba32b24.webm"
+  }
+}

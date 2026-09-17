@@ -1,0 +1,163 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9e22a71efe9facf3de45209c52f504d5",
+      "storageType": 0,
+      "url": "/public/map/NaughtyGirl/nx/NaughtyGirl_MAIN_SCENE_NX.zip/9e22a71efe9facf3de45209c52f504d5.zip"
+    },
+    "pc": {
+      "md5": "684b4d16447a1ca2f5d578cd8caaa2fa",
+      "storageType": 0,
+      "url": "/public/map/NaughtyGirl/pc/NaughtyGirl_MAIN_SCENE_PC.zip/684b4d16447a1ca2f5d578cd8caaa2fa.zip"
+    },
+    "ps4": {
+      "md5": "fadf7316113f47b8f735e135891b9d0c",
+      "storageType": 0,
+      "url": "/public/map/NaughtyGirl/orbis/NaughtyGirl_MAIN_SCENE_ORBIS.zip/fadf7316113f47b8f735e135891b9d0c.zip"
+    }
+  },
+  "data": {
+    "mapName": "NaughtyGirl",
+    "title": "Naughty Girl",
+    "originalJDVersion": 2018,
+    "tags": [
+      "subscribedSong",
+      "JustDance2018",
+      "Solo"
+    ],
+    "artist": "Beyoncé",
+    "credits": "Written by Peter Bellotte, Angela Beyince, Beyoncé Knowles, Giorgio Moroder, Scott Storch, Donna Summer and Robert Waller. Published by Warner-Tamerlane Publishing Corp. (BMI), Rick's Music Inc. (BMI), Beyoncé Publishing (ASCAP) And Angela Beyince Music (ASCAP). All Rights on behalf of Rick's Music Inc. Administered by Rightsong Music Inc. All Rights on behalf of Beyoncé Publishing and Angela Beyince Music Administered By WB Music Corp. / Reservoir Media Music. / Sweet Summer Night Music (ASCAP). / BMG Gold Songs on behalf of Notting Dale Songs Inc. and Black Owned Musik. All rights administered by BMG Rights Management (US) LLC. Courtesy of Columbia Records. By arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#0191c1",
+    "songColor2A": "#780199",
+    "songColor1B": "#011433",
+    "songColor2B": "#2e0249",
+    "lyricsColor": "#ff33eb"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28799,
+        57551,
+        86351,
+        115151,
+        143951,
+        172703,
+        201503,
+        230303,
+        259055,
+        287855,
+        316655,
+        345407,
+        374207,
+        403007,
+        431759,
+        460559,
+        489359,
+        518159,
+        546911,
+        575711,
+        604511,
+        633262,
+        662062,
+        690862,
+        719662,
+        748414,
+        777214,
+        806014,
+        834766,
+        863566,
+        892366,
+        921118,
+        949918,
+        978718,
+        1007518,
+        1036270,
+        1065070,
+        1093870,
+        1122622,
+        1151422,
+        1180222,
+        1208974,
+        1237774,
+        1266573,
+        1295373,
+        1324125,
+        1352925,
+        1381725,
+        1410477,
+        1439277,
+        1468077,
+        1496829
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -14,
+      "endBeat": 348,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/NaughtyGirl/NaughtyGirl_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/NaughtyGirl/nx/NaughtyGirl_banner_bkg.tga.ckd/c28d7d6a16a0f2038464f1d36c7a5d0d.ckd",
+      "map_bkgImageUrl": "/public/map/NaughtyGirl/nx/NaughtyGirl_map_bkg.tga.ckd/7375c07e6267435746344184c4f809d8.ckd",
+      "expandCoachImageUrl": "/public/map/NaughtyGirl/nx/NaughtyGirl_Cover_AlbumCoach.tga.ckd/8a8da540dfdc66578b58ffffbfa0db3c.ckd",
+      "cover_smallImageUrl": "/public/map/NaughtyGirl/nx/NaughtyGirl_Cover_Online.tga.ckd/a600edb8237b9d41632b6d6d242269ee.ckd",
+      "coach1ImageUrl": "/public/map/NaughtyGirl/nx/NaughtyGirl_Coach_1.tga.ckd/72452081cea06b753dac4ee63db50a7b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/NaughtyGirl/pc/NaughtyGirl_banner_bkg.tga.ckd/5c22e28f0b7f334e9102e0b5f0b32d15.ckd",
+      "map_bkgImageUrl": "/public/map/NaughtyGirl/pc/NaughtyGirl_map_bkg.tga.ckd/60cf604c85c69b1bb79c5ccd4848b437.ckd",
+      "expandCoachImageUrl": "/public/map/NaughtyGirl/pc/NaughtyGirl_Cover_AlbumCoach.tga.ckd/3d91e5b11d92739d78397cd5c18a025e.ckd",
+      "cover_smallImageUrl": "/public/map/NaughtyGirl/pc/NaughtyGirl_Cover_Online.tga.ckd/d600fd1e418463dcf5a437e5bc247468.ckd",
+      "coach1ImageUrl": "/public/map/NaughtyGirl/pc/NaughtyGirl_Coach_1.tga.ckd/9d2e62860d8ddd01fc029c09633440e8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/NaughtyGirl/orbis/NaughtyGirl_banner_bkg.tga.ckd/5c22e28f0b7f334e9102e0b5f0b32d15.ckd",
+      "map_bkgImageUrl": "/public/map/NaughtyGirl/orbis/NaughtyGirl_map_bkg.tga.ckd/60cf604c85c69b1bb79c5ccd4848b437.ckd",
+      "expandCoachImageUrl": "/public/map/NaughtyGirl/orbis/NaughtyGirl_Cover_AlbumCoach.tga.ckd/3d91e5b11d92739d78397cd5c18a025e.ckd",
+      "cover_smallImageUrl": "/public/map/NaughtyGirl/orbis/NaughtyGirl_Cover_Online.tga.ckd/d600fd1e418463dcf5a437e5bc247468.ckd",
+      "coach1ImageUrl": "/public/map/NaughtyGirl/orbis/NaughtyGirl_Coach_1.tga.ckd/9d2e62860d8ddd01fc029c09633440e8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/NaughtyGirl/NaughtyGirl_Coach_1_Phone.png/ff0c8e7b8b6c817a7429e0320b63e10d.png",
+    "phoneCoverImageUrl": "/public/map/NaughtyGirl/NaughtyGirl_Cover_Phone.jpg/50d2db13d9e4acd2edc2ed427784eeb6.jpg",
+    "cover640ImageUrl": "/public/map/NaughtyGirl/NaughtyGirl_Cover_640.png/14b7e3c649b20383c7c61a0e48b31578.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/NaughtyGirl/NaughtyGirl.ogg": "/private/map/NaughtyGirl/NaughtyGirl.ogg/3808991e1f579835292ce24befb32650.ogg",
+    "jmcs://jd-contents/NaughtyGirl/NaughtyGirl_AudioPreview.ogg": "/public/map/NaughtyGirl/NaughtyGirl_AudioPreview.ogg/c3abbb2fd719c0dc7983c2231cb7a68f.ogg",
+    "jmcs://jd-contents/NaughtyGirl/NaughtyGirl_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/NaughtyGirl/NaughtyGirl_MapPreviewNoSoundCrop_LOW.vp8.webm/03768acc82302478443f5e8704a55ca6.webm",
+    "jmcs://jd-contents/NaughtyGirl/NaughtyGirl_HIGH.webm": "/private/map/NaughtyGirl/NaughtyGirl_HIGH.webm/1064e64c852c306f94227dd0ae0e3658.webm",
+    "jmcs://jd-contents/NaughtyGirl/NaughtyGirl_LOW.webm": "/private/map/NaughtyGirl/NaughtyGirl_LOW.webm/320f834d46a3046badc4f52d32ffd62d.webm",
+    "jmcs://jd-contents/NaughtyGirl/NaughtyGirl_MID.webm": "/private/map/NaughtyGirl/NaughtyGirl_MID.webm/465127b0b332f0f3c7ef68d65ed53914.webm",
+    "jmcs://jd-contents/NaughtyGirl/NaughtyGirl_ULTRA.hd.webm": "/private/map/NaughtyGirl/NaughtyGirl_ULTRA.hd.webm/9aa342617876d645393a290577e7cfbf.webm",
+    "jmcs://jd-contents/NaughtyGirl/NaughtyGirl_ULTRA.webm": "/private/map/NaughtyGirl/NaughtyGirl_ULTRA.webm/604f372ccdf6ddf7d30f5b5f7f0ddc7b.webm",
+    "jmcs://jd-contents/NaughtyGirl/NaughtyGirl_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/NaughtyGirl/NaughtyGirl_MapPreviewNoSoundCrop_MID.vp8.webm/1f706560851d70c72116958ac7f6c864.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496674\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NaughtyGirl/NaughtyGirl_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"631-1120\">\n\t\t\t\t\t<Initialization range=\"0-631\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1469926\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NaughtyGirl/NaughtyGirl_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 217.091875
+}

@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "4f549e0650b9d892076363c47d06bce9",
+      "storageType": 0,
+      "url": "/public/map/AintNoOtherMan/nx/AintNoOtherMan_MAIN_SCENE_NX.zip/4f549e0650b9d892076363c47d06bce9.zip"
+    },
+    "pc": {
+      "md5": "ad2322044cfd2706ddcc2f6dceb65daf",
+      "storageType": 0,
+      "url": "/public/map/AintNoOtherMan/pc/AintNoOtherMan_MAIN_SCENE_PC.zip/ad2322044cfd2706ddcc2f6dceb65daf.zip"
+    },
+    "ps4": {
+      "md5": "66d75e58c3d004464918ed11fa5c068c",
+      "storageType": 0,
+      "url": "/public/map/AintNoOtherMan/orbis/AintNoOtherMan_MAIN_SCENE_ORBIS.zip/66d75e58c3d004464918ed11fa5c068c.zip"
+    }
+  },
+  "data": {
+    "mapName": "AintNoOtherMan",
+    "title": "Ain't No Other Man",
+    "originalJDVersion": 4,
+    "tags": [
+      "Main",
+      "JustDance4",
+      "subscribedSong"
+    ],
+    "artist": "Christina Aguilera",
+    "credits": "TBD",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#eb0070",
+    "songColor2A": "#fbb600",
+    "songColor1B": "#080039",
+    "songColor2B": "#cf0076",
+    "lyricsColor": "#e653ac"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        34996,
+        66643,
+        98291,
+        129938,
+        161585,
+        193233,
+        224880,
+        256527,
+        288175,
+        319822,
+        351469,
+        383117,
+        414764,
+        446411,
+        478059,
+        509706,
+        541353,
+        573001,
+        604648,
+        636296,
+        667943,
+        699590,
+        731238,
+        762885,
+        794532,
+        852734,
+        875233,
+        897732,
+        920231,
+        942730,
+        965229,
+        987728,
+        1010227,
+        1032727,
+        1055226,
+        1077725,
+        1100224,
+        1122723,
+        1145222,
+        1167721,
+        1190220,
+        1212719,
+        1235218,
+        1257717,
+        1280216,
+        1302715,
+        1325214,
+        1347713,
+        1370212,
+        1392711,
+        1415210,
+        1437709,
+        1460208,
+        1482707
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 485,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AintNoOtherMan/nx/AintNoOtherMan_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/AintNoOtherMan/nx/AintNoOtherMan_map_bkg.tga.ckd/7d57ac4437f6d7da2567da4df1d3c02e.ckd",
+      "expandCoachImageUrl": "/public/map/AintNoOtherMan/nx/AintNoOtherMan_Cover_AlbumCoach.tga.ckd/e89d0c4f790137da54bb670b43a095be.ckd",
+      "cover_smallImageUrl": "/public/map/AintNoOtherMan/nx/AintNoOtherMan_Cover_Online.tga.ckd/3930475e42739d475c7623626a4d44b5.ckd",
+      "coach1ImageUrl": "/public/map/AintNoOtherMan/nx/AintNoOtherMan_Coach_1.tga.ckd/23a29588a8d80c28ac06a3e902d292f6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AintNoOtherMan/pc/AintNoOtherMan_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/AintNoOtherMan/pc/AintNoOtherMan_map_bkg.tga.ckd/535e12c85092461f7a27a6d04ea2f076.ckd",
+      "expandCoachImageUrl": "/public/map/AintNoOtherMan/pc/AintNoOtherMan_Cover_AlbumCoach.tga.ckd/51571c84be1317426bb4f1abbd298d9f.ckd",
+      "cover_smallImageUrl": "/public/map/AintNoOtherMan/pc/AintNoOtherMan_Cover_Online.tga.ckd/2ccde447a106d2ac998314e987824cdd.ckd",
+      "coach1ImageUrl": "/public/map/AintNoOtherMan/pc/AintNoOtherMan_Coach_1.tga.ckd/4c1f53b9b84e0e8d491850b393871109.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AintNoOtherMan/orbis/AintNoOtherMan_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/AintNoOtherMan/orbis/AintNoOtherMan_map_bkg.tga.ckd/535e12c85092461f7a27a6d04ea2f076.ckd",
+      "expandCoachImageUrl": "/public/map/AintNoOtherMan/orbis/AintNoOtherMan_Cover_AlbumCoach.tga.ckd/51571c84be1317426bb4f1abbd298d9f.ckd",
+      "cover_smallImageUrl": "/public/map/AintNoOtherMan/orbis/AintNoOtherMan_Cover_Online.tga.ckd/2ccde447a106d2ac998314e987824cdd.ckd",
+      "coach1ImageUrl": "/public/map/AintNoOtherMan/orbis/AintNoOtherMan_Coach_1.tga.ckd/4c1f53b9b84e0e8d491850b393871109.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AintNoOtherMan/AintNoOtherMan_Coach_1_Phone.png/5f5d86d4eb197572f6778e7295156ac6.png",
+    "phoneCoverImageUrl": "/public/map/AintNoOtherMan/AintNoOtherMan_Cover_Phone.jpg/312d6554734e469419d69f8c1a2115e8.jpg",
+    "cover640ImageUrl": "/public/map/AintNoOtherMan/AintNoOtherMan_Cover_640.png/28039c65806d2237629d1f6eeee47025.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan.ogg": "/private/map/AintNoOtherMan/AintNoOtherMan.ogg/15d93ad564f0a32a2ae0bcf820a163c2.ogg",
+    "jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_AudioPreview.ogg": "/public/map/AintNoOtherMan/AintNoOtherMan_AudioPreview.ogg/7b5217b5f99073d25880cc8459a5cdea.ogg",
+    "jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AintNoOtherMan/AintNoOtherMan_MapPreviewNoSoundCrop_LOW.vp8.webm/51a05c8e2a4d4acf0e90a3e4bf396ea0.webm",
+    "jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_HIGH.webm": "/private/map/AintNoOtherMan/AintNoOtherMan_HIGH.webm/5a8452a55b10ed70b619f4e761c5304f.webm",
+    "jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_LOW.webm": "/private/map/AintNoOtherMan/AintNoOtherMan_LOW.webm/ab4dddefb2f1c01adfd44932f7dea559.webm",
+    "jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_MID.webm": "/private/map/AintNoOtherMan/AintNoOtherMan_MID.webm/57ba769c0a6f9108a9a5a2364af5af2b.webm",
+    "jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_ULTRA.hd.webm": "/private/map/AintNoOtherMan/AintNoOtherMan_ULTRA.hd.webm/46536afef9ec9a2009351e33d27693bb.webm",
+    "jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_ULTRA.webm": "/private/map/AintNoOtherMan/AintNoOtherMan_ULTRA.webm/fe7528d47cfb43a1c2c4a5c4008a3662.webm",
+    "jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AintNoOtherMan/AintNoOtherMan_MapPreviewNoSoundCrop_MID.vp8.webm/f677fe9be127cefdf7c2aeebcbb2d80f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"527759\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\n\t\t\t\t\t<Initialization range=\"0-614\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1527900\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 232.999417
+}

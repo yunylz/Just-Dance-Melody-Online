@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "bdbd2c11dfac1f8979ed40b53a9ae1b7",
+      "storageType": 0,
+      "url": "/public/map/TillTheWorldEnds/nx/TillTheWorldEnds_MAIN_SCENE_NX.zip/bdbd2c11dfac1f8979ed40b53a9ae1b7.zip"
+    },
+    "pc": {
+      "md5": "4ef88c4900cce027365b8ed126634103",
+      "storageType": 0,
+      "url": "/public/map/TillTheWorldEnds/pc/TillTheWorldEnds_MAIN_SCENE_PC.zip/4ef88c4900cce027365b8ed126634103.zip"
+    },
+    "ps4": {
+      "md5": "ee996337544acaa45c4a3b0cb6552f18",
+      "storageType": 0,
+      "url": "/public/map/TillTheWorldEnds/orbis/TillTheWorldEnds_MAIN_SCENE_ORBIS.zip/ee996337544acaa45c4a3b0cb6552f18.zip"
+    }
+  },
+  "data": {
+    "mapName": "TillTheWorldEnds",
+    "title": "Till The World Ends",
+    "originalJDVersion": 2021,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Britney Spears",
+    "credits": "Written by Lukasz Gottwald, Alexander Erik Kronlund, Max Martin and Kesha Sebert. Published by WARNER CHAPPELL MUSIC SCANDINAVIA AB (STIM). All rights on behalf of WARNER CHAPPELL MUSIC SCANDINAVIA AB administered by WC Music Corp. / Where Da Kasz At (BMI) / Kasz Money Publishing (ASCAP) / Dynamite Cop Music (BMI) / MXM Music AB (ASCAP). Administered by Kobalt Music Publishing America, Inc. Produced, engineered, programmed and mixed by Steve Ouimette. Programming and synthesis by Cat Gray. Additional synth programming by Blake Earnhart. Vocals – Windy Wagner. Background vocals – Connor Smith.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#030095",
+    "songColor2A": "#0048be",
+    "songColor1B": "#120e2a",
+    "songColor2B": "#01015c",
+    "lyricsColor": "#6aed1a",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21818,
+        43636,
+        65455,
+        87273,
+        109091,
+        130909,
+        152727,
+        174545,
+        196364,
+        218182,
+        240000,
+        261818,
+        283636,
+        305455,
+        327273,
+        349091,
+        370909,
+        392727,
+        414545,
+        436364,
+        458182,
+        480000,
+        501818,
+        523636,
+        545455,
+        567273,
+        589091,
+        610909,
+        632727,
+        654545,
+        676364,
+        698182,
+        720000,
+        741818,
+        763636,
+        785455,
+        807273,
+        829091,
+        850909,
+        872727,
+        894545,
+        916364,
+        938182,
+        960000,
+        981818,
+        1003636,
+        1025455,
+        1047273,
+        1069091,
+        1090909,
+        1112727,
+        1134545,
+        1156364,
+        1178182,
+        1200000,
+        1221818,
+        1243636,
+        1265455,
+        1287273,
+        1309091,
+        1330909,
+        1352727,
+        1374545,
+        1396364,
+        1418182,
+        1440000,
+        1461818,
+        1483636
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 456,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TillTheWorldEnds/nx/TillTheWorldEnds_banner_bkg.tga.ckd/d9d2f0a3afc64d0ee935918455307b00.ckd",
+      "map_bkgImageUrl": "/public/map/TillTheWorldEnds/nx/TillTheWorldEnds_map_bkg.tga.ckd/db568b1e1384f600e888626f69a741af.ckd",
+      "expandCoachImageUrl": "/public/map/TillTheWorldEnds/nx/TillTheWorldEnds_Cover_AlbumCoach.tga.ckd/cffd6ac9e934defb695ccfc69e8840ba.ckd",
+      "cover_smallImageUrl": "/public/map/TillTheWorldEnds/nx/TillTheWorldEnds_Cover_Online.tga.ckd/fbd93cdcc6dc49874c634b9427f0dd7d.ckd",
+      "coach1ImageUrl": "/public/map/TillTheWorldEnds/nx/TillTheWorldEnds_Coach_1.tga.ckd/1526d0549aea23daaa6d12b6f63ec6b6.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TillTheWorldEnds/pc/TillTheWorldEnds_banner_bkg.tga.ckd/81ad3d2862b96d555dc0f53a6a4d9d2c.ckd",
+      "map_bkgImageUrl": "/public/map/TillTheWorldEnds/pc/TillTheWorldEnds_map_bkg.tga.ckd/7ededb13ef0bb0a11c5b5666f9187411.ckd",
+      "expandCoachImageUrl": "/public/map/TillTheWorldEnds/pc/TillTheWorldEnds_Cover_AlbumCoach.tga.ckd/1c0fb3bdab6ed8c797b04bb8b7c46fdb.ckd",
+      "cover_smallImageUrl": "/public/map/TillTheWorldEnds/pc/TillTheWorldEnds_Cover_Online.tga.ckd/9a1c9016ab08f864590fcdde2e03e7e7.ckd",
+      "coach1ImageUrl": "/public/map/TillTheWorldEnds/pc/TillTheWorldEnds_Coach_1.tga.ckd/66ac9675be62ea987ea550c20131b7f9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TillTheWorldEnds/orbis/TillTheWorldEnds_banner_bkg.tga.ckd/81ad3d2862b96d555dc0f53a6a4d9d2c.ckd",
+      "map_bkgImageUrl": "/public/map/TillTheWorldEnds/orbis/TillTheWorldEnds_map_bkg.tga.ckd/7ededb13ef0bb0a11c5b5666f9187411.ckd",
+      "expandCoachImageUrl": "/public/map/TillTheWorldEnds/orbis/TillTheWorldEnds_Cover_AlbumCoach.tga.ckd/1c0fb3bdab6ed8c797b04bb8b7c46fdb.ckd",
+      "cover_smallImageUrl": "/public/map/TillTheWorldEnds/orbis/TillTheWorldEnds_Cover_Online.tga.ckd/9a1c9016ab08f864590fcdde2e03e7e7.ckd",
+      "coach1ImageUrl": "/public/map/TillTheWorldEnds/orbis/TillTheWorldEnds_Coach_1.tga.ckd/66ac9675be62ea987ea550c20131b7f9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TillTheWorldEnds/TillTheWorldEnds_Coach_1_Phone.png/d22ac7643937d3a222bcad3e524f4260.png",
+    "phoneCoverImageUrl": "/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_Phone.jpg/bbbaf1556f37db39a56d8e7320990a23.jpg",
+    "cover640ImageUrl": "/public/map/TillTheWorldEnds/TillTheWorldEnds_Cover_640.png/de8eb7eeb23b0fb765fb706765bb871b.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds.ogg": "/private/map/TillTheWorldEnds/TillTheWorldEnds.ogg/42084a2b94bc8092de55ed3e4ad54919.ogg",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_AudioPreview.ogg": "/public/map/TillTheWorldEnds/TillTheWorldEnds_AudioPreview.ogg/60827721f69f38a0a85dcd6e7d5b48c2.ogg",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_LOW.vp8.webm/466d363b53b97e62df534eac77c5dd83.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_HIGH.webm": "/private/map/TillTheWorldEnds/TillTheWorldEnds_HIGH.webm/2c977adc64ee6b059b6a7ae9b52bdf2f.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_LOW.webm": "/private/map/TillTheWorldEnds/TillTheWorldEnds_LOW.webm/365c4d96e1f5091b39438a12d68865b7.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MID.webm": "/private/map/TillTheWorldEnds/TillTheWorldEnds_MID.webm/08267f996cede43b23ebdf6f06c9a922.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_ULTRA.hd.webm": "/private/map/TillTheWorldEnds/TillTheWorldEnds_ULTRA.hd.webm/e4196a770dc03d9e2425c4775c1bae91.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_ULTRA.webm": "/private/map/TillTheWorldEnds/TillTheWorldEnds_ULTRA.webm/19a982903e890110f6dd06751bba57ea.webm",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_MID.vp8.webm/b1579d8eceee03d0fdf16ae28b0c69ee.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"539716\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"659-1149\">\n\t\t\t\t\t<Initialization range=\"0-659\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1496727\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"660-1150\">\n\t\t\t\t\t<Initialization range=\"0-660\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 210.410188
+}

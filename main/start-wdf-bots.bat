@@ -1,0 +1,2 @@
+node wdfBots.js
+pause

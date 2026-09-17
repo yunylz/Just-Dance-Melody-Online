@@ -1,0 +1,181 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "80efd691d22ed66201d47f9ab8313c08",
+      "storageType": 0,
+      "url": "/public/map/HeavyCross/nx/HeavyCross_MAIN_SCENE_NX.zip/80efd691d22ed66201d47f9ab8313c08.zip"
+    },
+    "pc": {
+      "md5": "7db32b41fd75fbc986f44d93f1c61cf8",
+      "storageType": 0,
+      "url": "/public/map/HeavyCross/pc/HeavyCross_MAIN_SCENE_PC.zip/7db32b41fd75fbc986f44d93f1c61cf8.zip"
+    },
+    "ps4": {
+      "md5": "9c62c8e33c06032134b4b34416ae6e02",
+      "storageType": 0,
+      "url": "/public/map/HeavyCross/orbis/HeavyCross_MAIN_SCENE_ORBIS.zip/9c62c8e33c06032134b4b34416ae6e02.zip"
+    }
+  },
+  "data": {
+    "mapName": "HeavyCross",
+    "title": "Heavy Cross",
+    "originalJDVersion": 4,
+    "tags": [
+      "Intense",
+      "Main",
+      "subscribedSong",
+      "JustDance4",
+      "forceRumble",
+      "Medium",
+      "Solo"
+    ],
+    "artist": "Gossip",
+    "credits": "Written by Mary Patterson, Nathan Howdeshell and Hannah Blilie. Published by Chrysalis Music (ASCAP) o/b/o Chrysalis Music Ltd (PRS). All rights administered by BMG Rights Management (US) LLC. Courtesy of Columbia Records. By arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#5f42c6",
+    "songColor2A": "#8cb6d4",
+    "songColor1B": "#000000",
+    "songColor2B": "#000000",
+    "lyricsColor": "#fff637",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25353,
+        50706,
+        76059,
+        101414,
+        125402,
+        149390,
+        173378,
+        197366,
+        221354,
+        245342,
+        269330,
+        293318,
+        317306,
+        341294,
+        365282,
+        389270,
+        413258,
+        437246,
+        461234,
+        485222,
+        509210,
+        533198,
+        557186,
+        581174,
+        605162,
+        629150,
+        653138,
+        677126,
+        701114,
+        725102,
+        749090,
+        773078,
+        797066,
+        821054,
+        845042,
+        869030,
+        893018,
+        917006,
+        940994,
+        964982,
+        988970,
+        1012958,
+        1036946,
+        1060934,
+        1084922,
+        1108910,
+        1132898,
+        1156886,
+        1180874,
+        1204862,
+        1228850,
+        1252838,
+        1276826,
+        1300814,
+        1324802,
+        1348790,
+        1372778,
+        1396766,
+        1420754,
+        1444742,
+        1468730,
+        1492718
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 493,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HeavyCross/HeavyCross_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HeavyCross/nx/HeavyCross_banner_bkg.tga.ckd/60a11bb1104eb8b589d24e10d8ea7507.ckd",
+      "map_bkgImageUrl": "/public/map/HeavyCross/nx/HeavyCross_map_bkg.tga.ckd/db88ccb62f9953699bfade1ec03b36b6.ckd",
+      "expandCoachImageUrl": "/public/map/HeavyCross/nx/HeavyCross_Cover_AlbumCoach.tga.ckd/1d0eb7e4d93d1ae02b3486b6357a2051.ckd",
+      "cover_smallImageUrl": "/public/map/HeavyCross/nx/HeavyCross_Cover_Online.tga.ckd/907bcc6498fcff3496b30a45cdd2aa89.ckd",
+      "coverImageUrl": "/public/map/HeavyCross/nx/HeavyCross_Cover_Generic.tga.ckd/ec3e7439ce799d5f6ac284dd4ffe4968.ckd",
+      "coach1ImageUrl": "/public/map/HeavyCross/nx/HeavyCross_Coach_1.tga.ckd/f6174b6ac81848168a6966b6bd054eed.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HeavyCross/pc/HeavyCross_banner_bkg.tga.ckd/2708e6b016594d382a3b74c9f6700142.ckd",
+      "map_bkgImageUrl": "/public/map/HeavyCross/pc/HeavyCross_map_bkg.tga.ckd/e2446bbe0cd1f0ebc3fc94f4e8d2ebca.ckd",
+      "expandCoachImageUrl": "/public/map/HeavyCross/pc/HeavyCross_Cover_AlbumCoach.tga.ckd/84f2cbfa8efbb468c0162ed82e430943.ckd",
+      "cover_smallImageUrl": "/public/map/HeavyCross/pc/HeavyCross_Cover_Online.tga.ckd/2cf7b3d464dbaea4483abfa7ed04bee0.ckd",
+      "coverImageUrl": "/public/map/HeavyCross/pc/HeavyCross_Cover_Generic.tga.ckd/92acc00d782165ee6caece6217a01ea1.ckd",
+      "coach1ImageUrl": "/public/map/HeavyCross/pc/HeavyCross_Coach_1.tga.ckd/e543ad28610d2fdf1c7d4dd7525059fb.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HeavyCross/orbis/HeavyCross_banner_bkg.tga.ckd/2708e6b016594d382a3b74c9f6700142.ckd",
+      "map_bkgImageUrl": "/public/map/HeavyCross/orbis/HeavyCross_map_bkg.tga.ckd/e2446bbe0cd1f0ebc3fc94f4e8d2ebca.ckd",
+      "expandCoachImageUrl": "/public/map/HeavyCross/orbis/HeavyCross_Cover_AlbumCoach.tga.ckd/84f2cbfa8efbb468c0162ed82e430943.ckd",
+      "cover_smallImageUrl": "/public/map/HeavyCross/orbis/HeavyCross_Cover_Online.tga.ckd/2cf7b3d464dbaea4483abfa7ed04bee0.ckd",
+      "coverImageUrl": "/public/map/HeavyCross/orbis/HeavyCross_Cover_Generic.tga.ckd/92acc00d782165ee6caece6217a01ea1.ckd",
+      "coach1ImageUrl": "/public/map/HeavyCross/orbis/HeavyCross_Coach_1.tga.ckd/e543ad28610d2fdf1c7d4dd7525059fb.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HeavyCross/HeavyCross_Coach_1_Phone.png/4b8fb805d64543f9500d1c3d7bde8304.png",
+    "phoneCoverImageUrl": "/public/map/HeavyCross/HeavyCross_Cover_Phone.jpg/7b4f31a766c9176410c77569b1e0269d.jpg",
+    "cover640ImageUrl": "/public/map/HeavyCross/HeavyCross_Cover_640.png/69e29033b91b1fb9ba6caba5c20311d6.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HeavyCross/HeavyCross_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HeavyCross/HeavyCross_MapPreviewNoSoundCrop_LOW.vp8.webm/bd8dafbc914b77e35a8c9694549f88ff.webm",
+    "jmcs://jd-contents/HeavyCross/HeavyCross.ogg": "/private/map/HeavyCross/HeavyCross.ogg/8a0402ec4f911c52a3038cc8f3fa70cc.ogg",
+    "jmcs://jd-contents/HeavyCross/HeavyCross_AudioPreview.ogg": "/public/map/HeavyCross/HeavyCross_AudioPreview.ogg/9b5f0cd382a44d1af70be915124ca195.ogg",
+    "jmcs://jd-contents/HeavyCross/HeavyCross_HIGH.webm": "/private/map/HeavyCross/HeavyCross_HIGH.webm/1f9dc31a9cb8cc8578cc3e03e66ba733.webm",
+    "jmcs://jd-contents/HeavyCross/HeavyCross_LOW.webm": "/private/map/HeavyCross/HeavyCross_LOW.webm/c0f85e629b13afe547d9a8f1a747468f.webm",
+    "jmcs://jd-contents/HeavyCross/HeavyCross_MID.webm": "/private/map/HeavyCross/HeavyCross_MID.webm/b7cdcc0a5fa3686e0868777a5bfc54ec.webm",
+    "jmcs://jd-contents/HeavyCross/HeavyCross_ULTRA.hd.webm": "/private/map/HeavyCross/HeavyCross_ULTRA.hd.webm/6769278c1078e4525640ee50b6aa456d.webm",
+    "jmcs://jd-contents/HeavyCross/HeavyCross_ULTRA.webm": "/private/map/HeavyCross/HeavyCross_ULTRA.webm/0fc7f349428a539576587501d90c346e.webm",
+    "jmcs://jd-contents/HeavyCross/HeavyCross_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HeavyCross/HeavyCross_MapPreviewNoSoundCrop_MID.vp8.webm/68872cbf01ca9e333b7dd6f9e2e06c4a.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496597\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeavyCross/HeavyCross_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"636-1125\">\n\t\t\t\t\t<Initialization range=\"0-636\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1477882\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HeavyCross/HeavyCross_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"637-1127\">\n\t\t\t\t\t<Initialization range=\"0-637\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 246.430958
+}

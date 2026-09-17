@@ -1,0 +1,159 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3b7a4fd440f0075eed2bfa51a49425e6",
+      "storageType": 0,
+      "url": "/public/map/APunk/nx/APunk_MAIN_SCENE_NX.zip/3b7a4fd440f0075eed2bfa51a49425e6.zip"
+    },
+    "pc": {
+      "md5": "441833d18cff75cb04980d4f293b870b",
+      "storageType": 0,
+      "url": "/public/map/APunk/pc/APunk_MAIN_SCENE_PC.zip/441833d18cff75cb04980d4f293b870b.zip"
+    },
+    "ps4": {
+      "md5": "726cf837415da3970712c2234ae7fed6",
+      "storageType": 0,
+      "url": "/public/map/APunk/orbis/APunk_MAIN_SCENE_ORBIS.zip/726cf837415da3970712c2234ae7fed6.zip"
+    }
+  },
+  "data": {
+    "mapName": "APunk",
+    "title": "A-Punk",
+    "originalJDVersion": 2,
+    "tags": [
+      "main"
+    ],
+    "artist": "Vampire Weekend",
+    "credits": "Written by R Batmanglij, E Koenig, C Tomson and C Baio. Published by Vampire Weekend Music (ASCAP). Courtesy of XL Recordings Ltd.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff8300",
+    "songColor2A": "#00d0aa",
+    "songColor1B": "#c1005c",
+    "songColor2B": "#01345c",
+    "lyricsColor": "#ca0526",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        43901,
+        87802,
+        131705,
+        164797,
+        197557,
+        230483,
+        263219,
+        296336,
+        329347,
+        362579,
+        395115,
+        428421,
+        460967,
+        494484,
+        527804,
+        560992,
+        592672,
+        626253,
+        659274,
+        692297,
+        724377,
+        758275,
+        789655,
+        823156,
+        856082,
+        889008,
+        921935,
+        954861,
+        987787,
+        1020714,
+        1053640,
+        1086566,
+        1119492,
+        1152419,
+        1185345,
+        1218271,
+        1251197,
+        1284124,
+        1317050,
+        1349976,
+        1382902,
+        1415829,
+        1448755,
+        1481681,
+        1514607
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 208,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 43,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/APunk/APunk_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/APunk/nx/APunk_banner_bkg.tga.ckd/a06bfc609afa0613b9a6bc0efad68063.ckd",
+      "map_bkgImageUrl": "/public/map/APunk/nx/APunk_map_bkg.tga.ckd/9f5ec164aa111bbcfd43dc2c403f7044.ckd",
+      "expandCoachImageUrl": "/public/map/APunk/nx/APunk_Cover_AlbumCoach.tga.ckd/d6a3436734cf5d287de1b3c5fd10c40c.ckd",
+      "cover_smallImageUrl": "/public/map/APunk/nx/APunk_Cover_Online.tga.ckd/ac0185a4587b6bd77080cfab463ad6d8.ckd",
+      "coach1ImageUrl": "/public/map/APunk/nx/APunk_Coach_1.tga.ckd/07bac92c66b03baf2451edaed50a5f31.ckd",
+      "coach2ImageUrl": "/public/map/APunk/nx/APunk_Coach_2.tga.ckd/7fccad95cf89bc8268125fe25854a9a9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/APunk/pc/APunk_banner_bkg.tga.ckd/a8a6c918f67452933db42067aa33fb6d.ckd",
+      "map_bkgImageUrl": "/public/map/APunk/pc/APunk_map_bkg.tga.ckd/2de169b1c390ee64d8de160818c74a27.ckd",
+      "expandCoachImageUrl": "/public/map/APunk/pc/APunk_Cover_AlbumCoach.tga.ckd/3387b0887f9eebe1b3cdabd041dd3193.ckd",
+      "cover_smallImageUrl": "/public/map/APunk/pc/APunk_Cover_Online.tga.ckd/571531058bad8e435e840eb4a142cc86.ckd",
+      "coach1ImageUrl": "/public/map/APunk/pc/APunk_Coach_1.tga.ckd/fd2fe2a3cf1e1e031f90b2e833052eb9.ckd",
+      "coach2ImageUrl": "/public/map/APunk/pc/APunk_Coach_2.tga.ckd/8ae4b054fa419cb75c807f12b703f9c9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/APunk/orbis/APunk_banner_bkg.tga.ckd/a8a6c918f67452933db42067aa33fb6d.ckd",
+      "map_bkgImageUrl": "/public/map/APunk/orbis/APunk_map_bkg.tga.ckd/2de169b1c390ee64d8de160818c74a27.ckd",
+      "expandCoachImageUrl": "/public/map/APunk/orbis/APunk_Cover_AlbumCoach.tga.ckd/3387b0887f9eebe1b3cdabd041dd3193.ckd",
+      "cover_smallImageUrl": "/public/map/APunk/orbis/APunk_Cover_Online.tga.ckd/571531058bad8e435e840eb4a142cc86.ckd",
+      "coach1ImageUrl": "/public/map/APunk/orbis/APunk_Coach_1.tga.ckd/fd2fe2a3cf1e1e031f90b2e833052eb9.ckd",
+      "coach2ImageUrl": "/public/map/APunk/orbis/APunk_Coach_2.tga.ckd/8ae4b054fa419cb75c807f12b703f9c9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/APunk/APunk_Coach_1_Phone.png/7b90c48bda424512074dabf8dac180b0.png",
+    "phoneCoach2ImageUrl": "/public/map/APunk/APunk_Coach_2_Phone.png/564e92fab0f8016113c796bee35b1d6e.png",
+    "phoneCoverImageUrl": "/public/map/APunk/APunk_Cover_Phone.jpg/addcd5c927fdb0356b5cef42045e3e0c.jpg",
+    "cover640ImageUrl": "/public/map/APunk/APunk_Cover_640.png/1788917593c655a92ffd2acaa241d214.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/APunk/APunk.ogg": "/private/map/APunk/APunk.ogg/f05a25d3323a72a14b20ec45885adfde.ogg",
+    "jmcs://jd-contents/APunk/APunk_AudioPreview.ogg": "/public/map/APunk/APunk_AudioPreview.ogg/3e3d83156a1e91dcc3ca623d5b8aac90.ogg",
+    "jmcs://jd-contents/APunk/APunk_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/APunk/APunk_MapPreviewNoSoundCrop_LOW.vp8.webm/cf14281f423a63b9629b149120ea089b.webm",
+    "jmcs://jd-contents/APunk/APunk_HIGH.webm": "/private/map/APunk/APunk_HIGH.webm/efee46605c54039296d04ac129163a9f.webm",
+    "jmcs://jd-contents/APunk/APunk_LOW.webm": "/private/map/APunk/APunk_LOW.webm/ba7ca8327ebad668016a1372a2117a51.webm",
+    "jmcs://jd-contents/APunk/APunk_MID.webm": "/private/map/APunk/APunk_MID.webm/f9f67f9608d65307aa4f5c6cfd66a427.webm",
+    "jmcs://jd-contents/APunk/APunk_ULTRA.hd.webm": "/private/map/APunk/APunk_ULTRA.hd.webm/c5c2d25fa5ffdaa86056520fff0a477e.webm",
+    "jmcs://jd-contents/APunk/APunk_ULTRA.webm": "/private/map/APunk/APunk_ULTRA.webm/996a4c40708884107b5f768517dfbf0b.webm",
+    "jmcs://jd-contents/APunk/APunk_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/APunk/APunk_MapPreviewNoSoundCrop_MID.vp8.webm/b847c164800a3768f06cc1d5661a8187.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"499636\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/APunk/APunk_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1482572\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/APunk/APunk_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 141.696
+}

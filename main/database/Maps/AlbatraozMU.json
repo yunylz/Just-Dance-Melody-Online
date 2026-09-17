@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/AlbatraozMU/AlbatraozMU.ogg": "/private/map/AlbatraozMU/AlbatraozMU.ogg/4116772de0f1fd6da1409af0e60da1ca.ogg",
+    "jmcs://jd-contents/AlbatraozMU/AlbatraozMU_AudioPreview.ogg": "/public/map/AlbatraozMU/AlbatraozMU_AudioPreview.ogg/b5702d1cf62c3ff541a644a97c2b61f9.ogg",
+    "jmcs://jd-contents/AlbatraozMU/AlbatraozMU_HIGH.hd.webm": "/private/map/AlbatraozMU/AlbatraozMU_HIGH.hd.webm/93b5c4d56870072a7c6c4eb86ceecc71.webm",
+    "jmcs://jd-contents/AlbatraozMU/AlbatraozMU_LOW.hd.webm": "/private/map/AlbatraozMU/AlbatraozMU_LOW.hd.webm/b4db464b3f1ef61c632f11c0028a3e1a.webm",
+    "jmcs://jd-contents/AlbatraozMU/AlbatraozMU_MID.hd.webm": "/private/map/AlbatraozMU/AlbatraozMU_MID.hd.webm/4b06d989286a6e9d746d32c8b37c8a2e.webm",
+    "jmcs://jd-contents/AlbatraozMU/AlbatraozMU_ULTRA.hd.webm": "/private/map/AlbatraozMU/AlbatraozMU_ULTRA.hd.webm/ba78068056fa8cc35c543acf6df040b3.webm",
+    "jmcs://jd-contents/AlbatraozMU/AlbatraozMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AlbatraozMU/AlbatraozMU_MapPreviewNoSoundCrop_LOW.vp8.webm/94f84563b0bab202ca0450ea69333392.webm",
+    "jmcs://jd-contents/AlbatraozMU/AlbatraozMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AlbatraozMU/AlbatraozMU_MapPreviewNoSoundCrop_MID.vp8.webm/d59e3fe96ede1d6b238c6e60d39b6343.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22512,
+        45024,
+        67488,
+        90000,
+        112512,
+        135024,
+        157488,
+        180000,
+        202512,
+        225024,
+        247488,
+        270000,
+        292512,
+        315024,
+        337488,
+        360000,
+        382512,
+        405024,
+        427488,
+        450000,
+        472512,
+        495024,
+        517488,
+        540000,
+        562512,
+        585024,
+        607488,
+        630001,
+        652513,
+        675025,
+        697489,
+        720001,
+        742513,
+        765025,
+        787489,
+        810001,
+        832513,
+        855025,
+        877489,
+        900001,
+        922513,
+        945025,
+        967489,
+        990001,
+        1012513,
+        1035025,
+        1057489,
+        1080001,
+        1102513,
+        1125025,
+        1147489,
+        1170001,
+        1192513,
+        1215025,
+        1237489,
+        1260002,
+        1282514,
+        1305026,
+        1327490,
+        1350002,
+        1372514,
+        1395026,
+        1417490,
+        1440002,
+        1462514,
+        1485026
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 333,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AlbatraozMU/AlbatraozMU_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"601068\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AlbatraozMU/AlbatraozMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2024293\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/AlbatraozMU/AlbatraozMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "75b29c40dfe6f0b59d022f641aa82e2a",
+      "storageType": 0,
+      "url": "/public/map/AlbatraozMU/nx/AlbatraozMU_MAIN_SCENE_NX.zip/75b29c40dfe6f0b59d022f641aa82e2a.zip"
+    },
+    "pc": {
+      "md5": "2e593376bf43edf952a32b76ebe8bfbb",
+      "storageType": 0,
+      "url": "/public/map/AlbatraozMU/pc/AlbatraozMU_MAIN_SCENE_PC.zip/2e593376bf43edf952a32b76ebe8bfbb.zip"
+    },
+    "ps4": {
+      "md5": "5c4f06ed7518a32cdd1c1f1027cde666",
+      "storageType": 0,
+      "url": "/public/map/AlbatraozMU/orbis/AlbatraozMU_MAIN_SCENE_ORBIS.zip/5c4f06ed7518a32cdd1c1f1027cde666.zip"
+    }
+  },
+  "data": {
+    "mapName": "AlbatraozMU",
+    "title": "I'm An Albatraoz ",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "AronChupa",
+    "credits": "Written by Aron Ekberg and Nora Ekberg. Published by Sony/ATV Music Publishing (Scandinavia) KB (STIM) and Sony/ATV Music Publishing Allegro (Scandinavia) KB (STIM) c/o Sony/ATV Music Publishing Canada (SOCAN). All rights reserved.  Used with permission. Courtesy of Ultra Records.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff74d1",
+    "songColor2A": "#f9cc95",
+    "songColor1B": "#0c000e",
+    "songColor2B": "#2a1d03",
+    "lyricsColor": "#ff17c6",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AlbatraozMU/nx/AlbatraozMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/AlbatraozMU/nx/AlbatraozMU_map_bkg.tga.ckd/58cfed51a3b189ff3b379a15d0b0ed31.ckd",
+      "expandCoachImageUrl": "/public/map/AlbatraozMU/nx/AlbatraozMU_Cover_AlbumCoach.tga.ckd/d4b31af0ec468a473efb32ec2e095b64.ckd",
+      "cover_smallImageUrl": "/public/map/AlbatraozMU/nx/AlbatraozMU_Cover_Online.tga.ckd/6c6712ad3f122833131b23f058f4fbbb.ckd",
+      "coverImageUrl": "/public/map/AlbatraozMU/nx/AlbatraozMU_Cover_Generic.tga.ckd/68e1ff45e9bbf0a3f7d3d1d9e1cf5651.ckd",
+      "coach1ImageUrl": "/public/map/AlbatraozMU/nx/AlbatraozMU_Coach_1.tga.ckd/109e0e4def0f1998bbd041562191eb71.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AlbatraozMU/pc/AlbatraozMU_banner_bkg.tga.ckd/21a9f5c11e0239ee94166f3c8f6a8e25.ckd",
+      "map_bkgImageUrl": "/public/map/AlbatraozMU/pc/AlbatraozMU_map_bkg.tga.ckd/ce31d4661780397666339c5ed6e1ad4b.ckd",
+      "expandCoachImageUrl": "/public/map/AlbatraozMU/pc/AlbatraozMU_Cover_AlbumCoach.tga.ckd/64db1ccddc263a4431cd084f6b2da4c1.ckd",
+      "cover_smallImageUrl": "/public/map/AlbatraozMU/pc/AlbatraozMU_Cover_Online.tga.ckd/0245509adcf5946f672f9005dec5e17c.ckd",
+      "coverImageUrl": "/public/map/AlbatraozMU/pc/AlbatraozMU_Cover_Generic.tga.ckd/0ebf2247207aeac29a2316de7eeae9f1.ckd",
+      "coach1ImageUrl": "/public/map/AlbatraozMU/pc/AlbatraozMU_Coach_1.tga.ckd/7f3fda7aa54e26708007d9c0f0bf0639.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AlbatraozMU/orbis/AlbatraozMU_banner_bkg.tga.ckd/21a9f5c11e0239ee94166f3c8f6a8e25.ckd",
+      "map_bkgImageUrl": "/public/map/AlbatraozMU/orbis/AlbatraozMU_map_bkg.tga.ckd/ce31d4661780397666339c5ed6e1ad4b.ckd",
+      "expandCoachImageUrl": "/public/map/AlbatraozMU/orbis/AlbatraozMU_Cover_AlbumCoach.tga.ckd/64db1ccddc263a4431cd084f6b2da4c1.ckd",
+      "cover_smallImageUrl": "/public/map/AlbatraozMU/orbis/AlbatraozMU_Cover_Online.tga.ckd/0245509adcf5946f672f9005dec5e17c.ckd",
+      "coverImageUrl": "/public/map/AlbatraozMU/orbis/AlbatraozMU_Cover_Generic.tga.ckd/0ebf2247207aeac29a2316de7eeae9f1.ckd",
+      "coach1ImageUrl": "/public/map/AlbatraozMU/orbis/AlbatraozMU_Coach_1.tga.ckd/7f3fda7aa54e26708007d9c0f0bf0639.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AlbatraozMU/AlbatraozMU_Coach_1_Phone.png/38097c51549a71a8641bb211172e8f42.png",
+    "phoneCoverImageUrl": "/public/map/AlbatraozMU/AlbatraozMU_Cover_Phone.jpg/ae21d8354a9c33387b000b39ea76f34e.jpg",
+    "cover640ImageUrl": "/public/map/AlbatraozMU/AlbatraozMU_Cover_640.png/a013be34abebe7d1485a1815c0a7758f.png"
+  },
+  "mapLength": 155.15625
+}

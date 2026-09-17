@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "fa4e9c729c20ca13ade2fee124d22542",
+      "storageType": 0,
+      "url": "/public/map/TitiMePregunto/nx/TitiMePregunto_MAIN_SCENE_NX.zip/fa4e9c729c20ca13ade2fee124d22542.zip"
+    },
+    "pc": {
+      "md5": "2bbbc69c9f5c0813c7cadb0796aa5c9d",
+      "storageType": 0,
+      "url": "/public/map/TitiMePregunto/pc/TitiMePregunto_MAIN_SCENE_PC.zip/2bbbc69c9f5c0813c7cadb0796aa5c9d.zip"
+    },
+    "ps4": {
+      "md5": "43d1d80f39f082b2158b7436146d7bd5",
+      "storageType": 0,
+      "url": "/public/map/TitiMePregunto/orbis/TitiMePregunto_MAIN_SCENE_ORBIS.zip/43d1d80f39f082b2158b7436146d7bd5.zip"
+    }
+  },
+  "data": {
+    "mapName": "TitiMePregunto",
+    "title": "Tití Me Preguntó",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Bad Bunny",
+    "credits": "Written by Benito Antonio Martinez Ocasio, Marco Borrero, Roberto J. Rosado Torres. Published by Universal Music Publishing Canada on behalf of RSM Publishing A Division of Rimas Entertainment and Universal Music Corp. / Marco Borrero BMI pub designee. All rights on behalf of Marco Borrero BMI pub designee administered by Warner-Tamerlane Publishing Corp. / Roberto J. Rosado Torres. Courtesy of RIMAS Entertainment LLC. By arrangement with The Orchard.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#75f5b5",
+    "songColor2A": "#ffef85",
+    "songColor1B": "#0e35b8",
+    "songColor2B": "#9700b8",
+    "lyricsColor": "#00d2ff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27961,
+        55922,
+        83883,
+        111845,
+        139806,
+        167767,
+        195728,
+        223689,
+        251650,
+        279612,
+        307573,
+        335534,
+        363495,
+        391456,
+        419417,
+        447379,
+        475340,
+        503301,
+        531262,
+        559223,
+        587184,
+        615146,
+        643107,
+        671068,
+        699029,
+        726990,
+        754951,
+        782913,
+        810874,
+        838835,
+        866796,
+        894757,
+        922718,
+        950680,
+        978641,
+        1006602,
+        1034563,
+        1062524,
+        1090485,
+        1118447,
+        1146408,
+        1174369,
+        1202330,
+        1230291,
+        1258252,
+        1286214,
+        1314175,
+        1342136,
+        1370097,
+        1398058,
+        1426019,
+        1453938,
+        1479884,
+        1505830
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 429,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TitiMePregunto/TitiMePregunto_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TitiMePregunto/nx/TitiMePregunto_banner_bkg.tga.ckd/b26e387e1fb110a2aa051c994afbae1a.ckd",
+      "map_bkgImageUrl": "/public/map/TitiMePregunto/nx/TitiMePregunto_map_bkg.tga.ckd/fcbf53b86dd526ae04c4cc303f188550.ckd",
+      "expandCoachImageUrl": "/public/map/TitiMePregunto/nx/TitiMePregunto_Cover_AlbumCoach.tga.ckd/88bf6e0baa5ec8dbb7fc216b74c8a028.ckd",
+      "cover_smallImageUrl": "/public/map/TitiMePregunto/nx/TitiMePregunto_Cover_Online.tga.ckd/81c9e535061bd6f640971c0d718f6a6f.ckd",
+      "coverImageUrl": "/public/map/TitiMePregunto/nx/TitiMePregunto_Cover_Generic.tga.ckd/a1004eacc52048a1ef1893c69249da4a.ckd",
+      "coach1ImageUrl": "/public/map/TitiMePregunto/nx/TitiMePregunto_Coach_1.tga.ckd/69deede98e180d96a3f3279a252ec271.ckd",
+      "coach2ImageUrl": "/public/map/TitiMePregunto/nx/TitiMePregunto_Coach_2.tga.ckd/e0822ac20084caab3488600291cc32ce.ckd",
+      "coach3ImageUrl": "/public/map/TitiMePregunto/nx/TitiMePregunto_Coach_3.tga.ckd/2b1670e958c3ec87882290c9d7a475f9.ckd",
+      "coach4ImageUrl": "/public/map/TitiMePregunto/nx/TitiMePregunto_Coach_4.tga.ckd/b33d6cec6436cb3fc304aa07954e165f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TitiMePregunto/pc/TitiMePregunto_banner_bkg.tga.ckd/1f6dd09aab0aea1740a44db54c1cda88.ckd",
+      "map_bkgImageUrl": "/public/map/TitiMePregunto/pc/TitiMePregunto_map_bkg.tga.ckd/86fff6a70d2b60e7d6598f6cd41c0c15.ckd",
+      "expandCoachImageUrl": "/public/map/TitiMePregunto/pc/TitiMePregunto_Cover_AlbumCoach.tga.ckd/c2e479c18ba875a0ae82004f17a28796.ckd",
+      "cover_smallImageUrl": "/public/map/TitiMePregunto/pc/TitiMePregunto_Cover_Online.tga.ckd/a66a654433bc91d493bf7e9a1403b2fd.ckd",
+      "coverImageUrl": "/public/map/TitiMePregunto/pc/TitiMePregunto_Cover_Generic.tga.ckd/b198d687d13385841ec803410606c894.ckd",
+      "coach1ImageUrl": "/public/map/TitiMePregunto/pc/TitiMePregunto_Coach_1.tga.ckd/7b6792fbc36a8a7ea755a9325900a8c4.ckd",
+      "coach2ImageUrl": "/public/map/TitiMePregunto/pc/TitiMePregunto_Coach_2.tga.ckd/e7ee968b8a603b6074bd6f707a74f207.ckd",
+      "coach3ImageUrl": "/public/map/TitiMePregunto/pc/TitiMePregunto_Coach_3.tga.ckd/a225ce2a0c951605946d95b1ec38f6c8.ckd",
+      "coach4ImageUrl": "/public/map/TitiMePregunto/pc/TitiMePregunto_Coach_4.tga.ckd/c9e091ba6a1632e5be3c29423e49a0c5.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TitiMePregunto/orbis/TitiMePregunto_banner_bkg.tga.ckd/1f6dd09aab0aea1740a44db54c1cda88.ckd",
+      "map_bkgImageUrl": "/public/map/TitiMePregunto/orbis/TitiMePregunto_map_bkg.tga.ckd/86fff6a70d2b60e7d6598f6cd41c0c15.ckd",
+      "expandCoachImageUrl": "/public/map/TitiMePregunto/orbis/TitiMePregunto_Cover_AlbumCoach.tga.ckd/c2e479c18ba875a0ae82004f17a28796.ckd",
+      "cover_smallImageUrl": "/public/map/TitiMePregunto/orbis/TitiMePregunto_Cover_Online.tga.ckd/a66a654433bc91d493bf7e9a1403b2fd.ckd",
+      "coverImageUrl": "/public/map/TitiMePregunto/orbis/TitiMePregunto_Cover_Generic.tga.ckd/b198d687d13385841ec803410606c894.ckd",
+      "coach1ImageUrl": "/public/map/TitiMePregunto/orbis/TitiMePregunto_Coach_1.tga.ckd/7b6792fbc36a8a7ea755a9325900a8c4.ckd",
+      "coach2ImageUrl": "/public/map/TitiMePregunto/orbis/TitiMePregunto_Coach_2.tga.ckd/e7ee968b8a603b6074bd6f707a74f207.ckd",
+      "coach3ImageUrl": "/public/map/TitiMePregunto/orbis/TitiMePregunto_Coach_3.tga.ckd/a225ce2a0c951605946d95b1ec38f6c8.ckd",
+      "coach4ImageUrl": "/public/map/TitiMePregunto/orbis/TitiMePregunto_Coach_4.tga.ckd/c9e091ba6a1632e5be3c29423e49a0c5.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TitiMePregunto/TitiMePregunto_Coach_1_Phone.png/ecc488a33968803b671ddb63de8c4fdf.png",
+    "phoneCoach2ImageUrl": "/public/map/TitiMePregunto/TitiMePregunto_Coach_2_Phone.png/e870ea629dd8edd204583feef3d4d338.png",
+    "phoneCoach3ImageUrl": "/public/map/TitiMePregunto/TitiMePregunto_Coach_3_Phone.png/19d96a5184bd1d1bd346d01843b0d61b.png",
+    "phoneCoverImageUrl": "/public/map/TitiMePregunto/TitiMePregunto_Cover_Phone.jpg/0e2ce961564f4d660ab5dc7df5d7737d.jpg",
+    "cover640ImageUrl": "/public/map/TitiMePregunto/TitiMePregunto_Cover_640.png/640fd3d7c931b0f74454bcc24b89e247.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/TitiMePregunto/TitiMePregunto.ogg": "/private/map/TitiMePregunto/TitiMePregunto.ogg/4369941df665074cd50008c953ed241b.ogg",
+    "jmcs://jd-contents/TitiMePregunto/TitiMePregunto_AudioPreview.ogg": "/public/map/TitiMePregunto/TitiMePregunto_AudioPreview.ogg/78e9b144914fabba46da33a0ee562918.ogg",
+    "jmcs://jd-contents/TitiMePregunto/TitiMePregunto_HIGH.webm": "/private/map/TitiMePregunto/TitiMePregunto_HIGH.webm/4d3bfe8efd1a2d50032fc3d5f1b0dcfd.webm",
+    "jmcs://jd-contents/TitiMePregunto/TitiMePregunto_LOW.webm": "/private/map/TitiMePregunto/TitiMePregunto_LOW.webm/fe2a9d0a81310c9c2b5c8313c0315d97.webm",
+    "jmcs://jd-contents/TitiMePregunto/TitiMePregunto_MID.webm": "/private/map/TitiMePregunto/TitiMePregunto_MID.webm/11affb3edd2eb1b4b502511ebde51fb6.webm",
+    "jmcs://jd-contents/TitiMePregunto/TitiMePregunto_ULTRA.hd.webm": "/private/map/TitiMePregunto/TitiMePregunto_ULTRA.hd.webm/9bc23a6b597c60e8d7675aa3b01fe6d2.webm",
+    "jmcs://jd-contents/TitiMePregunto/TitiMePregunto_ULTRA.webm": "/private/map/TitiMePregunto/TitiMePregunto_ULTRA.webm/971e90b5ea160ae404e71e5be4d0f370.webm",
+    "jmcs://jd-contents/TitiMePregunto/TitiMePregunto_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TitiMePregunto/TitiMePregunto_MapPreviewNoSoundCrop_LOW.vp8.webm/6b9535b28241eae0a6d336c9144f6eaa.webm",
+    "jmcs://jd-contents/TitiMePregunto/TitiMePregunto_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TitiMePregunto/TitiMePregunto_MapPreviewNoSoundCrop_MID.vp8.webm/f6828013c2e234acd39b69934f82569d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"600476\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TitiMePregunto/TitiMePregunto_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\n\t\t\t\t\t<Initialization range=\"0-648\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1521615\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TitiMePregunto/TitiMePregunto_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\n\t\t\t\t\t<Initialization range=\"0-648\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 245.174479
+}

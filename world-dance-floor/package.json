@@ -1,0 +1,41 @@
+{
+  "name": "world-dance-floor",
+  "version": "1.0.0",
+  "description": "World Dance Floor server for Just Dance Melody Online!",
+  "homepage": "https://github.com/JustDanceMelodyOnline/world-dance-floor#readme",
+  "bugs": {
+    "url": "https://github.com/JustDanceMelodyOnline/world-dance-floor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustDanceMelodyOnline/world-dance-floor.git"
+  },
+  "license": "UNLICENSED",
+  "author": "devvie",
+  "type": "commonjs",
+  "main": "dist/server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "ts-node src/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^3.2.6",
+    "dotenv": "^17.2.3",
+    "dotenv-expand": "^12.0.3",
+    "express": "^5.2.1",
+    "later": "^1.2.0",
+    "redis": "^5.10.0",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "@types/async": "^3.2.25",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3"
+  }
+}

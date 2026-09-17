@@ -1,0 +1,165 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ab358b3767981f05fc8a9c0926046f37",
+      "storageType": 0,
+      "url": "/public/map/BeatMatch/nx/BeatMatch_MAIN_SCENE_NX.zip/ab358b3767981f05fc8a9c0926046f37.zip"
+    },
+    "pc": {
+      "md5": "393c22dc58ed038d8ac4135fa0293ffb",
+      "storageType": 0,
+      "url": "/public/map/BeatMatch/pc/BeatMatch_MAIN_SCENE_PC.zip/393c22dc58ed038d8ac4135fa0293ffb.zip"
+    },
+    "ps4": {
+      "md5": "044c52973ee825f1c35fc16398d3c45e",
+      "storageType": 0,
+      "url": "/public/map/BeatMatch/orbis/BeatMatch_MAIN_SCENE_ORBIS.zip/044c52973ee825f1c35fc16398d3c45e.zip"
+    }
+  },
+  "data": {
+    "mapName": "BeatMatch",
+    "title": "Beat Match Until I’m Blue",
+    "originalJDVersion": 3,
+    "tags": [
+      "jd2022",
+      "main_2022",
+      "subscribedSong",
+      "JustDance3",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Sweat Invaders",
+    "credits": "douls",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#03a679",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        58652,
+        94597,
+        130541,
+        166764,
+        203127,
+        239489,
+        273905,
+        302142,
+        330378,
+        358614,
+        386850,
+        415086,
+        443322,
+        471559,
+        499795,
+        528031,
+        556267,
+        584503,
+        612740,
+        640976,
+        669212,
+        697448,
+        725684,
+        753921,
+        782157,
+        810393,
+        838629,
+        866865,
+        895102,
+        923338,
+        951574,
+        979810,
+        1008046,
+        1036282,
+        1064519,
+        1092755,
+        1120991,
+        1149227,
+        1177463,
+        1205700,
+        1233936,
+        1262172,
+        1290408,
+        1318644,
+        1346881,
+        1375117,
+        1403353,
+        1431589,
+        1459825,
+        1488062
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 372,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 48,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BeatMatch/BeatMatch_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BeatMatch/nx/BeatMatch_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/BeatMatch/nx/BeatMatch_map_bkg.tga.ckd/185cd8feb05a80cc1e1cb83b9ef960a5.ckd",
+      "expandCoachImageUrl": "/public/map/BeatMatch/nx/BeatMatch_Cover_AlbumCoach.tga.ckd/aece3254581194aa0ffa7533cf0fb097.ckd",
+      "cover_smallImageUrl": "/public/map/BeatMatch/nx/BeatMatch_Cover_Online.tga.ckd/c2b417c82ecf63a2aea2f752421618df.ckd",
+      "coach1ImageUrl": "/public/map/BeatMatch/nx/BeatMatch_Coach_1.tga.ckd/34b8f0d7b52a112a64d797fc8addf8c9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BeatMatch/pc/BeatMatch_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/BeatMatch/pc/BeatMatch_map_bkg.tga.ckd/ef018329c3496f4253a560220e080f1f.ckd",
+      "expandCoachImageUrl": "/public/map/BeatMatch/pc/BeatMatch_Cover_AlbumCoach.tga.ckd/fe19ebff3a3d72aacf6efd94e58e109d.ckd",
+      "cover_smallImageUrl": "/public/map/BeatMatch/pc/BeatMatch_Cover_Online.tga.ckd/24d0284245b52f33e09724cf782aa13c.ckd",
+      "coach1ImageUrl": "/public/map/BeatMatch/pc/BeatMatch_Coach_1.tga.ckd/72abcf8477a3b0ecc642c6a38493db3c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BeatMatch/orbis/BeatMatch_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/BeatMatch/orbis/BeatMatch_map_bkg.tga.ckd/ef018329c3496f4253a560220e080f1f.ckd",
+      "expandCoachImageUrl": "/public/map/BeatMatch/orbis/BeatMatch_Cover_AlbumCoach.tga.ckd/fe19ebff3a3d72aacf6efd94e58e109d.ckd",
+      "cover_smallImageUrl": "/public/map/BeatMatch/orbis/BeatMatch_Cover_Online.tga.ckd/24d0284245b52f33e09724cf782aa13c.ckd",
+      "coach1ImageUrl": "/public/map/BeatMatch/orbis/BeatMatch_Coach_1.tga.ckd/72abcf8477a3b0ecc642c6a38493db3c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BeatMatch/BeatMatch_Coach_1_Phone.png/af0e1c78196cfca41f205aad7c8dbffd.png",
+    "phoneCoverImageUrl": "/public/map/BeatMatch/BeatMatch_Cover_Phone.jpg/2fc9556f15ec43ae964ae7648e37b4b6.jpg",
+    "cover640ImageUrl": "/public/map/BeatMatch/BeatMatch_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BeatMatch/BeatMatch.ogg": "/private/map/BeatMatch/BeatMatch.ogg/c76f73562748e466d3ca20b281892333.ogg",
+    "jmcs://jd-contents/BeatMatch/BeatMatch_AudioPreview.ogg": "/public/map/BeatMatch/BeatMatch_AudioPreview.ogg/197c764859d8c69f3a8c96c5da4497b9.ogg",
+    "jmcs://jd-contents/BeatMatch/BeatMatch_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BeatMatch/BeatMatch_MapPreviewNoSoundCrop_LOW.vp8.webm/31126e749081f5675bf9d956316fa45d.webm",
+    "jmcs://jd-contents/BeatMatch/BeatMatch_HIGH.webm": "/private/map/BeatMatch/BeatMatch_HIGH.webm/86abe03bfa8608fe93570cc61d833f74.webm",
+    "jmcs://jd-contents/BeatMatch/BeatMatch_LOW.webm": "/private/map/BeatMatch/BeatMatch_LOW.webm/cc198b2cd3e263dce3a775706362ec91.webm",
+    "jmcs://jd-contents/BeatMatch/BeatMatch_MID.webm": "/private/map/BeatMatch/BeatMatch_MID.webm/0b06a0da3f1c4c4b169c356f774e5289.webm",
+    "jmcs://jd-contents/BeatMatch/BeatMatch_ULTRA.hd.webm": "/private/map/BeatMatch/BeatMatch_ULTRA.hd.webm/13fb726be0193a1686640899b8925834.webm",
+    "jmcs://jd-contents/BeatMatch/BeatMatch_ULTRA.webm": "/private/map/BeatMatch/BeatMatch_ULTRA.webm/c8326677a1a30a0d8ad6b7fec66c122f.webm",
+    "jmcs://jd-contents/BeatMatch/BeatMatch_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BeatMatch/BeatMatch_MapPreviewNoSoundCrop_MID.vp8.webm/186b91fbd8431ea34395e9fd34ef9ed4.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"508314\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BeatMatch/BeatMatch_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1497520\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BeatMatch/BeatMatch_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 220.775292
+}

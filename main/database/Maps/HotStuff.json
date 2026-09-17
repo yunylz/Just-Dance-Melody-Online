@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "b167fb0f0a39b1cae7e2033d09bb8e13",
+      "storageType": 0,
+      "url": "/public/map/HotStuff/nx/HotStuff_MAIN_SCENE_NX.zip/b167fb0f0a39b1cae7e2033d09bb8e13.zip"
+    },
+    "pc": {
+      "md5": "7fa32fdd1b77382154794a551db66fd3",
+      "storageType": 0,
+      "url": "/public/map/HotStuff/pc/HotStuff_MAIN_SCENE_PC.zip/7fa32fdd1b77382154794a551db66fd3.zip"
+    },
+    "ps4": {
+      "md5": "bc050ed8f695ae34f7bf3b2c675c8ff3",
+      "storageType": 0,
+      "url": "/public/map/HotStuff/orbis/HotStuff_MAIN_SCENE_ORBIS.zip/bc050ed8f695ae34f7bf3b2c675c8ff3.zip"
+    }
+  },
+  "data": {
+    "mapName": "HotStuff",
+    "title": "Hot Stuff",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Donna Summer",
+    "credits": "Donna Summer - ''Hot Stuff'' Written by Pete Bellotte, Keith Forsey And Harold. Published by WB Music Corp. (ASCAP). All rights reserved. Courtesy of The Island Def Jam Music Group, under license from Universal Music Canada.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#7500B8",
+    "songColor2A": "#FF9A28",
+    "songColor1B": "#000A4C",
+    "songColor2B": "#3F0037",
+    "lyricsColor": "#FE4DDA",
+    "LocaleId": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23908,
+        47815,
+        71357,
+        95264,
+        119172,
+        143445,
+        167353,
+        191260,
+        215168,
+        239075,
+        262982,
+        286890,
+        310797,
+        334705,
+        358612,
+        382520,
+        406427,
+        430335,
+        454242,
+        478150,
+        502057,
+        525965,
+        549872,
+        573780,
+        597687,
+        621595,
+        646094,
+        670002,
+        693909,
+        717817,
+        741724,
+        765632,
+        789539,
+        812332,
+        836762,
+        860670,
+        884577,
+        908485,
+        932392,
+        956299,
+        980207,
+        1004114,
+        1028022,
+        1051929,
+        1075837,
+        1099744,
+        1123652,
+        1147559,
+        1171467,
+        1195374,
+        1219282,
+        1243189,
+        1267097,
+        1291004,
+        1314912,
+        1338819,
+        1362727,
+        1386634,
+        1410542,
+        1434449
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 468,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/hotstuff/hotstuff_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HotStuff/nx/HotStuff_banner_bkg.tga.ckd/580c0782e71ab3f7a3fbf2ec8f1795b0.ckd",
+      "map_bkgImageUrl": "/public/map/HotStuff/nx/HotStuff_map_bkg.tga.ckd/1e1144bfb447a5dba22e10cc1b406c5e.ckd",
+      "expandCoachImageUrl": "/public/map/HotStuff/nx/HotStuff_Cover_AlbumCoach.tga.ckd/1fb3b125c72b65c803c956a0be8a16dd.ckd",
+      "cover_smallImageUrl": "/public/map/HotStuff/nx/HotStuff_Cover_Online.tga.ckd/e763973f90861d01c8bc7d27cc23dd21.ckd",
+      "coach1ImageUrl": "/public/map/HotStuff/nx/HotStuff_Coach_1.tga.ckd/76d8ce125b271809fa5cd469247ecf46.ckd",
+      "coach2ImageUrl": "/public/map/HotStuff/nx/HotStuff_Coach_2.tga.ckd/4ac4a151ebf149d87d1840f27736c30b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HotStuff/pc/HotStuff_banner_bkg.tga.ckd/ebf63bb45a3c1e1f71bad062949cfa61.ckd",
+      "map_bkgImageUrl": "/public/map/HotStuff/pc/HotStuff_map_bkg.tga.ckd/022b81fe542f91a2358e13679a28eb8d.ckd",
+      "expandCoachImageUrl": "/public/map/HotStuff/pc/HotStuff_Cover_AlbumCoach.tga.ckd/618a839091c3c2fcddd1fca473b073e4.ckd",
+      "cover_smallImageUrl": "/public/map/HotStuff/pc/HotStuff_Cover_Online.tga.ckd/aa137667cd337604995bb27203c6d501.ckd",
+      "coach1ImageUrl": "/public/map/HotStuff/pc/HotStuff_Coach_1.tga.ckd/8de0542ea6307bc49053f162753cc08e.ckd",
+      "coach2ImageUrl": "/public/map/HotStuff/pc/HotStuff_Coach_2.tga.ckd/ae45d11c96258b0c18d724d50892d9bd.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HotStuff/orbis/HotStuff_banner_bkg.tga.ckd/ebf63bb45a3c1e1f71bad062949cfa61.ckd",
+      "map_bkgImageUrl": "/public/map/HotStuff/orbis/HotStuff_map_bkg.tga.ckd/022b81fe542f91a2358e13679a28eb8d.ckd",
+      "expandCoachImageUrl": "/public/map/HotStuff/orbis/HotStuff_Cover_AlbumCoach.tga.ckd/618a839091c3c2fcddd1fca473b073e4.ckd",
+      "cover_smallImageUrl": "/public/map/HotStuff/orbis/HotStuff_Cover_Online.tga.ckd/aa137667cd337604995bb27203c6d501.ckd",
+      "coach1ImageUrl": "/public/map/HotStuff/orbis/HotStuff_Coach_1.tga.ckd/8de0542ea6307bc49053f162753cc08e.ckd",
+      "coach2ImageUrl": "/public/map/HotStuff/orbis/HotStuff_Coach_2.tga.ckd/ae45d11c96258b0c18d724d50892d9bd.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HotStuff/HotStuff_Coach_1_Phone.png/5988635c756b9c1af05c1cc3bb7b7e06.png",
+    "phoneCoach2ImageUrl": "/public/map/HotStuff/HotStuff_Coach_2_Phone.png/4329a236e46a48c947f9034114c77a25.png",
+    "phoneCoverImageUrl": "/public/map/HotStuff/HotStuff_Cover_Phone.jpg/54960bae27716e45e908b18b75aecbf0.jpg",
+    "cover640ImageUrl": "/public/map/HotStuff/HotStuff_Cover_640.png/d2270e05ad2492eac9600a720bd25dbe.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/HotStuff/HotStuff.ogg": "/private/map/HotStuff/HotStuff.ogg/af241c2008e967178eca4bf7d25352ec.ogg",
+    "jmcs://jd-contents/HotStuff/HotStuff_AudioPreview.ogg": "/public/map/HotStuff/HotStuff_AudioPreview.ogg/4adfad14e4b5977b1fe4523209165bc6.ogg",
+    "jmcs://jd-contents/HotStuff/HotStuff_HIGH.webm": "/private/map/HotStuff/HotStuff_HIGH.webm/f3253207911596d8e5eaa2c57dab2add.webm",
+    "jmcs://jd-contents/HotStuff/HotStuff_LOW.webm": "/private/map/HotStuff/HotStuff_LOW.webm/88b48666f304cf2fae972e88bc754dae.webm",
+    "jmcs://jd-contents/HotStuff/HotStuff_MID.webm": "/private/map/HotStuff/HotStuff_MID.webm/e7091309e684cb1e072501ed720eeefc.webm",
+    "jmcs://jd-contents/HotStuff/HotStuff_ULTRA.hd.webm": "/private/map/HotStuff/HotStuff_ULTRA.hd.webm/2bbe81fee98cf6c9cf29ea91796e95ed.webm",
+    "jmcs://jd-contents/HotStuff/HotStuff_ULTRA.webm": "/private/map/HotStuff/HotStuff_ULTRA.webm/f918e4b1593d3293d8b2e5ed2eb68318.webm",
+    "jmcs://jd-contents/HotStuff/HotStuff_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HotStuff/HotStuff_MapPreviewNoSoundCrop_LOW.vp8.webm/c049bdf96b1183f669a583863d77c039.webm",
+    "jmcs://jd-contents/HotStuff/HotStuff_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HotStuff/HotStuff_MapPreviewNoSoundCrop_MID.vp8.webm/efe331f8c44d00e76d0a14cefe916315.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496429\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HotStuff/HotStuff_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"628-1117\">\n\t\t\t\t\t<Initialization range=\"0-628\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1472875\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HotStuff/HotStuff_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"629-1119\">\n\t\t\t\t\t<Initialization range=\"0-629\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 233.754688
+}

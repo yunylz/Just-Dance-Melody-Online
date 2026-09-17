@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/FunkyTown/FunkyTown.ogg": "/private/map/FunkyTown/FunkyTown.ogg/5854f2cc11cef086298376a8f1bb10c2.ogg",
+    "jmcs://jd-contents/FunkyTown/FunkyTown_AudioPreview.ogg": "/public/map/FunkyTown/FunkyTown_AudioPreview.ogg/1ea184422acb9dd92c03974963cfb906.ogg",
+    "jmcs://jd-contents/FunkyTown/FunkyTown_HIGH.hd.webm": "/private/map/FunkyTown/FunkyTown_HIGH.hd.webm/f5997a60447a34adb9d692ca95602177.webm",
+    "jmcs://jd-contents/FunkyTown/FunkyTown_LOW.hd.webm": "/private/map/FunkyTown/FunkyTown_LOW.hd.webm/9213771d4edeb2378a25b28161ca35da.webm",
+    "jmcs://jd-contents/FunkyTown/FunkyTown_MID.hd.webm": "/private/map/FunkyTown/FunkyTown_MID.hd.webm/949f157fa416e42e3cf4de393e79fa13.webm",
+    "jmcs://jd-contents/FunkyTown/FunkyTown_ULTRA.hd.webm": "/private/map/FunkyTown/FunkyTown_ULTRA.hd.webm/8e39c7b10807f290cebffc4ad9f8b0ac.webm",
+    "jmcs://jd-contents/FunkyTown/FunkyTown_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/FunkyTown/FunkyTown_MapPreviewNoSoundCrop_LOW.vp8.webm/cc53e69b223e5059ae78627179f91709.webm",
+    "jmcs://jd-contents/FunkyTown/FunkyTown_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/FunkyTown/FunkyTown_MapPreviewNoSoundCrop_MID.vp8.webm/6b2e04de72ffd8a2d0e4389170cfaab3.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25340,
+        48755,
+        72169,
+        95583,
+        118997,
+        142411,
+        165825,
+        189239,
+        212653,
+        236067,
+        259481,
+        282895,
+        306309,
+        329722,
+        353137,
+        376551,
+        399965,
+        423379,
+        446792,
+        470207,
+        493621,
+        517035,
+        540449,
+        563863,
+        587277,
+        610691,
+        634105,
+        657519,
+        680933,
+        704347,
+        727761,
+        751174,
+        774589,
+        798003,
+        821417,
+        844831,
+        868245,
+        891659,
+        915073,
+        938487,
+        961901,
+        985315,
+        1008729,
+        1032143,
+        1055557,
+        1078971,
+        1102385,
+        1125799,
+        1149213,
+        1172626,
+        1196041,
+        1219455,
+        1242869,
+        1266283,
+        1289697,
+        1313111,
+        1336525,
+        1359939,
+        1383353,
+        1406767,
+        1430181,
+        1453595,
+        1477008
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 477,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/FunkyTown/FunkyTown_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "8a327ffabfa34f4ac369cf9589442fd9",
+      "storageType": 0,
+      "url": "/public/map/FunkyTown/nx/FunkyTown_MAIN_SCENE_NX.zip/8a327ffabfa34f4ac369cf9589442fd9.zip"
+    },
+    "pc": {
+      "md5": "5fa244fecee7ff5c62bc32444b6c966c",
+      "storageType": 0,
+      "url": "/public/map/FunkyTown/pc/FunkyTown_MAIN_SCENE_PC.zip/5fa244fecee7ff5c62bc32444b6c966c.zip"
+    },
+    "ps4": {
+      "md5": "c3fbce1fa5bbffd4e95ae437eecfd37b",
+      "storageType": 0,
+      "url": "/public/map/FunkyTown/orbis/FunkyTown_MAIN_SCENE_ORBIS.zip/c3fbce1fa5bbffd4e95ae437eecfd37b.zip"
+    }
+  },
+  "data": {
+    "mapName": "FunkyTown",
+    "title": "Funkytown",
+    "originalJDVersion": 2,
+    "tags": [
+      "main"
+    ],
+    "artist": "Lipps Inc.",
+    "credits": "Written by Steven Greenberg. Published by Rick\\u2019s Music, Inc. (BMI) and Red Sea Songs (BMI). All rights administered by Rightsong Music, Inc. All rights reserved. Courtesy of Ubisoft Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d60095",
+    "songColor2A": "#feab57",
+    "songColor1B": "#510035",
+    "songColor2B": "#3c0000",
+    "lyricsColor": "#ef349c",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/FunkyTown/nx/FunkyTown_banner_bkg.tga.ckd/68414e0807cfb141771eafd235795736.ckd",
+      "map_bkgImageUrl": "/public/map/FunkyTown/nx/FunkyTown_map_bkg.tga.ckd/cc7809fb2b7165adccc0f0a973026247.ckd",
+      "expandCoachImageUrl": "/public/map/FunkyTown/nx/FunkyTown_Cover_AlbumCoach.tga.ckd/9f3419a6d2b07af8fefc357e408b968f.ckd",
+      "cover_smallImageUrl": "/public/map/FunkyTown/nx/FunkyTown_Cover_Online.tga.ckd/b24de6f6b4859f821a6561c43dee436e.ckd",
+      "coverImageUrl": "/public/map/FunkyTown/nx/FunkyTown_Cover_Generic.tga.ckd/e4e0b071740437a15c5e51c94d379e5f.ckd",
+      "coach1ImageUrl": "/public/map/FunkyTown/nx/FunkyTown_Coach_1.tga.ckd/1f291d53a4d111c231b9c29596a753fa.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/FunkyTown/pc/FunkyTown_banner_bkg.tga.ckd/043033e9dd1d3828ef76efd9bb08c5c1.ckd",
+      "map_bkgImageUrl": "/public/map/FunkyTown/pc/FunkyTown_map_bkg.tga.ckd/e762f4b5f14566653a0569729b4d6b65.ckd",
+      "expandCoachImageUrl": "/public/map/FunkyTown/pc/FunkyTown_Cover_AlbumCoach.tga.ckd/38b15f992d79044822315ff04fcfdfd1.ckd",
+      "cover_smallImageUrl": "/public/map/FunkyTown/pc/FunkyTown_Cover_Online.tga.ckd/c5bd72f296421b285266687946104703.ckd",
+      "coverImageUrl": "/public/map/FunkyTown/pc/FunkyTown_Cover_Generic.tga.ckd/f96ad8397e39f02eee0338ef0061f475.ckd",
+      "coach1ImageUrl": "/public/map/FunkyTown/pc/FunkyTown_Coach_1.tga.ckd/3d14199debe3f62612c02aa35712d44f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/FunkyTown/orbis/FunkyTown_banner_bkg.tga.ckd/043033e9dd1d3828ef76efd9bb08c5c1.ckd",
+      "map_bkgImageUrl": "/public/map/FunkyTown/orbis/FunkyTown_map_bkg.tga.ckd/e762f4b5f14566653a0569729b4d6b65.ckd",
+      "expandCoachImageUrl": "/public/map/FunkyTown/orbis/FunkyTown_Cover_AlbumCoach.tga.ckd/38b15f992d79044822315ff04fcfdfd1.ckd",
+      "cover_smallImageUrl": "/public/map/FunkyTown/orbis/FunkyTown_Cover_Online.tga.ckd/c5bd72f296421b285266687946104703.ckd",
+      "coverImageUrl": "/public/map/FunkyTown/orbis/FunkyTown_Cover_Generic.tga.ckd/f96ad8397e39f02eee0338ef0061f475.ckd",
+      "coach1ImageUrl": "/public/map/FunkyTown/orbis/FunkyTown_Coach_1.tga.ckd/3d14199debe3f62612c02aa35712d44f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/FunkyTown/FunkyTown_Coach_1_Phone.png/a2971dbcf048d2148bc231c2edd43172.png",
+    "phoneCoverImageUrl": "/public/map/FunkyTown/FunkyTown_Cover_Phone.jpg/4dec69b28d317004be9d0f758bc506bb.jpg",
+    "cover640ImageUrl": "/public/map/FunkyTown/FunkyTown_Cover_640.png/08c2f0f7524c09ed2a417d22712f1dcf.png"
+  },
+  "mapLength": 233.184438
+}

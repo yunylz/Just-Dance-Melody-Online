@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1214e920325bb6f5f36f668917452a6f",
+      "storageType": 0,
+      "url": "/public/map/RadicalALTRetake/nx/RadicalALTRetake_MAIN_SCENE_NX.zip/1214e920325bb6f5f36f668917452a6f.zip"
+    },
+    "pc": {
+      "md5": "5d6e08bf9f452de0397efdadfe50b0d8",
+      "storageType": 0,
+      "url": "/public/map/RadicalALTRetake/pc/RadicalALTRetake_MAIN_SCENE_PC.zip/5d6e08bf9f452de0397efdadfe50b0d8.zip"
+    },
+    "ps4": {
+      "md5": "ff7173ae286dedf73ee530da71950d4b",
+      "storageType": 0,
+      "url": "/public/map/RadicalALTRetake/orbis/RadicalALTRetake_MAIN_SCENE_ORBIS.zip/ff7173ae286dedf73ee530da71950d4b.zip"
+    }
+  },
+  "data": {
+    "mapName": "RadicalALTRetake",
+    "title": "RADICAL",
+    "originalJDVersion": 2017,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "Dyro & Dannic",
+    "credits": "Written by Jordy Van Egmond and Daan Romers. Published by Ultra Tunes Canada (SOCAN) a/c Cloud 9 Holland Music Publishing obo Jordy Van Egmond and Dannic Publishing/ Daan Romers. Courtesy of Revealed Recordings. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#7f00c6",
+    "songColor2A": "#f3a62a",
+    "songColor1B": "#210050",
+    "songColor2B": "#030045",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 13762
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67487,
+        89999,
+        112511,
+        135023,
+        157487,
+        179999,
+        202511,
+        225023,
+        247487,
+        269999,
+        292511,
+        315023,
+        337487,
+        359999,
+        382511,
+        405023,
+        427487,
+        449999,
+        472511,
+        495023,
+        517487,
+        539999,
+        562511,
+        585023,
+        607487,
+        629999,
+        652511,
+        675023,
+        697487,
+        719999,
+        742511,
+        765022,
+        787486,
+        809998,
+        832510,
+        855022,
+        877486,
+        899998,
+        922510,
+        945022,
+        967486,
+        989998,
+        1012510,
+        1035022,
+        1057486,
+        1079998,
+        1102510,
+        1125022,
+        1147486,
+        1169998,
+        1192510,
+        1215022,
+        1237486,
+        1259998,
+        1282510,
+        1305022,
+        1327486,
+        1349998,
+        1372510,
+        1395022,
+        1417486,
+        1439998,
+        1462510,
+        1485022
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 411,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RadicalALTRetake/nx/RadicalALTRetake_banner_bkg.tga.ckd/4b20a043ce5cf35dd775ef85a7d34d3f.ckd",
+      "map_bkgImageUrl": "/public/map/RadicalALTRetake/nx/RadicalALTRetake_map_bkg.tga.ckd/ee55a2b113aaa16441dec9305b5260c1.ckd",
+      "expandCoachImageUrl": "/public/map/RadicalALTRetake/nx/RadicalALTRetake_Cover_AlbumCoach.tga.ckd/a1049f465598ec3699592d464c3ef276.ckd",
+      "cover_smallImageUrl": "/public/map/RadicalALTRetake/nx/RadicalALTRetake_Cover_Online.tga.ckd/606864254c80d6d90c457caa8f21c694.ckd",
+      "coverImageUrl": "/public/map/RadicalALTRetake/nx/RadicalALTRetake_Cover_Generic.tga.ckd/70f99643a1f18c12cd98981f5ab0e8b9.ckd",
+      "coach1ImageUrl": "/public/map/RadicalALTRetake/nx/RadicalALTRetake_Coach_1.tga.ckd/e1c7a53abffbe9b3c3ac9673bfaf41ee.ckd",
+      "coach2ImageUrl": "/public/map/RadicalALTRetake/nx/RadicalALTRetake_Coach_2.tga.ckd/ee3ac9f2e47a6c90f1f2ac38a629cd33.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RadicalALTRetake/pc/RadicalALTRetake_banner_bkg.tga.ckd/1943564f6f47a241bc430a2baa2f1211.ckd",
+      "map_bkgImageUrl": "/public/map/RadicalALTRetake/pc/RadicalALTRetake_map_bkg.tga.ckd/c42f7001860d198a73931ad3bfa60756.ckd",
+      "expandCoachImageUrl": "/public/map/RadicalALTRetake/pc/RadicalALTRetake_Cover_AlbumCoach.tga.ckd/4bb88b6cfa17f99102986db85d036e91.ckd",
+      "cover_smallImageUrl": "/public/map/RadicalALTRetake/pc/RadicalALTRetake_Cover_Online.tga.ckd/185201c3d52262640b5e1bd2fbda9472.ckd",
+      "coverImageUrl": "/public/map/RadicalALTRetake/pc/RadicalALTRetake_Cover_Generic.tga.ckd/c9f4e5586a156b53266ec8ba867979c3.ckd",
+      "coach1ImageUrl": "/public/map/RadicalALTRetake/pc/RadicalALTRetake_Coach_1.tga.ckd/c045152ce3616c87f754755c1242416b.ckd",
+      "coach2ImageUrl": "/public/map/RadicalALTRetake/pc/RadicalALTRetake_Coach_2.tga.ckd/c965369a306f0ac20baa40e206639bf4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RadicalALTRetake/orbis/RadicalALTRetake_banner_bkg.tga.ckd/1943564f6f47a241bc430a2baa2f1211.ckd",
+      "map_bkgImageUrl": "/public/map/RadicalALTRetake/orbis/RadicalALTRetake_map_bkg.tga.ckd/c42f7001860d198a73931ad3bfa60756.ckd",
+      "expandCoachImageUrl": "/public/map/RadicalALTRetake/orbis/RadicalALTRetake_Cover_AlbumCoach.tga.ckd/4bb88b6cfa17f99102986db85d036e91.ckd",
+      "cover_smallImageUrl": "/public/map/RadicalALTRetake/orbis/RadicalALTRetake_Cover_Online.tga.ckd/185201c3d52262640b5e1bd2fbda9472.ckd",
+      "coverImageUrl": "/public/map/RadicalALTRetake/orbis/RadicalALTRetake_Cover_Generic.tga.ckd/c9f4e5586a156b53266ec8ba867979c3.ckd",
+      "coach1ImageUrl": "/public/map/RadicalALTRetake/orbis/RadicalALTRetake_Coach_1.tga.ckd/c045152ce3616c87f754755c1242416b.ckd",
+      "coach2ImageUrl": "/public/map/RadicalALTRetake/orbis/RadicalALTRetake_Coach_2.tga.ckd/c965369a306f0ac20baa40e206639bf4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RadicalALTRetake/RadicalALTRetake_Coach_1_Phone.png/b1ce1720472d5fb688b2c5d149b9971d.png",
+    "phoneCoach2ImageUrl": "/public/map/RadicalALTRetake/RadicalALTRetake_Coach_2_Phone.png/a95250bfe2f4081b10952d6c9027d5e2.png",
+    "phoneCoverImageUrl": "/public/map/RadicalALTRetake/RadicalALTRetake_Cover_Phone.jpg/245ed9fab98cc36d04fd74d4ba355f62.jpg",
+    "cover640ImageUrl": "/public/map/RadicalALTRetake/RadicalALTRetake_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake.ogg": "/private/map/RadicalALTRetake/RadicalALTRetake.ogg/37efeb9e9b4265ace35c69ff6fff105e.ogg",
+    "jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake_AudioPreview.ogg": "/public/map/RadicalALTRetake/RadicalALTRetake_AudioPreview.ogg/0f46386316428f87e93b6517dfda5256.ogg",
+    "jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RadicalALTRetake/RadicalALTRetake_MapPreviewNoSoundCrop_LOW.vp8.webm/aa63137e67d296720ea3881936b01b7b.webm",
+    "jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake_HIGH.webm": "/private/map/RadicalALTRetake/RadicalALTRetake_HIGH.webm/b314d35ce1bf9ba0e1c2ef866d532c27.webm",
+    "jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake_LOW.webm": "/private/map/RadicalALTRetake/RadicalALTRetake_LOW.webm/15670f603243939a5289ea4f0db94b3d.webm",
+    "jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake_MID.webm": "/private/map/RadicalALTRetake/RadicalALTRetake_MID.webm/b97c7718eb185ef2a47ac525ccb41f95.webm",
+    "jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake_ULTRA.hd.webm": "/private/map/RadicalALTRetake/RadicalALTRetake_ULTRA.hd.webm/dc5647bf9a2f1062dfa154f956e5e453.webm",
+    "jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake_ULTRA.webm": "/private/map/RadicalALTRetake/RadicalALTRetake_ULTRA.webm/e93b5d81915ece9e165fd41a02dda242.webm",
+    "jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RadicalALTRetake/RadicalALTRetake_MapPreviewNoSoundCrop_MID.vp8.webm/9be12193fbee10a0358ccd4b94ed5bce.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"480920\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\n\t\t\t\t\t<Initialization range=\"0-601\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1334977\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RadicalALTRetake/RadicalALTRetake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"602-1092\">\n\t\t\t\t\t<Initialization range=\"0-602\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 193.718667
+}

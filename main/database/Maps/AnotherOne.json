@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "jmcs://jd-contents/AnotherOne/AnotherOne.ogg": "/private/map/AnotherOne/AnotherOne.ogg/2fca6859eedb813d301cbdbd6d79792a.ogg",
+    "jmcs://jd-contents/AnotherOne/AnotherOne_AudioPreview.ogg": "/public/map/AnotherOne/AnotherOne_AudioPreview.ogg/7e500fa0898f63589dbb812120207bf1.ogg",
+    "jmcs://jd-contents/AnotherOne/AnotherOne_HIGH.hd.webm": "/private/map/AnotherOne/AnotherOne_HIGH.hd.webm/46e64ca094d0cbd80a989064796c2f84.webm",
+    "jmcs://jd-contents/AnotherOne/AnotherOne_LOW.hd.webm": "/private/map/AnotherOne/AnotherOne_LOW.hd.webm/0ec16d4799ade58f9e890d4228d97bed.webm",
+    "jmcs://jd-contents/AnotherOne/AnotherOne_MID.hd.webm": "/private/map/AnotherOne/AnotherOne_MID.hd.webm/6dd3c2bc12615f024fbafe528fd9dbef.webm",
+    "jmcs://jd-contents/AnotherOne/AnotherOne_ULTRA.hd.webm": "/private/map/AnotherOne/AnotherOne_ULTRA.hd.webm/7511419350af463919e12d1e63003b4e.webm",
+    "jmcs://jd-contents/AnotherOne/AnotherOne_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AnotherOne/AnotherOne_MapPreviewNoSoundCrop_LOW.vp8.webm/d46eea6acad20efc50dc9917129d4031.webm",
+    "jmcs://jd-contents/AnotherOne/AnotherOne_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AnotherOne/AnotherOne_MapPreviewNoSoundCrop_MID.vp8.webm/383edb9a77e8889851975b9cc4740051.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26160,
+        52368,
+        78528,
+        104736,
+        130896,
+        157104,
+        183264,
+        209472,
+        235632,
+        261840,
+        288000,
+        314160,
+        340368,
+        366528,
+        392736,
+        418896,
+        445104,
+        471264,
+        497472,
+        523632,
+        549840,
+        576000,
+        602160,
+        628368,
+        654528,
+        680736,
+        706896,
+        733104,
+        759264,
+        785472,
+        811632,
+        837840,
+        864000,
+        890160,
+        916512,
+        942816,
+        969120,
+        995424,
+        1021728,
+        1048080,
+        1074384,
+        1100688,
+        1126944,
+        1153152,
+        1179408,
+        1205616,
+        1231872,
+        1258080,
+        1284336,
+        1310544,
+        1336800,
+        1363008,
+        1389264,
+        1415472,
+        1441728,
+        1467936,
+        1494192
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 392,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AnotherOne/AnotherOne_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "5b3c202c5af2467e1a16ab645f0f3a3d",
+      "storageType": 0,
+      "url": "/public/map/AnotherOne/nx/AnotherOne_MAIN_SCENE_NX.zip/5b3c202c5af2467e1a16ab645f0f3a3d.zip"
+    },
+    "pc": {
+      "md5": "24f7e18ae686c358ce24109822bdba24",
+      "storageType": 0,
+      "url": "/public/map/AnotherOne/pc/AnotherOne_MAIN_SCENE_PC.zip/24f7e18ae686c358ce24109822bdba24.zip"
+    },
+    "ps4": {
+      "md5": "8ad4e1dec49673c7867c24b8c5215571",
+      "storageType": 0,
+      "url": "/public/map/AnotherOne/orbis/AnotherOne_MAIN_SCENE_ORBIS.zip/8ad4e1dec49673c7867c24b8c5215571.zip"
+    }
+  },
+  "data": {
+    "mapName": "AnotherOne",
+    "title": "Another One Bites The Dust",
+    "originalJDVersion": 2018,
+    "tags": [
+      "main",
+      "sweat"
+    ],
+    "artist": "Queen",
+    "credits": "Written by John Deacon. Published by Queen Music Ltd. (PRS). All rights reserved. Used with permission. Courtesy of Hollywood Records, Inc. and Mercury Records UK, under license from Universal Music Canada Inc. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 4,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#3e0098",
+    "songColor2A": "#ff7100",
+    "songColor1B": "#000c2f",
+    "songColor2B": "#501800",
+    "lyricsColor": "#ff8b16",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AnotherOne/nx/AnotherOne_banner_bkg.tga.ckd/e2225f6fb85499764d61616ba12953d8.ckd",
+      "map_bkgImageUrl": "/public/map/AnotherOne/nx/AnotherOne_map_bkg.tga.ckd/d8dde68959b0979a33a529e05bccc6d7.ckd",
+      "expandCoachImageUrl": "/public/map/AnotherOne/nx/AnotherOne_Cover_AlbumCoach.tga.ckd/ec203a16994d4ff98d78b507e8a31292.ckd",
+      "cover_smallImageUrl": "/public/map/AnotherOne/nx/AnotherOne_Cover_Online.tga.ckd/430b8c80f04e9a9a945e3921e1f8411d.ckd",
+      "coverImageUrl": "/public/map/AnotherOne/nx/AnotherOne_Cover_Generic.tga.ckd/e643245f6ab5120816e3651bb5a87cb3.ckd",
+      "coach1ImageUrl": "/public/map/AnotherOne/nx/AnotherOne_Coach_1.tga.ckd/13b8392c0c835b2badba4db73795a6af.ckd",
+      "coach2ImageUrl": "/public/map/AnotherOne/nx/AnotherOne_Coach_2.tga.ckd/aaaebd80c63d350f87d6605f83a4c4eb.ckd",
+      "coach3ImageUrl": "/public/map/AnotherOne/nx/AnotherOne_Coach_3.tga.ckd/5bbb39aa0d74a975e19c653fd4389d64.ckd",
+      "coach4ImageUrl": "/public/map/AnotherOne/nx/AnotherOne_Coach_4.tga.ckd/a69211932e014b0d929c37b370bf57fb.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AnotherOne/pc/AnotherOne_banner_bkg.tga.ckd/6de515514de1f5a0321d5b6a76f15290.ckd",
+      "map_bkgImageUrl": "/public/map/AnotherOne/pc/AnotherOne_map_bkg.tga.ckd/30fef183e9444b07cd60ea092c557c23.ckd",
+      "expandCoachImageUrl": "/public/map/AnotherOne/pc/AnotherOne_Cover_AlbumCoach.tga.ckd/66c44ff64aa56101e745d5670a255d22.ckd",
+      "cover_smallImageUrl": "/public/map/AnotherOne/pc/AnotherOne_Cover_Online.tga.ckd/cd994bd79475b31dedc550a019a7f255.ckd",
+      "coverImageUrl": "/public/map/AnotherOne/pc/AnotherOne_Cover_Generic.tga.ckd/cff7435c07a7586f9c10c71be791a111.ckd",
+      "coach1ImageUrl": "/public/map/AnotherOne/pc/AnotherOne_Coach_1.tga.ckd/d3e2b97ef4283889b199e00db2ec061e.ckd",
+      "coach2ImageUrl": "/public/map/AnotherOne/pc/AnotherOne_Coach_2.tga.ckd/4b7fd40f828575db92ed5d18abc22d62.ckd",
+      "coach3ImageUrl": "/public/map/AnotherOne/pc/AnotherOne_Coach_3.tga.ckd/a7e1994e42da6f72fc3a8903503d219b.ckd",
+      "coach4ImageUrl": "/public/map/AnotherOne/pc/AnotherOne_Coach_4.tga.ckd/bac0d7b94fc9bd500325c6bc245d08ef.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AnotherOne/orbis/AnotherOne_banner_bkg.tga.ckd/6de515514de1f5a0321d5b6a76f15290.ckd",
+      "map_bkgImageUrl": "/public/map/AnotherOne/orbis/AnotherOne_map_bkg.tga.ckd/30fef183e9444b07cd60ea092c557c23.ckd",
+      "expandCoachImageUrl": "/public/map/AnotherOne/orbis/AnotherOne_Cover_AlbumCoach.tga.ckd/66c44ff64aa56101e745d5670a255d22.ckd",
+      "cover_smallImageUrl": "/public/map/AnotherOne/orbis/AnotherOne_Cover_Online.tga.ckd/cd994bd79475b31dedc550a019a7f255.ckd",
+      "coverImageUrl": "/public/map/AnotherOne/orbis/AnotherOne_Cover_Generic.tga.ckd/cff7435c07a7586f9c10c71be791a111.ckd",
+      "coach1ImageUrl": "/public/map/AnotherOne/orbis/AnotherOne_Coach_1.tga.ckd/d3e2b97ef4283889b199e00db2ec061e.ckd",
+      "coach2ImageUrl": "/public/map/AnotherOne/orbis/AnotherOne_Coach_2.tga.ckd/4b7fd40f828575db92ed5d18abc22d62.ckd",
+      "coach3ImageUrl": "/public/map/AnotherOne/orbis/AnotherOne_Coach_3.tga.ckd/a7e1994e42da6f72fc3a8903503d219b.ckd",
+      "coach4ImageUrl": "/public/map/AnotherOne/orbis/AnotherOne_Coach_4.tga.ckd/bac0d7b94fc9bd500325c6bc245d08ef.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AnotherOne/AnotherOne_Coach_1_Phone.png/abcb9706ddbbf99e9d1320b68faac5e8.png",
+    "phoneCoach2ImageUrl": "/public/map/AnotherOne/AnotherOne_Coach_2_Phone.png/8e3c5a3e849792a19759ed22de30f61f.png",
+    "phoneCoach3ImageUrl": "/public/map/AnotherOne/AnotherOne_Coach_3_Phone.png/e11dec6d52dd2cfc4395c162b956c67d.png",
+    "phoneCoach4ImageUrl": "/public/map/AnotherOne/AnotherOne_Coach_4_Phone.png/321069968475c7ac9173ec6dddd5af05.png",
+    "phoneCoverImageUrl": "/public/map/AnotherOne/AnotherOne_Cover_Phone.jpg/00e276fc08187928802598432429edc8.jpg",
+    "cover640ImageUrl": "/public/map/AnotherOne/AnotherOne_Cover_640.png/557a78ee51e37c9f83dfe5631d286781.png"
+  },
+  "mapLength": 216.398125
+}

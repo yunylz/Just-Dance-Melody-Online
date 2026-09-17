@@ -1,0 +1,163 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "121a72ba1f9735cc7972e44fead06846",
+      "storageType": 0,
+      "url": "/public/map/WhatAFeeling/nx/WhatAFeeling_MAIN_SCENE_NX.zip/121a72ba1f9735cc7972e44fead06846.zip"
+    },
+    "pc": {
+      "md5": "7a5a124b880b992c196c3ee68ce3e440",
+      "storageType": 0,
+      "url": "/public/map/WhatAFeeling/pc/WhatAFeeling_MAIN_SCENE_PC.zip/7a5a124b880b992c196c3ee68ce3e440.zip"
+    },
+    "ps4": {
+      "md5": "99693e47a50c7a0f85119126280e6d85",
+      "storageType": 0,
+      "url": "/public/map/WhatAFeeling/orbis/WhatAFeeling_MAIN_SCENE_ORBIS.zip/99693e47a50c7a0f85119126280e6d85.zip"
+    }
+  },
+  "data": {
+    "mapName": "WhatAFeeling",
+    "title": "Flashdance... What A Feeling",
+    "originalJDVersion": 2014,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2014",
+      "Solo",
+      "Hard"
+    ],
+    "artist": "The Girly Team",
+    "credits": "Written by Giorgio Moroder, Keith Forsey and Irene Cara. Published by WB Music Corp. (ASCAP), Famous Music Corporation (ASCAP), Alcor Music (USA) (ASCAP) and Carub Music (ASCAP). All rights administered by WB Music Corp. © 1983 All rights reserved. Courtesy of Ubisoft Music, Inc.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#1ea1b9",
+    "songColor2A": "#37dbf3",
+    "songColor1B": "#001832",
+    "songColor2B": "#05003d",
+    "lyricsColor": "#00ffff",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30959,
+        61919,
+        92879,
+        123887,
+        154847,
+        185807,
+        216767,
+        247727,
+        278687,
+        309695,
+        340655,
+        371615,
+        402575,
+        433535,
+        464495,
+        495503,
+        526463,
+        557423,
+        588383,
+        619343,
+        650303,
+        681311,
+        712271,
+        743231,
+        774191,
+        805151,
+        836111,
+        867119,
+        898079,
+        929039,
+        959999,
+        990959,
+        1021919,
+        1052879,
+        1083886,
+        1114846,
+        1145806,
+        1176766,
+        1207726,
+        1238686,
+        1269694,
+        1300654,
+        1331614,
+        1362574,
+        1393534,
+        1424494,
+        1455502,
+        1486462,
+        1517422
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 393,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WhatAFeeling/nx/WhatAFeeling_banner_bkg.tga.ckd/28f77f06c3e1f6715aa77fab233fc9ba.ckd",
+      "map_bkgImageUrl": "/public/map/WhatAFeeling/nx/WhatAFeeling_map_bkg.tga.ckd/542f3b05a74a04efe265995336792688.ckd",
+      "expandCoachImageUrl": "/public/map/WhatAFeeling/nx/WhatAFeeling_Cover_AlbumCoach.tga.ckd/f3fb88053bf7832102dcd6db070eeaf7.ckd",
+      "cover_smallImageUrl": "/public/map/WhatAFeeling/nx/WhatAFeeling_Cover_Online.tga.ckd/f1048992b532bd6083f5be8ddb426066.ckd",
+      "coach1ImageUrl": "/public/map/WhatAFeeling/nx/WhatAFeeling_Coach_1.tga.ckd/75a47389443a5a8845244d29cf1ad9a9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WhatAFeeling/pc/WhatAFeeling_banner_bkg.tga.ckd/6c1c2c216a27abf7492a4e53840ce9ac.ckd",
+      "map_bkgImageUrl": "/public/map/WhatAFeeling/pc/WhatAFeeling_map_bkg.tga.ckd/00e3cb2c8c037edb086d8132da57d8ff.ckd",
+      "expandCoachImageUrl": "/public/map/WhatAFeeling/pc/WhatAFeeling_Cover_AlbumCoach.tga.ckd/2fb844929d6da6353726ebcb292e2693.ckd",
+      "cover_smallImageUrl": "/public/map/WhatAFeeling/pc/WhatAFeeling_Cover_Online.tga.ckd/3f332f1112aa3070b88275bd842db3af.ckd",
+      "coach1ImageUrl": "/public/map/WhatAFeeling/pc/WhatAFeeling_Coach_1.tga.ckd/e993a825f2e7a076b3c567b8b35ca525.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WhatAFeeling/orbis/WhatAFeeling_banner_bkg.tga.ckd/6c1c2c216a27abf7492a4e53840ce9ac.ckd",
+      "map_bkgImageUrl": "/public/map/WhatAFeeling/orbis/WhatAFeeling_map_bkg.tga.ckd/00e3cb2c8c037edb086d8132da57d8ff.ckd",
+      "expandCoachImageUrl": "/public/map/WhatAFeeling/orbis/WhatAFeeling_Cover_AlbumCoach.tga.ckd/2fb844929d6da6353726ebcb292e2693.ckd",
+      "cover_smallImageUrl": "/public/map/WhatAFeeling/orbis/WhatAFeeling_Cover_Online.tga.ckd/3f332f1112aa3070b88275bd842db3af.ckd",
+      "coach1ImageUrl": "/public/map/WhatAFeeling/orbis/WhatAFeeling_Coach_1.tga.ckd/e993a825f2e7a076b3c567b8b35ca525.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WhatAFeeling/WhatAFeeling_Coach_1_Phone.png/f57122d8948baed8d0f619d8a62b7916.png",
+    "phoneCoverImageUrl": "/public/map/WhatAFeeling/WhatAFeeling_Cover_Phone.jpg/c7fb71f552641b0b775808002c7cb785.jpg",
+    "cover640ImageUrl": "/public/map/WhatAFeeling/WhatAFeeling_Cover_640.png/792405839363b5ea06d75a1e69fab9fa.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling.ogg": "/private/map/WhatAFeeling/WhatAFeeling.ogg/13e7994eb25fc493f815500526b0c1d5.ogg",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_AudioPreview.ogg": "/public/map/WhatAFeeling/WhatAFeeling_AudioPreview.ogg/ce3efbfd0727a78fe959a0230095ee6f.ogg",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm/98b96f7e775300354d7b85b4c405b8f1.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_HIGH.webm": "/private/map/WhatAFeeling/WhatAFeeling_HIGH.webm/c2a57ecc9ae2a48f888ded91740ff2d4.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_LOW.webm": "/private/map/WhatAFeeling/WhatAFeeling_LOW.webm/8eea45c2224bdee9d9cc3003bc16cc82.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MID.webm": "/private/map/WhatAFeeling/WhatAFeeling_MID.webm/50640125cbb4605a1ddac48a14837069.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_ULTRA.hd.webm": "/private/map/WhatAFeeling/WhatAFeeling_ULTRA.hd.webm/cb4e0a5333e2644c299d97d8378501a3.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_ULTRA.webm": "/private/map/WhatAFeeling/WhatAFeeling_ULTRA.webm/a2fb68dcce6e50feb6a972eeb29cb088.webm",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_MID.vp8.webm/bc0e96852849efc351ed37421eb0685f.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496273\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"637-1126\">\n\t\t\t\t\t<Initialization range=\"0-637\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"911640\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"638-1128\">\n\t\t\t\t\t<Initialization range=\"0-638\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 203.709813
+}

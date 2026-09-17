@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "cbd0f532221d1eafcde85f8a2c165d0b",
+      "storageType": 0,
+      "url": "/public/map/ElectroMamboMU/nx/ElectroMamboMU_MAIN_SCENE_NX.zip/cbd0f532221d1eafcde85f8a2c165d0b.zip"
+    },
+    "pc": {
+      "md5": "46586a5927f9dfc4d993a52bb13cf991",
+      "storageType": 0,
+      "url": "/public/map/ElectroMamboMU/pc/ElectroMamboMU_MAIN_SCENE_PC.zip/46586a5927f9dfc4d993a52bb13cf991.zip"
+    },
+    "ps4": {
+      "md5": "3b3a2966e35148f20187924fa552c3d9",
+      "storageType": 0,
+      "url": "/public/map/ElectroMamboMU/orbis/ElectroMamboMU_MAIN_SCENE_ORBIS.zip/3b3a2966e35148f20187924fa552c3d9.zip"
+    }
+  },
+  "data": {
+    "mapName": "ElectroMamboMU",
+    "title": "Drop The Mambo",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "Diva Carmina",
+    "credits": "Written by: Tom Salta, Nikki Leonti, Letty Rivera, Angela Clemmons. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. Produced and Mixed by: Tom Salta. Vocalists: Nikki Leonti, Angela Clemmons, Marcos Bermudez, Tom Salta. Operatic Vocals: Jeanette Vecchione. Gang Vocals: Don Harris, Jeff Harris, Angela Lynch, Tom Salta. Trumpet, Sax and Trombone: The Harris Bros Horns. Percussion: Gumbi Ortiz. Bass: Gene Perez. Special Thanks: Philippe Saisse, Jose Madera, John Rodriguez. Music supervision - Manu Bachet and Alkis Argyriadis.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#cb3863",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22176,
+        44304,
+        66480,
+        88608,
+        110784,
+        132912,
+        155088,
+        177216,
+        199392,
+        221520,
+        243696,
+        265824,
+        288000,
+        310176,
+        332304,
+        354480,
+        376608,
+        398784,
+        420912,
+        443088,
+        465216,
+        487392,
+        509520,
+        531696,
+        553824,
+        576000,
+        598176,
+        620304,
+        642480,
+        664608,
+        686784,
+        708912,
+        731088,
+        753216,
+        775392,
+        797520,
+        819696,
+        841824,
+        864000,
+        886176,
+        908304,
+        930480,
+        952608,
+        974784,
+        996912,
+        1019088,
+        1041216,
+        1063392,
+        1085520,
+        1107697,
+        1129825,
+        1152001,
+        1174177,
+        1196305,
+        1218481,
+        1240609,
+        1262785,
+        1284913,
+        1307089,
+        1329217,
+        1351393,
+        1373521,
+        1395697,
+        1417825,
+        1440001,
+        1462177,
+        1484305
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 395,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 65,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ElectroMamboMU/nx/ElectroMamboMU_banner_bkg.tga.ckd/b8f0714f274f7a6b49613fc1458c7081.ckd",
+      "map_bkgImageUrl": "/public/map/ElectroMamboMU/nx/ElectroMamboMU_map_bkg.tga.ckd/0486465d7844a2c1f0b04ebc3d46ba03.ckd",
+      "expandCoachImageUrl": "/public/map/ElectroMamboMU/nx/ElectroMamboMU_Cover_AlbumCoach.tga.ckd/554141fd5525b61021c6a379a8b90b02.ckd",
+      "cover_smallImageUrl": "/public/map/ElectroMamboMU/nx/ElectroMamboMU_Cover_Online.tga.ckd/a74e2ecf599f5d8b6b45b67084918b9b.ckd",
+      "coverImageUrl": "/public/map/ElectroMamboMU/nx/ElectroMamboMU_Cover_Generic.tga.ckd/e35cc98c6c880801a4df7a9985936723.ckd",
+      "coach1ImageUrl": "/public/map/ElectroMamboMU/nx/ElectroMamboMU_Coach_1.tga.ckd/d55d043e08e272c9c274a061fa99e643.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ElectroMamboMU/pc/ElectroMamboMU_banner_bkg.tga.ckd/7f616d058599a52c3a1ce49e399a6f1b.ckd",
+      "map_bkgImageUrl": "/public/map/ElectroMamboMU/pc/ElectroMamboMU_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/ElectroMamboMU/pc/ElectroMamboMU_Cover_AlbumCoach.tga.ckd/2df796b9f8dd5d4f412577e319282d0f.ckd",
+      "cover_smallImageUrl": "/public/map/ElectroMamboMU/pc/ElectroMamboMU_Cover_Online.tga.ckd/298577a179d31a875ed9f02ab482e3eb.ckd",
+      "coverImageUrl": "/public/map/ElectroMamboMU/pc/ElectroMamboMU_Cover_Generic.tga.ckd/006e7dc8be409bbccf42dfffea55569d.ckd",
+      "coach1ImageUrl": "/public/map/ElectroMamboMU/pc/ElectroMamboMU_Coach_1.tga.ckd/535a3e5095374dd9927d45db8847c13d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ElectroMamboMU/orbis/ElectroMamboMU_banner_bkg.tga.ckd/7f616d058599a52c3a1ce49e399a6f1b.ckd",
+      "map_bkgImageUrl": "/public/map/ElectroMamboMU/orbis/ElectroMamboMU_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/ElectroMamboMU/orbis/ElectroMamboMU_Cover_AlbumCoach.tga.ckd/2df796b9f8dd5d4f412577e319282d0f.ckd",
+      "cover_smallImageUrl": "/public/map/ElectroMamboMU/orbis/ElectroMamboMU_Cover_Online.tga.ckd/298577a179d31a875ed9f02ab482e3eb.ckd",
+      "coverImageUrl": "/public/map/ElectroMamboMU/orbis/ElectroMamboMU_Cover_Generic.tga.ckd/006e7dc8be409bbccf42dfffea55569d.ckd",
+      "coach1ImageUrl": "/public/map/ElectroMamboMU/orbis/ElectroMamboMU_Coach_1.tga.ckd/535a3e5095374dd9927d45db8847c13d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ElectroMamboMU/ElectroMamboMU_Coach_1_Phone.png/4a85fb6997b911d99cea56cf4aefdacb.png",
+    "phoneCoverImageUrl": "/public/map/ElectroMamboMU/ElectroMamboMU_Cover_Phone.jpg/1edb259bfb79e903ede51b3cc256129c.jpg",
+    "cover640ImageUrl": "/public/map/ElectroMamboMU/ElectroMamboMU_Cover_640.png/f1673dcb45ca54d1ab56ed3e1a3f6cf0.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU_HIGH.webm": "/private/map/ElectroMamboMU/ElectroMamboMU_HIGH.webm/d3d4baf5be7377541db37cfcc860d626.webm",
+    "jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU_LOW.webm": "/private/map/ElectroMamboMU/ElectroMamboMU_LOW.webm/932e4a5b14837ebd99b3fd50735f3cb1.webm",
+    "jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU_MID.webm": "/private/map/ElectroMamboMU/ElectroMamboMU_MID.webm/520cf56ee821fe58971423e07e604817.webm",
+    "jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU_ULTRA.hd.webm": "/private/map/ElectroMamboMU/ElectroMamboMU_ULTRA.hd.webm/01e06d1481149b632982cbcee37b397e.webm",
+    "jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU_ULTRA.webm": "/private/map/ElectroMamboMU/ElectroMamboMU_ULTRA.webm/47fbf2ed604248e4db6ea6321cbe2274.webm",
+    "jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU.ogg": "/private/map/ElectroMamboMU/ElectroMamboMU.ogg/f56d64344b008e19fd915ce76967e8e7.ogg",
+    "jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU_AudioPreview.ogg": "/public/map/ElectroMamboMU/ElectroMamboMU_AudioPreview.ogg/8f06b8e9f2e66b56534941e20a8ed02a.ogg",
+    "jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ElectroMamboMU/ElectroMamboMU_MapPreviewNoSoundCrop_LOW.vp8.webm/f3940a61d24afb932f1b934c80d96f81.webm",
+    "jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ElectroMamboMU/ElectroMamboMU_MapPreviewNoSoundCrop_MID.vp8.webm/e5f75118a3065ff68cf410d7e2c6d013.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"524521\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1516711\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ElectroMamboMU/ElectroMamboMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 181.846167
+}

@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Boomsday/Boomsday.ogg": "/private/map/Boomsday/Boomsday.ogg/c8c276e0e4c692deeec8d1c5ffe9efe6.ogg",
+    "jmcs://jd-contents/Boomsday/Boomsday_AudioPreview.ogg": "/public/map/Boomsday/Boomsday_AudioPreview.ogg/81ae37ff0b57adeaadf231b6c8d43a2c.ogg",
+    "jmcs://jd-contents/Boomsday/Boomsday_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Boomsday/Boomsday_MapPreviewNoSoundCrop_LOW.vp8.webm/f56a29d189b9f4146fcc199d4d02847a.webm",
+    "jmcs://jd-contents/Boomsday/Boomsday_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Boomsday/Boomsday_MapPreviewNoSoundCrop_MID.vp8.webm/e84b2bfbcd6ae481047ae3c892569922.webm",
+    "jmcs://jd-contents/Boomsday/Boomsday_HIGH.hd.webm": "/private/map/Boomsday/Boomsday_HIGH.hd.webm/dccea06e9c4cae773e9bcfef1cd43765.webm",
+    "jmcs://jd-contents/Boomsday/Boomsday_LOW.hd.webm": "/private/map/Boomsday/Boomsday_LOW.hd.webm/7d6535b14095920e572cde7d9b03dd70.webm",
+    "jmcs://jd-contents/Boomsday/Boomsday_MID.hd.webm": "/private/map/Boomsday/Boomsday_MID.hd.webm/6cbcf720d0d4ad9b5bd8d736e38da513.webm",
+    "jmcs://jd-contents/Boomsday/Boomsday_ULTRA.hd.webm": "/private/map/Boomsday/Boomsday_ULTRA.hd.webm/165342d2cb8653baa2783c9203d92344.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26605,
+        53210,
+        79815,
+        106423,
+        128576,
+        150729,
+        172882,
+        195035,
+        217188,
+        239341,
+        261494,
+        283647,
+        305800,
+        327953,
+        350106,
+        372259,
+        394411,
+        416565,
+        438718,
+        460871,
+        483024,
+        505177,
+        527330,
+        549483,
+        571636,
+        593789,
+        615942,
+        638095,
+        660248,
+        682401,
+        704554,
+        726706,
+        748860,
+        771013,
+        793166,
+        815319,
+        837472,
+        859625,
+        881778,
+        903931,
+        926084,
+        948237,
+        970390,
+        992543,
+        1014696,
+        1036848,
+        1059002,
+        1081155,
+        1103308,
+        1125461,
+        1147614,
+        1169767,
+        1191920,
+        1214073,
+        1236226,
+        1258379,
+        1280532,
+        1302685,
+        1324838,
+        1346991,
+        1369143,
+        1391297,
+        1413450,
+        1435603,
+        1457756,
+        1479909
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 408,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Boomsday/Boomsday_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "1de3ceb7d0e1db64e0f595d5ef65a2b0",
+      "storageType": 0,
+      "url": "/public/map/Boomsday/nx/Boomsday_MAIN_SCENE_NX.zip/1de3ceb7d0e1db64e0f595d5ef65a2b0.zip"
+    },
+    "pc": {
+      "md5": "bf92e150443915dd30e014eeff38209c",
+      "storageType": 0,
+      "url": "/public/map/Boomsday/pc/Boomsday_MAIN_SCENE_PC.zip/bf92e150443915dd30e014eeff38209c.zip"
+    },
+    "ps4": {
+      "md5": "a3a6167587bd575739b6171838abf382",
+      "storageType": 0,
+      "url": "/public/map/Boomsday/orbis/Boomsday_MAIN_SCENE_ORBIS.zip/a3a6167587bd575739b6171838abf382.zip"
+    }
+  },
+  "data": {
+    "mapName": "Boomsday",
+    "title": "Boomsday",
+    "originalJDVersion": 3,
+    "tags": [
+      "jd3",
+      "sweat",
+      "main",
+      "DLC"
+    ],
+    "artist": "Sweat Invaders",
+    "credits": "Written by Junkie XL. Published by The Extreme Music Library Ltd. . Courtesy of Extreme Music.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#4a108c",
+    "songColor2A": "#003265",
+    "songColor1B": "#1a0038",
+    "songColor2B": "#011c39",
+    "lyricsColor": "#ef3d10",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Boomsday/nx/Boomsday_banner_bkg.tga.ckd/1b92c50346c4366755f5c22638c9ab0e.ckd",
+      "map_bkgImageUrl": "/public/map/Boomsday/nx/Boomsday_map_bkg.tga.ckd/174efcaf032c796c7ffbf90990ed9a4a.ckd",
+      "expandCoachImageUrl": "/public/map/Boomsday/nx/Boomsday_Cover_AlbumCoach.tga.ckd/0e0a0b761196605f27ff849169ba1f9b.ckd",
+      "cover_smallImageUrl": "/public/map/Boomsday/nx/Boomsday_Cover_Online.tga.ckd/be7edfe79380a6f2a5cc4c13e61f8f8c.ckd",
+      "coverImageUrl": "/public/map/Boomsday/nx/Boomsday_Cover_Generic.tga.ckd/aa92e090277900542239a6452be00383.ckd",
+      "coach1ImageUrl": "/public/map/Boomsday/nx/Boomsday_Coach_1.tga.ckd/4a389fd31a81670b922eef9cf4718083.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Boomsday/pc/Boomsday_banner_bkg.tga.ckd/e66e3092b58c405feedb46aec0181ebe.ckd",
+      "map_bkgImageUrl": "/public/map/Boomsday/pc/Boomsday_map_bkg.tga.ckd/baaebf69b99e7ab7246b1b7916824371.ckd",
+      "expandCoachImageUrl": "/public/map/Boomsday/pc/Boomsday_Cover_AlbumCoach.tga.ckd/17cee0fdba74f4f4accc53ac2c2b32a1.ckd",
+      "cover_smallImageUrl": "/public/map/Boomsday/pc/Boomsday_Cover_Online.tga.ckd/b887d89eaf481a8e81d7493e5a3c3664.ckd",
+      "coverImageUrl": "/public/map/Boomsday/pc/Boomsday_Cover_Generic.tga.ckd/4f15f72a13109abc17583257808345aa.ckd",
+      "coach1ImageUrl": "/public/map/Boomsday/pc/Boomsday_Coach_1.tga.ckd/8d69a446d31ca5d6d98e35c8c3a6f7f5.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Boomsday/orbis/Boomsday_banner_bkg.tga.ckd/e66e3092b58c405feedb46aec0181ebe.ckd",
+      "map_bkgImageUrl": "/public/map/Boomsday/orbis/Boomsday_map_bkg.tga.ckd/baaebf69b99e7ab7246b1b7916824371.ckd",
+      "expandCoachImageUrl": "/public/map/Boomsday/orbis/Boomsday_Cover_AlbumCoach.tga.ckd/17cee0fdba74f4f4accc53ac2c2b32a1.ckd",
+      "cover_smallImageUrl": "/public/map/Boomsday/orbis/Boomsday_Cover_Online.tga.ckd/b887d89eaf481a8e81d7493e5a3c3664.ckd",
+      "coverImageUrl": "/public/map/Boomsday/orbis/Boomsday_Cover_Generic.tga.ckd/4f15f72a13109abc17583257808345aa.ckd",
+      "coach1ImageUrl": "/public/map/Boomsday/orbis/Boomsday_Coach_1.tga.ckd/8d69a446d31ca5d6d98e35c8c3a6f7f5.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Boomsday/Boomsday_Coach_1_Phone.png/f00dc8f0f830c8fcc0aa59e8bea73cd2.png",
+    "phoneCoverImageUrl": "/public/map/Boomsday/Boomsday_Cover_Phone.jpg/a517b8a8019ad4693b7a11022a85e063.jpg",
+    "cover640ImageUrl": "/public/map/Boomsday/Boomsday_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"446511\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Boomsday/Boomsday_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1256761\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Boomsday/Boomsday_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 189.118
+}

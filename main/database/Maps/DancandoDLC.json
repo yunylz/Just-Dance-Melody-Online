@@ -1,0 +1,168 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ce4465a487dbf936b49a0861c3e69214",
+      "storageType": 0,
+      "url": "/public/map/DancandoDLC/nx/DancandoDLC_MAIN_SCENE_NX.zip/ce4465a487dbf936b49a0861c3e69214.zip"
+    },
+    "pc": {
+      "md5": "13cf049f9e29d0021172a0c00fea4f41",
+      "storageType": 0,
+      "url": "/public/map/DancandoDLC/pc/DancandoDLC_MAIN_SCENE_PC.zip/13cf049f9e29d0021172a0c00fea4f41.zip"
+    },
+    "ps4": {
+      "md5": "ef15e45b9b8df929cb2e47fc6bf4c601",
+      "storageType": 0,
+      "url": "/public/map/DancandoDLC/orbis/DancandoDLC_MAIN_SCENE_ORBIS.zip/ef15e45b9b8df929cb2e47fc6bf4c601.zip"
+    }
+  },
+  "data": {
+    "mapName": "DancandoDLC",
+    "title": "Dançando",
+    "originalJDVersion": 2014,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Ivete Sangalo",
+    "credits": "Written by Filipe Escandurras, M\\u00e1rcio Victor and Tierry Coringa. Published by Caco Music. Courtesy of Universal Music.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#BA0000",
+    "songColor2A": "#EF6531",
+    "songColor1B": "#490000",
+    "songColor2B": "#562412",
+    "lyricsColor": "#FFFF00",
+    "LocaleId": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25296,
+        50544,
+        75792,
+        101088,
+        126336,
+        151584,
+        176832,
+        202128,
+        227376,
+        252624,
+        277920,
+        303168,
+        328416,
+        353712,
+        378960,
+        404208,
+        429504,
+        454752,
+        480000,
+        505296,
+        530544,
+        555792,
+        581088,
+        606336,
+        631584,
+        656832,
+        682128,
+        707377,
+        732625,
+        757921,
+        783169,
+        808417,
+        833713,
+        858961,
+        884209,
+        909505,
+        934753,
+        960001,
+        985297,
+        1010545,
+        1035793,
+        1061089,
+        1086337,
+        1111585,
+        1136833,
+        1162129,
+        1187377,
+        1212625,
+        1237921,
+        1263169,
+        1288417,
+        1313713,
+        1338961,
+        1364209,
+        1389505,
+        1414753
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 403,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/dancandodlc/dancandodlc_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DancandoDLC/nx/DancandoDLC_banner_bkg.tga.ckd/644e2187eb02e25d6a2250bd8e82c5c9.ckd",
+      "map_bkgImageUrl": "/public/map/DancandoDLC/nx/DancandoDLC_map_bkg.tga.ckd/30258c2a47854e1210ad885f384cdcea.ckd",
+      "expandCoachImageUrl": "/public/map/DancandoDLC/nx/DancandoDLC_Cover_AlbumCoach.tga.ckd/04c52dfa427dc9aafcd000cc059d0a6e.ckd",
+      "cover_smallImageUrl": "/public/map/DancandoDLC/nx/DancandoDLC_Cover_Online.tga.ckd/13a305385575e4497c61c80cf80b6a86.ckd",
+      "coach1ImageUrl": "/public/map/DancandoDLC/nx/DancandoDLC_Coach_1.tga.ckd/4a9895b8663b690e284c47277fb82bac.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DancandoDLC/pc/DancandoDLC_banner_bkg.tga.ckd/840444167cd3c9b10dde4f4d9ce2a49f.ckd",
+      "map_bkgImageUrl": "/public/map/DancandoDLC/pc/DancandoDLC_map_bkg.tga.ckd/7fb661bbd9773e5c9b88fe2fd004e97b.ckd",
+      "expandCoachImageUrl": "/public/map/DancandoDLC/pc/DancandoDLC_Cover_AlbumCoach.tga.ckd/aac8ce7698edfce0739bb57e998773f3.ckd",
+      "cover_smallImageUrl": "/public/map/DancandoDLC/pc/DancandoDLC_Cover_Online.tga.ckd/3214c0e255042f651a3828170573f822.ckd",
+      "coach1ImageUrl": "/public/map/DancandoDLC/pc/DancandoDLC_Coach_1.tga.ckd/9f3821fb022dded401e7cc446425254d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DancandoDLC/orbis/DancandoDLC_banner_bkg.tga.ckd/840444167cd3c9b10dde4f4d9ce2a49f.ckd",
+      "map_bkgImageUrl": "/public/map/DancandoDLC/orbis/DancandoDLC_map_bkg.tga.ckd/7fb661bbd9773e5c9b88fe2fd004e97b.ckd",
+      "expandCoachImageUrl": "/public/map/DancandoDLC/orbis/DancandoDLC_Cover_AlbumCoach.tga.ckd/aac8ce7698edfce0739bb57e998773f3.ckd",
+      "cover_smallImageUrl": "/public/map/DancandoDLC/orbis/DancandoDLC_Cover_Online.tga.ckd/3214c0e255042f651a3828170573f822.ckd",
+      "coach1ImageUrl": "/public/map/DancandoDLC/orbis/DancandoDLC_Coach_1.tga.ckd/9f3821fb022dded401e7cc446425254d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DancandoDLC/DancandoDLC_Coach_1_Phone.png/632de1154b6af85749b13d49cf384656.png",
+    "phoneCoverImageUrl": "/public/map/DancandoDLC/DancandoDLC_Cover_Phone.jpg/3eaad8c0140bb1dc8cfd250049c11b14.jpg",
+    "cover640ImageUrl": "/public/map/DancandoDLC/DancandoDLC_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/DancandoDLC/DancandoDLC.ogg": "/private/map/DancandoDLC/DancandoDLC.ogg/88a55ee7d1f735babeabac0416625514.ogg",
+    "jmcs://jd-contents/DancandoDLC/DancandoDLC_AudioPreview.ogg": "/public/map/DancandoDLC/DancandoDLC_AudioPreview.ogg/a0ea86a26a5cfed8bf3cffafe0081de9.ogg",
+    "jmcs://jd-contents/DancandoDLC/DancandoDLC_HIGH.webm": "/private/map/DancandoDLC/DancandoDLC_HIGH.webm/47a39a1f160623bd8de0f3028380f7f6.webm",
+    "jmcs://jd-contents/DancandoDLC/DancandoDLC_LOW.webm": "/private/map/DancandoDLC/DancandoDLC_LOW.webm/b0e358b22b0c9df5b56a3323ded643a2.webm",
+    "jmcs://jd-contents/DancandoDLC/DancandoDLC_MID.webm": "/private/map/DancandoDLC/DancandoDLC_MID.webm/054d385131db0b50cc5e221ac94cdcc7.webm",
+    "jmcs://jd-contents/DancandoDLC/DancandoDLC_ULTRA.hd.webm": "/private/map/DancandoDLC/DancandoDLC_ULTRA.hd.webm/bcbe572bb2f639db6a191dd53008f84d.webm",
+    "jmcs://jd-contents/DancandoDLC/DancandoDLC_ULTRA.webm": "/private/map/DancandoDLC/DancandoDLC_ULTRA.webm/7e9a08aaeb69c1d3fc3878c1910f1516.webm",
+    "jmcs://jd-contents/DancandoDLC/DancandoDLC_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DancandoDLC/DancandoDLC_MapPreviewNoSoundCrop_LOW.vp8.webm/acf1a646a96958bd43e5bb7ba53d02cd.webm",
+    "jmcs://jd-contents/DancandoDLC/DancandoDLC_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DancandoDLC/DancandoDLC_MapPreviewNoSoundCrop_MID.vp8.webm/61799f949e973dfbc9cf44184feb7130.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"507408\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancandoDLC/DancandoDLC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1499644\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DancandoDLC/DancandoDLC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 212.688979
+}

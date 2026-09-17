@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9d99188b78c5a50d7975b20ccf4841b8",
+      "storageType": 0,
+      "url": "/public/map/GonnaGoMyWay/nx/GonnaGoMyWay_MAIN_SCENE_NX.zip/9d99188b78c5a50d7975b20ccf4841b8.zip"
+    },
+    "pc": {
+      "md5": "eb779e7a4dea90333e76f03137e1925d",
+      "storageType": 0,
+      "url": "/public/map/GonnaGoMyWay/pc/GonnaGoMyWay_MAIN_SCENE_PC.zip/eb779e7a4dea90333e76f03137e1925d.zip"
+    },
+    "ps4": {
+      "md5": "6d17837fef7f7fda9ca80d34ead63cd4",
+      "storageType": 0,
+      "url": "/public/map/GonnaGoMyWay/orbis/GonnaGoMyWay_MAIN_SCENE_ORBIS.zip/6d17837fef7f7fda9ca80d34ead63cd4.zip"
+    }
+  },
+  "data": {
+    "mapName": "GonnaGoMyWay",
+    "title": "Are You Gonna Go My Way",
+    "originalJDVersion": 3,
+    "tags": [
+      "main",
+      "jd3",
+      "main_3"
+    ],
+    "artist": "Lenny Kravitz",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#2655ff",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26677,
+        53354,
+        80031,
+        106711,
+        128922,
+        151134,
+        173346,
+        195558,
+        219345,
+        241470,
+        265033,
+        289424,
+        311660,
+        334780,
+        357743,
+        380629,
+        403460,
+        425936,
+        448872,
+        472325,
+        495775,
+        518346,
+        541115,
+        564024,
+        587623,
+        610353,
+        633380,
+        655903,
+        678969,
+        700973,
+        725308,
+        748301,
+        770607,
+        793269,
+        816199,
+        840204,
+        863029,
+        885066,
+        906834,
+        930095,
+        952730,
+        975272,
+        998283,
+        1022033,
+        1044151,
+        1066496,
+        1089555,
+        1111256,
+        1134355,
+        1156292,
+        1180045,
+        1201830,
+        1224836,
+        1247136,
+        1269385,
+        1291943,
+        1315296,
+        1337783,
+        1360239,
+        1384474,
+        1405767,
+        1427253,
+        1450944,
+        1472903,
+        1494806
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 460,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GonnaGoMyWay/nx/GonnaGoMyWay_banner_bkg.tga.ckd/143c39fbea7ab4e3ed4005ed846d13da.ckd",
+      "map_bkgImageUrl": "/public/map/GonnaGoMyWay/nx/GonnaGoMyWay_map_bkg.tga.ckd/e2926f90e301984be5c45140c2f85b36.ckd",
+      "expandCoachImageUrl": "/public/map/GonnaGoMyWay/nx/GonnaGoMyWay_Cover_AlbumCoach.tga.ckd/65f46ba0bd76fd22546118364f535539.ckd",
+      "cover_smallImageUrl": "/public/map/GonnaGoMyWay/nx/GonnaGoMyWay_Cover_Online.tga.ckd/e88574c0c6e5ebc062023ba72b38b06d.ckd",
+      "coach1ImageUrl": "/public/map/GonnaGoMyWay/nx/GonnaGoMyWay_Coach_1.tga.ckd/8dcae61876217027ddd5ed8b79d318f9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GonnaGoMyWay/pc/GonnaGoMyWay_banner_bkg.tga.ckd/1c8854039492f9cdcc33afa8a4a9dbaa.ckd",
+      "map_bkgImageUrl": "/public/map/GonnaGoMyWay/pc/GonnaGoMyWay_map_bkg.tga.ckd/7174c3aed10801ff7adb75feb1918fb0.ckd",
+      "expandCoachImageUrl": "/public/map/GonnaGoMyWay/pc/GonnaGoMyWay_Cover_AlbumCoach.tga.ckd/2fe06a6f3b0a38e2f121b0d928713cdb.ckd",
+      "cover_smallImageUrl": "/public/map/GonnaGoMyWay/pc/GonnaGoMyWay_Cover_Online.tga.ckd/1e928c86ff40c74c70a7f502f84da244.ckd",
+      "coach1ImageUrl": "/public/map/GonnaGoMyWay/pc/GonnaGoMyWay_Coach_1.tga.ckd/4e1a7579371782a39eac945ba592e5d4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GonnaGoMyWay/orbis/GonnaGoMyWay_banner_bkg.tga.ckd/1c8854039492f9cdcc33afa8a4a9dbaa.ckd",
+      "map_bkgImageUrl": "/public/map/GonnaGoMyWay/orbis/GonnaGoMyWay_map_bkg.tga.ckd/7174c3aed10801ff7adb75feb1918fb0.ckd",
+      "expandCoachImageUrl": "/public/map/GonnaGoMyWay/orbis/GonnaGoMyWay_Cover_AlbumCoach.tga.ckd/2fe06a6f3b0a38e2f121b0d928713cdb.ckd",
+      "cover_smallImageUrl": "/public/map/GonnaGoMyWay/orbis/GonnaGoMyWay_Cover_Online.tga.ckd/1e928c86ff40c74c70a7f502f84da244.ckd",
+      "coach1ImageUrl": "/public/map/GonnaGoMyWay/orbis/GonnaGoMyWay_Coach_1.tga.ckd/4e1a7579371782a39eac945ba592e5d4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GonnaGoMyWay/GonnaGoMyWay_Coach_1_Phone.png/c4abb65a52464fbce07d5e4dca2fa111.png",
+    "phoneCoverImageUrl": "/public/map/GonnaGoMyWay/GonnaGoMyWay_Cover_Phone.jpg/41744ee38e7c86ec3a7e6a4c848f9638.jpg",
+    "cover640ImageUrl": "/public/map/GonnaGoMyWay/GonnaGoMyWay_Cover_640.png/ffb6523bfb1be529b42afe8b6895d61b.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay.ogg": "/private/map/GonnaGoMyWay/GonnaGoMyWay.ogg/1392f0faa8d3f20135d19b8afda0b122.ogg",
+    "jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay_AudioPreview.ogg": "/public/map/GonnaGoMyWay/GonnaGoMyWay_AudioPreview.ogg/68914a82634369051b4a2726a6eb7976.ogg",
+    "jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay_HIGH.webm": "/private/map/GonnaGoMyWay/GonnaGoMyWay_HIGH.webm/083fbb24ce5108011b6298ab1a8f4e93.webm",
+    "jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay_LOW.webm": "/private/map/GonnaGoMyWay/GonnaGoMyWay_LOW.webm/238fec2388e931a9864ed17aacabc1cd.webm",
+    "jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay_MID.webm": "/private/map/GonnaGoMyWay/GonnaGoMyWay_MID.webm/ce92839f0bfb5b54d20e81dbd58469fc.webm",
+    "jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay_ULTRA.hd.webm": "/private/map/GonnaGoMyWay/GonnaGoMyWay_ULTRA.hd.webm/b89f327cccfc8e65052cf1fbd4f1d2c5.webm",
+    "jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay_ULTRA.webm": "/private/map/GonnaGoMyWay/GonnaGoMyWay_ULTRA.webm/76ae105a05def6c14eac97d04178711e.webm",
+    "jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GonnaGoMyWay/GonnaGoMyWay_MapPreviewNoSoundCrop_LOW.vp8.webm/0b82b21201031728933e919b40cab786.webm",
+    "jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GonnaGoMyWay/GonnaGoMyWay_MapPreviewNoSoundCrop_MID.vp8.webm/f3234d39c05d48cc03fd571df70137ca.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"512520\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1493228\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GonnaGoMyWay/GonnaGoMyWay_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 215.112979
+}

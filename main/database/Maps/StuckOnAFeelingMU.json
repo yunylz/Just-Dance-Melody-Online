@@ -1,0 +1,164 @@
+{
+  "urls": {
+    "jmcs://jd-contents/StuckOnAFeelingMU/StuckOnAFeelingMU_HIGH.hd.webm": "/private/map/StuckOnAFeelingMU/StuckOnAFeelingMU_HIGH.hd.webm/da6ababc82a6c26c6486da660a89e631.webm",
+    "jmcs://jd-contents/StuckOnAFeelingMU/StuckOnAFeelingMU_LOW.hd.webm": "/private/map/StuckOnAFeelingMU/StuckOnAFeelingMU_LOW.hd.webm/b9789f2478b27f31b368e0562c825cff.webm",
+    "jmcs://jd-contents/StuckOnAFeelingMU/StuckOnAFeelingMU_MID.hd.webm": "/private/map/StuckOnAFeelingMU/StuckOnAFeelingMU_MID.hd.webm/dacd25ccc4c0287afbf56d9c7d425782.webm",
+    "jmcs://jd-contents/StuckOnAFeelingMU/StuckOnAFeelingMU_ULTRA.hd.webm": "/private/map/StuckOnAFeelingMU/StuckOnAFeelingMU_ULTRA.hd.webm/7aac4b7b7b680359a3b37b865f08d30d.webm",
+    "jmcs://jd-contents/StuckOnAFeelingMU/StuckOnAFeelingMU.ogg": "/private/map/StuckOnAFeelingMU/StuckOnAFeelingMU.ogg/30b45b9ce829fe07e1897c74f440b9fb.ogg",
+    "jmcs://jd-contents/StuckOnAFeelingMU/StuckOnAFeelingMU_AudioPreview.ogg": "/public/map/StuckOnAFeelingMU/StuckOnAFeelingMU_AudioPreview.ogg/16e2dffcfc0b2e4d4527acd82f830e0f.ogg",
+    "jmcs://jd-contents/StuckOnAFeelingMU/StuckOnAFeelingMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/StuckOnAFeelingMU/StuckOnAFeelingMU_MapPreviewNoSoundCrop_LOW.vp8.webm/adf8d3df9489f798aa634d4296c05939.webm",
+    "jmcs://jd-contents/StuckOnAFeelingMU/StuckOnAFeelingMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/StuckOnAFeelingMU/StuckOnAFeelingMU_MapPreviewNoSoundCrop_MID.vp8.webm/02a6608bbc05a15c5d5140f079475408.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 349,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/StuckOnAFeelingMU/StuckOnAFeelingMU_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"618220\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StuckOnAFeelingMU/StuckOnAFeelingMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\n\t\t\t\t\t<Initialization range=\"0-639\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1974566\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StuckOnAFeelingMU/StuckOnAFeelingMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\n\t\t\t\t\t<Initialization range=\"0-639\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "c6fb39005f0460ff429cfdbd0bc8a2ed",
+      "storageType": 0,
+      "url": "/public/map/StuckOnAFeelingMU/nx/StuckOnAFeelingMU_MAIN_SCENE_NX.zip/c6fb39005f0460ff429cfdbd0bc8a2ed.zip"
+    },
+    "pc": {
+      "md5": "8ebd5a9748f6fe28c73d65dff12fcdb6",
+      "storageType": 0,
+      "url": "/public/map/StuckOnAFeelingMU/pc/StuckOnAFeelingMU_MAIN_SCENE_PC.zip/8ebd5a9748f6fe28c73d65dff12fcdb6.zip"
+    },
+    "ps4": {
+      "md5": "e161fb2f9a0b6560f15fc88f59886fe4",
+      "storageType": 0,
+      "url": "/public/map/StuckOnAFeelingMU/orbis/StuckOnAFeelingMU_MAIN_SCENE_ORBIS.zip/e161fb2f9a0b6560f15fc88f59886fe4.zip"
+    }
+  },
+  "data": {
+    "mapName": "StuckOnAFeelingMU",
+    "title": "Stuck On A Feeling",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "Prince Royce",
+    "credits": "Written by Jason Evigan, Jason Boyd, Dan Omelio, Ammar Malik, Ross Golan, Samuel Martin, Calvin Broadus, Daron Jones and Michael Keith. Published by BMG Platinum Songs (BMI)/Bad Robot (BMI)/Hitco South (ASCAP)/Poo BZ Publishing Inc (ASCAP)/Robopop Musik (ASCAP)/BMG Gold Songs (ASCAP)/Lafferty Daniel Publishing (ASCAP) / Prescription Songs LLC. Administered by Kobalt Music Publishing America, Inc. / Warner-Tamerlane Publishing Corp. (BMI) obo itself and Back In Djibouti.  WB Music Corp. (ASCAP) obo Artist Publishing Group West and Sam Martin Music Publishing / My Own Chit Music (BMI) and DA 12 Music/Justin Combes Publishing Company Inc. (ASCAP) c/o EMI April Music (Canada) Ltd. (SOCAN). All rights reserved.  Used with permission. Courtesy of Sony Music Latin/RCA Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#002655",
+    "songColor2A": "#a786ff",
+    "songColor1B": "#00020f",
+    "songColor2B": "#4dbcb8",
+    "lyricsColor": "#ffce10",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/StuckOnAFeelingMU/nx/StuckOnAFeelingMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/StuckOnAFeelingMU/nx/StuckOnAFeelingMU_map_bkg.tga.ckd/0486465d7844a2c1f0b04ebc3d46ba03.ckd",
+      "expandCoachImageUrl": "/public/map/StuckOnAFeelingMU/nx/StuckOnAFeelingMU_Cover_AlbumCoach.tga.ckd/14d549b7710e9969c226f4bfa20aedd1.ckd",
+      "cover_smallImageUrl": "/public/map/StuckOnAFeelingMU/nx/StuckOnAFeelingMU_Cover_Online.tga.ckd/5a040883e88a7ef319a7a9255de93a28.ckd",
+      "coverImageUrl": "/public/map/StuckOnAFeelingMU/nx/StuckOnAFeelingMU_Cover_Generic.tga.ckd/6a962247f335829db8e92a73ae095e47.ckd",
+      "coach1ImageUrl": "/public/map/StuckOnAFeelingMU/nx/StuckOnAFeelingMU_Coach_1.tga.ckd/fa4b1a9d64ce01f30e68c00e56181cc8.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/StuckOnAFeelingMU/pc/StuckOnAFeelingMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/StuckOnAFeelingMU/pc/StuckOnAFeelingMU_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/StuckOnAFeelingMU/pc/StuckOnAFeelingMU_Cover_AlbumCoach.tga.ckd/24c9ac1427db9ad47fbf04563e21f029.ckd",
+      "cover_smallImageUrl": "/public/map/StuckOnAFeelingMU/pc/StuckOnAFeelingMU_Cover_Online.tga.ckd/7b290b52606fc14d6c9c5aeca8413dc4.ckd",
+      "coverImageUrl": "/public/map/StuckOnAFeelingMU/pc/StuckOnAFeelingMU_Cover_Generic.tga.ckd/44fed17b536b0983589b3235bab48ab2.ckd",
+      "coach1ImageUrl": "/public/map/StuckOnAFeelingMU/pc/StuckOnAFeelingMU_Coach_1.tga.ckd/277d6eaef7bc913ec5cb1d5f026f2919.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/StuckOnAFeelingMU/orbis/StuckOnAFeelingMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/StuckOnAFeelingMU/orbis/StuckOnAFeelingMU_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/StuckOnAFeelingMU/orbis/StuckOnAFeelingMU_Cover_AlbumCoach.tga.ckd/24c9ac1427db9ad47fbf04563e21f029.ckd",
+      "cover_smallImageUrl": "/public/map/StuckOnAFeelingMU/orbis/StuckOnAFeelingMU_Cover_Online.tga.ckd/7b290b52606fc14d6c9c5aeca8413dc4.ckd",
+      "coverImageUrl": "/public/map/StuckOnAFeelingMU/orbis/StuckOnAFeelingMU_Cover_Generic.tga.ckd/44fed17b536b0983589b3235bab48ab2.ckd",
+      "coach1ImageUrl": "/public/map/StuckOnAFeelingMU/orbis/StuckOnAFeelingMU_Coach_1.tga.ckd/277d6eaef7bc913ec5cb1d5f026f2919.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/StuckOnAFeelingMU/StuckOnAFeelingMU_Coach_1_Phone.png/232bdf89a9c60715f6d815756d97a2ee.png",
+    "phoneCoverImageUrl": "/public/map/StuckOnAFeelingMU/StuckOnAFeelingMU_Cover_Phone.jpg/a9498538e2b6fad18c1321d693e466ba.jpg",
+    "cover640ImageUrl": "/public/map/StuckOnAFeelingMU/StuckOnAFeelingMU_Cover_640.png/ff8782ec4006800b743a20c9285011e4.png"
+  },
+  "mapLength": 212.400021
+}

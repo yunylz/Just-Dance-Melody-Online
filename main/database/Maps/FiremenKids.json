@@ -1,0 +1,168 @@
+{
+  "urls": {
+    "jmcs://jd-contents/FiremenKids/FiremenKids.ogg": "/private/map/FiremenKids/FiremenKids.ogg/630f47eed6a44b2a2ec80e26d6324ddb.ogg",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_AudioPreview.ogg": "/public/map/FiremenKids/FiremenKids_AudioPreview.ogg/2a0bd2b8de7170e0c82e6437884914e0.ogg",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_HIGH.hd.webm": "/private/map/FiremenKids/FiremenKids_HIGH.hd.webm/a2e05972aecc3886a20fd30038f3c433.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_LOW.hd.webm": "/private/map/FiremenKids/FiremenKids_LOW.hd.webm/c162aedd003293c7c06353ce5bfa0eae.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_MID.hd.webm": "/private/map/FiremenKids/FiremenKids_MID.hd.webm/55f6185bf2e28a5591a4b02f13c068f9.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_ULTRA.hd.webm": "/private/map/FiremenKids/FiremenKids_ULTRA.hd.webm/58db4322d91b5270aa3894cd2c70de96.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_LOW.vp8.webm/e911ef30f8d1c6bbdd8f578f796b4c62.webm",
+    "jmcs://jd-contents/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/FiremenKids/FiremenKids_MapPreviewNoSoundCrop_MID.vp8.webm/8218f0fe77db75138a17ae31d8da1f89.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -1,
+      "endBeat": 200,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/FiremenKids/FiremenKids_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "5f1aea9f550840612a51e73c78202247",
+      "storageType": 0,
+      "url": "/public/map/FiremenKids/nx/FiremenKids_MAIN_SCENE_NX.zip/5f1aea9f550840612a51e73c78202247.zip"
+    },
+    "pc": {
+      "md5": "7014311b8c4249f1065f71c4e3278168",
+      "storageType": 0,
+      "url": "/public/map/FiremenKids/pc/FiremenKids_MAIN_SCENE_PC.zip/7014311b8c4249f1065f71c4e3278168.zip"
+    },
+    "ps4": {
+      "md5": "3a1d74e6935af22d9354727303d4b052",
+      "storageType": 0,
+      "url": "/public/map/FiremenKids/orbis/FiremenKids_MAIN_SCENE_ORBIS.zip/3a1d74e6935af22d9354727303d4b052.zip"
+    }
+  },
+  "data": {
+    "mapName": "FiremenKids",
+    "title": "Get On The Fire Truck",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main",
+      "kidsonly"
+    ],
+    "artist": "The Step Brigade",
+    "credits": "Written by Terry Devine-King. Published by Audio Network Canada Inc. Courtesy of Audio Network Canada Inc.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#f6ac30",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#21d2de",
+    "LocaleID": 12939
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/FiremenKids/nx/FiremenKids_banner_bkg.tga.ckd/31c73d820bd455c8fa05f1f565d5b25e.ckd",
+      "map_bkgImageUrl": "/public/map/FiremenKids/nx/FiremenKids_map_bkg.tga.ckd/421944c03f3c21733b7f90fe9058924e.ckd",
+      "expandCoachImageUrl": "/public/map/FiremenKids/nx/FiremenKids_Cover_AlbumCoach.tga.ckd/392a293734bb8cac118ed198bb427979.ckd",
+      "cover_smallImageUrl": "/public/map/FiremenKids/nx/FiremenKids_Cover_Online.tga.ckd/9e559a02639066184e8091d0e69be4c6.ckd",
+      "coverImageUrl": "/public/map/FiremenKids/nx/FiremenKids_Cover_Generic.tga.ckd/14238893b22bc00be2028ddb02240e2b.ckd",
+      "coach1ImageUrl": "/public/map/FiremenKids/nx/FiremenKids_Coach_1.tga.ckd/b8a6ee38b6abd86dc478486f8149a9d7.ckd",
+      "coach2ImageUrl": "/public/map/FiremenKids/nx/FiremenKids_Coach_2.tga.ckd/c68c3a4c35341a12c2bf0ec4f22accca.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/FiremenKids/pc/FiremenKids_banner_bkg.tga.ckd/e5809a4a055b5bfd52a66b2927e016a5.ckd",
+      "map_bkgImageUrl": "/public/map/FiremenKids/pc/FiremenKids_map_bkg.tga.ckd/b7b92206caa77e5b027a721b73e7b86f.ckd",
+      "expandCoachImageUrl": "/public/map/FiremenKids/pc/FiremenKids_Cover_AlbumCoach.tga.ckd/3bcfe293afadb1cd0eddefa92d18bbc4.ckd",
+      "cover_smallImageUrl": "/public/map/FiremenKids/pc/FiremenKids_Cover_Online.tga.ckd/8ad46ca41677294ce0a1a1c34103e6ea.ckd",
+      "coverImageUrl": "/public/map/FiremenKids/pc/FiremenKids_Cover_Generic.tga.ckd/671be3e00678b2cc36dbfbd1ebb211c4.ckd",
+      "coach1ImageUrl": "/public/map/FiremenKids/pc/FiremenKids_Coach_1.tga.ckd/cab8ccb31b64fdf528cc13512f646983.ckd",
+      "coach2ImageUrl": "/public/map/FiremenKids/pc/FiremenKids_Coach_2.tga.ckd/b53d240b12e0b3579af3ccec62884485.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/FiremenKids/orbis/FiremenKids_banner_bkg.tga.ckd/e5809a4a055b5bfd52a66b2927e016a5.ckd",
+      "map_bkgImageUrl": "/public/map/FiremenKids/orbis/FiremenKids_map_bkg.tga.ckd/b7b92206caa77e5b027a721b73e7b86f.ckd",
+      "expandCoachImageUrl": "/public/map/FiremenKids/orbis/FiremenKids_Cover_AlbumCoach.tga.ckd/3bcfe293afadb1cd0eddefa92d18bbc4.ckd",
+      "cover_smallImageUrl": "/public/map/FiremenKids/orbis/FiremenKids_Cover_Online.tga.ckd/8ad46ca41677294ce0a1a1c34103e6ea.ckd",
+      "coverImageUrl": "/public/map/FiremenKids/orbis/FiremenKids_Cover_Generic.tga.ckd/671be3e00678b2cc36dbfbd1ebb211c4.ckd",
+      "coach1ImageUrl": "/public/map/FiremenKids/orbis/FiremenKids_Coach_1.tga.ckd/cab8ccb31b64fdf528cc13512f646983.ckd",
+      "coach2ImageUrl": "/public/map/FiremenKids/orbis/FiremenKids_Coach_2.tga.ckd/b53d240b12e0b3579af3ccec62884485.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/FiremenKids/FiremenKids_Coach_1_Phone.png/7b11822d2e12057068244c9c54d75ffc.png",
+    "phoneCoach2ImageUrl": "/public/map/FiremenKids/FiremenKids_Coach_2_Phone.png/b56a7c09fc494d3aff19ed880e6f2566.png",
+    "phoneCoverImageUrl": "/public/map/FiremenKids/FiremenKids_Cover_Phone.jpg/3d6d32e86128438f635f90fccc5ee3c5.jpg",
+    "cover640ImageUrl": "/public/map/FiremenKids/FiremenKids_Cover_640.png/b29003139522311990d913f8c05aff3d.png"
+  },
+  "mapLength": 120.6
+}

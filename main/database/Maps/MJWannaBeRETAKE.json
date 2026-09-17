@@ -1,0 +1,183 @@
+{
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"640684\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"787-1277\">\n\t\t\t\t\t<Initialization range=\"0-787\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"844556\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"787-1277\">\n\t\t\t\t\t<Initialization range=\"0-787\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"844790\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"787-1277\">\n\t\t\t\t\t<Initialization range=\"0-787\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"844470\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"787-1277\">\n\t\t\t\t\t<Initialization range=\"0-787\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "urls": {
+    "jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_LOW.vp8.webm/d703ffbde7e705328fcfff918d01fc74.webm",
+    "jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_MID.vp8.webm/e9cd329c05bc7e68bc99525b541147d5.webm",
+    "jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_HIGH.vp8.webm/29cbfd47fe9981fed61acd0179a76aa9.webm",
+    "jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_MapPreviewNoSoundCrop_ULTRA.vp8.webm/1d594ffc565a114b967cd2ca4d9405be.webm",
+    "jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_ULTRA.hd.webm": "/private/map/MJWannaBeRETAKE/MJWannaBeRETAKE_ULTRA.hd.webm/175ae80f050303682657f44dcf8de5d6.webm",
+    "jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_HIGH.hd.webm": "/private/map/MJWannaBeRETAKE/MJWannaBeRETAKE_HIGH.hd.webm/d2a2303a9b8a798e5633dfe8ffe20abd.webm",
+    "jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_MID.hd.webm": "/private/map/MJWannaBeRETAKE/MJWannaBeRETAKE_MID.hd.webm/ba02d2cbfa81fa65c984e3f947d5c518.webm",
+    "jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_LOW.hd.webm": "/private/map/MJWannaBeRETAKE/MJWannaBeRETAKE_LOW.hd.webm/46318f1e08574f297bf90216eddb33f9.webm",
+    "jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE_AudioPreview.ogg": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_AudioPreview.ogg/4d1de1bcc9475ac77a94d77c9141539b.ogg",
+    "jmcs://jd-contents/MJWannaBeRETAKE/MJWannaBeRETAKE.ogg": "/private/map/MJWannaBeRETAKE/MJWannaBeRETAKE.ogg/69b94fdadc47458784140e6e320bf0af.ogg"
+  },
+  "mapLength": 259.58770833333335,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23569,
+        47081,
+        70624,
+        94184,
+        117734,
+        141272,
+        164856,
+        188384,
+        211947,
+        235476,
+        259093,
+        282636,
+        306133,
+        329713,
+        353371,
+        376899,
+        400481,
+        424074,
+        447634,
+        471186,
+        494716,
+        518246,
+        541847,
+        565329,
+        588863,
+        612458,
+        635983,
+        659546,
+        683078,
+        706601,
+        730157,
+        753709,
+        777567,
+        801343,
+        824720,
+        848350,
+        871869,
+        895564,
+        919040,
+        942589,
+        966137,
+        989671,
+        1013281,
+        1036811,
+        1060352,
+        1083881,
+        1107448,
+        1131006,
+        1154551,
+        1178079,
+        1201600,
+        1225167,
+        1248718,
+        1272407,
+        1296013,
+        1319601,
+        1343153,
+        1366690,
+        1390228,
+        1413786,
+        1437316
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 529,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "url": "jmcs://jd-contents/mjwannaberetake/mjwannaberetake_AudioPreview.ogg",
+    "path": ""
+  },
+  "packages": {
+    "pc": {
+      "md5": "534d046be28e4ee03d995181c35bcd32",
+      "storageType": 0,
+      "url": "/public/map/MJWannaBeRETAKE/pc/MJWannaBeRETAKE_MAIN_SCENE_PC.zip/534d046be28e4ee03d995181c35bcd32.zip"
+    },
+    "ps4": {
+      "md5": "f9109f8eb33666df2da1eeb6ce7aa526",
+      "storageType": 0,
+      "url": "/public/map/MJWannaBeRETAKE/orbis/MJWannaBeRETAKE_MAIN_SCENE_ORBIS.zip/f9109f8eb33666df2da1eeb6ce7aa526.zip"
+    },
+    "nx": {
+      "md5": "48095c782bd33253985acebdcebe833f",
+      "storageType": 0,
+      "url": "/public/map/MJWannaBeRETAKE/nx/MJWannaBeRETAKE_MAIN_SCENE_NX.zip/48095c782bd33253985acebdcebe833f.zip"
+    }
+  },
+  "data": {
+    "mapName": "MJWannaBeRETAKE",
+    "title": "Wanna Be Startin' Somethin'",
+    "originalJDVersion": 2009,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Michael Jackson",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#C33ACF",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/MJWannaBeRETAKE/pc/MJWannaBeRETAKE_Cover_Online.tga.ckd/7fb8b5f8fa22a45b06f681f251974b39.ckd",
+      "coverImageUrl": "/public/map/MJWannaBeRETAKE/pc/MJWannaBeRETAKE_Cover_Generic.tga.ckd/aaefac1cf416d88a4472ecc2e4bdb207.ckd",
+      "expandCoachImageUrl": "/public/map/MJWannaBeRETAKE/pc/MJWannaBeRETAKE_Cover_AlbumCoach.tga.ckd/fa1dadf5d3f1bc3547334ddfabd592f5.ckd",
+      "map_bkgImageUrl": "/public/map/MJWannaBeRETAKE/pc/MJWannaBeRETAKE_map_bkg.tga.ckd/d5fc16a10a56d29c11fb40f0ea185b6b.ckd",
+      "banner_bkgImageUrl": "/public/map/MJWannaBeRETAKE/pc/MJWannaBeRETAKE_banner_bkg.tga.ckd/b0fcc54b69f380ec78c3177824b24673.ckd",
+      "coach1ImageUrl": "/public/map/MJWannaBeRETAKE/pc/MJWannaBeRETAKE_Coach_1.tga.ckd/673412f55a8155dd6ce6672a303bf4a2.ckd",
+      "phoneCoverImageUrl": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_Cover_Phone.jpg/89f35fa0b48d07be11ebc23bbe9c70d8.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_Coach_1_Phone.png/2a8d3d8ed2e14d71c23d015113397a65.png",
+      "cover640ImageUrl": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_Cover_640.png/2606bd5747226ec6ca9ad75acf16500a.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/MJWannaBeRETAKE/orbis/MJWannaBeRETAKE_Cover_Online.tga.ckd/7fb8b5f8fa22a45b06f681f251974b39.ckd",
+      "coverImageUrl": "/public/map/MJWannaBeRETAKE/orbis/MJWannaBeRETAKE_Cover_Generic.tga.ckd/aaefac1cf416d88a4472ecc2e4bdb207.ckd",
+      "expandCoachImageUrl": "/public/map/MJWannaBeRETAKE/orbis/MJWannaBeRETAKE_Cover_AlbumCoach.tga.ckd/d93e5eb45eba48ea76940272bf826cd1.ckd",
+      "map_bkgImageUrl": "/public/map/MJWannaBeRETAKE/orbis/MJWannaBeRETAKE_map_bkg.tga.ckd/d5fc16a10a56d29c11fb40f0ea185b6b.ckd",
+      "banner_bkgImageUrl": "/public/map/MJWannaBeRETAKE/orbis/MJWannaBeRETAKE_banner_bkg.tga.ckd/b0fcc54b69f380ec78c3177824b24673.ckd",
+      "coach1ImageUrl": "/public/map/MJWannaBeRETAKE/orbis/MJWannaBeRETAKE_Coach_1.tga.ckd/506c7ea88fe92ac3147773cc21d3cd0a.ckd",
+      "phoneCoverImageUrl": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_Cover_Phone.jpg/89f35fa0b48d07be11ebc23bbe9c70d8.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_Coach_1_Phone.png/2a8d3d8ed2e14d71c23d015113397a65.png",
+      "cover640ImageUrl": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_Cover_640.png/2606bd5747226ec6ca9ad75acf16500a.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/MJWannaBeRETAKE/nx/MJWannaBeRETAKE_Cover_Online.tga.ckd/e592062c61cfb6539b3b3a5f4e5fad97.ckd",
+      "coverImageUrl": "/public/map/MJWannaBeRETAKE/nx/MJWannaBeRETAKE_Cover_Generic.tga.ckd/45617a4f5373ba15abc8fd465223fdc6.ckd",
+      "expandCoachImageUrl": "/public/map/MJWannaBeRETAKE/nx/MJWannaBeRETAKE_Cover_AlbumCoach.tga.ckd/3fb735f66bc0164a4a473c62973e6eb1.ckd",
+      "map_bkgImageUrl": "/public/map/MJWannaBeRETAKE/nx/MJWannaBeRETAKE_map_bkg.tga.ckd/6ace4cf0f40bd1de457dca2fd8ce5ddd.ckd",
+      "banner_bkgImageUrl": "/public/map/MJWannaBeRETAKE/nx/MJWannaBeRETAKE_banner_bkg.tga.ckd/b509eb6031eb78d3469610e7e4ac493c.ckd",
+      "coach1ImageUrl": "/public/map/MJWannaBeRETAKE/nx/MJWannaBeRETAKE_Coach_1.tga.ckd/77ffe69200686e968b2a49ec3cd0e39b.ckd",
+      "phoneCoverImageUrl": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_Cover_Phone.jpg/89f35fa0b48d07be11ebc23bbe9c70d8.jpg",
+      "phoneCoach1ImageUrl": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_Coach_1_Phone.png/2a8d3d8ed2e14d71c23d015113397a65.png",
+      "cover640ImageUrl": "/public/map/MJWannaBeRETAKE/MJWannaBeRETAKE_Cover_640.png/2606bd5747226ec6ca9ad75acf16500a.png"
+    }
+  }
+}

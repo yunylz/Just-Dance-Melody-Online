@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Animals/Animals.ogg": "/private/map/Animals/Animals.ogg/a89551cba8860ff44ce956a5b5ce4690.ogg",
+    "jmcs://jd-contents/Animals/Animals_AudioPreview.ogg": "/public/map/Animals/Animals_AudioPreview.ogg/653e2a8541a736cccc6f134cdac98d3b.ogg",
+    "jmcs://jd-contents/Animals/Animals_HIGH.hd.webm": "/private/map/Animals/Animals_HIGH.hd.webm/8ce56b70961726487193a5ee8d95cdd9.webm",
+    "jmcs://jd-contents/Animals/Animals_LOW.hd.webm": "/private/map/Animals/Animals_LOW.hd.webm/92b0a801e67f6f9899e28a72541c1af2.webm",
+    "jmcs://jd-contents/Animals/Animals_MID.hd.webm": "/private/map/Animals/Animals_MID.hd.webm/b9d7c18a804074678736a185a1e295d0.webm",
+    "jmcs://jd-contents/Animals/Animals_ULTRA.hd.webm": "/private/map/Animals/Animals_ULTRA.hd.webm/298eec2565c6b762a35ff69e776cc313.webm",
+    "jmcs://jd-contents/Animals/Animals_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Animals/Animals_MapPreviewNoSoundCrop_LOW.vp8.webm/1b3ab0e799ad75a7c63927ccd55bc78e.webm",
+    "jmcs://jd-contents/Animals/Animals_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Animals/Animals_MapPreviewNoSoundCrop_MID.vp8.webm/4ac90698837321b5c5492a48b77c6d49.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22512,
+        45024,
+        67488,
+        90000,
+        112512,
+        135023,
+        157488,
+        180000,
+        202511,
+        225024,
+        247487,
+        270000,
+        292512,
+        315024,
+        337488,
+        360000,
+        382512,
+        405023,
+        427487,
+        450000,
+        472511,
+        495023,
+        517487,
+        540000,
+        562512,
+        585024,
+        607488,
+        630000,
+        652512,
+        675024,
+        697488,
+        720000,
+        742512,
+        765024,
+        787488,
+        810000,
+        832511,
+        855024,
+        877487,
+        900000,
+        922511,
+        945023,
+        967487,
+        990000,
+        1012511,
+        1035023,
+        1057488,
+        1080000,
+        1102512,
+        1125024,
+        1147488,
+        1170000,
+        1192511,
+        1215024,
+        1237488,
+        1260000,
+        1282512,
+        1305024,
+        1327487,
+        1350000,
+        1372511,
+        1395023,
+        1417488,
+        1440000,
+        1462512,
+        1485024
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 376,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Animals/Animals_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "e3aa6b8b8337a814e6d0bb34612fc6ff",
+      "storageType": 0,
+      "url": "/public/map/Animals/nx/Animals_MAIN_SCENE_NX.zip/e3aa6b8b8337a814e6d0bb34612fc6ff.zip"
+    },
+    "pc": {
+      "md5": "4758502c7c10e9e8f6c291558b208001",
+      "storageType": 0,
+      "url": "/public/map/Animals/pc/Animals_MAIN_SCENE_PC.zip/4758502c7c10e9e8f6c291558b208001.zip"
+    },
+    "ps4": {
+      "md5": "d896bcd90236bfc8bd37d03a86e64490",
+      "storageType": 0,
+      "url": "/public/map/Animals/orbis/Animals_MAIN_SCENE_ORBIS.zip/d896bcd90236bfc8bd37d03a86e64490.zip"
+    }
+  },
+  "data": {
+    "mapName": "Animals",
+    "title": "Animals",
+    "originalJDVersion": 2016,
+    "tags": [
+      "main"
+    ],
+    "artist": "Martin Garrix",
+    "credits": "Written by Martijn Garritsen. Published by Universal Music Publishing, a division of Universal Music Canada Inc. Courtesy of Universal Music Entertainment, under license from Universal Music Canada Inc.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#a42aff",
+    "songColor2A": "#016abd",
+    "songColor1B": "#0e0113",
+    "songColor2B": "#040c1b",
+    "lyricsColor": "#0cfbba",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Animals/nx/Animals_banner_bkg.tga.ckd/c0f4dcb95e040dbcc7d6e8c40634187e.ckd",
+      "map_bkgImageUrl": "/public/map/Animals/nx/Animals_map_bkg.tga.ckd/f21352941778b3d4c899e9f827c55eb3.ckd",
+      "expandCoachImageUrl": "/public/map/Animals/nx/Animals_Cover_AlbumCoach.tga.ckd/77b8b49321b3ab21fb7125742dee9470.ckd",
+      "cover_smallImageUrl": "/public/map/Animals/nx/Animals_Cover_Online.tga.ckd/f4936dc9b793265cdcef0cb675a7d046.ckd",
+      "coverImageUrl": "/public/map/Animals/nx/Animals_Cover_Generic.tga.ckd/11dd2b18add3040f9147bca811119c72.ckd",
+      "coach1ImageUrl": "/public/map/Animals/nx/Animals_Coach_1.tga.ckd/8f146c46dae7c27b9e2947f0fe582237.ckd",
+      "coach2ImageUrl": "/public/map/Animals/nx/Animals_Coach_2.tga.ckd/c425616f3d2f9bbb2d0a843d9bd28bea.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Animals/pc/Animals_banner_bkg.tga.ckd/ff169a68f93e056d8ee9adcd59a1329e.ckd",
+      "map_bkgImageUrl": "/public/map/Animals/pc/Animals_map_bkg.tga.ckd/2e7fca5ac546c16999066be22a9a67f3.ckd",
+      "expandCoachImageUrl": "/public/map/Animals/pc/Animals_Cover_AlbumCoach.tga.ckd/974a2efd4658b786eb4ed38a5a4bc088.ckd",
+      "cover_smallImageUrl": "/public/map/Animals/pc/Animals_Cover_Online.tga.ckd/ea148fcfdeef59fc70f3c6e975347d5e.ckd",
+      "coverImageUrl": "/public/map/Animals/pc/Animals_Cover_Generic.tga.ckd/45f5c6bff739c716c8400f27dad245ec.ckd",
+      "coach1ImageUrl": "/public/map/Animals/pc/Animals_Coach_1.tga.ckd/234122db5174941b4c9eac7f249a11ec.ckd",
+      "coach2ImageUrl": "/public/map/Animals/pc/Animals_Coach_2.tga.ckd/e244e50e3ac3b341fdc8e9156895961d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Animals/orbis/Animals_banner_bkg.tga.ckd/ff169a68f93e056d8ee9adcd59a1329e.ckd",
+      "map_bkgImageUrl": "/public/map/Animals/orbis/Animals_map_bkg.tga.ckd/2e7fca5ac546c16999066be22a9a67f3.ckd",
+      "expandCoachImageUrl": "/public/map/Animals/orbis/Animals_Cover_AlbumCoach.tga.ckd/974a2efd4658b786eb4ed38a5a4bc088.ckd",
+      "cover_smallImageUrl": "/public/map/Animals/orbis/Animals_Cover_Online.tga.ckd/ea148fcfdeef59fc70f3c6e975347d5e.ckd",
+      "coverImageUrl": "/public/map/Animals/orbis/Animals_Cover_Generic.tga.ckd/45f5c6bff739c716c8400f27dad245ec.ckd",
+      "coach1ImageUrl": "/public/map/Animals/orbis/Animals_Coach_1.tga.ckd/234122db5174941b4c9eac7f249a11ec.ckd",
+      "coach2ImageUrl": "/public/map/Animals/orbis/Animals_Coach_2.tga.ckd/e244e50e3ac3b341fdc8e9156895961d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Animals/Animals_Coach_1_Phone.png/00737037cdeb756bb798b3ed22fa9fb3.png",
+    "phoneCoach2ImageUrl": "/public/map/Animals/Animals_Coach_2_Phone.png/9284bdceeb0cc694ba8d36b24d6e8e89.png",
+    "phoneCoverImageUrl": "/public/map/Animals/Animals_Cover_Phone.jpg/858c830ba498a5d4dfeecdc42b9dce46.jpg",
+    "cover640ImageUrl": "/public/map/Animals/Animals_Cover_640.png/7522f6c7a04c38bec24e1dfc91c6cbfb.png"
+  },
+  "mapLength": 177.65625
+}

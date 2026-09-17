@@ -1,0 +1,161 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ThriftShop/ThriftShop.ogg": "/private/map/ThriftShop/ThriftShop.ogg/fe972e110dc6013afc5b2482341b692b.ogg",
+    "jmcs://jd-contents/ThriftShop/ThriftShop_AudioPreview.ogg": "/public/map/ThriftShop/ThriftShop_AudioPreview.ogg/e5b381b0bb8c3607f3322cdc940e0d90.ogg",
+    "jmcs://jd-contents/ThriftShop/ThriftShop_HIGH.hd.webm": "/private/map/ThriftShop/ThriftShop_HIGH.hd.webm/b6cd6e3dfd4959ea9a99eddc36a37eb4.webm",
+    "jmcs://jd-contents/ThriftShop/ThriftShop_LOW.hd.webm": "/private/map/ThriftShop/ThriftShop_LOW.hd.webm/27fc1b485b58c4694b051b5ab8c00514.webm",
+    "jmcs://jd-contents/ThriftShop/ThriftShop_MID.hd.webm": "/private/map/ThriftShop/ThriftShop_MID.hd.webm/7c2a8a9997e38888daefc3f4a9d57a40.webm",
+    "jmcs://jd-contents/ThriftShop/ThriftShop_ULTRA.hd.webm": "/private/map/ThriftShop/ThriftShop_ULTRA.hd.webm/f8369f3949839327e3cce23b65a13b26.webm",
+    "jmcs://jd-contents/ThriftShop/ThriftShop_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ThriftShop/ThriftShop_MapPreviewNoSoundCrop_LOW.vp8.webm/5b835e66654d72abadae211f871c6032.webm",
+    "jmcs://jd-contents/ThriftShop/ThriftShop_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ThriftShop/ThriftShop_MapPreviewNoSoundCrop_MID.vp8.webm/74c6b8111bfbc8b526d864f860a4f4cb.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30316,
+        60632,
+        90947,
+        121263,
+        151579,
+        181895,
+        212211,
+        242526,
+        272842,
+        303158,
+        333474,
+        363789,
+        394105,
+        424421,
+        454737,
+        485053,
+        515368,
+        545684,
+        576000,
+        606316,
+        636632,
+        666947,
+        697263,
+        727579,
+        757895,
+        788211,
+        818526,
+        848842,
+        879158,
+        909474,
+        939789,
+        970105,
+        1000421,
+        1030737,
+        1061053,
+        1091368,
+        1121684,
+        1152000,
+        1182316,
+        1212632,
+        1242947,
+        1273263,
+        1303579,
+        1333895,
+        1364211,
+        1394526,
+        1424842,
+        1455158,
+        1485474
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 376,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ThriftShop/ThriftShop_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"541448\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThriftShop/ThriftShop_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2004982\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ThriftShop/ThriftShop_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "59b815ece613196829189f6b5fdf2c7d",
+      "storageType": 0,
+      "url": "/public/map/ThriftShop/nx/ThriftShop_MAIN_SCENE_NX.zip/59b815ece613196829189f6b5fdf2c7d.zip"
+    },
+    "pc": {
+      "md5": "0faf145a3e1ee5ac6d1b09912fdfc8fe",
+      "storageType": 0,
+      "url": "/public/map/ThriftShop/pc/ThriftShop_MAIN_SCENE_PC.zip/0faf145a3e1ee5ac6d1b09912fdfc8fe.zip"
+    },
+    "ps4": {
+      "md5": "503df42f7f9e55d70311fe9c3aca8dcf",
+      "storageType": 0,
+      "url": "/public/map/ThriftShop/orbis/ThriftShop_MAIN_SCENE_ORBIS.zip/503df42f7f9e55d70311fe9c3aca8dcf.zip"
+    }
+  },
+  "data": {
+    "mapName": "ThriftShop",
+    "title": "Thrift Shop",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Macklemore & Ryan Lewis with Wanz",
+    "credits": "“Thrift Shop (feat. Wanz)” performed by Macklemore & Ryan Lewis. Written by Ben Haggerty and Ryan Lewis. Published by Macklemore Publishing and Ryan Lewis Publishing, administered by Songs of Kobalt Music Publishing. Courtesy of Macklemore LLC. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#0500d0",
+    "songColor2A": "#afe74e",
+    "songColor1B": "#000003",
+    "songColor2B": "#032806",
+    "lyricsColor": "#6be03e",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ThriftShop/nx/ThriftShop_banner_bkg.tga.ckd/200c5a8b3187fa6faa31981eccb395a7.ckd",
+      "map_bkgImageUrl": "/public/map/ThriftShop/nx/ThriftShop_map_bkg.tga.ckd/0637b6b2900f12c2886be679d1eaa296.ckd",
+      "expandCoachImageUrl": "/public/map/ThriftShop/nx/ThriftShop_Cover_AlbumCoach.tga.ckd/614d911eadc4a580fd4b12964aa8258b.ckd",
+      "cover_smallImageUrl": "/public/map/ThriftShop/nx/ThriftShop_Cover_Online.tga.ckd/dc1872277967beb8f41f1676dafe37eb.ckd",
+      "coverImageUrl": "/public/map/ThriftShop/nx/ThriftShop_Cover_Generic.tga.ckd/57db4a5025741ba7dc36a60f2e6a90bd.ckd",
+      "coach1ImageUrl": "/public/map/ThriftShop/nx/ThriftShop_Coach_1.tga.ckd/4a616c429987270e2a287368c7d91fd7.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ThriftShop/pc/ThriftShop_banner_bkg.tga.ckd/1bc6b68112349d6550ed5f345b534fdc.ckd",
+      "map_bkgImageUrl": "/public/map/ThriftShop/pc/ThriftShop_map_bkg.tga.ckd/28cf247401d783a10a56a7f94b7cbaac.ckd",
+      "expandCoachImageUrl": "/public/map/ThriftShop/pc/ThriftShop_Cover_AlbumCoach.tga.ckd/73313b7a665520b6a0a1b849fecded9e.ckd",
+      "cover_smallImageUrl": "/public/map/ThriftShop/pc/ThriftShop_Cover_Online.tga.ckd/844ef7fb4224477ae881f94d467dedac.ckd",
+      "coverImageUrl": "/public/map/ThriftShop/pc/ThriftShop_Cover_Generic.tga.ckd/c3441465731d110df7c7a9ae99b6677d.ckd",
+      "coach1ImageUrl": "/public/map/ThriftShop/pc/ThriftShop_Coach_1.tga.ckd/c6a409df1fe14957c08097f808eabe99.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ThriftShop/orbis/ThriftShop_banner_bkg.tga.ckd/1bc6b68112349d6550ed5f345b534fdc.ckd",
+      "map_bkgImageUrl": "/public/map/ThriftShop/orbis/ThriftShop_map_bkg.tga.ckd/28cf247401d783a10a56a7f94b7cbaac.ckd",
+      "expandCoachImageUrl": "/public/map/ThriftShop/orbis/ThriftShop_Cover_AlbumCoach.tga.ckd/73313b7a665520b6a0a1b849fecded9e.ckd",
+      "cover_smallImageUrl": "/public/map/ThriftShop/orbis/ThriftShop_Cover_Online.tga.ckd/844ef7fb4224477ae881f94d467dedac.ckd",
+      "coverImageUrl": "/public/map/ThriftShop/orbis/ThriftShop_Cover_Generic.tga.ckd/c3441465731d110df7c7a9ae99b6677d.ckd",
+      "coach1ImageUrl": "/public/map/ThriftShop/orbis/ThriftShop_Coach_1.tga.ckd/c6a409df1fe14957c08097f808eabe99.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ThriftShop/ThriftShop_Coach_1_Phone.png/41259135e2803ff74bede9f6d1f605e5.png",
+    "phoneCoverImageUrl": "/public/map/ThriftShop/ThriftShop_Cover_Phone.jpg/f4343e59db59730fbc1e9bce90b29db0.jpg",
+    "cover640ImageUrl": "/public/map/ThriftShop/ThriftShop_Cover_640.png/8342c0a53450543bba3b4e4e83fadaae.png"
+  },
+  "mapLength": 241.263125
+}

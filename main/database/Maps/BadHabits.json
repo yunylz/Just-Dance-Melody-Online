@@ -1,0 +1,181 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "fe36162bcddeb6c5e820359fc74c8114",
+      "storageType": 0,
+      "url": "/public/map/BadHabits/nx/BadHabits_MAIN_SCENE_NX.zip/fe36162bcddeb6c5e820359fc74c8114.zip"
+    },
+    "pc": {
+      "md5": "04d41fa6a4d88d558d7ef6da929b1213",
+      "storageType": 0,
+      "url": "/public/map/BadHabits/pc/BadHabits_MAIN_SCENE_PC.zip/04d41fa6a4d88d558d7ef6da929b1213.zip"
+    },
+    "ps4": {
+      "md5": "79570cb7048b56aef904a2f7301f3dd1",
+      "storageType": 0,
+      "url": "/public/map/BadHabits/orbis/BadHabits_MAIN_SCENE_ORBIS.zip/79570cb7048b56aef904a2f7301f3dd1.zip"
+    }
+  },
+  "data": {
+    "mapName": "BadHabits",
+    "title": "Bad Habits",
+    "originalJDVersion": 9999,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Medium",
+      "forceRumble"
+    ],
+    "artist": "Ed Sheeran",
+    "credits": "Written by Fred Gibson, Johnny McDaid and Ed Sheeran. Published by Sony/ATV Songs LLC (BMI) / Ed Sheeran Limited (PRS) / Sony/ATV Music Publishing (UK) Limited (PRS). / Universal Music Publishing Ltd. All rights reserved. Used with permission. Courtesy of Asylum Records UK. By arrangement with Warner Music Group Film & TV Licensing.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 3,
+    "songColor1A": "#f435da",
+    "songColor2A": "#f6bf0e",
+    "songColor1B": "#12105c",
+    "songColor2B": "#772172",
+    "lyricsColor": "#5dfff4",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22857,
+        45714,
+        68571,
+        91429,
+        114286,
+        137143,
+        160000,
+        182857,
+        205714,
+        228571,
+        251429,
+        274286,
+        297143,
+        320000,
+        342857,
+        365714,
+        388571,
+        411429,
+        434286,
+        457143,
+        480000,
+        502857,
+        525714,
+        548571,
+        571429,
+        594286,
+        617143,
+        640000,
+        662857,
+        685714,
+        708571,
+        731429,
+        754286,
+        777143,
+        800000,
+        822857,
+        845714,
+        868571,
+        891429,
+        914286,
+        937143,
+        960000,
+        982857,
+        1005714,
+        1028571,
+        1051429,
+        1074286,
+        1097143,
+        1120000,
+        1142857,
+        1165714,
+        1188571,
+        1211429,
+        1234286,
+        1257143,
+        1280000,
+        1302857,
+        1325714,
+        1348571,
+        1371429,
+        1394286,
+        1417143,
+        1440000,
+        1462857,
+        1485714
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 487,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/BadHabits/BadHabits_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/BadHabits/nx/BadHabits_banner_bkg.tga.ckd/6a99de58378a7edad5c5df14d3dfba26.ckd",
+      "map_bkgImageUrl": "/public/map/BadHabits/nx/BadHabits_map_bkg.tga.ckd/89b6f3bfb1168b1741dce0ebcd221b43.ckd",
+      "expandCoachImageUrl": "/public/map/BadHabits/nx/BadHabits_Cover_AlbumCoach.tga.ckd/6673ebf5df0e80189766ccf38f858b79.ckd",
+      "cover_smallImageUrl": "/public/map/BadHabits/nx/BadHabits_Cover_Online.tga.ckd/487164b24593a993ef9b40a2dffb87e0.ckd",
+      "coverImageUrl": "/public/map/BadHabits/nx/BadHabits_Cover_Generic.tga.ckd/d73619eac916d2842d5cf0d6d83961c5.ckd",
+      "coach1ImageUrl": "/public/map/BadHabits/nx/BadHabits_Coach_1.tga.ckd/a913f184ab63299c51578bdf79354e8c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/BadHabits/pc/BadHabits_banner_bkg.tga.ckd/efdeddcd115d5c02ee9d37dba13ed4ff.ckd",
+      "map_bkgImageUrl": "/public/map/BadHabits/pc/BadHabits_map_bkg.tga.ckd/c3e131c618f0c7629a4a4352704d223f.ckd",
+      "expandCoachImageUrl": "/public/map/BadHabits/pc/BadHabits_Cover_AlbumCoach.tga.ckd/f51db30496ce634556ca2c3c5169fe58.ckd",
+      "cover_smallImageUrl": "/public/map/BadHabits/pc/BadHabits_Cover_Online.tga.ckd/70d18564dc5de322987d3377d482db91.ckd",
+      "coverImageUrl": "/public/map/BadHabits/pc/BadHabits_Cover_Generic.tga.ckd/958227c424ce812bb557d3930c3dbee1.ckd",
+      "coach1ImageUrl": "/public/map/BadHabits/pc/BadHabits_Coach_1.tga.ckd/631526fd854bc55cf553cff26eb09a67.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/BadHabits/orbis/BadHabits_banner_bkg.tga.ckd/efdeddcd115d5c02ee9d37dba13ed4ff.ckd",
+      "map_bkgImageUrl": "/public/map/BadHabits/orbis/BadHabits_map_bkg.tga.ckd/c3e131c618f0c7629a4a4352704d223f.ckd",
+      "expandCoachImageUrl": "/public/map/BadHabits/orbis/BadHabits_Cover_AlbumCoach.tga.ckd/f51db30496ce634556ca2c3c5169fe58.ckd",
+      "cover_smallImageUrl": "/public/map/BadHabits/orbis/BadHabits_Cover_Online.tga.ckd/70d18564dc5de322987d3377d482db91.ckd",
+      "coverImageUrl": "/public/map/BadHabits/orbis/BadHabits_Cover_Generic.tga.ckd/958227c424ce812bb557d3930c3dbee1.ckd",
+      "coach1ImageUrl": "/public/map/BadHabits/orbis/BadHabits_Coach_1.tga.ckd/631526fd854bc55cf553cff26eb09a67.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/BadHabits/BadHabits_Coach_1_Phone.png/f9151bc4cb0605469019b59221ea07f9.png",
+    "phoneCoverImageUrl": "/public/map/BadHabits/BadHabits_Cover_Phone.jpg/650bd4335e8f02c287a738f6dd16b135.jpg",
+    "cover640ImageUrl": "/public/map/BadHabits/BadHabits_Cover_640.png/34f93aa0b436883a49c3e71a705d9c3e.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/BadHabits/BadHabits_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/BadHabits/BadHabits_MapPreviewNoSoundCrop_LOW.vp8.webm/320d8793fd74b796545b85a3faa75267.webm",
+    "jmcs://jd-contents/BadHabits/BadHabits.ogg": "/private/map/BadHabits/BadHabits.ogg/9260c28e45f4b24e9944381dc53c4446.ogg",
+    "jmcs://jd-contents/BadHabits/BadHabits_AudioPreview.ogg": "/public/map/BadHabits/BadHabits_AudioPreview.ogg/40f936f591372aeb8b8901b978ef6f6f.ogg",
+    "jmcs://jd-contents/BadHabits/BadHabits_HIGH.webm": "/private/map/BadHabits/BadHabits_HIGH.webm/c567f72807bcdf8e0a28ccabf8a16a74.webm",
+    "jmcs://jd-contents/BadHabits/BadHabits_LOW.webm": "/private/map/BadHabits/BadHabits_LOW.webm/16a259feaceb0ec8c1219e2f1f66fed6.webm",
+    "jmcs://jd-contents/BadHabits/BadHabits_MID.webm": "/private/map/BadHabits/BadHabits_MID.webm/1c8122992769c99c68047af77f533e55.webm",
+    "jmcs://jd-contents/BadHabits/BadHabits_ULTRA.hd.webm": "/private/map/BadHabits/BadHabits_ULTRA.hd.webm/3345db3772360058678b5abc637f0b5c.webm",
+    "jmcs://jd-contents/BadHabits/BadHabits_ULTRA.webm": "/private/map/BadHabits/BadHabits_ULTRA.webm/23c1d3a414b79f07cc057c7923e1fcb7.webm",
+    "jmcs://jd-contents/BadHabits/BadHabits_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/BadHabits/BadHabits_MapPreviewNoSoundCrop_MID.vp8.webm/bcb4d079f8899981d767a075fbb243ec.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497257\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadHabits/BadHabits_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1104\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483072\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/BadHabits/BadHabits_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"616-1106\">\n\t\t\t\t\t<Initialization range=\"0-616\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 230.476167
+}

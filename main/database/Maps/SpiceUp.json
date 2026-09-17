@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c2740d191b0ed0d9ed0aef13422c5d4f",
+      "storageType": 0,
+      "url": "/public/map/SpiceUp/nx/SpiceUp_MAIN_SCENE_NX.zip/c2740d191b0ed0d9ed0aef13422c5d4f.zip"
+    },
+    "pc": {
+      "md5": "d606fa4eb33ce0621dd25209b2c9e5d9",
+      "storageType": 0,
+      "url": "/public/map/SpiceUp/pc/SpiceUp_MAIN_SCENE_PC.zip/d606fa4eb33ce0621dd25209b2c9e5d9.zip"
+    },
+    "ps4": {
+      "md5": "70814a8b60467f63b4a71cba2eb7006c",
+      "storageType": 0,
+      "url": "/public/map/SpiceUp/orbis/SpiceUp_MAIN_SCENE_ORBIS.zip/70814a8b60467f63b4a71cba2eb7006c.zip"
+    }
+  },
+  "data": {
+    "mapName": "SpiceUp",
+    "title": "Spice Up Your Life",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Spice Girls",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23232,
+        46416,
+        69648,
+        93072,
+        116256,
+        139488,
+        162720,
+        185952,
+        209184,
+        232416,
+        255600,
+        278832,
+        302064,
+        325296,
+        348528,
+        371712,
+        394944,
+        418176,
+        441408,
+        464640,
+        487824,
+        511056,
+        534288,
+        557520,
+        580752,
+        603936,
+        627168,
+        650400,
+        673632,
+        696864,
+        720096,
+        743280,
+        766512,
+        789744,
+        812976,
+        836208,
+        859392,
+        882624,
+        905856,
+        929088,
+        952320,
+        975504,
+        998736,
+        1021968,
+        1045200,
+        1068432,
+        1091616,
+        1114848,
+        1138080,
+        1161312,
+        1184544,
+        1207776,
+        1230960,
+        1254192,
+        1277424,
+        1301184,
+        1324416,
+        1347600,
+        1370832,
+        1394064,
+        1417296
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 359,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/spiceup/spiceup_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SpiceUp/nx/SpiceUp_banner_bkg.tga.ckd/2f1824ebe8983cbf1243c0d01ab0ef11.ckd",
+      "map_bkgImageUrl": "/public/map/SpiceUp/nx/SpiceUp_map_bkg.tga.ckd/f88ff0df6c9b433cbd5529da10c79452.ckd",
+      "expandCoachImageUrl": "/public/map/SpiceUp/nx/SpiceUp_Cover_AlbumCoach.tga.ckd/b3e7d00bda8248e453b83c6a8dbb2ac1.ckd",
+      "cover_smallImageUrl": "/public/map/SpiceUp/nx/SpiceUp_Cover_Online.tga.ckd/84b817651a04d1b53583f1c2cc7e4c2a.ckd",
+      "coach1ImageUrl": "/public/map/SpiceUp/nx/SpiceUp_Coach_1.tga.ckd/27640d30cabaf58695536dc5a28c5b0e.ckd",
+      "coach2ImageUrl": "/public/map/SpiceUp/nx/SpiceUp_Coach_2.tga.ckd/6429462b28918c0675140dd5506a9682.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SpiceUp/pc/SpiceUp_banner_bkg.tga.ckd/6c1f7472f2c38e8ffdf9eb165401dd2b.ckd",
+      "map_bkgImageUrl": "/public/map/SpiceUp/pc/SpiceUp_map_bkg.tga.ckd/4d6ff11e7089fab8af6232f712dfcf2b.ckd",
+      "expandCoachImageUrl": "/public/map/SpiceUp/pc/SpiceUp_Cover_AlbumCoach.tga.ckd/9c07334277d8c05a2b77b94ae732ddc0.ckd",
+      "cover_smallImageUrl": "/public/map/SpiceUp/pc/SpiceUp_Cover_Online.tga.ckd/e284867b728b49eb64894b7e4f7df73d.ckd",
+      "coach1ImageUrl": "/public/map/SpiceUp/pc/SpiceUp_Coach_1.tga.ckd/19b2c3066386d4ed93875ebf4ea3e57d.ckd",
+      "coach2ImageUrl": "/public/map/SpiceUp/pc/SpiceUp_Coach_2.tga.ckd/bfc0559a7b2b950c4efb8ad11de60b42.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SpiceUp/orbis/SpiceUp_banner_bkg.tga.ckd/6c1f7472f2c38e8ffdf9eb165401dd2b.ckd",
+      "map_bkgImageUrl": "/public/map/SpiceUp/orbis/SpiceUp_map_bkg.tga.ckd/4d6ff11e7089fab8af6232f712dfcf2b.ckd",
+      "expandCoachImageUrl": "/public/map/SpiceUp/orbis/SpiceUp_Cover_AlbumCoach.tga.ckd/9c07334277d8c05a2b77b94ae732ddc0.ckd",
+      "cover_smallImageUrl": "/public/map/SpiceUp/orbis/SpiceUp_Cover_Online.tga.ckd/e284867b728b49eb64894b7e4f7df73d.ckd",
+      "coach1ImageUrl": "/public/map/SpiceUp/orbis/SpiceUp_Coach_1.tga.ckd/19b2c3066386d4ed93875ebf4ea3e57d.ckd",
+      "coach2ImageUrl": "/public/map/SpiceUp/orbis/SpiceUp_Coach_2.tga.ckd/bfc0559a7b2b950c4efb8ad11de60b42.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SpiceUp/SpiceUp_Coach_1_Phone.png/233abede07b048e5ac4a7e3bdcb1d93f.png",
+    "phoneCoach2ImageUrl": "/public/map/SpiceUp/SpiceUp_Coach_2_Phone.png/de1b8afc73cbf98925d81ad8f71ca517.png",
+    "phoneCoverImageUrl": "/public/map/SpiceUp/SpiceUp_Cover_Phone.jpg/892de4366886170a53c6a43512d9306a.jpg",
+    "cover640ImageUrl": "/public/map/SpiceUp/SpiceUp_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SpiceUp/SpiceUp.ogg": "/private/map/SpiceUp/SpiceUp.ogg/0d7c04ce6628952eb7515d4f870c4c6b.ogg",
+    "jmcs://jd-contents/SpiceUp/SpiceUp_AudioPreview.ogg": "/public/map/SpiceUp/SpiceUp_AudioPreview.ogg/7115d554985123ab52c9cbda8bf16fee.ogg",
+    "jmcs://jd-contents/SpiceUp/SpiceUp_HIGH.webm": "/private/map/SpiceUp/SpiceUp_HIGH.webm/d852bab3e65c142e859d4f47d951776f.webm",
+    "jmcs://jd-contents/SpiceUp/SpiceUp_LOW.webm": "/private/map/SpiceUp/SpiceUp_LOW.webm/20dfd2311651c90be3a68598a5c638bc.webm",
+    "jmcs://jd-contents/SpiceUp/SpiceUp_MID.webm": "/private/map/SpiceUp/SpiceUp_MID.webm/4c995cea01eef2ed9e986817ace2e6f6.webm",
+    "jmcs://jd-contents/SpiceUp/SpiceUp_ULTRA.hd.webm": "/private/map/SpiceUp/SpiceUp_ULTRA.hd.webm/3ea15aea97fa8ffdd3a955316e74a960.webm",
+    "jmcs://jd-contents/SpiceUp/SpiceUp_ULTRA.webm": "/private/map/SpiceUp/SpiceUp_ULTRA.webm/812aac6247f0ddcb3857ed3dd9a0169b.webm",
+    "jmcs://jd-contents/SpiceUp/SpiceUp_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SpiceUp/SpiceUp_MapPreviewNoSoundCrop_LOW.vp8.webm/99a6ce73b19b3685c6d03e69773866f3.webm",
+    "jmcs://jd-contents/SpiceUp/SpiceUp_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SpiceUp/SpiceUp_MapPreviewNoSoundCrop_MID.vp8.webm/77c464453df8ab8e9277f9db224f6926.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"517328\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpiceUp/SpiceUp_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1510160\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpiceUp/SpiceUp_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 173.76025
+}

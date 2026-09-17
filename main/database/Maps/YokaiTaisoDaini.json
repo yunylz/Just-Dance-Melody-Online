@@ -1,0 +1,178 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3ddbe54f61f410bde2f4f5c340038869",
+      "storageType": 0,
+      "url": "/public/map/YokaiTaisoDaini/nx/YokaiTaisoDaini_MAIN_SCENE_NX.zip/3ddbe54f61f410bde2f4f5c340038869.zip"
+    },
+    "pc": {
+      "md5": "15efb0c21681437b852cef8a0c54f3d0",
+      "storageType": 0,
+      "url": "/public/map/YokaiTaisoDaini/pc/YokaiTaisoDaini_MAIN_SCENE_PC.zip/15efb0c21681437b852cef8a0c54f3d0.zip"
+    },
+    "ps4": {
+      "md5": "968ea4c89df143f0b7250e616fa29f4c",
+      "storageType": 0,
+      "url": "/public/map/YokaiTaisoDaini/orbis/YokaiTaisoDaini_MAIN_SCENE_ORBIS.zip/968ea4c89df143f0b7250e616fa29f4c.zip"
+    }
+  },
+  "data": {
+    "mapName": "YokaiTaisoDaini",
+    "title": "Yō-kai Taisō Dai-Ni",
+    "originalJDVersion": 1104,
+    "tags": [
+      "jdwiiuyk",
+      "subscribedSong",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "Dream5",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23616,
+        47232,
+        70800,
+        94416,
+        118032,
+        141648,
+        165264,
+        188832,
+        212448,
+        236064,
+        259680,
+        283296,
+        306864,
+        330480,
+        354096,
+        377712,
+        401328,
+        424896,
+        448512,
+        472128,
+        495744,
+        519360,
+        542928,
+        566544,
+        590160,
+        613776,
+        637392,
+        660960,
+        684576,
+        708192,
+        731808,
+        755424,
+        779040,
+        802608,
+        826224,
+        849840,
+        873456,
+        897072,
+        920640,
+        944256,
+        967872,
+        991488,
+        1015104,
+        1038672,
+        1062288,
+        1085904,
+        1109520,
+        1133136,
+        1156704,
+        1180320,
+        1203936,
+        1227552,
+        1251168,
+        1274736,
+        1298352,
+        1321968,
+        1345584,
+        1369200,
+        1392768,
+        1416384,
+        1440000,
+        1463616,
+        1487232
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 307,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/YokaiTaisoDaini/nx/YokaiTaisoDaini_banner_bkg.tga.ckd/060991d42d35969f0d9e93ce5c587e33.ckd",
+      "map_bkgImageUrl": "/public/map/YokaiTaisoDaini/nx/YokaiTaisoDaini_map_bkg.tga.ckd/f4c20df282f5ed71b7e96723820398e9.ckd",
+      "expandCoachImageUrl": "/public/map/YokaiTaisoDaini/nx/YokaiTaisoDaini_Cover_AlbumCoach.tga.ckd/dbb697a7c8f71e50fc49fd8d2978fb72.ckd",
+      "cover_smallImageUrl": "/public/map/YokaiTaisoDaini/nx/YokaiTaisoDaini_Cover_Online.tga.ckd/5c7d6fc86c20c14d92406a05835becf2.ckd",
+      "coach1ImageUrl": "/public/map/YokaiTaisoDaini/nx/YokaiTaisoDaini_Coach_1.tga.ckd/8c12455ec9912338685d17f8e34b51a2.ckd",
+      "coach2ImageUrl": "/public/map/YokaiTaisoDaini/nx/YokaiTaisoDaini_Coach_2.tga.ckd/f6b17ae45605d6ad6a7d2e3bcd10a155.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/YokaiTaisoDaini/pc/YokaiTaisoDaini_banner_bkg.tga.ckd/72ed9342841a0be7a5ddd3f81a81ff01.ckd",
+      "map_bkgImageUrl": "/public/map/YokaiTaisoDaini/pc/YokaiTaisoDaini_map_bkg.tga.ckd/0acd3ac0c6c46df0625cba679086d746.ckd",
+      "expandCoachImageUrl": "/public/map/YokaiTaisoDaini/pc/YokaiTaisoDaini_Cover_AlbumCoach.tga.ckd/5df4228b3406060f380fb0ef46d7f1cf.ckd",
+      "cover_smallImageUrl": "/public/map/YokaiTaisoDaini/pc/YokaiTaisoDaini_Cover_Online.tga.ckd/08b53026c7bc3c7d067c865407af8cff.ckd",
+      "coach1ImageUrl": "/public/map/YokaiTaisoDaini/pc/YokaiTaisoDaini_Coach_1.tga.ckd/d6d321e5304e40e5d503a03c8d40d703.ckd",
+      "coach2ImageUrl": "/public/map/YokaiTaisoDaini/pc/YokaiTaisoDaini_Coach_2.tga.ckd/810a583ec7d200829e54b6e975268125.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/YokaiTaisoDaini/orbis/YokaiTaisoDaini_banner_bkg.tga.ckd/72ed9342841a0be7a5ddd3f81a81ff01.ckd",
+      "map_bkgImageUrl": "/public/map/YokaiTaisoDaini/orbis/YokaiTaisoDaini_map_bkg.tga.ckd/0acd3ac0c6c46df0625cba679086d746.ckd",
+      "expandCoachImageUrl": "/public/map/YokaiTaisoDaini/orbis/YokaiTaisoDaini_Cover_AlbumCoach.tga.ckd/5df4228b3406060f380fb0ef46d7f1cf.ckd",
+      "cover_smallImageUrl": "/public/map/YokaiTaisoDaini/orbis/YokaiTaisoDaini_Cover_Online.tga.ckd/08b53026c7bc3c7d067c865407af8cff.ckd",
+      "coach1ImageUrl": "/public/map/YokaiTaisoDaini/orbis/YokaiTaisoDaini_Coach_1.tga.ckd/d6d321e5304e40e5d503a03c8d40d703.ckd",
+      "coach2ImageUrl": "/public/map/YokaiTaisoDaini/orbis/YokaiTaisoDaini_Coach_2.tga.ckd/810a583ec7d200829e54b6e975268125.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/YokaiTaisoDaini/YokaiTaisoDaini_Coach_1_Phone.png/47ed8ea9c6a60b2dada035d3595e187f.png",
+    "phoneCoach2ImageUrl": "/public/map/YokaiTaisoDaini/YokaiTaisoDaini_Coach_2_Phone.png/06782ca4d30a2c85305151e05f921927.png",
+    "phoneCoverImageUrl": "/public/map/YokaiTaisoDaini/YokaiTaisoDaini_Cover_Phone.jpg/a47e76acd508ffa297a0200e03bc4a9d.jpg",
+    "cover640ImageUrl": "/public/map/YokaiTaisoDaini/YokaiTaisoDaini_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini.ogg": "/private/map/YokaiTaisoDaini/YokaiTaisoDaini.ogg/822d58d29af7e0820777fd096ee6b403.ogg",
+    "jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini_AudioPreview.ogg": "/public/map/YokaiTaisoDaini/YokaiTaisoDaini_AudioPreview.ogg/acf0745cddec0a551fbb7287b4fe8922.ogg",
+    "jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/YokaiTaisoDaini/YokaiTaisoDaini_MapPreviewNoSoundCrop_LOW.vp8.webm/5868ee82b0fc5216333057e2c394d017.webm",
+    "jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini_HIGH.webm": "/private/map/YokaiTaisoDaini/YokaiTaisoDaini_HIGH.webm/cfca85748901e2e502cd2efe17049ced.webm",
+    "jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini_LOW.webm": "/private/map/YokaiTaisoDaini/YokaiTaisoDaini_LOW.webm/ba01a0e98ad1331bd60288f47d1348a8.webm",
+    "jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini_MID.webm": "/private/map/YokaiTaisoDaini/YokaiTaisoDaini_MID.webm/7263586647ec5109a15426ceffe6beb7.webm",
+    "jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini_ULTRA.hd.webm": "/private/map/YokaiTaisoDaini/YokaiTaisoDaini_ULTRA.hd.webm/6daed52089911ec9abb384c5c6166c9e.webm",
+    "jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini_ULTRA.webm": "/private/map/YokaiTaisoDaini/YokaiTaisoDaini_ULTRA.webm/1f5fc7c4f685074fd72cb86cbf561bb1.webm",
+    "jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/YokaiTaisoDaini/YokaiTaisoDaini_MapPreviewNoSoundCrop_MID.vp8.webm/45123b3c3906b9474ddf75d314030240.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"549892\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"617-1106\">\n\t\t\t\t\t<Initialization range=\"0-617\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1525324\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YokaiTaisoDaini/YokaiTaisoDaini_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 153.934
+}

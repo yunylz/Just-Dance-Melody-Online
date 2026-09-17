@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "fdc64d12a20cfef1b878cc22dc2ae33d",
+      "storageType": 0,
+      "url": "/public/map/TheTimeALT/nx/TheTimeALT_MAIN_SCENE_NX.zip/fdc64d12a20cfef1b878cc22dc2ae33d.zip"
+    },
+    "pc": {
+      "md5": "64fbc3266ff50c516d10f835fb0a3505",
+      "storageType": 0,
+      "url": "/public/map/TheTimeALT/pc/TheTimeALT_MAIN_SCENE_PC.zip/64fbc3266ff50c516d10f835fb0a3505.zip"
+    },
+    "ps4": {
+      "md5": "cef6cd05a45a740da781f6942b8663b3",
+      "storageType": 0,
+      "url": "/public/map/TheTimeALT/orbis/TheTimeALT_MAIN_SCENE_ORBIS.zip/cef6cd05a45a740da781f6942b8663b3.zip"
+    }
+  },
+  "data": {
+    "mapName": "TheTimeALT",
+    "title": "The Time (Dirty Bit)",
+    "originalJDVersion": 2020,
+    "tags": [
+      "alternate",
+      "subscribedSong",
+      "JustDance2020",
+      "Solo",
+      "Extreme"
+    ],
+    "artist": "Black Eyed Peas",
+    "credits": "Written by Will Adams, John DeNicola, Damien Leroy, Donald Markowitz, Allan Apll Pineda and Franke Previte. Published by Sony/ATV Tunes LLC (ASCAP). / Kobalt Songs Music Publishing obo Marcu Music Company Inc. / RU Cyrius Publishing (ASCAP) / Knockout Music (ASCAP) / Calspen Music (ASCAP) / BMG Sapphire Songs on behalf of itself, I am composing LLC., BMG Sapphire Songs on behalf of Apl de ap publishing LLC. All rights administered by BMG Rights Management (US) LLC. All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 3,
+    "songColor1A": "#00949c",
+    "songColor2A": "#ff3f00",
+    "songColor1B": "#25004e",
+    "songColor2B": "#720018",
+    "lyricsColor": "#c3ff31",
+    "LocaleID": 12631
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202500,
+        225000,
+        247500,
+        270000,
+        292500,
+        315000,
+        337500,
+        360000,
+        382500,
+        405000,
+        427500,
+        450000,
+        472500,
+        495000,
+        517500,
+        540000,
+        562500,
+        585000,
+        607500,
+        630000,
+        652500,
+        675000,
+        697500,
+        720000,
+        742500,
+        765000,
+        787500,
+        810000,
+        832500,
+        855000,
+        877500,
+        900000,
+        922500,
+        945000,
+        967500,
+        990000,
+        1012500,
+        1035000,
+        1057500,
+        1080000,
+        1102500,
+        1125000,
+        1147500,
+        1170000,
+        1192500,
+        1215000,
+        1237500,
+        1260000,
+        1282500,
+        1305000,
+        1327500,
+        1350000,
+        1372500,
+        1395000,
+        1417500,
+        1440000,
+        1462500,
+        1485000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 520,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TheTimeALT/TheTimeALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TheTimeALT/nx/TheTimeALT_banner_bkg.tga.ckd/94bbb4b684c3b7c1b755c985b7130b58.ckd",
+      "map_bkgImageUrl": "/public/map/TheTimeALT/nx/TheTimeALT_map_bkg.tga.ckd/1ddc41f5d5096c086b89ece2fb7feb03.ckd",
+      "expandCoachImageUrl": "/public/map/TheTimeALT/nx/TheTimeALT_Cover_AlbumCoach.tga.ckd/fc46d0f63e71a83b120ca90574df79b0.ckd",
+      "cover_smallImageUrl": "/public/map/TheTimeALT/nx/TheTimeALT_Cover_Online.tga.ckd/687c823d74f5d7152d51287ebde270e9.ckd",
+      "coverImageUrl": "/public/map/TheTimeALT/nx/TheTimeALT_Cover_Generic.tga.ckd/edb830eceedb9e7ab3c6706494f83e39.ckd",
+      "coach1ImageUrl": "/public/map/TheTimeALT/nx/TheTimeALT_Coach_1.tga.ckd/aec813acbf4dfd033a47412ce711686c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TheTimeALT/pc/TheTimeALT_banner_bkg.tga.ckd/e0abfd96720da3d08f2135b29b9395e6.ckd",
+      "map_bkgImageUrl": "/public/map/TheTimeALT/pc/TheTimeALT_map_bkg.tga.ckd/b1d40a0bf01dcba51ae680e7b58b3006.ckd",
+      "expandCoachImageUrl": "/public/map/TheTimeALT/pc/TheTimeALT_Cover_AlbumCoach.tga.ckd/9ac4949a8a47a01dc654c771d8c1c052.ckd",
+      "cover_smallImageUrl": "/public/map/TheTimeALT/pc/TheTimeALT_Cover_Online.tga.ckd/154726bb57e83ee87fa6c60ce22b08db.ckd",
+      "coverImageUrl": "/public/map/TheTimeALT/pc/TheTimeALT_Cover_Generic.tga.ckd/6a1bc0207dbac12eef0bdfbbddbc6f89.ckd",
+      "coach1ImageUrl": "/public/map/TheTimeALT/pc/TheTimeALT_Coach_1.tga.ckd/980e5fe25339a90568f7a13b7b7e180f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TheTimeALT/orbis/TheTimeALT_banner_bkg.tga.ckd/e0abfd96720da3d08f2135b29b9395e6.ckd",
+      "map_bkgImageUrl": "/public/map/TheTimeALT/orbis/TheTimeALT_map_bkg.tga.ckd/b1d40a0bf01dcba51ae680e7b58b3006.ckd",
+      "expandCoachImageUrl": "/public/map/TheTimeALT/orbis/TheTimeALT_Cover_AlbumCoach.tga.ckd/9ac4949a8a47a01dc654c771d8c1c052.ckd",
+      "cover_smallImageUrl": "/public/map/TheTimeALT/orbis/TheTimeALT_Cover_Online.tga.ckd/154726bb57e83ee87fa6c60ce22b08db.ckd",
+      "coverImageUrl": "/public/map/TheTimeALT/orbis/TheTimeALT_Cover_Generic.tga.ckd/6a1bc0207dbac12eef0bdfbbddbc6f89.ckd",
+      "coach1ImageUrl": "/public/map/TheTimeALT/orbis/TheTimeALT_Coach_1.tga.ckd/980e5fe25339a90568f7a13b7b7e180f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TheTimeALT/TheTimeALT_Coach_1_Phone.png/d59cb214afd6b83f9c5a8ddce19db406.png",
+    "phoneCoverImageUrl": "/public/map/TheTimeALT/TheTimeALT_Cover_Phone.jpg/90ae1a650524dc55dc426a020a00e949.jpg",
+    "cover640ImageUrl": "/public/map/TheTimeALT/TheTimeALT_Cover_640.png/f4ddb02434fb4fa9a4fc97ddfbff52b5.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT.ogg": "/private/map/TheTimeALT/TheTimeALT.ogg/e39aeabaa494b82ce6451d606df6b6e5.ogg",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_AudioPreview.ogg": "/public/map/TheTimeALT/TheTimeALT_AudioPreview.ogg/6c3397959370794bf40a361d73b04f90.ogg",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_LOW.vp8.webm/9882b7e09e48ae131bffdee9d82ab875.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_HIGH.webm": "/private/map/TheTimeALT/TheTimeALT_HIGH.webm/b2247f430e0b7a62937b45b2b76e5db5.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_LOW.webm": "/private/map/TheTimeALT/TheTimeALT_LOW.webm/4b314c5c91d8120bcf77411c699785f7.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_MID.webm": "/private/map/TheTimeALT/TheTimeALT_MID.webm/46d3ea426724343a03dc5d26c092ecff.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_ULTRA.hd.webm": "/private/map/TheTimeALT/TheTimeALT_ULTRA.hd.webm/a8678417561345198e643ed82e8a9cc2.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_ULTRA.webm": "/private/map/TheTimeALT/TheTimeALT_ULTRA.webm/6094c261649b6c691db7256f2779577e.webm",
+    "jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_MID.vp8.webm/18935b301342c5cdf7aa5fbf5aee6b30.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496916\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\n\t\t\t\t\t<Initialization range=\"0-598\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1372081\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheTimeALT/TheTimeALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\n\t\t\t\t\t<Initialization range=\"0-599\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 245.550583
+}

@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "47f2e82d660aa2f0db58cb5a983b9ee6",
+      "storageType": 0,
+      "url": "/public/map/Stargate/nx/Stargate_MAIN_SCENE_NX.zip/47f2e82d660aa2f0db58cb5a983b9ee6.zip"
+    },
+    "pc": {
+      "md5": "47fb24953a5f01f7e41f1dad04dd5f94",
+      "storageType": 0,
+      "url": "/public/map/Stargate/pc/Stargate_MAIN_SCENE_PC.zip/47fb24953a5f01f7e41f1dad04dd5f94.zip"
+    },
+    "ps4": {
+      "md5": "77214243bd93426a9158d3d60b5eb264",
+      "storageType": 0,
+      "url": "/public/map/Stargate/orbis/Stargate_MAIN_SCENE_ORBIS.zip/77214243bd93426a9158d3d60b5eb264.zip"
+    }
+  },
+  "data": {
+    "mapName": "Stargate",
+    "title": "Same Old Love",
+    "originalJDVersion": 2016,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2016",
+      "Trio",
+      "Medium"
+    ],
+    "artist": "Selena Gomez",
+    "credits": "Written by Charlotte Emma Aitchison (PRS), Mikkel Storleer Eriksen (PRS), Ross Golan (BMI), Tor Erik Hermansen (ASCAP) and Benjamin Joseph Levin (BMI). Published by Universal Music Publishing, a division of Universal Music Canada Inc. (SOCAN) / Prescription Songs LLC. Administered by Kobalt Music Publishing America, Inc. / Stellar Songs Ltd. (PRS) and EMI Music Publishing. Warner-Tamerlane Publishing Corp. (BMI) obo itself and Back In Djibouti. All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Canada Inc.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#cb3863"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29376,
+        58752,
+        88176,
+        117552,
+        146928,
+        176304,
+        205728,
+        235104,
+        264480,
+        293856,
+        323280,
+        352656,
+        382032,
+        411408,
+        440832,
+        470208,
+        499584,
+        528960,
+        558384,
+        587760,
+        617136,
+        646512,
+        675936,
+        705312,
+        734688,
+        764064,
+        793488,
+        822864,
+        852240,
+        881616,
+        911040,
+        940416,
+        969792,
+        999168,
+        1028592,
+        1057968,
+        1087344,
+        1116720,
+        1146144,
+        1175520,
+        1204896,
+        1234272,
+        1263696,
+        1293072,
+        1322448,
+        1351824,
+        1381248,
+        1410624,
+        1440000,
+        1469376,
+        1498752
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 377,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Stargate/Stargate_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Stargate/nx/Stargate_banner_bkg.tga.ckd/e3415e478ad1c1b3f123310e59226de5.ckd",
+      "map_bkgImageUrl": "/public/map/Stargate/nx/Stargate_map_bkg.tga.ckd/489b031b665087b7b87c241563cd9a1b.ckd",
+      "expandCoachImageUrl": "/public/map/Stargate/nx/Stargate_Cover_AlbumCoach.tga.ckd/7f2c2c03fe8a16d3fbdb834d2e8352fd.ckd",
+      "cover_smallImageUrl": "/public/map/Stargate/nx/Stargate_Cover_Online.tga.ckd/c8ce2384d116e679969b83f0113997b3.ckd",
+      "coach1ImageUrl": "/public/map/Stargate/nx/Stargate_Coach_1.tga.ckd/315611a2a501c033da1bbbcb91162660.ckd",
+      "coach2ImageUrl": "/public/map/Stargate/nx/Stargate_Coach_2.tga.ckd/22a237da2352962cbaccff1c2e329e50.ckd",
+      "coach3ImageUrl": "/public/map/Stargate/nx/Stargate_Coach_3.tga.ckd/fdbd399cac498b1f114dc210ec982f1e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Stargate/pc/Stargate_banner_bkg.tga.ckd/23b173f12088910b1ec1178f8f73f689.ckd",
+      "map_bkgImageUrl": "/public/map/Stargate/pc/Stargate_map_bkg.tga.ckd/2072cf07a4a6a34ab604ece292ce8a31.ckd",
+      "expandCoachImageUrl": "/public/map/Stargate/pc/Stargate_Cover_AlbumCoach.tga.ckd/20478a436521bd7fc441d95c734f496e.ckd",
+      "cover_smallImageUrl": "/public/map/Stargate/pc/Stargate_Cover_Online.tga.ckd/fc64f9a3f8e532c75b283f0369346d7f.ckd",
+      "coach1ImageUrl": "/public/map/Stargate/pc/Stargate_Coach_1.tga.ckd/764e2906910df4ea3814744f179721f0.ckd",
+      "coach2ImageUrl": "/public/map/Stargate/pc/Stargate_Coach_2.tga.ckd/4aa1c9f5bcb22dc890ecbafe068b4553.ckd",
+      "coach3ImageUrl": "/public/map/Stargate/pc/Stargate_Coach_3.tga.ckd/e1bad9e6733437e3baba9972ced38440.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Stargate/orbis/Stargate_banner_bkg.tga.ckd/23b173f12088910b1ec1178f8f73f689.ckd",
+      "map_bkgImageUrl": "/public/map/Stargate/orbis/Stargate_map_bkg.tga.ckd/2072cf07a4a6a34ab604ece292ce8a31.ckd",
+      "expandCoachImageUrl": "/public/map/Stargate/orbis/Stargate_Cover_AlbumCoach.tga.ckd/20478a436521bd7fc441d95c734f496e.ckd",
+      "cover_smallImageUrl": "/public/map/Stargate/orbis/Stargate_Cover_Online.tga.ckd/fc64f9a3f8e532c75b283f0369346d7f.ckd",
+      "coach1ImageUrl": "/public/map/Stargate/orbis/Stargate_Coach_1.tga.ckd/764e2906910df4ea3814744f179721f0.ckd",
+      "coach2ImageUrl": "/public/map/Stargate/orbis/Stargate_Coach_2.tga.ckd/4aa1c9f5bcb22dc890ecbafe068b4553.ckd",
+      "coach3ImageUrl": "/public/map/Stargate/orbis/Stargate_Coach_3.tga.ckd/e1bad9e6733437e3baba9972ced38440.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Stargate/Stargate_Coach_1_Phone.png/883acb94f399721b935ad74ce894faa6.png",
+    "phoneCoach2ImageUrl": "/public/map/Stargate/Stargate_Coach_2_Phone.png/98bc6b32ad41f84992c0a257264da9f9.png",
+    "phoneCoach3ImageUrl": "/public/map/Stargate/Stargate_Coach_3_Phone.png/668003b425347f28f079d5b844708415.png",
+    "phoneCoverImageUrl": "/public/map/Stargate/Stargate_Cover_Phone.jpg/12a9266c534b6b94acb112efabbc1340.jpg",
+    "cover640ImageUrl": "/public/map/Stargate/Stargate_Cover_640.png/9577b0a074747683c7aad88df310020c.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Stargate/Stargate.ogg": "/private/map/Stargate/Stargate.ogg/9b5b19701136d2a697301c15ef526930.ogg",
+    "jmcs://jd-contents/Stargate/Stargate_AudioPreview.ogg": "/public/map/Stargate/Stargate_AudioPreview.ogg/ea73b27c35232fe58e418a3db04cb544.ogg",
+    "jmcs://jd-contents/Stargate/Stargate_HIGH.webm": "/private/map/Stargate/Stargate_HIGH.webm/2d32094186fcce9e867cb4b690cfc13a.webm",
+    "jmcs://jd-contents/Stargate/Stargate_LOW.webm": "/private/map/Stargate/Stargate_LOW.webm/dc833d9104e4eceeb1c7ac6a9cbe5da9.webm",
+    "jmcs://jd-contents/Stargate/Stargate_MID.webm": "/private/map/Stargate/Stargate_MID.webm/95f7ddccb2226a1ba55312e3ecd83057.webm",
+    "jmcs://jd-contents/Stargate/Stargate_ULTRA.hd.webm": "/private/map/Stargate/Stargate_ULTRA.hd.webm/edeeef1301fd2ffeccef56da760d622d.webm",
+    "jmcs://jd-contents/Stargate/Stargate_ULTRA.webm": "/private/map/Stargate/Stargate_ULTRA.webm/7a19dec89e3ba1079388c0e1f2f0836a.webm",
+    "jmcs://jd-contents/Stargate/Stargate_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Stargate/Stargate_MapPreviewNoSoundCrop_LOW.vp8.webm/fd204f4f197e70b5d1ff1f9e52ced722.webm",
+    "jmcs://jd-contents/Stargate/Stargate_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Stargate/Stargate_MapPreviewNoSoundCrop_MID.vp8.webm/d47fb8c38905f0d62172b5d274c11503.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"526255\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Stargate/Stargate_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"598-1088\">\n\t\t\t\t\t<Initialization range=\"0-598\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1507521\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Stargate/Stargate_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\n\t\t\t\t\t<Initialization range=\"0-599\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 235.49
+}

@@ -1,0 +1,176 @@
+{
+  "urls": {
+    "jmcs://jd-contents/LetsGrooveMU/LetsGrooveMU_HIGH.hd.webm": "/private/map/LetsGrooveMU/LetsGrooveMU_HIGH.hd.webm/3b5be54c06b62fb7047299b222d4c45e.webm",
+    "jmcs://jd-contents/LetsGrooveMU/LetsGrooveMU_LOW.hd.webm": "/private/map/LetsGrooveMU/LetsGrooveMU_LOW.hd.webm/b86da1819f967dcacc29183d72d8f9fe.webm",
+    "jmcs://jd-contents/LetsGrooveMU/LetsGrooveMU_MID.hd.webm": "/private/map/LetsGrooveMU/LetsGrooveMU_MID.hd.webm/703c713a4fc380289042cda4e39dadce.webm",
+    "jmcs://jd-contents/LetsGrooveMU/LetsGrooveMU_ULTRA.hd.webm": "/private/map/LetsGrooveMU/LetsGrooveMU_ULTRA.hd.webm/753d44b204e9543c159dcbcb1b7c42f0.webm",
+    "jmcs://jd-contents/LetsGrooveMU/LetsGrooveMU.ogg": "/private/map/LetsGrooveMU/LetsGrooveMU.ogg/730e1b1efcf8f241c1e43235a67c4003.ogg",
+    "jmcs://jd-contents/LetsGrooveMU/LetsGrooveMU_AudioPreview.ogg": "/public/map/LetsGrooveMU/LetsGrooveMU_AudioPreview.ogg/35df08e8bd80b2063bf04c65865a882d.ogg",
+    "jmcs://jd-contents/LetsGrooveMU/LetsGrooveMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LetsGrooveMU/LetsGrooveMU_MapPreviewNoSoundCrop_LOW.vp8.webm/1ca90e8f7fa12ea08915119eca48aafd.webm",
+    "jmcs://jd-contents/LetsGrooveMU/LetsGrooveMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LetsGrooveMU/LetsGrooveMU_MapPreviewNoSoundCrop_MID.vp8.webm/f8c3951bb9e8945b45bb18af109b1eee.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23231,
+        46463,
+        69695,
+        92879,
+        115823,
+        138719,
+        162191,
+        185711,
+        208511,
+        231263,
+        255071,
+        278927,
+        302111,
+        325247,
+        348863,
+        372479,
+        395087,
+        417695,
+        441791,
+        465935,
+        488687,
+        511439,
+        535199,
+        559007,
+        581375,
+        604607,
+        628559,
+        652463,
+        674975,
+        697439,
+        721103,
+        744719,
+        767087,
+        789455,
+        811823,
+        835391,
+        858959,
+        882527,
+        906143,
+        929711,
+        952655,
+        975551,
+        998879,
+        1022159,
+        1045247,
+        1068383,
+        1091471,
+        1114607,
+        1137743,
+        1160879,
+        1184015,
+        1207199,
+        1230095,
+        1252943,
+        1276031,
+        1299167,
+        1322159,
+        1345151,
+        1368143,
+        1391135,
+        1414319,
+        1437503,
+        1460639,
+        1483823
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 418,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LetsGrooveMU/LetsGrooveMU_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"634958\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetsGrooveMU/LetsGrooveMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1967306\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LetsGrooveMU/LetsGrooveMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "103d86d2df189adfc51c935e25983fd7",
+      "storageType": 0,
+      "url": "/public/map/LetsGrooveMU/nx/LetsGrooveMU_MAIN_SCENE_NX.zip/103d86d2df189adfc51c935e25983fd7.zip"
+    },
+    "pc": {
+      "md5": "ad159694055a6e7e4694ee4312149489",
+      "storageType": 0,
+      "url": "/public/map/LetsGrooveMU/pc/LetsGrooveMU_MAIN_SCENE_PC.zip/ad159694055a6e7e4694ee4312149489.zip"
+    },
+    "ps4": {
+      "md5": "9a16b586b633778f22ebfc5f31ba5ef5",
+      "storageType": 0,
+      "url": "/public/map/LetsGrooveMU/orbis/LetsGrooveMU_MAIN_SCENE_ORBIS.zip/9a16b586b633778f22ebfc5f31ba5ef5.zip"
+    }
+  },
+  "data": {
+    "mapName": "LetsGrooveMU",
+    "title": "Let's Groove",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP"
+    ],
+    "artist": "Equinox Stars",
+    "credits": "Written by Wayne Lee Vaughn and Maurice White. Published by Music Sales Corporation. Administered by Peermusic Canada Inc. / EMI April Music Inc. (ASCAP) c/o EMI April Music (Canada) Ltd. (SOCAN). All rights reserved.  Used with permission. Re-Record Cover Master: Courtesy of Ubisoft Music. Produced by Steve Ouimette. Lead Vocal - Cat Gray. Background vocals - Tyriq Johnson, Jane Child. Drums and keyboards - Cat Gray. Guitars - Steve Ouimette. Mixed by Cat Gray and Steve Ouimette.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#000d7d",
+    "songColor2A": "#ff51d1",
+    "songColor1B": "#1a002a",
+    "songColor2B": "#030032",
+    "lyricsColor": "#ff0000",
+    "LocaleID": 13572
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LetsGrooveMU/nx/LetsGrooveMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/LetsGrooveMU/nx/LetsGrooveMU_map_bkg.tga.ckd/62caa21a1fb208e135ea5fd83d3705ba.ckd",
+      "expandCoachImageUrl": "/public/map/LetsGrooveMU/nx/LetsGrooveMU_Cover_AlbumCoach.tga.ckd/b92011b9a0749cb0b08658ceb4b5701c.ckd",
+      "cover_smallImageUrl": "/public/map/LetsGrooveMU/nx/LetsGrooveMU_Cover_Online.tga.ckd/e05af354f9af5d48c2eb988b10bca511.ckd",
+      "coverImageUrl": "/public/map/LetsGrooveMU/nx/LetsGrooveMU_Cover_Generic.tga.ckd/e07a9100374dfc4f932107c94b634877.ckd",
+      "coach1ImageUrl": "/public/map/LetsGrooveMU/nx/LetsGrooveMU_Coach_1.tga.ckd/76818e39a82c0e4e3a224c37c57bf923.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LetsGrooveMU/pc/LetsGrooveMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/LetsGrooveMU/pc/LetsGrooveMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/LetsGrooveMU/pc/LetsGrooveMU_Cover_AlbumCoach.tga.ckd/e4230002867b99bd70b9d07f3ae7fb15.ckd",
+      "cover_smallImageUrl": "/public/map/LetsGrooveMU/pc/LetsGrooveMU_Cover_Online.tga.ckd/2629777379c4a693fff427728d223c4b.ckd",
+      "coverImageUrl": "/public/map/LetsGrooveMU/pc/LetsGrooveMU_Cover_Generic.tga.ckd/1ee68fc756ae6592c2c6b55a58faccf7.ckd",
+      "coach1ImageUrl": "/public/map/LetsGrooveMU/pc/LetsGrooveMU_Coach_1.tga.ckd/dbaca2140e468c8fb679408199320643.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LetsGrooveMU/orbis/LetsGrooveMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/LetsGrooveMU/orbis/LetsGrooveMU_map_bkg.tga.ckd/969252f7540b9ff604bfb204ba6890d4.ckd",
+      "expandCoachImageUrl": "/public/map/LetsGrooveMU/orbis/LetsGrooveMU_Cover_AlbumCoach.tga.ckd/e4230002867b99bd70b9d07f3ae7fb15.ckd",
+      "cover_smallImageUrl": "/public/map/LetsGrooveMU/orbis/LetsGrooveMU_Cover_Online.tga.ckd/2629777379c4a693fff427728d223c4b.ckd",
+      "coverImageUrl": "/public/map/LetsGrooveMU/orbis/LetsGrooveMU_Cover_Generic.tga.ckd/1ee68fc756ae6592c2c6b55a58faccf7.ckd",
+      "coach1ImageUrl": "/public/map/LetsGrooveMU/orbis/LetsGrooveMU_Coach_1.tga.ckd/dbaca2140e468c8fb679408199320643.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LetsGrooveMU/LetsGrooveMU_Coach_1_Phone.png/50a5735c8aeed111fb43a88574ac3601.png",
+    "phoneCoverImageUrl": "/public/map/LetsGrooveMU/LetsGrooveMU_Cover_Phone.jpg/18f12093a45b0cfda4162d4222ddc4ed.jpg",
+    "cover640ImageUrl": "/public/map/LetsGrooveMU/LetsGrooveMU_Cover_640.png/9f64302fe5cad97f13498268581f087b.png"
+  },
+  "mapLength": 201.484854
+}

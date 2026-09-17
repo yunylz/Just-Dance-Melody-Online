@@ -1,0 +1,172 @@
+{
+  "urls": {
+    "jmcs://jd-contents/ZoobyDoo/ZoobyDoo.ogg": "/private/map/ZoobyDoo/ZoobyDoo.ogg/3b49d712d1115823c1343729c69c1a8d.ogg",
+    "jmcs://jd-contents/ZoobyDoo/ZoobyDoo_AudioPreview.ogg": "/public/map/ZoobyDoo/ZoobyDoo_AudioPreview.ogg/477ff1a9fb87ad8dedbfdf6e13492ec0.ogg",
+    "jmcs://jd-contents/ZoobyDoo/ZoobyDoo_HIGH.hd.webm": "/private/map/ZoobyDoo/ZoobyDoo_HIGH.hd.webm/eb257ef2e3675c6cef99000c368368fb.webm",
+    "jmcs://jd-contents/ZoobyDoo/ZoobyDoo_LOW.hd.webm": "/private/map/ZoobyDoo/ZoobyDoo_LOW.hd.webm/f61953920aeb305723e917bd57a657de.webm",
+    "jmcs://jd-contents/ZoobyDoo/ZoobyDoo_MID.hd.webm": "/private/map/ZoobyDoo/ZoobyDoo_MID.hd.webm/de9bdaca98949704b7a4f7b7a6b43c61.webm",
+    "jmcs://jd-contents/ZoobyDoo/ZoobyDoo_ULTRA.hd.webm": "/private/map/ZoobyDoo/ZoobyDoo_ULTRA.hd.webm/3256e702f70ad387592b66f4d13775b2.webm",
+    "jmcs://jd-contents/ZoobyDoo/ZoobyDoo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ZoobyDoo/ZoobyDoo_MapPreviewNoSoundCrop_LOW.vp8.webm/32a48f3d1892721af0696db8d7f2def2.webm",
+    "jmcs://jd-contents/ZoobyDoo/ZoobyDoo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ZoobyDoo/ZoobyDoo_MapPreviewNoSoundCrop_MID.vp8.webm/8d575fc2584f42d5a44503573c65090e.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26182,
+        52364,
+        78545,
+        104727,
+        130909,
+        157091,
+        183273,
+        209455,
+        235636,
+        261818,
+        288000,
+        314182,
+        340364,
+        366545,
+        392727,
+        418909,
+        445091,
+        471273,
+        497455,
+        523636,
+        549818,
+        576000,
+        602182,
+        628364,
+        654545,
+        680727,
+        706909,
+        733091,
+        759273,
+        785455,
+        811636,
+        837818,
+        864000,
+        890182,
+        916364,
+        942545,
+        968727,
+        994909,
+        1021091,
+        1047273,
+        1073455,
+        1099636,
+        1125818,
+        1152000,
+        1178182,
+        1204364,
+        1230545,
+        1256727,
+        1282909,
+        1309091,
+        1335273,
+        1361455,
+        1387636,
+        1413818,
+        1440000,
+        1466182,
+        1492364
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 275,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ZoobyDoo/ZoobyDoo_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "94b739be38b501feb99484e89f4d82b8",
+      "storageType": 0,
+      "url": "/public/map/ZoobyDoo/nx/ZoobyDoo_MAIN_SCENE_NX.zip/94b739be38b501feb99484e89f4d82b8.zip"
+    },
+    "pc": {
+      "md5": "e3a94b7fea837eac098545c4505dc85b",
+      "storageType": 0,
+      "url": "/public/map/ZoobyDoo/pc/ZoobyDoo_MAIN_SCENE_PC.zip/e3a94b7fea837eac098545c4505dc85b.zip"
+    },
+    "ps4": {
+      "md5": "7b9b71b50eea1bc0071c59e50161e30b",
+      "storageType": 0,
+      "url": "/public/map/ZoobyDoo/orbis/ZoobyDoo_MAIN_SCENE_ORBIS.zip/7b9b71b50eea1bc0071c59e50161e30b.zip"
+    }
+  },
+  "data": {
+    "mapName": "ZoobyDoo",
+    "title": "Zooby Doo",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Tigermonkey",
+    "credits": "Written by Guy Katsav. Published by Ultra Music Publishing Europe AG (SUISA). Courtesy of Ultra Records.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#00a8f2",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ZoobyDoo/nx/ZoobyDoo_banner_bkg.tga.ckd/331971db9e6e80988389504934cd7269.ckd",
+      "map_bkgImageUrl": "/public/map/ZoobyDoo/nx/ZoobyDoo_map_bkg.tga.ckd/6c25f30d3cc0165b2fad5b58c60c462c.ckd",
+      "expandCoachImageUrl": "/public/map/ZoobyDoo/nx/ZoobyDoo_Cover_AlbumCoach.tga.ckd/9e0c3a75a374d9c7b1002bf9b062ff39.ckd",
+      "cover_smallImageUrl": "/public/map/ZoobyDoo/nx/ZoobyDoo_Cover_Online.tga.ckd/dbcca5067b2b7c9c8a8beace612169fb.ckd",
+      "coverImageUrl": "/public/map/ZoobyDoo/nx/ZoobyDoo_Cover_Generic.tga.ckd/d39e82f52764436a6f1475dc9635ed51.ckd",
+      "coach1ImageUrl": "/public/map/ZoobyDoo/nx/ZoobyDoo_Coach_1.tga.ckd/54844531d1397cad96f071cd07edffc5.ckd",
+      "coach2ImageUrl": "/public/map/ZoobyDoo/nx/ZoobyDoo_Coach_2.tga.ckd/f495e7b8633a84ec85fe3214fb7f4140.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ZoobyDoo/pc/ZoobyDoo_banner_bkg.tga.ckd/89d0006f1c015b007a1415ef76fd372b.ckd",
+      "map_bkgImageUrl": "/public/map/ZoobyDoo/pc/ZoobyDoo_map_bkg.tga.ckd/6d360e6cd73368cea6161dbb2b72b570.ckd",
+      "expandCoachImageUrl": "/public/map/ZoobyDoo/pc/ZoobyDoo_Cover_AlbumCoach.tga.ckd/14ca655404a4be2da0f75c074607cd5b.ckd",
+      "cover_smallImageUrl": "/public/map/ZoobyDoo/pc/ZoobyDoo_Cover_Online.tga.ckd/d08b105e563e9e4818f9a20c7e5cec48.ckd",
+      "coverImageUrl": "/public/map/ZoobyDoo/pc/ZoobyDoo_Cover_Generic.tga.ckd/d7daad2f9de167af011d1fe901e7863e.ckd",
+      "coach1ImageUrl": "/public/map/ZoobyDoo/pc/ZoobyDoo_Coach_1.tga.ckd/759186432e7d81c3df1f9a0239e0e750.ckd",
+      "coach2ImageUrl": "/public/map/ZoobyDoo/pc/ZoobyDoo_Coach_2.tga.ckd/6de6f2523d24009293790b1e4d0f50d2.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ZoobyDoo/orbis/ZoobyDoo_banner_bkg.tga.ckd/89d0006f1c015b007a1415ef76fd372b.ckd",
+      "map_bkgImageUrl": "/public/map/ZoobyDoo/orbis/ZoobyDoo_map_bkg.tga.ckd/6d360e6cd73368cea6161dbb2b72b570.ckd",
+      "expandCoachImageUrl": "/public/map/ZoobyDoo/orbis/ZoobyDoo_Cover_AlbumCoach.tga.ckd/14ca655404a4be2da0f75c074607cd5b.ckd",
+      "cover_smallImageUrl": "/public/map/ZoobyDoo/orbis/ZoobyDoo_Cover_Online.tga.ckd/d08b105e563e9e4818f9a20c7e5cec48.ckd",
+      "coverImageUrl": "/public/map/ZoobyDoo/orbis/ZoobyDoo_Cover_Generic.tga.ckd/d7daad2f9de167af011d1fe901e7863e.ckd",
+      "coach1ImageUrl": "/public/map/ZoobyDoo/orbis/ZoobyDoo_Coach_1.tga.ckd/759186432e7d81c3df1f9a0239e0e750.ckd",
+      "coach2ImageUrl": "/public/map/ZoobyDoo/orbis/ZoobyDoo_Coach_2.tga.ckd/6de6f2523d24009293790b1e4d0f50d2.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ZoobyDoo/ZoobyDoo_Coach_1_Phone.png/b16a2a3f1b1f20512aca20bdcd5e36ca.png",
+    "phoneCoach2ImageUrl": "/public/map/ZoobyDoo/ZoobyDoo_Coach_2_Phone.png/36f98729813316ee10cf11a5f85e0a32.png",
+    "phoneCoverImageUrl": "/public/map/ZoobyDoo/ZoobyDoo_Cover_Phone.jpg/bb174ef536dfa3349f90db9afbabe89a.jpg",
+    "cover640ImageUrl": "/public/map/ZoobyDoo/ZoobyDoo_Cover_640.png/f0033d3b10fdf7e5e718c5ee37121194.png"
+  },
+  "mapLength": 163.090729
+}

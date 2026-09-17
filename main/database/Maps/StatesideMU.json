@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "64202be883e519f7aeb9bbdc78c26069",
+      "storageType": 0,
+      "url": "/public/map/StatesideMU/nx/StatesideMU_MAIN_SCENE_NX.zip/64202be883e519f7aeb9bbdc78c26069.zip"
+    },
+    "pc": {
+      "md5": "3a2281a27f0b982ac375dfc0a71f7f63",
+      "storageType": 0,
+      "url": "/public/map/StatesideMU/pc/StatesideMU_MAIN_SCENE_PC.zip/3a2281a27f0b982ac375dfc0a71f7f63.zip"
+    },
+    "ps4": {
+      "md5": "56bc8405190ffca4e434378ce4d01698",
+      "storageType": 0,
+      "url": "/public/map/StatesideMU/orbis/StatesideMU_MAIN_SCENE_ORBIS.zip/56bc8405190ffca4e434378ce4d01698.zip"
+    }
+  },
+  "data": {
+    "mapName": "StatesideMU",
+    "title": "Stateside",
+    "originalJDVersion": 3000,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "PinkPantheress with Zara Larsson",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23040,
+        47102,
+        70656,
+        94209,
+        116736,
+        140798,
+        164351,
+        187905,
+        211454,
+        235008,
+        257534,
+        280574,
+        303614,
+        326654,
+        349694,
+        373761,
+        397310,
+        420864,
+        444417,
+        467966,
+        490497,
+        513537,
+        536577,
+        559617,
+        583680,
+        607233,
+        630782,
+        654336,
+        677889,
+        701438,
+        723969,
+        747009,
+        770049,
+        794112,
+        817665,
+        841214,
+        863745,
+        886785,
+        909825,
+        933888,
+        957441,
+        980990,
+        1004544,
+        1028097,
+        1051646,
+        1075199,
+        1097726,
+        1120766,
+        1143806,
+        1166846,
+        1189886,
+        1213953,
+        1237502,
+        1261056,
+        1283582,
+        1306622,
+        1329662,
+        1353729,
+        1377278,
+        1400832,
+        1424385
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 382,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": -4,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/statesidemu/statesidemu_AudioPreview.ogg"
+  },
+  "urls": {
+    "jmcs://jd-contents/StatesideMU/StatesideMU_AudioPreview.ogg": "/public/map/StatesideMU/StatesideMU_AudioPreview.ogg/f02a4304cc4652ea493325cfd6c914d3.ogg",
+    "jmcs://jd-contents/StatesideMU/StatesideMU.ogg": "/private/map/StatesideMU/StatesideMU.ogg/571fa6118885e9886422a2ea754cb108.ogg",
+    "jmcs://jd-contents/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_LOW.vp8.webm/3fc42f3c35f187b509de6fb669bd5171.webm",
+    "jmcs://jd-contents/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_MID.vp8.webm/c92576b93136a3635a14af67680de04f.webm",
+    "jmcs://jd-contents/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_HIGH.vp8.webm/19d1a9b7d8269abaad071b67aff4221f.webm",
+    "jmcs://jd-contents/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0778b04bf9d73f785af1154078f5d02d.webm",
+    "jmcs://jd-contents/StatesideMU/StatesideMU_ULTRA.hd.webm": "/private/map/StatesideMU/StatesideMU_ULTRA.hd.webm/9380a67a7b643b5f5a2f5b00a02b1bb9.webm",
+    "jmcs://jd-contents/StatesideMU/StatesideMU_HIGH.hd.webm": "/private/map/StatesideMU/StatesideMU_HIGH.hd.webm/f77cd9c65a8c1bbd67d2615188366d6c.webm",
+    "jmcs://jd-contents/StatesideMU/StatesideMU_MID.hd.webm": "/private/map/StatesideMU/StatesideMU_MID.hd.webm/23a0881b9e715e55dfc2d6ecf37c15f0.webm",
+    "jmcs://jd-contents/StatesideMU/StatesideMU_LOW.hd.webm": "/private/map/StatesideMU/StatesideMU_LOW.hd.webm/d2806058d5e5c9751f8ebebf15ec59df.webm"
+  },
+  "mapLength": 186.16,
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"647525\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"559-1049\">\n\t\t\t\t\t<Initialization range=\"0-559\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1269089\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"559-1049\">\n\t\t\t\t\t<Initialization range=\"0-559\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"1302506\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"559-1049\">\n\t\t\t\t\t<Initialization range=\"0-559\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"1302506\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StatesideMU/StatesideMU_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"559-1049\">\n\t\t\t\t\t<Initialization range=\"0-559\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "assets": {
+    "nx": {
+      "cover_smallImageUrl": "/public/map/StatesideMU/nx/StatesideMU_Cover_Online.tga.ckd/cc9ab3efa15c55cdbf42e552a6ce815b.ckd",
+      "coverImageUrl": "/public/map/StatesideMU/nx/StatesideMU_Cover_Generic.tga.ckd/500628340535f603ac20387056af9019.ckd",
+      "expandCoachImageUrl": "/public/map/StatesideMU/nx/StatesideMU_Cover_AlbumCoach.tga.ckd/3116ffeed3620ba70afbfc6af2089807.ckd",
+      "map_bkgImageUrl": "/public/map/StatesideMU/nx/StatesideMU_map_bkg.tga.ckd/0b613547707996c367d3abd41f05ac62.ckd",
+      "banner_bkgImageUrl": "/public/map/StatesideMU/nx/StatesideMU_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "/public/map/StatesideMU/nx/StatesideMU_Coach_1.tga.ckd/294caeed22df8598e1846c52f847fa20.ckd",
+      "phoneCoverImageUrl": "/public/map/StatesideMU/StatesideMU_Cover_Phone.jpg/6ef99474905a642d68b7cd4424afd796.jpg",
+      "phoneCoach1ImageUrl": "/public/map/StatesideMU/StatesideMU_Coach_1_Phone.png/29dcf59572001dfa740ec542019881b1.png",
+      "cover640ImageUrl": "/public/map/StatesideMU/StatesideMU_Cover_640.png/7a42e74d433013269020e6ad8c830318.png"
+    },
+    "pc": {
+      "cover_smallImageUrl": "/public/map/StatesideMU/pc/StatesideMU_Cover_Online.tga.ckd/fe25d794e6a0526ffe4dbe528cadeca6.ckd",
+      "coverImageUrl": "/public/map/StatesideMU/pc/StatesideMU_Cover_Generic.tga.ckd/a43cabd1ad769fd999fc04e4796630c7.ckd",
+      "expandCoachImageUrl": "/public/map/StatesideMU/pc/StatesideMU_Cover_AlbumCoach.tga.ckd/2238950e966e3e56e421f74f543b21f4.ckd",
+      "map_bkgImageUrl": "/public/map/StatesideMU/pc/StatesideMU_map_bkg.tga.ckd/671985fbed489017f7cf7583e88436f5.ckd",
+      "banner_bkgImageUrl": "/public/map/StatesideMU/pc/StatesideMU_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "/public/map/StatesideMU/pc/StatesideMU_Coach_1.tga.ckd/108e4490393605cc59fe173e43a68cee.ckd",
+      "phoneCoverImageUrl": "/public/map/StatesideMU/StatesideMU_Cover_Phone.jpg/6ef99474905a642d68b7cd4424afd796.jpg",
+      "phoneCoach1ImageUrl": "/public/map/StatesideMU/StatesideMU_Coach_1_Phone.png/29dcf59572001dfa740ec542019881b1.png",
+      "cover640ImageUrl": "/public/map/StatesideMU/StatesideMU_Cover_640.png/7a42e74d433013269020e6ad8c830318.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/StatesideMU/orbis/StatesideMU_Cover_Online.tga.ckd/fe25d794e6a0526ffe4dbe528cadeca6.ckd",
+      "coverImageUrl": "/public/map/StatesideMU/orbis/StatesideMU_Cover_Generic.tga.ckd/a43cabd1ad769fd999fc04e4796630c7.ckd",
+      "expandCoachImageUrl": "/public/map/StatesideMU/orbis/StatesideMU_Cover_AlbumCoach.tga.ckd/87867bc979f91488fe785191fe302787.ckd",
+      "map_bkgImageUrl": "/public/map/StatesideMU/orbis/StatesideMU_map_bkg.tga.ckd/671985fbed489017f7cf7583e88436f5.ckd",
+      "banner_bkgImageUrl": "/public/map/StatesideMU/orbis/StatesideMU_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "/public/map/StatesideMU/orbis/StatesideMU_Coach_1.tga.ckd/1931bcc79ef22307df5f30ccaeaa5cbe.ckd",
+      "phoneCoverImageUrl": "/public/map/StatesideMU/StatesideMU_Cover_Phone.jpg/6ef99474905a642d68b7cd4424afd796.jpg",
+      "phoneCoach1ImageUrl": "/public/map/StatesideMU/StatesideMU_Coach_1_Phone.png/29dcf59572001dfa740ec542019881b1.png",
+      "cover640ImageUrl": "/public/map/StatesideMU/StatesideMU_Cover_640.png/7a42e74d433013269020e6ad8c830318.png"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "f01861a5041552a82bc6b054dc022e61",
+      "storageType": 0,
+      "url": "/public/map/MakeFriends/nx/MakeFriends_MAIN_SCENE_NX.zip/f01861a5041552a82bc6b054dc022e61.zip"
+    },
+    "pc": {
+      "md5": "ed2cad3bb7dc732faa6003a7c723c399",
+      "storageType": 0,
+      "url": "/public/map/MakeFriends/pc/MakeFriends_MAIN_SCENE_PC.zip/ed2cad3bb7dc732faa6003a7c723c399.zip"
+    },
+    "ps4": {
+      "md5": "5faea54bd5fe4879550278a08a35c6dd",
+      "storageType": 0,
+      "url": "/public/map/MakeFriends/orbis/MakeFriends_MAIN_SCENE_ORBIS.zip/5faea54bd5fe4879550278a08a35c6dd.zip"
+    }
+  },
+  "data": {
+    "mapName": "MakeFriends",
+    "title": "I’m Not Here To Make Friends",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sam Smith",
+    "credits": "Written by Harold Arlen, Mikkel Eriksen, Calvin Harris, E.y. Harburg, Tor Hermansen, Jessie Reyez, Samuel Frederick Smith. Published by TSJ Merlyn Licensing B.V. (NS), EMI Feist Catalog Inc., EMI Music Publishing Ltd. / Tim & Danny Music LLC BMI pub designee. All rights on behalf of Tim & Danny Music LLC BMI pub designee administered by Warner Tamerlane Publishing Corp. / BMG Gold Songs. All rights administered by BMG Rights Management (US) LLC. Courtesy of Universal Music Operations Limited/Capitol Records under license from Universal Music Enterprises.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#0083ff"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25043,
+        50087,
+        75130,
+        100174,
+        125217,
+        150261,
+        175304,
+        200348,
+        225391,
+        250435,
+        275478,
+        300522,
+        325565,
+        350609,
+        375652,
+        400696,
+        425739,
+        450783,
+        475826,
+        500870,
+        525913,
+        550957,
+        576000,
+        601043,
+        626087,
+        651130,
+        676174,
+        701217,
+        726261,
+        751304,
+        776348,
+        801391,
+        826435,
+        851478,
+        876522,
+        901565,
+        926609,
+        951652,
+        976696,
+        1001739,
+        1026783,
+        1051826,
+        1076870,
+        1101913,
+        1126957,
+        1152000,
+        1177043,
+        1202087,
+        1227130,
+        1252174,
+        1277217,
+        1302261,
+        1327304,
+        1352348,
+        1377391,
+        1402435,
+        1427478,
+        1452522,
+        1477565
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -11,
+      "endBeat": 421,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MakeFriends/MakeFriends_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MakeFriends/nx/MakeFriends_banner_bkg.tga.ckd/c989aa32e863071b1d1bf1cfea731cbd.ckd",
+      "map_bkgImageUrl": "/public/map/MakeFriends/nx/MakeFriends_map_bkg.tga.ckd/c2d97c6ec29418416ac4dfbccda74ce6.ckd",
+      "expandCoachImageUrl": "/public/map/MakeFriends/nx/MakeFriends_Cover_AlbumCoach.tga.ckd/db768e8f41eebff3c32394794a7e365f.ckd",
+      "cover_smallImageUrl": "/public/map/MakeFriends/nx/MakeFriends_Cover_Online.tga.ckd/3bfb3753a6eec0f969d280f15bd5b0ad.ckd",
+      "coach1ImageUrl": "/public/map/MakeFriends/nx/MakeFriends_Coach_1.tga.ckd/2ae868e84fa83adee7cdd3d7a9ac6d7b.ckd",
+      "coach2ImageUrl": "/public/map/MakeFriends/nx/MakeFriends_Coach_2.tga.ckd/e2c463a6a2e2fcafedf1ec8b65075512.ckd",
+      "coach3ImageUrl": "/public/map/MakeFriends/nx/MakeFriends_Coach_3.tga.ckd/50ebad696c18cf1005ecab4f0bb8e59c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MakeFriends/pc/MakeFriends_banner_bkg.tga.ckd/993d65a2a2bb138076a277f4a4904ce7.ckd",
+      "map_bkgImageUrl": "/public/map/MakeFriends/pc/MakeFriends_map_bkg.tga.ckd/c31eb0bb0e4d80140304f443e1d7140e.ckd",
+      "expandCoachImageUrl": "/public/map/MakeFriends/pc/MakeFriends_Cover_AlbumCoach.tga.ckd/daedc6f1de33cc7d20e48e029e0710e7.ckd",
+      "cover_smallImageUrl": "/public/map/MakeFriends/pc/MakeFriends_Cover_Online.tga.ckd/78f04d4b058d391af689e824655062e9.ckd",
+      "coach1ImageUrl": "/public/map/MakeFriends/pc/MakeFriends_Coach_1.tga.ckd/4c82e1944b38a703393c5588811f94c4.ckd",
+      "coach2ImageUrl": "/public/map/MakeFriends/pc/MakeFriends_Coach_2.tga.ckd/6934e91a79ad61b08c3e1f3069d6b4d8.ckd",
+      "coach3ImageUrl": "/public/map/MakeFriends/pc/MakeFriends_Coach_3.tga.ckd/e4ba6e2b3851386203d5343988e164e8.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MakeFriends/orbis/MakeFriends_banner_bkg.tga.ckd/993d65a2a2bb138076a277f4a4904ce7.ckd",
+      "map_bkgImageUrl": "/public/map/MakeFriends/orbis/MakeFriends_map_bkg.tga.ckd/c31eb0bb0e4d80140304f443e1d7140e.ckd",
+      "expandCoachImageUrl": "/public/map/MakeFriends/orbis/MakeFriends_Cover_AlbumCoach.tga.ckd/daedc6f1de33cc7d20e48e029e0710e7.ckd",
+      "cover_smallImageUrl": "/public/map/MakeFriends/orbis/MakeFriends_Cover_Online.tga.ckd/78f04d4b058d391af689e824655062e9.ckd",
+      "coach1ImageUrl": "/public/map/MakeFriends/orbis/MakeFriends_Coach_1.tga.ckd/4c82e1944b38a703393c5588811f94c4.ckd",
+      "coach2ImageUrl": "/public/map/MakeFriends/orbis/MakeFriends_Coach_2.tga.ckd/6934e91a79ad61b08c3e1f3069d6b4d8.ckd",
+      "coach3ImageUrl": "/public/map/MakeFriends/orbis/MakeFriends_Coach_3.tga.ckd/e4ba6e2b3851386203d5343988e164e8.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MakeFriends/MakeFriends_Coach_1_Phone.png/5b7fbd234fe78482a3690e21a7238461.png",
+    "phoneCoach2ImageUrl": "/public/map/MakeFriends/MakeFriends_Coach_2_Phone.png/886fcb5d24b2e755db384808dafaf493.png",
+    "phoneCoach3ImageUrl": "/public/map/MakeFriends/MakeFriends_Coach_3_Phone.png/a1acdc98d480bb7c82a2b1f647cedba2.png",
+    "phoneCoverImageUrl": "/public/map/MakeFriends/MakeFriends_Cover_Phone.jpg/9a5c66a90c65fc4eef23e8fc38403f91.jpg",
+    "cover640ImageUrl": "/public/map/MakeFriends/MakeFriends_Cover_640.png/56f3fcb3d362bd67f23ca4dae4444e03.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MakeFriends/MakeFriends.ogg": "/private/map/MakeFriends/MakeFriends.ogg/3d09aa7dcdbcbb0f05359238542dba08.ogg",
+    "jmcs://jd-contents/MakeFriends/MakeFriends_AudioPreview.ogg": "/public/map/MakeFriends/MakeFriends_AudioPreview.ogg/512e78d41b34b2485268d41dc41b6782.ogg",
+    "jmcs://jd-contents/MakeFriends/MakeFriends_HIGH.webm": "/private/map/MakeFriends/MakeFriends_HIGH.webm/cbff1e3fc90017a7130e7cd71d876f97.webm",
+    "jmcs://jd-contents/MakeFriends/MakeFriends_LOW.webm": "/private/map/MakeFriends/MakeFriends_LOW.webm/821ed8c9f3fd602ebbae72048f38f298.webm",
+    "jmcs://jd-contents/MakeFriends/MakeFriends_MID.webm": "/private/map/MakeFriends/MakeFriends_MID.webm/5bfd160e45c3739209d82258e3a9f143.webm",
+    "jmcs://jd-contents/MakeFriends/MakeFriends_ULTRA.hd.webm": "/private/map/MakeFriends/MakeFriends_ULTRA.hd.webm/2d3545306bdfd67f8d02e9f49a6f9c52.webm",
+    "jmcs://jd-contents/MakeFriends/MakeFriends_ULTRA.webm": "/private/map/MakeFriends/MakeFriends_ULTRA.webm/44e580e25f873cdc6d4760d4771cd26e.webm",
+    "jmcs://jd-contents/MakeFriends/MakeFriends_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MakeFriends/MakeFriends_MapPreviewNoSoundCrop_LOW.vp8.webm/b6917df947f91afbac3fb40b91ae7bf8.webm",
+    "jmcs://jd-contents/MakeFriends/MakeFriends_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MakeFriends/MakeFriends_MapPreviewNoSoundCrop_MID.vp8.webm/3ba15327f24776d48cae6c022da9d682.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"542493\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MakeFriends/MakeFriends_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"641-1130\">\n\t\t\t\t\t<Initialization range=\"0-641\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1524902\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MakeFriends/MakeFriends_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"642-1132\">\n\t\t\t\t\t<Initialization range=\"0-642\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 225.397771
+}

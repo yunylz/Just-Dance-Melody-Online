@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "56837fe508d1817810e701c56773becf",
+      "storageType": 0,
+      "url": "/public/map/UglyBeauty/nx/UglyBeauty_MAIN_SCENE_NX.zip/56837fe508d1817810e701c56773becf.zip"
+    },
+    "pc": {
+      "md5": "b12dfd95cac49c80d36346bb2fd89073",
+      "storageType": 0,
+      "url": "/public/map/UglyBeauty/pc/UglyBeauty_MAIN_SCENE_PC.zip/b12dfd95cac49c80d36346bb2fd89073.zip"
+    },
+    "ps4": {
+      "md5": "4355ee27a17bafa6527296f8c2e5c943",
+      "storageType": 0,
+      "url": "/public/map/UglyBeauty/orbis/UglyBeauty_MAIN_SCENE_ORBIS.zip/4355ee27a17bafa6527296f8c2e5c943.zip"
+    }
+  },
+  "data": {
+    "mapName": "UglyBeauty",
+    "title": "Ugly Beauty (怪美的)",
+    "originalJDVersion": 2020,
+    "tags": [
+      "subscribedSong",
+      "JustDance2020",
+      "Trio",
+      "Easy"
+    ],
+    "artist": "Jolin Tsai",
+    "credits": "Composed by Qing-Feng Wu, Hong Yun Hui, Rhys Fletcher, Zhen-Yu Wang aka Stan Dubb, Richard Craker, Yi Lin Jolin Tsai and Xi Han Chen. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Ltd. Taiwan. / Stand Dubb Music (NS). All rights reserved. Used with permission. Courtesy of 2018 Eternal Music Production Company Ltd exclusively licensed to Sony Music Entertainment Taiwan Ltd. By arrangement with Sony Music Licensing.",
+    "coachCount": 3,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ee42f9",
+    "songColor2A": "#52e5f8",
+    "songColor1B": "#15105c",
+    "songColor2B": "#0e0c63",
+    "lyricsColor": "#00d8de",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29388,
+        58776,
+        88163,
+        117551,
+        146939,
+        176327,
+        205714,
+        235102,
+        264490,
+        293878,
+        323265,
+        352653,
+        382041,
+        411429,
+        440816,
+        470204,
+        499592,
+        528980,
+        558367,
+        587755,
+        617143,
+        646531,
+        675918,
+        705306,
+        734694,
+        764082,
+        793469,
+        822857,
+        852245,
+        881633,
+        911020,
+        940408,
+        969796,
+        999184,
+        1028571,
+        1057959,
+        1087347,
+        1116735,
+        1146122,
+        1175510,
+        1204898,
+        1234286,
+        1263673,
+        1293061,
+        1322449,
+        1351837,
+        1381224,
+        1410612,
+        1440000,
+        1469388,
+        1498776
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 296,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/UglyBeauty/UglyBeauty_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/UglyBeauty/nx/UglyBeauty_banner_bkg.tga.ckd/a05dffeb2e2fa8b6d526b3a85fe513e3.ckd",
+      "map_bkgImageUrl": "/public/map/UglyBeauty/nx/UglyBeauty_map_bkg.tga.ckd/8ab8966642a9ffc4afcc7bebaf828ddf.ckd",
+      "expandCoachImageUrl": "/public/map/UglyBeauty/nx/UglyBeauty_Cover_AlbumCoach.tga.ckd/c8d0ebd4eb326533d95e1b65fdc2b7ce.ckd",
+      "cover_smallImageUrl": "/public/map/UglyBeauty/nx/UglyBeauty_Cover_Online.tga.ckd/5b28d6d58b220aaae68ad33f791fbc44.ckd",
+      "coverImageUrl": "/public/map/UglyBeauty/nx/UglyBeauty_Cover_Generic.tga.ckd/cf9a738de640622e19e3b5edc2a9c437.ckd",
+      "coach1ImageUrl": "/public/map/UglyBeauty/nx/UglyBeauty_Coach_1.tga.ckd/8b74bd9c82b1091e98117392cea177d4.ckd",
+      "coach2ImageUrl": "/public/map/UglyBeauty/nx/UglyBeauty_Coach_2.tga.ckd/ecf76e4d79084b39aae19b25cb93ec32.ckd",
+      "coach3ImageUrl": "/public/map/UglyBeauty/nx/UglyBeauty_Coach_3.tga.ckd/7d5e4aba2ac9791e5e6796896e05c0d5.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/UglyBeauty/pc/UglyBeauty_banner_bkg.tga.ckd/440c2992ad8b1ae465a9c111278d97c0.ckd",
+      "map_bkgImageUrl": "/public/map/UglyBeauty/pc/UglyBeauty_map_bkg.tga.ckd/4b7308d0b710df57c6cb6c2b6a078ccc.ckd",
+      "expandCoachImageUrl": "/public/map/UglyBeauty/pc/UglyBeauty_Cover_AlbumCoach.tga.ckd/4c72bc3d4080bba36dd5c6502478807e.ckd",
+      "cover_smallImageUrl": "/public/map/UglyBeauty/pc/UglyBeauty_Cover_Online.tga.ckd/39ae084086cf2852e4e2fc15c99e5549.ckd",
+      "coverImageUrl": "/public/map/UglyBeauty/pc/UglyBeauty_Cover_Generic.tga.ckd/b6f77aa03d037c25753d178c9523fd3d.ckd",
+      "coach1ImageUrl": "/public/map/UglyBeauty/pc/UglyBeauty_Coach_1.tga.ckd/620db77fbbbd2820b9326fd87b4edc08.ckd",
+      "coach2ImageUrl": "/public/map/UglyBeauty/pc/UglyBeauty_Coach_2.tga.ckd/2bc55398eed515e27a99c3fc9dc9c62b.ckd",
+      "coach3ImageUrl": "/public/map/UglyBeauty/pc/UglyBeauty_Coach_3.tga.ckd/559ab2b5d38bd19a1c5269c212a20c81.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/UglyBeauty/orbis/UglyBeauty_banner_bkg.tga.ckd/440c2992ad8b1ae465a9c111278d97c0.ckd",
+      "map_bkgImageUrl": "/public/map/UglyBeauty/orbis/UglyBeauty_map_bkg.tga.ckd/4b7308d0b710df57c6cb6c2b6a078ccc.ckd",
+      "expandCoachImageUrl": "/public/map/UglyBeauty/orbis/UglyBeauty_Cover_AlbumCoach.tga.ckd/4c72bc3d4080bba36dd5c6502478807e.ckd",
+      "cover_smallImageUrl": "/public/map/UglyBeauty/orbis/UglyBeauty_Cover_Online.tga.ckd/39ae084086cf2852e4e2fc15c99e5549.ckd",
+      "coverImageUrl": "/public/map/UglyBeauty/orbis/UglyBeauty_Cover_Generic.tga.ckd/b6f77aa03d037c25753d178c9523fd3d.ckd",
+      "coach1ImageUrl": "/public/map/UglyBeauty/orbis/UglyBeauty_Coach_1.tga.ckd/620db77fbbbd2820b9326fd87b4edc08.ckd",
+      "coach2ImageUrl": "/public/map/UglyBeauty/orbis/UglyBeauty_Coach_2.tga.ckd/2bc55398eed515e27a99c3fc9dc9c62b.ckd",
+      "coach3ImageUrl": "/public/map/UglyBeauty/orbis/UglyBeauty_Coach_3.tga.ckd/559ab2b5d38bd19a1c5269c212a20c81.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/UglyBeauty/UglyBeauty_Coach_1_Phone.png/dfc98722b43e769d6bd306ac6b666ac4.png",
+    "phoneCoach2ImageUrl": "/public/map/UglyBeauty/UglyBeauty_Coach_2_Phone.png/a33086b5dd740a4054ed5e521efb7c87.png",
+    "phoneCoach3ImageUrl": "/public/map/UglyBeauty/UglyBeauty_Coach_3_Phone.png/e0f0155bc5c3ea71c8f5acb03d6c0f01.png",
+    "phoneCoverImageUrl": "/public/map/UglyBeauty/UglyBeauty_Cover_Phone.jpg/2d24661ee7d1294e556d19c9acecf7b1.jpg",
+    "cover640ImageUrl": "/public/map/UglyBeauty/UglyBeauty_Cover_640.png/1fd28b978dfef10f1aff31f78e236998.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty.ogg": "/private/map/UglyBeauty/UglyBeauty.ogg/a3f57a9d045adc27b4b238943e7d2fc8.ogg",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_AudioPreview.ogg": "/public/map/UglyBeauty/UglyBeauty_AudioPreview.ogg/a937a1f95fad264bd5a02e15e4ea8592.ogg",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp8.webm/6836f419f8d931d8e6495a17a904d2ca.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_HIGH.webm": "/private/map/UglyBeauty/UglyBeauty_HIGH.webm/d11d206908aab53e0afe84d96835c242.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_LOW.webm": "/private/map/UglyBeauty/UglyBeauty_LOW.webm/2aa2690b16f69dcec1cc790138ccf73e.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_MID.webm": "/private/map/UglyBeauty/UglyBeauty_MID.webm/915d21cbe1aca8e53e54a861f53a274a.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_ULTRA.hd.webm": "/private/map/UglyBeauty/UglyBeauty_ULTRA.hd.webm/d7930cd723127bea43a6e14d8305d1ad.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_ULTRA.webm": "/private/map/UglyBeauty/UglyBeauty_ULTRA.webm/b92fc92d99fce83b91295ca0ae8a90aa.webm",
+    "jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp8.webm/118b0eceddb099fc4d646a56ca769a20.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"493417\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\n\t\t\t\t\t<Initialization range=\"0-604\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480793\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\n\t\t\t\t\t<Initialization range=\"0-601\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 183.673396
+}

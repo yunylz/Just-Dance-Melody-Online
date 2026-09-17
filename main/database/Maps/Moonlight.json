@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Moonlight/Moonlight.ogg": "/private/map/Moonlight/Moonlight.ogg/ab91a4db6aa4d5adc61d948ae8d7a73e.ogg",
+    "jmcs://jd-contents/Moonlight/Moonlight_AudioPreview.ogg": "/public/map/Moonlight/Moonlight_AudioPreview.ogg/0f5ed90264d472a7dc29dc7ed425f8b5.ogg",
+    "jmcs://jd-contents/Moonlight/Moonlight_HIGH.hd.webm": "/private/map/Moonlight/Moonlight_HIGH.hd.webm/1c6bc1790fcfbe4f004d87024c026864.webm",
+    "jmcs://jd-contents/Moonlight/Moonlight_LOW.hd.webm": "/private/map/Moonlight/Moonlight_LOW.hd.webm/659150539eb1fe084942145db234d0c6.webm",
+    "jmcs://jd-contents/Moonlight/Moonlight_MID.hd.webm": "/private/map/Moonlight/Moonlight_MID.hd.webm/189cf7aa6a39db53fc4bae67ff09cf62.webm",
+    "jmcs://jd-contents/Moonlight/Moonlight_ULTRA.hd.webm": "/private/map/Moonlight/Moonlight_ULTRA.hd.webm/78c01c28b43516b73ed8e2c18aae651a.webm",
+    "jmcs://jd-contents/Moonlight/Moonlight_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Moonlight/Moonlight_MapPreviewNoSoundCrop_LOW.vp8.webm/7dc9165a2b6172f8dd72b3172e6cb3c9.webm",
+    "jmcs://jd-contents/Moonlight/Moonlight_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Moonlight/Moonlight_MapPreviewNoSoundCrop_MID.vp8.webm/778572f6f1820d6a3f268d415959b4b7.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202500,
+        225000,
+        247500,
+        270000,
+        292500,
+        315000,
+        337500,
+        360000,
+        382500,
+        405000,
+        427500,
+        450000,
+        472500,
+        495000,
+        517500,
+        540000,
+        562500,
+        585000,
+        607500,
+        630000,
+        652500,
+        675000,
+        697500,
+        720000,
+        742500,
+        765000,
+        787500,
+        810000,
+        832500,
+        855000,
+        877500,
+        900000,
+        922500,
+        945000,
+        967500,
+        990000,
+        1012500,
+        1035000,
+        1057500,
+        1080000,
+        1102500,
+        1125000,
+        1147500,
+        1170000,
+        1192500,
+        1215000,
+        1237500,
+        1260000,
+        1282500,
+        1305000,
+        1327500,
+        1350000,
+        1372500,
+        1395000,
+        1417500,
+        1440000,
+        1462500,
+        1485000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 363,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Moonlight/Moonlight_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"550647\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Moonlight/Moonlight_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"614-1104\">\n\t\t\t\t\t<Initialization range=\"0-614\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1936633\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Moonlight/Moonlight_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"615-1105\">\n\t\t\t\t\t<Initialization range=\"0-615\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "f39df9ec3029bd752acd6880fed7a77f",
+      "storageType": 0,
+      "url": "/public/map/Moonlight/nx/Moonlight_MAIN_SCENE_NX.zip/f39df9ec3029bd752acd6880fed7a77f.zip"
+    },
+    "pc": {
+      "md5": "b0c47b961d50ff4a17b3b369f58c9dff",
+      "storageType": 0,
+      "url": "/public/map/Moonlight/pc/Moonlight_MAIN_SCENE_PC.zip/b0c47b961d50ff4a17b3b369f58c9dff.zip"
+    },
+    "ps4": {
+      "md5": "b27793a536a6a286047d6e655fda456d",
+      "storageType": 0,
+      "url": "/public/map/Moonlight/orbis/Moonlight_MAIN_SCENE_ORBIS.zip/b27793a536a6a286047d6e655fda456d.zip"
+    }
+  },
+  "data": {
+    "mapName": "Moonlight",
+    "title": "Moonlight",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Aileen-O",
+    "credits": "EMPTY",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#e404e1",
+    "songColor2A": "#46ecff",
+    "songColor1B": "#040129",
+    "songColor2B": "#081082",
+    "lyricsColor": "#5cf274",
+    "LocaleID": 4294967295
+  },
+  "mapLength": 173.91275,
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Moonlight/nx/Moonlight_banner_bkg.tga.ckd/0ad6ed347d61fbadf0c63c70aeb034f2.ckd",
+      "map_bkgImageUrl": "/public/map/Moonlight/nx/Moonlight_map_bkg.tga.ckd/e166fa86c50dc8b7d95bf960de6fee60.ckd",
+      "expandCoachImageUrl": "/public/map/Moonlight/nx/Moonlight_Cover_AlbumCoach.tga.ckd/2e30eeb52b487f2a03e671dc575ef435.ckd",
+      "cover_smallImageUrl": "/public/map/Moonlight/nx/Moonlight_Cover_Online.tga.ckd/a56a19b0a9fb4c7fc0bddc917074adc4.ckd",
+      "coverImageUrl": "/public/map/Moonlight/nx/Moonlight_Cover_Generic.tga.ckd/64167941a380c1ca3095aa012a72d576.ckd",
+      "coach1ImageUrl": "/public/map/Moonlight/nx/Moonlight_Coach_1.tga.ckd/53f7b0718d093e1513e3f22238430026.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Moonlight/pc/Moonlight_banner_bkg.tga.ckd/6e1fccf0e4c1d22b078112d6d56afd7e.ckd",
+      "map_bkgImageUrl": "/public/map/Moonlight/pc/Moonlight_map_bkg.tga.ckd/93e1c0cfdcb4b4ec16e5cb434be009ef.ckd",
+      "expandCoachImageUrl": "/public/map/Moonlight/pc/Moonlight_Cover_AlbumCoach.tga.ckd/3e37192d23d884d9c35963a8e156abcd.ckd",
+      "cover_smallImageUrl": "/public/map/Moonlight/pc/Moonlight_Cover_Online.tga.ckd/def3cfaaf4fac310dd67c8c134165d1e.ckd",
+      "coverImageUrl": "/public/map/Moonlight/pc/Moonlight_Cover_Generic.tga.ckd/0612422ee3c0db8975d642dc8b898db1.ckd",
+      "coach1ImageUrl": "/public/map/Moonlight/pc/Moonlight_Coach_1.tga.ckd/d7fe739f22df275a5d5e7d7a3243333c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Moonlight/orbis/Moonlight_banner_bkg.tga.ckd/6e1fccf0e4c1d22b078112d6d56afd7e.ckd",
+      "map_bkgImageUrl": "/public/map/Moonlight/orbis/Moonlight_map_bkg.tga.ckd/93e1c0cfdcb4b4ec16e5cb434be009ef.ckd",
+      "expandCoachImageUrl": "/public/map/Moonlight/orbis/Moonlight_Cover_AlbumCoach.tga.ckd/3e37192d23d884d9c35963a8e156abcd.ckd",
+      "cover_smallImageUrl": "/public/map/Moonlight/orbis/Moonlight_Cover_Online.tga.ckd/def3cfaaf4fac310dd67c8c134165d1e.ckd",
+      "coverImageUrl": "/public/map/Moonlight/orbis/Moonlight_Cover_Generic.tga.ckd/0612422ee3c0db8975d642dc8b898db1.ckd",
+      "coach1ImageUrl": "/public/map/Moonlight/orbis/Moonlight_Coach_1.tga.ckd/d7fe739f22df275a5d5e7d7a3243333c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Moonlight/Moonlight_Coach_1_Phone.png/5d891a94e7b0782d4c7277be417261fc.png",
+    "phoneCoverImageUrl": "/public/map/Moonlight/Moonlight_Cover_Phone.jpg/65c0b6c374496a7f40078ee02e823fe5.jpg",
+    "cover640ImageUrl": "/public/map/Moonlight/Moonlight_Cover_640.png/12aae453b57b7fa4e53417e6d02d3e95.png"
+  }
+}

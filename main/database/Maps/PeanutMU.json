@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c7aef12937cf898804cac44a7efff864",
+      "storageType": 0,
+      "url": "/public/map/PeanutMU/nx/PeanutMU_MAIN_SCENE_NX.zip/c7aef12937cf898804cac44a7efff864.zip"
+    },
+    "pc": {
+      "md5": "8d01cce1f85cf7b78d44dad847da4aad",
+      "storageType": 0,
+      "url": "/public/map/PeanutMU/pc/PeanutMU_MAIN_SCENE_PC.zip/8d01cce1f85cf7b78d44dad847da4aad.zip"
+    },
+    "ps4": {
+      "md5": "16f908b50cc3a40c8ef440b026133985",
+      "storageType": 0,
+      "url": "/public/map/PeanutMU/orbis/PeanutMU_MAIN_SCENE_ORBIS.zip/16f908b50cc3a40c8ef440b026133985.zip"
+    }
+  },
+  "data": {
+    "mapName": "PeanutMU",
+    "title": "Peanut Butter Jelly",
+    "originalJDVersion": 3000,
+    "tags": [
+      "main"
+    ],
+    "artist": "Galantis",
+    "credits": "All rights of the producer and other rightsholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange, or use of this video game for public performance, broadcasting, and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#be6cde",
+    "songColor2A": "#f1e107",
+    "songColor1B": "#62006c",
+    "songColor2B": "#b30d74",
+    "lyricsColor": "#ff0ca8",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22464,
+        44976,
+        67488,
+        90000,
+        112464,
+        134976,
+        157488,
+        180000,
+        202464,
+        224976,
+        247488,
+        270000,
+        292464,
+        314976,
+        337488,
+        360000,
+        382464,
+        404976,
+        427488,
+        450000,
+        472464,
+        494976,
+        517488,
+        540000,
+        562464,
+        584976,
+        607488,
+        630000,
+        652464,
+        674976,
+        697488,
+        720000,
+        742464,
+        764976,
+        787488,
+        810000,
+        832464,
+        854976,
+        877488,
+        900000,
+        922464,
+        944976,
+        967488,
+        990000,
+        1012464,
+        1034976,
+        1057488,
+        1080000,
+        1102464,
+        1124976,
+        1147488,
+        1170000,
+        1192464,
+        1214976,
+        1237488,
+        1260000,
+        1282464,
+        1304976,
+        1327488,
+        1350000,
+        1372464,
+        1394976,
+        1417488,
+        1440000,
+        1462464,
+        1484976
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 429,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PeanutMU/PeanutMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PeanutMU/nx/PeanutMU_banner_bkg.tga.ckd/8546e895eb3ccd48fed02e620485aa0d.ckd",
+      "map_bkgImageUrl": "/public/map/PeanutMU/nx/PeanutMU_map_bkg.tga.ckd/1f68cb5407dbb077903ffecdd3f63f88.ckd",
+      "expandCoachImageUrl": "/public/map/PeanutMU/nx/PeanutMU_Cover_AlbumCoach.tga.ckd/abf0a7e04fda5fbc230f53eb47376d37.ckd",
+      "cover_smallImageUrl": "/public/map/PeanutMU/nx/PeanutMU_Cover_Online.tga.ckd/bb335a6e63f8fc4adacedf0ad8a9eea3.ckd",
+      "coverImageUrl": "/public/map/PeanutMU/nx/PeanutMU_Cover_Generic.tga.ckd/bce7e3e706607d2cad5a665cd6b362ec.ckd",
+      "coach1ImageUrl": "/public/map/PeanutMU/nx/PeanutMU_Coach_1.tga.ckd/93a1853994a8d57cb8babc50b7918b70.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PeanutMU/pc/PeanutMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/PeanutMU/pc/PeanutMU_map_bkg.tga.ckd/2f7b409cfd4c5275535b4f05ed6d1525.ckd",
+      "expandCoachImageUrl": "/public/map/PeanutMU/pc/PeanutMU_Cover_AlbumCoach.tga.ckd/6a27ed3ae9b7ce5812021591231b8cb9.ckd",
+      "cover_smallImageUrl": "/public/map/PeanutMU/pc/PeanutMU_Cover_Online.tga.ckd/084b2933ef25543c8089a12df057d553.ckd",
+      "coverImageUrl": "/public/map/PeanutMU/pc/PeanutMU_Cover_Generic.tga.ckd/4b0cd67d6b4425a1003cc1f46b5bd385.ckd",
+      "coach1ImageUrl": "/public/map/PeanutMU/pc/PeanutMU_Coach_1.tga.ckd/2f986c64c621505202e9693fea246b7f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PeanutMU/orbis/PeanutMU_banner_bkg.tga.ckd/09956bce6eb93423ef8369f9d8fc3689.ckd",
+      "map_bkgImageUrl": "/public/map/PeanutMU/orbis/PeanutMU_map_bkg.tga.ckd/2f7b409cfd4c5275535b4f05ed6d1525.ckd",
+      "expandCoachImageUrl": "/public/map/PeanutMU/orbis/PeanutMU_Cover_AlbumCoach.tga.ckd/6a27ed3ae9b7ce5812021591231b8cb9.ckd",
+      "cover_smallImageUrl": "/public/map/PeanutMU/orbis/PeanutMU_Cover_Online.tga.ckd/084b2933ef25543c8089a12df057d553.ckd",
+      "coverImageUrl": "/public/map/PeanutMU/orbis/PeanutMU_Cover_Generic.tga.ckd/4b0cd67d6b4425a1003cc1f46b5bd385.ckd",
+      "coach1ImageUrl": "/public/map/PeanutMU/orbis/PeanutMU_Coach_1.tga.ckd/2f986c64c621505202e9693fea246b7f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PeanutMU/PeanutMU_Coach_1_Phone.png/94618413b131507a94a5125dd95b9590.png",
+    "phoneCoverImageUrl": "/public/map/PeanutMU/PeanutMU_Cover_Phone.jpg/5020debb51c99bd438cab38bfd71de86.jpg",
+    "cover640ImageUrl": "/public/map/PeanutMU/PeanutMU_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/PeanutMU/PeanutMU.ogg": "/private/map/PeanutMU/PeanutMU.ogg/fff7b8907a035903a7425c6ca899ec7f.ogg",
+    "jmcs://jd-contents/PeanutMU/PeanutMU_AudioPreview.ogg": "/public/map/PeanutMU/PeanutMU_AudioPreview.ogg/cfd01730b0c08b58ea2844e4541c5bc4.ogg",
+    "jmcs://jd-contents/PeanutMU/PeanutMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PeanutMU/PeanutMU_MapPreviewNoSoundCrop_LOW.vp8.webm/0f24254e580f443bb8583b30c50ce160.webm",
+    "jmcs://jd-contents/PeanutMU/PeanutMU_HIGH.webm": "/private/map/PeanutMU/PeanutMU_HIGH.webm/facca7b8b6cc57305eee33b2a874dcdb.webm",
+    "jmcs://jd-contents/PeanutMU/PeanutMU_LOW.webm": "/private/map/PeanutMU/PeanutMU_LOW.webm/c11418e8be7e4d4dd20ce5ffa8fd3edc.webm",
+    "jmcs://jd-contents/PeanutMU/PeanutMU_MID.webm": "/private/map/PeanutMU/PeanutMU_MID.webm/e11b9932c42367fbb8cb70544464a609.webm",
+    "jmcs://jd-contents/PeanutMU/PeanutMU_ULTRA.hd.webm": "/private/map/PeanutMU/PeanutMU_ULTRA.hd.webm/9d265a575239d9ced0e63b907fe84aff.webm",
+    "jmcs://jd-contents/PeanutMU/PeanutMU_ULTRA.webm": "/private/map/PeanutMU/PeanutMU_ULTRA.webm/2374aa94c194014d843ba34b26e6efc2.webm",
+    "jmcs://jd-contents/PeanutMU/PeanutMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PeanutMU/PeanutMU_MapPreviewNoSoundCrop_MID.vp8.webm/29aac9c045220472f715aa88016b65d3.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"516721\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PeanutMU/PeanutMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478426\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PeanutMU/PeanutMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 203.444625
+}

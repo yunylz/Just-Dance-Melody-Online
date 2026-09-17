@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c190614843ab5831908b5244765a9252",
+      "storageType": 0,
+      "url": "/public/map/PapaoutaiALT/nx/PapaoutaiALT_MAIN_SCENE_NX.zip/c190614843ab5831908b5244765a9252.zip"
+    },
+    "pc": {
+      "md5": "a17ee26477352561f801560ddfdc0db4",
+      "storageType": 0,
+      "url": "/public/map/PapaoutaiALT/pc/PapaoutaiALT_MAIN_SCENE_PC.zip/a17ee26477352561f801560ddfdc0db4.zip"
+    },
+    "ps4": {
+      "md5": "a995f9d85736d481148f8ccf8b9eb104",
+      "storageType": 0,
+      "url": "/public/map/PapaoutaiALT/orbis/PapaoutaiALT_MAIN_SCENE_ORBIS.zip/a995f9d85736d481148f8ccf8b9eb104.zip"
+    }
+  },
+  "data": {
+    "mapName": "PapaoutaiALT",
+    "title": "Papaoutai",
+    "originalJDVersion": 2015,
+    "tags": [
+      "ALTERNATE"
+    ],
+    "artist": "Stromae",
+    "credits": "Written by Stromae. © & ℗ 2013 Mosaert. Courtesy of Mercury France under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#10ffaa",
+    "LocaleID": 20003381
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24815,
+        49631,
+        74495,
+        99311,
+        124127,
+        148943,
+        173807,
+        198623,
+        223439,
+        248255,
+        273119,
+        297935,
+        322751,
+        347567,
+        372431,
+        397247,
+        422063,
+        446879,
+        471743,
+        496559,
+        521375,
+        546191,
+        571055,
+        595871,
+        620687,
+        645503,
+        670367,
+        695183,
+        719999,
+        744815,
+        769631,
+        794494,
+        819310,
+        844126,
+        868942,
+        893806,
+        918622,
+        943438,
+        968254,
+        993118,
+        1017934,
+        1042750,
+        1067566,
+        1092430,
+        1117246,
+        1142062,
+        1166878,
+        1191742,
+        1216558,
+        1241374,
+        1266190,
+        1291054,
+        1315870,
+        1340686,
+        1365502,
+        1390366,
+        1415182,
+        1439998,
+        1464814,
+        1489630
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 412,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PapaoutaiALT/nx/PapaoutaiALT_banner_bkg.tga.ckd/76692ab089f38b0aa6810bd577e9c5b9.ckd",
+      "map_bkgImageUrl": "/public/map/PapaoutaiALT/nx/PapaoutaiALT_map_bkg.tga.ckd/373c5ccb8eaadf8b1b1fc1a291b3dc37.ckd",
+      "expandCoachImageUrl": "/public/map/PapaoutaiALT/nx/PapaoutaiALT_Cover_AlbumCoach.tga.ckd/6529a043e0848f17e9f151a4324ddb4b.ckd",
+      "cover_smallImageUrl": "/public/map/PapaoutaiALT/nx/PapaoutaiALT_Cover_Online.tga.ckd/ae35de9e10d67d5f9886869e55986023.ckd",
+      "coverImageUrl": "/public/map/PapaoutaiALT/nx/PapaoutaiALT_Cover_Generic.tga.ckd/f8e4a7f7754d91277d1cf02b91a91061.ckd",
+      "coach1ImageUrl": "/public/map/PapaoutaiALT/nx/PapaoutaiALT_Coach_1.tga.ckd/64d98ac391ea1c344e849c81c141d5ff.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PapaoutaiALT/pc/PapaoutaiALT_banner_bkg.tga.ckd/a5f20bd01574a75f188f5b1fb28e32e0.ckd",
+      "map_bkgImageUrl": "/public/map/PapaoutaiALT/pc/PapaoutaiALT_map_bkg.tga.ckd/5642070b7b0be7c08f19b047430c6f4e.ckd",
+      "expandCoachImageUrl": "/public/map/PapaoutaiALT/pc/PapaoutaiALT_Cover_AlbumCoach.tga.ckd/3b89be0d8dcf63710036226c505de35a.ckd",
+      "cover_smallImageUrl": "/public/map/PapaoutaiALT/pc/PapaoutaiALT_Cover_Online.tga.ckd/38be6248257b070aa5bff3627f877bdd.ckd",
+      "coverImageUrl": "/public/map/PapaoutaiALT/pc/PapaoutaiALT_Cover_Generic.tga.ckd/9ea990e75b6fd53c6567c447644c85b7.ckd",
+      "coach1ImageUrl": "/public/map/PapaoutaiALT/pc/PapaoutaiALT_Coach_1.tga.ckd/4e74666bcc85f9e6df2797330cdb7c22.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PapaoutaiALT/orbis/PapaoutaiALT_banner_bkg.tga.ckd/a5f20bd01574a75f188f5b1fb28e32e0.ckd",
+      "map_bkgImageUrl": "/public/map/PapaoutaiALT/orbis/PapaoutaiALT_map_bkg.tga.ckd/5642070b7b0be7c08f19b047430c6f4e.ckd",
+      "expandCoachImageUrl": "/public/map/PapaoutaiALT/orbis/PapaoutaiALT_Cover_AlbumCoach.tga.ckd/3b89be0d8dcf63710036226c505de35a.ckd",
+      "cover_smallImageUrl": "/public/map/PapaoutaiALT/orbis/PapaoutaiALT_Cover_Online.tga.ckd/38be6248257b070aa5bff3627f877bdd.ckd",
+      "coverImageUrl": "/public/map/PapaoutaiALT/orbis/PapaoutaiALT_Cover_Generic.tga.ckd/9ea990e75b6fd53c6567c447644c85b7.ckd",
+      "coach1ImageUrl": "/public/map/PapaoutaiALT/orbis/PapaoutaiALT_Coach_1.tga.ckd/4e74666bcc85f9e6df2797330cdb7c22.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PapaoutaiALT/PapaoutaiALT_Coach_1_Phone.png/0ab210bbbe481378bad88b58ec805977.png",
+    "phoneCoverImageUrl": "/public/map/PapaoutaiALT/PapaoutaiALT_Cover_Phone.jpg/051f53022f671b3194c396e9e61f704f.jpg",
+    "cover640ImageUrl": "/public/map/PapaoutaiALT/PapaoutaiALT_Cover_640.png/5e67b94000be60cdc64eb8ecf54301ce.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT.ogg": "/private/map/PapaoutaiALT/PapaoutaiALT.ogg/6fa8943398fbc29046c5e94afaead9d8.ogg",
+    "jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT_AudioPreview.ogg": "/public/map/PapaoutaiALT/PapaoutaiALT_AudioPreview.ogg/735646a59a73507358e96a43c57001f4.ogg",
+    "jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PapaoutaiALT/PapaoutaiALT_MapPreviewNoSoundCrop_LOW.vp8.webm/e35a87274806d3275b24303db533e930.webm",
+    "jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT_HIGH.webm": "/private/map/PapaoutaiALT/PapaoutaiALT_HIGH.webm/292973f5a228acf05c0c6ce7d348441a.webm",
+    "jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT_LOW.webm": "/private/map/PapaoutaiALT/PapaoutaiALT_LOW.webm/5093e56151191927fbe39544b0eaf86f.webm",
+    "jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT_MID.webm": "/private/map/PapaoutaiALT/PapaoutaiALT_MID.webm/1c799d37fd016a5eaf69631f02280948.webm",
+    "jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT_ULTRA.hd.webm": "/private/map/PapaoutaiALT/PapaoutaiALT_ULTRA.hd.webm/fdc2ccad1c1ef2de7caff0417c0f538d.webm",
+    "jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT_ULTRA.webm": "/private/map/PapaoutaiALT/PapaoutaiALT_ULTRA.webm/1c01f748529444445fe025257302859e.webm",
+    "jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PapaoutaiALT/PapaoutaiALT_MapPreviewNoSoundCrop_MID.vp8.webm/0be1f715c63f3150af58a007b4db3242.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497952\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"634-1124\">\n\t\t\t\t\t<Initialization range=\"0-634\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1460188\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PapaoutaiALT/PapaoutaiALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"635-1125\">\n\t\t\t\t\t<Initialization range=\"0-635\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 212.586208
+}

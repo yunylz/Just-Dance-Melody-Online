@@ -1,0 +1,182 @@
+{
+  "urls": {
+    "jmcs://jd-contents/GimmeGimmeOSC/GimmeGimmeOSC.ogg": "/private/map/GimmeGimmeOSC/GimmeGimmeOSC.ogg/cbdf06cbbacbc32d66ca9f356874182c.ogg",
+    "jmcs://jd-contents/GimmeGimmeOSC/GimmeGimmeOSC_AudioPreview.ogg": "/public/map/GimmeGimmeOSC/GimmeGimmeOSC_AudioPreview.ogg/9a7378e0faa28b311b60df11a2326f5b.ogg",
+    "jmcs://jd-contents/GimmeGimmeOSC/GimmeGimmeOSC_HIGH.hd.webm": "/private/map/GimmeGimmeOSC/GimmeGimmeOSC_HIGH.hd.webm/6dcd9b2b8e7ef02726f37e405a0eacd9.webm",
+    "jmcs://jd-contents/GimmeGimmeOSC/GimmeGimmeOSC_LOW.hd.webm": "/private/map/GimmeGimmeOSC/GimmeGimmeOSC_LOW.hd.webm/0d86cfb328fd0a97bfa2568d55658914.webm",
+    "jmcs://jd-contents/GimmeGimmeOSC/GimmeGimmeOSC_MID.hd.webm": "/private/map/GimmeGimmeOSC/GimmeGimmeOSC_MID.hd.webm/aa6e9ed9f09894cc450db82a22ade3ac.webm",
+    "jmcs://jd-contents/GimmeGimmeOSC/GimmeGimmeOSC_ULTRA.hd.webm": "/private/map/GimmeGimmeOSC/GimmeGimmeOSC_ULTRA.hd.webm/0d796fb57e73917432c6f6b30b2c9708.webm",
+    "jmcs://jd-contents/GimmeGimmeOSC/GimmeGimmeOSC_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GimmeGimmeOSC/GimmeGimmeOSC_MapPreviewNoSoundCrop_LOW.vp8.webm/78b594a5dce3d7b417f089e8bd46e464.webm",
+    "jmcs://jd-contents/GimmeGimmeOSC/GimmeGimmeOSC_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GimmeGimmeOSC/GimmeGimmeOSC_MapPreviewNoSoundCrop_MID.vp8.webm/172f11d5b3c4ab91b57f105656b87e7c.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26112,
+        52224,
+        78336,
+        104448,
+        130560,
+        156672,
+        182736,
+        208176,
+        233520,
+        258672,
+        283824,
+        308784,
+        333744,
+        358656,
+        383568,
+        408432,
+        433296,
+        458016,
+        482688,
+        507744,
+        532896,
+        558000,
+        583104,
+        608208,
+        633312,
+        658080,
+        682752,
+        707472,
+        732144,
+        758352,
+        784800,
+        809568,
+        834144,
+        858672,
+        883248,
+        907824,
+        932352,
+        959232,
+        983233,
+        1007041,
+        1030897,
+        1054753,
+        1078609,
+        1103041,
+        1127617,
+        1152193,
+        1176721,
+        1200817,
+        1224865,
+        1248913,
+        1272961,
+        1297345,
+        1321729,
+        1346161,
+        1370785,
+        1395121,
+        1419313,
+        1443553,
+        1467793,
+        1492033
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 573,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GimmeGimmeOSC/GimmeGimmeOSC_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "54f948e02589ea7abb0dcca5f5333a00",
+      "storageType": 0,
+      "url": "/public/map/GimmeGimmeOSC/nx/GimmeGimmeOSC_MAIN_SCENE_NX.zip/54f948e02589ea7abb0dcca5f5333a00.zip"
+    },
+    "pc": {
+      "md5": "6d02771fd15ed817f8821196a961d3f4",
+      "storageType": 0,
+      "url": "/public/map/GimmeGimmeOSC/pc/GimmeGimmeOSC_MAIN_SCENE_PC.zip/6d02771fd15ed817f8821196a961d3f4.zip"
+    },
+    "ps4": {
+      "md5": "9ba695ec7a8355ff9f219acc76c3a4e9",
+      "storageType": 0,
+      "url": "/public/map/GimmeGimmeOSC/orbis/GimmeGimmeOSC_MAIN_SCENE_ORBIS.zip/9ba695ec7a8355ff9f219acc76c3a4e9.zip"
+    }
+  },
+  "data": {
+    "mapName": "GimmeGimmeOSC",
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "originalJDVersion": 2014,
+    "tags": [
+      "ALTERNATE",
+      "subscribedSong",
+      "JustDance2014",
+      "Trio"
+    ],
+    "artist": "ABBA",
+    "credits": "Written by Benny Goran Bror Andersson and Bjorn Ulvaeus. Published by EMI Waterford Music, Inc. (ASCAP) and Union Songs AB (STIM). All Rights for the U.S.A. and Canada Controlled and Administered by EMI. Waterford Music, Inc. c/o EMI Blackwood Music (Canada) Ltd. (SOCAN) / Universal Music Publishing Group a division of Universal Music Canada Inc. All Rights Reserved. International Copyright Secured. Used by Permission. Courtesy of Polydor Limited under license from Universal Music Enterprises All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00938c",
+    "songColor2A": "#d2951f",
+    "songColor1B": "#001334",
+    "songColor2B": "#4e002b",
+    "lyricsColor": "#f5b422",
+    "LocaleID": 15490
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GimmeGimmeOSC/nx/GimmeGimmeOSC_banner_bkg.tga.ckd/7606864b09118c1ae8c09e09a9ae2922.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeGimmeOSC/nx/GimmeGimmeOSC_map_bkg.tga.ckd/daf00f36d8555fa0aee39e199010f07e.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeGimmeOSC/nx/GimmeGimmeOSC_Cover_AlbumCoach.tga.ckd/3b458499019fa86a9168b49e55624122.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeGimmeOSC/nx/GimmeGimmeOSC_Cover_Online.tga.ckd/d16e0537ead0e50079d278c2273cf46f.ckd",
+      "coverImageUrl": "/public/map/GimmeGimmeOSC/nx/GimmeGimmeOSC_Cover_Generic.tga.ckd/09d43a9d6dfdd206f9ad47149c507913.ckd",
+      "coach1ImageUrl": "/public/map/GimmeGimmeOSC/nx/GimmeGimmeOSC_Coach_1.tga.ckd/9c171f6dd0d80895628d62ac7ae8938f.ckd",
+      "coach2ImageUrl": "/public/map/GimmeGimmeOSC/nx/GimmeGimmeOSC_Coach_2.tga.ckd/559b8d3caf56519aef01185d7847ec51.ckd",
+      "coach3ImageUrl": "/public/map/GimmeGimmeOSC/nx/GimmeGimmeOSC_Coach_3.tga.ckd/06070228a4c75a15b6e29027aab4ae9d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GimmeGimmeOSC/pc/GimmeGimmeOSC_banner_bkg.tga.ckd/39058205750db7f7572faa46202b2ed7.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeGimmeOSC/pc/GimmeGimmeOSC_map_bkg.tga.ckd/4db114a47e05b2b2ec96af653bf1f9a3.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeGimmeOSC/pc/GimmeGimmeOSC_Cover_AlbumCoach.tga.ckd/b6c922eaad8562c66bdf7981c1131dd3.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeGimmeOSC/pc/GimmeGimmeOSC_Cover_Online.tga.ckd/50e93133343ede42ed6d753fd62b7ca2.ckd",
+      "coverImageUrl": "/public/map/GimmeGimmeOSC/pc/GimmeGimmeOSC_Cover_Generic.tga.ckd/801b36d063d53cbf3c0cadbfce9a9da5.ckd",
+      "coach1ImageUrl": "/public/map/GimmeGimmeOSC/pc/GimmeGimmeOSC_Coach_1.tga.ckd/98266f3ea7e8b0735cb074bca9c2403a.ckd",
+      "coach2ImageUrl": "/public/map/GimmeGimmeOSC/pc/GimmeGimmeOSC_Coach_2.tga.ckd/99970ba609c4e3251262145ff6d67eb7.ckd",
+      "coach3ImageUrl": "/public/map/GimmeGimmeOSC/pc/GimmeGimmeOSC_Coach_3.tga.ckd/429b98b7814bda42b9f93ab85ab204bb.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GimmeGimmeOSC/orbis/GimmeGimmeOSC_banner_bkg.tga.ckd/39058205750db7f7572faa46202b2ed7.ckd",
+      "map_bkgImageUrl": "/public/map/GimmeGimmeOSC/orbis/GimmeGimmeOSC_map_bkg.tga.ckd/4db114a47e05b2b2ec96af653bf1f9a3.ckd",
+      "expandCoachImageUrl": "/public/map/GimmeGimmeOSC/orbis/GimmeGimmeOSC_Cover_AlbumCoach.tga.ckd/b6c922eaad8562c66bdf7981c1131dd3.ckd",
+      "cover_smallImageUrl": "/public/map/GimmeGimmeOSC/orbis/GimmeGimmeOSC_Cover_Online.tga.ckd/50e93133343ede42ed6d753fd62b7ca2.ckd",
+      "coverImageUrl": "/public/map/GimmeGimmeOSC/orbis/GimmeGimmeOSC_Cover_Generic.tga.ckd/801b36d063d53cbf3c0cadbfce9a9da5.ckd",
+      "coach1ImageUrl": "/public/map/GimmeGimmeOSC/orbis/GimmeGimmeOSC_Coach_1.tga.ckd/98266f3ea7e8b0735cb074bca9c2403a.ckd",
+      "coach2ImageUrl": "/public/map/GimmeGimmeOSC/orbis/GimmeGimmeOSC_Coach_2.tga.ckd/99970ba609c4e3251262145ff6d67eb7.ckd",
+      "coach3ImageUrl": "/public/map/GimmeGimmeOSC/orbis/GimmeGimmeOSC_Coach_3.tga.ckd/429b98b7814bda42b9f93ab85ab204bb.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GimmeGimmeOSC/GimmeGimmeOSC_Coach_1_Phone.png/7137e9ece6f4c9c8229372b1f62abda8.png",
+    "phoneCoach2ImageUrl": "/public/map/GimmeGimmeOSC/GimmeGimmeOSC_Coach_2_Phone.png/c293293d0bd329f19ac7bf0f27fdeb4a.png",
+    "phoneCoach3ImageUrl": "/public/map/GimmeGimmeOSC/GimmeGimmeOSC_Coach_3_Phone.png/b0d41803e770415ad84b5b600499e499.png",
+    "phoneCoverImageUrl": "/public/map/GimmeGimmeOSC/GimmeGimmeOSC_Cover_Phone.jpg/b0258380bed65916223d202d357c18a3.jpg",
+    "cover640ImageUrl": "/public/map/GimmeGimmeOSC/GimmeGimmeOSC_Cover_640.png/3a0b4ecaaa5b603a1f3683163940b1bb.png"
+  },
+  "mapLength": 289.025292
+}

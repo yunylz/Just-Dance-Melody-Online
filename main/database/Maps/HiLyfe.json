@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/HiLyfe/HiLyfe.ogg": "/private/map/HiLyfe/HiLyfe.ogg/4ec43b2930280f811c02e513b0225ac4.ogg",
+    "jmcs://jd-contents/HiLyfe/HiLyfe_AudioPreview.ogg": "/public/map/HiLyfe/HiLyfe_AudioPreview.ogg/98393e011f5bca85b8d99bf808f5d91a.ogg",
+    "jmcs://jd-contents/HiLyfe/HiLyfe_HIGH.hd.webm": "/private/map/HiLyfe/HiLyfe_HIGH.hd.webm/5ec1f1e75fe3a3923def1db65ec881d7.webm",
+    "jmcs://jd-contents/HiLyfe/HiLyfe_LOW.hd.webm": "/private/map/HiLyfe/HiLyfe_LOW.hd.webm/e1ad24a64fdd5c7d33d4ac876e953aba.webm",
+    "jmcs://jd-contents/HiLyfe/HiLyfe_MID.hd.webm": "/private/map/HiLyfe/HiLyfe_MID.hd.webm/646aa7b8b5a22f5ece6d4a458d1f1d1c.webm",
+    "jmcs://jd-contents/HiLyfe/HiLyfe_ULTRA.hd.webm": "/private/map/HiLyfe/HiLyfe_ULTRA.hd.webm/00e059eb1a2ffa753c8b4083d628163a.webm",
+    "jmcs://jd-contents/HiLyfe/HiLyfe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/HiLyfe/HiLyfe_MapPreviewNoSoundCrop_LOW.vp8.webm/4f2b12838981478ca8cc5412232bb70e.webm",
+    "jmcs://jd-contents/HiLyfe/HiLyfe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/HiLyfe/HiLyfe_MapPreviewNoSoundCrop_MID.vp8.webm/d2326716a5d9841326e24a0fd7a1d4ef.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202500,
+        225000,
+        247500,
+        270000,
+        292500,
+        315000,
+        337500,
+        360000,
+        382500,
+        405000,
+        427500,
+        450000,
+        472500,
+        495000,
+        517500,
+        540000,
+        562500,
+        585000,
+        607500,
+        630000,
+        652500,
+        675000,
+        697500,
+        720000,
+        742500,
+        765000,
+        787500,
+        810000,
+        832500,
+        855000,
+        877500,
+        900000,
+        922500,
+        945000,
+        967500,
+        990000,
+        1012500,
+        1035000,
+        1057500,
+        1080000,
+        1102500,
+        1125000,
+        1147500,
+        1170000,
+        1192500,
+        1215000,
+        1237500,
+        1260000,
+        1282500,
+        1305000,
+        1327500,
+        1350000,
+        1372500,
+        1395000,
+        1417500,
+        1440000,
+        1462500,
+        1485000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 423,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/HiLyfe/HiLyfe_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"578154\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HiLyfe/HiLyfe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2009364\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/HiLyfe/HiLyfe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "d50bf4a73cd1a0e72a277343976f50fb",
+      "storageType": 0,
+      "url": "/public/map/HiLyfe/nx/HiLyfe_MAIN_SCENE_NX.zip/d50bf4a73cd1a0e72a277343976f50fb.zip"
+    },
+    "pc": {
+      "md5": "b47a85d53cf822de418d9a579b06d063",
+      "storageType": 0,
+      "url": "/public/map/HiLyfe/pc/HiLyfe_MAIN_SCENE_PC.zip/b47a85d53cf822de418d9a579b06d063.zip"
+    },
+    "ps4": {
+      "md5": "3ea6216393c9237cc7b919fcd9c6bef4",
+      "storageType": 0,
+      "url": "/public/map/HiLyfe/orbis/HiLyfe_MAIN_SCENE_ORBIS.zip/3ea6216393c9237cc7b919fcd9c6bef4.zip"
+    }
+  },
+  "data": {
+    "mapName": "HiLyfe",
+    "title": "Hi Lyfe",
+    "originalJDVersion": 2027,
+    "tags": [
+      "main"
+    ],
+    "artist": "Cult of Sound",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f8e893",
+    "songColor2A": "#93f8dd",
+    "songColor1B": "#ce7b40",
+    "songColor2B": "#3f7dfd",
+    "lyricsColor": "#c012fa",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/HiLyfe/nx/HiLyfe_banner_bkg.tga.ckd/ca41dad89692123e86137ac397d78ece.ckd",
+      "map_bkgImageUrl": "/public/map/HiLyfe/nx/HiLyfe_map_bkg.tga.ckd/65ecf1eca74c438da47a27b5ed748917.ckd",
+      "expandCoachImageUrl": "/public/map/HiLyfe/nx/HiLyfe_Cover_AlbumCoach.tga.ckd/b51044c26a9d41817705b7a84a55ebdc.ckd",
+      "cover_smallImageUrl": "/public/map/HiLyfe/nx/HiLyfe_Cover_Online.tga.ckd/a73dc553f5f45670954fa66949f3b9ba.ckd",
+      "coverImageUrl": "/public/map/HiLyfe/nx/HiLyfe_Cover_Generic.tga.ckd/0da15862b9fd25b982815018c43eb626.ckd",
+      "coach1ImageUrl": "/public/map/HiLyfe/nx/HiLyfe_Coach_1.tga.ckd/3b32e4b84dbf4a524cc4d10203dd1904.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/HiLyfe/pc/HiLyfe_banner_bkg.tga.ckd/085004608643d88eb136dba6c10c13d3.ckd",
+      "map_bkgImageUrl": "/public/map/HiLyfe/pc/HiLyfe_map_bkg.tga.ckd/fbb31399a103847db3c7303aa3f21d41.ckd",
+      "expandCoachImageUrl": "/public/map/HiLyfe/pc/HiLyfe_Cover_AlbumCoach.tga.ckd/cde9fcd8433a189e9ec6de4f157537e4.ckd",
+      "cover_smallImageUrl": "/public/map/HiLyfe/pc/HiLyfe_Cover_Online.tga.ckd/42f5ddcdfad89db10802db49ab2d8b27.ckd",
+      "coverImageUrl": "/public/map/HiLyfe/pc/HiLyfe_Cover_Generic.tga.ckd/3b1a8021c7153c0a0cc890d205f38fee.ckd",
+      "coach1ImageUrl": "/public/map/HiLyfe/pc/HiLyfe_Coach_1.tga.ckd/e0ba326c72b6ebc1b7250623080a3fd9.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/HiLyfe/orbis/HiLyfe_banner_bkg.tga.ckd/085004608643d88eb136dba6c10c13d3.ckd",
+      "map_bkgImageUrl": "/public/map/HiLyfe/orbis/HiLyfe_map_bkg.tga.ckd/fbb31399a103847db3c7303aa3f21d41.ckd",
+      "expandCoachImageUrl": "/public/map/HiLyfe/orbis/HiLyfe_Cover_AlbumCoach.tga.ckd/cde9fcd8433a189e9ec6de4f157537e4.ckd",
+      "cover_smallImageUrl": "/public/map/HiLyfe/orbis/HiLyfe_Cover_Online.tga.ckd/42f5ddcdfad89db10802db49ab2d8b27.ckd",
+      "coverImageUrl": "/public/map/HiLyfe/orbis/HiLyfe_Cover_Generic.tga.ckd/3b1a8021c7153c0a0cc890d205f38fee.ckd",
+      "coach1ImageUrl": "/public/map/HiLyfe/orbis/HiLyfe_Coach_1.tga.ckd/e0ba326c72b6ebc1b7250623080a3fd9.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/HiLyfe/HiLyfe_Coach_1_Phone.png/ded984382265780cf5994fde7f788313.png",
+    "phoneCoverImageUrl": "/public/map/HiLyfe/HiLyfe_Cover_Phone.jpg/ee99e8dad51caada523a8104035bbef7.jpg",
+    "cover640ImageUrl": "/public/map/HiLyfe/HiLyfe_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 200.631479
+}

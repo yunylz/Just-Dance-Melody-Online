@@ -1,0 +1,167 @@
+{
+  "urls": {
+    "jmcs://jd-contents/SpinYourLove/SpinYourLove.ogg": "/private/map/SpinYourLove/SpinYourLove.ogg/7e08c90071a9c810aa8cf164e54b0ba2.ogg",
+    "jmcs://jd-contents/SpinYourLove/SpinYourLove_AudioPreview.ogg": "/public/map/SpinYourLove/SpinYourLove_AudioPreview.ogg/1d734c33173a164021ec3dd238ea31bd.ogg",
+    "jmcs://jd-contents/SpinYourLove/SpinYourLove_HIGH.hd.webm": "/private/map/SpinYourLove/SpinYourLove_HIGH.hd.webm/af36e9f61a70abbba01a4a7f0d3d5a01.webm",
+    "jmcs://jd-contents/SpinYourLove/SpinYourLove_LOW.hd.webm": "/private/map/SpinYourLove/SpinYourLove_LOW.hd.webm/edaf768243080315ff20811e1ffce5c1.webm",
+    "jmcs://jd-contents/SpinYourLove/SpinYourLove_MID.hd.webm": "/private/map/SpinYourLove/SpinYourLove_MID.hd.webm/56bd0419c516e44a976b0c010a8a19ac.webm",
+    "jmcs://jd-contents/SpinYourLove/SpinYourLove_ULTRA.hd.webm": "/private/map/SpinYourLove/SpinYourLove_ULTRA.hd.webm/50015ff7998e88a0efb457067f44e849.webm",
+    "jmcs://jd-contents/SpinYourLove/SpinYourLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SpinYourLove/SpinYourLove_MapPreviewNoSoundCrop_LOW.vp8.webm/ed96a63e89909867ac83ceb888c8b4b4.webm",
+    "jmcs://jd-contents/SpinYourLove/SpinYourLove_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SpinYourLove/SpinYourLove_MapPreviewNoSoundCrop_MID.vp8.webm/0c972e86db7941d73a6953fc9acb6336.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26916,
+        53832,
+        80748,
+        107664,
+        134579,
+        161495,
+        188411,
+        215327,
+        242243,
+        269159,
+        296075,
+        322991,
+        349907,
+        376822,
+        403738,
+        430654,
+        457570,
+        484486,
+        511402,
+        538318,
+        565234,
+        592150,
+        619065,
+        645981,
+        672897,
+        699813,
+        726729,
+        753645,
+        780561,
+        807477,
+        834393,
+        861308,
+        888224,
+        915140,
+        942056,
+        968972,
+        995888,
+        1022804,
+        1049720,
+        1076636,
+        1103551,
+        1130467,
+        1157383,
+        1184299,
+        1211215,
+        1238131,
+        1265047,
+        1291963,
+        1318879,
+        1345794,
+        1372710,
+        1399626,
+        1426542,
+        1453458,
+        1480374
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -12,
+      "endBeat": 328,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 53,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/SpinYourLove/SpinYourLove_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"545462\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpinYourLove/SpinYourLove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2005544\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SpinYourLove/SpinYourLove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "3a5a59fd1cfe7d3b51899979e3f0a066",
+      "storageType": 0,
+      "url": "/public/map/SpinYourLove/nx/SpinYourLove_MAIN_SCENE_NX.zip/3a5a59fd1cfe7d3b51899979e3f0a066.zip"
+    },
+    "pc": {
+      "md5": "8f86775be5ae7e87e5e0038a034e6d16",
+      "storageType": 0,
+      "url": "/public/map/SpinYourLove/pc/SpinYourLove_MAIN_SCENE_PC.zip/8f86775be5ae7e87e5e0038a034e6d16.zip"
+    },
+    "ps4": {
+      "md5": "92619405dfc6c9dd462c4003253ee500",
+      "storageType": 0,
+      "url": "/public/map/SpinYourLove/orbis/SpinYourLove_MAIN_SCENE_ORBIS.zip/92619405dfc6c9dd462c4003253ee500.zip"
+    }
+  },
+  "data": {
+    "mapName": "SpinYourLove",
+    "title": "Spin Your Love",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Kevin J Simon",
+    "credits": "Spin Your Love Performed by Kevin J Simon Written by Kevin J Simon, Boom Clap Collective. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#540df4",
+    "songColor2A": "#fb7fe2",
+    "songColor1B": "#010011",
+    "songColor2B": "#0a0689",
+    "lyricsColor": "#ba1fc3",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SpinYourLove/nx/SpinYourLove_banner_bkg.tga.ckd/db9215579c80298ada355363b234aff2.ckd",
+      "map_bkgImageUrl": "/public/map/SpinYourLove/nx/SpinYourLove_map_bkg.tga.ckd/016d68939282cad47bb9310d325ee280.ckd",
+      "expandCoachImageUrl": "/public/map/SpinYourLove/nx/SpinYourLove_Cover_AlbumCoach.tga.ckd/bbc47cde9334ea57d7d84875acb80975.ckd",
+      "cover_smallImageUrl": "/public/map/SpinYourLove/nx/SpinYourLove_Cover_Online.tga.ckd/b3f499c1801b92f6692db0745b921bac.ckd",
+      "coverImageUrl": "/public/map/SpinYourLove/nx/SpinYourLove_Cover_Generic.tga.ckd/300d67ce31cd5c5607b430a54a75a04c.ckd",
+      "coach1ImageUrl": "/public/map/SpinYourLove/nx/SpinYourLove_Coach_1.tga.ckd/3c27d704fb00522b1579b746c4882823.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SpinYourLove/pc/SpinYourLove_banner_bkg.tga.ckd/87c8fb4026187dd7861279bebad333c3.ckd",
+      "map_bkgImageUrl": "/public/map/SpinYourLove/pc/SpinYourLove_map_bkg.tga.ckd/274d11b291fdc1f07b5eea9c86961329.ckd",
+      "expandCoachImageUrl": "/public/map/SpinYourLove/pc/SpinYourLove_Cover_AlbumCoach.tga.ckd/84a07881b5965d2ce6cb2a4cd778ae55.ckd",
+      "cover_smallImageUrl": "/public/map/SpinYourLove/pc/SpinYourLove_Cover_Online.tga.ckd/eeb1b98e2bd7ddc90d9f35bdcd20b4f3.ckd",
+      "coverImageUrl": "/public/map/SpinYourLove/pc/SpinYourLove_Cover_Generic.tga.ckd/54cd815c841df91635471265766ffc83.ckd",
+      "coach1ImageUrl": "/public/map/SpinYourLove/pc/SpinYourLove_Coach_1.tga.ckd/3d9b392a03f0300389a763d0653488d6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SpinYourLove/orbis/SpinYourLove_banner_bkg.tga.ckd/87c8fb4026187dd7861279bebad333c3.ckd",
+      "map_bkgImageUrl": "/public/map/SpinYourLove/orbis/SpinYourLove_map_bkg.tga.ckd/274d11b291fdc1f07b5eea9c86961329.ckd",
+      "expandCoachImageUrl": "/public/map/SpinYourLove/orbis/SpinYourLove_Cover_AlbumCoach.tga.ckd/84a07881b5965d2ce6cb2a4cd778ae55.ckd",
+      "cover_smallImageUrl": "/public/map/SpinYourLove/orbis/SpinYourLove_Cover_Online.tga.ckd/eeb1b98e2bd7ddc90d9f35bdcd20b4f3.ckd",
+      "coverImageUrl": "/public/map/SpinYourLove/orbis/SpinYourLove_Cover_Generic.tga.ckd/54cd815c841df91635471265766ffc83.ckd",
+      "coach1ImageUrl": "/public/map/SpinYourLove/orbis/SpinYourLove_Coach_1.tga.ckd/3d9b392a03f0300389a763d0653488d6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SpinYourLove/SpinYourLove_Coach_1_Phone.png/58f382e3acc1a629a224736dca93312d.png",
+    "phoneCoverImageUrl": "/public/map/SpinYourLove/SpinYourLove_Cover_Phone.jpg/da6539015f7b2154f7f3267608786036.jpg",
+    "cover640ImageUrl": "/public/map/SpinYourLove/SpinYourLove_Cover_640.png/eac349b4853ce3af37af44bf8c81f15a.png"
+  },
+  "mapLength": 190.093479
+}

@@ -1,0 +1,177 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Buscando/Buscando_HIGH.webm": "/private/map/Buscando/Buscando_HIGH.webm/d8b0d61c1fd7c536583d7e2f370eb76b.webm",
+    "jmcs://jd-contents/Buscando/Buscando_LOW.webm": "/private/map/Buscando/Buscando_LOW.webm/08196918f3fced9ec7742160680db6f4.webm",
+    "jmcs://jd-contents/Buscando/Buscando_MID.webm": "/private/map/Buscando/Buscando_MID.webm/c25c899c697676d64d13f4a8f8d63853.webm",
+    "jmcs://jd-contents/Buscando/Buscando_ULTRA.hd.webm": "/private/map/Buscando/Buscando_ULTRA.hd.webm/f43db48f3c34516f61ba9f72d9055f8f.webm",
+    "jmcs://jd-contents/Buscando/Buscando_ULTRA.webm": "/private/map/Buscando/Buscando_ULTRA.webm/a770585d823629fbaa67c9a0d30eae45.webm",
+    "jmcs://jd-contents/Buscando/Buscando.ogg": "/private/map/Buscando/Buscando.ogg/d0098f077688e4c09cba614f7cc2ed85.ogg",
+    "jmcs://jd-contents/Buscando/Buscando_AudioPreview.ogg": "/public/map/Buscando/Buscando_AudioPreview.ogg/67f618fdebbcaebd11eadfec75a9fb6c.ogg",
+    "jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Buscando/Buscando_MapPreviewNoSoundCrop_LOW.vp8.webm/bfaa753028e58d0d378596934f885129.webm",
+    "jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Buscando/Buscando_MapPreviewNoSoundCrop_MID.vp8.webm/b8c0ac881e73fae8451b90004283ddf7.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 448,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Buscando/Buscando_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "5204450ffdb3155c554c74c9a2179a06",
+      "storageType": 0,
+      "url": "/public/map/Buscando/nx/Buscando_MAIN_SCENE_NX.zip/5204450ffdb3155c554c74c9a2179a06.zip"
+    },
+    "pc": {
+      "md5": "1090a6a03440f255df2a0bc9ad64d921",
+      "storageType": 0,
+      "url": "/public/map/Buscando/pc/Buscando_MAIN_SCENE_PC.zip/1090a6a03440f255df2a0bc9ad64d921.zip"
+    },
+    "ps4": {
+      "md5": "83e2671dedb3a494562720168543d066",
+      "storageType": 0,
+      "url": "/public/map/Buscando/orbis/Buscando_MAIN_SCENE_ORBIS.zip/83e2671dedb3a494562720168543d066.zip"
+    }
+  },
+  "data": {
+    "mapName": "Buscando",
+    "title": "Buscando",
+    "originalJDVersion": 2021,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Hard"
+    ],
+    "artist": "GTA & Jenn Morel",
+    "credits": "Written by Julio Alejandro Mejia, Gedrin Joely Morel, Jeniffer Morel and Matthew Toth Published by Buena Vaina Publishing / Joelii Music Publishing / Seven20 Songs (ASCAP) / 720 Publishing Worldwide (BMI). Courtesy of Mad Decent.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 2,
+    "songColor1A": "#ef3dfb",
+    "songColor2A": "#feeb37",
+    "songColor1B": "#321490",
+    "songColor2B": "#ec9513",
+    "lyricsColor": "#ef25fb",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Buscando/nx/Buscando_banner_bkg.tga.ckd/9e97eeabf8807bc58ddd50cca320ca5f.ckd",
+      "map_bkgImageUrl": "/public/map/Buscando/nx/Buscando_map_bkg.tga.ckd/6345abe0b429125f3a0e5b01e4d22e9d.ckd",
+      "expandCoachImageUrl": "/public/map/Buscando/nx/Buscando_Cover_AlbumCoach.tga.ckd/3c17657c15948674017045ce8f718f86.ckd",
+      "cover_smallImageUrl": "/public/map/Buscando/nx/Buscando_Cover_Online.tga.ckd/3ba8fb70489b2b0860f95792a4ea6237.ckd",
+      "coverImageUrl": "/public/map/Buscando/nx/Buscando_Cover_Generic.tga.ckd/7d2d2d7357b650d55c5949e6ea528aa1.ckd",
+      "coach1ImageUrl": "/public/map/Buscando/nx/Buscando_Coach_1.tga.ckd/df3cb2ad32bccedbeee80517a160eb8a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Buscando/pc/Buscando_banner_bkg.tga.ckd/99688f42361123a47d5d1f43ac1b9147.ckd",
+      "map_bkgImageUrl": "/public/map/Buscando/pc/Buscando_map_bkg.tga.ckd/c2240f004d0526e7ef0f45b2e1c41c4a.ckd",
+      "expandCoachImageUrl": "/public/map/Buscando/pc/Buscando_Cover_AlbumCoach.tga.ckd/cae867f748685ddb2d0eb91284342d92.ckd",
+      "cover_smallImageUrl": "/public/map/Buscando/pc/Buscando_Cover_Online.tga.ckd/63124e2546cf1a0581eab946c724a8ae.ckd",
+      "coverImageUrl": "/public/map/Buscando/pc/Buscando_Cover_Generic.tga.ckd/f62e31aefacfd1bd24a24f0471bae752.ckd",
+      "coach1ImageUrl": "/public/map/Buscando/pc/Buscando_Coach_1.tga.ckd/ff58000283f302f134d07591e6176733.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Buscando/orbis/Buscando_banner_bkg.tga.ckd/99688f42361123a47d5d1f43ac1b9147.ckd",
+      "map_bkgImageUrl": "/public/map/Buscando/orbis/Buscando_map_bkg.tga.ckd/c2240f004d0526e7ef0f45b2e1c41c4a.ckd",
+      "expandCoachImageUrl": "/public/map/Buscando/orbis/Buscando_Cover_AlbumCoach.tga.ckd/cae867f748685ddb2d0eb91284342d92.ckd",
+      "cover_smallImageUrl": "/public/map/Buscando/orbis/Buscando_Cover_Online.tga.ckd/63124e2546cf1a0581eab946c724a8ae.ckd",
+      "coverImageUrl": "/public/map/Buscando/orbis/Buscando_Cover_Generic.tga.ckd/f62e31aefacfd1bd24a24f0471bae752.ckd",
+      "coach1ImageUrl": "/public/map/Buscando/orbis/Buscando_Coach_1.tga.ckd/ff58000283f302f134d07591e6176733.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Buscando/Buscando_Coach_1_Phone.png/eb843f552a8b97e1201645185411644d.png",
+    "phoneCoverImageUrl": "/public/map/Buscando/Buscando_Cover_Phone.jpg/1e65aa1e66240197ee68d8ae6cbbaf4b.jpg",
+    "cover640ImageUrl": "/public/map/Buscando/Buscando_Cover_640.png/8ba2e4efe8ba1ea95110ce05a0cb67b6.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"493488\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\n\t\t\t\t\t<Initialization range=\"0-604\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1470233\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\n\t\t\t\t\t<Initialization range=\"0-605\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 226.0
+}

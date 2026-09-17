@@ -1,0 +1,193 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "44c8045b25dafe428adedf3b21c4e9a6",
+      "storageType": 0,
+      "url": "/public/map/Futebol/nx/Futebol_MAIN_SCENE_NX.zip/44c8045b25dafe428adedf3b21c4e9a6.zip"
+    },
+    "pc": {
+      "md5": "c84a1cbcd9a0de6276bcf1baf6f17e0a",
+      "storageType": 0,
+      "url": "/public/map/Futebol/pc/Futebol_MAIN_SCENE_PC.zip/c84a1cbcd9a0de6276bcf1baf6f17e0a.zip"
+    },
+    "ps4": {
+      "md5": "a73a7c7cd627c0604b3d3b0f505c295a",
+      "storageType": 0,
+      "url": "/public/map/Futebol/orbis/Futebol_MAIN_SCENE_ORBIS.zip/a73a7c7cd627c0604b3d3b0f505c295a.zip"
+    },
+    "wiiu": {
+      "md5": "fa9520c6eca449c4ecec4297fbe960d7",
+      "storageType": 0,
+      "url": "/public/map/Futebol/wiiu/Futebol_MAIN_SCENE_WIIU.zip/fa9520c6eca449c4ecec4297fbe960d7.zip"
+    }
+  },
+  "data": {
+    "mapName": "Futebol",
+    "title": "Futebol Crazy",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "The World Cup Girls",
+    "credits": "The World Cup Girls \\u2013 ''Futebol Crazy'' Written by P. J. Borg. Published by West One APM. Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#049900",
+    "songColor2A": "#E89500",
+    "songColor1B": "#002208",
+    "songColor2B": "#6E0000",
+    "lyricsColor": "#EA5F0C",
+    "LocaleID": 4294967295,
+    "LocaleId": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21795,
+        43589,
+        65384,
+        87180,
+        108975,
+        130770,
+        152565,
+        174360,
+        196154,
+        217949,
+        239745,
+        261540,
+        283335,
+        305130,
+        326924,
+        348719,
+        370515,
+        392310,
+        414105,
+        435900,
+        457695,
+        479489,
+        501284,
+        523080,
+        544875,
+        566670,
+        588465,
+        610259,
+        632054,
+        653850,
+        675645,
+        697956,
+        719487,
+        741282,
+        763077,
+        784872,
+        806667,
+        828461,
+        850257,
+        872052,
+        893847,
+        915642,
+        937437,
+        959231,
+        981026,
+        1002822,
+        1024617,
+        1046412,
+        1068207,
+        1090001,
+        1111796,
+        1133592,
+        1155387,
+        1177182,
+        1198977,
+        1220772,
+        1242566,
+        1264361,
+        1286157,
+        1307952,
+        1329747,
+        1351542,
+        1373336,
+        1395131,
+        1417150,
+        1438722
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 2
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 313,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/futebol/futebol_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "cover_smallImageUrl": "/public/map/Futebol/nx/Futebol_Cover_Online.tga.ckd/464c79d05964fcb5f3e4c41716b88e43.ckd",
+      "coverImageUrl": "/public/map/Futebol/nx/Futebol_Cover_Generic.tga.ckd/ba62c3fdfea4afa847deaa41aee3a8d5.ckd",
+      "expandCoachImageUrl": "/public/map/Futebol/nx/Futebol_Cover_AlbumCoach.tga.ckd/8ad95d6e52eb7a3bc03798f17a71085c.ckd",
+      "map_bkgImageUrl": "/public/map/Futebol/nx/Futebol_map_bkg.tga.ckd/12743f3b8e8e0a78aa3b7a330c1ce8a1.ckd",
+      "banner_bkgImageUrl": "/public/map/Futebol/nx/Futebol_banner_bkg.tga.ckd/84683c5ed90717f6e57e917870af4867.ckd",
+      "coach1ImageUrl": "/public/map/Futebol/nx/Futebol_Coach_1.tga.ckd/4d1bd4814858eca40b79edd18640568c.ckd",
+      "phoneCoverImageUrl": "/public/map/Futebol/Futebol_Cover_Phone.jpg/86bbf5fa37aa638a216b9cd8307506e7.jpg",
+      "phoneCoach1ImageUrl": "/public/map/Futebol/Futebol_Coach_1_Phone.png/73184933473212cb7c6cb7cb214e544f.png",
+      "cover640ImageUrl": "/public/map/Futebol/Futebol_Cover_640.png/7bf5a7ed8964decc077563e10e924c64.png"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Futebol/pc/Futebol_banner_bkg.tga.ckd/6c0a862c8f5f754ce7438735043f2ccd.ckd",
+      "map_bkgImageUrl": "/public/map/Futebol/pc/Futebol_map_bkg.tga.ckd/8c9c05bb15c2db7bb7372e845b0f65ad.ckd",
+      "expandCoachImageUrl": "/public/map/Futebol/pc/Futebol_Cover_AlbumCoach.tga.ckd/1d14ffdee0df1fffa4112c13b3583bdb.ckd",
+      "cover_smallImageUrl": "/public/map/Futebol/pc/Futebol_Cover_Online.tga.ckd/0e72edf1d56158cb39ea7ee79fe1ea6d.ckd",
+      "coverImageUrl": "/public/map/Futebol/pc/Futebol_Cover_Generic.tga.ckd/0ba2c60005738dc6641160d08f47328b.ckd",
+      "coach1ImageUrl": "/public/map/Futebol/pc/Futebol_Coach_1.tga.ckd/06dab8f1f160ac1d13b4a395ef405fa2.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Futebol/orbis/Futebol_banner_bkg.tga.ckd/6c0a862c8f5f754ce7438735043f2ccd.ckd",
+      "map_bkgImageUrl": "/public/map/Futebol/orbis/Futebol_map_bkg.tga.ckd/8c9c05bb15c2db7bb7372e845b0f65ad.ckd",
+      "expandCoachImageUrl": "/public/map/Futebol/orbis/Futebol_Cover_AlbumCoach.tga.ckd/1d14ffdee0df1fffa4112c13b3583bdb.ckd",
+      "cover_smallImageUrl": "/public/map/Futebol/orbis/Futebol_Cover_Online.tga.ckd/0e72edf1d56158cb39ea7ee79fe1ea6d.ckd",
+      "coverImageUrl": "/public/map/Futebol/orbis/Futebol_Cover_Generic.tga.ckd/0ba2c60005738dc6641160d08f47328b.ckd",
+      "coach1ImageUrl": "/public/map/Futebol/orbis/Futebol_Coach_1.tga.ckd/06dab8f1f160ac1d13b4a395ef405fa2.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Futebol/Futebol_Coach_1_Phone.png/7091d32d1f04e405c88d98518d1b444b.png",
+    "phoneCoverImageUrl": "/public/map/Futebol/Futebol_Cover_Phone.jpg/eecb8151541a0de2bed8d472ce46e1d9.jpg",
+    "cover640ImageUrl": "/public/map/Futebol/Futebol_Cover_640.png/e534261354c4937eed21a474dbaf7a6d.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Futebol/Futebol.ogg": "/private/map/Futebol/Futebol.ogg/e9b985804f2423aafc8d7631a260559b.ogg",
+    "jmcs://jd-contents/Futebol/Futebol_AudioPreview.ogg": "/public/map/Futebol/Futebol_AudioPreview.ogg/4539ce0aa739fe4c84c296ea480b2d86.ogg",
+    "jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Futebol/Futebol_MapPreviewNoSoundCrop_LOW.vp8.webm/531cbd33767a58a7bec883202b448510.webm",
+    "jmcs://jd-contents/Futebol/Futebol_HIGH.webm": "/private/map/Futebol/Futebol_HIGH.webm/aebeda1bc58c4c97208745777bf76189.webm",
+    "jmcs://jd-contents/Futebol/Futebol_LOW.webm": "/private/map/Futebol/Futebol_LOW.webm/66469ee96dca47c066b62f4bfbe84fd3.webm",
+    "jmcs://jd-contents/Futebol/Futebol_MID.webm": "/private/map/Futebol/Futebol_MID.webm/fab2742bdc38c976c30b74f69468f4ce.webm",
+    "jmcs://jd-contents/Futebol/Futebol_ULTRA.hd.webm": "/private/map/Futebol/Futebol_ULTRA.hd.webm/598c4abc4ed8e0c0420916f3daf0589e.webm",
+    "jmcs://jd-contents/Futebol/Futebol_ULTRA.webm": "/private/map/Futebol/Futebol_ULTRA.webm/2cae935f36def24095b6bf5dbe0511e0.webm",
+    "jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Futebol/Futebol_MapPreviewNoSoundCrop_MID.vp8.webm/7ada8e76973938845faa423cde74dbea.webm",
+    "jmcs://jd-contents/Futebol/Futebol_HIGH.hd.webm": "/private/map/Futebol/Futebol_HIGH.hd.webm/ab9918c2c4eaea3caa1606e94fb48d05.webm",
+    "jmcs://jd-contents/Futebol/Futebol_MID.hd.webm": "/private/map/Futebol/Futebol_MID.hd.webm/39ba6298e33ecc7b15be52dc347ee47c.webm",
+    "jmcs://jd-contents/Futebol/Futebol_LOW.hd.webm": "/private/map/Futebol/Futebol_LOW.hd.webm/b6fe758c480e30370ea7854d506b423e.webm"
+  },
+  "mapLength": 142.897563,
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"506998\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"796-1286\">\n\t\t\t\t\t<Initialization range=\"0-796\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2004578\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Futebol/Futebol_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"797-1287\">\n\t\t\t\t\t<Initialization range=\"0-797\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n"
+}

@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "138ea77d6eb9d3c58713f3c45466c54f",
+      "storageType": 0,
+      "url": "/public/map/LightsMU/nx/LightsMU_MAIN_SCENE_NX.zip/138ea77d6eb9d3c58713f3c45466c54f.zip"
+    },
+    "pc": {
+      "md5": "25db248430ed2f633e720fc0709564fc",
+      "storageType": 0,
+      "url": "/public/map/LightsMU/pc/LightsMU_MAIN_SCENE_PC.zip/25db248430ed2f633e720fc0709564fc.zip"
+    },
+    "ps4": {
+      "md5": "ff22cc706e1365dded464210fcd1f8bf",
+      "storageType": 0,
+      "url": "/public/map/LightsMU/orbis/LightsMU_MAIN_SCENE_ORBIS.zip/ff22cc706e1365dded464210fcd1f8bf.zip"
+    }
+  },
+  "data": {
+    "mapName": "LightsMU",
+    "title": "Lights",
+    "originalJDVersion": 2016,
+    "tags": [
+      "MASHUP",
+      "subscribedSong",
+      "JustDance2016",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Ellie Goulding",
+    "credits": "Written by Richard Stannard, Ash Frances Howes and Ellie Goulding. Published by Sony/ATV Music Publishing UK Ltd (PRS) c/o Sony/ATV Music Publishing Canada (SOCAN) / BMG Platinum Songs (BMI) / Global Talent Publishing. All rights reserved.  Used with permission. Courtesy of Polydor Ltd., under license from Universal Music Canada Inc.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#0245ff",
+    "LocaleID": 13572
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1031999,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1271999,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 423,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LightsMU/LightsMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LightsMU/nx/LightsMU_banner_bkg.tga.ckd/b8f0714f274f7a6b49613fc1458c7081.ckd",
+      "map_bkgImageUrl": "/public/map/LightsMU/nx/LightsMU_map_bkg.tga.ckd/0486465d7844a2c1f0b04ebc3d46ba03.ckd",
+      "expandCoachImageUrl": "/public/map/LightsMU/nx/LightsMU_Cover_AlbumCoach.tga.ckd/6cb1af35557053aa9c51c484f4240dfd.ckd",
+      "cover_smallImageUrl": "/public/map/LightsMU/nx/LightsMU_Cover_Online.tga.ckd/27d4a5a2feab9a7afa9e18e4a6e1b841.ckd",
+      "coverImageUrl": "/public/map/LightsMU/nx/LightsMU_Cover_Generic.tga.ckd/daebef10e0c5a1c7bb98a7a4dbd86d09.ckd",
+      "coach1ImageUrl": "/public/map/LightsMU/nx/LightsMU_Coach_1.tga.ckd/95b4fbd232ca01f40bb4171b1876d571.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LightsMU/pc/LightsMU_banner_bkg.tga.ckd/7f616d058599a52c3a1ce49e399a6f1b.ckd",
+      "map_bkgImageUrl": "/public/map/LightsMU/pc/LightsMU_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/LightsMU/pc/LightsMU_Cover_AlbumCoach.tga.ckd/1ef34fd9ad3bc7f838b73c4768939700.ckd",
+      "cover_smallImageUrl": "/public/map/LightsMU/pc/LightsMU_Cover_Online.tga.ckd/3e82d807bc5528c919b10b0ae04e2c61.ckd",
+      "coverImageUrl": "/public/map/LightsMU/pc/LightsMU_Cover_Generic.tga.ckd/72bbbd5f6a1d26023f2bea5ada94432e.ckd",
+      "coach1ImageUrl": "/public/map/LightsMU/pc/LightsMU_Coach_1.tga.ckd/be77067168567e76309b927acc6e211b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LightsMU/orbis/LightsMU_banner_bkg.tga.ckd/7f616d058599a52c3a1ce49e399a6f1b.ckd",
+      "map_bkgImageUrl": "/public/map/LightsMU/orbis/LightsMU_map_bkg.tga.ckd/d7fbccc93312b10dab553ac8ce8c3b61.ckd",
+      "expandCoachImageUrl": "/public/map/LightsMU/orbis/LightsMU_Cover_AlbumCoach.tga.ckd/1ef34fd9ad3bc7f838b73c4768939700.ckd",
+      "cover_smallImageUrl": "/public/map/LightsMU/orbis/LightsMU_Cover_Online.tga.ckd/3e82d807bc5528c919b10b0ae04e2c61.ckd",
+      "coverImageUrl": "/public/map/LightsMU/orbis/LightsMU_Cover_Generic.tga.ckd/72bbbd5f6a1d26023f2bea5ada94432e.ckd",
+      "coach1ImageUrl": "/public/map/LightsMU/orbis/LightsMU_Coach_1.tga.ckd/be77067168567e76309b927acc6e211b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LightsMU/LightsMU_Coach_1_Phone.png/51b70c29bd37785b4b15f3d5e1743c5b.png",
+    "phoneCoverImageUrl": "/public/map/LightsMU/LightsMU_Cover_Phone.jpg/7e71ab6fe0f46acf114dcbe1a345b98d.jpg",
+    "cover640ImageUrl": "/public/map/LightsMU/LightsMU_Cover_640.png/b79f842b1dec92f4762aed5f2d126a3b.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/LightsMU/LightsMU.ogg": "/private/map/LightsMU/LightsMU.ogg/04c1cfed05da12dd6b7c8dba5dde3b35.ogg",
+    "jmcs://jd-contents/LightsMU/LightsMU_AudioPreview.ogg": "/public/map/LightsMU/LightsMU_AudioPreview.ogg/1b0178f68ade121e4ea869106c6a1f25.ogg",
+    "jmcs://jd-contents/LightsMU/LightsMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LightsMU/LightsMU_MapPreviewNoSoundCrop_LOW.vp8.webm/a00f2e9b0c11f16e00a01698774624c2.webm",
+    "jmcs://jd-contents/LightsMU/LightsMU_HIGH.webm": "/private/map/LightsMU/LightsMU_HIGH.webm/d1d6b7896849ae6aed44315d22fd2575.webm",
+    "jmcs://jd-contents/LightsMU/LightsMU_LOW.webm": "/private/map/LightsMU/LightsMU_LOW.webm/9edf3f69bab1338d72c3154c738c7a58.webm",
+    "jmcs://jd-contents/LightsMU/LightsMU_MID.webm": "/private/map/LightsMU/LightsMU_MID.webm/88c2e30eb91fc0b747056c1ef12fe7a9.webm",
+    "jmcs://jd-contents/LightsMU/LightsMU_ULTRA.hd.webm": "/private/map/LightsMU/LightsMU_ULTRA.hd.webm/5cfe6d1cdb1023218d468c9d7546bad2.webm",
+    "jmcs://jd-contents/LightsMU/LightsMU_ULTRA.webm": "/private/map/LightsMU/LightsMU_ULTRA.webm/b11cdbdcd39abf88d366d817f67ef20f.webm",
+    "jmcs://jd-contents/LightsMU/LightsMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LightsMU/LightsMU_MapPreviewNoSoundCrop_MID.vp8.webm/d213a48aa84f218363d6c31c6565d338.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"524540\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LightsMU/LightsMU_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1486566\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LightsMU/LightsMU_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 213.0
+}

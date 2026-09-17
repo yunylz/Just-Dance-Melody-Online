@@ -1,0 +1,168 @@
+{
+  "urls": {
+    "jmcs://jd-contents/MoneyPullUp/MoneyPullUp.ogg": "/private/map/MoneyPullUp/MoneyPullUp.ogg/7ca120c536a2774916049182b2d0d79a.ogg",
+    "jmcs://jd-contents/MoneyPullUp/MoneyPullUp_AudioPreview.ogg": "/public/map/MoneyPullUp/MoneyPullUp_AudioPreview.ogg/61a163ed34217e9b21d4abcba5b239d6.ogg",
+    "jmcs://jd-contents/MoneyPullUp/MoneyPullUp_HIGH.hd.webm": "/private/map/MoneyPullUp/MoneyPullUp_HIGH.hd.webm/71b1f36cc7e76007cf91b5a232249ca3.webm",
+    "jmcs://jd-contents/MoneyPullUp/MoneyPullUp_LOW.hd.webm": "/private/map/MoneyPullUp/MoneyPullUp_LOW.hd.webm/ac76e4abd0b9f05ba2f9b54872f493d0.webm",
+    "jmcs://jd-contents/MoneyPullUp/MoneyPullUp_MID.hd.webm": "/private/map/MoneyPullUp/MoneyPullUp_MID.hd.webm/42d6b215ce43877d9bd71daeb7416cf6.webm",
+    "jmcs://jd-contents/MoneyPullUp/MoneyPullUp_ULTRA.hd.webm": "/private/map/MoneyPullUp/MoneyPullUp_ULTRA.hd.webm/f4e7188376d6bf5fd7d39a26708089b7.webm",
+    "jmcs://jd-contents/MoneyPullUp/MoneyPullUp_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MoneyPullUp/MoneyPullUp_MapPreviewNoSoundCrop_LOW.vp8.webm/eebf0222a960a3ce64c88de1bcef991a.webm",
+    "jmcs://jd-contents/MoneyPullUp/MoneyPullUp_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MoneyPullUp/MoneyPullUp_MapPreviewNoSoundCrop_MID.vp8.webm/fc5127059a30d0eb6d2960305db923b7.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 215,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MoneyPullUp/MoneyPullUp_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"561002\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MoneyPullUp/MoneyPullUp_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2011709\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MoneyPullUp/MoneyPullUp_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "f1a2e13b6cd586a452413c5ac2ba1c2f",
+      "storageType": 0,
+      "url": "/public/map/MoneyPullUp/nx/MoneyPullUp_MAIN_SCENE_NX.zip/f1a2e13b6cd586a452413c5ac2ba1c2f.zip"
+    },
+    "pc": {
+      "md5": "089142b569950408d7316efa460fd9aa",
+      "storageType": 0,
+      "url": "/public/map/MoneyPullUp/pc/MoneyPullUp_MAIN_SCENE_PC.zip/089142b569950408d7316efa460fd9aa.zip"
+    },
+    "ps4": {
+      "md5": "9250bac281a29a9de220c9bb5749ae3b",
+      "storageType": 0,
+      "url": "/public/map/MoneyPullUp/orbis/MoneyPullUp_MAIN_SCENE_ORBIS.zip/9250bac281a29a9de220c9bb5749ae3b.zip"
+    }
+  },
+  "data": {
+    "mapName": "MoneyPullUp",
+    "title": "Money Pull Up",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Blaiz Fayah and Maureen",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#faa040",
+    "songColor2A": "#f45c20",
+    "songColor1B": "#762006",
+    "songColor2B": "#6e0606",
+    "lyricsColor": "#4cc5e8",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MoneyPullUp/nx/MoneyPullUp_banner_bkg.tga.ckd/9c6799cfe052606e28519e0deaba3af7.ckd",
+      "map_bkgImageUrl": "/public/map/MoneyPullUp/nx/MoneyPullUp_map_bkg.tga.ckd/ed525983b3690cf80632811fef195e5c.ckd",
+      "expandCoachImageUrl": "/public/map/MoneyPullUp/nx/MoneyPullUp_Cover_AlbumCoach.tga.ckd/d432710ad8cc496c19e0589fc460f213.ckd",
+      "cover_smallImageUrl": "/public/map/MoneyPullUp/nx/MoneyPullUp_Cover_Online.tga.ckd/bfe944877d4bf659cef2ff02ae880171.ckd",
+      "coverImageUrl": "/public/map/MoneyPullUp/nx/MoneyPullUp_Cover_Generic.tga.ckd/a623fc854c458365e88b794181087a02.ckd",
+      "coach1ImageUrl": "/public/map/MoneyPullUp/nx/MoneyPullUp_Coach_1.tga.ckd/971ef9fda8b950092995767c1d08de48.ckd",
+      "coach2ImageUrl": "/public/map/MoneyPullUp/nx/MoneyPullUp_Coach_2.tga.ckd/5fa757b5d10b450ffccadd5d7175e22c.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MoneyPullUp/pc/MoneyPullUp_banner_bkg.tga.ckd/c3c327dea9e751d212283b0ac39844f0.ckd",
+      "map_bkgImageUrl": "/public/map/MoneyPullUp/pc/MoneyPullUp_map_bkg.tga.ckd/e13703c2db32e649b6ba36acee9faf21.ckd",
+      "expandCoachImageUrl": "/public/map/MoneyPullUp/pc/MoneyPullUp_Cover_AlbumCoach.tga.ckd/44014e2424f4be247e9ff2b3552ef22c.ckd",
+      "cover_smallImageUrl": "/public/map/MoneyPullUp/pc/MoneyPullUp_Cover_Online.tga.ckd/31f15ab871fc2dc033cae571af0a1669.ckd",
+      "coverImageUrl": "/public/map/MoneyPullUp/pc/MoneyPullUp_Cover_Generic.tga.ckd/44bfd659f44a5bb76d90ab339f962b48.ckd",
+      "coach1ImageUrl": "/public/map/MoneyPullUp/pc/MoneyPullUp_Coach_1.tga.ckd/53b15698ca1ef49a8d2c02239fc3ea71.ckd",
+      "coach2ImageUrl": "/public/map/MoneyPullUp/pc/MoneyPullUp_Coach_2.tga.ckd/c2a5061c74d4737a4d7eac7e94159a1e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MoneyPullUp/orbis/MoneyPullUp_banner_bkg.tga.ckd/c3c327dea9e751d212283b0ac39844f0.ckd",
+      "map_bkgImageUrl": "/public/map/MoneyPullUp/orbis/MoneyPullUp_map_bkg.tga.ckd/e13703c2db32e649b6ba36acee9faf21.ckd",
+      "expandCoachImageUrl": "/public/map/MoneyPullUp/orbis/MoneyPullUp_Cover_AlbumCoach.tga.ckd/44014e2424f4be247e9ff2b3552ef22c.ckd",
+      "cover_smallImageUrl": "/public/map/MoneyPullUp/orbis/MoneyPullUp_Cover_Online.tga.ckd/31f15ab871fc2dc033cae571af0a1669.ckd",
+      "coverImageUrl": "/public/map/MoneyPullUp/orbis/MoneyPullUp_Cover_Generic.tga.ckd/44bfd659f44a5bb76d90ab339f962b48.ckd",
+      "coach1ImageUrl": "/public/map/MoneyPullUp/orbis/MoneyPullUp_Coach_1.tga.ckd/53b15698ca1ef49a8d2c02239fc3ea71.ckd",
+      "coach2ImageUrl": "/public/map/MoneyPullUp/orbis/MoneyPullUp_Coach_2.tga.ckd/c2a5061c74d4737a4d7eac7e94159a1e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MoneyPullUp/MoneyPullUp_Coach_1_Phone.png/caa0f20820fef08da4064f4294536bb6.png",
+    "phoneCoach2ImageUrl": "/public/map/MoneyPullUp/MoneyPullUp_Coach_2_Phone.png/6d6f207b5118ce0466392f9d4d80ea2d.png",
+    "phoneCoverImageUrl": "/public/map/MoneyPullUp/MoneyPullUp_Cover_Phone.jpg/afd8c851bc88a3daf8e6ad79d64e3ff5.jpg",
+    "cover640ImageUrl": "/public/map/MoneyPullUp/MoneyPullUp_Cover_640.png/5ff804bc19801243cda13037e739c20d.png"
+  },
+  "mapLength": 133.794479
+}

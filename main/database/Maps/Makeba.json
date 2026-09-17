@@ -1,0 +1,180 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Makeba/Makeba.ogg": "/private/map/Makeba/Makeba.ogg/dc4d3784808950e83ad42154c72f5fe8.ogg",
+    "jmcs://jd-contents/Makeba/Makeba_AudioPreview.ogg": "/public/map/Makeba/Makeba_AudioPreview.ogg/8939d243fd4b00ae4d2ede0d68aeae3c.ogg",
+    "jmcs://jd-contents/Makeba/Makeba_HIGH.hd.webm": "/private/map/Makeba/Makeba_HIGH.hd.webm/ab730cbcad8063576ef912512108d6de.webm",
+    "jmcs://jd-contents/Makeba/Makeba_LOW.hd.webm": "/private/map/Makeba/Makeba_LOW.hd.webm/c4a9660202bdd624f4d6d7b8c8f878cc.webm",
+    "jmcs://jd-contents/Makeba/Makeba_MID.hd.webm": "/private/map/Makeba/Makeba_MID.hd.webm/cbf7116115deb042fc5770c1c75e839e.webm",
+    "jmcs://jd-contents/Makeba/Makeba_ULTRA.hd.webm": "/private/map/Makeba/Makeba_ULTRA.hd.webm/49e02db99e93decafb49fdca45fed647.webm",
+    "jmcs://jd-contents/Makeba/Makeba_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Makeba/Makeba_MapPreviewNoSoundCrop_LOW.vp8.webm/b463c85c454b39d0e6d896ed31d538b3.webm",
+    "jmcs://jd-contents/Makeba/Makeba_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Makeba/Makeba_MapPreviewNoSoundCrop_MID.vp8.webm/8e40baace16cebf446f46b4fa98fa77f.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24828,
+        49655,
+        74483,
+        99310,
+        124138,
+        148966,
+        173793,
+        198621,
+        223448,
+        248276,
+        273103,
+        297931,
+        322759,
+        347586,
+        372414,
+        397241,
+        422069,
+        446897,
+        471724,
+        496552,
+        521379,
+        546207,
+        571034,
+        595862,
+        620690,
+        645517,
+        670345,
+        695172,
+        720000,
+        744828,
+        769655,
+        794483,
+        819310,
+        844138,
+        868966,
+        893793,
+        918621,
+        943448,
+        968276,
+        993103,
+        1017931,
+        1042759,
+        1067586,
+        1092414,
+        1117241,
+        1142069,
+        1166897,
+        1191724,
+        1216552,
+        1241379,
+        1266207,
+        1291034,
+        1315862,
+        1340690,
+        1365517,
+        1390345,
+        1415172,
+        1440000,
+        1464828,
+        1489655
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -13,
+      "endBeat": 425,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Makeba/Makeba_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"609586\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Makeba/Makeba_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2026244\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Makeba/Makeba_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "61dcc9934cddc93c2d604e01ef7b9bd0",
+      "storageType": 0,
+      "url": "/public/map/Makeba/nx/Makeba_MAIN_SCENE_NX.zip/61dcc9934cddc93c2d604e01ef7b9bd0.zip"
+    },
+    "pc": {
+      "md5": "835ee875f8799e615f1beebc0b1d29bf",
+      "storageType": 0,
+      "url": "/public/map/Makeba/pc/Makeba_MAIN_SCENE_PC.zip/835ee875f8799e615f1beebc0b1d29bf.zip"
+    },
+    "ps4": {
+      "md5": "23c40b41b54878b75cd5b72115bee260",
+      "storageType": 0,
+      "url": "/public/map/Makeba/orbis/Makeba_MAIN_SCENE_ORBIS.zip/23c40b41b54878b75cd5b72115bee260.zip"
+    }
+  },
+  "data": {
+    "mapName": "Makeba",
+    "title": "Makeba",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Jain",
+    "credits": "Written by Jeanne Galice, Rufus Khoza, Ronnie Majola, Nathan Mdledle, Joseph Mogotsi. Published by Spookland, Zanaka. Courtesy of Sony Music Publishing France. All rights reserved / Gallo Music Publishers. Courtesy of Sony Music Entertainment France SAS. By arrangement with Sony Music Entertainment.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#b53cf4",
+    "songColor2A": "#528bfd",
+    "songColor1B": "#28075f",
+    "songColor2B": "#060995",
+    "lyricsColor": "#ffbb00",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Makeba/nx/Makeba_banner_bkg.tga.ckd/f660f1d573df5240cc2cc4085ee22c7b.ckd",
+      "map_bkgImageUrl": "/public/map/Makeba/nx/Makeba_map_bkg.tga.ckd/b84a185f864ad80adc14aafed4512c20.ckd",
+      "expandCoachImageUrl": "/public/map/Makeba/nx/Makeba_Cover_AlbumCoach.tga.ckd/06604a0cdbae67d31b49059ed3a76bcd.ckd",
+      "cover_smallImageUrl": "/public/map/Makeba/nx/Makeba_Cover_Online.tga.ckd/1f6f3ae561e9afba58efbd32c5690dc6.ckd",
+      "coverImageUrl": "/public/map/Makeba/nx/Makeba_Cover_Generic.tga.ckd/dc21aaa5dc3fbd62ee3bbdcf1728b43a.ckd",
+      "coach1ImageUrl": "/public/map/Makeba/nx/Makeba_Coach_1.tga.ckd/5e82bced596a771fb84098cc35328f89.ckd",
+      "coach2ImageUrl": "/public/map/Makeba/nx/Makeba_Coach_2.tga.ckd/b80af4aa7223d5c65ff219023b1a4cad.ckd",
+      "coach3ImageUrl": "/public/map/Makeba/nx/Makeba_Coach_3.tga.ckd/f78da6b6d8b9e3dd50392a0181b77f8b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Makeba/pc/Makeba_banner_bkg.tga.ckd/701dabc0807485d8c21fc7295f522384.ckd",
+      "map_bkgImageUrl": "/public/map/Makeba/pc/Makeba_map_bkg.tga.ckd/fcbcc36cb847ad0dfebb8cd469e410dc.ckd",
+      "expandCoachImageUrl": "/public/map/Makeba/pc/Makeba_Cover_AlbumCoach.tga.ckd/9d04b2ec5e2a3cf1452d21f37ba1181f.ckd",
+      "cover_smallImageUrl": "/public/map/Makeba/pc/Makeba_Cover_Online.tga.ckd/63fbbf16c685f10cceef7dbbcdada58e.ckd",
+      "coverImageUrl": "/public/map/Makeba/pc/Makeba_Cover_Generic.tga.ckd/de7acdc0b31e0601d7bbf694aceb62ae.ckd",
+      "coach1ImageUrl": "/public/map/Makeba/pc/Makeba_Coach_1.tga.ckd/8ae47f09cbe0a770eeb7f4710151e308.ckd",
+      "coach2ImageUrl": "/public/map/Makeba/pc/Makeba_Coach_2.tga.ckd/e69b385abdb26cb08c36547f96ab0b84.ckd",
+      "coach3ImageUrl": "/public/map/Makeba/pc/Makeba_Coach_3.tga.ckd/8c6370c20a19daa2f9122615aa128c2e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Makeba/orbis/Makeba_banner_bkg.tga.ckd/701dabc0807485d8c21fc7295f522384.ckd",
+      "map_bkgImageUrl": "/public/map/Makeba/orbis/Makeba_map_bkg.tga.ckd/fcbcc36cb847ad0dfebb8cd469e410dc.ckd",
+      "expandCoachImageUrl": "/public/map/Makeba/orbis/Makeba_Cover_AlbumCoach.tga.ckd/9d04b2ec5e2a3cf1452d21f37ba1181f.ckd",
+      "cover_smallImageUrl": "/public/map/Makeba/orbis/Makeba_Cover_Online.tga.ckd/63fbbf16c685f10cceef7dbbcdada58e.ckd",
+      "coverImageUrl": "/public/map/Makeba/orbis/Makeba_Cover_Generic.tga.ckd/de7acdc0b31e0601d7bbf694aceb62ae.ckd",
+      "coach1ImageUrl": "/public/map/Makeba/orbis/Makeba_Coach_1.tga.ckd/8ae47f09cbe0a770eeb7f4710151e308.ckd",
+      "coach2ImageUrl": "/public/map/Makeba/orbis/Makeba_Coach_2.tga.ckd/e69b385abdb26cb08c36547f96ab0b84.ckd",
+      "coach3ImageUrl": "/public/map/Makeba/orbis/Makeba_Coach_3.tga.ckd/8c6370c20a19daa2f9122615aa128c2e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Makeba/Makeba_Coach_1_Phone.png/bd7b4ae87f796db3bf807284dd58b3a6.png",
+    "phoneCoach2ImageUrl": "/public/map/Makeba/Makeba_Coach_2_Phone.png/3bcbc8aa671999c677fe0b94c67edf5e.png",
+    "phoneCoach3ImageUrl": "/public/map/Makeba/Makeba_Coach_3_Phone.png/929bd03d5f8d2f8f94d2293fa9bdb261.png",
+    "phoneCoverImageUrl": "/public/map/Makeba/Makeba_Cover_Phone.jpg/614088d38b9ae45cb89d4422967de640.jpg",
+    "cover640ImageUrl": "/public/map/Makeba/Makeba_Cover_640.png/e215af6cf85657fbeeeee28c92393ac4.png"
+  },
+  "mapLength": 225.517208
+}

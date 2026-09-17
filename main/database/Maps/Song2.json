@@ -1,0 +1,181 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c36089bf1acc48478612f329b9c99ecc",
+      "storageType": 0,
+      "url": "/public/map/Song2/nx/Song2_MAIN_SCENE_NX.zip/c36089bf1acc48478612f329b9c99ecc.zip"
+    },
+    "pc": {
+      "md5": "b164ce319f4f1dbaf1547587ba1364f1",
+      "storageType": 0,
+      "url": "/public/map/Song2/pc/Song2_MAIN_SCENE_PC.zip/b164ce319f4f1dbaf1547587ba1364f1.zip"
+    },
+    "ps4": {
+      "md5": "b73df59623a76dedd8f7a70d81761ded",
+      "storageType": 0,
+      "url": "/public/map/Song2/orbis/Song2_MAIN_SCENE_ORBIS.zip/b73df59623a76dedd8f7a70d81761ded.zip"
+    }
+  },
+  "data": {
+    "mapName": "Song2",
+    "title": "Song 2",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Blur",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22727,
+        44382,
+        66573,
+        88303,
+        110955,
+        133146,
+        155337,
+        177529,
+        199720,
+        221911,
+        244102,
+        266293,
+        288484,
+        311258,
+        332866,
+        355057,
+        377248,
+        399439,
+        421630,
+        443803,
+        466012,
+        488203,
+        510394,
+        532894,
+        555150,
+        576967,
+        599158,
+        621754,
+        643540,
+        666249,
+        687922,
+        710461,
+        732609,
+        755044,
+        777130,
+        799548,
+        821068,
+        843986,
+        865555,
+        888643,
+        910191,
+        931644,
+        954471,
+        976738,
+        999136,
+        1021290,
+        1043727,
+        1065348,
+        1087360,
+        1109551,
+        1132108,
+        1153933,
+        1176852,
+        1199056,
+        1221408,
+        1242697,
+        1266027,
+        1287445,
+        1310720,
+        1332297,
+        1354554,
+        1376401,
+        1399467,
+        1421244
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 268,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/song2/song2_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Song2/nx/Song2_banner_bkg.tga.ckd/6cd820ab231a803bc256ea8db5b92a62.ckd",
+      "map_bkgImageUrl": "/public/map/Song2/nx/Song2_map_bkg.tga.ckd/4d2cea4fee6b9fc377cc84e961369b6e.ckd",
+      "expandCoachImageUrl": "/public/map/Song2/nx/Song2_Cover_AlbumCoach.tga.ckd/ef3185dfa0ebcd2cc50952af79e01844.ckd",
+      "cover_smallImageUrl": "/public/map/Song2/nx/Song2_Cover_Online.tga.ckd/d0d7698f4a551ad1c934cd7e62e6ba0f.ckd",
+      "coach1ImageUrl": "/public/map/Song2/nx/Song2_Coach_1.tga.ckd/052b87028a9c6824171812f004d0533a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Song2/pc/Song2_banner_bkg.tga.ckd/74efacb2cf06894da5765c3b6cda6e92.ckd",
+      "map_bkgImageUrl": "/public/map/Song2/pc/Song2_map_bkg.tga.ckd/10c02eb66e60e33766f4611673767346.ckd",
+      "expandCoachImageUrl": "/public/map/Song2/pc/Song2_Cover_AlbumCoach.tga.ckd/5181729ec9796b7ccf006bebe6a3c1ec.ckd",
+      "cover_smallImageUrl": "/public/map/Song2/pc/Song2_Cover_Online.tga.ckd/90d93d36f014c48a3ad8ee0496f32eb6.ckd",
+      "coach1ImageUrl": "/public/map/Song2/pc/Song2_Coach_1.tga.ckd/2752ba8aafc9dfc7be22f8c2e073eb95.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Song2/orbis/Song2_banner_bkg.tga.ckd/74efacb2cf06894da5765c3b6cda6e92.ckd",
+      "map_bkgImageUrl": "/public/map/Song2/orbis/Song2_map_bkg.tga.ckd/10c02eb66e60e33766f4611673767346.ckd",
+      "expandCoachImageUrl": "/public/map/Song2/orbis/Song2_Cover_AlbumCoach.tga.ckd/5181729ec9796b7ccf006bebe6a3c1ec.ckd",
+      "cover_smallImageUrl": "/public/map/Song2/orbis/Song2_Cover_Online.tga.ckd/90d93d36f014c48a3ad8ee0496f32eb6.ckd",
+      "coach1ImageUrl": "/public/map/Song2/orbis/Song2_Coach_1.tga.ckd/2752ba8aafc9dfc7be22f8c2e073eb95.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Song2/Song2_Coach_1_Phone.png/07b9cb6d444a6c99d5e139039e6ca55f.png",
+    "phoneCoverImageUrl": "/public/map/Song2/Song2_Cover_Phone.jpg/8d9d4efcd2bfcd3e3299d6a5b212eef7.jpg",
+    "cover640ImageUrl": "/public/map/Song2/Song2_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Song2/Song2.ogg": "/private/map/Song2/Song2.ogg/516b4ca9f374616e91de83dcfdfa8a62.ogg",
+    "jmcs://jd-contents/Song2/Song2_AudioPreview.ogg": "/public/map/Song2/Song2_AudioPreview.ogg/7576192e36a0b190ef960e91f1bdd200.ogg",
+    "jmcs://jd-contents/Song2/Song2_HIGH.webm": "/private/map/Song2/Song2_HIGH.webm/0963784c01abf907b53b58f4829ab3f5.webm",
+    "jmcs://jd-contents/Song2/Song2_LOW.webm": "/private/map/Song2/Song2_LOW.webm/27accb74ce9e1da456a2a30cff6f35c0.webm",
+    "jmcs://jd-contents/Song2/Song2_MID.webm": "/private/map/Song2/Song2_MID.webm/fe49834af3453dc7e0e14e48a94c0104.webm",
+    "jmcs://jd-contents/Song2/Song2_ULTRA.hd.webm": "/private/map/Song2/Song2_ULTRA.hd.webm/32b0e7585ca6fe63bd98e120fcec44a8.webm",
+    "jmcs://jd-contents/Song2/Song2_ULTRA.webm": "/private/map/Song2/Song2_ULTRA.webm/50b6f3789b8d9bde5d432e0e1749dae8.webm",
+    "jmcs://jd-contents/Song2/Song2_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Song2/Song2_MapPreviewNoSoundCrop_LOW.vp8.webm/b4c12bd44eef2e9ed766743f83fef60e.webm",
+    "jmcs://jd-contents/Song2/Song2_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Song2/Song2_MapPreviewNoSoundCrop_MID.vp8.webm/543bb3670178929d0ea9ae15e2a732ed.webm",
+    "jmcs://jd-contents/Song2/Song2_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/Song2/Song2_MapPreviewNoSoundCrop_HIGH.vp8.webm/b14e7ff9b82c945838dad38c57cb7989.webm",
+    "jmcs://jd-contents/Song2/Song2_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/Song2/Song2_MapPreviewNoSoundCrop_ULTRA.vp8.webm/90e951c9a8cb86bfb9035b11720ca90c.webm",
+    "jmcs://jd-contents/Song2/Song2_HIGH.hd.webm": "/private/map/Song2/Song2_HIGH.hd.webm/0963784c01abf907b53b58f4829ab3f5.webm",
+    "jmcs://jd-contents/Song2/Song2_MID.hd.webm": "/private/map/Song2/Song2_MID.hd.webm/fe49834af3453dc7e0e14e48a94c0104.webm",
+    "jmcs://jd-contents/Song2/Song2_LOW.hd.webm": "/private/map/Song2/Song2_LOW.hd.webm/27accb74ce9e1da456a2a30cff6f35c0.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"644482\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Song2/Song2_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\n\t\t\t\t\t<Initialization range=\"0-650\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1402836\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Song2/Song2_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\n\t\t\t\t\t<Initialization range=\"0-648\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2473249\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Song2/Song2_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\n\t\t\t\t\t<Initialization range=\"0-650\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"2475425\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Song2/Song2_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"650-1140\">\n\t\t\t\t\t<Initialization range=\"0-650\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 124.991042
+}

@@ -1,0 +1,155 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "1ebc3a686a2e41e639a862c5cf122e28",
+      "storageType": 0,
+      "url": "/public/map/ProudMary/nx/ProudMary_MAIN_SCENE_NX.zip/1ebc3a686a2e41e639a862c5cf122e28.zip"
+    },
+    "pc": {
+      "md5": "985dbe7dc0f7a8bae5ee600cf6d7f80d",
+      "storageType": 0,
+      "url": "/public/map/ProudMary/pc/ProudMary_MAIN_SCENE_PC.zip/985dbe7dc0f7a8bae5ee600cf6d7f80d.zip"
+    },
+    "ps4": {
+      "md5": "34d1164ab5f093d18c9a9b20405de4f3",
+      "storageType": 0,
+      "url": "/public/map/ProudMary/orbis/ProudMary_MAIN_SCENE_ORBIS.zip/34d1164ab5f093d18c9a9b20405de4f3.zip"
+    }
+  },
+  "data": {
+    "mapName": "ProudMary",
+    "title": "Proud Mary",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Ike & Tina Turner",
+    "credits": "Written by John. C. Fogerty. Published by Jondora Music (BMI). Used by permission of Concord Music Group, Inc. Courtesy of Capitol Records LLC. Under license from EMI Film & Television Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#122C43",
+    "songColor2A": "#E2901F",
+    "songColor1B": "#48B1E4",
+    "songColor2B": "#F4A557",
+    "lyricsColor": "#FF1400",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        33103,
+        65633,
+        99308,
+        132280,
+        165513,
+        197893,
+        230818,
+        263677,
+        296370,
+        328986,
+        362089,
+        395067,
+        427324,
+        459677,
+        492630,
+        524800,
+        557903,
+        590124,
+        624036,
+        655617,
+        687752,
+        721221,
+        754067,
+        786717,
+        818782,
+        851871,
+        884048,
+        916694,
+        948799,
+        982048,
+        1014614,
+        1046831,
+        1079615,
+        1112111,
+        1144512,
+        1176672,
+        1210491,
+        1243593,
+        1275538,
+        1308265,
+        1341179,
+        1374741,
+        1407539
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 2
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 373,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 43,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/proudmary/proudmary_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ProudMary/nx/ProudMary_banner_bkg.tga.ckd/e642ee9951a8088d7da158a57613aec8.ckd",
+      "map_bkgImageUrl": "/public/map/ProudMary/nx/ProudMary_map_bkg.tga.ckd/723786f3a2cac5e3a2d35f71cb591517.ckd",
+      "expandCoachImageUrl": "/public/map/ProudMary/nx/ProudMary_Cover_AlbumCoach.tga.ckd/51229d113205d469840fda6dbb933d89.ckd",
+      "cover_smallImageUrl": "/public/map/ProudMary/nx/ProudMary_Cover_Online.tga.ckd/3c99508545c1758f69822883ea0fde66.ckd",
+      "coach1ImageUrl": "/public/map/ProudMary/nx/ProudMary_Coach_1.tga.ckd/eaa8a03e8004f39b290f3a3f6ce3bfd3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ProudMary/pc/ProudMary_banner_bkg.tga.ckd/9fbaaeb1664632056fa3d80515d33188.ckd",
+      "map_bkgImageUrl": "/public/map/ProudMary/pc/ProudMary_map_bkg.tga.ckd/63706d4e60ebb3fb5467768ec12cf9f0.ckd",
+      "expandCoachImageUrl": "/public/map/ProudMary/pc/ProudMary_Cover_AlbumCoach.tga.ckd/e7d70e9bf0f147681662e2e2745e90b0.ckd",
+      "cover_smallImageUrl": "/public/map/ProudMary/pc/ProudMary_Cover_Online.tga.ckd/1b35a5c11670742412a5b4558a3db430.ckd",
+      "coach1ImageUrl": "/public/map/ProudMary/pc/ProudMary_Coach_1.tga.ckd/786d614aa837862985f3e83852e2561e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ProudMary/orbis/ProudMary_banner_bkg.tga.ckd/9fbaaeb1664632056fa3d80515d33188.ckd",
+      "map_bkgImageUrl": "/public/map/ProudMary/orbis/ProudMary_map_bkg.tga.ckd/63706d4e60ebb3fb5467768ec12cf9f0.ckd",
+      "expandCoachImageUrl": "/public/map/ProudMary/orbis/ProudMary_Cover_AlbumCoach.tga.ckd/e7d70e9bf0f147681662e2e2745e90b0.ckd",
+      "cover_smallImageUrl": "/public/map/ProudMary/orbis/ProudMary_Cover_Online.tga.ckd/1b35a5c11670742412a5b4558a3db430.ckd",
+      "coach1ImageUrl": "/public/map/ProudMary/orbis/ProudMary_Coach_1.tga.ckd/786d614aa837862985f3e83852e2561e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ProudMary/ProudMary_Coach_1_Phone.png/621ca3183def902a27d87d0d2b9f371d.png",
+    "phoneCoverImageUrl": "/public/map/ProudMary/ProudMary_Cover_Phone.jpg/2a8ea3d6c53e8b42ef3a03c48da64959.jpg",
+    "cover640ImageUrl": "/public/map/ProudMary/ProudMary_Cover_640.png/cf8ba4aa6143a81ca6a83db78f40e47e.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ProudMary/ProudMary.ogg": "/private/map/ProudMary/ProudMary.ogg/c276d44a4fab0852853b3bd5bef3204b.ogg",
+    "jmcs://jd-contents/ProudMary/ProudMary_AudioPreview.ogg": "/public/map/ProudMary/ProudMary_AudioPreview.ogg/2fcb5b2cc5f84919073cf3f4fc53d4e3.ogg",
+    "jmcs://jd-contents/ProudMary/ProudMary_HIGH.webm": "/private/map/ProudMary/ProudMary_HIGH.webm/724c2e6915b9733b0c130751a7d23dfc.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_LOW.webm": "/private/map/ProudMary/ProudMary_LOW.webm/70565e895ad4a5f492a15919b653796f.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_MID.webm": "/private/map/ProudMary/ProudMary_MID.webm/e44e075ac293478b611315601d4ff127.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_ULTRA.hd.webm": "/private/map/ProudMary/ProudMary_ULTRA.hd.webm/63c620fd6a74e4df91c5760ec9a578d2.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_ULTRA.webm": "/private/map/ProudMary/ProudMary_ULTRA.webm/2642a7a77c716c863cb0636c0c8e7d92.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ProudMary/ProudMary_MapPreviewNoSoundCrop_LOW.vp8.webm/171ed7c2104fd91bfd3a7163c1c17e99.webm",
+    "jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ProudMary/ProudMary_MapPreviewNoSoundCrop_MID.vp8.webm/2f5cb15c6db8ab6489f330b0c0f461c9.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497837\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484936\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ProudMary/ProudMary_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 242.764646
+}

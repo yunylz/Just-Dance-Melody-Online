@@ -1,0 +1,166 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c35df5896761f489e4535a18948169e0",
+      "storageType": 0,
+      "url": "/public/map/PumpUpTheJam/nx/PumpUpTheJam_MAIN_SCENE_NX.zip/c35df5896761f489e4535a18948169e0.zip"
+    },
+    "pc": {
+      "md5": "95f304461d31945a4d1f7304a0888814",
+      "storageType": 0,
+      "url": "/public/map/PumpUpTheJam/pc/PumpUpTheJam_MAIN_SCENE_PC.zip/95f304461d31945a4d1f7304a0888814.zip"
+    },
+    "ps4": {
+      "md5": "f37f88f173efd3fdc81029e5f94a99a0",
+      "storageType": 0,
+      "url": "/public/map/PumpUpTheJam/orbis/PumpUpTheJam_MAIN_SCENE_ORBIS.zip/f37f88f173efd3fdc81029e5f94a99a0.zip"
+    }
+  },
+  "data": {
+    "mapName": "PumpUpTheJam",
+    "title": "Pump Up The Jam",
+    "originalJDVersion": 1,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Technotronic",
+    "credits": "Written and composed by Thomas De Quincey / Manuela Kamosi (ASCAP). Published by Universal Music Publishing (SOCAN). Courtesy of Demon Records under exclusive license to Capitol Records. Under license from EMI & Television Music.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23088,
+        46176,
+        69312,
+        92400,
+        115488,
+        138576,
+        161663,
+        184799,
+        207887,
+        230975,
+        254063,
+        277151,
+        300287,
+        323375,
+        346463,
+        369551,
+        392639,
+        415775,
+        438863,
+        461951,
+        485039,
+        508127,
+        531263,
+        554351,
+        577439,
+        600527,
+        623615,
+        646751,
+        669838,
+        692926,
+        716014,
+        739102,
+        762238,
+        785326,
+        808414,
+        831502,
+        854590,
+        877726,
+        900814,
+        923902,
+        946990,
+        970078,
+        993214,
+        1016302,
+        1039390,
+        1062478,
+        1085566,
+        1108702,
+        1131790,
+        1154878,
+        1177965,
+        1201053,
+        1224189,
+        1247277,
+        1270365,
+        1293453,
+        1316541,
+        1339677,
+        1362765,
+        1385853,
+        1408941,
+        1432029
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 460,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PumpUpTheJam/nx/PumpUpTheJam_banner_bkg.tga.ckd/896f6d16a47f0a4fd03fb4b6b9facb53.ckd",
+      "map_bkgImageUrl": "/public/map/PumpUpTheJam/nx/PumpUpTheJam_map_bkg.tga.ckd/3bc05e5eb0c493e4259b1f1be575ae94.ckd",
+      "expandCoachImageUrl": "/public/map/PumpUpTheJam/nx/PumpUpTheJam_Cover_AlbumCoach.tga.ckd/d33a0c3ca9bb3e6dd5f6269600dee555.ckd",
+      "cover_smallImageUrl": "/public/map/PumpUpTheJam/nx/PumpUpTheJam_Cover_Online.tga.ckd/c340c60c4bc5dcefde70a0bfff93e870.ckd",
+      "coverImageUrl": "/public/map/PumpUpTheJam/nx/PumpUpTheJam_Cover_Generic.tga.ckd/49483932acf62033ceefad9f94e60ca9.ckd",
+      "coach1ImageUrl": "/public/map/PumpUpTheJam/nx/PumpUpTheJam_Coach_1.tga.ckd/d49bebee31c89a332033be6dcfc38462.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PumpUpTheJam/pc/PumpUpTheJam_banner_bkg.tga.ckd/7b5f6eb1efc173ccfdfd8f8cdfd6c1f6.ckd",
+      "map_bkgImageUrl": "/public/map/PumpUpTheJam/pc/PumpUpTheJam_map_bkg.tga.ckd/7e53b5d502c8a2ff8d5ed20ceb03f3e7.ckd",
+      "expandCoachImageUrl": "/public/map/PumpUpTheJam/pc/PumpUpTheJam_Cover_AlbumCoach.tga.ckd/289c83d8093210d0b0ffac06b9fc57d4.ckd",
+      "cover_smallImageUrl": "/public/map/PumpUpTheJam/pc/PumpUpTheJam_Cover_Online.tga.ckd/685ade5e8c271eb7e4fa3407ff4c53f8.ckd",
+      "coverImageUrl": "/public/map/PumpUpTheJam/pc/PumpUpTheJam_Cover_Generic.tga.ckd/ce613bed4eca6d4674350df38f02e272.ckd",
+      "coach1ImageUrl": "/public/map/PumpUpTheJam/pc/PumpUpTheJam_Coach_1.tga.ckd/b2dce717537532573a287884e13bb4bf.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PumpUpTheJam/orbis/PumpUpTheJam_banner_bkg.tga.ckd/7b5f6eb1efc173ccfdfd8f8cdfd6c1f6.ckd",
+      "map_bkgImageUrl": "/public/map/PumpUpTheJam/orbis/PumpUpTheJam_map_bkg.tga.ckd/7e53b5d502c8a2ff8d5ed20ceb03f3e7.ckd",
+      "expandCoachImageUrl": "/public/map/PumpUpTheJam/orbis/PumpUpTheJam_Cover_AlbumCoach.tga.ckd/289c83d8093210d0b0ffac06b9fc57d4.ckd",
+      "cover_smallImageUrl": "/public/map/PumpUpTheJam/orbis/PumpUpTheJam_Cover_Online.tga.ckd/685ade5e8c271eb7e4fa3407ff4c53f8.ckd",
+      "coverImageUrl": "/public/map/PumpUpTheJam/orbis/PumpUpTheJam_Cover_Generic.tga.ckd/ce613bed4eca6d4674350df38f02e272.ckd",
+      "coach1ImageUrl": "/public/map/PumpUpTheJam/orbis/PumpUpTheJam_Coach_1.tga.ckd/b2dce717537532573a287884e13bb4bf.ckd"
+    }
+  },
+  "urls": {
+    "jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam.ogg": "/private/map/PumpUpTheJam/PumpUpTheJam.ogg/4c6974ecd9ffa82ea4e2e827e5c21e97.ogg",
+    "jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam_AudioPreview.ogg": "/public/map/PumpUpTheJam/PumpUpTheJam_AudioPreview.ogg/e1d4ab5a9b6391ce4f3ea8326139d7f4.ogg",
+    "jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam_HIGH.webm": "/private/map/PumpUpTheJam/PumpUpTheJam_HIGH.webm/032c58b3959dd2b96b66e030291ca2ee.webm",
+    "jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam_LOW.webm": "/private/map/PumpUpTheJam/PumpUpTheJam_LOW.webm/c5435b4ecc7b26e0b995d998aedcfa07.webm",
+    "jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam_MID.webm": "/private/map/PumpUpTheJam/PumpUpTheJam_MID.webm/2654a419d84f640418fa47f901140ad8.webm",
+    "jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam_ULTRA.hd.webm": "/private/map/PumpUpTheJam/PumpUpTheJam_ULTRA.hd.webm/f967b9df15ff05fb78651fce70b51a3c.webm",
+    "jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam_ULTRA.webm": "/private/map/PumpUpTheJam/PumpUpTheJam_ULTRA.webm/51f293ef5e2bb996999029e07bb2350c.webm",
+    "jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PumpUpTheJam/PumpUpTheJam_MapPreviewNoSoundCrop_LOW.vp8.webm/327046385e77dc0663a3138088599a48.webm",
+    "jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PumpUpTheJam/PumpUpTheJam_MapPreviewNoSoundCrop_MID.vp8.webm/f1b851e881e9b0fcf1d299cfbe61e9a6.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"505206\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"609-1099\">\n\t\t\t\t\t<Initialization range=\"0-609\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1491781\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PumpUpTheJam/PumpUpTheJam_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"610-1100\">\n\t\t\t\t\t<Initialization range=\"0-610\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 220.873563
+}

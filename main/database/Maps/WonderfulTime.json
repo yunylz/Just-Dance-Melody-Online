@@ -1,0 +1,156 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WonderfulTime/WonderfulTime.ogg": "/private/map/WonderfulTime/WonderfulTime.ogg/61232f82031c60452e5a785cc7abcb40.ogg",
+    "jmcs://jd-contents/WonderfulTime/WonderfulTime_AudioPreview.ogg": "/public/map/WonderfulTime/WonderfulTime_AudioPreview.ogg/0d93fd4275dee04d6eddcaba72b97558.ogg",
+    "jmcs://jd-contents/WonderfulTime/WonderfulTime_HIGH.hd.webm": "/private/map/WonderfulTime/WonderfulTime_HIGH.hd.webm/132501b97e06bf879222e55c3d3c3a60.webm",
+    "jmcs://jd-contents/WonderfulTime/WonderfulTime_LOW.hd.webm": "/private/map/WonderfulTime/WonderfulTime_LOW.hd.webm/c7068d6a536e95279eae7c8021a93aa6.webm",
+    "jmcs://jd-contents/WonderfulTime/WonderfulTime_MID.hd.webm": "/private/map/WonderfulTime/WonderfulTime_MID.hd.webm/055381b50a95ac5c8262f9e0ed25a98b.webm",
+    "jmcs://jd-contents/WonderfulTime/WonderfulTime_ULTRA.hd.webm": "/private/map/WonderfulTime/WonderfulTime_ULTRA.hd.webm/923b8eb8d378e326dcdee555c78bc495.webm",
+    "jmcs://jd-contents/WonderfulTime/WonderfulTime_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WonderfulTime/WonderfulTime_MapPreviewNoSoundCrop_LOW.vp8.webm/4fce7cc38992b5ef4f301ddce66f2a25.webm",
+    "jmcs://jd-contents/WonderfulTime/WonderfulTime_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WonderfulTime/WonderfulTime_MapPreviewNoSoundCrop_MID.vp8.webm/9e1089badcd7c551c09247d6e6ec6ef0.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        41739,
+        85709,
+        129678,
+        173648,
+        217617,
+        261586,
+        305556,
+        342717,
+        387717,
+        430702,
+        473687,
+        516672,
+        556952,
+        599937,
+        641080,
+        682223,
+        723366,
+        764509,
+        805652,
+        846794,
+        889779,
+        932765,
+        975750,
+        1018735,
+        1059878,
+        1101020,
+        1144005,
+        1186991,
+        1229976,
+        1272019,
+        1315004,
+        1357990,
+        1400975,
+        1443960,
+        1486945,
+        1529930
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -5,
+      "endBeat": 174,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 34,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WonderfulTime/WonderfulTime_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"615960\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WonderfulTime/WonderfulTime_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2045751\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WonderfulTime/WonderfulTime_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "effb1b40fca1f443e821061263d28574",
+      "storageType": 0,
+      "url": "/public/map/WonderfulTime/nx/WonderfulTime_MAIN_SCENE_NX.zip/effb1b40fca1f443e821061263d28574.zip"
+    },
+    "pc": {
+      "md5": "b1c4e40611512f5dd5696c05ed2045df",
+      "storageType": 0,
+      "url": "/public/map/WonderfulTime/pc/WonderfulTime_MAIN_SCENE_PC.zip/b1c4e40611512f5dd5696c05ed2045df.zip"
+    },
+    "ps4": {
+      "md5": "676b6d669808a15b25048d3d2071265d",
+      "storageType": 0,
+      "url": "/public/map/WonderfulTime/orbis/WonderfulTime_MAIN_SCENE_ORBIS.zip/676b6d669808a15b25048d3d2071265d.zip"
+    }
+  },
+  "data": {
+    "mapName": "WonderfulTime",
+    "title": "It’s the Most Wonderful Time of the Year",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "Andy Williams",
+    "credits": "Written by Edward Pola, George Wyle. Published by Barnaby Music Corp. Courtesy of Columbia Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 3,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f21025",
+    "songColor2A": "#f6ab40",
+    "songColor1B": "#520e0e",
+    "songColor2B": "#702d0b",
+    "lyricsColor": "#007402",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WonderfulTime/nx/WonderfulTime_banner_bkg.tga.ckd/e4fd4f7538d03a9c801dc8cd6791c181.ckd",
+      "map_bkgImageUrl": "/public/map/WonderfulTime/nx/WonderfulTime_map_bkg.tga.ckd/85d24cd14b995c38d27d56dcd7e80efa.ckd",
+      "expandCoachImageUrl": "/public/map/WonderfulTime/nx/WonderfulTime_Cover_AlbumCoach.tga.ckd/709610ab0b92ece2325ae0a3ed03fa15.ckd",
+      "cover_smallImageUrl": "/public/map/WonderfulTime/nx/WonderfulTime_Cover_Online.tga.ckd/bb0b5cb9462bf831be54ca81e656fe54.ckd",
+      "coverImageUrl": "/public/map/WonderfulTime/nx/WonderfulTime_Cover_Generic.tga.ckd/d8ea13e319ff059554b5459fa6e82bdd.ckd",
+      "coach1ImageUrl": "/public/map/WonderfulTime/nx/WonderfulTime_Coach_1.tga.ckd/e6e0e91dd90b9f1f867d740c44a39147.ckd",
+      "coach2ImageUrl": "/public/map/WonderfulTime/nx/WonderfulTime_Coach_2.tga.ckd/1fccc6cbddd6f962814bd75dc5448fa4.ckd",
+      "coach3ImageUrl": "/public/map/WonderfulTime/nx/WonderfulTime_Coach_3.tga.ckd/157d553c2a8242b5afa90b9acaaad9dd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WonderfulTime/pc/WonderfulTime_banner_bkg.tga.ckd/d9043940dd0289a86f6896a5e429c51e.ckd",
+      "map_bkgImageUrl": "/public/map/WonderfulTime/pc/WonderfulTime_map_bkg.tga.ckd/07c6df560bc5d62918b85a7a9abbe2a6.ckd",
+      "expandCoachImageUrl": "/public/map/WonderfulTime/pc/WonderfulTime_Cover_AlbumCoach.tga.ckd/3a3b1a3e8dbdd7234c5c082102eff92d.ckd",
+      "cover_smallImageUrl": "/public/map/WonderfulTime/pc/WonderfulTime_Cover_Online.tga.ckd/87dc44f75924f4d6687b5e8552f27a6d.ckd",
+      "coverImageUrl": "/public/map/WonderfulTime/pc/WonderfulTime_Cover_Generic.tga.ckd/7ee7fc6c271e1fabdc2d7a8e91cbe960.ckd",
+      "coach1ImageUrl": "/public/map/WonderfulTime/pc/WonderfulTime_Coach_1.tga.ckd/504025da51fecc0374b5361914e3e625.ckd",
+      "coach2ImageUrl": "/public/map/WonderfulTime/pc/WonderfulTime_Coach_2.tga.ckd/3622ac803bab44ddfc3519bd61409574.ckd",
+      "coach3ImageUrl": "/public/map/WonderfulTime/pc/WonderfulTime_Coach_3.tga.ckd/d2974a37e66be2ef8298eadbae76f24f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WonderfulTime/orbis/WonderfulTime_banner_bkg.tga.ckd/d9043940dd0289a86f6896a5e429c51e.ckd",
+      "map_bkgImageUrl": "/public/map/WonderfulTime/orbis/WonderfulTime_map_bkg.tga.ckd/07c6df560bc5d62918b85a7a9abbe2a6.ckd",
+      "expandCoachImageUrl": "/public/map/WonderfulTime/orbis/WonderfulTime_Cover_AlbumCoach.tga.ckd/3a3b1a3e8dbdd7234c5c082102eff92d.ckd",
+      "cover_smallImageUrl": "/public/map/WonderfulTime/orbis/WonderfulTime_Cover_Online.tga.ckd/87dc44f75924f4d6687b5e8552f27a6d.ckd",
+      "coverImageUrl": "/public/map/WonderfulTime/orbis/WonderfulTime_Cover_Generic.tga.ckd/7ee7fc6c271e1fabdc2d7a8e91cbe960.ckd",
+      "coach1ImageUrl": "/public/map/WonderfulTime/orbis/WonderfulTime_Coach_1.tga.ckd/504025da51fecc0374b5361914e3e625.ckd",
+      "coach2ImageUrl": "/public/map/WonderfulTime/orbis/WonderfulTime_Coach_2.tga.ckd/3622ac803bab44ddfc3519bd61409574.ckd",
+      "coach3ImageUrl": "/public/map/WonderfulTime/orbis/WonderfulTime_Coach_3.tga.ckd/d2974a37e66be2ef8298eadbae76f24f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WonderfulTime/WonderfulTime_Coach_1_Phone.png/419fa6e56f6de707644a69e37680f3ad.png",
+    "phoneCoach2ImageUrl": "/public/map/WonderfulTime/WonderfulTime_Coach_2_Phone.png/682eb2680b05484a0f36a34dafe7f0a1.png",
+    "phoneCoach3ImageUrl": "/public/map/WonderfulTime/WonderfulTime_Coach_3_Phone.png/50f09c9b7601ccf2747431bc4ce4e671.png",
+    "phoneCoverImageUrl": "/public/map/WonderfulTime/WonderfulTime_Cover_Phone.jpg/76970a091db9a58b39b1366eed8e8714.jpg",
+    "cover640ImageUrl": "/public/map/WonderfulTime/WonderfulTime_Cover_640.png/11679d77678f7f62b823fd23368fce66.png"
+  },
+  "mapLength": 158.764063
+}

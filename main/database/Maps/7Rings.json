@@ -1,0 +1,161 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "a98b27b20fb04986bb89152ba3b8f3af",
+      "storageType": 0,
+      "url": "/public/map/7Rings/nx/7Rings_MAIN_SCENE_NX.zip/a98b27b20fb04986bb89152ba3b8f3af.zip"
+    },
+    "pc": {
+      "md5": "099a93aac4f4403894d1c9e568d54a59",
+      "storageType": 0,
+      "url": "/public/map/7Rings/pc/7Rings_MAIN_SCENE_PC.zip/099a93aac4f4403894d1c9e568d54a59.zip"
+    },
+    "ps4": {
+      "md5": "70086227afec517dbcd01f0c7f4c3f87",
+      "storageType": 0,
+      "url": "/public/map/7Rings/orbis/7Rings_MAIN_SCENE_ORBIS.zip/70086227afec517dbcd01f0c7f4c3f87.zip"
+    }
+  },
+  "data": {
+    "mapName": "7Rings",
+    "title": "7 rings",
+    "originalJDVersion": 2020,
+    "tags": [
+      "subscribedSong",
+      "JustDance2020",
+      "Trio",
+      "Medium"
+    ],
+    "artist": "Ariana Grande",
+    "credits": "Written by Ariana Grande, (Oscar Hammerstein II), (Richard Rodgers), Victoria Monet McCants, Charles Michael Anderson, Thomas Lee Brown, Michael David Foster, Tayla Parx, Kimberly Krysiuk, (Njomza Vitia). Published by Universal Music Publishing Canada on behalf of Universal Music Corp. / Taylor Monet Music (BMI) and Warner-Tamerlane Publising Corp. (BMI). All rights on behalf of itself and Taylor Monet Music administered by Warner-Tamerlane Publishing Corp. / BMG Gold Songs on behalf of itself and Victoria McCants Music; BMG Platinum Songs US. All rights administered by BMG Rights Management (US) LLC. / Songs of Avex (ASCAP) obo itself and The Hillstorian (ASCAP), TBHitsville (ASCAP) and The District 4 12 (BMI). / Williamson Music Company. Courtesy of Republic Records under license from Universal Music Enterprises.",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#ffb92e",
+    "songColor2A": "#ff3be8",
+    "songColor1B": "#25004a",
+    "songColor2B": "#1f0079",
+    "lyricsColor": "#07e7fe",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        41143,
+        82286,
+        123429,
+        164571,
+        205714,
+        246857,
+        288000,
+        329143,
+        370286,
+        411429,
+        452571,
+        493714,
+        534857,
+        576000,
+        617143,
+        658286,
+        699429,
+        740571,
+        781714,
+        822857,
+        864000,
+        905143,
+        946286,
+        987429,
+        1028571,
+        1069714,
+        1110857,
+        1152000,
+        1193143,
+        1234286,
+        1275429,
+        1316571,
+        1357714,
+        1398857,
+        1440000,
+        1481143,
+        1522286
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 205,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 35,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/7Rings/7Rings_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/7Rings/nx/7Rings_banner_bkg.tga.ckd/f3c1cf956412d24e32a476f1cb49a186.ckd",
+      "map_bkgImageUrl": "/public/map/7Rings/nx/7Rings_map_bkg.tga.ckd/acc61b503f08187e3387bb3e78f91db4.ckd",
+      "expandCoachImageUrl": "/public/map/7Rings/nx/7Rings_Cover_AlbumCoach.tga.ckd/818beac29716020738ae6c29069fef38.ckd",
+      "cover_smallImageUrl": "/public/map/7Rings/nx/7Rings_Cover_Online.tga.ckd/f8ae1f89888439d92302ed054f65c628.ckd",
+      "coverImageUrl": "/public/map/7Rings/nx/7Rings_Cover_Generic.tga.ckd/650ee041f19bb8e3b60576fd6bfc9a45.ckd",
+      "coach1ImageUrl": "/public/map/7Rings/nx/7Rings_Coach_1.tga.ckd/d99541a0e3516ec40dbbea95e8cc9061.ckd",
+      "coach2ImageUrl": "/public/map/7Rings/nx/7Rings_Coach_2.tga.ckd/e34619f9d9d7127d1f315438ccf2d82b.ckd",
+      "coach3ImageUrl": "/public/map/7Rings/nx/7Rings_Coach_3.tga.ckd/ad9b6f40c7d00ad554feb93863397163.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/7Rings/pc/7Rings_banner_bkg.tga.ckd/2db5ece39c02e24a29ffaba6fa70e91f.ckd",
+      "map_bkgImageUrl": "/public/map/7Rings/pc/7Rings_map_bkg.tga.ckd/457c71ceacdf99fb8e41ecc67257d97f.ckd",
+      "expandCoachImageUrl": "/public/map/7Rings/pc/7Rings_Cover_AlbumCoach.tga.ckd/8a735e60f77642d9d62df6ad3dcb9b74.ckd",
+      "cover_smallImageUrl": "/public/map/7Rings/pc/7Rings_Cover_Online.tga.ckd/ebbd2120ccc10ada819e9a5ba8ac9515.ckd",
+      "coverImageUrl": "/public/map/7Rings/pc/7Rings_Cover_Generic.tga.ckd/b41a40a0402b67e96f3f73306747c78e.ckd",
+      "coach1ImageUrl": "/public/map/7Rings/pc/7Rings_Coach_1.tga.ckd/a26d6a6668aebd5a613bb25bc96c0a7e.ckd",
+      "coach2ImageUrl": "/public/map/7Rings/pc/7Rings_Coach_2.tga.ckd/f66970c2847a4aa50ef1bc02df9ab962.ckd",
+      "coach3ImageUrl": "/public/map/7Rings/pc/7Rings_Coach_3.tga.ckd/60996230fcf37530de2a7d0d8a597c6f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/7Rings/orbis/7Rings_banner_bkg.tga.ckd/2db5ece39c02e24a29ffaba6fa70e91f.ckd",
+      "map_bkgImageUrl": "/public/map/7Rings/orbis/7Rings_map_bkg.tga.ckd/457c71ceacdf99fb8e41ecc67257d97f.ckd",
+      "expandCoachImageUrl": "/public/map/7Rings/orbis/7Rings_Cover_AlbumCoach.tga.ckd/8a735e60f77642d9d62df6ad3dcb9b74.ckd",
+      "cover_smallImageUrl": "/public/map/7Rings/orbis/7Rings_Cover_Online.tga.ckd/ebbd2120ccc10ada819e9a5ba8ac9515.ckd",
+      "coverImageUrl": "/public/map/7Rings/orbis/7Rings_Cover_Generic.tga.ckd/b41a40a0402b67e96f3f73306747c78e.ckd",
+      "coach1ImageUrl": "/public/map/7Rings/orbis/7Rings_Coach_1.tga.ckd/a26d6a6668aebd5a613bb25bc96c0a7e.ckd",
+      "coach2ImageUrl": "/public/map/7Rings/orbis/7Rings_Coach_2.tga.ckd/f66970c2847a4aa50ef1bc02df9ab962.ckd",
+      "coach3ImageUrl": "/public/map/7Rings/orbis/7Rings_Coach_3.tga.ckd/60996230fcf37530de2a7d0d8a597c6f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/7Rings/7Rings_Coach_1_Phone.png/2c080cceb78b95b47bb05fde7bf92cce.png",
+    "phoneCoach2ImageUrl": "/public/map/7Rings/7Rings_Coach_2_Phone.png/619effe0821e72328f8ef1d6ff7e160d.png",
+    "phoneCoach3ImageUrl": "/public/map/7Rings/7Rings_Coach_3_Phone.png/db33fedd2a7a1d384716e9ec69a349b8.png",
+    "phoneCoverImageUrl": "/public/map/7Rings/7Rings_Cover_Phone.jpg/aaaf63517386b9f9a2ec4a525f0a482b.jpg",
+    "cover640ImageUrl": "/public/map/7Rings/7Rings_Cover_640.png/49b9e20132c7da74ab9d0cbd7d5b22d8.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/7Rings/7Rings.ogg": "/private/map/7Rings/7Rings.ogg/e0900071718245a7030fccfaf5b0000e.ogg",
+    "jmcs://jd-contents/7Rings/7Rings_AudioPreview.ogg": "/public/map/7Rings/7Rings_AudioPreview.ogg/437b4d2af450d6e33c1068ebec7eacdf.ogg",
+    "jmcs://jd-contents/7Rings/7Rings_HIGH.webm": "/private/map/7Rings/7Rings_HIGH.webm/191757b7b4f70dea951b61fdfe946a42.webm",
+    "jmcs://jd-contents/7Rings/7Rings_LOW.webm": "/private/map/7Rings/7Rings_LOW.webm/ec53c12d50b8a2a9e1135d5ae598d57f.webm",
+    "jmcs://jd-contents/7Rings/7Rings_MID.webm": "/private/map/7Rings/7Rings_MID.webm/7a22b73fc098189c2bf587051711a916.webm",
+    "jmcs://jd-contents/7Rings/7Rings_ULTRA.hd.webm": "/private/map/7Rings/7Rings_ULTRA.hd.webm/ee59331e9a5f7bbd92971f63954f887b.webm",
+    "jmcs://jd-contents/7Rings/7Rings_ULTRA.webm": "/private/map/7Rings/7Rings_ULTRA.webm/caf1bfbe4d689cb6aa2b23eef49963e2.webm",
+    "jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/7Rings/7Rings_MapPreviewNoSoundCrop_LOW.vp8.webm/0319c0accb233f8dd7599a9b1a644a38.webm",
+    "jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/7Rings/7Rings_MapPreviewNoSoundCrop_MID.vp8.webm/d2cab0228d3e52777bc0dc192456f131.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496052\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"590-1079\">\n\t\t\t\t\t<Initialization range=\"0-590\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1476970\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/7Rings/7Rings_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"591-1081\">\n\t\t\t\t\t<Initialization range=\"0-591\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 181.005458
+}

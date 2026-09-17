@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Azizam/Azizam.ogg": "/private/map/Azizam/Azizam.ogg/c5e92ea13297b6f09987fd7259ed7f03.ogg",
+    "jmcs://jd-contents/Azizam/Azizam_AudioPreview.ogg": "/public/map/Azizam/Azizam_AudioPreview.ogg/8197119b30ef4a1886b20173c24852a3.ogg",
+    "jmcs://jd-contents/Azizam/Azizam_HIGH.hd.webm": "/private/map/Azizam/Azizam_HIGH.hd.webm/fd91d68f0ba1daa60dc71504fe10148c.webm",
+    "jmcs://jd-contents/Azizam/Azizam_LOW.hd.webm": "/private/map/Azizam/Azizam_LOW.hd.webm/a11d33f75bc5ec7b40f550bafa287afb.webm",
+    "jmcs://jd-contents/Azizam/Azizam_MID.hd.webm": "/private/map/Azizam/Azizam_MID.hd.webm/191ec7589fb3a20a4e1c206dde0c7542.webm",
+    "jmcs://jd-contents/Azizam/Azizam_ULTRA.hd.webm": "/private/map/Azizam/Azizam_ULTRA.hd.webm/84263b91e473a325742d6cd2b44d2a3d.webm",
+    "jmcs://jd-contents/Azizam/Azizam_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Azizam/Azizam_MapPreviewNoSoundCrop_LOW.vp8.webm/b94220e5ba8bcb0f416ea25f3bc67d51.webm",
+    "jmcs://jd-contents/Azizam/Azizam_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Azizam/Azizam_MapPreviewNoSoundCrop_MID.vp8.webm/614cbb7c9a4e9099df2ce1d54bbb8a17.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22500,
+        45000,
+        67500,
+        90000,
+        112500,
+        135000,
+        157500,
+        180000,
+        202500,
+        225000,
+        247500,
+        270000,
+        292500,
+        315000,
+        337500,
+        360000,
+        382500,
+        405000,
+        427500,
+        450000,
+        472500,
+        495000,
+        517500,
+        540000,
+        562500,
+        585000,
+        607500,
+        630000,
+        652500,
+        675000,
+        697500,
+        720000,
+        742500,
+        765000,
+        787500,
+        810000,
+        832500,
+        855000,
+        877500,
+        900000,
+        922500,
+        945000,
+        967500,
+        990000,
+        1012500,
+        1035000,
+        1057500,
+        1080000,
+        1102500,
+        1125000,
+        1147500,
+        1170000,
+        1192500,
+        1215000,
+        1237500,
+        1260000,
+        1282500,
+        1305000,
+        1327500,
+        1350000,
+        1372500,
+        1395000,
+        1417500,
+        1440000,
+        1462500,
+        1485000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -3,
+      "endBeat": 347,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Azizam/Azizam_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"561762\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Azizam/Azizam_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2041788\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Azizam/Azizam_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "c6bf7658e3db64646802365bedd9bf58",
+      "storageType": 0,
+      "url": "/public/map/Azizam/nx/Azizam_MAIN_SCENE_NX.zip/c6bf7658e3db64646802365bedd9bf58.zip"
+    },
+    "pc": {
+      "md5": "4a350fb7afcdd24964e8e30e730b75bd",
+      "storageType": 0,
+      "url": "/public/map/Azizam/pc/Azizam_MAIN_SCENE_PC.zip/4a350fb7afcdd24964e8e30e730b75bd.zip"
+    },
+    "ps4": {
+      "md5": "ef006e1e9ef2ca209b890bd6581b7201",
+      "storageType": 0,
+      "url": "/public/map/Azizam/orbis/Azizam_MAIN_SCENE_ORBIS.zip/ef006e1e9ef2ca209b890bd6581b7201.zip"
+    }
+  },
+  "data": {
+    "mapName": "Azizam",
+    "title": "Azizam",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Ed Sheeran",
+    "credits": "“Azizam” performed by Ed Sheeran. Written by Ed Sheeran, Savan Harish Kotecha, Johnny McDaid, and Ilya Salmanzadeh. Published by Concord Baritone CC1 (BMI) / Songs of Wolf Cousins administered by WC Music Corp. / Universal Music Publishing Canada on behalf of Mr Kanani Songs, Inc. / Ed Sheeran Limited (PRS) / Sony/ATV Music Publishing (UK) Ltd (PRS). Courtesy of East West Records UK Ltd. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ec50ff",
+    "songColor2A": "#a2d7ff",
+    "songColor1B": "#0d0042",
+    "songColor2B": "#152fa1",
+    "lyricsColor": "#fff646",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Azizam/nx/Azizam_banner_bkg.tga.ckd/8367eb713686d248688831874a96b243.ckd",
+      "map_bkgImageUrl": "/public/map/Azizam/nx/Azizam_map_bkg.tga.ckd/df3d3e7765ad36a9b6c25d7a2a7c73e0.ckd",
+      "expandCoachImageUrl": "/public/map/Azizam/nx/Azizam_Cover_AlbumCoach.tga.ckd/e07935c11361feb33494d056b0bc965f.ckd",
+      "cover_smallImageUrl": "/public/map/Azizam/nx/Azizam_Cover_Online.tga.ckd/59d0ba671ef3281d081ad1a760b8d91f.ckd",
+      "coverImageUrl": "/public/map/Azizam/nx/Azizam_Cover_Generic.tga.ckd/72074b19275bb74a1bc4d16b2c200d5c.ckd",
+      "coach1ImageUrl": "/public/map/Azizam/nx/Azizam_Coach_1.tga.ckd/6833af8282cb28baf336274d4284de03.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Azizam/pc/Azizam_banner_bkg.tga.ckd/eb9c6473a44f57c9afe1e6ef20d4394b.ckd",
+      "map_bkgImageUrl": "/public/map/Azizam/pc/Azizam_map_bkg.tga.ckd/8ce5c088716490659a910c7537c4cb10.ckd",
+      "expandCoachImageUrl": "/public/map/Azizam/pc/Azizam_Cover_AlbumCoach.tga.ckd/fa4f97dfb55541425a08125ed1a9f8f3.ckd",
+      "cover_smallImageUrl": "/public/map/Azizam/pc/Azizam_Cover_Online.tga.ckd/b9d25f4d687de642ad2bf44a2a3b4b15.ckd",
+      "coverImageUrl": "/public/map/Azizam/pc/Azizam_Cover_Generic.tga.ckd/f3300c3ca676029e7818eed657620eb9.ckd",
+      "coach1ImageUrl": "/public/map/Azizam/pc/Azizam_Coach_1.tga.ckd/f838400a6aacaa370f21a5be922ce7e4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Azizam/orbis/Azizam_banner_bkg.tga.ckd/eb9c6473a44f57c9afe1e6ef20d4394b.ckd",
+      "map_bkgImageUrl": "/public/map/Azizam/orbis/Azizam_map_bkg.tga.ckd/8ce5c088716490659a910c7537c4cb10.ckd",
+      "expandCoachImageUrl": "/public/map/Azizam/orbis/Azizam_Cover_AlbumCoach.tga.ckd/fa4f97dfb55541425a08125ed1a9f8f3.ckd",
+      "cover_smallImageUrl": "/public/map/Azizam/orbis/Azizam_Cover_Online.tga.ckd/b9d25f4d687de642ad2bf44a2a3b4b15.ckd",
+      "coverImageUrl": "/public/map/Azizam/orbis/Azizam_Cover_Generic.tga.ckd/f3300c3ca676029e7818eed657620eb9.ckd",
+      "coach1ImageUrl": "/public/map/Azizam/orbis/Azizam_Coach_1.tga.ckd/f838400a6aacaa370f21a5be922ce7e4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Azizam/Azizam_Coach_1_Phone.png/400c995e31d3f0392eafa220279c805f.png",
+    "phoneCoverImageUrl": "/public/map/Azizam/Azizam_Cover_Phone.jpg/f804daa11f498158297115789e7420bd.jpg",
+    "cover640ImageUrl": "/public/map/Azizam/Azizam_Cover_640.png/a940fdf0f35f4d1fae9929d6075cf502.png"
+  },
+  "mapLength": 163.593729
+}

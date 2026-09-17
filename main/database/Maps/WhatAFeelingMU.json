@@ -1,0 +1,160 @@
+{
+  "urls": {
+    "jmcs://jd-contents/WhatAFeelingMU/WhatAFeelingMU.ogg": "/private/map/WhatAFeelingMU/WhatAFeelingMU.ogg/6c478f00cc91377e4f34010966bd11e4.ogg",
+    "jmcs://jd-contents/WhatAFeelingMU/WhatAFeelingMU_AudioPreview.ogg": "/public/map/WhatAFeelingMU/WhatAFeelingMU_AudioPreview.ogg/7d301fb7fa2238cd6e1e63a5127ffb79.ogg",
+    "jmcs://jd-contents/WhatAFeelingMU/WhatAFeelingMU_HIGH.hd.webm": "/private/map/WhatAFeelingMU/WhatAFeelingMU_HIGH.hd.webm/c9df081d4df7181e5469df3cb7a211e7.webm",
+    "jmcs://jd-contents/WhatAFeelingMU/WhatAFeelingMU_LOW.hd.webm": "/private/map/WhatAFeelingMU/WhatAFeelingMU_LOW.hd.webm/e082500fa60ef0d45f5665c89c726d03.webm",
+    "jmcs://jd-contents/WhatAFeelingMU/WhatAFeelingMU_MID.hd.webm": "/private/map/WhatAFeelingMU/WhatAFeelingMU_MID.hd.webm/480694683ddc2cdfdaeeb2356baed620.webm",
+    "jmcs://jd-contents/WhatAFeelingMU/WhatAFeelingMU_ULTRA.hd.webm": "/private/map/WhatAFeelingMU/WhatAFeelingMU_ULTRA.hd.webm/aad9035a83aab286d885ba43497f04e3.webm",
+    "jmcs://jd-contents/WhatAFeelingMU/WhatAFeelingMU_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WhatAFeelingMU/WhatAFeelingMU_MapPreviewNoSoundCrop_LOW.vp8.webm/aaa01bd0410f65580194e44568603047.webm",
+    "jmcs://jd-contents/WhatAFeelingMU/WhatAFeelingMU_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WhatAFeelingMU/WhatAFeelingMU_MapPreviewNoSoundCrop_MID.vp8.webm/f6f92a3fe21c675363891623fc234a14.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30959,
+        61919,
+        92879,
+        123887,
+        154847,
+        185807,
+        216767,
+        247727,
+        278687,
+        309695,
+        340655,
+        371615,
+        402575,
+        433535,
+        464495,
+        495503,
+        526463,
+        557423,
+        588383,
+        619343,
+        650303,
+        681311,
+        712271,
+        743231,
+        774191,
+        805151,
+        836111,
+        867119,
+        898079,
+        929039,
+        959999,
+        990959,
+        1021919,
+        1052879,
+        1083886,
+        1114846,
+        1145806,
+        1176766,
+        1207726,
+        1238686,
+        1269694,
+        1300654,
+        1331614,
+        1362574,
+        1393534,
+        1424494,
+        1455502,
+        1486462,
+        1517422
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 393,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 47,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WhatAFeelingMU/WhatAFeelingMU_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WhatAFeelingMU/nx/WhatAFeelingMU_banner_bkg.tga.ckd/f37232aa3ac63dfdb765f984960383ba.ckd",
+      "map_bkgImageUrl": "/public/map/WhatAFeelingMU/nx/WhatAFeelingMU_map_bkg.tga.ckd/debfe02c05d517366c9112a128f05e63.ckd",
+      "expandCoachImageUrl": "/public/map/WhatAFeelingMU/nx/WhatAFeelingMU_Cover_AlbumCoach.tga.ckd/25867e8f4fb8d4f4338d5d50f1044f67.ckd",
+      "cover_smallImageUrl": "/public/map/WhatAFeelingMU/nx/WhatAFeelingMU_Cover_Online.tga.ckd/cf87ace63728985ad5a4ea4f1e752756.ckd",
+      "coverImageUrl": "/public/map/WhatAFeelingMU/nx/WhatAFeelingMU_Cover_Generic.tga.ckd/b56fbb2e18a73b7f297a92aefadd3daa.ckd",
+      "coach1ImageUrl": "/public/map/WhatAFeelingMU/nx/WhatAFeelingMU_Coach_1.tga.ckd/0b1c05503952145b42c858ea87862dfe.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WhatAFeelingMU/pc/WhatAFeelingMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/WhatAFeelingMU/pc/WhatAFeelingMU_map_bkg.tga.ckd/93eb864640c7d5966859c65966d2af9c.ckd",
+      "expandCoachImageUrl": "/public/map/WhatAFeelingMU/pc/WhatAFeelingMU_Cover_AlbumCoach.tga.ckd/dbafd56c36e781601961be8fa233dcf4.ckd",
+      "cover_smallImageUrl": "/public/map/WhatAFeelingMU/pc/WhatAFeelingMU_Cover_Online.tga.ckd/b8d2d563fb82c6cd45640af6c2fa3660.ckd",
+      "coverImageUrl": "/public/map/WhatAFeelingMU/pc/WhatAFeelingMU_Cover_Generic.tga.ckd/5148e59e4349e71327fd19b9f76577a9.ckd",
+      "coach1ImageUrl": "/public/map/WhatAFeelingMU/pc/WhatAFeelingMU_Coach_1.tga.ckd/9c3cd5c628c80a06beddb209da1fbff1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WhatAFeelingMU/orbis/WhatAFeelingMU_banner_bkg.tga.ckd/32e48f457827c8bfde1bc693c695360b.ckd",
+      "map_bkgImageUrl": "/public/map/WhatAFeelingMU/orbis/WhatAFeelingMU_map_bkg.tga.ckd/93eb864640c7d5966859c65966d2af9c.ckd",
+      "expandCoachImageUrl": "/public/map/WhatAFeelingMU/orbis/WhatAFeelingMU_Cover_AlbumCoach.tga.ckd/dbafd56c36e781601961be8fa233dcf4.ckd",
+      "cover_smallImageUrl": "/public/map/WhatAFeelingMU/orbis/WhatAFeelingMU_Cover_Online.tga.ckd/b8d2d563fb82c6cd45640af6c2fa3660.ckd",
+      "coverImageUrl": "/public/map/WhatAFeelingMU/orbis/WhatAFeelingMU_Cover_Generic.tga.ckd/5148e59e4349e71327fd19b9f76577a9.ckd",
+      "coach1ImageUrl": "/public/map/WhatAFeelingMU/orbis/WhatAFeelingMU_Coach_1.tga.ckd/9c3cd5c628c80a06beddb209da1fbff1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WhatAFeelingMU/WhatAFeelingMU_Coach_1_Phone.png/db796f29154602624516bbf92f93994a.png",
+    "phoneCoverImageUrl": "/public/map/WhatAFeelingMU/WhatAFeelingMU_Cover_Phone.jpg/fe1078765ad24cf612e0e1a841d429d4.jpg",
+    "cover640ImageUrl": "/public/map/WhatAFeelingMU/WhatAFeelingMU_Cover_640.png/9e1ebcba7aa2c71dee9fb157f57f2bc8.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "a53ebf34104d9963b24109fbabe4685e",
+      "storageType": 0,
+      "url": "/public/map/WhatAFeelingMU/nx/WhatAFeelingMU_MAIN_SCENE_NX.zip/a53ebf34104d9963b24109fbabe4685e.zip"
+    },
+    "pc": {
+      "md5": "dfcf0a495e62632e2f10f8649908f7db",
+      "storageType": 0,
+      "url": "/public/map/WhatAFeelingMU/pc/WhatAFeelingMU_MAIN_SCENE_PC.zip/dfcf0a495e62632e2f10f8649908f7db.zip"
+    },
+    "ps4": {
+      "md5": "d5e7fb4fd374a17dbc1d0c6aabf212c0",
+      "storageType": 0,
+      "url": "/public/map/WhatAFeelingMU/orbis/WhatAFeelingMU_MAIN_SCENE_ORBIS.zip/d5e7fb4fd374a17dbc1d0c6aabf212c0.zip"
+    }
+  },
+  "data": {
+    "mapName": "WhatAFeelingMU",
+    "title": "Flashdance... What A Feeling",
+    "originalJDVersion": 2014,
+    "tags": [
+      "mashup"
+    ],
+    "artist": "The Girly Team",
+    "credits": "Written by Giorgio Moroder, Keith Forsey and Irene Cara. Published by WB Music Corp. (ASCAP), Famous Music Corporation (ASCAP), Alcor Music (USA) (ASCAP) and Carub Music (ASCAP). All rights administered by WB Music Corp. © 1983 All rights reserved. Courtesy of Ubisoft Music, Inc.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#1ea1b9",
+    "songColor2A": "#37dbf3",
+    "songColor1B": "#001832",
+    "songColor2B": "#05003d",
+    "lyricsColor": "#00ffff",
+    "LocaleID": 8605
+  },
+  "mapLength": 202.257813
+}

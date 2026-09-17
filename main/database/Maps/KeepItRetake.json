@@ -1,0 +1,169 @@
+{
+  "urls": {
+    "jmcs://jd-contents/KeepItRetake/KeepItRetake.ogg": "/private/map/KeepItRetake/KeepItRetake.ogg/37946eca2f1be35e608bcf2c6d59de43.ogg",
+    "jmcs://jd-contents/KeepItRetake/KeepItRetake_AudioPreview.ogg": "/public/map/KeepItRetake/KeepItRetake_AudioPreview.ogg/f69ba4637a19a2f185d348a2c1e63114.ogg",
+    "jmcs://jd-contents/KeepItRetake/KeepItRetake_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/KeepItRetake/KeepItRetake_MapPreviewNoSoundCrop_LOW.vp8.webm/9c99bae3be9280a8772e17003fa84791.webm",
+    "jmcs://jd-contents/KeepItRetake/KeepItRetake_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/KeepItRetake/KeepItRetake_MapPreviewNoSoundCrop_MID.vp8.webm/1aa6e4f04ae9559d4acb830ce9ec0bbc.webm",
+    "jmcs://jd-contents/KeepItRetake/KeepItRetake_HIGH.hd.webm": "/private/map/KeepItRetake/KeepItRetake_HIGH.hd.webm/9b557992ee260d627a581aefe7c2b339.webm",
+    "jmcs://jd-contents/KeepItRetake/KeepItRetake_LOW.hd.webm": "/private/map/KeepItRetake/KeepItRetake_LOW.hd.webm/e5dbc3f72ee4f433408c92cb8fc9bf18.webm",
+    "jmcs://jd-contents/KeepItRetake/KeepItRetake_MID.hd.webm": "/private/map/KeepItRetake/KeepItRetake_MID.hd.webm/e2f5ec17200e22a18ae72b1d82668bfc.webm",
+    "jmcs://jd-contents/KeepItRetake/KeepItRetake_ULTRA.hd.webm": "/private/map/KeepItRetake/KeepItRetake_ULTRA.hd.webm/f93f4a1a431b4de65e35a77d7010e98b.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        12768,
+        40416,
+        68064,
+        95712,
+        123360,
+        151008,
+        178656,
+        206304,
+        233952,
+        261600,
+        287712,
+        318960,
+        339456,
+        367584,
+        392688,
+        423936,
+        444384,
+        471024,
+        497136,
+        528384,
+        548832,
+        571392,
+        595440,
+        620544,
+        650208,
+        678912,
+        706032,
+        735744,
+        758256,
+        785376,
+        810480,
+        837120,
+        863712,
+        894960,
+        921072,
+        946656,
+        967680,
+        999936,
+        1025520,
+        1052160,
+        1078272,
+        1104864,
+        1130976,
+        1156608,
+        1177584,
+        1203696,
+        1230336,
+        1261056,
+        1282560,
+        1313760,
+        1340400,
+        1365984,
+        1390080,
+        1418736,
+        1443840,
+        1470960,
+        1498080
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 295,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/KeepItRetake/KeepItRetake_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"632490\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepItRetake/KeepItRetake_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"561-1051\">\n\t\t\t\t\t<Initialization range=\"0-561\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2064298\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KeepItRetake/KeepItRetake_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"561-1051\">\n\t\t\t\t\t<Initialization range=\"0-561\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "4a5b2f779d1d33915e4a2a52071ea6ac",
+      "storageType": 0,
+      "url": "/public/map/KeepItRetake/nx/KeepItRetake_MAIN_SCENE_NX.zip/4a5b2f779d1d33915e4a2a52071ea6ac.zip"
+    },
+    "pc": {
+      "md5": "b4f821e5a81944ff9b458939bb1f9699",
+      "storageType": 0,
+      "url": "/public/map/KeepItRetake/pc/KeepItRetake_MAIN_SCENE_PC.zip/b4f821e5a81944ff9b458939bb1f9699.zip"
+    },
+    "ps4": {
+      "md5": "573fc98295299f133d783f743d254664",
+      "storageType": 0,
+      "url": "/public/map/KeepItRetake/orbis/KeepItRetake_MAIN_SCENE_ORBIS.zip/573fc98295299f133d783f743d254664.zip"
+    }
+  },
+  "data": {
+    "mapName": "KeepItRetake",
+    "title": "Keep It Undercover",
+    "originalJDVersion": 3000,
+    "tags": [
+      "subscribedSong"
+    ],
+    "artist": "Zendaya",
+    "credits": "TBA",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#00b6ff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/KeepItRetake/nx/KeepItRetake_banner_bkg.tga.ckd/94b8b96a7cfa3e1c63a4fb88b54b0887.ckd",
+      "map_bkgImageUrl": "/public/map/KeepItRetake/nx/KeepItRetake_map_bkg.tga.ckd/dcb45a3ff1a8fc7aba3a78261b69c877.ckd",
+      "expandCoachImageUrl": "/public/map/KeepItRetake/nx/KeepItRetake_Cover_AlbumCoach.tga.ckd/ddb884eeaa64115a7f71be49c2167279.ckd",
+      "cover_smallImageUrl": "/public/map/KeepItRetake/nx/KeepItRetake_Cover_Online.tga.ckd/a8dc07f78c928078df824a2a49696620.ckd",
+      "coverImageUrl": "/public/map/KeepItRetake/nx/KeepItRetake_Cover_Generic.tga.ckd/5ff2bc2fd3f67fe2d73bd7c62bf8054c.ckd",
+      "coach1ImageUrl": "/public/map/KeepItRetake/nx/KeepItRetake_Coach_1.tga.ckd/5f3b885808f02895f7658931a5a04a6f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/KeepItRetake/pc/KeepItRetake_banner_bkg.tga.ckd/baaa8b594e4025e941e3de1a0bbaafc5.ckd",
+      "map_bkgImageUrl": "/public/map/KeepItRetake/pc/KeepItRetake_map_bkg.tga.ckd/33bfec50ecaa082c8138eeae52c8596b.ckd",
+      "expandCoachImageUrl": "/public/map/KeepItRetake/pc/KeepItRetake_Cover_AlbumCoach.tga.ckd/3ec1c712dcb2e45d0520dbfe52b7cee3.ckd",
+      "cover_smallImageUrl": "/public/map/KeepItRetake/pc/KeepItRetake_Cover_Online.tga.ckd/15024f3435ed5c06bcf43b075ff9953e.ckd",
+      "coverImageUrl": "/public/map/KeepItRetake/pc/KeepItRetake_Cover_Generic.tga.ckd/45d8b81fae41d693c3f6f9db4dbfbcba.ckd",
+      "coach1ImageUrl": "/public/map/KeepItRetake/pc/KeepItRetake_Coach_1.tga.ckd/d2bc91e5523c7d1fd7a59c5c74bd0207.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/KeepItRetake/orbis/KeepItRetake_banner_bkg.tga.ckd/baaa8b594e4025e941e3de1a0bbaafc5.ckd",
+      "map_bkgImageUrl": "/public/map/KeepItRetake/orbis/KeepItRetake_map_bkg.tga.ckd/33bfec50ecaa082c8138eeae52c8596b.ckd",
+      "expandCoachImageUrl": "/public/map/KeepItRetake/orbis/KeepItRetake_Cover_AlbumCoach.tga.ckd/3ec1c712dcb2e45d0520dbfe52b7cee3.ckd",
+      "cover_smallImageUrl": "/public/map/KeepItRetake/orbis/KeepItRetake_Cover_Online.tga.ckd/15024f3435ed5c06bcf43b075ff9953e.ckd",
+      "coverImageUrl": "/public/map/KeepItRetake/orbis/KeepItRetake_Cover_Generic.tga.ckd/45d8b81fae41d693c3f6f9db4dbfbcba.ckd",
+      "coach1ImageUrl": "/public/map/KeepItRetake/orbis/KeepItRetake_Coach_1.tga.ckd/d2bc91e5523c7d1fd7a59c5c74bd0207.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/KeepItRetake/KeepItRetake_Coach_1_Phone.png/91b92e9ed9dabb93a9743691e8a141ce.png",
+    "phoneCoverImageUrl": "/public/map/KeepItRetake/KeepItRetake_Cover_Phone.jpg/9471a5c392a522687ed4aa827f720a89.jpg",
+    "cover640ImageUrl": "/public/map/KeepItRetake/KeepItRetake_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 161.05775
+}

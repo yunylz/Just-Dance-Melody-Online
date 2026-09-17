@@ -1,0 +1,168 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DISNEYBetterInStereo/DISNEYBetterInStereo.ogg": "/private/map/DISNEYBetterInStereo/DISNEYBetterInStereo.ogg/0474f452f361259298750065e54607b0.ogg",
+    "jmcs://jd-contents/DISNEYBetterInStereo/DISNEYBetterInStereo_AudioPreview.ogg": "/public/map/DISNEYBetterInStereo/DISNEYBetterInStereo_AudioPreview.ogg/7320f2ff376ecb2b792536992b751eec.ogg",
+    "jmcs://jd-contents/DISNEYBetterInStereo/DISNEYBetterInStereo_HIGH.hd.webm": "/private/map/DISNEYBetterInStereo/DISNEYBetterInStereo_HIGH.hd.webm/4ad0a52f8208587bf863b573badb8622.webm",
+    "jmcs://jd-contents/DISNEYBetterInStereo/DISNEYBetterInStereo_LOW.hd.webm": "/private/map/DISNEYBetterInStereo/DISNEYBetterInStereo_LOW.hd.webm/1965bf2d47f3960c88722e7a05eec8d5.webm",
+    "jmcs://jd-contents/DISNEYBetterInStereo/DISNEYBetterInStereo_MID.hd.webm": "/private/map/DISNEYBetterInStereo/DISNEYBetterInStereo_MID.hd.webm/10132a3583ec660f09b3274fa37ade69.webm",
+    "jmcs://jd-contents/DISNEYBetterInStereo/DISNEYBetterInStereo_ULTRA.hd.webm": "/private/map/DISNEYBetterInStereo/DISNEYBetterInStereo_ULTRA.hd.webm/effa49badef99d74ab5832575b3db319.webm",
+    "jmcs://jd-contents/DISNEYBetterInStereo/DISNEYBetterInStereo_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DISNEYBetterInStereo/DISNEYBetterInStereo_MapPreviewNoSoundCrop_LOW.vp8.webm/7020dc38c460bdf2d29dde5f84859d9f.webm",
+    "jmcs://jd-contents/DISNEYBetterInStereo/DISNEYBetterInStereo_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DISNEYBetterInStereo/DISNEYBetterInStereo_MapPreviewNoSoundCrop_MID.vp8.webm/2fe8cc61a2bb92091858211965d7f7ac.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        28800,
+        57600,
+        86400,
+        115200,
+        144000,
+        172800,
+        201600,
+        230400,
+        259200,
+        288000,
+        316800,
+        345600,
+        374400,
+        403200,
+        432000,
+        460800,
+        489600,
+        518400,
+        547200,
+        576000,
+        604800,
+        633600,
+        662400,
+        691200,
+        720000,
+        748800,
+        777600,
+        806400,
+        835200,
+        864000,
+        892800,
+        921600,
+        950400,
+        979200,
+        1008000,
+        1036800,
+        1065600,
+        1094400,
+        1123200,
+        1152000,
+        1180800,
+        1209600,
+        1238400,
+        1267200,
+        1296000,
+        1324800,
+        1353600,
+        1382400,
+        1411200,
+        1440000,
+        1468800,
+        1497600
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 300,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 50,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DISNEYBetterInStereo/DISNEYBetterInStereo_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"530217\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DISNEYBetterInStereo/DISNEYBetterInStereo_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"560-1050\">\n\t\t\t\t\t<Initialization range=\"0-560\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1990435\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DISNEYBetterInStereo/DISNEYBetterInStereo_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"561-1051\">\n\t\t\t\t\t<Initialization range=\"0-561\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "899814f7f7db57316d5490c3c4a16255",
+      "storageType": 0,
+      "url": "/public/map/DISNEYBetterInStereo/nx/DISNEYBetterInStereo_MAIN_SCENE_NX.zip/899814f7f7db57316d5490c3c4a16255.zip"
+    },
+    "pc": {
+      "md5": "e77e45bee972aeabe2aa2017aa9d3fbe",
+      "storageType": 0,
+      "url": "/public/map/DISNEYBetterInStereo/pc/DISNEYBetterInStereo_MAIN_SCENE_PC.zip/e77e45bee972aeabe2aa2017aa9d3fbe.zip"
+    },
+    "ps4": {
+      "md5": "e2acc16967db0a9fafbf53c47db40a01",
+      "storageType": 0,
+      "url": "/public/map/DISNEYBetterInStereo/orbis/DISNEYBetterInStereo_MAIN_SCENE_ORBIS.zip/e2acc16967db0a9fafbf53c47db40a01.zip"
+    }
+  },
+  "data": {
+    "mapName": "DISNEYBetterInStereo",
+    "title": "Better In Stereo",
+    "originalJDVersion": 3000,
+    "tags": [
+      "subscribedSong"
+    ],
+    "artist": "Dove Cameron",
+    "credits": "Ari",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#3fadba",
+    "songColor2A": "#ffc75b",
+    "songColor1B": "#3fadba",
+    "songColor2B": "#572310",
+    "lyricsColor": "#000000",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/DISNEYBetterInStereo/nx/DISNEYBetterInStereo_banner_bkg.tga.ckd/56bf10d7e387efe73d76c46f11d67bc6.ckd",
+      "map_bkgImageUrl": "/public/map/DISNEYBetterInStereo/nx/DISNEYBetterInStereo_map_bkg.tga.ckd/e2263c1e172e8e8ca5498a8e8a6f5481.ckd",
+      "expandCoachImageUrl": "/public/map/DISNEYBetterInStereo/nx/DISNEYBetterInStereo_Cover_AlbumCoach.tga.ckd/6abed1ba513c36d6fedd4f6bc3cc0d06.ckd",
+      "cover_smallImageUrl": "/public/map/DISNEYBetterInStereo/nx/DISNEYBetterInStereo_Cover_Online.tga.ckd/2224a0ac275034718996d327c2fcef18.ckd",
+      "coverImageUrl": "/public/map/DISNEYBetterInStereo/nx/DISNEYBetterInStereo_Cover_Generic.tga.ckd/2fe6a927722f89c0f3e5984be1cbabd3.ckd",
+      "coach1ImageUrl": "/public/map/DISNEYBetterInStereo/nx/DISNEYBetterInStereo_Coach_1.tga.ckd/54bac25119373efc1835f1a0484f5a1f.ckd",
+      "coach2ImageUrl": "/public/map/DISNEYBetterInStereo/nx/DISNEYBetterInStereo_Coach_2.tga.ckd/2feeec62acb3de5cf4dbdd04065ffcc3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/DISNEYBetterInStereo/pc/DISNEYBetterInStereo_banner_bkg.tga.ckd/1256fac4340a9c87a513f99e079dd278.ckd",
+      "map_bkgImageUrl": "/public/map/DISNEYBetterInStereo/pc/DISNEYBetterInStereo_map_bkg.tga.ckd/d78ab29b1d57a6bc67e4eb802cdf8b5d.ckd",
+      "expandCoachImageUrl": "/public/map/DISNEYBetterInStereo/pc/DISNEYBetterInStereo_Cover_AlbumCoach.tga.ckd/431f00e22597c931fa68ffb9286b865a.ckd",
+      "cover_smallImageUrl": "/public/map/DISNEYBetterInStereo/pc/DISNEYBetterInStereo_Cover_Online.tga.ckd/c3dbe7e99a6d9b9493e79e820a53533c.ckd",
+      "coverImageUrl": "/public/map/DISNEYBetterInStereo/pc/DISNEYBetterInStereo_Cover_Generic.tga.ckd/4f38782b149b430273bea44bfb25de85.ckd",
+      "coach1ImageUrl": "/public/map/DISNEYBetterInStereo/pc/DISNEYBetterInStereo_Coach_1.tga.ckd/0f49e341cd604869af334474482742e9.ckd",
+      "coach2ImageUrl": "/public/map/DISNEYBetterInStereo/pc/DISNEYBetterInStereo_Coach_2.tga.ckd/e584c25eae0375e9ab7bc297fee508de.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/DISNEYBetterInStereo/orbis/DISNEYBetterInStereo_banner_bkg.tga.ckd/1256fac4340a9c87a513f99e079dd278.ckd",
+      "map_bkgImageUrl": "/public/map/DISNEYBetterInStereo/orbis/DISNEYBetterInStereo_map_bkg.tga.ckd/d78ab29b1d57a6bc67e4eb802cdf8b5d.ckd",
+      "expandCoachImageUrl": "/public/map/DISNEYBetterInStereo/orbis/DISNEYBetterInStereo_Cover_AlbumCoach.tga.ckd/431f00e22597c931fa68ffb9286b865a.ckd",
+      "cover_smallImageUrl": "/public/map/DISNEYBetterInStereo/orbis/DISNEYBetterInStereo_Cover_Online.tga.ckd/c3dbe7e99a6d9b9493e79e820a53533c.ckd",
+      "coverImageUrl": "/public/map/DISNEYBetterInStereo/orbis/DISNEYBetterInStereo_Cover_Generic.tga.ckd/4f38782b149b430273bea44bfb25de85.ckd",
+      "coach1ImageUrl": "/public/map/DISNEYBetterInStereo/orbis/DISNEYBetterInStereo_Coach_1.tga.ckd/0f49e341cd604869af334474482742e9.ckd",
+      "coach2ImageUrl": "/public/map/DISNEYBetterInStereo/orbis/DISNEYBetterInStereo_Coach_2.tga.ckd/e584c25eae0375e9ab7bc297fee508de.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/DISNEYBetterInStereo/DISNEYBetterInStereo_Coach_1_Phone.png/0d1409ebb366e3cdc70a9b371af2ace3.png",
+    "phoneCoach2ImageUrl": "/public/map/DISNEYBetterInStereo/DISNEYBetterInStereo_Coach_2_Phone.png/01e0fdfe8b339201c014e7707b64740c.png",
+    "phoneCoverImageUrl": "/public/map/DISNEYBetterInStereo/DISNEYBetterInStereo_Cover_Phone.jpg/89c4ee14f0ec01b7af7b0b98b7cb95c9.jpg",
+    "cover640ImageUrl": "/public/map/DISNEYBetterInStereo/DISNEYBetterInStereo_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 180.0
+}

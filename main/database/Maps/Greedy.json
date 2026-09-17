@@ -1,0 +1,171 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "72ae0796f3303f866f97a6d3fa1a2a44",
+      "storageType": 0,
+      "url": "/public/map/Greedy/nx/Greedy_MAIN_SCENE_NX.zip/72ae0796f3303f866f97a6d3fa1a2a44.zip"
+    },
+    "pc": {
+      "md5": "938499ece5c75401aeb36d587c68e3ff",
+      "storageType": 0,
+      "url": "/public/map/Greedy/pc/Greedy_MAIN_SCENE_PC.zip/938499ece5c75401aeb36d587c68e3ff.zip"
+    },
+    "ps4": {
+      "md5": "3267cd428fde5656f0322138d44c850a",
+      "storageType": 0,
+      "url": "/public/map/Greedy/orbis/Greedy_MAIN_SCENE_ORBIS.zip/3267cd428fde5656f0322138d44c850a.zip"
+    }
+  },
+  "data": {
+    "mapName": "Greedy",
+    "title": "greedy",
+    "originalJDVersion": 2024,
+    "tags": [
+      "subscribedSong",
+      "Solo",
+      "Hard"
+    ],
+    "artist": "Tate McRae",
+    "credits": "Written by Amy Allen, Jasper Harris, Tate McRae, Ryan Tedder. Published by Concord Copyrights o/b/o itself and Jasper Jams, T8 Entertainment Inc. / Singles Only Please, Kenny + Betty Tunes, LLC ASCAP Pub Designee All rights on behalf of Kenny + Betty Tunes, LLC ASCAP Pub Designee administered by WC Music Corp. Courtesy of RCA Records. By arrangement with Sony Music Entertainment.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#b21cea",
+    "songColor2A": "#3be346",
+    "songColor1B": "#0a0534",
+    "songColor2B": "#1e0e64",
+    "lyricsColor": "#a6ee54"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25946,
+        51892,
+        77838,
+        103784,
+        129730,
+        155676,
+        181622,
+        207568,
+        233514,
+        259459,
+        285405,
+        311351,
+        337297,
+        363243,
+        389189,
+        415135,
+        441081,
+        467027,
+        492973,
+        518919,
+        544865,
+        570811,
+        596757,
+        622703,
+        648649,
+        674595,
+        700541,
+        726486,
+        752432,
+        778378,
+        804324,
+        830270,
+        856216,
+        882162,
+        908108,
+        934054,
+        960000,
+        985946,
+        1011892,
+        1037838,
+        1063784,
+        1089730,
+        1115676,
+        1141622,
+        1167568,
+        1193514,
+        1219459,
+        1245405,
+        1271351,
+        1297297,
+        1323243,
+        1349189,
+        1375135,
+        1401081,
+        1427027,
+        1452973,
+        1478919
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 245,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Greedy/Greedy_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Greedy/nx/Greedy_banner_bkg.tga.ckd/15d11fb1aeda68f5adf8239e2395d2ef.ckd",
+      "map_bkgImageUrl": "/public/map/Greedy/nx/Greedy_map_bkg.tga.ckd/821905b631242ffccb53db928308f6dc.ckd",
+      "expandCoachImageUrl": "/public/map/Greedy/nx/Greedy_Cover_AlbumCoach.tga.ckd/b4d0005c981df992f964d7a7b303315b.ckd",
+      "cover_smallImageUrl": "/public/map/Greedy/nx/Greedy_Cover_Online.tga.ckd/4c0a50604d426136fa89b0af6f75921d.ckd",
+      "coverImageUrl": "/public/map/Greedy/nx/Greedy_Cover_Generic.tga.ckd/db72f46dc1b47f4dd01cb01ce25ea33a.ckd",
+      "coach1ImageUrl": "/public/map/Greedy/nx/Greedy_Coach_1.tga.ckd/2282c335c3fac60e12684046315a35a4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Greedy/pc/Greedy_banner_bkg.tga.ckd/9a93261eeaa4fe55ae80283ba87b5161.ckd",
+      "map_bkgImageUrl": "/public/map/Greedy/pc/Greedy_map_bkg.tga.ckd/8e768ff84499cd52c3126741a664a5aa.ckd",
+      "expandCoachImageUrl": "/public/map/Greedy/pc/Greedy_Cover_AlbumCoach.tga.ckd/22ddb0a79bdc78bc5877b90723795312.ckd",
+      "cover_smallImageUrl": "/public/map/Greedy/pc/Greedy_Cover_Online.tga.ckd/12ff70edc56e149b53047c5cf9d2238b.ckd",
+      "coverImageUrl": "/public/map/Greedy/pc/Greedy_Cover_Generic.tga.ckd/7d21ae8cb4557bc00cdb64975a611984.ckd",
+      "coach1ImageUrl": "/public/map/Greedy/pc/Greedy_Coach_1.tga.ckd/089bf976cd7a1fd7c66a36b048d7cee7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Greedy/orbis/Greedy_banner_bkg.tga.ckd/9a93261eeaa4fe55ae80283ba87b5161.ckd",
+      "map_bkgImageUrl": "/public/map/Greedy/orbis/Greedy_map_bkg.tga.ckd/8e768ff84499cd52c3126741a664a5aa.ckd",
+      "expandCoachImageUrl": "/public/map/Greedy/orbis/Greedy_Cover_AlbumCoach.tga.ckd/22ddb0a79bdc78bc5877b90723795312.ckd",
+      "cover_smallImageUrl": "/public/map/Greedy/orbis/Greedy_Cover_Online.tga.ckd/12ff70edc56e149b53047c5cf9d2238b.ckd",
+      "coverImageUrl": "/public/map/Greedy/orbis/Greedy_Cover_Generic.tga.ckd/7d21ae8cb4557bc00cdb64975a611984.ckd",
+      "coach1ImageUrl": "/public/map/Greedy/orbis/Greedy_Coach_1.tga.ckd/089bf976cd7a1fd7c66a36b048d7cee7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Greedy/Greedy_Coach_1_Phone.png/d03b5540ece79dd0194585891715d767.png",
+    "phoneCoverImageUrl": "/public/map/Greedy/Greedy_Cover_Phone.jpg/66964de8dc0cc886eaf8c76d44136892.jpg",
+    "cover640ImageUrl": "/public/map/Greedy/Greedy_Cover_640.png/7db4850cb17820ccc1ded3e2e2e29bbc.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Greedy/Greedy.ogg": "/private/map/Greedy/Greedy.ogg/92fcfc83e2b844f5725622c198ba6504.ogg",
+    "jmcs://jd-contents/Greedy/Greedy_AudioPreview.ogg": "/public/map/Greedy/Greedy_AudioPreview.ogg/83336167823e6d5d5f062f98b08aba37.ogg",
+    "jmcs://jd-contents/Greedy/Greedy_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Greedy/Greedy_MapPreviewNoSoundCrop_LOW.vp8.webm/1ba58620afc785d4aad5dc4a57df5723.webm",
+    "jmcs://jd-contents/Greedy/Greedy_HIGH.webm": "/private/map/Greedy/Greedy_HIGH.webm/aced54e540a79ca6084c70e2878bbec6.webm",
+    "jmcs://jd-contents/Greedy/Greedy_LOW.webm": "/private/map/Greedy/Greedy_LOW.webm/f72b82467b6bd4c854e87da8d7037e40.webm",
+    "jmcs://jd-contents/Greedy/Greedy_MID.webm": "/private/map/Greedy/Greedy_MID.webm/e7f8acd94fa868625ad21bf51cb90a02.webm",
+    "jmcs://jd-contents/Greedy/Greedy_ULTRA.hd.webm": "/private/map/Greedy/Greedy_ULTRA.hd.webm/9e63a044bcab573fbf9c9fb99e1e71d0.webm",
+    "jmcs://jd-contents/Greedy/Greedy_ULTRA.webm": "/private/map/Greedy/Greedy_ULTRA.webm/1c74a92d46275ff60fd45f5c30ae03f9.webm",
+    "jmcs://jd-contents/Greedy/Greedy_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Greedy/Greedy_MapPreviewNoSoundCrop_MID.vp8.webm/8ea39e520eebf57e9c29ba2429c6140d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"509282\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Greedy/Greedy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\n\t\t\t\t\t<Initialization range=\"0-630\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1481819\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Greedy/Greedy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\n\t\t\t\t\t<Initialization range=\"0-631\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 137.303771
+}

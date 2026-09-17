@@ -1,0 +1,175 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Denial/Denial.ogg": "/private/map/Denial/Denial.ogg/54de148127a3f124acd223b002722a18.ogg",
+    "jmcs://jd-contents/Denial/Denial_AudioPreview.ogg": "/public/map/Denial/Denial_AudioPreview.ogg/a2b59afeb2a377baa747f19bd4fda964.ogg",
+    "jmcs://jd-contents/Denial/Denial_HIGH.hd.webm": "/private/map/Denial/Denial_HIGH.hd.webm/37ebb94540082702aa2b30919fa9c0e0.webm",
+    "jmcs://jd-contents/Denial/Denial_LOW.hd.webm": "/private/map/Denial/Denial_LOW.hd.webm/fc4d1db2ecb2cc30d3de8b270e3adc33.webm",
+    "jmcs://jd-contents/Denial/Denial_MID.hd.webm": "/private/map/Denial/Denial_MID.hd.webm/8cd768608a38f4eb778b5d857fdd05b5.webm",
+    "jmcs://jd-contents/Denial/Denial_ULTRA.hd.webm": "/private/map/Denial/Denial_ULTRA.hd.webm/392a9172033fc268e0f6cfd44a90faa0.webm",
+    "jmcs://jd-contents/Denial/Denial_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Denial/Denial_MapPreviewNoSoundCrop_LOW.vp8.webm/4e24ac2349db9ab62269831001b2c2ac.webm",
+    "jmcs://jd-contents/Denial/Denial_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Denial/Denial_MapPreviewNoSoundCrop_MID.vp8.webm/d9910d9a30f2c2ae5fbe34d8f37c6614.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21985,
+        43969,
+        65954,
+        87939,
+        111775,
+        135774,
+        159772,
+        183770,
+        207623,
+        231463,
+        255303,
+        279144,
+        303199,
+        327255,
+        351310,
+        375366,
+        398584,
+        421802,
+        445021,
+        468239,
+        493842,
+        519445,
+        544267,
+        567890,
+        591416,
+        614831,
+        638079,
+        661244,
+        684284,
+        707184,
+        729912,
+        752567,
+        775067,
+        797567,
+        820067,
+        842551,
+        864723,
+        887164,
+        917164,
+        946794,
+        968779,
+        990763,
+        1012748,
+        1034733,
+        1056718,
+        1078702,
+        1100687,
+        1122672,
+        1144657,
+        1166641,
+        1188626,
+        1210611,
+        1232596,
+        1254580,
+        1276565,
+        1298550,
+        1320534,
+        1342519,
+        1364504,
+        1386489,
+        1408473,
+        1430458,
+        1452443,
+        1474428
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -13,
+      "endBeat": 359,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 62,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Denial/Denial_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Denial/nx/Denial_banner_bkg.tga.ckd/1253cada15e0ccec1546332b2b7e8611.ckd",
+      "map_bkgImageUrl": "/public/map/Denial/nx/Denial_map_bkg.tga.ckd/4f55a36a78b983b73ea224a2621a293b.ckd",
+      "expandCoachImageUrl": "/public/map/Denial/nx/Denial_Cover_AlbumCoach.tga.ckd/42025bdb6120f7a03a7721b7ee0ce203.ckd",
+      "cover_smallImageUrl": "/public/map/Denial/nx/Denial_Cover_Online.tga.ckd/bd7135d00a2ba719a7a40363f6dbadf0.ckd",
+      "coverImageUrl": "/public/map/Denial/nx/Denial_Cover_Generic.tga.ckd/87fc92d78ba5757ced5183741812ffb2.ckd",
+      "coach1ImageUrl": "/public/map/Denial/nx/Denial_Coach_1.tga.ckd/2362acbb308025693a9037fb814c7b76.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Denial/pc/Denial_banner_bkg.tga.ckd/88479359b406ae58d11dd278c9e1abc5.ckd",
+      "map_bkgImageUrl": "/public/map/Denial/pc/Denial_map_bkg.tga.ckd/35f053ec475b08c752ebfe3002c8a3ab.ckd",
+      "expandCoachImageUrl": "/public/map/Denial/pc/Denial_Cover_AlbumCoach.tga.ckd/df9096fe6ce2be27191d1ce48dcbf75e.ckd",
+      "cover_smallImageUrl": "/public/map/Denial/pc/Denial_Cover_Online.tga.ckd/a172643fa46869c6d88df1e399e70c99.ckd",
+      "coverImageUrl": "/public/map/Denial/pc/Denial_Cover_Generic.tga.ckd/89401f55218bb4544b068c5932272c9a.ckd",
+      "coach1ImageUrl": "/public/map/Denial/pc/Denial_Coach_1.tga.ckd/b9d66dcbab7ae6c42cc20405737ce008.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Denial/orbis/Denial_banner_bkg.tga.ckd/88479359b406ae58d11dd278c9e1abc5.ckd",
+      "map_bkgImageUrl": "/public/map/Denial/orbis/Denial_map_bkg.tga.ckd/35f053ec475b08c752ebfe3002c8a3ab.ckd",
+      "expandCoachImageUrl": "/public/map/Denial/orbis/Denial_Cover_AlbumCoach.tga.ckd/df9096fe6ce2be27191d1ce48dcbf75e.ckd",
+      "cover_smallImageUrl": "/public/map/Denial/orbis/Denial_Cover_Online.tga.ckd/a172643fa46869c6d88df1e399e70c99.ckd",
+      "coverImageUrl": "/public/map/Denial/orbis/Denial_Cover_Generic.tga.ckd/89401f55218bb4544b068c5932272c9a.ckd",
+      "coach1ImageUrl": "/public/map/Denial/orbis/Denial_Coach_1.tga.ckd/b9d66dcbab7ae6c42cc20405737ce008.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Denial/Denial_Coach_1_Phone.png/fa8ff7b995ce52fb0f022fa629d959e5.png",
+    "phoneCoverImageUrl": "/public/map/Denial/Denial_Cover_Phone.jpg/087b5017306e238aa08096bfce23c226.jpg",
+    "cover640ImageUrl": "/public/map/Denial/Denial_Cover_640.png/e6497c682632432bb6872181e12749b9.png"
+  },
+  "packages": {
+    "nx": {
+      "md5": "301b0d77d7f1b096921c6fafce45a20a",
+      "storageType": 0,
+      "url": "/public/map/Denial/nx/Denial_MAIN_SCENE_NX.zip/301b0d77d7f1b096921c6fafce45a20a.zip"
+    },
+    "pc": {
+      "md5": "73d14e3d70acc4f6eb643907dea9746f",
+      "storageType": 0,
+      "url": "/public/map/Denial/pc/Denial_MAIN_SCENE_PC.zip/73d14e3d70acc4f6eb643907dea9746f.zip"
+    },
+    "ps4": {
+      "md5": "06e7cc071bbe6ca81a7921179ef7229b",
+      "storageType": 0,
+      "url": "/public/map/Denial/orbis/Denial_MAIN_SCENE_ORBIS.zip/06e7cc071bbe6ca81a7921179ef7229b.zip"
+    }
+  },
+  "data": {
+    "mapName": "Denial",
+    "title": "Top Of The World",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Shawn Mendes",
+    "credits": "Written by Benj Pasek, Justin Paul, Joriah Kwamé Fleming. Published by Pick in a Pinch Music, Breathelike Music. Admin by Kobalt Songs Music Publishing / Twenty Fifteen Avenue Music, Inc.  Courtesy of Island Records under license from Universal Music Enterprises.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#6e3737",
+    "LocaleID": 4294967295
+  },
+  "mapLength": 169.662
+}

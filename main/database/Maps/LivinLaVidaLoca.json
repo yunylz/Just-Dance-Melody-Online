@@ -1,0 +1,159 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "eb6a8263075c99d0af88243fea641ee3",
+      "storageType": 0,
+      "url": "/public/map/LivinLaVidaLoca/nx/LivinLaVidaLoca_MAIN_SCENE_NX.zip/eb6a8263075c99d0af88243fea641ee3.zip"
+    },
+    "pc": {
+      "md5": "63b3a23e9724216a9be9b180e78a18ae",
+      "storageType": 0,
+      "url": "/public/map/LivinLaVidaLoca/pc/LivinLaVidaLoca_MAIN_SCENE_PC.zip/63b3a23e9724216a9be9b180e78a18ae.zip"
+    },
+    "ps4": {
+      "md5": "aa6c99bc613d0a63ca3bcc5ae0b0e69d",
+      "storageType": 0,
+      "url": "/public/map/LivinLaVidaLoca/orbis/LivinLaVidaLoca_MAIN_SCENE_ORBIS.zip/aa6c99bc613d0a63ca3bcc5ae0b0e69d.zip"
+    }
+  },
+  "data": {
+    "mapName": "LivinLaVidaLoca",
+    "title": "Livin' La Vida Loca",
+    "originalJDVersion": 4,
+    "tags": [
+      "main"
+    ],
+    "artist": "Ricky Martin",
+    "credits": "Written by Robi Rosa, Desmond Child. Published by Desmophobia (ASCAP).  All Rights Administered by BMG Rights Management (US) LLC. / A Phantom Vox Corp. (BMI). All rights on behalf of Artemis Muziekuitgeverij B.V. and A Phantom Vox Corp. administered by Warner-Tamerlane Publishing Corp. Used By Permission.  All Rights Reserved.Courtesy of Columbia Records/Sony Music Entertainment (Holland) B.V. By arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e3751a",
+    "songColor2A": "#22e3fa",
+    "songColor1B": "#361408",
+    "songColor2B": "#003e66",
+    "lyricsColor": "#399610",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        36192,
+        68544,
+        100896,
+        133248,
+        165600,
+        198000,
+        230351,
+        262704,
+        295055,
+        327408,
+        359760,
+        392160,
+        424512,
+        456864,
+        489216,
+        521568,
+        553920,
+        586272,
+        618672,
+        651023,
+        683376,
+        715728,
+        748079,
+        780432,
+        812831,
+        845184,
+        877536,
+        909888,
+        942240,
+        974592,
+        1006992,
+        1039344,
+        1071696,
+        1104047,
+        1136399,
+        1168752,
+        1201104,
+        1233504,
+        1265856,
+        1298208,
+        1330560,
+        1362912,
+        1395263,
+        1427664,
+        1460016,
+        1492368
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 335,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 44,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/LivinLaVidaLoca/nx/LivinLaVidaLoca_banner_bkg.tga.ckd/d9affba888c0be058bf2eaf614e73de1.ckd",
+      "map_bkgImageUrl": "/public/map/LivinLaVidaLoca/nx/LivinLaVidaLoca_map_bkg.tga.ckd/89b6b36eb28c8a75201dec61d4c4010a.ckd",
+      "expandCoachImageUrl": "/public/map/LivinLaVidaLoca/nx/LivinLaVidaLoca_Cover_AlbumCoach.tga.ckd/b5b7c84f1efcbcc7fb74210505105d2a.ckd",
+      "cover_smallImageUrl": "/public/map/LivinLaVidaLoca/nx/LivinLaVidaLoca_Cover_Online.tga.ckd/e75a50b13d471ac2bb0a7912c66589e4.ckd",
+      "coverImageUrl": "/public/map/LivinLaVidaLoca/nx/LivinLaVidaLoca_Cover_Generic.tga.ckd/6df25f744470020c3ee5999d6ca2cab0.ckd",
+      "coach1ImageUrl": "/public/map/LivinLaVidaLoca/nx/LivinLaVidaLoca_Coach_1.tga.ckd/3d45f68bcdd1f59703c052e88229ba90.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/LivinLaVidaLoca/pc/LivinLaVidaLoca_banner_bkg.tga.ckd/3ea702f48c2d9372f97658c74336683e.ckd",
+      "map_bkgImageUrl": "/public/map/LivinLaVidaLoca/pc/LivinLaVidaLoca_map_bkg.tga.ckd/b25ccebaf4a8b482f276e357f4c789d6.ckd",
+      "expandCoachImageUrl": "/public/map/LivinLaVidaLoca/pc/LivinLaVidaLoca_Cover_AlbumCoach.tga.ckd/649881bbc65af5f6979fb0a04307d22e.ckd",
+      "cover_smallImageUrl": "/public/map/LivinLaVidaLoca/pc/LivinLaVidaLoca_Cover_Online.tga.ckd/463e739c1622cb326c00802d72cfaacb.ckd",
+      "coverImageUrl": "/public/map/LivinLaVidaLoca/pc/LivinLaVidaLoca_Cover_Generic.tga.ckd/ef5e18aeb6e88a7b8d78c03d590468b3.ckd",
+      "coach1ImageUrl": "/public/map/LivinLaVidaLoca/pc/LivinLaVidaLoca_Coach_1.tga.ckd/5c9459b72cbfcade6e3e35897cbffc7e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/LivinLaVidaLoca/orbis/LivinLaVidaLoca_banner_bkg.tga.ckd/3ea702f48c2d9372f97658c74336683e.ckd",
+      "map_bkgImageUrl": "/public/map/LivinLaVidaLoca/orbis/LivinLaVidaLoca_map_bkg.tga.ckd/b25ccebaf4a8b482f276e357f4c789d6.ckd",
+      "expandCoachImageUrl": "/public/map/LivinLaVidaLoca/orbis/LivinLaVidaLoca_Cover_AlbumCoach.tga.ckd/649881bbc65af5f6979fb0a04307d22e.ckd",
+      "cover_smallImageUrl": "/public/map/LivinLaVidaLoca/orbis/LivinLaVidaLoca_Cover_Online.tga.ckd/463e739c1622cb326c00802d72cfaacb.ckd",
+      "coverImageUrl": "/public/map/LivinLaVidaLoca/orbis/LivinLaVidaLoca_Cover_Generic.tga.ckd/ef5e18aeb6e88a7b8d78c03d590468b3.ckd",
+      "coach1ImageUrl": "/public/map/LivinLaVidaLoca/orbis/LivinLaVidaLoca_Coach_1.tga.ckd/5c9459b72cbfcade6e3e35897cbffc7e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/LivinLaVidaLoca/LivinLaVidaLoca_Coach_1_Phone.png/b54c5ba430207c6df624141757687a0d.png",
+    "phoneCoverImageUrl": "/public/map/LivinLaVidaLoca/LivinLaVidaLoca_Cover_Phone.jpg/5d88b1d1374b6fb3df63aa6c00859d9a.jpg",
+    "cover640ImageUrl": "/public/map/LivinLaVidaLoca/LivinLaVidaLoca_Cover_640.png/66e37ec64366743bb9aa151c324d762f.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca.ogg": "/private/map/LivinLaVidaLoca/LivinLaVidaLoca.ogg/8d5b17538a69c68bc87169486c52eb4c.ogg",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_AudioPreview.ogg": "/public/map/LivinLaVidaLoca/LivinLaVidaLoca_AudioPreview.ogg/d2889001e3071612c3ee6e9d63df086b.ogg",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_LOW.vp8.webm/b4a50ee4dee6263a0a7b550817571bd3.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_HIGH.webm": "/private/map/LivinLaVidaLoca/LivinLaVidaLoca_HIGH.webm/482e16bbe314d764400e35612d4114c4.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_LOW.webm": "/private/map/LivinLaVidaLoca/LivinLaVidaLoca_LOW.webm/30f67bdaa6aaa1cf0d40bd7e420b3dd4.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MID.webm": "/private/map/LivinLaVidaLoca/LivinLaVidaLoca_MID.webm/838ad715eab8644b9dd7be19ce6af760.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_ULTRA.hd.webm": "/private/map/LivinLaVidaLoca/LivinLaVidaLoca_ULTRA.hd.webm/e0ef214ed80f5d29cbaf4cedb9180dc6.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_ULTRA.webm": "/private/map/LivinLaVidaLoca/LivinLaVidaLoca_ULTRA.webm/6ad28fa8a5ac39c94c9b0b599d49f9a1.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_MID.vp8.webm/97811fa139e1426a7fac66b101ffe9c9.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495367\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"679-1169\">\n\t\t\t\t\t<Initialization range=\"0-679\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1484434\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"680-1170\">\n\t\t\t\t\t<Initialization range=\"0-680\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 225.528
+}

@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "6b8f4be5a221081bc6ffa47119e70d49",
+      "storageType": 0,
+      "url": "/public/map/Jumpin/nx/Jumpin_MAIN_SCENE_NX.zip/6b8f4be5a221081bc6ffa47119e70d49.zip"
+    },
+    "pc": {
+      "md5": "fc7e98806f5a8aea32d6e7f3f7588601",
+      "storageType": 0,
+      "url": "/public/map/Jumpin/pc/Jumpin_MAIN_SCENE_PC.zip/fc7e98806f5a8aea32d6e7f3f7588601.zip"
+    },
+    "ps4": {
+      "md5": "3a0425e8047f5a35e053847ae014ac5f",
+      "storageType": 0,
+      "url": "/public/map/Jumpin/orbis/Jumpin_MAIN_SCENE_ORBIS.zip/3a0425e8047f5a35e053847ae014ac5f.zip"
+    }
+  },
+  "data": {
+    "mapName": "Jumpin",
+    "title": "Jumpin",
+    "originalJDVersion": 1000,
+    "tags": [
+      "jdwii",
+      "subscribedSong",
+      "JustDanceAsia",
+      "Solo",
+      "Easy"
+    ],
+    "artist": "KARA",
+    "credits": "Gamer2000 & Pokeguy4",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#e8005d",
+    "songColor2A": "#00cc90",
+    "songColor1B": "#4b002c",
+    "songColor2B": "#00106c",
+    "lyricsColor": "#ff2d07"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        124176,
+        147072,
+        169920,
+        192768,
+        215616,
+        238464,
+        261360,
+        284112,
+        307008,
+        329808,
+        352704,
+        375648,
+        398400,
+        421344,
+        444192,
+        467040,
+        489888,
+        512784,
+        535632,
+        558480,
+        581328,
+        604176,
+        627072,
+        649920,
+        672768,
+        695616,
+        718464,
+        741360,
+        764208,
+        787056,
+        809904,
+        832752,
+        855648,
+        878496,
+        901344,
+        924192,
+        947040,
+        969888,
+        992784,
+        1015632,
+        1038480,
+        1061328,
+        1084176,
+        1107072,
+        1129920,
+        1152768,
+        1175616,
+        1198464,
+        1221360,
+        1244208,
+        1267056,
+        1289808,
+        1312656,
+        1335552,
+        1358496,
+        1381344,
+        1404192,
+        1427328,
+        1449888,
+        1472784,
+        1495632
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 380,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Jumpin/Jumpin_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Jumpin/nx/Jumpin_banner_bkg.tga.ckd/bb66e2c3dda7028c9bfaa1227354c369.ckd",
+      "map_bkgImageUrl": "/public/map/Jumpin/nx/Jumpin_map_bkg.tga.ckd/bb5bb0309ee21f3f20c4095a321c4c58.ckd",
+      "expandCoachImageUrl": "/public/map/Jumpin/nx/Jumpin_Cover_AlbumCoach.tga.ckd/3b6b2c99aae7dd4374d72e542f98b5d7.ckd",
+      "cover_smallImageUrl": "/public/map/Jumpin/nx/Jumpin_Cover_Online.tga.ckd/522e90333c958bd3aea369609403c900.ckd",
+      "coach1ImageUrl": "/public/map/Jumpin/nx/Jumpin_Coach_1.tga.ckd/0dbbffa2afef22e0a7cd6ecb0f1c66e2.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Jumpin/pc/Jumpin_banner_bkg.tga.ckd/a386065c906e43058928994fb439c2d5.ckd",
+      "map_bkgImageUrl": "/public/map/Jumpin/pc/Jumpin_map_bkg.tga.ckd/9d9fc3ee8214f13e300d803dbf81a866.ckd",
+      "expandCoachImageUrl": "/public/map/Jumpin/pc/Jumpin_Cover_AlbumCoach.tga.ckd/1601c27a82a1f4d1189e1a259b9fc4f8.ckd",
+      "cover_smallImageUrl": "/public/map/Jumpin/pc/Jumpin_Cover_Online.tga.ckd/be174dc7477dc4190decb73d7388e372.ckd",
+      "coach1ImageUrl": "/public/map/Jumpin/pc/Jumpin_Coach_1.tga.ckd/6dba873f667077331b55e9832e6ad73f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Jumpin/orbis/Jumpin_banner_bkg.tga.ckd/a386065c906e43058928994fb439c2d5.ckd",
+      "map_bkgImageUrl": "/public/map/Jumpin/orbis/Jumpin_map_bkg.tga.ckd/9d9fc3ee8214f13e300d803dbf81a866.ckd",
+      "expandCoachImageUrl": "/public/map/Jumpin/orbis/Jumpin_Cover_AlbumCoach.tga.ckd/1601c27a82a1f4d1189e1a259b9fc4f8.ckd",
+      "cover_smallImageUrl": "/public/map/Jumpin/orbis/Jumpin_Cover_Online.tga.ckd/be174dc7477dc4190decb73d7388e372.ckd",
+      "coach1ImageUrl": "/public/map/Jumpin/orbis/Jumpin_Coach_1.tga.ckd/6dba873f667077331b55e9832e6ad73f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Jumpin/Jumpin_Coach_1_Phone.png/20c0acfc9036896293e76f4488fbfc58.png",
+    "phoneCoverImageUrl": "/public/map/Jumpin/Jumpin_Cover_Phone.jpg/bfca34696530849b22e52ecb1b335cfa.jpg",
+    "cover640ImageUrl": "/public/map/Jumpin/Jumpin_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Jumpin/Jumpin.ogg": "/private/map/Jumpin/Jumpin.ogg/e7b4796abbb819ca6189696cd46d83d6.ogg",
+    "jmcs://jd-contents/Jumpin/Jumpin_AudioPreview.ogg": "/public/map/Jumpin/Jumpin_AudioPreview.ogg/a1ec20296b4b37e00c256a34e005c94e.ogg",
+    "jmcs://jd-contents/Jumpin/Jumpin_HIGH.webm": "/private/map/Jumpin/Jumpin_HIGH.webm/2aab0fbdaad6c000a9252a734a82419b.webm",
+    "jmcs://jd-contents/Jumpin/Jumpin_LOW.webm": "/private/map/Jumpin/Jumpin_LOW.webm/13b4a3b0a46a25023545b32bef123c0f.webm",
+    "jmcs://jd-contents/Jumpin/Jumpin_MID.webm": "/private/map/Jumpin/Jumpin_MID.webm/cd0d77a10760b69d1d4fbecc5071f159.webm",
+    "jmcs://jd-contents/Jumpin/Jumpin_ULTRA.webm": "/private/map/Jumpin/Jumpin_ULTRA.webm/a8da17e2e67155b261d8e16082150076.webm",
+    "jmcs://jd-contents/Jumpin/Jumpin_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Jumpin/Jumpin_MapPreviewNoSoundCrop_LOW.vp8.webm/3713ad0d7af79a9dae0f3ed2ce96491c.webm",
+    "jmcs://jd-contents/Jumpin/Jumpin_ULTRA.hd.webm": "/private/map/Jumpin/Jumpin_ULTRA.hd.webm/2202c6d3d0efc3839e051231aa1e7390.webm",
+    "jmcs://jd-contents/Jumpin/Jumpin_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Jumpin/Jumpin_MapPreviewNoSoundCrop_MID.vp8.webm/7758919ed222f6411ef0cb7505a0f34e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"514517\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Jumpin/Jumpin_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1491869\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Jumpin/Jumpin_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 183.820771
+}

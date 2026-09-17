@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "jmcs://jd-contents/DanzaKuduro/DanzaKuduro.ogg": "/private/map/DanzaKuduro/DanzaKuduro.ogg/53347b4b8158ef0303c0c58df9958f47.ogg",
+    "jmcs://jd-contents/DanzaKuduro/DanzaKuduro_AudioPreview.ogg": "/public/map/DanzaKuduro/DanzaKuduro_AudioPreview.ogg/77d33e404ff2c84cdf804fe025ab4e0f.ogg",
+    "jmcs://jd-contents/DanzaKuduro/DanzaKuduro_HIGH.hd.webm": "/private/map/DanzaKuduro/DanzaKuduro_HIGH.hd.webm/deef04d565da792a207ce96ed5beccb7.webm",
+    "jmcs://jd-contents/DanzaKuduro/DanzaKuduro_LOW.hd.webm": "/private/map/DanzaKuduro/DanzaKuduro_LOW.hd.webm/1fabda37634e5cafd039beb89d227e29.webm",
+    "jmcs://jd-contents/DanzaKuduro/DanzaKuduro_MID.hd.webm": "/private/map/DanzaKuduro/DanzaKuduro_MID.hd.webm/6fa51c5522dd1cc0ab34088d66141caa.webm",
+    "jmcs://jd-contents/DanzaKuduro/DanzaKuduro_ULTRA.hd.webm": "/private/map/DanzaKuduro/DanzaKuduro_ULTRA.hd.webm/0ed076ba9152959b74e3b3050cd467f9.webm",
+    "jmcs://jd-contents/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_LOW.vp8.webm/62fe574e1217990872db947a3299171f.webm",
+    "jmcs://jd-contents/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_MID.vp8.webm/d754cafffac9bddf2eff89241b47a1dc.webm",
+    "jmcs://jd-contents/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_HIGH.vp8.webm/e273a3b584b4a0c831a4aa5e2c8bb342.webm",
+    "jmcs://jd-contents/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_ULTRA.vp8.webm/963db5f6b3af55b49b73a838847121be.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22154,
+        44308,
+        66462,
+        88616,
+        110769,
+        132923,
+        155077,
+        177231,
+        199385,
+        221539,
+        243692,
+        265846,
+        288000,
+        310154,
+        332308,
+        354462,
+        376616,
+        398769,
+        420923,
+        443077,
+        465231,
+        487385,
+        509539,
+        531692,
+        553846,
+        576000,
+        598154,
+        620308,
+        642462,
+        664616,
+        686769,
+        708923,
+        731077,
+        753231,
+        775385,
+        797539,
+        819692,
+        841846,
+        864000,
+        886154,
+        908308,
+        930462,
+        952616,
+        974769,
+        996923,
+        1019077,
+        1041231,
+        1063385,
+        1085539,
+        1107692,
+        1129846,
+        1152000,
+        1174154,
+        1196308,
+        1218462,
+        1240616,
+        1262769,
+        1284923,
+        1307077,
+        1329231,
+        1351385,
+        1373539,
+        1395692,
+        1417846,
+        1440000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 431,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 66,
+      "volume": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/DanzaKuduro/DanzaKuduro_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"646212\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"773-1262\">\n\t\t\t\t\t<Initialization range=\"0-773\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1485053\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"773-1263\">\n\t\t\t\t\t<Initialization range=\"0-773\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2948781\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"773-1263\">\n\t\t\t\t\t<Initialization range=\"0-773\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"5822524\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/DanzaKuduro/DanzaKuduro_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"773-1270\">\n\t\t\t\t\t<Initialization range=\"0-773\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "a65676b72d5899b0ac3cca6ad3417caf",
+      "storageType": 0,
+      "url": "/public/map/DanzaKuduro/nx/DanzaKuduro_MAIN_SCENE_NX.zip/a65676b72d5899b0ac3cca6ad3417caf.zip"
+    },
+    "pc": {
+      "md5": "e07c88eeae515543444402cdaf7373bf",
+      "storageType": 0,
+      "url": "/public/map/DanzaKuduro/pc/DanzaKuduro_MAIN_SCENE_PC.zip/e07c88eeae515543444402cdaf7373bf.zip"
+    },
+    "ps4": {
+      "md5": "d55349204302ee97e7cd19faff96642d",
+      "storageType": 0,
+      "url": "/public/map/DanzaKuduro/orbis/DanzaKuduro_MAIN_SCENE_ORBIS.zip/d55349204302ee97e7cd19faff96642d.zip"
+    }
+  },
+  "data": {
+    "mapName": "DanzaKuduro",
+    "title": "Danza Kuduro",
+    "originalJDVersion": 2027,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Don Omar Ft. Lucenzo",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FFEA18",
+    "LocaleID": 4294967295,
+    "LocaleId": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "cover_smallImageUrl": "/public/map/DanzaKuduro/nx/DanzaKuduro_Cover_Online.tga.ckd/736156357dc361b3edb47994a6bccae1.ckd",
+      "coverImageUrl": "/public/map/DanzaKuduro/nx/DanzaKuduro_Cover_Generic.tga.ckd/736156357dc361b3edb47994a6bccae1.ckd",
+      "expandCoachImageUrl": "/public/map/DanzaKuduro/nx/DanzaKuduro_Cover_AlbumCoach.tga.ckd/cdd7b5e87f97d698c421aef043d12a6a.ckd",
+      "map_bkgImageUrl": "/public/map/DanzaKuduro/nx/DanzaKuduro_map_bkg.tga.ckd/7201fa2117abe9cb6cf212015bdebeae.ckd",
+      "banner_bkgImageUrl": "/public/map/DanzaKuduro/nx/DanzaKuduro_banner_bkg.tga.ckd/fde2403c9aaed6d68a5eaba38ef20fe1.ckd",
+      "coach1ImageUrl": "/public/map/DanzaKuduro/nx/DanzaKuduro_Coach_1.tga.ckd/bbc896d28d7de1d0c0609af3cad81c92.ckd",
+      "phoneCoverImageUrl": "/public/map/DanzaKuduro/DanzaKuduro_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/DanzaKuduro/DanzaKuduro_Coach_1_Phone.png/c6508379e317937ca08225b330409e7e.png",
+      "cover640ImageUrl": "/public/map/DanzaKuduro/DanzaKuduro_Cover_640.png/de1018b8f9f01a473e0b65d2b7c9567d.png"
+    },
+    "pc": {
+      "cover_smallImageUrl": "/public/map/DanzaKuduro/pc/DanzaKuduro_Cover_Online.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "coverImageUrl": "/public/map/DanzaKuduro/pc/DanzaKuduro_Cover_Generic.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "expandCoachImageUrl": "/public/map/DanzaKuduro/pc/DanzaKuduro_Cover_AlbumCoach.tga.ckd/d61d0853e4735fa22c4335d211c92153.ckd",
+      "map_bkgImageUrl": "/public/map/DanzaKuduro/pc/DanzaKuduro_map_bkg.tga.ckd/297327a22d0fbddf3f7247712c02023e.ckd",
+      "banner_bkgImageUrl": "/public/map/DanzaKuduro/pc/DanzaKuduro_banner_bkg.tga.ckd/47b143f7dbd0862e2caa5cd3c5f53313.ckd",
+      "coach1ImageUrl": "/public/map/DanzaKuduro/pc/DanzaKuduro_Coach_1.tga.ckd/b069ccb89f611a6a691b1720b212f0eb.ckd",
+      "phoneCoverImageUrl": "/public/map/DanzaKuduro/DanzaKuduro_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/DanzaKuduro/DanzaKuduro_Coach_1_Phone.png/c6508379e317937ca08225b330409e7e.png",
+      "cover640ImageUrl": "/public/map/DanzaKuduro/DanzaKuduro_Cover_640.png/de1018b8f9f01a473e0b65d2b7c9567d.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/DanzaKuduro/orbis/DanzaKuduro_Cover_Online.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "coverImageUrl": "/public/map/DanzaKuduro/orbis/DanzaKuduro_Cover_Generic.tga.ckd/00587cc512354c573501f9a211428388.ckd",
+      "expandCoachImageUrl": "/public/map/DanzaKuduro/orbis/DanzaKuduro_Cover_AlbumCoach.tga.ckd/d61d0853e4735fa22c4335d211c92153.ckd",
+      "map_bkgImageUrl": "/public/map/DanzaKuduro/orbis/DanzaKuduro_map_bkg.tga.ckd/297327a22d0fbddf3f7247712c02023e.ckd",
+      "banner_bkgImageUrl": "/public/map/DanzaKuduro/orbis/DanzaKuduro_banner_bkg.tga.ckd/47b143f7dbd0862e2caa5cd3c5f53313.ckd",
+      "coach1ImageUrl": "/public/map/DanzaKuduro/orbis/DanzaKuduro_Coach_1.tga.ckd/b069ccb89f611a6a691b1720b212f0eb.ckd",
+      "phoneCoverImageUrl": "/public/map/DanzaKuduro/DanzaKuduro_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/DanzaKuduro/DanzaKuduro_Coach_1_Phone.png/c6508379e317937ca08225b330409e7e.png",
+      "cover640ImageUrl": "/public/map/DanzaKuduro/DanzaKuduro_Cover_640.png/de1018b8f9f01a473e0b65d2b7c9567d.png"
+    },
+    "cover640ImageUrl": "/public/map/DanzaKuduro/DanzaKuduro_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 205.846109375
+}

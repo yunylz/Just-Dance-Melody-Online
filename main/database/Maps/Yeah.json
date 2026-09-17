@@ -1,0 +1,163 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "950d642c52daf1f10e3def2dbe04dad5",
+      "storageType": 0,
+      "url": "/public/map/Yeah/nx/Yeah_MAIN_SCENE_NX.zip/950d642c52daf1f10e3def2dbe04dad5.zip"
+    },
+    "pc": {
+      "md5": "35077c78ba1f4bedf9388fd4e970ca91",
+      "storageType": 0,
+      "url": "/public/map/Yeah/pc/Yeah_MAIN_SCENE_PC.zip/35077c78ba1f4bedf9388fd4e970ca91.zip"
+    },
+    "ps4": {
+      "md5": "efc0de8bc92551a0928d3e5f31506735",
+      "storageType": 0,
+      "url": "/public/map/Yeah/orbis/Yeah_MAIN_SCENE_ORBIS.zip/efc0de8bc92551a0928d3e5f31506735.zip"
+    }
+  },
+  "data": {
+    "mapName": "Yeah",
+    "title": "Yeah!",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Usher Feat. Lil Jon",
+    "credits": "Written by Christopher Bridges, Sean Garrett, LaMarquis Jefferson, James Phillips, Jonathan Smith, Patrick Michael Smith. Published by EMI April Music Inc., Ludacris Music Publishing Inc., Air Control Music, BASAJAMBA Music. All rights reserved. Used with permission / Reservoir 416 / BMG Rights Management Canada A obo BMG Firefly obo Me And Marq Music, BMG Rights Management Canada B obo Songs Of Windswept Pacific obo Hitco Music obo itself and Christopher Matthew Music. Courtesy of RCA Records. By arrangement with Sony Music Entertainment and The Orchard.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#ff7a33"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        27429,
+        54857,
+        82286,
+        109714,
+        137143,
+        164571,
+        192000,
+        219429,
+        246857,
+        274286,
+        301714,
+        329143,
+        356571,
+        384000,
+        411429,
+        438857,
+        466286,
+        493714,
+        521143,
+        548571,
+        576000,
+        603429,
+        630857,
+        658286,
+        685714,
+        713143,
+        740571,
+        768000,
+        795429,
+        822857,
+        850286,
+        877714,
+        905143,
+        932571,
+        960000,
+        987429,
+        1014857,
+        1042286,
+        1069714,
+        1097143,
+        1124571,
+        1152000,
+        1179429,
+        1206857,
+        1234286,
+        1261714,
+        1289143,
+        1316571,
+        1344000,
+        1371429,
+        1398857,
+        1426286,
+        1453714,
+        1481143
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 331,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 52,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Yeah/Yeah_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Yeah/nx/Yeah_banner_bkg.tga.ckd/c6af8edb506ac1b00ef38eba31edb93c.ckd",
+      "map_bkgImageUrl": "/public/map/Yeah/nx/Yeah_map_bkg.tga.ckd/1de770035ff81e3da291ae1351d38df2.ckd",
+      "expandCoachImageUrl": "/public/map/Yeah/nx/Yeah_Cover_AlbumCoach.tga.ckd/fef834c8a6092cc883d1404ba6b30647.ckd",
+      "cover_smallImageUrl": "/public/map/Yeah/nx/Yeah_Cover_Online.tga.ckd/3c855671076c6d5c0eaa6d23e123751a.ckd",
+      "coach1ImageUrl": "/public/map/Yeah/nx/Yeah_Coach_1.tga.ckd/15e207742f5cf861df3dc7a42bd67ca5.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Yeah/pc/Yeah_banner_bkg.tga.ckd/dfd4df82724fa54eb87f81351883321d.ckd",
+      "map_bkgImageUrl": "/public/map/Yeah/pc/Yeah_map_bkg.tga.ckd/f1b929ce9e88b27a02c7568fff85d251.ckd",
+      "expandCoachImageUrl": "/public/map/Yeah/pc/Yeah_Cover_AlbumCoach.tga.ckd/f2cc6bf976dee14dee091fa1ce330754.ckd",
+      "cover_smallImageUrl": "/public/map/Yeah/pc/Yeah_Cover_Online.tga.ckd/2d9c4de3cd3185ef1e24b86c8b648ebb.ckd",
+      "coach1ImageUrl": "/public/map/Yeah/pc/Yeah_Coach_1.tga.ckd/6441281c6dfe7c5d0938830e4b471f3a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Yeah/orbis/Yeah_banner_bkg.tga.ckd/dfd4df82724fa54eb87f81351883321d.ckd",
+      "map_bkgImageUrl": "/public/map/Yeah/orbis/Yeah_map_bkg.tga.ckd/f1b929ce9e88b27a02c7568fff85d251.ckd",
+      "expandCoachImageUrl": "/public/map/Yeah/orbis/Yeah_Cover_AlbumCoach.tga.ckd/f2cc6bf976dee14dee091fa1ce330754.ckd",
+      "cover_smallImageUrl": "/public/map/Yeah/orbis/Yeah_Cover_Online.tga.ckd/2d9c4de3cd3185ef1e24b86c8b648ebb.ckd",
+      "coach1ImageUrl": "/public/map/Yeah/orbis/Yeah_Coach_1.tga.ckd/6441281c6dfe7c5d0938830e4b471f3a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Yeah/Yeah_Coach_1_Phone.png/fe5ee5097adbec8bec6380543b950fe4.png",
+    "phoneCoverImageUrl": "/public/map/Yeah/Yeah_Cover_Phone.jpg/159a737f9d2e3b1b7406b23ea3ca867b.jpg",
+    "cover640ImageUrl": "/public/map/Yeah/Yeah_Cover_640.png/2b6bc061536eeabfbd6050a1af67a702.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Yeah/Yeah.ogg": "/private/map/Yeah/Yeah.ogg/93f8c0282fd474d4a51b84f32e920c70.ogg",
+    "jmcs://jd-contents/Yeah/Yeah_AudioPreview.ogg": "/public/map/Yeah/Yeah_AudioPreview.ogg/fe0ff836b54f5c5d9477c16d97c93f70.ogg",
+    "jmcs://jd-contents/Yeah/Yeah_HIGH.webm": "/private/map/Yeah/Yeah_HIGH.webm/a79bc887788a0779e7c5d5da0bfab257.webm",
+    "jmcs://jd-contents/Yeah/Yeah_LOW.webm": "/private/map/Yeah/Yeah_LOW.webm/e0d1f219b0f8d01ce202e3f740c8b7d6.webm",
+    "jmcs://jd-contents/Yeah/Yeah_MID.webm": "/private/map/Yeah/Yeah_MID.webm/54ea6ce49c6a4118a964dee40a5ed49f.webm",
+    "jmcs://jd-contents/Yeah/Yeah_ULTRA.hd.webm": "/private/map/Yeah/Yeah_ULTRA.hd.webm/d25ed940bbbf6ac826554cb55152b16d.webm",
+    "jmcs://jd-contents/Yeah/Yeah_ULTRA.webm": "/private/map/Yeah/Yeah_ULTRA.webm/9d2bfee854a3f33813ba61eeaf406a42.webm",
+    "jmcs://jd-contents/Yeah/Yeah_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Yeah/Yeah_MapPreviewNoSoundCrop_LOW.vp8.webm/6330a896f174217d22364cb7ded5aaa6.webm",
+    "jmcs://jd-contents/Yeah/Yeah_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Yeah/Yeah_MapPreviewNoSoundCrop_MID.vp8.webm/b7a21aeb4c985845047ce4244d4d8d93.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"510650\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Yeah/Yeah_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"623-1113\">\n\t\t\t\t\t<Initialization range=\"0-623\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1493682\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Yeah/Yeah_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"624-1114\">\n\t\t\t\t\t<Initialization range=\"0-624\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 198.292167
+}

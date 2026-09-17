@@ -1,0 +1,176 @@
+{
+  "packages": {
+    "ps4": {
+      "md5": "937fb89eec18d05057cb6fcd06bc940b",
+      "storageType": 0,
+      "url": "/public/map/Barbie/orbis/Barbie_MAIN_SCENE_ORBIS.zip/937fb89eec18d05057cb6fcd06bc940b.zip"
+    },
+    "nx": {
+      "md5": "2a9219982e95a08fca050d625b3c749d",
+      "storageType": 0,
+      "url": "/public/map/Barbie/nx/Barbie_MAIN_SCENE_NX.zip/2a9219982e95a08fca050d625b3c749d.zip"
+    },
+    "pc": {
+      "md5": "8130f1b98de003a10930406af84300de",
+      "storageType": 0,
+      "url": "/public/map/Barbie/pc/Barbie_MAIN_SCENE_PC.zip/8130f1b98de003a10930406af84300de.zip"
+    }
+  },
+  "data": {
+    "mapName": "Barbie",
+    "title": "Chiwawa",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main"
+    ],
+    "artist": "Wanko Ni Mero Mero",
+    "credits": "Written by Reni Mimura and Tom Salta. Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music. Produced and performed by Tom Salta. Vocals by Reni Mimura, Tom Salta, anonymous cats and dogs. Music supervision - Manu Bachet and Alkis Argyriadis. No animal were harmed in the making of this song. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#51d3ff",
+    "songColor2A": "#ffaadc",
+    "songColor1B": "#0067d4",
+    "songColor2B": "#ff0070",
+    "lyricsColor": "#70a7ff",
+    "LocaleID": 13976
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67487,
+        89999,
+        112511,
+        135023,
+        157487,
+        179999,
+        202511,
+        225023,
+        247487,
+        269999,
+        292511,
+        315023,
+        337487,
+        359998,
+        382510,
+        405022,
+        427486,
+        449998,
+        472510,
+        495022,
+        517486,
+        539998,
+        562510,
+        585022,
+        607486,
+        629998,
+        652510,
+        675022,
+        697485,
+        719997,
+        742509,
+        765021,
+        787485,
+        809997,
+        832509,
+        855021,
+        877485,
+        899997,
+        922509,
+        945021,
+        967485,
+        989997,
+        1012509,
+        1035020,
+        1057484,
+        1079996,
+        1102508,
+        1125020,
+        1147484,
+        1169996,
+        1192508,
+        1215020,
+        1237484,
+        1259996,
+        1282508,
+        1305020,
+        1327484,
+        1349996,
+        1372507,
+        1395019,
+        1417483,
+        1439995,
+        1462507,
+        1485019
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -14,
+      "endBeat": 371,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Barbie/Barbie_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Barbie/nx/Barbie_banner_bkg.tga.ckd/4438b8459564fe67f68c8f3fa0c395de.ckd",
+      "map_bkgImageUrl": "/public/map/Barbie/nx/Barbie_map_bkg.tga.ckd/88076be414f3e8c9e4e5e3c6612ae8ac.ckd",
+      "expandCoachImageUrl": "/public/map/Barbie/nx/Barbie_Cover_AlbumCoach.tga.ckd/c2615b1def98502489b20c1becb754c2.ckd",
+      "cover_smallImageUrl": "/public/map/Barbie/nx/Barbie_Cover_Online.tga.ckd/ace28ac0c06c6a8f348f3745b9c81ed2.ckd",
+      "coach1ImageUrl": "/public/map/Barbie/nx/Barbie_Coach_1.tga.ckd/3dbb15797abccf5a694a71143859087b.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Barbie/pc/Barbie_banner_bkg.tga.ckd/ff9d20c6a4424adf4a4bd49811ccc3be.ckd",
+      "map_bkgImageUrl": "/public/map/Barbie/pc/Barbie_map_bkg.tga.ckd/a5e6f7f2b13b731ce5a8869df48912fe.ckd",
+      "expandCoachImageUrl": "/public/map/Barbie/pc/Barbie_Cover_AlbumCoach.tga.ckd/8488b83ff8b1685991b1077aa1f0b814.ckd",
+      "cover_smallImageUrl": "/public/map/Barbie/pc/Barbie_Cover_Online.tga.ckd/7a8d1e77bac11700f4635d734e85a073.ckd",
+      "coach1ImageUrl": "/public/map/Barbie/pc/Barbie_Coach_1.tga.ckd/3a9db2ab9e9e72db48fb10dae4c28c17.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Barbie/orbis/Barbie_banner_bkg.tga.ckd/ff9d20c6a4424adf4a4bd49811ccc3be.ckd",
+      "map_bkgImageUrl": "/public/map/Barbie/orbis/Barbie_map_bkg.tga.ckd/a5e6f7f2b13b731ce5a8869df48912fe.ckd",
+      "expandCoachImageUrl": "/public/map/Barbie/orbis/Barbie_Cover_AlbumCoach.tga.ckd/8488b83ff8b1685991b1077aa1f0b814.ckd",
+      "cover_smallImageUrl": "/public/map/Barbie/orbis/Barbie_Cover_Online.tga.ckd/7a8d1e77bac11700f4635d734e85a073.ckd",
+      "coach1ImageUrl": "/public/map/Barbie/orbis/Barbie_Coach_1.tga.ckd/3a9db2ab9e9e72db48fb10dae4c28c17.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Barbie/Barbie_Coach_1_Phone.png/33855f5cdfdb3871df194a4b057d3c21.png",
+    "phoneCoverImageUrl": "/public/map/Barbie/Barbie_Cover_Phone.jpg/668e1b3423f2a7eb9186b71b1b35ebd5.jpg",
+    "cover640ImageUrl": "/public/map/Barbie/Barbie_Cover_640.png/4d93903f4eaaf6291cea90eca24bc24e.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Barbie/Barbie.ogg": "/private/map/Barbie/Barbie.ogg/fb225f201073d28e5a6f0f6ece63f59c.ogg",
+    "jmcs://jd-contents/Barbie/Barbie_AudioPreview.ogg": "/public/map/Barbie/Barbie_AudioPreview.ogg/1d264933a8a1bc8d4006dd807963e210.ogg",
+    "jmcs://jd-contents/Barbie/Barbie_HIGH.webm": "/private/map/Barbie/Barbie_HIGH.webm/18ce6ca78a84dba11e3c44e7be9a869c.webm",
+    "jmcs://jd-contents/Barbie/Barbie_LOW.webm": "/private/map/Barbie/Barbie_LOW.webm/72a71594411c6ace355b450930bad1c4.webm",
+    "jmcs://jd-contents/Barbie/Barbie_MID.webm": "/private/map/Barbie/Barbie_MID.webm/5c1fa8a04d339915b3596312f6e31a06.webm",
+    "jmcs://jd-contents/Barbie/Barbie_ULTRA.hd.webm": "/private/map/Barbie/Barbie_ULTRA.hd.webm/5fda3aac39246f3472f27cf7a1503f8a.webm",
+    "jmcs://jd-contents/Barbie/Barbie_ULTRA.webm": "/private/map/Barbie/Barbie_ULTRA.webm/75fdb2f59eb145bb37ca570873ea4d88.webm",
+    "jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Barbie/Barbie_MapPreviewNoSoundCrop_LOW.vp8.webm/9e112a4e70b9f20deca6d13d17f8e2ad.webm",
+    "jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Barbie/Barbie_MapPreviewNoSoundCrop_MID.vp8.webm/636576846c413d2e782d15437ed4e143.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497361\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"648-1137\">\n\t\t\t\t\t<Initialization range=\"0-648\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1481534\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Barbie/Barbie_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"649-1139\">\n\t\t\t\t\t<Initialization range=\"0-649\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 180.467708
+}

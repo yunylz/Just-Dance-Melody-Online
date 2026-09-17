@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "a0165e17825572d61ac53ac9ef7625fb",
+      "storageType": 0,
+      "url": "/public/map/GerappoDanceTrain/nx/GerappoDanceTrain_MAIN_SCENE_NX.zip/a0165e17825572d61ac53ac9ef7625fb.zip"
+    },
+    "pc": {
+      "md5": "4fc1d5bb5f357c36a7817f4c7b327763",
+      "storageType": 0,
+      "url": "/public/map/GerappoDanceTrain/pc/GerappoDanceTrain_MAIN_SCENE_PC.zip/4fc1d5bb5f357c36a7817f4c7b327763.zip"
+    },
+    "ps4": {
+      "md5": "6de6c3adc95cb414cf26febe09116b94",
+      "storageType": 0,
+      "url": "/public/map/GerappoDanceTrain/orbis/GerappoDanceTrain_MAIN_SCENE_ORBIS.zip/6de6c3adc95cb414cf26febe09116b94.zip"
+    }
+  },
+  "data": {
+    "mapName": "GerappoDanceTrain",
+    "title": "Gerappo Dance Train",
+    "originalJDVersion": 1104,
+    "tags": [
+      "jdwiiuyk",
+      "subscribedSong",
+      "JustDanceAsia",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "King Cream Soda",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        503999,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1007999,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 297,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GerappoDanceTrain/GerappoDanceTrain_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GerappoDanceTrain/nx/GerappoDanceTrain_banner_bkg.tga.ckd/c2fbcd00f0b104cbdd87dce5f275c9af.ckd",
+      "map_bkgImageUrl": "/public/map/GerappoDanceTrain/nx/GerappoDanceTrain_map_bkg.tga.ckd/92d20b1c82646ffeed5a19704a8957eb.ckd",
+      "expandCoachImageUrl": "/public/map/GerappoDanceTrain/nx/GerappoDanceTrain_Cover_AlbumCoach.tga.ckd/5bfd1466f7babc631f18d2f76c45b669.ckd",
+      "cover_smallImageUrl": "/public/map/GerappoDanceTrain/nx/GerappoDanceTrain_Cover_Online.tga.ckd/2a204048141bcfbaef4eb1a27bf9f4f1.ckd",
+      "coach1ImageUrl": "/public/map/GerappoDanceTrain/nx/GerappoDanceTrain_Coach_1.tga.ckd/247f568699dc3172b57c52416803b9e8.ckd",
+      "coach2ImageUrl": "/public/map/GerappoDanceTrain/nx/GerappoDanceTrain_Coach_2.tga.ckd/86f7ec5e2952b89949245c4d33724188.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GerappoDanceTrain/pc/GerappoDanceTrain_banner_bkg.tga.ckd/d00485f0147bcfce7d65f4549ff392b4.ckd",
+      "map_bkgImageUrl": "/public/map/GerappoDanceTrain/pc/GerappoDanceTrain_map_bkg.tga.ckd/a4571b154ad73d8b3728f0891657688e.ckd",
+      "expandCoachImageUrl": "/public/map/GerappoDanceTrain/pc/GerappoDanceTrain_Cover_AlbumCoach.tga.ckd/67745daed04603f21477042e8a3c8526.ckd",
+      "cover_smallImageUrl": "/public/map/GerappoDanceTrain/pc/GerappoDanceTrain_Cover_Online.tga.ckd/223cdc83134ed4673f3d9f27ea24fd70.ckd",
+      "coach1ImageUrl": "/public/map/GerappoDanceTrain/pc/GerappoDanceTrain_Coach_1.tga.ckd/cdad998e41d222cc3bb7bbc2722ebbd0.ckd",
+      "coach2ImageUrl": "/public/map/GerappoDanceTrain/pc/GerappoDanceTrain_Coach_2.tga.ckd/c26c129073fcd1438b92be3cab6ddc0e.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GerappoDanceTrain/orbis/GerappoDanceTrain_banner_bkg.tga.ckd/d00485f0147bcfce7d65f4549ff392b4.ckd",
+      "map_bkgImageUrl": "/public/map/GerappoDanceTrain/orbis/GerappoDanceTrain_map_bkg.tga.ckd/a4571b154ad73d8b3728f0891657688e.ckd",
+      "expandCoachImageUrl": "/public/map/GerappoDanceTrain/orbis/GerappoDanceTrain_Cover_AlbumCoach.tga.ckd/67745daed04603f21477042e8a3c8526.ckd",
+      "cover_smallImageUrl": "/public/map/GerappoDanceTrain/orbis/GerappoDanceTrain_Cover_Online.tga.ckd/223cdc83134ed4673f3d9f27ea24fd70.ckd",
+      "coach1ImageUrl": "/public/map/GerappoDanceTrain/orbis/GerappoDanceTrain_Coach_1.tga.ckd/cdad998e41d222cc3bb7bbc2722ebbd0.ckd",
+      "coach2ImageUrl": "/public/map/GerappoDanceTrain/orbis/GerappoDanceTrain_Coach_2.tga.ckd/c26c129073fcd1438b92be3cab6ddc0e.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GerappoDanceTrain/GerappoDanceTrain_Coach_1_Phone.png/38479151033999dc40097d2f0791e154.png",
+    "phoneCoach2ImageUrl": "/public/map/GerappoDanceTrain/GerappoDanceTrain_Coach_2_Phone.png/4ed001e054c0bd9df917053eba1b97dc.png",
+    "phoneCoverImageUrl": "/public/map/GerappoDanceTrain/GerappoDanceTrain_Cover_Phone.jpg/6998e7e12f18b05b53d8d2a08bd47ac9.jpg",
+    "cover640ImageUrl": "/public/map/GerappoDanceTrain/GerappoDanceTrain_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GerappoDanceTrain/GerappoDanceTrain.ogg": "/private/map/GerappoDanceTrain/GerappoDanceTrain.ogg/9d9e1f25d8915b3dfeaa4bf20e2da7a0.ogg",
+    "jmcs://jd-contents/GerappoDanceTrain/GerappoDanceTrain_AudioPreview.ogg": "/public/map/GerappoDanceTrain/GerappoDanceTrain_AudioPreview.ogg/bc1f1723831db941706db2c5a5bd9837.ogg",
+    "jmcs://jd-contents/GerappoDanceTrain/GerappoDanceTrain_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GerappoDanceTrain/GerappoDanceTrain_MapPreviewNoSoundCrop_LOW.vp8.webm/9003e9f8d32b83c4e04bb2ee6384ab37.webm",
+    "jmcs://jd-contents/GerappoDanceTrain/GerappoDanceTrain_HIGH.webm": "/private/map/GerappoDanceTrain/GerappoDanceTrain_HIGH.webm/64953f4b0fb0e8e359294f3d0be5b631.webm",
+    "jmcs://jd-contents/GerappoDanceTrain/GerappoDanceTrain_LOW.webm": "/private/map/GerappoDanceTrain/GerappoDanceTrain_LOW.webm/6cf512d2891babd749e3767024018488.webm",
+    "jmcs://jd-contents/GerappoDanceTrain/GerappoDanceTrain_MID.webm": "/private/map/GerappoDanceTrain/GerappoDanceTrain_MID.webm/066270d9559c9bcca7373f418af0d18e.webm",
+    "jmcs://jd-contents/GerappoDanceTrain/GerappoDanceTrain_ULTRA.webm": "/private/map/GerappoDanceTrain/GerappoDanceTrain_ULTRA.webm/548cd8bffb7597762380aa2e54304e39.webm",
+    "jmcs://jd-contents/GerappoDanceTrain/GerappoDanceTrain_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GerappoDanceTrain/GerappoDanceTrain_MapPreviewNoSoundCrop_MID.vp8.webm/3c0513cc2c2a7bdb52dbe039b49cf101.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495749\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GerappoDanceTrain/GerappoDanceTrain_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"620-1109\">\n\t\t\t\t\t<Initialization range=\"0-620\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478178\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GerappoDanceTrain/GerappoDanceTrain_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"621-1111\">\n\t\t\t\t\t<Initialization range=\"0-621\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 151.0
+}

@@ -1,0 +1,167 @@
+{
+  "urls": {
+    "jmcs://jd-contents/StrongerBSALT/StrongerBSALT_AudioPreview.ogg": "/public/map/StrongerBSALT/StrongerBSALT_AudioPreview.ogg/09f05f91b4d6c035650d3bbf27ff55f8.ogg",
+    "jmcs://jd-contents/StrongerBSALT/StrongerBSALT.ogg": "/private/map/StrongerBSALT/StrongerBSALT.ogg/3dfec2457cd88c3a790d48473b82f41f.ogg",
+    "jmcs://jd-contents/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_LOW.vp8.webm/c15e10a86778a7b1ca8a15db1b47cddc.webm",
+    "jmcs://jd-contents/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_MID.vp8.webm/e158fc5f358a072ed0a3381d8665aea5.webm",
+    "jmcs://jd-contents/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "/public/map/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/d392d94bdb3c5c69f6481a9f4d8707eb.webm",
+    "jmcs://jd-contents/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "/public/map/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/029a6b7eccbb612ae9ecf7fbd9802e14.webm",
+    "jmcs://jd-contents/StrongerBSALT/StrongerBSALT_ULTRA.hd.webm": "/private/map/StrongerBSALT/StrongerBSALT_ULTRA.hd.webm/db5a8d7b3a2359b6bad328ddc203e756.webm",
+    "jmcs://jd-contents/StrongerBSALT/StrongerBSALT_HIGH.hd.webm": "/private/map/StrongerBSALT/StrongerBSALT_HIGH.hd.webm/0354bf83317ac7efc3793f957dc187b2.webm",
+    "jmcs://jd-contents/StrongerBSALT/StrongerBSALT_MID.hd.webm": "/private/map/StrongerBSALT/StrongerBSALT_MID.hd.webm/9cac46ed991375edbcfcb4f500ea9499.webm",
+    "jmcs://jd-contents/StrongerBSALT/StrongerBSALT_LOW.hd.webm": "/private/map/StrongerBSALT/StrongerBSALT_LOW.hd.webm/ebea1f9a9d1180f92ff8c2c09d18cf3f.webm"
+  },
+  "mapLength": 213.85765625,
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26661,
+        53322,
+        79983,
+        106644,
+        133305,
+        159966,
+        186627,
+        213288,
+        239949,
+        266610,
+        293271,
+        319932,
+        346593,
+        373254,
+        399915,
+        426576,
+        453237,
+        479898,
+        506559,
+        533220,
+        559881,
+        586542,
+        613203,
+        639864,
+        666525,
+        693186,
+        719847,
+        746508,
+        773169,
+        799830,
+        826491,
+        853152,
+        879813,
+        906474,
+        933135,
+        959796,
+        986457,
+        1013118,
+        1039343,
+        1066100,
+        1092856,
+        1119613,
+        1145838,
+        1172595,
+        1199352,
+        1226109,
+        1252865,
+        1279622,
+        1305847,
+        1332604,
+        1359361,
+        1386118,
+        1412874,
+        1439631
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 370,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0
+    },
+    "url": "jmcs://jd-contents/StrongerBSALT/StrongerBSALT_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"641578\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"768-1257\">\n\t\t\t\t\t<Initialization range=\"0-768\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1468064\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"768-1258\">\n\t\t\t\t\t<Initialization range=\"0-768\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"2\" bandwidth=\"2944711\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"768-1258\">\n\t\t\t\t\t<Initialization range=\"0-768\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"3\" bandwidth=\"5817303\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/StrongerBSALT/StrongerBSALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"768-1265\">\n\t\t\t\t\t<Initialization range=\"0-768\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "pc": {
+      "md5": "0fd49c3bc1be9a5d5405039d0a114cd7",
+      "storageType": 0,
+      "url": "/public/map/StrongerBSALT/pc/StrongerBSALT_MAIN_SCENE_PC.zip/0fd49c3bc1be9a5d5405039d0a114cd7.zip"
+    },
+    "ps4": {
+      "md5": "682e114719b6a758438b18ba6a5378de",
+      "storageType": 0,
+      "url": "/public/map/StrongerBSALT/orbis/StrongerBSALT_MAIN_SCENE_ORBIS.zip/682e114719b6a758438b18ba6a5378de.zip"
+    },
+    "nx": {
+      "md5": "d6144e8b5cabb7fa419e32bccf6167e9",
+      "storageType": 0,
+      "url": "/public/map/StrongerBSALT/nx/StrongerBSALT_MAIN_SCENE_NX.zip/d6144e8b5cabb7fa419e32bccf6167e9.zip"
+    }
+  },
+  "data": {
+    "mapName": "StrongerBSALT",
+    "title": "Stronger",
+    "originalJDVersion": 2027,
+    "tags": [
+      "alternate",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Britney Spears",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#777777",
+    "songColor2B": "#111111",
+    "lyricsColor": "#7151FF",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "pc": {
+      "cover_smallImageUrl": "/public/map/StrongerBSALT/pc/StrongerBSALT_Cover_Online.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "coverImageUrl": "/public/map/StrongerBSALT/pc/StrongerBSALT_Cover_Generic.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "expandCoachImageUrl": "/public/map/StrongerBSALT/pc/StrongerBSALT_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/StrongerBSALT/pc/StrongerBSALT_map_bkg.tga.ckd/bd967bc6be1d2b4df418bc5ab43d1a5d.ckd",
+      "banner_bkgImageUrl": "/public/map/StrongerBSALT/pc/StrongerBSALT_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/StrongerBSALT/pc/StrongerBSALT_Coach_1.tga.ckd/dbe21e0714af764b29297e9379b305fb.ckd",
+      "phoneCoverImageUrl": "/public/map/StrongerBSALT/StrongerBSALT_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/StrongerBSALT/StrongerBSALT_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/StrongerBSALT/StrongerBSALT_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    },
+    "ps4": {
+      "cover_smallImageUrl": "/public/map/StrongerBSALT/orbis/StrongerBSALT_Cover_Online.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "coverImageUrl": "/public/map/StrongerBSALT/orbis/StrongerBSALT_Cover_Generic.tga.ckd/37a24127987ffa37823af13673d925bb.ckd",
+      "expandCoachImageUrl": "/public/map/StrongerBSALT/orbis/StrongerBSALT_Cover_AlbumCoach.tga.ckd/d5406e4cdb727a626a147a5693dcb025.ckd",
+      "map_bkgImageUrl": "/public/map/StrongerBSALT/orbis/StrongerBSALT_map_bkg.tga.ckd/bd967bc6be1d2b4df418bc5ab43d1a5d.ckd",
+      "banner_bkgImageUrl": "/public/map/StrongerBSALT/orbis/StrongerBSALT_banner_bkg.tga.ckd/bf6a045dd21dcb80e3cfb26e13c941d4.ckd",
+      "coach1ImageUrl": "/public/map/StrongerBSALT/orbis/StrongerBSALT_Coach_1.tga.ckd/dbe21e0714af764b29297e9379b305fb.ckd",
+      "phoneCoverImageUrl": "/public/map/StrongerBSALT/StrongerBSALT_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/StrongerBSALT/StrongerBSALT_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/StrongerBSALT/StrongerBSALT_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    },
+    "nx": {
+      "cover_smallImageUrl": "/public/map/StrongerBSALT/nx/StrongerBSALT_Cover_Online.tga.ckd/28e19a1498984376509ca2256dccde5c.ckd",
+      "coverImageUrl": "/public/map/StrongerBSALT/nx/StrongerBSALT_Cover_Generic.tga.ckd/28e19a1498984376509ca2256dccde5c.ckd",
+      "expandCoachImageUrl": "/public/map/StrongerBSALT/nx/StrongerBSALT_Cover_AlbumCoach.tga.ckd/f2acd1f802fbc3c07f5497a0de5fc9d3.ckd",
+      "map_bkgImageUrl": "/public/map/StrongerBSALT/nx/StrongerBSALT_map_bkg.tga.ckd/e6b0dcc47e597760d13b23002e2e800b.ckd",
+      "banner_bkgImageUrl": "/public/map/StrongerBSALT/nx/StrongerBSALT_banner_bkg.tga.ckd/56a0fc93e1e0b5555651a441a9c51598.ckd",
+      "coach1ImageUrl": "/public/map/StrongerBSALT/nx/StrongerBSALT_Coach_1.tga.ckd/26a47213441a0c69ee695455123c4656.ckd",
+      "phoneCoverImageUrl": "/public/map/StrongerBSALT/StrongerBSALT_Cover_Phone.jpg/831b87523c0073fb9752ef70d91fb6ad.jpg",
+      "phoneCoach1ImageUrl": "/public/map/StrongerBSALT/StrongerBSALT_Coach_1_Phone.png/b3916123a1785243e6d1bb82f8b14269.png",
+      "cover640ImageUrl": "/public/map/StrongerBSALT/StrongerBSALT_Cover_640.png/145409edfdb16bc19ee3bf31ec0fff2c.png"
+    }
+  }
+}

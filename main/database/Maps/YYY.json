@@ -1,0 +1,171 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "461b71aa2084a0466a4f798b0a892bbe",
+      "storageType": 0,
+      "url": "/public/map/YYY/nx/YYY_MAIN_SCENE_NX.zip/461b71aa2084a0466a4f798b0a892bbe.zip"
+    },
+    "pc": {
+      "md5": "187446be30451c056bd9669396d86c6f",
+      "storageType": 0,
+      "url": "/public/map/YYY/pc/YYY_MAIN_SCENE_PC.zip/187446be30451c056bd9669396d86c6f.zip"
+    },
+    "ps4": {
+      "md5": "852ffb00edc73fd4a192fd0ce4a64ad9",
+      "storageType": 0,
+      "url": "/public/map/YYY/orbis/YYY_MAIN_SCENE_ORBIS.zip/852ffb00edc73fd4a192fd0ce4a64ad9.zip"
+    }
+  },
+  "data": {
+    "mapName": "YYY",
+    "title": "Gimme More (Remix)",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "Slayyyter",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ffc72e"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25411.76470588243,
+        50823.52941176486,
+        76235.29411764728,
+        101647.05882352972,
+        127058.82352941213,
+        152470.58823529456,
+        177882.352941177,
+        203294.11764705944,
+        228705.88235294184,
+        254117.64705882425,
+        279529.4117647067,
+        304941.1764705891,
+        330352.9411764716,
+        355764.705882354,
+        381176.4705882364,
+        406588.2352941189,
+        432000.0000000013,
+        457411.7647058837,
+        482823.52941176615,
+        508235.2941176485,
+        533647.058823531,
+        559058.8235294134,
+        584470.5882352958,
+        609882.3529411783,
+        635294.1176470607,
+        660705.8823529432,
+        686117.6470588255,
+        711529.411764708,
+        736941.1764705904,
+        762352.9411764728,
+        787764.7058823552,
+        813176.4705882377,
+        838588.2352941202,
+        864000.0000000026,
+        889411.764705885,
+        914823.5294117674,
+        940235.2941176498,
+        965647.0588235323,
+        991058.8235294146,
+        1016470.588235297,
+        1041882.3529411795,
+        1067294.117647062,
+        1092705.8823529445,
+        1118117.6470588269,
+        1143529.4117647093,
+        1168941.1764705917,
+        1194352.941176474,
+        1219764.7058823565,
+        1245176.470588239,
+        1270588.2352941213,
+        1296000.0000000037,
+        1321411.7647058864,
+        1346823.5294117685,
+        1372235.294117651,
+        1397647.0588235336,
+        1423058.823529416,
+        1448470.5882352984,
+        1473882.3529411808,
+        1499294.1176470632
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 346,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 57,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/YYY/YYY_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/YYY/nx/YYY_banner_bkg.tga.ckd/a5a85fd0681da8d03f1c00baba56f57c.ckd",
+      "map_bkgImageUrl": "/public/map/YYY/nx/YYY_map_bkg.tga.ckd/a6968be9649dd079830069a32a87d646.ckd",
+      "expandCoachImageUrl": "/public/map/YYY/nx/YYY_Cover_AlbumCoach.tga.ckd/68933e14c99f0188f4cafd5d06ca0e46.ckd",
+      "cover_smallImageUrl": "/public/map/YYY/nx/YYY_Cover_Online.tga.ckd/a6dba6890c3942e16fca2b891d9826e7.ckd",
+      "coach1ImageUrl": "/public/map/YYY/nx/YYY_Coach_1.tga.ckd/f861ff454b28b55441e5476a826efba2.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/YYY/pc/YYY_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/YYY/pc/YYY_map_bkg.tga.ckd/fc026dc5b6510133a06b53900c8cd2ec.ckd",
+      "expandCoachImageUrl": "/public/map/YYY/pc/YYY_Cover_AlbumCoach.tga.ckd/b615d14d614bd8808744279dd7b631b5.ckd",
+      "cover_smallImageUrl": "/public/map/YYY/pc/YYY_Cover_Online.tga.ckd/e89b284330e7d438016757549be3b4c7.ckd",
+      "coach1ImageUrl": "/public/map/YYY/pc/YYY_Coach_1.tga.ckd/a59832af550a74836026fb9efc9922b6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/YYY/orbis/YYY_banner_bkg.tga.ckd/36634713833e00f3f7d666c470d587b9.ckd",
+      "map_bkgImageUrl": "/public/map/YYY/orbis/YYY_map_bkg.tga.ckd/fc026dc5b6510133a06b53900c8cd2ec.ckd",
+      "expandCoachImageUrl": "/public/map/YYY/orbis/YYY_Cover_AlbumCoach.tga.ckd/b615d14d614bd8808744279dd7b631b5.ckd",
+      "cover_smallImageUrl": "/public/map/YYY/orbis/YYY_Cover_Online.tga.ckd/e89b284330e7d438016757549be3b4c7.ckd",
+      "coach1ImageUrl": "/public/map/YYY/orbis/YYY_Coach_1.tga.ckd/a59832af550a74836026fb9efc9922b6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/YYY/YYY_Coach_1_Phone.png/fa0052df9b01bffe0b7a420d076983f0.png",
+    "phoneCoverImageUrl": "/public/map/YYY/YYY_Cover_Phone.jpg/48fe0d2196de9066076da467746911d6.jpg",
+    "cover640ImageUrl": "/public/map/YYY/YYY_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/YYY/YYY.ogg": "/private/map/YYY/YYY.ogg/f11bab9ed7174f5a2bc340efee45b130.ogg",
+    "jmcs://jd-contents/YYY/YYY_AudioPreview.ogg": "/public/map/YYY/YYY_AudioPreview.ogg/79c4c6b067c120305229325dda6475a0.ogg",
+    "jmcs://jd-contents/YYY/YYY_HIGH.webm": "/private/map/YYY/YYY_HIGH.webm/1173f93b953a008cc01acb662b69858f.webm",
+    "jmcs://jd-contents/YYY/YYY_LOW.webm": "/private/map/YYY/YYY_LOW.webm/2aa5e4c0cc8f9d6d482fdfb6440601d5.webm",
+    "jmcs://jd-contents/YYY/YYY_MID.webm": "/private/map/YYY/YYY_MID.webm/1f0771f4c0aa94175daf373a31a9d530.webm",
+    "jmcs://jd-contents/YYY/YYY_ULTRA.hd.webm": "/private/map/YYY/YYY_ULTRA.hd.webm/986f1fc4e59090447e7e88b53c533eaf.webm",
+    "jmcs://jd-contents/YYY/YYY_ULTRA.webm": "/private/map/YYY/YYY_ULTRA.webm/73e76025f0a3a4660b0c9af9458a3bc9.webm",
+    "jmcs://jd-contents/YYY/YYY_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/YYY/YYY_MapPreviewNoSoundCrop_LOW.vp8.webm/86f04efb039073cd6245e4dacb07a8bd.webm",
+    "jmcs://jd-contents/YYY/YYY_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/YYY/YYY_MapPreviewNoSoundCrop_MID.vp8.webm/ed661f131724bb182eee1a046a5e7ddf.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"516768\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YYY/YYY_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1483608\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/YYY/YYY_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 185.672083
+}

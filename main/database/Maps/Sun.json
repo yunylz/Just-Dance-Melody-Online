@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "e732697c95d907c0ca90688239ec6b35",
+      "storageType": 0,
+      "url": "/public/map/Sun/nx/Sun_MAIN_SCENE_NX.zip/e732697c95d907c0ca90688239ec6b35.zip"
+    },
+    "pc": {
+      "md5": "c59e1caaeb81628bec4d731b10b50a3c",
+      "storageType": 0,
+      "url": "/public/map/Sun/pc/Sun_MAIN_SCENE_PC.zip/c59e1caaeb81628bec4d731b10b50a3c.zip"
+    },
+    "ps4": {
+      "md5": "d5592cd4c82becbbb63abf81c7e6ebad",
+      "storageType": 0,
+      "url": "/public/map/Sun/orbis/Sun_MAIN_SCENE_ORBIS.zip/d5592cd4c82becbbb63abf81c7e6ebad.zip"
+    }
+  },
+  "data": {
+    "mapName": "Sun",
+    "title": "Sun",
+    "originalJDVersion": 2018,
+    "tags": [
+      "subscribedSong",
+      "JustDance2018",
+      "Medium",
+      "Solo"
+    ],
+    "artist": "Demo",
+    "credits": "Written by D.Postovalov and V.Polyakov. Published by ARS-records. All rights (C) V.Polyakov (Midler). Courtesy of ARS-Records. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#8601be",
+    "songColor2A": "#17edf0",
+    "songColor1B": "#1f0452",
+    "songColor2B": "#04105a",
+    "lyricsColor": "#faab2c"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        20880,
+        41760,
+        62592,
+        83472,
+        104352,
+        125232,
+        146064,
+        166944,
+        187824,
+        208704,
+        229584,
+        250416,
+        271296,
+        292176,
+        313056,
+        333936,
+        354768,
+        375648,
+        396528,
+        417408,
+        438240,
+        459120,
+        480000,
+        500880,
+        521760,
+        542592,
+        563472,
+        584352,
+        605232,
+        626064,
+        646944,
+        667825,
+        688705,
+        709585,
+        730417,
+        751297,
+        772177,
+        793057,
+        813937,
+        834769,
+        855649,
+        876529,
+        897409,
+        918241,
+        939121,
+        960001,
+        980881,
+        1001761,
+        1022593,
+        1043473,
+        1064353,
+        1085233,
+        1106065,
+        1126945,
+        1147825,
+        1168705,
+        1189585,
+        1210417,
+        1231297,
+        1252177,
+        1273057,
+        1293937,
+        1314770,
+        1335650,
+        1356530,
+        1377410,
+        1398242,
+        1419122,
+        1440002,
+        1460882,
+        1481762
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 500,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 69,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Sun/Sun_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Sun/nx/Sun_banner_bkg.tga.ckd/641631a54cec8b25265cc623d1a6d55c.ckd",
+      "map_bkgImageUrl": "/public/map/Sun/nx/Sun_map_bkg.tga.ckd/09e649c37a4294c23c31bdda6f6843c5.ckd",
+      "expandCoachImageUrl": "/public/map/Sun/nx/Sun_Cover_AlbumCoach.tga.ckd/915e39ccd3f8c353176d36f2b3b30a0a.ckd",
+      "cover_smallImageUrl": "/public/map/Sun/nx/Sun_Cover_Online.tga.ckd/517475e387b8df2a5f248fc3f5bc4302.ckd",
+      "coach1ImageUrl": "/public/map/Sun/nx/Sun_Coach_1.tga.ckd/ebe499a920bc9945254714328e483f28.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Sun/pc/Sun_banner_bkg.tga.ckd/22a8d1a3748dc5dab368c455a4bbd824.ckd",
+      "map_bkgImageUrl": "/public/map/Sun/pc/Sun_map_bkg.tga.ckd/28857198b3781ea0323babdaef7b0f3e.ckd",
+      "expandCoachImageUrl": "/public/map/Sun/pc/Sun_Cover_AlbumCoach.tga.ckd/9b103f9c8e98fe4ce3109afad40a58f7.ckd",
+      "cover_smallImageUrl": "/public/map/Sun/pc/Sun_Cover_Online.tga.ckd/f993854ef9e97f188be97463f28a90b5.ckd",
+      "coach1ImageUrl": "/public/map/Sun/pc/Sun_Coach_1.tga.ckd/0d48f5f9d435a21d6929b5e249d96bd6.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Sun/orbis/Sun_banner_bkg.tga.ckd/22a8d1a3748dc5dab368c455a4bbd824.ckd",
+      "map_bkgImageUrl": "/public/map/Sun/orbis/Sun_map_bkg.tga.ckd/28857198b3781ea0323babdaef7b0f3e.ckd",
+      "expandCoachImageUrl": "/public/map/Sun/orbis/Sun_Cover_AlbumCoach.tga.ckd/9b103f9c8e98fe4ce3109afad40a58f7.ckd",
+      "cover_smallImageUrl": "/public/map/Sun/orbis/Sun_Cover_Online.tga.ckd/f993854ef9e97f188be97463f28a90b5.ckd",
+      "coach1ImageUrl": "/public/map/Sun/orbis/Sun_Coach_1.tga.ckd/0d48f5f9d435a21d6929b5e249d96bd6.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Sun/Sun_Coach_1_Phone.png/91c5122fdda3bde58bfc734eed7016be.png",
+    "phoneCoverImageUrl": "/public/map/Sun/Sun_Cover_Phone.jpg/4f8fbb7d457e6e87b6713beeccd72897.jpg",
+    "cover640ImageUrl": "/public/map/Sun/Sun_Cover_640.png/09d2883a2a2a8c2aaec1e9767444abe4.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Sun/Sun.ogg": "/private/map/Sun/Sun.ogg/5cabba7b724bf96636f6648c8559fd3c.ogg",
+    "jmcs://jd-contents/Sun/Sun_AudioPreview.ogg": "/public/map/Sun/Sun_AudioPreview.ogg/736e78772e0024c198e7576583fc5fb9.ogg",
+    "jmcs://jd-contents/Sun/Sun_HIGH.webm": "/private/map/Sun/Sun_HIGH.webm/8bae945e8d71b8d281a53d7f06e6d692.webm",
+    "jmcs://jd-contents/Sun/Sun_LOW.webm": "/private/map/Sun/Sun_LOW.webm/a9fe1e5664a4a17bf040dbe67ce1c112.webm",
+    "jmcs://jd-contents/Sun/Sun_MID.webm": "/private/map/Sun/Sun_MID.webm/acfd4b7534ef00b328241890c32f0cd1.webm",
+    "jmcs://jd-contents/Sun/Sun_ULTRA.hd.webm": "/private/map/Sun/Sun_ULTRA.hd.webm/958ee574627e4b5a66bf12538dbaf601.webm",
+    "jmcs://jd-contents/Sun/Sun_ULTRA.webm": "/private/map/Sun/Sun_ULTRA.webm/80bbfba7c2cb6848c2c4c75952200dd0.webm",
+    "jmcs://jd-contents/Sun/Sun_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Sun/Sun_MapPreviewNoSoundCrop_LOW.vp8.webm/de57424376ecde4eb4d0d8a343db0f7a.webm",
+    "jmcs://jd-contents/Sun/Sun_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Sun/Sun_MapPreviewNoSoundCrop_MID.vp8.webm/5add0a8eea59d062be828cf9169b52cc.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496973\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sun/Sun_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"639-1128\">\n\t\t\t\t\t<Initialization range=\"0-639\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1478434\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sun/Sun_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\n\t\t\t\t\t<Initialization range=\"0-640\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 220.869313
+}

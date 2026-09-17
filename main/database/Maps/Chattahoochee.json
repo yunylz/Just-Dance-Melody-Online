@@ -1,0 +1,170 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Chattahoochee/Chattahoochee.ogg": "/private/map/Chattahoochee/Chattahoochee.ogg/403c10a2b4d996de1181b9d502e26b95.ogg",
+    "jmcs://jd-contents/Chattahoochee/Chattahoochee_AudioPreview.ogg": "/public/map/Chattahoochee/Chattahoochee_AudioPreview.ogg/d535dc86f468432d5d253645e2eab260.ogg",
+    "jmcs://jd-contents/Chattahoochee/Chattahoochee_HIGH.hd.webm": "/private/map/Chattahoochee/Chattahoochee_HIGH.hd.webm/dc15e178ef6c1689dff1ecfad9fb7807.webm",
+    "jmcs://jd-contents/Chattahoochee/Chattahoochee_LOW.hd.webm": "/private/map/Chattahoochee/Chattahoochee_LOW.hd.webm/a8a2d8e42a8303c1fdeeae332e8cb5dc.webm",
+    "jmcs://jd-contents/Chattahoochee/Chattahoochee_MID.hd.webm": "/private/map/Chattahoochee/Chattahoochee_MID.hd.webm/5c51651a335903b84c05ae9462a8907f.webm",
+    "jmcs://jd-contents/Chattahoochee/Chattahoochee_ULTRA.hd.webm": "/private/map/Chattahoochee/Chattahoochee_ULTRA.hd.webm/d1246336a275de3862e836af84e3023b.webm",
+    "jmcs://jd-contents/Chattahoochee/Chattahoochee_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Chattahoochee/Chattahoochee_MapPreviewNoSoundCrop_LOW.vp8.webm/ea8ea30703020b386b733791a082a1ec.webm",
+    "jmcs://jd-contents/Chattahoochee/Chattahoochee_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Chattahoochee/Chattahoochee_MapPreviewNoSoundCrop_MID.vp8.webm/2e907b1311141fc3e4cc575d264242f9.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        32990,
+        65979,
+        98969,
+        131959,
+        164948,
+        197938,
+        230928,
+        263918,
+        296907,
+        329897,
+        362887,
+        395876,
+        428866,
+        461856,
+        494845,
+        527835,
+        560825,
+        593814,
+        626804,
+        659794,
+        692784,
+        725773,
+        758763,
+        791753,
+        824742,
+        857732,
+        890722,
+        923711,
+        956701,
+        989691,
+        1022680,
+        1055670,
+        1088660,
+        1121649,
+        1154639,
+        1187629,
+        1220619,
+        1253608,
+        1286598,
+        1319588,
+        1352577,
+        1385567,
+        1418557,
+        1451546,
+        1484536,
+        1517526
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 216,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 44,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Chattahoochee/Chattahoochee_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"601641\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Chattahoochee/Chattahoochee_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1991638\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Chattahoochee/Chattahoochee_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "84b866385139f486f454c6541e45a0a0",
+      "storageType": 0,
+      "url": "/public/map/Chattahoochee/nx/Chattahoochee_MAIN_SCENE_NX.zip/84b866385139f486f454c6541e45a0a0.zip"
+    },
+    "pc": {
+      "md5": "1e3c72f41294cb18fab6387fb2302133",
+      "storageType": 0,
+      "url": "/public/map/Chattahoochee/pc/Chattahoochee_MAIN_SCENE_PC.zip/1e3c72f41294cb18fab6387fb2302133.zip"
+    },
+    "ps4": {
+      "md5": "8e7eb5aee29426bfbbcddf4bb077ecd8",
+      "storageType": 0,
+      "url": "/public/map/Chattahoochee/orbis/Chattahoochee_MAIN_SCENE_ORBIS.zip/8e7eb5aee29426bfbbcddf4bb077ecd8.zip"
+    }
+  },
+  "data": {
+    "mapName": "Chattahoochee",
+    "title": "Chattahoochee",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Alan Jackson",
+    "credits": "Written by Alan Jackson, Jim McBride. Published by Sony ATV Cross Keys Publishing / WC Music Corp. Courtesy of Sony Music Nashville. By arrangement with Sony Music Entertainment.",
+    "coachCount": 4,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#de09ba",
+    "songColor2A": "#f9c219",
+    "songColor1B": "#05000a",
+    "songColor2B": "#771203",
+    "lyricsColor": "#74b9ff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Chattahoochee/nx/Chattahoochee_banner_bkg.tga.ckd/7604f49f74f9acbc37db1a6ec5b1d91e.ckd",
+      "map_bkgImageUrl": "/public/map/Chattahoochee/nx/Chattahoochee_map_bkg.tga.ckd/dc43bcf4d6d695cef09607d2911ee7a2.ckd",
+      "expandCoachImageUrl": "/public/map/Chattahoochee/nx/Chattahoochee_Cover_AlbumCoach.tga.ckd/8a8ac7e881c7cfde0e2ec697ae9e04e9.ckd",
+      "cover_smallImageUrl": "/public/map/Chattahoochee/nx/Chattahoochee_Cover_Online.tga.ckd/4fa4c84c9b1f30475f669649ee38bd44.ckd",
+      "coverImageUrl": "/public/map/Chattahoochee/nx/Chattahoochee_Cover_Generic.tga.ckd/94fabcef3be7b3fa52c9332d464ff18d.ckd",
+      "coach1ImageUrl": "/public/map/Chattahoochee/nx/Chattahoochee_Coach_1.tga.ckd/c7afd7e55bf14ada91cd9a24ce900205.ckd",
+      "coach2ImageUrl": "/public/map/Chattahoochee/nx/Chattahoochee_Coach_2.tga.ckd/2d551044c34fd20e55c20e8f2cc10f8b.ckd",
+      "coach3ImageUrl": "/public/map/Chattahoochee/nx/Chattahoochee_Coach_3.tga.ckd/2c00a37afff66d1ce30fc57531639cfa.ckd",
+      "coach4ImageUrl": "/public/map/Chattahoochee/nx/Chattahoochee_Coach_4.tga.ckd/b48dceeb55e3faa419e3e3c2700b8110.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Chattahoochee/pc/Chattahoochee_banner_bkg.tga.ckd/c90f79b11cc94be5e9336668cfa98734.ckd",
+      "map_bkgImageUrl": "/public/map/Chattahoochee/pc/Chattahoochee_map_bkg.tga.ckd/b75d7a1e85af22e6297e934234afd477.ckd",
+      "expandCoachImageUrl": "/public/map/Chattahoochee/pc/Chattahoochee_Cover_AlbumCoach.tga.ckd/55323aa23ef0f75d39e9ff4cf5724bf5.ckd",
+      "cover_smallImageUrl": "/public/map/Chattahoochee/pc/Chattahoochee_Cover_Online.tga.ckd/b5ee2ed2cdc429d480ea5dd10ee3360c.ckd",
+      "coverImageUrl": "/public/map/Chattahoochee/pc/Chattahoochee_Cover_Generic.tga.ckd/28bef7e94e4efdbc2eccb58e5a1089ea.ckd",
+      "coach1ImageUrl": "/public/map/Chattahoochee/pc/Chattahoochee_Coach_1.tga.ckd/484d6a0e7c57dea6382aaf40a60950c8.ckd",
+      "coach2ImageUrl": "/public/map/Chattahoochee/pc/Chattahoochee_Coach_2.tga.ckd/69ae5428032430c9fb2b39738f197973.ckd",
+      "coach3ImageUrl": "/public/map/Chattahoochee/pc/Chattahoochee_Coach_3.tga.ckd/243e2552f65902a3ba753a5efe297e2f.ckd",
+      "coach4ImageUrl": "/public/map/Chattahoochee/pc/Chattahoochee_Coach_4.tga.ckd/7e7a37a3c95acb3c3426e15474b22569.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Chattahoochee/orbis/Chattahoochee_banner_bkg.tga.ckd/c90f79b11cc94be5e9336668cfa98734.ckd",
+      "map_bkgImageUrl": "/public/map/Chattahoochee/orbis/Chattahoochee_map_bkg.tga.ckd/b75d7a1e85af22e6297e934234afd477.ckd",
+      "expandCoachImageUrl": "/public/map/Chattahoochee/orbis/Chattahoochee_Cover_AlbumCoach.tga.ckd/55323aa23ef0f75d39e9ff4cf5724bf5.ckd",
+      "cover_smallImageUrl": "/public/map/Chattahoochee/orbis/Chattahoochee_Cover_Online.tga.ckd/b5ee2ed2cdc429d480ea5dd10ee3360c.ckd",
+      "coverImageUrl": "/public/map/Chattahoochee/orbis/Chattahoochee_Cover_Generic.tga.ckd/28bef7e94e4efdbc2eccb58e5a1089ea.ckd",
+      "coach1ImageUrl": "/public/map/Chattahoochee/orbis/Chattahoochee_Coach_1.tga.ckd/484d6a0e7c57dea6382aaf40a60950c8.ckd",
+      "coach2ImageUrl": "/public/map/Chattahoochee/orbis/Chattahoochee_Coach_2.tga.ckd/69ae5428032430c9fb2b39738f197973.ckd",
+      "coach3ImageUrl": "/public/map/Chattahoochee/orbis/Chattahoochee_Coach_3.tga.ckd/243e2552f65902a3ba753a5efe297e2f.ckd",
+      "coach4ImageUrl": "/public/map/Chattahoochee/orbis/Chattahoochee_Coach_4.tga.ckd/7e7a37a3c95acb3c3426e15474b22569.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Chattahoochee/Chattahoochee_Coach_1_Phone.png/afe9386ce1804763152af3027544ee3e.png",
+    "phoneCoach2ImageUrl": "/public/map/Chattahoochee/Chattahoochee_Coach_2_Phone.png/d0848fb123a4da0287830f6a514d786a.png",
+    "phoneCoach3ImageUrl": "/public/map/Chattahoochee/Chattahoochee_Coach_3_Phone.png/35d2ab6110794e673472a0c3b83f69c1.png",
+    "phoneCoach4ImageUrl": "/public/map/Chattahoochee/Chattahoochee_Coach_4_Phone.png/1559ea8afe98520d49c80ba0e0b1f472.png",
+    "phoneCoverImageUrl": "/public/map/Chattahoochee/Chattahoochee_Cover_Phone.jpg/5de886081e646ecdcbd34d7a179b2956.jpg",
+    "cover640ImageUrl": "/public/map/Chattahoochee/Chattahoochee_Cover_640.png/af0b1a206e6429570482f034fac37c11.png"
+  },
+  "mapLength": 153.664208
+}

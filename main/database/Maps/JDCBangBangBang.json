@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "bcde2030f04b72ed3b71ccfd1baaedd1",
+      "storageType": 0,
+      "url": "/public/map/JDCBangBangBang/nx/JDCBangBangBang_MAIN_SCENE_NX.zip/bcde2030f04b72ed3b71ccfd1baaedd1.zip"
+    },
+    "pc": {
+      "md5": "020394c57232df7b93864463f3c3af08",
+      "storageType": 0,
+      "url": "/public/map/JDCBangBangBang/pc/JDCBangBangBang_MAIN_SCENE_PC.zip/020394c57232df7b93864463f3c3af08.zip"
+    },
+    "ps4": {
+      "md5": "1c67ed1309cc2636d3589c8a9364ab0b",
+      "storageType": 0,
+      "url": "/public/map/JDCBangBangBang/orbis/JDCBangBangBang_MAIN_SCENE_ORBIS.zip/1c67ed1309cc2636d3589c8a9364ab0b.zip"
+    }
+  },
+  "data": {
+    "mapName": "JDCBangBangBang",
+    "title": "Bang Bang Bang",
+    "originalJDVersion": 2016,
+    "tags": [
+      "Main"
+    ],
+    "artist": "BIGBANG",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#1eefe2",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21311,
+        42671,
+        63983,
+        85343,
+        106655,
+        128015,
+        149327,
+        170687,
+        191999,
+        213311,
+        234671,
+        255983,
+        277343,
+        298655,
+        320015,
+        341327,
+        362687,
+        383999,
+        405311,
+        426671,
+        447983,
+        469343,
+        490655,
+        512015,
+        533327,
+        554687,
+        575999,
+        597311,
+        618671,
+        639983,
+        661343,
+        682655,
+        704014,
+        725326,
+        746686,
+        767998,
+        789310,
+        810670,
+        831982,
+        853342,
+        874654,
+        896014,
+        917326,
+        938686,
+        959998,
+        981310,
+        1002670,
+        1023982,
+        1045342,
+        1066654,
+        1088014,
+        1109326,
+        1130686,
+        1151998,
+        1173310,
+        1194670,
+        1215982,
+        1237342,
+        1258654,
+        1280014,
+        1301326,
+        1322686,
+        1343998,
+        1365310,
+        1386670,
+        1407981,
+        1429341,
+        1450653,
+        1472013,
+        1493325
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 494,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 68,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/JDCBangBangBang/JDCBangBangBang_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/JDCBangBangBang/nx/JDCBangBangBang_banner_bkg.tga.ckd/23384ff14f6daef41491438ca990c038.ckd",
+      "map_bkgImageUrl": "/public/map/JDCBangBangBang/nx/JDCBangBangBang_map_bkg.tga.ckd/e2c3eb3347315c19ac3d5406f20a6276.ckd",
+      "expandCoachImageUrl": "/public/map/JDCBangBangBang/nx/JDCBangBangBang_Cover_AlbumCoach.tga.ckd/54131061b719cb62ae24b07264c30664.ckd",
+      "cover_smallImageUrl": "/public/map/JDCBangBangBang/nx/JDCBangBangBang_Cover_Online.tga.ckd/430a4f70cf852387ed2e3a467b187c08.ckd",
+      "coach1ImageUrl": "/public/map/JDCBangBangBang/nx/JDCBangBangBang_Coach_1.tga.ckd/c6b144763219b8c3d2b710c006eecdfb.ckd",
+      "coach2ImageUrl": "/public/map/JDCBangBangBang/nx/JDCBangBangBang_Coach_2.tga.ckd/b0df33519ddce2163137211a53f5ac53.ckd",
+      "coach3ImageUrl": "/public/map/JDCBangBangBang/nx/JDCBangBangBang_Coach_3.tga.ckd/c6b144763219b8c3d2b710c006eecdfb.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/JDCBangBangBang/pc/JDCBangBangBang_banner_bkg.tga.ckd/169a9c3868785eefa6fe711b7c009c29.ckd",
+      "map_bkgImageUrl": "/public/map/JDCBangBangBang/pc/JDCBangBangBang_map_bkg.tga.ckd/430ec9c4781a51a712d46daedc25314b.ckd",
+      "expandCoachImageUrl": "/public/map/JDCBangBangBang/pc/JDCBangBangBang_Cover_AlbumCoach.tga.ckd/302854502356e807d71e5081f9de1394.ckd",
+      "cover_smallImageUrl": "/public/map/JDCBangBangBang/pc/JDCBangBangBang_Cover_Online.tga.ckd/a2dc7d5a719af3da45a93c9587ac554d.ckd",
+      "coach1ImageUrl": "/public/map/JDCBangBangBang/pc/JDCBangBangBang_Coach_1.tga.ckd/e326e267f6687e40c969c39550bccd32.ckd",
+      "coach2ImageUrl": "/public/map/JDCBangBangBang/pc/JDCBangBangBang_Coach_2.tga.ckd/7d77e672ba2f0623b55262847684ddf4.ckd",
+      "coach3ImageUrl": "/public/map/JDCBangBangBang/pc/JDCBangBangBang_Coach_3.tga.ckd/e326e267f6687e40c969c39550bccd32.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/JDCBangBangBang/orbis/JDCBangBangBang_banner_bkg.tga.ckd/169a9c3868785eefa6fe711b7c009c29.ckd",
+      "map_bkgImageUrl": "/public/map/JDCBangBangBang/orbis/JDCBangBangBang_map_bkg.tga.ckd/430ec9c4781a51a712d46daedc25314b.ckd",
+      "expandCoachImageUrl": "/public/map/JDCBangBangBang/orbis/JDCBangBangBang_Cover_AlbumCoach.tga.ckd/302854502356e807d71e5081f9de1394.ckd",
+      "cover_smallImageUrl": "/public/map/JDCBangBangBang/orbis/JDCBangBangBang_Cover_Online.tga.ckd/a2dc7d5a719af3da45a93c9587ac554d.ckd",
+      "coach1ImageUrl": "/public/map/JDCBangBangBang/orbis/JDCBangBangBang_Coach_1.tga.ckd/e326e267f6687e40c969c39550bccd32.ckd",
+      "coach2ImageUrl": "/public/map/JDCBangBangBang/orbis/JDCBangBangBang_Coach_2.tga.ckd/7d77e672ba2f0623b55262847684ddf4.ckd",
+      "coach3ImageUrl": "/public/map/JDCBangBangBang/orbis/JDCBangBangBang_Coach_3.tga.ckd/e326e267f6687e40c969c39550bccd32.ckd"
+    }
+  },
+  "urls": {
+    "jmcs://jd-contents/JDCBangBangBang/JDCBangBangBang.ogg": "/private/map/JDCBangBangBang/JDCBangBangBang.ogg/fab888ee6e9d6d9917d06cd50faa1eb0.ogg",
+    "jmcs://jd-contents/JDCBangBangBang/JDCBangBangBang_AudioPreview.ogg": "/public/map/JDCBangBangBang/JDCBangBangBang_AudioPreview.ogg/161e235fa00d58d9759539165a7b7f0b.ogg",
+    "jmcs://jd-contents/JDCBangBangBang/JDCBangBangBang_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/JDCBangBangBang/JDCBangBangBang_MapPreviewNoSoundCrop_LOW.vp8.webm/d958d46876e8adfabfb2f612f6d5aad2.webm",
+    "jmcs://jd-contents/JDCBangBangBang/JDCBangBangBang_HIGH.webm": "/private/map/JDCBangBangBang/JDCBangBangBang_HIGH.webm/fd7cc5d4cbba7f29f9e2c1b4db2ced92.webm",
+    "jmcs://jd-contents/JDCBangBangBang/JDCBangBangBang_LOW.webm": "/private/map/JDCBangBangBang/JDCBangBangBang_LOW.webm/908cefeff2138373befe9ee42afb5793.webm",
+    "jmcs://jd-contents/JDCBangBangBang/JDCBangBangBang_MID.webm": "/private/map/JDCBangBangBang/JDCBangBangBang_MID.webm/4413a3987e3480a3fe0bbdd2e68e14de.webm",
+    "jmcs://jd-contents/JDCBangBangBang/JDCBangBangBang_ULTRA.hd.webm": "/private/map/JDCBangBangBang/JDCBangBangBang_ULTRA.hd.webm/f177bb307e445beb68968c8cce75bb6c.webm",
+    "jmcs://jd-contents/JDCBangBangBang/JDCBangBangBang_ULTRA.webm": "/private/map/JDCBangBangBang/JDCBangBangBang_ULTRA.webm/c513cf63e309d74614b903f989fcc192.webm"
+  }
+}

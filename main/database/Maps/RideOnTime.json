@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9da9f00dda88bd2551ec5570610631db",
+      "storageType": 0,
+      "url": "/public/map/RideOnTime/nx/RideOnTime_MAIN_SCENE_NX.zip/9da9f00dda88bd2551ec5570610631db.zip"
+    },
+    "pc": {
+      "md5": "50fd017aa99642b71fffd14480f20739",
+      "storageType": 0,
+      "url": "/public/map/RideOnTime/pc/RideOnTime_MAIN_SCENE_PC.zip/50fd017aa99642b71fffd14480f20739.zip"
+    },
+    "ps4": {
+      "md5": "ebfa39459e16a7e7f56cb2e2b18b5674",
+      "storageType": 0,
+      "url": "/public/map/RideOnTime/orbis/RideOnTime_MAIN_SCENE_ORBIS.zip/ebfa39459e16a7e7f56cb2e2b18b5674.zip"
+    }
+  },
+  "data": {
+    "mapName": "RideOnTime",
+    "title": "Ride On Time",
+    "originalJDVersion": 1001,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "jdwii2",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "MAX",
+    "credits": "",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ed348d"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21168,
+        44784,
+        68400,
+        92016,
+        115632,
+        139200,
+        162816,
+        186432,
+        210048,
+        233664,
+        257232,
+        280848,
+        304464,
+        328080,
+        351696,
+        375264,
+        398880,
+        422496,
+        446112,
+        469680,
+        493296,
+        516912,
+        540528,
+        564144,
+        587712,
+        611328,
+        634944,
+        658560,
+        682176,
+        705744,
+        729360,
+        752976,
+        776592,
+        800208,
+        823776,
+        847392,
+        871008,
+        894624,
+        918240,
+        941808,
+        965424,
+        989040,
+        1012656,
+        1036224,
+        1059840,
+        1083456,
+        1107072,
+        1130688,
+        1154256,
+        1177872,
+        1201488,
+        1225104,
+        1248720,
+        1272288,
+        1295904,
+        1319520,
+        1343136,
+        1366752,
+        1390320,
+        1413936,
+        1437552,
+        1461168,
+        1484784
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 503,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/RideOnTime/RideOnTime_AudioPreview.ogg"
+  },
+  "urls": {
+    "jmcs://jd-contents/RideOnTime/RideOnTime.ogg": "/private/map/RideOnTime/RideOnTime.ogg/11957d720ab6a8a88f18c95eb1705b86.ogg",
+    "jmcs://jd-contents/RideOnTime/RideOnTime_AudioPreview.ogg": "/public/map/RideOnTime/RideOnTime_AudioPreview.ogg/d156f8aa27672dd01ba333a888e03078.ogg",
+    "jmcs://jd-contents/RideOnTime/RideOnTime_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/RideOnTime/RideOnTime_MapPreviewNoSoundCrop_LOW.vp8.webm/d6cd3c8840fbd66c27908b6495d860a9.webm",
+    "jmcs://jd-contents/RideOnTime/RideOnTime_HIGH.webm": "/private/map/RideOnTime/RideOnTime_HIGH.webm/c97eaf5e338affcb3265e079fba7e85d.webm",
+    "jmcs://jd-contents/RideOnTime/RideOnTime_LOW.webm": "/private/map/RideOnTime/RideOnTime_LOW.webm/a25cf64384b9140189ea7206e0ccc520.webm",
+    "jmcs://jd-contents/RideOnTime/RideOnTime_MID.webm": "/private/map/RideOnTime/RideOnTime_MID.webm/29e67e36b284b58a15767494ef481dd6.webm",
+    "jmcs://jd-contents/RideOnTime/RideOnTime_ULTRA.webm": "/private/map/RideOnTime/RideOnTime_ULTRA.webm/b6580a4494b9220b1778cfd234900369.webm",
+    "jmcs://jd-contents/RideOnTime/RideOnTime_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/RideOnTime/RideOnTime_MapPreviewNoSoundCrop_MID.vp8.webm/42168201addea1249d5ed321db24e25b.webm"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/RideOnTime/nx/RideOnTime_banner_bkg.tga.ckd/637d093ffef1d709c72f90c9bfdc60e2.ckd",
+      "map_bkgImageUrl": "/public/map/RideOnTime/nx/RideOnTime_map_bkg.tga.ckd/637d093ffef1d709c72f90c9bfdc60e2.ckd",
+      "expandCoachImageUrl": "/public/map/RideOnTime/nx/RideOnTime_Cover_AlbumCoach.tga.ckd/1061161f6f45cdb02e37b00753fb5709.ckd",
+      "cover_smallImageUrl": "/public/map/RideOnTime/nx/RideOnTime_Cover_Online.tga.ckd/7a140a78a468bbd213cf523f8e553d55.ckd",
+      "coach1ImageUrl": "/public/map/RideOnTime/nx/RideOnTime_Coach_1.tga.ckd/1061161f6f45cdb02e37b00753fb5709.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/RideOnTime/pc/RideOnTime_banner_bkg.tga.ckd/9359466549e56faf800990ca700c9dcc.ckd",
+      "map_bkgImageUrl": "/public/map/RideOnTime/pc/RideOnTime_map_bkg.tga.ckd/9359466549e56faf800990ca700c9dcc.ckd",
+      "expandCoachImageUrl": "/public/map/RideOnTime/pc/RideOnTime_Cover_AlbumCoach.tga.ckd/eabab7691e8d12bb1090f61dbca7ab49.ckd",
+      "cover_smallImageUrl": "/public/map/RideOnTime/pc/RideOnTime_Cover_Online.tga.ckd/d4a135d0661a6310ae99ba40e3ebcbe1.ckd",
+      "coach1ImageUrl": "/public/map/RideOnTime/pc/RideOnTime_Coach_1.tga.ckd/eabab7691e8d12bb1090f61dbca7ab49.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/RideOnTime/orbis/RideOnTime_banner_bkg.tga.ckd/9359466549e56faf800990ca700c9dcc.ckd",
+      "map_bkgImageUrl": "/public/map/RideOnTime/orbis/RideOnTime_map_bkg.tga.ckd/9359466549e56faf800990ca700c9dcc.ckd",
+      "expandCoachImageUrl": "/public/map/RideOnTime/orbis/RideOnTime_Cover_AlbumCoach.tga.ckd/eabab7691e8d12bb1090f61dbca7ab49.ckd",
+      "cover_smallImageUrl": "/public/map/RideOnTime/orbis/RideOnTime_Cover_Online.tga.ckd/d4a135d0661a6310ae99ba40e3ebcbe1.ckd",
+      "coach1ImageUrl": "/public/map/RideOnTime/orbis/RideOnTime_Coach_1.tga.ckd/eabab7691e8d12bb1090f61dbca7ab49.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/RideOnTime/RideOnTime_Coach_1_Phone.png/77a01916b36fb9a006f83b70c09eaede.png",
+    "phoneCoverImageUrl": "/public/map/RideOnTime/RideOnTime_Cover_Phone.jpg/a4fa152a22ed778afd86060e001f4b0c.jpg",
+    "cover640ImageUrl": "/public/map/RideOnTime/RideOnTime_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"498989\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RideOnTime/RideOnTime_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1491758\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/RideOnTime/RideOnTime_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 251.559
+}

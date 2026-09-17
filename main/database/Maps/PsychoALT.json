@@ -1,0 +1,150 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7022d2d2f9eabe361387c3a72dc30e64",
+      "storageType": 0,
+      "url": "/public/map/PsychoALT/nx/PsychoALT_MAIN_SCENE_NX.zip/7022d2d2f9eabe361387c3a72dc30e64.zip"
+    },
+    "pc": {
+      "md5": "b2a9d2e08d83a2db61b7043f4d1156ef",
+      "storageType": 0,
+      "url": "/public/map/PsychoALT/pc/PsychoALT_MAIN_SCENE_PC.zip/b2a9d2e08d83a2db61b7043f4d1156ef.zip"
+    },
+    "ps4": {
+      "md5": "ef831d73ad24b52e0b777ab81e48ce78",
+      "storageType": 0,
+      "url": "/public/map/PsychoALT/orbis/PsychoALT_MAIN_SCENE_ORBIS.zip/ef831d73ad24b52e0b777ab81e48ce78.zip"
+    }
+  },
+  "data": {
+    "mapName": "PsychoALT",
+    "title": "Psycho",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Red Velvet",
+    "credits": "Written by Cazzi Opeia, Nam Yong Yoo, Kim Yeon-Jung, Kim Eun Jae, Andrew Phillip Scott. Published by EKKO Music Rights Europe [SESAC], Culture Technology Group Asia. Admin by Kobalt Songs Music Publishing / BMG Platinum Songs US (BMI) obo Cheatbreaker Music Group (BMI) All rights administered by BMG Rights Management (US) LLC. Courtesy of SM Entertainment Co., Ltd.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#f895a7",
+    "songColor2A": "#f8be9a",
+    "songColor1B": "#7a082e",
+    "songColor2B": "#7f4e2f",
+    "lyricsColor": "#d53578",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        41143,
+        82286,
+        123429,
+        164571,
+        205714,
+        246857,
+        288000,
+        329143,
+        370286,
+        411429,
+        452571,
+        493714,
+        534857,
+        576000,
+        617143,
+        658286,
+        699429,
+        740571,
+        781714,
+        822857,
+        864000,
+        905143,
+        946286,
+        987429,
+        1028571,
+        1069714,
+        1110857,
+        1152000,
+        1193143,
+        1234286,
+        1275429,
+        1316571,
+        1357714,
+        1398857,
+        1440000,
+        1481143,
+        1522286
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 245,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 35,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/PsychoALT/PsychoALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/PsychoALT/nx/PsychoALT_banner_bkg.tga.ckd/3b5742830b19afd1591a475b2cfeb2c9.ckd",
+      "map_bkgImageUrl": "/public/map/PsychoALT/nx/PsychoALT_map_bkg.tga.ckd/a4f694536840378ce9be9e7515e8d656.ckd",
+      "expandCoachImageUrl": "/public/map/PsychoALT/nx/PsychoALT_Cover_AlbumCoach.tga.ckd/db802463fe5e50050200f3a1bf18d602.ckd",
+      "cover_smallImageUrl": "/public/map/PsychoALT/nx/PsychoALT_Cover_Online.tga.ckd/edbed841c80be33fe946729bb723cdb9.ckd",
+      "coverImageUrl": "/public/map/PsychoALT/nx/PsychoALT_Cover_Generic.tga.ckd/b72a2cbf5a5996ee6c024fa5ba0c5dca.ckd",
+      "coach1ImageUrl": "/public/map/PsychoALT/nx/PsychoALT_Coach_1.tga.ckd/0e3c426e81470d7c8e78fe1b676c6dcd.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/PsychoALT/pc/PsychoALT_banner_bkg.tga.ckd/4f038b652671a1e48510c6a603d7fcf3.ckd",
+      "map_bkgImageUrl": "/public/map/PsychoALT/pc/PsychoALT_map_bkg.tga.ckd/b2231d2f4c010a1ba50403ab7038e2b9.ckd",
+      "expandCoachImageUrl": "/public/map/PsychoALT/pc/PsychoALT_Cover_AlbumCoach.tga.ckd/9a268a8936e8b215a263bde33ed08949.ckd",
+      "cover_smallImageUrl": "/public/map/PsychoALT/pc/PsychoALT_Cover_Online.tga.ckd/10aeebfb3a6078381a25f1ce154ba4bf.ckd",
+      "coverImageUrl": "/public/map/PsychoALT/pc/PsychoALT_Cover_Generic.tga.ckd/f752036bb21d4e1052329fb329df5d20.ckd",
+      "coach1ImageUrl": "/public/map/PsychoALT/pc/PsychoALT_Coach_1.tga.ckd/3483935f90db40937840eb9f6924d471.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/PsychoALT/orbis/PsychoALT_banner_bkg.tga.ckd/4f038b652671a1e48510c6a603d7fcf3.ckd",
+      "map_bkgImageUrl": "/public/map/PsychoALT/orbis/PsychoALT_map_bkg.tga.ckd/b2231d2f4c010a1ba50403ab7038e2b9.ckd",
+      "expandCoachImageUrl": "/public/map/PsychoALT/orbis/PsychoALT_Cover_AlbumCoach.tga.ckd/9a268a8936e8b215a263bde33ed08949.ckd",
+      "cover_smallImageUrl": "/public/map/PsychoALT/orbis/PsychoALT_Cover_Online.tga.ckd/10aeebfb3a6078381a25f1ce154ba4bf.ckd",
+      "coverImageUrl": "/public/map/PsychoALT/orbis/PsychoALT_Cover_Generic.tga.ckd/f752036bb21d4e1052329fb329df5d20.ckd",
+      "coach1ImageUrl": "/public/map/PsychoALT/orbis/PsychoALT_Coach_1.tga.ckd/3483935f90db40937840eb9f6924d471.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/PsychoALT/PsychoALT_Coach_1_Phone.png/59b562a71598cf2ec092e52ac2bb4f3b.png",
+    "phoneCoverImageUrl": "/public/map/PsychoALT/PsychoALT_Cover_Phone.jpg/ddee05af4a0ae4710e9e7fe1274517c3.jpg",
+    "cover640ImageUrl": "/public/map/PsychoALT/PsychoALT_Cover_640.png/d2fcab6cc10687cbdefe4e7fd5a0237e.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/PsychoALT/PsychoALT.ogg": "/private/map/PsychoALT/PsychoALT.ogg/bb86fc5f7b2ecfbb257cb6457f808dab.ogg",
+    "jmcs://jd-contents/PsychoALT/PsychoALT_AudioPreview.ogg": "/public/map/PsychoALT/PsychoALT_AudioPreview.ogg/53a395f769929dd58b4641a1e1d3734e.ogg",
+    "jmcs://jd-contents/PsychoALT/PsychoALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/PsychoALT/PsychoALT_MapPreviewNoSoundCrop_LOW.vp8.webm/7a7ed25525c5d1e011b8f23fb7b1b24a.webm",
+    "jmcs://jd-contents/PsychoALT/PsychoALT_HIGH.webm": "/private/map/PsychoALT/PsychoALT_HIGH.webm/445844261285919979cb23ff5f6af66e.webm",
+    "jmcs://jd-contents/PsychoALT/PsychoALT_LOW.webm": "/private/map/PsychoALT/PsychoALT_LOW.webm/555195a9cebf7f4616e0443577e40095.webm",
+    "jmcs://jd-contents/PsychoALT/PsychoALT_MID.webm": "/private/map/PsychoALT/PsychoALT_MID.webm/56e3264f8e54ca31d3547a594d87b36c.webm",
+    "jmcs://jd-contents/PsychoALT/PsychoALT_ULTRA.hd.webm": "/private/map/PsychoALT/PsychoALT_ULTRA.hd.webm/20cfd43af288a1e14895ebf4cf46a91f.webm",
+    "jmcs://jd-contents/PsychoALT/PsychoALT_ULTRA.webm": "/private/map/PsychoALT/PsychoALT_ULTRA.webm/4199c3b9e9efc19750c02a949efd0cca.webm",
+    "jmcs://jd-contents/PsychoALT/PsychoALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/PsychoALT/PsychoALT_MapPreviewNoSoundCrop_MID.vp8.webm/23bc986080ad631e88e98c17fe04dac7.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"520208\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PsychoALT/PsychoALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"663-1153\">\n\t\t\t\t\t<Initialization range=\"0-663\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1500896\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/PsychoALT/PsychoALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"664-1154\">\n\t\t\t\t\t<Initialization range=\"0-664\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 215.143
+}

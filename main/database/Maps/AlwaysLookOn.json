@@ -1,0 +1,176 @@
+{
+  "urls": {
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn.ogg": "/private/map/AlwaysLookOn/AlwaysLookOn.ogg/98fed22df9afb3e2d00b766cbde2dc7f.ogg",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_AudioPreview.ogg": "/public/map/AlwaysLookOn/AlwaysLookOn_AudioPreview.ogg/1f94b874f61ab9499871a7ca89ecf671.ogg",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_HIGH.hd.webm": "/private/map/AlwaysLookOn/AlwaysLookOn_HIGH.hd.webm/1c18608583dbbe21376114c732c84a8c.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_LOW.hd.webm": "/private/map/AlwaysLookOn/AlwaysLookOn_LOW.hd.webm/a9b2a75c8743f2657e927bbc7a4293be.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MID.hd.webm": "/private/map/AlwaysLookOn/AlwaysLookOn_MID.hd.webm/c977760c7678cd6fb4f764b3fec5db54.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_ULTRA.hd.webm": "/private/map/AlwaysLookOn/AlwaysLookOn_ULTRA.hd.webm/8357c0c3b22501973e601aeb3a0500ac.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_LOW.vp8.webm/7ccbeb7c26986d601f294dfd4b7ed7a8.webm",
+    "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/AlwaysLookOn/AlwaysLookOn_MapPreviewNoSoundCrop_MID.vp8.webm/411fd4182af972369634bd1e2498b41d.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22847,
+        45743,
+        68591,
+        91439,
+        114287,
+        137183,
+        160079,
+        186719,
+        213407,
+        242687,
+        272015,
+        301343,
+        330623,
+        357887,
+        385199,
+        412463,
+        439727,
+        464783,
+        489839,
+        514895,
+        539951,
+        567119,
+        594287,
+        621455,
+        648623,
+        677327,
+        705983,
+        735599,
+        765167,
+        797999,
+        830831,
+        867790,
+        910750,
+        948478,
+        986206,
+        1023934,
+        1058542,
+        1093198,
+        1129150,
+        1165102,
+        1201054,
+        1223902,
+        1246750,
+        1269598,
+        1292494,
+        1315342,
+        1338190,
+        1361038,
+        1383886,
+        1406782,
+        1429630,
+        1452478,
+        1475326
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -9,
+      "endBeat": 407,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 51,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/AlwaysLookOn/AlwaysLookOn_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "5dca82af5e3b53dde24c294c0acacdc3",
+      "storageType": 0,
+      "url": "/public/map/AlwaysLookOn/nx/AlwaysLookOn_MAIN_SCENE_NX.zip/5dca82af5e3b53dde24c294c0acacdc3.zip"
+    },
+    "pc": {
+      "md5": "0d73d57031cb0fbd92513057198cb886",
+      "storageType": 0,
+      "url": "/public/map/AlwaysLookOn/pc/AlwaysLookOn_MAIN_SCENE_PC.zip/0d73d57031cb0fbd92513057198cb886.zip"
+    },
+    "ps4": {
+      "md5": "d0f11e9ed90afe27d3a6de14a1abc63d",
+      "storageType": 0,
+      "url": "/public/map/AlwaysLookOn/orbis/AlwaysLookOn_MAIN_SCENE_ORBIS.zip/d0f11e9ed90afe27d3a6de14a1abc63d.zip"
+    }
+  },
+  "data": {
+    "mapName": "AlwaysLookOn",
+    "title": "Always Look On The Bright Side Of Life",
+    "originalJDVersion": 2020,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Frankie Bostello Orchestra",
+    "credits": "Written by Eric Idle. Published by Universal – PolyGram Int. Tunes, Inc. on behalf of Universal Music Publishing Ltd. Performed by Steve Ouimette, Pete Whitfield, Willie Murillo, Paul Klintworth and Jay Mason. Vocals by Gilbert Gnarley, Emily Benford, Steve Ouimette and Becky Martin. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+    "coachCount": 4,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#b04c08",
+    "songColor2A": "#b38600",
+    "songColor1B": "#2517ff",
+    "songColor2B": "#b84f05",
+    "lyricsColor": "#1e9dfe",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/AlwaysLookOn/nx/AlwaysLookOn_banner_bkg.tga.ckd/20a09bd2ca397bfff920f5f8e3c96325.ckd",
+      "map_bkgImageUrl": "/public/map/AlwaysLookOn/nx/AlwaysLookOn_map_bkg.tga.ckd/5746753f21dc0d63e5591333eefd194b.ckd",
+      "expandCoachImageUrl": "/public/map/AlwaysLookOn/nx/AlwaysLookOn_Cover_AlbumCoach.tga.ckd/e80722b250208843e60ea7851cbd27f5.ckd",
+      "cover_smallImageUrl": "/public/map/AlwaysLookOn/nx/AlwaysLookOn_Cover_Online.tga.ckd/e03f71a7bef55dd73ef22fe9f5e8377a.ckd",
+      "coverImageUrl": "/public/map/AlwaysLookOn/nx/AlwaysLookOn_Cover_Generic.tga.ckd/8e459e553c46141e4a37ba9591a1c18d.ckd",
+      "coach1ImageUrl": "/public/map/AlwaysLookOn/nx/AlwaysLookOn_Coach_1.tga.ckd/03c11208b40716e77340a2591d57fe07.ckd",
+      "coach2ImageUrl": "/public/map/AlwaysLookOn/nx/AlwaysLookOn_Coach_2.tga.ckd/7a2ca58346f012bf3042c67b59324583.ckd",
+      "coach3ImageUrl": "/public/map/AlwaysLookOn/nx/AlwaysLookOn_Coach_3.tga.ckd/84d5f376254ce8838303276f9d950dce.ckd",
+      "coach4ImageUrl": "/public/map/AlwaysLookOn/nx/AlwaysLookOn_Coach_4.tga.ckd/6049e504ae5e05719e4d3e3d9736e96f.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/AlwaysLookOn/pc/AlwaysLookOn_banner_bkg.tga.ckd/8b3892b9f35c3765af928ad71bcf729e.ckd",
+      "map_bkgImageUrl": "/public/map/AlwaysLookOn/pc/AlwaysLookOn_map_bkg.tga.ckd/92fc97226f60d5c982a367728b7f8b52.ckd",
+      "expandCoachImageUrl": "/public/map/AlwaysLookOn/pc/AlwaysLookOn_Cover_AlbumCoach.tga.ckd/7993038a35210977cf67dcf2d616c896.ckd",
+      "cover_smallImageUrl": "/public/map/AlwaysLookOn/pc/AlwaysLookOn_Cover_Online.tga.ckd/0a4f013039e6693896c4af6ad06059c9.ckd",
+      "coverImageUrl": "/public/map/AlwaysLookOn/pc/AlwaysLookOn_Cover_Generic.tga.ckd/768269b5a9166e9be095b9e40fe0f758.ckd",
+      "coach1ImageUrl": "/public/map/AlwaysLookOn/pc/AlwaysLookOn_Coach_1.tga.ckd/d7af8177c91adff1d0d97487989af97c.ckd",
+      "coach2ImageUrl": "/public/map/AlwaysLookOn/pc/AlwaysLookOn_Coach_2.tga.ckd/1ac58bf83b6207445f01cadd7d09025e.ckd",
+      "coach3ImageUrl": "/public/map/AlwaysLookOn/pc/AlwaysLookOn_Coach_3.tga.ckd/f4d38d9d8bff977d1298081769c27d9e.ckd",
+      "coach4ImageUrl": "/public/map/AlwaysLookOn/pc/AlwaysLookOn_Coach_4.tga.ckd/8506f97df3f779b0fd8cebdc09034f0f.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/AlwaysLookOn/orbis/AlwaysLookOn_banner_bkg.tga.ckd/8b3892b9f35c3765af928ad71bcf729e.ckd",
+      "map_bkgImageUrl": "/public/map/AlwaysLookOn/orbis/AlwaysLookOn_map_bkg.tga.ckd/92fc97226f60d5c982a367728b7f8b52.ckd",
+      "expandCoachImageUrl": "/public/map/AlwaysLookOn/orbis/AlwaysLookOn_Cover_AlbumCoach.tga.ckd/7993038a35210977cf67dcf2d616c896.ckd",
+      "cover_smallImageUrl": "/public/map/AlwaysLookOn/orbis/AlwaysLookOn_Cover_Online.tga.ckd/0a4f013039e6693896c4af6ad06059c9.ckd",
+      "coverImageUrl": "/public/map/AlwaysLookOn/orbis/AlwaysLookOn_Cover_Generic.tga.ckd/768269b5a9166e9be095b9e40fe0f758.ckd",
+      "coach1ImageUrl": "/public/map/AlwaysLookOn/orbis/AlwaysLookOn_Coach_1.tga.ckd/d7af8177c91adff1d0d97487989af97c.ckd",
+      "coach2ImageUrl": "/public/map/AlwaysLookOn/orbis/AlwaysLookOn_Coach_2.tga.ckd/1ac58bf83b6207445f01cadd7d09025e.ckd",
+      "coach3ImageUrl": "/public/map/AlwaysLookOn/orbis/AlwaysLookOn_Coach_3.tga.ckd/f4d38d9d8bff977d1298081769c27d9e.ckd",
+      "coach4ImageUrl": "/public/map/AlwaysLookOn/orbis/AlwaysLookOn_Coach_4.tga.ckd/8506f97df3f779b0fd8cebdc09034f0f.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/AlwaysLookOn/AlwaysLookOn_Coach_1_Phone.png/6397876ca8d4620218f37a410641fcb1.png",
+    "phoneCoach2ImageUrl": "/public/map/AlwaysLookOn/AlwaysLookOn_Coach_2_Phone.png/4478523c760b6576521aa3eb67b0a0b3.png",
+    "phoneCoach3ImageUrl": "/public/map/AlwaysLookOn/AlwaysLookOn_Coach_3_Phone.png/428ae12ca079276dd5168da8e7327214.png",
+    "phoneCoach4ImageUrl": "/public/map/AlwaysLookOn/AlwaysLookOn_Coach_4_Phone.png/e45f6b028de35fba22bbe59f7039a24f.png",
+    "phoneCoverImageUrl": "/public/map/AlwaysLookOn/AlwaysLookOn_Cover_Phone.jpg/22fe5762cacefa654811a00f59af7a13.jpg",
+    "cover640ImageUrl": "/public/map/AlwaysLookOn/AlwaysLookOn_Cover_640.png/9f17553cfba9bcc71ef4ea0fcd9bd345.png"
+  },
+  "mapLength": 199.382979
+}

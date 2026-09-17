@@ -1,0 +1,177 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "6f1ef7f3677135ddd2a3f10f58a54f8a",
+      "storageType": 0,
+      "url": "/public/map/GeraGeraPoMAT/nx/GeraGeraPoMAT_MAIN_SCENE_NX.zip/6f1ef7f3677135ddd2a3f10f58a54f8a.zip"
+    },
+    "pc": {
+      "md5": "ce303b55be10f7c1e1afa669a67d27bd",
+      "storageType": 0,
+      "url": "/public/map/GeraGeraPoMAT/pc/GeraGeraPoMAT_MAIN_SCENE_PC.zip/ce303b55be10f7c1e1afa669a67d27bd.zip"
+    },
+    "ps4": {
+      "md5": "c39aea37a9f9011dc6e1144fc10ac0cf",
+      "storageType": 0,
+      "url": "/public/map/GeraGeraPoMAT/orbis/GeraGeraPoMAT_MAIN_SCENE_ORBIS.zip/c39aea37a9f9011dc6e1144fc10ac0cf.zip"
+    }
+  },
+  "data": {
+    "mapName": "GeraGeraPoMAT",
+    "title": "Matsuribayashi de Geragerapō",
+    "originalJDVersion": 1104,
+    "tags": [
+      "JDWiiUYK",
+      "subscribedSong",
+      "JustDanceAsia",
+      "Solo",
+      "Medium"
+    ],
+    "artist": "King Cream Soda",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 2,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#ff0000"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22511,
+        45023,
+        67487,
+        89999,
+        112511,
+        135023,
+        157487,
+        179999,
+        202511,
+        225023,
+        247487,
+        269999,
+        292511,
+        315023,
+        337487,
+        359999,
+        382511,
+        405023,
+        427486,
+        449998,
+        472510,
+        495022,
+        517486,
+        539998,
+        562510,
+        585022,
+        607486,
+        629998,
+        652510,
+        675022,
+        697486,
+        719998,
+        742510,
+        765022,
+        787486,
+        809998,
+        832509,
+        855021,
+        877485,
+        899997,
+        922509,
+        945021,
+        967485,
+        989997,
+        1012509,
+        1035021,
+        1057485,
+        1079997,
+        1102509,
+        1125021,
+        1147485,
+        1169997,
+        1192509,
+        1215021,
+        1237484,
+        1259996,
+        1282508,
+        1305020,
+        1327484,
+        1349996,
+        1372508,
+        1395020,
+        1417484,
+        1439996,
+        1462508,
+        1485020
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -4,
+      "endBeat": 326,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/GeraGeraPoMAT/GeraGeraPoMAT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/GeraGeraPoMAT/nx/GeraGeraPoMAT_banner_bkg.tga.ckd/0ce0359e64a29f36c0abded0c37254fa.ckd",
+      "map_bkgImageUrl": "/public/map/GeraGeraPoMAT/nx/GeraGeraPoMAT_map_bkg.tga.ckd/959c3cda628d6d10d826e3d1f1c96dbf.ckd",
+      "expandCoachImageUrl": "/public/map/GeraGeraPoMAT/nx/GeraGeraPoMAT_Cover_AlbumCoach.tga.ckd/7ed385c6224c9ab72c6650bc8dac569c.ckd",
+      "cover_smallImageUrl": "/public/map/GeraGeraPoMAT/nx/GeraGeraPoMAT_Cover_Online.tga.ckd/af89ae7ae2675d193b8b437de87d117f.ckd",
+      "coach1ImageUrl": "/public/map/GeraGeraPoMAT/nx/GeraGeraPoMAT_Coach_1.tga.ckd/445e02cacdd3e7ad39440bb7d72faa6d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/GeraGeraPoMAT/pc/GeraGeraPoMAT_banner_bkg.tga.ckd/ad8f03cbe4c28f01e583c42ba1173cbc.ckd",
+      "map_bkgImageUrl": "/public/map/GeraGeraPoMAT/pc/GeraGeraPoMAT_map_bkg.tga.ckd/95895caef6a7866e7cda7d796de78950.ckd",
+      "expandCoachImageUrl": "/public/map/GeraGeraPoMAT/pc/GeraGeraPoMAT_Cover_AlbumCoach.tga.ckd/2d5d2bb22ec9310d5f600a51a3840558.ckd",
+      "cover_smallImageUrl": "/public/map/GeraGeraPoMAT/pc/GeraGeraPoMAT_Cover_Online.tga.ckd/c91e22b408c7bea9df703438b34a45a2.ckd",
+      "coach1ImageUrl": "/public/map/GeraGeraPoMAT/pc/GeraGeraPoMAT_Coach_1.tga.ckd/3f840939553a0adf7f2a98b4db8c4bcf.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/GeraGeraPoMAT/orbis/GeraGeraPoMAT_banner_bkg.tga.ckd/ad8f03cbe4c28f01e583c42ba1173cbc.ckd",
+      "map_bkgImageUrl": "/public/map/GeraGeraPoMAT/orbis/GeraGeraPoMAT_map_bkg.tga.ckd/95895caef6a7866e7cda7d796de78950.ckd",
+      "expandCoachImageUrl": "/public/map/GeraGeraPoMAT/orbis/GeraGeraPoMAT_Cover_AlbumCoach.tga.ckd/2d5d2bb22ec9310d5f600a51a3840558.ckd",
+      "cover_smallImageUrl": "/public/map/GeraGeraPoMAT/orbis/GeraGeraPoMAT_Cover_Online.tga.ckd/c91e22b408c7bea9df703438b34a45a2.ckd",
+      "coach1ImageUrl": "/public/map/GeraGeraPoMAT/orbis/GeraGeraPoMAT_Coach_1.tga.ckd/3f840939553a0adf7f2a98b4db8c4bcf.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/GeraGeraPoMAT/GeraGeraPoMAT_Coach_1_Phone.png/274598416e23fd19ef0703eb2b2c9950.png",
+    "phoneCoverImageUrl": "/public/map/GeraGeraPoMAT/GeraGeraPoMAT_Cover_Phone.jpg/42bde845c9275b1b498a9b16b2840e6e.jpg",
+    "cover640ImageUrl": "/public/map/GeraGeraPoMAT/GeraGeraPoMAT_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/GeraGeraPoMAT/GeraGeraPoMAT.ogg": "/private/map/GeraGeraPoMAT/GeraGeraPoMAT.ogg/6d5ad49b7f0473ace4c3dfdf75a31dde.ogg",
+    "jmcs://jd-contents/GeraGeraPoMAT/GeraGeraPoMAT_AudioPreview.ogg": "/public/map/GeraGeraPoMAT/GeraGeraPoMAT_AudioPreview.ogg/5b564206d7c22b5c7773af2b30b3d81b.ogg",
+    "jmcs://jd-contents/GeraGeraPoMAT/GeraGeraPoMAT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/GeraGeraPoMAT/GeraGeraPoMAT_MapPreviewNoSoundCrop_LOW.vp8.webm/c208d2bae5f33ca82cc1055b626e0522.webm",
+    "jmcs://jd-contents/GeraGeraPoMAT/GeraGeraPoMAT_HIGH.webm": "/private/map/GeraGeraPoMAT/GeraGeraPoMAT_HIGH.webm/b8ee61e79740c50ee0cbdefe6576cfcf.webm",
+    "jmcs://jd-contents/GeraGeraPoMAT/GeraGeraPoMAT_LOW.webm": "/private/map/GeraGeraPoMAT/GeraGeraPoMAT_LOW.webm/3e4304733d224cbf9c31509d2649075e.webm",
+    "jmcs://jd-contents/GeraGeraPoMAT/GeraGeraPoMAT_MID.webm": "/private/map/GeraGeraPoMAT/GeraGeraPoMAT_MID.webm/59e39ba56df8f14adb5be775507cb70a.webm",
+    "jmcs://jd-contents/GeraGeraPoMAT/GeraGeraPoMAT_ULTRA.webm": "/private/map/GeraGeraPoMAT/GeraGeraPoMAT_ULTRA.webm/88936af7f4c0f08701b533fd335bef67.webm",
+    "jmcs://jd-contents/GeraGeraPoMAT/GeraGeraPoMAT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/GeraGeraPoMAT/GeraGeraPoMAT_MapPreviewNoSoundCrop_MID.vp8.webm/b5fa8627c986e4be3bde02080e6e0cff.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"525910\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GeraGeraPoMAT/GeraGeraPoMAT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"611-1100\">\n\t\t\t\t\t<Initialization range=\"0-611\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1513534\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/GeraGeraPoMAT/GeraGeraPoMAT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"612-1102\">\n\t\t\t\t\t<Initialization range=\"0-612\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 158.320354
+}

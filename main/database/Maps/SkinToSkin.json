@@ -1,0 +1,179 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "226ad58a58ce1780bcf918e4ddba0284",
+      "storageType": 0,
+      "url": "/public/map/SkinToSkin/nx/SkinToSkin_MAIN_SCENE_NX.zip/226ad58a58ce1780bcf918e4ddba0284.zip"
+    },
+    "pc": {
+      "md5": "3ab90ad747ab2658c0474cfeb9a55f34",
+      "storageType": 0,
+      "url": "/public/map/SkinToSkin/pc/SkinToSkin_MAIN_SCENE_PC.zip/3ab90ad747ab2658c0474cfeb9a55f34.zip"
+    },
+    "ps4": {
+      "md5": "d03e2c034416eb87b8833b4d457aa1fa",
+      "storageType": 0,
+      "url": "/public/map/SkinToSkin/orbis/SkinToSkin_MAIN_SCENE_ORBIS.zip/d03e2c034416eb87b8833b4d457aa1fa.zip"
+    }
+  },
+  "data": {
+    "mapName": "SkinToSkin",
+    "title": "Skin-To-Skin",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Sweat Invaders",
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#775AF8",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22149,
+        44299,
+        66449,
+        88598,
+        110748,
+        132615,
+        154764,
+        177376,
+        199525,
+        221675,
+        243825,
+        265974,
+        288124,
+        310274,
+        332423,
+        354573,
+        376722,
+        398872,
+        421022,
+        443171,
+        465321,
+        487471,
+        509620,
+        531770,
+        553920,
+        576069,
+        598219,
+        620369,
+        642518,
+        664668,
+        686818,
+        708967,
+        731117,
+        753267,
+        775416,
+        797566,
+        819716,
+        841865,
+        864015,
+        886165,
+        908314,
+        930464,
+        952614,
+        974763,
+        996913,
+        1019063,
+        1041212,
+        1063362,
+        1085512,
+        1107661,
+        1129811,
+        1151961,
+        1174110,
+        1196456,
+        1218605,
+        1240755,
+        1262905,
+        1285054,
+        1307204,
+        1329354,
+        1351503,
+        1373653,
+        1395803,
+        1417952
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 270,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/skintoskin/skintoskin_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/SkinToSkin/nx/SkinToSkin_banner_bkg.tga.ckd/498d6b519926e466163acbfbaf162321.ckd",
+      "map_bkgImageUrl": "/public/map/SkinToSkin/nx/SkinToSkin_map_bkg.tga.ckd/54f49053be1b8aa481b1cdcadb124b49.ckd",
+      "expandCoachImageUrl": "/public/map/SkinToSkin/nx/SkinToSkin_Cover_AlbumCoach.tga.ckd/dcc9355d081d43efa429af974c729e4f.ckd",
+      "cover_smallImageUrl": "/public/map/SkinToSkin/nx/SkinToSkin_Cover_Online.tga.ckd/c673d69849ce78da8dec3577d9d16aea.ckd",
+      "coverImageUrl": "/public/map/SkinToSkin/nx/SkinToSkin_Cover_Generic.tga.ckd/943c4d8959f83734c9445accf04f0420.ckd",
+      "coach1ImageUrl": "/public/map/SkinToSkin/nx/SkinToSkin_Coach_1.tga.ckd/93a9767e9b090c1c0c2fbd7fcf660c59.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/SkinToSkin/pc/SkinToSkin_banner_bkg.tga.ckd/2c86969eb1a997c6f96d969e786110d2.ckd",
+      "map_bkgImageUrl": "/public/map/SkinToSkin/pc/SkinToSkin_map_bkg.tga.ckd/1a0a2f1b0e46c52558ded6b20fd0bfac.ckd",
+      "expandCoachImageUrl": "/public/map/SkinToSkin/pc/SkinToSkin_Cover_AlbumCoach.tga.ckd/601e42f13055efda1105e4d5e6be2398.ckd",
+      "cover_smallImageUrl": "/public/map/SkinToSkin/pc/SkinToSkin_Cover_Online.tga.ckd/c1c1af729fd7bdb2d0e4640a002489f4.ckd",
+      "coverImageUrl": "/public/map/SkinToSkin/pc/SkinToSkin_Cover_Generic.tga.ckd/1da2959b2b5d10c5f19f7d42a7640b5c.ckd",
+      "coach1ImageUrl": "/public/map/SkinToSkin/pc/SkinToSkin_Coach_1.tga.ckd/66a47c23b84da346a9b461f6ecb8943b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/SkinToSkin/orbis/SkinToSkin_banner_bkg.tga.ckd/2c86969eb1a997c6f96d969e786110d2.ckd",
+      "map_bkgImageUrl": "/public/map/SkinToSkin/orbis/SkinToSkin_map_bkg.tga.ckd/1a0a2f1b0e46c52558ded6b20fd0bfac.ckd",
+      "expandCoachImageUrl": "/public/map/SkinToSkin/orbis/SkinToSkin_Cover_AlbumCoach.tga.ckd/601e42f13055efda1105e4d5e6be2398.ckd",
+      "cover_smallImageUrl": "/public/map/SkinToSkin/orbis/SkinToSkin_Cover_Online.tga.ckd/c1c1af729fd7bdb2d0e4640a002489f4.ckd",
+      "coverImageUrl": "/public/map/SkinToSkin/orbis/SkinToSkin_Cover_Generic.tga.ckd/1da2959b2b5d10c5f19f7d42a7640b5c.ckd",
+      "coach1ImageUrl": "/public/map/SkinToSkin/orbis/SkinToSkin_Coach_1.tga.ckd/66a47c23b84da346a9b461f6ecb8943b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/SkinToSkin/SkinToSkin_Coach_1_Phone.png/2188cefb946033eeb40e9a39de32faeb.png",
+    "phoneCoverImageUrl": "/public/map/SkinToSkin/SkinToSkin_Cover_Phone.jpg/15769b5eff95ad6b5924114982452f1c.jpg",
+    "cover640ImageUrl": "/public/map/SkinToSkin/SkinToSkin_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/SkinToSkin/SkinToSkin_HIGH.webm": "/private/map/SkinToSkin/SkinToSkin_HIGH.webm/00d1eaf6f3cd4cca8241f52476398271.webm",
+    "jmcs://jd-contents/SkinToSkin/SkinToSkin_LOW.webm": "/private/map/SkinToSkin/SkinToSkin_LOW.webm/e98f557dc33b8569352c9fa40a9480b3.webm",
+    "jmcs://jd-contents/SkinToSkin/SkinToSkin_MID.webm": "/private/map/SkinToSkin/SkinToSkin_MID.webm/225e5c249550521a86ed2609748429ee.webm",
+    "jmcs://jd-contents/SkinToSkin/SkinToSkin_ULTRA.hd.webm": "/private/map/SkinToSkin/SkinToSkin_ULTRA.hd.webm/c5fdd5cee1683d43357ed32cb633476e.webm",
+    "jmcs://jd-contents/SkinToSkin/SkinToSkin_ULTRA.webm": "/private/map/SkinToSkin/SkinToSkin_ULTRA.webm/5a5a826e30c9375a53005fa47c641a0a.webm",
+    "jmcs://jd-contents/SkinToSkin/SkinToSkin.ogg": "/private/map/SkinToSkin/SkinToSkin.ogg/e6567b5df0db680da30c89fcbe068c2d.ogg",
+    "jmcs://jd-contents/SkinToSkin/SkinToSkin_AudioPreview.ogg": "/public/map/SkinToSkin/SkinToSkin_AudioPreview.ogg/2ca88106055e17bfd8626ce5fb783286.ogg",
+    "jmcs://jd-contents/SkinToSkin/SkinToSkin_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/SkinToSkin/SkinToSkin_MapPreviewNoSoundCrop_LOW.vp8.webm/3bbd3e2dbc6df707d503494dec02fc91.webm",
+    "jmcs://jd-contents/SkinToSkin/SkinToSkin_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/SkinToSkin/SkinToSkin_MapPreviewNoSoundCrop_MID.vp8.webm/f72978b45b441b7b1a73c9fcb54e46cb.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"428086\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SkinToSkin/SkinToSkin_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1196157\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/SkinToSkin/SkinToSkin_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 124.980979
+}

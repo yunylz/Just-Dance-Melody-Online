@@ -1,0 +1,158 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Unusual/Unusual.ogg": "/private/map/Unusual/Unusual.ogg/2659f51fbc71fc8470be0d76b7ac349f.ogg",
+    "jmcs://jd-contents/Unusual/Unusual_AudioPreview.ogg": "/public/map/Unusual/Unusual_AudioPreview.ogg/e44f619056dc1417f6f550bc42d1cd1e.ogg",
+    "jmcs://jd-contents/Unusual/Unusual_HIGH.hd.webm": "/private/map/Unusual/Unusual_HIGH.hd.webm/b4069e65993964faca40f9474365e759.webm",
+    "jmcs://jd-contents/Unusual/Unusual_LOW.hd.webm": "/private/map/Unusual/Unusual_LOW.hd.webm/96cdd75f4817bc8376d2b40525eec00b.webm",
+    "jmcs://jd-contents/Unusual/Unusual_MID.hd.webm": "/private/map/Unusual/Unusual_MID.hd.webm/0044cd870d50c129ab3d41244b9d89db.webm",
+    "jmcs://jd-contents/Unusual/Unusual_ULTRA.hd.webm": "/private/map/Unusual/Unusual_ULTRA.hd.webm/499b0f5ec6a41f5d2361985f8556d718.webm",
+    "jmcs://jd-contents/Unusual/Unusual_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Unusual/Unusual_MapPreviewNoSoundCrop_LOW.vp8.webm/21f4fd6978c555cbbda7adbf25ffbc1b.webm",
+    "jmcs://jd-contents/Unusual/Unusual_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Unusual/Unusual_MapPreviewNoSoundCrop_MID.vp8.webm/473e9b32651bfa494f9829220cf9208c.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        31357,
+        62591,
+        93678,
+        125893,
+        156670,
+        187631,
+        219231,
+        251158,
+        282106,
+        313393,
+        344811,
+        377548,
+        408504,
+        439425,
+        471078,
+        502365,
+        533826,
+        563767,
+        596288,
+        627609,
+        658705,
+        689181,
+        721590,
+        752283,
+        783681,
+        814968,
+        847019,
+        878202,
+        908995,
+        939690,
+        970230,
+        1002634,
+        1033742,
+        1064281,
+        1095790,
+        1125583,
+        1156827,
+        1188308,
+        1220547,
+        1251733,
+        1283029,
+        1314521,
+        1346348,
+        1377595,
+        1408504
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 215,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 45,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/unusual/unusual_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "bdfd24f8e9276e98bb8c4efe85fcc84c",
+      "storageType": 0,
+      "url": "/public/map/Unusual/nx/Unusual_MAIN_SCENE_NX.zip/bdfd24f8e9276e98bb8c4efe85fcc84c.zip"
+    },
+    "pc": {
+      "md5": "fd362890670bd6f576a740270f50b5c4",
+      "storageType": 0,
+      "url": "/public/map/Unusual/pc/Unusual_MAIN_SCENE_PC.zip/fd362890670bd6f576a740270f50b5c4.zip"
+    },
+    "ps4": {
+      "md5": "ef5ebbdddd1a27b5ee00e533203eaa53",
+      "storageType": 0,
+      "url": "/public/map/Unusual/orbis/Unusual_MAIN_SCENE_ORBIS.zip/ef5ebbdddd1a27b5ee00e533203eaa53.zip"
+    }
+  },
+  "data": {
+    "mapName": "Unusual",
+    "title": "It's Not Unusual",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Tom Jones",
+    "credits": "Written by G. Mills and L. Reed. Published by Universal Music Publishing Group a division of Universal Music Canada Ltd. Courtesy of Decca Music Group Limited, under license from Universal Music Canada.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FC2DE6",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Unusual/nx/Unusual_banner_bkg.tga.ckd/bf20493eb4f7aa5a0b203526ee86ef35.ckd",
+      "map_bkgImageUrl": "/public/map/Unusual/nx/Unusual_map_bkg.tga.ckd/ea305d454b4fa13c3f033ec8e3f87494.ckd",
+      "expandCoachImageUrl": "/public/map/Unusual/nx/Unusual_Cover_AlbumCoach.tga.ckd/fdf61285c58c108a9f645d74b92c1672.ckd",
+      "cover_smallImageUrl": "/public/map/Unusual/nx/Unusual_Cover_Online.tga.ckd/b1d5464d98340052290bc364f086273b.ckd",
+      "coverImageUrl": "/public/map/Unusual/nx/Unusual_Cover_Generic.tga.ckd/b1d5464d98340052290bc364f086273b.ckd",
+      "coach1ImageUrl": "/public/map/Unusual/nx/Unusual_Coach_1.tga.ckd/8641171abc8f7dcf1b349a0a579b22ee.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Unusual/pc/Unusual_banner_bkg.tga.ckd/4ed96a00e34c5cba00fcf59a1a53a960.ckd",
+      "map_bkgImageUrl": "/public/map/Unusual/pc/Unusual_map_bkg.tga.ckd/a1b776e5f005dabe67469d94ef4dc5fa.ckd",
+      "expandCoachImageUrl": "/public/map/Unusual/pc/Unusual_Cover_AlbumCoach.tga.ckd/b90106d02df39ee3ebfcfc3e3642d323.ckd",
+      "cover_smallImageUrl": "/public/map/Unusual/pc/Unusual_Cover_Online.tga.ckd/1e7f5d4b6200a9c1b19156f6387f8a44.ckd",
+      "coverImageUrl": "/public/map/Unusual/pc/Unusual_Cover_Generic.tga.ckd/1e7f5d4b6200a9c1b19156f6387f8a44.ckd",
+      "coach1ImageUrl": "/public/map/Unusual/pc/Unusual_Coach_1.tga.ckd/b2baf6048891838bf8d77aa87016dff7.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Unusual/orbis/Unusual_banner_bkg.tga.ckd/4ed96a00e34c5cba00fcf59a1a53a960.ckd",
+      "map_bkgImageUrl": "/public/map/Unusual/orbis/Unusual_map_bkg.tga.ckd/a1b776e5f005dabe67469d94ef4dc5fa.ckd",
+      "expandCoachImageUrl": "/public/map/Unusual/orbis/Unusual_Cover_AlbumCoach.tga.ckd/b90106d02df39ee3ebfcfc3e3642d323.ckd",
+      "cover_smallImageUrl": "/public/map/Unusual/orbis/Unusual_Cover_Online.tga.ckd/1e7f5d4b6200a9c1b19156f6387f8a44.ckd",
+      "coverImageUrl": "/public/map/Unusual/orbis/Unusual_Cover_Generic.tga.ckd/1e7f5d4b6200a9c1b19156f6387f8a44.ckd",
+      "coach1ImageUrl": "/public/map/Unusual/orbis/Unusual_Coach_1.tga.ckd/b2baf6048891838bf8d77aa87016dff7.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Unusual/Unusual_Coach_1_Phone.png/c607ec0e7a9af145fd16056dcf375c41.png",
+    "phoneCoverImageUrl": "/public/map/Unusual/Unusual_Cover_Phone.jpg/133cc85dfc983003bcf0aa68138fe8d3.jpg",
+    "cover640ImageUrl": "/public/map/Unusual/Unusual_Cover_640.png/3b66737f69611405f4c58cf930f5498e.png"
+  },
+  "mapLength": 140.8555
+}

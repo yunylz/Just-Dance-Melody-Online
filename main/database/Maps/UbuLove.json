@@ -1,0 +1,182 @@
+{
+  "urls": {
+    "jmcs://jd-contents/UbuLove/UbuLove.ogg": "/private/map/UbuLove/UbuLove.ogg/3fdc25fdc797e57e475dc411d80c0d9a.ogg",
+    "jmcs://jd-contents/UbuLove/UbuLove_AudioPreview.ogg": "/public/map/UbuLove/UbuLove_AudioPreview.ogg/4aadb3bfdff368d2174351e4f57f21d9.ogg",
+    "jmcs://jd-contents/UbuLove/UbuLove_HIGH.hd.webm": "/private/map/UbuLove/UbuLove_HIGH.hd.webm/33c5b34fce9adaf8c247bd97f012d070.webm",
+    "jmcs://jd-contents/UbuLove/UbuLove_LOW.hd.webm": "/private/map/UbuLove/UbuLove_LOW.hd.webm/3566f4cf3342c5c77370f879f316e81b.webm",
+    "jmcs://jd-contents/UbuLove/UbuLove_MID.hd.webm": "/private/map/UbuLove/UbuLove_MID.hd.webm/521912b4a66bea7230a1535fa6d2de6b.webm",
+    "jmcs://jd-contents/UbuLove/UbuLove_ULTRA.hd.webm": "/private/map/UbuLove/UbuLove_ULTRA.hd.webm/06280898480d6e63ba78c589dc40c896.webm",
+    "jmcs://jd-contents/UbuLove/UbuLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/UbuLove/UbuLove_MapPreviewNoSoundCrop_LOW.vp8.webm/86a21e33c2b9d386e07106449fd3414e.webm",
+    "jmcs://jd-contents/UbuLove/UbuLove_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/UbuLove/UbuLove_MapPreviewNoSoundCrop_MID.vp8.webm/4f9e4356fec3cf1aae4ddb1a33be84ad.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 456,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/UbuLove/UbuLove_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"584480\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/UbuLove/UbuLove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2014121\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/UbuLove/UbuLove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "eafdbce078e848142ed63e861d88bf8a",
+      "storageType": 0,
+      "url": "/public/map/UbuLove/nx/UbuLove_MAIN_SCENE_NX.zip/eafdbce078e848142ed63e861d88bf8a.zip"
+    },
+    "pc": {
+      "md5": "6d98d447660f5eced982d9e3d159864b",
+      "storageType": 0,
+      "url": "/public/map/UbuLove/pc/UbuLove_MAIN_SCENE_PC.zip/6d98d447660f5eced982d9e3d159864b.zip"
+    },
+    "ps4": {
+      "md5": "60f6494536175d89260d3fbf7b73442b",
+      "storageType": 0,
+      "url": "/public/map/UbuLove/orbis/UbuLove_MAIN_SCENE_ORBIS.zip/60f6494536175d89260d3fbf7b73442b.zip"
+    }
+  },
+  "data": {
+    "mapName": "UbuLove",
+    "title": "UbuLove",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Naniwa Danshi",
+    "credits": "Written by 栗原暁 (Satoru Kurihara), 久保田真悟 (Shingo Kubota) Published by JOHNNY COMPANY & TV ASAHI MUSIC CO., LTD. Ⓟ2021 J Storm Inc. ",
+    "coachCount": 3,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ffec86",
+    "songColor2A": "#7bbaf0",
+    "songColor1B": "#986306",
+    "songColor2B": "#042c9e",
+    "lyricsColor": "#ff81ad",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/UbuLove/nx/UbuLove_banner_bkg.tga.ckd/950f611dea9e20c3d9659b03b9cd33cf.ckd",
+      "map_bkgImageUrl": "/public/map/UbuLove/nx/UbuLove_map_bkg.tga.ckd/a9a317da0d5b076088fa12ec2a5b170f.ckd",
+      "expandCoachImageUrl": "/public/map/UbuLove/nx/UbuLove_Cover_AlbumCoach.tga.ckd/dd5791deaa2fe475c1e82ac21fa5e70c.ckd",
+      "cover_smallImageUrl": "/public/map/UbuLove/nx/UbuLove_Cover_Online.tga.ckd/19db3a86dcc1faf5c33477f7aade5589.ckd",
+      "coverImageUrl": "/public/map/UbuLove/nx/UbuLove_Cover_Generic.tga.ckd/81fb15813957f9a17a5594453fcd2f21.ckd",
+      "coach1ImageUrl": "/public/map/UbuLove/nx/UbuLove_Coach_1.tga.ckd/5a544ed0ec7a1f873954dde8b00df7c4.ckd",
+      "coach2ImageUrl": "/public/map/UbuLove/nx/UbuLove_Coach_2.tga.ckd/012a53c64207f7a3c43c082de6be15e3.ckd",
+      "coach3ImageUrl": "/public/map/UbuLove/nx/UbuLove_Coach_3.tga.ckd/5b179634b7579369548c25845457c941.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/UbuLove/pc/UbuLove_banner_bkg.tga.ckd/8add6a8b481a73f771485ad1527393bd.ckd",
+      "map_bkgImageUrl": "/public/map/UbuLove/pc/UbuLove_map_bkg.tga.ckd/21ea782e947f40ab3d3d2e129686e340.ckd",
+      "expandCoachImageUrl": "/public/map/UbuLove/pc/UbuLove_Cover_AlbumCoach.tga.ckd/9ca88d4b4c208c30c6be2cb8a2d4ff85.ckd",
+      "cover_smallImageUrl": "/public/map/UbuLove/pc/UbuLove_Cover_Online.tga.ckd/5123a4bc1b44d72b0ee28cb910ca0bc3.ckd",
+      "coverImageUrl": "/public/map/UbuLove/pc/UbuLove_Cover_Generic.tga.ckd/dd013ee05ce8b58d0f9a16c49958b218.ckd",
+      "coach1ImageUrl": "/public/map/UbuLove/pc/UbuLove_Coach_1.tga.ckd/617a824a9b23f0cde70b9d42d69c89c0.ckd",
+      "coach2ImageUrl": "/public/map/UbuLove/pc/UbuLove_Coach_2.tga.ckd/bb3784ccf6c56ca5b37df368a1ca7b61.ckd",
+      "coach3ImageUrl": "/public/map/UbuLove/pc/UbuLove_Coach_3.tga.ckd/b3c471079e6fce6d27bce9d927f8b92d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/UbuLove/orbis/UbuLove_banner_bkg.tga.ckd/8add6a8b481a73f771485ad1527393bd.ckd",
+      "map_bkgImageUrl": "/public/map/UbuLove/orbis/UbuLove_map_bkg.tga.ckd/21ea782e947f40ab3d3d2e129686e340.ckd",
+      "expandCoachImageUrl": "/public/map/UbuLove/orbis/UbuLove_Cover_AlbumCoach.tga.ckd/9ca88d4b4c208c30c6be2cb8a2d4ff85.ckd",
+      "cover_smallImageUrl": "/public/map/UbuLove/orbis/UbuLove_Cover_Online.tga.ckd/5123a4bc1b44d72b0ee28cb910ca0bc3.ckd",
+      "coverImageUrl": "/public/map/UbuLove/orbis/UbuLove_Cover_Generic.tga.ckd/dd013ee05ce8b58d0f9a16c49958b218.ckd",
+      "coach1ImageUrl": "/public/map/UbuLove/orbis/UbuLove_Coach_1.tga.ckd/617a824a9b23f0cde70b9d42d69c89c0.ckd",
+      "coach2ImageUrl": "/public/map/UbuLove/orbis/UbuLove_Coach_2.tga.ckd/bb3784ccf6c56ca5b37df368a1ca7b61.ckd",
+      "coach3ImageUrl": "/public/map/UbuLove/orbis/UbuLove_Coach_3.tga.ckd/b3c471079e6fce6d27bce9d927f8b92d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/UbuLove/UbuLove_Coach_1_Phone.png/6daedd14c9ce13d8ad4deeff01f98124.png",
+    "phoneCoach2ImageUrl": "/public/map/UbuLove/UbuLove_Coach_2_Phone.png/2992dca96c67186b63c9a1ced301c593.png",
+    "phoneCoach3ImageUrl": "/public/map/UbuLove/UbuLove_Coach_3_Phone.png/d03d6a99307de2d4eb58211b18f19dff.png",
+    "phoneCoverImageUrl": "/public/map/UbuLove/UbuLove_Cover_Phone.jpg/47325d2941cb531adc13a2d83dcbf2ba.jpg",
+    "cover640ImageUrl": "/public/map/UbuLove/UbuLove_Cover_640.png/b0823cc85c7f80eb991b3726c3601dad.png"
+  },
+  "mapLength": 235.5
+}

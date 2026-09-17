@@ -1,0 +1,173 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Payphone/Payphone.ogg": "/private/map/Payphone/Payphone.ogg/f507317bd6de76aefdd9d163efe96eb8.ogg",
+    "jmcs://jd-contents/Payphone/Payphone_AudioPreview.ogg": "/public/map/Payphone/Payphone_AudioPreview.ogg/97a6b1d96791b0d0645dd5ffc0312826.ogg",
+    "jmcs://jd-contents/Payphone/Payphone_HIGH.hd.webm": "/private/map/Payphone/Payphone_HIGH.hd.webm/b2c84f91802af12506fb2293549df99e.webm",
+    "jmcs://jd-contents/Payphone/Payphone_LOW.hd.webm": "/private/map/Payphone/Payphone_LOW.hd.webm/87c5f020264a86edd3ff0a64d8c360ff.webm",
+    "jmcs://jd-contents/Payphone/Payphone_MID.hd.webm": "/private/map/Payphone/Payphone_MID.hd.webm/f73172f0a8f5f089addb2baed45ab8f4.webm",
+    "jmcs://jd-contents/Payphone/Payphone_ULTRA.hd.webm": "/private/map/Payphone/Payphone_ULTRA.hd.webm/1f0cafe634da8b28d0490f2ec2a580f7.webm",
+    "jmcs://jd-contents/Payphone/Payphone_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Payphone/Payphone_MapPreviewNoSoundCrop_LOW.vp8.webm/c3059228a66226b0264053f1bdf9bb70.webm",
+    "jmcs://jd-contents/Payphone/Payphone_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Payphone/Payphone_MapPreviewNoSoundCrop_MID.vp8.webm/663861e34084d8a1b4b49903ff186ee1.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26182,
+        52364,
+        78545,
+        104727,
+        130909,
+        157091,
+        183273,
+        209455,
+        235636,
+        261818,
+        288000,
+        314182,
+        340364,
+        366545,
+        392727,
+        418909,
+        445091,
+        471273,
+        497455,
+        523636,
+        549818,
+        576000,
+        602182,
+        628364,
+        654545,
+        680727,
+        706909,
+        733091,
+        759273,
+        785455,
+        811636,
+        837818,
+        864000,
+        890182,
+        916364,
+        942545,
+        968727,
+        994909,
+        1021091,
+        1047273,
+        1073455,
+        1099636,
+        1125818,
+        1152000,
+        1178182,
+        1204364,
+        1230545,
+        1256727,
+        1282909,
+        1309091,
+        1335273,
+        1361455,
+        1387636,
+        1413818,
+        1440000,
+        1466182,
+        1492364
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -15,
+      "endBeat": 436,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Payphone/Payphone_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"529583\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Payphone/Payphone_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"550-1040\">\n\t\t\t\t\t<Initialization range=\"0-550\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1965364\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Payphone/Payphone_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "592df101ec86c3cac5ec48d726e50870",
+      "storageType": 0,
+      "url": "/public/map/Payphone/nx/Payphone_MAIN_SCENE_NX.zip/592df101ec86c3cac5ec48d726e50870.zip"
+    },
+    "pc": {
+      "md5": "b6366c0a0c831d2d67c7aa87920709a7",
+      "storageType": 0,
+      "url": "/public/map/Payphone/pc/Payphone_MAIN_SCENE_PC.zip/b6366c0a0c831d2d67c7aa87920709a7.zip"
+    },
+    "ps4": {
+      "md5": "c79c29c17f0e8b0c9dd1ea5e13ae3bac",
+      "storageType": 0,
+      "url": "/public/map/Payphone/orbis/Payphone_MAIN_SCENE_ORBIS.zip/c79c29c17f0e8b0c9dd1ea5e13ae3bac.zip"
+    }
+  },
+  "data": {
+    "mapName": "Payphone",
+    "title": "Payphone",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "Maroon 5 Ft. Wiz Khalifa",
+    "credits": "Written by Ammar Malik, Adam Noah Levine, Benjamin Levin, Dan Omelio, Shellback, Cameron Thomaz. Published by HiFi Music IP Issuer, L.P., Where Da Kasz At, Maru Cha Cha, Where Da Kasz At. Administered by Kobalt Songs Music Publishing, Songs of Kobalt Music Publishing / Universal Music Publishing Canada on behalf of Sudgee Music and Universal Music - Careers / Matza Ball Music, administered by Concord Road / BMG Gold Songs / Warner-Tamerlane Publishing Corp. and Wiz Khalifa Publishing. All rights on behalf of itself and Wiz Khalifa Publishing, administered by Warner-Tamerlane Publishing Corp. Courtesy of Interscope Records under license from Universal Music Canada Inc.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#fb90fa",
+    "songColor2A": "#564ef8",
+    "songColor1B": "#070450",
+    "songColor2B": "#0b117d",
+    "lyricsColor": "#f333e0",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Payphone/nx/Payphone_banner_bkg.tga.ckd/5c05c0d5d606cafd2ffb341a0950552d.ckd",
+      "map_bkgImageUrl": "/public/map/Payphone/nx/Payphone_map_bkg.tga.ckd/e1ef9e57b47f5952419d53290ae9526b.ckd",
+      "expandCoachImageUrl": "/public/map/Payphone/nx/Payphone_Cover_AlbumCoach.tga.ckd/7accca3d6d4ababb9274412a4491af7b.ckd",
+      "cover_smallImageUrl": "/public/map/Payphone/nx/Payphone_Cover_Online.tga.ckd/b70eff09f170c3d02ca06d6d8e490a16.ckd",
+      "coverImageUrl": "/public/map/Payphone/nx/Payphone_Cover_Generic.tga.ckd/beace50edfb342bd12cc3ea1e833f286.ckd",
+      "coach1ImageUrl": "/public/map/Payphone/nx/Payphone_Coach_1.tga.ckd/7d738433abcc0c015ee09ebba1baa33a.ckd",
+      "coach2ImageUrl": "/public/map/Payphone/nx/Payphone_Coach_2.tga.ckd/04100ff7b5dce16ebae85fa068ed1bba.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Payphone/pc/Payphone_banner_bkg.tga.ckd/73594306e408bb9d0bd2202eac795f9d.ckd",
+      "map_bkgImageUrl": "/public/map/Payphone/pc/Payphone_map_bkg.tga.ckd/cee4bc7cbacf397cda45b2aa32726d75.ckd",
+      "expandCoachImageUrl": "/public/map/Payphone/pc/Payphone_Cover_AlbumCoach.tga.ckd/3c2f14497f6793e9459ead8c176b8c5d.ckd",
+      "cover_smallImageUrl": "/public/map/Payphone/pc/Payphone_Cover_Online.tga.ckd/dbf25ad0af3d94b7d9430cc68748c62a.ckd",
+      "coverImageUrl": "/public/map/Payphone/pc/Payphone_Cover_Generic.tga.ckd/c7a9924e0882f08c6c748b7bb46c315c.ckd",
+      "coach1ImageUrl": "/public/map/Payphone/pc/Payphone_Coach_1.tga.ckd/103fd87e2b3708caa84ce4ce86f1eb00.ckd",
+      "coach2ImageUrl": "/public/map/Payphone/pc/Payphone_Coach_2.tga.ckd/9e6cfcbead9844bd557ddb6911da2438.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Payphone/orbis/Payphone_banner_bkg.tga.ckd/73594306e408bb9d0bd2202eac795f9d.ckd",
+      "map_bkgImageUrl": "/public/map/Payphone/orbis/Payphone_map_bkg.tga.ckd/cee4bc7cbacf397cda45b2aa32726d75.ckd",
+      "expandCoachImageUrl": "/public/map/Payphone/orbis/Payphone_Cover_AlbumCoach.tga.ckd/3c2f14497f6793e9459ead8c176b8c5d.ckd",
+      "cover_smallImageUrl": "/public/map/Payphone/orbis/Payphone_Cover_Online.tga.ckd/dbf25ad0af3d94b7d9430cc68748c62a.ckd",
+      "coverImageUrl": "/public/map/Payphone/orbis/Payphone_Cover_Generic.tga.ckd/c7a9924e0882f08c6c748b7bb46c315c.ckd",
+      "coach1ImageUrl": "/public/map/Payphone/orbis/Payphone_Coach_1.tga.ckd/103fd87e2b3708caa84ce4ce86f1eb00.ckd",
+      "coach2ImageUrl": "/public/map/Payphone/orbis/Payphone_Coach_2.tga.ckd/9e6cfcbead9844bd557ddb6911da2438.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Payphone/Payphone_Coach_1_Phone.png/dcd9143827e4af97114da7be9da9cf08.png",
+    "phoneCoach2ImageUrl": "/public/map/Payphone/Payphone_Coach_2_Phone.png/f1c387314d2c7c39783fc3c74a6d125a.png",
+    "phoneCoverImageUrl": "/public/map/Payphone/Payphone_Cover_Phone.jpg/c2613b297a4a876d90c3308cac10fc78.jpg",
+    "cover640ImageUrl": "/public/map/Payphone/Payphone_Cover_640.png/041f6d73f9e5d5212bffb001ea48c3c5.png"
+  },
+  "mapLength": 240.546042
+}

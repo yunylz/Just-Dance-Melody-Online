@@ -1,0 +1,167 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "092aa542cd64f4712bcc5792145b597d",
+      "storageType": 0,
+      "url": "/public/map/ShouldIStay/nx/ShouldIStay_MAIN_SCENE_NX.zip/092aa542cd64f4712bcc5792145b597d.zip"
+    },
+    "pc": {
+      "md5": "abbeb6be76a3f9074f4a6e10ab44e8a0",
+      "storageType": 0,
+      "url": "/public/map/ShouldIStay/pc/ShouldIStay_MAIN_SCENE_PC.zip/abbeb6be76a3f9074f4a6e10ab44e8a0.zip"
+    },
+    "ps4": {
+      "md5": "7f1d4f711374a941d5f69b0ce044f74a",
+      "storageType": 0,
+      "url": "/public/map/ShouldIStay/orbis/ShouldIStay_MAIN_SCENE_ORBIS.zip/7f1d4f711374a941d5f69b0ce044f74a.zip"
+    }
+  },
+  "data": {
+    "mapName": "ShouldIStay",
+    "title": "Should I Stay Or Should I Go",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "The Clash",
+    "credits": "Written by Mick Jones and Joe Strummer. Published by Universal Music Publishing Group a division of Universal Music Canada Ltd. Courtesy of Sony Music Entertainment UK Limited. By arrangement with Sony Music Entertainment Canada Inc.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25572,
+        50582,
+        76154,
+        101168,
+        127715,
+        154401,
+        179973,
+        205545,
+        231116,
+        256688,
+        282260,
+        307831,
+        333403,
+        360020,
+        385591,
+        411163,
+        437757,
+        463329,
+        488900,
+        515935,
+        541507,
+        567078,
+        592650,
+        620311,
+        645883,
+        671455,
+        697027,
+        722598,
+        748170,
+        774578,
+        800149,
+        825721,
+        851711,
+        877282,
+        902854,
+        929209,
+        954781,
+        980353,
+        1003234,
+        1035075,
+        1062318,
+        1089980,
+        1116192,
+        1143714,
+        1169286,
+        1195833,
+        1221404,
+        1248021,
+        1274150,
+        1299721,
+        1325293,
+        1350865,
+        1375444,
+        1401016,
+        1426587
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 355,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/shouldistay/shouldistay_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ShouldIStay/nx/ShouldIStay_banner_bkg.tga.ckd/2e978b29ee6959f9106701efd92752fb.ckd",
+      "map_bkgImageUrl": "/public/map/ShouldIStay/nx/ShouldIStay_map_bkg.tga.ckd/aff798d8a71f0b16e5491f099327c56b.ckd",
+      "expandCoachImageUrl": "/public/map/ShouldIStay/nx/ShouldIStay_Cover_AlbumCoach.tga.ckd/b552182c19c6df57d84577a24b4a3d8b.ckd",
+      "cover_smallImageUrl": "/public/map/ShouldIStay/nx/ShouldIStay_Cover_Online.tga.ckd/5c2167a63857b99e3165f44f2c130286.ckd",
+      "coach1ImageUrl": "/public/map/ShouldIStay/nx/ShouldIStay_Coach_1.tga.ckd/7fa55961fece02e908e4bee7b1626055.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ShouldIStay/pc/ShouldIStay_banner_bkg.tga.ckd/f3bfa9a265903115039435c0bd2b833c.ckd",
+      "map_bkgImageUrl": "/public/map/ShouldIStay/pc/ShouldIStay_map_bkg.tga.ckd/7c07c8e28d2dcd88102281e43e7cc972.ckd",
+      "expandCoachImageUrl": "/public/map/ShouldIStay/pc/ShouldIStay_Cover_AlbumCoach.tga.ckd/defe2251052398287ab8a9cc46d7ed99.ckd",
+      "cover_smallImageUrl": "/public/map/ShouldIStay/pc/ShouldIStay_Cover_Online.tga.ckd/91315df58ed1db41f39c1ced704fd7bb.ckd",
+      "coach1ImageUrl": "/public/map/ShouldIStay/pc/ShouldIStay_Coach_1.tga.ckd/a6372978a99dea8620565fd4aeb1f6d4.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ShouldIStay/orbis/ShouldIStay_banner_bkg.tga.ckd/f3bfa9a265903115039435c0bd2b833c.ckd",
+      "map_bkgImageUrl": "/public/map/ShouldIStay/orbis/ShouldIStay_map_bkg.tga.ckd/7c07c8e28d2dcd88102281e43e7cc972.ckd",
+      "expandCoachImageUrl": "/public/map/ShouldIStay/orbis/ShouldIStay_Cover_AlbumCoach.tga.ckd/defe2251052398287ab8a9cc46d7ed99.ckd",
+      "cover_smallImageUrl": "/public/map/ShouldIStay/orbis/ShouldIStay_Cover_Online.tga.ckd/91315df58ed1db41f39c1ced704fd7bb.ckd",
+      "coach1ImageUrl": "/public/map/ShouldIStay/orbis/ShouldIStay_Coach_1.tga.ckd/a6372978a99dea8620565fd4aeb1f6d4.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ShouldIStay/ShouldIStay_Coach_1_Phone.png/c32dbae06b9c51032eb4702a60f34e71.png",
+    "phoneCoverImageUrl": "/public/map/ShouldIStay/ShouldIStay_Cover_Phone.jpg/5040c446abc0733aaacfb6bfbef8a125.jpg",
+    "cover640ImageUrl": "/public/map/ShouldIStay/ShouldIStay_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ShouldIStay/ShouldIStay.ogg": "/private/map/ShouldIStay/ShouldIStay.ogg/b8e407fb3cc0e631a1828d59fbc0d4a2.ogg",
+    "jmcs://jd-contents/ShouldIStay/ShouldIStay_AudioPreview.ogg": "/public/map/ShouldIStay/ShouldIStay_AudioPreview.ogg/f931d9dffebb39fee717145aacd539bf.ogg",
+    "jmcs://jd-contents/ShouldIStay/ShouldIStay_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ShouldIStay/ShouldIStay_MapPreviewNoSoundCrop_LOW.vp8.webm/524c42f005a85fd57b4cf66ab9888efa.webm",
+    "jmcs://jd-contents/ShouldIStay/ShouldIStay_HIGH.webm": "/private/map/ShouldIStay/ShouldIStay_HIGH.webm/bb2e30df26fc081c116eff734e4f5bde.webm",
+    "jmcs://jd-contents/ShouldIStay/ShouldIStay_LOW.webm": "/private/map/ShouldIStay/ShouldIStay_LOW.webm/10efb566e85e41a84b59cfb2c31cef67.webm",
+    "jmcs://jd-contents/ShouldIStay/ShouldIStay_MID.webm": "/private/map/ShouldIStay/ShouldIStay_MID.webm/b841332717c0f1998ec2aa52065d8dbe.webm",
+    "jmcs://jd-contents/ShouldIStay/ShouldIStay_ULTRA.hd.webm": "/private/map/ShouldIStay/ShouldIStay_ULTRA.hd.webm/c2c853b5d18f69ba406273c9576c7485.webm",
+    "jmcs://jd-contents/ShouldIStay/ShouldIStay_ULTRA.webm": "/private/map/ShouldIStay/ShouldIStay_ULTRA.webm/c0280fc24efacd47411b9f2cb8c159c0.webm",
+    "jmcs://jd-contents/ShouldIStay/ShouldIStay_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ShouldIStay/ShouldIStay_MapPreviewNoSoundCrop_MID.vp8.webm/853439187516d63fd7d3b9dd9a466a01.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495337\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ShouldIStay/ShouldIStay_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1486794\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ShouldIStay/ShouldIStay_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 189.994667
+}

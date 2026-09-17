@@ -1,0 +1,182 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "8a9da49d0b73dce53dc07adbccd60b27",
+      "storageType": 0,
+      "url": "/public/map/TheFinalCountdown/nx/TheFinalCountdown_MAIN_SCENE_NX.zip/8a9da49d0b73dce53dc07adbccd60b27.zip"
+    },
+    "pc": {
+      "md5": "c2bb24de209de2ae917fe879edb58cf3",
+      "storageType": 0,
+      "url": "/public/map/TheFinalCountdown/pc/TheFinalCountdown_MAIN_SCENE_PC.zip/c2bb24de209de2ae917fe879edb58cf3.zip"
+    },
+    "ps4": {
+      "md5": "2daf601a4076ceedfc4faf58ca92c109",
+      "storageType": 0,
+      "url": "/public/map/TheFinalCountdown/orbis/TheFinalCountdown_MAIN_SCENE_ORBIS.zip/2daf601a4076ceedfc4faf58ca92c109.zip"
+    }
+  },
+  "data": {
+    "mapName": "TheFinalCountdown",
+    "title": "The Final Countdown",
+    "originalJDVersion": 4,
+    "tags": [
+      "extreme",
+      "subscribedSong",
+      "JustDance4",
+      "Duet",
+      "Easy"
+    ],
+    "artist": "Europe",
+    "credits": "Written by Joey Tempest.Published by EMI Blackwood Music Inc. (BMI). All rights reserved. Used by permission.Courtesy of Epic Records.By arrangement with Sony Music Licensing. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 1,
+    "sweatDifficulty": 2,
+    "songColor1A": "#bb1dbe",
+    "songColor2A": "#19688d",
+    "songColor1B": "#1f0627",
+    "songColor2B": "#072235",
+    "lyricsColor": "#f2b668",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23231,
+        47471,
+        71711,
+        95951,
+        120191,
+        144431,
+        168671,
+        192911,
+        217151,
+        241391,
+        265631,
+        289919,
+        314159,
+        338399,
+        362639,
+        386879,
+        411119,
+        435359,
+        459647,
+        483935,
+        508271,
+        532559,
+        557567,
+        582527,
+        607535,
+        632543,
+        656543,
+        680543,
+        704590,
+        728590,
+        753598,
+        778558,
+        803566,
+        828574,
+        852670,
+        876814,
+        900958,
+        925102,
+        949870,
+        974590,
+        999358,
+        1024126,
+        1048366,
+        1072606,
+        1096846,
+        1121086,
+        1145518,
+        1169950,
+        1194382,
+        1218814,
+        1243534,
+        1268254,
+        1292974,
+        1317646,
+        1342414,
+        1367134,
+        1391902,
+        1416621,
+        1440957,
+        1465245,
+        1489533
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 542,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TheFinalCountdown/nx/TheFinalCountdown_banner_bkg.tga.ckd/4dff8faa05b4b80819539cb6b7ff772d.ckd",
+      "map_bkgImageUrl": "/public/map/TheFinalCountdown/nx/TheFinalCountdown_map_bkg.tga.ckd/362164f5bb6bfaf785002a94851136f9.ckd",
+      "expandCoachImageUrl": "/public/map/TheFinalCountdown/nx/TheFinalCountdown_Cover_AlbumCoach.tga.ckd/570892e8393dc587e6088c59719bc0f0.ckd",
+      "cover_smallImageUrl": "/public/map/TheFinalCountdown/nx/TheFinalCountdown_Cover_Online.tga.ckd/7ece7dba24cbe52618b3756fac5a0929.ckd",
+      "coverImageUrl": "/public/map/TheFinalCountdown/nx/TheFinalCountdown_Cover_Generic.tga.ckd/5ea42b1aeb200e51b9d2d4612981dce0.ckd",
+      "coach1ImageUrl": "/public/map/TheFinalCountdown/nx/TheFinalCountdown_Coach_1.tga.ckd/9951adb52e60ba77b9758d4033749a7e.ckd",
+      "coach2ImageUrl": "/public/map/TheFinalCountdown/nx/TheFinalCountdown_Coach_2.tga.ckd/736c021d46e52eae5f527e0fa26ff53a.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TheFinalCountdown/pc/TheFinalCountdown_banner_bkg.tga.ckd/42596672e5f7658f9d34446921707bdc.ckd",
+      "map_bkgImageUrl": "/public/map/TheFinalCountdown/pc/TheFinalCountdown_map_bkg.tga.ckd/7df17adf3c5d762c57f69baad0019d6e.ckd",
+      "expandCoachImageUrl": "/public/map/TheFinalCountdown/pc/TheFinalCountdown_Cover_AlbumCoach.tga.ckd/165c41fa051364a0c3133f10f04cbebd.ckd",
+      "cover_smallImageUrl": "/public/map/TheFinalCountdown/pc/TheFinalCountdown_Cover_Online.tga.ckd/bfc79eb40a8e3fbd5019a1b3b485c36c.ckd",
+      "coverImageUrl": "/public/map/TheFinalCountdown/pc/TheFinalCountdown_Cover_Generic.tga.ckd/bfaa2dc5bbfa4f84aae11e575e5ac62c.ckd",
+      "coach1ImageUrl": "/public/map/TheFinalCountdown/pc/TheFinalCountdown_Coach_1.tga.ckd/f6eaab17af974c493494d218ddad3c2d.ckd",
+      "coach2ImageUrl": "/public/map/TheFinalCountdown/pc/TheFinalCountdown_Coach_2.tga.ckd/ddd3c6a7e4bb5ea85b787ff7288548d3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TheFinalCountdown/orbis/TheFinalCountdown_banner_bkg.tga.ckd/42596672e5f7658f9d34446921707bdc.ckd",
+      "map_bkgImageUrl": "/public/map/TheFinalCountdown/orbis/TheFinalCountdown_map_bkg.tga.ckd/7df17adf3c5d762c57f69baad0019d6e.ckd",
+      "expandCoachImageUrl": "/public/map/TheFinalCountdown/orbis/TheFinalCountdown_Cover_AlbumCoach.tga.ckd/165c41fa051364a0c3133f10f04cbebd.ckd",
+      "cover_smallImageUrl": "/public/map/TheFinalCountdown/orbis/TheFinalCountdown_Cover_Online.tga.ckd/bfc79eb40a8e3fbd5019a1b3b485c36c.ckd",
+      "coverImageUrl": "/public/map/TheFinalCountdown/orbis/TheFinalCountdown_Cover_Generic.tga.ckd/bfaa2dc5bbfa4f84aae11e575e5ac62c.ckd",
+      "coach1ImageUrl": "/public/map/TheFinalCountdown/orbis/TheFinalCountdown_Coach_1.tga.ckd/f6eaab17af974c493494d218ddad3c2d.ckd",
+      "coach2ImageUrl": "/public/map/TheFinalCountdown/orbis/TheFinalCountdown_Coach_2.tga.ckd/ddd3c6a7e4bb5ea85b787ff7288548d3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TheFinalCountdown/TheFinalCountdown_Coach_1_Phone.png/09e3abb243cd92e57e156f39f48edc22.png",
+    "phoneCoach2ImageUrl": "/public/map/TheFinalCountdown/TheFinalCountdown_Coach_2_Phone.png/5b3975fdfd05d5900b484ed0a9ae6e9c.png",
+    "phoneCoverImageUrl": "/public/map/TheFinalCountdown/TheFinalCountdown_Cover_Phone.jpg/5fd30bc8b9e8ea1eeb08db37f1b3ff16.jpg",
+    "cover640ImageUrl": "/public/map/TheFinalCountdown/TheFinalCountdown_Cover_640.png/06ab0227a0662417bd9a4b1c9c339837.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown.ogg": "/private/map/TheFinalCountdown/TheFinalCountdown.ogg/b8fbc89aa2c011e88f2fa09d74248c40.ogg",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_AudioPreview.ogg": "/public/map/TheFinalCountdown/TheFinalCountdown_AudioPreview.ogg/b580c8562818eb55e6e492cab48930f6.ogg",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_LOW.vp8.webm/8ac2907c8f0e08bea72bf9bb1225872d.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_HIGH.webm": "/private/map/TheFinalCountdown/TheFinalCountdown_HIGH.webm/41c3fddb9dabdb1164a136106b615ef8.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_LOW.webm": "/private/map/TheFinalCountdown/TheFinalCountdown_LOW.webm/6e09139206611aeec3efa96ac5baafb1.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MID.webm": "/private/map/TheFinalCountdown/TheFinalCountdown_MID.webm/2818cc05e8adef2b3c367a5db99a5280.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_ULTRA.hd.webm": "/private/map/TheFinalCountdown/TheFinalCountdown_ULTRA.hd.webm/5068c2e3909bd603fdb9ff1a86984fa9.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_ULTRA.webm": "/private/map/TheFinalCountdown/TheFinalCountdown_ULTRA.webm/dadd174aa7f2d7b398919f3319344bf1.webm",
+    "jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_MID.vp8.webm/3dc56d00d1fa996a1cbf7c13818f999d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496741\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"650-1139\">\n\t\t\t\t\t<Initialization range=\"0-650\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1477600\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TheFinalCountdown/TheFinalCountdown_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\n\t\t\t\t\t<Initialization range=\"0-651\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 276.309604
+}

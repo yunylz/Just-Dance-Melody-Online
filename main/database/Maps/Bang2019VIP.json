@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "b7ec982ad58e38a8a193489e3ae09a05",
+      "storageType": 0,
+      "url": "/public/map/Bang2019VIP/nx/Bang2019VIP_MAIN_SCENE_NX.zip/b7ec982ad58e38a8a193489e3ae09a05.zip"
+    },
+    "pc": {
+      "md5": "5000a0f70008a75b4f2a792dc15d5e0b",
+      "storageType": 0,
+      "url": "/public/map/Bang2019VIP/pc/Bang2019VIP_MAIN_SCENE_PC.zip/5000a0f70008a75b4f2a792dc15d5e0b.zip"
+    },
+    "ps4": {
+      "md5": "789e29b4852cb8b819ad078a8ea1a823",
+      "storageType": 0,
+      "url": "/public/map/Bang2019VIP/orbis/Bang2019VIP_MAIN_SCENE_ORBIS.zip/789e29b4852cb8b819ad078a8ea1a823.zip"
+    }
+  },
+  "data": {
+    "mapName": "Bang2019VIP",
+    "title": "Bang Bang Bang",
+    "originalJDVersion": 2019,
+    "tags": [
+      "main"
+    ],
+    "artist": "BIGBANG",
+    "credits": " All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#d3956e",
+    "songColor2A": "#704cb5",
+    "songColor1B": "#a31b27",
+    "songColor2B": "#3f0172",
+    "lyricsColor": "#e52d2d",
+    "LocaleID": 13958
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        21311,
+        42671,
+        63983,
+        85343,
+        106655,
+        128015,
+        149327,
+        170687,
+        191999,
+        213311,
+        234671,
+        255983,
+        277343,
+        298655,
+        320015,
+        341327,
+        362687,
+        383999,
+        405311,
+        426671,
+        447983,
+        469343,
+        490655,
+        512015,
+        533327,
+        554687,
+        575999,
+        597311,
+        618671,
+        639983,
+        661343,
+        682655,
+        704014,
+        725326,
+        746686,
+        767998,
+        789310,
+        810670,
+        831982,
+        853342,
+        874654,
+        896014,
+        917326,
+        938686,
+        959998,
+        981310,
+        1002670,
+        1023982,
+        1045342,
+        1066654,
+        1088014,
+        1109326,
+        1130686,
+        1151998,
+        1173310,
+        1194670,
+        1215982,
+        1237342,
+        1258654,
+        1280014,
+        1301326,
+        1322686,
+        1343998,
+        1365310,
+        1386670,
+        1407981,
+        1429341,
+        1450653,
+        1472013,
+        1493325
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 498,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 68,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Bang2019VIP/Bang2019VIP_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Bang2019VIP/nx/Bang2019VIP_banner_bkg.tga.ckd/a916571946a964260091d68d1b089403.ckd",
+      "map_bkgImageUrl": "/public/map/Bang2019VIP/nx/Bang2019VIP_map_bkg.tga.ckd/09720b4dde15eb06eacbb1900373703e.ckd",
+      "expandCoachImageUrl": "/public/map/Bang2019VIP/nx/Bang2019VIP_Cover_AlbumCoach.tga.ckd/1fa0da9640951de18bf742ef0b844a6e.ckd",
+      "cover_smallImageUrl": "/public/map/Bang2019VIP/nx/Bang2019VIP_Cover_Online.tga.ckd/dfba829285dec83804bcbfed6c4a03dc.ckd",
+      "coach1ImageUrl": "/public/map/Bang2019VIP/nx/Bang2019VIP_Coach_1.tga.ckd/f6592214f342c07ebd727a1abb5d31f1.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Bang2019VIP/pc/Bang2019VIP_banner_bkg.tga.ckd/eaa1596a996a221aef44ff4701d97421.ckd",
+      "map_bkgImageUrl": "/public/map/Bang2019VIP/pc/Bang2019VIP_map_bkg.tga.ckd/2c071f197916800d4a08ac7270fc26e4.ckd",
+      "expandCoachImageUrl": "/public/map/Bang2019VIP/pc/Bang2019VIP_Cover_AlbumCoach.tga.ckd/e4d54d4e655a1ae66aae6886d4bc4311.ckd",
+      "cover_smallImageUrl": "/public/map/Bang2019VIP/pc/Bang2019VIP_Cover_Online.tga.ckd/5efe186ef8e5c05762476600061a5739.ckd",
+      "coach1ImageUrl": "/public/map/Bang2019VIP/pc/Bang2019VIP_Coach_1.tga.ckd/40647741e562fc1bb939659ea7e9d22b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Bang2019VIP/orbis/Bang2019VIP_banner_bkg.tga.ckd/eaa1596a996a221aef44ff4701d97421.ckd",
+      "map_bkgImageUrl": "/public/map/Bang2019VIP/orbis/Bang2019VIP_map_bkg.tga.ckd/2c071f197916800d4a08ac7270fc26e4.ckd",
+      "expandCoachImageUrl": "/public/map/Bang2019VIP/orbis/Bang2019VIP_Cover_AlbumCoach.tga.ckd/e4d54d4e655a1ae66aae6886d4bc4311.ckd",
+      "cover_smallImageUrl": "/public/map/Bang2019VIP/orbis/Bang2019VIP_Cover_Online.tga.ckd/5efe186ef8e5c05762476600061a5739.ckd",
+      "coach1ImageUrl": "/public/map/Bang2019VIP/orbis/Bang2019VIP_Coach_1.tga.ckd/40647741e562fc1bb939659ea7e9d22b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Bang2019VIP/Bang2019VIP_Coach_1_Phone.png/812bef8a309d93bfa8f02f3de0949df7.png",
+    "phoneCoverImageUrl": "/public/map/Bang2019VIP/Bang2019VIP_Cover_Phone.jpg/20f30ae424be7923e0a68e16c902402c.jpg",
+    "cover640ImageUrl": "/public/map/Bang2019VIP/Bang2019VIP_Cover_640.png/6a75aad55032602d980b1508797b1618.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Bang2019VIP/Bang2019VIP.ogg": "/private/map/Bang2019VIP/Bang2019VIP.ogg/85e0d2a31e3140c1ffbe30859a36b084.ogg",
+    "jmcs://jd-contents/Bang2019VIP/Bang2019VIP_AudioPreview.ogg": "/public/map/Bang2019VIP/Bang2019VIP_AudioPreview.ogg/2d658176dbc666b422b2b0b6b536cd0b.ogg",
+    "jmcs://jd-contents/Bang2019VIP/Bang2019VIP_HIGH.webm": "/private/map/Bang2019VIP/Bang2019VIP_HIGH.webm/c45167354b0cc2f508aabb354fb31442.webm",
+    "jmcs://jd-contents/Bang2019VIP/Bang2019VIP_LOW.webm": "/private/map/Bang2019VIP/Bang2019VIP_LOW.webm/18955455c843857692c3c47f4ce1fd84.webm",
+    "jmcs://jd-contents/Bang2019VIP/Bang2019VIP_MID.webm": "/private/map/Bang2019VIP/Bang2019VIP_MID.webm/6b87187ad5b175542ee2f0b53eab5652.webm",
+    "jmcs://jd-contents/Bang2019VIP/Bang2019VIP_ULTRA.hd.webm": "/private/map/Bang2019VIP/Bang2019VIP_ULTRA.hd.webm/cf50a90ba9536986f371c01b22a3c299.webm",
+    "jmcs://jd-contents/Bang2019VIP/Bang2019VIP_ULTRA.webm": "/private/map/Bang2019VIP/Bang2019VIP_ULTRA.webm/eb7b9acfc17feffd505fdb942b119c46.webm",
+    "jmcs://jd-contents/Bang2019VIP/Bang2019VIP_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Bang2019VIP/Bang2019VIP_MapPreviewNoSoundCrop_LOW.vp8.webm/6c0e1239a372ea10fab60f035ebdd5ee.webm",
+    "jmcs://jd-contents/Bang2019VIP/Bang2019VIP_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Bang2019VIP/Bang2019VIP_MapPreviewNoSoundCrop_MID.vp8.webm/f20f53d9a2e24b3a1c3a933a2b849b71.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"492936\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bang2019VIP/Bang2019VIP_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"619-1108\">\n\t\t\t\t\t<Initialization range=\"0-619\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1440902\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Bang2019VIP/Bang2019VIP_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"620-1110\">\n\t\t\t\t\t<Initialization range=\"0-620\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 222.224104
+}

@@ -1,0 +1,174 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "7b4753bf0050c3acbc1a5da7f359bc75",
+      "storageType": 0,
+      "url": "/public/map/ABBASuperTrooper/nx/ABBASuperTrooper_MAIN_SCENE_NX.zip/7b4753bf0050c3acbc1a5da7f359bc75.zip"
+    },
+    "pc": {
+      "md5": "00d5a1563ed1339e5e3c504bf577a6a8",
+      "storageType": 0,
+      "url": "/public/map/ABBASuperTrooper/pc/ABBASuperTrooper_MAIN_SCENE_PC.zip/00d5a1563ed1339e5e3c504bf577a6a8.zip"
+    },
+    "ps4": {
+      "md5": "b03b7fd7f5ef4090668fe9d2d7ade781",
+      "storageType": 0,
+      "url": "/public/map/ABBASuperTrooper/orbis/ABBASuperTrooper_MAIN_SCENE_ORBIS.zip/b03b7fd7f5ef4090668fe9d2d7ade781.zip"
+    }
+  },
+  "data": {
+    "mapName": "ABBASuperTrooper",
+    "title": "Super Trouper",
+    "originalJDVersion": 4884,
+    "tags": [
+      "Main",
+      "JDABBA",
+      "subscribedSong",
+      "Solo"
+    ],
+    "artist": "ABBA",
+    "credits": "Written by Ulvaeus, Bjoern K.; Andersson, Benny Goran Bror. Published by Universal Music Publishing. Courtesy of Polydor Limited under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#fb5f1e",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        30048,
+        54192,
+        78384,
+        102528,
+        126719,
+        150911,
+        175055,
+        199248,
+        223680,
+        248160,
+        272640,
+        297072,
+        321552,
+        346032,
+        370464,
+        394944,
+        419424,
+        443856,
+        468336,
+        492815,
+        517248,
+        541728,
+        566208,
+        590640,
+        615120,
+        639600,
+        664032,
+        688512,
+        712992,
+        737424,
+        761904,
+        786384,
+        810816,
+        835295,
+        859727,
+        884208,
+        908400,
+        932640,
+        956831,
+        981023,
+        1005216,
+        1029407,
+        1053648,
+        1077840,
+        1102032,
+        1126224,
+        1150416,
+        1174655,
+        1198848,
+        1223040,
+        1247232,
+        1271424,
+        1295664,
+        1319856,
+        1344047,
+        1368240,
+        1392432,
+        1416672,
+        1440671,
+        1464672,
+        1488672
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 445,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/ABBASuperTrooper/nx/ABBASuperTrooper_banner_bkg.tga.ckd/1e463a1acd7fd8ed00ef07ff8e53eaea.ckd",
+      "map_bkgImageUrl": "/public/map/ABBASuperTrooper/nx/ABBASuperTrooper_map_bkg.tga.ckd/a3cfc2119fbc10ec70f6336c34631f8c.ckd",
+      "expandCoachImageUrl": "/public/map/ABBASuperTrooper/nx/ABBASuperTrooper_Cover_AlbumCoach.tga.ckd/74165a3d6078c1ae46448711b4e02b3c.ckd",
+      "cover_smallImageUrl": "/public/map/ABBASuperTrooper/nx/ABBASuperTrooper_Cover_Online.tga.ckd/acc00e64a05e36fc6270bfd194ca4dcd.ckd",
+      "coach1ImageUrl": "/public/map/ABBASuperTrooper/nx/ABBASuperTrooper_Coach_1.tga.ckd/d135651b00a941ccca1ec058185fd8fb.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/ABBASuperTrooper/pc/ABBASuperTrooper_banner_bkg.tga.ckd/d8afa05832e376f3bb6bbb2b66302019.ckd",
+      "map_bkgImageUrl": "/public/map/ABBASuperTrooper/pc/ABBASuperTrooper_map_bkg.tga.ckd/779e1b5a688d460e9238be915ba84b4d.ckd",
+      "expandCoachImageUrl": "/public/map/ABBASuperTrooper/pc/ABBASuperTrooper_Cover_AlbumCoach.tga.ckd/6f0a67b45e1c52f9a223cf733a02d7c6.ckd",
+      "cover_smallImageUrl": "/public/map/ABBASuperTrooper/pc/ABBASuperTrooper_Cover_Online.tga.ckd/f28e35351541233d3c17d61ddf9dd70d.ckd",
+      "coach1ImageUrl": "/public/map/ABBASuperTrooper/pc/ABBASuperTrooper_Coach_1.tga.ckd/5f9482e4cca9265f9bf06f7ee8769303.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/ABBASuperTrooper/orbis/ABBASuperTrooper_banner_bkg.tga.ckd/d8afa05832e376f3bb6bbb2b66302019.ckd",
+      "map_bkgImageUrl": "/public/map/ABBASuperTrooper/orbis/ABBASuperTrooper_map_bkg.tga.ckd/779e1b5a688d460e9238be915ba84b4d.ckd",
+      "expandCoachImageUrl": "/public/map/ABBASuperTrooper/orbis/ABBASuperTrooper_Cover_AlbumCoach.tga.ckd/6f0a67b45e1c52f9a223cf733a02d7c6.ckd",
+      "cover_smallImageUrl": "/public/map/ABBASuperTrooper/orbis/ABBASuperTrooper_Cover_Online.tga.ckd/f28e35351541233d3c17d61ddf9dd70d.ckd",
+      "coach1ImageUrl": "/public/map/ABBASuperTrooper/orbis/ABBASuperTrooper_Coach_1.tga.ckd/5f9482e4cca9265f9bf06f7ee8769303.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/ABBASuperTrooper/ABBASuperTrooper_Coach_1_Phone.png/6a2f57d3599396d0d2bd11e506756434.png",
+    "phoneCoverImageUrl": "/public/map/ABBASuperTrooper/ABBASuperTrooper_Cover_Phone.jpg/e9551c6f5df8a046b7848dbd68362d4f.jpg",
+    "cover640ImageUrl": "/public/map/ABBASuperTrooper/ABBASuperTrooper_Cover_640.png/dc8fc40db5f1b3cface6b45c06ae17d1.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper.ogg": "/private/map/ABBASuperTrooper/ABBASuperTrooper.ogg/7a57491e86645d90557b461dbd8993c9.ogg",
+    "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_AudioPreview.ogg": "/public/map/ABBASuperTrooper/ABBASuperTrooper_AudioPreview.ogg/435519d5fe4d5244ed6855366faa5149.ogg",
+    "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/ABBASuperTrooper/ABBASuperTrooper_MapPreviewNoSoundCrop_LOW.vp8.webm/a881a2f99f1ea6a44633348405c171d4.webm",
+    "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_HIGH.webm": "/private/map/ABBASuperTrooper/ABBASuperTrooper_HIGH.webm/01c4625ccf0f776646f23b8318b3248a.webm",
+    "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_LOW.webm": "/private/map/ABBASuperTrooper/ABBASuperTrooper_LOW.webm/f79ec36c01a04ffed964fe05f87a9ff0.webm",
+    "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_MID.webm": "/private/map/ABBASuperTrooper/ABBASuperTrooper_MID.webm/db0539cfffb8f23858fb0e72aa7b7ed5.webm",
+    "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_ULTRA.hd.webm": "/private/map/ABBASuperTrooper/ABBASuperTrooper_ULTRA.hd.webm/a38e6571caa282b459cf9b13a9a8a2f9.webm",
+    "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_ULTRA.webm": "/private/map/ABBASuperTrooper/ABBASuperTrooper_ULTRA.webm/e5d965d5801bc50665ea0fbe7345e701.webm",
+    "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/ABBASuperTrooper/ABBASuperTrooper_MapPreviewNoSoundCrop_MID.vp8.webm/bc1fafefff731c0d037b176c058d058d.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"495684\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1136\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1466767\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\n\t\t\t\t\t<Initialization range=\"0-648\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 229.04
+}

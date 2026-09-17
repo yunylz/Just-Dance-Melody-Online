@@ -1,0 +1,182 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Drip/Drip.ogg": "/private/map/Drip/Drip.ogg/e15a73a2dd60a8475360f5bb83d1794a.ogg",
+    "jmcs://jd-contents/Drip/Drip_AudioPreview.ogg": "/public/map/Drip/Drip_AudioPreview.ogg/1eff0ab88e27e97e926a58ca04ccea64.ogg",
+    "jmcs://jd-contents/Drip/Drip_HIGH.hd.webm": "/private/map/Drip/Drip_HIGH.hd.webm/16d5cc4b285b579c1737deb0d7416ec0.webm",
+    "jmcs://jd-contents/Drip/Drip_LOW.hd.webm": "/private/map/Drip/Drip_LOW.hd.webm/b26f5736f31c595188e482bfb4e62cc2.webm",
+    "jmcs://jd-contents/Drip/Drip_MID.hd.webm": "/private/map/Drip/Drip_MID.hd.webm/4be1780578fa690487c6bd74ba4d2227.webm",
+    "jmcs://jd-contents/Drip/Drip_ULTRA.hd.webm": "/private/map/Drip/Drip_ULTRA.hd.webm/307654aec0261e3725aeba6e7c1a4d85.webm",
+    "jmcs://jd-contents/Drip/Drip_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Drip/Drip_MapPreviewNoSoundCrop_LOW.vp8.webm/6a3facf1526d2fbace66a9479e7fe867.webm",
+    "jmcs://jd-contents/Drip/Drip_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Drip/Drip_MapPreviewNoSoundCrop_MID.vp8.webm/6bb5332c846e38a8971a107965b85230.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        216000,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        432000,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        864000,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1464000,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 362,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Drip/Drip_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"613572\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Drip/Drip_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2031952\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Drip/Drip_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "02efe8c574d04a10a6d36e7f0312220e",
+      "storageType": 0,
+      "url": "/public/map/Drip/nx/Drip_MAIN_SCENE_NX.zip/02efe8c574d04a10a6d36e7f0312220e.zip"
+    },
+    "pc": {
+      "md5": "ed1345177bfee4b5a83fa2eeee9c106e",
+      "storageType": 0,
+      "url": "/public/map/Drip/pc/Drip_MAIN_SCENE_PC.zip/ed1345177bfee4b5a83fa2eeee9c106e.zip"
+    },
+    "ps4": {
+      "md5": "29170ca6de5d0218bd0563566cc3c8fb",
+      "storageType": 0,
+      "url": "/public/map/Drip/orbis/Drip_MAIN_SCENE_ORBIS.zip/29170ca6de5d0218bd0563566cc3c8fb.zip"
+    }
+  },
+  "data": {
+    "mapName": "Drip",
+    "title": "DRIP",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "BABYMONSTER",
+    "credits": "“DRIP”  Performed by BABYMONSTER Written by AiRPLAY, Sandra Linnea Vikstrom, ILLJUN, YG, Choice37, G-Dragon, Masta Wu, Sonny Published by Universal Music Publishing Ltd. on behalf of YG ENTERTAINMENT INC.(KOMCA), Kennel AB, and Universal Music Publishing AB Courtesy of YG ENTERTAINMENT INC. Choreography by YG ENTERTAINMENT INC. All rights reserved. Used with permission.",
+    "coachCount": 3,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ed0c84",
+    "songColor2A": "#efb1d6",
+    "songColor1B": "#030002",
+    "songColor2B": "#68034f",
+    "lyricsColor": "#e6b930",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Drip/nx/Drip_banner_bkg.tga.ckd/59bf78051061d877367bc23678004a7b.ckd",
+      "map_bkgImageUrl": "/public/map/Drip/nx/Drip_map_bkg.tga.ckd/7da6b14121f12e9fb1677a1272773036.ckd",
+      "expandCoachImageUrl": "/public/map/Drip/nx/Drip_Cover_AlbumCoach.tga.ckd/376e2fc3fed5f381769cdc0b71514723.ckd",
+      "cover_smallImageUrl": "/public/map/Drip/nx/Drip_Cover_Online.tga.ckd/b6257884f2cd0c1096688ee11cc1aad5.ckd",
+      "coverImageUrl": "/public/map/Drip/nx/Drip_Cover_Generic.tga.ckd/a91021e6f8907c43ff40e99b6443f92a.ckd",
+      "coach1ImageUrl": "/public/map/Drip/nx/Drip_Coach_1.tga.ckd/2f3ac845c6ca6ea8a962f4d14bbf8d96.ckd",
+      "coach2ImageUrl": "/public/map/Drip/nx/Drip_Coach_2.tga.ckd/48cee2caac898f00123d6738f83eea91.ckd",
+      "coach3ImageUrl": "/public/map/Drip/nx/Drip_Coach_3.tga.ckd/a7487692a3a4f67103d6f614abd81230.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Drip/pc/Drip_banner_bkg.tga.ckd/dfb39bf6ee1213dcca473853009fb6ca.ckd",
+      "map_bkgImageUrl": "/public/map/Drip/pc/Drip_map_bkg.tga.ckd/5f0b6d546f3c1f1b0ccf98f9b6289719.ckd",
+      "expandCoachImageUrl": "/public/map/Drip/pc/Drip_Cover_AlbumCoach.tga.ckd/314ab4cb50cdae8460006a4038154938.ckd",
+      "cover_smallImageUrl": "/public/map/Drip/pc/Drip_Cover_Online.tga.ckd/b2465a2d76a26ff03b2871045b0011ae.ckd",
+      "coverImageUrl": "/public/map/Drip/pc/Drip_Cover_Generic.tga.ckd/7ff7470bd974ace8a151152b030959aa.ckd",
+      "coach1ImageUrl": "/public/map/Drip/pc/Drip_Coach_1.tga.ckd/ecb500d2ed910f702f99fe846f3ae4f4.ckd",
+      "coach2ImageUrl": "/public/map/Drip/pc/Drip_Coach_2.tga.ckd/3fb1dcd49a19a4fec8c5c2363be57a31.ckd",
+      "coach3ImageUrl": "/public/map/Drip/pc/Drip_Coach_3.tga.ckd/621ebccbd5e0802cacacf0b4de46e71b.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Drip/orbis/Drip_banner_bkg.tga.ckd/dfb39bf6ee1213dcca473853009fb6ca.ckd",
+      "map_bkgImageUrl": "/public/map/Drip/orbis/Drip_map_bkg.tga.ckd/5f0b6d546f3c1f1b0ccf98f9b6289719.ckd",
+      "expandCoachImageUrl": "/public/map/Drip/orbis/Drip_Cover_AlbumCoach.tga.ckd/314ab4cb50cdae8460006a4038154938.ckd",
+      "cover_smallImageUrl": "/public/map/Drip/orbis/Drip_Cover_Online.tga.ckd/b2465a2d76a26ff03b2871045b0011ae.ckd",
+      "coverImageUrl": "/public/map/Drip/orbis/Drip_Cover_Generic.tga.ckd/7ff7470bd974ace8a151152b030959aa.ckd",
+      "coach1ImageUrl": "/public/map/Drip/orbis/Drip_Coach_1.tga.ckd/ecb500d2ed910f702f99fe846f3ae4f4.ckd",
+      "coach2ImageUrl": "/public/map/Drip/orbis/Drip_Coach_2.tga.ckd/3fb1dcd49a19a4fec8c5c2363be57a31.ckd",
+      "coach3ImageUrl": "/public/map/Drip/orbis/Drip_Coach_3.tga.ckd/621ebccbd5e0802cacacf0b4de46e71b.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Drip/Drip_Coach_1_Phone.png/4402de2ca2396c508f73dae6e19c0051.png",
+    "phoneCoach2ImageUrl": "/public/map/Drip/Drip_Coach_2_Phone.png/98c04c5d8479052b6c6a1f02c3a6cf27.png",
+    "phoneCoach3ImageUrl": "/public/map/Drip/Drip_Coach_3_Phone.png/b6ae5b16a8fb3f72b89eb3172d42468b.png",
+    "phoneCoverImageUrl": "/public/map/Drip/Drip_Cover_Phone.jpg/b21d4cee827b3bcc6737ede271e20f17.jpg",
+    "cover640ImageUrl": "/public/map/Drip/Drip_Cover_640.png/ff482ffd512ac3e14438ac0ad305bab0.png"
+  },
+  "mapLength": 185.0065
+}

@@ -1,0 +1,151 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "493d384082b3e504773259fce340917a",
+      "storageType": 0,
+      "url": "/public/map/KIDSPenguinsGame/nx/KIDSPenguinsGame_MAIN_SCENE_NX.zip/493d384082b3e504773259fce340917a.zip"
+    },
+    "pc": {
+      "md5": "bde95db0cbbb3061b33eb197a76bc693",
+      "storageType": 0,
+      "url": "/public/map/KIDSPenguinsGame/pc/KIDSPenguinsGame_MAIN_SCENE_PC.zip/bde95db0cbbb3061b33eb197a76bc693.zip"
+    },
+    "ps4": {
+      "md5": "b526cd0db3adc80cc825e830a1b8c9b9",
+      "storageType": 0,
+      "url": "/public/map/KIDSPenguinsGame/orbis/KIDSPenguinsGame_MAIN_SCENE_ORBIS.zip/b526cd0db3adc80cc825e830a1b8c9b9.zip"
+    }
+  },
+  "data": {
+    "mapName": "KIDSPenguinsGame",
+    "title": "Penguin’s Game (兔子舞)",
+    "originalJDVersion": 1103,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Gelato",
+    "credits": "Paolino Nobile, Fabio Serra and Mauro Farina\\u521b\\u4f5c\\uff0cGelato\\u6f14\\u5531\\uff0cARSENIC SOUND S A S (SIAE) \\u53caTHE SAIFAM GROUP SRL (SIAE)\\u51fa\\u7248\\u53d1\\u884c\\uff0cWC Music Corp\\u4ee3\\u8868ARSENIC SOUND S A S \\u53caTHE SAIFAM GROUP SRL\\u7ba1\\u7406\\u5176\\u6240\\u6709\\u6743\\u5229\\uff0c\\u627f\\u8499THE SAIFAM GROUP SRL\\u63d0\\u4f9b",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#AAAAAA",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#FF0000",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        36000,
+        72000,
+        108000,
+        144000,
+        180000,
+        216000,
+        252000,
+        288000,
+        324000,
+        360000,
+        396000,
+        432000,
+        468000,
+        504000,
+        540000,
+        576000,
+        612000,
+        648000,
+        684000,
+        720000,
+        756000,
+        792000,
+        828000,
+        864000,
+        900000,
+        936000,
+        972000,
+        1008000,
+        1044000,
+        1080000,
+        1116000,
+        1152000,
+        1188000,
+        1224000,
+        1260000,
+        1296000,
+        1332000,
+        1368000,
+        1404000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 127,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 39,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/kidspenguinsgame/kidspenguinsgame_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/KIDSPenguinsGame/nx/KIDSPenguinsGame_banner_bkg.tga.ckd/39e3515bbb9135d76cb1b8b0b72a7e98.ckd",
+      "map_bkgImageUrl": "/public/map/KIDSPenguinsGame/nx/KIDSPenguinsGame_map_bkg.tga.ckd/a4094465d46bc9bc419812b3fa371acf.ckd",
+      "expandCoachImageUrl": "/public/map/KIDSPenguinsGame/nx/KIDSPenguinsGame_Cover_AlbumCoach.tga.ckd/4ab1634d7df4e2a7364c0aa6c3413248.ckd",
+      "cover_smallImageUrl": "/public/map/KIDSPenguinsGame/nx/KIDSPenguinsGame_Cover_Online.tga.ckd/30914c16d78cb9061971af9e7d5cd2eb.ckd",
+      "coach1ImageUrl": "/public/map/KIDSPenguinsGame/nx/KIDSPenguinsGame_Coach_1.tga.ckd/d830ae0a090225b06623b4563cf2cad4.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/KIDSPenguinsGame/pc/KIDSPenguinsGame_banner_bkg.tga.ckd/075e1c671caf7056a7ee1e3e3499231f.ckd",
+      "map_bkgImageUrl": "/public/map/KIDSPenguinsGame/pc/KIDSPenguinsGame_map_bkg.tga.ckd/28e5ffe6add0516bbb80bfa349935de5.ckd",
+      "expandCoachImageUrl": "/public/map/KIDSPenguinsGame/pc/KIDSPenguinsGame_Cover_AlbumCoach.tga.ckd/a4ba6bc982a94b68cf045e2a84416042.ckd",
+      "cover_smallImageUrl": "/public/map/KIDSPenguinsGame/pc/KIDSPenguinsGame_Cover_Online.tga.ckd/02857a9bd744c521e3c5771825262df5.ckd",
+      "coach1ImageUrl": "/public/map/KIDSPenguinsGame/pc/KIDSPenguinsGame_Coach_1.tga.ckd/a9f590d45f3f805d9b01b28e5aeff90c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/KIDSPenguinsGame/orbis/KIDSPenguinsGame_banner_bkg.tga.ckd/075e1c671caf7056a7ee1e3e3499231f.ckd",
+      "map_bkgImageUrl": "/public/map/KIDSPenguinsGame/orbis/KIDSPenguinsGame_map_bkg.tga.ckd/28e5ffe6add0516bbb80bfa349935de5.ckd",
+      "expandCoachImageUrl": "/public/map/KIDSPenguinsGame/orbis/KIDSPenguinsGame_Cover_AlbumCoach.tga.ckd/a4ba6bc982a94b68cf045e2a84416042.ckd",
+      "cover_smallImageUrl": "/public/map/KIDSPenguinsGame/orbis/KIDSPenguinsGame_Cover_Online.tga.ckd/02857a9bd744c521e3c5771825262df5.ckd",
+      "coach1ImageUrl": "/public/map/KIDSPenguinsGame/orbis/KIDSPenguinsGame_Coach_1.tga.ckd/a9f590d45f3f805d9b01b28e5aeff90c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/KIDSPenguinsGame/KIDSPenguinsGame_Coach_1_Phone.png/9ce88a2ea0946808bc6aac9a94cea21c.png",
+    "phoneCoverImageUrl": "/public/map/KIDSPenguinsGame/KIDSPenguinsGame_Cover_Phone.jpg/ab2766b790211fb97f08d9f2ac7090bc.jpg",
+    "cover640ImageUrl": "/public/map/KIDSPenguinsGame/KIDSPenguinsGame_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/KIDSPenguinsGame/KIDSPenguinsGame.ogg": "/private/map/KIDSPenguinsGame/KIDSPenguinsGame.ogg/db54380ef22edfc3ba91372a65b4f062.ogg",
+    "jmcs://jd-contents/KIDSPenguinsGame/KIDSPenguinsGame_AudioPreview.ogg": "/public/map/KIDSPenguinsGame/KIDSPenguinsGame_AudioPreview.ogg/0f8ab2b145e352a0dbffdc6c0efebaed.ogg",
+    "jmcs://jd-contents/KIDSPenguinsGame/KIDSPenguinsGame_HIGH.webm": "/private/map/KIDSPenguinsGame/KIDSPenguinsGame_HIGH.webm/982f538f9582bedf9be229c25d638123.webm",
+    "jmcs://jd-contents/KIDSPenguinsGame/KIDSPenguinsGame_LOW.webm": "/private/map/KIDSPenguinsGame/KIDSPenguinsGame_LOW.webm/dac098018d53af649cd9f18d099b901b.webm",
+    "jmcs://jd-contents/KIDSPenguinsGame/KIDSPenguinsGame_MID.webm": "/private/map/KIDSPenguinsGame/KIDSPenguinsGame_MID.webm/140213b3ccfe06fb9440b0871cd74771.webm",
+    "jmcs://jd-contents/KIDSPenguinsGame/KIDSPenguinsGame_ULTRA.hd.webm": "/private/map/KIDSPenguinsGame/KIDSPenguinsGame_ULTRA.hd.webm/24d703077a7788e04e440dd0148115d6.webm",
+    "jmcs://jd-contents/KIDSPenguinsGame/KIDSPenguinsGame_ULTRA.webm": "/private/map/KIDSPenguinsGame/KIDSPenguinsGame_ULTRA.webm/063066f6401c8d0c518e6a66a06bda83.webm",
+    "jmcs://jd-contents/KIDSPenguinsGame/KIDSPenguinsGame_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/KIDSPenguinsGame/KIDSPenguinsGame_MapPreviewNoSoundCrop_LOW.vp8.webm/4a9dc4daadf340f6239780e59a9151ce.webm",
+    "jmcs://jd-contents/KIDSPenguinsGame/KIDSPenguinsGame_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/KIDSPenguinsGame/KIDSPenguinsGame_MapPreviewNoSoundCrop_MID.vp8.webm/4d367ea09108309219162a876987e219.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"497827\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSPenguinsGame/KIDSPenguinsGame_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"661-1150\">\n\t\t\t\t\t<Initialization range=\"0-661\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1480524\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KIDSPenguinsGame/KIDSPenguinsGame_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"662-1152\">\n\t\t\t\t\t<Initialization range=\"0-662\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 96.75
+}

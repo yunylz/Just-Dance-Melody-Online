@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "483aef31d94200c96eed4783a7a1a7eb",
+      "storageType": 0,
+      "url": "/public/map/NewRulesALT/nx/NewRulesALT_MAIN_SCENE_NX.zip/483aef31d94200c96eed4783a7a1a7eb.zip"
+    },
+    "pc": {
+      "md5": "ca438466b575c1ed68ae529bb3fbfdcf",
+      "storageType": 0,
+      "url": "/public/map/NewRulesALT/pc/NewRulesALT_MAIN_SCENE_PC.zip/ca438466b575c1ed68ae529bb3fbfdcf.zip"
+    },
+    "ps4": {
+      "md5": "d554c71778d97f1945068827552f74b2",
+      "storageType": 0,
+      "url": "/public/map/NewRulesALT/orbis/NewRulesALT_MAIN_SCENE_ORBIS.zip/d554c71778d97f1945068827552f74b2.zip"
+    }
+  },
+  "data": {
+    "mapName": "NewRulesALT",
+    "title": "New Rules",
+    "originalJDVersion": 2019,
+    "tags": [
+      "alternate"
+    ],
+    "artist": "Dua Lipa",
+    "credits": "Written by Caroline Ailin, Emily Schwartz and Ian Kirkpatrick. Published by Kobalt Music Services America Inc (KMSA) obo Prescription Songs (ASCAP) / Havenwood House (ASCAP). / BMG Platinum Songs. All rights administered by BMG Rights Management (US) LLC. / Warner-Tamerlane Publishing Corp. (BMI) on behalf of itself and Buckley Tenenbaum Publishing (BMI). (P) Line: 2017 Dua Lipa Limited under exclusive license to Warner Music UK Limited. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 3,
+    "songColor1A": "#5fe7e5",
+    "songColor2A": "#45c2d5",
+    "songColor1B": "#295ba2",
+    "songColor2B": "#feffc3",
+    "lyricsColor": "#fe3b96",
+    "LocaleID": 13763
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24816,
+        49632,
+        74496,
+        99312,
+        124128,
+        148944,
+        173808,
+        198624,
+        223440,
+        248256,
+        273120,
+        297936,
+        322752,
+        347568,
+        372432,
+        397248,
+        422064,
+        446881,
+        471745,
+        496561,
+        521377,
+        546193,
+        571057,
+        595873,
+        620689,
+        645505,
+        670369,
+        695185,
+        720001,
+        744817,
+        769633,
+        794497,
+        819313,
+        844129,
+        868945,
+        893810,
+        918626,
+        943442,
+        968258,
+        993122,
+        1017938,
+        1042754,
+        1067570,
+        1092434,
+        1117250,
+        1142066,
+        1166882,
+        1191746,
+        1216562,
+        1241378,
+        1266194,
+        1291058,
+        1315874,
+        1340691,
+        1365507,
+        1390371,
+        1415187,
+        1440003,
+        1464819,
+        1489635
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 406,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 58,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/NewRulesALT/NewRulesALT_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/NewRulesALT/nx/NewRulesALT_banner_bkg.tga.ckd/b18a644f1c270e913d2ca156078473b5.ckd",
+      "map_bkgImageUrl": "/public/map/NewRulesALT/nx/NewRulesALT_map_bkg.tga.ckd/597fb6c80bcd14450a3bb38176462a97.ckd",
+      "expandCoachImageUrl": "/public/map/NewRulesALT/nx/NewRulesALT_Cover_AlbumCoach.tga.ckd/33e402a754a2975e51b901a163165368.ckd",
+      "cover_smallImageUrl": "/public/map/NewRulesALT/nx/NewRulesALT_Cover_Online.tga.ckd/ff3128868853a8784735cdf5e5b5fdc7.ckd",
+      "coverImageUrl": "/public/map/NewRulesALT/nx/NewRulesALT_Cover_Generic.tga.ckd/a21747fa99c8309a724bb9b158d81b5d.ckd",
+      "coach1ImageUrl": "/public/map/NewRulesALT/nx/NewRulesALT_Coach_1.tga.ckd/6be49d51f688588fe0febeefec2ac4c0.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/NewRulesALT/pc/NewRulesALT_banner_bkg.tga.ckd/7f08c4e62b41df3e812641b422ff1505.ckd",
+      "map_bkgImageUrl": "/public/map/NewRulesALT/pc/NewRulesALT_map_bkg.tga.ckd/f34e56c8e795732cb310c872ffa8ddbd.ckd",
+      "expandCoachImageUrl": "/public/map/NewRulesALT/pc/NewRulesALT_Cover_AlbumCoach.tga.ckd/eda23e656e38fef982fa3cabdc1d1507.ckd",
+      "cover_smallImageUrl": "/public/map/NewRulesALT/pc/NewRulesALT_Cover_Online.tga.ckd/8506b297b28ca1e83c930b322a6d229c.ckd",
+      "coverImageUrl": "/public/map/NewRulesALT/pc/NewRulesALT_Cover_Generic.tga.ckd/f107f9cf1024c6b97a45f27abb43be24.ckd",
+      "coach1ImageUrl": "/public/map/NewRulesALT/pc/NewRulesALT_Coach_1.tga.ckd/b2365b64e2d673ca109b84f6a4545ef5.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/NewRulesALT/orbis/NewRulesALT_banner_bkg.tga.ckd/7f08c4e62b41df3e812641b422ff1505.ckd",
+      "map_bkgImageUrl": "/public/map/NewRulesALT/orbis/NewRulesALT_map_bkg.tga.ckd/f34e56c8e795732cb310c872ffa8ddbd.ckd",
+      "expandCoachImageUrl": "/public/map/NewRulesALT/orbis/NewRulesALT_Cover_AlbumCoach.tga.ckd/eda23e656e38fef982fa3cabdc1d1507.ckd",
+      "cover_smallImageUrl": "/public/map/NewRulesALT/orbis/NewRulesALT_Cover_Online.tga.ckd/8506b297b28ca1e83c930b322a6d229c.ckd",
+      "coverImageUrl": "/public/map/NewRulesALT/orbis/NewRulesALT_Cover_Generic.tga.ckd/f107f9cf1024c6b97a45f27abb43be24.ckd",
+      "coach1ImageUrl": "/public/map/NewRulesALT/orbis/NewRulesALT_Coach_1.tga.ckd/b2365b64e2d673ca109b84f6a4545ef5.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/NewRulesALT/NewRulesALT_Coach_1_Phone.png/e3f62f1bc7cadae8a4155743f5d82704.png",
+    "phoneCoverImageUrl": "/public/map/NewRulesALT/NewRulesALT_Cover_Phone.jpg/eeda73862cbb3ae61cf5962e059b88fd.jpg",
+    "cover640ImageUrl": "/public/map/NewRulesALT/NewRulesALT_Cover_640.png/aaeb657f71c445d84fa2e30e51ba643c.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/NewRulesALT/NewRulesALT_HIGH.webm": "/private/map/NewRulesALT/NewRulesALT_HIGH.webm/56f66e92c125c7a49c12e75e89d4bf31.webm",
+    "jmcs://jd-contents/NewRulesALT/NewRulesALT_LOW.webm": "/private/map/NewRulesALT/NewRulesALT_LOW.webm/4ab737fa43a9de54485107d9b14462ad.webm",
+    "jmcs://jd-contents/NewRulesALT/NewRulesALT_MID.webm": "/private/map/NewRulesALT/NewRulesALT_MID.webm/87e621d158d0df158c41937901e3d746.webm",
+    "jmcs://jd-contents/NewRulesALT/NewRulesALT_ULTRA.hd.webm": "/private/map/NewRulesALT/NewRulesALT_ULTRA.hd.webm/306c3ec3f4a3c641b0e8f978ce3334dd.webm",
+    "jmcs://jd-contents/NewRulesALT/NewRulesALT_ULTRA.webm": "/private/map/NewRulesALT/NewRulesALT_ULTRA.webm/64984e3f2c0efcfe338e3b5b70fa2348.webm",
+    "jmcs://jd-contents/NewRulesALT/NewRulesALT.ogg": "/private/map/NewRulesALT/NewRulesALT.ogg/c5101498625f5bab8845493e7d5f0086.ogg",
+    "jmcs://jd-contents/NewRulesALT/NewRulesALT_AudioPreview.ogg": "/public/map/NewRulesALT/NewRulesALT_AudioPreview.ogg/d55576d583c7338a4266ca22e466f4fb.ogg",
+    "jmcs://jd-contents/NewRulesALT/NewRulesALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/NewRulesALT/NewRulesALT_MapPreviewNoSoundCrop_LOW.vp8.webm/6dc308cbf1c15aa4440242497b0ecca3.webm",
+    "jmcs://jd-contents/NewRulesALT/NewRulesALT_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/NewRulesALT/NewRulesALT_MapPreviewNoSoundCrop_MID.vp8.webm/d8894e3961231331c506f6a7ae3c2344.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496264\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NewRulesALT/NewRulesALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"629-1118\">\n\t\t\t\t\t<Initialization range=\"0-629\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1289649\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/NewRulesALT/NewRulesALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"630-1120\">\n\t\t\t\t\t<Initialization range=\"0-630\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 210.000458
+}

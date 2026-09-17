@@ -1,0 +1,169 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "69f2cd765059ca71fc95abe60232af7f",
+      "storageType": 0,
+      "url": "/public/map/MahNa/nx/MahNa_MAIN_SCENE_NX.zip/69f2cd765059ca71fc95abe60232af7f.zip"
+    },
+    "pc": {
+      "md5": "5fa56647bbf47211b8805c47afd81123",
+      "storageType": 0,
+      "url": "/public/map/MahNa/pc/MahNa_MAIN_SCENE_PC.zip/5fa56647bbf47211b8805c47afd81123.zip"
+    },
+    "ps4": {
+      "md5": "94d5fa6e849171d3163394ef11e25e79",
+      "storageType": 0,
+      "url": "/public/map/MahNa/orbis/MahNa_MAIN_SCENE_ORBIS.zip/94d5fa6e849171d3163394ef11e25e79.zip"
+    }
+  },
+  "data": {
+    "mapName": "MahNa",
+    "title": "Mahna Mahna",
+    "originalJDVersion": 2015,
+    "tags": [
+      "main",
+      "jd2015"
+    ],
+    "artist": "Frankie Bostello",
+    "credits": "Uwu",
+    "coachCount": 3,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e8005d",
+    "songColor2A": "#00cc90",
+    "songColor1B": "#4b002c",
+    "songColor2B": "#00106c",
+    "lyricsColor": "#228b22"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        29375,
+        58751,
+        88175,
+        117551,
+        146975,
+        176399,
+        205823,
+        235247,
+        264671,
+        294095,
+        323519,
+        352943,
+        382367,
+        411791,
+        441215,
+        470639,
+        500063,
+        529439,
+        558719,
+        587951,
+        617183,
+        646463,
+        675694,
+        704926,
+        734206,
+        763438,
+        792670,
+        821950,
+        851566,
+        881182,
+        910798,
+        940414,
+        970030,
+        999646,
+        1029262,
+        1058878,
+        1088254,
+        1117678,
+        1147102,
+        1176526,
+        1205950,
+        1235374,
+        1264798,
+        1294222,
+        1323693,
+        1353165,
+        1382637,
+        1412109,
+        1441149,
+        1470189,
+        1499229
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 210,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 49,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/MahNa/MahNa_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/MahNa/nx/MahNa_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/MahNa/nx/MahNa_map_bkg.tga.ckd/1f4c002ad0468beb5f72ead81e65432f.ckd",
+      "expandCoachImageUrl": "/public/map/MahNa/nx/MahNa_Cover_AlbumCoach.tga.ckd/4c549b44d94ee0711ec1c4c62364c993.ckd",
+      "cover_smallImageUrl": "/public/map/MahNa/nx/MahNa_Cover_Online.tga.ckd/941e75a05a128f62cdd2b372ffdec2d7.ckd",
+      "coach1ImageUrl": "/public/map/MahNa/nx/MahNa_Coach_1.tga.ckd/369e06bf7869f182991e68b10f97cfd6.ckd",
+      "coach2ImageUrl": "/public/map/MahNa/nx/MahNa_Coach_2.tga.ckd/deffd8114ca01820ee6929ef6e17e861.ckd",
+      "coach3ImageUrl": "/public/map/MahNa/nx/MahNa_Coach_3.tga.ckd/283ddb945d51393c93124b132e4616f5.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/MahNa/pc/MahNa_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/MahNa/pc/MahNa_map_bkg.tga.ckd/19b5315d2baaf3b63413132593835b8f.ckd",
+      "expandCoachImageUrl": "/public/map/MahNa/pc/MahNa_Cover_AlbumCoach.tga.ckd/f0f49d4b8ab3d39b9120aeffee563616.ckd",
+      "cover_smallImageUrl": "/public/map/MahNa/pc/MahNa_Cover_Online.tga.ckd/44891ae42e1b175e6428c1d60f668de8.ckd",
+      "coach1ImageUrl": "/public/map/MahNa/pc/MahNa_Coach_1.tga.ckd/a896b0ec9bc8bcc91e1b8831a5e5cbf8.ckd",
+      "coach2ImageUrl": "/public/map/MahNa/pc/MahNa_Coach_2.tga.ckd/c9809fcdd2185731561151c5bddf21e8.ckd",
+      "coach3ImageUrl": "/public/map/MahNa/pc/MahNa_Coach_3.tga.ckd/a6833f060386f8b133d30259439228a1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/MahNa/orbis/MahNa_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/MahNa/orbis/MahNa_map_bkg.tga.ckd/19b5315d2baaf3b63413132593835b8f.ckd",
+      "expandCoachImageUrl": "/public/map/MahNa/orbis/MahNa_Cover_AlbumCoach.tga.ckd/f0f49d4b8ab3d39b9120aeffee563616.ckd",
+      "cover_smallImageUrl": "/public/map/MahNa/orbis/MahNa_Cover_Online.tga.ckd/44891ae42e1b175e6428c1d60f668de8.ckd",
+      "coach1ImageUrl": "/public/map/MahNa/orbis/MahNa_Coach_1.tga.ckd/a896b0ec9bc8bcc91e1b8831a5e5cbf8.ckd",
+      "coach2ImageUrl": "/public/map/MahNa/orbis/MahNa_Coach_2.tga.ckd/c9809fcdd2185731561151c5bddf21e8.ckd",
+      "coach3ImageUrl": "/public/map/MahNa/orbis/MahNa_Coach_3.tga.ckd/a6833f060386f8b133d30259439228a1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/MahNa/MahNa_Coach_1_Phone.png/6d8f554f055855dc5db5d2423dbe7010.png",
+    "phoneCoach2ImageUrl": "/public/map/MahNa/MahNa_Coach_2_Phone.png/8e1f39cc088636adbd46fccf4d58daa5.png",
+    "phoneCoach3ImageUrl": "/public/map/MahNa/MahNa_Coach_3_Phone.png/ad3c91bfea162f71ac170d9100c7d870.png",
+    "phoneCoverImageUrl": "/public/map/MahNa/MahNa_Cover_Phone.jpg/c4849a1496d506aba9149322bfe93056.jpg",
+    "cover640ImageUrl": "/public/map/MahNa/MahNa_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/MahNa/MahNa.ogg": "/private/map/MahNa/MahNa.ogg/ef611506f7ec60d6cb7bb2b060ada10a.ogg",
+    "jmcs://jd-contents/MahNa/MahNa_AudioPreview.ogg": "/public/map/MahNa/MahNa_AudioPreview.ogg/b33bcaf76ff9218754ba2cddc4314a53.ogg",
+    "jmcs://jd-contents/MahNa/MahNa_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/MahNa/MahNa_MapPreviewNoSoundCrop_LOW.vp8.webm/3c40871462a7ddb28d5e723fe899ad44.webm",
+    "jmcs://jd-contents/MahNa/MahNa_HIGH.webm": "/private/map/MahNa/MahNa_HIGH.webm/2dd4bb0006cb0c233224d2a0b4db35a5.webm",
+    "jmcs://jd-contents/MahNa/MahNa_LOW.webm": "/private/map/MahNa/MahNa_LOW.webm/38e067d5b77973b509be1d016ad8d0b9.webm",
+    "jmcs://jd-contents/MahNa/MahNa_MID.webm": "/private/map/MahNa/MahNa_MID.webm/9b493598ffadae5cfb6ae5594d636e67.webm",
+    "jmcs://jd-contents/MahNa/MahNa_ULTRA.hd.webm": "/private/map/MahNa/MahNa_ULTRA.hd.webm/0e7d0ac78eb37f9f3f078f13e11ccb4c.webm",
+    "jmcs://jd-contents/MahNa/MahNa_ULTRA.webm": "/private/map/MahNa/MahNa_ULTRA.webm/a3b48e064824bcbff5990079220bbe2f.webm",
+    "jmcs://jd-contents/MahNa/MahNa_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/MahNa/MahNa_MapPreviewNoSoundCrop_MID.vp8.webm/7d38b6a7af99f1109bbb2c8b866baa56.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"493761\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MahNa/MahNa_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-915\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1464091\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/MahNa/MahNa_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 125.20625
+}

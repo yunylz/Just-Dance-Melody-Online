@@ -1,0 +1,183 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ab3bd41bc79045f3b4a62b672847c841",
+      "storageType": 0,
+      "url": "/public/map/WhereHaveYouOSC/nx/WhereHaveYouOSC_MAIN_SCENE_NX.zip/ab3bd41bc79045f3b4a62b672847c841.zip"
+    },
+    "pc": {
+      "md5": "8c72b37c7c25b471eaf89e6831da8124",
+      "storageType": 0,
+      "url": "/public/map/WhereHaveYouOSC/pc/WhereHaveYouOSC_MAIN_SCENE_PC.zip/8c72b37c7c25b471eaf89e6831da8124.zip"
+    },
+    "ps4": {
+      "md5": "2541cbe9b9516fdc773e6aaee83bc845",
+      "storageType": 0,
+      "url": "/public/map/WhereHaveYouOSC/orbis/WhereHaveYouOSC_MAIN_SCENE_ORBIS.zip/2541cbe9b9516fdc773e6aaee83bc845.zip"
+    }
+  },
+  "data": {
+    "mapName": "WhereHaveYouOSC",
+    "title": "Where Have You Been",
+    "originalJDVersion": 2014,
+    "tags": [
+      "Main"
+    ],
+    "artist": "Rihanna",
+    "credits": "NEED TO BE FILLED",
+    "coachCount": 3,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#e7039d"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22512,
+        45024,
+        67488,
+        90000,
+        112512,
+        135024,
+        157488,
+        180000,
+        202512,
+        225024,
+        247488,
+        270000,
+        292512,
+        315024,
+        337488,
+        360000,
+        382512,
+        405024,
+        427488,
+        450000,
+        472512,
+        495024,
+        517488,
+        540000,
+        562512,
+        585024,
+        607488,
+        630000,
+        652512,
+        675024,
+        697488,
+        720000,
+        742512,
+        765024,
+        787488,
+        810000,
+        832512,
+        855024,
+        877488,
+        900000,
+        922512,
+        945024,
+        967488,
+        990001,
+        1012513,
+        1035025,
+        1057489,
+        1080001,
+        1102513,
+        1125025,
+        1147489,
+        1170001,
+        1192513,
+        1215025,
+        1237489,
+        1260001,
+        1282513,
+        1305025,
+        1327489,
+        1350001,
+        1372513,
+        1395025,
+        1417489,
+        1440001,
+        1462513,
+        1485025
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -19,
+      "endBeat": 524,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/WhereHaveYouOSC/nx/WhereHaveYouOSC_banner_bkg.tga.ckd/7606864b09118c1ae8c09e09a9ae2922.ckd",
+      "map_bkgImageUrl": "/public/map/WhereHaveYouOSC/nx/WhereHaveYouOSC_map_bkg.tga.ckd/e96c73ce341252194de97926c93d14e9.ckd",
+      "expandCoachImageUrl": "/public/map/WhereHaveYouOSC/nx/WhereHaveYouOSC_Cover_AlbumCoach.tga.ckd/6f6fc6cb2188e6fe9c593a2000b118d6.ckd",
+      "cover_smallImageUrl": "/public/map/WhereHaveYouOSC/nx/WhereHaveYouOSC_Cover_Online.tga.ckd/15932f0c7493c2c7b2a6efd6820a3f72.ckd",
+      "coach1ImageUrl": "/public/map/WhereHaveYouOSC/nx/WhereHaveYouOSC_Coach_1.tga.ckd/19f92827fb9023f6aca00970ae60892a.ckd",
+      "coach2ImageUrl": "/public/map/WhereHaveYouOSC/nx/WhereHaveYouOSC_Coach_2.tga.ckd/3bbd53e35a3c348b57cb50253f321b71.ckd",
+      "coach3ImageUrl": "/public/map/WhereHaveYouOSC/nx/WhereHaveYouOSC_Coach_3.tga.ckd/2d3742736b5225cfc8bf6a9d9a229c9e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/WhereHaveYouOSC/pc/WhereHaveYouOSC_banner_bkg.tga.ckd/12346adb79c6260d9fc50306f6e40d62.ckd",
+      "map_bkgImageUrl": "/public/map/WhereHaveYouOSC/pc/WhereHaveYouOSC_map_bkg.tga.ckd/2963fcd34f508e107070466f69e799e1.ckd",
+      "expandCoachImageUrl": "/public/map/WhereHaveYouOSC/pc/WhereHaveYouOSC_Cover_AlbumCoach.tga.ckd/33778e23a2cbd9cc8a825c7932a64112.ckd",
+      "cover_smallImageUrl": "/public/map/WhereHaveYouOSC/pc/WhereHaveYouOSC_Cover_Online.tga.ckd/b76781688f5f55252726ec097e103d3e.ckd",
+      "coach1ImageUrl": "/public/map/WhereHaveYouOSC/pc/WhereHaveYouOSC_Coach_1.tga.ckd/70e12e36364dae1e5a91a55b79c8b5e5.ckd",
+      "coach2ImageUrl": "/public/map/WhereHaveYouOSC/pc/WhereHaveYouOSC_Coach_2.tga.ckd/f9dceb08bbb889a82e4671a37a5967ed.ckd",
+      "coach3ImageUrl": "/public/map/WhereHaveYouOSC/pc/WhereHaveYouOSC_Coach_3.tga.ckd/86174319f469dd5b8c1a802e290a20f0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/WhereHaveYouOSC/orbis/WhereHaveYouOSC_banner_bkg.tga.ckd/12346adb79c6260d9fc50306f6e40d62.ckd",
+      "map_bkgImageUrl": "/public/map/WhereHaveYouOSC/orbis/WhereHaveYouOSC_map_bkg.tga.ckd/2963fcd34f508e107070466f69e799e1.ckd",
+      "expandCoachImageUrl": "/public/map/WhereHaveYouOSC/orbis/WhereHaveYouOSC_Cover_AlbumCoach.tga.ckd/33778e23a2cbd9cc8a825c7932a64112.ckd",
+      "cover_smallImageUrl": "/public/map/WhereHaveYouOSC/orbis/WhereHaveYouOSC_Cover_Online.tga.ckd/b76781688f5f55252726ec097e103d3e.ckd",
+      "coach1ImageUrl": "/public/map/WhereHaveYouOSC/orbis/WhereHaveYouOSC_Coach_1.tga.ckd/70e12e36364dae1e5a91a55b79c8b5e5.ckd",
+      "coach2ImageUrl": "/public/map/WhereHaveYouOSC/orbis/WhereHaveYouOSC_Coach_2.tga.ckd/f9dceb08bbb889a82e4671a37a5967ed.ckd",
+      "coach3ImageUrl": "/public/map/WhereHaveYouOSC/orbis/WhereHaveYouOSC_Coach_3.tga.ckd/86174319f469dd5b8c1a802e290a20f0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/WhereHaveYouOSC/WhereHaveYouOSC_Coach_1_Phone.png/3b1617d7d60bd2ccca14309d6d8a267d.png",
+    "phoneCoach2ImageUrl": "/public/map/WhereHaveYouOSC/WhereHaveYouOSC_Coach_2_Phone.png/2b3407bf407743412942f60694590c84.png",
+    "phoneCoach3ImageUrl": "/public/map/WhereHaveYouOSC/WhereHaveYouOSC_Coach_3_Phone.png/75fed264190aa4fa863cee73afb31620.png",
+    "phoneCoverImageUrl": "/public/map/WhereHaveYouOSC/WhereHaveYouOSC_Cover_Phone.jpg/f7fe328c23a09b1c88ff96dba8e6a91d.jpg",
+    "cover640ImageUrl": "/public/map/WhereHaveYouOSC/WhereHaveYouOSC_Cover_640.png/51ae85413a5d0b21576a60982f562b14.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC.ogg": "/private/map/WhereHaveYouOSC/WhereHaveYouOSC.ogg/424e367681b73b3636d0ea6a4bec0d5a.ogg",
+    "jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC_AudioPreview.ogg": "/public/map/WhereHaveYouOSC/WhereHaveYouOSC_AudioPreview.ogg/c3342ad58be9e6bb48c23b0d220c59ab.ogg",
+    "jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC_HIGH.webm": "/private/map/WhereHaveYouOSC/WhereHaveYouOSC_HIGH.webm/970b7150f8cca8df0568db3af2e95a8b.webm",
+    "jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC_LOW.webm": "/private/map/WhereHaveYouOSC/WhereHaveYouOSC_LOW.webm/97f121106b46dfe02733a555fbc65ac7.webm",
+    "jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC_MID.webm": "/private/map/WhereHaveYouOSC/WhereHaveYouOSC_MID.webm/bbcaf2e70c72f2ad45806935d69ea33a.webm",
+    "jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC_ULTRA.hd.webm": "/private/map/WhereHaveYouOSC/WhereHaveYouOSC_ULTRA.hd.webm/dc06c4f96e9af310f5392b36ffe9d4ec.webm",
+    "jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC_ULTRA.webm": "/private/map/WhereHaveYouOSC/WhereHaveYouOSC_ULTRA.webm/445a37703ce422cd19160ac659be189a.webm",
+    "jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/WhereHaveYouOSC/WhereHaveYouOSC_MapPreviewNoSoundCrop_LOW.vp8.webm/885e33bacfd1471c9ac18f8c8186274f.webm",
+    "jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/WhereHaveYouOSC/WhereHaveYouOSC_MapPreviewNoSoundCrop_MID.vp8.webm/18c919d89a2edab0dcb080730d2aba74.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"526789\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"617-1107\">\n\t\t\t\t\t<Initialization range=\"0-617\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1506759\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/WhereHaveYouOSC/WhereHaveYouOSC_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"618-1108\">\n\t\t\t\t\t<Initialization range=\"0-618\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 255.531
+}

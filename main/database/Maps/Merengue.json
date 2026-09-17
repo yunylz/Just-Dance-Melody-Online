@@ -1,0 +1,180 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "9ebefa218b312e97ad561c7b4d6c3e13",
+      "storageType": 0,
+      "url": "/public/map/Merengue/nx/Merengue_MAIN_SCENE_NX.zip/9ebefa218b312e97ad561c7b4d6c3e13.zip"
+    },
+    "pc": {
+      "md5": "d53634eb4b1a246bd029f7f35a2a99d9",
+      "storageType": 0,
+      "url": "/public/map/Merengue/pc/Merengue_MAIN_SCENE_PC.zip/d53634eb4b1a246bd029f7f35a2a99d9.zip"
+    },
+    "ps4": {
+      "md5": "2512cec9de16848a7db04b0722c700a7",
+      "storageType": 0,
+      "url": "/public/map/Merengue/orbis/Merengue_MAIN_SCENE_ORBIS.zip/2512cec9de16848a7db04b0722c700a7.zip"
+    }
+  },
+  "data": {
+    "mapName": "Merengue",
+    "title": "Merengue",
+    "originalJDVersion": 3,
+    "tags": [
+      "main"
+    ],
+    "artist": "Sweat Invaders",
+    "credits": "Written and composed by Joakim Frans Ahlund (STIM). Published by Universal Music Publishing (SOCAN). Courtesy of Astralwerks. Under license from EMI & Television Music.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#ff74d1",
+    "songColor2A": "#f9cc95",
+    "songColor1B": "#0c000e",
+    "songColor2B": "#2a1d03",
+    "lyricsColor": "#3a243b",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        22560,
+        45120,
+        67680,
+        90240,
+        112800,
+        133820,
+        154841,
+        175862,
+        196883,
+        217904,
+        238925,
+        259946,
+        280967,
+        301988,
+        321985,
+        343390,
+        364282,
+        385048,
+        405877,
+        426514,
+        447663,
+        468556,
+        489192,
+        510150,
+        531043,
+        551680,
+        572700,
+        593722,
+        614743,
+        635764,
+        656191,
+        677102,
+        698123,
+        718760,
+        739589,
+        760482,
+        781440,
+        802332,
+        823033,
+        844118,
+        865395,
+        885968,
+        906565,
+        927586,
+        948607,
+        969628,
+        990297,
+        1011142,
+        1032115,
+        1052592,
+        1073773,
+        1094634,
+        1115623,
+        1136228,
+        1157089,
+        1178110,
+        1199002,
+        1219752,
+        1240841,
+        1261442,
+        1282655,
+        1303484,
+        1324072,
+        1345045,
+        1366066,
+        1386992,
+        1407677,
+        1428458,
+        1449191,
+        1470308,
+        1491137
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 529,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 69,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Merengue/Merengue_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Merengue/nx/Merengue_banner_bkg.tga.ckd/c95f2c91a37a4f730863a2185492f7b0.ckd",
+      "map_bkgImageUrl": "/public/map/Merengue/nx/Merengue_map_bkg.tga.ckd/f9ee66ae16b7add1cd4658dfb9d1fe33.ckd",
+      "expandCoachImageUrl": "/public/map/Merengue/nx/Merengue_Cover_AlbumCoach.tga.ckd/d029a42da368157ea6925d60e80cf347.ckd",
+      "cover_smallImageUrl": "/public/map/Merengue/nx/Merengue_Cover_Online.tga.ckd/a1c4841dbe9e95b2295e2bc75f5b2898.ckd",
+      "coach1ImageUrl": "/public/map/Merengue/nx/Merengue_Coach_1.tga.ckd/f9eee615422196a9cc8fbced3ab9795e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Merengue/pc/Merengue_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/Merengue/pc/Merengue_map_bkg.tga.ckd/9af0fe48a937d2ecedf868a4f12eefae.ckd",
+      "expandCoachImageUrl": "/public/map/Merengue/pc/Merengue_Cover_AlbumCoach.tga.ckd/ce1e5c1b6aac19e345aee4532f6dad12.ckd",
+      "cover_smallImageUrl": "/public/map/Merengue/pc/Merengue_Cover_Online.tga.ckd/b67d2e80295a8850ecb31c42dd288d8a.ckd",
+      "coach1ImageUrl": "/public/map/Merengue/pc/Merengue_Coach_1.tga.ckd/ea954a9eb76d8c7009c9212d52c374b0.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Merengue/orbis/Merengue_banner_bkg.tga.ckd/1d2650dd01b4667dbdc6a059b73413b3.ckd",
+      "map_bkgImageUrl": "/public/map/Merengue/orbis/Merengue_map_bkg.tga.ckd/9af0fe48a937d2ecedf868a4f12eefae.ckd",
+      "expandCoachImageUrl": "/public/map/Merengue/orbis/Merengue_Cover_AlbumCoach.tga.ckd/ce1e5c1b6aac19e345aee4532f6dad12.ckd",
+      "cover_smallImageUrl": "/public/map/Merengue/orbis/Merengue_Cover_Online.tga.ckd/b67d2e80295a8850ecb31c42dd288d8a.ckd",
+      "coach1ImageUrl": "/public/map/Merengue/orbis/Merengue_Coach_1.tga.ckd/ea954a9eb76d8c7009c9212d52c374b0.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Merengue/Merengue_Coach_1_Phone.png/d437b0cbd6bc0af99c7bb79fa8a577d5.png",
+    "phoneCoverImageUrl": "/public/map/Merengue/Merengue_Cover_Phone.jpg/e55afb25823d37a95e6a2c5502b5a649.jpg",
+    "cover640ImageUrl": "/public/map/Merengue/Merengue_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Merengue/Merengue.ogg": "/private/map/Merengue/Merengue.ogg/69d1cfcad49c01200baa5c015db58742.ogg",
+    "jmcs://jd-contents/Merengue/Merengue_AudioPreview.ogg": "/public/map/Merengue/Merengue_AudioPreview.ogg/7e737be549d53828408155845b1719df.ogg",
+    "jmcs://jd-contents/Merengue/Merengue_HIGH.webm": "/private/map/Merengue/Merengue_HIGH.webm/7ad491859e4a2394340cdb5bfd8c24bf.webm",
+    "jmcs://jd-contents/Merengue/Merengue_LOW.webm": "/private/map/Merengue/Merengue_LOW.webm/e466e52212cfcddcd0a8a99490b8cee2.webm",
+    "jmcs://jd-contents/Merengue/Merengue_MID.webm": "/private/map/Merengue/Merengue_MID.webm/5b8066fc86ec713a94c6e73fe907175a.webm",
+    "jmcs://jd-contents/Merengue/Merengue_ULTRA.webm": "/private/map/Merengue/Merengue_ULTRA.webm/964d09a2e686f5149d4db6f309224d4e.webm",
+    "jmcs://jd-contents/Merengue/Merengue_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Merengue/Merengue_MapPreviewNoSoundCrop_LOW.vp8.webm/cb59c000e080e9b71b76157a55239dcb.webm",
+    "jmcs://jd-contents/Merengue/Merengue_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Merengue/Merengue_MapPreviewNoSoundCrop_MID.vp8.webm/eb1a1e9f878fd7495ffc93424e886b53.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"507678\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Merengue/Merengue_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1506284\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Merengue/Merengue_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 230.36
+}

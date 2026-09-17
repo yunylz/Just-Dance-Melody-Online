@@ -1,0 +1,173 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "ee594711a949cccc46cc6870a59b6c54",
+      "storageType": 0,
+      "url": "/public/map/3435/nx/3435_MAIN_SCENE_NX.zip/ee594711a949cccc46cc6870a59b6c54.zip"
+    },
+    "pc": {
+      "md5": "a8146c45c1984b3c59960ba3834dad27",
+      "storageType": 0,
+      "url": "/public/map/3435/pc/3435_MAIN_SCENE_PC.zip/a8146c45c1984b3c59960ba3834dad27.zip"
+    },
+    "ps4": {
+      "md5": "5ec3bd06e5621933750efc1e0e0157b4",
+      "storageType": 0,
+      "url": "/public/map/3435/orbis/3435_MAIN_SCENE_ORBIS.zip/5ec3bd06e5621933750efc1e0e0157b4.zip"
+    }
+  },
+  "data": {
+    "mapName": "3435",
+    "title": "34+35",
+    "originalJDVersion": 3000,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "Duet",
+      "Medium"
+    ],
+    "artist": "Ariana Grande",
+    "credits": "CREDITS STRING TO BE FILLED",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#00adb5",
+    "songColor2A": "#dabf5b",
+    "songColor1B": "#0a004b",
+    "songColor2B": "#41000b",
+    "lyricsColor": "#ffff00"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26182,
+        52364,
+        78545,
+        104727,
+        130909,
+        157091,
+        183273,
+        209455,
+        235636,
+        261818,
+        288000,
+        314182,
+        340364,
+        366545,
+        392727,
+        418909,
+        445091,
+        471273,
+        497455,
+        523636,
+        549818,
+        576000,
+        602182,
+        628364,
+        654545,
+        680727,
+        706909,
+        733091,
+        759273,
+        785455,
+        811636,
+        837818,
+        864000,
+        890182,
+        916364,
+        942545,
+        968727,
+        994909,
+        1021091,
+        1047273,
+        1073455,
+        1099636,
+        1125818,
+        1152000,
+        1178182,
+        1204364,
+        1230546,
+        1256727,
+        1282909,
+        1309091,
+        1335273,
+        1361455,
+        1387636,
+        1413818,
+        1440000,
+        1466182,
+        1492364
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 314,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/3435/3435_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/3435/nx/3435_banner_bkg.tga.ckd/ce236fecaf7973d869e66fefd6b34e42.ckd",
+      "map_bkgImageUrl": "/public/map/3435/nx/3435_map_bkg.tga.ckd/a6191910b3bc6bedacd47d14d35a3893.ckd",
+      "expandCoachImageUrl": "/public/map/3435/nx/3435_Cover_AlbumCoach.tga.ckd/f81d079c5bf81d06cd7603fc90b6d75f.ckd",
+      "cover_smallImageUrl": "/public/map/3435/nx/3435_Cover_Online.tga.ckd/dc1cc237c923e1820d6de49214497ea4.ckd",
+      "coach1ImageUrl": "/public/map/3435/nx/3435_Coach_1.tga.ckd/b1806ab7ff7ca2244a873036f8f8a72f.ckd",
+      "coach2ImageUrl": "/public/map/3435/nx/3435_Coach_2.tga.ckd/4c59060f41591c544e818518a33cf4ad.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/3435/pc/3435_banner_bkg.tga.ckd/193ce0c57b029c079128006a77a033e2.ckd",
+      "map_bkgImageUrl": "/public/map/3435/pc/3435_map_bkg.tga.ckd/f805a0e888b20dae719a0577083a20f4.ckd",
+      "expandCoachImageUrl": "/public/map/3435/pc/3435_Cover_AlbumCoach.tga.ckd/c958a681aed55f0a9915110cf89589e6.ckd",
+      "cover_smallImageUrl": "/public/map/3435/pc/3435_Cover_Online.tga.ckd/befb793cd427655bad29fb973e37d713.ckd",
+      "coach1ImageUrl": "/public/map/3435/pc/3435_Coach_1.tga.ckd/a6bd0b334258cfdc0bf33c8e157ea193.ckd",
+      "coach2ImageUrl": "/public/map/3435/pc/3435_Coach_2.tga.ckd/67548fc8d7491729454921656edd64f3.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/3435/orbis/3435_banner_bkg.tga.ckd/193ce0c57b029c079128006a77a033e2.ckd",
+      "map_bkgImageUrl": "/public/map/3435/orbis/3435_map_bkg.tga.ckd/f805a0e888b20dae719a0577083a20f4.ckd",
+      "expandCoachImageUrl": "/public/map/3435/orbis/3435_Cover_AlbumCoach.tga.ckd/c958a681aed55f0a9915110cf89589e6.ckd",
+      "cover_smallImageUrl": "/public/map/3435/orbis/3435_Cover_Online.tga.ckd/befb793cd427655bad29fb973e37d713.ckd",
+      "coach1ImageUrl": "/public/map/3435/orbis/3435_Coach_1.tga.ckd/a6bd0b334258cfdc0bf33c8e157ea193.ckd",
+      "coach2ImageUrl": "/public/map/3435/orbis/3435_Coach_2.tga.ckd/67548fc8d7491729454921656edd64f3.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/3435/3435_Coach_1_Phone.png/23152a313b9274ad4280d2eea9c535d9.png",
+    "phoneCoach2ImageUrl": "/public/map/3435/3435_Coach_2_Phone.png/8c5715fe8b55cf3515bfa6bd6c99de30.png",
+    "phoneCoverImageUrl": "/public/map/3435/3435_Cover_Phone.jpg/cf23b6c759f6ef4720310f0bc00dec97.jpg",
+    "cover640ImageUrl": "/public/map/3435/3435_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/3435/3435.ogg": "/private/map/3435/3435.ogg/211c16e143d50e2eb1a1127984dde124.ogg",
+    "jmcs://jd-contents/3435/3435_AudioPreview.ogg": "/public/map/3435/3435_AudioPreview.ogg/41131bf89510e2dcc959df3b6bb9fe97.ogg",
+    "jmcs://jd-contents/3435/3435_HIGH.webm": "/private/map/3435/3435_HIGH.webm/aa37f9eee968f3c81d32d53267ef1e36.webm",
+    "jmcs://jd-contents/3435/3435_LOW.webm": "/private/map/3435/3435_LOW.webm/23456eb0b9a4d698cb26c471f8de7d0f.webm",
+    "jmcs://jd-contents/3435/3435_MID.webm": "/private/map/3435/3435_MID.webm/ac727d4d870262c9d3d3c1fbb2b0b31c.webm",
+    "jmcs://jd-contents/3435/3435_ULTRA.hd.webm": "/private/map/3435/3435_ULTRA.hd.webm/f30500c69c57801b60eef2850c4c7147.webm",
+    "jmcs://jd-contents/3435/3435_ULTRA.webm": "/private/map/3435/3435_ULTRA.webm/903a3ac4aafd18310e50c1e97016406b.webm",
+    "jmcs://jd-contents/3435/3435_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/3435/3435_MapPreviewNoSoundCrop_LOW.vp8.webm/f4bea2c28a0a943a902129e8e80fe172.webm",
+    "jmcs://jd-contents/3435/3435_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/3435/3435_MapPreviewNoSoundCrop_MID.vp8.webm/a8cd198d46b957b9b1d4e43992d1b4e9.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"524081\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/3435/3435_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"425-914\">\n\t\t\t\t\t<Initialization range=\"0-425\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1486414\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/3435/3435_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"426-916\">\n\t\t\t\t\t<Initialization range=\"0-426\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 183.918667
+}

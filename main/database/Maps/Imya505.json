@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "2743f933eb2cd3c11ac2af65dc6f290b",
+      "storageType": 0,
+      "url": "/public/map/Imya505/nx/Imya505_MAIN_SCENE_NX.zip/2743f933eb2cd3c11ac2af65dc6f290b.zip"
+    },
+    "pc": {
+      "md5": "7504ed29709f363fb17e6ebd211403b7",
+      "storageType": 0,
+      "url": "/public/map/Imya505/pc/Imya505_MAIN_SCENE_PC.zip/7504ed29709f363fb17e6ebd211403b7.zip"
+    },
+    "ps4": {
+      "md5": "33648b247bc3aab5c02f3ff41a0419e5",
+      "storageType": 0,
+      "url": "/public/map/Imya505/orbis/Imya505_MAIN_SCENE_ORBIS.zip/33648b247bc3aab5c02f3ff41a0419e5.zip"
+    }
+  },
+  "data": {
+    "mapName": "Imya505",
+    "title": "Imya 505",
+    "originalJDVersion": 2017,
+    "tags": [
+      "main"
+    ],
+    "artist": "Vremya i Steklo",
+    "credits": "Written by Alexey Potapenko, Nadezhda Dorofeeva and Alexez Zavgorodniy. Published by Alexey Potapenko. Courtesy of MOZGI Entertainment. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#480094",
+    "songColor2A": "#b800ff",
+    "songColor1B": "#140069",
+    "songColor2B": "#ffba00",
+    "lyricsColor": "#8141fa",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24000,
+        48000,
+        72000,
+        96000,
+        120000,
+        144000,
+        168000,
+        192000,
+        215999,
+        240000,
+        264000,
+        288000,
+        312000,
+        336000,
+        360000,
+        384000,
+        408000,
+        431999,
+        456000,
+        480000,
+        504000,
+        528000,
+        552000,
+        576000,
+        600000,
+        624000,
+        648000,
+        672000,
+        696000,
+        720000,
+        744000,
+        768000,
+        792000,
+        816000,
+        840000,
+        863999,
+        888000,
+        912000,
+        936000,
+        960000,
+        984000,
+        1008000,
+        1032000,
+        1056000,
+        1080000,
+        1104000,
+        1128000,
+        1152000,
+        1176000,
+        1200000,
+        1224000,
+        1248000,
+        1272000,
+        1296000,
+        1320000,
+        1344000,
+        1368000,
+        1392000,
+        1416000,
+        1440000,
+        1463999,
+        1488000
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -6,
+      "endBeat": 413,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 60,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Imya505/Imya505_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Imya505/nx/Imya505_banner_bkg.tga.ckd/96ed3f07ed12ef1bfc1d8902d999261b.ckd",
+      "map_bkgImageUrl": "/public/map/Imya505/nx/Imya505_map_bkg.tga.ckd/60e5cfb3fb19d6acd29ce96ff95f8ac0.ckd",
+      "expandCoachImageUrl": "/public/map/Imya505/nx/Imya505_Cover_AlbumCoach.tga.ckd/b7561d6322bef6a6627550195d8dc548.ckd",
+      "cover_smallImageUrl": "/public/map/Imya505/nx/Imya505_Cover_Online.tga.ckd/8bf0243bcba03fd6d1bfea985d0789e0.ckd",
+      "coach1ImageUrl": "/public/map/Imya505/nx/Imya505_Coach_1.tga.ckd/be01a8ff5f4e2ae4ddd9fe87ea8129e9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Imya505/pc/Imya505_banner_bkg.tga.ckd/94210f5105ed86c428c24060d704b5e2.ckd",
+      "map_bkgImageUrl": "/public/map/Imya505/pc/Imya505_map_bkg.tga.ckd/2645d456aa1cfbbdbe5b5f6253b140f3.ckd",
+      "expandCoachImageUrl": "/public/map/Imya505/pc/Imya505_Cover_AlbumCoach.tga.ckd/f138382d4eb331c6d906211c2c301c86.ckd",
+      "cover_smallImageUrl": "/public/map/Imya505/pc/Imya505_Cover_Online.tga.ckd/704493faa9373aecab604831bfdc4f12.ckd",
+      "coach1ImageUrl": "/public/map/Imya505/pc/Imya505_Coach_1.tga.ckd/dd5dba1d2f4967c2bd6722d196b9771d.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Imya505/orbis/Imya505_banner_bkg.tga.ckd/94210f5105ed86c428c24060d704b5e2.ckd",
+      "map_bkgImageUrl": "/public/map/Imya505/orbis/Imya505_map_bkg.tga.ckd/2645d456aa1cfbbdbe5b5f6253b140f3.ckd",
+      "expandCoachImageUrl": "/public/map/Imya505/orbis/Imya505_Cover_AlbumCoach.tga.ckd/f138382d4eb331c6d906211c2c301c86.ckd",
+      "cover_smallImageUrl": "/public/map/Imya505/orbis/Imya505_Cover_Online.tga.ckd/704493faa9373aecab604831bfdc4f12.ckd",
+      "coach1ImageUrl": "/public/map/Imya505/orbis/Imya505_Coach_1.tga.ckd/dd5dba1d2f4967c2bd6722d196b9771d.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Imya505/Imya505_Coach_1_Phone.png/c3381fde854733db29cf2c0bcb23d350.png",
+    "phoneCoverImageUrl": "/public/map/Imya505/Imya505_Cover_Phone.jpg/8c688c2e49a8c21788158ff6ddfb44d6.jpg",
+    "cover640ImageUrl": "/public/map/Imya505/Imya505_Cover_640.png/3d80651f04366bc360acea1065022cf0.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Imya505/Imya505.ogg": "/private/map/Imya505/Imya505.ogg/b9e44c98990c75fcf49cc1c41232e042.ogg",
+    "jmcs://jd-contents/Imya505/Imya505_AudioPreview.ogg": "/public/map/Imya505/Imya505_AudioPreview.ogg/98b5b151a1ece7b4fb012ee4536fbcd4.ogg",
+    "jmcs://jd-contents/Imya505/Imya505_HIGH.webm": "/private/map/Imya505/Imya505_HIGH.webm/72c889cfbeb07d752d5ac535936cb913.webm",
+    "jmcs://jd-contents/Imya505/Imya505_LOW.webm": "/private/map/Imya505/Imya505_LOW.webm/a2e45cfd4d63ece1b40f4527be4afb6b.webm",
+    "jmcs://jd-contents/Imya505/Imya505_MID.webm": "/private/map/Imya505/Imya505_MID.webm/0fad3a76f3b422c7358fb83b6c827711.webm",
+    "jmcs://jd-contents/Imya505/Imya505_ULTRA.hd.webm": "/private/map/Imya505/Imya505_ULTRA.hd.webm/77b897a438dc1379eecb34129ab7c389.webm",
+    "jmcs://jd-contents/Imya505/Imya505_ULTRA.webm": "/private/map/Imya505/Imya505_ULTRA.webm/43a3f0fdc64d0f08a357464245455315.webm",
+    "jmcs://jd-contents/Imya505/Imya505_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Imya505/Imya505_MapPreviewNoSoundCrop_LOW.vp8.webm/79da672503d86bff8460ed4cb6193172.webm",
+    "jmcs://jd-contents/Imya505/Imya505_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Imya505/Imya505_MapPreviewNoSoundCrop_MID.vp8.webm/86b3e850d48698f857b103be295f735e.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"498736\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Imya505/Imya505_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\n\t\t\t\t\t<Initialization range=\"0-646\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1048173\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Imya505/Imya505_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\n\t\t\t\t\t<Initialization range=\"0-647\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 209.5
+}

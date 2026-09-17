@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Sunlight/Sunlight.ogg": "/private/map/Sunlight/Sunlight.ogg/a0f1872c948dda3d701d56a78afb2756.ogg",
+    "jmcs://jd-contents/Sunlight/Sunlight_AudioPreview.ogg": "/public/map/Sunlight/Sunlight_AudioPreview.ogg/35333a7b65224b91ef6acaaeeb6d4125.ogg",
+    "jmcs://jd-contents/Sunlight/Sunlight_HIGH.hd.webm": "/private/map/Sunlight/Sunlight_HIGH.hd.webm/6eb6e4dc938713dae30fd6be08e463af.webm",
+    "jmcs://jd-contents/Sunlight/Sunlight_LOW.hd.webm": "/private/map/Sunlight/Sunlight_LOW.hd.webm/56f787466a666ae29a48fa24e1971ceb.webm",
+    "jmcs://jd-contents/Sunlight/Sunlight_MID.hd.webm": "/private/map/Sunlight/Sunlight_MID.hd.webm/bd5657a50dff81374294a7dab05027e5.webm",
+    "jmcs://jd-contents/Sunlight/Sunlight_ULTRA.hd.webm": "/private/map/Sunlight/Sunlight_ULTRA.hd.webm/5f67d538d938ff1f24d4e70bf3917a54.webm",
+    "jmcs://jd-contents/Sunlight/Sunlight_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Sunlight/Sunlight_MapPreviewNoSoundCrop_LOW.vp8.webm/9048c2d35b9d1f8b0fcaae816b10ce2e.webm",
+    "jmcs://jd-contents/Sunlight/Sunlight_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Sunlight/Sunlight_MapPreviewNoSoundCrop_MID.vp8.webm/aca216539c2e792c0584778ef5c9c1fa.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        25487,
+        50973,
+        76460,
+        101947,
+        127434,
+        152920,
+        178407,
+        203894,
+        229381,
+        254867,
+        280354,
+        305841,
+        331327,
+        356814,
+        382301,
+        407788,
+        433274,
+        458761,
+        484248,
+        509735,
+        535221,
+        560708,
+        586195,
+        611681,
+        637168,
+        662655,
+        688142,
+        713628,
+        739115,
+        764602,
+        790088,
+        815575,
+        841062,
+        866549,
+        892035,
+        917522,
+        943009,
+        968496,
+        993982,
+        1019469,
+        1044956,
+        1070442,
+        1095929,
+        1121416,
+        1146903,
+        1172389,
+        1197876,
+        1223363,
+        1248850,
+        1274336,
+        1299823,
+        1325310,
+        1350796,
+        1376283,
+        1401770,
+        1427257,
+        1452743,
+        1478230
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -10,
+      "endBeat": 408,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 56,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Sunlight/Sunlight_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"591297\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sunlight/Sunlight_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2035228\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Sunlight/Sunlight_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "fc0f72eceea504da17aef1be5b9005b0",
+      "storageType": 0,
+      "url": "/public/map/Sunlight/nx/Sunlight_MAIN_SCENE_NX.zip/fc0f72eceea504da17aef1be5b9005b0.zip"
+    },
+    "pc": {
+      "md5": "313697b711be36278698626293c96364",
+      "storageType": 0,
+      "url": "/public/map/Sunlight/pc/Sunlight_MAIN_SCENE_PC.zip/313697b711be36278698626293c96364.zip"
+    },
+    "ps4": {
+      "md5": "7b45989effc8a259ba4d81dc62afd122",
+      "storageType": 0,
+      "url": "/public/map/Sunlight/orbis/Sunlight_MAIN_SCENE_ORBIS.zip/7b45989effc8a259ba4d81dc62afd122.zip"
+    }
+  },
+  "data": {
+    "mapName": "Sunlight",
+    "title": "Sunlight",
+    "originalJDVersion": 2025,
+    "tags": [
+      "main"
+    ],
+    "artist": "The Just Dance Band",
+    "credits": "Written by Tom Salta, Benjamin Samama.  Published by Ubisoft Music Publishing. Courtesy of Ubisoft Music.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#e2770e",
+    "songColor2A": "#3a6cec",
+    "songColor1B": "#81180d",
+    "songColor2B": "#0d0960",
+    "lyricsColor": "#29ddfb",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Sunlight/nx/Sunlight_banner_bkg.tga.ckd/1a5db24e14ada53584c3b6c5e6ca7b77.ckd",
+      "map_bkgImageUrl": "/public/map/Sunlight/nx/Sunlight_map_bkg.tga.ckd/105f7db993ca37301ec773240cb5862d.ckd",
+      "expandCoachImageUrl": "/public/map/Sunlight/nx/Sunlight_Cover_AlbumCoach.tga.ckd/d5d16275c8c0b0915c3a98e19425c828.ckd",
+      "cover_smallImageUrl": "/public/map/Sunlight/nx/Sunlight_Cover_Online.tga.ckd/bf0f6be5f24d2c60b8abe6e245b78846.ckd",
+      "coverImageUrl": "/public/map/Sunlight/nx/Sunlight_Cover_Generic.tga.ckd/dd87158bb7bdaaf9079e57f1651c2635.ckd",
+      "coach1ImageUrl": "/public/map/Sunlight/nx/Sunlight_Coach_1.tga.ckd/1327b4a6e6efa064b7ecd0b49996a9b3.ckd",
+      "coach2ImageUrl": "/public/map/Sunlight/nx/Sunlight_Coach_2.tga.ckd/38ca020e705d19b440bcc65e7f082707.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Sunlight/pc/Sunlight_banner_bkg.tga.ckd/5ef13791fffff18db1e895e21a1fe86f.ckd",
+      "map_bkgImageUrl": "/public/map/Sunlight/pc/Sunlight_map_bkg.tga.ckd/eef64edb09f138c3f823579c213d49c5.ckd",
+      "expandCoachImageUrl": "/public/map/Sunlight/pc/Sunlight_Cover_AlbumCoach.tga.ckd/67538e7f57edb47bf63b2a26979b055a.ckd",
+      "cover_smallImageUrl": "/public/map/Sunlight/pc/Sunlight_Cover_Online.tga.ckd/81050878a0a7149ba2875075b05ed617.ckd",
+      "coverImageUrl": "/public/map/Sunlight/pc/Sunlight_Cover_Generic.tga.ckd/cea7a415d29fe9b0c40c04c47dd5923f.ckd",
+      "coach1ImageUrl": "/public/map/Sunlight/pc/Sunlight_Coach_1.tga.ckd/3b7ada47113f449214b0487bf821f2cf.ckd",
+      "coach2ImageUrl": "/public/map/Sunlight/pc/Sunlight_Coach_2.tga.ckd/bf4c8bae5f8f2f0d784e8248c5cce4fc.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Sunlight/orbis/Sunlight_banner_bkg.tga.ckd/5ef13791fffff18db1e895e21a1fe86f.ckd",
+      "map_bkgImageUrl": "/public/map/Sunlight/orbis/Sunlight_map_bkg.tga.ckd/eef64edb09f138c3f823579c213d49c5.ckd",
+      "expandCoachImageUrl": "/public/map/Sunlight/orbis/Sunlight_Cover_AlbumCoach.tga.ckd/67538e7f57edb47bf63b2a26979b055a.ckd",
+      "cover_smallImageUrl": "/public/map/Sunlight/orbis/Sunlight_Cover_Online.tga.ckd/81050878a0a7149ba2875075b05ed617.ckd",
+      "coverImageUrl": "/public/map/Sunlight/orbis/Sunlight_Cover_Generic.tga.ckd/cea7a415d29fe9b0c40c04c47dd5923f.ckd",
+      "coach1ImageUrl": "/public/map/Sunlight/orbis/Sunlight_Coach_1.tga.ckd/3b7ada47113f449214b0487bf821f2cf.ckd",
+      "coach2ImageUrl": "/public/map/Sunlight/orbis/Sunlight_Coach_2.tga.ckd/bf4c8bae5f8f2f0d784e8248c5cce4fc.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Sunlight/Sunlight_Coach_1_Phone.png/d2ffc32e226f729a63e5f5023ef1e34e.png",
+    "phoneCoach2ImageUrl": "/public/map/Sunlight/Sunlight_Coach_2_Phone.png/6cfa1b7124c21598e504b111eeed1273.png",
+    "phoneCoverImageUrl": "/public/map/Sunlight/Sunlight_Cover_Phone.jpg/1784a425847cdcfb9e691ef3ff6d140a.jpg",
+    "cover640ImageUrl": "/public/map/Sunlight/Sunlight_Cover_640.png/d6ff3b9abe5871a124253259f13ea28a.png"
+  },
+  "mapLength": 221.400563
+}

@@ -1,0 +1,178 @@
+{
+  "urls": {
+    "jmcs://jd-contents/TouchMe/TouchMe.ogg": "/private/map/TouchMe/TouchMe.ogg/be1bc42f06c34cccce20d52940f99a35.ogg",
+    "jmcs://jd-contents/TouchMe/TouchMe_AudioPreview.ogg": "/public/map/TouchMe/TouchMe_AudioPreview.ogg/ae30dedbe367e12287f9176157240e07.ogg",
+    "jmcs://jd-contents/TouchMe/TouchMe_HIGH.hd.webm": "/private/map/TouchMe/TouchMe_HIGH.hd.webm/173f8f1a5c2c35df8cb723e3bd1bb1c2.webm",
+    "jmcs://jd-contents/TouchMe/TouchMe_LOW.hd.webm": "/private/map/TouchMe/TouchMe_LOW.hd.webm/3285711abe2842f97ff452299209888c.webm",
+    "jmcs://jd-contents/TouchMe/TouchMe_MID.hd.webm": "/private/map/TouchMe/TouchMe_MID.hd.webm/8c366823bcbb625d079be1d054ced8a8.webm",
+    "jmcs://jd-contents/TouchMe/TouchMe_ULTRA.hd.webm": "/private/map/TouchMe/TouchMe_ULTRA.hd.webm/a9ef46b577d836fb28c1ca192e4aa631.webm",
+    "jmcs://jd-contents/TouchMe/TouchMe_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/TouchMe/TouchMe_MapPreviewNoSoundCrop_LOW.vp8.webm/4fb879f8a62cc27a505b1f9298675a04.webm",
+    "jmcs://jd-contents/TouchMe/TouchMe_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/TouchMe/TouchMe_MapPreviewNoSoundCrop_MID.vp8.webm/c68d8d5eb5d2199416802caf7f3610d3.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23643,
+        47286,
+        70929,
+        94572,
+        118218,
+        140717,
+        163216,
+        185715,
+        208214,
+        230713,
+        253212,
+        275711,
+        298210,
+        320709,
+        343208,
+        365707,
+        388206,
+        410705,
+        433204,
+        455703,
+        478202,
+        500702,
+        523201,
+        545700,
+        568199,
+        590698,
+        613197,
+        635696,
+        658195,
+        680694,
+        703193,
+        725692,
+        748191,
+        770690,
+        793189,
+        815688,
+        838187,
+        860686,
+        883185,
+        905684,
+        928183,
+        950682,
+        973182,
+        995681,
+        1018180,
+        1040679,
+        1063178,
+        1085677,
+        1108176,
+        1130675,
+        1153174,
+        1175673,
+        1198172,
+        1220671,
+        1243170,
+        1265669,
+        1288168,
+        1310667,
+        1333166,
+        1355665,
+        1378164,
+        1400663,
+        1423162,
+        1445662,
+        1468161,
+        1490660
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 464,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 64,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/TouchMe/TouchMe_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30.03S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30.03S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"468553\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TouchMe/TouchMe_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"631-1121\">\n\t\t\t\t\t<Initialization range=\"0-631\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1680488\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/TouchMe/TouchMe_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"632-1122\">\n\t\t\t\t\t<Initialization range=\"0-632\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "39268b105bb35404839f99c85a5a329b",
+      "storageType": 0,
+      "url": "/public/map/TouchMe/nx/TouchMe_MAIN_SCENE_NX.zip/39268b105bb35404839f99c85a5a329b.zip"
+    },
+    "pc": {
+      "md5": "8f413a9ca1c065ea953d16e5c138f0c4",
+      "storageType": 0,
+      "url": "/public/map/TouchMe/pc/TouchMe_MAIN_SCENE_PC.zip/8f413a9ca1c065ea953d16e5c138f0c4.zip"
+    },
+    "ps4": {
+      "md5": "e6dc78b50125a0ea76cbd5d11eeefe77",
+      "storageType": 0,
+      "url": "/public/map/TouchMe/orbis/TouchMe_MAIN_SCENE_ORBIS.zip/e6dc78b50125a0ea76cbd5d11eeefe77.zip"
+    }
+  },
+  "data": {
+    "mapName": "TouchMe",
+    "title": "Touch Me Want Me",
+    "originalJDVersion": 3,
+    "tags": [
+      "Main"
+    ],
+    "artist": "Sweat Invaders",
+    "credits": "Written by Chunky Nelson (PRS). . Published by Carbert Special Accounts (BMI) APM. Courtesy of APM Music.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 1,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#fcbd06",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/TouchMe/nx/TouchMe_banner_bkg.tga.ckd/7d91edf9bb09ef08496d24c966bd4836.ckd",
+      "map_bkgImageUrl": "/public/map/TouchMe/nx/TouchMe_map_bkg.tga.ckd/006cc439b302112a255331e4970e8611.ckd",
+      "expandCoachImageUrl": "/public/map/TouchMe/nx/TouchMe_Cover_AlbumCoach.tga.ckd/c357f6ec8b90e356ba6d5026591c05b8.ckd",
+      "cover_smallImageUrl": "/public/map/TouchMe/nx/TouchMe_Cover_Online.tga.ckd/3bb8b9ef656080aa5576237b57559b7f.ckd",
+      "coverImageUrl": "/public/map/TouchMe/nx/TouchMe_Cover_Generic.tga.ckd/5b0063833715e0ea9c81bda613e3c0b1.ckd",
+      "coach1ImageUrl": "/public/map/TouchMe/nx/TouchMe_Coach_1.tga.ckd/df6a053680d65fb258974a6f29c8e5e9.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/TouchMe/pc/TouchMe_banner_bkg.tga.ckd/1972afc8d136cb366a6f7d50f6b9f757.ckd",
+      "map_bkgImageUrl": "/public/map/TouchMe/pc/TouchMe_map_bkg.tga.ckd/00b628dfebea1e03a3a1cf35d86a6827.ckd",
+      "expandCoachImageUrl": "/public/map/TouchMe/pc/TouchMe_Cover_AlbumCoach.tga.ckd/e38c243fb31b58267c81d639c9c18718.ckd",
+      "cover_smallImageUrl": "/public/map/TouchMe/pc/TouchMe_Cover_Online.tga.ckd/20be3852f6e75eaefc66c3eee543b45a.ckd",
+      "coverImageUrl": "/public/map/TouchMe/pc/TouchMe_Cover_Generic.tga.ckd/ebb3585128dacb8b0e685072c08fc97c.ckd",
+      "coach1ImageUrl": "/public/map/TouchMe/pc/TouchMe_Coach_1.tga.ckd/3cd08dbeb91956b47013f41c79fde51a.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/TouchMe/orbis/TouchMe_banner_bkg.tga.ckd/1972afc8d136cb366a6f7d50f6b9f757.ckd",
+      "map_bkgImageUrl": "/public/map/TouchMe/orbis/TouchMe_map_bkg.tga.ckd/00b628dfebea1e03a3a1cf35d86a6827.ckd",
+      "expandCoachImageUrl": "/public/map/TouchMe/orbis/TouchMe_Cover_AlbumCoach.tga.ckd/e38c243fb31b58267c81d639c9c18718.ckd",
+      "cover_smallImageUrl": "/public/map/TouchMe/orbis/TouchMe_Cover_Online.tga.ckd/20be3852f6e75eaefc66c3eee543b45a.ckd",
+      "coverImageUrl": "/public/map/TouchMe/orbis/TouchMe_Cover_Generic.tga.ckd/ebb3585128dacb8b0e685072c08fc97c.ckd",
+      "coach1ImageUrl": "/public/map/TouchMe/orbis/TouchMe_Coach_1.tga.ckd/3cd08dbeb91956b47013f41c79fde51a.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/TouchMe/TouchMe_Coach_1_Phone.png/cea43d36869b20f56a10caa8af419f4b.png",
+    "phoneCoverImageUrl": "/public/map/TouchMe/TouchMe_Cover_Phone.jpg/96ac0adaa993f8a8f88a907e9d61d0e7.jpg",
+    "cover640ImageUrl": "/public/map/TouchMe/TouchMe_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "mapLength": 217.983063
+}

@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "c91a275bd1d825b1be2c94a0b1bbbc82",
+      "storageType": 0,
+      "url": "/public/map/Kelloggs/nx/Kelloggs_MAIN_SCENE_NX.zip/c91a275bd1d825b1be2c94a0b1bbbc82.zip"
+    },
+    "pc": {
+      "md5": "6b66f3c31e9213edb745f67c97f8046a",
+      "storageType": 0,
+      "url": "/public/map/Kelloggs/pc/Kelloggs_MAIN_SCENE_PC.zip/6b66f3c31e9213edb745f67c97f8046a.zip"
+    },
+    "ps4": {
+      "md5": "dc4af1d9b8ce6730227fca1744fb18c7",
+      "storageType": 0,
+      "url": "/public/map/Kelloggs/orbis/Kelloggs_MAIN_SCENE_ORBIS.zip/dc4af1d9b8ce6730227fca1744fb18c7.zip"
+    }
+  },
+  "data": {
+    "mapName": "Kelloggs",
+    "title": "Barbra Streisand",
+    "originalJDVersion": 3,
+    "tags": [
+      "main"
+    ],
+    "artist": "Duck Sauce",
+    "credits": "Written by Frank Farian, Fred Jay, Heinz Huth, Juergen Huth, Alain Macklovitch and Armand Van Helden. Published by Edition Antenna Musik (GEMA) / Far Musikverlag Gmbh & Co. Kg (GEMA) / BMG Bumblebee (BMI) obo Breakdancin’ Bob Publishing (BMI) / Downtown DMP Songs (BMI). All rights reserved. Used with permission. Courtesy of X-Mix Productions. ",
+    "coachCount": 1,
+    "difficulty": 4,
+    "sweatDifficulty": 3,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#777777",
+    "lyricsColor": "#b205ff",
+    "LocaleID": 12624
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24208,
+        48416,
+        72624,
+        96832,
+        121040,
+        145248,
+        169456,
+        193671,
+        216170,
+        238669,
+        261168,
+        283668,
+        306167,
+        328666,
+        351165,
+        373664,
+        396163,
+        418662,
+        441161,
+        463660,
+        486159,
+        508658,
+        531157,
+        553656,
+        576155,
+        598654,
+        621153,
+        643652,
+        666151,
+        688650,
+        711149,
+        733648,
+        756148,
+        778647,
+        801146,
+        823645,
+        846144,
+        868643,
+        891142,
+        913641,
+        936140,
+        958639,
+        981138,
+        1003637,
+        1026136,
+        1048635,
+        1071134,
+        1093633,
+        1116132,
+        1138631,
+        1161130,
+        1183629,
+        1206128,
+        1228628,
+        1251127,
+        1273626,
+        1296125,
+        1318624,
+        1341123,
+        1363622,
+        1386121,
+        1408620,
+        1431119,
+        1453618,
+        1476117
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 429,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 63,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Kelloggs/Kelloggs_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Kelloggs/nx/Kelloggs_banner_bkg.tga.ckd/5dd648b09299a84535aee1895be35c2f.ckd",
+      "map_bkgImageUrl": "/public/map/Kelloggs/nx/Kelloggs_map_bkg.tga.ckd/e5465d14b49eefb3e88354f2ef87719e.ckd",
+      "expandCoachImageUrl": "/public/map/Kelloggs/nx/Kelloggs_Cover_AlbumCoach.tga.ckd/bf180998d3900804ae874e52967a75d5.ckd",
+      "cover_smallImageUrl": "/public/map/Kelloggs/nx/Kelloggs_Cover_Online.tga.ckd/8c4315dbabfae583a4a8f3b2c8c98ca1.ckd",
+      "coach1ImageUrl": "/public/map/Kelloggs/nx/Kelloggs_Coach_1.tga.ckd/1d00a4d6e76a05aee9233990179b34c3.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Kelloggs/pc/Kelloggs_banner_bkg.tga.ckd/e341fd05e229314b5f161604dd3b6737.ckd",
+      "map_bkgImageUrl": "/public/map/Kelloggs/pc/Kelloggs_map_bkg.tga.ckd/bfe9219a2c104a44269078ecd97f1222.ckd",
+      "expandCoachImageUrl": "/public/map/Kelloggs/pc/Kelloggs_Cover_AlbumCoach.tga.ckd/16be19a9e5560be9cc81fa2417c901e2.ckd",
+      "cover_smallImageUrl": "/public/map/Kelloggs/pc/Kelloggs_Cover_Online.tga.ckd/61324051aae8aa191886f9702ed73d75.ckd",
+      "coach1ImageUrl": "/public/map/Kelloggs/pc/Kelloggs_Coach_1.tga.ckd/f6010d0a1beaf860d6367fb4cbe09e8c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Kelloggs/orbis/Kelloggs_banner_bkg.tga.ckd/e341fd05e229314b5f161604dd3b6737.ckd",
+      "map_bkgImageUrl": "/public/map/Kelloggs/orbis/Kelloggs_map_bkg.tga.ckd/bfe9219a2c104a44269078ecd97f1222.ckd",
+      "expandCoachImageUrl": "/public/map/Kelloggs/orbis/Kelloggs_Cover_AlbumCoach.tga.ckd/16be19a9e5560be9cc81fa2417c901e2.ckd",
+      "cover_smallImageUrl": "/public/map/Kelloggs/orbis/Kelloggs_Cover_Online.tga.ckd/61324051aae8aa191886f9702ed73d75.ckd",
+      "coach1ImageUrl": "/public/map/Kelloggs/orbis/Kelloggs_Coach_1.tga.ckd/f6010d0a1beaf860d6367fb4cbe09e8c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Kelloggs/Kelloggs_Coach_1_Phone.png/3a5312c70803b198083f431c74f04f4c.png",
+    "phoneCoverImageUrl": "/public/map/Kelloggs/Kelloggs_Cover_Phone.jpg/feb247e3a32d4f4210d14d3c2f12633d.jpg",
+    "cover640ImageUrl": "/public/map/Kelloggs/Kelloggs_Cover_640.png/04fd11a5394501ee0c05a234cedb9e29.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/Kelloggs/Kelloggs.ogg": "/private/map/Kelloggs/Kelloggs.ogg/4ecef3f7bf3812a77169e4c2bdaee8e5.ogg",
+    "jmcs://jd-contents/Kelloggs/Kelloggs_AudioPreview.ogg": "/public/map/Kelloggs/Kelloggs_AudioPreview.ogg/7d8e39093ee74ba9adafcc30f5c27fbf.ogg",
+    "jmcs://jd-contents/Kelloggs/Kelloggs_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Kelloggs/Kelloggs_MapPreviewNoSoundCrop_LOW.vp8.webm/b4c7f430efeaa974aa91ada6397f680e.webm",
+    "jmcs://jd-contents/Kelloggs/Kelloggs_HIGH.webm": "/private/map/Kelloggs/Kelloggs_HIGH.webm/d8e7828f688595f290415973ffe863ae.webm",
+    "jmcs://jd-contents/Kelloggs/Kelloggs_LOW.webm": "/private/map/Kelloggs/Kelloggs_LOW.webm/d34af4216b085e366bb10f271fb43108.webm",
+    "jmcs://jd-contents/Kelloggs/Kelloggs_MID.webm": "/private/map/Kelloggs/Kelloggs_MID.webm/471145240cc684966262052d53d8a268.webm",
+    "jmcs://jd-contents/Kelloggs/Kelloggs_ULTRA.hd.webm": "/private/map/Kelloggs/Kelloggs_ULTRA.hd.webm/b110ed8a8ebe4950c0a5178f9ffd0e9d.webm",
+    "jmcs://jd-contents/Kelloggs/Kelloggs_ULTRA.webm": "/private/map/Kelloggs/Kelloggs_ULTRA.webm/f057b10c76d5f70ffd52ec96bef372c2.webm",
+    "jmcs://jd-contents/Kelloggs/Kelloggs_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Kelloggs/Kelloggs_MapPreviewNoSoundCrop_MID.vp8.webm/fb06b9f47189f977c0ba87bc48db005b.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"508670\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Kelloggs/Kelloggs_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\n\t\t\t\t\t<Initialization range=\"0-603\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1490390\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Kelloggs/Kelloggs_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\n\t\t\t\t\t<Initialization range=\"0-604\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 201.474125
+}

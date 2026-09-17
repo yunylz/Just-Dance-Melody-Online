@@ -1,0 +1,99 @@
+{
+    "__class": "JD_CarouselContent",
+    "categories": [
+        {
+            "__class": "Category",
+            "title": "Just Dance Melody Online",
+            "act": "quest_carousel",
+            "isc": "quest_row_unlimited",
+            "items": [
+                {
+                    "__class": "Item",
+                    "isc": "quest_item",
+                    "act": "ui_component_base",
+                    "components": [
+                        {
+                            "__class": "JD_CarouselContentComponent_Quest",
+                            "questId": "1"
+                        }
+                    ],
+                    "actionList": "questUnlocked"
+                },
+                {
+                    "__class": "Item",
+                    "isc": "quest_item",
+                    "act": "ui_component_base",
+                    "components": [
+                        {
+                            "__class": "JD_CarouselContentComponent_Quest",
+                            "questId": "2"
+                        }
+                    ],
+                    "actionList": "questUnlocked"
+                },
+                {
+                    "__class": "Item",
+                    "isc": "quest_item",
+                    "act": "ui_component_base",
+                    "components": [
+                        {
+                            "__class": "JD_CarouselContentComponent_Quest",
+                            "questId": "3"
+                        }
+                    ],
+                    "actionList": "questUnlocked"
+                },
+                {
+                    "__class": "Item",
+                    "isc": "quest_item",
+                    "act": "ui_component_base",
+                    "components": [
+                        {
+                            "__class": "JD_CarouselContentComponent_Quest",
+                            "questId": "4"
+                        }
+                    ],
+                    "actionList": "questUnlocked"
+                },
+                {
+                    "__class": "Item",
+                    "isc": "quest_item",
+                    "act": "ui_component_base",
+                    "components": [
+                        {
+                            "__class": "JD_CarouselContentComponent_Quest",
+                            "questId": "5"
+                        }
+                    ],
+                    "actionList": "questUnlocked"
+                },
+                {
+                    "__class": "Item",
+                    "isc": "quest_item",
+                    "act": "ui_component_base",
+                    "components": [
+                        {
+                            "__class": "JD_CarouselContentComponent_Quest",
+                            "questId": "6"
+                        }
+                    ],
+                    "actionList": "questUnlocked"
+                }
+            ]
+        }
+    ],
+    "actionLists": {
+        "questUnlocked": {
+            "__class": "ActionList",
+            "actions": [
+                {
+                    "__class": "Action",
+                    "title": "Dance",
+                    "type": "start-quest"
+                }
+            ],
+            "itemType": "quest"
+        }
+    },
+    "songItemLists": {}
+}

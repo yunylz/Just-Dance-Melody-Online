@@ -1,0 +1,169 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Numb/Numb.ogg": "/private/map/Numb/Numb.ogg/5bafea21abbb1d6e55f58db3d1255c43.ogg",
+    "jmcs://jd-contents/Numb/Numb_AudioPreview.ogg": "/public/map/Numb/Numb_AudioPreview.ogg/d0a9c45d32ca738f7547c84a28288f7d.ogg",
+    "jmcs://jd-contents/Numb/Numb_HIGH.hd.webm": "/private/map/Numb/Numb_HIGH.hd.webm/cc22686b012e789f12b482107f5d940c.webm",
+    "jmcs://jd-contents/Numb/Numb_LOW.hd.webm": "/private/map/Numb/Numb_LOW.hd.webm/07d9819293296be9fc70a2eb1492bed2.webm",
+    "jmcs://jd-contents/Numb/Numb_MID.hd.webm": "/private/map/Numb/Numb_MID.hd.webm/700e7fc586b054cbc0f2c362bce7d61f.webm",
+    "jmcs://jd-contents/Numb/Numb_ULTRA.hd.webm": "/private/map/Numb/Numb_ULTRA.hd.webm/bdd07e4213714a8f03aa223bf98b5fe4.webm",
+    "jmcs://jd-contents/Numb/Numb_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Numb/Numb_MapPreviewNoSoundCrop_LOW.vp8.webm/9c9b2ad832ceee10ec77125ddd5b8d1d.webm",
+    "jmcs://jd-contents/Numb/Numb_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Numb/Numb_MapPreviewNoSoundCrop_MID.vp8.webm/d95a1a679f6081db1f77e92fbec90814.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26175,
+        52349,
+        78524,
+        104699,
+        130873,
+        157048,
+        183223,
+        209397,
+        235572,
+        261747,
+        287921,
+        314096,
+        340271,
+        366446,
+        392620,
+        418795,
+        444970,
+        471144,
+        497319,
+        523494,
+        549668,
+        575843,
+        602018,
+        628192,
+        654367,
+        680542,
+        706716,
+        732891,
+        759066,
+        785240,
+        811415,
+        837590,
+        863764,
+        889939,
+        916114,
+        942288,
+        968463,
+        994638,
+        1020813,
+        1046987,
+        1073162,
+        1099337,
+        1125511,
+        1151686,
+        1177861,
+        1204035,
+        1230210,
+        1256385,
+        1282559,
+        1308734,
+        1334909,
+        1361083,
+        1387258,
+        1413433,
+        1439607,
+        1465782,
+        1491957
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -2,
+      "endBeat": 345,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Numb/Numb_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"559289\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Numb/Numb_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1819944\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Numb/Numb_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "4d9d18e4cdd180e7ae0f486dd24fddf4",
+      "storageType": 0,
+      "url": "/public/map/Numb/nx/Numb_MAIN_SCENE_NX.zip/4d9d18e4cdd180e7ae0f486dd24fddf4.zip"
+    },
+    "pc": {
+      "md5": "67d9504dd638ad5ad10862d5e9830474",
+      "storageType": 0,
+      "url": "/public/map/Numb/pc/Numb_MAIN_SCENE_PC.zip/67d9504dd638ad5ad10862d5e9830474.zip"
+    },
+    "ps4": {
+      "md5": "1bc63d62325ab2749844a8c25a2c1aff",
+      "storageType": 0,
+      "url": "/public/map/Numb/orbis/Numb_MAIN_SCENE_ORBIS.zip/1bc63d62325ab2749844a8c25a2c1aff.zip"
+    }
+  },
+  "data": {
+    "mapName": "Numb",
+    "title": "Numb",
+    "originalJDVersion": 2023,
+    "tags": [
+      "main"
+    ],
+    "artist": "Linkin Park",
+    "credits": "Written by Chester Bennington, Robert Bourdon, Brad Delson, David Farrell, Joseph Hahn, Mike Shinoda. Published by Universal Music Publishing Group, a division of Universal Music Canada Inc.  Courtesy of  Warner Bros. Records. By arrangement with Warner Music Group Video Games Licensing. (P) 2003 Warner Bros. Records.",
+    "coachCount": 1,
+    "difficulty": 3,
+    "sweatDifficulty": 1,
+    "songColor1A": "#444444",
+    "songColor2A": "#aaaaaa",
+    "songColor1B": "#111111",
+    "songColor2B": "#111111",
+    "lyricsColor": "#fa0a74",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Numb/nx/Numb_banner_bkg.tga.ckd/2b4f699b820b9fee90936b63c5c9d64c.ckd",
+      "map_bkgImageUrl": "/public/map/Numb/nx/Numb_map_bkg.tga.ckd/5b08292c8cff20af1e77176a03a9b7b3.ckd",
+      "expandCoachImageUrl": "/public/map/Numb/nx/Numb_Cover_AlbumCoach.tga.ckd/f4c42db57defcf896684f97f4b538fbd.ckd",
+      "cover_smallImageUrl": "/public/map/Numb/nx/Numb_Cover_Online.tga.ckd/44b229cc8657d7b22c186711d44fe34b.ckd",
+      "coverImageUrl": "/public/map/Numb/nx/Numb_Cover_Generic.tga.ckd/5b30c25c03265b3c154377882fa875e6.ckd",
+      "coach1ImageUrl": "/public/map/Numb/nx/Numb_Coach_1.tga.ckd/d2200be5cb4f44028daba11d19316c2d.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Numb/pc/Numb_banner_bkg.tga.ckd/003f810ce5093a477220c273951cf226.ckd",
+      "map_bkgImageUrl": "/public/map/Numb/pc/Numb_map_bkg.tga.ckd/54200f1469a004d843800c550ee3e0fb.ckd",
+      "expandCoachImageUrl": "/public/map/Numb/pc/Numb_Cover_AlbumCoach.tga.ckd/fa844e5a47ca655c20f198414350f67a.ckd",
+      "cover_smallImageUrl": "/public/map/Numb/pc/Numb_Cover_Online.tga.ckd/f73a3fe5d9a6e8eaaadcedbdb2d155c9.ckd",
+      "coverImageUrl": "/public/map/Numb/pc/Numb_Cover_Generic.tga.ckd/efe894d8e4fe72d9068027296573c404.ckd",
+      "coach1ImageUrl": "/public/map/Numb/pc/Numb_Coach_1.tga.ckd/d1ba52365e52e18bf3c1d9f3aa028993.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Numb/orbis/Numb_banner_bkg.tga.ckd/003f810ce5093a477220c273951cf226.ckd",
+      "map_bkgImageUrl": "/public/map/Numb/orbis/Numb_map_bkg.tga.ckd/54200f1469a004d843800c550ee3e0fb.ckd",
+      "expandCoachImageUrl": "/public/map/Numb/orbis/Numb_Cover_AlbumCoach.tga.ckd/fa844e5a47ca655c20f198414350f67a.ckd",
+      "cover_smallImageUrl": "/public/map/Numb/orbis/Numb_Cover_Online.tga.ckd/f73a3fe5d9a6e8eaaadcedbdb2d155c9.ckd",
+      "coverImageUrl": "/public/map/Numb/orbis/Numb_Cover_Generic.tga.ckd/efe894d8e4fe72d9068027296573c404.ckd",
+      "coach1ImageUrl": "/public/map/Numb/orbis/Numb_Coach_1.tga.ckd/d1ba52365e52e18bf3c1d9f3aa028993.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Numb/Numb_Coach_1_Phone.png/2a0a04a66cfd722a9482ed1a0686fdc1.png",
+    "phoneCoverImageUrl": "/public/map/Numb/Numb_Cover_Phone.jpg/a47b0ac70cce2e6c526ff0488a1f128a.jpg",
+    "cover640ImageUrl": "/public/map/Numb/Numb_Cover_640.png/43e3d766805e34eaf04777c5590eddff.png"
+  },
+  "mapLength": 187.039271
+}

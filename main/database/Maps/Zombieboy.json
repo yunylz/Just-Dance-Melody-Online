@@ -1,0 +1,175 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Zombieboy/Zombieboy.ogg": "/private/map/Zombieboy/Zombieboy.ogg/2bf48e76896037267c80d70d2028dbaa.ogg",
+    "jmcs://jd-contents/Zombieboy/Zombieboy_AudioPreview.ogg": "/public/map/Zombieboy/Zombieboy_AudioPreview.ogg/49259efb6628a7a2672aa760523b4910.ogg",
+    "jmcs://jd-contents/Zombieboy/Zombieboy_HIGH.hd.webm": "/private/map/Zombieboy/Zombieboy_HIGH.hd.webm/5a5f87a341e6ad1430e91bd380686316.webm",
+    "jmcs://jd-contents/Zombieboy/Zombieboy_LOW.hd.webm": "/private/map/Zombieboy/Zombieboy_LOW.hd.webm/cedcf332b362f8a948eadcb7cfaac790.webm",
+    "jmcs://jd-contents/Zombieboy/Zombieboy_MID.hd.webm": "/private/map/Zombieboy/Zombieboy_MID.hd.webm/9894d77adb3207fe232eeaa3bbf4a7cf.webm",
+    "jmcs://jd-contents/Zombieboy/Zombieboy_ULTRA.hd.webm": "/private/map/Zombieboy/Zombieboy_ULTRA.hd.webm/ba7c6051c028bf320135e69b6413f010.webm",
+    "jmcs://jd-contents/Zombieboy/Zombieboy_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Zombieboy/Zombieboy_MapPreviewNoSoundCrop_LOW.vp8.webm/c0d7e6bd772723119726657ab0224150.webm",
+    "jmcs://jd-contents/Zombieboy/Zombieboy_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Zombieboy/Zombieboy_MapPreviewNoSoundCrop_MID.vp8.webm/d51c53f7b7fc687a0ef3af6b279bbc48.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        23607,
+        47213,
+        70820,
+        94426,
+        118033,
+        141639,
+        165246,
+        188852,
+        212459,
+        236066,
+        259672,
+        283279,
+        306885,
+        330492,
+        354098,
+        377705,
+        401311,
+        424918,
+        448525,
+        472131,
+        495738,
+        519344,
+        542951,
+        566557,
+        590164,
+        613770,
+        637377,
+        660984,
+        684590,
+        708197,
+        731803,
+        755410,
+        779016,
+        802623,
+        826230,
+        849836,
+        873443,
+        897049,
+        920656,
+        944262,
+        967869,
+        991475,
+        1015082,
+        1038689,
+        1062295,
+        1085902,
+        1109508,
+        1133115,
+        1156721,
+        1180328,
+        1203934,
+        1227541,
+        1251148,
+        1274754,
+        1298361,
+        1321967,
+        1345574,
+        1369180,
+        1392787,
+        1416393,
+        1440000,
+        1463607,
+        1487213
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -14,
+      "endBeat": 432,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 61,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Zombieboy/Zombieboy_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"585398\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Zombieboy/Zombieboy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2013145\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Zombieboy/Zombieboy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "6b8ab1283969674adbc8f35ea6a41274",
+      "storageType": 0,
+      "url": "/public/map/Zombieboy/nx/Zombieboy_MAIN_SCENE_NX.zip/6b8ab1283969674adbc8f35ea6a41274.zip"
+    },
+    "pc": {
+      "md5": "9cb2ad815fde14f13413b954aebc6dbf",
+      "storageType": 0,
+      "url": "/public/map/Zombieboy/pc/Zombieboy_MAIN_SCENE_PC.zip/9cb2ad815fde14f13413b954aebc6dbf.zip"
+    },
+    "ps4": {
+      "md5": "bbf742ca33a7d21f6a04fd15178f1e68",
+      "storageType": 0,
+      "url": "/public/map/Zombieboy/orbis/Zombieboy_MAIN_SCENE_ORBIS.zip/bbf742ca33a7d21f6a04fd15178f1e68.zip"
+    }
+  },
+  "data": {
+    "mapName": "Zombieboy",
+    "title": "Zombieboy",
+    "originalJDVersion": 2026,
+    "tags": [
+      "main"
+    ],
+    "artist": "Lady Gaga",
+    "credits": "“Zombieboy” Performed by Lady Gaga Written by Andrew Watt, Henry Russell Walter, James Edward II Fauntleroy, Stefani Germanotta Published by SG Songs Worldwide (BMI) / Sony/ATV Songs LLC (BMI) / HV James Fauntleroy Publishing (ASCAP) administered by WC Music Corp. / Andrew Watt Music (BMI) administered by Songs of Kobalt Music Publishing / Universal Music Publishing Canada on behalf of Cirkut Breaker Llc. and Universal Music Corp. Courtesy of Interscope Records under license from Universal Music Canada Inc. All rights reserved. Used with permission.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#dc0aa8",
+    "songColor2A": "#ffa30f",
+    "songColor1B": "#000000",
+    "songColor2B": "#160510",
+    "lyricsColor": "#ff40b1",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Zombieboy/nx/Zombieboy_banner_bkg.tga.ckd/ac2e6eac08417d87627209c18e7a80ce.ckd",
+      "map_bkgImageUrl": "/public/map/Zombieboy/nx/Zombieboy_map_bkg.tga.ckd/288ca7fb88b7f9871d85554e8789cfbc.ckd",
+      "expandCoachImageUrl": "/public/map/Zombieboy/nx/Zombieboy_Cover_AlbumCoach.tga.ckd/3b14ed5345898f10d2dc1e962c0b270d.ckd",
+      "cover_smallImageUrl": "/public/map/Zombieboy/nx/Zombieboy_Cover_Online.tga.ckd/576440e2944c31a9b0b0f4461171e244.ckd",
+      "coverImageUrl": "/public/map/Zombieboy/nx/Zombieboy_Cover_Generic.tga.ckd/63624b1472bbacb95a3ed72310d3d8b5.ckd",
+      "coach1ImageUrl": "/public/map/Zombieboy/nx/Zombieboy_Coach_1.tga.ckd/2f4b925bd26638a80f17c241466d5061.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Zombieboy/pc/Zombieboy_banner_bkg.tga.ckd/e86d6db43abf31201a8581ad14ab4a1b.ckd",
+      "map_bkgImageUrl": "/public/map/Zombieboy/pc/Zombieboy_map_bkg.tga.ckd/53291f9ad6d1a2b176ed67d462144af6.ckd",
+      "expandCoachImageUrl": "/public/map/Zombieboy/pc/Zombieboy_Cover_AlbumCoach.tga.ckd/e49c1b53728cd3ee1fe4cab304555426.ckd",
+      "cover_smallImageUrl": "/public/map/Zombieboy/pc/Zombieboy_Cover_Online.tga.ckd/95510f9d7e655dafac0c8a4cd55ae774.ckd",
+      "coverImageUrl": "/public/map/Zombieboy/pc/Zombieboy_Cover_Generic.tga.ckd/df268a608ddc3274fbbab0ae3908e5c0.ckd",
+      "coach1ImageUrl": "/public/map/Zombieboy/pc/Zombieboy_Coach_1.tga.ckd/aef5ace311a3adfccc2845fec4b0c40c.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Zombieboy/orbis/Zombieboy_banner_bkg.tga.ckd/e86d6db43abf31201a8581ad14ab4a1b.ckd",
+      "map_bkgImageUrl": "/public/map/Zombieboy/orbis/Zombieboy_map_bkg.tga.ckd/53291f9ad6d1a2b176ed67d462144af6.ckd",
+      "expandCoachImageUrl": "/public/map/Zombieboy/orbis/Zombieboy_Cover_AlbumCoach.tga.ckd/e49c1b53728cd3ee1fe4cab304555426.ckd",
+      "cover_smallImageUrl": "/public/map/Zombieboy/orbis/Zombieboy_Cover_Online.tga.ckd/95510f9d7e655dafac0c8a4cd55ae774.ckd",
+      "coverImageUrl": "/public/map/Zombieboy/orbis/Zombieboy_Cover_Generic.tga.ckd/df268a608ddc3274fbbab0ae3908e5c0.ckd",
+      "coach1ImageUrl": "/public/map/Zombieboy/orbis/Zombieboy_Coach_1.tga.ckd/aef5ace311a3adfccc2845fec4b0c40c.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Zombieboy/Zombieboy_Coach_1_Phone.png/2d25028bfb6002085d67cb6943fe4a40.png",
+    "phoneCoverImageUrl": "/public/map/Zombieboy/Zombieboy_Cover_Phone.jpg/3330e8490c0490ec2b3a6e3fd07c76af.jpg",
+    "cover640ImageUrl": "/public/map/Zombieboy/Zombieboy_Cover_640.png/c8a1f2e4141be37cf27a3a6e694e46f6.png"
+  },
+  "mapLength": 219.34425
+}

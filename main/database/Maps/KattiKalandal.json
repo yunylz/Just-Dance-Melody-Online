@@ -1,0 +1,175 @@
+{
+  "packages": {
+    "nx": {
+      "md5": "3f219d911af05284f38382f2bed1ee1b",
+      "storageType": 0,
+      "url": "/public/map/KattiKalandal/nx/KattiKalandal_MAIN_SCENE_NX.zip/3f219d911af05284f38382f2bed1ee1b.zip"
+    },
+    "pc": {
+      "md5": "185a3120b43ffe8eb318f429bc71d6bd",
+      "storageType": 0,
+      "url": "/public/map/KattiKalandal/pc/KattiKalandal_MAIN_SCENE_PC.zip/185a3120b43ffe8eb318f429bc71d6bd.zip"
+    },
+    "ps4": {
+      "md5": "8a3306c5389a4b60d09a3e4c522832dc",
+      "storageType": 0,
+      "url": "/public/map/KattiKalandal/orbis/KattiKalandal_MAIN_SCENE_ORBIS.zip/8a3306c5389a4b60d09a3e4c522832dc.zip"
+    }
+  },
+  "data": {
+    "mapName": "KattiKalandal",
+    "title": "Katti Kalandal",
+    "originalJDVersion": 2,
+    "tags": [
+      "main",
+      "forcerumble",
+      "subscribedsong"
+    ],
+    "artist": "Bollywood",
+    "credits": "Written by Veilumuth Chitralekha (NS) and Tony Tape (GEMA). Published by Sonoton APM (ASCAP) \\/ Sonoton Music GmbH CO KG (GEMA). Courtesy of APM Music. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "coachCount": 2,
+    "difficulty": 2,
+    "sweatDifficulty": 1,
+    "songColor1A": "#6F08D1",
+    "songColor2A": "#FFBE1D",
+    "songColor1B": "#410011",
+    "songColor2B": "#750010",
+    "lyricsColor": "#ED9231",
+    "LocaleID": 4294967295
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        24397,
+        48793,
+        73189,
+        97585,
+        121981,
+        146378,
+        170774,
+        195170,
+        219566,
+        243962,
+        268358,
+        292755,
+        317151,
+        341547,
+        365943,
+        390339,
+        414736,
+        439132,
+        463528,
+        487924,
+        512320,
+        536717,
+        561113,
+        585509,
+        609905,
+        634301,
+        658698,
+        683094,
+        707490,
+        731886,
+        756282,
+        780678,
+        805075,
+        829471,
+        853867,
+        878263,
+        902659,
+        927056,
+        951452,
+        975848,
+        1000244,
+        1024640,
+        1049037,
+        1073433,
+        1097829,
+        1122225,
+        1146621,
+        1171018,
+        1195414,
+        1219810,
+        1244206,
+        1268602,
+        1292998,
+        1317395,
+        1341791,
+        1366187,
+        1390583,
+        1414979,
+        1439376
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": 0,
+      "endBeat": 407,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 59,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/kattikalandal/kattikalandal_AudioPreview.ogg"
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/KattiKalandal/nx/KattiKalandal_banner_bkg.tga.ckd/6010b4deaab5cdd9e857bb2d1301a977.ckd",
+      "map_bkgImageUrl": "/public/map/KattiKalandal/nx/KattiKalandal_map_bkg.tga.ckd/c6b365411fc473daa10bca8e7102fd9f.ckd",
+      "expandCoachImageUrl": "/public/map/KattiKalandal/nx/KattiKalandal_Cover_AlbumCoach.tga.ckd/2ebb19d3a80245cc1ac5163730a0bc9e.ckd",
+      "cover_smallImageUrl": "/public/map/KattiKalandal/nx/KattiKalandal_Cover_Online.tga.ckd/48bad19f6a783366751fda3a7aa66253.ckd",
+      "coach1ImageUrl": "/public/map/KattiKalandal/nx/KattiKalandal_Coach_1.tga.ckd/c865eb0c2995d3235c312915874666ea.ckd",
+      "coach2ImageUrl": "/public/map/KattiKalandal/nx/KattiKalandal_Coach_2.tga.ckd/0a6e705ec328c88a1984b0982a8be352.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/KattiKalandal/pc/KattiKalandal_banner_bkg.tga.ckd/86c844591621210b103cf3789a4f3bcc.ckd",
+      "map_bkgImageUrl": "/public/map/KattiKalandal/pc/KattiKalandal_map_bkg.tga.ckd/f1845e94ccf8e81149f3c40a78b08ebb.ckd",
+      "expandCoachImageUrl": "/public/map/KattiKalandal/pc/KattiKalandal_Cover_AlbumCoach.tga.ckd/97b8cd67f45545054b3245166f3f4526.ckd",
+      "cover_smallImageUrl": "/public/map/KattiKalandal/pc/KattiKalandal_Cover_Online.tga.ckd/400fa1921a8ec9ea0e2f11d2b6ceafb1.ckd",
+      "coach1ImageUrl": "/public/map/KattiKalandal/pc/KattiKalandal_Coach_1.tga.ckd/b31682bfe1e00b3fdb36ef3a448e78a5.ckd",
+      "coach2ImageUrl": "/public/map/KattiKalandal/pc/KattiKalandal_Coach_2.tga.ckd/4242453d9c258674df56ade109116937.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/KattiKalandal/orbis/KattiKalandal_banner_bkg.tga.ckd/86c844591621210b103cf3789a4f3bcc.ckd",
+      "map_bkgImageUrl": "/public/map/KattiKalandal/orbis/KattiKalandal_map_bkg.tga.ckd/f1845e94ccf8e81149f3c40a78b08ebb.ckd",
+      "expandCoachImageUrl": "/public/map/KattiKalandal/orbis/KattiKalandal_Cover_AlbumCoach.tga.ckd/97b8cd67f45545054b3245166f3f4526.ckd",
+      "cover_smallImageUrl": "/public/map/KattiKalandal/orbis/KattiKalandal_Cover_Online.tga.ckd/400fa1921a8ec9ea0e2f11d2b6ceafb1.ckd",
+      "coach1ImageUrl": "/public/map/KattiKalandal/orbis/KattiKalandal_Coach_1.tga.ckd/b31682bfe1e00b3fdb36ef3a448e78a5.ckd",
+      "coach2ImageUrl": "/public/map/KattiKalandal/orbis/KattiKalandal_Coach_2.tga.ckd/4242453d9c258674df56ade109116937.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/KattiKalandal/KattiKalandal_Coach_1_Phone.png/c566417b2e46abb4b726046214c441fb.png",
+    "phoneCoach2ImageUrl": "/public/map/KattiKalandal/KattiKalandal_Coach_2_Phone.png/1a9d26eac8bb200325260dfe5d006ae8.png",
+    "phoneCoverImageUrl": "/public/map/KattiKalandal/KattiKalandal_Cover_Phone.jpg/5713e9700f16afd19919223b5e481153.jpg",
+    "cover640ImageUrl": "/public/map/KattiKalandal/KattiKalandal_Cover_640.png/782035d8d12667692f511fb726814860.png"
+  },
+  "urls": {
+    "jmcs://jd-contents/KattiKalandal/KattiKalandal.ogg": "/private/map/KattiKalandal/KattiKalandal.ogg/74bf7508df0ba67b276ab94c062a9e31.ogg",
+    "jmcs://jd-contents/KattiKalandal/KattiKalandal_AudioPreview.ogg": "/public/map/KattiKalandal/KattiKalandal_AudioPreview.ogg/f1bb23275d4630b507b0276502420935.ogg",
+    "jmcs://jd-contents/KattiKalandal/KattiKalandal_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/KattiKalandal/KattiKalandal_MapPreviewNoSoundCrop_LOW.vp8.webm/2fa9cb63909a4871cd343f77196b671d.webm",
+    "jmcs://jd-contents/KattiKalandal/KattiKalandal_HIGH.webm": "/private/map/KattiKalandal/KattiKalandal_HIGH.webm/67591ae3d7ef7a4ed8ae79bb1e9ee03f.webm",
+    "jmcs://jd-contents/KattiKalandal/KattiKalandal_LOW.webm": "/private/map/KattiKalandal/KattiKalandal_LOW.webm/ea6cb5551af6fd2850bb00e6a0d14563.webm",
+    "jmcs://jd-contents/KattiKalandal/KattiKalandal_MID.webm": "/private/map/KattiKalandal/KattiKalandal_MID.webm/8934b0b129ea9c872b7e0d7d18aa9689.webm",
+    "jmcs://jd-contents/KattiKalandal/KattiKalandal_ULTRA.hd.webm": "/private/map/KattiKalandal/KattiKalandal_ULTRA.hd.webm/80d4f3ca6add281093086628b41852e7.webm",
+    "jmcs://jd-contents/KattiKalandal/KattiKalandal_ULTRA.webm": "/private/map/KattiKalandal/KattiKalandal_ULTRA.webm/0e28ca12b6d4c563cedc3ce10ea9942a.webm",
+    "jmcs://jd-contents/KattiKalandal/KattiKalandal_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/KattiKalandal/KattiKalandal_MapPreviewNoSoundCrop_MID.vp8.webm/58a3c95cd73596927710aa6fed4a2de4.webm"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"496414\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KattiKalandal/KattiKalandal_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\n\t\t\t\t\t<Initialization range=\"0-642\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"1466310\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/KattiKalandal/KattiKalandal_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\n\t\t\t\t\t<Initialization range=\"0-643\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "mapLength": 207.134479
+}

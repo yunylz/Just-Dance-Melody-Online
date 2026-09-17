@@ -1,0 +1,181 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Butter/Butter.ogg": "/private/map/Butter/Butter.ogg/ae323cc00f5e67e327940fc20da67357.ogg",
+    "jmcs://jd-contents/Butter/Butter_AudioPreview.ogg": "/public/map/Butter/Butter_AudioPreview.ogg/e9fff993be46fd87d91f0759e115b3b6.ogg",
+    "jmcs://jd-contents/Butter/Butter_HIGH.hd.webm": "/private/map/Butter/Butter_HIGH.hd.webm/f5a5f83bffe37b1fc67a990d44cb63fd.webm",
+    "jmcs://jd-contents/Butter/Butter_LOW.hd.webm": "/private/map/Butter/Butter_LOW.hd.webm/94cb72555a5d2d87c42cafd04d24294d.webm",
+    "jmcs://jd-contents/Butter/Butter_MID.hd.webm": "/private/map/Butter/Butter_MID.hd.webm/b30875c1aabf4ff8cf437c87ffaaf5c1.webm",
+    "jmcs://jd-contents/Butter/Butter_ULTRA.hd.webm": "/private/map/Butter/Butter_ULTRA.hd.webm/94d5cefe83743022658f5bf149851458.webm",
+    "jmcs://jd-contents/Butter/Butter_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Butter/Butter_MapPreviewNoSoundCrop_LOW.vp8.webm/5d802f1fb949643dbb82d90ca149dc60.webm",
+    "jmcs://jd-contents/Butter/Butter_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Butter/Butter_MapPreviewNoSoundCrop_MID.vp8.webm/1a2b400ee8466ecf3d2ff07b40550cd1.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        26182,
+        52364,
+        78545,
+        104727,
+        130909,
+        157091,
+        183273,
+        209455,
+        235636,
+        261818,
+        288000,
+        314182,
+        340364,
+        366545,
+        392727,
+        418909,
+        445091,
+        471273,
+        497455,
+        523636,
+        549818,
+        576000,
+        602182,
+        628364,
+        654545,
+        680727,
+        706909,
+        733091,
+        759273,
+        785455,
+        811636,
+        837818,
+        864000,
+        890182,
+        916364,
+        942545,
+        968727,
+        994909,
+        1021091,
+        1047273,
+        1073455,
+        1099636,
+        1125818,
+        1152000,
+        1178182,
+        1204364,
+        1230545,
+        1256727,
+        1282909,
+        1309091,
+        1335273,
+        1361455,
+        1387636,
+        1413818,
+        1440000,
+        1466182,
+        1492364
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -8,
+      "endBeat": 305,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 55,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Butter/Butter_AudioPreview.ogg"
+  },
+  "mapPreviewMpd": "<?xml version=\"1.0\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n\t\t\t<Representation id=\"0\" bandwidth=\"607558\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Butter/Butter_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t\t<Representation id=\"1\" bandwidth=\"2004649\">\n\t\t\t\t<BaseURL>jmcs://jd-contents/Butter/Butter_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\n\t\t\t\t<SegmentBase indexRange=\"551-1041\">\n\t\t\t\t\t<Initialization range=\"0-551\" />\n\t\t\t\t</SegmentBase>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n",
+  "packages": {
+    "nx": {
+      "md5": "1f3fc18b140af1f644967aa92c79a89b",
+      "storageType": 0,
+      "url": "/public/map/Butter/nx/Butter_MAIN_SCENE_NX.zip/1f3fc18b140af1f644967aa92c79a89b.zip"
+    },
+    "pc": {
+      "md5": "df274d27eb54ee37bb350bc970ece1f2",
+      "storageType": 0,
+      "url": "/public/map/Butter/pc/Butter_MAIN_SCENE_PC.zip/df274d27eb54ee37bb350bc970ece1f2.zip"
+    },
+    "ps4": {
+      "md5": "8778bd089ae144e2b91ac3784de2aed7",
+      "storageType": 0,
+      "url": "/public/map/Butter/orbis/Butter_MAIN_SCENE_ORBIS.zip/8778bd089ae144e2b91ac3784de2aed7.zip"
+    }
+  },
+  "data": {
+    "mapName": "Butter",
+    "title": "Butter",
+    "originalJDVersion": 2024,
+    "tags": [
+      "main"
+    ],
+    "artist": "BTS",
+    "credits": "Written by Jenna Andrews, Alexander Bilowitz, Sebastian Garcia, Robert Grimaldi, Namjun Kim, Stephen Kirk, Ron Perry. Published by 27Musicpub, Pomander Alexander, Sony/ATV Tunes LLC, Master Suite, Songs Of TwentySeven Music, Sony/ATV Ballad, Hybe Co. Ltd., Sony/ATV Songs LLC / Sixteen Sound Music, Leaha Music pub designee and WC Music Corp. All rights on behalf of itself and Leaha Music pub designee administered by WC Music Corp. All rights on behalf of Sixteen Sound Music administered by Warner-Tamerlane Publishing Corp. / Reservoir Media Music obo Feelwritemusic / Singing River Entertainment, admin by Songs of Kobalt Music Publishing. Courtesy of BIGHIT MUSIC by arrangement with Ingrooves Music Group.",
+    "coachCount": 4,
+    "difficulty": 4,
+    "sweatDifficulty": 1,
+    "songColor1A": "#9cd8fc",
+    "songColor2A": "#f8bac5",
+    "songColor1B": "#0a47a2",
+    "songColor2B": "#87061c",
+    "lyricsColor": "#69d8ff",
+    "LocaleID": 12624
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Butter/nx/Butter_banner_bkg.tga.ckd/a733c12321440228de76d0b571d09583.ckd",
+      "map_bkgImageUrl": "/public/map/Butter/nx/Butter_map_bkg.tga.ckd/55114c25ff342b288ba2c26699d0da2a.ckd",
+      "expandCoachImageUrl": "/public/map/Butter/nx/Butter_Cover_AlbumCoach.tga.ckd/80180fceeed423145388d7033c7c5527.ckd",
+      "cover_smallImageUrl": "/public/map/Butter/nx/Butter_Cover_Online.tga.ckd/4a24c70b03ada4e8bd4ad665bd0c550b.ckd",
+      "coverImageUrl": "/public/map/Butter/nx/Butter_Cover_Generic.tga.ckd/7ba741b64147322db2326c6ede19f4cb.ckd",
+      "coach1ImageUrl": "/public/map/Butter/nx/Butter_Coach_1.tga.ckd/3883a4e926f526afe98fc3d76e1babb6.ckd",
+      "coach2ImageUrl": "/public/map/Butter/nx/Butter_Coach_2.tga.ckd/98f6f11394444a932388dd1715532615.ckd",
+      "coach3ImageUrl": "/public/map/Butter/nx/Butter_Coach_3.tga.ckd/a51571088627fb493f9a0d61dfa335e3.ckd",
+      "coach4ImageUrl": "/public/map/Butter/nx/Butter_Coach_4.tga.ckd/d7cc8728fea0ef0feea09e2db08ddf0e.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Butter/pc/Butter_banner_bkg.tga.ckd/7f2092ef16e4eb7e75af92c0b0f92a2d.ckd",
+      "map_bkgImageUrl": "/public/map/Butter/pc/Butter_map_bkg.tga.ckd/c9b38814dbb79067ff303591fb49d9c0.ckd",
+      "expandCoachImageUrl": "/public/map/Butter/pc/Butter_Cover_AlbumCoach.tga.ckd/4342f94d620ac554acff0adac40c1611.ckd",
+      "cover_smallImageUrl": "/public/map/Butter/pc/Butter_Cover_Online.tga.ckd/649cb713f2b88b4811af732db926014a.ckd",
+      "coverImageUrl": "/public/map/Butter/pc/Butter_Cover_Generic.tga.ckd/373d3c3ab848e2ca8f618472a1010cfe.ckd",
+      "coach1ImageUrl": "/public/map/Butter/pc/Butter_Coach_1.tga.ckd/8cfd6b4813558e6928101dd67692306e.ckd",
+      "coach2ImageUrl": "/public/map/Butter/pc/Butter_Coach_2.tga.ckd/b8b3dfc070f4d5ff2d51d70f92ef2648.ckd",
+      "coach3ImageUrl": "/public/map/Butter/pc/Butter_Coach_3.tga.ckd/1b0edb533cf5def46a355a37a0ef7bf0.ckd",
+      "coach4ImageUrl": "/public/map/Butter/pc/Butter_Coach_4.tga.ckd/9d24a3571c0de74e78bb7091228ef2be.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Butter/orbis/Butter_banner_bkg.tga.ckd/7f2092ef16e4eb7e75af92c0b0f92a2d.ckd",
+      "map_bkgImageUrl": "/public/map/Butter/orbis/Butter_map_bkg.tga.ckd/c9b38814dbb79067ff303591fb49d9c0.ckd",
+      "expandCoachImageUrl": "/public/map/Butter/orbis/Butter_Cover_AlbumCoach.tga.ckd/4342f94d620ac554acff0adac40c1611.ckd",
+      "cover_smallImageUrl": "/public/map/Butter/orbis/Butter_Cover_Online.tga.ckd/649cb713f2b88b4811af732db926014a.ckd",
+      "coverImageUrl": "/public/map/Butter/orbis/Butter_Cover_Generic.tga.ckd/373d3c3ab848e2ca8f618472a1010cfe.ckd",
+      "coach1ImageUrl": "/public/map/Butter/orbis/Butter_Coach_1.tga.ckd/8cfd6b4813558e6928101dd67692306e.ckd",
+      "coach2ImageUrl": "/public/map/Butter/orbis/Butter_Coach_2.tga.ckd/b8b3dfc070f4d5ff2d51d70f92ef2648.ckd",
+      "coach3ImageUrl": "/public/map/Butter/orbis/Butter_Coach_3.tga.ckd/1b0edb533cf5def46a355a37a0ef7bf0.ckd",
+      "coach4ImageUrl": "/public/map/Butter/orbis/Butter_Coach_4.tga.ckd/9d24a3571c0de74e78bb7091228ef2be.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Butter/Butter_Coach_1_Phone.png/c730c0af17f6e1e466caf9a6de663b68.png",
+    "phoneCoach2ImageUrl": "/public/map/Butter/Butter_Coach_2_Phone.png/83a67c611af3f355cf8eeb0d86d994ae.png",
+    "phoneCoach3ImageUrl": "/public/map/Butter/Butter_Coach_3_Phone.png/6771e8b03d50144e8f675bb5c10cb765.png",
+    "phoneCoach4ImageUrl": "/public/map/Butter/Butter_Coach_4_Phone.png/39ed97e25856700e99c95e6640c88f32.png",
+    "phoneCoverImageUrl": "/public/map/Butter/Butter_Cover_Phone.jpg/c2bc90108183f9e9fe18c252b01c12b8.jpg",
+    "cover640ImageUrl": "/public/map/Butter/Butter_Cover_640.png/e68897e3b3c3fee4779a9bebebee3c54.png"
+  },
+  "mapLength": 169.668688
+}

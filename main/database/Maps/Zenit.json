@@ -1,0 +1,148 @@
+{
+  "urls": {
+    "jmcs://jd-contents/Zenit/Zenit.ogg": "/private/map/Zenit/Zenit.ogg/58ee8eb216998ce349a5bcefcf5ed265.ogg",
+    "jmcs://jd-contents/Zenit/Zenit_AudioPreview.ogg": "/public/map/Zenit/Zenit_AudioPreview.ogg/3a074048dac2b3dc57fce7961a161673.ogg",
+    "jmcs://jd-contents/Zenit/Zenit_HIGH.hd.webm": "/private/map/Zenit/Zenit_HIGH.hd.webm/051ee774a549198b4687da908b02edaf.webm",
+    "jmcs://jd-contents/Zenit/Zenit_LOW.hd.webm": "/private/map/Zenit/Zenit_LOW.hd.webm/b517e0a1bf8dadb691b52638013fc89b.webm",
+    "jmcs://jd-contents/Zenit/Zenit_MID.hd.webm": "/private/map/Zenit/Zenit_MID.hd.webm/bea24134f5d090897c83822e324c62f9.webm",
+    "jmcs://jd-contents/Zenit/Zenit_ULTRA.hd.webm": "/private/map/Zenit/Zenit_ULTRA.hd.webm/bac3a0ddf773232a5288e1a6481faccf.webm",
+    "jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_LOW.vp8.webm": "/public/map/Zenit/Zenit_MapPreviewNoSoundCrop_LOW.vp8.webm/8aab070e245b10f233e1e495dc5948c9.webm",
+    "jmcs://jd-contents/Zenit/Zenit_MapPreviewNoSoundCrop_MID.vp8.webm": "/public/map/Zenit/Zenit_MapPreviewNoSoundCrop_MID.vp8.webm/64b8df3db717cbecbbd8bb7f72557a07.webm"
+  },
+  "audioPreviewData": {
+    "__class": "MusicTrackData",
+    "structure": {
+      "__class": "MusicTrackStructure",
+      "markers": [
+        0,
+        41143,
+        82286,
+        123429,
+        164571,
+        205714,
+        246857,
+        288000,
+        329143,
+        370286,
+        411429,
+        452571,
+        493714,
+        534857,
+        576000,
+        617143,
+        658286,
+        699429,
+        740571,
+        781714,
+        822857,
+        864000,
+        905143,
+        946286,
+        987429,
+        1028571,
+        1069714,
+        1110857,
+        1152000,
+        1193143,
+        1234286,
+        1275429,
+        1316571,
+        1357714,
+        1398857,
+        1440000,
+        1481143,
+        1522286
+      ],
+      "signatures": [
+        {
+          "__class": "MusicSignature",
+          "marker": 0,
+          "beats": 4
+        }
+      ],
+      "startBeat": -7,
+      "endBeat": 267,
+      "fadeStartBeat": 0,
+      "useFadeStartBeat": false,
+      "fadeEndBeat": 0,
+      "useFadeEndBeat": false,
+      "videoStartTime": 0,
+      "previewEntry": 0,
+      "previewLoopStart": 0,
+      "previewLoopEnd": 35,
+      "volume": 0,
+      "fadeInDuration": 0,
+      "fadeInType": 0,
+      "fadeOutDuration": 0,
+      "fadeOutType": 0
+    },
+    "path": "",
+    "url": "jmcs://jd-contents/Zenit/Zenit_AudioPreview.ogg"
+  },
+  "packages": {
+    "nx": {
+      "md5": "4f45432bf60ad4511a3df4260ede97d2",
+      "storageType": 0,
+      "url": "/public/map/Zenit/nx/Zenit_MAIN_SCENE_NX.zip/4f45432bf60ad4511a3df4260ede97d2.zip"
+    },
+    "pc": {
+      "md5": "c4d901b6cae9c799bf64386669077d2a",
+      "storageType": 0,
+      "url": "/public/map/Zenit/pc/Zenit_MAIN_SCENE_PC.zip/c4d901b6cae9c799bf64386669077d2a.zip"
+    },
+    "ps4": {
+      "md5": "316e4da3c67239e1486b8ee2e61cb786",
+      "storageType": 0,
+      "url": "/public/map/Zenit/orbis/Zenit_MAIN_SCENE_ORBIS.zip/316e4da3c67239e1486b8ee2e61cb786.zip"
+    }
+  },
+  "data": {
+    "mapName": "Zenit",
+    "title": "Zenit",
+    "originalJDVersion": 2021,
+    "tags": [
+      "main"
+    ],
+    "artist": "ONUKA",
+    "credits": "Written by Yevgen Filatov and Nataliia Zhyzhchenko. Published by VIDLIK, 2019 Courtesy of VIDLIK.",
+    "coachCount": 1,
+    "difficulty": 1,
+    "sweatDifficulty": 1,
+    "songColor1A": "#56ffc9",
+    "songColor2A": "#f9ffbb",
+    "songColor1B": "#00c7d9",
+    "songColor2B": "#e64564",
+    "lyricsColor": "#05b3ff",
+    "LocaleID": 4294967295
+  },
+  "assets": {
+    "nx": {
+      "banner_bkgImageUrl": "/public/map/Zenit/nx/Zenit_banner_bkg.tga.ckd/a0631670c6008cbabd78b553eac28b8e.ckd",
+      "map_bkgImageUrl": "/public/map/Zenit/nx/Zenit_map_bkg.tga.ckd/7d21db9a0b7493d7c1072928ae52381e.ckd",
+      "expandCoachImageUrl": "/public/map/Zenit/nx/Zenit_Cover_AlbumCoach.tga.ckd/76bde27b630c54ad49c293d6e2998c79.ckd",
+      "cover_smallImageUrl": "/public/map/Zenit/nx/Zenit_Cover_Online.tga.ckd/0a7542a748a95a4e0794b5578128c17f.ckd",
+      "coverImageUrl": "/public/map/Zenit/nx/Zenit_Cover_Generic.tga.ckd/ba5557a43826c095ea4c5625651f009d.ckd",
+      "coach1ImageUrl": "/public/map/Zenit/nx/Zenit_Coach_1.tga.ckd/3612075f8242f04c6412b5934cdfeb09.ckd"
+    },
+    "pc": {
+      "banner_bkgImageUrl": "/public/map/Zenit/pc/Zenit_banner_bkg.tga.ckd/a4ad4fda20f945250da61eecdf76b4d3.ckd",
+      "map_bkgImageUrl": "/public/map/Zenit/pc/Zenit_map_bkg.tga.ckd/e2847c86ec2887181df2def1bd48a500.ckd",
+      "expandCoachImageUrl": "/public/map/Zenit/pc/Zenit_Cover_AlbumCoach.tga.ckd/63d6153504fd927370d530ac530f91f1.ckd",
+      "cover_smallImageUrl": "/public/map/Zenit/pc/Zenit_Cover_Online.tga.ckd/1558ac89b4589d51e02772618ef73365.ckd",
+      "coverImageUrl": "/public/map/Zenit/pc/Zenit_Cover_Generic.tga.ckd/df596deff147862031b01cc0464ba1e9.ckd",
+      "coach1ImageUrl": "/public/map/Zenit/pc/Zenit_Coach_1.tga.ckd/cf176e447495d11994ecb76170826fa1.ckd"
+    },
+    "ps4": {
+      "banner_bkgImageUrl": "/public/map/Zenit/orbis/Zenit_banner_bkg.tga.ckd/a4ad4fda20f945250da61eecdf76b4d3.ckd",
+      "map_bkgImageUrl": "/public/map/Zenit/orbis/Zenit_map_bkg.tga.ckd/e2847c86ec2887181df2def1bd48a500.ckd",
+      "expandCoachImageUrl": "/public/map/Zenit/orbis/Zenit_Cover_AlbumCoach.tga.ckd/63d6153504fd927370d530ac530f91f1.ckd",
+      "cover_smallImageUrl": "/public/map/Zenit/orbis/Zenit_Cover_Online.tga.ckd/1558ac89b4589d51e02772618ef73365.ckd",
+      "coverImageUrl": "/public/map/Zenit/orbis/Zenit_Cover_Generic.tga.ckd/df596deff147862031b01cc0464ba1e9.ckd",
+      "coach1ImageUrl": "/public/map/Zenit/orbis/Zenit_Coach_1.tga.ckd/cf176e447495d11994ecb76170826fa1.ckd"
+    },
+    "phoneCoach1ImageUrl": "/public/map/Zenit/Zenit_Coach_1_Phone.png/63b70c0bfdd69ddca2a34478754b1828.png",
+    "phoneCoverImageUrl": "/public/map/Zenit/Zenit_Cover_Phone.jpg/3409e96289b7ac03d93111a0fff7a59c.jpg",
+    "cover640ImageUrl": "/public/map/Zenit/Zenit_Cover_640.png/ed03d282ba381cdeb5ed5333634a3439.png"
+  },
+  "mapLength": 235.714167
+}

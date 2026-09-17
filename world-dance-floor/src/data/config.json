@@ -1,0 +1,324 @@
+{
+    "config": {
+        "bannedMaps": [
+            "MJEarthSong",
+            "ThriftShop",
+            "NoMountain",
+            "NoMountainMU",
+            "EnMiMundo",
+            "TelAviv",
+            "BassaSababa",
+            "TOY",
+            "AdventurerKids",
+            "BadAssPrincessKids",
+            "BalletKids",
+            "BandmasterKids",
+            "BirthdayKids",
+            "BubblesKids",
+            "CarpetKids",
+            "ChasmonauteKids",
+            "ChefKids",
+            "EcoloKids",
+            "FearlessPirateKids",
+            "FiremenKids",
+            "FootlooseKids",
+            "FreezeKids",
+            "FunkyRobotKids",
+            "GhostKids",
+            "HappyFarmKids",
+            "JurassicKids",
+            "MagicHalloweenKids",
+            "MedievalKids",
+            "MerryChristmasKids",
+            "MissAmazingKids",
+            "MonstersAcademyKids",
+            "NinjaKids",
+            "PixieLandKids",
+            "SaintPatrickKids",
+            "SchoolyardKids",
+            "SpaceGirlKids",
+            "SpyKids",
+            "TheExplorerKids",
+            "WakaWakaKids",
+            "WizardKids",
+            "Bremen",
+            "WhatYouWaitJD3"
+        ],
+        "defaultDurations": {
+            "WDF_STALE_SCREEN_TOLERANCE": 10,
+            "WDF_SCREENS_HISTORY_DURATION": 604800,
+            "WDF_LEADERBOARD_SEASON_DURATION": 1209600000,
+            "WDF_NOTIFICATION_COMPUTE_DURATION": 40,
+            "WDF_NOTIFICATION_SHOW_DURATION": 10,
+            "WDF_NOTIFICATIONS_RESET_TIMEDIFF": 10,
+            "WDF_DELAY_TOLERANCE_LIMIT": 10
+        },
+        "screenDurations": {
+            "boss-intro": {
+                "duration": 15
+            },
+            "boss-lobby": {
+                "duration": 15
+            },
+            "boss-recap": {
+                "duration": 20
+            },
+            "map-lobby": {
+                "duration": 15
+            },
+            "map-recap": {
+                "duration": 35
+            },
+            "reward-recap": {
+                "duration": 20
+            },
+            "vote": {
+                "waitBeforeVoteCompute": 8,
+                "voteDuration": 15
+            },
+            "vote-lobby": {
+                "duration": 15
+            },
+            "vote-recap": {
+                "duration": 20
+            },
+            "spotlight-intro": {
+                "duration": 15
+            },
+            "spotlight-lobby": {
+                "duration": 15
+            },
+            "spotlight-recap": {
+                "duration": 20
+            },
+            "teambattle-intro": {
+                "duration": 15
+            },
+            "teambattle-lobby": {
+                "duration": 15
+            },
+            "teambattle-recap": {
+                "duration": 35
+            },
+            "tournament-presentation": {
+                "duration": 15
+            },
+            "tournament-lobby": {
+                "duration": 15
+            },
+            "tournament-recap": {
+                "duration": 45
+            },
+            "in-game": {
+                "duration": 30
+            },
+            "waiting-screen": {
+                "duration": 20
+            },
+            "side-selection": {
+                "duration": 20
+            },
+            "sidevsside-recap": {
+                "duration": 20
+            },
+            "sidevsside-lobby": {
+                "duration": 15
+            }
+        },
+        "WDF_RECAP_ADJACENT_PLAYER_COUNT": 5,
+        "WDF_RECAP_TOP_PLAYERS_COUNT": 3,
+        "WDF_RECAP_BOTTOM_PLAYERS_COUNT": 4
+    },
+    "themeConfigs": {
+        "defaultConfigExample": {
+            "type": "THEME_NAME",
+            "active": false
+        },
+        "map": {
+            "type": "map"
+        },
+        "vote": {
+            "type": "vote"
+        },
+        "teambattle": {
+            "type": "teambattle"
+        },
+        "tournament": {
+            "type": "tournament"
+        },
+        "boss": {
+            "type": "boss"
+        }
+    },
+    "playlists": {
+        "default": {
+            "type": "default",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/classicTournament/c168b5501ed5c59ce6f79fd74be7b143.png",
+            "mapFilters": {},
+            "probability": 70
+        },
+        "jd2016": {
+            "type": "jd2016",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/SagaTournament/95be12161b4e819a8ed4528feebe542a.png",
+            "mapFilters": {
+                "jdVersion": [
+                    2016
+                ]
+            },
+            "probability": 1
+        },
+        "jd2018": {
+            "type": "jd2018",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/SagaTournament/351a403ab155d456ae4aec21e0ba65a3.png",
+            "mapFilters": {
+                "jdVersion": [
+                    2018
+                ]
+            },
+            "probability": 1
+        },
+        "jd2019": {
+            "type": "jd2019",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/SagaTournament/8b17610deb8d9b451bac8e7445633c79.png",
+            "mapFilters": {
+                "jdVersion": [
+                    2019
+                ]
+            },
+            "probability": 1
+        },
+        "jd2020": {
+            "type": "jd2020",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/SagaTournament/3a9330aa2b1a5b2a724e9aba9c089500.png",
+            "mapFilters": {
+                "jdVersion": [
+                    2020
+                ]
+            },
+            "probability": 1
+        },
+        "jd2021": {
+            "type": "jd2021",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/SagaTournament/d5ef801a74a60821fab3849ec2356bd2.png",
+            "mapFilters": {
+                "jdVersion": [
+                    2021
+                ]
+            },
+            "probability": 1
+        },
+        "jd2022": {
+            "type": "jd2022",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/SagaTournament/4f755b8735684dcbd41d21941881916f.png",
+            "mapFilters": {
+                "jdVersion": [
+                    2022
+                ]
+            },
+            "probability": 1
+        },
+        "jd2026": {
+            "type": "jd2026",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/SagaTournament/43d408a97d9b605bc450131b38cdb04b.png",
+            "mapFilters": {
+                "jdVersion": [
+                    2026
+                ]
+            },
+            "probability": 1
+        },
+        "extreme": {
+            "type": "extreme",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/extremeTournament/1b5f7020614ad6a68b4579b22b947961.png",
+            "mapFilters": {
+                "difficulty": [
+                    4
+                ]
+            },
+            "probability": 0
+        },
+        "weekly": {
+            "type": "weekly",
+            "tournamentLength": 8,
+            "oglogoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/weeklyTournament/64952c09716efbb61537bf2f5f717c4c.png",
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/weeklyTournament/64952c09716efbb61537bf2f5f717c4c.png",
+            "mapFilters": {
+                "jdVersion": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    2014
+                ]
+            },
+            "probability": 0
+        },
+        "ariana": {
+            "type": "ariana",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/classicTournament/194c3377c5b06b4d8c5b738d87e5528a.png",
+            "mapFilters": {
+                "artist": [
+                    "Ariana Grande"
+                ]
+            },
+            "probability": 0
+        },
+        "legacy": {
+            "type": "legacy",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/classicTournament/c168b5501ed5c59ce6f79fd74be7b143.png",
+            "mapFilters": {
+                "jdVersion": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    2014
+                ]
+            },
+            "probability": 20
+        },
+        "jdasia": {
+            "type": "jdasia",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/classicTournament/194c3377c5b06b4d8c5b738d87e5528a.png",
+            "mapFilters": {
+                "jdVersion": [
+                    1104,
+                    1103,
+                    1102,
+                    1101,
+                    1100,
+                    1003,
+                    1001,
+                    1000,
+                    3001
+                ]
+            },
+            "probability": 1
+        },
+        "jdnext": {
+            "type": "jdnext",
+            "tournamentLength": 3,
+            "logoUrl": "https://jdmo-cdn.c0llydoll.com/public/wdf/tournament/classicTournament/194c3377c5b06b4d8c5b738d87e5528a.png",
+            "mapFilters": {
+                "jdVersion": [
+                    2023,
+                    2024,
+                    2025
+                ]
+            },
+            "probability": 1
+        }
+    }
+}
